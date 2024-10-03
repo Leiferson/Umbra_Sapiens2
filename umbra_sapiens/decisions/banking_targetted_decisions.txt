@@ -40,11 +40,11 @@ targetted_decisions = {
 					}
 			modifier = {
 			factor = 2
-			realm_stewardship<15
+			realm_stewardship < 15
 					}
 			modifier = {
 			factor = 1.5
-			realm_stewardship<10
+			realm_stewardship < 10
 					}
 			modifier = {
 			factor = 0.01
@@ -56,15 +56,15 @@ targetted_decisions = {
 					}
 			modifier = {
 			factor = 0.25
-			wealth<250
+			wealth < 250
 					}
 			modifier = {
 			factor = 0.5
-			wealth<500
+			wealth < 500
 					}
 			modifier = {
 			factor = 0.8
-			wealth<1000
+			wealth < 1000
 					}
 				}
 	}
@@ -97,7 +97,7 @@ targetted_decisions = {
 			factor = 1
 			modifier = {
 			factor = 10
-			realm_stewardship<10
+			realm_stewardship < 10
 					}
 			modifier = {
 			factor = 0.01
@@ -113,7 +113,7 @@ targetted_decisions = {
 					}
 			modifier = {
 			factor = 100
-			wealth<0
+			wealth < 0
 					}
 			}
 	}

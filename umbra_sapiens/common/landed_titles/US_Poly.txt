@@ -1,11 +1,13 @@
 e_poly = {
 	color= { 175 25 25 }
 	color2= { 0 0 0  }
-	color={ 135 94 99 }
-	color2={ 220 220 220 }
+	
+	capital = 4067 #Hawaii
+	
 	allow={
-	is_colonial = no
+		is_colonial = no
 	}
+	
 	k_hawaii = {
 		color={ 32 34 220 }
 		color2={ 0 0 0 }

@@ -67,7 +67,7 @@ e_maya = {
 			}
 			c_chamuin= {
 			
-				color={ 265 215 77 }
+				color={ 245 215 77 }
 				color2={ 220 220 220 }
 				b_chamuin = {
 				}
@@ -906,9 +906,10 @@ k_alamos = {
 			}
 	}
 	k_collimatl = {
-			color={ 34 901 56 }
+			color={ 34 91 56 }
 			color2={ 220 220 220 }
 			capital = 4407
+			
 	d_colimanew = {
 			color={ 64 121 86 }
 			color2={ 220 220 220 }

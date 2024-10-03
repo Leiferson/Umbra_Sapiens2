@@ -7,7 +7,6 @@
 	law = succ_primogeniture
 	law = crown_authority_1
 	law = investiture_law_1
-	holder=457620 # Fernando III de Borgoña
 	effect={
 		insert_title_history=k_cas_and_leon
 	}

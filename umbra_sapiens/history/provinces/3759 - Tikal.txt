@@ -9,15 +9,16 @@ b_tikal-iii = temple
 b_tikal-iv = castle
 b_tikal-v = city
 b_tikal-vi = temple
-1.1.1 = {
-	build_wonder = wonder_maya_pyramid
-	set_wonder_stage = 4
-	set_wonder_name = TIKAL
-	set_wonder_description = TIKALDESC
-}
+
 
 # Misc
 culture = mayanx
 religion = mayan
 
 # History
+1.1.1 = {
+	build_wonder = wonder_maya_pyramid
+	set_wonder_stage = 4
+	set_wonder_name = TIKAL
+	set_wonder_description = TIKALDESC
+}
