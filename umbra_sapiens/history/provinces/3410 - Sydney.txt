@@ -1,0 +1,16 @@
+# 1063 - Bagan
+
+# County Title
+title = c_sydney
+
+# Settlements
+max_settlements = 6
+b_sydney = tribal
+b_moree = temple
+
+# Misc
+culture = australian
+religion = dreamtime_religion
+
+# History
+terrain = woods

@@ -1,0 +1,173 @@
+740.1.1 = {
+	liege="k_france"
+	holder=91503 #Rothgar
+}
+790.1.1={
+	holder = 168017 #Gauslin, son of Rothgar
+}
+812.1.1={
+	holder = 168020
+}
+839.6.16={
+	holder = 168019
+}
+849.1.1={
+	holder = 168027
+}
+853.1.1={
+	liege = "d_anjou"
+}
+886.1.1=
+{
+	holder = 168036
+}
+914.1.1=
+{
+	liege = "k_france"
+	holder = 144952
+}
+931.3.26={
+	holder = 144951
+}
+936.1.1 = {
+	liege = d_valois
+}
+992.1.1={
+	holder = 1354
+	liege = k_france
+}
+1016.7.6={
+	holder = 1358
+} 
+1036.1.1={
+	holder = 1356
+}
+1051.3.26={
+	holder = 144954
+}
+1062.3.9 ={
+	holder = 40404 # Gautier III of Vexin
+}
+
+1063.1.1={
+	liege="d_normandy"
+	holder=142 #Robert I Courteheuse
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+1093.1.1={
+	liege="k_france"
+	holder=232008 #Élie I de Beaugency
+}
+1110.1.1={
+	holder=232009 #Erembourg
+}
+1126.1.1={
+	holder=204506 #Geoffroy V le Bel
+}
+1151.1.15={
+	holder=204500 #Henri II Plantagenêt
+}
+1154.9.7={
+	liege = k_england
+}
+1156.1.1={
+	holder=103000 #Geoffroy VI
+}
+1158.7.27={
+	holder=204500 #Henri II Plantagenêt
+}
+1169.1.1={
+	holder=204508 #Henri le Jeune
+}
+1183.1.1={
+	holder=204510 #Richard Cœur de Lion
+}
+1199.4.6={
+	holder = 204514 #Jean I Sans Terre
+}
+
+#Capetians
+1204.1.1={
+	liege="k_france"
+	holder=205506 # Philippe II Auguste
+}
+1223.7.14={
+	holder = 455402 #Louis VIII le Lion
+}
+1226.11.18={
+	holder = 455406 #Charles I
+}
+1285.1.7={
+	holder = 461710 #Charles II
+}
+1290.8.16={
+	holder = 455512 #Marguerite
+}
+1299.12.13={
+	holder = 455500 #Philippe
+}
+1328.4.1={
+	holder=455502 #Jean II
+}
+1355.1.1 = {
+	holder=455499 #Charles V
+}
+1360.1.1={
+	holder=370090	#Louis I of Anjou
+}
+1384.9.20 = {
+	holder=370836	#Louis II of Anjou
+}
+1417.4.29 = {
+	holder=370840	#Charles IV, Count of Maine
+	liege=d_anjou
+}
+1435.2.2={
+	liege=k_naples
+}
+1442.6.2={
+	liege=d_anjou
+}
+1472.4.10 = {
+	holder=371258	#Charles IV of Anjou
+}
+1480.7.10 = {
+	liege=k_france
+}
+1481.12.10 = {
+	holder=370841 #Louis XI
+}
+1483.8.30={
+	holder=370997 #Charles VIII
+}
+1498.4.7={
+	holder=371092 #Louis XII
+}
+1515.1.1={
+	holder=370977 #Francis I
+}
+1547.3.31={
+	holder=371100 #Henry II
+}
+1559.7.10={
+	holder=375095 #Francis II
+}
+1560.12.5={
+	holder=371693 #Charles IX
+}
+1573.1.1={
+	holder=375687	#Charles, Duke of Mayenne
+}
+1611.10.3 = {
+	holder=375726	#Henry of Lorraine, Duke of Mayenne
+}
+1621.9.20 = {
+	holder=375731	#Charles II Gonzaga, Duke of Nevers
+}
+1631.8.30 = {
+	holder=375732	#Ferdinand, Duke of Mayenne
+}
+1632.5.25 = {
+	holder=375736	#Charles II Gonzaga, Duke of Mantua and Montferrat
+}

@@ -1,0 +1,19 @@
+# 1604 - Qabala
+
+# County Title
+title = c_qabala
+
+# Settlements
+max_settlements = 3
+b_qabala = castle
+b_vartashen = city
+b_nij = temple
+
+# Misc
+culture = dagestani
+religion = miaphysite
+terrain = hills
+
+# History
+1220.1.1 = { culture = persian }
+1220.1.1 = { religion = sunni }

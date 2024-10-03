@@ -1,0 +1,33 @@
+namespace = courlandevents
+#Courland colonies
+narrative_event = {
+	id = courlandevents.1
+	title = EVTNAMEcourlandevents.1
+	desc = EVTDESCcourlandeventsR.1
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1651
+		NOT = { has_global_flag = courland_cambia }
+		has_landed_title = c_kurs
+		religion_group = christian
+		controls = 373
+		c_gabu = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAcourlandevents.1
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_gabu
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = courland_cambia
+		prestige = 100
+	}
+}

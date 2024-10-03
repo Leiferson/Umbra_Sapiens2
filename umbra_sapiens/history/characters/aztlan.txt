@@ -1,0 +1,1313 @@
+#326000
+326000 = {
+	name = "Yolotli"
+	dynasty = 1010026000
+	religion = southwest_pagan
+	culture = coahuiltecan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326001 = {
+	name = "Yaotl"
+	dynasty = 1010026000
+	religion = southwest_pagan
+	culture = coahuiltecan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326002 = {
+	name = "Cacamatzin"
+	dynasty = 1010026000
+	religion = southwest_pagan
+	culture = coahuiltecan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326003 = {
+	name = "Yaotl"
+	dynasty = 1010026000
+	religion = southwest_pagan
+	culture = coahuiltecan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326004 = {
+	name = "Zipactonal"
+	dynasty = 1010026000
+	religion = southwest_pagan
+	culture = coahuiltecan
+	father = 326003
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326005 = {
+	name = "Moquihuix"
+	dynasty = 1010026000
+	religion = southwest_pagan
+	culture = coahuiltecan
+	father = 326004
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326006 = {
+	name = "Necuametl"
+	dynasty = 1010026000
+	religion = southwest_pagan
+	culture = coahuiltecan
+	father = 326005
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326007 = {
+	name = "Moquihuix"
+	dynasty = 1010026000
+	religion = southwest_pagan
+	culture = coahuiltecan
+	father = 326006
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#zacatecan
+326008 = {
+	name = "Quauhtli"
+	dynasty = 1010026047
+	religion = southwest_pagan
+	culture = zacatecan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326009 = {
+	name = "Yolyamanitzin"
+	dynasty = 1010026047
+	religion = southwest_pagan
+	culture = zacatecan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326010 = {
+	name = "Miztli"
+	dynasty = 1010026047
+	religion = southwest_pagan
+	culture = zacatecan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326011 = {
+	name = "Tlilpotonqui"
+	dynasty = 1010026047
+	religion = southwest_pagan
+	culture = zacatecan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326012 = {
+	name = "Cuetlachtli"
+	dynasty = 1010026047
+	religion = southwest_pagan
+	culture = zacatecan
+	father = 326011
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326013 = {
+	name = "Necuametl"
+	dynasty = 1010026047
+	religion = southwest_pagan
+	culture = zacatecan
+	father = 326012
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326014 = {
+	name = "Tlilpotonqui"
+	dynasty = 1010026047
+	religion = southwest_pagan
+	culture = zacatecan
+	father = 326013
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326015 = {
+	name = "Zipactonal"
+	dynasty = 1010026047
+	religion = southwest_pagan
+	culture = zacatecan
+	father = 326014
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#zacatecan2
+326016 = {
+	name = "Ozomatli"
+	dynasty = 1010026048
+	religion = southwest_pagan
+	culture = zacatecan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326017 = {
+	name = "Maxtla"
+	dynasty = 1010026048
+	religion = southwest_pagan
+	culture = zacatecan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326018 = {
+	name = "Miztli"
+	dynasty = 1010026048
+	religion = southwest_pagan
+	culture = zacatecan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326019 = {
+	name = "Cuetlachtli"
+	dynasty = 1010026048
+	religion = southwest_pagan
+	culture = zacatecan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326020 = {
+	name = "Topiltzin"
+	dynasty = 1010026048
+	religion = southwest_pagan
+	culture = zacatecan
+	father = 326019
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326021 = {
+	name = "Nezahualcoyotl"
+	dynasty = 1010026048
+	religion = southwest_pagan
+	culture = zacatecan
+	father = 326020
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326022 = {
+	name = "Topiltzin"
+	dynasty = 1010026048
+	religion = southwest_pagan
+	culture = zacatecan
+	father = 326021
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326023 = {
+	name = "Chimalpopoca"
+	dynasty = 1010026048
+	religion = southwest_pagan
+	culture = zacatecan
+	father = 326022
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#cahitan
+326024 = {
+	name = "Tlacaeleltzin"
+	dynasty = 1010026164
+	religion = southwest_pagan
+	culture = cahitan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326025 = {
+	name = "Nochehuatl"
+	dynasty = 1010026164
+	religion = southwest_pagan
+	culture = cahitan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326026 = {
+	name = "Tlalli"
+	dynasty = 1010026164
+	religion = southwest_pagan
+	culture = cahitan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326027 = {
+	name = "Nochehuatl"
+	dynasty = 1010026164
+	religion = southwest_pagan
+	culture = cahitan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326028 = {
+	name = "Coatl"
+	dynasty = 1010026164
+	religion = southwest_pagan
+	culture = cahitan
+	father = 326027
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326029 = {
+	name = "Nezahualcoyotl"
+	dynasty = 1010026164
+	religion = southwest_pagan
+	culture = cahitan
+	father = 326028
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326030 = {
+	name = "Chimalpopoca"
+	dynasty = 1010026164
+	religion = southwest_pagan
+	culture = cahitan
+	father = 326029
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326031 = {
+	name = "Itzcoatl"
+	dynasty = 1010026164
+	religion = southwest_pagan
+	culture = cahitan
+	father = 326030
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#cahitan
+326032 = {
+	name = "Ozomatli"
+	dynasty = 1010026165
+	religion = southwest_pagan
+	culture = cahitan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326033 = {
+	name = "Yayauhqui"
+	dynasty = 1010026165
+	religion = southwest_pagan
+	culture = cahitan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326034 = {
+	name = "Ahuitzotl"
+	dynasty = 1010026165
+	religion = southwest_pagan
+	culture = cahitan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326035 = {
+	name = "Mahchimaleh"
+	dynasty = 1010026165
+	religion = southwest_pagan
+	culture = cahitan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326036 = {
+	name = "Atl"
+	dynasty = 1010026165
+	religion = southwest_pagan
+	culture = cahitan
+	father = 326035
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326037 = {
+	name = "Cuetlachtli"
+	dynasty = 1010026165
+	religion = southwest_pagan
+	culture = cahitan
+	father = 326036
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326038 = {
+	name = "Tochtli"
+	dynasty = 1010026165
+	religion = southwest_pagan
+	culture = cahitan
+	father = 326037
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326039 = {
+	name = "Zolin"
+	dynasty = 1010026165
+	religion = southwest_pagan
+	culture = cahitan
+	father = 326038
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#otapan
+326040 = {
+	name = "Ozomatli"
+	dynasty = 1010026115
+	religion = southwest_pagan
+	culture = opata
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326041 = {
+	name = "Yolotli"
+	dynasty = 1010026115
+	religion = southwest_pagan
+	culture = opata
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326042 = {
+	name = "Ozomatli"
+	dynasty = 1010026115
+	religion = southwest_pagan
+	culture = opata
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326043 = {
+	name = "Ixtlilxochitl"
+	dynasty = 1010026115
+	religion = southwest_pagan
+	culture = opata
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326044 = {
+	name = "Tecocoltzin"
+	dynasty = 1010026115
+	religion = southwest_pagan
+	culture = opata
+	father = 326043
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326045 = {
+	name = "Xipilli"
+	dynasty = 1010026115
+	religion = southwest_pagan
+	culture = opata
+	father = 326044
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326046 = {
+	name = "Xochitl"
+	dynasty = 1010026115
+	religion = southwest_pagan
+	culture = opata
+	father = 326045
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326047 = {
+	name = "Ocuil"
+	dynasty = 1010026115
+	religion = southwest_pagan
+	culture = opata
+	father = 326046
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#piman
+326048 = {
+	name = "Juquialan"
+	dynasty = 1010026196
+	religion = southwest_pagan
+	culture = piman
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326049 = {
+	name = "Puchizaguan"
+	dynasty = 1010026196
+	religion = southwest_pagan
+	culture = piman
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326050 = {
+	name = "Xoquigua"
+	dynasty = 1010026196
+	religion = southwest_pagan
+	culture = piman
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326051 = {
+	name = "Jamna"
+	dynasty = 1010026196
+	religion = southwest_pagan
+	culture = piman
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326052 = {
+	name = "Putzicareta"
+	dynasty = 1010026196
+	religion = southwest_pagan
+	culture = piman
+	father = 326051
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326053 = {
+	name = "Xoquigua"
+	dynasty = 1010026196
+	religion = southwest_pagan
+	culture = piman
+	father = 326052
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326054 = {
+	name = "Yamozaytaname"
+	dynasty = 1010026196
+	religion = southwest_pagan
+	culture = piman
+	father = 326053
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326055 = {
+	name = "Yalamuchitic"
+	dynasty = 1010026196
+	religion = southwest_pagan
+	culture = piman
+	father = 326054
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#piman2
+326056 = {
+	name = "Cayoguili"
+	dynasty = 1010026197
+	religion = southwest_pagan
+	culture = piman
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326057 = {
+	name = "Nicaopa"
+	dynasty = 1010026197
+	religion = southwest_pagan
+	culture = piman
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326058 = {
+	name = "Atapy"
+	dynasty = 1010026197
+	religion = southwest_pagan
+	culture = piman
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326059 = {
+	name = "Nochicama"
+	dynasty = 1010026197
+	religion = southwest_pagan
+	culture = piman
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326060 = {
+	name = "Saypaniacana"
+	dynasty = 1010026197
+	religion = southwest_pagan
+	culture = piman
+	father = 326059
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326061 = {
+	name = "Nochicama"
+	dynasty = 1010026197
+	religion = southwest_pagan
+	culture = piman
+	father = 326060
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326062 = {
+	name = "Quipnaha"
+	dynasty = 1010026197
+	religion = southwest_pagan
+	culture = piman
+	father = 326061
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326063 = {
+	name = "Potuagui"
+	dynasty = 1010026197
+	religion = southwest_pagan
+	culture = piman
+	father = 326062
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Guayacura
+326064 = {
+	name = "Macquilo"
+	dynasty = 1010026232
+	religion = california_pagan
+	culture = guaycuran
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326065 = {
+	name = "Sachiygualaname"
+	dynasty = 1010026232
+	religion = california_pagan
+	culture = guaycuran
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326066 = {
+	name = "Comoxipi"
+	dynasty = 1010026232
+	religion = california_pagan
+	culture = guaycuran
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326067 = {
+	name = "Mohelo"
+	dynasty = 1010026232
+	religion = california_pagan
+	culture = guaycuran
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326068 = {
+	name = "Comoxipi"
+	dynasty = 1010026232
+	religion = california_pagan
+	culture = guaycuran
+	father = 326067
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326069 = {
+	name = "Quipnaha"
+	dynasty = 1010026232
+	religion = california_pagan
+	culture = guaycuran
+	father = 326068
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326070 = {
+	name = "Zaguesnamo"
+	dynasty = 1010026232
+	religion = california_pagan
+	culture = guaycuran
+	father = 326069
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326071 = {
+	name = "Higuahiguayya"
+	dynasty = 1010026232
+	religion = california_pagan
+	culture = guaycuran
+	father = 326070
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#yuman
+326072 = {
+	name = "Sachilaname"
+	dynasty = 1010026211
+	religion = california_pagan
+	culture = yuman
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326073 = {
+	name = "Clonemua"
+	dynasty = 1010026211
+	religion = california_pagan
+	culture = yuman
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326074 = {
+	name = "Saitoa"
+	dynasty = 1010026211
+	religion = california_pagan
+	culture = yuman
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326075 = {
+	name = "Clonemua"
+	dynasty = 1010026211
+	religion = california_pagan
+	culture = yuman
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326076 = {
+	name = "Tomacuac"
+	dynasty = 1010026211
+	religion = california_pagan
+	culture = yuman
+	father = 5
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326077 = {
+	name = "Quiguama"
+	dynasty = 1010026211
+	religion = california_pagan
+	culture = yuman
+	father = 326076
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326078 = {
+	name = "Analale"
+	dynasty = 1010026211
+	religion = california_pagan
+	culture = yuman
+	father = 326077
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326079 = {
+	name = "Sajuyacan"
+	dynasty = 1010026211
+	religion = california_pagan
+	culture = yuman
+	father = 326078
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#yuman2
+326080 = {
+	name = "Juancholoa"
+	dynasty = 1010026212
+	religion = california_pagan
+	culture = yuman
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326081 = {
+	name = "Guanala"
+	dynasty = 1010026212
+	religion = california_pagan
+	culture = yuman
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326082 = {
+	name = "Nochicaguitaname"
+	dynasty = 1010026212
+	religion = california_pagan
+	culture = yuman
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326083 = {
+	name = "Icualicui"
+	dynasty = 1010026212
+	religion = california_pagan
+	culture = yuman
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326084 = {
+	name = "Tomacuac"
+	dynasty = 1010026212
+	religion = california_pagan
+	culture = yuman
+	father = 326083
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326085 = {
+	name = "Putzea"
+	dynasty = 1010026212
+	religion = california_pagan
+	culture = yuman
+	father = 326084
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326086 = {
+	name = "Micolaqui"
+	dynasty = 1010026212
+	religion = california_pagan
+	culture = yuman
+	father = 326085
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326087 = {
+	name = "Ayoaname"
+	dynasty = 1010026212
+	religion = california_pagan
+	culture = yuman
+	father = 326086
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#chumash
+326088 = {
+	name = "Baxbakwalanuxusiwe"
+	dynasty = 1010035001
+	religion = california_pagan
+	culture = chumash
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326089 = {
+	name = "Hlahliyasila"
+	dynasty = 1010035001
+	religion = california_pagan
+	culture = chumash
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326090 = {
+	name = "Qvuqvs"
+	dynasty = 1010035001
+	religion = california_pagan
+	culture = chumash
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326091 = {
+	name = "Wakidis"
+	dynasty = 1010035001
+	religion = california_pagan
+	culture = chumash
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326092 = {
+	name = "Kakawin"
+	dynasty = 1010035001
+	religion = california_pagan
+	culture = chumash
+	father = 326091
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326093 = {
+	name = "Putzea"
+	dynasty = 1010035001
+	religion = california_pagan
+	culture = chumash
+	father = 326092
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326094 = {
+	name = "Wuxvsiwls"
+	dynasty = 1010035001
+	religion = california_pagan
+	culture = chumash
+	father = 326093
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326095 = {
+	name = "Muwach"
+	dynasty = 1010035001
+	religion = california_pagan
+	culture = chumash
+	father = 326094
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#pomoan
+326096 = {
+	name = "Qanekelak"
+	dynasty = 1010035175
+	religion = california_pagan
+	culture = pomoan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+326097 = {
+	name = "Gvui"
+	dynasty = 1010035175
+	religion = california_pagan
+	culture = pomoan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+326098 = {
+	name = "Qanekelak"
+	dynasty = 1010035175
+	religion = california_pagan
+	culture = pomoan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+326099 = {
+	name = "Titluup"
+	dynasty = 1010035175
+	religion = california_pagan
+	culture = pomoan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+326100 = {
+	name = "Iihtuup"
+	dynasty = 1010035175
+	religion = california_pagan
+	culture = pomoan
+	father = 326099
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+326101 = {
+	name = "Naana"
+	dynasty = 1010035175
+	religion = california_pagan
+	culture = pomoan
+	father = 326100
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+326102 = {
+	name = "Iihtuup"
+	dynasty = 1010035175
+	religion = california_pagan
+	culture = pomoan
+	father = 326101
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+326103 = {
+	name = "Bigaqla"
+	dynasty = 1010035175
+	religion = california_pagan
+	culture = pomoan
+	father = 326102
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,211 @@
+# Kasogia holders --------------------------------------------------------------------
+# 769 START --------------------------------------------------------------------------
+555101 = {
+	name="Kes"
+	dynasty=5557702
+	religion="orthodox"
+	culture="circassian"
+	
+	737.1.1={
+		birth="737.1.1"
+	}
+	788.1.1={
+		death="788.1.1"
+	}
+}
+555102 = {
+	name="Inal"
+	dynasty=5557702
+	religion="orthodox"
+	culture="circassian"
+	father=555101
+	767.1.1={
+		birth="767.1.1"
+	}
+	853.1.1={
+		death="853.1.1"
+	}
+}
+
+# 867 START -----------------------------------------------------------------------------------------------
+555104 = {
+	name="Shuweh"
+	dynasty=5557702
+	religion="orthodox"
+	culture="circassian"
+	father=555102
+	822.1.1={
+		birth="822.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}
+555105 = {
+	name="Yamdezh"
+	dynasty=5557702
+	religion="orthodox"
+	culture="circassian"
+	father=555104
+	871.1.1={
+		birth="871.1.1"
+	}
+	919.1.1={
+		death="919.1.1"
+	}
+}
+555106 = {
+	name="Albekh"
+	dynasty=5557702
+	religion="orthodox"
+	culture="circassian"
+	father=555105
+	911.1.1={
+		birth="911.1.1"
+	}
+	978.1.1={
+		death="978.1.1"
+	}
+}
+555107 = {
+	name="Albekh"
+	dynasty=5557702
+	religion="orthodox"
+	culture="circassian"
+	father=555106
+	953.1.1={
+		birth="953.1.1"
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+555108 = {
+	name="Redada"
+	dynasty=5557702
+	religion="orthodox"
+	culture="circassian"
+	father=555107
+	992.1.1={
+		birth="992.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+# 1066 START -----------------------------------------------------------------------------------------------
+555109 = {
+	name="Inal"
+	dynasty=5557701
+	religion="orthodox"
+	culture="circassian"
+	father=555117
+	1036.1.1={
+		birth="1036.1.1"
+	}
+	1114.1.1={
+		death="1114.1.1"
+	}
+}
+555110 = {
+	name="Shoqal"
+	dynasty=5557701
+	religion="orthodox"
+	culture="circassian"
+	father=555109
+	1087.1.1={
+		birth="1087.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+555111 = {
+	name="Yamdezh"
+	dynasty=5557701
+	religion="orthodox"
+	culture="circassian"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1203.1.1={
+		death="1203.1.1"
+	}
+}
+555112 = {
+	name="Tukar"
+	dynasty=5557701
+	religion="orthodox"
+	culture="circassian"
+	father=555111
+	1191.1.1={
+		birth="1191.1.1"
+	}
+	1258.1.1={
+		death="1237.1.1"
+	}
+}
+555113 = {
+	name="Shebetiqwe"
+	dynasty=5557701
+	religion="orthodox"
+	culture="circassian"
+	father=555112
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1301.1.1={
+		death="1301.1.1"
+	}
+}
+555114 = {
+	name="Hebiy"
+	dynasty=5557701
+	religion="orthodox"
+	culture="circassian"
+	father=555113
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+555115 = {
+	name="Hetiqwe"
+	dynasty=5557701
+	religion="orthodox"
+	culture="circassian"
+	father=555114
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1329.1.1={
+		death="1329.1.1"
+	}
+}
+555116 = {
+	name="Nerzan"
+	dynasty=5557701
+	religion="orthodox"
+	culture="circassian"
+	father=555115
+	1301.1.1={
+		birth="1301.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+555117 = {
+	name="Idar"
+	dynasty=5557702
+	religion="orthodox"
+	culture="circassian"
+	992.1.1={
+		birth="992.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}

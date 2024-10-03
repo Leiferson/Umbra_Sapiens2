@@ -1,0 +1,64 @@
+namespace = danishevents
+#Danish colonies
+narrative_event = {
+	id = danishevents.1
+	title = EVTNAMEdanishevents.1
+	desc = EVTDESCdanisheventsR.1
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1622
+		NOT = { has_global_flag = danish_tranquebar }
+		has_landed_title = k_denmark
+		religion_group = christian
+		controls = 266
+		c_cholamandalam = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAdanishevents.1
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_cholamandalam
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = danish_tranquebar
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = danishevents.2
+	title = EVTNAMEdanishevents.2
+	desc = EVTDESCdanisheventsR.2
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1650 
+		NOT = { has_global_flag = danish_corso }
+		has_landed_title = k_denmark
+		religion_group = christian
+		controls = 266
+		c_lome = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAdanishevents.2
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_lome
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = danish_corso
+		prestige = 100
+	}
+}

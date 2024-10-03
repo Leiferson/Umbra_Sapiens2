@@ -1,0 +1,17 @@
+20.1.1={
+	active = no
+	pentarch = b_roma
+}
+1143.10.5={
+	active = yes
+	holder=209503 # Afonso I de Borgonha
+	law = succ_primogeniture
+	effect={
+		insert_title_history=k_portugal
+	}
+	de_jure_liege=e_spain
+}
+1185.12.6={
+	holder=0
+	active = no
+}

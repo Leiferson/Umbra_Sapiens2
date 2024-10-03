@@ -1,0 +1,7042 @@
+1019927102={
+	name=Kaigouchi
+	dynasty=1009990239
+	dna="mnglpeagoag"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=6 learning=5
+	719.1.2={ birth=yes }
+	783.5.2={ death=yes }
+}
+1019927103={
+	name=Kaigouchi
+	dynasty=1009990239
+	dna="mndldpmapag"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=5 learning=8
+	father=1019927102	#Kaigouchi
+	743.5.18={ birth=yes }
+	801.8.3={ death=yes }
+}
+1019927104={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="mnbfaefggcg"
+	culture=carib religion=caribic_pagan
+	father=1019927102	#Kaigouchi
+	746.1.3={ birth=yes }
+	829.12.19={ death=yes }
+}
+1019927105={
+	name=Gunfuli
+	dynasty=1009990239
+	dna="mcglpgagoag"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	father=1019927102	#Kaigouchi
+	754.8.1={ birth=yes }
+	828.11.21={ death=yes }
+}
+1019927106={
+	name=Semén
+	dynasty=1009990239
+	dna="dnaldemapmg"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=6 learning=7
+	father=1019927103	#Kaigouchi
+	763.8.22={ birth=yes }
+	850.7.30={ death=yes }
+}
+1019927107={
+	name=Pirijá
+	dynasty=1009990239
+	dna="lbdgpfmklgh"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=8
+	father=1019927103	#Kaigouchi
+	768.2.18={ birth=yes }
+	845.12.18={ death=yes }
+}
+1019927108={
+	name=Kaigouchi
+	dynasty=1009990239
+	dna="mndldpmlcdp"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=5 learning=5
+	father=1019927103	#Kaigouchi
+	775.1.27={ birth=yes }
+	858.11.14={ death=yes }
+}
+1019927109={
+	name=Kaigouchi
+	dynasty=1009990239
+	dna="madliechpfg"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=7 learning=7
+	father=1019927103	#Kaigouchi
+	781.7.19={ birth=yes }
+	847.1.23={ death=yes }
+}
+1019927110={
+	name=Áhari
+	dynasty=1009990239
+	dna="lpdlfplapaj"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=4 learning=4
+	father=1019927103	#Kaigouchi
+	786.12.26={ birth=yes }
+	864.5.20={ death=yes }
+}
+1019927111={
+	name=Semén
+	dynasty=1009990239
+	dna="jnajdeedpcn"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	father=1019927106	#Semén
+	792.11.12={ birth=yes }
+	856.2.26={ death=yes }
+}
+1019927112={
+	name=Ilumani
+	dynasty=1009990239
+	dna="dnajdemgpmg"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	father=1019927106	#Semén
+	795.8.5={ birth=yes }
+	875.5.7={ death=yes }
+}
+1019927113={
+	name=Áhari
+	dynasty=1009990239
+	dna="dialcemnpma"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	father=1019927106	#Semén
+	799.3.18={ birth=yes }
+	859.11.7={ death=yes }
+}
+1019927114={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="onjeffmglmc"
+	culture=carib religion=caribic_pagan
+	father=1019927106	#Semén
+	807.11.25={ birth=yes }
+	890.11.2={ death=yes }
+}
+1019927115={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="onljneelpcn"
+	culture=carib religion=caribic_pagan
+	father=1019927111	#Semén
+	825.10.17={ birth=yes }
+	928.3.20={ death=yes }
+}
+1019927116={
+	name=Áhari
+	dynasty=1009990239
+	dna="gnagdhobdkn"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=4 learning=8
+	father=1019927111	#Semén
+	828.6.17={ birth=yes }
+	898.7.1={ death=yes }
+}
+1019927117={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="hnajdeedmcn"
+	culture=carib religion=caribic_pagan
+	father=1019927111	#Semén
+	832.11.21={ birth=yes }
+	908.9.29={ death=yes }
+}
+1019927118={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="dndkmeedfcm"
+	culture=carib religion=caribic_pagan
+	father=1019927111	#Semén
+	838.8.17={ birth=yes }
+	921.3.1={ death=yes }
+}
+1019927119={
+	name=Semén
+	dynasty=1009990239
+	dna="gnmcdhebdkn"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=6 learning=5
+	father=1019927116	#Áhari
+	847.7.19={ birth=yes }
+	922.11.9={ death=yes }
+}
+1019927120={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="cippdddkepo"
+	culture=carib religion=caribic_pagan
+	father=1019927116	#Áhari
+	851.5.10={ birth=yes }
+	933.10.8={ death=yes }
+}
+1019927121={
+	name=Pirijá
+	dynasty=1009990239
+	dna="gnmpgkdidok"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	father=1019927116	#Áhari
+	854.2.14={ birth=yes }
+	910.4.4={ death=yes }
+}
+1019927122={
+	name=Áhari
+	dynasty=1009990239
+	dna="ggagdcblgkk"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=4
+	father=1019927116	#Áhari
+	857.6.23={ birth=yes }
+	919.11.11={ death=yes }
+}
+1019927123={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="iodfejgbjol"
+	culture=carib religion=caribic_pagan
+	father=1019927116	#Áhari
+	860.9.27={ birth=yes }
+	928.10.22={ death=yes }
+}
+1019927124={
+	name=Ebedimu
+	dynasty=1009990239
+	dna="mndlnpecnlc"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=4 learning=8
+	father=1019927119	#Semén
+	870.9.27={ birth=yes }
+	954.1.13={ death=yes }
+}
+1019927125={
+	name=Kaigouchi
+	dynasty=1009990239
+	dna="plkcdddbdgn"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	father=1019927119	#Semén
+	873.10.10={ birth=yes }
+	936.10.23={ death=yes }
+}
+1019927126={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="gnmcgkcldmp"
+	culture=carib religion=caribic_pagan
+	father=1019927119	#Semén
+	881.10.24={ birth=yes }
+	947.2.24={ death=yes }
+}
+1019927127={
+	name=Gunfuli
+	dynasty=1009990239
+	dna="mjklopednlc"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	father=1019927124	#Ebedimu
+	899.5.26={ birth=yes }
+	951.1.9={ death=yes }
+}
+1019927128={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="nfdlnpecapc"
+	culture=carib religion=caribic_pagan
+	father=1019927124	#Ebedimu
+	902.11.22={ birth=yes }
+	959.2.9={ death=yes }
+}
+1019927129={
+	name=Gunfuli
+	dynasty=1009990239
+	dna="ncklmcpdnfc"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=5
+	father=1019927127	#Gunfuli
+	927.9.27={ birth=yes }
+	1015.9.8={ death=yes }
+}
+1019927130={
+	name=Pirijá
+	dynasty=1009990239
+	dna="fjhlojedblf"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=6 learning=8
+	father=1019927127	#Gunfuli
+	934.1.9={ birth=yes }
+	1008.10.9={ death=yes }
+}
+1019927131={
+	name=Ilumani
+	dynasty=1009990239
+	dna="kccamhpdbfg"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=5 learning=8
+	father=1019927129	#Gunfuli
+	955.5.5={ birth=yes }
+	1032.9.2={ death=yes }
+}
+1019927132={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="ccklncplnmc"
+	culture=carib religion=caribic_pagan
+	father=1019927129	#Gunfuli
+	960.6.15={ birth=yes }
+	1065.5.13={ death=yes }
+}
+1019927133={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="njklhmpdncc"
+	culture=carib religion=caribic_pagan
+	father=1019927129	#Gunfuli
+	965.4.26={ birth=yes }
+	1023.10.21={ death=yes }
+}
+1019927134={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="nckcmcbdnfb"
+	culture=carib religion=caribic_pagan
+	father=1019927129	#Gunfuli
+	972.1.19={ birth=yes }
+	1051.2.8={ death=yes }
+}
+1019927135={
+	name=Kaigouchi
+	dynasty=1009990239
+	dna="hjcfmocfgjg"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	father=1019927131	#Ilumani
+	984.5.17={ birth=yes }
+	1055.7.22={ death=yes }
+}
+1019927136={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="mccobkpaofg"
+	culture=carib religion=caribic_pagan
+	father=1019927131	#Ilumani
+	988.9.20={ birth=yes }
+	1044.3.2={ death=yes }
+}
+1019927137={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="kcgbcphdkdg"
+	culture=carib religion=caribic_pagan
+	father=1019927131	#Ilumani
+	993.2.3={ birth=yes }
+	1078.1.5={ death=yes }
+}
+1019927138={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="jdcaaepfbfi"
+	culture=carib religion=caribic_pagan
+	father=1019927131	#Ilumani
+	996.9.8={ birth=yes }
+	1065.5.21={ death=yes }
+}
+1019927139={
+	name=Ebedimu
+	dynasty=1009990239
+	dna="kacfmbadplg"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	father=1019927131	#Ilumani
+	1000.12.5={ birth=yes }
+	1054.5.13={ death=yes }
+}
+1019927140={
+	name=Gunfuli
+	dynasty=1009990239
+	dna="hlpnmnccgjk"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=8 learning=5
+	father=1019927135	#Kaigouchi
+	1008.3.20={ birth=yes }
+	1088.9.16={ death=yes }
+}
+1019927141={
+	name=Pirijá
+	dynasty=1009990239
+	dna="hcofmoaelcg"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=7
+	father=1019927135	#Kaigouchi
+	1010.5.3={ birth=yes }
+	1080.9.7={ death=yes }
+}
+1019927142={
+	name=Ilumani
+	dynasty=1009990239
+	dna="nkpngnccgjo"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=8
+	father=1019927140	#Gunfuli
+	1030.6.19={ birth=yes }
+	1109.6.16={ death=yes }
+}
+1019927143={
+	name=Pirijá
+	dynasty=1009990239
+	dna="hcpnmmmcgik"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=4 learning=8
+	father=1019927140	#Gunfuli
+	1035.2.19={ birth=yes }
+	1094.12.19={ death=yes }
+}
+1019927144={
+	name=Áhari
+	dynasty=1009990239
+	dna="hgpnmnonhjo"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=5 learning=5
+	father=1019927140	#Gunfuli
+	1040.3.19={ birth=yes }
+	1118.10.25={ death=yes }
+}
+1019927145={
+	name=Áhari
+	dynasty=1009990239
+	dna="ebenmecbgjk"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=7 learning=4
+	father=1019927140	#Gunfuli
+	1044.1.27={ birth=yes }
+	1117.12.18={ death=yes }
+}
+1019927146={
+	name=Ebedimu
+	dynasty=1009990239
+	dna="nkengncaglo"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=8
+	father=1019927142	#Ilumani
+	1062.5.6={ birth=yes }
+	1128.9.30={ death=yes }
+}
+1019927147={
+	name=Kaigouchi
+	dynasty=1009990239
+	dna="jkjgndnngjo"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=7 learning=6
+	father=1019927142	#Ilumani
+	1064.12.17={ birth=yes }
+	1143.10.12={ death=yes }
+}
+1019927148={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="geokgoblpjo"
+	culture=carib religion=caribic_pagan
+	father=1019927142	#Ilumani
+	1069.9.21={ birth=yes }
+	1136.10.24={ death=yes }
+}
+1019927149={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="gkbngiclgjo"
+	culture=carib religion=caribic_pagan
+	father=1019927142	#Ilumani
+	1075.1.6={ birth=yes }
+	1157.4.12={ death=yes }
+}
+1019927150={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="mjencdfagll"
+	culture=carib religion=caribic_pagan
+	father=1019927146	#Ebedimu
+	1083.5.7={ birth=yes }
+	1177.8.12={ death=yes }
+}
+1019927151={
+	name=Ebedimu
+	dynasty=1009990239
+	dna="ekenjncflnd"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=4 learning=4
+	father=1019927146	#Ebedimu
+	1089.6.13={ birth=yes }
+	1141.9.28={ death=yes }
+}
+1019927152={
+	name=Gunfuli
+	dynasty=1009990239
+	dna="ndengndagli"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	father=1019927146	#Ebedimu
+	1096.3.21={ birth=yes }
+	1145.5.22={ death=yes }
+}
+1019927153={
+	name=Ebedimu
+	dynasty=1009990239
+	dna="nkeghfcgnko"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=8
+	father=1019927146	#Ebedimu
+	1100.11.26={ birth=yes }
+	1176.11.12={ death=yes }
+}
+1019927154={
+	name=Áhari
+	dynasty=1009990239
+	dna="kjepjncaffj"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=5
+	father=1019927151	#Ebedimu
+	1117.6.3={ birth=yes }
+	1200.12.3={ death=yes }
+}
+1019927155={
+	name=Ilumani
+	dynasty=1009990239
+	dna="ebenglcnand"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=6 learning=6
+	father=1019927151	#Ebedimu
+	1122.12.6={ birth=yes }
+	1195.4.19={ death=yes }
+}
+1019927156={
+	name=Kaigouchi
+	dynasty=1009990239
+	dna="feemjnkhhnd"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=8 learning=4
+	father=1019927151	#Ebedimu
+	1126.3.14={ birth=yes }
+	1181.3.6={ death=yes }
+}
+1019927157={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="epenmncdpnd"
+	culture=carib religion=caribic_pagan
+	father=1019927151	#Ebedimu
+	1129.9.12={ birth=yes }
+	1186.9.21={ death=yes }
+}
+1019927158={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="ekehjaolknn"
+	culture=carib religion=caribic_pagan
+	father=1019927151	#Ebedimu
+	1133.3.14={ birth=yes }
+	1205.5.4={ death=yes }
+}
+1019927159={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="edjhjglflnd"
+	culture=carib religion=caribic_pagan
+	father=1019927151	#Ebedimu
+	1139.2.21={ birth=yes }
+	1208.10.21={ death=yes }
+}
+1019927160={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="enknnncfpnj"
+	culture=carib religion=caribic_pagan
+	father=1019927151	#Ebedimu
+	1142.7.6={ birth=yes }
+	1210.1.16={ death=yes }
+}
+1019927161={
+	name=Pirijá
+	dynasty=1009990239
+	dna="njlpjeceajm"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=7
+	father=1019927154	#Áhari
+	1142.10.17={ birth=yes }
+	1196.12.6={ death=yes }
+}
+1019927162={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="kjjlaniofjj"
+	culture=carib religion=caribic_pagan
+	father=1019927154	#Áhari
+	1147.4.13={ birth=yes }
+	1232.5.16={ death=yes }
+}
+1019927163={
+	name=Ebedimu
+	dynasty=1009990239
+	dna="kjepebchfmj"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=7
+	father=1019927154	#Áhari
+	1152.8.20={ birth=yes }
+	1211.5.15={ death=yes }
+}
+1019927164={
+	name=Áhari
+	dynasty=1009990239
+	dna="kplojflaakm"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=6 learning=8
+	father=1019927154	#Áhari
+	1158.11.13={ birth=yes }
+	1222.11.25={ death=yes }
+}
+1019927165={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="pcepjnkafoa"
+	culture=carib religion=caribic_pagan
+	father=1019927154	#Áhari
+	1163.6.8={ birth=yes }
+	1203.5.12={ death=yes }
+}
+1019927166={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="kjdpjccdlfb"
+	culture=carib religion=caribic_pagan
+	father=1019927154	#Áhari
+	1167.8.11={ birth=yes }
+	1236.7.14={ death=yes }
+}
+1019927167={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="kjhpfkcaffj"
+	culture=carib religion=caribic_pagan
+	father=1019927154	#Áhari
+	1171.12.2={ birth=yes }
+	1246.8.16={ death=yes }
+}
+1019927168={
+	name=Kaigouchi
+	dynasty=1009990239
+	dna="hoiiakcaaja"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	father=1019927161	#Pirijá
+	1168.1.6={ birth=yes }
+	1235.3.9={ death=yes }
+}
+1019927169={
+	name=Gunfuli
+	dynasty=1009990239
+	dna="dcjpjaceamm"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=4 learning=8
+	father=1019927161	#Pirijá
+	1175.4.14={ birth=yes }
+	1269.4.2={ death=yes }
+}
+1019927170={
+	name=Pirijá
+	dynasty=1009990239
+	dna="hpehakcaajl"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=8 learning=4
+	father=1019927168	#Kaigouchi
+	1198.1.19={ birth=yes }
+	1283.7.28={ death=yes }
+}
+1019927171={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="fdiiakdfbmn"
+	culture=carib religion=caribic_pagan
+	father=1019927168	#Kaigouchi
+	1202.7.10={ birth=yes }
+	1272.11.25={ death=yes }
+}
+1019927172={
+	name=Gunfuli
+	dynasty=1009990239
+	dna="hpekfnndalb"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	father=1019927170	#Pirijá
+	1221.8.14={ birth=yes }
+	1302.8.10={ death=yes }
+}
+1019927173={
+	name=Kaigouchi
+	dynasty=1009990239
+	dna="hpohaecapkl"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=7 learning=5
+	father=1019927170	#Pirijá
+	1227.6.1={ birth=yes }
+	1306.8.8={ death=yes }
+}
+1019927174={
+	name=Kaigouchi
+	dynasty=1009990239
+	dna="mpokfnhdaib"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=6 learning=4
+	father=1019927172	#Gunfuli
+	1248.1.1={ birth=yes }
+	1327.8.29={ death=yes }
+}
+1019927175={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="kpmhmjdnjmb"
+	culture=carib religion=caribic_pagan
+	father=1019927172	#Gunfuli
+	1250.2.23={ birth=yes }
+	1317.4.15={ death=yes }
+}
+1019927176={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="gpdcfnnnbjb"
+	culture=carib religion=caribic_pagan
+	father=1019927172	#Gunfuli
+	1255.12.20={ birth=yes }
+	1342.11.8={ death=yes }
+}
+1019927177={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="lpeapckdamb"
+	culture=carib religion=caribic_pagan
+	father=1019927172	#Gunfuli
+	1260.5.5={ birth=yes }
+	1322.8.19={ death=yes }
+}
+1019927178={
+	name=Áhari
+	dynasty=1009990239
+	dna="mboffnebelb"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	father=1019927174	#Kaigouchi
+	1276.7.19={ birth=yes }
+	1329.7.13={ death=yes }
+}
+1019927179={
+	name=Áhari
+	dynasty=1009990239
+	dna="mpcbpphdial"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	father=1019927174	#Kaigouchi
+	1283.3.6={ birth=yes }
+	1360.5.7={ death=yes }
+}
+1019927180={
+	name=Pirijá
+	dynasty=1009990239
+	dna="opokfjhkgib"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	father=1019927174	#Kaigouchi
+	1286.5.6={ birth=yes }
+	1369.1.2={ death=yes }
+}
+1019927181={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="mgokfcocalh"
+	culture=carib religion=caribic_pagan
+	father=1019927174	#Kaigouchi
+	1291.11.18={ birth=yes }
+	1376.12.24={ death=yes }
+}
+1019927182={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="mhlpgnbbebf"
+	culture=carib religion=caribic_pagan
+	father=1019927178	#Áhari
+	1303.7.26={ birth=yes }
+	1360.1.6={ death=yes }
+}
+1019927183={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="mlofkhmkecg"
+	culture=carib religion=caribic_pagan
+	father=1019927178	#Áhari
+	1307.11.21={ birth=yes }
+	1360.11.24={ death=yes }
+}
+1019927184={
+	name=Áhari
+	dynasty=1009990239
+	dna="mfofoiebelb"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	father=1019927178	#Áhari
+	1313.8.23={ birth=yes }
+	1353.5.15={ death=yes }
+}
+1019927185={
+	name=Isani
+	female=yes
+	dynasty=1009990239
+	dna="mbodfnljeab"
+	culture=carib religion=caribic_pagan
+	father=1019927178	#Áhari
+	1317.9.1={ birth=yes }
+	1383.2.21={ death=yes }
+}
+1019927186={
+	name=Gunfuli
+	dynasty=1009990239
+	dna="hmmgogjbphb"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	father=1019927178	#Áhari
+	1321.5.10={ birth=yes }
+	1403.5.27={ death=yes }
+}
+1019927187={
+	name=Áhari
+	dynasty=1009990239
+	dna="lhkfgneiebh"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=5 learning=4
+	father=1019927178	#Áhari
+	1326.5.20={ birth=yes }
+	1407.4.15={ death=yes }
+}
+1019927188={
+	name=Pirijá
+	dynasty=1009990239
+	dna="mioaoieaofb"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=8
+	father=1019927184	#Áhari
+	1333.1.18={ birth=yes }
+	1415.10.1={ death=yes }
+}
+1019927189={
+	name=Semén
+	dynasty=1009990239
+	dna="nggfodmmill"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	father=1019927184	#Áhari
+	1341.5.8={ birth=yes }
+	1395.11.8={ death=yes }
+}
+1019927190={
+	name=Ilumani
+	dynasty=1009990239
+	dna="mfolkimghjb"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	father=1019927184	#Áhari
+	1345.6.5={ birth=yes }
+	1417.8.19={ death=yes }
+}
+1019927191={
+	name=Áhari
+	dynasty=1009990239
+	dna="mncgffoaofe"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=8
+	father=1019927188	#Pirijá
+	1353.3.21={ birth=yes }
+	1413.8.30={ death=yes }
+}
+1019927192={
+	name=Gunfuli
+	dynasty=1009990239
+	dna="mkokliidmfa"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=4 learning=7
+	father=1019927188	#Pirijá
+	1358.11.14={ birth=yes }
+	1430.8.5={ death=yes }
+}
+1019927193={
+	name=Ebedimu
+	dynasty=1009990239
+	dna="aimgdkgaopb"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=7 learning=4
+	father=1019927188	#Pirijá
+	1361.1.8={ birth=yes }
+	1426.8.20={ death=yes }
+}
+1019927194={
+	name=Áhari
+	dynasty=1009990239
+	dna="oecjodifjfb"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	father=1019927188	#Pirijá
+	1364.5.25={ birth=yes }
+	1435.5.31={ death=yes }
+}
+1019927195={
+	name=Semén
+	dynasty=1009990239
+	dna="mgoampoaonb"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=8 learning=6
+	father=1019927188	#Pirijá
+	1369.3.21={ birth=yes }
+	1439.2.10={ death=yes }
+}
+1019927196={
+	name=Pirijá
+	dynasty=1009990239
+	dna="eioiomoaodm"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	father=1019927188	#Pirijá
+	1373.12.20={ birth=yes }
+	1441.11.5={ death=yes }
+}
+1019927197={
+	name=Hayá
+	female=yes
+	dynasty=1009990239
+	dna="amoaohbcofb"
+	culture=carib religion=caribic_pagan
+	father=1019927188	#Pirijá
+	1378.6.17={ birth=yes }
+	1464.10.21={ death=yes }
+}
+1019927198={
+	name=Ilumani
+	dynasty=1009990240
+	dna="ioomlgdmgeb"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	720.8.16={ birth=yes }
+	800.12.20={ death=yes }
+}
+1019927199={
+	name=Áhari
+	dynasty=1009990240
+	dna="ioomlaomdmb"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=5
+	father=1019927198	#Ilumani
+	742.11.15={ birth=yes }
+	816.7.22={ death=yes }
+}
+1019927200={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="iocmjjjdcjg"
+	culture=carib religion=caribic_pagan
+	father=1019927198	#Ilumani
+	747.10.15={ birth=yes }
+	823.2.21={ death=yes }
+}
+1019927201={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="joombgdglek"
+	culture=carib religion=caribic_pagan
+	father=1019927198	#Ilumani
+	752.4.11={ birth=yes }
+	817.11.19={ death=yes }
+}
+1019927202={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="doombkddjfc"
+	culture=carib religion=caribic_pagan
+	father=1019927198	#Ilumani
+	756.6.19={ birth=yes }
+	819.8.29={ death=yes }
+}
+1019927203={
+	name=Pirijá
+	dynasty=1009990240
+	dna="kommcgdfajk"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	father=1019927198	#Ilumani
+	760.4.17={ birth=yes }
+	834.12.22={ death=yes }
+}
+1019927204={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="ilnmiggggeb"
+	culture=carib religion=caribic_pagan
+	father=1019927198	#Ilumani
+	764.11.21={ birth=yes }
+	833.9.27={ death=yes }
+}
+1019927205={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="imcflaoddia"
+	culture=carib religion=caribic_pagan
+	father=1019927199	#Áhari
+	764.8.23={ birth=yes }
+	861.7.18={ death=yes }
+}
+1019927206={
+	name=Ebedimu
+	dynasty=1009990240
+	dna="ioomjaodoml"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	father=1019927199	#Áhari
+	768.5.24={ birth=yes }
+	859.3.22={ death=yes }
+}
+1019927207={
+	name=Semén
+	dynasty=1009990240
+	dna="loohlafmdmn"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=7 learning=8
+	father=1019927199	#Áhari
+	775.6.7={ birth=yes }
+	851.1.8={ death=yes }
+}
+1019927208={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="igomcaimdmp"
+	culture=carib religion=caribic_pagan
+	father=1019927199	#Áhari
+	782.3.19={ birth=yes }
+	834.7.17={ death=yes }
+}
+1019927209={
+	name=Ilumani
+	dynasty=1009990240
+	dna="igamjacdohl"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	father=1019927206	#Ebedimu
+	789.5.15={ birth=yes }
+	868.7.1={ death=yes }
+}
+1019927210={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="ifobjaoabml"
+	culture=carib religion=caribic_pagan
+	father=1019927206	#Ebedimu
+	793.1.18={ birth=yes }
+	864.2.11={ death=yes }
+}
+1019927211={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="ihomlhoeamp"
+	culture=carib religion=caribic_pagan
+	father=1019927206	#Ebedimu
+	798.8.25={ birth=yes }
+	837.4.26={ death=yes }
+}
+1019927212={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="ihgmljohomc"
+	culture=carib religion=caribic_pagan
+	father=1019927206	#Ebedimu
+	802.10.14={ birth=yes }
+	886.10.29={ death=yes }
+}
+1019927213={
+	name=Pirijá
+	dynasty=1009990240
+	dna="icimkahlomk"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	father=1019927206	#Ebedimu
+	807.10.5={ birth=yes }
+	908.12.29={ death=yes }
+}
+1019927214={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="nokmjabdapl"
+	culture=carib religion=caribic_pagan
+	father=1019927206	#Ebedimu
+	810.5.11={ birth=yes }
+	896.8.1={ death=yes }
+}
+1019927215={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="ilomjcfaopl"
+	culture=carib religion=caribic_pagan
+	father=1019927206	#Ebedimu
+	814.9.6={ birth=yes }
+	880.10.12={ death=yes }
+}
+1019927216={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="dgpikaadfjl"
+	culture=carib religion=caribic_pagan
+	father=1019927209	#Ilumani
+	821.4.7={ birth=yes }
+	897.5.16={ death=yes }
+}
+1019927217={
+	name=Áhari
+	dynasty=1009990240
+	dna="omgejacpojf"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=4 learning=4
+	father=1019927209	#Ilumani
+	826.7.4={ birth=yes }
+	897.11.30={ death=yes }
+}
+1019927218={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="meamjacacnl"
+	culture=carib religion=caribic_pagan
+	father=1019927209	#Ilumani
+	831.1.15={ birth=yes }
+	898.1.23={ death=yes }
+}
+1019927219={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="ieankccaghl"
+	culture=carib religion=caribic_pagan
+	father=1019927209	#Ilumani
+	838.12.5={ birth=yes }
+	922.10.8={ death=yes }
+}
+1019927220={
+	name=Kaigouchi
+	dynasty=1009990240
+	dna="omgelacpoef"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=4
+	father=1019927217	#Áhari
+	848.8.6={ birth=yes }
+	932.2.11={ death=yes }
+}
+1019927221={
+	name=Áhari
+	dynasty=1009990240
+	dna="omgpjeigcma"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=4 learning=4
+	father=1019927217	#Áhari
+	852.1.17={ birth=yes }
+	927.1.27={ death=yes }
+}
+1019927222={
+	name=Kaigouchi
+	dynasty=1009990240
+	dna="ombllafgikm"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=8 learning=6
+	father=1019927217	#Áhari
+	856.3.7={ birth=yes }
+	935.12.18={ death=yes }
+}
+1019927223={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="ombeoacpcef"
+	culture=carib religion=caribic_pagan
+	father=1019927220	#Kaigouchi
+	879.7.7={ birth=yes }
+	957.9.5={ death=yes }
+}
+1019927224={
+	name=Áhari
+	dynasty=1009990240
+	dna="cfoklacpaef"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	father=1019927220	#Kaigouchi
+	882.3.26={ birth=yes }
+	939.2.16={ death=yes }
+}
+1019927225={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="objpcacmdkf"
+	culture=carib religion=caribic_pagan
+	father=1019927220	#Kaigouchi
+	889.8.27={ birth=yes }
+	930.5.15={ death=yes }
+}
+1019927226={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="omkblaokdgf"
+	culture=carib religion=caribic_pagan
+	father=1019927220	#Kaigouchi
+	893.5.24={ birth=yes }
+	952.6.19={ death=yes }
+}
+1019927227={
+	name=Áhari
+	dynasty=1009990240
+	dna="kkpleacbmof"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=4
+	father=1019927220	#Kaigouchi
+	897.10.3={ birth=yes }
+	954.4.7={ death=yes }
+}
+1019927228={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="omeohafpdem"
+	culture=carib religion=caribic_pagan
+	father=1019927220	#Kaigouchi
+	902.3.19={ birth=yes }
+	970.3.29={ death=yes }
+}
+1019927229={
+	name=Gunfuli
+	dynasty=1009990240
+	dna="omlihacpjea"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=8
+	father=1019927220	#Kaigouchi
+	907.2.16={ birth=yes }
+	992.4.8={ death=yes }
+}
+1019927230={
+	name=Kaigouchi
+	dynasty=1009990240
+	dna="hbfklnbaled"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	father=1019927224	#Áhari
+	904.12.22={ birth=yes }
+	991.12.4={ death=yes }
+}
+1019927231={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="dfmooacpbmf"
+	culture=carib religion=caribic_pagan
+	father=1019927224	#Áhari
+	910.10.10={ birth=yes }
+	954.7.7={ death=yes }
+}
+1019927232={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="kfoalagpgef"
+	culture=carib religion=caribic_pagan
+	father=1019927224	#Áhari
+	915.12.9={ birth=yes }
+	1008.6.26={ death=yes }
+}
+1019927233={
+	name=Ebedimu
+	dynasty=1009990240
+	dna="hpnklnadlpd"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	father=1019927230	#Kaigouchi
+	935.10.1={ birth=yes }
+	992.2.21={ death=yes }
+}
+1019927234={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="haflknbalod"
+	culture=carib religion=caribic_pagan
+	father=1019927230	#Kaigouchi
+	938.8.16={ birth=yes }
+	1012.10.27={ death=yes }
+}
+1019927235={
+	name=Áhari
+	dynasty=1009990240
+	dna="hefjhnhilkd"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	father=1019927230	#Kaigouchi
+	943.8.22={ birth=yes }
+	1005.4.1={ death=yes }
+}
+1019927236={
+	name=Kaigouchi
+	dynasty=1009990240
+	dna="bhhiiniohed"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=5 learning=7
+	father=1019927230	#Kaigouchi
+	947.2.10={ birth=yes }
+	998.3.14={ death=yes }
+}
+1019927237={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="hhpklnhdlod"
+	culture=carib religion=caribic_pagan
+	father=1019927233	#Ebedimu
+	960.10.25={ birth=yes }
+	1015.6.20={ death=yes }
+}
+1019927238={
+	name=Ebedimu
+	dynasty=1009990240
+	dna="hpfknnkflbg"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=8 learning=5
+	father=1019927233	#Ebedimu
+	965.10.4={ birth=yes }
+	1051.9.2={ death=yes }
+}
+1019927239={
+	name=Gunfuli
+	dynasty=1009990240
+	dna="hpnklaadlcd"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=7 learning=5
+	father=1019927233	#Ebedimu
+	972.12.17={ birth=yes }
+	1057.9.25={ death=yes }
+}
+1019927240={
+	name=Gunfuli
+	dynasty=1009990240
+	dna="nenaloadlpg"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=5 learning=7
+	father=1019927233	#Ebedimu
+	974.2.2={ birth=yes }
+	1027.8.9={ death=yes }
+}
+1019927241={
+	name=Ebedimu
+	dynasty=1009990240
+	dna="hjfknnfdcbn"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=8 learning=4
+	father=1019927238	#Ebedimu
+	993.1.17={ birth=yes }
+	1077.10.16={ death=yes }
+}
+1019927242={
+	name=Ilumani
+	dynasty=1009990240
+	dna="pphpnnafaea"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=5
+	father=1019927238	#Ebedimu
+	995.2.12={ birth=yes }
+	1061.6.17={ death=yes }
+}
+1019927243={
+	name=Ebedimu
+	dynasty=1009990240
+	dna="fabknlfdcbn"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=7 learning=5
+	father=1019927241	#Ebedimu
+	1014.5.14={ birth=yes }
+	1067.8.12={ death=yes }
+}
+1019927244={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="hbaknnodaba"
+	culture=carib religion=caribic_pagan
+	father=1019927241	#Ebedimu
+	1021.8.27={ birth=yes }
+	1107.4.23={ death=yes }
+}
+1019927245={
+	name=Ilumani
+	dynasty=1009990240
+	dna="faclnlnhcbn"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	father=1019927243	#Ebedimu
+	1041.9.15={ birth=yes }
+	1098.7.2={ death=yes }
+}
+1019927246={
+	name=Semén
+	dynasty=1009990240
+	dna="eeaenkhekhn"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=7
+	father=1019927243	#Ebedimu
+	1047.6.11={ birth=yes }
+	1124.12.27={ death=yes }
+}
+1019927247={
+	name=Ilumani
+	dynasty=1009990240
+	dna="fabkilfocbn"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=7 learning=8
+	father=1019927243	#Ebedimu
+	1052.9.14={ birth=yes }
+	1120.7.31={ death=yes }
+}
+1019927248={
+	name=Gunfuli
+	dynasty=1009990240
+	dna="baiafffdjoj"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	father=1019927243	#Ebedimu
+	1056.12.24={ birth=yes }
+	1123.4.23={ death=yes }
+}
+1019927249={
+	name=Ebedimu
+	dynasty=1009990240
+	dna="oajkfjampbm"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	father=1019927243	#Ebedimu
+	1060.8.6={ birth=yes }
+	1119.1.15={ death=yes }
+}
+1019927250={
+	name=Ilumani
+	dynasty=1009990240
+	dna="fgcifnejlbn"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	father=1019927245	#Ilumani
+	1064.12.18={ birth=yes }
+	1134.11.26={ death=yes }
+}
+1019927251={
+	name=Semén
+	dynasty=1009990240
+	dna="fjjcefnjcek"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=6 learning=8
+	father=1019927245	#Ilumani
+	1068.10.12={ birth=yes }
+	1145.11.16={ death=yes }
+}
+1019927252={
+	name=Gunfuli
+	dynasty=1009990240
+	dna="bggifnikgbn"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=7 learning=5
+	father=1019927250	#Ilumani
+	1093.4.10={ birth=yes }
+	1156.9.20={ death=yes }
+}
+1019927253={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="agcikbljhfm"
+	culture=carib religion=caribic_pagan
+	father=1019927250	#Ilumani
+	1100.5.1={ birth=yes }
+	1170.7.27={ death=yes }
+}
+1019927254={
+	name=Semén
+	dynasty=1009990240
+	dna="giclfneolin"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	father=1019927250	#Ilumani
+	1106.5.15={ birth=yes }
+	1151.9.8={ death=yes }
+}
+1019927255={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="fgcgfnejkbj"
+	culture=carib religion=caribic_pagan
+	father=1019927250	#Ilumani
+	1112.4.7={ birth=yes }
+	1195.6.25={ death=yes }
+}
+1019927256={
+	name=Áhari
+	dynasty=1009990240
+	dna="mofieonhgdn"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=6 learning=4
+	father=1019927252	#Gunfuli
+	1122.3.5={ birth=yes }
+	1211.4.5={ death=yes }
+}
+1019927257={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="fcmgfhikmbg"
+	culture=carib religion=caribic_pagan
+	father=1019927252	#Gunfuli
+	1126.2.20={ birth=yes }
+	1212.4.29={ death=yes }
+}
+1019927258={
+	name=Ebedimu
+	dynasty=1009990240
+	dna="ipgmfnahcnn"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=5 learning=6
+	father=1019927252	#Gunfuli
+	1134.3.3={ birth=yes }
+	1197.2.8={ death=yes }
+}
+1019927259={
+	name=Semén
+	dynasty=1009990240
+	dna="bmkhffopiba"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=4 learning=8
+	father=1019927252	#Gunfuli
+	1141.1.12={ birth=yes }
+	1227.5.16={ death=yes }
+}
+1019927260={
+	name=Pirijá
+	dynasty=1009990240
+	dna="jifieobhgjn"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=5 learning=4
+	father=1019927256	#Áhari
+	1140.5.4={ birth=yes }
+	1208.1.20={ death=yes }
+}
+1019927261={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="bjppjpbhgdh"
+	culture=carib religion=caribic_pagan
+	father=1019927256	#Áhari
+	1144.4.25={ birth=yes }
+	1210.11.18={ death=yes }
+}
+1019927262={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="eofieolajdh"
+	culture=carib religion=caribic_pagan
+	father=1019927256	#Áhari
+	1151.9.3={ birth=yes }
+	1207.9.11={ death=yes }
+}
+1019927263={
+	name=Kaigouchi
+	dynasty=1009990240
+	dna="cdbikonhgdf"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=7
+	father=1019927256	#Áhari
+	1158.1.19={ birth=yes }
+	1218.7.6={ death=yes }
+}
+1019927264={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="cibbeobnejc"
+	culture=carib religion=caribic_pagan
+	father=1019927260	#Pirijá
+	1161.3.14={ birth=yes }
+	1220.4.13={ death=yes }
+}
+1019927265={
+	name=Áhari
+	dynasty=1009990240
+	dna="jifpmomhgen"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=5 learning=6
+	father=1019927260	#Pirijá
+	1167.7.18={ birth=yes }
+	1241.8.27={ death=yes }
+}
+1019927266={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="mifmnhamgjn"
+	culture=carib religion=caribic_pagan
+	father=1019927260	#Pirijá
+	1171.7.25={ birth=yes }
+	1254.8.12={ death=yes }
+}
+1019927267={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="lieieobggjn"
+	culture=carib religion=caribic_pagan
+	father=1019927260	#Pirijá
+	1175.2.2={ birth=yes }
+	1248.4.23={ death=yes }
+}
+1019927268={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="jafnebbhghn"
+	culture=carib religion=caribic_pagan
+	father=1019927260	#Pirijá
+	1180.6.11={ birth=yes }
+	1267.10.14={ death=yes }
+}
+1019927269={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="mjfamomnggl"
+	culture=carib religion=caribic_pagan
+	father=1019927265	#Áhari
+	1189.6.2={ birth=yes }
+	1270.6.13={ death=yes }
+}
+1019927270={
+	name=Kaigouchi
+	dynasty=1009990240
+	dna="gigjmgnmfei"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=5
+	father=1019927265	#Áhari
+	1196.5.11={ birth=yes }
+	1275.9.8={ death=yes }
+}
+1019927271={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="jhfppmmhdgn"
+	culture=carib religion=caribic_pagan
+	father=1019927265	#Áhari
+	1203.9.13={ birth=yes }
+	1276.6.29={ death=yes }
+}
+1019927272={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="onfpmomlhen"
+	culture=carib religion=caribic_pagan
+	father=1019927265	#Áhari
+	1206.6.2={ birth=yes }
+	1270.4.25={ death=yes }
+}
+1019927273={
+	name=Áhari
+	dynasty=1009990240
+	dna="giodmgkmfei"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=8 learning=5
+	father=1019927270	#Kaigouchi
+	1219.9.24={ birth=yes }
+	1304.7.25={ death=yes }
+}
+1019927274={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="gigjjelkfli"
+	culture=carib religion=caribic_pagan
+	father=1019927270	#Kaigouchi
+	1222.8.7={ birth=yes }
+	1308.12.2={ death=yes }
+}
+1019927275={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="biojggippni"
+	culture=carib religion=caribic_pagan
+	father=1019927270	#Kaigouchi
+	1227.9.25={ birth=yes }
+	1306.4.16={ death=yes }
+}
+1019927276={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="gdgjmgbmfeh"
+	culture=carib religion=caribic_pagan
+	father=1019927270	#Kaigouchi
+	1231.6.27={ birth=yes }
+	1299.5.18={ death=yes }
+}
+1019927277={
+	name=Ilumani
+	dynasty=1009990240
+	dna="gigpmknbgam"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	father=1019927270	#Kaigouchi
+	1236.3.16={ birth=yes }
+	1293.4.18={ death=yes }
+}
+1019927278={
+	name=Semén
+	dynasty=1009990240
+	dna="gildfgnmfei"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	father=1019927270	#Kaigouchi
+	1241.3.18={ birth=yes }
+	1322.10.20={ death=yes }
+}
+1019927279={
+	name=Ilumani
+	dynasty=1009990240
+	dna="gbopmgkmfee"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	father=1019927273	#Áhari
+	1244.4.9={ birth=yes }
+	1339.7.12={ death=yes }
+}
+1019927280={
+	name=Kaigouchi
+	dynasty=1009990240
+	dna="giedmnekepi"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=4 learning=4
+	father=1019927273	#Áhari
+	1251.1.25={ birth=yes }
+	1306.5.10={ death=yes }
+}
+1019927281={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="jioimjmmfei"
+	culture=carib religion=caribic_pagan
+	father=1019927273	#Áhari
+	1256.7.15={ birth=yes }
+	1322.3.7={ death=yes }
+}
+1019927282={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="meokdgommcc"
+	culture=carib religion=caribic_pagan
+	father=1019927273	#Áhari
+	1262.9.16={ birth=yes }
+	1331.11.10={ death=yes }
+}
+1019927283={
+	name=Semén
+	dynasty=1009990240
+	dna="gagpleknfhe"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	father=1019927279	#Ilumani
+	1271.12.2={ birth=yes }
+	1325.4.24={ death=yes }
+}
+1019927284={
+	name=Pirijá
+	dynasty=1009990240
+	dna="ggepmgodfal"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=6
+	father=1019927279	#Ilumani
+	1277.3.11={ birth=yes }
+	1378.5.29={ death=yes }
+}
+1019927285={
+	name=Pirijá
+	dynasty=1009990240
+	dna="abhpipknfne"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=6 learning=7
+	father=1019927279	#Ilumani
+	1281.1.24={ birth=yes }
+	1345.5.7={ death=yes }
+}
+1019927286={
+	name=Ilumani
+	dynasty=1009990240
+	dna="nagplekbkhn"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=7
+	father=1019927283	#Semén
+	1298.4.18={ birth=yes }
+	1377.11.19={ death=yes }
+}
+1019927287={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="magpleonfjp"
+	culture=carib religion=caribic_pagan
+	father=1019927283	#Semén
+	1305.7.7={ birth=yes }
+	1369.12.5={ death=yes }
+}
+1019927288={
+	name=Ilumani
+	dynasty=1009990240
+	dna="pfkpllklfde"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=4 learning=8
+	father=1019927283	#Semén
+	1311.7.9={ birth=yes }
+	1369.8.4={ death=yes }
+}
+1019927289={
+	name=Áhari
+	dynasty=1009990240
+	dna="gagpleknloe"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=4 learning=6
+	father=1019927283	#Semén
+	1317.5.12={ birth=yes }
+	1381.4.11={ death=yes }
+}
+1019927290={
+	name=Ilumani
+	dynasty=1009990240
+	dna="nolplhngofh"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=5
+	father=1019927286	#Ilumani
+	1328.3.27={ birth=yes }
+	1412.10.22={ death=yes }
+}
+1019927291={
+	name=Kaigouchi
+	dynasty=1009990240
+	dna="naipnemikhn"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=5 learning=7
+	father=1019927286	#Ilumani
+	1332.7.12={ birth=yes }
+	1436.7.2={ death=yes }
+}
+1019927292={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="naoiejdokle"
+	culture=carib religion=caribic_pagan
+	father=1019927286	#Ilumani
+	1337.12.10={ birth=yes }
+	1407.12.19={ death=yes }
+}
+1019927293={
+	name=Hayá
+	female=yes
+	dynasty=1009990240
+	dna="napopekpkgb"
+	culture=carib religion=caribic_pagan
+	father=1019927286	#Ilumani
+	1340.8.6={ birth=yes }
+	1405.5.10={ death=yes }
+}
+1019927294={
+	name=Ebedimu
+	dynasty=1009990240
+	dna="nolpadnfojh"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=4 learning=5
+	father=1019927290	#Ilumani
+	1360.4.26={ birth=yes }
+	1424.6.28={ death=yes }
+}
+1019927295={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="hogpfhhgefn"
+	culture=carib religion=caribic_pagan
+	father=1019927290	#Ilumani
+	1363.9.17={ birth=yes }
+	1417.10.7={ death=yes }
+}
+1019927296={
+	name=Gunfuli
+	dynasty=1009990240
+	dna="cclomhnoiko"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=8 learning=5
+	father=1019927290	#Ilumani
+	1370.4.24={ birth=yes }
+	1431.3.27={ death=yes }
+}
+1019927297={
+	name=Isani
+	female=yes
+	dynasty=1009990240
+	dna="jolllhfbecl"
+	culture=carib religion=caribic_pagan
+	father=1019927290	#Ilumani
+	1378.6.20={ birth=yes }
+	1457.4.27={ death=yes }
+}
+1019927298={
+	name=Áhari
+	dynasty=1009990241
+	dna="hniadjocang"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	720.8.20={ birth=yes }
+	792.10.28={ death=yes }
+}
+1019927299={
+	name=Semén
+	dynasty=1009990241
+	dna="hncldbgcacn"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=6
+	father=1019927298	#Áhari
+	753.9.22={ birth=yes }
+	846.6.28={ death=yes }
+}
+1019927300={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="hliadjoghig"
+	culture=carib religion=caribic_pagan
+	father=1019927298	#Áhari
+	757.10.16={ birth=yes }
+	810.1.29={ death=yes }
+}
+1019927301={
+	name=Ilumani
+	dynasty=1009990241
+	dna="hnpakjlfmmg"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=7 learning=6
+	father=1019927298	#Áhari
+	760.3.6={ birth=yes }
+	813.3.1={ death=yes }
+}
+1019927302={
+	name=Gunfuli
+	dynasty=1009990241
+	dna="cjiaamccagf"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=7 learning=8
+	father=1019927298	#Áhari
+	765.4.8={ birth=yes }
+	829.10.16={ death=yes }
+}
+1019927303={
+	name=Áhari
+	dynasty=1009990241
+	dna="hjphgbephhn"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=7
+	father=1019927299	#Semén
+	784.11.21={ birth=yes }
+	846.9.27={ death=yes }
+}
+1019927304={
+	name=Semén
+	dynasty=1009990241
+	dna="hnoldhgpadi"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=7 learning=6
+	father=1019927299	#Semén
+	789.8.9={ birth=yes }
+	887.12.14={ death=yes }
+}
+1019927305={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="hncldlgcaan"
+	culture=carib religion=caribic_pagan
+	father=1019927299	#Semén
+	795.3.11={ birth=yes }
+	865.10.1={ death=yes }
+}
+1019927306={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="cncldbkcann"
+	culture=carib religion=caribic_pagan
+	father=1019927299	#Semén
+	798.9.27={ birth=yes }
+	862.7.7={ death=yes }
+}
+1019927307={
+	name=Kaigouchi
+	dynasty=1009990241
+	dna="hncodcgcecn"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=8
+	father=1019927299	#Semén
+	804.5.7={ birth=yes }
+	891.4.23={ death=yes }
+}
+1019927308={
+	name=Pirijá
+	dynasty=1009990241
+	dna="ejghgdelhhd"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=8
+	father=1019927303	#Áhari
+	811.5.26={ birth=yes }
+	885.7.4={ death=yes }
+}
+1019927309={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="hjalgcepbhh"
+	culture=carib religion=caribic_pagan
+	father=1019927303	#Áhari
+	818.9.26={ birth=yes }
+	896.8.30={ death=yes }
+}
+1019927310={
+	name=Kaigouchi
+	dynasty=1009990241
+	dna="epdhgcelhhd"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=5
+	father=1019927308	#Pirijá
+	839.3.20={ birth=yes }
+	924.4.24={ death=yes }
+}
+1019927311={
+	name=Kaigouchi
+	dynasty=1009990241
+	dna="ljghmgckehi"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=8 learning=4
+	father=1019927308	#Pirijá
+	844.5.16={ birth=yes }
+	926.3.20={ death=yes }
+}
+1019927312={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="ejahadelhie"
+	culture=carib religion=caribic_pagan
+	father=1019927308	#Pirijá
+	850.12.22={ birth=yes }
+	908.5.28={ death=yes }
+}
+1019927313={
+	name=Áhari
+	dynasty=1009990241
+	dna="ndchihflhhd"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	father=1019927308	#Pirijá
+	855.1.25={ birth=yes }
+	928.6.13={ death=yes }
+}
+1019927314={
+	name=Semén
+	dynasty=1009990241
+	dna="lphhbeechjd"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=8 learning=5
+	father=1019927310	#Kaigouchi
+	866.4.10={ birth=yes }
+	925.6.21={ death=yes }
+}
+1019927315={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="ekdhlcjllco"
+	culture=carib religion=caribic_pagan
+	father=1019927310	#Kaigouchi
+	872.2.18={ birth=yes }
+	949.1.3={ death=yes }
+}
+1019927316={
+	name=Pirijá
+	dynasty=1009990241
+	dna="ifiiedellhk"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=5
+	father=1019927310	#Kaigouchi
+	877.9.27={ birth=yes }
+	957.6.17={ death=yes }
+}
+1019927317={
+	name=Áhari
+	dynasty=1009990241
+	dna="efnhemeljad"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=7 learning=8
+	father=1019927310	#Kaigouchi
+	880.9.25={ birth=yes }
+	951.5.5={ death=yes }
+}
+1019927318={
+	name=Ebedimu
+	dynasty=1009990241
+	dna="jpdhnndhhnh"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=7
+	father=1019927310	#Kaigouchi
+	883.6.7={ birth=yes }
+	942.6.7={ death=yes }
+}
+1019927319={
+	name=Ilumani
+	dynasty=1009990241
+	dna="ephhleecajd"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=7 learning=8
+	father=1019927314	#Semén
+	890.7.22={ birth=yes }
+	975.2.5={ death=yes }
+}
+1019927320={
+	name=Semén
+	dynasty=1009990241
+	dna="cbigceecajd"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=4 learning=5
+	father=1019927314	#Semén
+	896.7.5={ birth=yes }
+	971.10.6={ death=yes }
+}
+1019927321={
+	name=Ebedimu
+	dynasty=1009990241
+	dna="npagbeeljmd"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=4 learning=7
+	father=1019927314	#Semén
+	900.7.10={ birth=yes }
+	993.12.26={ death=yes }
+}
+1019927322={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="lpdobhgfhec"
+	culture=carib religion=caribic_pagan
+	father=1019927314	#Semén
+	904.7.6={ birth=yes }
+	978.10.15={ death=yes }
+}
+1019927323={
+	name=Ilumani
+	dynasty=1009990241
+	dna="gphhbeihknd"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=4 learning=5
+	father=1019927314	#Semén
+	909.4.27={ birth=yes }
+	992.2.25={ death=yes }
+}
+1019927324={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="idnhldjnaji"
+	culture=carib religion=caribic_pagan
+	father=1019927319	#Ilumani
+	916.3.15={ birth=yes }
+	997.5.1={ death=yes }
+}
+1019927325={
+	name=Semén
+	dynasty=1009990241
+	dna="ppmhgeechdb"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=4 learning=7
+	father=1019927319	#Ilumani
+	923.8.17={ birth=yes }
+	970.4.22={ death=yes }
+}
+1019927326={
+	name=Gunfuli
+	dynasty=1009990241
+	dna="cnbhpoccleg"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=6
+	father=1019927325	#Semén
+	954.6.26={ birth=yes }
+	1012.4.16={ death=yes }
+}
+1019927327={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="epmigefcjdb"
+	culture=carib religion=caribic_pagan
+	father=1019927325	#Semén
+	962.2.22={ birth=yes }
+	999.9.2={ death=yes }
+}
+1019927328={
+	name=Kaigouchi
+	dynasty=1009990241
+	dna="ebmbkkhchjb"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	father=1019927325	#Semén
+	966.11.26={ birth=yes }
+	1033.7.25={ death=yes }
+}
+1019927329={
+	name=Ilumani
+	dynasty=1009990241
+	dna="dnjhpoibleg"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=7 learning=8
+	father=1019927326	#Gunfuli
+	979.9.27={ birth=yes }
+	1039.4.12={ death=yes }
+}
+1019927330={
+	name=Semén
+	dynasty=1009990241
+	dna="cnphafddleg"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=5
+	father=1019927326	#Gunfuli
+	984.3.9={ birth=yes }
+	1061.4.7={ death=yes }
+}
+1019927331={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="ccpdpgpjkpl"
+	culture=carib religion=caribic_pagan
+	father=1019927326	#Gunfuli
+	988.7.14={ birth=yes }
+	1051.11.3={ death=yes }
+}
+1019927332={
+	name=Semén
+	dynasty=1009990241
+	dna="jnbcppcilag"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=5 learning=7
+	father=1019927326	#Gunfuli
+	996.1.17={ birth=yes }
+	1054.7.26={ death=yes }
+}
+1019927333={
+	name=Ebedimu
+	dynasty=1009990241
+	dna="dpjhpoiblbb"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=5 learning=4
+	father=1019927329	#Ilumani
+	1001.10.10={ birth=yes }
+	1088.8.12={ death=yes }
+}
+1019927334={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="nnahamijoee"
+	culture=carib religion=caribic_pagan
+	father=1019927329	#Ilumani
+	1007.4.27={ birth=yes }
+	1068.1.16={ death=yes }
+}
+1019927335={
+	name=Pirijá
+	dynasty=1009990241
+	dna="jnahckiblmg"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=5 learning=6
+	father=1019927329	#Ilumani
+	1013.2.13={ birth=yes }
+	1077.9.2={ death=yes }
+}
+1019927336={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="dcphpjielak"
+	culture=carib religion=caribic_pagan
+	father=1019927329	#Ilumani
+	1018.7.1={ birth=yes }
+	1085.5.6={ death=yes }
+}
+1019927337={
+	name=Ebedimu
+	dynasty=1009990241
+	dna="dojhpoigljb"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=7 learning=4
+	father=1019927333	#Ebedimu
+	1034.9.15={ birth=yes }
+	1117.3.4={ death=yes }
+}
+1019927338={
+	name=Ebedimu
+	dynasty=1009990241
+	dna="dojhpidbkfb"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	father=1019927333	#Ebedimu
+	1042.3.21={ birth=yes }
+	1119.12.3={ death=yes }
+}
+1019927339={
+	name=Ebedimu
+	dynasty=1009990241
+	dna="cedhloibojm"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=4 learning=8
+	father=1019927337	#Ebedimu
+	1062.6.20={ birth=yes }
+	1128.1.29={ death=yes }
+}
+1019927340={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="docpphihoib"
+	culture=carib religion=caribic_pagan
+	father=1019927337	#Ebedimu
+	1066.3.17={ birth=yes }
+	1127.6.21={ death=yes }
+}
+1019927341={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="eojipoigbje"
+	culture=carib religion=caribic_pagan
+	father=1019927337	#Ebedimu
+	1073.3.7={ birth=yes }
+	1114.12.1={ death=yes }
+}
+1019927342={
+	name=Kaigouchi
+	dynasty=1009990241
+	dna="dejhpoihlkb"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=5 learning=5
+	father=1019927337	#Ebedimu
+	1079.4.17={ birth=yes }
+	1178.1.10={ death=yes }
+}
+1019927343={
+	name=Semén
+	dynasty=1009990241
+	dna="cfdhjoiaamp"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=5 learning=5
+	father=1019927339	#Ebedimu
+	1087.1.18={ birth=yes }
+	1150.12.24={ death=yes }
+}
+1019927344={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="cedhlgibojm"
+	culture=carib religion=caribic_pagan
+	father=1019927339	#Ebedimu
+	1091.10.6={ birth=yes }
+	1161.7.9={ death=yes }
+}
+1019927345={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="oeghloibogc"
+	culture=carib religion=caribic_pagan
+	father=1019927339	#Ebedimu
+	1096.1.20={ birth=yes }
+	1152.11.22={ death=yes }
+}
+1019927346={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="aepnloibpjm"
+	culture=carib religion=caribic_pagan
+	father=1019927339	#Ebedimu
+	1100.10.16={ birth=yes }
+	1170.9.23={ death=yes }
+}
+1019927347={
+	name=Gunfuli
+	dynasty=1009990241
+	dna="ckdhmoibnjp"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=5 learning=8
+	father=1019927339	#Ebedimu
+	1105.1.21={ birth=yes }
+	1185.7.17={ death=yes }
+}
+1019927348={
+	name=Pirijá
+	dynasty=1009990241
+	dna="fedhjjakami"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=6 learning=7
+	father=1019927343	#Semén
+	1116.9.1={ birth=yes }
+	1189.1.25={ death=yes }
+}
+1019927349={
+	name=Gunfuli
+	dynasty=1009990241
+	dna="ggdhjegcaep"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	father=1019927343	#Semén
+	1121.7.20={ birth=yes }
+	1184.5.18={ death=yes }
+}
+1019927350={
+	name=Kaigouchi
+	dynasty=1009990241
+	dna="clahjciaomf"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	father=1019927343	#Semén
+	1124.5.17={ birth=yes }
+	1184.3.6={ death=yes }
+}
+1019927351={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="kfdhjoeafjn"
+	culture=carib religion=caribic_pagan
+	father=1019927343	#Semén
+	1128.2.2={ birth=yes }
+	1187.12.23={ death=yes }
+}
+1019927352={
+	name=Áhari
+	dynasty=1009990241
+	dna="fkbgjhakajl"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=5 learning=6
+	father=1019927348	#Pirijá
+	1142.11.13={ birth=yes }
+	1221.10.6={ death=yes }
+}
+1019927353={
+	name=Semén
+	dynasty=1009990241
+	dna="fedlhjefamj"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	father=1019927348	#Pirijá
+	1149.1.18={ birth=yes }
+	1204.3.15={ death=yes }
+}
+1019927354={
+	name=Kaigouchi
+	dynasty=1009990241
+	dna="fjbljhkenja"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	father=1019927352	#Áhari
+	1168.11.16={ birth=yes }
+	1249.12.12={ death=yes }
+}
+1019927355={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="hobgjdijajj"
+	culture=carib religion=caribic_pagan
+	father=1019927352	#Áhari
+	1174.6.2={ birth=yes }
+	1235.4.8={ death=yes }
+}
+1019927356={
+	name=Pirijá
+	dynasty=1009990241
+	dna="ffdajmaenjl"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=8
+	father=1019927352	#Áhari
+	1180.6.12={ birth=yes }
+	1244.3.29={ death=yes }
+}
+1019927357={
+	name=Semén
+	dynasty=1009990241
+	dna="dgbgicaomgd"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	father=1019927352	#Áhari
+	1185.5.1={ birth=yes }
+	1246.2.12={ death=yes }
+}
+1019927358={
+	name=Áhari
+	dynasty=1009990241
+	dna="fjeajhlenca"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=4 learning=5
+	father=1019927354	#Kaigouchi
+	1190.4.20={ birth=yes }
+	1284.5.30={ death=yes }
+}
+1019927359={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="fjaamnkejja"
+	culture=carib religion=caribic_pagan
+	father=1019927354	#Kaigouchi
+	1193.5.26={ birth=yes }
+	1246.9.17={ death=yes }
+}
+1019927360={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="jjjljfoenja"
+	culture=carib religion=caribic_pagan
+	father=1019927354	#Kaigouchi
+	1197.7.27={ birth=yes }
+	1256.9.11={ death=yes }
+}
+1019927361={
+	name=Semén
+	dynasty=1009990241
+	dna="fjbcjgienak"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	father=1019927354	#Kaigouchi
+	1201.2.26={ birth=yes }
+	1253.9.19={ death=yes }
+}
+1019927362={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="eagbjhkgpel"
+	culture=carib religion=caribic_pagan
+	father=1019927354	#Kaigouchi
+	1205.5.2={ birth=yes }
+	1285.9.10={ death=yes }
+}
+1019927363={
+	name=Semén
+	dynasty=1009990241
+	dna="gebfehjogja"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=8
+	father=1019927354	#Kaigouchi
+	1208.12.21={ birth=yes }
+	1287.5.3={ death=yes }
+}
+1019927364={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="hpehihkfnja"
+	culture=carib religion=caribic_pagan
+	father=1019927354	#Kaigouchi
+	1212.7.21={ birth=yes }
+	1293.2.25={ death=yes }
+}
+1019927365={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="fjeijhkenfa"
+	culture=carib religion=caribic_pagan
+	father=1019927358	#Áhari
+	1212.5.21={ birth=yes }
+	1280.7.31={ death=yes }
+}
+1019927366={
+	name=Kaigouchi
+	dynasty=1009990241
+	dna="fbeaakllccl"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=7 learning=8
+	father=1019927358	#Áhari
+	1219.4.3={ birth=yes }
+	1303.8.17={ death=yes }
+}
+1019927367={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="kjgplhldncc"
+	culture=carib religion=caribic_pagan
+	father=1019927358	#Áhari
+	1225.3.4={ birth=yes }
+	1309.10.30={ death=yes }
+}
+1019927368={
+	name=Pirijá
+	dynasty=1009990241
+	dna="mkioakhocba"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=5
+	father=1019927366	#Kaigouchi
+	1250.3.16={ birth=yes }
+	1305.3.12={ death=yes }
+}
+1019927369={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="aoeefkpolch"
+	culture=carib religion=caribic_pagan
+	father=1019927366	#Kaigouchi
+	1255.9.13={ birth=yes }
+	1309.9.29={ death=yes }
+}
+1019927370={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="ibicokikccl"
+	culture=carib religion=caribic_pagan
+	father=1019927366	#Kaigouchi
+	1259.9.25={ birth=yes }
+	1307.3.26={ death=yes }
+}
+1019927371={
+	name=Ebedimu
+	dynasty=1009990241
+	dna="fbfapdlfccm"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	father=1019927366	#Kaigouchi
+	1267.12.23={ birth=yes }
+	1352.10.19={ death=yes }
+}
+1019927372={
+	name=Kaigouchi
+	dynasty=1009990241
+	dna="blleakldccc"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=5 learning=5
+	father=1019927368	#Pirijá
+	1273.6.15={ birth=yes }
+	1335.10.1={ death=yes }
+}
+1019927373={
+	name=Pirijá
+	dynasty=1009990241
+	dna="mkiabkhocoa"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=4 learning=6
+	father=1019927368	#Pirijá
+	1277.11.24={ birth=yes }
+	1344.11.13={ death=yes }
+}
+1019927374={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="mkagcohgoba"
+	culture=carib religion=caribic_pagan
+	father=1019927368	#Pirijá
+	1282.5.19={ birth=yes }
+	1367.8.22={ death=yes }
+}
+1019927375={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="ngiojpmocfk"
+	culture=carib religion=caribic_pagan
+	father=1019927368	#Pirijá
+	1285.1.5={ birth=yes }
+	1343.2.15={ death=yes }
+}
+1019927376={
+	name=Ilumani
+	dynasty=1009990241
+	dna="pkiackgocbe"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=7
+	father=1019927368	#Pirijá
+	1287.6.16={ birth=yes }
+	1348.12.13={ death=yes }
+}
+1019927377={
+	name=Ilumani
+	dynasty=1009990241
+	dna="pkooklhpabd"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=8 learning=8
+	father=1019927368	#Pirijá
+	1291.2.26={ birth=yes }
+	1345.2.24={ death=yes }
+}
+1019927378={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="pkihaejncpa"
+	culture=carib religion=caribic_pagan
+	father=1019927368	#Pirijá
+	1295.1.12={ birth=yes }
+	1338.1.3={ death=yes }
+}
+1019927379={
+	name=Pirijá
+	dynasty=1009990241
+	dna="abflbkjdjcg"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=6 learning=8
+	father=1019927372	#Kaigouchi
+	1305.6.13={ birth=yes }
+	1394.8.14={ death=yes }
+}
+1019927380={
+	name=Semén
+	dynasty=1009990241
+	dna="bljefkldjco"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	father=1019927372	#Kaigouchi
+	1308.1.6={ birth=yes }
+	1396.11.15={ death=yes }
+}
+1019927381={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="lhlemddhngb"
+	culture=carib religion=caribic_pagan
+	father=1019927372	#Kaigouchi
+	1313.6.22={ birth=yes }
+	1377.7.30={ death=yes }
+}
+1019927382={
+	name=Ilumani
+	dynasty=1009990241
+	dna="jbmlekbdjei"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	father=1019927379	#Pirijá
+	1332.2.10={ birth=yes }
+	1384.5.21={ death=yes }
+}
+1019927383={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="hocllgjljcg"
+	culture=carib religion=caribic_pagan
+	father=1019927379	#Pirijá
+	1338.7.11={ birth=yes }
+	1404.1.7={ death=yes }
+}
+1019927384={
+	name=Pirijá
+	dynasty=1009990241
+	dna="hhfihmjobhd"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=8 learning=8
+	father=1019927379	#Pirijá
+	1346.9.18={ birth=yes }
+	1425.10.28={ death=yes }
+}
+1019927385={
+	name=Áhari
+	dynasty=1009990241
+	dna="ebflpfjdlcg"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=5 learning=4
+	father=1019927379	#Pirijá
+	1349.7.24={ birth=yes }
+	1404.12.7={ death=yes }
+}
+1019927386={
+	name=Isani
+	female=yes
+	dynasty=1009990241
+	dna="jcmlekldiki"
+	culture=carib religion=caribic_pagan
+	father=1019927382	#Ilumani
+	1366.5.5={ birth=yes }
+	1422.5.26={ death=yes }
+}
+1019927387={
+	name=Hayá
+	female=yes
+	dynasty=1009990241
+	dna="jbmiepmpjee"
+	culture=carib religion=caribic_pagan
+	father=1019927382	#Ilumani
+	1368.9.10={ birth=yes }
+	1435.11.30={ death=yes }
+}
+1019927388={
+	name=Áhari
+	dynasty=1009990241
+	dna="jbmnekcilel"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	father=1019927382	#Ilumani
+	1374.11.5={ birth=yes }
+	1451.11.10={ death=yes }
+}
+1019927389={
+	name=Áhari
+	dynasty=1009990241
+	dna="nblbhkailha"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	father=1019927388	#Áhari
+	1396.4.3={ birth=yes }
+	1456.11.4={ death=yes }
+}
+1019927390={
+	name=Ilumani
+	dynasty=1009990241
+	dna="jbmaofcbleb"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	father=1019927388	#Áhari
+	1403.6.15={ birth=yes }
+	1470.4.27={ death=yes }
+}
+1019927391={
+	name=Kaigouchi
+	dynasty=1009990241
+	dna="nbmnekcifle"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=8
+	father=1019927388	#Áhari
+	1409.10.17={ birth=yes }
+	1477.2.11={ death=yes }
+}
+1019927392={
+	name=Ilumani
+	dynasty=1009990242
+	dna="mdknbbgjkmb"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=5 learning=4
+	719.5.11={ birth=yes }
+	797.12.15={ death=yes }
+}
+1019927393={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="knkcmcdjkmb"
+	culture=carib religion=caribic_pagan
+	father=1019927392	#Ilumani
+	743.1.14={ birth=yes }
+	818.4.24={ death=yes }
+}
+1019927394={
+	name=Kaigouchi
+	dynasty=1009990242
+	dna="efenbbijohb"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	father=1019927392	#Ilumani
+	747.10.13={ birth=yes }
+	818.4.10={ death=yes }
+}
+1019927395={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="gjdnbnfjomh"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=6 learning=8
+	father=1019927392	#Ilumani
+	750.7.16={ birth=yes }
+	803.9.28={ death=yes }
+}
+1019927396={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="lphnbannkcc"
+	culture=carib religion=caribic_pagan
+	father=1019927392	#Ilumani
+	754.9.1={ birth=yes }
+	825.4.20={ death=yes }
+}
+1019927397={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="efebhlijoha"
+	culture=carib religion=caribic_pagan
+	father=1019927394	#Kaigouchi
+	776.8.3={ birth=yes }
+	835.7.25={ death=yes }
+}
+1019927398={
+	name=Semén
+	dynasty=1009990242
+	dna="efenbbljgob"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	father=1019927394	#Kaigouchi
+	782.5.9={ birth=yes }
+	862.10.19={ death=yes }
+}
+1019927399={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="egebhbgaohb"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=8 learning=5
+	father=1019927394	#Kaigouchi
+	789.7.18={ birth=yes }
+	861.4.15={ death=yes }
+}
+1019927400={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="ffknfbiloab"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	father=1019927394	#Kaigouchi
+	792.7.17={ birth=yes }
+	877.10.17={ death=yes }
+}
+1019927401={
+	name=Pirijá
+	dynasty=1009990242
+	dna="geomihmmdog"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=5 learning=5
+	father=1019927398	#Semén
+	807.1.13={ birth=yes }
+	879.11.29={ death=yes }
+}
+1019927402={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="eglnbblmgob"
+	culture=carib religion=caribic_pagan
+	father=1019927398	#Semén
+	813.4.25={ birth=yes }
+	873.8.3={ death=yes }
+}
+1019927403={
+	name=Ebedimu
+	dynasty=1009990242
+	dna="geomfkmmhne"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	father=1019927401	#Pirijá
+	839.7.16={ birth=yes }
+	921.12.6={ death=yes }
+}
+1019927404={
+	name=Ebedimu
+	dynasty=1009990242
+	dna="cegmahmmdcb"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	father=1019927401	#Pirijá
+	844.8.18={ birth=yes }
+	899.6.2={ death=yes }
+}
+1019927405={
+	name=Pirijá
+	dynasty=1009990242
+	dna="gaihmkildog"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=7 learning=6
+	father=1019927401	#Pirijá
+	851.11.22={ birth=yes }
+	918.12.20={ death=yes }
+}
+1019927406={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="gboookomham"
+	culture=carib religion=caribic_pagan
+	father=1019927403	#Ebedimu
+	869.8.26={ birth=yes }
+	952.3.13={ death=yes }
+}
+1019927407={
+	name=Ebedimu
+	dynasty=1009990242
+	dna="gaoifcbhaje"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=8 learning=7
+	father=1019927403	#Ebedimu
+	876.5.19={ birth=yes }
+	930.7.5={ death=yes }
+}
+1019927408={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="gpomlkmbmne"
+	culture=carib religion=caribic_pagan
+	father=1019927403	#Ebedimu
+	882.2.11={ birth=yes }
+	946.6.7={ death=yes }
+}
+1019927409={
+	name=Kaigouchi
+	dynasty=1009990242
+	dna="gaoifcghibh"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	father=1019927407	#Ebedimu
+	903.1.19={ birth=yes }
+	982.6.8={ death=yes }
+}
+1019927410={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="gadicckhajj"
+	culture=carib religion=caribic_pagan
+	father=1019927407	#Ebedimu
+	907.4.1={ birth=yes }
+	986.4.6={ death=yes }
+}
+1019927411={
+	name=Semén
+	dynasty=1009990242
+	dna="baompcehhji"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=7
+	father=1019927407	#Ebedimu
+	910.3.19={ birth=yes }
+	989.3.15={ death=yes }
+}
+1019927412={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="gpoiacbhabd"
+	culture=carib religion=caribic_pagan
+	father=1019927407	#Ebedimu
+	916.1.11={ birth=yes }
+	985.12.6={ death=yes }
+}
+1019927413={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="gboinchhojd"
+	culture=carib religion=caribic_pagan
+	father=1019927407	#Ebedimu
+	919.10.5={ birth=yes }
+	1006.2.10={ death=yes }
+}
+1019927414={
+	name=Áhari
+	dynasty=1009990242
+	dna="kibkhkipibc"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=4
+	father=1019927409	#Kaigouchi
+	925.10.22={ birth=yes }
+	987.5.24={ death=yes }
+}
+1019927415={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="gpoifcehgdg"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=4
+	father=1019927409	#Kaigouchi
+	932.11.27={ birth=yes }
+	996.1.28={ death=yes }
+}
+1019927416={
+	name=Áhari
+	dynasty=1009990242
+	dna="ejoomiolobh"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=8 learning=7
+	father=1019927409	#Kaigouchi
+	937.3.19={ birth=yes }
+	995.8.4={ death=yes }
+}
+1019927417={
+	name=Ebedimu
+	dynasty=1009990242
+	dna="dagjfifhigh"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=7 learning=7
+	father=1019927409	#Kaigouchi
+	941.4.6={ birth=yes }
+	1015.9.1={ death=yes }
+}
+1019927418={
+	name=Ebedimu
+	dynasty=1009990242
+	dna="aipkmgeliag"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=7 learning=4
+	father=1019927414	#Áhari
+	954.1.4={ birth=yes }
+	1038.7.4={ death=yes }
+}
+1019927419={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="kipkhkhphbb"
+	culture=carib religion=caribic_pagan
+	father=1019927414	#Áhari
+	960.1.7={ birth=yes }
+	1043.9.28={ death=yes }
+}
+1019927420={
+	name=Áhari
+	dynasty=1009990242
+	dna="kioehdiaibc"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=5
+	father=1019927414	#Áhari
+	962.4.16={ birth=yes }
+	1029.12.16={ death=yes }
+}
+1019927421={
+	name=Semén
+	dynasty=1009990242
+	dna="ldnkmkipibc"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=7
+	father=1019927414	#Áhari
+	967.12.17={ birth=yes }
+	1035.10.25={ death=yes }
+}
+1019927422={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="kibkfkopikc"
+	culture=carib religion=caribic_pagan
+	father=1019927414	#Áhari
+	971.2.1={ birth=yes }
+	1041.4.21={ death=yes }
+}
+1019927423={
+	name=Áhari
+	dynasty=1009990242
+	dna="glkmhgipibc"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=8
+	father=1019927414	#Áhari
+	976.1.20={ birth=yes }
+	1054.4.23={ death=yes }
+}
+1019927424={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="kkpkhnhpjea"
+	culture=carib religion=caribic_pagan
+	father=1019927414	#Áhari
+	982.3.21={ birth=yes }
+	1066.7.30={ death=yes }
+}
+1019927425={
+	name=Áhari
+	dynasty=1009990242
+	dna="aiokmkenkfn"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=7 learning=8
+	father=1019927418	#Ebedimu
+	982.8.5={ birth=yes }
+	1061.10.5={ death=yes }
+}
+1019927426={
+	name=Ilumani
+	dynasty=1009990242
+	dna="iipkngeliag"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=6
+	father=1019927418	#Ebedimu
+	986.4.22={ birth=yes }
+	1038.7.20={ death=yes }
+}
+1019927427={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="ekpmomiliab"
+	culture=carib religion=caribic_pagan
+	father=1019927418	#Ebedimu
+	991.6.7={ birth=yes }
+	1044.10.17={ death=yes }
+}
+1019927428={
+	name=Áhari
+	dynasty=1009990242
+	dna="efpammeliaa"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	father=1019927418	#Ebedimu
+	995.4.6={ birth=yes }
+	1063.1.20={ death=yes }
+}
+1019927429={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="miokmpenkmm"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=4 learning=7
+	father=1019927425	#Áhari
+	1008.2.21={ birth=yes }
+	1074.9.5={ death=yes }
+}
+1019927430={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="pikkomenefn"
+	culture=carib religion=caribic_pagan
+	father=1019927425	#Áhari
+	1012.4.10={ birth=yes }
+	1089.11.22={ death=yes }
+}
+1019927431={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="hdopnaecmfn"
+	culture=carib religion=caribic_pagan
+	father=1019927425	#Áhari
+	1018.2.6={ birth=yes }
+	1076.2.23={ death=yes }
+}
+1019927432={
+	name=Pirijá
+	dynasty=1009990242
+	dna="lfkknkegnfo"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=8
+	father=1019927425	#Áhari
+	1022.5.21={ birth=yes }
+	1083.12.1={ death=yes }
+}
+1019927433={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="aodkmiennkn"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=8 learning=8
+	father=1019927425	#Áhari
+	1026.3.20={ birth=yes }
+	1089.2.2={ death=yes }
+}
+1019927434={
+	name=Kaigouchi
+	dynasty=1009990242
+	dna="agibmimnkfl"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	father=1019927425	#Áhari
+	1030.5.22={ birth=yes }
+	1096.11.11={ death=yes }
+}
+1019927435={
+	name=Ebedimu
+	dynasty=1009990242
+	dna="ainfmkenjgl"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=4
+	father=1019927425	#Áhari
+	1034.5.9={ birth=yes }
+	1112.8.18={ death=yes }
+}
+1019927436={
+	name=Ilumani
+	dynasty=1009990242
+	dna="mcohapecphm"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=4 learning=6
+	father=1019927429	#Gunfuli
+	1035.2.20={ birth=yes }
+	1106.12.2={ death=yes }
+}
+1019927437={
+	name=Ilumani
+	dynasty=1009990242
+	dna="miokmpackmm"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=7 learning=6
+	father=1019927429	#Gunfuli
+	1038.3.20={ birth=yes }
+	1136.11.28={ death=yes }
+}
+1019927438={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="liodcgedkii"
+	culture=carib religion=caribic_pagan
+	father=1019927429	#Gunfuli
+	1045.10.2={ birth=yes }
+	1099.12.22={ death=yes }
+}
+1019927439={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="ihokmbendpp"
+	culture=carib religion=caribic_pagan
+	father=1019927429	#Gunfuli
+	1049.7.3={ birth=yes }
+	1107.5.18={ death=yes }
+}
+1019927440={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="mgonmponhmm"
+	culture=carib religion=caribic_pagan
+	father=1019927429	#Gunfuli
+	1053.6.12={ birth=yes }
+	1130.4.16={ death=yes }
+}
+1019927441={
+	name=Áhari
+	dynasty=1009990242
+	dna="mifkmfhnkmm"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=6
+	father=1019927429	#Gunfuli
+	1058.4.10={ birth=yes }
+	1115.10.26={ death=yes }
+}
+1019927442={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="jcooaifcecm"
+	culture=carib religion=caribic_pagan
+	father=1019927436	#Ilumani
+	1061.5.26={ birth=yes }
+	1141.10.16={ death=yes }
+}
+1019927443={
+	name=Kaigouchi
+	dynasty=1009990242
+	dna="gcohaplmmem"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=5 learning=7
+	father=1019927436	#Ilumani
+	1068.7.18={ birth=yes }
+	1128.7.7={ death=yes }
+}
+1019927444={
+	name=Semén
+	dynasty=1009990242
+	dna="bkkboblhmho"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=7 learning=6
+	father=1019927443	#Kaigouchi
+	1094.8.22={ birth=yes }
+	1162.4.20={ death=yes }
+}
+1019927445={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="gcbmablmhda"
+	culture=carib religion=caribic_pagan
+	father=1019927443	#Kaigouchi
+	1100.6.11={ birth=yes }
+	1177.6.27={ death=yes }
+}
+1019927446={
+	name=Ilumani
+	dynasty=1009990242
+	dna="gcoaiplmmej"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	father=1019927443	#Kaigouchi
+	1104.11.8={ birth=yes }
+	1171.8.27={ death=yes }
+}
+1019927447={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="gcohaplmppp"
+	culture=carib religion=caribic_pagan
+	father=1019927443	#Kaigouchi
+	1107.5.20={ birth=yes }
+	1166.4.14={ death=yes }
+}
+1019927448={
+	name=Pirijá
+	dynasty=1009990242
+	dna="bkkpfblhdmo"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=8 learning=4
+	father=1019927444	#Semén
+	1121.2.25={ birth=yes }
+	1201.9.23={ death=yes }
+}
+1019927449={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="okkboblhmkg"
+	culture=carib religion=caribic_pagan
+	father=1019927444	#Semén
+	1126.5.22={ birth=yes }
+	1200.9.2={ death=yes }
+}
+1019927450={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="bkdbobdhkhh"
+	culture=carib religion=caribic_pagan
+	father=1019927444	#Semén
+	1131.7.13={ birth=yes }
+	1228.8.26={ death=yes }
+}
+1019927451={
+	name=Semén
+	dynasty=1009990242
+	dna="dkkboblhmno"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=8 learning=5
+	father=1019927444	#Semén
+	1134.1.19={ birth=yes }
+	1234.10.29={ death=yes }
+}
+1019927452={
+	name=Semén
+	dynasty=1009990242
+	dna="fkcbjblhmgb"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=8
+	father=1019927444	#Semén
+	1137.1.12={ birth=yes }
+	1224.8.23={ death=yes }
+}
+1019927453={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="bkdboilcmhd"
+	culture=carib religion=caribic_pagan
+	father=1019927444	#Semén
+	1144.12.3={ birth=yes }
+	1210.9.22={ death=yes }
+}
+1019927454={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="bmkbkajbkak"
+	culture=carib religion=caribic_pagan
+	father=1019927444	#Semén
+	1146.6.27={ birth=yes }
+	1229.5.2={ death=yes }
+}
+1019927455={
+	name=Kaigouchi
+	dynasty=1009990242
+	dna="dkjifblmlmp"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=7 learning=4
+	father=1019927448	#Pirijá
+	1147.11.12={ birth=yes }
+	1219.3.29={ death=yes }
+}
+1019927456={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="bdkpfbleemo"
+	culture=carib religion=caribic_pagan
+	father=1019927448	#Pirijá
+	1151.2.17={ birth=yes }
+	1192.2.27={ death=yes }
+}
+1019927457={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="lkkhfblkdid"
+	culture=carib religion=caribic_pagan
+	father=1019927448	#Pirijá
+	1157.10.27={ birth=yes }
+	1231.11.14={ death=yes }
+}
+1019927458={
+	name=Semén
+	dynasty=1009990242
+	dna="bhbpoolhjmn"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	father=1019927448	#Pirijá
+	1162.3.1={ birth=yes }
+	1239.11.3={ death=yes }
+}
+1019927459={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="bmddjbfkdmo"
+	culture=carib religion=caribic_pagan
+	father=1019927448	#Pirijá
+	1165.7.5={ birth=yes }
+	1221.6.20={ death=yes }
+}
+1019927460={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="kdjffbdmhmp"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=8
+	father=1019927455	#Kaigouchi
+	1174.10.13={ birth=yes }
+	1246.3.23={ death=yes }
+}
+1019927461={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="dkjcoblmlmm"
+	culture=carib religion=caribic_pagan
+	father=1019927455	#Kaigouchi
+	1180.5.22={ birth=yes }
+	1264.4.21={ death=yes }
+}
+1019927462={
+	name=Ebedimu
+	dynasty=1009990242
+	dna="dejoadjmled"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=8
+	father=1019927455	#Kaigouchi
+	1182.8.14={ birth=yes }
+	1260.4.24={ death=yes }
+}
+1019927463={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="kkeikpmlimp"
+	culture=carib religion=caribic_pagan
+	father=1019927455	#Kaigouchi
+	1187.10.8={ birth=yes }
+	1244.4.9={ death=yes }
+}
+1019927464={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="kdmfgbpfhcp"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=5 learning=4
+	father=1019927460	#Gunfuli
+	1207.4.9={ birth=yes }
+	1275.8.13={ death=yes }
+}
+1019927465={
+	name=Ebedimu
+	dynasty=1009990242
+	dna="kcjbfblehbp"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	father=1019927460	#Gunfuli
+	1212.2.14={ birth=yes }
+	1268.1.28={ death=yes }
+}
+1019927466={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="fdkfcbdphnp"
+	culture=carib religion=caribic_pagan
+	father=1019927460	#Gunfuli
+	1217.11.22={ birth=yes }
+	1287.4.28={ death=yes }
+}
+1019927467={
+	name=Kaigouchi
+	dynasty=1009990242
+	dna="kdofhbpmdmp"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=6 learning=7
+	father=1019927460	#Gunfuli
+	1221.12.11={ birth=yes }
+	1276.9.18={ death=yes }
+}
+1019927468={
+	name=Kaigouchi
+	dynasty=1009990242
+	dna="kdhfgbbfipp"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019927464	#Gunfuli
+	1231.11.3={ birth=yes }
+	1300.3.8={ death=yes }
+}
+1019927469={
+	name=Kaigouchi
+	dynasty=1009990242
+	dna="kbkfgkffhcp"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	father=1019927464	#Gunfuli
+	1235.9.21={ birth=yes }
+	1301.10.23={ death=yes }
+}
+1019927470={
+	name=Ilumani
+	dynasty=1009990242
+	dna="adifobofhcg"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=5 learning=4
+	father=1019927464	#Gunfuli
+	1242.11.10={ birth=yes }
+	1305.5.8={ death=yes }
+}
+1019927471={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="kdmkgbcfhof"
+	culture=carib religion=caribic_pagan
+	father=1019927464	#Gunfuli
+	1247.7.14={ birth=yes }
+	1326.8.28={ death=yes }
+}
+1019927472={
+	name=Ilumani
+	dynasty=1009990242
+	dna="aaepdblkipl"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=6 learning=8
+	father=1019927468	#Kaigouchi
+	1255.5.16={ birth=yes }
+	1326.8.9={ death=yes }
+}
+1019927473={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="knlfkmbfjpp"
+	culture=carib religion=caribic_pagan
+	father=1019927468	#Kaigouchi
+	1263.9.21={ birth=yes }
+	1350.2.28={ death=yes }
+}
+1019927474={
+	name=Ebedimu
+	dynasty=1009990242
+	dna="kohlhkbflpp"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=7
+	father=1019927468	#Kaigouchi
+	1270.2.10={ birth=yes }
+	1347.7.30={ death=yes }
+}
+1019927475={
+	name=Semén
+	dynasty=1009990242
+	dna="kphhbenfili"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=8
+	father=1019927468	#Kaigouchi
+	1272.1.10={ birth=yes }
+	1353.1.9={ death=yes }
+}
+1019927476={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="apppdchkipl"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	father=1019927472	#Ilumani
+	1279.11.17={ birth=yes }
+	1344.6.1={ death=yes }
+}
+1019927477={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="aieodbicial"
+	culture=carib religion=caribic_pagan
+	father=1019927472	#Ilumani
+	1283.7.3={ birth=yes }
+	1340.7.21={ death=yes }
+}
+1019927478={
+	name=Ilumani
+	dynasty=1009990242
+	dna="maepiblkipl"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=7 learning=5
+	father=1019927472	#Ilumani
+	1288.7.13={ birth=yes }
+	1343.10.13={ death=yes }
+}
+1019927479={
+	name=Pirijá
+	dynasty=1009990242
+	dna="nabpdflkiml"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	father=1019927472	#Ilumani
+	1295.11.13={ birth=yes }
+	1379.5.17={ death=yes }
+}
+1019927480={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="mgdpdplkdbl"
+	culture=carib religion=caribic_pagan
+	father=1019927472	#Ilumani
+	1300.5.27={ birth=yes }
+	1355.11.7={ death=yes }
+}
+1019927481={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="aibffgnklpl"
+	culture=carib religion=caribic_pagan
+	father=1019927476	#Gunfuli
+	1305.2.19={ birth=yes }
+	1390.7.28={ death=yes }
+}
+1019927482={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="mbkbcchpipl"
+	culture=carib religion=caribic_pagan
+	father=1019927476	#Gunfuli
+	1309.9.8={ birth=yes }
+	1367.7.2={ death=yes }
+}
+1019927483={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="ndppdgificc"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	father=1019927476	#Gunfuli
+	1316.9.9={ birth=yes }
+	1372.7.28={ death=yes }
+}
+1019927484={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="fdppdgimbec"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	father=1019927483	#Gunfuli
+	1346.8.18={ birth=yes }
+	1445.4.13={ death=yes }
+}
+1019927485={
+	name=Semén
+	dynasty=1009990242
+	dna="ajgpdgoficc"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=7 learning=8
+	father=1019927483	#Gunfuli
+	1354.3.12={ birth=yes }
+	1409.4.25={ death=yes }
+}
+1019927486={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="nippmgdeehc"
+	culture=carib religion=caribic_pagan
+	father=1019927483	#Gunfuli
+	1358.3.21={ birth=yes }
+	1445.11.7={ death=yes }
+}
+1019927487={
+	name=Ilumani
+	dynasty=1009990242
+	dna="jmnjdpifacf"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=8 learning=8
+	father=1019927483	#Gunfuli
+	1364.3.6={ birth=yes }
+	1418.10.23={ death=yes }
+}
+1019927488={
+	name=Áhari
+	dynasty=1009990242
+	dna="hjpfmgmabnd"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	father=1019927484	#Gunfuli
+	1376.6.20={ birth=yes }
+	1463.8.11={ death=yes }
+}
+1019927489={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="fdkpggmfkcb"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=7
+	father=1019927484	#Gunfuli
+	1381.7.5={ birth=yes }
+	1457.6.26={ death=yes }
+}
+1019927490={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="mdpjegkmeec"
+	culture=carib religion=caribic_pagan
+	father=1019927484	#Gunfuli
+	1386.8.22={ birth=yes }
+	1462.12.8={ death=yes }
+}
+1019927491={
+	name=Gunfuli
+	dynasty=1009990242
+	dna="ojmpdgimbbc"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=4 learning=4
+	father=1019927484	#Gunfuli
+	1390.9.15={ birth=yes }
+	1461.7.31={ death=yes }
+}
+1019927492={
+	name=Áhari
+	dynasty=1009990242
+	dna="fdppdhbdbec"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=8 learning=8
+	father=1019927484	#Gunfuli
+	1395.2.4={ birth=yes }
+	1470.8.22={ death=yes }
+}
+1019927493={
+	name=Isani
+	female=yes
+	dynasty=1009990242
+	dna="hjdfdgmmbko"
+	culture=carib religion=caribic_pagan
+	father=1019927488	#Áhari
+	1402.10.23={ birth=yes }
+	1484.10.17={ death=yes }
+}
+1019927494={
+	name=Semén
+	dynasty=1009990242
+	dna="jhpfmgmabnp"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=6 learning=6
+	father=1019927488	#Áhari
+	1408.8.9={ birth=yes }
+	1455.2.14={ death=yes }
+}
+1019927495={
+	name=Kaigouchi
+	dynasty=1009990242
+	dna="mdpgedofpnf"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	father=1019927488	#Áhari
+	1412.6.27={ birth=yes }
+	1483.5.7={ death=yes }
+}
+1019927496={
+	name=Hayá
+	female=yes
+	dynasty=1009990242
+	dna="ojanmkoabnn"
+	culture=carib religion=caribic_pagan
+	father=1019927488	#Áhari
+	1415.12.18={ birth=yes }
+	1505.5.23={ death=yes }
+}
+1019927497={
+	name=Semén
+	dynasty=1009990243
+	dna="dmjffjefnln"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=5 learning=8
+	720.12.24={ birth=yes }
+	798.3.12={ death=yes }
+}
+1019927498={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="mcnfkhefpln"
+	culture=carib religion=caribic_pagan
+	father=1019927497	#Semén
+	742.11.27={ birth=yes }
+	819.6.6={ death=yes }
+}
+1019927499={
+	name=Semén
+	dynasty=1009990243
+	dna="lbjjljaajhn"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=4
+	father=1019927497	#Semén
+	749.4.19={ birth=yes }
+	807.8.5={ death=yes }
+}
+1019927500={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="nmbgfbcafgj"
+	culture=carib religion=caribic_pagan
+	father=1019927497	#Semén
+	754.5.1={ birth=yes }
+	838.6.29={ death=yes }
+}
+1019927501={
+	name=Semén
+	dynasty=1009990243
+	dna="lbmjmicnjpn"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=5
+	father=1019927499	#Semén
+	774.4.6={ birth=yes }
+	826.12.29={ death=yes }
+}
+1019927502={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="lbjjcknhfhh"
+	culture=carib religion=caribic_pagan
+	father=1019927499	#Semén
+	779.6.27={ birth=yes }
+	849.2.7={ death=yes }
+}
+1019927503={
+	name=Ilumani
+	dynasty=1009990243
+	dna="abidkjankja"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	father=1019927499	#Semén
+	784.5.8={ birth=yes }
+	883.10.13={ death=yes }
+}
+1019927504={
+	name=Ilumani
+	dynasty=1009990243
+	dna="lmljnjeajhd"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019927499	#Semén
+	787.5.27={ birth=yes }
+	870.12.18={ death=yes }
+}
+1019927505={
+	name=Áhari
+	dynasty=1009990243
+	dna="lbmajicnnlb"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=4
+	father=1019927501	#Semén
+	799.7.10={ birth=yes }
+	881.4.20={ death=yes }
+}
+1019927506={
+	name=Ebedimu
+	dynasty=1009990243
+	dna="lmgjmbboajp"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=6 learning=8
+	father=1019927501	#Semén
+	803.8.24={ birth=yes }
+	861.8.13={ death=yes }
+}
+1019927507={
+	name=Kaigouchi
+	dynasty=1009990243
+	dna="mlpamgenmpn"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=7
+	father=1019927501	#Semén
+	806.2.1={ birth=yes }
+	858.2.20={ death=yes }
+}
+1019927508={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="lbmjmlhdjmn"
+	culture=carib religion=caribic_pagan
+	father=1019927501	#Semén
+	809.7.3={ birth=yes }
+	896.8.23={ death=yes }
+}
+1019927509={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="lbfjmicnjen"
+	culture=carib religion=caribic_pagan
+	father=1019927501	#Semén
+	815.11.17={ birth=yes }
+	902.2.6={ death=yes }
+}
+1019927510={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="jbmljicniem"
+	culture=carib religion=caribic_pagan
+	father=1019927505	#Áhari
+	820.2.20={ birth=yes }
+	873.9.26={ death=yes }
+}
+1019927511={
+	name=Ilumani
+	dynasty=1009990243
+	dna="lbcfjipnbab"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=6 learning=7
+	father=1019927505	#Áhari
+	823.4.8={ birth=yes }
+	908.12.10={ death=yes }
+}
+1019927512={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="lnmddijecmm"
+	culture=carib religion=caribic_pagan
+	father=1019927505	#Áhari
+	830.8.27={ birth=yes }
+	917.4.1={ death=yes }
+}
+1019927513={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="lamkjgcnnlb"
+	culture=carib religion=caribic_pagan
+	father=1019927505	#Áhari
+	833.10.10={ birth=yes }
+	895.5.13={ death=yes }
+}
+1019927514={
+	name=Áhari
+	dynasty=1009990243
+	dna="lbmigicmnhp"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=4 learning=5
+	father=1019927505	#Áhari
+	839.10.26={ birth=yes }
+	909.5.12={ death=yes }
+}
+1019927515={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="laknjcngmab"
+	culture=carib religion=caribic_pagan
+	father=1019927511	#Ilumani
+	847.5.18={ birth=yes }
+	922.11.28={ death=yes }
+}
+1019927516={
+	name=Semén
+	dynasty=1009990243
+	dna="lbchjikekae"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=8 learning=8
+	father=1019927511	#Ilumani
+	854.10.17={ birth=yes }
+	927.11.23={ death=yes }
+}
+1019927517={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="lbcfjijfbmm"
+	culture=carib religion=caribic_pagan
+	father=1019927511	#Ilumani
+	858.7.7={ birth=yes }
+	919.10.5={ death=yes }
+}
+1019927518={
+	name=Ebedimu
+	dynasty=1009990243
+	dna="lbcijikbkle"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=7 learning=6
+	father=1019927516	#Semén
+	884.6.10={ birth=yes }
+	954.8.22={ death=yes }
+}
+1019927519={
+	name=Gunfuli
+	dynasty=1009990243
+	dna="dbchjilekao"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=5 learning=4
+	father=1019927516	#Semén
+	888.4.6={ birth=yes }
+	945.1.23={ death=yes }
+}
+1019927520={
+	name=Áhari
+	dynasty=1009990243
+	dna="lbjejifbjae"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=5 learning=8
+	father=1019927516	#Semén
+	892.11.3={ birth=yes }
+	948.8.19={ death=yes }
+}
+1019927521={
+	name=Ilumani
+	dynasty=1009990243
+	dna="ldahjikekmi"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	father=1019927516	#Semén
+	898.1.1={ birth=yes }
+	975.6.19={ death=yes }
+}
+1019927522={
+	name=Pirijá
+	dynasty=1009990243
+	dna="limijigaoom"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=7
+	father=1019927518	#Ebedimu
+	915.9.25={ birth=yes }
+	984.3.11={ death=yes }
+}
+1019927523={
+	name=Semén
+	dynasty=1009990243
+	dna="lfiijokbalm"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=6 learning=7
+	father=1019927518	#Ebedimu
+	920.7.20={ birth=yes }
+	997.3.25={ death=yes }
+}
+1019927524={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="cbnjcikbmge"
+	culture=carib religion=caribic_pagan
+	father=1019927518	#Ebedimu
+	927.12.9={ birth=yes }
+	1003.1.23={ death=yes }
+}
+1019927525={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="pehiomfajij"
+	culture=carib religion=caribic_pagan
+	father=1019927522	#Pirijá
+	936.9.22={ birth=yes }
+	1035.9.20={ death=yes }
+}
+1019927526={
+	name=Semén
+	dynasty=1009990243
+	dna="lebifildmde"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=7 learning=8
+	father=1019927522	#Pirijá
+	939.7.3={ birth=yes }
+	1006.8.24={ death=yes }
+}
+1019927527={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="gdmmjpgaooh"
+	culture=carib religion=caribic_pagan
+	father=1019927522	#Pirijá
+	944.5.20={ birth=yes }
+	986.6.9={ death=yes }
+}
+1019927528={
+	name=Ebedimu
+	dynasty=1009990243
+	dna="limidnjahdc"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=7 learning=5
+	father=1019927522	#Pirijá
+	949.2.17={ birth=yes }
+	1005.8.24={ death=yes }
+}
+1019927529={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="lmkacgldjdp"
+	culture=carib religion=caribic_pagan
+	father=1019927526	#Semén
+	960.3.26={ birth=yes }
+	1047.3.13={ death=yes }
+}
+1019927530={
+	name=Kaigouchi
+	dynasty=1009990243
+	dna="iebmfabajje"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=6 learning=7
+	father=1019927526	#Semén
+	965.8.10={ birth=yes }
+	1040.8.21={ death=yes }
+}
+1019927531={
+	name=Ebedimu
+	dynasty=1009990243
+	dna="gbbifdldmbe"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=8
+	father=1019927526	#Semén
+	972.9.4={ birth=yes }
+	1030.3.3={ death=yes }
+}
+1019927532={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="febiginkmde"
+	culture=carib religion=caribic_pagan
+	father=1019927526	#Semén
+	976.4.10={ birth=yes }
+	1030.10.8={ death=yes }
+}
+1019927533={
+	name=Ebedimu
+	dynasty=1009990243
+	dna="iecmfbbajni"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=4 learning=4
+	father=1019927530	#Kaigouchi
+	994.5.20={ birth=yes }
+	1082.1.25={ death=yes }
+}
+1019927534={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="icompakaljl"
+	culture=carib religion=caribic_pagan
+	father=1019927530	#Kaigouchi
+	998.9.9={ birth=yes }
+	1067.6.17={ death=yes }
+}
+1019927535={
+	name=Kaigouchi
+	dynasty=1009990243
+	dna="ilbkfcbkijf"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=6 learning=8
+	father=1019927530	#Kaigouchi
+	1002.8.5={ birth=yes }
+	1078.11.17={ death=yes }
+}
+1019927536={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="ijoehanajje"
+	culture=carib religion=caribic_pagan
+	father=1019927530	#Kaigouchi
+	1004.5.10={ birth=yes }
+	1069.6.22={ death=yes }
+}
+1019927537={
+	name=Kaigouchi
+	dynasty=1009990243
+	dna="fhohnophjej"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	father=1019927530	#Kaigouchi
+	1008.8.4={ birth=yes }
+	1066.11.14={ death=yes }
+}
+1019927538={
+	name=Pirijá
+	dynasty=1009990243
+	dna="idhmcfbaece"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	father=1019927530	#Kaigouchi
+	1013.11.15={ birth=yes }
+	1070.10.10={ death=yes }
+}
+1019927539={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="ipbmfanpojb"
+	culture=carib religion=caribic_pagan
+	father=1019927530	#Kaigouchi
+	1020.3.20={ birth=yes }
+	1115.9.25={ death=yes }
+}
+1019927540={
+	name=Pirijá
+	dynasty=1009990243
+	dna="iehofcbajdi"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=8
+	father=1019927533	#Ebedimu
+	1021.1.24={ birth=yes }
+	1089.6.10={ death=yes }
+}
+1019927541={
+	name=Kaigouchi
+	dynasty=1009990243
+	dna="iecmfebilpn"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	father=1019927533	#Ebedimu
+	1025.6.15={ birth=yes }
+	1074.3.27={ death=yes }
+}
+1019927542={
+	name=Semén
+	dynasty=1009990243
+	dna="mkhnflhaplo"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=6 learning=7
+	father=1019927540	#Pirijá
+	1045.12.23={ birth=yes }
+	1126.3.3={ death=yes }
+}
+1019927543={
+	name=Pirijá
+	dynasty=1009990243
+	dna="deholpbbjdj"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=6
+	father=1019927540	#Pirijá
+	1049.7.23={ birth=yes }
+	1089.10.24={ death=yes }
+}
+1019927544={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="ikhlkebajdi"
+	culture=carib religion=caribic_pagan
+	father=1019927540	#Pirijá
+	1052.8.13={ birth=yes }
+	1148.6.16={ death=yes }
+}
+1019927545={
+	name=Áhari
+	dynasty=1009990243
+	dna="iecolichjbf"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	father=1019927540	#Pirijá
+	1057.7.1={ birth=yes }
+	1110.4.24={ death=yes }
+}
+1019927546={
+	name=Gunfuli
+	dynasty=1009990243
+	dna="iehefdgfjdi"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	father=1019927540	#Pirijá
+	1063.11.3={ birth=yes }
+	1116.11.15={ death=yes }
+}
+1019927547={
+	name=Pirijá
+	dynasty=1009990243
+	dna="pkgnflhdalo"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=8 learning=4
+	father=1019927542	#Semén
+	1070.9.16={ birth=yes }
+	1145.8.16={ death=yes }
+}
+1019927548={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="mkhngbjepbb"
+	culture=carib religion=caribic_pagan
+	father=1019927542	#Semén
+	1074.8.26={ birth=yes }
+	1153.4.19={ death=yes }
+}
+1019927549={
+	name=Ilumani
+	dynasty=1009990243
+	dna="eipcflhpplo"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=8
+	father=1019927542	#Semén
+	1079.10.17={ birth=yes }
+	1134.4.18={ death=yes }
+}
+1019927550={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="mdhnjlhaple"
+	culture=carib religion=caribic_pagan
+	father=1019927542	#Semén
+	1084.3.1={ birth=yes }
+	1182.4.24={ death=yes }
+}
+1019927551={
+	name=Pirijá
+	dynasty=1009990243
+	dna="hkhnfkhapci"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	father=1019927542	#Semén
+	1088.3.19={ birth=yes }
+	1170.10.15={ death=yes }
+}
+1019927552={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="mdhnfldiplp"
+	culture=carib religion=caribic_pagan
+	father=1019927542	#Semén
+	1093.9.16={ birth=yes }
+	1162.6.10={ death=yes }
+}
+1019927553={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="dghmilhfllo"
+	culture=carib religion=caribic_pagan
+	father=1019927542	#Semén
+	1098.8.22={ birth=yes }
+	1168.4.8={ death=yes }
+}
+1019927554={
+	name=Pirijá
+	dynasty=1009990243
+	dna="emgndohdbjo"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=4
+	father=1019927547	#Pirijá
+	1094.9.18={ birth=yes }
+	1178.11.29={ death=yes }
+}
+1019927555={
+	name=Ilumani
+	dynasty=1009990243
+	dna="hfcnfnhpala"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=6 learning=7
+	father=1019927547	#Pirijá
+	1097.2.3={ birth=yes }
+	1163.12.21={ death=yes }
+}
+1019927556={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="hkjcblhddfo"
+	culture=carib religion=caribic_pagan
+	father=1019927547	#Pirijá
+	1101.12.24={ birth=yes }
+	1161.4.26={ death=yes }
+}
+1019927557={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="pflnekaiamd"
+	culture=carib religion=caribic_pagan
+	father=1019927547	#Pirijá
+	1106.5.3={ birth=yes }
+	1188.12.15={ death=yes }
+}
+1019927558={
+	name=Gunfuli
+	dynasty=1009990243
+	dna="pggnelhcalo"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	father=1019927547	#Pirijá
+	1112.8.24={ birth=yes }
+	1189.3.5={ death=yes }
+}
+1019927559={
+	name=Ilumani
+	dynasty=1009990243
+	dna="ikgnhlhdalj"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=4
+	father=1019927547	#Pirijá
+	1116.9.24={ birth=yes }
+	1186.4.19={ death=yes }
+}
+1019927560={
+	name=Semén
+	dynasty=1009990243
+	dna="dpgagjhdbdp"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=8 learning=8
+	father=1019927554	#Pirijá
+	1117.5.27={ birth=yes }
+	1170.12.3={ death=yes }
+}
+1019927561={
+	name=Semén
+	dynasty=1009990243
+	dna="bmbndohdnbb"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	father=1019927554	#Pirijá
+	1122.12.23={ birth=yes }
+	1179.2.18={ death=yes }
+}
+1019927562={
+	name=Semén
+	dynasty=1009990243
+	dna="emdndohobah"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=7 learning=8
+	father=1019927554	#Pirijá
+	1127.11.7={ birth=yes }
+	1212.11.28={ death=yes }
+}
+1019927563={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="cmglkikcijl"
+	culture=carib religion=caribic_pagan
+	father=1019927554	#Pirijá
+	1131.12.16={ birth=yes }
+	1217.9.14={ death=yes }
+}
+1019927564={
+	name=Ebedimu
+	dynasty=1009990243
+	dna="oajndfddbjg"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=7 learning=5
+	father=1019927554	#Pirijá
+	1135.11.25={ birth=yes }
+	1204.12.8={ death=yes }
+}
+1019927565={
+	name=Áhari
+	dynasty=1009990243
+	dna="akeadlbdodm"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=5 learning=5
+	father=1019927560	#Semén
+	1145.11.22={ birth=yes }
+	1231.3.17={ death=yes }
+}
+1019927566={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="lpemgjcdddg"
+	culture=carib religion=caribic_pagan
+	father=1019927560	#Semén
+	1148.11.23={ birth=yes }
+	1192.7.18={ death=yes }
+}
+1019927567={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="npidbjhdnda"
+	culture=carib religion=caribic_pagan
+	father=1019927560	#Semén
+	1152.5.3={ birth=yes }
+	1246.5.14={ death=yes }
+}
+1019927568={
+	name=Ebedimu
+	dynasty=1009990243
+	dna="bpgagcdabda"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=8 learning=4
+	father=1019927560	#Semén
+	1158.10.22={ birth=yes }
+	1215.8.19={ death=yes }
+}
+1019927569={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="dppoefldndp"
+	culture=carib religion=caribic_pagan
+	father=1019927560	#Semén
+	1163.8.4={ birth=yes }
+	1235.12.1={ death=yes }
+}
+1019927570={
+	name=Pirijá
+	dynasty=1009990243
+	dna="dphjemhioep"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=5 learning=4
+	father=1019927560	#Semén
+	1169.7.19={ birth=yes }
+	1235.6.26={ death=yes }
+}
+1019927571={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="akoadhbdodg"
+	culture=carib religion=caribic_pagan
+	father=1019927565	#Áhari
+	1172.12.3={ birth=yes }
+	1231.11.19={ death=yes }
+}
+1019927572={
+	name=Kaigouchi
+	dynasty=1009990243
+	dna="edeadladjeb"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=7
+	father=1019927565	#Áhari
+	1178.2.12={ birth=yes }
+	1280.6.10={ death=yes }
+}
+1019927573={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="opeaeebdodm"
+	culture=carib religion=caribic_pagan
+	father=1019927565	#Áhari
+	1182.5.9={ birth=yes }
+	1266.4.20={ death=yes }
+}
+1019927574={
+	name=Gunfuli
+	dynasty=1009990243
+	dna="mkeadcbpkap"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	father=1019927565	#Áhari
+	1186.12.16={ birth=yes }
+	1262.3.8={ death=yes }
+}
+1019927575={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="akbibiinbhm"
+	culture=carib religion=caribic_pagan
+	father=1019927565	#Áhari
+	1191.11.20={ birth=yes }
+	1246.10.22={ death=yes }
+}
+1019927576={
+	name=Pirijá
+	dynasty=1009990243
+	dna="jdoebiodceo"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=7 learning=5
+	father=1019927572	#Kaigouchi
+	1201.6.1={ birth=yes }
+	1266.3.24={ death=yes }
+}
+1019927577={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="eheadllgjcb"
+	culture=carib religion=caribic_pagan
+	father=1019927572	#Kaigouchi
+	1206.4.23={ birth=yes }
+	1269.4.28={ death=yes }
+}
+1019927578={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="cdfamljanmb"
+	culture=carib religion=caribic_pagan
+	father=1019927572	#Kaigouchi
+	1209.1.22={ birth=yes }
+	1274.7.17={ death=yes }
+}
+1019927579={
+	name=Kaigouchi
+	dynasty=1009990243
+	dna="oddadcidcef"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	father=1019927572	#Kaigouchi
+	1215.10.2={ birth=yes }
+	1291.12.19={ death=yes }
+}
+1019927580={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="ejeanlmdjeh"
+	culture=carib religion=caribic_pagan
+	father=1019927572	#Kaigouchi
+	1220.6.25={ birth=yes }
+	1292.7.8={ death=yes }
+}
+1019927581={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="edegedidjef"
+	culture=carib religion=caribic_pagan
+	father=1019927572	#Kaigouchi
+	1224.4.25={ birth=yes }
+	1292.10.23={ death=yes }
+}
+1019927582={
+	name=Pirijá
+	dynasty=1009990243
+	dna="edeaklaajeb"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=5
+	father=1019927572	#Kaigouchi
+	1227.5.12={ birth=yes }
+	1312.4.21={ death=yes }
+}
+1019927583={
+	name=Gunfuli
+	dynasty=1009990243
+	dna="jgokbnodceo"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=4
+	father=1019927576	#Pirijá
+	1226.1.17={ birth=yes }
+	1302.4.2={ death=yes }
+}
+1019927584={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="fkoeeiodhfg"
+	culture=carib religion=caribic_pagan
+	father=1019927576	#Pirijá
+	1232.3.14={ birth=yes }
+	1294.7.14={ death=yes }
+}
+1019927585={
+	name=Ebedimu
+	dynasty=1009990243
+	dna="mfhjbfoocpe"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=4 learning=6
+	father=1019927583	#Gunfuli
+	1259.1.22={ birth=yes }
+	1339.8.10={ death=yes }
+}
+1019927586={
+	name=Gunfuli
+	dynasty=1009990243
+	dna="jgokfnkbhgl"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=5 learning=6
+	father=1019927583	#Gunfuli
+	1266.1.7={ birth=yes }
+	1347.9.1={ death=yes }
+}
+1019927587={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="laomibkmhgb"
+	culture=carib religion=caribic_pagan
+	father=1019927583	#Gunfuli
+	1273.11.3={ birth=yes }
+	1319.3.29={ death=yes }
+}
+1019927588={
+	name=Ilumani
+	dynasty=1009990243
+	dna="mfejhnmndpe"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	father=1019927585	#Ebedimu
+	1279.12.19={ birth=yes }
+	1348.8.3={ death=yes }
+}
+1019927589={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="mpoklfooopl"
+	culture=carib religion=caribic_pagan
+	father=1019927585	#Ebedimu
+	1287.5.24={ birth=yes }
+	1360.11.2={ death=yes }
+}
+1019927590={
+	name=Áhari
+	dynasty=1009990243
+	dna="ofjplfhocpe"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	father=1019927585	#Ebedimu
+	1293.10.14={ birth=yes }
+	1362.7.20={ death=yes }
+}
+1019927591={
+	name=Semén
+	dynasty=1009990243
+	dna="mieibkmnhdf"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=5
+	father=1019927588	#Ilumani
+	1310.8.1={ birth=yes }
+	1389.4.17={ death=yes }
+}
+1019927592={
+	name=Kaigouchi
+	dynasty=1009990243
+	dna="pfdnkbmlcpk"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=6
+	father=1019927588	#Ilumani
+	1315.8.10={ birth=yes }
+	1373.4.12={ death=yes }
+}
+1019927593={
+	name=Kaigouchi
+	dynasty=1009990243
+	dna="moojonmnhpe"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	father=1019927588	#Ilumani
+	1320.11.20={ birth=yes }
+	1385.8.10={ death=yes }
+}
+1019927594={
+	name=Ebedimu
+	dynasty=1009990243
+	dna="ggemfnjndpl"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=4 learning=7
+	father=1019927588	#Ilumani
+	1327.8.5={ birth=yes }
+	1397.11.4={ death=yes }
+}
+1019927595={
+	name=Ilumani
+	dynasty=1009990243
+	dna="miehbknebef"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	father=1019927591	#Semén
+	1328.2.19={ birth=yes }
+	1396.11.1={ death=yes }
+}
+1019927596={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="ineimjenndf"
+	culture=carib religion=caribic_pagan
+	father=1019927591	#Semén
+	1333.7.2={ birth=yes }
+	1393.11.7={ death=yes }
+}
+1019927597={
+	name=Pirijá
+	dynasty=1009990243
+	dna="kiehbjfibjp"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=7 learning=6
+	father=1019927595	#Ilumani
+	1358.12.4={ birth=yes }
+	1422.3.22={ death=yes }
+}
+1019927598={
+	name=Hayá
+	female=yes
+	dynasty=1009990243
+	dna="cilhdhoebef"
+	culture=carib religion=caribic_pagan
+	father=1019927595	#Ilumani
+	1362.5.24={ birth=yes }
+	1422.5.6={ death=yes }
+}
+1019927599={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="iinankhgbmf"
+	culture=carib religion=caribic_pagan
+	father=1019927595	#Ilumani
+	1367.5.18={ birth=yes }
+	1441.10.25={ death=yes }
+}
+1019927600={
+	name=Kaigouchi
+	dynasty=1009990243
+	dna="hioedobhbfe"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=5
+	father=1019927595	#Ilumani
+	1370.10.14={ birth=yes }
+	1457.2.14={ death=yes }
+}
+1019927601={
+	name=Ilumani
+	dynasty=1009990243
+	dna="ilbfbkiibef"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=7 learning=6
+	father=1019927595	#Ilumani
+	1374.5.19={ birth=yes }
+	1436.6.25={ death=yes }
+}
+1019927602={
+	name=Isani
+	female=yes
+	dynasty=1009990243
+	dna="ebehhknebea"
+	culture=carib religion=caribic_pagan
+	father=1019927595	#Ilumani
+	1380.9.9={ birth=yes }
+	1453.10.29={ death=yes }
+}
+1019927603={
+	name=Semén
+	dynasty=1009990243
+	dna="bcehbkkacef"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=6 learning=4
+	father=1019927595	#Ilumani
+	1385.11.22={ birth=yes }
+	1451.5.7={ death=yes }
+}
+1019927604={
+	name=Semén
+	dynasty=1009990244
+	dna="lbedmoplche"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	720.4.20={ birth=yes }
+	797.1.30={ death=yes }
+}
+1019927605={
+	name=Pirijá
+	dynasty=1009990244
+	dna="lbeejomlgmk"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=8 learning=6
+	father=1019927604	#Semén
+	741.11.8={ birth=yes }
+	803.8.8={ death=yes }
+}
+1019927606={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="ldlomopaphn"
+	culture=carib religion=caribic_pagan
+	father=1019927604	#Semén
+	747.3.13={ birth=yes }
+	817.1.27={ death=yes }
+}
+1019927607={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="khedpolecne"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=6 learning=4
+	father=1019927604	#Semén
+	752.3.7={ birth=yes }
+	821.12.6={ death=yes }
+}
+1019927608={
+	name=Pirijá
+	dynasty=1009990244
+	dna="lbeimnpjphg"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=5
+	father=1019927604	#Semén
+	758.12.26={ birth=yes }
+	827.3.26={ death=yes }
+}
+1019927609={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="gjjdapmlleh"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=4
+	father=1019927604	#Semén
+	762.11.12={ birth=yes }
+	827.1.16={ death=yes }
+}
+1019927610={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="pbedmopjcoe"
+	culture=carib religion=caribic_pagan
+	father=1019927604	#Semén
+	768.9.15={ birth=yes }
+	832.2.25={ death=yes }
+}
+1019927611={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="idcdmoplnhe"
+	culture=carib religion=caribic_pagan
+	father=1019927604	#Semén
+	771.6.10={ birth=yes }
+	843.12.1={ death=yes }
+}
+1019927612={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="gbceiomkmmf"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=6
+	father=1019927605	#Pirijá
+	772.3.19={ birth=yes }
+	841.11.30={ death=yes }
+}
+1019927613={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="ibegjomlgmp"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=8 learning=7
+	father=1019927605	#Pirijá
+	779.2.7={ birth=yes }
+	831.3.4={ death=yes }
+}
+1019927614={
+	name=Ilumani
+	dynasty=1009990244
+	dna="gkcgnokkmmf"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=7
+	father=1019927612	#Kaigouchi
+	797.2.22={ birth=yes }
+	870.6.11={ death=yes }
+}
+1019927615={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="gbheiimkjme"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	father=1019927612	#Kaigouchi
+	802.8.8={ birth=yes }
+	872.5.20={ death=yes }
+}
+1019927616={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="gohgnjkkmmm"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=4 learning=6
+	father=1019927614	#Ilumani
+	828.2.21={ birth=yes }
+	905.4.27={ death=yes }
+}
+1019927617={
+	name=Ebedimu
+	dynasty=1009990244
+	dna="gaodoonkmfl"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=6 learning=4
+	father=1019927614	#Ilumani
+	833.3.23={ birth=yes }
+	892.7.5={ death=yes }
+}
+1019927618={
+	name=Ilumani
+	dynasty=1009990244
+	dna="gkmjnafommm"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=7 learning=7
+	father=1019927614	#Ilumani
+	838.5.18={ birth=yes }
+	909.2.22={ death=yes }
+}
+1019927619={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="foholpmdmmi"
+	culture=carib religion=caribic_pagan
+	father=1019927616	#Kaigouchi
+	860.11.6={ birth=yes }
+	929.8.14={ death=yes }
+}
+1019927620={
+	name=Áhari
+	dynasty=1009990244
+	dna="gmcnnnkinme"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=4 learning=4
+	father=1019927616	#Kaigouchi
+	867.8.24={ birth=yes }
+	948.10.12={ death=yes }
+}
+1019927621={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="bohgnjckmka"
+	culture=carib religion=caribic_pagan
+	father=1019927616	#Kaigouchi
+	874.4.8={ birth=yes }
+	947.4.27={ death=yes }
+}
+1019927622={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="cmcpnjaigcp"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=7 learning=5
+	father=1019927620	#Áhari
+	897.8.13={ birth=yes }
+	963.4.3={ death=yes }
+}
+1019927623={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="nmdnnnkiamf"
+	culture=carib religion=caribic_pagan
+	father=1019927620	#Áhari
+	899.7.12={ birth=yes }
+	969.2.24={ death=yes }
+}
+1019927624={
+	name=Semén
+	dynasty=1009990244
+	dna="amcenjadgcj"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=8 learning=7
+	father=1019927622	#Gunfuli
+	920.1.17={ birth=yes }
+	990.8.22={ death=yes }
+}
+1019927625={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="cmcpcjaigkd"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=8 learning=8
+	father=1019927622	#Gunfuli
+	923.1.9={ birth=yes }
+	995.3.1={ death=yes }
+}
+1019927626={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="dmcbnjghggg"
+	culture=carib religion=caribic_pagan
+	father=1019927622	#Gunfuli
+	928.10.19={ birth=yes }
+	993.2.12={ death=yes }
+}
+1019927627={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="anplnjadgcg"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=8 learning=5
+	father=1019927624	#Semén
+	947.11.1={ birth=yes }
+	1018.11.9={ death=yes }
+}
+1019927628={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="cjjnnjfkkkk"
+	culture=carib religion=caribic_pagan
+	father=1019927624	#Semén
+	951.9.18={ birth=yes }
+	1030.7.3={ death=yes }
+}
+1019927629={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="amjmejophce"
+	culture=carib religion=caribic_pagan
+	father=1019927624	#Semén
+	955.2.14={ birth=yes }
+	1006.5.9={ death=yes }
+}
+1019927630={
+	name=Ilumani
+	dynasty=1009990244
+	dna="ambebjhdgcj"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=6
+	father=1019927624	#Semén
+	961.7.4={ birth=yes }
+	1026.3.24={ death=yes }
+}
+1019927631={
+	name=Ebedimu
+	dynasty=1009990244
+	dna="elbmejfdgkp"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	father=1019927624	#Semén
+	964.12.12={ birth=yes }
+	1027.2.5={ death=yes }
+}
+1019927632={
+	name=Ilumani
+	dynasty=1009990244
+	dna="gfpnfjadgcg"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	father=1019927627	#Gunfuli
+	974.8.2={ birth=yes }
+	1036.11.7={ death=yes }
+}
+1019927633={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="jpfcmjedgcg"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	father=1019927627	#Gunfuli
+	978.2.27={ birth=yes }
+	1044.1.31={ death=yes }
+}
+1019927634={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="akilnhcdged"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=8 learning=6
+	father=1019927627	#Gunfuli
+	983.2.1={ birth=yes }
+	1079.1.27={ death=yes }
+}
+1019927635={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="akpenfacagg"
+	culture=carib religion=caribic_pagan
+	father=1019927627	#Gunfuli
+	988.9.16={ birth=yes }
+	1069.12.11={ death=yes }
+}
+1019927636={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="gmcnbjbkgbn"
+	culture=carib religion=caribic_pagan
+	father=1019927632	#Ilumani
+	999.12.4={ birth=yes }
+	1056.10.23={ death=yes }
+}
+1019927637={
+	name=Áhari
+	dynasty=1009990244
+	dna="bfpnfaeglcc"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	father=1019927632	#Ilumani
+	1004.2.19={ birth=yes }
+	1056.6.10={ death=yes }
+}
+1019927638={
+	name=Pirijá
+	dynasty=1009990244
+	dna="dbpjhcoggak"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	father=1019927632	#Ilumani
+	1008.9.6={ birth=yes }
+	1090.5.6={ death=yes }
+}
+1019927639={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="gfenacipmlk"
+	culture=carib religion=caribic_pagan
+	father=1019927632	#Ilumani
+	1014.12.8={ birth=yes }
+	1078.6.5={ death=yes }
+}
+1019927640={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="gfdhfhalgde"
+	culture=carib religion=caribic_pagan
+	father=1019927632	#Ilumani
+	1018.9.15={ birth=yes }
+	1086.3.25={ death=yes }
+}
+1019927641={
+	name=Áhari
+	dynasty=1009990244
+	dna="efpdfjjfgce"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=6
+	father=1019927632	#Ilumani
+	1023.4.26={ birth=yes }
+	1102.5.13={ death=yes }
+}
+1019927642={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="gmpifjamgcg"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=4 learning=7
+	father=1019927632	#Ilumani
+	1026.7.14={ birth=yes }
+	1095.2.10={ death=yes }
+}
+1019927643={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="bpcnfiegncc"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=4 learning=6
+	father=1019927637	#Áhari
+	1024.8.19={ birth=yes }
+	1105.5.19={ death=yes }
+}
+1019927644={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="fipomogajcc"
+	culture=carib religion=caribic_pagan
+	father=1019927637	#Áhari
+	1028.1.2={ birth=yes }
+	1082.9.1={ death=yes }
+}
+1019927645={
+	name=Semén
+	dynasty=1009990244
+	dna="nfinhgeflck"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	father=1019927637	#Áhari
+	1033.3.26={ birth=yes }
+	1116.4.24={ death=yes }
+}
+1019927646={
+	name=Ebedimu
+	dynasty=1009990244
+	dna="bppgcaefbbj"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=4 learning=7
+	father=1019927637	#Áhari
+	1036.2.7={ birth=yes }
+	1090.12.1={ death=yes }
+}
+1019927647={
+	name=Ebedimu
+	dynasty=1009990244
+	dna="bpdjfienncc"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	father=1019927643	#Kaigouchi
+	1051.6.25={ birth=yes }
+	1132.11.30={ death=yes }
+}
+1019927648={
+	name=Ilumani
+	dynasty=1009990244
+	dna="kppffijnbcm"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	father=1019927643	#Kaigouchi
+	1054.11.10={ birth=yes }
+	1130.6.16={ death=yes }
+}
+1019927649={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="npcafopgncc"
+	culture=carib religion=caribic_pagan
+	father=1019927643	#Kaigouchi
+	1060.4.18={ birth=yes }
+	1135.2.6={ death=yes }
+}
+1019927650={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="mhdmpmpmjcf"
+	culture=carib religion=caribic_pagan
+	father=1019927647	#Ebedimu
+	1078.11.17={ birth=yes }
+	1148.1.23={ death=yes }
+}
+1019927651={
+	name=Pirijá
+	dynasty=1009990244
+	dna="jkpjhihgock"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	father=1019927647	#Ebedimu
+	1083.11.19={ birth=yes }
+	1150.10.4={ death=yes }
+}
+1019927652={
+	name=Áhari
+	dynasty=1009990244
+	dna="bpcpgdegece"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=5 learning=4
+	father=1019927647	#Ebedimu
+	1090.7.23={ birth=yes }
+	1171.8.27={ death=yes }
+}
+1019927653={
+	name=Pirijá
+	dynasty=1009990244
+	dna="gpjlfoennpk"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=7
+	father=1019927647	#Ebedimu
+	1095.2.23={ birth=yes }
+	1169.3.25={ death=yes }
+}
+1019927654={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="bpfjgignncc"
+	culture=carib religion=caribic_pagan
+	father=1019927647	#Ebedimu
+	1100.7.20={ birth=yes }
+	1161.2.7={ death=yes }
+}
+1019927655={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="cebngjenbcl"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=5 learning=5
+	father=1019927647	#Ebedimu
+	1103.9.26={ birth=yes }
+	1183.2.18={ death=yes }
+}
+1019927656={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="bpijamnfleg"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=5 learning=5
+	father=1019927647	#Ebedimu
+	1107.12.16={ birth=yes }
+	1163.1.15={ death=yes }
+}
+1019927657={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="ijplnkhinck"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=7
+	father=1019927651	#Pirijá
+	1110.6.15={ birth=yes }
+	1164.8.25={ death=yes }
+}
+1019927658={
+	name=Ebedimu
+	dynasty=1009990244
+	dna="jkpjhohlick"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=7
+	father=1019927651	#Pirijá
+	1115.7.25={ birth=yes }
+	1185.3.24={ death=yes }
+}
+1019927659={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="fpkjfghgkcm"
+	culture=carib religion=caribic_pagan
+	father=1019927651	#Pirijá
+	1118.1.27={ birth=yes }
+	1201.7.1={ death=yes }
+}
+1019927660={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="japbhhheodk"
+	culture=carib religion=caribic_pagan
+	father=1019927651	#Pirijá
+	1124.6.16={ birth=yes }
+	1177.2.16={ death=yes }
+}
+1019927661={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="dgpjhibdmjm"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	father=1019927651	#Pirijá
+	1127.8.11={ birth=yes }
+	1174.7.7={ death=yes }
+}
+1019927662={
+	name=Ebedimu
+	dynasty=1009990244
+	dna="pdpjjihgomk"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=4
+	father=1019927651	#Pirijá
+	1130.9.25={ birth=yes }
+	1203.6.8={ death=yes }
+}
+1019927663={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="edpjmifdooa"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=5
+	father=1019927651	#Pirijá
+	1134.8.4={ birth=yes }
+	1206.2.16={ death=yes }
+}
+1019927664={
+	name=Ebedimu
+	dynasty=1009990244
+	dna="ijplcklimgo"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=4 learning=5
+	father=1019927657	#Gunfuli
+	1138.8.12={ birth=yes }
+	1197.11.4={ death=yes }
+}
+1019927665={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="ioebnapimbf"
+	culture=carib religion=caribic_pagan
+	father=1019927657	#Gunfuli
+	1142.4.22={ birth=yes }
+	1227.6.14={ death=yes }
+}
+1019927666={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="cjplnkafhcf"
+	culture=carib religion=caribic_pagan
+	father=1019927657	#Gunfuli
+	1148.11.5={ birth=yes }
+	1224.10.14={ death=yes }
+}
+1019927667={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="inklfkfikgb"
+	culture=carib religion=caribic_pagan
+	father=1019927664	#Ebedimu
+	1166.10.4={ birth=yes }
+	1242.5.6={ death=yes }
+}
+1019927668={
+	name=Semén
+	dynasty=1009990244
+	dna="ijplifenmpb"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=7 learning=8
+	father=1019927664	#Ebedimu
+	1170.5.24={ birth=yes }
+	1232.9.5={ death=yes }
+}
+1019927669={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="ejpdlglnmhf"
+	culture=carib religion=caribic_pagan
+	father=1019927664	#Ebedimu
+	1176.6.10={ birth=yes }
+	1242.4.3={ death=yes }
+}
+1019927670={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="ibpfkklokgc"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	father=1019927664	#Ebedimu
+	1181.6.26={ birth=yes }
+	1255.10.16={ death=yes }
+}
+1019927671={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="gjjdifanmpa"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	father=1019927668	#Semén
+	1195.8.6={ birth=yes }
+	1248.5.29={ death=yes }
+}
+1019927672={
+	name=Áhari
+	dynasty=1009990244
+	dna="pjploiiimpb"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=6 learning=4
+	father=1019927668	#Semén
+	1201.11.2={ birth=yes }
+	1270.6.30={ death=yes }
+}
+1019927673={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="iblliohlome"
+	culture=carib religion=caribic_pagan
+	father=1019927668	#Semén
+	1206.1.8={ birth=yes }
+	1300.1.15={ death=yes }
+}
+1019927674={
+	name=Pirijá
+	dynasty=1009990244
+	dna="cjjoffflmpa"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=5
+	father=1019927671	#Gunfuli
+	1220.1.21={ birth=yes }
+	1298.2.19={ death=yes }
+}
+1019927675={
+	name=Ebedimu
+	dynasty=1009990244
+	dna="ljjdioaegpp"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	father=1019927671	#Gunfuli
+	1223.7.17={ birth=yes }
+	1283.5.22={ death=yes }
+}
+1019927676={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="ajbmjlmdppi"
+	culture=carib religion=caribic_pagan
+	father=1019927671	#Gunfuli
+	1227.8.2={ birth=yes }
+	1299.8.10={ death=yes }
+}
+1019927677={
+	name=Gunfuli
+	dynasty=1009990244
+	dna="glidmnbpmpa"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=7
+	father=1019927671	#Gunfuli
+	1231.5.6={ birth=yes }
+	1317.1.10={ death=yes }
+}
+1019927678={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="gjadifanmna"
+	culture=carib religion=caribic_pagan
+	father=1019927671	#Gunfuli
+	1235.6.3={ birth=yes }
+	1311.1.25={ death=yes }
+}
+1019927679={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="gljdifjilga"
+	culture=carib religion=caribic_pagan
+	father=1019927671	#Gunfuli
+	1239.6.10={ birth=yes }
+	1305.7.29={ death=yes }
+}
+1019927680={
+	name=Semén
+	dynasty=1009990244
+	dna="ocmddkaiepn"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=6 learning=8
+	father=1019927671	#Gunfuli
+	1243.3.15={ birth=yes }
+	1304.3.20={ death=yes }
+}
+1019927681={
+	name=Áhari
+	dynasty=1009990244
+	dna="mojoffinmga"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=4
+	father=1019927674	#Pirijá
+	1247.5.21={ birth=yes }
+	1332.5.24={ death=yes }
+}
+1019927682={
+	name=Semén
+	dynasty=1009990244
+	dna="cjjjobfhepj"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=8 learning=4
+	father=1019927674	#Pirijá
+	1252.8.10={ birth=yes }
+	1334.4.28={ death=yes }
+}
+1019927683={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="cjbaoffhlpa"
+	culture=carib religion=caribic_pagan
+	father=1019927674	#Pirijá
+	1257.4.16={ birth=yes }
+	1322.6.5={ death=yes }
+}
+1019927684={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="ckjocfmkmii"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=7 learning=7
+	father=1019927674	#Pirijá
+	1261.3.14={ birth=yes }
+	1304.2.14={ death=yes }
+}
+1019927685={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="lclnfcffdmg"
+	culture=carib religion=caribic_pagan
+	father=1019927674	#Pirijá
+	1265.6.26={ birth=yes }
+	1339.2.16={ death=yes }
+}
+1019927686={
+	name=Ebedimu
+	dynasty=1009990244
+	dna="monddfikmlc"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=8
+	father=1019927681	#Áhari
+	1276.3.17={ birth=yes }
+	1351.2.10={ death=yes }
+}
+1019927687={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="kknafdonmgn"
+	culture=carib religion=caribic_pagan
+	father=1019927681	#Áhari
+	1282.1.3={ birth=yes }
+	1339.4.16={ death=yes }
+}
+1019927688={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="majojeikmba"
+	culture=carib religion=caribic_pagan
+	1285.10.7={ birth=yes }
+	1356.2.9={ death=yes }
+}
+1019927689={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="majoffdcmga"
+	culture=carib religion=caribic_pagan
+	father=1019927681	#Áhari
+	1290.12.12={ birth=yes }
+	1345.3.12={ death=yes }
+}
+1019927690={
+	name=Semén
+	dynasty=1009990244
+	dna="mnedlfdhmle"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=7 learning=7
+	father=1019927686	#Ebedimu
+	1307.12.15={ birth=yes }
+	1370.6.26={ death=yes }
+}
+1019927691={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="gnndchkkmnk"
+	culture=carib religion=caribic_pagan
+	father=1019927686	#Ebedimu
+	1314.6.1={ birth=yes }
+	1367.8.5={ death=yes }
+}
+1019927692={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="kondfoikdib"
+	culture=carib religion=caribic_pagan
+	father=1019927686	#Ebedimu
+	1318.6.5={ birth=yes }
+	1399.6.30={ death=yes }
+}
+1019927693={
+	name=Pirijá
+	dynasty=1009990244
+	dna="moceifikmlc"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=5 learning=8
+	father=1019927686	#Ebedimu
+	1324.6.3={ birth=yes }
+	1408.3.13={ death=yes }
+}
+1019927694={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="mneonfkhjlj"
+	culture=carib religion=caribic_pagan
+	father=1019927690	#Semén
+	1327.10.24={ birth=yes }
+	1398.3.29={ death=yes }
+}
+1019927695={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="mceflpjbhlb"
+	culture=carib religion=caribic_pagan
+	father=1019927690	#Semén
+	1333.10.26={ birth=yes }
+	1412.5.25={ death=yes }
+}
+1019927696={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="mleklkhdmde"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	father=1019927690	#Semén
+	1336.4.27={ birth=yes }
+	1390.4.27={ death=yes }
+}
+1019927697={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="ooldlddhmfb"
+	culture=carib religion=caribic_pagan
+	father=1019927690	#Semén
+	1344.4.20={ birth=yes }
+	1428.9.20={ death=yes }
+}
+1019927698={
+	name=Isani
+	female=yes
+	dynasty=1009990244
+	dna="mleklkhamdb"
+	culture=carib religion=caribic_pagan
+	father=1019927696	#Kaigouchi
+	1359.8.13={ birth=yes }
+	1422.12.5={ death=yes }
+}
+1019927699={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="mneklkhcbfn"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=7
+	father=1019927696	#Kaigouchi
+	1365.4.10={ birth=yes }
+	1445.5.28={ death=yes }
+}
+1019927700={
+	name=Pirijá
+	dynasty=1009990244
+	dna="mlekjpadedh"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	father=1019927696	#Kaigouchi
+	1371.8.17={ birth=yes }
+	1445.9.9={ death=yes }
+}
+1019927701={
+	name=Hayá
+	female=yes
+	dynasty=1009990244
+	dna="cbeelihjddo"
+	culture=carib religion=caribic_pagan
+	father=1019927696	#Kaigouchi
+	1375.2.17={ birth=yes }
+	1462.5.13={ death=yes }
+}
+1019927702={
+	name=Kaigouchi
+	dynasty=1009990244
+	dna="ijgclkldhbp"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=5 learning=4
+	father=1019927696	#Kaigouchi
+	1381.6.26={ birth=yes }
+	1449.4.20={ death=yes }
+}
+1019927703={
+	name=Ilumani
+	dynasty=1009990244
+	dna="maeklkhcbfo"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=7
+	father=1019927699	#Kaigouchi
+	1396.9.17={ birth=yes }
+	1464.12.1={ death=yes }
+}
+1019927704={
+	name=Ebedimu
+	dynasty=1009990244
+	dna="mnhkbkgchin"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=6 learning=7
+	father=1019927699	#Kaigouchi
+	1399.2.26={ birth=yes }
+	1474.3.28={ death=yes }
+}
+1019927705={
+	name=Pirijá
+	dynasty=1009990245
+	dna="eloiafijiec"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=6 learning=5
+	719.1.13={ birth=yes }
+	783.3.24={ death=yes }
+}
+1019927706={
+	name=Áhari
+	dynasty=1009990245
+	dna="bbdfafijdhm"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=4
+	father=1019927705	#Pirijá
+	741.9.19={ birth=yes }
+	819.4.30={ death=yes }
+}
+1019927707={
+	name=Ilumani
+	dynasty=1009990245
+	dna="dbogafijbea"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	father=1019927705	#Pirijá
+	745.11.4={ birth=yes }
+	828.10.19={ death=yes }
+}
+1019927708={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="ehpefgijimc"
+	culture=carib religion=caribic_pagan
+	father=1019927705	#Pirijá
+	750.2.17={ birth=yes }
+	825.8.18={ death=yes }
+}
+1019927709={
+	name=Ilumani
+	dynasty=1009990245
+	dna="ecojkjejiec"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	father=1019927705	#Pirijá
+	753.10.17={ birth=yes }
+	825.11.24={ death=yes }
+}
+1019927710={
+	name=Semén
+	dynasty=1009990245
+	dna="jlapapnjiip"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	father=1019927705	#Pirijá
+	759.11.14={ birth=yes }
+	833.10.25={ death=yes }
+}
+1019927711={
+	name=Kaigouchi
+	dynasty=1009990245
+	dna="mloibnikddc"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	father=1019927705	#Pirijá
+	763.8.22={ birth=yes }
+	823.4.22={ death=yes }
+}
+1019927712={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="iaohdlioceh"
+	culture=carib religion=caribic_pagan
+	father=1019927705	#Pirijá
+	768.4.19={ birth=yes }
+	828.10.16={ death=yes }
+}
+1019927713={
+	name=Semén
+	dynasty=1009990245
+	dna="jbpeohahnik"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	father=1019927706	#Áhari
+	767.3.14={ birth=yes }
+	853.1.18={ death=yes }
+}
+1019927714={
+	name=Pirijá
+	dynasty=1009990245
+	dna="bgdfapkjfed"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	father=1019927706	#Áhari
+	774.4.9={ birth=yes }
+	856.10.14={ death=yes }
+}
+1019927715={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="bahfhfcjdhm"
+	culture=carib religion=caribic_pagan
+	father=1019927706	#Áhari
+	777.8.21={ birth=yes }
+	846.7.15={ death=yes }
+}
+1019927716={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="bbdfafijdem"
+	culture=carib religion=caribic_pagan
+	father=1019927706	#Áhari
+	782.3.10={ birth=yes }
+	862.3.8={ death=yes }
+}
+1019927717={
+	name=Pirijá
+	dynasty=1009990245
+	dna="bbdfofigbfm"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=5
+	father=1019927706	#Áhari
+	787.3.7={ birth=yes }
+	846.1.14={ death=yes }
+}
+1019927718={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="ljfoifimdpk"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=6 learning=7
+	father=1019927706	#Áhari
+	793.7.8={ birth=yes }
+	873.11.20={ death=yes }
+}
+1019927719={
+	name=Ilumani
+	dynasty=1009990245
+	dna="lbpbafojngm"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=7 learning=6
+	father=1019927706	#Áhari
+	797.7.2={ birth=yes }
+	860.5.6={ death=yes }
+}
+1019927720={
+	name=Kaigouchi
+	dynasty=1009990245
+	dna="jbakohajnca"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=4 learning=5
+	father=1019927713	#Semén
+	790.12.4={ birth=yes }
+	864.2.20={ death=yes }
+}
+1019927721={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="jmgelblkkik"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=8 learning=8
+	father=1019927713	#Semén
+	794.7.18={ birth=yes }
+	894.5.24={ death=yes }
+}
+1019927722={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="nkagjpmjkcb"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=5 learning=5
+	father=1019927720	#Kaigouchi
+	816.1.4={ birth=yes }
+	879.12.4={ death=yes }
+}
+1019927723={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="dbacahpjccp"
+	culture=carib religion=caribic_pagan
+	father=1019927720	#Kaigouchi
+	820.6.4={ birth=yes }
+	885.5.4={ death=yes }
+}
+1019927724={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="jhbdobacipa"
+	culture=carib religion=caribic_pagan
+	father=1019927720	#Kaigouchi
+	828.2.19={ birth=yes }
+	909.10.17={ death=yes }
+}
+1019927725={
+	name=Áhari
+	dynasty=1009990245
+	dna="biaoohaknph"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=5
+	father=1019927720	#Kaigouchi
+	833.5.25={ birth=yes }
+	912.11.11={ death=yes }
+}
+1019927726={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="mopljeemahd"
+	culture=carib religion=caribic_pagan
+	father=1019927722	#Gunfuli
+	840.11.27={ birth=yes }
+	925.3.15={ death=yes }
+}
+1019927727={
+	name=Ilumani
+	dynasty=1009990245
+	dna="niiginjjklk"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=4 learning=8
+	father=1019927722	#Gunfuli
+	844.7.12={ birth=yes }
+	903.8.26={ death=yes }
+}
+1019927728={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="nchepjjfkie"
+	culture=carib religion=caribic_pagan
+	father=1019927722	#Gunfuli
+	850.2.20={ birth=yes }
+	936.8.15={ death=yes }
+}
+1019927729={
+	name=Kaigouchi
+	dynasty=1009990245
+	dna="nkahjpojkck"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=8 learning=4
+	father=1019927722	#Gunfuli
+	855.10.5={ birth=yes }
+	939.4.28={ death=yes }
+}
+1019927730={
+	name=Ilumani
+	dynasty=1009990245
+	dna="nnpdcaechbb"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=4 learning=7
+	father=1019927722	#Gunfuli
+	860.6.1={ birth=yes }
+	963.1.3={ death=yes }
+}
+1019927731={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="dkahkffjkfn"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=6
+	father=1019927722	#Gunfuli
+	865.3.22={ birth=yes }
+	920.3.27={ death=yes }
+}
+1019927732={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="jnidfnjjkgk"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=5
+	father=1019927727	#Ilumani
+	871.2.13={ birth=yes }
+	948.7.16={ death=yes }
+}
+1019927733={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="pidflnbmkme"
+	culture=carib religion=caribic_pagan
+	father=1019927727	#Ilumani
+	877.5.10={ birth=yes }
+	950.9.5={ death=yes }
+}
+1019927734={
+	name=Ebedimu
+	dynasty=1009990245
+	dna="ndiiifmlkck"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=6 learning=6
+	father=1019927727	#Ilumani
+	882.4.22={ birth=yes }
+	944.5.21={ death=yes }
+}
+1019927735={
+	name=Ebedimu
+	dynasty=1009990245
+	dna="fiadlnbjhnk"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=6 learning=5
+	father=1019927727	#Ilumani
+	887.11.4={ birth=yes }
+	955.3.18={ death=yes }
+}
+1019927736={
+	name=Ebedimu
+	dynasty=1009990245
+	dna="niighfjehlk"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	father=1019927727	#Ilumani
+	891.8.1={ birth=yes }
+	945.12.20={ death=yes }
+}
+1019927737={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="niijncjkjij"
+	culture=carib religion=caribic_pagan
+	father=1019927727	#Ilumani
+	895.6.25={ birth=yes }
+	961.6.13={ death=yes }
+}
+1019927738={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="niinfcjjfak"
+	culture=carib religion=caribic_pagan
+	father=1019927727	#Ilumani
+	901.10.26={ birth=yes }
+	1000.2.6={ death=yes }
+}
+1019927739={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="jgigjcjpkmg"
+	culture=carib religion=caribic_pagan
+	father=1019927732	#Gunfuli
+	898.2.27={ birth=yes }
+	979.7.7={ death=yes }
+}
+1019927740={
+	name=Ebedimu
+	dynasty=1009990245
+	dna="kbnefiabigk"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=5
+	father=1019927732	#Gunfuli
+	904.1.12={ birth=yes }
+	979.8.31={ death=yes }
+}
+1019927741={
+	name=Áhari
+	dynasty=1009990245
+	dna="ndidonjpkgk"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=6 learning=7
+	father=1019927732	#Gunfuli
+	910.5.20={ birth=yes }
+	973.3.6={ death=yes }
+}
+1019927742={
+	name=Áhari
+	dynasty=1009990245
+	dna="ahhdfagjegc"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	father=1019927732	#Gunfuli
+	913.10.15={ birth=yes }
+	994.6.29={ death=yes }
+}
+1019927743={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="bbkbfioajlh"
+	culture=carib religion=caribic_pagan
+	father=1019927740	#Ebedimu
+	927.12.4={ birth=yes }
+	1001.12.17={ death=yes }
+}
+1019927744={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="kdpepilbkom"
+	culture=carib religion=caribic_pagan
+	father=1019927740	#Ebedimu
+	934.2.11={ birth=yes }
+	1018.9.21={ death=yes }
+}
+1019927745={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="dpkccgfekgk"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=6
+	father=1019927740	#Ebedimu
+	940.9.8={ birth=yes }
+	1023.7.3={ death=yes }
+}
+1019927746={
+	name=Kaigouchi
+	dynasty=1009990245
+	dna="nbkcpffekgk"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=7 learning=4
+	father=1019927745	#Gunfuli
+	963.4.4={ birth=yes }
+	1049.10.5={ death=yes }
+}
+1019927747={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="dpfacggciek"
+	culture=carib religion=caribic_pagan
+	father=1019927745	#Gunfuli
+	968.9.16={ birth=yes }
+	1061.4.30={ death=yes }
+}
+1019927748={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="fkkknghnkgk"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	father=1019927745	#Gunfuli
+	972.7.18={ birth=yes }
+	1056.8.19={ death=yes }
+}
+1019927749={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="dpkelgonkgk"
+	culture=carib religion=caribic_pagan
+	father=1019927745	#Gunfuli
+	979.9.20={ birth=yes }
+	1016.1.15={ death=yes }
+}
+1019927750={
+	name=Kaigouchi
+	dynasty=1009990245
+	dna="ojkckciehgk"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	father=1019927746	#Kaigouchi
+	983.11.12={ birth=yes }
+	1042.6.18={ death=yes }
+}
+1019927751={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="ndeiiafepgd"
+	culture=carib religion=caribic_pagan
+	father=1019927746	#Kaigouchi
+	988.6.24={ birth=yes }
+	1039.5.5={ death=yes }
+}
+1019927752={
+	name=Áhari
+	dynasty=1009990245
+	dna="gkdckppehgk"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=4 learning=5
+	father=1019927750	#Kaigouchi
+	1011.8.4={ birth=yes }
+	1085.9.7={ death=yes }
+}
+1019927753={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="ojmdbcimhnk"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	father=1019927750	#Kaigouchi
+	1017.2.14={ birth=yes }
+	1080.7.22={ death=yes }
+}
+1019927754={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="gbdcknbhjjb"
+	culture=carib religion=caribic_pagan
+	father=1019927752	#Áhari
+	1041.6.2={ birth=yes }
+	1121.5.9={ death=yes }
+}
+1019927755={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="midmhpgehah"
+	culture=carib religion=caribic_pagan
+	father=1019927752	#Áhari
+	1045.6.19={ birth=yes }
+	1132.7.14={ death=yes }
+}
+1019927756={
+	name=Semén
+	dynasty=1009990245
+	dna="bkmckopklne"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=8 learning=4
+	father=1019927752	#Áhari
+	1050.2.19={ birth=yes }
+	1145.3.27={ death=yes }
+}
+1019927757={
+	name=Pirijá
+	dynasty=1009990245
+	dna="gkdmkkpohkk"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	father=1019927752	#Áhari
+	1055.8.11={ birth=yes }
+	1119.9.21={ death=yes }
+}
+1019927758={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="kkdcfjkemdb"
+	culture=carib religion=caribic_pagan
+	father=1019927752	#Áhari
+	1059.1.10={ birth=yes }
+	1162.1.18={ death=yes }
+}
+1019927759={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="gkhlkpcehgh"
+	culture=carib religion=caribic_pagan
+	father=1019927752	#Áhari
+	1065.12.6={ birth=yes }
+	1128.3.11={ death=yes }
+}
+1019927760={
+	name=Ebedimu
+	dynasty=1009990245
+	dna="gkncildndgk"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	father=1019927752	#Áhari
+	1072.5.22={ birth=yes }
+	1157.8.12={ death=yes }
+}
+1019927761={
+	name=Áhari
+	dynasty=1009990245
+	dna="jkbjkokklag"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=8 learning=4
+	father=1019927756	#Semén
+	1073.3.26={ birth=yes }
+	1131.1.23={ death=yes }
+}
+1019927762={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="momnkpnkloe"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=8 learning=4
+	father=1019927756	#Semén
+	1076.8.11={ birth=yes }
+	1135.11.24={ death=yes }
+}
+1019927763={
+	name=Ilumani
+	dynasty=1009990245
+	dna="hobkddakfne"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=5 learning=4
+	father=1019927756	#Semén
+	1084.9.4={ birth=yes }
+	1138.9.24={ death=yes }
+}
+1019927764={
+	name=Pirijá
+	dynasty=1009990245
+	dna="bkmckidklne"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	father=1019927756	#Semén
+	1087.3.27={ birth=yes }
+	1141.12.23={ death=yes }
+}
+1019927765={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="mpplklmfdaj"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=4
+	father=1019927761	#Áhari
+	1101.11.15={ birth=yes }
+	1149.8.31={ death=yes }
+}
+1019927766={
+	name=Semén
+	dynasty=1009990245
+	dna="akkjiokjlfg"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=7
+	father=1019927761	#Áhari
+	1107.11.3={ birth=yes }
+	1177.1.7={ death=yes }
+}
+1019927767={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="jkjbkokkbji"
+	culture=carib religion=caribic_pagan
+	father=1019927761	#Áhari
+	1109.9.17={ birth=yes }
+	1176.6.2={ death=yes }
+}
+1019927768={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="jkajahdklog"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	father=1019927761	#Áhari
+	1112.11.13={ birth=yes }
+	1193.2.26={ death=yes }
+}
+1019927769={
+	name=Ilumani
+	dynasty=1009990245
+	dna="jkbdkogclaf"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	father=1019927761	#Áhari
+	1116.3.26={ birth=yes }
+	1182.6.20={ death=yes }
+}
+1019927770={
+	name=Semén
+	dynasty=1009990245
+	dna="aghokamhdaj"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=5 learning=4
+	father=1019927765	#Gunfuli
+	1121.3.27={ birth=yes }
+	1188.3.30={ death=yes }
+}
+1019927771={
+	name=Pirijá
+	dynasty=1009990245
+	dna="epbjccmfdjj"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=4
+	father=1019927765	#Gunfuli
+	1125.10.6={ birth=yes }
+	1203.3.31={ death=yes }
+}
+1019927772={
+	name=Pirijá
+	dynasty=1009990245
+	dna="ldplkdhldao"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=8
+	father=1019927765	#Gunfuli
+	1130.10.9={ birth=yes }
+	1206.7.8={ death=yes }
+}
+1019927773={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="ndpnblmffai"
+	culture=carib religion=caribic_pagan
+	father=1019927765	#Gunfuli
+	1134.2.15={ birth=yes }
+	1203.4.4={ death=yes }
+}
+1019927774={
+	name=Ebedimu
+	dynasty=1009990245
+	dna="aghobabpdaj"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=4 learning=8
+	father=1019927770	#Semén
+	1154.1.26={ birth=yes }
+	1239.11.16={ death=yes }
+}
+1019927775={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="iglakjmldhg"
+	culture=carib religion=caribic_pagan
+	father=1019927770	#Semén
+	1160.9.27={ birth=yes }
+	1224.9.21={ death=yes }
+}
+1019927776={
+	name=Ilumani
+	dynasty=1009990245
+	dna="kehoeagpcoj"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	father=1019927774	#Ebedimu
+	1185.8.26={ birth=yes }
+	1242.12.5={ death=yes }
+}
+1019927777={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="aggcbabfdab"
+	culture=carib religion=caribic_pagan
+	father=1019927774	#Ebedimu
+	1191.1.7={ birth=yes }
+	1237.9.2={ death=yes }
+}
+1019927778={
+	name=Kaigouchi
+	dynasty=1009990245
+	dna="kehmedgkpoj"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=8
+	father=1019927776	#Ilumani
+	1215.3.2={ birth=yes }
+	1293.6.1={ death=yes }
+}
+1019927779={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="khbomoabcab"
+	culture=carib religion=caribic_pagan
+	father=1019927776	#Ilumani
+	1219.12.4={ birth=yes }
+	1273.7.21={ death=yes }
+}
+1019927780={
+	name=Ilumani
+	dynasty=1009990245
+	dna="keboenkpcoj"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=6 learning=6
+	father=1019927776	#Ilumani
+	1222.9.6={ birth=yes }
+	1279.9.21={ death=yes }
+}
+1019927781={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="klhjdaheclj"
+	culture=carib religion=caribic_pagan
+	father=1019927776	#Ilumani
+	1228.10.10={ birth=yes }
+	1286.4.9={ death=yes }
+}
+1019927782={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="kekoiaepncj"
+	culture=carib religion=caribic_pagan
+	father=1019927776	#Ilumani
+	1233.7.20={ birth=yes }
+	1301.3.8={ death=yes }
+}
+1019927783={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="jchoeeglpoh"
+	culture=carib religion=caribic_pagan
+	father=1019927776	#Ilumani
+	1236.5.6={ birth=yes }
+	1319.8.6={ death=yes }
+}
+1019927784={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="kihpelcpknj"
+	culture=carib religion=caribic_pagan
+	father=1019927776	#Ilumani
+	1241.6.13={ birth=yes }
+	1338.10.11={ death=yes }
+}
+1019927785={
+	name=Ilumani
+	dynasty=1009990245
+	dna="kphgedeagoj"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=5
+	father=1019927778	#Kaigouchi
+	1236.7.3={ birth=yes }
+	1316.10.15={ death=yes }
+}
+1019927786={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="knbmfdjkogk"
+	culture=carib religion=caribic_pagan
+	father=1019927778	#Kaigouchi
+	1242.10.17={ birth=yes }
+	1310.1.9={ death=yes }
+}
+1019927787={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="dehmndodpoe"
+	culture=carib religion=caribic_pagan
+	father=1019927778	#Kaigouchi
+	1245.10.17={ birth=yes }
+	1300.9.28={ death=yes }
+}
+1019927788={
+	name=Ebedimu
+	dynasty=1009990245
+	dna="pdhaekofdjl"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	father=1019927778	#Kaigouchi
+	1250.12.4={ birth=yes }
+	1323.8.25={ death=yes }
+}
+1019927789={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="kghmfdjjpoc"
+	culture=carib religion=caribic_pagan
+	father=1019927778	#Kaigouchi
+	1254.4.14={ birth=yes }
+	1306.6.5={ death=yes }
+}
+1019927790={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="kpmglgeaaop"
+	culture=carib religion=caribic_pagan
+	father=1019927785	#Ilumani
+	1262.11.5={ birth=yes }
+	1320.11.22={ death=yes }
+}
+1019927791={
+	name=Áhari
+	dynasty=1009990245
+	dna="kphieclagoj"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	father=1019927785	#Ilumani
+	1268.2.6={ birth=yes }
+	1333.9.13={ death=yes }
+}
+1019927792={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="kkhgedebmoj"
+	culture=carib religion=caribic_pagan
+	father=1019927785	#Ilumani
+	1274.9.24={ birth=yes }
+	1315.11.18={ death=yes }
+}
+1019927793={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="apliolmcgcj"
+	culture=carib religion=caribic_pagan
+	father=1019927791	#Áhari
+	1296.5.4={ birth=yes }
+	1340.5.20={ death=yes }
+}
+1019927794={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="kaacjklacof"
+	culture=carib religion=caribic_pagan
+	father=1019927791	#Áhari
+	1301.4.19={ birth=yes }
+	1357.5.1={ death=yes }
+}
+1019927795={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="oihahcipgjj"
+	culture=carib religion=caribic_pagan
+	father=1019927791	#Áhari
+	1305.10.12={ birth=yes }
+	1384.7.15={ death=yes }
+}
+1019927796={
+	name=Kaigouchi
+	dynasty=1009990245
+	dna="kpgieoineof"
+	culture=carib religion=caribic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	father=1019927791	#Áhari
+	1310.3.26={ birth=yes }
+	1388.12.11={ death=yes }
+}
+1019927797={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="gmhiejhdeoj"
+	culture=carib religion=caribic_pagan
+	father=1019927791	#Áhari
+	1314.10.10={ birth=yes }
+	1368.8.31={ death=yes }
+}
+1019927798={
+	name=Hayá
+	female=yes
+	dynasty=1009990245
+	dna="kdiieoincbf"
+	culture=carib religion=caribic_pagan
+	father=1019927796	#Kaigouchi
+	1337.7.2={ birth=yes }
+	1398.1.7={ death=yes }
+}
+1019927799={
+	name=Ebedimu
+	dynasty=1009990245
+	dna="pfkibkinfoi"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=5
+	father=1019927796	#Kaigouchi
+	1344.11.8={ birth=yes }
+	1427.10.14={ death=yes }
+}
+1019927800={
+	name=Kaigouchi
+	dynasty=1009990245
+	dna="khgaeonjeop"
+	culture=carib religion=caribic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=5 learning=8
+	father=1019927796	#Kaigouchi
+	1348.4.20={ birth=yes }
+	1420.9.9={ death=yes }
+}
+1019927801={
+	name=Ilumani
+	dynasty=1009990245
+	dna="kpgleolnnof"
+	culture=carib religion=caribic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=7 learning=7
+	father=1019927796	#Kaigouchi
+	1354.5.25={ birth=yes }
+	1430.9.9={ death=yes }
+}
+1019927802={
+	name=Pirijá
+	dynasty=1009990245
+	dna="pmknlkdnfoi"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	father=1019927799	#Ebedimu
+	1368.12.6={ birth=yes }
+	1424.3.8={ death=yes }
+}
+1019927803={
+	name=Ebedimu
+	dynasty=1009990245
+	dna="pfkihkefkkc"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=4 learning=6
+	father=1019927799	#Ebedimu
+	1374.8.12={ birth=yes }
+	1473.5.27={ death=yes }
+}
+1019927804={
+	name=Gunfuli
+	dynasty=1009990245
+	dna="pnfclgdnkoi"
+	culture=carib religion=caribic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=5
+	father=1019927802	#Pirijá
+	1400.9.22={ birth=yes }
+	1474.7.30={ death=yes }
+}
+1019927805={
+	name=Isani
+	female=yes
+	dynasty=1009990245
+	dna="jkknekpnfoi"
+	culture=carib religion=caribic_pagan
+	father=1019927802	#Pirijá
+	1404.9.18={ birth=yes }
+	1475.1.2={ death=yes }
+}
+1019927806={
+	name=Ilumani
+	dynasty=1009990245
+	dna="omkclndnjoa"
+	culture=carib religion=caribic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=8 learning=4
+	father=1019927802	#Pirijá
+	1409.5.19={ birth=yes }
+	1468.4.3={ death=yes }
+}

@@ -1,0 +1,327 @@
+741.1.1={
+	liege="d_tlemcen"
+	holder=210032
+}
+823.1.1={
+	liege="d_alger"
+}
+823.1.1={
+	holder = 163097
+}
+866.1.1={
+	holder = 163148
+}
+877.1.1={
+	liege=0
+}
+936.1.1 = {
+	holder = 260863
+	liege = d_tlemcen
+}
+1060.1.1=
+{
+holder=155018
+}
+1082.1.1=
+{
+holder=155035
+}
+1092.1.1=
+{
+holder=155080
+}
+1115.1.1=
+{
+holder=155064
+}
+1120.1.1=
+{
+holder=155065
+}
+1143.1.1=
+{
+holder=155082
+}
+1145.1.1=
+{
+holder=32978
+}
+1147.1.1=
+{
+holder=33012
+}
+1152.1.1=
+{
+liege="k_mauretania"
+}
+1152.1.1=
+{
+holder=155091
+}
+1180.1.1=
+{
+holder=155092
+}
+1190.1.1=
+{
+holder=155093
+}
+1226.1.1=
+{
+holder=155094
+}
+1236.1.1=
+{
+liege="d_tlemcen"
+}
+1236.1.1=
+{
+holder=33045
+}
+1283.1.1=
+{
+holder=33046
+}
+1304.1.1=
+{
+holder=33047
+}
+1308.1.1=
+{
+holder=33048
+}
+1318.1.1=
+{
+holder=33049
+}
+1337.5.1=
+{
+	holder=33004	#First Marinid Conquest
+	liege=k_mauretania
+}
+1348.1.1={
+	holder=378622	#Abu Saeed bin Abi Zaid Abd al-Rahman bin Abi Zakaria Yahya bin Yaghmrasan
+	liege=k_tlemcen
+}
+1352.1.1={
+	holder=378623	#Abu Thabit bin Abi Zaid Abd al-Rahman bin Abi Zakaria Yahya bin Yaghmrasan
+}
+1352.6.1={
+	holder=33007	#Abu Anan Faris Al-Marini Second Marinid Conquest
+	liege=k_mauretania
+}
+1358.1.10={
+	holder=378625 #Abu Hammu Musa II bin Abi Yaqoub Yusuf bin Abi Zaid Abd al-Rahman bin Yahya bin Yaghmrasan
+	liege=k_tlemcen
+}
+1389.1.1={
+	holder=378626	#Abu Tashfin II Abd al-Rahman bin Abi Hammu Musa II
+}
+1393.5.29={
+	holder=378630	#Abu Al-Hajjaj Yusuf bin Abi Hammu Musa II (Ibn Al-Zabiya) 
+}
+1394.1.1={
+	holder=378633	#Abu Zayan II Abd al-Rahman bin Abi Hamo Musa II  
+}
+1399.1.1={
+	holder=378635	#Abu Muhammad Abdullah I bin Abu Hamo Musa II 
+}
+1402.1.1={
+	holder=378634	#Abu Abdullah Muhammad I bin Abi Hammu Musa II (Ibn Khawla) 
+}
+1411.1.1={
+	holder=378636	#Abdul Rahman III bin Abi Abdullah Muhammad I 
+}
+1411.6.1={
+	holder=378627	#Al-Saeed bin Abi Hamo Musa II 
+}
+1412.11.1={
+	holder=378632	#Abu Malik Abdul Wahid bin Abi Hamo Musa II 
+}
+1424.1.1={
+	holder=378628	#Abu Abdullah Muhammad II bin Abu Tashfin II (Ibn Al-Hamra) 
+}
+1428.1.1={
+	holder=378632	#Abu Malik Abdul Wahid bin Abi Hamo Musa II (for the second time) 
+}
+1430.1.1={
+	holder=378628	#Abu Abdullah Muhammad II bin Abi Tashfin II (for the second time) 
+}
+1431.1.1={
+	holder=378631	#Abu Al-Abbas Ahmad Al-Mu'tasim (Al-Aqil) bin Abi Hammu Musa II 
+}
+1461.1.1={
+	holder=378638	#Abu Abdullah Muhammad III, Al-Mutawakkil Ali Allah bin Abi Zayan bin Abi Thabit bin Abi Tashfin II 
+}
+1468.1.1={
+	holder=378639	#Abu Tashfin III bin Abi Abdullah Muhammad III Al-Mutawakkil  
+}
+1468.6.1={
+	holder=378640	#Abu Abdullah Muhammad IV Al-Thabiti bin Abi Abdullah Muhammad III Al-Mutawakkil 
+}
+1505.1.1={
+	holder=378641	#Abu Abdullah Muhammad V bin Abi Abdullah IV Al-Thabiti 
+}
+1516.1.1={
+	holder=378649	#Abu Hammu III bin Abi Abdullah Muhammad IV Al-Thabiti 
+}
+1517.1.1={
+	holder=378647	#Abu Zyan Ahmed III bin Abi Muhammad Abdullah 
+}
+1518.1.1={
+	holder=378649	#Abu Hammu III bin Abi Abdullah Muhammad IV Al-Thabiti(the second time)
+}
+1528.1.1={
+	holder=378650	#Abu Muhammad Abdullah II bin Abi Hammu III bin Abi Abdullah IV 
+}
+1540.1.1={
+	holder=378651	#Abu Abdullah Muhammad VI bin Abi Muhammad Abdullah II bin Abi Hammou III 
+}
+1542.1.1={
+	holder=378652	#Abu Zyan Ahmed IV bin Abi Muhammad Abdullah II bin Abi Hammou III 
+}
+1542.4.1={
+	holder=378651	#Abu Abdullah Muhammad VI bin Abi Muhammad Abdullah II bin Abi Hammou III (for the second time) 
+}
+1542.8.1={
+	holder=378652	#Abu Zyan Ahmed IV bin Abi Muhammad Abdullah II bin Abi Hammou III (for the second time)
+}
+1550.1.1={
+	holder=378653	#Al-Hassan bin Abi Muhammad Abdullah II bin Abi Hammou III (the last king of the Zayaniyya state)
+}
+1551.1.1={
+	liege=e_ottomans
+	holder=378684	#Caliph Saffah
+}
+1552.1.1={
+	holder=378682	#Salah Reis
+}
+1556.1.1={
+	holder=378685	#Hassan Qorsu
+}
+1556.8.1={
+	holder=378686	#Muhammad Kurd Ogli
+}
+1557.6.1={
+	holder=378687	#Yusuf Al-Qaid Ruled only seven days
+}
+1557.6.7={
+	holder=378688	#Yahya Al-Qaid Ruled 6 months in 1557
+}
+1557.10.1={
+	holder=378680	#Hasan bin Hayreddin Barbarossa 
+}
+1561.1.1={
+	holder=378689	# 1556 - 1557 Hassan Qorso (temporary) 
+}
+1562.1.1={
+	holder=378690	#1562: Ahmed Pasha Qabya (temporary) 
+}
+1562.6.1={
+	holder=378680	#Hasan bin Hayreddin Barbarossa 
+}
+1567.1.1={
+	holder=378683	#Muhammad I Pasha
+}
+1568.1.1={
+	holder=378691	#Alaj Ali Pasha 
+}
+1577.1.1={
+	holder=378696	#Hassan Veneziano
+}
+1580.1.1={
+	holder=378697	#Jaafar Pasha
+}
+1582.1.1={
+	holder=378694	#Ramadan
+}
+1582.6.1={
+	holder=378696	#Hassan Veneziano
+}
+1586.1.1={
+	holder=378698	#Dali Ahmed Pasha
+}
+1589.1.1={
+	holder=378699	#Al-Khidr Pasha 
+}
+1592.1.1={
+	holder=378700	#Shaaban Pasha 
+}
+1595.6.1={
+	holder=378701	#Mustafa Pasha 
+}
+1595.1.1={
+	holder=378699	#Al-Khidr Pasha 
+}
+1596.1.1={
+	holder=378701	#Mustafa Pasha 
+}
+1599.1.1={
+	holder=378702	#Dali Hassan Pasha
+}
+1600.1.1={
+	holder=378703	#Suleiman Pasha Veneziano 
+}
+1603.1.1={
+	holder=378699	#Al-Khidr Pasha 
+}
+1605.1.1={
+	holder=378704	#Muhammad Qusa Pasha
+}
+1605.1.1={
+	holder=378705	#Kos Mustafa Pasha
+}
+1607.1.1={
+	holder=378706	#Rezvan
+}
+1610.1.1={
+	holder=378705	#Kos Mustafa Pasha
+}
+1613.1.1={
+	holder=378707	#Hussein Pasha 
+}
+1616.1.1={
+	holder=378705	#Kos Mustafa Pasha
+}
+1617.1.1={
+	holder=378708	#Suleiman Catania Pasha 
+}
+1618.1.1={
+	holder=378707	#Hussein Pasha 
+}
+1619.1.1={
+	holder=378709	#Koussa Pasha
+}
+1621.1.1={
+	holder=378710	#Khizr Pasha
+}
+1621.6.1={
+	holder=378711	#Mustafa Pasha
+}
+1622.1.1={
+	holder=378712	#Khosref Pasha
+}
+1622.6.1={
+	holder=378713	#Murad Pasha
+}
+1627.1.1={
+	holder=378714	#Hussein Pasha 
+}
+1629.1.1={
+	holder=378715	#Yunus
+} 
+1630.1.1={
+	holder=378714	#Hussein Pasha
+}	
+1634.1.1={
+	holder=378716	#Yusuf Pasha
+}
+1636.1.1={
+	holder=378717	#Abu Al-Hassan Ali Pasha
+}
+1638.1.1={
+	holder=378714	#Hussein Pasha 	
+}
+1640.1.1={
+	holder=378718	#Abu Jamal Yusuf Pasha
+}

@@ -1,0 +1,33 @@
+namespace = italianevents
+#Courland colonies
+narrative_event = {
+	id = italianevents.1
+	title = EVTNAMEitalianevents.1
+	desc = EVTDESCitalianeventsR.1
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1608 
+		NOT = { has_global_flag = tuscan_cayenne }
+		has_landed_title = d_toscana
+		religion_group = christian
+		controls = 328
+		c_cayenne = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAitalianevents.1
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_cayenne
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = tuscan_cayenne
+		prestige = 100
+	}
+}

@@ -1,0 +1,891 @@
+namespace = russianevents
+narrative_event = {
+	id = russianevents.1
+	title = EVTNAMErussianevents.1
+	desc = EVTDESCrussianeventsR.1
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1400
+		NOT = { has_global_flag = don_cossaks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = don_cossaks_formed
+	activate_title = {
+			title = d_don_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_don_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.1
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.1
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.2
+	title = EVTNAMErussianevents.2
+	desc = EVTDESCrussianeventsR.2
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1400
+		NOT = { has_global_flag = zaporozhian_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = zaporozhian_cossacks_formed
+	activate_title = {
+			title = d_zaporozhian_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_zaporozhian_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.2
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.2
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.3
+	title = EVTNAMErussianevents.3
+	desc = EVTDESCrussianeventsR.3
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1860
+		c_kuban = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = kuban_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = kuban_cossacks_formed
+	activate_title = {
+			title = d_kuban_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_kuban_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.3
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.3
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.4
+	title = EVTNAMErussianevents.4
+	desc = EVTDESCrussianeventsR.4
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1577
+		c_semender = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = terek_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = terek_cossacks_formed
+	activate_title = {
+			title = d_terek_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_terek_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.4
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.4
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.5
+	title = EVTNAMErussianevents.5
+	desc = EVTDESCrussianeventsR.5
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1584
+		c_guryev = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = ural_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = ural_cossacks_formed
+	activate_title = {
+			title = d_ural_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_ural_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.5
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.5
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.6
+	title = EVTNAMErussianevents.6
+	desc = EVTDESCrussianeventsR.6
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1734
+		c_belaya = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = orenburg_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = orenburg_cossacks_formed
+	activate_title = {
+			title = d_orenburg_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_orenburg_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.6
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.6
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.7
+	title = EVTNAMErussianevents.7
+	desc = EVTDESCrussianeventsR.7
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1737
+		c_kuma = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = astrakhan_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = astrakhan_cossacks_formed
+	activate_title = {
+			title = d_astrakhan_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_astrakhan_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.7
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.7
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.8
+	title = EVTNAMErussianevents.8
+	desc = EVTDESCrussianeventsR.8
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1867
+		c_almaty = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = semirechye_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = semirechye_cossacks_formed
+	activate_title = {
+			title = d_semirechye_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_semirechye_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.8
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.8
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.9
+	title = EVTNAMErussianevents.9
+	desc = EVTDESCrussianeventsR.9
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1851
+		c_baygal = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = baikal_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = baikal_cossacks_formed
+	activate_title = {
+			title = d_baikal_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_baikal_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.9
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.9
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.10
+	title = EVTNAMErussianevents.10
+	desc = EVTDESCrussianeventsR.10
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1850
+		c_urkan = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = amur_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = amur_cossacks_formed
+	activate_title = {
+			title = d_amur_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_amur_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.10
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.10
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.11
+	title = EVTNAMErussianevents.11
+	desc = EVTDESCrussianeventsR.11
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1854
+		c_hurha = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = ussuri_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = ussuri_cossacks_formed
+	activate_title = {
+			title = d_ussuri_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_ussuri_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.11
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.11
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.12
+	title = EVTNAMErussianevents.12
+	desc = EVTDESCrussianeventsR.12
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1733
+		c_don_portage = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = povolzhye_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = povolzhye_cossacks_formed
+	activate_title = {
+			title = d_povolzhye_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_povolzhye_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.12
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.12
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.13
+	title = EVTNAMErussianevents.13
+	desc = EVTDESCrussianeventsR.13
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1803
+		c_vinnytsia = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = bug_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = bug_cossacks_formed
+	activate_title = {
+			title = d_bug_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_bug_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.13
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.13
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}
+narrative_event = {
+	id = russianevents.14
+	title = EVTNAMErussianevents.14
+	desc = EVTDESCrussianeventsR.14
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_war
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		OR = {
+		year = 1582
+		c_sibir = { 
+		top_liege = { 
+		OR = { 
+		has_landed_title = e_russia_2 
+		has_landed_title= e_russia 
+				} 
+			} 
+		}
+		}
+		NOT = { has_global_flag = siberian_cossacks_formed }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+	set_global_flag = siberian_cossacks_formed
+	activate_title = {
+			title = d_siberian_cossacks
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = orthodox
+			culture = russian
+			dynasty = NONE
+			female = no
+			age = 25
+			}
+	new_character = { gain_title = d_siberian_cossacks }
+	}
+	option = {
+		name = {
+			text = EVTOPTArussianevents.14
+			trigger = {
+				culture = russian
+			}
+		}
+		name = {
+			text = EVTOPTBrussianevents.14
+			trigger = {
+				NOT = {
+				culture = russian
+				}
+		}
+	}
+	}
+}

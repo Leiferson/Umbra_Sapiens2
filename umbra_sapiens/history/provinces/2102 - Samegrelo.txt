@@ -1,0 +1,21 @@
+# 2102 - Samegrelo
+
+# County Title
+title = c_samegrelo
+
+# Settlements
+max_settlements = 4
+b_nokalakevi = castle
+b_poti = city
+b_tsaishi = temple
+#b_dadi = castle
+#b_chaladidi = city
+#b_chkondidi = temple
+
+# Misc
+culture = georgian
+religion = orthodox
+terrain = hills
+
+# History
+

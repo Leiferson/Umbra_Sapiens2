@@ -1,0 +1,1211 @@
+namespace = portugalevents
+narrative_event = {
+	id = portugalevents.1
+	title = EVTNAMEportugalevents.1
+	desc = EVTDESCportugaleventsR.1
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		is_portugal = yes
+		religion_group = christian
+		NOT = { has_global_flag = reconquista_portugal }
+		completely_controls = d_algarve
+		completely_controls = d_coimbra
+		completely_controls = d_beja
+		completely_controls = d_porto
+		completely_controls = d_estremadura
+	}
+
+	
+	option = {
+		name = EVTOPTAportugalevents.1
+		set_global_flag = reconquista_portugal
+		prestige = 100
+	}
+}
+#Colonias Portuguesas
+narrative_event = {
+	id = portugalevents.2
+	title = EVTNAMEportugalevents.2
+	desc = EVTDESCportugaleventsR.2
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1420
+		NOT = { has_global_flag = portugal_madeira }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		NOT = { owns = 4054 }
+		d_madeira= {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.3
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_madeira
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		culture = FROM
+		religion = FROM
+		}
+		set_global_flag = portugal_madeira
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = portugalevents.3
+	title = EVTNAMEportugalevents.3
+	desc = EVTDESCportugaleventsR.3
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1462
+		NOT = { has_global_flag = portugal_cape_verde }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		NOT = { owns = 4065 }
+		d_cape_verde= {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.3
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_cape_verde
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_cape_verde
+	}
+}
+narrative_event = {
+	id = portugalevents.4
+	title = EVTNAMEportugalevents.4
+	desc = EVTDESCportugaleventsR.4
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1439
+		NOT = { has_global_flag = portugal_azores }
+		is_portugal = yes
+		religion_group = christian
+		
+		d_the_azores = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.4
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_the_azores
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		culture = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_azores
+	}
+}
+narrative_event = {
+	id = portugalevents.5
+	title = EVTNAMEportugalevents.5
+	desc = EVTDESCportugaleventsR.5
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1493
+		NOT = { has_global_flag = portugal_saotome }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		d_saotome = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.5
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_saotome
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_saotome
+	}
+}
+narrative_event = {
+	id = portugalevents.6
+	title = EVTNAMEportugalevents.6
+	desc = EVTDESCportugaleventsR.6
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1482
+		NOT = { has_global_flag = portugal_elmina }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_elmina = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.6
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_elmina
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_elmina
+	}
+}
+narrative_event = {
+	id = portugalevents.7
+	title = EVTNAMEportugalevents.7
+	desc = EVTDESCportugaleventsR.7
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1507
+		NOT = { has_global_flag = portugal_mozambique }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_mozambique = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.7
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_mozambique
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_mozambique
+	}
+}
+narrative_event = {
+	id = portugalevents.8
+	title = EVTNAMEportugalevents.8
+	desc = EVTDESCportugaleventsR.8
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1507
+		NOT = { has_global_flag = portugal_oman }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		d_oman = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.8
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_oman
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_oman
+	}
+}
+narrative_event = {
+	id = portugalevents.9
+	title = EVTNAMEportugalevents.9
+	desc = EVTDESCportugaleventsR.9
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1510
+		NOT = { has_global_flag = portugal_goa }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_goa = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.9
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_goa
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_goa
+	}
+}
+narrative_event = {
+	id = portugalevents.10
+	title = EVTNAMEportugalevents.10
+	desc = EVTDESCportugaleventsR.10
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1535
+		NOT = { has_global_flag = portugal_diu }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_somnath = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.10
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_somnath
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_diu
+	}
+}
+narrative_event = {
+	id = portugalevents.11
+	title = EVTNAMEportugalevents.11
+	desc = EVTDESCportugaleventsR.11
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1559
+		NOT = { has_global_flag = portugal_daman }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_daman = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.11
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_daman
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_daman
+	}
+}
+narrative_event = {
+	id = portugalevents.12
+	title = EVTNAMEportugalevents.12
+	desc = EVTDESCportugaleventsR.12
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1511
+		NOT = { has_global_flag = portugal_melaka }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_melaka = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.12
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_melaka
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_melaka
+	}
+}
+narrative_event = {
+	id = portugalevents.13
+	title = EVTNAMEportugalevents.13
+	desc = EVTDESCportugaleventsR.13
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1515
+		NOT = { has_global_flag = portugal_hormuz }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_hormuz = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.13
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_hormuz
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_hormuz
+	}
+}
+narrative_event = {
+	id = portugalevents.14
+	title = EVTNAMEportugalevents.14
+	desc = EVTDESCportugaleventsR.14
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1518
+		NOT = { has_global_flag = portugal_ceylon }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_dakhina_desa = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.14
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_dakhina_desa
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_ceylon
+	}
+}
+narrative_event = {
+	id = portugalevents.15
+	title = EVTNAMEportugalevents.15
+	desc = EVTDESCportugaleventsR.15
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1554
+		NOT = { has_global_flag = portugal_macau }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_macau = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.15
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_macau
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_macau
+	}
+}
+narrative_event = {
+	id = portugalevents.16
+	title = EVTNAMEportugalevents.16
+	desc = EVTDESCportugaleventsR.16
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1520
+		NOT = { has_global_flag = portugal_ternate }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_ternate = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.16
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_ternate
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_ternate
+	}
+}
+narrative_event = {
+	id = portugalevents.17
+	title = EVTNAMEportugalevents.17
+	desc = EVTDESCportugaleventsR.17
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1514
+		NOT = { has_global_flag = portugal_timor }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_tiwu = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.17
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_tiwu
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_timor
+	}
+}
+narrative_event = {
+	id = portugalevents.18
+	title = EVTNAMEportugalevents.18
+	desc = EVTDESCportugaleventsR.18
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1575
+		NOT = { has_global_flag = portugal_angola }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_luanda = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.18
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_luanda
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_angola
+	}
+}
+narrative_event = {
+	id = portugalevents.19
+	title = EVTNAMEportugalevents.19
+	desc = EVTDESCportugaleventsR.19
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		NOT = { has_global_flag = portugal_brazil }
+		year = 1534
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		any_province = {
+		region = world_portuguese_settlement_brazil
+		owner = { NOT = { religion_group = christian } }
+		}
+	}
+	option = {
+		name = EVTOPTAportugalevents.19
+		create_character = {
+		random_traits = no
+		name = "Pero"
+		dynasty = 1010043060
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_santo_amaro = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_santo_amaro
+				spawn_unit = {
+				province = 4041
+				home = 4041
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+		}
+		 }
+		 if = {
+		limit = { c_itamaraca = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_itamaraca 
+				spawn_unit = {
+				province = 4003
+				home = 4003
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 
+		 }
+		 set_defacto_vassal = new_character
+		create_character = {
+		random_traits = no
+		name = "Martim Afonso"
+		dynasty = 1010043061
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_sao_vicente = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_sao_vicente
+				spawn_unit = {
+				province = 4043
+				home = 4043
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 set_defacto_vassal = new_character
+		 create_character = {
+		random_traits = no
+		name = "Pero"
+		dynasty = 1010043062
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_sao_tome = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_sao_tome
+				spawn_unit = {
+				province = 4039
+				home = 4039
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 if = {
+		limit = { c_rio_de_janeiro = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_rio_de_janeiro
+				spawn_unit = {
+				province = 4040
+				home = 4040
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 set_defacto_vassal = new_character
+		 create_character = {
+		random_traits = no
+		name = "Vasco"
+		dynasty = 1010043063
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_espirito_santo = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_espirito_santo
+				spawn_unit = {
+				province = 4038
+				home = 4038
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+			}
+		 }
+		 set_defacto_vassal = new_character
+		create_character = {
+		random_traits = no
+		name = "Pero"
+		dynasty = 1010043064
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_porto_seguro = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_porto_seguro
+				spawn_unit = {
+				province = 4015
+				home = 4015
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 set_defacto_vassal = new_character
+		 create_character = {
+		random_traits = no
+		name = "Jorge"
+		dynasty = 1010043065
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_ilheus = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_ilheus
+				spawn_unit = {
+				province = 4014
+				home = 4014
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+			}
+		 }
+		 set_defacto_vassal = new_character
+		  create_character = {
+		random_traits = no
+		name = "Francisco"
+		dynasty = 1010043066
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_bahia = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_bahia
+				spawn_unit = {
+				province = 4013
+				home = 4013
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 set_defacto_vassal = new_character
+		 create_character = {
+		random_traits = no
+		name = "Duarte"
+		dynasty = 1010043067
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_alagoas = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_alagoas
+				spawn_unit = {
+				province = 4005
+				home = 4005
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 if = {
+		limit = { c_sergipe = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_sergipe
+				spawn_unit = {
+				province = 4004
+				home = 4004
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 set_defacto_vassal = new_character
+		  create_character = {
+		random_traits = no
+		name = "João"
+		dynasty = 1010043068
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_rio_grande = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_rio_grande
+				spawn_unit = {
+				province = 4000
+				home = 4000
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 if = {
+		limit = { c_paraiba = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_paraiba
+				spawn_unit = {
+				province = 4001
+				home = 4001
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 set_defacto_vassal = new_character
+		  create_character = {
+		random_traits = no
+		name = "Aires"
+		dynasty = 1010043069
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_marajo = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_marajo
+				spawn_unit = {
+				province = 3989
+				home = 3989
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 if = {
+		limit = { c_belem = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_belem
+				spawn_unit = {
+				province = 3988
+				home = 3988
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		set_defacto_vassal = new_character
+		 create_character = {
+		random_traits = no
+		name = "Antonio"
+		dynasty = 1010043070
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_ceara = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_ceara
+				spawn_unit = {
+				province = 3998
+				home = 3998
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 if = {
+		limit = { c_parnaiba = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_parnaiba
+				spawn_unit = {
+				province = 3995
+				home = 3995
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 set_defacto_vassal = new_character
+		  create_character = {
+		random_traits = no
+		name = "Fernando"
+		dynasty = 1010043071
+		religion = ROOT
+		culture = ROOT
+		female = no
+		age = 25
+		}
+		if = {
+		limit = { c_maranhao = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_maranhao
+				spawn_unit = {
+				province = 3991
+				home = 3991
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 if = {
+		limit = { c_alcantara1 = { NOT = { religion_group = christian } } }
+		new_character = { gain_title = c_alcantara1
+				spawn_unit = {
+				province = 3990
+				home = 3990
+				troops = {
+				archers = { 500 500 }
+				heavy_infantry = { 500 500 }
+							}
+				attrition = 1.0
+				maintenance_multiplier = 1.0
+							}
+					}
+		 }
+		 set_defacto_vassal = new_character
+		prestige = 100
+		set_global_flag = portugal_azores
+	}
+}
+narrative_event = {
+	id = portugalevents.20
+	title = EVTNAMEportugalevents.20
+	desc = EVTDESCportugaleventsR.20
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1504
+		NOT = { has_global_flag = portugal_fernando_de_noronha }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_fernando_de_noronha = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.20
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_fernando_de_noronha
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_fernando_de_noronha
+	}
+}
+narrative_event = {
+	id = portugalevents.21
+	title = EVTNAMEportugalevents.21
+	desc = EVTDESCportugaleventsR.21
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1571
+		NOT = { has_global_flag = portugal_nagasaki }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_hizen = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.21
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_hizen
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_nagasaki
+	}
+}
+narrative_event = {
+	id = portugalevents.22
+	title = EVTNAMEportugalevents.22
+	desc = EVTDESCportugaleventsR.22
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1588
+		NOT = { has_global_flag = portugal_bissau }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_bissau = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.22
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_bissau
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_bissau
+	}
+}
+narrative_event = {
+	id = portugalevents.23
+	title = EVTNAMEportugalevents.23
+	desc = EVTDESCportugaleventsR.23
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1535
+		NOT = { has_global_flag = portugal_bombaim }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_thana = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.23
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_thana
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_bombaim
+	}
+}
+narrative_event = {
+	id = portugalevents.24
+	title = EVTNAMEportugalevents.24
+	desc = EVTDESCportugaleventsR.24
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1475
+		NOT = { has_global_flag = portugal_forcados }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_warri = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.24
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_warri
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_forcados
+	}
+}
+narrative_event = {
+	id = portugalevents.25
+	title = EVTNAMEportugalevents.25
+	desc = EVTDESCportugaleventsR.25
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1721
+		NOT = { has_global_flag = portugal_ajuda }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_ouidah = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.25
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_ouidah
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_ajuda
+	}
+}

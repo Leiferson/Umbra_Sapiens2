@@ -1,0 +1,906 @@
+namespace = japanevents
+narrative_event = {
+	id = japanevents.1
+	title = EVTNAMEjapanevents.1
+	desc = EVTDESCjapanevents.1
+	picture = GFX_evt_battle
+	is_triggered_only = yes
+	only_playable = yes
+	trigger = {
+	NOT = { dynasty = 1000027000 }
+	owns = d_yamato
+	}
+	weight_multiplier = {
+		days = 1
+	}
+	option = {
+		name = EVTOPTAjapanevents.1
+		trigger = {
+		any_courtier_or_vassal = {
+		dynasty = 1000027000
+		religion = nihon_shinto
+		} 
+		}
+		hidden_tooltip = { 
+		any_character  = {
+		limit = {
+		has_character_flag = emperor_of_japan
+		}
+		grant_title = d_yamato	
+		} 
+		}
+			
+	}
+	option = {
+		name = EVTOPTCjapanevents.1
+		trigger = {
+		any_courtier_or_vassal = {
+		NOT = { has_character_flag = emperor_of_japan }
+		dynasty = 1000027000
+		religion = nihon_shinto
+		} 
+		}
+		hidden_tooltip = { 
+		any_character  = {
+		limit = {
+		dynasty = 1000027000
+		religion = nihon_shinto
+		}
+		grant_title = d_yamato	
+		} 
+		}
+			
+	}
+option = {
+		name = EVTOPTBjapanevents.1
+		trigger = {
+		any_character = {
+		NOT = { dynasty = 1000027000 }
+		religion = nihon_shinto
+		} 
+		}
+		hidden_tooltip = { 
+		d_yamato = {
+    destroy_landed_title = THIS
+			}
+				
+	}
+}
+}
+# Converted within Shinto - choose branch part 1
+character_event = {
+	id = japanevents.2
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCjapanevents.2
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCjapanevents.2
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = EVTOPTAjapanevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTAjapanevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = todaiji_buddhist }
+		}
+		add_trait = todaiji_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = todaiji_buddhist }
+			}
+			add_trait = todaiji_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = todaiji_buddhist }
+			}
+			add_trait = todaiji_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_TODAIJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = todaiji_buddhist
+		}
+	}
+}
+	}
+
+	option = {
+		name = {
+			text = EVTOPTBjapanevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBjapanevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = enryakuji_buddhist }
+		}
+		add_trait = enryakuji_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = enryakuji_buddhist }
+			}
+			add_trait = enryakuji_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = enryakuji_buddhist }
+			}
+			add_trait = enryakuji_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_ENRYAKUJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = enryakuji_buddhist
+		}
+	}
+}
+	}
+
+	
+	
+	option = {
+		name = {
+			text = EVTOPTGjapanevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTGjapanevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = japanevents.4
+    days = 1
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+		OR = {
+			trait = nanzenji_buddhist
+			 trait = koyasan_buddhist
+			 trait = nichiren_buddhist
+			 trait = jodoshinshu_buddhist
+			 }
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTIjapanevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTIjapanevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		clr_character_flag = india_branch_converted
+	}
+	
+}
+# Converted within Shinto - choose branch part 2
+character_event = {
+	id = japanevents.3
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCjapanevents.2
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCjapanevents.2
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	option = {
+		name = {
+			text = EVTOPTCjapanevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCjapanevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = koyasan_buddhist }
+		}
+		add_trait = koyasan_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = koyasan_buddhist }
+			}
+			add_trait = koyasan_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = koyasan_buddhist }
+			}
+			add_trait = koyasan_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_NICHIREN
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = koyasan_buddhist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTHjapanevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTHjapanevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = japanevents.2
+    days = 1
+		}
+		
+	}
+}
+# Converted within Shinto - choose branch part 2
+character_event = {
+	id = japanevents.4
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCjapanevents.2
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCjapanevents.2
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	option = {
+		name = {
+			text = EVTOPTDjapanevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTDjapanevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = jodoshinshu_buddhist }
+		}
+		add_trait = jodoshinshu_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = jodoshinshu_buddhist }
+			}
+			add_trait = jodoshinshu_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = jodoshinshu_buddhist }
+			}
+			add_trait = jodoshinshu_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_JODOSHINSHU
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+	}
+	option = {
+		name = {
+			text = EVTOPTFjapanevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTFjapanevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = nanzenji_buddhist }
+		}
+		add_trait = nanzenji_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = nanzenji_buddhist }
+			}
+			add_trait = nanzenji_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = nanzenji_buddhist }
+			}
+			add_trait = nanzenji_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_NANZENJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = nanzenji_buddhist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTEjapanevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTEjapanevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = nichiren_buddhist }
+		}
+		add_trait = nichiren_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = nichiren_buddhist }
+			}
+			add_trait = nichiren_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = nihon_shinto
+				NOT = { trait = nichiren_buddhist }
+			}
+			add_trait = nichiren_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_NICHIREN
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = nichiren_buddhist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTGkoreaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTGjapanevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = japanevents.3
+    days = 1
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			 trait = jodoshinshu_buddhist
+		}
+	}
+}
+	}
+}
+character_event = {
+	id = japanevents.5
+	hide_window = yes
+	is_triggered_only = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	religion = nihon_shinto
+	NOR = {
+	trait = nichiren_buddhist
+	trait = nanzenji_buddhist
+	trait = jodoshinshu_buddhist
+	trait = koyasan_buddhist
+	trait = enryakuji_buddhist
+	trait = todaiji_buddhist
+	}
+	}
+	immediate = {
+	character_event = {
+    id = japanevents.2
+}
+	}
+	}
+narrative_event = {
+	id = japanevents.6
+	is_triggered_only = yes
+	title = EVTNAMEjapanevents.6
+	desc = EVTDESCjapanevents.6
+	option = {
+			name = EVTOPTAjapanevents.6
+		FROM = {
+		clr_character_flag = asked_commit_harakiri
+		}
+		death = {
+    death_reason = death_harakiri
+    killer = ROOT
+		}
+	}	
+	option = {
+			name = EVTOPTBjapanevents.6
+		FROM = {
+		clr_character_flag = asked_commit_harakiri
+		}
+		add_trait = ronin 
+		abdicate = yes
+	}
+	}
+	narrative_event = {
+	id = japanevents.7
+	title = EVTNAMEjapanevents.7
+	desc = EVTDESCjapanevents.7
+	is_triggered_only = yes
+	option = {
+			name = EVTOPTAjapanevents.7
+		FROM = {
+		clr_character_flag = asked_commit_harakiri
+		}
+		death = {
+    death_reason = death_harakiri
+    killer = ROOT
+		}
+		any_child = {
+		death = {
+    death_reason = death_harakiri
+    killer = ROOT
+		}
+		}
+		any_spouse = {
+		death = {
+    death_reason = death_harakiri
+    killer = ROOT
+		}
+		}
+	}	
+	option = {
+			name = EVTOPTBjapanevents.7
+		FROM = {
+		clr_character_flag = asked_commit_harakiri
+		}
+		any_child = {
+		add_trait = ronin 
+		}
+		any_spouse = {
+		add_trait = ronin 
+		}
+		add_trait = ronin 
+		abdicate_to = FROM
+	}
+	}
+	narrative_event = {
+	id = japanevents.10
+	is_triggered_only = yes
+	title = EVTNAMEjapanevents.10
+	desc = EVTDESCjapanevents.10
+	option = {
+	trigger = {
+	trait = nichiren_buddhist	
+	}
+			name = EVTOPTAjapanevents.10
+		FROM = {
+		clr_character_flag = wants_to_retire
+		}
+		piety = -100
+		clr_character_flag = emperor_of_japan
+		set_character_flag = cloistered_emperor
+		abdicate = yes
+			random_realm_lord = {
+			limit = {
+				is_landed = yes
+				is_priest = yes
+				trait = nichiren_buddhist	
+			}	
+			ROOT = { move_character = PREV }				
+			}
+			any_claim = { 
+			limit = { de_jure_vassal_or_below = e_japan }
+			remove_claim = ROOT 
+			}
+			
+	}	
+		option = {
+	trigger = {
+		trait = nanzenji_buddhist
+	}
+			name = EVTOPTAjapanevents.10
+		FROM = {
+		clr_character_flag = wants_to_retire
+		}
+		piety = -100
+		clr_character_flag = emperor_of_japan
+		set_character_flag = cloistered_emperor
+		abdicate = yes
+		random_realm_lord = {
+			limit = {
+				is_landed = yes
+				is_priest = yes
+				trait = nanzenji_buddhist	
+			}
+			ROOT = { move_character = PREV }		
+			}
+			any_claim = { 
+			limit = { de_jure_vassal_or_below = e_japan }
+			remove_claim = ROOT 
+			}
+			
+	}	
+		option = {
+	trigger = {
+	trait = jodoshinshu_buddhist	
+	}
+			name = EVTOPTAjapanevents.10
+		FROM = {
+		clr_character_flag = wants_to_retire
+		}
+		piety = -100
+		clr_character_flag = emperor_of_japan
+		set_character_flag = cloistered_emperor
+		abdicate = yes
+			random_realm_lord = {
+			limit = {
+				is_landed = yes
+				is_priest = yes
+				trait = jodoshinshu_buddhist	
+			}	
+			ROOT = { move_character = PREV }			
+			}
+			any_claim = { 
+			limit = { de_jure_vassal_or_below = e_japan }
+			remove_claim = ROOT 
+			}
+	}	
+		option = {
+	trigger = {
+	trait = koyasan_buddhist	
+	}
+			name = EVTOPTAjapanevents.10
+		FROM = {
+		clr_character_flag = wants_to_retire
+		}
+		piety = -100
+		clr_character_flag = emperor_of_japan
+		set_character_flag = cloistered_emperor
+		abdicate = yes
+			random_realm_lord = {
+			limit = {
+				is_landed = yes
+				is_priest = yes
+				trait = koyasan_buddhist	
+			}
+			ROOT = { move_character = PREV }	
+			}
+			any_claim = { 
+			limit = { de_jure_vassal_or_below = e_japan }
+			remove_claim = ROOT 
+			}
+	}	
+		option = {
+	trigger = {
+	trait = enryakuji_buddhist	
+	}
+			name = EVTOPTAjapanevents.10
+		FROM = {
+		clr_character_flag = wants_to_retire
+		}
+		piety = -100
+		clr_character_flag = emperor_of_japan
+		set_character_flag = cloistered_emperor
+		abdicate = yes
+		random_realm_lord = {
+			limit = {
+				is_landed = yes
+				is_priest = yes
+				trait = enryakuji_buddhist	
+			}
+			ROOT = { move_character = PREV }		
+			}
+			any_claim = { 
+			limit = { de_jure_vassal_or_below = e_japan }
+			remove_claim = ROOT 
+			}
+	}	
+		option = {
+	trigger = {
+	trait = todaiji_buddhist	
+	}
+			name = EVTOPTAjapanevents.10
+		FROM = {
+		clr_character_flag = wants_to_retire
+		}
+		piety = -100
+		clr_character_flag = emperor_of_japan
+		set_character_flag = cloistered_emperor
+		abdicate = yes
+			random_realm_lord = {
+			limit = {
+				is_landed = yes
+				is_priest = yes
+				trait = todaiji_buddhist	
+			}
+			ROOT = { move_character = PREV }						
+			}
+			any_claim = { 
+			limit = { de_jure_vassal_or_below = e_japan }
+			remove_claim = ROOT 
+			}
+	}	
+	option = {
+			name = EVTOPTBjapanevents.10
+		FROM = {
+		clr_character_flag = wants_to_retire
+		}
+	}
+	}
+	#Emperor Tracking
+	character_event = {
+	id = japanevents.11
+	hide_window = yes
+	only_playable = yes
+	mean_time_to_happen = {
+	days = 1
+	}
+	trigger = {
+	NOT = { has_character_flag = emperor_of_japan}
+	owns = d_yamato
+	dynasty = 1000027000
+	}
+	immediate = {
+	set_character_flag = emperor_of_japan
+	}
+	}

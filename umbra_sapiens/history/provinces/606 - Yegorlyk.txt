@@ -1,0 +1,19 @@
+# 606 - Yegorlyk
+
+# County Title
+title = c_yegorlyk
+
+# Settlements
+max_settlements = 3
+b_uarp-fidar = tribal
+
+#b_adniukh = city
+#b_gata = temple
+
+culture = alan
+religion = uatsdin_pagan 
+
+# History
+900.1.1 = { religion = orthodox } 
+1227.1.1= { religion = sunni } 
+1238.1.1= { culture=mongol }

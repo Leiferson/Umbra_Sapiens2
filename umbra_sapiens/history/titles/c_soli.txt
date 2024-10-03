@@ -1,0 +1,162 @@
+539.1.1={
+	liege="d_rashka"
+}
+757.1.1={
+	holder = 146010
+}
+786.1.1={
+	holder = 146009
+}
+813.1.1={
+	holder = 167865
+}
+841.1.1={
+	holder = 167866
+}
+848.1.1={
+	holder = 167867
+}
+892.1.1={
+	holder = 167868
+}
+936.1.1 = {
+	liege = k_serbia
+	holder = 260647
+}
+1066.1.1=
+{
+liege = k_croatia
+holder=20381
+}
+1097.1.1=
+{
+holder=93556
+}
+1130.1.1=
+{
+holder=93557
+}
+1150.1.1=
+{
+holder=93558
+}
+
+1165.1.1=
+{
+liege="d_bosnia"
+} 
+1165.1.1=
+{
+holder=219500
+}
+1172.3.4=
+{
+holder=218800
+}
+1204.1.1=
+{
+holder=218801
+}
+1232.1.1=
+{
+holder=34145
+}
+1249.3.1=
+{
+holder=34148
+}
+1287.1.1=
+{
+holder=34149
+}
+1295.1.1=
+{
+holder=468810
+}
+1314.1.13=
+{
+holder=468800
+}
+1353.9.1={
+	holder=374197	#Tvrtko I
+}
+1366.1.1={
+	holder=374198	#Vuk
+}
+1367.1.1={
+	holder=374197	#Tvrtko I becomes king in 1377.10.26
+}
+1377.10.26={
+	liege=k_bosnia
+}
+1391.3.10={
+	holder=34153	#Dabisha	
+}
+1398.4.1={
+	holder=374199	#Ostoja of Bosnia
+}
+1404.1.1={
+	holder=374202	#Stephen Tvrtko II
+}
+1409.1.1={
+	holder=374199	#Ostoja of Bosnia
+}
+1418.1.1={
+	holder=377343	#Stephen Ostojic
+}
+1420.8.1={
+	holder=374202	#Stephen Tvrtko II
+}
+1443.11.1={
+	holder=377344 #Stephen Thomas
+}
+1461.7.10={
+	holder=377350 #Stephen Tomashevic
+}
+1463.6.5={
+	holder=377353
+	liege=e_ottomans
+}
+1471.1.1={
+	holder=379570	#Matija Vojsalic
+}
+1476.1.1={
+	holder=377984	#Mehmed II
+	liege=e_ottomans
+}
+1481.5.3={
+	holder=377993	#Bayezid II
+}
+1512.6.10={
+	holder=378008	#Selim I
+}
+1520.9.22={
+	holder=378056	#Suleiman I
+}
+1566.9.6={
+	holder=378068	#Selim II
+}
+1574.12.15={
+	holder=378092	#Murad III
+}
+1595.1.2={
+	holder=378103	#Mehmed III 
+}
+1603.12.22={
+	holder=378139	#Ahmed I
+}
+1617.11.22={
+	holder=378143	#Mustafa I
+}
+1618.2.26={
+	holder=378145	#Osman II
+}
+1622.5.20={
+	holder=378143	#Mustafa I
+}
+1623.9.10={
+	holder=378148	#Murad IV
+}
+1640.2.8={
+	holder=378154	#Ibrahim
+}

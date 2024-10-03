@@ -1,0 +1,1881 @@
+1019100001 = {
+	name="Abutan"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1019100002 = {
+	name="Kambey"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100001
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1019100003 = {
+	name="Gumion"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100002
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1019100004 = {
+	name="Mailoor"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100003
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1019100005 = {
+	name="Amoi"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100004
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1019100006 = {
+	name="Lontaan"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100005
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1019100007 = {
+	name="Poyouw"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100006
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1019100008 = {
+	name="Wuntu"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100007
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1019100009 = {
+	name="Semeke"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100008
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1019100010 = {
+	name="Mongkau"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100009
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1019100011 = {
+	name="Palenewen"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100010
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1019100012 = {
+	name="Potu"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100011
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1019100013 = {
+	name="Mapaliey"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100012
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1019100014 = {
+	name="Sembe"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100013
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1019100015 = {
+	name="Taas"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100014
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1019100016 = {
+	name="Kowaas"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100015
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1019100017 = {
+	name="Bolang"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100016
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1019100018 = {
+	name="Suak"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100017
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1019100019 = {
+	name="Tumbei"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100018
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1019100020 = {
+	name="Tumonggor"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100019
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1019100021 = {
+	name="Wulur"
+	dynasty=1009990056 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100020
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1019100022 = {
+	name="Pai"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1019100023 = {
+	name="Naray"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100022
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1019100024 = {
+	name="Pangemanan"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100023
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1019100025 = {
+	name="Lumatau"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100024
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1019100026 = {
+	name="Mailoor"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100025
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1019100027 = {
+	name="Otay"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100026
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1019100028 = {
+	name="Kamagi"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100027
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1019100029 = {
+	name="Ompi"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100028
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1019100030 = {
+	name="Mamarimbing"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100029
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1019100031 = {
+	name="Rindengan"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100030
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1019100032 = {
+	name="Sumilat"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100031
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1019100033 = {
+	name="Tumiwa"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100032
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1019100034 = {
+	name="Tirayoh"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100033
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1019100035 = {
+	name="Londa"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100034
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1019100036 = {
+	name="Kalonta"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100035
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1019100037 = {
+	name="Datu"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100036
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1019100038 = {
+	name="Mangkey"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100037
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1019100039 = {
+	name="Pantonuwu"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100038
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1019100040 = {
+	name="Taroreh"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100039
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1019100041 = {
+	name="Pinantik"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100040
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1019100042 = {
+	name="Tuyu"
+	dynasty=1009990057 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1019100041
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1019932213={
+	name=Bokau
+	dynasty=1009990287
+	dna="cgbibckphgc"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=ambitious add_trait=zealous 
+	640.1.10={ birth=yes }
+	742.1.7={ death=yes }
+}
+1019932214={
+	name=Ratuwandang
+	female=yes
+	dynasty=1009990287
+	dna="cdbabcmphgn"
+	culture=zealander religion=maori_religion
+	father=1019932213	#Bokau
+	669.1.10={ birth=yes }
+	730.7.28={ death=yes }
+}
+1019932215={
+	name=Dungus
+	dynasty=1009990287
+	dna="cglilchpjlc"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=6
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=deceitful add_trait=trusting add_trait=just 
+	father=1019932213	#Bokau
+	677.3.12={ birth=yes }
+	754.11.26={ death=yes }
+}
+1019932216={
+	name=Mamuaya
+	dynasty=1009990287
+	dna="aggihlhpiac"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	add_trait=martial_cleric add_trait=hedonist add_trait=ambitious add_trait=zealous add_trait=craven 
+	add_trait=patient 
+	father=1019932213	#Bokau
+	682.12.4={ birth=yes }
+	753.3.20={ death=yes }
+}
+1019932217={
+	name=Manalu
+	female=yes
+	dynasty=1009990287
+	dna="cjbmboklhia"
+	culture=zealander religion=maori_religion
+	father=1019932213	#Bokau
+	689.12.2={ birth=yes }
+	742.12.7={ death=yes }
+}
+1019932218={
+	name=Wuntu
+	dynasty=1009990287
+	dna="cglilghpfal"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=indulgent_wastrel add_trait=hunter add_trait=gregarious add_trait=arbitrary add_trait=content 
+	 
+	father=1019932215	#Dungus
+	705.4.23={ birth=yes }
+	778.4.29={ death=yes }
+}
+1019932219={
+	name=Masoko
+	female=yes
+	dynasty=1009990287
+	dna="bglinchpjon"
+	culture=zealander religion=maori_religion
+	father=1019932215	#Dungus
+	711.7.7={ birth=yes }
+	772.12.29={ death=yes }
+}
+1019932220={
+	name=Anis
+	female=yes
+	dynasty=1009990287
+	dna="cgeilcndele"
+	culture=zealander religion=maori_religion
+	father=1019932215	#Dungus
+	718.6.10={ birth=yes }
+	773.2.6={ death=yes }
+}
+1019932221={
+	name=Anis
+	female=yes
+	dynasty=1009990287
+	dna="ckmacchpelk"
+	culture=zealander religion=maori_religion
+	father=1019932215	#Dungus
+	724.1.2={ birth=yes }
+	806.3.15={ death=yes }
+}
+1019932222={
+	name=Bolang
+	dynasty=1009990287
+	dna="jgellghpfal"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=5 stewardship=5 intrigue=8 learning=5
+	add_trait=martial_cleric add_trait=content add_trait=proud add_trait=just add_trait=craven 
+	add_trait=gluttonous 
+	father=1019932218	#Wuntu
+	734.9.6={ birth=yes }
+	795.2.28={ death=yes }
+}
+1019932223={
+	name=Wawoh
+	female=yes
+	dynasty=1009990287
+	dna="ggblmghplol"
+	culture=zealander religion=maori_religion
+	father=1019932218	#Wuntu
+	742.4.16={ birth=yes }
+	827.6.7={ death=yes }
+}
+1019932224={
+	name=Nelwan
+	dynasty=1009990287
+	dna="hgkilghpfcl"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=5 stewardship=5 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=arbitrary  add_trait=ambitious add_trait=craven 
+	father=1019932218	#Wuntu
+	746.3.21={ birth=yes }
+	830.12.21={ death=yes }
+}
+1019932225={
+	name=Raranta
+	female=yes
+	dynasty=1009990287
+	dna="bdlinlopkln"
+	culture=zealander religion=maori_religion
+	father=1019932218	#Wuntu
+	750.1.22={ birth=yes }
+	803.1.26={ death=yes }
+}
+1019932226={
+	name=Tindengen
+	dynasty=1009990287
+	dna="jgeklnlafbl"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=honest add_trait=gluttonous  add_trait=lustful 
+	add_trait=cynical add_trait=slothful add_trait=stressed 
+	father=1019932222	#Bolang
+	761.3.7={ birth=yes }
+	833.9.2={ death=yes }
+}
+1019932227={
+	name=Worang
+	dynasty=1009990287
+	dna="jeefjghohdl"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=patient add_trait=gregarious add_trait=lustful add_trait=depressed 
+	father=1019932222	#Bolang
+	768.5.21={ birth=yes }
+	842.7.19={ death=yes }
+}
+1019932228={
+	name=Watugigir
+	female=yes
+	dynasty=1009990287
+	dna="ideelgnffml"
+	culture=zealander religion=maori_religion
+	father=1019932222	#Bolang
+	771.1.25={ birth=yes }
+	845.10.11={ death=yes }
+}
+1019932229={
+	name=Khodong
+	female=yes
+	dynasty=1009990287
+	dna="jhbklkhpfab"
+	culture=zealander religion=maori_religion
+	father=1019932222	#Bolang
+	777.5.19={ birth=yes }
+	851.8.5={ death=yes }
+}
+1019932230={
+	name=Singal
+	female=yes
+	dynasty=1009990287
+	dna="bgenlehfbal"
+	culture=zealander religion=maori_religion
+	father=1019932222	#Bolang
+	781.10.19={ birth=yes }
+	844.4.14={ death=yes }
+}
+1019932231={
+	name=Adam
+	dynasty=1009990287
+	dna="bljllghpfgg"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=4 stewardship=6 intrigue=4 learning=7
+	add_trait=mastermind_theologian   add_trait=trusting 
+	father=1019932222	#Bolang
+	784.9.1={ birth=yes }
+	876.6.17={ death=yes }
+}
+1019932232={
+	name=Suak
+	dynasty=1009990287
+	dna="jafkanoajbl"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=5 stewardship=7 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=lustful add_trait=craven add_trait=greedy add_trait=cynical 
+	father=1019932226	#Tindengen
+	780.11.12={ birth=yes }
+	822.4.13={ death=yes }
+}
+1019932233={
+	name=Simbawa
+	female=yes
+	dynasty=1009990287
+	dna="hgbklnafpml"
+	culture=zealander religion=maori_religion
+	father=1019932226	#Tindengen
+	785.11.4={ birth=yes }
+	843.12.14={ death=yes }
+}
+1019932234={
+	name=Mongi
+	dynasty=1009990287
+	dna="gknkoilafbl"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=8 stewardship=7 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=ambitious add_trait=charitable add_trait=deceitful add_trait=wroth 
+	father=1019932226	#Tindengen
+	791.2.6={ birth=yes }
+	852.3.30={ death=yes }
+}
+1019932235={
+	name=Mangare
+	dynasty=1009990287
+	dna="dgckgjaafbp"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=5 stewardship=7 intrigue=8 learning=4
+	add_trait=martial_cleric add_trait=patient add_trait=trusting add_trait=chaste add_trait=craven 
+	father=1019932226	#Tindengen
+	797.2.6={ birth=yes }
+	867.11.22={ death=yes }
+}
+1019932236={
+	name=Gumalag
+	dynasty=1009990287
+	dna="jcfpadoabpl"
+	culture=zealander religion=maori_religion
+	martial=8 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=trusting  add_trait=slothful add_trait=cynical 
+	father=1019932232	#Suak
+	809.2.12={ birth=yes }
+	892.2.2={ death=yes }
+}
+1019932237={
+	name=Lalowang
+	female=yes
+	dynasty=1009990287
+	dna="colaanchpfj"
+	culture=zealander religion=maori_religion
+	father=1019932232	#Suak
+	814.10.9={ birth=yes }
+	865.2.9={ death=yes }
+}
+1019932238={
+	name=Pendang
+	dynasty=1009990287
+	dna="jgfkadjnbil"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	add_trait=tough_soldier add_trait=humble add_trait=charitable add_trait=craven add_trait=patient 
+	add_trait=lustful add_trait=envious 
+	father=1019932236	#Gumalag
+	835.11.4={ birth=yes }
+	911.4.4={ death=yes }
+}
+1019932239={
+	name=Mema
+	female=yes
+	dynasty=1009990287
+	dna="bccpimoabdl"
+	culture=zealander religion=maori_religion
+	father=1019932236	#Gumalag
+	839.5.26={ birth=yes }
+	884.10.8={ death=yes }
+}
+1019932240={
+	name=Kaendo
+	dynasty=1009990287
+	dna="lcmpacopbdm"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=8 stewardship=4 intrigue=7 learning=8
+	add_trait=martial_cleric add_trait=deceitful add_trait=brave 
+	father=1019932236	#Gumalag
+	845.5.21={ birth=yes }
+	923.4.23={ death=yes }
+}
+1019932241={
+	name=Mendur
+	female=yes
+	dynasty=1009990287
+	dna="dcanepocbgl"
+	culture=zealander religion=maori_religion
+	father=1019932236	#Gumalag
+	849.3.24={ birth=yes }
+	934.2.7={ death=yes }
+}
+1019932242={
+	name=Wangko
+	female=yes
+	dynasty=1009990287
+	dna="jippajopbpl"
+	culture=zealander religion=maori_religion
+	father=1019932236	#Gumalag
+	854.4.13={ birth=yes }
+	928.9.28={ death=yes }
+}
+1019932243={
+	name=Walian
+	female=yes
+	dynasty=1009990287
+	dna="jgffmjnknbj"
+	culture=zealander religion=maori_religion
+	father=1019932238	#Pendang
+	867.1.3={ birth=yes }
+	927.6.13={ death=yes }
+}
+1019932244={
+	name=Gigir
+	dynasty=1009990287
+	dna="apfkodinbcn"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	add_trait=detached_priest add_trait=charitable add_trait=slothful add_trait=paranoid add_trait=humble 
+	father=1019932238	#Pendang
+	871.12.7={ birth=yes }
+	960.4.27={ death=yes }
+}
+1019932245={
+	name=Walelang
+	female=yes
+	dynasty=1009990287
+	dna="hobdadjhbil"
+	culture=zealander religion=maori_religion
+	father=1019932238	#Pendang
+	878.3.11={ birth=yes }
+	944.12.9={ death=yes }
+}
+1019932246={
+	name=Togas
+	dynasty=1009990287
+	dna="ngfiafpjkal"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=6 stewardship=7 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=temperate add_trait=humble add_trait=wounded 
+	father=1019932238	#Pendang
+	885.8.12={ birth=yes }
+	958.12.4={ death=yes }
+}
+1019932247={
+	name=Rembet
+	dynasty=1009990287
+	dna="akmkodinhcn"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=6
+	add_trait=scholarly_theologian add_trait=cynical add_trait=trusting add_trait=shy add_trait=proud 
+	add_trait=patient add_trait=wounded 
+	father=1019932244	#Gigir
+	890.11.21={ birth=yes }
+	944.6.25={ death=yes }
+}
+1019932248={
+	name=Lapian
+	female=yes
+	dynasty=1009990287
+	dna="apfkjdinfan"
+	culture=zealander religion=maori_religion
+	father=1019932244	#Gigir
+	893.7.19={ birth=yes }
+	984.7.8={ death=yes }
+}
+1019932249={
+	name=Khodong
+	female=yes
+	dynasty=1009990287
+	dna="abfimbebhpn"
+	culture=zealander religion=maori_religion
+	father=1019932244	#Gigir
+	898.11.10={ birth=yes }
+	953.6.22={ death=yes }
+}
+1019932250={
+	name=Dimpudus
+	dynasty=1009990287
+	dna="aipkldimgcn"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=7 stewardship=5 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=honest  add_trait=humble  
+	add_trait=content 
+	father=1019932247	#Rembet
+	915.9.2={ birth=yes }
+	978.4.28={ death=yes }
+}
+1019932251={
+	name=Ondang
+	dynasty=1009990287
+	dna="jkdcomhnmcn"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=8
+	add_trait=skilled_tactician add_trait=impaler add_trait=charitable add_trait=patient add_trait=gregarious 
+	add_trait=temperate add_trait=stressed 
+	father=1019932247	#Rembet
+	918.10.6={ birth=yes }
+	991.8.19={ death=yes }
+}
+1019932252={
+	name=Masinambau
+	female=yes
+	dynasty=1009990287
+	dna="ahhgaeilhca"
+	culture=zealander religion=maori_religion
+	father=1019932247	#Rembet
+	923.6.15={ birth=yes }
+	991.11.4={ death=yes }
+}
+1019932253={
+	name=Watuseke
+	female=yes
+	dynasty=1009990287
+	dna="pjmkojpilcn"
+	culture=zealander religion=maori_religion
+	father=1019932247	#Rembet
+	928.9.22={ birth=yes }
+	987.9.5={ death=yes }
+}
+1019932254={
+	name=Palilingan
+	dynasty=1009990287
+	dna="akahodicchn"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=7
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=gluttonous 
+	father=1019932247	#Rembet
+	933.7.13={ birth=yes }
+	1006.7.1={ death=yes }
+}
+1019932255={
+	name=Rondonuwu
+	dynasty=1009990287
+	dna="aickldijgcn"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=4 stewardship=5 intrigue=7 learning=7
+	add_trait=elusive_shadow add_trait=paranoid add_trait=wroth add_trait=zealous add_trait=craven 
+	add_trait=ambitious 
+	father=1019932250	#Dimpudus
+	938.12.25={ birth=yes }
+	1032.9.25={ death=yes }
+}
+1019932256={
+	name=Luntungan
+	dynasty=1009990287
+	dna="mkpnkfikgan"
+	culture=zealander religion=maori_religion
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=6
+	add_trait=tough_soldier add_trait=gardener  add_trait=lustful add_trait=slothful 
+	add_trait=temperate 
+	father=1019932250	#Dimpudus
+	942.5.16={ birth=yes }
+	1004.4.30={ death=yes }
+}
+1019932257={
+	name=Wagei
+	dynasty=1009990287
+	dna="hnpkmdlcaba"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=5 stewardship=8 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=proud add_trait=charitable add_trait=diligent add_trait=wroth 
+	add_trait=honest add_trait=envious add_trait=depressed 
+	father=1019932250	#Dimpudus
+	946.5.22={ birth=yes }
+	1001.12.15={ death=yes }
+}
+1019932258={
+	name=Manurip
+	dynasty=1009990287
+	dna="ajpehdamabn"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=4 stewardship=5 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=scholar add_trait=humble add_trait=shy add_trait=chaste 
+	add_trait=wroth add_trait=drunkard 
+	father=1019932250	#Dimpudus
+	951.4.24={ birth=yes }
+	1010.8.27={ death=yes }
+}
+1019932259={
+	name=Pangalila
+	dynasty=1009990287
+	dna="aapkloidain"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=8
+	add_trait=intricate_webweaver add_trait=craven add_trait=content add_trait=arbitrary add_trait=proud 
+	add_trait=greedy 
+	father=1019932250	#Dimpudus
+	956.1.17={ birth=yes }
+	1012.7.25={ death=yes }
+}
+1019932260={
+	name=Liwe
+	female=yes
+	dynasty=1009990287
+	dna="hippfdimkdn"
+	culture=zealander religion=maori_religion
+	father=1019932250	#Dimpudus
+	961.6.17={ birth=yes }
+	1030.3.9={ death=yes }
+}
+1019932261={
+	name=Muntuan
+	dynasty=1009990287
+	dna="ijpklkihlcc"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=8
+	add_trait=flamboyant_schemer add_trait=wroth add_trait=content add_trait=trusting add_trait=greedy 
+	father=1019932250	#Dimpudus
+	964.12.6={ birth=yes }
+	1029.12.10={ death=yes }
+}
+1019932262={
+	name=Ombeng
+	dynasty=1009990287
+	dna="agpbloaagcn"
+	culture=zealander religion=maori_religion
+	martial=8 diplomacy=4 stewardship=4 intrigue=6 learning=5
+	add_trait=intricate_webweaver add_trait=craven add_trait=paranoid add_trait=envious 
+	father=1019932255	#Rondonuwu
+	968.7.3={ birth=yes }
+	1028.10.21={ death=yes }
+}
+1019932263={
+	name=Langitan
+	female=yes
+	dynasty=1009990287
+	dna="aakpllijpcn"
+	culture=zealander religion=maori_religion
+	father=1019932255	#Rondonuwu
+	974.2.18={ birth=yes }
+	1033.6.23={ death=yes }
+}
+1019932264={
+	name=Mangindaan
+	female=yes
+	dynasty=1009990287
+	dna="jieklphjbjn"
+	culture=zealander religion=maori_religion
+	father=1019932255	#Rondonuwu
+	978.2.27={ birth=yes }
+	1062.6.28={ death=yes }
+}
+1019932265={
+	name=Wowilang
+	dynasty=1009990287
+	dna="aicemdjjnnn"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=5 stewardship=4 intrigue=4 learning=6
+	add_trait=tough_soldier add_trait=gluttonous add_trait=cynical add_trait=diligent 
+	father=1019932255	#Rondonuwu
+	982.9.20={ birth=yes }
+	1050.7.4={ death=yes }
+}
+1019932266={
+	name=Lambogia
+	female=yes
+	dynasty=1009990287
+	dna="khckbdojgaj"
+	culture=zealander religion=maori_religion
+	father=1019932255	#Rondonuwu
+	986.9.5={ birth=yes }
+	1050.8.31={ death=yes }
+}
+1019932267={
+	name=Sambul
+	female=yes
+	dynasty=1009990287
+	dna="agbblmfainn"
+	culture=zealander religion=maori_religion
+	father=1019932262	#Ombeng
+	998.10.22={ birth=yes }
+	1065.1.31={ death=yes }
+}
+1019932268={
+	name=Piay
+	dynasty=1009990287
+	dna="agpclhaapcb"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=arbitrary add_trait=diligent add_trait=honest add_trait=proud 
+	father=1019932262	#Ombeng
+	1005.1.25={ birth=yes }
+	1074.9.15={ death=yes }
+}
+1019932269={
+	name=Somba
+	dynasty=1009990287
+	dna="adpnlhhabca"
+	culture=zealander religion=maori_religion
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=humble add_trait=slothful add_trait=brave add_trait=honest 
+	 add_trait=clubfooted 
+	father=1019932268	#Piay
+	1034.4.3={ birth=yes }
+	1106.2.4={ death=yes }
+}
+1019932270={
+	name=Mumu
+	dynasty=1009990287
+	dna="lcpchepapad"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=8 stewardship=5 intrigue=6 learning=4
+	add_trait=scholarly_theologian add_trait=gregarious add_trait=ambitious add_trait=chaste add_trait=patient 
+	father=1019932268	#Piay
+	1039.8.7={ birth=yes }
+	1110.7.30={ death=yes }
+}
+1019932271={
+	name=Tanor
+	dynasty=1009990287
+	dna="mgpllhdapii"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=charitable add_trait=slothful add_trait=ambitious add_trait=proud 
+	add_trait=zealous add_trait=deceitful add_trait=wounded 
+	father=1019932268	#Piay
+	1046.11.18={ birth=yes }
+	1103.8.20={ death=yes }
+}
+1019932272={
+	name=Kindangen
+	female=yes
+	dynasty=1009990287
+	dna="afpckhangch"
+	culture=zealander religion=maori_religion
+	father=1019932268	#Piay
+	1052.4.16={ birth=yes }
+	1110.11.24={ death=yes }
+}
+1019932273={
+	name=Limbong
+	dynasty=1009990287
+	dna="jcinlphibld"
+	culture=zealander religion=maori_religion
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=7
+	add_trait=skilled_tactician add_trait=lustful   add_trait=craven 
+	add_trait=gregarious 
+	father=1019932269	#Somba
+	1061.7.16={ birth=yes }
+	1126.12.27={ death=yes }
+}
+1019932274={
+	name=Mende
+	female=yes
+	dynasty=1009990287
+	dna="acfjahbmbca"
+	culture=zealander religion=maori_religion
+	father=1019932269	#Somba
+	1068.4.5={ birth=yes }
+	1129.11.14={ death=yes }
+}
+1019932275={
+	name=Karundeng
+	female=yes
+	dynasty=1009990287
+	dna="hdhdnhhhbpa"
+	culture=zealander religion=maori_religion
+	father=1019932269	#Somba
+	1073.4.26={ birth=yes }
+	1141.2.4={ death=yes }
+}
+1019932276={
+	name=Tombeng
+	dynasty=1009990287
+	dna="afillphialj"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=6 stewardship=4 intrigue=5 learning=7
+	add_trait=martial_cleric add_trait=gardener add_trait=gregarious add_trait=greedy add_trait=arbitrary 
+	add_trait=honest add_trait=trusting 
+	father=1019932273	#Limbong
+	1083.1.20={ birth=yes }
+	1153.7.25={ death=yes }
+}
+1019932277={
+	name=Kapele
+	female=yes
+	dynasty=1009990287
+	dna="bclpchhlkji"
+	culture=zealander religion=maori_religion
+	father=1019932273	#Limbong
+	1090.7.4={ birth=yes }
+	1155.5.26={ death=yes }
+}
+1019932278={
+	name=Weku
+	dynasty=1009990287
+	dna="fcigldflped"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=4
+	add_trait=indulgent_wastrel add_trait=cynical add_trait=greedy  add_trait=ill 
+	father=1019932273	#Limbong
+	1097.10.1={ birth=yes }
+	1173.7.15={ death=yes }
+}
+1019932279={
+	name=Pioh
+	dynasty=1009990287
+	dna="hajcojhapla"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	add_trait=scholarly_theologian add_trait=trusting add_trait=temperate add_trait=diligent add_trait=content 
+	 
+	father=1019932273	#Limbong
+	1101.12.6={ birth=yes }
+	1181.4.15={ death=yes }
+}
+1019932280={
+	name=Gumansing
+	dynasty=1009990287
+	dna="afinlohiahj"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=5 stewardship=8 intrigue=7 learning=5
+	add_trait=indulgent_wastrel  add_trait=gregarious add_trait=paranoid add_trait=honest 
+	add_trait=wroth add_trait=lustful 
+	father=1019932276	#Tombeng
+	1106.7.26={ birth=yes }
+	1188.11.15={ death=yes }
+}
+1019932281={
+	name=Tumewu
+	dynasty=1009990287
+	dna="ffiblchlalj"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=7 stewardship=5 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=diligent add_trait=just add_trait=wroth  
+	add_trait=wounded 
+	father=1019932276	#Tombeng
+	1111.11.6={ birth=yes }
+	1179.4.9={ death=yes }
+}
+1019932282={
+	name=Mawuntu
+	female=yes
+	dynasty=1009990287
+	dna="pfiklphjaij"
+	culture=zealander religion=maori_religion
+	father=1019932276	#Tombeng
+	1115.12.10={ birth=yes }
+	1182.4.7={ death=yes }
+}
+1019932283={
+	name=Tumondo
+	dynasty=1009990287
+	dna="dfillohiapl"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=5 stewardship=4 intrigue=4 learning=8
+	add_trait=flamboyant_schemer add_trait=craven add_trait=patient add_trait=slothful add_trait=envious 
+	father=1019932280	#Gumansing
+	1130.3.20={ birth=yes }
+	1202.2.23={ death=yes }
+}
+1019932284={
+	name=Tambengi
+	dynasty=1009990287
+	dna="afonloceahp"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=7 stewardship=4 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=cynical add_trait=just 
+	father=1019932280	#Gumansing
+	1134.8.20={ birth=yes }
+	1206.1.4={ death=yes }
+}
+1019932285={
+	name=Lumenta
+	dynasty=1009990287
+	dna="aeiljomimhi"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=5 stewardship=7 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=mystic add_trait=brave add_trait=paranoid add_trait=honest 
+	add_trait=lustful add_trait=content 
+	father=1019932280	#Gumansing
+	1138.9.3={ birth=yes }
+	1202.5.26={ death=yes }
+}
+1019932286={
+	name=Tuera
+	dynasty=1009990287
+	dna="jflnlofiagj"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	add_trait=grey_eminence add_trait=brave  add_trait=charitable 
+	father=1019932280	#Gumansing
+	1143.5.10={ birth=yes }
+	1179.11.7={ death=yes }
+}
+1019932287={
+	name=Anis
+	female=yes
+	dynasty=1009990287
+	dna="pfipldfaall"
+	culture=zealander religion=maori_religion
+	father=1019932283	#Tumondo
+	1152.1.4={ birth=yes }
+	1220.8.13={ death=yes }
+}
+1019932288={
+	name=Tongkeles
+	dynasty=1009990287
+	dna="kfflnomiapl"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=5
+	add_trait=naive_appeaser add_trait=impaler add_trait=zealous add_trait=humble add_trait=honest 
+	add_trait=fair 
+	father=1019932283	#Tumondo
+	1157.7.1={ birth=yes }
+	1229.7.29={ death=yes }
+}
+1019932289={
+	name=Wariki
+	female=yes
+	dynasty=1009990287
+	dna="lnkllokiggg"
+	culture=zealander religion=maori_religion
+	father=1019932283	#Tumondo
+	1163.4.14={ birth=yes }
+	1228.10.21={ death=yes }
+}
+1019932290={
+	name=Dayoh
+	dynasty=1009990287
+	dna="dknlcohiapo"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=8
+	add_trait=martial_cleric add_trait=celibate add_trait=greedy add_trait=gregarious add_trait=zealous 
+	add_trait=deceitful  
+	father=1019932283	#Tumondo
+	1170.1.21={ birth=yes }
+	1236.1.10={ death=yes }
+}
+1019932291={
+	name=Bella
+	female=yes
+	dynasty=1009990287
+	dna="klflnomebpl"
+	culture=zealander religion=maori_religion
+	father=1019932288	#Tongkeles
+	1188.11.20={ birth=yes }
+	1261.2.26={ death=yes }
+}
+1019932292={
+	name=Ekel
+	dynasty=1009990287
+	dna="nmpepfmmbpl"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=5
+	add_trait=midas_touched add_trait=trusting add_trait=zealous add_trait=greedy  
+	father=1019932288	#Tongkeles
+	1193.12.13={ birth=yes }
+	1253.6.21={ death=yes }
+}
+1019932293={
+	name=Andu
+	female=yes
+	dynasty=1009990287
+	dna="kjflnoeibnl"
+	culture=zealander religion=maori_religion
+	father=1019932288	#Tongkeles
+	1198.3.26={ birth=yes }
+	1252.8.9={ death=yes }
+}
+1019932294={
+	name=Supit
+	dynasty=1009990287
+	dna="ffojnomince"
+	culture=zealander religion=maori_religion
+	martial=8 diplomacy=4 stewardship=5 intrigue=5 learning=8
+	add_trait=naive_appeaser add_trait=celibate add_trait=cynical add_trait=content  
+	add_trait=slothful add_trait=patient 
+	father=1019932288	#Tongkeles
+	1201.2.1={ birth=yes }
+	1259.2.4={ death=yes }
+}
+1019932295={
+	name=Mende
+	female=yes
+	dynasty=1009990287
+	dna="cdnapfmmkpb"
+	culture=zealander religion=maori_religion
+	father=1019932292	#Ekel
+	1215.4.13={ birth=yes }
+	1273.9.24={ death=yes }
+}
+1019932296={
+	name=Mantik
+	female=yes
+	dynasty=1009990287
+	dna="nipebimmbpf"
+	culture=zealander religion=maori_religion
+	father=1019932292	#Ekel
+	1218.10.6={ birth=yes }
+	1279.12.14={ death=yes }
+}
+1019932297={
+	name=Malingkas
+	female=yes
+	dynasty=1009990287
+	dna="nmpepjlmbpa"
+	culture=zealander religion=maori_religion
+	father=1019932292	#Ekel
+	1222.12.13={ birth=yes }
+	1318.10.7={ death=yes }
+}
+1019932298={
+	name=Rengku
+	dynasty=1009990287
+	dna="nbpldifmbpo"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=proud add_trait=greedy add_trait=arbitrary add_trait=brave 
+	father=1019932292	#Ekel
+	1229.4.1={ birth=yes }
+	1295.11.27={ death=yes }
+}
+1019932299={
+	name=Repi
+	dynasty=1009990287
+	dna="knmloifmhpa"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=6 stewardship=8 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=hedonist add_trait=cynical add_trait=gregarious  
+	add_trait=diligent add_trait=proud add_trait=patient 
+	father=1019932298	#Rengku
+	1250.2.1={ birth=yes }
+	1326.3.28={ death=yes }
+}
+1019932300={
+	name=Langitan
+	female=yes
+	dynasty=1009990287
+	dna="nbnmmofmlpf"
+	culture=zealander religion=maori_religion
+	father=1019932298	#Rengku
+	1255.11.10={ birth=yes }
+	1329.10.28={ death=yes }
+}
+1019932301={
+	name=Masinambau
+	female=yes
+	dynasty=1009990287
+	dna="mgfldifmmem"
+	culture=zealander religion=maori_religion
+	father=1019932298	#Rengku
+	1259.1.6={ birth=yes }
+	1340.11.9={ death=yes }
+}
+1019932302={
+	name=Mewengkang
+	female=yes
+	dynasty=1009990287
+	dna="ibjcdffmbpe"
+	culture=zealander religion=maori_religion
+	father=1019932298	#Rengku
+	1262.2.21={ birth=yes }
+	1332.2.5={ death=yes }
+}
+1019932303={
+	name=Rolangon
+	dynasty=1009990287
+	dna="keiloigmbfh"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=paranoid add_trait=honest add_trait=lustful 
+	father=1019932299	#Repi
+	1272.1.18={ birth=yes }
+	1353.10.27={ death=yes }
+}
+1019932304={
+	name=Semeke
+	dynasty=1009990287
+	dna="kfmlbofihpb"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=5 stewardship=7 intrigue=5 learning=7
+	add_trait=indulgent_wastrel add_trait=just add_trait=paranoid add_trait=deceitful add_trait=temperate 
+	father=1019932299	#Repi
+	1278.10.26={ birth=yes }
+	1344.11.6={ death=yes }
+}
+1019932305={
+	name=Pantonuwu
+	dynasty=1009990287
+	dna="kncooefmnpe"
+	culture=zealander religion=maori_religion
+	martial=8 diplomacy=8 stewardship=4 intrigue=4 learning=7
+	add_trait=indulgent_wastrel add_trait=temperate add_trait=ambitious add_trait=chaste add_trait=craven 
+	add_trait=wroth 
+	father=1019932299	#Repi
+	1282.10.15={ birth=yes }
+	1377.8.18={ death=yes }
+}
+1019932306={
+	name=Dondokambei
+	dynasty=1009990287
+	dna="kimloifmfpn"
+	culture=zealander religion=maori_religion
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=5
+	add_trait=detached_priest add_trait=hunter add_trait=slothful add_trait=greedy add_trait=deceitful 
+	add_trait=temperate add_trait=arbitrary 
+	father=1019932299	#Repi
+	1287.1.7={ birth=yes }
+	1359.11.9={ death=yes }
+}
+1019932307={
+	name=Mangowal
+	dynasty=1009990287
+	dna="keiloijbbfa"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=6 stewardship=8 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=just add_trait=temperate add_trait=paranoid add_trait=gregarious 
+	father=1019932303	#Rolangon
+	1298.6.11={ birth=yes }
+	1366.8.6={ death=yes }
+}
+1019932308={
+	name=Sumanti
+	dynasty=1009990287
+	dna="cejoongihmh"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=4 stewardship=4 intrigue=7 learning=6
+	add_trait=indulgent_wastrel add_trait=humble add_trait=honest add_trait=wroth add_trait=hunchback 
+	father=1019932303	#Rolangon
+	1303.2.7={ birth=yes }
+	1367.1.17={ death=yes }
+}
+1019932309={
+	name=Lantu
+	female=yes
+	dynasty=1009990287
+	dna="oeondlnbhfh"
+	culture=zealander religion=maori_religion
+	father=1019932303	#Rolangon
+	1309.4.25={ birth=yes }
+	1365.3.27={ death=yes }
+}
+1019932310={
+	name=Rauta
+	female=yes
+	dynasty=1009990287
+	dna="keicgigijke"
+	culture=zealander religion=maori_religion
+	father=1019932303	#Rolangon
+	1314.11.1={ birth=yes }
+	1393.9.29={ death=yes }
+}
+1019932311={
+	name=Worang
+	dynasty=1009990287
+	dna="hndeobabbfa"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=hunter add_trait=deceitful add_trait=paranoid add_trait=depressed 
+	father=1019932307	#Mangowal
+	1327.3.26={ birth=yes }
+	1405.8.27={ death=yes }
+}
+1019932312={
+	name=Muaya
+	dynasty=1009990287
+	dna="keifldllopm"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=8 stewardship=4 intrigue=5 learning=4
+	add_trait=elusive_shadow add_trait=celibate add_trait=chaste add_trait=envious add_trait=wroth 
+	father=1019932307	#Mangowal
+	1331.3.12={ birth=yes }
+	1393.11.10={ death=yes }
+}
+1019932313={
+	name=Mamba
+	dynasty=1009990287
+	dna="aliajojbbji"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	add_trait=thrifty_clerk add_trait=chaste add_trait=cynical add_trait=craven add_trait=patient 
+	father=1019932307	#Mangowal
+	1335.6.24={ birth=yes }
+	1405.12.4={ death=yes }
+}
+1019932314={
+	name=Masing
+	female=yes
+	dynasty=1009990287
+	dna="eicleijgjfk"
+	culture=zealander religion=maori_religion
+	father=1019932307	#Mangowal
+	1340.7.6={ birth=yes }
+	1428.2.1={ death=yes }
+}
+1019932315={
+	name=Mondou
+	dynasty=1009990287
+	dna="aeiloibbbaa"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=deceitful add_trait=envious 
+	father=1019932307	#Mangowal
+	1342.9.27={ birth=yes }
+	1427.8.14={ death=yes }
+}
+1019932316={
+	name=Kandou
+	female=yes
+	dynasty=1009990287
+	dna="kebnoigkbfa"
+	culture=zealander religion=maori_religion
+	father=1019932307	#Mangowal
+	1347.11.7={ birth=yes }
+	1416.4.6={ death=yes }
+}
+1019932317={
+	name=Kalengkongan
+	dynasty=1009990287
+	dna="kekkaijbbda"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	add_trait=thrifty_clerk add_trait=honest add_trait=chaste add_trait=envious add_trait=temperate 
+	father=1019932307	#Mangowal
+	1352.3.16={ birth=yes }
+	1405.5.26={ death=yes }
+}
+1019932318={
+	name=Pitoy
+	dynasty=1009990287
+	dna="kjdeahapbfa"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=6 stewardship=6 intrigue=4 learning=6
+	add_trait=midas_touched add_trait=hunter add_trait=charitable add_trait=humble add_trait=wroth 
+	father=1019932311	#Worang
+	1349.2.20={ birth=yes }
+	1405.7.12={ death=yes }
+}
+1019932319={
+	name=Watti
+	female=yes
+	dynasty=1009990287
+	dna="nnhaofcblfm"
+	culture=zealander religion=maori_religion
+	father=1019932311	#Worang
+	1354.8.10={ birth=yes }
+	1410.4.18={ death=yes }
+}
+1019932320={
+	name=Adam
+	dynasty=1009990287
+	dna="hndlkgcmbfh"
+	culture=zealander religion=maori_religion
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=5
+	add_trait=detached_priest add_trait=brave add_trait=arbitrary  add_trait=slothful 
+	add_trait=deceitful add_trait=patient add_trait=possessed 
+	father=1019932311	#Worang
+	1360.9.22={ birth=yes }
+	1424.5.15={ death=yes }
+}
+1019932321={
+	name=Goniwala
+	dynasty=1009990287
+	dna="fjfekejijoa"
+	culture=zealander religion=maori_religion
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=6
+	add_trait=skilled_tactician  add_trait=arbitrary add_trait=envious add_trait=possessed 
+	father=1019932318	#Pitoy
+	1373.9.18={ birth=yes }
+	1471.4.14={ death=yes }
+}
+1019932322={
+	name=Kapoyos
+	female=yes
+	dynasty=1009990287
+	dna="hjdehjapbbd"
+	culture=zealander religion=maori_religion
+	father=1019932318	#Pitoy
+	1377.9.11={ birth=yes }
+	1454.1.14={ death=yes }
+}
+1019932323={
+	name=Wuwungan
+	dynasty=1009990287
+	dna="gjfcaepmjof"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	add_trait=indulgent_wastrel add_trait=temperate add_trait=ambitious add_trait=shy add_trait=slothful 
+	add_trait=greedy add_trait=ill 
+	father=1019932321	#Goniwala
+	1395.5.3={ birth=yes }
+	1467.7.12={ death=yes }
+}
+1019932324={
+	name=Ratulangi
+	female=yes
+	dynasty=1009990287
+	dna="fmhekmjidob"
+	culture=zealander religion=maori_religion
+	father=1019932321	#Goniwala
+	1399.8.18={ birth=yes }
+	1476.4.19={ death=yes }
+}
+1019932325={
+	name=Sambul
+	female=yes
+	dynasty=1009990287
+	dna="njfikbjbjla"
+	culture=zealander religion=maori_religion
+	father=1019932321	#Goniwala
+	1406.9.11={ birth=yes }
+	1469.8.25={ death=yes }
+}
+1019932326={
+	name=Kusoi
+	dynasty=1009990287
+	dna="mjlcdeenkof"
+	culture=zealander religion=maori_religion
+	martial=6 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	add_trait=elusive_shadow add_trait=mystic add_trait=temperate  add_trait=gregarious 
+	father=1019932323	#Wuwungan
+	1423.7.6={ birth=yes }
+	1470.12.13={ death=yes }
+}
+1019932327={
+	name=Watuseke
+	female=yes
+	dynasty=1009990287
+	dna="hjfcheclgef"
+	culture=zealander religion=maori_religion
+	father=1019932323	#Wuwungan
+	1427.9.10={ birth=yes }
+	1494.8.30={ death=yes }
+}
+1019932328={
+	name=Manangkod
+	female=yes
+	dynasty=1009990287
+	dna="gkfcajpkjff"
+	culture=zealander religion=maori_religion
+	father=1019932323	#Wuwungan
+	1434.5.7={ birth=yes }
+	1518.9.21={ death=yes }
+}
+1019932329={
+	name=Rauta
+	female=yes
+	dynasty=1009990287
+	dna="gagdpepmbei"
+	culture=zealander religion=maori_religion
+	father=1019932323	#Wuwungan
+	1439.10.5={ birth=yes }
+	1501.5.14={ death=yes }
+}
+1019932330={
+	name=Tampanatu
+	dynasty=1009990287
+	dna="jfacdeelkoo"
+	culture=zealander religion=maori_religion
+	martial=5 diplomacy=8 stewardship=5 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=honest add_trait=patient add_trait=envious add_trait=cynical 
+	father=1019932326	#Kusoi
+	1451.12.9={ birth=yes }
+	1511.7.5={ death=yes }
+}
+1019932331={
+	name=Rembet
+	dynasty=1009990287
+	dna="jjledelnkok"
+	culture=zealander religion=maori_religion
+	martial=7 diplomacy=6 stewardship=7 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=just add_trait=zealous add_trait=humble 
+	father=1019932326	#Kusoi
+	1457.7.25={ birth=yes }
+	1514.9.26={ death=yes }
+}
+1019932332={
+	name=Legi
+	female=yes
+	dynasty=1009990287
+	dna="mplddpbckof"
+	culture=zealander religion=maori_religion
+	father=1019932326	#Kusoi
+	1463.5.3={ birth=yes }
+	1521.12.11={ death=yes }
+}

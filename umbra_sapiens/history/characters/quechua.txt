@@ -1,0 +1,6713 @@
+1019928703={
+	name=Sopa
+	dynasty=1009990255
+	dna="jhehghmldfa"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=wroth add_trait=shy add_trait=diligent add_trait=paranoid 
+	719.1.22={ birth=yes }
+	788.2.24={ death=yes }
+}
+1019928704={
+	name=Yahuar
+	dynasty=1009990255
+	dna="jhehhhmgkjc"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=8
+	add_trait=skilled_tactician add_trait=mystic add_trait=zealous add_trait=envious 
+	add_trait=paranoid add_trait=charitable 
+	father=1019928703	#Sopa
+	741.6.19={ birth=yes }
+	809.12.23={ death=yes }
+}
+1019928705={
+	name=Cápac
+	dynasty=1009990255
+	dna="khehghmagde"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=celibate add_trait=envious add_trait=cynical add_trait=chaste 
+	add_trait=humble add_trait=ill 
+	father=1019928703	#Sopa
+	744.10.21={ birth=yes }
+	816.11.4={ death=yes }
+}
+1019928706={
+	name=Pumi
+	dynasty=1009990255
+	dna="odehghmldfa"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=duelist add_trait=zealous add_trait=humble add_trait=charitable 
+	add_trait=brave add_trait=chaste 
+	father=1019928703	#Sopa
+	748.2.11={ birth=yes }
+	830.5.14={ death=yes }
+}
+1019928707={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="miehliildol"
+	culture=quechua religion=chavin_pagan
+	father=1019928703	#Sopa
+	753.4.20={ birth=yes }
+	816.12.25={ death=yes }
+}
+1019928708={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="jmohamgpdfj"
+	culture=quechua religion=chavin_pagan
+	father=1019928703	#Sopa
+	758.10.13={ birth=yes }
+	823.1.17={ death=yes }
+}
+1019928709={
+	name=Kantuta
+	female=yes
+	dynasty=1009990255
+	dna="fhekghmhdfn"
+	culture=quechua religion=chavin_pagan
+	father=1019928703	#Sopa
+	762.7.20={ birth=yes }
+	845.11.24={ death=yes }
+}
+1019928710={
+	name=Kantuta
+	female=yes
+	dynasty=1009990255
+	dna="hfegghjigjj"
+	culture=quechua religion=chavin_pagan
+	father=1019928703	#Sopa
+	766.3.5={ birth=yes }
+	846.7.28={ death=yes }
+}
+1019928711={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="jmodlhdmijc"
+	culture=quechua religion=chavin_pagan
+	father=1019928704	#Yahuar
+	763.7.9={ birth=yes }
+	821.9.21={ death=yes }
+}
+1019928712={
+	name=Roca
+	dynasty=1009990255
+	dna="jjehhhmnkkc"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=7 learning=6
+	add_trait=charismatic_negotiator add_trait=greedy add_trait=humble  add_trait=ambitious 
+	add_trait=just 
+	father=1019928704	#Yahuar
+	767.3.24={ birth=yes }
+	855.2.2={ death=yes }
+}
+1019928713={
+	name=Ninan
+	dynasty=1009990255
+	dna="cjlhhgaidkh"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=hedonist add_trait=wroth add_trait=slothful 
+	add_trait=humble add_trait=ambitious add_trait=depressed 
+	father=1019928712	#Roca
+	787.9.6={ birth=yes }
+	857.7.27={ death=yes }
+}
+1019928714={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="jeeeicmdklc"
+	culture=quechua religion=chavin_pagan
+	father=1019928712	#Roca
+	794.9.21={ birth=yes }
+	876.2.11={ death=yes }
+}
+1019928715={
+	name=Tupac
+	dynasty=1009990255
+	dna="jhlncamnkko"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=just add_trait=brave add_trait=greedy add_trait=ambitious 
+	father=1019928712	#Roca
+	797.7.2={ birth=yes }
+	874.12.15={ death=yes }
+}
+1019928716={
+	name=Huachuri
+	dynasty=1009990255
+	dna="jjehhlmnhjf"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=greedy add_trait=cynical add_trait=envious 
+	add_trait=humble 
+	father=1019928712	#Roca
+	802.9.24={ birth=yes }
+	863.8.12={ death=yes }
+}
+1019928717={
+	name=Sahuaraura
+	dynasty=1009990255
+	dna="jpeeahmphec"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=gregarious add_trait=gluttonous add_trait=envious 
+	father=1019928712	#Roca
+	805.9.4={ birth=yes }
+	865.9.29={ death=yes }
+}
+1019928718={
+	name=Yahuar
+	dynasty=1009990255
+	dna="jmmbhhnjbkc"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=gardener  add_trait=greedy add_trait=shy 
+	add_trait=wroth 
+	father=1019928712	#Roca
+	809.8.23={ birth=yes }
+	880.9.28={ death=yes }
+}
+1019928719={
+	name=Kantuta
+	female=yes
+	dynasty=1009990255
+	dna="jjebnhankkc"
+	culture=quechua religion=chavin_pagan
+	father=1019928712	#Roca
+	814.4.21={ birth=yes }
+	868.9.28={ death=yes }
+}
+1019928720={
+	name=Túpac
+	dynasty=1009990255
+	dna="cjbhhnaifah"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=envious add_trait=cynical 
+	father=1019928713	#Ninan
+	817.3.18={ birth=yes }
+	890.3.11={ death=yes }
+}
+1019928721={
+	name=Kantuta
+	female=yes
+	dynasty=1009990255
+	dna="cnnihgajpkh"
+	culture=quechua religion=chavin_pagan
+	father=1019928713	#Ninan
+	819.6.19={ birth=yes }
+	877.8.29={ death=yes }
+}
+1019928722={
+	name=Pumi
+	dynasty=1009990255
+	dna="cilhddceadf"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=7 learning=6
+	add_trait=grey_eminence add_trait=craven add_trait=zealous add_trait=envious 
+	father=1019928713	#Ninan
+	824.8.15={ birth=yes }
+	902.7.19={ death=yes }
+}
+1019928723={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="cjlhhghinbh"
+	culture=quechua religion=chavin_pagan
+	father=1019928713	#Ninan
+	831.7.23={ birth=yes }
+	902.8.29={ death=yes }
+}
+1019928724={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="cgnbhjplfah"
+	culture=quechua religion=chavin_pagan
+	father=1019928720	#Túpac
+	851.10.21={ birth=yes }
+	923.9.23={ death=yes }
+}
+1019928725={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="mmbjhnbadch"
+	culture=quechua religion=chavin_pagan
+	father=1019928720	#Túpac
+	858.11.20={ birth=yes }
+	958.6.27={ death=yes }
+}
+1019928726={
+	name=Cápac
+	dynasty=1009990255
+	dna="ljehhnapfoh"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=7 learning=4
+	add_trait=naive_appeaser add_trait=patient add_trait=lustful add_trait=content 
+	add_trait=cynical add_trait=greedy 
+	father=1019928720	#Túpac
+	862.10.3={ birth=yes }
+	937.5.5={ death=yes }
+}
+1019928727={
+	name=Yupanqui
+	dynasty=1009990255
+	dna="cnghhpajfak"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=diligent add_trait=arbitrary add_trait=ambitious add_trait=lunatic 
+	father=1019928720	#Túpac
+	869.12.24={ birth=yes }
+	949.3.24={ death=yes }
+}
+1019928728={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="lcdhhneajmh"
+	culture=quechua religion=chavin_pagan
+	father=1019928726	#Cápac
+	883.8.25={ birth=yes }
+	967.9.1={ death=yes }
+}
+1019928729={
+	name=Cusichaca
+	dynasty=1009990255
+	dna="ljgeoiaefoh"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=duelist add_trait=proud add_trait=cynical 
+	father=1019928726	#Cápac
+	888.4.7={ birth=yes }
+	941.1.24={ death=yes }
+}
+1019928730={
+	name=Usca
+	dynasty=1009990255
+	dna="lbdonigbgoa"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=patient add_trait=gluttonous 
+	father=1019928726	#Cápac
+	892.9.23={ birth=yes }
+	967.3.26={ death=yes }
+}
+1019928731={
+	name=Manco
+	dynasty=1009990255
+	dna="kjehbnakpob"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=5 learning=6
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=craven  add_trait=lustful 
+	add_trait=zealous 
+	father=1019928726	#Cápac
+	895.12.17={ birth=yes }
+	964.10.10={ death=yes }
+}
+1019928732={
+	name=Maiara
+	female=yes
+	dynasty=1009990255
+	dna="lmehhdagooc"
+	culture=quechua religion=chavin_pagan
+	father=1019928726	#Cápac
+	898.10.24={ birth=yes }
+	980.3.4={ death=yes }
+}
+1019928733={
+	name=Túpac
+	dynasty=1009990255
+	dna="lpdhhnabfoh"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=honest add_trait=zealous add_trait=just add_trait=possessed 
+	father=1019928726	#Cápac
+	904.11.26={ birth=yes }
+	977.9.16={ death=yes }
+}
+1019928734={
+	name=Sopa
+	dynasty=1009990255
+	dna="logonncbaja"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=deceitful add_trait=envious add_trait=greedy 
+	add_trait=slothful 
+	father=1019928726	#Cápac
+	909.2.2={ birth=yes }
+	993.7.24={ death=yes }
+}
+1019928735={
+	name=Cuyuchi
+	dynasty=1009990255
+	dna="ljgioknmfoj"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	add_trait=intricate_webweaver add_trait=honest 
+	father=1019928729	#Cusichaca
+	913.6.18={ birth=yes }
+	979.7.19={ death=yes }
+}
+1019928736={
+	name=Zambiza
+	dynasty=1009990255
+	dna="mogeoikeihn"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=greedy add_trait=cynical add_trait=lustful 
+	father=1019928729	#Cusichaca
+	915.2.5={ birth=yes }
+	992.6.14={ death=yes }
+}
+1019928737={
+	name=Kantuta
+	female=yes
+	dynasty=1009990255
+	dna="ljleolceeoh"
+	culture=quechua religion=chavin_pagan
+	father=1019928729	#Cusichaca
+	921.7.5={ birth=yes }
+	980.3.9={ death=yes }
+}
+1019928738={
+	name=Maiara
+	female=yes
+	dynasty=1009990255
+	dna="ljgioicefgh"
+	culture=quechua religion=chavin_pagan
+	father=1019928729	#Cusichaca
+	926.9.7={ birth=yes }
+	993.10.25={ death=yes }
+}
+1019928739={
+	name=Anquimarca
+	dynasty=1009990255
+	dna="legikabpfom"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=mystic add_trait=craven add_trait=humble add_trait=gluttonous 
+	add_trait=greedy 
+	father=1019928735	#Cuyuchi
+	935.7.26={ birth=yes }
+	1000.3.14={ death=yes }
+}
+1019928740={
+	name=Maiara
+	female=yes
+	dynasty=1009990255
+	dna="njgiopamioj"
+	culture=quechua religion=chavin_pagan
+	father=1019928735	#Cuyuchi
+	940.10.10={ birth=yes }
+	1021.5.2={ death=yes }
+}
+1019928741={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="ljgpongcfjj"
+	culture=quechua religion=chavin_pagan
+	father=1019928735	#Cuyuchi
+	944.3.20={ birth=yes }
+	1021.1.20={ death=yes }
+}
+1019928742={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="njgiakinejo"
+	culture=quechua religion=chavin_pagan
+	father=1019928735	#Cuyuchi
+	950.12.5={ birth=yes }
+	1008.3.22={ death=yes }
+}
+1019928743={
+	name=Ruminavi
+	dynasty=1009990255
+	dna="pgmfokhmfoa"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=5 learning=8
+	add_trait=grey_eminence add_trait=ambitious add_trait=honest add_trait=cynical add_trait=arbitrary 
+	father=1019928735	#Cuyuchi
+	953.2.20={ birth=yes }
+	1037.2.16={ death=yes }
+}
+1019928744={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="nehkkadhfol"
+	culture=quechua religion=chavin_pagan
+	father=1019928739	#Anquimarca
+	958.12.9={ birth=yes }
+	1016.8.18={ death=yes }
+}
+1019928745={
+	name=Villac
+	dynasty=1009990255
+	dna="lcmbkelpfoj"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=5 learning=6
+	add_trait=elusive_shadow add_trait=hedonist add_trait=zealous add_trait=deceitful add_trait=trusting 
+	 
+	father=1019928739	#Anquimarca
+	965.11.27={ birth=yes }
+	1032.4.15={ death=yes }
+}
+1019928746={
+	name=Kantuta
+	female=yes
+	dynasty=1009990255
+	dna="lnkioabpfig"
+	culture=quechua religion=chavin_pagan
+	father=1019928739	#Anquimarca
+	969.11.5={ birth=yes }
+	1045.10.20={ death=yes }
+}
+1019928747={
+	name=Hualpa
+	dynasty=1009990255
+	dna="bjeichbnfom"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=gregarious add_trait=brave 
+	father=1019928739	#Anquimarca
+	972.12.13={ birth=yes }
+	1050.8.22={ death=yes }
+}
+1019928748={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="ldpikalbaob"
+	culture=quechua religion=chavin_pagan
+	father=1019928739	#Anquimarca
+	977.3.2={ birth=yes }
+	1043.8.25={ death=yes }
+}
+1019928749={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="lchblffefkj"
+	culture=quechua religion=chavin_pagan
+	father=1019928745	#Villac
+	996.11.9={ birth=yes }
+	1059.7.3={ death=yes }
+}
+1019928750={
+	name=Cápac
+	dynasty=1009990255
+	dna="chibnblpkph"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=chaste add_trait=slothful add_trait=shy 
+	father=1019928745	#Villac
+	1003.11.10={ birth=yes }
+	1079.5.28={ death=yes }
+}
+1019928751={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="odbbnmlkfog"
+	culture=quechua religion=chavin_pagan
+	father=1019928745	#Villac
+	1007.12.2={ birth=yes }
+	1080.10.31={ death=yes }
+}
+1019928752={
+	name=Ana
+	female=yes
+	dynasty=1009990255
+	dna="lcmfaeldomj"
+	culture=quechua religion=chavin_pagan
+	father=1019928745	#Villac
+	1012.3.27={ birth=yes }
+	1084.7.5={ death=yes }
+}
+1019928753={
+	name=Huaypalcon
+	dynasty=1009990255
+	dna="admbnenpfgj"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=proud add_trait=envious add_trait=chaste 
+	add_trait=ambitious add_trait=temperate 
+	father=1019928745	#Villac
+	1016.11.3={ birth=yes }
+	1085.12.19={ death=yes }
+}
+1019928754={
+	name=Pomaguala
+	dynasty=1009990255
+	dna="cjkbnkjmkpp"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=6 learning=7
+	add_trait=misguided_warrior add_trait=hedonist add_trait=charitable add_trait=slothful 
+	add_trait=proud 
+	father=1019928750	#Cápac
+	1031.7.5={ birth=yes }
+	1095.9.4={ death=yes }
+}
+1019928755={
+	name=Pachacútec
+	dynasty=1009990255
+	dna="kilbjbfpkph"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=8 learning=6
+	add_trait=thrifty_clerk add_trait=mystic add_trait=paranoid add_trait=shy add_trait=content 
+	add_trait=charitable add_trait=craven 
+	father=1019928750	#Cápac
+	1035.10.18={ birth=yes }
+	1097.8.16={ death=yes }
+}
+1019928756={
+	name=Ana
+	female=yes
+	dynasty=1009990255
+	dna="ihimhempkph"
+	culture=quechua religion=chavin_pagan
+	father=1019928750	#Cápac
+	1041.8.5={ birth=yes }
+	1107.7.1={ death=yes }
+}
+1019928757={
+	name=Atoc
+	dynasty=1009990255
+	dna="chcanbleepa"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=7
+	add_trait=intricate_webweaver add_trait=chaste add_trait=zealous add_trait=drunkard 
+	father=1019928750	#Cápac
+	1045.1.27={ birth=yes }
+	1128.3.16={ death=yes }
+}
+1019928758={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="gebbnbipkkk"
+	culture=quechua religion=chavin_pagan
+	father=1019928750	#Cápac
+	1050.2.5={ birth=yes }
+	1089.3.17={ death=yes }
+}
+1019928759={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="mjiknbdlipl"
+	culture=quechua religion=chavin_pagan
+	father=1019928750	#Cápac
+	1052.12.7={ birth=yes }
+	1132.6.5={ death=yes }
+}
+1019928760={
+	name=Tupac
+	dynasty=1009990255
+	dna="nnmbnbickph"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=6
+	add_trait=mastermind_theologian  add_trait=ambitious add_trait=craven add_trait=humble 
+	add_trait=lustful 
+	father=1019928750	#Cápac
+	1058.11.19={ birth=yes }
+	1120.11.8={ death=yes }
+}
+1019928761={
+	name=Túpac
+	dynasty=1009990255
+	dna="cpkhnkmngpc"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=4
+	add_trait=tough_soldier add_trait=craven add_trait=greedy add_trait=slothful add_trait=cynical 
+	father=1019928754	#Pomaguala
+	1053.4.27={ birth=yes }
+	1115.12.24={ death=yes }
+}
+1019928762={
+	name=Yahuar
+	dynasty=1009990255
+	dna="dhkjniommde"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	add_trait=naive_appeaser add_trait=deceitful add_trait=just add_trait=chaste 
+	father=1019928754	#Pomaguala
+	1060.10.27={ birth=yes }
+	1115.8.27={ death=yes }
+}
+1019928763={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="ckmhpkjmopg"
+	culture=quechua religion=chavin_pagan
+	father=1019928754	#Pomaguala
+	1064.1.14={ birth=yes }
+	1144.8.9={ death=yes }
+}
+1019928764={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="cjdhikdngph"
+	culture=quechua religion=chavin_pagan
+	father=1019928761	#Túpac
+	1082.7.14={ birth=yes }
+	1135.10.1={ death=yes }
+}
+1019928765={
+	name=Cayo
+	dynasty=1009990255
+	dna="ipklnkmobik"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	add_trait=thrifty_clerk add_trait=trusting add_trait=arbitrary add_trait=deceitful 
+	father=1019928761	#Túpac
+	1088.7.18={ birth=yes }
+	1158.9.10={ death=yes }
+}
+1019928766={
+	name=Ana
+	female=yes
+	dynasty=1009990255
+	dna="gpkfhhmnjdc"
+	culture=quechua religion=chavin_pagan
+	father=1019928761	#Túpac
+	1095.11.8={ birth=yes }
+	1194.12.26={ death=yes }
+}
+1019928767={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="jlkoifmlgpc"
+	culture=quechua religion=chavin_pagan
+	father=1019928761	#Túpac
+	1099.10.3={ birth=yes }
+	1179.4.5={ death=yes }
+}
+1019928768={
+	name=Cuyuchi
+	dynasty=1009990255
+	dna="ipklgkmjone"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=content add_trait=just add_trait=diligent add_trait=deceitful 
+	add_trait=charitable add_trait=trusting add_trait=fair 
+	father=1019928765	#Cayo
+	1120.8.19={ birth=yes }
+	1188.4.9={ death=yes }
+}
+1019928769={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="ipifpkmobak"
+	culture=quechua religion=chavin_pagan
+	father=1019928765	#Cayo
+	1125.3.15={ birth=yes }
+	1183.6.4={ death=yes }
+}
+1019928770={
+	name=Atoc
+	dynasty=1009990255
+	dna="ipennkoabek"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=8 learning=8
+	add_trait=elusive_shadow add_trait=honest add_trait=trusting add_trait=greedy 
+	father=1019928765	#Cayo
+	1129.4.16={ birth=yes }
+	1168.7.15={ death=yes }
+}
+1019928771={
+	name=Cusichaca
+	dynasty=1009990255
+	dna="iapdnckobhg"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=8 learning=7
+	add_trait=elusive_shadow add_trait=honest add_trait=envious add_trait=craven add_trait=slothful 
+	add_trait=clubfooted 
+	father=1019928765	#Cayo
+	1136.4.6={ birth=yes }
+	1176.2.12={ death=yes }
+}
+1019928772={
+	name=Taraque
+	dynasty=1009990255
+	dna="ioaehkmjoel"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=7
+	add_trait=charismatic_negotiator add_trait=honest add_trait=shy add_trait=proud 
+	father=1019928768	#Cuyuchi
+	1145.3.12={ birth=yes }
+	1199.1.9={ death=yes }
+}
+1019928773={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="ibkggdmjone"
+	culture=quechua religion=chavin_pagan
+	father=1019928768	#Cuyuchi
+	1150.9.13={ birth=yes }
+	1209.5.4={ death=yes }
+}
+1019928774={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="klkklgpjomk"
+	culture=quechua religion=chavin_pagan
+	father=1019928768	#Cuyuchi
+	1152.3.11={ birth=yes }
+	1213.9.9={ death=yes }
+}
+1019928775={
+	name=Cusichaca
+	dynasty=1009990255
+	dna="icdlgkndpdi"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=proud add_trait=patient add_trait=envious add_trait=gluttonous 
+	add_trait=chaste 
+	father=1019928768	#Cuyuchi
+	1156.6.9={ birth=yes }
+	1229.6.20={ death=yes }
+}
+1019928776={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="abapelkooij"
+	culture=quechua religion=chavin_pagan
+	father=1019928768	#Cuyuchi
+	1159.10.11={ birth=yes }
+	1224.10.17={ death=yes }
+}
+1019928777={
+	name=Umu
+	dynasty=1009990255
+	dna="iobemlfoipl"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=4 learning=6
+	add_trait=detached_priest add_trait=just add_trait=brave add_trait=content 
+	father=1019928772	#Taraque
+	1172.7.8={ birth=yes }
+	1237.4.4={ death=yes }
+}
+1019928778={
+	name=Tucuycuyche
+	dynasty=1009990255
+	dna="coaehkmmbel"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	add_trait=scholarly_theologian add_trait=humble add_trait=just add_trait=gregarious add_trait=content 
+	add_trait=wounded 
+	father=1019928772	#Taraque
+	1176.7.3={ birth=yes }
+	1229.11.24={ death=yes }
+}
+1019928779={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="ipafgjmjcel"
+	culture=quechua religion=chavin_pagan
+	father=1019928772	#Taraque
+	1182.10.19={ birth=yes }
+	1251.6.12={ death=yes }
+}
+1019928780={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="folphdjdolf"
+	culture=quechua religion=chavin_pagan
+	father=1019928772	#Taraque
+	1186.7.5={ birth=yes }
+	1268.1.13={ death=yes }
+}
+1019928781={
+	name=Quispe
+	dynasty=1009990255
+	dna="ihbfklaoipg"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=shy add_trait=cynical add_trait=lustful add_trait=deceitful 
+	add_trait=greedy 
+	father=1019928777	#Umu
+	1196.12.11={ birth=yes }
+	1273.2.25={ death=yes }
+}
+1019928782={
+	name=Maiara
+	female=yes
+	dynasty=1009990255
+	dna="obddmageiad"
+	culture=quechua religion=chavin_pagan
+	father=1019928777	#Umu
+	1199.7.6={ birth=yes }
+	1252.3.6={ death=yes }
+}
+1019928783={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="mibeklnokol"
+	culture=quechua religion=chavin_pagan
+	father=1019928777	#Umu
+	1201.6.1={ birth=yes }
+	1272.6.7={ death=yes }
+}
+1019928784={
+	name=Titu
+	dynasty=1009990255
+	dna="iobpglaoino"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=proud add_trait=greedy 
+	father=1019928777	#Umu
+	1207.3.12={ birth=yes }
+	1292.8.22={ death=yes }
+}
+1019928785={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="iomnplfonpl"
+	culture=quechua religion=chavin_pagan
+	father=1019928777	#Umu
+	1212.12.18={ birth=yes }
+	1291.4.20={ death=yes }
+}
+1019928786={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="idpbkjfoibc"
+	culture=quechua religion=chavin_pagan
+	father=1019928777	#Umu
+	1214.5.23={ birth=yes }
+	1277.11.14={ death=yes }
+}
+1019928787={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="cobefelmipl"
+	culture=quechua religion=chavin_pagan
+	father=1019928777	#Umu
+	1218.5.16={ birth=yes }
+	1270.3.28={ death=yes }
+}
+1019928788={
+	name=Usca
+	dynasty=1009990255
+	dna="nmkfklaojpg"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=cynical add_trait=ambitious add_trait=paranoid 
+	father=1019928781	#Quispe
+	1219.2.19={ birth=yes }
+	1296.7.31={ death=yes }
+}
+1019928789={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="kgbfnhgakcm"
+	culture=quechua religion=chavin_pagan
+	father=1019928781	#Quispe
+	1224.7.15={ birth=yes }
+	1327.11.6={ death=yes }
+}
+1019928790={
+	name=Anquimarca
+	dynasty=1009990255
+	dna="nmafkcaoobl"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=6 learning=7
+	add_trait=charismatic_negotiator add_trait=trusting add_trait=ambitious add_trait=greedy 
+	father=1019928788	#Usca
+	1248.2.12={ birth=yes }
+	1316.5.5={ death=yes }
+}
+1019928791={
+	name=Huáscar
+	dynasty=1009990255
+	dna="emefklaoplg"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=deceitful add_trait=paranoid add_trait=slothful add_trait=cynical 
+	add_trait=content add_trait=temperate 
+	father=1019928788	#Usca
+	1251.12.16={ birth=yes }
+	1327.10.30={ death=yes }
+}
+1019928792={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="nlhfblahgpj"
+	culture=quechua religion=chavin_pagan
+	father=1019928788	#Usca
+	1254.5.19={ birth=yes }
+	1337.11.24={ death=yes }
+}
+1019928793={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="kmahecaoobl"
+	culture=quechua religion=chavin_pagan
+	father=1019928790	#Anquimarca
+	1271.10.6={ birth=yes }
+	1350.4.24={ death=yes }
+}
+1019928794={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="capeheajjel"
+	culture=quechua religion=chavin_pagan
+	father=1019928790	#Anquimarca
+	1275.2.20={ birth=yes }
+	1360.10.1={ death=yes }
+}
+1019928795={
+	name=Zambiza
+	dynasty=1009990255
+	dna="nmaaklnfind"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=4 learning=6
+	add_trait=thrifty_clerk add_trait=hedonist add_trait=arbitrary add_trait=greedy 
+	add_trait=diligent add_trait=gregarious 
+	father=1019928790	#Anquimarca
+	1282.10.7={ birth=yes }
+	1341.6.14={ death=yes }
+}
+1019928796={
+	name=Cuyuchi
+	dynasty=1009990255
+	dna="emofkhkpdlm"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=8 learning=5
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=brave add_trait=just add_trait=deceitful 
+	 
+	father=1019928790	#Anquimarca
+	1285.5.4={ birth=yes }
+	1339.1.8={ death=yes }
+}
+1019928797={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="nmaakpnfgog"
+	culture=quechua religion=chavin_pagan
+	father=1019928795	#Zambiza
+	1302.2.23={ birth=yes }
+	1388.8.15={ death=yes }
+}
+1019928798={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="amiikjnmged"
+	culture=quechua religion=chavin_pagan
+	father=1019928795	#Zambiza
+	1307.8.12={ birth=yes }
+	1363.9.21={ death=yes }
+}
+1019928799={
+	name=Maiara
+	female=yes
+	dynasty=1009990255
+	dna="ekeakfcfing"
+	culture=quechua religion=chavin_pagan
+	father=1019928795	#Zambiza
+	1312.6.26={ birth=yes }
+	1393.11.17={ death=yes }
+}
+1019928800={
+	name=Ana
+	female=yes
+	dynasty=1009990255
+	dna="mmepkhnfjfa"
+	culture=quechua religion=chavin_pagan
+	father=1019928795	#Zambiza
+	1319.12.8={ birth=yes }
+	1388.4.13={ death=yes }
+}
+1019928801={
+	name=Sahuaraura
+	dynasty=1009990255
+	dna="nmfjbpncogd"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=paranoid add_trait=slothful add_trait=zealous add_trait=proud 
+	father=1019928795	#Zambiza
+	1321.12.17={ birth=yes }
+	1384.7.21={ death=yes }
+}
+1019928802={
+	name=Huáscar
+	dynasty=1009990255
+	dna="amopbpnokgh"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=paranoid add_trait=craven add_trait=charitable add_trait=humble 
+	father=1019928801	#Sahuaraura
+	1353.9.6={ birth=yes }
+	1429.7.13={ death=yes }
+}
+1019928803={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="nmpjpelaogd"
+	culture=quechua religion=chavin_pagan
+	father=1019928801	#Sahuaraura
+	1358.9.19={ birth=yes }
+	1446.8.20={ death=yes }
+}
+1019928804={
+	name=Amaru
+	dynasty=1009990255
+	dna="mmlffpncagk"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	add_trait=elusive_shadow add_trait=proud add_trait=shy add_trait=patient add_trait=trusting 
+	father=1019928801	#Sahuaraura
+	1361.10.14={ birth=yes }
+	1424.5.17={ death=yes }
+}
+1019928805={
+	name=Axomamma
+	female=yes
+	dynasty=1009990255
+	dna="nofjbpfcogd"
+	culture=quechua religion=chavin_pagan
+	father=1019928801	#Sahuaraura
+	1368.6.1={ birth=yes }
+	1439.9.9={ death=yes }
+}
+1019928806={
+	name=Ana
+	female=yes
+	dynasty=1009990255
+	dna="nmajbnjcogi"
+	culture=quechua religion=chavin_pagan
+	father=1019928801	#Sahuaraura
+	1370.3.20={ birth=yes }
+	1429.1.6={ death=yes }
+}
+1019928807={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="amopapnoheh"
+	culture=quechua religion=chavin_pagan
+	father=1019928802	#Huáscar
+	1386.7.3={ birth=yes }
+	1466.10.25={ death=yes }
+}
+1019928808={
+	name=Quispe
+	dynasty=1009990255
+	dna="amalbhnjkih"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=6
+	add_trait=martial_cleric add_trait=greedy add_trait=trusting 
+	father=1019928802	#Huáscar
+	1390.9.10={ birth=yes }
+	1442.10.31={ death=yes }
+}
+1019928809={
+	name=Huayna
+	dynasty=1009990255
+	dna="amlibcnokgh"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=4 learning=5
+	add_trait=midas_touched add_trait=craven add_trait=humble add_trait=deceitful add_trait=patient 
+	father=1019928802	#Huáscar
+	1396.10.17={ birth=yes }
+	1442.9.11={ death=yes }
+}
+1019928810={
+	name=Kantuta
+	female=yes
+	dynasty=1009990255
+	dna="adpjfknjnih"
+	culture=quechua religion=chavin_pagan
+	father=1019928808	#Quispe
+	1420.5.9={ birth=yes }
+	1479.2.6={ death=yes }
+}
+1019928811={
+	name=Cusichaca
+	dynasty=1009990255
+	dna="nmblbonjkgh"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=8 learning=4
+	add_trait=martial_cleric add_trait=honest add_trait=slothful add_trait=arbitrary add_trait=zealous 
+	add_trait=paranoid add_trait=chaste add_trait=wounded 
+	father=1019928808	#Quispe
+	1424.1.4={ birth=yes }
+	1505.2.17={ death=yes }
+}
+1019928812={
+	name=Kantuta
+	female=yes
+	dynasty=1009990255
+	dna="adalbhejkkd"
+	culture=quechua religion=chavin_pagan
+	father=1019928808	#Quispe
+	1428.6.6={ birth=yes }
+	1496.12.30={ death=yes }
+}
+1019928813={
+	name=Nina
+	female=yes
+	dynasty=1009990255
+	dna="akcmmpnnkii"
+	culture=quechua religion=chavin_pagan
+	father=1019928808	#Quispe
+	1431.8.24={ birth=yes }
+	1516.3.30={ death=yes }
+}
+1019928814={
+	name=Cayo
+	dynasty=1009990255
+	dna="imdelnannih"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=content add_trait=deceitful 
+	father=1019928808	#Quispe
+	1437.7.24={ birth=yes }
+	1501.4.24={ death=yes }
+}
+1019928815={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990255
+	dna="igalghajkkh"
+	culture=quechua religion=chavin_pagan
+	father=1019928808	#Quispe
+	1441.5.5={ birth=yes }
+	1520.8.5={ death=yes }
+}
+1019928816={
+	name=Titu
+	dynasty=1009990255
+	dna="aihibmoekch"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	add_trait=thrifty_clerk add_trait=slothful add_trait=proud add_trait=ambitious add_trait=lustful 
+	add_trait=brave add_trait=shy 
+	father=1019928808	#Quispe
+	1446.2.17={ birth=yes }
+	1515.4.30={ death=yes }
+}
+1019928817={
+	name=Sahuaraura
+	dynasty=1009990256
+	dna="komhebkknfj"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=7 learning=7
+	add_trait=indulgent_wastrel add_trait=chaste add_trait=content add_trait=wroth add_trait=trusting 
+	720.2.24={ birth=yes }
+	780.5.16={ death=yes }
+}
+1019928818={
+	name=Túpac
+	dynasty=1009990256
+	dna="kjmpeckbajj"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	add_trait=flamboyant_schemer add_trait=content add_trait=lustful 
+	father=1019928817	#Sahuaraura
+	741.12.18={ birth=yes }
+	814.4.9={ death=yes }
+}
+1019928819={
+	name=Kantuta
+	female=yes
+	dynasty=1009990256
+	dna="nkbmmbkkkph"
+	culture=quechua religion=chavin_pagan
+	father=1019928817	#Sahuaraura
+	746.9.16={ birth=yes }
+	805.8.21={ death=yes }
+}
+1019928820={
+	name=Titu
+	dynasty=1009990256
+	dna="aomhmajonip"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=4 learning=6
+	add_trait=elusive_shadow add_trait=brave add_trait=trusting add_trait=wroth 
+	father=1019928817	#Sahuaraura
+	751.12.9={ birth=yes }
+	813.12.5={ death=yes }
+}
+1019928821={
+	name=Inca
+	dynasty=1009990256
+	dna="kfnoebhkbfk"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	add_trait=grey_eminence add_trait=envious add_trait=content add_trait=lustful add_trait=zealous 
+	father=1019928817	#Sahuaraura
+	755.4.10={ birth=yes }
+	791.8.16={ death=yes }
+}
+1019928822={
+	name=Túpac
+	dynasty=1009990256
+	dna="limheokdefj"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=gregarious add_trait=envious add_trait=slothful add_trait=charitable 
+	add_trait=craven add_trait=arbitrary 
+	father=1019928817	#Sahuaraura
+	759.8.10={ birth=yes }
+	832.4.20={ death=yes }
+}
+1019928823={
+	name=Cuyuchi
+	dynasty=1009990256
+	dna="klmheanhikf"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	add_trait=flamboyant_schemer add_trait=envious add_trait=ambitious add_trait=proud add_trait=cynical 
+	father=1019928817	#Sahuaraura
+	766.10.23={ birth=yes }
+	840.12.22={ death=yes }
+}
+1019928824={
+	name=Hacuac
+	dynasty=1009990256
+	dna="iompebfknff"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=7 learning=5
+	add_trait=tough_soldier add_trait=arbitrary add_trait=deceitful add_trait=greedy add_trait=patient 
+	father=1019928817	#Sahuaraura
+	771.4.26={ birth=yes }
+	836.5.24={ death=yes }
+}
+1019928825={
+	name=Yupanqui
+	dynasty=1009990256
+	dna="kjmhmnkblbh"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=8
+	add_trait=grey_eminence add_trait=just add_trait=ambitious 
+	father=1019928818	#Túpac
+	769.12.5={ birth=yes }
+	823.5.27={ death=yes }
+}
+1019928826={
+	name=Sopa
+	dynasty=1009990256
+	dna="kjapecllanb"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=7 learning=4
+	add_trait=scholarly_theologian add_trait=lustful add_trait=deceitful add_trait=humble  
+	father=1019928818	#Túpac
+	773.3.15={ birth=yes }
+	853.8.26={ death=yes }
+}
+1019928827={
+	name=Surandaman
+	dynasty=1009990256
+	dna="konpecfmnjb"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=greedy add_trait=just add_trait=slothful add_trait=chaste 
+	father=1019928818	#Túpac
+	778.7.18={ birth=yes }
+	855.10.13={ death=yes }
+}
+1019928828={
+	name=Ana
+	female=yes
+	dynasty=1009990256
+	dna="kefhkgpblbh"
+	culture=quechua religion=chavin_pagan
+	father=1019928825	#Yupanqui
+	803.12.26={ birth=yes }
+	878.2.7={ death=yes }
+}
+1019928829={
+	name=Huayna
+	dynasty=1009990256
+	dna="gmjmmnkbmbh"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=8
+	add_trait=scholarly_theologian add_trait=just add_trait=brave add_trait=zealous add_trait=content 
+	father=1019928825	#Yupanqui
+	809.5.20={ birth=yes }
+	882.3.11={ death=yes }
+}
+1019928830={
+	name=Maiara
+	female=yes
+	dynasty=1009990256
+	dna="kdmnmolfacp"
+	culture=quechua religion=chavin_pagan
+	father=1019928825	#Yupanqui
+	814.6.27={ birth=yes }
+	903.10.7={ death=yes }
+}
+1019928831={
+	name=Nina
+	female=yes
+	dynasty=1009990256
+	dna="kfmomnobikd"
+	culture=quechua religion=chavin_pagan
+	father=1019928825	#Yupanqui
+	821.1.25={ birth=yes }
+	905.8.18={ death=yes }
+}
+1019928832={
+	name=Villac
+	dynasty=1009990256
+	dna="lmfmmnklpbh"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=mystic add_trait=gluttonous add_trait=deceitful add_trait=just 
+	add_trait=chaste 
+	father=1019928829	#Huayna
+	838.6.18={ birth=yes }
+	916.3.12={ death=yes }
+}
+1019928833={
+	name=Nina
+	female=yes
+	dynasty=1009990256
+	dna="kojpmaoomih"
+	culture=quechua religion=chavin_pagan
+	father=1019928829	#Huayna
+	844.12.5={ birth=yes }
+	918.2.9={ death=yes }
+}
+1019928834={
+	name=Varanca
+	dynasty=1009990256
+	dna="gmjhhnhbmph"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=6 learning=5
+	add_trait=intricate_webweaver add_trait=patient add_trait=brave 
+	father=1019928829	#Huayna
+	848.9.14={ birth=yes }
+	904.7.29={ death=yes }
+}
+1019928835={
+	name=Coyllas
+	dynasty=1009990256
+	dna="gmamcikoabj"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=gluttonous add_trait=arbitrary 
+	father=1019928829	#Huayna
+	853.5.16={ birth=yes }
+	917.1.30={ death=yes }
+}
+1019928836={
+	name=Kantuta
+	female=yes
+	dynasty=1009990256
+	dna="omdemkafkbl"
+	culture=quechua religion=chavin_pagan
+	father=1019928829	#Huayna
+	859.12.7={ birth=yes }
+	925.2.18={ death=yes }
+}
+1019928837={
+	name=Axomamma
+	female=yes
+	dynasty=1009990256
+	dna="omjocnkbmbf"
+	culture=quechua religion=chavin_pagan
+	father=1019928829	#Huayna
+	863.2.2={ birth=yes }
+	939.5.9={ death=yes }
+}
+1019928838={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990256
+	dna="hmgfankombm"
+	culture=quechua religion=chavin_pagan
+	father=1019928829	#Huayna
+	869.5.26={ birth=yes }
+	913.12.25={ death=yes }
+}
+1019928839={
+	name=Amaru
+	dynasty=1009990256
+	dna="kmdlmkkpobk"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=zealous add_trait=patient 
+	father=1019928832	#Villac
+	863.7.26={ birth=yes }
+	946.3.8={ death=yes }
+}
+1019928840={
+	name=Kantuta
+	female=yes
+	dynasty=1009990256
+	dna="lbfbmnklibh"
+	culture=quechua religion=chavin_pagan
+	father=1019928832	#Villac
+	868.4.18={ birth=yes }
+	932.3.23={ death=yes }
+}
+1019928841={
+	name=Manco
+	dynasty=1009990256
+	dna="lofifnolpba"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=greedy add_trait=chaste add_trait=just add_trait=shy 
+	father=1019928832	#Villac
+	875.10.6={ birth=yes }
+	947.4.11={ death=yes }
+}
+1019928842={
+	name=Nina
+	female=yes
+	dynasty=1009990256
+	dna="kmicmplpdbk"
+	culture=quechua religion=chavin_pagan
+	father=1019928839	#Amaru
+	890.1.26={ birth=yes }
+	963.5.14={ death=yes }
+}
+1019928843={
+	name=Yupanqui
+	dynasty=1009990256
+	dna="kmdlmkdnobd"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=brave add_trait=zealous add_trait=proud add_trait=temperate 
+	father=1019928839	#Amaru
+	895.2.14={ birth=yes }
+	967.2.22={ death=yes }
+}
+1019928844={
+	name=Cuyuchi
+	dynasty=1009990256
+	dna="bmdliekpobf"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=shy add_trait=just add_trait=gluttonous add_trait=trusting 
+	add_trait=ill 
+	father=1019928839	#Amaru
+	898.2.3={ birth=yes }
+	978.8.28={ death=yes }
+}
+1019928845={
+	name=Curiatao
+	dynasty=1009990256
+	dna="kcddmekgomi"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=7 learning=7
+	add_trait=naive_appeaser add_trait=wroth add_trait=ambitious add_trait=slothful add_trait=honest 
+	add_trait=cynical add_trait=temperate 
+	father=1019928839	#Amaru
+	903.5.17={ birth=yes }
+	988.10.18={ death=yes }
+}
+1019928846={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990256
+	dna="ecdljmbliek"
+	culture=quechua religion=chavin_pagan
+	father=1019928839	#Amaru
+	906.2.19={ birth=yes }
+	987.11.23={ death=yes }
+}
+1019928847={
+	name=Pumi
+	dynasty=1009990256
+	dna="pbjldehpibk"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=5 learning=6
+	add_trait=indulgent_wastrel add_trait=arbitrary add_trait=paranoid 
+	father=1019928839	#Amaru
+	909.10.19={ birth=yes }
+	973.9.26={ death=yes }
+}
+1019928848={
+	name=Atoc
+	dynasty=1009990256
+	dna="jfdgokkcobk"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=5
+	add_trait=intricate_webweaver add_trait=honest add_trait=arbitrary 
+	father=1019928839	#Amaru
+	915.12.15={ birth=yes }
+	986.1.22={ death=yes }
+}
+1019928849={
+	name=Atoc
+	dynasty=1009990256
+	dna="kmbldodnekm"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=scholar add_trait=gregarious add_trait=ambitious add_trait=brave 
+	add_trait=ill 
+	father=1019928843	#Yupanqui
+	918.7.17={ birth=yes }
+	976.7.5={ death=yes }
+}
+1019928850={
+	name=Cusichaca
+	dynasty=1009990256
+	dna="kmogdednnhm"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=4 learning=6
+	add_trait=midas_touched add_trait=gardener add_trait=greedy add_trait=ambitious add_trait=brave 
+	add_trait=drunkard 
+	father=1019928843	#Yupanqui
+	924.6.17={ birth=yes }
+	972.11.7={ death=yes }
+}
+1019928851={
+	name=Pumi
+	dynasty=1009990256
+	dna="kmdlmednpbd"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=4 learning=7
+	add_trait=indulgent_wastrel add_trait=chaste add_trait=charitable add_trait=paranoid 
+	add_trait=brave add_trait=zealous 
+	father=1019928843	#Yupanqui
+	929.12.6={ birth=yes }
+	982.12.29={ death=yes }
+}
+1019928852={
+	name=Nina
+	female=yes
+	dynasty=1009990256
+	dna="kcelmkdnono"
+	culture=quechua religion=chavin_pagan
+	father=1019928843	#Yupanqui
+	935.2.22={ birth=yes }
+	1014.2.10={ death=yes }
+}
+1019928853={
+	name=Coyllas
+	dynasty=1009990256
+	dna="kmbpejdneom"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=5 learning=5
+	add_trait=elusive_shadow add_trait=gardener add_trait=deceitful add_trait=wroth add_trait=paranoid 
+	father=1019928849	#Atoc
+	949.9.23={ birth=yes }
+	1030.5.30={ death=yes }
+}
+1019928854={
+	name=Axomamma
+	female=yes
+	dynasty=1009990256
+	dna="emjajopnekn"
+	culture=quechua religion=chavin_pagan
+	father=1019928849	#Atoc
+	952.5.6={ birth=yes }
+	998.6.17={ death=yes }
+}
+1019928855={
+	name=Atoc
+	dynasty=1009990256
+	dna="kmcldmdnekg"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=5 learning=8
+	add_trait=misguided_warrior add_trait=just add_trait=slothful add_trait=patient add_trait=drunkard 
+	father=1019928849	#Atoc
+	958.7.8={ birth=yes }
+	1037.5.9={ death=yes }
+}
+1019928856={
+	name=Pomaguala
+	dynasty=1009990256
+	dna="kijmgjdnpkk"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=4
+	add_trait=midas_touched add_trait=slothful add_trait=chaste add_trait=envious add_trait=shy 
+	father=1019928849	#Atoc
+	962.1.15={ birth=yes }
+	1016.2.5={ death=yes }
+}
+1019928857={
+	name=Ana
+	female=yes
+	dynasty=1009990256
+	dna="kmbpjpdfeom"
+	culture=quechua religion=chavin_pagan
+	father=1019928853	#Coyllas
+	971.1.7={ birth=yes }
+	1053.4.21={ death=yes }
+}
+1019928858={
+	name=Topa
+	dynasty=1009990256
+	dna="ajhheidiejm"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=humble add_trait=envious 
+	father=1019928853	#Coyllas
+	977.7.7={ birth=yes }
+	1054.2.28={ death=yes }
+}
+1019928859={
+	name=Villac
+	dynasty=1009990256
+	dna="ejhhlioaehm"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=content add_trait=cynical add_trait=craven add_trait=diligent 
+	father=1019928858	#Topa
+	1008.4.7={ birth=yes }
+	1083.7.31={ death=yes }
+}
+1019928860={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990256
+	dna="jpajhhdeojb"
+	culture=quechua religion=chavin_pagan
+	father=1019928858	#Topa
+	1010.3.13={ birth=yes }
+	1097.9.22={ death=yes }
+}
+1019928861={
+	name=Quispe
+	dynasty=1009990256
+	dna="ajphpidippi"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=patient add_trait=craven add_trait=chaste 
+	father=1019928858	#Topa
+	1017.5.25={ birth=yes }
+	1090.5.14={ death=yes }
+}
+1019928862={
+	name=Titu
+	dynasty=1009990256
+	dna="ejkhcioaehm"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=7 learning=8
+	add_trait=indulgent_wastrel add_trait=shy add_trait=deceitful add_trait=paranoid add_trait=wroth 
+	 add_trait=ill 
+	father=1019928859	#Villac
+	1029.5.26={ birth=yes }
+	1096.6.14={ death=yes }
+}
+1019928863={
+	name=Ruminavi
+	dynasty=1009990256
+	dna="ejhnohojlam"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=8 learning=8
+	add_trait=indulgent_wastrel add_trait=hedonist add_trait=gregarious add_trait=wroth add_trait=zealous 
+	add_trait=wounded 
+	father=1019928859	#Villac
+	1034.6.22={ birth=yes }
+	1096.5.23={ death=yes }
+}
+1019928864={
+	name=Curiatao
+	dynasty=1009990256
+	dna="cphpojopejl"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=7
+	add_trait=flamboyant_schemer add_trait=zealous add_trait=brave add_trait=charitable add_trait=gluttonous 
+	add_trait=lunatic 
+	father=1019928859	#Villac
+	1038.10.13={ birth=yes }
+	1121.7.3={ death=yes }
+}
+1019928865={
+	name=Ana
+	female=yes
+	dynasty=1009990256
+	dna="imnhfieiefm"
+	culture=quechua religion=chavin_pagan
+	father=1019928859	#Villac
+	1043.10.18={ birth=yes }
+	1110.8.12={ death=yes }
+}
+1019928866={
+	name=Quispe
+	dynasty=1009990256
+	dna="ejjdlibaehc"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=greedy add_trait=diligent add_trait=humble add_trait=gregarious 
+	father=1019928859	#Villac
+	1045.3.23={ birth=yes }
+	1117.7.25={ death=yes }
+}
+1019928867={
+	name=Maiara
+	female=yes
+	dynasty=1009990256
+	dna="cnpheichehm"
+	culture=quechua religion=chavin_pagan
+	father=1019928859	#Villac
+	1049.5.3={ birth=yes }
+	1135.2.22={ death=yes }
+}
+1019928868={
+	name=Maiara
+	female=yes
+	dynasty=1009990256
+	dna="elhnlioigfd"
+	culture=quechua religion=chavin_pagan
+	father=1019928859	#Villac
+	1056.1.15={ birth=yes }
+	1130.6.2={ death=yes }
+}
+1019928869={
+	name=Orco
+	dynasty=1009990256
+	dna="apkbcjgbeha"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=temperate add_trait=ambitious add_trait=wroth 
+	add_trait=craven 
+	father=1019928862	#Titu
+	1055.10.26={ birth=yes }
+	1126.1.31={ death=yes }
+}
+1019928870={
+	name=Kantuta
+	female=yes
+	dynasty=1009990256
+	dna="ejkngeoppjm"
+	culture=quechua religion=chavin_pagan
+	father=1019928862	#Titu
+	1062.3.21={ birth=yes }
+	1127.2.14={ death=yes }
+}
+1019928871={
+	name=Axomamma
+	female=yes
+	dynasty=1009990256
+	dna="pjkbeiganhm"
+	culture=quechua religion=chavin_pagan
+	father=1019928862	#Titu
+	1066.9.22={ birth=yes }
+	1121.6.30={ death=yes }
+}
+1019928872={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990256
+	dna="hgnhedohbem"
+	culture=quechua religion=chavin_pagan
+	father=1019928862	#Titu
+	1072.10.5={ birth=yes }
+	1156.1.3={ death=yes }
+}
+1019928873={
+	name=Yupanqui
+	dynasty=1009990256
+	dna="gpfbmjhbaha"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=8
+	add_trait=elusive_shadow add_trait=envious add_trait=wroth add_trait=trusting 
+	add_trait=content 
+	father=1019928869	#Orco
+	1086.12.15={ birth=yes }
+	1162.11.29={ death=yes }
+}
+1019928874={
+	name=Taraque
+	dynasty=1009990256
+	dna="apkbojibaoa"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=paranoid add_trait=patient 
+	father=1019928869	#Orco
+	1090.1.22={ birth=yes }
+	1146.10.6={ death=yes }
+}
+1019928875={
+	name=Nina
+	female=yes
+	dynasty=1009990256
+	dna="jpkfcnfbiha"
+	culture=quechua religion=chavin_pagan
+	father=1019928869	#Orco
+	1096.11.14={ birth=yes }
+	1174.3.7={ death=yes }
+}
+1019928876={
+	name=Maiara
+	female=yes
+	dynasty=1009990256
+	dna="fddpcejoihm"
+	culture=quechua religion=chavin_pagan
+	father=1019928869	#Orco
+	1102.7.4={ birth=yes }
+	1163.4.15={ death=yes }
+}
+1019928877={
+	name=Huachuri
+	dynasty=1009990256
+	dna="gpfmmjhbaha"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=4 learning=8
+	add_trait=skilled_tactician add_trait=humble  add_trait=patient add_trait=zealous 
+	add_trait=ambitious 
+	father=1019928873	#Yupanqui
+	1105.1.3={ birth=yes }
+	1148.6.2={ death=yes }
+}
+1019928878={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990256
+	dna="gifbmmhomja"
+	culture=quechua religion=chavin_pagan
+	father=1019928873	#Yupanqui
+	1110.4.23={ birth=yes }
+	1177.12.23={ death=yes }
+}
+1019928879={
+	name=Mayta
+	dynasty=1009990256
+	dna="kgjbmlhbaha"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=impaler add_trait=gluttonous add_trait=shy add_trait=drunkard 
+	father=1019928873	#Yupanqui
+	1116.4.27={ birth=yes }
+	1182.3.26={ death=yes }
+}
+1019928880={
+	name=Cayo
+	dynasty=1009990256
+	dna="gpfmmjjcdha"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=7 learning=6
+	add_trait=scholarly_theologian add_trait=humble add_trait=gluttonous add_trait=lunatic 
+	father=1019928877	#Huachuri
+	1133.11.2={ birth=yes }
+	1190.1.27={ death=yes }
+}
+1019928881={
+	name=Huachuri
+	dynasty=1009990256
+	dna="gifigjbgknj"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=chaste add_trait=deceitful  
+	father=1019928877	#Huachuri
+	1136.11.25={ birth=yes }
+	1189.12.11={ death=yes }
+}
+1019928882={
+	name=Cusichaca
+	dynasty=1009990256
+	dna="mpaembhbaha"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=5 learning=6
+	add_trait=indulgent_wastrel add_trait=paranoid add_trait=greedy add_trait=craven add_trait=cynical 
+	add_trait=slothful add_trait=possessed 
+	father=1019928877	#Huachuri
+	1141.12.9={ birth=yes }
+	1214.3.16={ death=yes }
+}
+1019928883={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990256
+	dna="maomijhnahc"
+	culture=quechua religion=chavin_pagan
+	father=1019928877	#Huachuri
+	1144.12.20={ birth=yes }
+	1218.8.23={ death=yes }
+}
+1019928884={
+	name=Varanca
+	dynasty=1009990256
+	dna="gpflijkhnde"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=gardener  add_trait=honest add_trait=trusting 
+	add_trait=greedy add_trait=arbitrary add_trait=patient 
+	father=1019928880	#Cayo
+	1161.4.11={ birth=yes }
+	1236.6.15={ death=yes }
+}
+1019928885={
+	name=Kantuta
+	female=yes
+	dynasty=1009990256
+	dna="gpkgmjjdihl"
+	culture=quechua religion=chavin_pagan
+	father=1019928880	#Cayo
+	1167.7.25={ birth=yes }
+	1253.4.23={ death=yes }
+}
+1019928886={
+	name=Surandaman
+	dynasty=1009990256
+	dna="hdpkhbhpdpa"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=4
+	add_trait=grey_eminence add_trait=gardener add_trait=gluttonous add_trait=zealous 
+	father=1019928880	#Cayo
+	1172.3.4={ birth=yes }
+	1239.2.10={ death=yes }
+}
+1019928887={
+	name=Surandaman
+	dynasty=1009990256
+	dna="dcccnjbcdja"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	add_trait=elusive_shadow add_trait=just add_trait=cynical add_trait=envious add_trait=chaste 
+	add_trait=ambitious add_trait=deceitful add_trait=stressed 
+	father=1019928880	#Cayo
+	1178.11.13={ birth=yes }
+	1244.10.2={ death=yes }
+}
+1019928888={
+	name=Roca
+	dynasty=1009990256
+	dna="cdelijnhlfl"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=5
+	add_trait=intricate_webweaver add_trait=brave  add_trait=temperate add_trait=charitable 
+	father=1019928884	#Varanca
+	1181.7.8={ birth=yes }
+	1268.1.11={ death=yes }
+}
+1019928889={
+	name=Inca
+	dynasty=1009990256
+	dna="mehladdehke"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=content add_trait=just add_trait=patient add_trait=brave 
+	father=1019928884	#Varanca
+	1187.7.11={ birth=yes }
+	1265.11.17={ death=yes }
+}
+1019928890={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990256
+	dna="ednmijoiljm"
+	culture=quechua religion=chavin_pagan
+	father=1019928888	#Roca
+	1211.5.2={ birth=yes }
+	1261.5.14={ death=yes }
+}
+1019928891={
+	name=Maiara
+	female=yes
+	dynasty=1009990256
+	dna="fdencdjhjie"
+	culture=quechua religion=chavin_pagan
+	father=1019928888	#Roca
+	1215.1.2={ birth=yes }
+	1284.2.29={ death=yes }
+}
+1019928892={
+	name=Pachacútec
+	dynasty=1009990256
+	dna="cdehiknjejl"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=4 learning=4
+	add_trait=indulgent_wastrel add_trait=envious add_trait=gluttonous 
+	father=1019928888	#Roca
+	1220.5.19={ birth=yes }
+	1282.1.28={ death=yes }
+}
+1019928893={
+	name=Maiara
+	female=yes
+	dynasty=1009990256
+	dna="cdpkgjnhfjm"
+	culture=quechua religion=chavin_pagan
+	father=1019928888	#Roca
+	1223.1.22={ birth=yes }
+	1308.11.18={ death=yes }
+}
+1019928894={
+	name=Sayri
+	dynasty=1009990256
+	dna="camehjdhlfn"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=ambitious add_trait=brave add_trait=zealous 
+	add_trait=possessed 
+	father=1019928888	#Roca
+	1228.6.11={ birth=yes }
+	1292.12.25={ death=yes }
+}
+1019928895={
+	name=Huayna
+	dynasty=1009990256
+	dna="coehakjjhjl"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=wroth add_trait=slothful add_trait=ambitious 
+	father=1019928892	#Pachacútec
+	1249.1.25={ birth=yes }
+	1333.4.16={ death=yes }
+}
+1019928896={
+	name=Axomamma
+	female=yes
+	dynasty=1009990256
+	dna="dpoblcnjejd"
+	culture=quechua religion=chavin_pagan
+	father=1019928892	#Pachacútec
+	1253.12.10={ birth=yes }
+	1329.7.26={ death=yes }
+}
+1019928897={
+	name=Pachacútec
+	dynasty=1009990256
+	dna="jongipjdcol"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=4
+	add_trait=skilled_tactician add_trait=deceitful add_trait=wroth add_trait=greedy 
+	father=1019928895	#Huayna
+	1278.1.5={ birth=yes }
+	1331.5.30={ death=yes }
+}
+1019928898={
+	name=Nina
+	female=yes
+	dynasty=1009990256
+	dna="noefakhkchl"
+	culture=quechua religion=chavin_pagan
+	father=1019928895	#Huayna
+	1282.1.17={ birth=yes }
+	1340.6.15={ death=yes }
+}
+1019928899={
+	name=Ana
+	female=yes
+	dynasty=1009990256
+	dna="coepfacjfjl"
+	culture=quechua religion=chavin_pagan
+	father=1019928895	#Huayna
+	1289.9.27={ birth=yes }
+	1349.9.16={ death=yes }
+}
+1019928900={
+	name=Manco
+	dynasty=1009990256
+	dna="bmehkmcnhjl"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=temperate add_trait=shy add_trait=envious add_trait=brave 
+	add_trait=charitable add_trait=content 
+	father=1019928895	#Huayna
+	1293.1.18={ birth=yes }
+	1371.6.11={ death=yes }
+}
+1019928901={
+	name=Pomaguala
+	dynasty=1009990256
+	dna="jcnpipjdnkl"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=wroth add_trait=temperate add_trait=honest add_trait=cynical 
+	father=1019928897	#Pachacútec
+	1309.4.25={ birth=yes }
+	1391.2.5={ death=yes }
+}
+1019928902={
+	name=Coyllas
+	dynasty=1009990256
+	dna="jedgbplncop"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=paranoid add_trait=deceitful add_trait=gregarious add_trait=content 
+	add_trait=lunatic 
+	father=1019928897	#Pachacútec
+	1314.6.26={ birth=yes }
+	1391.2.11={ death=yes }
+}
+1019928903={
+	name=Inca
+	dynasty=1009990256
+	dna="eoncbpadcok"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=diligent add_trait=brave add_trait=ambitious add_trait=envious 
+	father=1019928897	#Pachacútec
+	1318.6.23={ birth=yes }
+	1392.6.27={ death=yes }
+}
+1019928904={
+	name=Axomamma
+	female=yes
+	dynasty=1009990256
+	dna="kkmaiijacol"
+	culture=quechua religion=chavin_pagan
+	father=1019928897	#Pachacútec
+	1323.12.21={ birth=yes }
+	1383.6.28={ death=yes }
+}
+1019928905={
+	name=Túpac
+	dynasty=1009990256
+	dna="jekmipednkb"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=mystic add_trait=cynical add_trait=trusting 
+	add_trait=wroth  
+	father=1019928901	#Pomaguala
+	1327.5.24={ birth=yes }
+	1396.5.6={ death=yes }
+}
+1019928906={
+	name=Axomamma
+	female=yes
+	dynasty=1009990256
+	dna="jcnpapgeeko"
+	culture=quechua religion=chavin_pagan
+	father=1019928901	#Pomaguala
+	1333.12.26={ birth=yes }
+	1392.4.2={ death=yes }
+}
+1019928907={
+	name=Túpac
+	dynasty=1009990256
+	dna="jcnoipjdnkj"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	add_trait=thrifty_clerk add_trait=hedonist add_trait=diligent add_trait=shy 
+	add_trait=wounded 
+	father=1019928901	#Pomaguala
+	1338.6.25={ birth=yes }
+	1395.12.13={ death=yes }
+}
+1019928908={
+	name=Zopahua
+	dynasty=1009990256
+	dna="jhkaipedpjb"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=6 learning=4
+	add_trait=intricate_webweaver add_trait=just add_trait=patient add_trait=temperate add_trait=content 
+	father=1019928905	#Túpac
+	1357.5.11={ birth=yes }
+	1443.7.17={ death=yes }
+}
+1019928909={
+	name=Túpac
+	dynasty=1009990256
+	dna="jjknmpjdkak"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=5 learning=5
+	add_trait=mastermind_theologian add_trait=shy add_trait=trusting  
+	father=1019928905	#Túpac
+	1363.3.20={ birth=yes }
+	1449.5.16={ death=yes }
+}
+1019928910={
+	name=Pachacútec
+	dynasty=1009990256
+	dna="jfakdhadpjk"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=scholar add_trait=slothful add_trait=ambitious add_trait=greedy 
+	add_trait=just add_trait=craven add_trait=deceitful 
+	father=1019928908	#Zopahua
+	1381.8.19={ birth=yes }
+	1461.12.5={ death=yes }
+}
+1019928911={
+	name=Axomamma
+	female=yes
+	dynasty=1009990256
+	dna="fhkfepcjejj"
+	culture=quechua religion=chavin_pagan
+	father=1019928908	#Zopahua
+	1387.3.16={ birth=yes }
+	1486.10.7={ death=yes }
+}
+1019928912={
+	name=Ninan
+	dynasty=1009990256
+	dna="gckaipedajb"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=5 learning=4
+	add_trait=martial_cleric add_trait=just add_trait=craven add_trait=proud add_trait=envious 
+	add_trait=shy 
+	father=1019928908	#Zopahua
+	1391.6.10={ birth=yes }
+	1458.12.6={ death=yes }
+}
+1019928913={
+	name=Ana
+	female=yes
+	dynasty=1009990256
+	dna="jjpmipedhee"
+	culture=quechua religion=chavin_pagan
+	father=1019928908	#Zopahua
+	1398.4.7={ birth=yes }
+	1470.7.26={ death=yes }
+}
+1019928914={
+	name=Zopahua
+	dynasty=1009990257
+	dna="cmjgmpjmlcb"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=envious add_trait=trusting add_trait=chaste add_trait=just 
+	add_trait=gluttonous 
+	720.2.20={ birth=yes }
+	772.7.19={ death=yes }
+}
+1019928915={
+	name=Ninan
+	dynasty=1009990257
+	dna="amiimkamhei"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=6
+	add_trait=skilled_tactician add_trait=paranoid add_trait=charitable add_trait=drunkard 
+	father=1019928914	#Zopahua
+	751.8.22={ birth=yes }
+	828.11.8={ death=yes }
+}
+1019928916={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990257
+	dna="cgjgokodlci"
+	culture=quechua religion=chavin_pagan
+	father=1019928914	#Zopahua
+	756.2.13={ birth=yes }
+	818.10.8={ death=yes }
+}
+1019928917={
+	name=Huayna
+	dynasty=1009990257
+	dna="emmgmhbjdcb"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=5
+	add_trait=skilled_tactician add_trait=charitable add_trait=envious add_trait=patient add_trait=craven 
+	father=1019928914	#Zopahua
+	763.12.8={ birth=yes }
+	821.6.4={ death=yes }
+}
+1019928918={
+	name=Tupac
+	dynasty=1009990257
+	dna="jmjgmgdblab"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=honest add_trait=content add_trait=slothful 
+	add_trait=gregarious add_trait=possessed 
+	father=1019928914	#Zopahua
+	767.5.23={ birth=yes }
+	850.1.1={ death=yes }
+}
+1019928919={
+	name=Atahualpa
+	dynasty=1009990257
+	dna="amikmkfmmed"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=gregarious add_trait=arbitrary  add_trait=zealous 
+	add_trait=trusting add_trait=fair 
+	father=1019928915	#Ninan
+	774.3.26={ birth=yes }
+	835.11.26={ death=yes }
+}
+1019928920={
+	name=Yupanqui
+	dynasty=1009990257
+	dna="ahiimjicheb"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=8 learning=5
+	add_trait=misguided_warrior add_trait=duelist add_trait=greedy add_trait=deceitful add_trait=humble 
+	add_trait=lustful add_trait=patient 
+	father=1019928915	#Ninan
+	779.11.12={ birth=yes }
+	835.1.28={ death=yes }
+}
+1019928921={
+	name=Axomamma
+	female=yes
+	dynasty=1009990257
+	dna="amjijklmhek"
+	culture=quechua religion=chavin_pagan
+	father=1019928915	#Ninan
+	782.5.11={ birth=yes }
+	867.6.24={ death=yes }
+}
+1019928922={
+	name=Maiara
+	female=yes
+	dynasty=1009990257
+	dna="ablpmkamhii"
+	culture=quechua religion=chavin_pagan
+	father=1019928915	#Ninan
+	785.8.14={ birth=yes }
+	867.8.24={ death=yes }
+}
+1019928923={
+	name=Kantuta
+	female=yes
+	dynasty=1009990257
+	dna="ambkmmfgmpb"
+	culture=quechua religion=chavin_pagan
+	father=1019928919	#Atahualpa
+	798.5.19={ birth=yes }
+	867.9.6={ death=yes }
+}
+1019928924={
+	name=Maiara
+	female=yes
+	dynasty=1009990257
+	dna="fmikmkoomfm"
+	culture=quechua religion=chavin_pagan
+	father=1019928919	#Atahualpa
+	802.10.18={ birth=yes }
+	881.10.13={ death=yes }
+}
+1019928925={
+	name=Viracocha
+	dynasty=1009990257
+	dna="peifdkfmmld"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=lustful  add_trait=just 
+	father=1019928919	#Atahualpa
+	806.10.22={ birth=yes }
+	885.3.22={ death=yes }
+}
+1019928926={
+	name=Pumi
+	dynasty=1009990257
+	dna="ahlpmdpmfki"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	add_trait=martial_cleric add_trait=humble add_trait=content add_trait=shy add_trait=craven 
+	add_trait=weak 
+	father=1019928919	#Atahualpa
+	810.5.26={ birth=yes }
+	873.8.26={ death=yes }
+}
+1019928927={
+	name=Roca
+	dynasty=1009990257
+	dna="hiikpkfnmdn"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=cynical add_trait=trusting add_trait=temperate add_trait=patient 
+	add_trait=envious 
+	father=1019928919	#Atahualpa
+	813.6.14={ birth=yes }
+	891.12.26={ death=yes }
+}
+1019928928={
+	name=Huachuri
+	dynasty=1009990257
+	dna="aedjpkjined"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=shy add_trait=temperate 
+	father=1019928919	#Atahualpa
+	816.4.12={ birth=yes }
+	869.10.4={ death=yes }
+}
+1019928929={
+	name=Maiara
+	female=yes
+	dynasty=1009990257
+	dna="aolpmklmped"
+	culture=quechua religion=chavin_pagan
+	father=1019928919	#Atahualpa
+	821.2.3={ birth=yes }
+	899.2.3={ death=yes }
+}
+1019928930={
+	name=Sayri
+	dynasty=1009990257
+	dna="pechjcdgekp"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=4
+	add_trait=martial_cleric add_trait=diligent add_trait=humble add_trait=wroth add_trait=just 
+	father=1019928925	#Viracocha
+	832.11.15={ birth=yes }
+	906.3.10={ death=yes }
+}
+1019928931={
+	name=Yupanqui
+	dynasty=1009990257
+	dna="leifobimnld"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=content add_trait=charitable add_trait=strong 
+	father=1019928925	#Viracocha
+	837.3.17={ birth=yes }
+	910.12.25={ death=yes }
+}
+1019928932={
+	name=Pachacútec
+	dynasty=1009990257
+	dna="peifdjgnmkd"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=6
+	add_trait=scholarly_theologian add_trait=mystic add_trait=brave add_trait=ambitious add_trait=shy 
+	father=1019928925	#Viracocha
+	841.7.12={ birth=yes }
+	908.11.28={ death=yes }
+}
+1019928933={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990257
+	dna="pcifikpophn"
+	culture=quechua religion=chavin_pagan
+	father=1019928925	#Viracocha
+	846.12.22={ birth=yes }
+	923.4.20={ death=yes }
+}
+1019928934={
+	name=Yupanqui
+	dynasty=1009990257
+	dna="phifdkllcog"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=4 learning=5
+	add_trait=flamboyant_schemer add_trait=brave add_trait=cynical add_trait=wroth add_trait=greedy 
+	add_trait=paranoid 
+	father=1019928925	#Viracocha
+	850.7.14={ birth=yes }
+	914.3.19={ death=yes }
+}
+1019928935={
+	name=Ana
+	female=yes
+	dynasty=1009990257
+	dna="ieifhbgmnld"
+	culture=quechua religion=chavin_pagan
+	father=1019928925	#Viracocha
+	853.8.17={ birth=yes }
+	921.2.6={ death=yes }
+}
+1019928936={
+	name=Titu
+	dynasty=1009990257
+	dna="pemahkfmmld"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=5 learning=8
+	add_trait=indulgent_wastrel add_trait=proud add_trait=cynical add_trait=chaste add_trait=charitable 
+	
+	father=1019928925	#Viracocha
+	859.4.20={ birth=yes }
+	923.2.2={ death=yes }
+}
+1019928937={
+	name=Nina
+	female=yes
+	dynasty=1009990257
+	dna="pcchjcdgeoo"
+	culture=quechua religion=chavin_pagan
+	father=1019928930	#Sayri
+	860.3.11={ birth=yes }
+	921.12.3={ death=yes }
+}
+1019928938={
+	name=Huaypalcon
+	dynasty=1009990257
+	dna="ilhhocdggpf"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=4 learning=6
+	add_trait=intricate_webweaver add_trait=just add_trait=greedy add_trait=gregarious 
+	father=1019928930	#Sayri
+	866.8.25={ birth=yes }
+	966.8.23={ death=yes }
+}
+1019928939={
+	name=Ana
+	female=yes
+	dynasty=1009990257
+	dna="pecejifgnkp"
+	culture=quechua religion=chavin_pagan
+	father=1019928930	#Sayri
+	873.10.17={ birth=yes }
+	944.8.31={ death=yes }
+}
+1019928940={
+	name=Luyes
+	dynasty=1009990257
+	dna="glhhobdialf"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=craven add_trait=ambitious add_trait=wroth add_trait=gregarious 
+	add_trait=deceitful add_trait=possessed 
+	father=1019928938	#Huaypalcon
+	892.11.18={ birth=yes }
+	962.3.3={ death=yes }
+}
+1019928941={
+	name=Zopahua
+	dynasty=1009990257
+	dna="jlnlocdgjph"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	add_trait=scholarly_theologian add_trait=content add_trait=deceitful add_trait=paranoid 
+	father=1019928938	#Huaypalcon
+	898.4.17={ birth=yes }
+	1001.9.17={ death=yes }
+}
+1019928942={
+	name=Maiara
+	female=yes
+	dynasty=1009990257
+	dna="kmbpgbkiacf"
+	culture=quechua religion=chavin_pagan
+	father=1019928940	#Luyes
+	915.12.27={ birth=yes }
+	984.9.20={ death=yes }
+}
+1019928943={
+	name=Pumi
+	dynasty=1009990257
+	dna="nehhpbbiapl"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	add_trait=elusive_shadow  add_trait=diligent add_trait=brave 
+	father=1019928940	#Luyes
+	919.9.25={ birth=yes }
+	995.9.9={ death=yes }
+}
+1019928944={
+	name=Huaypalcon
+	dynasty=1009990257
+	dna="gohhjgdckef"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	add_trait=grey_eminence add_trait=cynical add_trait=paranoid add_trait=lustful add_trait=greedy 
+	father=1019928940	#Luyes
+	923.7.18={ birth=yes }
+	993.12.9={ death=yes }
+}
+1019928945={
+	name=Topa
+	dynasty=1009990257
+	dna="glhhfldialn"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=scholar add_trait=brave  add_trait=wroth 
+	add_trait=temperate 
+	father=1019928940	#Luyes
+	925.11.23={ birth=yes }
+	998.6.2={ death=yes }
+}
+1019928946={
+	name=Axomamma
+	female=yes
+	dynasty=1009990257
+	dna="gnhhopdimoe"
+	culture=quechua religion=chavin_pagan
+	father=1019928940	#Luyes
+	930.4.27={ birth=yes }
+	1012.6.20={ death=yes }
+}
+1019928947={
+	name=Túpac
+	dynasty=1009990257
+	dna="glmcdagialf"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	add_trait=martial_cleric add_trait=charitable add_trait=honest add_trait=genius 
+	father=1019928940	#Luyes
+	936.7.1={ birth=yes }
+	992.3.24={ death=yes }
+}
+1019928948={
+	name=Sahuaraura
+	dynasty=1009990257
+	dna="llhhobdillg"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	add_trait=tough_soldier add_trait=celibate add_trait=content add_trait=shy add_trait=arbitrary 
+	father=1019928940	#Luyes
+	941.10.7={ birth=yes }
+	1006.11.25={ death=yes }
+}
+1019928949={
+	name=Nina
+	female=yes
+	dynasty=1009990257
+	dna="nemipojilcl"
+	culture=quechua religion=chavin_pagan
+	father=1019928943	#Pumi
+	947.6.12={ birth=yes }
+	1048.8.20={ death=yes }
+}
+1019928950={
+	name=Túpac
+	dynasty=1009990257
+	dna="ndhppbmcapj"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=craven add_trait=arbitrary add_trait=cynical add_trait=diligent 
+	add_trait=trusting 
+	father=1019928943	#Pumi
+	953.8.17={ birth=yes }
+	1028.1.25={ death=yes }
+}
+1019928951={
+	name=Ana
+	female=yes
+	dynasty=1009990257
+	dna="ophhpflgaid"
+	culture=quechua religion=chavin_pagan
+	father=1019928943	#Pumi
+	959.12.3={ birth=yes }
+	1037.3.29={ death=yes }
+}
+1019928952={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990257
+	dna="ncmhabbfapl"
+	culture=quechua religion=chavin_pagan
+	father=1019928943	#Pumi
+	964.4.2={ birth=yes }
+	1016.7.24={ death=yes }
+}
+1019928953={
+	name=Tucuycuyche
+	dynasty=1009990257
+	dna="nahnaimcanj"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	add_trait=midas_touched add_trait=envious add_trait=wroth add_trait=slothful add_trait=shy 
+	father=1019928950	#Túpac
+	975.7.1={ birth=yes }
+	1034.1.10={ death=yes }
+}
+1019928954={
+	name=Nina
+	female=yes
+	dynasty=1009990257
+	dna="dokpadmlabj"
+	culture=quechua religion=chavin_pagan
+	father=1019928950	#Túpac
+	981.1.24={ birth=yes }
+	1036.8.31={ death=yes }
+}
+1019928955={
+	name=Kantuta
+	female=yes
+	dynasty=1009990257
+	dna="kjgcpldljdj"
+	culture=quechua religion=chavin_pagan
+	father=1019928950	#Túpac
+	986.9.11={ birth=yes }
+	1071.7.29={ death=yes }
+}
+1019928956={
+	name=Nina
+	female=yes
+	dynasty=1009990257
+	dna="nfohfnfiakn"
+	culture=quechua religion=chavin_pagan
+	father=1019928950	#Túpac
+	989.9.10={ birth=yes }
+	1076.8.12={ death=yes }
+}
+1019928957={
+	name=Nina
+	female=yes
+	dynasty=1009990257
+	dna="hfhclofhkpj"
+	culture=quechua religion=chavin_pagan
+	father=1019928950	#Túpac
+	993.2.24={ birth=yes }
+	1054.3.19={ death=yes }
+}
+1019928958={
+	name=Ninan
+	dynasty=1009990257
+	dna="nagkaimlajj"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=honest add_trait=gluttonous add_trait=shy 
+	father=1019928953	#Tucuycuyche
+	997.4.6={ birth=yes }
+	1080.9.6={ death=yes }
+}
+1019928959={
+	name=Kantuta
+	female=yes
+	dynasty=1009990257
+	dna="hagcaipcnjj"
+	culture=quechua religion=chavin_pagan
+	father=1019928953	#Tucuycuyche
+	1003.7.17={ birth=yes }
+	1082.1.28={ death=yes }
+}
+1019928960={
+	name=Inca
+	dynasty=1009990257
+	dna="haonaimnbjj"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=duelist add_trait=patient add_trait=gluttonous add_trait=arbitrary 
+	add_trait=paranoid 
+	father=1019928953	#Tucuycuyche
+	1010.12.10={ birth=yes }
+	1092.8.30={ death=yes }
+}
+1019928961={
+	name=Axomamma
+	female=yes
+	dynasty=1009990257
+	dna="ckhnhigbndf"
+	culture=quechua religion=chavin_pagan
+	father=1019928953	#Tucuycuyche
+	1015.9.9={ birth=yes }
+	1098.10.20={ death=yes }
+}
+1019928962={
+	name=Huáscar
+	dynasty=1009990257
+	dna="iamkaifhjce"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=6
+	add_trait=scholarly_theologian add_trait=zealous add_trait=craven add_trait=lustful add_trait=charitable 
+	father=1019928958	#Ninan
+	1024.7.16={ birth=yes }
+	1113.11.21={ death=yes }
+}
+1019928963={
+	name=Kantuta
+	female=yes
+	dynasty=1009990257
+	dna="ndkfbjmiaja"
+	culture=quechua religion=chavin_pagan
+	father=1019928958	#Ninan
+	1028.9.4={ birth=yes }
+	1126.5.28={ death=yes }
+}
+1019928964={
+	name=Maiara
+	female=yes
+	dynasty=1009990257
+	dna="ncgjaikmalp"
+	culture=quechua religion=chavin_pagan
+	father=1019928958	#Ninan
+	1032.6.11={ birth=yes }
+	1095.8.22={ death=yes }
+}
+1019928965={
+	name=Topa
+	dynasty=1009990257
+	dna="bplfaikhjae"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=5 learning=8
+	add_trait=mastermind_theologian add_trait=gluttonous add_trait=arbitrary add_trait=paranoid add_trait=humble 
+	add_trait=wroth add_trait=strong 
+	father=1019928962	#Huáscar
+	1050.3.15={ birth=yes }
+	1136.11.28={ death=yes }
+}
+1019928966={
+	name=Marcavilca
+	dynasty=1009990257
+	dna="iamknifnjji"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=6 learning=7
+	add_trait=scholarly_theologian add_trait=celibate add_trait=diligent add_trait=zealous 
+	father=1019928962	#Huáscar
+	1054.7.7={ birth=yes }
+	1150.1.3={ death=yes }
+}
+1019928967={
+	name=Kantuta
+	female=yes
+	dynasty=1009990257
+	dna="jcmeajohjge"
+	culture=quechua religion=chavin_pagan
+	father=1019928962	#Huáscar
+	1062.8.9={ birth=yes }
+	1132.3.30={ death=yes }
+}
+1019928968={
+	name=Yamqui
+	dynasty=1009990257
+	dna="belloimjjke"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=8 learning=5
+	add_trait=mastermind_theologian add_trait=brave add_trait=temperate add_trait=diligent 
+	add_trait=paranoid add_trait=just 
+	father=1019928965	#Topa
+	1069.4.24={ birth=yes }
+	1155.12.29={ death=yes }
+}
+1019928969={
+	name=Maiara
+	female=yes
+	dynasty=1009990257
+	dna="cplflgbnnaj"
+	culture=quechua religion=chavin_pagan
+	father=1019928965	#Topa
+	1073.10.23={ birth=yes }
+	1148.12.5={ death=yes }
+}
+1019928970={
+	name=Nina
+	female=yes
+	dynasty=1009990257
+	dna="bplhagkhjaa"
+	culture=quechua religion=chavin_pagan
+	father=1019928965	#Topa
+	1079.4.24={ birth=yes }
+	1125.2.17={ death=yes }
+}
+1019928971={
+	name=Ruminavi
+	dynasty=1009990257
+	dna="bhllocmcjkc"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=4 learning=7
+	add_trait=charismatic_negotiator add_trait=lustful add_trait=just add_trait=honest add_trait=craven 
+	add_trait=diligent 
+	father=1019928968	#Yamqui
+	1098.6.10={ birth=yes }
+	1164.3.5={ death=yes }
+}
+1019928972={
+	name=Kantuta
+	female=yes
+	dynasty=1009990257
+	dna="bpbomimcjii"
+	culture=quechua religion=chavin_pagan
+	father=1019928968	#Yamqui
+	1103.10.15={ birth=yes }
+	1183.6.26={ death=yes }
+}
+1019928973={
+	name=Amaru
+	dynasty=1009990257
+	dna="bhllocmabka"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=7 learning=4
+	add_trait=thrifty_clerk add_trait=hunter add_trait=slothful add_trait=just add_trait=wroth 
+	add_trait=charitable 
+	father=1019928971	#Ruminavi
+	1121.6.13={ birth=yes }
+	1196.1.7={ death=yes }
+}
+1019928974={
+	name=Yupanqui
+	dynasty=1009990257
+	dna="blhlocmcjkp"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=just  add_trait=lustful add_trait=greedy 
+	add_trait=diligent add_trait=ambitious add_trait=harelip 
+	father=1019928971	#Ruminavi
+	1125.12.1={ birth=yes }
+	1205.6.22={ death=yes }
+}
+1019928975={
+	name=Kantuta
+	female=yes
+	dynasty=1009990257
+	dna="bnmlfcmhjkn"
+	culture=quechua religion=chavin_pagan
+	father=1019928971	#Ruminavi
+	1128.9.20={ birth=yes }
+	1194.7.15={ death=yes }
+}
+1019928976={
+	name=Marcavilca
+	dynasty=1009990257
+	dna="bplldcmjpbh"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=honest add_trait=proud add_trait=arbitrary add_trait=craven 
+	add_trait=cynical  add_trait=ill 
+	father=1019928973	#Amaru
+	1142.11.7={ birth=yes }
+	1219.4.1={ death=yes }
+}
+1019928977={
+	name=Hacuac
+	dynasty=1009990257
+	dna="bhlboababoi"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	add_trait=naive_appeaser add_trait=greedy add_trait=content add_trait=wroth 
+	add_trait=chaste add_trait=depressed 
+	father=1019928973	#Amaru
+	1145.2.10={ birth=yes }
+	1226.3.9={ death=yes }
+}
+1019928978={
+	name=Axomamma
+	female=yes
+	dynasty=1009990257
+	dna="bcgdnjmnnla"
+	culture=quechua religion=chavin_pagan
+	father=1019928973	#Amaru
+	1151.5.18={ birth=yes }
+	1240.4.20={ death=yes }
+}
+1019928979={
+	name=Mayta
+	dynasty=1009990257
+	dna="jalmmemicoh"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=4
+	add_trait=misguided_warrior add_trait=just add_trait=brave add_trait=honest add_trait=zealous 
+	
+	father=1019928976	#Marcavilca
+	1163.8.25={ birth=yes }
+	1227.11.12={ death=yes }
+}
+1019928980={
+	name=Ana
+	female=yes
+	dynasty=1009990257
+	dna="fflfaomeobo"
+	culture=quechua religion=chavin_pagan
+	father=1019928976	#Marcavilca
+	1169.1.15={ birth=yes }
+	1240.5.3={ death=yes }
+}
+1019928981={
+	name=Atahualpa
+	dynasty=1009990257
+	dna="ibaeoamjjlk"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=ambitious add_trait=patient add_trait=craven 
+	add_trait=deceitful 
+	father=1019928976	#Marcavilca
+	1173.8.18={ birth=yes }
+	1251.12.1={ death=yes }
+}
+1019928982={
+	name=Nina
+	female=yes
+	dynasty=1009990257
+	dna="bebeddmdpbi"
+	culture=quechua religion=chavin_pagan
+	father=1019928976	#Marcavilca
+	1178.1.2={ birth=yes }
+	1250.5.23={ death=yes }
+}
+1019928983={
+	name=Maiara
+	female=yes
+	dynasty=1009990257
+	dna="cpncicmjnbh"
+	culture=quechua religion=chavin_pagan
+	father=1019928976	#Marcavilca
+	1184.1.6={ birth=yes }
+	1260.4.16={ death=yes }
+}
+1019928984={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990257
+	dna="fjfllcjhibh"
+	culture=quechua religion=chavin_pagan
+	father=1019928976	#Marcavilca
+	1189.2.14={ birth=yes }
+	1241.10.31={ death=yes }
+}
+1019928985={
+	name=Maiara
+	female=yes
+	dynasty=1009990257
+	dna="cplbecmppbh"
+	culture=quechua religion=chavin_pagan
+	father=1019928976	#Marcavilca
+	1195.2.18={ birth=yes }
+	1249.2.21={ death=yes }
+}
+1019928986={
+	name=Ninan
+	dynasty=1009990257
+	dna="jpcncemieob"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=craven add_trait=trusting add_trait=zealous 
+	father=1019928979	#Mayta
+	1193.12.24={ birth=yes }
+	1276.11.16={ death=yes }
+}
+1019928987={
+	name=Sopa
+	dynasty=1009990257
+	dna="jplmaeifcob"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=8 learning=5
+	add_trait=tough_soldier add_trait=ambitious add_trait=cynical add_trait=humble 
+	father=1019928979	#Mayta
+	1199.9.15={ birth=yes }
+	1254.10.27={ death=yes }
+}
+1019928988={
+	name=Zambiza
+	dynasty=1009990257
+	dna="eaognjgicah"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=7 learning=4
+	add_trait=thrifty_clerk add_trait=temperate add_trait=greedy add_trait=paranoid add_trait=deceitful 
+	add_trait=ill 
+	father=1019928979	#Mayta
+	1203.6.8={ birth=yes }
+	1270.2.15={ death=yes }
+}
+1019928989={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990257
+	dna="mpjncamieob"
+	culture=quechua religion=chavin_pagan
+	father=1019928986	#Ninan
+	1220.8.13={ birth=yes }
+	1300.4.17={ death=yes }
+}
+1019928990={
+	name=Ninan
+	dynasty=1009990257
+	dna="apphpdmcecb"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=charitable add_trait=content add_trait=temperate 
+	add_trait=patient 
+	father=1019928986	#Ninan
+	1226.9.3={ birth=yes }
+	1299.1.5={ death=yes }
+}
+1019928991={
+	name=Maiara
+	female=yes
+	dynasty=1009990257
+	dna="ahjhmdmceie"
+	culture=quechua religion=chavin_pagan
+	father=1019928990	#Ninan
+	1246.2.18={ birth=yes }
+	1318.2.25={ death=yes }
+}
+1019928992={
+	name=Kantuta
+	female=yes
+	dynasty=1009990257
+	dna="lpahmdmcefb"
+	culture=quechua religion=chavin_pagan
+	father=1019928990	#Ninan
+	1249.12.5={ birth=yes }
+	1312.8.16={ death=yes }
+}
+1019928993={
+	name=Cusi
+	dynasty=1009990257
+	dna="agibndoeecb"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=4 learning=5
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=wroth add_trait=arbitrary add_trait=cynical 
+	father=1019928990	#Ninan
+	1254.4.15={ birth=yes }
+	1310.9.7={ death=yes }
+}
+1019928994={
+	name=Sahuaraura
+	dynasty=1009990257
+	dna="agimhdcjfnm"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=4 learning=5
+	add_trait=skilled_tactician add_trait=poet add_trait=cynical add_trait=slothful add_trait=brave 
+	add_trait=humble add_trait=harelip 
+	father=1019928993	#Cusi
+	1287.9.2={ birth=yes }
+	1351.10.26={ death=yes }
+}
+1019928995={
+	name=Pumi
+	dynasty=1009990257
+	dna="pgogjdocecm"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=charitable add_trait=lustful add_trait=just add_trait=depressed 
+	father=1019928993	#Cusi
+	1291.3.6={ birth=yes }
+	1360.6.4={ death=yes }
+}
+1019928996={
+	name=Quispe
+	dynasty=1009990257
+	dna="mgimhdcjonm"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=7 learning=4
+	add_trait=grey_eminence add_trait=greedy add_trait=shy add_trait=cynical 
+	father=1019928994	#Sahuaraura
+	1318.11.6={ birth=yes }
+	1371.3.5={ death=yes }
+}
+1019928997={
+	name=Yamqui
+	dynasty=1009990257
+	dna="gemmddgjfcm"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=4 learning=6
+	add_trait=charismatic_negotiator add_trait=hunter add_trait=deceitful add_trait=craven add_trait=wroth 
+	father=1019928994	#Sahuaraura
+	1323.1.25={ birth=yes }
+	1375.11.2={ death=yes }
+}
+1019928998={
+	name=Maiara
+	female=yes
+	dynasty=1009990257
+	dna="mgnmhdcjonp"
+	culture=quechua religion=chavin_pagan
+	father=1019928996	#Quispe
+	1340.4.20={ birth=yes }
+	1427.9.4={ death=yes }
+}
+1019928999={
+	name=Nina
+	female=yes
+	dynasty=1009990257
+	dna="aiaohdcccfm"
+	culture=quechua religion=chavin_pagan
+	father=1019928996	#Quispe
+	1345.6.5={ birth=yes }
+	1428.10.4={ death=yes }
+}
+1019929000={
+	name=Kantuta
+	female=yes
+	dynasty=1009990257
+	dna="fgcdhacnonm"
+	culture=quechua religion=chavin_pagan
+	father=1019928996	#Quispe
+	1348.9.18={ birth=yes }
+	1402.1.22={ death=yes }
+}
+1019929001={
+	name=Ana
+	female=yes
+	dynasty=1009990257
+	dna="glnmodanhnc"
+	culture=quechua religion=chavin_pagan
+	father=1019928996	#Quispe
+	1353.6.27={ birth=yes }
+	1412.11.25={ death=yes }
+}
+1019929002={
+	name=Maiara
+	female=yes
+	dynasty=1009990257
+	dna="majmjdcjnnm"
+	culture=quechua religion=chavin_pagan
+	father=1019928996	#Quispe
+	1357.4.12={ birth=yes }
+	1438.4.19={ death=yes }
+}
+1019929003={
+	name=Roca
+	dynasty=1009990257
+	dna="fgnjhjgaonm"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=cynical add_trait=craven add_trait=just add_trait=shy 
+	father=1019928996	#Quispe
+	1363.10.4={ birth=yes }
+	1404.4.8={ death=yes }
+}
+1019929004={
+	name=Ana
+	female=yes
+	dynasty=1009990257
+	dna="mgfjhflloeo"
+	culture=quechua religion=chavin_pagan
+	father=1019929003	#Roca
+	1391.8.24={ birth=yes }
+	1463.4.25={ death=yes }
+}
+1019929005={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990257
+	dna="abnnhjgaaem"
+	culture=quechua religion=chavin_pagan
+	father=1019929003	#Roca
+	1393.3.1={ birth=yes }
+	1447.6.19={ death=yes }
+}
+1019929006={
+	name=Axomamma
+	female=yes
+	dynasty=1009990257
+	dna="fandgjoaonj"
+	culture=quechua religion=chavin_pagan
+	father=1019929003	#Roca
+	1397.11.2={ birth=yes }
+	1469.10.3={ death=yes }
+}
+1019929007={
+	name=Ninan
+	dynasty=1009990257
+	dna="kgfjojbfcnm"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=shy  add_trait=paranoid add_trait=diligent 
+	father=1019929003	#Roca
+	1401.7.17={ birth=yes }
+	1472.1.4={ death=yes }
+}
+1019929008={
+	name=Ana
+	female=yes
+	dynasty=1009990257
+	dna="fgcbhnnaofm"
+	culture=quechua religion=chavin_pagan
+	father=1019929003	#Roca
+	1406.2.5={ birth=yes }
+	1463.12.15={ death=yes }
+}
+1019929009={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990257
+	dna="ekhfhpgaofh"
+	culture=quechua religion=chavin_pagan
+	father=1019929003	#Roca
+	1412.3.11={ birth=yes }
+	1470.10.9={ death=yes }
+}
+1019929010={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990257
+	dna="hbnihjgacpd"
+	culture=quechua religion=chavin_pagan
+	father=1019929003	#Roca
+	1415.10.25={ birth=yes }
+	1489.1.13={ death=yes }
+}
+1019929011={
+	name=Taraque
+	dynasty=1009990258
+	dna="jgefiolgjpb"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=6 learning=8
+	add_trait=elusive_shadow add_trait=deceitful add_trait=proud add_trait=envious 
+	add_trait=just add_trait=lustful 
+	719.4.4={ birth=yes }
+	795.9.3={ death=yes }
+}
+1019929012={
+	name=Pomaguala
+	dynasty=1009990258
+	dna="jmejooldmhg"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=4 learning=7
+	add_trait=elusive_shadow add_trait=deceitful add_trait=gluttonous 
+	father=1019929011	#Taraque
+	744.1.16={ birth=yes }
+	797.9.27={ death=yes }
+}
+1019929013={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990258
+	dna="jakfpglglgl"
+	culture=quechua religion=chavin_pagan
+	father=1019929011	#Taraque
+	749.12.8={ birth=yes }
+	805.10.25={ death=yes }
+}
+1019929014={
+	name=Nina
+	female=yes
+	dynasty=1009990258
+	dna="cbeeiolgjmb"
+	culture=quechua religion=chavin_pagan
+	father=1019929011	#Taraque
+	755.12.19={ birth=yes }
+	842.5.28={ death=yes }
+}
+1019929015={
+	name=Maiara
+	female=yes
+	dynasty=1009990258
+	dna="bbeiiomggpb"
+	culture=quechua religion=chavin_pagan
+	father=1019929011	#Taraque
+	759.6.24={ birth=yes }
+	802.1.22={ death=yes }
+}
+1019929016={
+	name=Viracocha
+	dynasty=1009990258
+	dna="pgefaoigifa"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=4 learning=7
+	add_trait=charismatic_negotiator add_trait=honest add_trait=greedy add_trait=ambitious 
+	father=1019929011	#Taraque
+	763.9.13={ birth=yes }
+	824.6.22={ death=yes }
+}
+1019929017={
+	name=Nina
+	female=yes
+	dynasty=1009990258
+	dna="nkhcieldjnp"
+	culture=quechua religion=chavin_pagan
+	father=1019929011	#Taraque
+	769.7.26={ birth=yes }
+	862.12.4={ death=yes }
+}
+1019929018={
+	name=Maiara
+	female=yes
+	dynasty=1009990258
+	dna="jgegokehbpb"
+	culture=quechua religion=chavin_pagan
+	father=1019929011	#Taraque
+	773.10.9={ birth=yes }
+	836.4.24={ death=yes }
+}
+1019929019={
+	name=Túpac
+	dynasty=1009990258
+	dna="lilaloldchg"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=8
+	add_trait=martial_cleric add_trait=honest add_trait=gluttonous add_trait=arbitrary add_trait=zealous 
+	father=1019929012	#Pomaguala
+	767.1.3={ birth=yes }
+	843.6.11={ death=yes }
+}
+1019929020={
+	name=Yupanqui
+	dynasty=1009990258
+	dna="fkdaokfdpog"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=7 learning=8
+	add_trait=scholarly_theologian add_trait=trusting add_trait=chaste add_trait=shy add_trait=greedy 
+	add_trait=zealous 
+	father=1019929012	#Pomaguala
+	770.4.13={ birth=yes }
+	857.10.26={ death=yes }
+}
+1019929021={
+	name=Zambiza
+	dynasty=1009990258
+	dna="bmejkojimjg"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	add_trait=elusive_shadow add_trait=envious add_trait=gluttonous add_trait=charitable add_trait=deceitful 
+	father=1019929012	#Pomaguala
+	775.1.25={ birth=yes }
+	831.10.4={ death=yes }
+}
+1019929022={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990258
+	dna="gmejlleocng"
+	culture=quechua religion=chavin_pagan
+	father=1019929012	#Pomaguala
+	780.11.25={ birth=yes }
+	868.10.17={ death=yes }
+}
+1019929023={
+	name=Ruminavi
+	dynasty=1009990258
+	dna="lolbldldchg"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=4
+	add_trait=indulgent_wastrel add_trait=shy add_trait=charitable add_trait=slothful 
+	father=1019929019	#Túpac
+	800.6.10={ birth=yes }
+	871.7.19={ death=yes }
+}
+1019929024={
+	name=Sopa
+	dynasty=1009990258
+	dna="lioalolfcmg"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=gregarious add_trait=just add_trait=zealous add_trait=content 
+	add_trait=chaste add_trait=possessed add_trait=ugly 
+	father=1019929019	#Túpac
+	807.2.21={ birth=yes }
+	894.1.25={ death=yes }
+}
+1019929025={
+	name=Maiara
+	female=yes
+	dynasty=1009990258
+	dna="lbfmlmhdphg"
+	culture=quechua religion=chavin_pagan
+	father=1019929019	#Túpac
+	812.7.22={ birth=yes }
+	874.4.4={ death=yes }
+}
+1019929026={
+	name=Túpac
+	dynasty=1009990258
+	dna="epaadeegchi"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=envious add_trait=lustful add_trait=craven add_trait=arbitrary 
+	father=1019929019	#Túpac
+	820.1.4={ birth=yes }
+	877.9.28={ death=yes }
+}
+1019929027={
+	name=Usca
+	dynasty=1009990258
+	dna="goebldldchg"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=lustful add_trait=gluttonous 
+	father=1019929023	#Ruminavi
+	825.10.4={ birth=yes }
+	891.2.16={ death=yes }
+}
+1019929028={
+	name=Axomamma
+	female=yes
+	dynasty=1009990258
+	dna="madhldlcfmg"
+	culture=quechua religion=chavin_pagan
+	father=1019929023	#Ruminavi
+	831.1.2={ birth=yes }
+	913.10.20={ death=yes }
+}
+1019929029={
+	name=Ninan
+	dynasty=1009990258
+	dna="lnmclnadchg"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=6 learning=8
+	add_trait=naive_appeaser add_trait=zealous add_trait=charitable add_trait=proud 
+	father=1019929023	#Ruminavi
+	838.2.16={ birth=yes }
+	912.1.17={ death=yes }
+}
+1019929030={
+	name=Ana
+	female=yes
+	dynasty=1009990258
+	dna="goemlnlenhg"
+	culture=quechua religion=chavin_pagan
+	father=1019929027	#Usca
+	849.1.2={ birth=yes }
+	908.7.13={ death=yes }
+}
+1019929031={
+	name=Usca
+	dynasty=1009990258
+	dna="goebddllphn"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=8
+	add_trait=tough_soldier add_trait=greedy add_trait=temperate add_trait=trusting add_trait=shy 
+	add_trait=honest add_trait=zealous 
+	father=1019929027	#Usca
+	852.11.6={ birth=yes }
+	927.12.6={ death=yes }
+}
+1019929032={
+	name=Sayri
+	dynasty=1009990258
+	dna="goefcandcig"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=7
+	add_trait=martial_cleric add_trait=just add_trait=craven add_trait=chaste add_trait=charitable 
+	 add_trait=temperate add_trait=wounded 
+	father=1019929027	#Usca
+	857.5.10={ birth=yes }
+	927.8.18={ death=yes }
+}
+1019929033={
+	name=Curiatao
+	dynasty=1009990258
+	dna="aogbadlnenk"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=7
+	add_trait=detached_priest add_trait=humble add_trait=chaste add_trait=depressed 
+	father=1019929027	#Usca
+	862.5.19={ birth=yes }
+	933.12.18={ death=yes }
+}
+1019929034={
+	name=Huaypalcon
+	dynasty=1009990258
+	dna="ljeckdldchf"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=diligent add_trait=greedy add_trait=wroth 
+	add_trait=ill add_trait=possessed 
+	father=1019929027	#Usca
+	867.10.21={ birth=yes }
+	945.7.6={ death=yes }
+}
+1019929035={
+	name=Yahuar
+	dynasty=1009990258
+	dna="dpcaldblchk"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=4
+	add_trait=indulgent_wastrel add_trait=gardener add_trait=charitable add_trait=shy add_trait=slothful 
+	add_trait=humble 
+	father=1019929027	#Usca
+	870.12.15={ birth=yes }
+	942.7.20={ death=yes }
+}
+1019929036={
+	name=Ana
+	female=yes
+	dynasty=1009990258
+	dna="gpmmhhhcchg"
+	culture=quechua religion=chavin_pagan
+	father=1019929027	#Usca
+	874.7.27={ birth=yes }
+	933.3.8={ death=yes }
+}
+1019929037={
+	name=Kantuta
+	female=yes
+	dynasty=1009990258
+	dna="ooehejkiphl"
+	culture=quechua religion=chavin_pagan
+	father=1019929031	#Usca
+	880.8.25={ birth=yes }
+	963.2.18={ death=yes }
+}
+1019929038={
+	name=Huayna
+	dynasty=1009990258
+	dna="hoebddlipbe"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=content add_trait=trusting add_trait=deceitful add_trait=proud 
+	add_trait=wounded 
+	father=1019929031	#Usca
+	882.1.24={ birth=yes }
+	937.4.9={ death=yes }
+}
+1019929039={
+	name=Kantuta
+	female=yes
+	dynasty=1009990258
+	dna="ggebmdlbphg"
+	culture=quechua religion=chavin_pagan
+	father=1019929031	#Usca
+	885.11.16={ birth=yes }
+	963.10.19={ death=yes }
+}
+1019929040={
+	name=Coyllas
+	dynasty=1009990258
+	dna="alebdphepia"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=5 learning=4
+	add_trait=scholarly_theologian add_trait=mystic add_trait=humble add_trait=temperate add_trait=honest 
+	add_trait=just add_trait=drunkard 
+	father=1019929038	#Huayna
+	910.12.1={ birth=yes }
+	995.9.24={ death=yes }
+}
+1019929041={
+	name=Cápac
+	dynasty=1009990258
+	dna="hhikddlidnj"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=6
+	add_trait=grey_eminence  add_trait=shy add_trait=gluttonous add_trait=content 
+	father=1019929038	#Huayna
+	914.2.24={ birth=yes }
+	966.12.28={ death=yes }
+}
+1019929042={
+	name=Nina
+	female=yes
+	dynasty=1009990258
+	dna="hoeiddpcine"
+	culture=quechua religion=chavin_pagan
+	father=1019929038	#Huayna
+	916.9.17={ birth=yes }
+	1002.7.31={ death=yes }
+}
+1019929043={
+	name=Viracocha
+	dynasty=1009990258
+	dna="boeddglcpmd"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=shy add_trait=slothful add_trait=envious add_trait=charitable 
+	add_trait=gluttonous add_trait=possessed 
+	father=1019929038	#Huayna
+	922.8.23={ birth=yes }
+	997.11.27={ death=yes }
+}
+1019929044={
+	name=Yupanqui
+	dynasty=1009990258
+	dna="gmebhplihba"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=trusting add_trait=envious add_trait=shy 
+	add_trait=lunatic 
+	father=1019929038	#Huayna
+	926.8.25={ birth=yes }
+	986.5.31={ death=yes }
+}
+1019929045={
+	name=Huaypalcon
+	dynasty=1009990258
+	dna="loekcdljpbe"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=ambitious add_trait=wroth add_trait=proud add_trait=fair 
+	father=1019929038	#Huayna
+	932.4.25={ birth=yes }
+	989.8.12={ death=yes }
+}
+1019929046={
+	name=Mayta
+	dynasty=1009990258
+	dna="hoeboipipip"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	add_trait=scholarly_theologian add_trait=shy add_trait=greedy add_trait=craven add_trait=wroth 
+	add_trait=gluttonous 
+	father=1019929038	#Huayna
+	938.2.9={ birth=yes }
+	1016.7.12={ death=yes }
+}
+1019929047={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990258
+	dna="oloidihghia"
+	culture=quechua religion=chavin_pagan
+	father=1019929040	#Coyllas
+	936.10.20={ birth=yes }
+	993.4.6={ death=yes }
+}
+1019929048={
+	name=Cápac
+	dynasty=1009990258
+	dna="nlobfpccmpj"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	add_trait=tough_soldier add_trait=humble add_trait=slothful add_trait=deceitful add_trait=patient 
+	add_trait=craven 
+	father=1019929040	#Coyllas
+	942.6.8={ birth=yes }
+	1010.9.17={ death=yes }
+}
+1019929049={
+	name=Cápac
+	dynasty=1009990258
+	dna="bgmkdpkjnaj"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=brave add_trait=greedy add_trait=temperate add_trait=chaste 
+	add_trait=trusting add_trait=ill 
+	father=1019929040	#Coyllas
+	949.8.13={ birth=yes }
+	1031.6.16={ death=yes }
+}
+1019929050={
+	name=Roca
+	dynasty=1009990258
+	dna="ngobjpccfoo"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	add_trait=thrifty_clerk add_trait=impaler add_trait=wroth add_trait=arbitrary add_trait=chaste 
+	add_trait=slothful add_trait=humble 
+	father=1019929048	#Cápac
+	974.3.11={ birth=yes }
+	1068.9.11={ death=yes }
+}
+1019929051={
+	name=Roca
+	dynasty=1009990258
+	dna="cliidjmcbfj"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=8 learning=7
+	add_trait=intricate_webweaver add_trait=arbitrary add_trait=paranoid add_trait=brave add_trait=gregarious 
+	add_trait=patient add_trait=depressed 
+	father=1019929048	#Cápac
+	979.8.4={ birth=yes }
+	1065.6.8={ death=yes }
+}
+1019929052={
+	name=Axomamma
+	female=yes
+	dynasty=1009990258
+	dna="npbbfpfciij"
+	culture=quechua religion=chavin_pagan
+	father=1019929048	#Cápac
+	982.11.25={ birth=yes }
+	1043.9.3={ death=yes }
+}
+1019929053={
+	name=Ana
+	female=yes
+	dynasty=1009990258
+	dna="nlcickicmpj"
+	culture=quechua religion=chavin_pagan
+	father=1019929048	#Cápac
+	985.5.25={ birth=yes }
+	1049.3.2={ death=yes }
+}
+1019929054={
+	name=Túpac
+	dynasty=1009990258
+	dna="ngonjdchfof"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=gluttonous add_trait=wroth add_trait=charitable add_trait=chaste 
+	father=1019929050	#Roca
+	999.5.5={ birth=yes }
+	1079.8.24={ death=yes }
+}
+1019929055={
+	name=Ana
+	female=yes
+	dynasty=1009990258
+	dna="ljobjpadmof"
+	culture=quechua religion=chavin_pagan
+	father=1019929050	#Roca
+	1002.5.25={ birth=yes }
+	1069.5.24={ death=yes }
+}
+1019929056={
+	name=Zambiza
+	dynasty=1009990258
+	dna="nconldchbof"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=6 learning=6
+	add_trait=grey_eminence add_trait=content add_trait=charitable add_trait=patient add_trait=deceitful 
+	father=1019929054	#Túpac
+	1020.2.7={ birth=yes }
+	1080.6.4={ death=yes }
+}
+1019929057={
+	name=Nina
+	female=yes
+	dynasty=1009990258
+	dna="gnopgdchheb"
+	culture=quechua religion=chavin_pagan
+	father=1019929054	#Túpac
+	1025.10.27={ birth=yes }
+	1122.1.7={ death=yes }
+}
+1019929058={
+	name=Tupac
+	dynasty=1009990258
+	dna="nfomjdmdjof"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	add_trait=skilled_tactician add_trait=temperate add_trait=envious add_trait=diligent 
+	add_trait=content add_trait=chaste 
+	father=1019929054	#Túpac
+	1031.9.4={ birth=yes }
+	1105.3.3={ death=yes }
+}
+1019929059={
+	name=Sahuaraura
+	dynasty=1009990258
+	dna="ndfnldghbcm"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=6 learning=8
+	add_trait=detached_priest add_trait=brave add_trait=ambitious 
+	father=1019929056	#Zambiza
+	1041.8.10={ birth=yes }
+	1109.2.7={ death=yes }
+}
+1019929060={
+	name=Ninan
+	dynasty=1009990258
+	dna="dconlhaceof"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=slothful add_trait=wroth 
+	father=1019929056	#Zambiza
+	1046.4.23={ birth=yes }
+	1116.3.30={ death=yes }
+}
+1019929061={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990258
+	dna="nmnklemhcoe"
+	culture=quechua religion=chavin_pagan
+	father=1019929056	#Zambiza
+	1052.12.19={ birth=yes }
+	1126.7.1={ death=yes }
+}
+1019929062={
+	name=Pascac
+	dynasty=1009990258
+	dna="ccoplacebfc"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=4 learning=5
+	add_trait=midas_touched add_trait=shy add_trait=zealous 
+	father=1019929056	#Zambiza
+	1054.7.18={ birth=yes }
+	1136.11.7={ death=yes }
+}
+1019929063={
+	name=Kantuta
+	female=yes
+	dynasty=1009990258
+	dna="boonkdghmof"
+	culture=quechua religion=chavin_pagan
+	father=1019929056	#Zambiza
+	1060.7.24={ birth=yes }
+	1135.8.9={ death=yes }
+}
+1019929064={
+	name=Axomamma
+	female=yes
+	dynasty=1009990258
+	dna="ekmokdghbnf"
+	culture=quechua religion=chavin_pagan
+	father=1019929056	#Zambiza
+	1065.1.22={ birth=yes }
+	1119.1.5={ death=yes }
+}
+1019929065={
+	name=Maiara
+	female=yes
+	dynasty=1009990258
+	dna="hbemmmckbaf"
+	culture=quechua religion=chavin_pagan
+	father=1019929056	#Zambiza
+	1069.1.15={ birth=yes }
+	1135.4.23={ death=yes }
+}
+1019929066={
+	name=Zopahua
+	dynasty=1009990258
+	dna="nefflilhbcm"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=5 learning=7
+	add_trait=skilled_tactician add_trait=zealous add_trait=content add_trait=diligent 
+	father=1019929059	#Sahuaraura
+	1070.7.15={ birth=yes }
+	1151.10.12={ death=yes }
+}
+1019929067={
+	name=Maiara
+	female=yes
+	dynasty=1009990258
+	dna="nchblpchbcm"
+	culture=quechua religion=chavin_pagan
+	father=1019929059	#Sahuaraura
+	1078.9.2={ birth=yes }
+	1144.4.22={ death=yes }
+}
+1019929068={
+	name=Axomamma
+	female=yes
+	dynasty=1009990258
+	dna="ndflidghbem"
+	culture=quechua religion=chavin_pagan
+	father=1019929059	#Sahuaraura
+	1083.6.27={ birth=yes }
+	1149.8.13={ death=yes }
+}
+1019929069={
+	name=Yupanqui
+	dynasty=1009990258
+	dna="idfchlghgnm"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=trusting add_trait=envious add_trait=gluttonous 
+	add_trait=proud add_trait=hunchback 
+	father=1019929059	#Sahuaraura
+	1086.6.11={ birth=yes }
+	1136.8.22={ death=yes }
+}
+1019929070={
+	name=Villac
+	dynasty=1009990258
+	dna="nffflmhhbcm"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=charitable 
+	father=1019929066	#Zopahua
+	1096.9.19={ birth=yes }
+	1167.10.10={ death=yes }
+}
+1019929071={
+	name=Tucuycuyche
+	dynasty=1009990258
+	dna="npjmlilhgee"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	add_trait=intricate_webweaver add_trait=proud add_trait=greedy add_trait=arbitrary add_trait=depressed 
+	father=1019929066	#Zopahua
+	1099.12.27={ birth=yes }
+	1156.10.28={ death=yes }
+}
+1019929072={
+	name=Ana
+	female=yes
+	dynasty=1009990258
+	dna="aeibkilhpca"
+	culture=quechua religion=chavin_pagan
+	father=1019929066	#Zopahua
+	1104.7.17={ birth=yes }
+	1143.6.14={ death=yes }
+}
+1019929073={
+	name=Maiara
+	female=yes
+	dynasty=1009990258
+	dna="oefnebliacm"
+	culture=quechua religion=chavin_pagan
+	father=1019929066	#Zopahua
+	1111.5.14={ birth=yes }
+	1165.7.13={ death=yes }
+}
+1019929074={
+	name=Guaritopa
+	dynasty=1009990258
+	dna="igfnnilmbeg"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=content add_trait=brave add_trait=honest add_trait=wroth 
+	add_trait=cynical 
+	father=1019929066	#Zopahua
+	1116.10.19={ birth=yes }
+	1170.4.25={ death=yes }
+}
+1019929075={
+	name=Axomamma
+	female=yes
+	dynasty=1009990258
+	dna="gefkgflhgcm"
+	culture=quechua religion=chavin_pagan
+	father=1019929066	#Zopahua
+	1119.10.10={ birth=yes }
+	1201.2.22={ death=yes }
+}
+1019929076={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990258
+	dna="nefflidhpce"
+	culture=quechua religion=chavin_pagan
+	father=1019929066	#Zopahua
+	1124.9.26={ birth=yes }
+	1203.1.6={ death=yes }
+}
+1019929077={
+	name=Huachuri
+	dynasty=1009990258
+	dna="mfcllmhhocl"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=6 learning=7
+	add_trait=tough_soldier add_trait=temperate add_trait=lustful add_trait=ambitious add_trait=charitable 
+	father=1019929070	#Villac
+	1122.3.27={ birth=yes }
+	1205.5.11={ death=yes }
+}
+1019929078={
+	name=Ana
+	female=yes
+	dynasty=1009990258
+	dna="kffebmhgokm"
+	culture=quechua religion=chavin_pagan
+	father=1019929070	#Villac
+	1125.4.22={ birth=yes }
+	1191.11.20={ death=yes }
+}
+1019929079={
+	name=Túpac
+	dynasty=1009990258
+	dna="nfnfhmjhbcm"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=6 learning=4
+	add_trait=mastermind_theologian add_trait=charitable add_trait=zealous 
+	father=1019929070	#Villac
+	1129.1.4={ birth=yes }
+	1208.2.2={ death=yes }
+}
+1019929080={
+	name=Maiara
+	female=yes
+	dynasty=1009990258
+	dna="cffkfmhdbpm"
+	culture=quechua religion=chavin_pagan
+	father=1019929070	#Villac
+	1132.12.10={ birth=yes }
+	1192.5.14={ death=yes }
+}
+1019929081={
+	name=Pumi
+	dynasty=1009990258
+	dna="ninklmghmfn"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=elusive_shadow add_trait=slothful add_trait=temperate add_trait=depressed 
+	father=1019929070	#Villac
+	1136.11.25={ birth=yes }
+	1201.2.2={ death=yes }
+}
+1019929082={
+	name=Huayna
+	dynasty=1009990258
+	dna="mfcloibhacb"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=7
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=shy add_trait=arbitrary 
+	father=1019929077	#Huachuri
+	1153.1.27={ birth=yes }
+	1209.2.22={ death=yes }
+}
+1019929083={
+	name=Sayri
+	dynasty=1009990258
+	dna="mfiflilhndk"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=patient add_trait=greedy add_trait=proud 
+	father=1019929077	#Huachuri
+	1160.9.4={ birth=yes }
+	1228.2.8={ death=yes }
+}
+1019929084={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990258
+	dna="agpbkhhhoce"
+	culture=quechua religion=chavin_pagan
+	father=1019929077	#Huachuri
+	1163.7.21={ birth=yes }
+	1230.4.4={ death=yes }
+}
+1019929085={
+	name=Ana
+	female=yes
+	dynasty=1009990258
+	dna="pecllmhmocj"
+	culture=quechua religion=chavin_pagan
+	father=1019929077	#Huachuri
+	1168.1.16={ birth=yes }
+	1226.12.9={ death=yes }
+}
+1019929086={
+	name=Ana
+	female=yes
+	dynasty=1009990258
+	dna="mflpfibhkcl"
+	culture=quechua religion=chavin_pagan
+	father=1019929082	#Huayna
+	1178.11.23={ birth=yes }
+	1247.10.10={ death=yes }
+}
+1019929087={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990258
+	dna="mlaloibhjhb"
+	culture=quechua religion=chavin_pagan
+	father=1019929082	#Huayna
+	1183.1.10={ birth=yes }
+	1253.11.18={ death=yes }
+}
+1019929088={
+	name=Umu
+	dynasty=1009990258
+	dna="hfjloidbanb"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=thrifty_clerk add_trait=lustful add_trait=charitable add_trait=proud 
+	father=1019929082	#Huayna
+	1186.11.24={ birth=yes }
+	1261.12.12={ death=yes }
+}
+1019929089={
+	name=Cayo
+	dynasty=1009990258
+	dna="afloimefknb"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=celibate add_trait=trusting add_trait=charitable add_trait=slothful 
+	add_trait=patient add_trait=lustful add_trait=arbitrary 
+	father=1019929088	#Umu
+	1207.6.14={ birth=yes }
+	1294.10.4={ death=yes }
+}
+1019929090={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990258
+	dna="hbenpalbanb"
+	culture=quechua religion=chavin_pagan
+	father=1019929088	#Umu
+	1212.7.4={ birth=yes }
+	1267.4.4={ death=yes }
+}
+1019929091={
+	name=Huaypalcon
+	dynasty=1009990258
+	dna="mfpopilmanl"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	add_trait=elusive_shadow add_trait=humble add_trait=brave add_trait=temperate  
+	add_trait=content add_trait=cynical 
+	father=1019929088	#Umu
+	1215.5.21={ birth=yes }
+	1295.4.19={ death=yes }
+}
+1019929092={
+	name=Inca
+	dynasty=1009990258
+	dna="dfhlojdbanb"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=craven add_trait=just add_trait=deceitful add_trait=shy 
+	father=1019929088	#Umu
+	1222.6.26={ birth=yes }
+	1297.4.3={ death=yes }
+}
+1019929093={
+	name=Huayna
+	dynasty=1009990258
+	dna="kfjkabddaeb"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=envious add_trait=honest add_trait=wroth 
+	father=1019929088	#Umu
+	1226.4.3={ birth=yes }
+	1295.2.20={ death=yes }
+}
+1019929094={
+	name=Kantuta
+	female=yes
+	dynasty=1009990258
+	dna="idgopfgfghj"
+	culture=quechua religion=chavin_pagan
+	father=1019929089	#Cayo
+	1234.2.7={ birth=yes }
+	1302.5.6={ death=yes }
+}
+1019929095={
+	name=Cápac
+	dynasty=1009990258
+	dna="foioimefknb"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	add_trait=scholarly_theologian add_trait=proud add_trait=deceitful add_trait=craven add_trait=gluttonous 
+	add_trait=content 
+	father=1019929089	#Cayo
+	1239.6.7={ birth=yes }
+	1325.1.26={ death=yes }
+}
+1019929096={
+	name=Atoc
+	dynasty=1009990258
+	dna="ckoanmejknp"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	add_trait=mastermind_theologian add_trait=hedonist add_trait=gregarious add_trait=chaste 
+	father=1019929089	#Cayo
+	1243.8.24={ birth=yes }
+	1317.11.7={ death=yes }
+}
+1019929097={
+	name=Ana
+	female=yes
+	dynasty=1009990258
+	dna="iijabmecofb"
+	culture=quechua religion=chavin_pagan
+	father=1019929089	#Cayo
+	1250.12.22={ birth=yes }
+	1325.4.14={ death=yes }
+}
+1019929098={
+	name=Tupac
+	dynasty=1009990258
+	dna="abookfeckni"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	add_trait=indulgent_wastrel add_trait=celibate add_trait=content add_trait=paranoid  
+	add_trait=drunkard 
+	father=1019929089	#Cayo
+	1255.12.10={ birth=yes }
+	1331.7.5={ death=yes }
+}
+1019929099={
+	name=Maiara
+	female=yes
+	dynasty=1009990258
+	dna="boioiheaanb"
+	culture=quechua religion=chavin_pagan
+	father=1019929095	#Cápac
+	1261.8.14={ birth=yes }
+	1322.6.19={ death=yes }
+}
+1019929100={
+	name=Pomaguala
+	dynasty=1009990258
+	dna="loioidpkkco"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=celibate add_trait=brave add_trait=honest add_trait=zealous 
+	add_trait=diligent add_trait=ill 
+	father=1019929095	#Cápac
+	1267.7.4={ birth=yes }
+	1321.10.24={ death=yes }
+}
+1019929101={
+	name=Ana
+	female=yes
+	dynasty=1009990258
+	dna="jolclikfkfl"
+	culture=quechua religion=chavin_pagan
+	father=1019929095	#Cápac
+	1269.6.26={ birth=yes }
+	1322.8.22={ death=yes }
+}
+1019929102={
+	name=Maiara
+	female=yes
+	dynasty=1009990258
+	dna="poiojlnjbeb"
+	culture=quechua religion=chavin_pagan
+	father=1019929095	#Cápac
+	1273.2.23={ birth=yes }
+	1351.3.27={ death=yes }
+}
+1019929103={
+	name=Tupac
+	dynasty=1009990258
+	dna="koioiipfidi"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=4 learning=6
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=trusting add_trait=patient add_trait=gregarious 
+	add_trait=drunkard add_trait=lunatic 
+	father=1019929095	#Cápac
+	1277.11.10={ birth=yes }
+	1379.9.8={ death=yes }
+}
+1019929104={
+	name=Kantuta
+	female=yes
+	dynasty=1009990258
+	dna="glioipnfdeo"
+	culture=quechua religion=chavin_pagan
+	father=1019929095	#Cápac
+	1282.2.22={ birth=yes }
+	1383.5.4={ death=yes }
+}
+1019929105={
+	name=Maiara
+	female=yes
+	dynasty=1009990258
+	dna="boioieefipc"
+	culture=quechua religion=chavin_pagan
+	father=1019929095	#Cápac
+	1289.10.15={ birth=yes }
+	1342.12.21={ death=yes }
+}
+1019929106={
+	name=Titu
+	dynasty=1009990258
+	dna="jkcobpekklo"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=envious add_trait=lustful add_trait=charitable add_trait=cynical 
+	father=1019929100	#Pomaguala
+	1291.3.18={ birth=yes }
+	1360.12.12={ death=yes }
+}
+1019929107={
+	name=Kantuta
+	female=yes
+	dynasty=1009990258
+	dna="polmidpkkjb"
+	culture=quechua religion=chavin_pagan
+	father=1019929100	#Pomaguala
+	1295.6.20={ birth=yes }
+	1355.1.2={ death=yes }
+}
+1019929108={
+	name=Axomamma
+	female=yes
+	dynasty=1009990258
+	dna="loimggkmpno"
+	culture=quechua religion=chavin_pagan
+	father=1019929100	#Pomaguala
+	1299.6.12={ birth=yes }
+	1385.2.8={ death=yes }
+}
+1019929109={
+	name=Kantuta
+	female=yes
+	dynasty=1009990258
+	dna="lbioeafkkmj"
+	culture=quechua religion=chavin_pagan
+	father=1019929100	#Pomaguala
+	1305.2.27={ birth=yes }
+	1360.9.25={ death=yes }
+}
+1019929110={
+	name=Huayna
+	dynasty=1009990258
+	dna="lkhokpeeilb"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=mystic add_trait=slothful add_trait=envious add_trait=paranoid 
+	add_trait=shy 
+	father=1019929106	#Titu
+	1317.8.7={ birth=yes }
+	1375.4.7={ death=yes }
+}
+1019929111={
+	name=Nina
+	female=yes
+	dynasty=1009990258
+	dna="jdcofpckllo"
+	culture=quechua religion=chavin_pagan
+	father=1019929106	#Titu
+	1323.4.26={ birth=yes }
+	1392.2.15={ death=yes }
+}
+1019929112={
+	name=Hacuac
+	dynasty=1009990258
+	dna="ophfdobeijo"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=5 learning=8
+	add_trait=intricate_webweaver add_trait=cynical add_trait=craven add_trait=temperate 
+	father=1019929110	#Huayna
+	1337.10.7={ birth=yes }
+	1406.1.12={ death=yes }
+}
+1019929113={
+	name=Axomamma
+	female=yes
+	dynasty=1009990258
+	dna="dkojbnejilb"
+	culture=quechua religion=chavin_pagan
+	father=1019929110	#Huayna
+	1339.8.13={ birth=yes }
+	1424.12.29={ death=yes }
+}
+1019929114={
+	name=Kantuta
+	female=yes
+	dynasty=1009990258
+	dna="lbhbkpmepak"
+	culture=quechua religion=chavin_pagan
+	father=1019929110	#Huayna
+	1344.8.25={ birth=yes }
+	1398.6.20={ death=yes }
+}
+1019929115={
+	name=Inca
+	dynasty=1009990258
+	dna="onhfdpbajjo"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=poet add_trait=chaste add_trait=paranoid add_trait=honest 
+	add_trait=wounded 
+	father=1019929112	#Hacuac
+	1359.4.19={ birth=yes }
+	1431.4.11={ death=yes }
+}
+1019929116={
+	name=Sayri
+	dynasty=1009990258
+	dna="ohpkaobeeao"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=gregarious add_trait=chaste add_trait=ill 
+	father=1019929112	#Hacuac
+	1364.11.23={ birth=yes }
+	1421.11.1={ death=yes }
+}
+1019929117={
+	name=Maiara
+	female=yes
+	dynasty=1009990258
+	dna="ophliohbiko"
+	culture=quechua religion=chavin_pagan
+	father=1019929112	#Hacuac
+	1367.9.20={ birth=yes }
+	1450.11.29={ death=yes }
+}
+1019929118={
+	name=Guaritopa
+	dynasty=1009990258
+	dna="ophfjfbgfln"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	add_trait=martial_cleric add_trait=honest add_trait=humble add_trait=chaste 
+	add_trait=just add_trait=ill 
+	father=1019929112	#Hacuac
+	1371.10.4={ birth=yes }
+	1425.7.9={ death=yes }
+}
+1019929119={
+	name=Cuyuchi
+	dynasty=1009990258
+	dna="nphnmobealo"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=scholar add_trait=gluttonous add_trait=charitable add_trait=zealous 
+	father=1019929112	#Hacuac
+	1375.10.4={ birth=yes }
+	1459.7.3={ death=yes }
+}
+1019929120={
+	name=Ninan
+	dynasty=1009990259
+	dna="gkemeeffhmn"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=diligent  add_trait=trusting 
+	719.3.25={ birth=yes }
+	801.1.28={ death=yes }
+}
+1019929121={
+	name=Curiatao
+	dynasty=1009990259
+	dna="jkgmepfecgm"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=greedy add_trait=patient add_trait=slothful add_trait=depressed 
+	father=1019929120	#Ninan
+	746.10.21={ birth=yes }
+	820.4.3={ death=yes }
+}
+1019929122={
+	name=Kantuta
+	female=yes
+	dynasty=1009990259
+	dna="kkaaefofhen"
+	culture=quechua religion=chavin_pagan
+	father=1019929120	#Ninan
+	752.5.11={ birth=yes }
+	810.3.21={ death=yes }
+}
+1019929123={
+	name=Cusi
+	dynasty=1009990259
+	dna="gjemeechpmn"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=7 learning=4
+	add_trait=grey_eminence add_trait=charitable add_trait=paranoid add_trait=chaste 
+	father=1019929120	#Ninan
+	758.9.1={ birth=yes }
+	816.8.6={ death=yes }
+}
+1019929124={
+	name=Topa
+	dynasty=1009990259
+	dna="lkgheffnggg"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=humble  add_trait=diligent add_trait=lustful 
+	add_trait=brave 
+	father=1019929121	#Curiatao
+	770.9.3={ birth=yes }
+	857.6.19={ death=yes }
+}
+1019929125={
+	name=Villac
+	dynasty=1009990259
+	dna="ekmmdpjaegd"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=7
+	add_trait=grey_eminence add_trait=slothful add_trait=content add_trait=envious 
+	add_trait=wroth add_trait=hunchback 
+	father=1019929121	#Curiatao
+	775.9.8={ birth=yes }
+	836.12.6={ death=yes }
+}
+1019929126={
+	name=Túpac
+	dynasty=1009990259
+	dna="lcnhkkfogng"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=deceitful add_trait=proud add_trait=gluttonous add_trait=content 
+	add_trait=slothful add_trait=stressed 
+	father=1019929124	#Topa
+	795.5.23={ birth=yes }
+	870.7.19={ death=yes }
+}
+1019929127={
+	name=Axomamma
+	female=yes
+	dynasty=1009990259
+	dna="mkgelfnnblm"
+	culture=quechua religion=chavin_pagan
+	father=1019929124	#Topa
+	798.2.26={ birth=yes }
+	864.5.4={ death=yes }
+}
+1019929128={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990259
+	dna="bmghajfaogg"
+	culture=quechua religion=chavin_pagan
+	father=1019929124	#Topa
+	805.11.9={ birth=yes }
+	866.11.27={ death=yes }
+}
+1019929129={
+	name=Curiatao
+	dynasty=1009990259
+	dna="ohobofenhgg"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=arbitrary  add_trait=patient 
+	add_trait=gregarious add_trait=slothful 
+	father=1019929124	#Topa
+	809.1.19={ birth=yes }
+	888.6.13={ death=yes }
+}
+1019929130={
+	name=Cayo
+	dynasty=1009990259
+	dna="knphkkfkgkg"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=7 learning=7
+	add_trait=flamboyant_schemer  add_trait=cynical add_trait=chaste add_trait=ambitious 
+	
+	father=1019929126	#Túpac
+	824.10.26={ birth=yes }
+	896.12.10={ death=yes }
+}
+1019929131={
+	name=Pomaguala
+	dynasty=1009990259
+	dna="iangkfaogng"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	add_trait=skilled_tactician add_trait=gardener  add_trait=gregarious 
+	add_trait=drunkard 
+	father=1019929126	#Túpac
+	829.1.20={ birth=yes }
+	895.12.9={ death=yes }
+}
+1019929132={
+	name=Quispe
+	dynasty=1009990259
+	dna="ncnnmkfojng"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=trusting add_trait=cynical add_trait=content add_trait=wounded 
+	father=1019929126	#Túpac
+	835.11.2={ birth=yes }
+	905.8.14={ death=yes }
+}
+1019929133={
+	name=Sopa
+	dynasty=1009990259
+	dna="mpjhkkokgkg"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=paranoid add_trait=zealous add_trait=deceitful 
+	father=1019929130	#Cayo
+	851.8.7={ birth=yes }
+	928.8.8={ death=yes }
+}
+1019929134={
+	name=Kantuta
+	female=yes
+	dynasty=1009990259
+	dna="knohjonkggg"
+	culture=quechua religion=chavin_pagan
+	father=1019929130	#Cayo
+	855.8.9={ birth=yes }
+	932.6.19={ death=yes }
+}
+1019929135={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990259
+	dna="kgihckdpgkh"
+	culture=quechua religion=chavin_pagan
+	father=1019929130	#Cayo
+	860.7.19={ birth=yes }
+	918.12.3={ death=yes }
+}
+1019929136={
+	name=Axomamma
+	female=yes
+	dynasty=1009990259
+	dna="akphkkdkdfo"
+	culture=quechua religion=chavin_pagan
+	father=1019929130	#Cayo
+	864.11.23={ birth=yes }
+	931.4.4={ death=yes }
+}
+1019929137={
+	name=Anquimarca
+	dynasty=1009990259
+	dna="onnhbkhkgkg"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=5 learning=8
+	add_trait=elusive_shadow add_trait=deceitful add_trait=zealous add_trait=shy  
+	father=1019929130	#Cayo
+	870.3.21={ birth=yes }
+	923.3.1={ death=yes }
+}
+1019929138={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990259
+	dna="mnohkoflgko"
+	culture=quechua religion=chavin_pagan
+	father=1019929130	#Cayo
+	874.6.27={ birth=yes }
+	954.12.30={ death=yes }
+}
+1019929139={
+	name=Sopa
+	dynasty=1009990259
+	dna="kgnhpkhcmkg"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=5 learning=7
+	add_trait=elusive_shadow add_trait=wroth add_trait=chaste add_trait=humble 
+	add_trait=greedy add_trait=quick 
+	father=1019929130	#Cayo
+	880.11.8={ birth=yes }
+	947.5.26={ death=yes }
+}
+1019929140={
+	name=Luyes
+	dynasty=1009990259
+	dna="mpjhieokhej"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=8 learning=6
+	add_trait=elusive_shadow add_trait=envious add_trait=zealous add_trait=gluttonous add_trait=chaste 
+	add_trait=paranoid 
+	father=1019929133	#Sopa
+	879.8.4={ birth=yes }
+	932.12.5={ death=yes }
+}
+1019929141={
+	name=Kantuta
+	female=yes
+	dynasty=1009990259
+	dna="fbjnfhokfbg"
+	culture=quechua religion=chavin_pagan
+	father=1019929133	#Sopa
+	882.9.24={ birth=yes }
+	966.10.29={ death=yes }
+}
+1019929142={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990259
+	dna="okjhanmbnkj"
+	culture=quechua religion=chavin_pagan
+	father=1019929133	#Sopa
+	888.9.5={ birth=yes }
+	957.12.3={ death=yes }
+}
+1019929143={
+	name=Cápac
+	dynasty=1009990259
+	dna="mpjkkknkgbg"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=7 learning=8
+	add_trait=elusive_shadow add_trait=just add_trait=content add_trait=greedy 
+	add_trait=lustful add_trait=ill 
+	father=1019929133	#Sopa
+	893.4.3={ birth=yes }
+	977.6.10={ death=yes }
+}
+1019929144={
+	name=Titu
+	dynasty=1009990259
+	dna="bhchkknkiab"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=patient 
+	father=1019929133	#Sopa
+	899.7.22={ birth=yes }
+	959.9.11={ death=yes }
+}
+1019929145={
+	name=Cuyuchi
+	dynasty=1009990259
+	dna="mpcjiekohii"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	add_trait=indulgent_wastrel add_trait=envious add_trait=craven 
+	father=1019929140	#Luyes
+	905.5.9={ birth=yes }
+	1009.7.25={ death=yes }
+}
+1019929146={
+	name=Zambiza
+	dynasty=1009990259
+	dna="mkkneeolibd"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=7 learning=8
+	add_trait=charismatic_negotiator add_trait=wroth add_trait=arbitrary 
+	father=1019929140	#Luyes
+	909.7.10={ birth=yes }
+	966.7.25={ death=yes }
+}
+1019929147={
+	name=Topa
+	dynasty=1009990259
+	dna="mpjbkjokjlj"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=slothful add_trait=wroth add_trait=paranoid 
+	add_trait=lustful add_trait=zealous 
+	father=1019929140	#Luyes
+	916.4.27={ birth=yes }
+	988.3.12={ death=yes }
+}
+1019929148={
+	name=Maiara
+	female=yes
+	dynasty=1009990259
+	dna="cphhceogcin"
+	culture=quechua religion=chavin_pagan
+	father=1019929140	#Luyes
+	920.1.7={ birth=yes }
+	989.1.2={ death=yes }
+}
+1019929149={
+	name=Orco
+	dynasty=1009990259
+	dna="lpcjilkohmi"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=4 learning=6
+	add_trait=intricate_webweaver add_trait=humble add_trait=diligent add_trait=temperate add_trait=ambitious 
+	add_trait=cynical 
+	father=1019929145	#Cuyuchi
+	927.3.9={ birth=yes }
+	1002.12.5={ death=yes }
+}
+1019929150={
+	name=Nina
+	female=yes
+	dynasty=1009990259
+	dna="macjodlpgdk"
+	culture=quechua religion=chavin_pagan
+	father=1019929145	#Cuyuchi
+	934.7.21={ birth=yes }
+	996.2.12={ death=yes }
+}
+1019929151={
+	name=Kantuta
+	female=yes
+	dynasty=1009990259
+	dna="hbcjidkgndi"
+	culture=quechua religion=chavin_pagan
+	father=1019929145	#Cuyuchi
+	938.5.2={ birth=yes }
+	1019.8.10={ death=yes }
+}
+1019929152={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990259
+	dna="mgkjakkdgha"
+	culture=quechua religion=chavin_pagan
+	father=1019929145	#Cuyuchi
+	942.11.21={ birth=yes }
+	1017.10.9={ death=yes }
+}
+1019929153={
+	name=Anquimarca
+	dynasty=1009990259
+	dna="ejodcdhkhgi"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=gregarious add_trait=slothful add_trait=cynical 
+	add_trait=chaste 
+	father=1019929145	#Cuyuchi
+	945.1.2={ birth=yes }
+	998.6.18={ death=yes }
+}
+1019929154={
+	name=Kantuta
+	female=yes
+	dynasty=1009990259
+	dna="mekjdkpochi"
+	culture=quechua religion=chavin_pagan
+	father=1019929145	#Cuyuchi
+	951.5.19={ birth=yes }
+	1036.3.3={ death=yes }
+}
+1019929155={
+	name=Axomamma
+	female=yes
+	dynasty=1009990259
+	dna="dpccledohpi"
+	culture=quechua religion=chavin_pagan
+	father=1019929145	#Cuyuchi
+	955.12.17={ birth=yes }
+	999.12.14={ death=yes }
+}
+1019929156={
+	name=Yupanqui
+	dynasty=1009990259
+	dna="ccjjglkneaj"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=8
+	add_trait=detached_priest add_trait=gregarious add_trait=diligent add_trait=proud 
+	add_trait=temperate add_trait=drunkard add_trait=possessed 
+	father=1019929149	#Orco
+	949.3.10={ birth=yes }
+	1045.4.13={ death=yes }
+}
+1019929157={
+	name=Yahuar
+	dynasty=1009990259
+	dna="kpfjclaohof"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=zealous add_trait=wroth add_trait=slothful 
+	father=1019929149	#Orco
+	954.1.4={ birth=yes }
+	1035.10.11={ death=yes }
+}
+1019929158={
+	name=Maiara
+	female=yes
+	dynasty=1009990259
+	dna="lphhilkpnbp"
+	culture=quechua religion=chavin_pagan
+	father=1019929149	#Orco
+	957.4.25={ birth=yes }
+	1011.1.24={ death=yes }
+}
+1019929159={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990259
+	dna="hpljigimmol"
+	culture=quechua religion=chavin_pagan
+	father=1019929149	#Orco
+	960.2.12={ birth=yes }
+	1043.6.29={ death=yes }
+}
+1019929160={
+	name=Orco
+	dynasty=1009990259
+	dna="kppgilkapmk"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=8 learning=8
+	add_trait=indulgent_wastrel  add_trait=ambitious add_trait=wroth add_trait=chaste 
+	father=1019929149	#Orco
+	966.8.25={ birth=yes }
+	1032.5.27={ death=yes }
+}
+1019929161={
+	name=Maiara
+	female=yes
+	dynasty=1009990259
+	dna="mhcgibkfhmi"
+	culture=quechua religion=chavin_pagan
+	father=1019929149	#Orco
+	970.3.4={ birth=yes }
+	1054.7.21={ death=yes }
+}
+1019929162={
+	name=Nina
+	female=yes
+	dynasty=1009990259
+	dna="bpkjibnohea"
+	culture=quechua religion=chavin_pagan
+	father=1019929149	#Orco
+	974.5.22={ birth=yes }
+	1041.12.18={ death=yes }
+}
+1019929163={
+	name=Inca
+	dynasty=1009990259
+	dna="cjjglcknepj"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=trusting add_trait=humble add_trait=gluttonous 
+	father=1019929156	#Yupanqui
+	970.6.12={ birth=yes }
+	1046.10.1={ death=yes }
+}
+1019929164={
+	name=Topa
+	dynasty=1009990259
+	dna="jdjjploledj"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=cynical add_trait=content add_trait=proud 
+	add_trait=slothful 
+	father=1019929156	#Yupanqui
+	974.4.10={ birth=yes }
+	1033.5.8={ death=yes }
+}
+1019929165={
+	name=Viracocha
+	dynasty=1009990259
+	dna="cgijfdkncaf"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=ambitious add_trait=wroth add_trait=gregarious add_trait=lustful 
+	add_trait=paranoid 
+	father=1019929156	#Yupanqui
+	978.9.5={ birth=yes }
+	1035.10.28={ death=yes }
+}
+1019929166={
+	name=Maiara
+	female=yes
+	dynasty=1009990259
+	dna="cdjjgjmnjgj"
+	culture=quechua religion=chavin_pagan
+	father=1019929156	#Yupanqui
+	984.3.18={ birth=yes }
+	1059.6.7={ death=yes }
+}
+1019929167={
+	name=Ruminavi
+	dynasty=1009990259
+	dna="jljkebkckaj"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	add_trait=skilled_tactician add_trait=zealous add_trait=just add_trait=lustful 
+	father=1019929156	#Yupanqui
+	990.12.18={ birth=yes }
+	1046.9.28={ death=yes }
+}
+1019929168={
+	name=Maiara
+	female=yes
+	dynasty=1009990259
+	dna="ecljhlcmeaf"
+	culture=quechua religion=chavin_pagan
+	father=1019929156	#Yupanqui
+	994.9.2={ birth=yes }
+	1050.1.11={ death=yes }
+}
+1019929169={
+	name=Surandaman
+	dynasty=1009990259
+	dna="cnjlgbkhdaj"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=shy add_trait=craven add_trait=trusting 
+	add_trait=diligent add_trait=lisp 
+	father=1019929156	#Yupanqui
+	998.9.27={ birth=yes }
+	1057.2.11={ death=yes }
+}
+1019929170={
+	name=Axomamma
+	female=yes
+	dynasty=1009990259
+	dna="ckollchnenj"
+	culture=quechua religion=chavin_pagan
+	father=1019929163	#Inca
+	995.10.20={ birth=yes }
+	1063.7.3={ death=yes }
+}
+1019929171={
+	name=Ana
+	female=yes
+	dynasty=1009990259
+	dna="cjnmkkkkepj"
+	culture=quechua religion=chavin_pagan
+	father=1019929163	#Inca
+	1002.5.1={ birth=yes }
+	1047.1.12={ death=yes }
+}
+1019929172={
+	name=Pachacútec
+	dynasty=1009990259
+	dna="gjhgackfpnj"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	add_trait=mastermind_theologian add_trait=gluttonous add_trait=honest add_trait=shy add_trait=content 
+	add_trait=greedy add_trait=envious 
+	father=1019929163	#Inca
+	1006.9.20={ birth=yes }
+	1076.11.15={ death=yes }
+}
+1019929173={
+	name=Kantuta
+	female=yes
+	dynasty=1009990259
+	dna="ajjglcknepb"
+	culture=quechua religion=chavin_pagan
+	father=1019929163	#Inca
+	1012.3.19={ birth=yes }
+	1068.1.28={ death=yes }
+}
+1019929174={
+	name=Taraque
+	dynasty=1009990259
+	dna="jhfaackfpje"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=content add_trait=charitable add_trait=drunkard 
+	father=1019929172	#Pachacútec
+	1038.1.15={ birth=yes }
+	1100.2.9={ death=yes }
+}
+1019929175={
+	name=Ana
+	female=yes
+	dynasty=1009990259
+	dna="bphfaipbfnk"
+	culture=quechua religion=chavin_pagan
+	father=1019929172	#Pachacútec
+	1041.12.19={ birth=yes }
+	1108.11.6={ death=yes }
+}
+1019929176={
+	name=Mayta
+	dynasty=1009990259
+	dna="kjdjndkbinj"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	add_trait=mastermind_theologian add_trait=charitable add_trait=slothful add_trait=honest 
+	father=1019929172	#Pachacútec
+	1045.6.6={ birth=yes }
+	1088.3.7={ death=yes }
+}
+1019929177={
+	name=Hacuac
+	dynasty=1009990259
+	dna="enhbaaknpfi"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=5 learning=5
+	add_trait=scholarly_theologian add_trait=honest add_trait=slothful add_trait=arbitrary add_trait=craven 
+	father=1019929172	#Pachacútec
+	1050.7.13={ birth=yes }
+	1117.9.22={ death=yes }
+}
+1019929178={
+	name=Pomaguala
+	dynasty=1009990259
+	dna="jiipjckfgle"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=6 learning=5
+	add_trait=tough_soldier add_trait=ambitious add_trait=just add_trait=cynical add_trait=greedy 
+	add_trait=lustful 
+	father=1019929174	#Taraque
+	1066.1.25={ birth=yes }
+	1139.12.14={ death=yes }
+}
+1019929179={
+	name=Huaypalcon
+	dynasty=1009990259
+	dna="ehfacakepge"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	add_trait=grey_eminence add_trait=proud add_trait=lustful add_trait=patient 
+	add_trait=stressed 
+	father=1019929174	#Taraque
+	1073.11.6={ birth=yes }
+	1141.2.28={ death=yes }
+}
+1019929180={
+	name=Yupanqui
+	dynasty=1009990259
+	dna="jegnajgapje"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	add_trait=misguided_warrior add_trait=lustful add_trait=shy add_trait=arbitrary 
+	father=1019929174	#Taraque
+	1078.1.18={ birth=yes }
+	1161.8.30={ death=yes }
+}
+1019929181={
+	name=Axomamma
+	female=yes
+	dynasty=1009990259
+	dna="dhbnaanonjc"
+	culture=quechua religion=chavin_pagan
+	father=1019929174	#Taraque
+	1082.7.9={ birth=yes }
+	1157.5.6={ death=yes }
+}
+1019929182={
+	name=Axomamma
+	female=yes
+	dynasty=1009990259
+	dna="ihipbcpmklp"
+	culture=quechua religion=chavin_pagan
+	father=1019929178	#Pomaguala
+	1090.7.25={ birth=yes }
+	1157.12.22={ death=yes }
+}
+1019929183={
+	name=Nina
+	female=yes
+	dynasty=1009990259
+	dna="jbipjcbakle"
+	culture=quechua religion=chavin_pagan
+	father=1019929178	#Pomaguala
+	1093.5.26={ birth=yes }
+	1160.10.3={ death=yes }
+}
+1019929184={
+	name=Pachacútec
+	dynasty=1009990259
+	dna="jdcpgcinele"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=8
+	add_trait=detached_priest add_trait=celibate add_trait=patient add_trait=chaste add_trait=trusting 
+	father=1019929178	#Pomaguala
+	1098.5.7={ birth=yes }
+	1152.2.19={ death=yes }
+}
+1019929185={
+	name=Topa
+	dynasty=1009990259
+	dna="eoddgdncgle"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=7 learning=7
+	add_trait=misguided_warrior add_trait=gregarious add_trait=content add_trait=craven add_trait=humble 
+	add_trait=paranoid 
+	father=1019929184	#Pachacútec
+	1119.12.13={ birth=yes }
+	1186.5.9={ death=yes }
+}
+1019929186={
+	name=Surandaman
+	dynasty=1009990259
+	dna="kdcpgcdeede"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=6 learning=4
+	add_trait=naive_appeaser add_trait=cynical add_trait=honest add_trait=diligent add_trait=charitable 
+	father=1019929184	#Pachacútec
+	1125.11.21={ birth=yes }
+	1210.10.26={ death=yes }
+}
+1019929187={
+	name=Surandaman
+	dynasty=1009990259
+	dna="ndcpgcinelm"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	add_trait=grey_eminence add_trait=craven add_trait=zealous add_trait=deceitful add_trait=temperate 
+	father=1019929184	#Pachacútec
+	1131.9.22={ birth=yes }
+	1216.6.16={ death=yes }
+}
+1019929188={
+	name=Villac
+	dynasty=1009990259
+	dna="jecpgaibplj"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=5
+	add_trait=elusive_shadow  add_trait=proud add_trait=brave add_trait=shy 
+	add_trait=gluttonous 
+	father=1019929184	#Pachacútec
+	1136.11.19={ birth=yes }
+	1201.9.1={ death=yes }
+}
+1019929189={
+	name=Tucuycuyche
+	dynasty=1009990259
+	dna="eodngdjfgle"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=slothful add_trait=zealous  
+	father=1019929185	#Topa
+	1152.8.6={ birth=yes }
+	1220.1.19={ death=yes }
+}
+1019929190={
+	name=Nina
+	female=yes
+	dynasty=1009990259
+	dna="eeddoakcgip"
+	culture=quechua religion=chavin_pagan
+	father=1019929185	#Topa
+	1157.1.1={ birth=yes }
+	1212.4.30={ death=yes }
+}
+1019929191={
+	name=Surandaman
+	dynasty=1009990259
+	dna="lcengdjcghe"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	add_trait=elusive_shadow add_trait=lustful add_trait=trusting add_trait=zealous 
+	add_trait=diligent 
+	father=1019929189	#Tucuycuyche
+	1178.2.4={ birth=yes }
+	1231.1.20={ death=yes }
+}
+1019929192={
+	name=Axomamma
+	female=yes
+	dynasty=1009990259
+	dna="dodoepjggle"
+	culture=quechua religion=chavin_pagan
+	father=1019929189	#Tucuycuyche
+	1180.12.27={ birth=yes }
+	1241.12.15={ death=yes }
+}
+1019929193={
+	name=Nina
+	female=yes
+	dynasty=1009990259
+	dna="eodnofjfelc"
+	culture=quechua religion=chavin_pagan
+	father=1019929189	#Tucuycuyche
+	1186.8.4={ birth=yes }
+	1249.5.22={ death=yes }
+}
+1019929194={
+	name=Ruminavi
+	dynasty=1009990259
+	dna="mcinnnjcdhe"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=5 learning=7
+	add_trait=indulgent_wastrel add_trait=charitable add_trait=lustful 
+	father=1019929191	#Surandaman
+	1203.2.27={ birth=yes }
+	1295.3.2={ death=yes }
+}
+1019929195={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990259
+	dna="ljonidbkghe"
+	culture=quechua religion=chavin_pagan
+	father=1019929191	#Surandaman
+	1209.3.26={ birth=yes }
+	1245.7.31={ death=yes }
+}
+1019929196={
+	name=Villac
+	dynasty=1009990259
+	dna="lcoahdpcioo"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=greedy add_trait=zealous add_trait=envious add_trait=depressed 
+	father=1019929191	#Surandaman
+	1216.9.10={ birth=yes }
+	1284.9.5={ death=yes }
+}
+1019929197={
+	name=Axomamma
+	female=yes
+	dynasty=1009990259
+	dna="lceigljaghe"
+	culture=quechua religion=chavin_pagan
+	father=1019929191	#Surandaman
+	1220.9.3={ birth=yes }
+	1316.2.10={ death=yes }
+}
+1019929198={
+	name=Orco
+	dynasty=1009990259
+	dna="dgkfanjlkke"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	add_trait=grey_eminence add_trait=hunter add_trait=paranoid  add_trait=cynical 
+	add_trait=brave add_trait=gregarious add_trait=content 
+	father=1019929194	#Ruminavi
+	1233.9.21={ birth=yes }
+	1303.3.19={ death=yes }
+}
+1019929199={
+	name=Nina
+	female=yes
+	dynasty=1009990259
+	dna="mcionnjadle"
+	culture=quechua religion=chavin_pagan
+	father=1019929194	#Ruminavi
+	1236.12.2={ birth=yes }
+	1317.4.22={ death=yes }
+}
+1019929200={
+	name=Nina
+	female=yes
+	dynasty=1009990259
+	dna="mbaneajclhg"
+	culture=quechua religion=chavin_pagan
+	father=1019929194	#Ruminavi
+	1242.11.20={ birth=yes }
+	1281.10.21={ death=yes }
+}
+1019929201={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990259
+	dna="mcindnjckij"
+	culture=quechua religion=chavin_pagan
+	father=1019929194	#Ruminavi
+	1245.10.27={ birth=yes }
+	1300.8.3={ death=yes }
+}
+1019929202={
+	name=Huayna
+	dynasty=1009990259
+	dna="mcinanfnbae"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=6
+	add_trait=intricate_webweaver add_trait=gluttonous add_trait=chaste add_trait=humble add_trait=shy 
+	father=1019929194	#Ruminavi
+	1250.4.24={ birth=yes }
+	1351.3.8={ death=yes }
+}
+1019929203={
+	name=Pachacútec
+	dynasty=1009990259
+	dna="ijkabnlblbe"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	add_trait=skilled_tactician add_trait=celibate add_trait=arbitrary add_trait=slothful add_trait=gluttonous 
+	add_trait=harelip 
+	father=1019929198	#Orco
+	1264.9.13={ birth=yes }
+	1336.10.23={ death=yes }
+}
+1019929204={
+	name=Villac
+	dynasty=1009990259
+	dna="dgfnonjlhke"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=5
+	add_trait=elusive_shadow add_trait=patient add_trait=zealous 
+	father=1019929198	#Orco
+	1269.5.5={ birth=yes }
+	1321.9.24={ death=yes }
+}
+1019929205={
+	name=Ninan
+	dynasty=1009990259
+	dna="ejgigfcblle"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=humble add_trait=envious add_trait=cynical add_trait=slothful 
+	father=1019929203	#Pachacútec
+	1290.2.9={ birth=yes }
+	1342.8.12={ death=yes }
+}
+1019929206={
+	name=Nina
+	female=yes
+	dynasty=1009990259
+	dna="ijkabnhbice"
+	culture=quechua religion=chavin_pagan
+	father=1019929203	#Pachacútec
+	1296.1.18={ birth=yes }
+	1369.11.27={ death=yes }
+}
+1019929207={
+	name=Maiara
+	female=yes
+	dynasty=1009990259
+	dna="ipgabbjiloe"
+	culture=quechua religion=chavin_pagan
+	father=1019929203	#Pachacútec
+	1301.3.2={ birth=yes }
+	1366.4.14={ death=yes }
+}
+1019929208={
+	name=Varanca
+	dynasty=1009990259
+	dna="fjgigfeblle"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=5 learning=7
+	add_trait=grey_eminence  add_trait=craven add_trait=paranoid 
+	father=1019929205	#Ninan
+	1313.10.12={ birth=yes }
+	1358.10.16={ death=yes }
+}
+1019929209={
+	name=Sopa
+	dynasty=1009990259
+	dna="edgkpfcbppe"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=chaste add_trait=honest add_trait=content  
+	father=1019929205	#Ninan
+	1319.3.24={ birth=yes }
+	1392.1.4={ death=yes }
+}
+1019929210={
+	name=Orco
+	dynasty=1009990259
+	dna="ejdmlkcblpe"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=8 learning=4
+	add_trait=scholarly_theologian add_trait=wroth add_trait=just add_trait=charitable 
+	add_trait=trusting 
+	father=1019929205	#Ninan
+	1325.12.27={ birth=yes }
+	1405.3.11={ death=yes }
+}
+1019929211={
+	name=Pascac
+	dynasty=1009990259
+	dna="jjkigfchice"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=5
+	add_trait=thrifty_clerk add_trait=shy add_trait=arbitrary add_trait=patient add_trait=diligent 
+	add_trait=proud add_trait=greedy 
+	father=1019929205	#Ninan
+	1328.12.24={ birth=yes }
+	1404.6.5={ death=yes }
+}
+1019929212={
+	name=Maiara
+	female=yes
+	dynasty=1009990259
+	dna="iaomkfeblod"
+	culture=quechua religion=chavin_pagan
+	father=1019929205	#Ninan
+	1333.4.16={ birth=yes }
+	1402.5.9={ death=yes }
+}
+1019929213={
+	name=Titu
+	dynasty=1009990259
+	dna="kegilfeblee"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=proud add_trait=shy add_trait=ugly 
+	father=1019929208	#Varanca
+	1345.4.24={ birth=yes }
+	1414.12.11={ death=yes }
+}
+1019929214={
+	name=Zopahua
+	dynasty=1009990259
+	dna="ijgihnebjle"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=temperate add_trait=brave add_trait=just add_trait=chaste 
+	add_trait=slothful 
+	father=1019929208	#Varanca
+	1347.10.15={ birth=yes }
+	1421.5.8={ death=yes }
+}
+1019929215={
+	name=Huayna
+	dynasty=1009990259
+	dna="cloighebmne"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=8 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=arbitrary add_trait=trusting add_trait=craven 
+	father=1019929208	#Varanca
+	1354.8.8={ birth=yes }
+	1434.1.1={ death=yes }
+}
+1019929216={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990259
+	dna="ganidfadmle"
+	culture=quechua religion=chavin_pagan
+	father=1019929208	#Varanca
+	1360.7.24={ birth=yes }
+	1444.1.21={ death=yes }
+}
+1019929217={
+	name=Topa
+	dynasty=1009990259
+	dna="kbgecfeblim"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=5 learning=7
+	add_trait=martial_cleric add_trait=trusting add_trait=gregarious 
+	father=1019929213	#Titu
+	1376.12.19={ birth=yes }
+	1434.6.28={ death=yes }
+}
+1019929218={
+	name=Atoc
+	dynasty=1009990259
+	dna="kegiooakhbi"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=7 learning=6
+	add_trait=misguided_warrior add_trait=envious add_trait=diligent add_trait=zealous 
+	add_trait=wroth 
+	father=1019929213	#Titu
+	1379.9.2={ birth=yes }
+	1449.5.23={ death=yes }
+}
+1019929219={
+	name=Cuyuchi
+	dynasty=1009990260
+	dna="djgjfnkmklp"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=6 learning=6
+	add_trait=martial_cleric add_trait=lustful add_trait=proud add_trait=envious add_trait=craven 
+	add_trait=drunkard 
+	719.5.12={ birth=yes }
+	774.8.22={ death=yes }
+}
+1019929220={
+	name=Cápac
+	dynasty=1009990260
+	dna="djhphnkfklp"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=cynical add_trait=shy  add_trait=lustful 
+	father=1019929219	#Cuyuchi
+	749.11.23={ birth=yes }
+	831.6.26={ death=yes }
+}
+1019929221={
+	name=Orco
+	dynasty=1009990260
+	dna="djgjgnkpeip"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=impaler add_trait=content add_trait=zealous add_trait=chaste 
+	father=1019929219	#Cuyuchi
+	755.10.18={ birth=yes }
+	833.4.13={ death=yes }
+}
+1019929222={
+	name=Nina
+	female=yes
+	dynasty=1009990260
+	dna="fdmbfoklbnp"
+	culture=quechua religion=chavin_pagan
+	father=1019929219	#Cuyuchi
+	762.6.7={ birth=yes }
+	819.4.20={ death=yes }
+}
+1019929223={
+	name=Pomaguala
+	dynasty=1009990260
+	dna="djhbgnkfkgp"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=hedonist add_trait=zealous add_trait=proud add_trait=wroth 
+	add_trait=chaste add_trait=drunkard 
+	father=1019929220	#Cápac
+	777.6.21={ birth=yes }
+	846.12.20={ death=yes }
+}
+1019929224={
+	name=Yahuar
+	dynasty=1009990260
+	dna="djhphnakgnp"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=mystic add_trait=arbitrary  add_trait=gluttonous 
+	add_trait=ambitious add_trait=patient 
+	father=1019929220	#Cápac
+	781.10.16={ birth=yes }
+	838.10.17={ death=yes }
+}
+1019929225={
+	name=Marcavilca
+	dynasty=1009990260
+	dna="ababoglfknp"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=6 learning=4
+	add_trait=grey_eminence add_trait=hedonist add_trait=paranoid add_trait=craven add_trait=temperate 
+	add_trait=proud 
+	father=1019929223	#Pomaguala
+	804.12.25={ birth=yes }
+	867.11.9={ death=yes }
+}
+1019929226={
+	name=Tucuycuyche
+	dynasty=1009990260
+	dna="pabngpjfokp"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=humble add_trait=shy add_trait=deceitful 
+	father=1019929223	#Pomaguala
+	811.9.7={ birth=yes }
+	895.8.11={ death=yes }
+}
+1019929227={
+	name=Pascac
+	dynasty=1009990260
+	dna="ajobgokfkjn"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=greedy add_trait=temperate add_trait=gregarious 
+	father=1019929223	#Pomaguala
+	815.10.4={ birth=yes }
+	901.2.27={ death=yes }
+}
+1019929228={
+	name=Axomamma
+	female=yes
+	dynasty=1009990260
+	dna="gnablmbdkdi"
+	culture=quechua religion=chavin_pagan
+	father=1019929225	#Marcavilca
+	828.7.3={ birth=yes }
+	914.3.15={ death=yes }
+}
+1019929229={
+	name=Guaritopa
+	dynasty=1009990260
+	dna="lbaenddfjcp"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=cynical add_trait=diligent add_trait=gregarious 
+	father=1019929225	#Marcavilca
+	832.10.2={ birth=yes }
+	917.8.29={ death=yes }
+}
+1019929230={
+	name=Axomamma
+	female=yes
+	dynasty=1009990260
+	dna="ajafggjfafp"
+	culture=quechua religion=chavin_pagan
+	father=1019929225	#Marcavilca
+	836.5.8={ birth=yes }
+	907.3.16={ death=yes }
+}
+1019929231={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="abmbjhkmgnp"
+	culture=quechua religion=chavin_pagan
+	father=1019929225	#Marcavilca
+	840.5.15={ birth=yes }
+	897.1.6={ death=yes }
+}
+1019929232={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="clalofpfjng"
+	culture=quechua religion=chavin_pagan
+	father=1019929225	#Marcavilca
+	844.3.3={ birth=yes }
+	908.3.11={ death=yes }
+}
+1019929233={
+	name=Ana
+	female=yes
+	dynasty=1009990260
+	dna="emomnglikcn"
+	culture=quechua religion=chavin_pagan
+	father=1019929225	#Marcavilca
+	849.12.11={ birth=yes }
+	925.4.1={ death=yes }
+}
+1019929234={
+	name=Pomaguala
+	dynasty=1009990260
+	dna="bnelokpfone"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=charitable add_trait=trusting add_trait=arbitrary 
+	add_trait=possessed 
+	father=1019929225	#Marcavilca
+	854.10.12={ birth=yes }
+	903.6.4={ death=yes }
+}
+1019929235={
+	name=Ana
+	female=yes
+	dynasty=1009990260
+	dna="lbajbddflcp"
+	culture=quechua religion=chavin_pagan
+	father=1019929229	#Guaritopa
+	859.8.22={ birth=yes }
+	915.10.25={ death=yes }
+}
+1019929236={
+	name=Zopahua
+	dynasty=1009990260
+	dna="lbmenddajce"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=8
+	add_trait=misguided_warrior add_trait=chaste add_trait=humble add_trait=diligent add_trait=shy 
+	father=1019929229	#Guaritopa
+	865.6.15={ birth=yes }
+	918.9.2={ death=yes }
+}
+1019929237={
+	name=Maiara
+	female=yes
+	dynasty=1009990260
+	dna="lbaenidfenp"
+	culture=quechua religion=chavin_pagan
+	father=1019929229	#Guaritopa
+	869.5.11={ birth=yes }
+	927.10.26={ death=yes }
+}
+1019929238={
+	name=Maiara
+	female=yes
+	dynasty=1009990260
+	dna="lbbghdncncm"
+	culture=quechua religion=chavin_pagan
+	father=1019929229	#Guaritopa
+	872.3.26={ birth=yes }
+	949.9.30={ death=yes }
+}
+1019929239={
+	name=Titu
+	dynasty=1009990260
+	dna="lbafneoffcp"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=gluttonous add_trait=content add_trait=arbitrary 
+	add_trait=envious 
+	father=1019929229	#Guaritopa
+	877.5.9={ birth=yes }
+	950.6.11={ death=yes }
+}
+1019929240={
+	name=Topa
+	dynasty=1009990260
+	dna="lpnendkccjb"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=shy add_trait=charitable add_trait=wroth 
+	father=1019929229	#Guaritopa
+	881.3.12={ birth=yes }
+	961.2.14={ death=yes }
+}
+1019929241={
+	name=Yamqui
+	dynasty=1009990260
+	dna="baaenddajce"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=shy  add_trait=content 
+	father=1019929236	#Zopahua
+	887.3.26={ birth=yes }
+	946.8.22={ death=yes }
+}
+1019929242={
+	name=Tucuycuyche
+	dynasty=1009990260
+	dna="lelenaiajhe"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=4 learning=8
+	add_trait=martial_cleric add_trait=shy 
+	father=1019929236	#Zopahua
+	890.9.18={ birth=yes }
+	949.7.23={ death=yes }
+}
+1019929243={
+	name=Marcavilca
+	dynasty=1009990260
+	dna="lbmefjljdel"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=scholar add_trait=honest add_trait=wroth add_trait=content 
+	father=1019929236	#Zopahua
+	893.11.14={ birth=yes }
+	946.12.27={ death=yes }
+}
+1019929244={
+	name=Túpac
+	dynasty=1009990260
+	dna="aaaebdbajja"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	add_trait=midas_touched add_trait=arbitrary add_trait=diligent add_trait=ambitious 
+	father=1019929241	#Yamqui
+	917.9.11={ birth=yes }
+	970.10.5={ death=yes }
+}
+1019929245={
+	name=Kantuta
+	female=yes
+	dynasty=1009990260
+	dna="bmababdpelj"
+	culture=quechua religion=chavin_pagan
+	father=1019929241	#Yamqui
+	923.8.20={ birth=yes }
+	1005.4.10={ death=yes }
+}
+1019929246={
+	name=Nina
+	female=yes
+	dynasty=1009990260
+	dna="bkgenadajcm"
+	culture=quechua religion=chavin_pagan
+	father=1019929241	#Yamqui
+	927.6.23={ birth=yes }
+	991.7.4={ death=yes }
+}
+1019929247={
+	name=Curiatao
+	dynasty=1009990260
+	dna="gngebfpfjca"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=8 learning=6
+	add_trait=indulgent_wastrel add_trait=envious 
+	father=1019929244	#Túpac
+	942.1.14={ birth=yes }
+	1024.11.3={ death=yes }
+}
+1019929248={
+	name=Nina
+	female=yes
+	dynasty=1009990260
+	dna="aljekchapha"
+	culture=quechua religion=chavin_pagan
+	father=1019929244	#Túpac
+	948.12.11={ birth=yes }
+	1008.9.18={ death=yes }
+}
+1019929249={
+	name=Curiatao
+	dynasty=1009990260
+	dna="badebmbehja"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=7 learning=6
+	add_trait=charismatic_negotiator add_trait=slothful add_trait=brave add_trait=zealous add_trait=ambitious 
+	
+	father=1019929244	#Túpac
+	952.8.24={ birth=yes }
+	1009.5.4={ death=yes }
+}
+1019929250={
+	name=Usca
+	dynasty=1009990260
+	dna="aaaebcbahjp"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	add_trait=intricate_webweaver add_trait=diligent add_trait=envious add_trait=trusting 
+	father=1019929244	#Túpac
+	956.6.16={ birth=yes }
+	1034.3.4={ death=yes }
+}
+1019929251={
+	name=Sayri
+	dynasty=1009990260
+	dna="hbagoabajha"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=content add_trait=brave  add_trait=paranoid 
+	add_trait=charitable 
+	father=1019929244	#Túpac
+	961.7.16={ birth=yes }
+	1041.9.19={ death=yes }
+}
+1019929252={
+	name=Axomamma
+	female=yes
+	dynasty=1009990260
+	dna="oaaedajbjjk"
+	culture=quechua religion=chavin_pagan
+	father=1019929244	#Túpac
+	966.2.10={ birth=yes }
+	1029.3.9={ death=yes }
+}
+1019929253={
+	name=Axomamma
+	female=yes
+	dynasty=1009990260
+	dna="iaaebdijfjh"
+	culture=quechua religion=chavin_pagan
+	father=1019929244	#Túpac
+	969.2.10={ birth=yes }
+	1016.6.30={ death=yes }
+}
+1019929254={
+	name=Sayri
+	dynasty=1009990260
+	dna="gnlebfhjjca"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=5
+	add_trait=intricate_webweaver add_trait=lustful add_trait=cynical add_trait=honest add_trait=temperate 
+	add_trait=just 
+	father=1019929247	#Curiatao
+	963.6.7={ birth=yes }
+	1028.3.23={ death=yes }
+}
+1019929255={
+	name=Kantuta
+	female=yes
+	dynasty=1009990260
+	dna="onmcbadfjcl"
+	culture=quechua religion=chavin_pagan
+	father=1019929247	#Curiatao
+	969.9.19={ birth=yes }
+	1049.4.25={ death=yes }
+}
+1019929256={
+	name=Huachuri
+	dynasty=1009990260
+	dna="gjgpbopjjja"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=trusting add_trait=zealous add_trait=lustful add_trait=diligent 
+	add_trait=wroth 
+	father=1019929247	#Curiatao
+	974.2.22={ birth=yes }
+	1055.11.20={ death=yes }
+}
+1019929257={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="gngebfphnoh"
+	culture=quechua religion=chavin_pagan
+	father=1019929247	#Curiatao
+	981.6.25={ birth=yes }
+	1071.8.21={ death=yes }
+}
+1019929258={
+	name=Nina
+	female=yes
+	dynasty=1009990260
+	dna="kfpgalljjka"
+	culture=quechua religion=chavin_pagan
+	father=1019929254	#Sayri
+	991.10.21={ birth=yes }
+	1068.11.11={ death=yes }
+}
+1019929259={
+	name=Maiara
+	female=yes
+	dynasty=1009990260
+	dna="gplgofaijfh"
+	culture=quechua religion=chavin_pagan
+	father=1019929254	#Sayri
+	995.6.12={ birth=yes }
+	1049.3.28={ death=yes }
+}
+1019929260={
+	name=Ana
+	female=yes
+	dynasty=1009990260
+	dna="gnlekffeiga"
+	culture=quechua religion=chavin_pagan
+	father=1019929254	#Sayri
+	998.12.10={ birth=yes }
+	1088.7.14={ death=yes }
+}
+1019929261={
+	name=Atahualpa
+	dynasty=1009990260
+	dna="gpaebmfgncp"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=4
+	add_trait=indulgent_wastrel add_trait=wroth add_trait=honest add_trait=trusting 
+	father=1019929254	#Sayri
+	1005.2.18={ birth=yes }
+	1072.1.21={ death=yes }
+}
+1019929262={
+	name=Maiara
+	female=yes
+	dynasty=1009990260
+	dna="gdngbdigncm"
+	culture=quechua religion=chavin_pagan
+	father=1019929261	#Atahualpa
+	1035.12.26={ birth=yes }
+	1122.8.21={ death=yes }
+}
+1019929263={
+	name=Luyes
+	dynasty=1009990260
+	dna="hcejkmfdncp"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=7
+	add_trait=detached_priest add_trait=honest add_trait=trusting add_trait=charitable add_trait=zealous 
+	add_trait=drunkard 
+	father=1019929261	#Atahualpa
+	1041.9.8={ birth=yes }
+	1119.12.18={ death=yes }
+}
+1019929264={
+	name=Quispe
+	dynasty=1009990260
+	dna="aemibmlgnkm"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=wroth add_trait=lustful 
+	father=1019929261	#Atahualpa
+	1048.11.1={ birth=yes }
+	1128.2.4={ death=yes }
+}
+1019929265={
+	name=Maiara
+	female=yes
+	dynasty=1009990260
+	dna="hkepicfhncp"
+	culture=quechua religion=chavin_pagan
+	father=1019929263	#Luyes
+	1065.1.12={ birth=yes }
+	1145.11.9={ death=yes }
+}
+1019929266={
+	name=Topa
+	dynasty=1009990260
+	dna="iijjkggenjb"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=4
+	add_trait=elusive_shadow add_trait=cynical add_trait=trusting add_trait=content 
+	add_trait=proud 
+	father=1019929263	#Luyes
+	1071.2.21={ birth=yes }
+	1151.3.29={ death=yes }
+}
+1019929267={
+	name=Taraque
+	dynasty=1009990260
+	dna="ccejcmfdofp"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	add_trait=indulgent_wastrel add_trait=humble add_trait=paranoid add_trait=just 
+	 add_trait=drunkard 
+	father=1019929263	#Luyes
+	1075.2.22={ birth=yes }
+	1161.4.22={ death=yes }
+}
+1019929268={
+	name=Sahuaraura
+	dynasty=1009990260
+	dna="hcmjkmldnnh"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=8
+	add_trait=charismatic_negotiator add_trait=charitable add_trait=ambitious add_trait=paranoid add_trait=shy 
+	father=1019929263	#Luyes
+	1082.1.8={ birth=yes }
+	1181.7.19={ death=yes }
+}
+1019929269={
+	name=Axomamma
+	female=yes
+	dynasty=1009990260
+	dna="cmephmffkca"
+	culture=quechua religion=chavin_pagan
+	father=1019929263	#Luyes
+	1084.2.24={ birth=yes }
+	1145.5.18={ death=yes }
+}
+1019929270={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="hefakjkdpnd"
+	culture=quechua religion=chavin_pagan
+	father=1019929263	#Luyes
+	1089.8.23={ birth=yes }
+	1150.10.29={ death=yes }
+}
+1019929271={
+	name=Yahuar
+	dynasty=1009990260
+	dna="cijdkggenjb"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=charitable add_trait=honest 
+	father=1019929266	#Topa
+	1092.1.24={ birth=yes }
+	1168.10.3={ death=yes }
+}
+1019929272={
+	name=Huachuri
+	dynasty=1009990260
+	dna="iipjklgefob"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=7 learning=8
+	add_trait=scholarly_theologian add_trait=craven add_trait=arbitrary add_trait=temperate 
+	add_trait=ambitious add_trait=honest add_trait=ill 
+	father=1019929266	#Topa
+	1098.12.23={ birth=yes }
+	1156.4.24={ death=yes }
+}
+1019929273={
+	name=Maiara
+	female=yes
+	dynasty=1009990260
+	dna="iijjaggenjb"
+	culture=quechua religion=chavin_pagan
+	father=1019929266	#Topa
+	1105.6.2={ birth=yes }
+	1181.8.8={ death=yes }
+}
+1019929274={
+	name=Yupanqui
+	dynasty=1009990260
+	dna="migdfegmnji"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	add_trait=intricate_webweaver add_trait=gluttonous  add_trait=chaste add_trait=brave 
+	add_trait=stressed 
+	father=1019929271	#Yahuar
+	1118.1.27={ birth=yes }
+	1207.6.13={ death=yes }
+}
+1019929275={
+	name=Nina
+	female=yes
+	dynasty=1009990260
+	dna="aihdllnmnjb"
+	culture=quechua religion=chavin_pagan
+	father=1019929271	#Yahuar
+	1123.9.10={ birth=yes }
+	1188.10.13={ death=yes }
+}
+1019929276={
+	name=Hacuac
+	dynasty=1009990260
+	dna="ccjdcgceeho"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=4 learning=7
+	add_trait=charismatic_negotiator add_trait=chaste add_trait=diligent add_trait=ambitious 
+	add_trait=proud 
+	father=1019929271	#Yahuar
+	1128.6.22={ birth=yes }
+	1191.12.30={ death=yes }
+}
+1019929277={
+	name=Maiara
+	female=yes
+	dynasty=1009990260
+	dna="ckjdkggbcjb"
+	culture=quechua religion=chavin_pagan
+	father=1019929271	#Yahuar
+	1133.2.27={ birth=yes }
+	1195.5.9={ death=yes }
+}
+1019929278={
+	name=Maiara
+	female=yes
+	dynasty=1009990260
+	dna="cnjcfmdfmnd"
+	culture=quechua religion=chavin_pagan
+	father=1019929271	#Yahuar
+	1137.12.18={ birth=yes }
+	1219.9.9={ death=yes }
+}
+1019929279={
+	name=Ana
+	female=yes
+	dynasty=1009990260
+	dna="iiiekggogjb"
+	culture=quechua religion=chavin_pagan
+	father=1019929271	#Yahuar
+	1141.2.18={ birth=yes }
+	1226.7.14={ death=yes }
+}
+1019929280={
+	name=Axomamma
+	female=yes
+	dynasty=1009990260
+	dna="ingekkgenjb"
+	culture=quechua religion=chavin_pagan
+	father=1019929271	#Yahuar
+	1147.1.16={ birth=yes }
+	1216.1.20={ death=yes }
+}
+1019929281={
+	name=Yupanqui
+	dynasty=1009990260
+	dna="mjgnfjgmnpb"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=just add_trait=charitable add_trait=zealous add_trait=trusting 
+	
+	father=1019929274	#Yupanqui
+	1149.7.18={ birth=yes }
+	1224.3.28={ death=yes }
+}
+1019929282={
+	name=Tupac
+	dynasty=1009990260
+	dna="miaimoodnli"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=8
+	add_trait=tough_soldier  add_trait=honest add_trait=patient 
+	father=1019929274	#Yupanqui
+	1156.9.2={ birth=yes }
+	1228.12.20={ death=yes }
+}
+1019929283={
+	name=Orco
+	dynasty=1009990260
+	dna="migdgegmnkl"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=4 learning=6
+	add_trait=misguided_warrior add_trait=humble add_trait=slothful add_trait=just add_trait=honest 
+	add_trait=craven add_trait=drunkard 
+	father=1019929274	#Yupanqui
+	1160.11.27={ birth=yes }
+	1240.3.29={ death=yes }
+}
+1019929284={
+	name=Manco
+	dynasty=1009990260
+	dna="oigdligfoji"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=zealous add_trait=content 
+	father=1019929274	#Yupanqui
+	1166.12.23={ birth=yes }
+	1222.12.22={ death=yes }
+}
+1019929285={
+	name=Ana
+	female=yes
+	dynasty=1009990260
+	dna="mhgdjdmmfjh"
+	culture=quechua religion=chavin_pagan
+	father=1019929274	#Yupanqui
+	1171.12.8={ birth=yes }
+	1254.12.7={ death=yes }
+}
+1019929286={
+	name=Zambiza
+	dynasty=1009990260
+	dna="fjffnjgpndb"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=4 learning=7
+	add_trait=martial_cleric add_trait=diligent add_trait=cynical add_trait=humble 
+	father=1019929281	#Yupanqui
+	1179.4.11={ birth=yes }
+	1238.2.21={ death=yes }
+}
+1019929287={
+	name=Axomamma
+	female=yes
+	dynasty=1009990260
+	dna="hjlnfjgpnal"
+	culture=quechua religion=chavin_pagan
+	father=1019929281	#Yupanqui
+	1184.7.2={ birth=yes }
+	1245.8.7={ death=yes }
+}
+1019929288={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="bjkhfjomppb"
+	culture=quechua religion=chavin_pagan
+	father=1019929281	#Yupanqui
+	1188.2.5={ birth=yes }
+	1246.5.15={ death=yes }
+}
+1019929289={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="gnahfjgmnmd"
+	culture=quechua religion=chavin_pagan
+	father=1019929281	#Yupanqui
+	1192.12.4={ birth=yes }
+	1254.5.8={ death=yes }
+}
+1019929290={
+	name=Roca
+	dynasty=1009990260
+	dna="abfpbinmgpb"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=7
+	add_trait=grey_eminence add_trait=arbitrary add_trait=slothful add_trait=charitable add_trait=content 
+	add_trait=depressed 
+	father=1019929281	#Yupanqui
+	1196.4.21={ birth=yes }
+	1263.4.3={ death=yes }
+}
+1019929291={
+	name=Hualpa
+	dynasty=1009990260
+	dna="jdlnhpgdcpg"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=7
+	add_trait=intricate_webweaver add_trait=cynical add_trait=content add_trait=deceitful add_trait=lustful 
+	add_trait=envious 
+	father=1019929281	#Yupanqui
+	1200.12.15={ birth=yes }
+	1267.5.30={ death=yes }
+}
+1019929292={
+	name=Nina
+	female=yes
+	dynasty=1009990260
+	dna="mjgobjoabdb"
+	culture=quechua religion=chavin_pagan
+	father=1019929281	#Yupanqui
+	1204.10.10={ birth=yes }
+	1277.7.19={ death=yes }
+}
+1019929293={
+	name=Titu
+	dynasty=1009990260
+	dna="fjffnpggmbo"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=humble add_trait=patient add_trait=greedy 
+	 
+	father=1019929286	#Zambiza
+	1207.5.11={ birth=yes }
+	1280.10.3={ death=yes }
+}
+1019929294={
+	name=Axomamma
+	female=yes
+	dynasty=1009990260
+	dna="fjennjbnabb"
+	culture=quechua religion=chavin_pagan
+	father=1019929286	#Zambiza
+	1212.2.11={ birth=yes }
+	1270.3.12={ death=yes }
+}
+1019929295={
+	name=Zopahua
+	dynasty=1009990260
+	dna="fkifndgpnnb"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=6 learning=7
+	add_trait=detached_priest add_trait=wroth add_trait=shy add_trait=zealous add_trait=lustful 
+	father=1019929286	#Zambiza
+	1216.7.26={ birth=yes }
+	1286.11.12={ death=yes }
+}
+1019929296={
+	name=Axomamma
+	female=yes
+	dynasty=1009990260
+	dna="fhnlcigpeab"
+	culture=quechua religion=chavin_pagan
+	father=1019929286	#Zambiza
+	1219.1.15={ birth=yes }
+	1283.12.26={ death=yes }
+}
+1019929297={
+	name=Cápac
+	dynasty=1009990260
+	dna="dmffnkggddc"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=6
+	add_trait=skilled_tactician add_trait=slothful add_trait=proud add_trait=charitable add_trait=gregarious 
+	father=1019929293	#Titu
+	1234.12.15={ birth=yes }
+	1311.11.30={ death=yes }
+}
+1019929298={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="djefnpggdbd"
+	culture=quechua religion=chavin_pagan
+	father=1019929293	#Titu
+	1239.4.4={ birth=yes }
+	1325.5.14={ death=yes }
+}
+1019929299={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="dfffliggddi"
+	culture=quechua religion=chavin_pagan
+	father=1019929297	#Cápac
+	1266.3.9={ birth=yes }
+	1362.1.18={ death=yes }
+}
+1019929300={
+	name=Huaypalcon
+	dynasty=1009990260
+	dna="dmlndkghlpc"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=7 learning=6
+	add_trait=charismatic_negotiator add_trait=proud add_trait=shy add_trait=brave add_trait=charitable 
+	add_trait=zealous 
+	father=1019929297	#Cápac
+	1271.4.25={ birth=yes }
+	1347.5.18={ death=yes }
+}
+1019929301={
+	name=Sopa
+	dynasty=1009990260
+	dna="kmlfdkgedjj"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=7 learning=5
+	add_trait=thrifty_clerk add_trait=chaste add_trait=deceitful add_trait=possessed 
+	father=1019929300	#Huaypalcon
+	1293.4.9={ birth=yes }
+	1345.6.17={ death=yes }
+}
+1019929302={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="dclmdogplpc"
+	culture=quechua religion=chavin_pagan
+	father=1019929300	#Huaypalcon
+	1297.9.20={ birth=yes }
+	1356.11.7={ death=yes }
+}
+1019929303={
+	name=Axomamma
+	female=yes
+	dynasty=1009990260
+	dna="dnmndmgceck"
+	culture=quechua religion=chavin_pagan
+	father=1019929300	#Huaypalcon
+	1302.11.20={ birth=yes }
+	1365.2.8={ death=yes }
+}
+1019929304={
+	name=Axomamma
+	female=yes
+	dynasty=1009990260
+	dna="ojocnkgalpb"
+	culture=quechua religion=chavin_pagan
+	father=1019929300	#Huaypalcon
+	1306.3.8={ birth=yes }
+	1376.3.1={ death=yes }
+}
+1019929305={
+	name=Viracocha
+	dynasty=1009990260
+	dna="kbjnibghjpc"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=gregarious add_trait=trusting 
+	father=1019929300	#Huaypalcon
+	1311.7.1={ birth=yes }
+	1388.9.9={ death=yes }
+}
+1019929306={
+	name=Inca
+	dynasty=1009990260
+	dna="gglfcdgbbjd"
+	culture=quechua religion=chavin_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=6 learning=6
+	add_trait=martial_cleric add_trait=humble add_trait=arbitrary add_trait=charitable add_trait=temperate 
+	add_trait=content add_trait=gregarious 
+	father=1019929301	#Sopa
+	1323.11.7={ birth=yes }
+	1407.12.27={ death=yes }
+}
+1019929307={
+	name=Sahuaraura
+	dynasty=1009990260
+	dna="khcndpikcpj"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=8
+	add_trait=thrifty_clerk add_trait=envious add_trait=craven add_trait=gregarious add_trait=greedy 
+	add_trait=wounded 
+	father=1019929301	#Sopa
+	1330.7.25={ birth=yes }
+	1430.9.10={ death=yes }
+}
+1019929308={
+	name=Umu
+	dynasty=1009990260
+	dna="kmlfdkgkkjj"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=trusting add_trait=gluttonous add_trait=shy 
+	father=1019929301	#Sopa
+	1335.12.11={ birth=yes }
+	1391.11.8={ death=yes }
+}
+1019929309={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="kklfdpiedjl"
+	culture=quechua religion=chavin_pagan
+	father=1019929301	#Sopa
+	1339.8.24={ birth=yes }
+	1405.7.20={ death=yes }
+}
+1019929310={
+	name=Viracocha
+	dynasty=1009990260
+	dna="okffjihbbjd"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=greedy add_trait=gluttonous add_trait=strong 
+	father=1019929306	#Inca
+	1348.3.6={ birth=yes }
+	1420.9.30={ death=yes }
+}
+1019929311={
+	name=Pumi
+	dynasty=1009990260
+	dna="galegfhdkjd"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	add_trait=midas_touched add_trait=paranoid add_trait=patient add_trait=chaste 
+	father=1019929306	#Inca
+	1354.4.15={ birth=yes }
+	1421.2.15={ death=yes }
+}
+1019929312={
+	name=Kantuta
+	female=yes
+	dynasty=1009990260
+	dna="gllhddhlmjb"
+	culture=quechua religion=chavin_pagan
+	father=1019929306	#Inca
+	1358.8.3={ birth=yes }
+	1442.3.2={ death=yes }
+}
+1019929313={
+	name=Nina
+	female=yes
+	dynasty=1009990260
+	dna="giafcnbebjm"
+	culture=quechua religion=chavin_pagan
+	father=1019929306	#Inca
+	1365.3.16={ birth=yes }
+	1410.9.12={ death=yes }
+}
+1019929314={
+	name=Cápac
+	dynasty=1009990260
+	dna="epifciabaje"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=5 learning=6
+	add_trait=indulgent_wastrel add_trait=humble add_trait=arbitrary add_trait=trusting 
+	father=1019929306	#Inca
+	1368.4.3={ birth=yes }
+	1434.11.1={ death=yes }
+}
+1019929315={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="gglbfdnbnji"
+	culture=quechua religion=chavin_pagan
+	father=1019929306	#Inca
+	1373.8.25={ birth=yes }
+	1454.8.20={ death=yes }
+}
+1019929316={
+	name=Hacuac
+	dynasty=1009990260
+	dna="gkffcdgbhnn"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=8
+	add_trait=elusive_shadow add_trait=mystic add_trait=diligent add_trait=just add_trait=chaste 
+	add_trait=gluttonous 
+	father=1019929306	#Inca
+	1378.5.4={ birth=yes }
+	1450.5.14={ death=yes }
+}
+1019929317={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="obfhgbjbfjk"
+	culture=quechua religion=chavin_pagan
+	father=1019929310	#Viracocha
+	1379.7.2={ birth=yes }
+	1430.7.12={ death=yes }
+}
+1019929318={
+	name=Luyes
+	dynasty=1009990260
+	dna="kkffhihbmjf"
+	culture=quechua religion=chavin_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=arbitrary add_trait=envious 
+	father=1019929310	#Viracocha
+	1386.2.17={ birth=yes }
+	1439.12.11={ death=yes }
+}
+1019929319={
+	name=Taraque
+	dynasty=1009990260
+	dna="ecnffihbbid"
+	culture=quechua religion=chavin_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=5 learning=8
+	add_trait=tough_soldier add_trait=greedy add_trait=wroth add_trait=trusting 
+	add_trait=gregarious 
+	father=1019929310	#Viracocha
+	1392.12.13={ birth=yes }
+	1459.2.6={ death=yes }
+}
+1019929320={
+	name=Mayta
+	dynasty=1009990260
+	dna="nkdnhfhhmjf"
+	culture=quechua religion=chavin_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=humble add_trait=brave add_trait=just add_trait=slothful 
+	add_trait=gluttonous add_trait=paranoid 
+	father=1019929318	#Luyes
+	1415.12.23={ birth=yes }
+	1482.8.4={ death=yes }
+}
+1019929321={
+	name=Ana
+	female=yes
+	dynasty=1009990260
+	dna="kcfjnijomjf"
+	culture=quechua religion=chavin_pagan
+	father=1019929318	#Luyes
+	1419.9.23={ birth=yes }
+	1462.12.25={ death=yes }
+}
+1019929322={
+	name=Cuyuchi
+	dynasty=1009990260
+	dna="kloffikmogk"
+	culture=quechua religion=chavin_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=proud add_trait=brave add_trait=honest add_trait=gregarious 
+	add_trait=ambitious add_trait=arbitrary add_trait=ill 
+	father=1019929318	#Luyes
+	1422.8.4={ birth=yes }
+	1505.12.11={ death=yes }
+}
+1019929323={
+	name=Kantuta
+	female=yes
+	dynasty=1009990260
+	dna="mkbfhmhgmjk"
+	culture=quechua religion=chavin_pagan
+	father=1019929318	#Luyes
+	1425.12.15={ birth=yes }
+	1502.3.20={ death=yes }
+}
+1019929324={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990260
+	dna="kgeffijbfnj"
+	culture=quechua religion=chavin_pagan
+	father=1019929318	#Luyes
+	1430.12.13={ birth=yes }
+	1494.6.22={ death=yes }
+}

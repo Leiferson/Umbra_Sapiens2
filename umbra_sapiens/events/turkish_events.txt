@@ -1,0 +1,876 @@
+namespace = turkishevents
+character_event = {
+	id = turkishevents.1
+	title = EVTNAMEturkishevents.1
+	desc = EVTDESCturkisheventsR.1
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		completely_controls = k_thrace
+		NOT = { has_global_flag = ottoman_thrace_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.1
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_thrace_troops
+	}
+}
+character_event = {
+	id = turkishevents.2
+	title = EVTNAMEturkishevents.2
+	desc = EVTDESCturkisheventsR.2
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		completely_controls = k_anatolia
+		NOT = { has_global_flag = ottoman_anatolia_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.2
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_anatolia_troops
+	}
+}
+character_event = {
+	id = turkishevents.3
+	title = EVTNAMEturkishevents.3
+	desc = EVTDESCturkisheventsR.3
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		completely_controls = k_trebizond
+		NOT = { has_global_flag = ottoman_trebizond_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.3
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_trebizond_troops
+	}
+}
+character_event = {
+	id = turkishevents.4
+	title = EVTNAMEturkishevents.4
+	desc = EVTDESCturkisheventsR.4
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		completely_controls = k_armenia
+		NOT = { has_global_flag = ottoman_armenia_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.4
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_armenia_troops
+	}
+}
+character_event = {
+	id = turkishevents.5
+	title = EVTNAMEturkishevents.5
+	desc = EVTDESCturkisheventsR.5
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		completely_controls = k_georgia
+		NOT = { has_global_flag = ottoman_georgia_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.5
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_georgia_troops
+	}
+}
+character_event = {
+	id = turkishevents.6
+	title = EVTNAMEturkishevents.6
+	desc = EVTDESCturkisheventsR.6
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		completely_controls = k_byzantium
+		NOT = { has_global_flag = ottoman_greece_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.6
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_greece_troops
+	}
+}
+character_event = {
+	id = turkishevents.7
+	title = EVTNAMEturkishevents.7
+	desc = EVTDESCturkisheventsR.7
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		completely_controls = k_epirus
+		NOT = { has_global_flag = ottoman_epirus_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.7
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_epirus_troops
+	}
+}
+character_event = {
+	id = turkishevents.8
+	title = EVTNAMEturkishevents.8
+	desc = EVTDESCturkisheventsR.8
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		completely_controls = k_bulgaria
+		NOT = { has_global_flag = ottoman_bulgaria_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.8
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_bulgaria_troops
+	}
+}
+character_event = {
+	id = turkishevents.9
+	title = EVTNAMEturkishevents.9
+	desc = EVTDESCturkisheventsR.9
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		completely_controls = k_serbia
+		NOT = { has_global_flag = ottoman_serbia_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.9
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_serbia_troops
+	}
+}
+character_event = {
+	id = turkishevents.10
+	title = EVTNAMEturkishevents.10
+	desc = EVTDESCturkisheventsR.10
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		completely_controls = k_bosnia
+		NOT = { has_global_flag = ottoman_bosnia_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.10
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_bosnia_troops
+	}
+}
+narrative_event = {
+	id = turkishevents.11
+	title = EVTNAMEturkishevents.11
+	desc = EVTDESCturkishevents.11
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_martial
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { has_global_flag = fall_of_constantinople }
+		c_byzantion = {
+		holder_scope = {
+		religion=sunni
+		culture=turkish
+		}
+		}
+	}
+	immediate = {
+	c_byzantion = {
+	set_name ="Istanbul"
+	}
+	b_constantinople = {
+	set_name ="Istanbul"
+	}
+	}
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.11
+			trigger = {
+			religion_group = christian
+			NOT = { religion=orthodox }
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.11
+			trigger = {
+			religion = orthodox
+			}
+		}
+		name = {
+			text = EVTOPTCcolonialevents.11
+			trigger = {
+			religion_group = muslim
+		}
+	}
+		name = {
+			text = EVTOPTDcolonialevents.11
+			trigger = {
+			NOR = { 
+			religion_group = muslim
+			religion_group = christian
+			}
+		}
+	}
+	set_global_flag = fall_of_constantinople
+}
+}
+character_event = {
+	id = turkishevents.12
+	title = EVTNAMEturkishevents.12
+	desc = EVTDESCturkisheventsR.12
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		k_saruhan = { has_holder = no }
+		NOT = { has_global_flag = ottoman_saruhan_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.12
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_saruhan_troops
+	}
+}
+character_event = {
+	id = turkishevents.13
+	title = EVTNAMEturkishevents.13
+	desc = EVTDESCturkisheventsR.13
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		k_aydin = { has_holder = no }
+		NOT = { has_global_flag = ottoman_aydin_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.13
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_aydin_troops
+	}
+}
+character_event = {
+	id = turkishevents.14
+	title = EVTNAMEturkishevents.14
+	desc = EVTDESCturkisheventsR.14
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		k_mentese = { has_holder = no }
+		NOT = { has_global_flag = ottoman_mentese_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.14
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_mentese_troops
+	}
+}
+character_event = {
+	id = turkishevents.15
+	title = EVTNAMEturkishevents.15
+	desc = EVTDESCturkisheventsR.15
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		k_germiyan = { has_holder = no }
+		NOT = { has_global_flag = ottoman_germiyan_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.15
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_germiyan_troops
+	}
+}
+character_event = {
+	id = turkishevents.16
+	title = EVTNAMEturkishevents.16
+	desc = EVTDESCturkisheventsR.16
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		k_karaman = { has_holder = no }
+		NOT = { has_global_flag = ottoman_karaman_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.16
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_karaman_troops
+	}
+}
+character_event = {
+	id = turkishevents.17
+	title = EVTNAMEturkishevents.17
+	desc = EVTDESCturkisheventsR.17
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		k_candar = { has_holder = no }
+		NOT = { has_global_flag = ottoman_candar_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.17
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_candar_troops
+	}
+}
+character_event = {
+	id = turkishevents.18
+	title = EVTNAMEturkishevents.18
+	desc = EVTDESCturkisheventsR.18
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		k_eretnid = { has_holder = no }
+		NOT = { has_global_flag = ottoman_eretnid_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.18
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_eretnid_troops
+	}
+}
+character_event = {
+	id = turkishevents.19
+	title = EVTNAMEturkishevents.19
+	desc = EVTDESCturkisheventsR.19
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		has_landed_title=k_ottoman
+		independent = yes
+		is_landed = yes
+		k_tekke = { has_holder = no }
+		NOT = { has_global_flag = ottoman_tekke_troops }
+	}
+	option = {
+		name = EVTOPTAturkishevents.19
+		create_character = {
+			random_traits = yes
+			dynasty = random
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 12
+			}
+			trait = brilliant_strategist
+		}
+			spawn_unit = {
+			province = 742 # Bursa
+				troops = 
+				{
+					heavy_infantry = { 1000 1000 }
+					archers = { 1000 1000 }
+					horse_archers = { 3000 3000 }
+				}
+			}
+		set_global_flag = ottoman_tekke_troops
+	}
+}

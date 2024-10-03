@@ -1,0 +1,151 @@
+936.1.1 = {
+	holder = 262700
+}
+1066.1.1={
+liege="k_croatia"
+#law = agnatic_succession
+#law = succ_seniority
+}
+1075.1.1={
+	holder=8628
+}
+1089.1.1={
+	holder=8626
+}
+1090.1.1={
+	holder=475
+}
+1091.1.1={
+	holder=474
+}
+1093.1.1={
+	holder=20381
+}
+1097.1.1={
+	holder=480
+}
+1100.1.1=
+{
+	holder=32593
+}
+1102.1.1=
+{
+	holder=32594
+}
+1162.1.1=
+{
+	holder=34075
+}
+1165.1.1=
+{
+liege="e_byzantium"
+vice_royalty = no
+} 
+1183.10.1=
+{
+liege=0
+}
+1184.1.1=
+{
+	liege=0
+	set_tribute_suzerain = { #Attested as a Hungarian vassal, seen to be at war with Serbia in defence of Ragusa.
+		who = k_serbia
+		type = permanent 
+	}
+}
+1192.1.1=
+{
+	holder=34077
+}
+1196.1.1=
+{
+	holder=219502
+}
+1198.1.1=
+{
+		holder=34079
+}
+1216.1.1= #Data lacking here; Stefan Radoslav *may* have taken over, but the account is an unsourced 17th century work.
+{
+	holder=34080
+}
+1254.1.1=
+{
+	holder=34083
+	liege=0
+	set_tribute_suzerain = { #Attested as a Hungarian vassal, seen to be at war with Serbia in defence of Ragusa.
+		who = k_hungary
+		type = permanent 
+	}
+}
+1254.5.22=
+{
+	holder=34088 #And right back into Serbia it goes.
+	clear_tribute_suzerain = k_hungary
+}
+1276.1.1=
+{
+	holder=34117
+}
+1278.1.1=
+{
+	holder=470001
+}
+1312.1.1=
+{
+	holder=32625
+}
+	1322.1.1=
+{
+	liege="d_bosnia"
+}
+1322.1.1=
+{
+	holder=468800
+	de_jure_liege=k_bosnia
+}
+1353.9.1={
+	holder=374197	#Tvrtko I
+}
+1366.1.1={
+	holder=374198	#Vuk
+}
+1367.1.1={
+	holder=374197	#Tvrtko I becomes king in 1377.10.26
+}
+1377.10.26={
+	liege=k_bosnia
+}
+1391.3.10={
+	holder=34153	#Dabisha	
+}
+1398.4.1={
+	holder=374199	#Ostoja of Bosnia
+}
+1404.1.1={
+	holder=374202	#Stephen Tvrtko II
+}
+1409.1.1={
+	holder=374199	#Ostoja of Bosnia
+}
+1418.1.1={
+	holder=377343	#Stephen Ostojic
+}
+1420.8.1={
+	holder=374202	#Stephen Tvrtko II
+}
+1443.11.1={
+	holder=377344 #Stephen Thomas
+}
+1461.7.10={
+	holder=377350 #Stephen Tomashevic
+}
+1463.6.5={
+	holder=377353
+}
+1471.1.1={
+	holder=379570	#Matija Vojsalic
+}
+1476.1.1={
+	holder=0
+}

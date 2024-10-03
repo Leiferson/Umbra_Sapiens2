@@ -1,0 +1,2038 @@
+1019928193={
+	name=Gunfuli
+	dynasty=1009990250
+	dna="hjpafoejnpp"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=6 learning=4
+	719.9.10={ birth=yes }
+	765.3.16={ death=yes }
+}
+1019928194={
+	name=Arata
+	dynasty=1009990250
+	dna="hjpapogjnpi"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	father=1019928193	#Gunfuli
+	742.11.5={ birth=yes }
+	813.1.19={ death=yes }
+}
+1019928195={
+	name=Takuiba
+	female=yes
+	dynasty=1009990250
+	dna="ljpakpljkpp"
+	culture=bororo religion=amazonian_pagan
+	father=1019928193	#Gunfuli
+	746.4.10={ birth=yes }
+	801.2.27={ death=yes }
+}
+1019928196={
+	name=Ilumani
+	dynasty=1009990250
+	dna="hfpaloejnpp"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=8 learning=5
+	father=1019928193	#Gunfuli
+	754.8.15={ birth=yes }
+	840.2.14={ death=yes }
+}
+1019928197={
+	name=Toruí
+	dynasty=1009990250
+	dna="hhpaffejipd"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	father=1019928193	#Gunfuli
+	759.10.24={ birth=yes }
+	859.12.20={ death=yes }
+}
+1019928198={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="hppmeogogfi"
+	culture=bororo religion=amazonian_pagan
+	father=1019928194	#Arata
+	772.9.15={ birth=yes }
+	858.4.13={ death=yes }
+}
+1019928199={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="hjldpdfjcpi"
+	culture=bororo religion=amazonian_pagan
+	father=1019928194	#Arata
+	775.10.19={ birth=yes }
+	855.4.20={ death=yes }
+}
+1019928200={
+	name=Ebedimu
+	dynasty=1009990250
+	dna="hjnikpnlnpf"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=4
+	father=1019928194	#Arata
+	779.8.15={ birth=yes }
+	846.4.3={ death=yes }
+}
+1019928201={
+	name=Shoko
+	dynasty=1009990250
+	dna="fjoigoggnpi"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=6
+	father=1019928194	#Arata
+	784.5.4={ birth=yes }
+	828.8.27={ death=yes }
+}
+1019928202={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="ffmapogebpi"
+	culture=bororo religion=amazonian_pagan
+	father=1019928194	#Arata
+	788.7.6={ birth=yes }
+	873.6.20={ death=yes }
+}
+1019928203={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="hefkpogjnhi"
+	culture=bororo religion=amazonian_pagan
+	father=1019928194	#Arata
+	794.5.27={ birth=yes }
+	861.1.13={ death=yes }
+}
+1019928204={
+	name=Amorotahe
+	dynasty=1009990250
+	dna="moninjninbf"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=5 learning=7
+	father=1019928200	#Ebedimu
+	808.6.6={ birth=yes }
+	901.9.5={ death=yes }
+}
+1019928205={
+	name=Hayá
+	female=yes
+	dynasty=1009990250
+	dna="mjcckpnafcp"
+	culture=bororo religion=amazonian_pagan
+	father=1019928200	#Ebedimu
+	814.2.15={ birth=yes }
+	899.6.15={ death=yes }
+}
+1019928206={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="kbnigpilnpf"
+	culture=bororo religion=amazonian_pagan
+	father=1019928200	#Ebedimu
+	821.6.14={ birth=yes }
+	897.8.9={ death=yes }
+}
+1019928207={
+	name=Áhari
+	dynasty=1009990250
+	dna="oofknjnimbl"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=7 learning=7
+	father=1019928204	#Amorotahe
+	830.8.14={ birth=yes }
+	915.8.23={ death=yes }
+}
+1019928208={
+	name=Mbicy
+	dynasty=1009990250
+	dna="kkffnkninaf"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=4 learning=5
+	father=1019928204	#Amorotahe
+	835.11.10={ birth=yes }
+	918.1.27={ death=yes }
+}
+1019928209={
+	name=Hayá
+	female=yes
+	dynasty=1009990250
+	dna="monijjniojf"
+	culture=bororo religion=amazonian_pagan
+	father=1019928204	#Amorotahe
+	842.3.9={ birth=yes }
+	922.10.3={ death=yes }
+}
+1019928210={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="jokmofpiabf"
+	culture=bororo religion=amazonian_pagan
+	father=1019928204	#Amorotahe
+	848.7.7={ birth=yes }
+	905.12.26={ death=yes }
+}
+1019928211={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="coilfpnimdm"
+	culture=bororo religion=amazonian_pagan
+	father=1019928207	#Áhari
+	856.1.18={ birth=yes }
+	940.4.5={ death=yes }
+}
+1019928212={
+	name=Arata
+	dynasty=1009990250
+	dna="ilnknjnimee"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=8
+	father=1019928207	#Áhari
+	861.10.4={ birth=yes }
+	921.4.2={ death=yes }
+}
+1019928213={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="gohananlmhm"
+	culture=bororo religion=amazonian_pagan
+	father=1019928207	#Áhari
+	865.3.14={ birth=yes }
+	933.10.20={ death=yes }
+}
+1019928214={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="oofenonbmbl"
+	culture=bororo religion=amazonian_pagan
+	father=1019928207	#Áhari
+	868.6.27={ birth=yes }
+	925.9.4={ death=yes }
+}
+1019928215={
+	name=Semén
+	dynasty=1009990250
+	dna="hofknknikbl"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=4 learning=6
+	father=1019928207	#Áhari
+	874.6.6={ birth=yes }
+	953.9.2={ death=yes }
+}
+1019928216={
+	name=Semén
+	dynasty=1009990250
+	dna="nlnnnnhimmp"
+	culture=bororo religion=amazonian_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=6
+	father=1019928212	#Arata
+	885.5.22={ birth=yes }
+	967.9.22={ death=yes }
+}
+1019928217={
+	name=Wiwakaleme
+	dynasty=1009990250
+	dna="cenfnenhmed"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	father=1019928212	#Arata
+	890.12.15={ birth=yes }
+	927.4.15={ death=yes }
+}
+1019928218={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="ibngnnpimio"
+	culture=bororo religion=amazonian_pagan
+	father=1019928212	#Arata
+	895.3.6={ birth=yes }
+	972.3.4={ death=yes }
+}
+1019928219={
+	name=Semén
+	dynasty=1009990250
+	dna="ilhkfanifec"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=7 learning=7
+	father=1019928212	#Arata
+	900.2.3={ birth=yes }
+	976.3.29={ death=yes }
+}
+1019928220={
+	name=Arah
+	dynasty=1009990250
+	dna="ilgkndbpnel"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=4 learning=4
+	father=1019928212	#Arata
+	906.2.25={ birth=yes }
+	961.10.7={ death=yes }
+}
+1019928221={
+	name=Haubariria
+	dynasty=1009990250
+	dna="nlnnnnefcml"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=5 learning=6
+	father=1019928216	#Semén
+	916.12.2={ birth=yes }
+	989.4.25={ death=yes }
+}
+1019928222={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="bejlgnhndao"
+	culture=bororo religion=amazonian_pagan
+	father=1019928216	#Semén
+	921.6.15={ birth=yes }
+	987.9.16={ death=yes }
+}
+1019928223={
+	name=Wiwakaleme
+	dynasty=1009990250
+	dna="nlinnnggmkp"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=7 learning=5
+	father=1019928216	#Semén
+	927.5.5={ birth=yes }
+	985.1.4={ death=yes }
+}
+1019928224={
+	name=Takuiba
+	female=yes
+	dynasty=1009990250
+	dna="aoncdnhehnp"
+	culture=bororo religion=amazonian_pagan
+	father=1019928216	#Semén
+	933.8.12={ birth=yes }
+	995.4.26={ death=yes }
+}
+1019928225={
+	name=Mbicy
+	dynasty=1009990250
+	dna="nllkindhmjp"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=8 learning=6
+	father=1019928216	#Semén
+	937.7.14={ birth=yes }
+	1018.11.10={ death=yes }
+}
+1019928226={
+	name=Shoko
+	dynasty=1009990250
+	dna="plljnnennmk"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=7 learning=7
+	father=1019928221	#Haubariria
+	943.3.11={ birth=yes }
+	1007.7.18={ death=yes }
+}
+1019928227={
+	name=Shoko
+	dynasty=1009990250
+	dna="llfnmnedbhp"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=8 learning=6
+	father=1019928221	#Haubariria
+	947.4.26={ birth=yes }
+	988.2.16={ death=yes }
+}
+1019928228={
+	name=Toratora
+	dynasty=1009990250
+	dna="phljnindhpk"
+	culture=bororo religion=amazonian_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=8 learning=8
+	father=1019928226	#Shoko
+	969.8.21={ birth=yes }
+	1044.9.23={ death=yes }
+}
+1019928229={
+	name=Amorotahe
+	dynasty=1009990250
+	dna="foljncnngdp"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=6 learning=5
+	father=1019928226	#Shoko
+	973.10.15={ birth=yes }
+	1027.9.1={ death=yes }
+}
+1019928230={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="phlmjandppe"
+	culture=bororo religion=amazonian_pagan
+	father=1019928228	#Toratora
+	987.11.18={ birth=yes }
+	1065.4.3={ death=yes }
+}
+1019928231={
+	name=Toratora
+	dynasty=1009990250
+	dna="ohcmcjnnmpc"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019928228	#Toratora
+	991.12.20={ birth=yes }
+	1080.6.10={ death=yes }
+}
+1019928232={
+	name=Ebedimu
+	dynasty=1009990250
+	dna="dhdnnbnmhpk"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=8 learning=4
+	father=1019928228	#Toratora
+	998.1.1={ birth=yes }
+	1070.1.12={ death=yes }
+}
+1019928233={
+	name=Hayá
+	female=yes
+	dynasty=1009990250
+	dna="pgoplinkopk"
+	culture=bororo religion=amazonian_pagan
+	father=1019928228	#Toratora
+	1001.8.21={ birth=yes }
+	1065.4.13={ death=yes }
+}
+1019928234={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="aihkjnndama"
+	culture=bororo religion=amazonian_pagan
+	father=1019928228	#Toratora
+	1005.8.18={ birth=yes }
+	1077.5.9={ death=yes }
+}
+1019928235={
+	name=Takuiba
+	female=yes
+	dynasty=1009990250
+	dna="nfljnknimpk"
+	culture=bororo religion=amazonian_pagan
+	father=1019928228	#Toratora
+	1009.4.27={ birth=yes }
+	1070.10.8={ death=yes }
+}
+1019928236={
+	name=Ebedimu
+	dynasty=1009990250
+	dna="ohmjniedhjk"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=7
+	father=1019928228	#Toratora
+	1012.3.24={ birth=yes }
+	1074.12.9={ death=yes }
+}
+1019928237={
+	name=Pirijá
+	dynasty=1009990250
+	dna="ppcdojkebpo"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	father=1019928231	#Toratora
+	1017.1.23={ birth=yes }
+	1096.12.23={ death=yes }
+}
+1019928238={
+	name=Arata
+	dynasty=1009990250
+	dna="ghdmohncmpc"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	father=1019928231	#Toratora
+	1023.10.17={ birth=yes }
+	1082.9.20={ death=yes }
+}
+1019928239={
+	name=Áhari
+	dynasty=1009990250
+	dna="ppndgjkcbpo"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=6 learning=5
+	father=1019928237	#Pirijá
+	1040.11.11={ birth=yes }
+	1105.10.14={ death=yes }
+}
+1019928240={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="pecgpjdgbjm"
+	culture=bororo religion=amazonian_pagan
+	father=1019928237	#Pirijá
+	1045.12.18={ birth=yes }
+	1132.12.30={ death=yes }
+}
+1019928241={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="ppjaolllmpa"
+	culture=bororo religion=amazonian_pagan
+	father=1019928237	#Pirijá
+	1050.4.9={ birth=yes }
+	1117.9.26={ death=yes }
+}
+1019928242={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="pibkfeombbm"
+	culture=bororo religion=amazonian_pagan
+	father=1019928237	#Pirijá
+	1054.7.25={ birth=yes }
+	1107.6.26={ death=yes }
+}
+1019928243={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="eipmojkdbgo"
+	culture=bororo religion=amazonian_pagan
+	father=1019928237	#Pirijá
+	1058.5.21={ birth=yes }
+	1138.3.15={ death=yes }
+}
+1019928244={
+	name=Pirijá
+	dynasty=1009990250
+	dna="kpcbcjdebpo"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=6 learning=8
+	father=1019928237	#Pirijá
+	1065.12.23={ birth=yes }
+	1133.11.27={ death=yes }
+}
+1019928245={
+	name=Ebedimu
+	dynasty=1009990250
+	dna="phbdhjjcbpn"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=8
+	father=1019928239	#Áhari
+	1066.1.26={ birth=yes }
+	1145.6.24={ death=yes }
+}
+1019928246={
+	name=Áhari
+	dynasty=1009990250
+	dna="ffejgjkbfpn"
+	culture=bororo religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	father=1019928239	#Áhari
+	1072.6.11={ birth=yes }
+	1135.4.4={ death=yes }
+}
+1019928247={
+	name=Arah
+	dynasty=1009990250
+	dna="lgcpgghlmpc"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	father=1019928239	#Áhari
+	1076.5.4={ birth=yes }
+	1155.5.5={ death=yes }
+}
+1019928248={
+	name=Ilumani
+	dynasty=1009990250
+	dna="opedgjbcbmo"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=7
+	father=1019928239	#Áhari
+	1082.11.18={ birth=yes }
+	1140.11.16={ death=yes }
+}
+1019928249={
+	name=Áhari
+	dynasty=1009990250
+	dna="phbdhgjobbn"
+	culture=bororo religion=amazonian_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	father=1019928245	#Ebedimu
+	1092.6.23={ birth=yes }
+	1181.4.9={ death=yes }
+}
+1019928250={
+	name=Laliwa
+	dynasty=1009990250
+	dna="lhbddeicopn"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=4
+	father=1019928245	#Ebedimu
+	1095.3.5={ birth=yes }
+	1168.9.9={ death=yes }
+}
+1019928251={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="lfbfbcfjbpn"
+	culture=bororo religion=amazonian_pagan
+	father=1019928245	#Ebedimu
+	1100.6.13={ birth=yes }
+	1158.8.4={ death=yes }
+}
+1019928252={
+	name=Ebedimu
+	dynasty=1009990250
+	dna="gebdhlodcpn"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=8 learning=7
+	father=1019928245	#Ebedimu
+	1106.1.27={ birth=yes }
+	1186.6.13={ death=yes }
+}
+1019928253={
+	name=Toratora
+	dynasty=1009990250
+	dna="phcdojjgbcc"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=7 learning=4
+	father=1019928245	#Ebedimu
+	1111.7.6={ birth=yes }
+	1189.3.9={ death=yes }
+}
+1019928254={
+	name=Pirijá
+	dynasty=1009990250
+	dna="pdbchjbmfpn"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=7
+	father=1019928245	#Ebedimu
+	1117.12.9={ birth=yes }
+	1177.7.21={ death=yes }
+}
+1019928255={
+	name=Takuiba
+	female=yes
+	dynasty=1009990250
+	dna="pkbdhkjhblm"
+	culture=bororo religion=amazonian_pagan
+	father=1019928245	#Ebedimu
+	1122.7.17={ birth=yes }
+	1197.7.1={ death=yes }
+}
+1019928256={
+	name=Takuiba
+	female=yes
+	dynasty=1009990250
+	dna="cbbdldmdkin"
+	culture=bororo religion=amazonian_pagan
+	father=1019928249	#Áhari
+	1117.1.2={ birth=yes }
+	1204.5.20={ death=yes }
+}
+1019928257={
+	name=Laliwa
+	dynasty=1009990250
+	dna="phidhdjpban"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=6 learning=4
+	father=1019928249	#Áhari
+	1123.4.26={ birth=yes }
+	1188.11.16={ death=yes }
+}
+1019928258={
+	name=Ilumani
+	dynasty=1009990250
+	dna="nhbkhgjohbn"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=4 learning=4
+	father=1019928249	#Áhari
+	1130.1.23={ birth=yes }
+	1193.2.4={ death=yes }
+}
+1019928259={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="phbdjgenbcm"
+	culture=bororo religion=amazonian_pagan
+	father=1019928249	#Áhari
+	1137.6.9={ birth=yes }
+	1221.4.26={ death=yes }
+}
+1019928260={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="hhickajpeag"
+	culture=bororo religion=amazonian_pagan
+	father=1019928257	#Laliwa
+	1145.2.7={ birth=yes }
+	1204.10.13={ death=yes }
+}
+1019928261={
+	name=Arata
+	dynasty=1009990250
+	dna="bhidodhobnn"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	father=1019928257	#Laliwa
+	1152.9.2={ birth=yes }
+	1235.9.10={ death=yes }
+}
+1019928262={
+	name=Hayá
+	female=yes
+	dynasty=1009990250
+	dna="ilimhdjfapc"
+	culture=bororo religion=amazonian_pagan
+	father=1019928257	#Laliwa
+	1156.1.20={ birth=yes }
+	1215.4.8={ death=yes }
+}
+1019928263={
+	name=Hayá
+	female=yes
+	dynasty=1009990250
+	dna="liinadjbdao"
+	culture=bororo religion=amazonian_pagan
+	father=1019928257	#Laliwa
+	1163.5.4={ birth=yes }
+	1249.9.7={ death=yes }
+}
+1019928264={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="ohiddpnoinn"
+	culture=bororo religion=amazonian_pagan
+	father=1019928261	#Arata
+	1182.8.3={ birth=yes }
+	1246.10.27={ death=yes }
+}
+1019928265={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="bhgeadeomni"
+	culture=bororo religion=amazonian_pagan
+	father=1019928261	#Arata
+	1189.12.18={ birth=yes }
+	1255.11.1={ death=yes }
+}
+1019928266={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="lkjfcdhdhjn"
+	culture=bororo religion=amazonian_pagan
+	father=1019928261	#Arata
+	1196.12.11={ birth=yes }
+	1243.1.13={ death=yes }
+}
+1019928267={
+	name=Arah
+	dynasty=1009990250
+	dna="cmihokdobnn"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=4
+	father=1019928261	#Arata
+	1200.10.12={ birth=yes }
+	1288.10.16={ death=yes }
+}
+1019928268={
+	name=Áhari
+	dynasty=1009990250
+	dna="jmihomdmdko"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=8
+	father=1019928267	#Arah
+	1227.10.27={ birth=yes }
+	1284.2.10={ death=yes }
+}
+1019928269={
+	name=Wiwakaleme
+	dynasty=1009990250
+	dna="nlehomcmcnk"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=8 learning=4
+	father=1019928267	#Arah
+	1230.4.25={ birth=yes }
+	1313.6.10={ death=yes }
+}
+1019928270={
+	name=Haubariria
+	dynasty=1009990250
+	dna="ciihokdgiaf"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=7 learning=7
+	father=1019928267	#Arah
+	1235.4.8={ birth=yes }
+	1308.10.11={ death=yes }
+}
+1019928271={
+	name=Mbicy
+	dynasty=1009990250
+	dna="cmikekdolmn"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=4 learning=7
+	father=1019928267	#Arah
+	1239.7.4={ birth=yes }
+	1311.4.17={ death=yes }
+}
+1019928272={
+	name=Toruí
+	dynasty=1009990250
+	dna="bdihmkgdkbj"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	father=1019928267	#Arah
+	1244.4.14={ birth=yes }
+	1308.8.19={ death=yes }
+}
+1019928273={
+	name=Laliwa
+	dynasty=1009990250
+	dna="cfihoddoboi"
+	culture=bororo religion=amazonian_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=7 learning=4
+	father=1019928267	#Arah
+	1248.6.3={ birth=yes }
+	1309.10.6={ death=yes }
+}
+1019928274={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="cbieakiabnn"
+	culture=bororo religion=amazonian_pagan
+	father=1019928267	#Arah
+	1252.5.4={ birth=yes }
+	1321.1.6={ death=yes }
+}
+1019928275={
+	name=Pirijá
+	dynasty=1009990250
+	dna="idipopdmiik"
+	culture=bororo religion=amazonian_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	father=1019928268	#Áhari
+	1250.6.15={ birth=yes }
+	1328.9.18={ death=yes }
+}
+1019928276={
+	name=Isani
+	female=yes
+	dynasty=1009990250
+	dna="emjhommpcho"
+	culture=bororo religion=amazonian_pagan
+	father=1019928268	#Áhari
+	1253.5.3={ birth=yes }
+	1306.1.16={ death=yes }
+}
+1019928277={
+	name=Semén
+	dynasty=1009990250
+	dna="jgkhamompjo"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=7
+	father=1019928268	#Áhari
+	1257.11.1={ birth=yes }
+	1314.3.24={ death=yes }
+}
+1019928278={
+	name=Ilumani
+	dynasty=1009990250
+	dna="ndipopdmilk"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=4 learning=6
+	father=1019928275	#Pirijá
+	1274.1.21={ birth=yes }
+	1347.12.2={ death=yes }
+}
+1019928279={
+	name=Hayá
+	female=yes
+	dynasty=1009990250
+	dna="iphhohdmfcc"
+	culture=bororo religion=amazonian_pagan
+	father=1019928275	#Pirijá
+	1281.2.26={ birth=yes }
+	1340.3.6={ death=yes }
+}
+1019928280={
+	name=Gunfuli
+	dynasty=1009990250
+	dna="obapiadmila"
+	culture=bororo religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=4
+	father=1019928278	#Ilumani
+	1302.8.12={ birth=yes }
+	1379.6.16={ death=yes }
+}
+1019928281={
+	name=Arah
+	dynasty=1009990250
+	dna="nkaiojpmilk"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	father=1019928278	#Ilumani
+	1309.12.8={ birth=yes }
+	1390.11.11={ death=yes }
+}
+1019928282={
+	name=Toratora
+	dynasty=1009990250
+	dna="bbienialilf"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=5
+	father=1019928280	#Gunfuli
+	1324.10.16={ birth=yes }
+	1391.9.30={ death=yes }
+}
+1019928283={
+	name=Laliwa
+	dynasty=1009990250
+	dna="kbbcpadmihn"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=6 learning=4
+	father=1019928280	#Gunfuli
+	1331.2.6={ birth=yes }
+	1388.4.2={ death=yes }
+}
+1019928284={
+	name=Pirijá
+	dynasty=1009990250
+	dna="dbjoiaamehm"
+	culture=bororo religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	father=1019928280	#Gunfuli
+	1339.7.20={ birth=yes }
+	1400.9.12={ death=yes }
+}
+1019928285={
+	name=Gunfuli
+	dynasty=1009990250
+	dna="mhijnnolilf"
+	culture=bororo religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	father=1019928282	#Toratora
+	1354.3.10={ birth=yes }
+	1408.8.28={ death=yes }
+}
+1019928286={
+	name=Haubariria
+	dynasty=1009990250
+	dna="bbfmniafhlf"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=8 learning=7
+	father=1019928282	#Toratora
+	1356.12.14={ birth=yes }
+	1432.9.16={ death=yes }
+}
+1019928287={
+	name=Amorotahe
+	dynasty=1009990250
+	dna="bfieddalipl"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=5 learning=8
+	father=1019928282	#Toratora
+	1362.6.13={ birth=yes }
+	1454.11.14={ death=yes }
+}
+1019928288={
+	name=Kaigouchi
+	dynasty=1009990250
+	dna="miijiaololf"
+	culture=bororo religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	father=1019928285	#Gunfuli
+	1381.6.8={ birth=yes }
+	1449.6.19={ death=yes }
+}
+1019928289={
+	name=Wiwakaleme
+	dynasty=1009990250
+	dna="mjmjnneklbo"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=8 learning=8
+	father=1019928285	#Gunfuli
+	1384.9.27={ birth=yes }
+	1440.7.3={ death=yes }
+}
+1019928290={
+	name=Takuiba
+	female=yes
+	dynasty=1009990250
+	dna="jhijnajcjlf"
+	culture=bororo religion=amazonian_pagan
+	father=1019928285	#Gunfuli
+	1390.1.9={ birth=yes }
+	1492.1.10={ death=yes }
+}
+1019928291={
+	name=Twengga
+	female=yes
+	dynasty=1009990250
+	dna="mbijnnolihm"
+	culture=bororo religion=amazonian_pagan
+	father=1019928285	#Gunfuli
+	1395.9.18={ birth=yes }
+	1463.5.29={ death=yes }
+}
+1019928292={
+	name=Ilumani
+	dynasty=1009990250
+	dna="mpggnfomide"
+	culture=bororo religion=amazonian_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=4 learning=7
+	father=1019928285	#Gunfuli
+	1401.4.3={ birth=yes }
+	1464.8.15={ death=yes }
+}
+1019928293={
+	name=Hayá
+	female=yes
+	dynasty=1009990250
+	dna="mhidbbocbmf"
+	culture=bororo religion=amazonian_pagan
+	father=1019928285	#Gunfuli
+	1405.4.16={ birth=yes }
+	1489.1.10={ death=yes }
+}
+1019928294={
+	name=Ebedimu
+	dynasty=1009990250
+	dna="nhhjkfoliif"
+	culture=bororo religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	father=1019928285	#Gunfuli
+	1407.4.16={ birth=yes }
+	1493.4.3={ death=yes }
+}
+1019928295={
+	name=Toruí
+	dynasty=1009990251
+	dna="lcjfjoibadj"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=7 learning=5
+	720.3.19={ birth=yes }
+	784.5.28={ death=yes }
+}
+1019928296={
+	name=Áhari
+	dynasty=1009990251
+	dna="cgkciogbhaj"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=5
+	father=1019928295	#Toruí
+	751.11.22={ birth=yes }
+	828.3.18={ death=yes }
+}
+1019928297={
+	name=Hayá
+	female=yes
+	dynasty=1009990251
+	dna="ncfofkgpieg"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928295	#Toruí
+	755.4.11={ birth=yes }
+	822.5.9={ death=yes }
+}
+1019928298={
+	name=Twengga
+	female=yes
+	dynasty=1009990251
+	dna="mcjcjogoadf"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928295	#Toruí
+	760.8.18={ birth=yes }
+	828.6.12={ death=yes }
+}
+1019928299={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="mcifnmifadc"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928295	#Toruí
+	765.8.26={ birth=yes }
+	848.10.15={ death=yes }
+}
+1019928300={
+	name=Ebedimu
+	dynasty=1009990251
+	dna="lcjjhoibhdi"
+	culture=maipurean religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	father=1019928295	#Toruí
+	770.11.15={ birth=yes }
+	830.1.17={ death=yes }
+}
+1019928301={
+	name=Ilumani
+	dynasty=1009990251
+	dna="dhlcfogdmdj"
+	culture=maipurean religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=7
+	father=1019928296	#Áhari
+	781.11.6={ birth=yes }
+	850.8.14={ death=yes }
+}
+1019928302={
+	name=Pirijá
+	dynasty=1009990251
+	dna="dgaciocbafj"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=7 learning=5
+	father=1019928296	#Áhari
+	786.10.27={ birth=yes }
+	843.6.15={ death=yes }
+}
+1019928303={
+	name=Shoko
+	dynasty=1009990251
+	dna="kedklogiobk"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=5 learning=7
+	father=1019928296	#Áhari
+	791.12.2={ birth=yes }
+	868.3.12={ death=yes }
+}
+1019928304={
+	name=Áhari
+	dynasty=1009990251
+	dna="cdklbhpahaa"
+	culture=maipurean religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=6 learning=4
+	father=1019928296	#Áhari
+	795.3.22={ birth=yes }
+	882.1.22={ death=yes }
+}
+1019928305={
+	name=Hayá
+	female=yes
+	dynasty=1009990251
+	dna="cndcengbigc"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928296	#Áhari
+	800.6.24={ birth=yes }
+	901.11.13={ death=yes }
+}
+1019928306={
+	name=Pirijá
+	dynasty=1009990251
+	dna="fokcaomebpj"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=5 learning=6
+	father=1019928296	#Áhari
+	805.3.6={ birth=yes }
+	867.9.2={ death=yes }
+}
+1019928307={
+	name=Laliwa
+	dynasty=1009990251
+	dna="cgccioggfjk"
+	culture=maipurean religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	father=1019928296	#Áhari
+	810.12.24={ birth=yes }
+	878.2.23={ death=yes }
+}
+1019928308={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="fhlcepgfmdj"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928301	#Ilumani
+	808.4.27={ birth=yes }
+	888.10.11={ death=yes }
+}
+1019928309={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="dllcajadbdi"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928301	#Ilumani
+	813.11.12={ birth=yes }
+	908.11.14={ death=yes }
+}
+1019928310={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="omlllfpemnj"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928301	#Ilumani
+	818.4.12={ birth=yes }
+	905.3.29={ death=yes }
+}
+1019928311={
+	name=Shoko
+	dynasty=1009990251
+	dna="dhlcfogdjdh"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=6 learning=8
+	father=1019928301	#Ilumani
+	821.4.27={ birth=yes }
+	909.3.17={ death=yes }
+}
+1019928312={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="delcfnmemfj"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928301	#Ilumani
+	825.5.17={ birth=yes }
+	891.4.18={ death=yes }
+}
+1019928313={
+	name=Haubariria
+	dynasty=1009990251
+	dna="dhfjfobccdh"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=4 learning=8
+	father=1019928311	#Shoko
+	854.10.18={ birth=yes }
+	920.8.21={ death=yes }
+}
+1019928314={
+	name=Áhari
+	dynasty=1009990251
+	dna="dkhlfoggjda"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	father=1019928311	#Shoko
+	857.9.15={ birth=yes }
+	939.4.13={ death=yes }
+}
+1019928315={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="doccjgadebf"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928311	#Shoko
+	861.12.9={ birth=yes }
+	941.1.21={ death=yes }
+}
+1019928316={
+	name=Kaigouchi
+	dynasty=1009990251
+	dna="ahfdhokccdh"
+	culture=maipurean religion=amazonian_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	father=1019928313	#Haubariria
+	877.10.13={ birth=yes }
+	950.3.7={ death=yes }
+}
+1019928317={
+	name=Gunfuli
+	dynasty=1009990251
+	dna="dhkifoddddh"
+	culture=maipurean religion=amazonian_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=5 learning=4
+	father=1019928313	#Haubariria
+	882.11.13={ birth=yes }
+	967.12.3={ death=yes }
+}
+1019928318={
+	name=Semén
+	dynasty=1009990251
+	dna="ecfpicbcfdh"
+	culture=maipurean religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=4 learning=7
+	father=1019928313	#Haubariria
+	885.1.27={ birth=yes }
+	967.4.7={ death=yes }
+}
+1019928319={
+	name=Twengga
+	female=yes
+	dynasty=1009990251
+	dna="dhijlolcglo"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928313	#Haubariria
+	889.10.14={ birth=yes }
+	960.10.15={ death=yes }
+}
+1019928320={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="lhfoglmbndh"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928313	#Haubariria
+	892.8.3={ birth=yes }
+	976.5.25={ death=yes }
+}
+1019928321={
+	name=Arah
+	dynasty=1009990251
+	dna="eefjfmneedm"
+	culture=maipurean religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=5 learning=5
+	father=1019928313	#Haubariria
+	897.2.23={ birth=yes }
+	939.8.9={ death=yes }
+}
+1019928322={
+	name=Haubariria
+	dynasty=1009990251
+	dna="ehddhohdbdh"
+	culture=maipurean religion=amazonian_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=6 learning=7
+	father=1019928316	#Kaigouchi
+	900.12.7={ birth=yes }
+	975.6.25={ death=yes }
+}
+1019928323={
+	name=Hayá
+	female=yes
+	dynasty=1009990251
+	dna="bcfedoncckg"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928316	#Kaigouchi
+	905.9.16={ birth=yes }
+	957.5.6={ death=yes }
+}
+1019928324={
+	name=Laliwa
+	dynasty=1009990251
+	dna="fhoahikbded"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=6 learning=8
+	father=1019928316	#Kaigouchi
+	913.3.19={ birth=yes }
+	992.10.17={ death=yes }
+}
+1019928325={
+	name=Wiwakaleme
+	dynasty=1009990251
+	dna="bccdhhkcjie"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=7
+	father=1019928316	#Kaigouchi
+	919.1.14={ birth=yes }
+	984.11.11={ death=yes }
+}
+1019928326={
+	name=Ilumani
+	dynasty=1009990251
+	dna="eidehlhdmdf"
+	culture=maipurean religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=7 learning=7
+	father=1019928322	#Haubariria
+	931.11.25={ birth=yes }
+	1000.12.16={ death=yes }
+}
+1019928327={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="ghdaoledbjf"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928322	#Haubariria
+	936.9.19={ birth=yes }
+	1023.1.26={ death=yes }
+}
+1019928328={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="klcdhomdpdh"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928322	#Haubariria
+	943.9.12={ birth=yes }
+	1015.2.18={ death=yes }
+}
+1019928329={
+	name=Semén
+	dynasty=1009990251
+	dna="ehkkhihdndb"
+	culture=maipurean religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=8
+	father=1019928322	#Haubariria
+	950.9.23={ birth=yes }
+	1010.5.9={ death=yes }
+}
+1019928330={
+	name=Toratora
+	dynasty=1009990251
+	dna="egdjieddman"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=5
+	father=1019928326	#Ilumani
+	955.12.23={ birth=yes }
+	1053.1.30={ death=yes }
+}
+1019928331={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="eijlhbhdmnf"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928326	#Ilumani
+	961.5.9={ birth=yes }
+	1025.9.4={ death=yes }
+}
+1019928332={
+	name=Twengga
+	female=yes
+	dynasty=1009990251
+	dna="emdhmlijmdp"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928326	#Ilumani
+	966.5.17={ birth=yes }
+	1022.7.31={ death=yes }
+}
+1019928333={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="mibkghldijf"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928326	#Ilumani
+	969.10.24={ birth=yes }
+	1054.10.20={ death=yes }
+}
+1019928334={
+	name=Toruí
+	dynasty=1009990251
+	dna="oafpiedmlhn"
+	culture=maipurean religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=5 learning=7
+	father=1019928330	#Toratora
+	987.1.16={ birth=yes }
+	1054.9.10={ death=yes }
+}
+1019928335={
+	name=Twengga
+	female=yes
+	dynasty=1009990251
+	dna="hdcjipkdikn"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928330	#Toratora
+	990.3.10={ birth=yes }
+	1044.12.16={ death=yes }
+}
+1019928336={
+	name=Hayá
+	female=yes
+	dynasty=1009990251
+	dna="dpdeielfmln"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928330	#Toratora
+	995.3.22={ birth=yes }
+	1050.10.31={ death=yes }
+}
+1019928337={
+	name=Hayá
+	female=yes
+	dynasty=1009990251
+	dna="efbjifdpjim"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928330	#Toratora
+	999.9.18={ birth=yes }
+	1094.4.21={ death=yes }
+}
+1019928338={
+	name=Twengga
+	female=yes
+	dynasty=1009990251
+	dna="eidmifddpan"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928330	#Toratora
+	1001.9.14={ birth=yes }
+	1055.9.28={ death=yes }
+}
+1019928339={
+	name=Haubariria
+	dynasty=1009990251
+	dna="oafpibdmocc"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=4 learning=4
+	father=1019928334	#Toruí
+	1011.3.14={ birth=yes }
+	1092.3.20={ death=yes }
+}
+1019928340={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="ojfpiglmlho"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928334	#Toruí
+	1016.10.13={ birth=yes }
+	1077.7.22={ death=yes }
+}
+1019928341={
+	name=Laliwa
+	dynasty=1009990251
+	dna="ocijjdomhln"
+	culture=maipurean religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=7 learning=7
+	father=1019928334	#Toruí
+	1022.8.26={ birth=yes }
+	1080.7.21={ death=yes }
+}
+1019928342={
+	name=Semén
+	dynasty=1009990251
+	dna="onepcedelhj"
+	culture=maipurean religion=amazonian_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	father=1019928334	#Toruí
+	1026.10.6={ birth=yes }
+	1095.2.2={ death=yes }
+}
+1019928343={
+	name=Toruí
+	dynasty=1009990251
+	dna="oaolieeaahp"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=5 learning=6
+	father=1019928334	#Toruí
+	1033.10.15={ birth=yes }
+	1111.3.17={ death=yes }
+}
+1019928344={
+	name=Laliwa
+	dynasty=1009990251
+	dna="oafkaeomhcg"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=5 learning=7
+	father=1019928334	#Toruí
+	1038.8.27={ birth=yes }
+	1120.7.17={ death=yes }
+}
+1019928345={
+	name=Wiwakaleme
+	dynasty=1009990251
+	dna="oaffmmldclp"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=7 learning=6
+	father=1019928339	#Haubariria
+	1038.9.11={ birth=yes }
+	1115.3.8={ death=yes }
+}
+1019928346={
+	name=Pirijá
+	dynasty=1009990251
+	dna="ealjibdpcpg"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	father=1019928339	#Haubariria
+	1043.2.16={ birth=yes }
+	1110.7.10={ death=yes }
+}
+1019928347={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="kpbpnldofch"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928339	#Haubariria
+	1047.10.21={ birth=yes }
+	1123.2.1={ death=yes }
+}
+1019928348={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="oaffomonlhc"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928345	#Wiwakaleme
+	1059.9.17={ birth=yes }
+	1126.1.15={ death=yes }
+}
+1019928349={
+	name=Pirijá
+	dynasty=1009990251
+	dna="oahopkldglp"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=8
+	father=1019928345	#Wiwakaleme
+	1063.10.12={ birth=yes }
+	1139.12.16={ death=yes }
+}
+1019928350={
+	name=Shoko
+	dynasty=1009990251
+	dna="oaffmmlddlp"
+	culture=maipurean religion=amazonian_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=8 learning=7
+	father=1019928345	#Wiwakaleme
+	1069.5.7={ birth=yes }
+	1134.9.6={ death=yes }
+}
+1019928351={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="hnafmnlbcja"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928345	#Wiwakaleme
+	1076.9.8={ birth=yes }
+	1134.5.24={ death=yes }
+}
+1019928352={
+	name=Haubariria
+	dynasty=1009990251
+	dna="eagondbdglh"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=7 learning=5
+	father=1019928349	#Pirijá
+	1095.10.18={ birth=yes }
+	1148.9.13={ death=yes }
+}
+1019928353={
+	name=Twengga
+	female=yes
+	dynasty=1009990251
+	dna="lakdeklamlp"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928349	#Pirijá
+	1099.2.3={ birth=yes }
+	1156.12.21={ death=yes }
+}
+1019928354={
+	name=Arata
+	dynasty=1009990251
+	dna="oenopbgdcci"
+	culture=maipurean religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=6
+	father=1019928349	#Pirijá
+	1105.1.1={ birth=yes }
+	1160.11.28={ death=yes }
+}
+1019928355={
+	name=Hayá
+	female=yes
+	dynasty=1009990251
+	dna="iahopelgalk"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928349	#Pirijá
+	1110.5.1={ birth=yes }
+	1180.8.2={ death=yes }
+}
+1019928356={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="nafjajbngib"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928352	#Haubariria
+	1117.7.22={ birth=yes }
+	1193.4.9={ death=yes }
+}
+1019928357={
+	name=Arata
+	dynasty=1009990251
+	dna="eegkjdidnbg"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	father=1019928352	#Haubariria
+	1120.6.26={ birth=yes }
+	1176.11.22={ death=yes }
+}
+1019928358={
+	name=Wiwakaleme
+	dynasty=1009990251
+	dna="eknebdgdgih"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	father=1019928352	#Haubariria
+	1128.11.16={ birth=yes }
+	1190.7.13={ death=yes }
+}
+1019928359={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="lanhknbogcm"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928352	#Haubariria
+	1132.5.22={ birth=yes }
+	1194.5.17={ death=yes }
+}
+1019928360={
+	name=Hayá
+	female=yes
+	dynasty=1009990251
+	dna="degdfdddngg"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928357	#Arata
+	1148.10.11={ birth=yes }
+	1225.11.29={ death=yes }
+}
+1019928361={
+	name=Twengga
+	female=yes
+	dynasty=1009990251
+	dna="ebgbfdidabg"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928357	#Arata
+	1153.9.24={ birth=yes }
+	1224.11.21={ death=yes }
+}
+1019928362={
+	name=Arata
+	dynasty=1009990251
+	dna="fmghlgialai"
+	culture=maipurean religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=4 learning=7
+	father=1019928357	#Arata
+	1157.11.16={ birth=yes }
+	1234.9.18={ death=yes }
+}
+1019928363={
+	name=Ebedimu
+	dynasty=1009990251
+	dna="jlgajdmoebn"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=4 learning=6
+	father=1019928357	#Arata
+	1162.6.2={ birth=yes }
+	1247.1.14={ death=yes }
+}
+1019928364={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="feghlgifhai"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928362	#Arata
+	1182.8.16={ birth=yes }
+	1236.10.5={ death=yes }
+}
+1019928365={
+	name=Laliwa
+	dynasty=1009990251
+	dna="fpghomnalai"
+	culture=maipurean religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=7 learning=8
+	father=1019928362	#Arata
+	1189.2.21={ birth=yes }
+	1261.12.27={ death=yes }
+}
+1019928366={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="bnghdmkihae"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928365	#Laliwa
+	1213.3.17={ birth=yes }
+	1269.10.3={ death=yes }
+}
+1019928367={
+	name=Twengga
+	female=yes
+	dynasty=1009990251
+	dna="mngooghahao"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928365	#Laliwa
+	1217.1.11={ birth=yes }
+	1297.6.9={ death=yes }
+}
+1019928368={
+	name=Áhari
+	dynasty=1009990251
+	dna="fnhfomnilef"
+	culture=maipurean religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=5 learning=8
+	father=1019928365	#Laliwa
+	1221.12.26={ birth=yes }
+	1281.4.14={ death=yes }
+}
+1019928369={
+	name=Arata
+	dynasty=1009990251
+	dna="fdhpnlnmlcc"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=6
+	father=1019928368	#Áhari
+	1248.3.11={ birth=yes }
+	1317.2.15={ death=yes }
+}
+1019928370={
+	name=Hayá
+	female=yes
+	dynasty=1009990251
+	dna="fnepbmnfcdl"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928368	#Áhari
+	1255.4.25={ birth=yes }
+	1325.12.5={ death=yes }
+}
+1019928371={
+	name=Arah
+	dynasty=1009990251
+	dna="jaafkmnilef"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=7 learning=7
+	father=1019928368	#Áhari
+	1258.2.9={ birth=yes }
+	1312.11.27={ death=yes }
+}
+1019928372={
+	name=Haubariria
+	dynasty=1009990251
+	dna="fjofpcnilef"
+	culture=maipurean religion=amazonian_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=5 learning=4
+	father=1019928368	#Áhari
+	1263.12.8={ birth=yes }
+	1342.7.15={ death=yes }
+}
+1019928373={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="fehhcoibjem"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928368	#Áhari
+	1269.3.23={ birth=yes }
+	1355.9.27={ death=yes }
+}
+1019928374={
+	name=Toruí
+	dynasty=1009990251
+	dna="fienomfpanf"
+	culture=maipurean religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	father=1019928368	#Áhari
+	1274.6.23={ birth=yes }
+	1348.12.29={ death=yes }
+}
+1019928375={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="kdhpmabclcc"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928369	#Arata
+	1279.7.27={ birth=yes }
+	1333.12.22={ death=yes }
+}
+1019928376={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="bippdiojlkc"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928369	#Arata
+	1286.7.3={ birth=yes }
+	1365.1.14={ death=yes }
+}
+1019928377={
+	name=Pirijá
+	dynasty=1009990251
+	dna="fdhpnlfmmhb"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=6 learning=4
+	father=1019928369	#Arata
+	1292.2.3={ birth=yes }
+	1349.12.27={ death=yes }
+}
+1019928378={
+	name=Toratora
+	dynasty=1009990251
+	dna="ihagnfegmhb"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=7 learning=7
+	father=1019928377	#Pirijá
+	1321.2.20={ birth=yes }
+	1379.5.16={ death=yes }
+}
+1019928379={
+	name=Hayá
+	female=yes
+	dynasty=1009990251
+	dna="imhpmbodmhn"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928377	#Pirijá
+	1324.6.6={ birth=yes }
+	1387.1.14={ death=yes }
+}
+1019928380={
+	name=Laliwa
+	dynasty=1009990251
+	dna="ddhmnhflmhb"
+	culture=maipurean religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=5 learning=5
+	father=1019928377	#Pirijá
+	1330.6.25={ birth=yes }
+	1402.7.12={ death=yes }
+}
+1019928381={
+	name=Twengga
+	female=yes
+	dynasty=1009990251
+	dna="fdncnnemmbd"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928377	#Pirijá
+	1337.8.18={ birth=yes }
+	1416.4.4={ death=yes }
+}
+1019928382={
+	name=Áhari
+	dynasty=1009990251
+	dna="ihlgjfegchb"
+	culture=maipurean religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=4 learning=8
+	father=1019928378	#Toratora
+	1351.5.27={ birth=yes }
+	1425.2.27={ death=yes }
+}
+1019928383={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="inagniegmjb"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928378	#Toratora
+	1355.4.4={ birth=yes }
+	1438.3.17={ death=yes }
+}
+1019928384={
+	name=Arah
+	dynasty=1009990251
+	dna="dbofflegihb"
+	culture=maipurean religion=amazonian_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=4 learning=8
+	father=1019928382	#Áhari
+	1378.5.25={ birth=yes }
+	1429.10.21={ death=yes }
+}
+1019928385={
+	name=Toruí
+	dynasty=1009990251
+	dna="bhlgdabccej"
+	culture=maipurean religion=amazonian_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=4 learning=7
+	father=1019928382	#Áhari
+	1384.2.7={ birth=yes }
+	1453.9.6={ death=yes }
+}
+1019928386={
+	name=Twengga
+	female=yes
+	dynasty=1009990251
+	dna="phihjmeabhf"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928382	#Áhari
+	1387.11.1={ birth=yes }
+	1458.1.22={ death=yes }
+}
+1019928387={
+	name=Ilumani
+	dynasty=1009990251
+	dna="bhdgjaecmhh"
+	culture=maipurean religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=5
+	father=1019928382	#Áhari
+	1393.1.14={ birth=yes }
+	1462.8.25={ death=yes }
+}
+1019928388={
+	name=Wiwakaleme
+	dynasty=1009990251
+	dna="ofofilkoimb"
+	culture=maipurean religion=amazonian_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=7
+	father=1019928384	#Arah
+	1409.3.22={ birth=yes }
+	1472.5.26={ death=yes }
+}
+1019928389={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="npoffjaaiea"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928384	#Arah
+	1414.4.16={ birth=yes }
+	1484.4.16={ death=yes }
+}
+1019928390={
+	name=Twengga
+	female=yes
+	dynasty=1009990251
+	dna="dglfilebgph"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928384	#Arah
+	1418.2.1={ birth=yes }
+	1475.7.26={ death=yes }
+}
+1019928391={
+	name=Shoko
+	dynasty=1009990251
+	dna="bichilfoilb"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=4 learning=6
+	father=1019928384	#Arah
+	1421.7.20={ birth=yes }
+	1476.11.11={ death=yes }
+}
+1019928392={
+	name=Takuiba
+	female=yes
+	dynasty=1009990251
+	dna="giofclegihk"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928384	#Arah
+	1423.5.11={ birth=yes }
+	1491.12.31={ death=yes }
+}
+1019928393={
+	name=Kaigouchi
+	dynasty=1009990251
+	dna="jfmfilkoimg"
+	culture=maipurean religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=8 learning=6
+	father=1019928388	#Wiwakaleme
+	1434.1.17={ birth=yes }
+	1502.2.24={ death=yes }
+}
+1019928394={
+	name=Áhari
+	dynasty=1009990251
+	dna="ofofklkohli"
+	culture=maipurean religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=5
+	father=1019928388	#Wiwakaleme
+	1441.11.20={ birth=yes }
+	1529.2.5={ death=yes }
+}
+1019928395={
+	name=Isani
+	female=yes
+	dynasty=1009990251
+	dna="elofilidimb"
+	culture=maipurean religion=amazonian_pagan
+	father=1019928388	#Wiwakaleme
+	1444.9.5={ birth=yes }
+	1507.9.4={ death=yes }
+}
+1019928396={
+	name=Toratora
+	dynasty=1009990251
+	dna="ofglbbemgmn"
+	culture=maipurean religion=amazonian_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	father=1019928388	#Wiwakaleme
+	1450.11.8={ birth=yes }
+	1514.4.6={ death=yes }
+}

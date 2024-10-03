@@ -1,0 +1,24 @@
+# 1799 - Manju
+
+# County Title
+title = c_manju
+
+# Settlements
+max_settlements = 4
+b_khaiyanx = castle
+b_laiyanx = castle
+b_ghuongmyon = castle
+b_yalu = temple
+
+# Misc
+culture = guryeo
+religion = shingyo
+
+# History
+
+1.1.1 = { 
+b_khaiyanx = ca_jd_wall_1
+b_laiyanx = ca_jd_wall_1
+b_ghuongmyon = ca_jd_wall_1
+}
+936.1.1 = { culture = korean }

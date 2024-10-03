@@ -1,0 +1,87 @@
+#Indochina
+
+technology = {
+	titles = {
+		d_bagan
+		d_arakan
+		d_kachin
+		d_shan
+		d_pegu
+		d_taungoo
+		d_martaban 
+		d_lanna
+		d_nan 
+		d_luang_prabang
+		d_khorat
+		d_champassak 
+		d_phanat
+		d_u_thong
+		d_ratchaburi
+	}
+
+	769 = {
+		military = 1.5
+		economy = 0.8
+		culture = 0.8
+	}
+		
+	1337 = {
+		military = 2.5
+		economy = 2.5
+		culture = 2.5
+	}
+	
+	1500 = {
+		military = 3
+		economy = 3
+		culture = 3
+	}
+	
+	1640 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}
+
+technology = {
+	titles = {
+		d_dali
+		d_lunghtungh
+		d_ghuadchjyen
+		d_kiamhchjyen
+		d_thaktung
+		d_thunghaix
+		d_yengxchjang 
+		d_hariphunchai
+		d_angkor
+		d_sambor
+		d_battambang
+		d_oc_eo 
+		d_lavodapura
+	}
+
+	769 = {
+		military = 1.0
+		economy = 2
+		culture = 1.2
+	}
+		
+	1337 = {
+		military = 3.0
+		economy = 3.0
+		culture = 3.0
+	}
+	
+	1500 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+	
+	1640 = {
+		military = 4
+		economy = 4
+		culture = 4
+	}
+}

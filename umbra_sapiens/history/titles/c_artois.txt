@@ -1,0 +1,119 @@
+740.1.1={
+	liege="k_france"
+	holder = 91487 #RODING [Hruoding], historical placeholder
+}
+862.1.1={
+	liege="d_flanders"
+	holder = 168064
+}
+890.1.1={
+	holder = 40398
+}
+926.1.1={
+	holder = 358 #Arnulf I
+}
+958.1.1={
+	holder = 360 #Boudewijn III
+}
+987.3.10={
+	holder = 362 #Boudewijn IV
+}
+1035.5.30={
+	holder=364 #Boudewijn V
+}
+1066.1.1=
+{
+	holder=93502
+}
+1100.1.1=
+{
+	holder=93503
+}
+1105.1.1=
+{
+	holder=93504
+}
+1138.1.1=
+{
+	holder=93505
+}
+1180.4.28=
+{
+	liege="k_france"
+}
+1180.4.28=
+{
+	holder=205522
+}
+1190.3.15={
+	holder=205506
+}
+1220.1.1 = {
+	holder = 32168
+}
+1223.7.14={
+	holder = 455402
+}
+1226.11.8={
+	holder = 455405
+}
+1250.2.8={
+	holder = 455546
+}
+1302.7.11={
+	holder = 91147
+}
+1329.10.28={
+	holder = 455741
+}
+1330.1.21={
+	holder = 455913
+}
+1347.8.15 = {
+	holder=381383	#Philippe Ier de Bourgogne
+	liege=d_burgundy
+}
+1361.11.21 = {
+	holder=455508	#Marguerite Ire de Bourgogne
+}
+1382.5.9 = {
+	holder=455712	#Louis II de Flandre
+}
+1384.11.9 = {
+	holder=370661	#Marguerite III de Flandre
+}
+1405.3.16 = {
+	holder=370527	#John the Fearless
+}
+1419.9.10 = {
+	holder=370536	#Philip the Good
+}
+1467.6.15 = {
+	holder=370558	#Charles the Bold
+}
+1477.1.5 = {
+	holder=370866 #Mary of Burgundy
+}
+1482.3.27 = {
+	holder=370841 #Louis XI
+}
+1483.8.30={
+	holder=370997 #Charles VIII
+}
+1493.5.23 = {
+	holder=370697	#Philip I of Castille
+	liege=e_hre
+}
+1506.9.25 = {
+	holder=370714	#Charles V of Castille and Holy Roman Emperor
+}
+1556.1.16={
+	holder=370718 #Philip II
+	liege=e_espana_burgona
+}
+1598.9.13={
+	holder=371850 #Philip III
+}
+1621.3.31={
+	holder=372606 #Philip IV
+}

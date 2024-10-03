@@ -1,0 +1,658 @@
+e_chukchi = {
+
+    	color = { 255 60 60 }
+    	color2 = { 255 255 255  }
+
+	capital = 4258 
+	culture = chukchi
+	k_khabarovsk = {
+	color = { 200 60 100 }
+   		color2 = { 255 255 255 }
+		culture = koryak
+		capital = 4229 
+			d_magadan = {
+			color={ 255 50 20 }
+			color2={ 255 255 255 }
+			capital = 4229 
+			c_magadan = {
+			color={ 172	120	142 }
+			color2={ 255 255 255 }
+			holy_site = yukaghir_pantheism
+			holy_site = yukaghir_pantheism_reformed
+			b_magadan = {}
+			b_ola = {}
+			b_gadlya = {}
+			b_klyopka = {}
+			b_arman = {}
+			}
+			c_glukharinyi = {
+			color={ 172	135	17 }
+			color2={ 255 255 255 }
+			b_glukharinyi = {}
+			}
+			c_merenga = {
+			color={ 46 141 18 }
+			color2={ 255 255 255 }
+			b_merenga = {}
+			}
+			c_seymchan = {
+			color={ 88 129 16 }
+			color2={ 255 255 255 }
+			b_seymchan = {}
+			b_kolymskoe = {}
+			}
+			}
+			d_druzhina = {
+			color={ 10 60 255 }
+			color2={ 255 255 255 }
+			capital = 4218 
+			c_druzhina = {
+			color={ 130	117	14 }
+			color2={ 255 255 255 }
+			b_druzhina = {}
+			b_kengkyuyol = {}
+			b_abyy = {}
+			b_desku = {}
+			b_syagannakh = {}
+			}
+			c_ustnera = {
+			color={ 4 123 15 }
+			color2={ 255 255 255 }
+			b_ustnera = {}
+			b_pobeda = {}
+			b_elginskii = {}
+			}
+			c_balagannoe = {
+			color={ 4 108 140 }
+			color2={ 255 255 255 }
+			b_balagannoe = {}
+			b_tauisk = {}
+			b_yanskii = {}
+			b_talon = {}
+			}
+			c_chumpukytyl = {
+			color={ 46 126 143 }
+			color2={ 255 255 255 }
+			b_chumpukytyl = {}
+			b_predporozhnyi = {}
+			}
+			c_takhtoyamsk = {
+			color={ 46 111 13 }
+			color2={ 255 255 255 }
+			b_takhtoyamsk = {}
+			}
+			c_zyryanka = {
+			color={ 130	132	144 }
+			color2={ 255 255 255 }
+			b_zyryanka = {}
+			b_verkhnekolymsk = {}
+			b_ugolnoye = {}
+			b_nelemnoye = {}
+			}
+			}
+			d_kekra = {
+			color={ 80 220 180 }
+			color2={ 255 255 255 }
+			capital = 4218 
+			c_zvyozdochka = {
+			color={ 46 96 138 }
+			color2={ 255 255 255 }
+			b_zvyozdochka = {}
+			b_solnechny = {}
+			b_ynykchan = {}
+			b_brindakit = {}
+			b_ogonok = {}
+			b_yugorenok = {}
+			}
+			c_keskil = {
+			color={ 4 93 10 }
+			color2={ 255 255 255 }
+			b_keskil = {}
+			b_meginoaldan = {}
+			b_krestkhaldzhay = {}
+			}
+			c_kekra = {
+			color={ 130	87 9 }
+			color2={ 255 255 255 }
+			b_kekra = {}
+			b_ayan = {}
+			b_ulya = {}
+			b_arka = {}
+			}
+			c_allakhyun = {
+			color={ 88 99 11 }
+			color2={ 255 255 255 }
+			b_allakhyun = {}
+			}
+			c_razbilka = {
+			color={ 172	105	12 }
+			color2={ 255 255 255 }
+			b_razbilka = {}
+			b_teplyklyuch = {}
+			b_kyubeme = {}
+			}
+			c_inskoe = {
+			color={ 172	90 137 }
+			color2={ 255 255 255 }
+			b_inskoe = {}
+			b_inya = {}
+			b_okhotsk = {}
+			}
+			c_aim = {
+			color={ 130	102	139 }
+			color2={ 255 255 255 }
+			b_aim = {}
+			}
+			}
+		}
+	k_yukaghir = {
+	color = { 60 200 100 }
+   		color2 = { 255 255 255 }
+		culture = yukaghir
+		capital = 4181 
+		d_chkalov = {
+			color={ 160 180 200 }
+			color2={ 255 255 255 }
+			capital = 4181 
+			c_chkalov = {
+			color={ 46 189 218 }
+			color2={ 255 255 255 }
+			b_chkalov = {}
+			}
+			c_uyandi = {
+			color={ 130	180	89 }
+			color2={ 255 255 255 }
+			b_uyandi = {}
+			}
+			c_olenegorsk = {
+			color={ 130	195	219 }
+			color2={ 255 255 255 }
+			b_olenegorsk = {}
+			}
+			c_russkoyeustye = {
+			color={ 88 192 91 }
+			color2={ 255 255 255 }
+			b_russkoyeustye = {}
+			}
+			c_chokurdakh = {
+			color={ 172	198	92 }
+			color2={ 255 255 255 }
+			b_chokurdakh = {}
+			}
+			c_yermolovo = {
+			color={ 88 207 221 }
+			color2={ 255 255 255 }
+			b_yermolovo = {}
+			}
+			c_kolymskoye = {
+			color={ 46 204 93 }
+			color2={ 255 255 255 }
+			b_kolymskoye = {}
+			}
+			}
+			d_sobolokh = {
+			color={ 60 200 170 }
+			color2={ 255 255 255 }
+			capital = 4227 
+			c_topolovka = {
+			color={ 88 84 136 }
+			color2={ 255 255 255 }
+			holy_site = yukaghir_pantheism
+			holy_site = yukaghir_pantheism_reformed
+			b_topolovka = {}
+			b_gizhiga = {}
+			}
+			c_omolon = {
+			color={ 130	147	19 }
+			color2={ 255 255 255 }
+			b_omolon = {}
+			}
+			c_sobolokh = {
+			color={ 88 114 141 }
+			color2={ 255 255 255 }
+			holy_site = yukaghir_pantheism
+			holy_site = yukaghir_pantheism_reformed
+			holy_site = chukchi_pantheism
+			holy_site = chukchi_pantheism_reformed
+			b_sobolokh = {}
+			b_suontit = {}
+			b_chybagalakhskiy = {}
+			}
+			c_srednekolymsk = {
+			color={ 4 138 145 }
+			color2={ 255 255 255 }
+			b_srednekolymsk = {}
+			b_lobuya = {}
+			b_baydinskiy = {}
+			}
+			c_omsukchan = {
+			color={ 88 144 146 }
+			color2={ 255 255 255 }
+			b_omsukchan = {}
+			b_galimyi = {}
+			b_dukat = {}
+			}
+			}
+		}
+	k_chukchi = {
+	color = { 220 78 78 }
+   		color2 = { 255 255 255 }
+		culture = chukchi
+		d_egvekinot = {
+			color={ 150 200 100 }
+			color2={ 255 255 255 }
+			capital = 4201 
+			c_egvekinot = {
+			color={ 46	36	128 }
+			color2={ 255 255 255 }
+			b_egvekinot = {}
+			}
+			c_anadyr = {
+			color={ 172	45	2 }
+			color2={ 255 255 255 }
+			b_anadyr = {}
+			b_tavayvaam = {}
+			b_shakhtyorsky = {}
+			b_ugolnyekopi = {}
+			}
+			c_amguema = {
+			color={ 4 33 0 }
+			color2={ 255 255 255 }
+			b_amguema = {}
+			}
+			c_ryrkaypiy = {
+			color={ 88 9 96 }
+			color2={ 255 255 255 }
+			b_ryrkaypiy = {}
+			}
+			c_uelkal = {
+			color={ 88 39 1 }
+			color2={ 255 255 255 }
+			b_uelkal = {}
+			}
+			c_polyarny = {
+			color={ 46 6 223 }
+			color2={ 255 255 255 }
+			b_polyarny = {}
+			}
+			}
+			d_yanrakynnot = {
+			color={ 190 200 100 }
+			color2={ 255 255 255 }
+			capital = 4195 
+			c_wrangel = {
+			holy_site = chukchi_pantheism
+			holy_site = chukchi_pantheism_reformed
+			color={ 46	57	33 }
+			color2={ 255 255 255 }
+			b_zvozdnyy = {}
+			b_ushakovskoye = {}
+			}
+			c_yanrakynnot = {
+			color={ 4 18 225 }
+			color2={ 255 255 255 }
+			b_yanrakynnot = {}
+			b_sireniki = {}
+			b_novoyechaplino = {}
+			}
+			c_uelen = {
+			color={ 46 21 98 }
+			color2={ 255 255 255 }
+			b_uelen = {}
+			b_diomede = {}
+			b_lavrentiya = {}
+			}
+			c_stlawrence = {
+			color={ 130	27 99 }
+			color2={ 255 255 255 }
+			b_savoonga = {}
+			b_gambell = {}
+			}
+			}
+			d_khatyrka = {
+			color={ 160 220 120 }
+			color2={ 255 255 255 }
+			capital = 4206 
+			c_khatyrka = {
+			color={ 46 51 3 }
+			color2={ 255 255 255 }
+			b_khatyrka = {}
+			}
+			c_beringovskii = {
+			color={ 4 48 130 }
+			color2={ 255 255 255 }
+			holy_site = chukchi_pantheism
+			holy_site = chukchi_pantheism_reformed
+			b_beringovskii = {}
+			b_alkatvaam = {}
+			}
+			c_berozovo = {
+			color={ 150 100 140 }
+			color2={ 255 255 255 }
+			b_berozovo = {}
+			}
+			c_pahachi = {
+			color={ 4 63 5 }
+			color2={ 255 255 255 }
+			b_pahachi = {}
+			}
+			c_anadyrsk = {
+			color={ 130	57 4 }
+			color2={ 255 255 255 }
+			b_anadyrsk = {}
+			}
+			c_duvan = {
+			color={ 172	75 7 }
+			color2={ 255 255 255 }
+			b_duvan = {}
+			}
+			c_selskoye = {
+			color={ 4 78 135 }
+			color2={ 255 255 255 }
+			b_selskoye = {}
+			}
+			}
+			d_manily = {
+			color={ 255 210 180 }
+			color2={ 255 255 255 }
+			capital = 4243 
+			c_manily = {
+			color={ 130	162	149 }
+			color2={ 255 255 255 }
+			b_manily = {}
+			b_kamenskoe = {}
+			}
+			c_ayanka = {
+			color={ 88 159 21 }
+			color2={ 255 255 255 }
+			b_ayanka = {}
+			}
+			c_vesenny = {
+			color={ 4 153 20 }
+			color2={ 255 255 255 }
+			b_vesenny = {}
+			}
+			c_vaegi = {
+			color={ 46 81 8 }
+			color2={ 255 255 255 }
+			b_vaegi = {}
+			}
+			c_oklan = {
+			color={ 46 156 148 }
+			color2={ 255 255 255 }
+			b_oklan = {}
+			}
+			}
+		d_neshkan = {
+			color={ 180 210 190 }
+			color2={ 255 255 255 }
+			capital = 4201 
+			c_neshkan = {
+			color={ 172	15 97 }
+			color2={ 255 255 255 }
+			b_neshkan = {}
+			b_enurmino = {}
+			}
+			c_vankarem = {
+			color={ 130	12	224 }
+			color2={ 255 255 255 }
+			b_vankarem = {}
+			b_nutepelmen = {}
+			}
+			c_nunligran = {
+			color={ 88 24 226 }
+			color2={ 255 255 255 }
+			b_nunligran = {}
+			b_enmelen = {}
+			}
+			c_konergino = {
+			color={ 172	30 227 }
+			color2={ 255 255 255 }
+			b_konergino = {}
+			}
+			}
+		d_valkumey = {
+			color={ 160 255 160 }
+			color2={ 255 255 255 }
+			capital = 4190 
+			c_valkumey = {
+			color={ 4 3 95 }
+			color2={ 255 255 255 }
+			b_valkumey = {}
+			b_pevek = {}
+			b_krasnoarmeyskiy = {}
+			b_bystry = {}
+			b_komsomolsky = {}
+			}
+			c_ustbelaya = {
+			color={ 172	60 132 }
+			color2={ 255 255 255 }
+			b_ustbelaya = {}
+			b_otrozhny = {}
+			}
+			c_mayskiy = {
+			color={ 130	42 129 }
+			color2={ 255 255 255 }
+			b_mayskiy = {}
+			}
+			c_krasneno = {
+			color={ 88 54 131 }
+			color2={ 255 255 255 }
+			b_krasneno = {}
+			}
+			c_lamutskoye = {
+			color={ 130	72 134 }
+			color2={ 255 255 255 }
+			b_lamutskoye = {}
+			}
+			c_ayon = {
+			color={ 172	0 222 }
+			color2={ 255 255 255 }
+			b_ayon = {}
+			}
+			}
+			d_chersky = {
+			color={ 60 250 200 }
+			color2={ 255 255 255 }
+			capital = 4181 
+			c_chersky = {
+			color={ 46 66 133 }
+			color2={ 255 255 255 }
+			b_chersky = {}
+			b_aniuisk = {}
+			}
+			c_mikhalkino = {
+			color={ 130	210	94 }
+			color2={ 255 255 255 }
+			holy_site = yukaghir_pantheism
+			holy_site = yukaghir_pantheism_reformed
+			holy_site = chukchi_pantheism
+			holy_site = chukchi_pantheism_reformed
+			b_mikhalkino = {}
+			b_kraylesa = {}
+			b_pokhodsk = {}
+			}
+			c_andryushkino = {
+			color={ 4 201 220 }
+			color2={ 255 255 255 }
+			b_andryushkino = {}
+			}
+			c_mandrikovo = {
+			color={ 172	150	147 }
+			color2={ 255 255 255 }
+			b_mandrikovo = {}
+			}
+			c_ostrovnoye = {
+			color={ 88 69 6 }
+			color2={ 255 255 255 }
+			b_ostrovnoye = {}
+			b_bilibino = {}
+			b_keperveyem = {}
+			}
+			}
+	}
+	k_koryak = {
+	color = { 210 136 67 }
+   		color2 = { 255 255 255 }
+		culture = chukchi
+		d_sokoch = {
+			color={ 200 60 210 }
+			color2={ 255 255 255 }
+			capital = 4261 
+			c_sokoch = {
+			color={ 46 3 158 }
+			color2={ 255 255 255 }
+			holy_site = chukchi_pantheism
+			holy_site = chukchi_pantheism_reformed
+			b_sokoch = {}
+			b_nachiki = {}
+			b_apacha = {}
+			b_malka = {}
+			b_dalniy = {}
+			b_ganaly = {}
+			}
+			c_petropavlovsk = {
+			color={ 172	195	27 }
+			color2={ 255 255 255 }
+			b_petropavlovsk = {}
+			b_vilyuchinsk = {}
+			b_paratunka = {}
+			b_nikolaevka = {}
+			b_zaozernyy = {}
+			b_chapayevka = {}
+			}
+			c_ozernovskiy = {
+			color={ 130	207	29 }
+			color2={ 255 255 255 }
+			b_ozernovskiy = {}
+			b_zaporozhye = {}
+			b_pauzhetka = {}
+			}
+			c_lazo = {
+			color={ 130	192	154 }
+			color2={ 255 255 255 }
+			b_lazo = {}
+			}
+			}
+			d_ustbolsheretsk = {
+			color={ 160 150 255 }
+			color2={ 255 255 255 }
+			capital = 4259 
+			c_ustbolsheretsk = {
+			color={ 172	210	157 }
+			color2={ 255 255 255 }
+			b_ustbolsheretsk = {}
+			b_kavalerskoye = {}
+			}
+			c_kikhchik = {
+			color={ 4 0 30 }
+			color2={ 255 255 255 }
+			b_kikhchik = {}
+			}
+			c_esso = {
+			color={ 88 6 31 }
+			color2={ 255 255 255 }
+			b_esso = {}
+			}
+			c_ustkhayryuzovo = {
+			color={ 88 204 156 }
+			color2={ 255 255 255 }
+			b_ustkhayryuzovo = {}
+			}
+			c_voyampolka = {
+			color={ 4 198 155 }
+			color2={ 255 255 255 }
+			b_voyampolka = {}
+			}
+			}
+			d_bering = {
+			color={ 40 255 50 }
+			color2={ 255 255 255 }
+			capital = 4282 
+			c_adak = {
+			color={ 88 66 41 }
+			color2={ 255 255 255 }
+			b_adak = {}
+			b_atka = {}
+			}
+			c_unalaska = {
+			color={ 46 18 33 }
+			color2={ 255 255 255 }
+			b_unalaska = {}
+			}
+			c_mayskoye = {
+			color={ 172	12 32 }
+			color2={ 255 255 255 }
+			b_mayskoye = {}
+			}
+			c_bering = {
+			color={ 130	9 159 }
+			color2={ 255 255 255 }
+			b_nikolskoe = {}
+			}
+			}
+			d_dolinovka = {
+			color={ 150 150 250 }
+			color2={ 255 255 255 }
+			capital = 4281 
+			c_dolinovka = {
+			color={ 46	63	168 }
+			color2={ 255 255 255 }
+			b_dolinovka = {}
+			b_tayezhnyy = {}
+			}
+			c_kliuchi = {
+			color={ 88 189 26 }
+			color2={ 255 255 255 }
+			b_kliuchi = {}
+			}
+			c_anavgay = {
+			color={ 46 201 28 }
+			color2={ 255 255 255 }
+			b_anavgay = {}
+			}
+			c_ustkamchatsk = {
+			color={ 46 186 153 }
+			color2={ 255 255 255 }
+			b_ustkamchatsk = {}
+			}
+			}
+			d_tilichiki = {
+			color={ 145 20 155 }
+			color2={ 255 255 255 }
+			capital = 4245 
+			c_tilichiki = {
+			color={ 4 168 150 }
+			color2={ 255 255 255 }
+			b_tilichiki = {}
+			b_korf = {}
+			}
+			c_khailino = {
+			color={ 172	165	22 }
+			color2={ 255 255 255 }
+			b_khailino = {}
+			}
+			c_talovka = {
+			color={ 46 171 23 }
+			color2={ 255 255 255 }
+			b_talovka = {}
+			}
+			c_ilpyrskoye = {
+			color={ 130	177	24 }
+			color2={ 255 255 255 }
+			b_ilpyrskoye = {}
+			}
+			c_palana = {
+			color={ 172	180	152 }
+			color2={ 255 255 255 }
+			b_palana = {}
+			}
+			c_karaga = {
+			color={ 4 183 25 }
+			color2={ 255 255 255 }
+			b_karaga = {}
+			b_ossora = {}
+			}
+			}
+	}
+	}

@@ -1,0 +1,1017 @@
+1019919461={
+	name=Moctezuma
+	dynasty=1009990162
+	dna="pjpdcaalpnf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=temperate add_trait=gregarious add_trait=lustful 
+	add_trait=depressed 
+	719.9.6={ birth=yes }
+	799.5.26={ death=yes }
+}
+1019919462={
+	name=Chimalpilli
+	dynasty=1009990162
+	dna="pjkigaalpnf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=slothful add_trait=proud add_trait=patient 
+	father=1019919461	#Moctezuma
+	753.10.22={ birth=yes }
+	812.10.6={ death=yes }
+}
+1019919463={
+	name=Izel
+	female=yes
+	dynasty=1009990162
+	dna="bjpnbaalplf"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919461	#Moctezuma
+	756.7.10={ birth=yes }
+	829.9.15={ death=yes }
+}
+1019919464={
+	name=Tlaloc
+	dynasty=1009990162
+	dna="apoecfejpna"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=7 learning=4
+	add_trait=flamboyant_schemer add_trait=just add_trait=chaste 
+	father=1019919461	#Moctezuma
+	762.8.12={ birth=yes }
+	834.1.9={ death=yes }
+}
+1019919465={
+	name=Ixtlilxochitl
+	dynasty=1009990162
+	dna="pjohkaajphi"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=slothful add_trait=proud add_trait=shy add_trait=ambitious 
+	father=1019919461	#Moctezuma
+	767.1.13={ birth=yes }
+	816.1.27={ death=yes }
+}
+1019919466={
+	name=Chipahua
+	female=yes
+	dynasty=1009990162
+	dna="pjkdfaclpdo"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919462	#Chimalpilli
+	775.6.26={ birth=yes }
+	832.8.15={ death=yes }
+}
+1019919467={
+	name=Huitzitl
+	dynasty=1009990162
+	dna="pheegekahgf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=slothful add_trait=humble add_trait=just 
+	father=1019919462	#Chimalpilli
+	781.4.24={ birth=yes }
+	841.11.2={ death=yes }
+}
+1019919468={
+	name=Cozamalotl
+	female=yes
+	dynasty=1009990162
+	dna="bfkpidakgcf"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919462	#Chimalpilli
+	788.5.6={ birth=yes }
+	864.5.23={ death=yes }
+}
+1019919469={
+	name=Ocuil
+	dynasty=1009990162
+	dna="pjkpiphjpnf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=5 learning=6
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=patient add_trait=content 
+	add_trait=temperate 
+	father=1019919462	#Chimalpilli
+	794.4.4={ birth=yes }
+	879.2.3={ death=yes }
+}
+1019919470={
+	name=Chimalpopoca
+	dynasty=1009990162
+	dna="aheeiegahni"
+	culture=tlapanec religion=mixtec_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=4
+	add_trait=martial_cleric add_trait=mystic add_trait=diligent add_trait=wroth 
+	add_trait=proud 
+	father=1019919467	#Huitzitl
+	799.6.12={ birth=yes }
+	884.12.31={ death=yes }
+}
+1019919471={
+	name=Huehue-Zaca
+	female=yes
+	dynasty=1009990162
+	dna="pbnmgjcahgk"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919467	#Huitzitl
+	805.12.10={ birth=yes }
+	893.4.27={ death=yes }
+}
+1019919472={
+	name=Coanacoch
+	dynasty=1009990162
+	dna="ahdeaejahni"
+	culture=tlapanec religion=mixtec_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=lustful add_trait=brave add_trait=patient add_trait=deceitful 
+	add_trait=diligent 
+	father=1019919470	#Chimalpopoca
+	829.10.12={ birth=yes }
+	909.6.7={ death=yes }
+}
+1019919473={
+	name=Xocoyotl
+	female=yes
+	dynasty=1009990162
+	dna="aleeiljahoi"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919470	#Chimalpopoca
+	834.10.26={ birth=yes }
+	918.6.16={ death=yes }
+}
+1019919474={
+	name=Cuetlachtli
+	dynasty=1009990162
+	dna="bheeiagammc"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=7
+	add_trait=grey_eminence add_trait=envious add_trait=brave add_trait=trusting add_trait=charitable 
+	father=1019919470	#Chimalpopoca
+	841.12.27={ birth=yes }
+	900.11.26={ death=yes }
+}
+1019919475={
+	name=Opochtli
+	dynasty=1009990162
+	dna="agdeaeipaib"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=gregarious add_trait=trusting add_trait=content 
+	father=1019919472	#Coanacoch
+	852.7.4={ birth=yes }
+	903.6.12={ death=yes }
+}
+1019919476={
+	name=Coatl
+	dynasty=1009990162
+	dna="adleaejapni"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	add_trait=elusive_shadow add_trait=craven add_trait=arbitrary add_trait=gregarious add_trait=paranoid 
+	add_trait=humble add_trait=drunkard 
+	father=1019919472	#Coanacoch
+	854.12.11={ birth=yes }
+	921.3.23={ death=yes }
+}
+1019919477={
+	name=Papa
+	female=yes
+	dynasty=1009990162
+	dna="hmddkejlanj"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919472	#Coanacoch
+	862.5.18={ birth=yes }
+	930.9.10={ death=yes }
+}
+1019919478={
+	name=Matlalatzin
+	female=yes
+	dynasty=1009990162
+	dna="aaiehkjkhcg"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919472	#Coanacoch
+	865.3.26={ birth=yes }
+	950.6.4={ death=yes }
+}
+1019919479={
+	name=Huitztecol
+	dynasty=1009990162
+	dna="jgdeaeipamo"
+	culture=tlapanec religion=mixtec_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=slothful add_trait=humble add_trait=envious add_trait=zealous 
+	add_trait=wroth 
+	father=1019919475	#Opochtli
+	881.10.9={ birth=yes }
+	961.12.20={ death=yes }
+}
+1019919480={
+	name=Tecocoltzin
+	dynasty=1009990162
+	dna="agdeaempaio"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=4
+	add_trait=skilled_tactician add_trait=duelist add_trait=paranoid add_trait=charitable add_trait=arbitrary 
+	add_trait=envious add_trait=slothful 
+	father=1019919475	#Opochtli
+	884.2.21={ birth=yes }
+	960.2.29={ death=yes }
+}
+1019919481={
+	name=Cuitlahuac
+	dynasty=1009990162
+	dna="ddjedeiaacb"
+	culture=tlapanec religion=mixtec_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=brave add_trait=humble add_trait=slothful add_trait=just 
+	add_trait=wounded 
+	father=1019919475	#Opochtli
+	889.12.11={ birth=yes }
+	952.8.22={ death=yes }
+}
+1019919482={
+	name=Moquihuix
+	dynasty=1009990162
+	dna="jkbeaeiphaf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=5 learning=7
+	add_trait=indulgent_wastrel add_trait=gardener add_trait=deceitful add_trait=ambitious add_trait=shy 
+	add_trait=stressed 
+	father=1019919479	#Huitztecol
+	912.3.25={ birth=yes }
+	982.5.1={ death=yes }
+}
+1019919483={
+	name=Patli
+	female=yes
+	dynasty=1009990162
+	dna="egpiaeacalo"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919479	#Huitztecol
+	915.3.17={ birth=yes }
+	981.3.11={ death=yes }
+}
+1019919484={
+	name=Mazatl
+	dynasty=1009990162
+	dna="fgdeahigamh"
+	culture=tlapanec religion=mixtec_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	add_trait=mastermind_theologian add_trait=humble add_trait=ambitious add_trait=charitable 
+	father=1019919479	#Huitztecol
+	919.10.8={ birth=yes }
+	985.9.14={ death=yes }
+}
+1019919485={
+	name=Xocoh
+	female=yes
+	dynasty=1009990162
+	dna="jgmeaphdcma"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919479	#Huitztecol
+	922.10.3={ birth=yes }
+	997.1.7={ death=yes }
+}
+1019919486={
+	name=Centehua
+	female=yes
+	dynasty=1009990162
+	dna="jldhafnplmp"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919479	#Huitztecol
+	927.9.14={ birth=yes }
+	984.7.17={ death=yes }
+}
+1019919487={
+	name=Itzcoatl
+	dynasty=1009990162
+	dna="bgnelnipama"
+	culture=tlapanec religion=mixtec_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=6
+	add_trait=grey_eminence add_trait=patient add_trait=trusting add_trait=just add_trait=ambitious 
+	father=1019919479	#Huitztecol
+	931.10.4={ birth=yes }
+	1008.9.22={ death=yes }
+}
+1019919488={
+	name=Cozamalotl
+	female=yes
+	dynasty=1009990162
+	dna="jpeeadepamo"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919479	#Huitztecol
+	937.7.13={ birth=yes }
+	990.8.12={ death=yes }
+}
+1019919489={
+	name=Xihuitl
+	dynasty=1009990162
+	dna="jkbeamkplmf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	add_trait=elusive_shadow add_trait=cynical add_trait=craven add_trait=temperate add_trait=humble 
+	father=1019919482	#Moquihuix
+	936.8.16={ birth=yes }
+	1005.12.12={ death=yes }
+}
+1019919490={
+	name=Yolotli
+	dynasty=1009990162
+	dna="jhbenfephaf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=shy add_trait=wounded add_trait=lunatic 
+	father=1019919482	#Moquihuix
+	940.12.3={ birth=yes }
+	1007.8.19={ death=yes }
+}
+1019919491={
+	name=Tototl
+	dynasty=1009990162
+	dna="enkecgigpaf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=temperate add_trait=arbitrary add_trait=lustful add_trait=cynical 
+	add_trait=stressed 
+	father=1019919482	#Moquihuix
+	947.9.7={ birth=yes }
+	1019.10.8={ death=yes }
+}
+1019919492={
+	name=Xilonen
+	female=yes
+	dynasty=1009990162
+	dna="iefpkekbgel"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919482	#Moquihuix
+	951.8.2={ birth=yes }
+	1011.1.23={ death=yes }
+}
+1019919493={
+	name=Tototl
+	dynasty=1009990162
+	dna="jceelmbplmf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=paranoid add_trait=charitable add_trait=slothful 
+	add_trait=depressed 
+	father=1019919489	#Xihuitl
+	960.11.10={ birth=yes }
+	1037.4.12={ death=yes }
+}
+1019919494={
+	name=Xiuhpilli
+	dynasty=1009990162
+	dna="hmheaimjome"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=5 learning=6
+	add_trait=martial_cleric add_trait=shy add_trait=ambitious add_trait=temperate 
+	father=1019919489	#Xihuitl
+	966.11.24={ birth=yes }
+	1016.9.21={ death=yes }
+}
+1019919495={
+	name=Itzcuintli
+	dynasty=1009990162
+	dna="okmeimepjmf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=content add_trait=diligent 
+	add_trait=lunatic 
+	father=1019919489	#Xihuitl
+	972.9.20={ birth=yes }
+	1034.8.13={ death=yes }
+}
+1019919496={
+	name=Xocoh
+	female=yes
+	dynasty=1009990162
+	dna="gejjiokfjij"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919489	#Xihuitl
+	974.4.7={ birth=yes }
+	1029.5.20={ death=yes }
+}
+1019919497={
+	name=Xochitl
+	dynasty=1009990162
+	dna="lkfjamhdchf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=cynical add_trait=brave 
+	father=1019919489	#Xihuitl
+	978.10.3={ birth=yes }
+	1059.7.7={ death=yes }
+}
+1019919498={
+	name=Coatl
+	dynasty=1009990162
+	dna="ginekckelmf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=4
+	add_trait=intricate_webweaver add_trait=trusting add_trait=chaste add_trait=ambitious 
+	father=1019919489	#Xihuitl
+	981.10.11={ birth=yes }
+	1041.10.8={ death=yes }
+}
+1019919499={
+	name=Itotia
+	female=yes
+	dynasty=1009990162
+	dna="japoabcpjjf"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919489	#Xihuitl
+	984.3.17={ birth=yes }
+	1055.4.17={ death=yes }
+}
+1019919500={
+	name=Quiauhxochitl
+	female=yes
+	dynasty=1009990162
+	dna="jceeldbeldf"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919493	#Tototl
+	985.1.11={ birth=yes }
+	1048.2.19={ death=yes }
+}
+1019919501={
+	name=Acamapichtli
+	dynasty=1009990162
+	dna="nieefmcplmo"
+	culture=tlapanec religion=mixtec_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=gregarious add_trait=gluttonous add_trait=zealous 
+	add_trait=brave 
+	father=1019919493	#Tototl
+	989.6.26={ birth=yes }
+	1060.4.27={ death=yes }
+}
+1019919502={
+	name=Xipil
+	dynasty=1009990162
+	dna="flelfmbplho"
+	culture=tlapanec religion=mixtec_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	add_trait=mastermind_theologian add_trait=proud add_trait=greedy add_trait=brave add_trait=cynical 
+	father=1019919501	#Acamapichtli
+	1013.11.27={ birth=yes }
+	1084.9.18={ death=yes }
+}
+1019919503={
+	name=Cozamalotl
+	female=yes
+	dynasty=1009990162
+	dna="gdmfpmcalpc"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919501	#Acamapichtli
+	1020.12.24={ birth=yes }
+	1103.10.28={ death=yes }
+}
+1019919504={
+	name=Huehue-Zaca
+	female=yes
+	dynasty=1009990162
+	dna="dienfdbplfh"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919501	#Acamapichtli
+	1022.10.15={ birth=yes }
+	1099.2.19={ death=yes }
+}
+1019919505={
+	name=Xochitl
+	dynasty=1009990162
+	dna="flelfcbclho"
+	culture=tlapanec religion=mixtec_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=paranoid add_trait=humble add_trait=temperate add_trait=cynical 
+	
+	father=1019919502	#Xipil
+	1036.5.3={ birth=yes }
+	1101.9.10={ death=yes }
+}
+1019919506={
+	name=Nezahualcoyotl
+	dynasty=1009990162
+	dna="fnelfmbphhk"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	add_trait=thrifty_clerk add_trait=gluttonous add_trait=shy  add_trait=possessed 
+	father=1019919502	#Xipil
+	1040.3.21={ birth=yes }
+	1093.12.15={ death=yes }
+}
+1019919507={
+	name=Momoztli
+	female=yes
+	dynasty=1009990162
+	dna="fenhnbdbeho"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919502	#Xipil
+	1045.9.14={ birth=yes }
+	1102.6.1={ death=yes }
+}
+1019919508={
+	name=Yolotli
+	dynasty=1009990162
+	dna="nmkmfkbnllo"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=envious add_trait=cynical add_trait=just 
+	add_trait=wroth add_trait=stressed 
+	father=1019919505	#Xochitl
+	1070.4.27={ birth=yes }
+	1152.8.28={ death=yes }
+}
+1019919509={
+	name=Acacitli
+	dynasty=1009990162
+	dna="fljlicbclho"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	add_trait=tough_soldier add_trait=trusting add_trait=deceitful add_trait=cynical add_trait=brave 
+	add_trait=arbitrary 
+	father=1019919505	#Xochitl
+	1074.6.25={ birth=yes }
+	1144.6.11={ death=yes }
+}
+1019919510={
+	name=Momoztli
+	female=yes
+	dynasty=1009990162
+	dna="hlololbjmno"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919505	#Xochitl
+	1079.8.16={ birth=yes }
+	1152.7.28={ death=yes }
+}
+1019919511={
+	name=Itzcoatl
+	dynasty=1009990162
+	dna="egejdkbneie"
+	culture=tlapanec religion=mixtec_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=4
+	add_trait=skilled_tactician add_trait=impaler add_trait=envious 
+	father=1019919508	#Yolotli
+	1102.7.24={ birth=yes }
+	1185.9.24={ death=yes }
+}
+1019919512={
+	name=Tecolotl
+	dynasty=1009990162
+	dna="njiobfbgolo"
+	culture=tlapanec religion=mixtec_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	add_trait=tough_soldier add_trait=wroth add_trait=slothful add_trait=craven 
+	father=1019919508	#Yolotli
+	1105.3.4={ birth=yes }
+	1169.3.16={ death=yes }
+}
+1019919513={
+	name=Cuitlahuac
+	dynasty=1009990162
+	dna="nmkcfgbollg"
+	culture=tlapanec religion=mixtec_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=temperate add_trait=slothful add_trait=gregarious 
+	father=1019919508	#Yolotli
+	1110.10.3={ birth=yes }
+	1206.3.27={ death=yes }
+}
+1019919514={
+	name=Tezozomoc
+	female=yes
+	dynasty=1009990162
+	dna="jmkgalhnllb"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919508	#Yolotli
+	1115.12.1={ birth=yes }
+	1187.4.14={ death=yes }
+}
+1019919515={
+	name=Cihuaton
+	female=yes
+	dynasty=1009990162
+	dna="nimalibollk"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919508	#Yolotli
+	1119.8.16={ birth=yes }
+	1177.8.22={ death=yes }
+}
+1019919516={
+	name=Yolyamanitzin
+	dynasty=1009990162
+	dna="nmmifkgnllo"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	add_trait=martial_cleric add_trait=wroth add_trait=temperate add_trait=diligent 
+	father=1019919508	#Yolotli
+	1125.4.6={ birth=yes }
+	1219.10.6={ death=yes }
+}
+1019919517={
+	name=Xiuhpilli
+	dynasty=1009990162
+	dna="fkbhiknbhfo"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=8 learning=8
+	add_trait=midas_touched add_trait=paranoid add_trait=clubfooted 
+	father=1019919508	#Yolotli
+	1127.11.27={ birth=yes }
+	1214.4.6={ death=yes }
+}
+1019919518={
+	name=Itzcuintli
+	dynasty=1009990162
+	dna="ngdajkhjefe"
+	culture=tlapanec religion=mixtec_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=7
+	add_trait=mastermind_theologian add_trait=diligent add_trait=gregarious add_trait=depressed 
+	father=1019919511	#Itzcoatl
+	1129.12.24={ birth=yes }
+	1169.9.21={ death=yes }
+}
+1019919519={
+	name=Yaotl
+	dynasty=1009990162
+	dna="flmjdkpneek"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	add_trait=midas_touched add_trait=paranoid add_trait=craven add_trait=just 
+	father=1019919511	#Itzcoatl
+	1133.11.14={ birth=yes }
+	1222.2.9={ death=yes }
+}
+1019919520={
+	name=Nezahualcoyotl
+	dynasty=1009990162
+	dna="epejnkbnpge"
+	culture=tlapanec religion=mixtec_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=4
+	add_trait=misguided_warrior add_trait=brave add_trait=gregarious add_trait=envious add_trait=proud 
+	add_trait=depressed 
+	father=1019919511	#Itzcoatl
+	1139.11.14={ birth=yes }
+	1234.9.4={ death=yes }
+}
+1019919521={
+	name=Chalchiuitl
+	female=yes
+	dynasty=1009990162
+	dna="eaejhkfffie"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919511	#Itzcoatl
+	1144.1.15={ birth=yes }
+	1221.2.14={ death=yes }
+}
+1019919522={
+	name=Xilonen
+	female=yes
+	dynasty=1009990162
+	dna="ngbajdpjnke"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919518	#Itzcuintli
+	1152.4.10={ birth=yes }
+	1218.9.25={ death=yes }
+}
+1019919523={
+	name=Matlalihuitl
+	dynasty=1009990162
+	dna="kgdimnajege"
+	culture=tlapanec religion=mixtec_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=celibate add_trait=craven add_trait=gluttonous add_trait=greedy 
+	father=1019919518	#Itzcuintli
+	1156.6.20={ birth=yes }
+	1224.12.3={ death=yes }
+}
+1019919524={
+	name=Xihuitl
+	dynasty=1009990162
+	dna="pndcmjmjbjm"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=7 learning=6
+	add_trait=detached_priest add_trait=just add_trait=gluttonous add_trait=ambitious 
+	father=1019919523	#Matlalihuitl
+	1188.3.25={ birth=yes }
+	1267.4.17={ death=yes }
+}
+1019919525={
+	name=Mazatl
+	dynasty=1009990162
+	dna="kgenmnbdemh"
+	culture=tlapanec religion=mixtec_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=7 learning=6
+	add_trait=scholarly_theologian add_trait=craven add_trait=paranoid 
+	father=1019919523	#Matlalihuitl
+	1194.10.5={ birth=yes }
+	1274.2.8={ death=yes }
+}
+1019919526={
+	name=Coaxoch
+	female=yes
+	dynasty=1009990162
+	dna="pnfcmepfbmp"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919524	#Xihuitl
+	1219.5.9={ birth=yes }
+	1294.12.13={ death=yes }
+}
+1019919527={
+	name=Zolin
+	dynasty=1009990162
+	dna="pademjbkcjb"
+	culture=tlapanec religion=mixtec_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=5 learning=8
+	add_trait=indulgent_wastrel add_trait=craven add_trait=gluttonous add_trait=quick 
+	father=1019919524	#Xihuitl
+	1226.3.1={ birth=yes }
+	1295.10.8={ death=yes }
+}
+1019919528={
+	name=Tecocoltzin
+	dynasty=1009990162
+	dna="gcigpfnbljm"
+	culture=tlapanec religion=mixtec_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=humble add_trait=cynical add_trait=temperate add_trait=lustful 
+	father=1019919524	#Xihuitl
+	1232.1.9={ birth=yes }
+	1302.4.17={ death=yes }
+}
+1019919529={
+	name=Huitzilihuitl
+	dynasty=1009990162
+	dna="pedfmkjabpp"
+	culture=tlapanec religion=mixtec_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=7 learning=7
+	add_trait=scholarly_theologian add_trait=honest add_trait=paranoid add_trait=patient 
+	father=1019919524	#Xihuitl
+	1238.1.8={ birth=yes }
+	1314.12.28={ death=yes }
+}
+1019919530={
+	name=Iquehuacatzin
+	dynasty=1009990162
+	dna="npammjkkijg"
+	culture=tlapanec religion=mixtec_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=patient  add_trait=craven 
+	add_trait=zealous add_trait=content 
+	father=1019919527	#Zolin
+	1255.5.24={ birth=yes }
+	1341.2.10={ death=yes }
+}
+1019919531={
+	name=Coatl
+	dynasty=1009990162
+	dna="ladehjbkoni"
+	culture=tlapanec religion=mixtec_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	add_trait=intricate_webweaver add_trait=shy add_trait=paranoid add_trait=arbitrary add_trait=wroth 
+	add_trait=ill 
+	father=1019919527	#Zolin
+	1261.2.20={ birth=yes }
+	1322.2.16={ death=yes }
+}
+1019919532={
+	name=Tlahco
+	female=yes
+	dynasty=1009990162
+	dna="hiaefjbojjd"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919527	#Zolin
+	1265.3.3={ birth=yes }
+	1303.6.4={ death=yes }
+}
+1019919533={
+	name=Mahchimaleh
+	dynasty=1009990162
+	dna="pamebeakcjo"
+	culture=tlapanec religion=mixtec_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=hedonist add_trait=arbitrary add_trait=honest add_trait=craven 
+	add_trait=gluttonous 
+	father=1019919527	#Zolin
+	1269.1.4={ birth=yes }
+	1342.3.22={ death=yes }
+}
+1019919534={
+	name=Tecocoltzin
+	dynasty=1009990162
+	dna="pndefkkkgdb"
+	culture=tlapanec religion=mixtec_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=honest add_trait=greedy add_trait=slothful add_trait=proud 
+	add_trait=gregarious add_trait=strong 
+	father=1019919527	#Zolin
+	1273.11.22={ birth=yes }
+	1329.10.24={ death=yes }
+}
+1019919535={
+	name=Acolmiztli
+	dynasty=1009990162
+	dna="njahmjhpijc"
+	culture=tlapanec religion=mixtec_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	add_trait=scholarly_theologian add_trait=honest add_trait=patient add_trait=envious add_trait=shy 
+	father=1019919530	#Iquehuacatzin
+	1282.3.15={ birth=yes }
+	1348.10.14={ death=yes }
+}
+1019919536={
+	name=Chipahua
+	female=yes
+	dynasty=1009990162
+	dna="nfaicfpebjj"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919530	#Iquehuacatzin
+	1287.8.19={ birth=yes }
+	1335.3.21={ death=yes }
+}
+1019919537={
+	name=Yolyamanitzin
+	dynasty=1009990162
+	dna="edfjddkkidg"
+	culture=tlapanec religion=mixtec_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=diligent add_trait=arbitrary add_trait=temperate 
+	father=1019919530	#Iquehuacatzin
+	1293.1.27={ birth=yes }
+	1347.10.25={ death=yes }
+}
+1019919538={
+	name=Itzli
+	dynasty=1009990162
+	dna="gjnhebhhijc"
+	culture=tlapanec religion=mixtec_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=humble add_trait=slothful 
+	father=1019919535	#Acolmiztli
+	1309.7.4={ birth=yes }
+	1392.12.5={ death=yes }
+}
+1019919539={
+	name=Acamapichtli
+	dynasty=1009990162
+	dna="nlahifhpado"
+	culture=tlapanec religion=mixtec_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=brave add_trait=content add_trait=cynical add_trait=lustful 
+	add_trait=gregarious add_trait=wounded 
+	father=1019919535	#Acolmiztli
+	1313.3.22={ birth=yes }
+	1381.9.22={ death=yes }
+}
+1019919540={
+	name=Tezozomoc
+	female=yes
+	dynasty=1009990162
+	dna="njafmjhpijn"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919535	#Acolmiztli
+	1316.4.8={ birth=yes }
+	1373.5.29={ death=yes }
+}
+1019919541={
+	name=Achcauhtli
+	female=yes
+	dynasty=1009990162
+	dna="njagmmgcijl"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919535	#Acolmiztli
+	1322.5.13={ birth=yes }
+	1407.3.2={ death=yes }
+}
+1019919542={
+	name=Opochtli
+	dynasty=1009990162
+	dna="ijmhnihhiac"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=7 learning=7
+	add_trait=intricate_webweaver add_trait=chaste add_trait=zealous add_trait=humble add_trait=greedy 
+	add_trait=honest add_trait=slow 
+	father=1019919538	#Itzli
+	1340.5.13={ birth=yes }
+	1392.1.9={ death=yes }
+}
+1019919543={
+	name=Tlahco
+	female=yes
+	dynasty=1009990162
+	dna="alkhkbhhljc"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919538	#Itzli
+	1344.4.15={ birth=yes }
+	1387.9.7={ death=yes }
+}
+1019919544={
+	name=Ohtli
+	female=yes
+	dynasty=1009990162
+	dna="djnhibnhdjc"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919538	#Itzli
+	1349.10.19={ birth=yes }
+	1407.3.15={ death=yes }
+}
+1019919545={
+	name=Cuicatl
+	female=yes
+	dynasty=1009990162
+	dna="pjgcoihigbc"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919542	#Opochtli
+	1368.11.11={ birth=yes }
+	1430.7.13={ death=yes }
+}
+1019919546={
+	name=Nezahualcoyotl
+	dynasty=1009990162
+	dna="ckmblgkhmac"
+	culture=tlapanec religion=mixtec_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=7 learning=4
+	add_trait=mastermind_theologian add_trait=honest add_trait=chaste add_trait=paranoid 
+	add_trait=wroth 
+	father=1019919542	#Opochtli
+	1374.7.10={ birth=yes }
+	1456.6.1={ death=yes }
+}
+1019919547={
+	name=Huitzilihuitl
+	dynasty=1009990162
+	dna="cmabcdkpmfa"
+	culture=tlapanec religion=mixtec_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=4
+	add_trait=grey_eminence add_trait=patient add_trait=deceitful add_trait=shy add_trait=paranoid 
+	add_trait=diligent 
+	father=1019919546	#Nezahualcoyotl
+	1396.3.11={ birth=yes }
+	1475.4.24={ death=yes }
+}
+1019919548={
+	name=Amoxtli
+	female=yes
+	dynasty=1009990162
+	dna="ckmbnaghmac"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919546	#Nezahualcoyotl
+	1402.4.10={ birth=yes }
+	1468.11.27={ death=yes }
+}
+1019919549={
+	name=Coanacoch
+	dynasty=1009990162
+	dna="lkpblgkhmaf"
+	culture=tlapanec religion=mixtec_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=ambitious add_trait=trusting add_trait=lustful 
+	add_trait=slothful add_trait=deceitful 
+	father=1019919546	#Nezahualcoyotl
+	1406.3.24={ birth=yes }
+	1466.5.22={ death=yes }
+}
+1019919550={
+	name=Yaotl
+	dynasty=1009990162
+	dna="ckmclgmhdal"
+	culture=tlapanec religion=mixtec_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=5 learning=8
+	add_trait=intricate_webweaver add_trait=lustful add_trait=just 
+	father=1019919546	#Nezahualcoyotl
+	1411.6.7={ birth=yes }
+	1483.10.14={ death=yes }
+}
+1019919551={
+	name=Manauia
+	female=yes
+	dynasty=1009990162
+	dna="cimblbkhmml"
+	culture=tlapanec religion=mixtec_pagan
+	father=1019919546	#Nezahualcoyotl
+	1415.4.15={ birth=yes }
+	1499.7.20={ death=yes }
+}
+1019919552={
+	name=Cozahtli
+	dynasty=1009990162
+	dna="cdmblgkhhgc"
+	culture=tlapanec religion=mixtec_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=6 learning=5
+	add_trait=indulgent_wastrel add_trait=ambitious add_trait=gluttonous add_trait=cynical 
+	add_trait=patient 
+	father=1019919546	#Nezahualcoyotl
+	1419.8.16={ birth=yes }
+	1494.12.27={ death=yes }
+}
+1019919553={
+	name=Yayauhqui
+	dynasty=1009990162
+	dna="ckmgpdcdmgc"
+	culture=tlapanec religion=mixtec_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=8
+	add_trait=grey_eminence add_trait=hedonist add_trait=brave add_trait=trusting add_trait=proud 
+	add_trait=charitable 
+	father=1019919546	#Nezahualcoyotl
+	1426.11.13={ birth=yes }
+	1511.3.17={ death=yes }
+}

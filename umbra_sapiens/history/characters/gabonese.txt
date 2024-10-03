@@ -1,0 +1,587 @@
+#Netulamela Dynasty (Placeholders) of Tulamela
+
+1013000001 = {
+	name="Mouhammed"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1013000002 = {
+	name="David"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000001
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1013000003 = {
+	name="Junior"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000002
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1013000004 = {
+	name="Timothee"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000003
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1013000005 = {
+	name="Fils Olivier"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000004
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1013000006 = {
+	name="Marc"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000005
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1013000007 = {
+	name="Wester"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000006
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1013000008 = {
+	name="Dan"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000007
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1013000009 = {
+	name="Emrick"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000008
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1013000010 = {
+	name="Blaise"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000009
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1013000011 = {
+	name="Henri"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000010
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1013000012 = {
+	name="Tévine"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000011
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1013000013 = {
+	name="Salomon"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000012
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1013000014 = {
+	name="Raphael"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000013
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1013000015 = {
+	name="Gauthier"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000014
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1013000016 = {
+	name="Elgaelito"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000015
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1013000017 = {
+	name="Jeo"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000016
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1013000018 = {
+	name="Gael Jhigal"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000017
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1013000019 = {
+	name="Marcos"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000018
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1013000020 = {
+	name="Teo"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000019
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1013000021 = {
+	name="Dominique Gael"
+	dynasty=1009990038 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000020
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1013000022 = {
+	name="Martialakd"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1013000023 = {
+	name="Loic"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000022
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1013000024 = {
+	name="Glorie"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000023
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1013000025 = {
+	name="Fripe"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000024
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1013000026 = {
+	name="Arold"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000025
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1013000027 = {
+	name="Prosper"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000026
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1013000028 = {
+	name="Boupenga"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000027
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1013000029 = {
+	name="Tresor Armand"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000028
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1013000030 = {
+	name="Odin"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000029
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1013000031 = {
+	name="Rody"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000030
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1013000032 = {
+	name="Omer"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000031
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1013000033 = {
+	name="Igotsu"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000032
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1013000034 = {
+	name="Mohammed"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000033
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1013000035 = {
+	name="Abdel"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000034
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1013000036 = {
+	name="Yohann"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000035
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1013000037 = {
+	name="Mohamed"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000036
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1013000038 = {
+	name="Valère"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000037
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1013000039 = {
+	name="Jemuel"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000038
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1013000040 = {
+	name="Orphee"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000039
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1013000041 = {
+	name="Hazany"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000040
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1013000042 = {
+	name="Moise"
+	dynasty=1009990039 #Netulamela
+	religion="west_african_pagan"
+	culture="gabonese"
+	father=1013000041
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

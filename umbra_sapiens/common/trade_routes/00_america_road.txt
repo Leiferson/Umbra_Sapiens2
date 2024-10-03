@@ -1,0 +1,479 @@
+america_road = {
+	wealth = 100			# Total base wealth of silk route
+	trade_post_display_trigger = {
+		OR = {
+		province_id = 3698 
+		province_id = 4426
+		province_id = 3642
+		province_id = 3516
+		province_id = 3709
+		province_id = 3714
+		province_id = 3811
+		province_id = 3788
+		province_id = 3716
+		province_id = 4823
+		province_id = 3718
+		province_id = 3770
+		province_id = 3805
+		province_id = 4516
+		province_id = 4522
+		province_id = 3819
+		province_id = 3826
+		province_id = 3830
+		province_id = 3838
+		province_id = 3845
+		province_id = 3907
+		province_id = 3866
+		province_id = 3918
+		province_id = 3923
+		province_id = 3927
+		province_id = 3938
+		province_id = 3945
+		province_id = 3942
+		province_id = 3946
+		province_id = 3959
+		province_id = 3965
+		province_id = 3960
+		province_id = 3926
+		province_id = 3936
+		province_id = 3939
+		province_id = 4436
+		province_id = 3980
+		province_id = 3989
+		province_id = 3870
+		province_id = 3909
+		province_id = 3859
+		province_id = 3852
+		province_id = 3753
+		province_id = 3756
+		province_id = 3759
+		province_id = 3762
+		province_id = 3767
+		province_id = 3765
+		province_id = 3766
+		province_id = 3745
+		province_id = 3742
+		province_id = 3738
+		province_id = 3739
+		province_id = 3732
+		province_id = 3728
+		province_id = 4865
+		province_id = 3724
+		province_id = 4102
+		province_id = 3723
+		province_id = 4816
+		province_id = 3725
+		province_id = 4814
+		province_id = 4824
+		province_id = 4815
+		province_id = 3822
+		province_id = 3727
+		province_id = 4407
+		province_id = 4411
+		province_id = 4406
+		province_id = 4409
+		province_id = 4405
+		province_id = 4415
+		province_id = 4418
+		province_id = 4552
+		province_id = 4560
+		province_id = 4556
+		province_id = 4396
+		province_id = 4573
+		province_id = 4572
+		province_id = 4601
+		province_id = 4589
+		province_id = 4598
+		province_id = 4587
+		province_id = 4675
+		province_id = 4672
+		province_id = 4604
+		province_id = 4611
+		province_id = 4623
+		province_id = 4616
+		province_id = 4613
+		province_id = 4629
+		province_id = 4631
+		province_id = 4768
+		province_id = 4667
+		province_id = 4773
+		province_id = 4676
+		province_id = 4709
+		province_id = 4739
+		province_id = 4360
+		province_id = 4369
+		province_id = 4327
+		province_id = 4339
+		province_id = 4725
+		province_id = 4721
+		province_id = 4698
+		province_id = 3647
+		province_id = 3529
+		province_id = 4527
+		province_id = 3657
+		province_id = 3655
+		province_id = 3607
+		province_id = 3543
+		province_id = 3605
+		province_id = 3611
+		province_id = 3627
+		province_id = 3665
+		province_id = 3637
+		province_id = 3642
+		province_id = 3687
+		province_id = 3679
+		province_id = 3677
+		province_id = 3683
+		province_id = 3845
+		province_id = 4344
+		province_id = 4541
+		province_id = 4498
+		province_id = 3780
+		province_id = 4687
+		province_id = 4602
+		province_id = 4781
+		province_id = 4767
+		}
+	}
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.10
+		city_tax_modifier = 0.10
+		temple_tax_modifier = 0.10
+		tribal_tax_modifier = 0.20
+		trade_route_value = 15
+		local_movement_speed = 0.25
+		tech_growth_modifier = 0.15
+		icon = 4
+	}
+
+	start = {				# Start provinces of trade route
+		3766 #Ecab
+		3989 #Antrogofasta
+		3739 #Zapotec
+		4556 #Ajo
+		4552 #Tombstone
+		4327 #Vilas
+		4725 #Waskada
+		3679 #Ohio
+		3627 #Wampanoag
+		3811 #Havana
+		3738 #Mixtec
+		3732 #Totonac
+		3756 #Peten
+		3909 #Atioquia
+		3870 #Magdalena
+		3938 #Naska
+		3936 #Qusqu
+		3965 #Pikunmapu
+		3942 #Ariqipa
+		3946 #Charcas
+		3920 #Canari
+		3753 #Chacujal
+		3989 #Marajo
+		3906 #Tunja
+		4411 #Jalisco
+		4102 #Tlacopan
+		4824 #Tetzcoco
+		4815 #Teotihuacan
+		4814 #Colhuacan
+		4816 #Xochimilco
+		3718 #Tula
+		3733 #Xaquija
+		3737 #Yodzocoo
+		3742 #Mitla
+		3805 #Tennese
+		4426 #Eton
+		4560 #Salome
+		4600 #Granite Falls
+		4598 #Whidbey
+		4360 #Flathead
+		4572 #Fremont
+		4522 #Enid
+		3637 #Conoy
+		3665 #Oneida
+		3655 #Ontario
+		3607 #Maliset
+		4527 #Omaha
+		3657 #Soto
+		3687 #Potawatomi
+		3647 #Mosoni
+		4698 #Manigotagan
+		4602 #Kyukuot
+		4672 #Kéex
+		4623 #Nakniq
+		4768 #Teslin
+		4773 #Naats'ihch'oh
+	}
+	path = {
+		3805 3806 4516
+	}
+	path = {
+		4426 3803 3805
+	}
+	path = {
+		4426 3700 3698 3696 3695 3642 3641 3639 3638 3637
+	}
+	path = {
+		3637 3636 3635 3634 3632 3631 3630 3629 3628 3627
+	}
+	path = {
+		4516 4509 4507 4432 3681 3679
+	}
+	path = {
+		4516 4532 4525 4526 4527
+	}
+	path = {
+		4527 4394 4393 4390 4388 4721
+	}
+	path = {
+		4721 4695 4694 3649 3647
+	}
+	path = {
+		4721 4696 4697 4698
+	}
+	path = {
+		4698 4700 4699 4687 4688 3650 3647
+	}
+	path = {
+		4698 4716 4729 4735 4727 4734 4739
+	}
+	path = {
+		4739 4737 4736 4362 4360
+	}
+	path = {
+		4739 4740 4711 4710 4709 4708 4773
+	}
+	path = {
+		4773 4770 4771 4768
+	}
+	path = {
+		4773 4764 4769 4761 4678 4676
+	}
+	path = {
+		4527 4529 4528 4513 4514 3657
+	}
+	path = {
+		4516 4510 4505 3682 3683 3664 3670 3669 3668 3665
+	}
+	path = {
+		4516 4518 4531 4524 4348 4345 4344 4389 4387 4386 4725
+	}
+	path = {
+		4721 4725
+	}
+	path = {
+		4725 4726 4379 4376 4373 4374 4372 4369
+	}
+	path = {
+		3665 3624 3625 3622 3620 3627
+	}
+	path = {
+		3665 3655
+	}
+	path = {
+		3655 3654 3617 3614 3607
+	}
+	path = {
+		3607 3555 3556 3543
+	}
+	path = {
+		3607 3606 3605
+	}
+	path = {
+		3607 3608 3610 3611
+	}
+	path = {
+		3607 3540 3541 3529
+	}
+	path = {
+		3679 3677
+	}
+	path = {
+		3679 3687
+	}
+	path = {
+		3687 3684 3637
+	}
+	path = {
+		3687 4502 3657
+	}
+	path = {
+		3657 3659 3660 3655
+	}
+	path = {
+		3657 3648 3647
+	}
+	path = {
+		4426 3706 3799 3709 3708 3711 3713 3714 3811 3812 3813 3814 3815 3817 3819 3824 3823 3826 3827 3829 3830 3831 3835 3837 3838 3839 
+		3840 3841 3842 3844 3845 3883 3891 3892 3893 3894 3896 3898 3906
+	}
+	path = {
+		3805 3796 3793 3792 3788 3787 3784 3780 3778 3777 3770 3769 4857 4856 4855 3716
+	}
+	path = {
+		3718 3723 4102 
+	}
+	path = {
+		4816 3725 4814 
+	}
+	path = {
+		4824 4815
+	}
+	path = {
+		4814 4824
+	}
+	path = {
+		4102 4823 4824
+	}
+	path = {
+		3718 3722 4822 4821 3716
+	}
+	path = {
+		4814 4817 3728 3729 3733
+	}
+	path = {
+		3733 3732
+	}
+	path = {
+		3733 3737 
+	}
+	path = {
+		3737 3742
+	}
+	path = {
+		3742 3739
+	}
+	path = {
+		3737 3738
+	}
+	path = {
+		3742 3743 3745 3746 3750 3753
+	}
+	path = {
+		3753 3752 3756
+	}
+	path = {
+		3756 3760 3759
+	}
+	path = {
+		3756 3758 3762 3763 3768 3767 3765 3766
+	}
+	path = {
+		3753 3754 3755 3849 3852 3854 3855 3856 3859 3860 3861 3862 3863 3909
+	}
+	path = {
+		3909 3908 3870
+	}
+	path = {
+		3909 3905 3906
+	}
+	path = {
+		3906 3907 3911 3912 3866
+	}
+	path = {
+		3866 3867 3918
+	}
+	path = {
+		3918 3919 3920
+	}
+	path = {
+		3920 3921 3923 3924 3927 3930 3933 3938
+	}
+	path = {
+		3938 3939 3936
+	}
+	path = {
+		3920 3922 3926 3928 3932 3934 3935 3936
+	}
+	path = {
+		3936 3940 3966 3944 3946
+	}
+	path = {
+		3946 3949 3955 3956 3958 3960 3962 3963 4454 3965
+	}
+	path = {
+		3938 3941 3942
+	}
+	path = {
+		3942 3948 3952 3953 3959 3961 3964 3965
+	}
+	path = {
+		3942 3943 3945 3947 3946
+	}
+	path = {
+		3918 4433 4434 4436 3916 3976 3980 3978 3973 3989
+	}
+	path = {
+		4816 4865 3730 3731 3727 4825 4828 4407 4845 4408 4844 4411
+	}
+	path = {
+		4411 4851 4415 4417 4418 4849 4497 4498 4545 4546 4551 4552
+	}
+	path = {
+		4552 4557 4558 4560
+	}
+	path = {
+		4560 4556
+	}
+	path = {
+		4560 4565 4564 4575 4568 4574 4573 4577 4579 4580 4587 4591 4595 4596 4600
+	}
+	path = {
+		 4600 4598
+	}
+	path = {
+		 4598 4594 4593 4589
+	}
+	path = {
+		 4598 4597 4602
+	}
+	path = {
+		 4602 4749 4781
+	}
+	path = {
+		 4602 4603 4751 4752 4753 4675 4673 4672
+	}
+	path = {
+		 4672 4756 4768
+	}
+	path = {
+		 4768 4767
+	}
+	path = {
+		 4672 4671 4669 4604 4609 4610 4612 4611 4624 4623
+	}
+	path = {
+		 4623 4626 4627 4628 4629 4632 4631
+	}
+	path = {
+		 4623 4622 4621 4620 4619 4618 4616 4615 4614 4613
+	}
+	path = {
+		 4600 4351 4353 4355 4356 4360
+	}
+	path = {
+		4411 4843 4838 4830 4406 4833 4409 4405 4836 3724 4866 4102
+	}
+	path = {
+		4552 4548 4294 4322 4323 4369
+	}
+	path = {
+		4369 4314 4315 4320 4319 4359 4361 4360
+	}
+	path = {
+		4573 4572
+	}
+	path = {
+		4552 4292 4298 4299 4396 4303 4288 4582 4573        
+	}
+	path = {
+		3805 3790 3791 4520 4522    
+	}
+	path = {
+		4522 4533 4340 4339 4337 4335 4334 4332 4327    
+	}
+	path = {
+		4522 4521 4538 4539 4541 4542 4543 4547 4552   
+	}
+}

@@ -1,0 +1,326 @@
+762.1.1={
+	liege = "k_egypt"
+	adjective = FUSTAT_ADJ
+}
+762.1.1={
+	holder = 210009 
+}
+866.1.1={
+	liege="k_egypt"
+}
+866.1.1={
+	holder = 163115
+}
+936.1.1 = {
+	holder = 260819
+}
+969.1.1 = {
+	adjective = c_cairo_adj
+	set_global_flag = established_cairo
+}
+996.10.13={
+	holder=3092
+}
+1021.2.12={
+	holder=3094
+}
+1036.6.13={
+	holder=3096
+}
+1094.1.10={
+	holder=3100
+}
+1101.1.1={
+	holder=32905
+}
+1130.1.1={
+	holder=32907
+}
+1149.1.1={
+	holder=32908
+}
+1154.1.1={
+	holder=32909
+}
+1160.1.1={
+	holder=32910
+}
+1171.1.1={
+	holder=226000
+}
+1193.3.4={
+	holder=226050
+}
+1198.11.29={
+	holder=32922
+}
+1200.1.1={
+	holder=226052
+}
+1218.8.1={
+	holder=32924
+}
+1238.1.1={
+	holder=32926
+}
+1240.1.1={
+	holder=32925
+}
+1249.11.22={
+	holder=32927
+}
+1250.1.1={
+	holder=32928
+}
+
+1250.3.1={
+	holder=32930
+}
+1257.1.1={
+	holder=32931
+}
+
+1258.2.20=
+{
+liege="d_sunni"
+}
+
+1258.2.20=
+{
+holder=34032
+}
+1262.1.1=
+{
+holder=34033
+}
+1302.1.1=
+{
+holder=34034	#Abu ar-Rabi Sulayman Al-Mustakfi bi-llah
+}
+1340.2.1={
+	holder=34036	#Abu Ishaq Ibrahim Al-Wathiq bi-llah
+}
+1341.6.17={
+	holder=34037	#Abul-Abbas Ahmad Al-Hakim bi-Amrillah
+}
+1352.1.1={
+	holder=34038	#Abu al-Fath Abu Bakr Al-Mu'tadid bi-llah
+}
+1362.1.1={
+	holder=34039	#Abu Abd Allah Muhammad Al-Mutawakkil alallah
+}
+1377.1.1={
+	holder=378935	#Abu Yahya Zakariya al-Mustasim bi-llah
+}
+1377.6.1={
+	holder=34039	#Abu Abd Allah Muhammad Al-Mutawakkil alallah
+}
+1383.9.1={
+	holder=378936	#Abu Hafs Umar al-Wathiq bi-llah II
+}
+1386.11.13={
+	holder=378935	#Abu Yahya Zakariya al-Mustasim bi-llah
+}
+1389.1.1={
+	holder=34039	#Abu Abd Allah Muhammad Al-Mutawakkil alallah
+}
+1406.1.9={
+	holder=378937	#Abu al-Fadl al-Abbas al-Mustain bi-llah
+}
+1414.3.9={
+	holder=378938	#Abu al-Fath Dawud al-Mu'tadin bi-llah
+}
+1441.7.23={
+	holder=378939	#Abu al-Rabi Sulayman al-Mustakfi bi-llah
+}
+1451.1.29={
+	holder=378940	#Abu al-Baqa Hamza al-Qaim bi-amr Allah
+}
+1455.1.1={
+	holder=378941	#Abu al-Mahasin Yusuf al-Mustanjid bi-llah
+}
+1479.4.7={
+	holder=378943	#Abu al-Izz Abd al-Aziz al-Mutawakkil alallah
+}
+1497.9.27={
+	holder=378944	#Abu al-Sabr Yaqub al-Mustamsik bi-llah
+}
+1508.1.1={
+	holder=378945	#Muhammad al-Mutawakkil alallah
+}
+1516.1.1={
+	holder=378944	#Abu al-Sabr Yaqub al-Mustamsik bi-llah
+}
+1517.1.1={
+	holder=378945	#Muhammad al-Mutawakkil alallah
+}
+1517.1.22={
+	holder=379191	#Yunus Pasha (c. 1516)
+	liege=e_ottomans
+}
+1517.9.13={
+	holder=379091	#Hayir Bey
+}
+1522.1.1={
+	holder=379092	#Çoban Mustafa Pasha
+}
+1523.1.1={
+	holder=379093	#Hain Ahmed Pasha
+}
+1524.1.1={
+	holder=379094	#Güzelce Kasim Pasha
+}
+1525.1.1={
+	holder=379095	#Pargalı Ibrahim Pasha
+}
+1525.3.1={
+	holder=379094	#Güzelce Kasim Pasha
+}
+1525.6.1={
+	holder=379096	#Hadim Süleyman Pasha
+}
+1535.1.1={
+	holder=379097	#Divane Hüsrev Pasha
+}
+1537.1.1={
+	holder=379096	#Hadim Süleyman Pasha
+}
+1538.1.1={
+	holder=379098	#Davud Pasha
+}
+1549.9.1={
+	holder=379041	#Lala Kara Mustafa Pasha (1563–1569)
+}
+1549.12.1={
+	holder=379099	#Semiz Ali Pasha
+}
+1553.1.1={
+	holder=379100	#Dukakinzade Mehmed Pasha
+}
+1556.1.1={
+	holder=379101	#Iskender Pasha
+}
+1559.1.1={
+	holder=379102	#Sofu Hadım Ali Pasha
+}
+1560.9.1={
+	holder=379103	#Kara Shahin Mustafa Pasha
+}
+1563.1.1={
+	holder=379104	#Müezzinzade Ali Pasha
+}
+1566.1.1={
+	holder=379105	#Mahmud Pasha
+}
+1567.1.1={
+	holder=379035	#Koca Sinan Pasha 
+}
+1569.1.1={
+	holder=379106	#Çerkes Iskender Pasha
+}
+1571.1.1={
+	holder=379035	#Koca Sinan Pasha 
+}
+1573.1.1={
+	holder=379050	#Hüseyin Pasha Boljanić
+}
+1574.1.1={
+	holder=379107	#Hadim Mesih Pasha
+}
+1580.1.1={
+	holder=379108	#Hadım Hasan Pasha
+}
+1583.1.1={
+	holder=379109	#Damat Ibrahim Pasha
+}
+1585.1.1={
+	holder=379110	#Defterdar Sinan Pasha
+}
+1587.1.1={
+	holder=379111	#Kara Üveys Pasha
+}
+1590.1.1={
+	holder=379112	#Hadım Hafız Ahmed Pasha
+}
+1594.1.1={
+	holder=379113	#Kurd Mehmed Pasha
+}
+1596.1.1={
+	holder=379114	#Emir Mehmed Pasha
+}
+1598.1.1={
+	holder=379115	#Hızır Pasha
+}
+1601.1.1={
+	holder=379116	#Yavuz Ali Pasha
+}
+1603.1.1={
+	holder=379117	#Maktul Hacı Ibrahim Pasha
+}
+1604.9.24={
+	holder=379118	#Hadım Mehmed Pasha
+}
+1605.1.1={
+	holder=379119	#Yemenli Hasan Pasha
+}
+1607.1.1={
+	holder=379120	#Öküz Mehmed Pasha
+}
+1611.1.1={
+	holder=379121	#Sofu Mehmed Pasha
+}
+1615.1.1={
+	holder=379122	#Nişancı Ahmed Pasha
+}
+1618.1.1={
+	holder=379123	#Lefkeli Mustafa Pasha 	
+}
+1618.6.1={
+	holder=379124	#Cafer Pasha	
+}
+1619.1.1={
+	holder=379125	#Hamidi Mustafa Pasha
+}
+1620.1.1={
+	holder=379126	#Mere Hüseyin Pasha
+}
+1622.1.1={
+	holder=379127	#Biber Mehmed Pasha
+}
+1622.3.1={
+	holder=379128	#Silahdar Ibrahim Pasha
+}
+1623.1.1={
+	holder=379129	#Kara Mustafa Pasha 
+}
+1623.6.1={
+	holder=379130	#Çeşteci Ali Pasha
+}
+1624.1.1={
+	holder=379129	#Kara Mustafa Pasha 
+}
+1626.1.1={
+	holder=379131	#Bayram Pasha
+}
+1628.1.1={
+	holder=379132	#Tabanıyassı Mehmed Pasha
+}
+1630.1.1={
+	holder=379133	#Koca Musa Pasha 
+}
+1631.1.1={
+	holder=379134	#Halil Pasha
+}
+1633.1.1={
+	holder=379135	#Bakırcı Ahmed Pasha
+}
+1635.1.1={
+	holder=379136	#Gazi Hüseyin Pasha
+}
+1637.1.1={
+	holder=379137	#Sultanzade Mehmed Pasha
+}
+1640.1.1={
+	holder=379138	#Nakkas Mustafa Pasha
+}
+

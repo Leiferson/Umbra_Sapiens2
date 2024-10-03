@@ -1,0 +1,167 @@
+targetted_decisions = { 
+convert_taoist_branch = {
+		only_playable = yes
+		
+		filter = self
+		ai_target_filter = self
+		ai = no
+		
+		potential = {
+			is_playable = yes
+			is_adult = yes
+			religion = taoist
+		}
+		allow = {
+			NOT = { trait = zealous }
+			prestige = 50
+			custom_tooltip = {
+				text = indian_has_not_converted
+				NOT = { has_character_flag = india_branch_converted }
+			}
+		}
+		effect = {
+			set_character_flag = india_branch_converted
+			prestige = -50
+			piety = 25
+				character_event = { id = chinaevents.1 } # Choose branch
+			
+		
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+buddhist_ban_decision = {
+		only_playable = yes
+		filter = court
+		ai_target_filter = court
+		ai_check_interval = 6
+
+		from_potential = {
+			is_playable = yes
+				has_global_flag = persecuting_buddhism
+				government = chinese_imperial_government 
+				has_landed_title = e_china
+			
+		}
+		potential = {
+			is_vassal_or_below_of = FROM
+			OR = {
+			trait = nichiren_buddhist
+			trait = nanzenji_buddhist
+			trait = jodoshinshu_buddhist
+			trait = koyasan_buddhist
+			trait = enryakuji_buddhist
+			trait = todaiji_buddhist
+			trait = seon_buddhist
+			trait = wonyung_buddhist
+			trait = yeolban_buddhist
+			trait = gyeyul_buddhist
+			trait = beopsang_buddhist
+			trait = beopseong_buddhist
+			trait = tiantai_buddhist
+			trait = huayan_buddhist
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+			religion = buddhist
+			}
+		}
+		allow = {
+			OR = {
+			AND = {
+			is_landed = no
+			FROM = {
+			piety = 25
+			}
+			}
+			AND = {
+			real_tier = BARON
+			FROM = {
+			piety = 50
+			}
+			}
+			AND = {
+			real_tier = COUNT
+			FROM = {
+			piety = 100
+		    }
+			}
+			AND = {
+			real_tier = DUKE
+			FROM = {
+			piety = 200
+			}
+			}
+			AND = {
+			real_tier = KING
+			FROM = {
+			piety = 400
+			}
+			}
+			}
+		}
+		effect = {
+		if = {
+		limit = { is_landed = no }
+		FROM = {
+				piety = -25
+				}
+			}
+		if = {
+				limit = {
+				real_tier = BARON
+				}
+				FROM = {
+				piety = -50
+				}
+				}
+				if = {
+				limit = {
+			  real_tier = COUNT
+				}
+				FROM = {
+				piety = -100
+				}
+				}
+				if = {
+				limit = {
+				real_tier = DUKE	
+				}
+				FROM = {
+				piety = -200
+				}
+				}
+				if = {
+				limit = {
+				real_tier = KING 
+				}
+				FROM = {
+				piety = -400
+				}
+				}
+			banish = yes
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				OR = {
+					reverse_opinion = { who = FROM value = 40 }
+					FROM = { NOT = { piety = 100 } }
+					FROM = { LIEGE = { dynasty = ROOT } }
+				}
+			}
+			modifier = {
+				factor = 0
+				FROM = { trait = kind }
+			}
+		}
+	}
+	}

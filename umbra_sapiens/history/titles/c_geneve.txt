@@ -1,0 +1,162 @@
+760.1.1={
+	liege="k_lotharingia"
+	holder = 91482 #FREDERIC, count of Transjuranie
+}
+855.1.1={
+	liege = "d_upper_burgundy"
+	holder = 7977
+}
+864.1.1={
+	holder = 144998
+}
+866.1.1={
+	holder = 7989
+}
+876.1.1=
+{
+	holder = 7984
+}
+888.1.14=
+{
+	holder = 168247
+}
+901.1.1=
+{
+	holder = 168248
+}
+931.1.1=
+{
+	holder = 168249
+}
+963.1.1=
+{
+	holder = 168250
+}
+974.1.1=
+{
+	holder = 168251
+}
+1001.1.1=
+{
+	holder = 168252
+}
+1023.1.1=
+{
+	holder = 20292
+}
+1032.9.5=
+{
+liege="e_hre"
+law = succ_primogeniture
+law = cognatic_succession
+}
+1080.1.1=
+{
+holder=10079
+}
+1128.5.12=
+{
+holder=212741
+}
+1178.6.28=
+{
+holder=212740
+}
+1196.7.25=
+{
+holder=212742
+}
+1220.1.1 = {
+	liege = d_savoie
+}
+1225.5.10=
+{
+holder=212745
+}
+1240.8.16 = {
+	liege="d_savoie"
+}
+1252.11.25=
+{
+holder=32740
+}
+1265.5.29=
+{
+holder=32745
+}
+1280.11.18=
+{
+holder=32748
+}
+1285.8.16=
+{
+liege="d_savoie"
+}
+1308.5.22=
+{
+holder=32750
+}
+1320.11.25=
+{
+holder=32754
+}
+1367.1.19 = {
+holder=32757	#Aymon III of Geneva
+}
+1367.8.31 = {
+holder=32758	#Amadeus IV of Geneva
+}
+1369.12.4 = {
+holder=372350	#Jean of Geneva
+}
+1370.11.1 = {
+holder=372351	#Peter of Geneva
+}
+1392.1.1 = {
+holder=372352	#Antipope Clement VII
+}
+1394.9.16 = {
+holder=381126	#Humbert VII of Thoire and Villars
+}
+1401.1.1={
+holder=370876	#Amadeus VIII, Duke of Savoy Anti Pope
+}
+1440.7.24={
+holder=370882	#Louis, Duke of Savoy		
+}
+1465.1.29 = {
+holder=370948	#Amadeus IX, Duke of Savoy	
+}
+1472.3.30 = {
+holder=370986	#Philibert I, Duke of Savoy
+}
+1482.9.22 = {
+holder=370988	#Charles I, Duke of Savoy
+}
+1490.3.13 = {
+holder=381125	#Charles II, Duke of Savoy
+}
+1496.4.16 = {
+holder=370952	#Philip II, Duke of Savoy
+}
+1497.11.7 = {
+holder=370969	#Philibert II, Duke of Savoy
+}
+1504.9.10 = {
+holder=375609	#Charles III, Duke of Savoy
+}
+1553.8.17 = {
+holder=375617	#Emmanuel Philibert, Duke of Savoy
+}
+1580.8.30 = {
+holder=375624	#Charles Emmanuel I, Duke of Savoy
+}
+1630.7.26 = {
+holder=375627	#Victor Amadeus I, Duke of Savoy
+}
+1637.10.7 = {
+holder=375647	#Francis Hyacinth, Duke of Savoy
+}
+1638.10.4 = {
+holder=375649	#Charles Emmanuel II, Duke of Savoy
+}

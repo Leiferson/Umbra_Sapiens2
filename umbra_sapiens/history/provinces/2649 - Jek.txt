@@ -1,0 +1,32 @@
+# 1589 - Jek
+
+# County Title
+title = c_jek
+
+# Settlements
+max_settlements = 7
+b_ghruahjang = castle
+b_zjengto = city
+b_srungliu = city
+b_sinbyan = city
+b_kuangxto = city
+b_heming = temple
+#b_lengzyen =
+#b_sinto_jek =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+750.1.1 = {
+build_wonder = wonder_temple_taoist
+set_wonder_stage = 3
+set_wonder_name = QINGYANGTEMPLE
+set_wonder_description = QINGYANGTEMPLEDESC
+build_wonder_upgrade = upgrade_custodian_of_temple
+build_wonder_upgrade = upgrade_temple_precinct
+}
+
+

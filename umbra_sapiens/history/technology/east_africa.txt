@@ -1,0 +1,308 @@
+#East Africa
+
+technology = {
+	titles = {
+		d_merina
+		d_sakalava
+		d_betsimisaraka
+		d_antankara
+		d_mahafaly_antemoro
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+		
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_kaffa
+		d_hadiya
+		d_dawaro
+		d_qalaafe
+	}
+
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_kilwa
+		d_manda
+		d_gedi
+		d_unguja
+		d_sofala
+		d_qumur
+		d_mogadishu
+		d_baraawe
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_zimbabwe_buhera
+		d_mapungubwe
+		d_venda
+		d_madanda_tsonga
+		d_toutswe
+		d_butwa
+		d_dande_chidima
+		d_kalomo
+		d_maungwe_budya
+		d_manyika_uteve
+		d_barwe_tonga
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_hakoki
+		d_muranzi
+		d_sinasina
+		d_konako
+		d_hijano
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+#technology = {
+#	titles = {
+#                d_zampapa
+#                d_oskeetotji
+#                d_yahvhenne
+#                d_kajmurra
+#                d_mazanta
+#                d_takikoha
+#                d_waenktho
+#                d_kakapahko
+#	}
+#	
+#	769 = {
+#		military = 0.3
+#		economy = 0.4
+#		culture = 0.3
+#	}
+#	
+#	1337 = {
+#		military = 3.8
+#		economy = 4
+#		culture = 3.8
+#	}
+#}
+#
+technology = {
+	titles = {
+                c_borno
+                c_adamawa
+                c_bauchin
+                c_taraba
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+                d_oskeetotji
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+                d_yahvhenne
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+                d_kajmurra
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+                d_mazanta
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+                d_takikoha
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+
+technology = {
+	titles = {
+                d_waenktho
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+
+technology = {
+	titles = {
+                c_manyara
+                c_tanga
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+

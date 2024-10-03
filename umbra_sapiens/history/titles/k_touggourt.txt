@@ -1,0 +1,33 @@
+1414.1.1={
+	holder=378669	#Hajj Sulayman bin Rajab al-Marini, known as "The Pleasant Man", sat on the throne from 1414 to 1431 and married his daughter to al-Sakhri in the valley.
+}
+1431.1.1={
+	holder=378670	#Sulayman bin Rajab al-Marini
+}
+1480.1.1={
+	holder=378671	#Ahmed bin Ali
+}
+1514.1.1={
+	holder=378672	#Imran bin Ahmed
+}
+1527.1.1={
+	holder=378719	#Ahmad ibn Ahmad
+}
+1552.1.1={
+	holder=378673	#Mansour bin Ahmed
+}
+1552.10.1 = {
+	set_tribute_suzerain = {
+		who = k_algiers
+		type = permanent 
+	}
+}
+1573.1.1={
+	holder=378674	#Othman bin Mansour
+}
+1608.1.1={
+	holder=378720	#Ali ibn Fatima
+}
+1633.1.1={
+	holder=378861	#Mubarek bin Othman
+}

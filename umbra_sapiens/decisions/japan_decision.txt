@@ -1,0 +1,50 @@
+decisions = {
+claim_shogunate = {
+		is_high_prio = yes
+		ai_check_interval = 60
+		potential = {
+			government = japanese_feudalism
+			is_vassal_or_below_of = e_japan
+			liege  = {
+			government = japanese_imperial_government
+			}
+			is_adult = yes
+			prisoner = no
+		}
+		allow = {
+			liege ={ 
+			owns = e_japan
+			government = japanese_imperial_government
+			}
+			is_adult = yes
+			prisoner = no
+			OR = {
+			relative_power_to_liege	= 1
+			AND = {
+			any_independent_ruler = {
+			has_character_flag = claims_shogunate
+			}
+			relative_power_to_liege	= 0.25
+			}
+			}
+			}
+		effect = {
+		set_character_flag = claims_shogunate
+		add_claim = e_japan
+		e_japan = {
+		holder_scope = {
+		add_rival = ROOT
+		}
+		}
+		war = {
+		target = e_japan
+		casus_belli = claim_on_liege
+		thirdparty_title = e_japan
+		tier = EMPEROR
+		}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	}

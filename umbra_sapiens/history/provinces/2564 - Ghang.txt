@@ -1,0 +1,31 @@
+# 1460 - Ghang
+
+# County Title
+title = c_ghang
+
+# Settlements
+max_settlements = 6
+b_ziendang = castle
+b_njinghua = city
+b_joghang = city
+b_liman = city
+b_piuhjang = city
+#b_yoziem =
+#b_jemkuan =
+#b_lengionxzsih =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+1132.1.1 = {
+build_wonder = wonder_university
+set_wonder_stage = 1
+set_wonder_name = GUOZIJIANUNIVERSITY
+set_wonder_description = GUOZIJIANUNIVERSITYDESC
+build_wonder_upgrade = upgrade_great_seminars
+build_wonder_upgrade = upgrade_wing_of_stewardship
+}
+

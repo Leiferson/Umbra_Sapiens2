@@ -1,0 +1,1237 @@
+1019932099={
+	name=Pandey
+	dynasty=1009990286
+	dna="cbllopagpko"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	add_trait=skilled_tactician add_trait=lustful  
+	640.10.26={ birth=yes }
+	716.7.16={ death=yes }
+}
+1019932100={
+	name=Paat
+	dynasty=1009990286
+	dna="cbljopagokj"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=6 stewardship=6 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=patient add_trait=diligent add_trait=arbitrary add_trait=cynical 
+	father=1019932099	#Pandey
+	668.1.21={ birth=yes }
+	735.8.29={ death=yes }
+}
+1019932101={
+	name=Watupongoh
+	female=yes
+	dynasty=1009990286
+	dna="cfllopajpim"
+	culture=rekohun religion=maori_religion
+	father=1019932099	#Pandey
+	673.5.15={ birth=yes }
+	734.3.2={ death=yes }
+}
+1019932102={
+	name=Mangundap
+	dynasty=1009990286
+	dna="cbllodpgiko"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=4 stewardship=5 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=ambitious add_trait=lustful add_trait=deceitful 
+	add_trait=lunatic 
+	father=1019932099	#Pandey
+	680.7.24={ birth=yes }
+	756.12.18={ death=yes }
+}
+1019932103={
+	name=Kowu
+	dynasty=1009990286
+	dna="cellnlonakk"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=patient add_trait=gluttonous 
+	father=1019932099	#Pandey
+	684.4.13={ birth=yes }
+	751.6.29={ death=yes }
+}
+1019932104={
+	name=Malingkas
+	female=yes
+	dynasty=1009990286
+	dna="kjplopaghka"
+	culture=rekohun religion=maori_religion
+	father=1019932099	#Pandey
+	689.4.6={ birth=yes }
+	742.7.22={ death=yes }
+}
+1019932105={
+	name=Mamuntu
+	dynasty=1009990286
+	dna="cjjgdfjgoka"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=6 stewardship=7 intrigue=6 learning=5
+	add_trait=indulgent_wastrel add_trait=gluttonous add_trait=shy add_trait=ambitious add_trait=arbitrary 
+	father=1019932100	#Paat
+	698.8.20={ birth=yes }
+	796.2.10={ death=yes }
+}
+1019932106={
+	name=Mende
+	female=yes
+	dynasty=1009990286
+	dna="kbglopapoej"
+	culture=rekohun religion=maori_religion
+	father=1019932100	#Paat
+	705.6.24={ birth=yes }
+	782.4.27={ death=yes }
+}
+1019932107={
+	name=Mangkey
+	dynasty=1009990286
+	dna="nbljopmgekg"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	add_trait=martial_cleric add_trait=craven add_trait=honest add_trait=shy add_trait=paranoid 
+	 add_trait=drunkard 
+	father=1019932100	#Paat
+	710.1.17={ birth=yes }
+	787.8.10={ death=yes }
+}
+1019932108={
+	name=Walian
+	female=yes
+	dynasty=1009990286
+	dna="pojcbclgoka"
+	culture=rekohun religion=maori_religion
+	father=1019932105	#Mamuntu
+	720.6.22={ birth=yes }
+	819.5.2={ death=yes }
+}
+1019932109={
+	name=Pangkerego
+	dynasty=1009990286
+	dna="cdbgmfdheka"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=6
+	add_trait=scholarly_theologian add_trait=trusting add_trait=diligent add_trait=proud add_trait=zealous 
+	add_trait=just 
+	father=1019932105	#Mamuntu
+	726.12.15={ birth=yes }
+	804.1.2={ death=yes }
+}
+1019932110={
+	name=Mentu
+	female=yes
+	dynasty=1009990286
+	dna="chjbdfjgomp"
+	culture=rekohun religion=maori_religion
+	father=1019932105	#Mamuntu
+	731.3.19={ birth=yes }
+	800.8.3={ death=yes }
+}
+1019932111={
+	name=Mamanua
+	dynasty=1009990286
+	dna="fdlaminhdgf"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=6 stewardship=8 intrigue=6 learning=8
+	add_trait=detached_priest add_trait=gluttonous add_trait=arbitrary add_trait=wroth 
+	father=1019932109	#Pangkerego
+	754.1.5={ birth=yes }
+	837.9.30={ death=yes }
+}
+1019932112={
+	name=Bella
+	female=yes
+	dynasty=1009990286
+	dna="longmninbia"
+	culture=rekohun religion=maori_religion
+	father=1019932109	#Pangkerego
+	758.3.8={ birth=yes }
+	814.9.24={ death=yes }
+}
+1019932113={
+	name=Wooy
+	dynasty=1009990286
+	dna="bdljggdkeaa"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=5 stewardship=6 intrigue=7 learning=8
+	add_trait=detached_priest add_trait=patient add_trait=gregarious add_trait=envious 
+	add_trait=lunatic 
+	father=1019932109	#Pangkerego
+	762.5.5={ birth=yes }
+	831.6.16={ death=yes }
+}
+1019932114={
+	name=Sorongan
+	dynasty=1009990286
+	dna="fmiahjbhnhd"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=4
+	add_trait=skilled_tactician  add_trait=humble add_trait=greedy add_trait=content 
+	father=1019932111	#Mamanua
+	784.11.24={ birth=yes }
+	886.9.11={ death=yes }
+}
+1019932115={
+	name=Rumincap
+	dynasty=1009990286
+	dna="ffjnmidjdif"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=6 stewardship=7 intrigue=6 learning=7
+	add_trait=grey_eminence add_trait=diligent add_trait=chaste add_trait=trusting add_trait=envious 
+	add_trait=proud add_trait=zealous 
+	father=1019932111	#Mamanua
+	788.10.2={ birth=yes }
+	859.4.29={ death=yes }
+}
+1019932116={
+	name=Tumondo
+	dynasty=1009990286
+	dna="fmidnjbbnha"
+	culture=rekohun religion=maori_religion
+	martial=8 diplomacy=7 stewardship=4 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=humble add_trait=slothful add_trait=envious 
+	add_trait=gluttonous add_trait=content 
+	father=1019932114	#Sorongan
+	809.9.22={ birth=yes }
+	865.2.3={ death=yes }
+}
+1019932117={
+	name=Sambuaga
+	female=yes
+	dynasty=1009990286
+	dna="ihmahdogghl"
+	culture=rekohun religion=maori_religion
+	father=1019932114	#Sorongan
+	813.5.19={ birth=yes }
+	877.4.17={ death=yes }
+}
+1019932118={
+	name=Poli
+	dynasty=1009990286
+	dna="pfihjgobnmm"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=6 stewardship=4 intrigue=4 learning=8
+	add_trait=scholarly_theologian add_trait=temperate add_trait=arbitrary add_trait=ambitious 
+	add_trait=lustful 
+	father=1019932116	#Tumondo
+	831.3.14={ birth=yes }
+	894.9.18={ death=yes }
+}
+1019932119={
+	name=Tiwa
+	dynasty=1009990286
+	dna="fpicchfbiha"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=8 stewardship=4 intrigue=7 learning=4
+	add_trait=tough_soldier add_trait=temperate add_trait=slothful add_trait=greedy 
+	add_trait=brave add_trait=patient add_trait=possessed 
+	father=1019932116	#Tumondo
+	839.4.7={ birth=yes }
+	910.4.18={ death=yes }
+}
+1019932120={
+	name=Lasut
+	female=yes
+	dynasty=1009990286
+	dna="flidjcbjeha"
+	culture=rekohun religion=maori_religion
+	father=1019932116	#Tumondo
+	843.7.17={ birth=yes }
+	916.8.16={ death=yes }
+}
+1019932121={
+	name=Karundeng
+	female=yes
+	dynasty=1009990286
+	dna="ihidhibncea"
+	culture=rekohun religion=maori_religion
+	father=1019932116	#Tumondo
+	851.1.25={ birth=yes }
+	896.2.23={ death=yes }
+}
+1019932122={
+	name=Manopo
+	dynasty=1009990286
+	dna="amihjgfbnim"
+	culture=rekohun religion=maori_religion
+	martial=8 diplomacy=8 stewardship=5 intrigue=6 learning=7
+	add_trait=flamboyant_schemer add_trait=craven add_trait=deceitful add_trait=greedy add_trait=lustful 
+	add_trait=possessed 
+	father=1019932118	#Poli
+	857.2.11={ birth=yes }
+	939.6.5={ death=yes }
+}
+1019932123={
+	name=Anes
+	female=yes
+	dynasty=1009990286
+	dna="dfchjdobpmg"
+	culture=rekohun religion=maori_religion
+	father=1019932118	#Poli
+	863.5.21={ birth=yes }
+	926.2.8={ death=yes }
+}
+1019932124={
+	name=Tambunan
+	dynasty=1009990286
+	dna="ifidngnbnmm"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=slothful add_trait=cynical add_trait=craven add_trait=lustful 
+	add_trait=envious add_trait=temperate add_trait=depressed 
+	father=1019932118	#Poli
+	866.1.4={ birth=yes }
+	938.10.24={ death=yes }
+}
+1019932125={
+	name=Ukus
+	dynasty=1009990286
+	dna="mmiklfggaom"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=7 stewardship=8 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=humble add_trait=diligent add_trait=gregarious add_trait=lustful 
+	add_trait=envious add_trait=cynical 
+	father=1019932122	#Manopo
+	880.9.6={ birth=yes }
+	956.6.8={ death=yes }
+}
+1019932126={
+	name=Sangkal
+	female=yes
+	dynasty=1009990286
+	dna="ailhjgflnib"
+	culture=rekohun religion=maori_religion
+	father=1019932122	#Manopo
+	885.2.25={ birth=yes }
+	956.4.12={ death=yes }
+}
+1019932127={
+	name=Polimpong
+	dynasty=1009990286
+	dna="eiihbgfbnfh"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=7
+	add_trait=elusive_shadow add_trait=charitable add_trait=honest add_trait=cynical add_trait=gregarious 
+	add_trait=patient 
+	father=1019932122	#Manopo
+	888.5.12={ birth=yes }
+	965.11.10={ death=yes }
+}
+1019932128={
+	name=Mambu
+	dynasty=1009990286
+	dna="nleajgfbcia"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=5 stewardship=8 intrigue=7 learning=6
+	add_trait=indulgent_wastrel add_trait=paranoid add_trait=arbitrary add_trait=zealous 
+	add_trait=brave 
+	father=1019932122	#Manopo
+	891.2.14={ birth=yes }
+	929.6.4={ death=yes }
+}
+1019932129={
+	name=Mendur
+	female=yes
+	dynasty=1009990286
+	dna="akhiagfbnef"
+	culture=rekohun religion=maori_religion
+	father=1019932122	#Manopo
+	896.7.2={ birth=yes }
+	951.11.23={ death=yes }
+}
+1019932130={
+	name=Lumingas
+	dynasty=1009990286
+	dna="hmimpeghaom"
+	culture=rekohun religion=maori_religion
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=lustful add_trait=brave add_trait=patient 
+	
+	father=1019932125	#Ukus
+	906.1.23={ birth=yes }
+	990.1.21={ death=yes }
+}
+1019932131={
+	name=Sepang
+	female=yes
+	dynasty=1009990286
+	dna="balklflmaob"
+	culture=rekohun religion=maori_religion
+	father=1019932125	#Ukus
+	910.9.16={ birth=yes }
+	965.2.8={ death=yes }
+}
+1019932132={
+	name=Kodongan
+	female=yes
+	dynasty=1009990286
+	dna="kmiklfhljom"
+	culture=rekohun religion=maori_religion
+	father=1019932125	#Ukus
+	914.3.13={ birth=yes }
+	995.7.10={ death=yes }
+}
+1019932133={
+	name=Watti
+	female=yes
+	dynasty=1009990286
+	dna="mefkibnkfka"
+	culture=rekohun religion=maori_religion
+	father=1019932125	#Ukus
+	920.4.6={ birth=yes }
+	966.11.17={ death=yes }
+}
+1019932134={
+	name=Pandi
+	dynasty=1009990286
+	dna="mgibldagaoc"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=7
+	add_trait=intricate_webweaver add_trait=duelist add_trait=cynical 
+	father=1019932125	#Ukus
+	924.11.27={ birth=yes }
+	986.9.9={ death=yes }
+}
+1019932135={
+	name=Tumonggor
+	dynasty=1009990286
+	dna="imgmphooomm"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=6 stewardship=7 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=craven add_trait=temperate  add_trait=paranoid 
+	father=1019932130	#Lumingas
+	927.10.10={ birth=yes }
+	1008.11.6={ death=yes }
+}
+1019932136={
+	name=Khodong
+	female=yes
+	dynasty=1009990286
+	dna="mkonpfghcem"
+	culture=rekohun religion=maori_religion
+	father=1019932130	#Lumingas
+	932.4.9={ birth=yes }
+	985.7.21={ death=yes }
+}
+1019932137={
+	name=Simbawa
+	female=yes
+	dynasty=1009990286
+	dna="hbikafphcad"
+	culture=rekohun religion=maori_religion
+	father=1019932130	#Lumingas
+	937.4.5={ birth=yes }
+	1007.4.22={ death=yes }
+}
+1019932138={
+	name="Muntu-Untu"
+	dynasty=1009990286
+	dna="bpgjkaooogf"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=8 stewardship=8 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=gardener add_trait=patient add_trait=gluttonous 
+	father=1019932135	#Tumonggor
+	949.6.2={ birth=yes }
+	1016.10.15={ death=yes }
+}
+1019932139={
+	name=Mambo
+	dynasty=1009990286
+	dna="ildbpbibohm"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=7
+	add_trait=misguided_warrior add_trait=hunter add_trait=slothful add_trait=arbitrary 
+	add_trait=gregarious 
+	father=1019932135	#Tumonggor
+	954.1.25={ birth=yes }
+	1052.10.23={ death=yes }
+}
+1019932140={
+	name=Kalalo
+	female=yes
+	dynasty=1009990286
+	dna="emgmohnohmh"
+	culture=rekohun religion=maori_religion
+	father=1019932135	#Tumonggor
+	959.1.19={ birth=yes }
+	1032.4.23={ death=yes }
+}
+1019932141={
+	name=Sarayar
+	female=yes
+	dynasty=1009990286
+	dna="lfgcpnoopmo"
+	culture=rekohun religion=maori_religion
+	father=1019932135	#Tumonggor
+	963.6.4={ birth=yes }
+	1029.6.1={ death=yes }
+}
+1019932142={
+	name=Pai
+	dynasty=1009990286
+	dna="jcgjeikobnj"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=intricate_webweaver add_trait=zealous add_trait=lustful add_trait=brave 
+	add_trait=charitable add_trait=strong 
+	father=1019932135	#Tumonggor
+	968.6.12={ birth=yes }
+	1033.8.9={ death=yes }
+}
+1019932143={
+	name=Mambo
+	dynasty=1009990286
+	dna="mcgjeaookmj"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=6 stewardship=6 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=patient add_trait=craven add_trait=honest add_trait=proud 
+	add_trait=hunchback 
+	father=1019932138	#"Muntu-Untu"
+	972.2.1={ birth=yes }
+	1029.1.2={ death=yes }
+}
+1019932144={
+	name=Simbar
+	female=yes
+	dynasty=1009990286
+	dna="bpgjkadooii"
+	culture=rekohun religion=maori_religion
+	father=1019932138	#"Muntu-Untu"
+	977.6.8={ birth=yes }
+	1054.8.23={ death=yes }
+}
+1019932145={
+	name=Tampi
+	dynasty=1009990286
+	dna="dfhpkafjkgf"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=4 stewardship=4 intrigue=6 learning=8
+	add_trait=thrifty_clerk add_trait=honest add_trait=chaste add_trait=envious add_trait=wroth 
+	father=1019932138	#"Muntu-Untu"
+	982.3.13={ birth=yes }
+	1055.3.8={ death=yes }
+}
+1019932146={
+	name=Palit
+	dynasty=1009990286
+	dna="bdgjihmgopc"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=5 stewardship=4 intrigue=7 learning=8
+	add_trait=detached_priest add_trait=brave add_trait=slothful add_trait=ambitious add_trait=proud 
+	father=1019932138	#"Muntu-Untu"
+	987.9.25={ birth=yes }
+	1049.6.11={ death=yes }
+}
+1019932147={
+	name=Watupongoh
+	female=yes
+	dynasty=1009990286
+	dna="laghbdojkme"
+	culture=rekohun religion=maori_religion
+	father=1019932143	#Mambo
+	992.9.16={ birth=yes }
+	1029.8.4={ death=yes }
+}
+1019932148={
+	name=Wooy
+	dynasty=1009990286
+	dna="mcgjkajpfmj"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=7 stewardship=6 intrigue=6 learning=8
+	add_trait=martial_cleric  add_trait=humble add_trait=trusting 
+	father=1019932143	#Mambo
+	996.9.8={ birth=yes }
+	1054.10.1={ death=yes }
+}
+1019932149={
+	name=Makadada
+	dynasty=1009990286
+	dna="icgjbaodkai"
+	culture=rekohun religion=maori_religion
+	martial=8 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	add_trait=martial_cleric  add_trait=greedy add_trait=ambitious add_trait=proud 
+	add_trait=craven add_trait=depressed 
+	father=1019932143	#Mambo
+	1002.11.7={ birth=yes }
+	1078.5.6={ death=yes }
+}
+1019932150={
+	name=Walebangko
+	female=yes
+	dynasty=1009990286
+	dna="mookfahppmk"
+	culture=rekohun religion=maori_religion
+	father=1019932148	#Wooy
+	1018.3.19={ birth=yes }
+	1076.12.18={ death=yes }
+}
+1019932151={
+	name=Kapoh
+	female=yes
+	dynasty=1009990286
+	dna="fcfjkejpojn"
+	culture=rekohun religion=maori_religion
+	father=1019932148	#Wooy
+	1020.1.5={ birth=yes }
+	1073.7.9={ death=yes }
+}
+1019932152={
+	name=Mongisidi
+	dynasty=1009990286
+	dna="mcgjhhmlhmj"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=hedonist  add_trait=deceitful add_trait=greedy 
+	add_trait=wroth add_trait=paranoid add_trait=brave 
+	father=1019932148	#Wooy
+	1025.6.20={ birth=yes }
+	1100.11.17={ death=yes }
+}
+1019932153={
+	name=Lumi
+	dynasty=1009990286
+	dna="obhjkajpakj"
+	culture=rekohun religion=maori_religion
+	martial=8 diplomacy=7 stewardship=4 intrigue=8 learning=4
+	add_trait=elusive_shadow add_trait=deceitful add_trait=humble add_trait=charitable 
+	father=1019932148	#Wooy
+	1029.1.14={ birth=yes }
+	1108.12.27={ death=yes }
+}
+1019932154={
+	name=Palit
+	dynasty=1009990286
+	dna="mcgjccjpfma"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=5 stewardship=8 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=patient add_trait=envious add_trait=brave add_trait=drunkard 
+	father=1019932148	#Wooy
+	1033.8.15={ birth=yes }
+	1094.1.29={ death=yes }
+}
+1019932155={
+	name=Watuseke
+	female=yes
+	dynasty=1009990286
+	dna="mdajhhmlfmm"
+	culture=rekohun religion=maori_religion
+	father=1019932152	#Mongisidi
+	1052.1.11={ birth=yes }
+	1131.10.28={ death=yes }
+}
+1019932156={
+	name=Wuisan
+	dynasty=1009990286
+	dna="mcmahkmmikj"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=lustful add_trait=wroth 
+	father=1019932152	#Mongisidi
+	1057.8.3={ birth=yes }
+	1147.8.13={ death=yes }
+}
+1019932157={
+	name=Kalalo
+	female=yes
+	dynasty=1009990286
+	dna="bmdohhplhme"
+	culture=rekohun religion=maori_religion
+	father=1019932152	#Mongisidi
+	1060.9.24={ birth=yes }
+	1146.4.15={ death=yes }
+}
+1019932158={
+	name=Punuh
+	dynasty=1009990286
+	dna="mpbodpmlike"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=6 stewardship=6 intrigue=7 learning=6
+	add_trait=indulgent_wastrel add_trait=envious add_trait=slothful 
+	father=1019932152	#Mongisidi
+	1066.4.13={ birth=yes }
+	1158.9.15={ death=yes }
+}
+1019932159={
+	name=Lasut
+	female=yes
+	dynasty=1009990286
+	dna="kbepcmmlgmj"
+	culture=rekohun religion=maori_religion
+	father=1019932152	#Mongisidi
+	1070.10.23={ birth=yes }
+	1132.5.31={ death=yes }
+}
+1019932160={
+	name=Ngantung
+	dynasty=1009990286
+	dna="mcmacommnhm"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=6
+	add_trait=naive_appeaser add_trait=deceitful add_trait=lustful add_trait=zealous 
+	father=1019932156	#Wuisan
+	1076.6.8={ birth=yes }
+	1153.11.19={ death=yes }
+}
+1019932161={
+	name=Rumpesak
+	dynasty=1009990286
+	dna="mpmjhkkmghj"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=greedy add_trait=humble add_trait=arbitrary 
+	father=1019932156	#Wuisan
+	1082.12.18={ birth=yes }
+	1142.6.14={ death=yes }
+}
+1019932162={
+	name=Mekel
+	female=yes
+	dynasty=1009990286
+	dna="hhmackamahh"
+	culture=rekohun religion=maori_religion
+	father=1019932160	#Ngantung
+	1104.5.10={ birth=yes }
+	1185.8.24={ death=yes }
+}
+1019932163={
+	name=Mentang
+	female=yes
+	dynasty=1009990286
+	dna="acmpiocmnpf"
+	culture=rekohun religion=maori_religion
+	father=1019932160	#Ngantung
+	1109.9.14={ birth=yes }
+	1177.6.24={ death=yes }
+}
+1019932164={
+	name=Nender
+	dynasty=1009990286
+	dna="mifmjnemmhm"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=7
+	add_trait=elusive_shadow add_trait=duelist add_trait=chaste add_trait=trusting add_trait=greedy 
+	add_trait=quick 
+	father=1019932160	#Ngantung
+	1115.7.7={ birth=yes }
+	1192.5.7={ death=yes }
+}
+1019932165={
+	name=Nayoan
+	dynasty=1009990286
+	dna="egpajkmnobm"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	add_trait=grey_eminence add_trait=brave add_trait=honest add_trait=wroth add_trait=diligent 
+	add_trait=ambitious  
+	father=1019932160	#Ngantung
+	1121.3.27={ birth=yes }
+	1179.2.14={ death=yes }
+}
+1019932166={
+	name=Kamagi
+	dynasty=1009990286
+	dna="eifmgnemkhe"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	add_trait=misguided_warrior add_trait=hunter add_trait=gregarious add_trait=honest add_trait=ill 
+	father=1019932164	#Nender
+	1133.8.10={ birth=yes }
+	1197.10.3={ death=yes }
+}
+1019932167={
+	name=Masinambau
+	female=yes
+	dynasty=1009990286
+	dna="mcfplneomfd"
+	culture=rekohun religion=maori_religion
+	father=1019932164	#Nender
+	1136.4.1={ birth=yes }
+	1173.7.14={ death=yes }
+}
+1019932168={
+	name=Liwe
+	female=yes
+	dynasty=1009990286
+	dna="ckfmjeegmhm"
+	culture=rekohun religion=maori_religion
+	father=1019932164	#Nender
+	1140.9.25={ birth=yes }
+	1235.9.18={ death=yes }
+}
+1019932169={
+	name=Wulur
+	dynasty=1009990286
+	dna="diiejnembaa"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=7
+	add_trait=mastermind_theologian add_trait=temperate add_trait=just 
+	father=1019932166	#Kamagi
+	1162.5.12={ birth=yes }
+	1244.5.12={ death=yes }
+}
+1019932170={
+	name=Tampinongkol
+	dynasty=1009990286
+	dna="nlfmhcplkhg"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=wroth add_trait=zealous add_trait=arbitrary add_trait=proud 
+	father=1019932166	#Kamagi
+	1166.8.16={ birth=yes }
+	1219.7.7={ death=yes }
+}
+1019932171={
+	name=Kaes
+	dynasty=1009990286
+	dna="ekfmhnenihm"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=arbitrary add_trait=deceitful add_trait=lustful 
+	add_trait=gregarious 
+	father=1019932166	#Kamagi
+	1173.6.12={ birth=yes }
+	1240.11.28={ death=yes }
+}
+1019932172={
+	name=Samola
+	female=yes
+	dynasty=1009990286
+	dna="edfpgeldkpe"
+	culture=rekohun religion=maori_religion
+	father=1019932166	#Kamagi
+	1177.2.9={ birth=yes }
+	1264.6.1={ death=yes }
+}
+1019932173={
+	name=Lumenta
+	dynasty=1009990286
+	dna="biidojdmbia"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	add_trait=scholarly_theologian add_trait=zealous add_trait=humble add_trait=content add_trait=gregarious 
+	add_trait=just 
+	father=1019932169	#Wulur
+	1181.7.27={ birth=yes }
+	1256.7.23={ death=yes }
+}
+1019932174={
+	name=Mangindaan
+	female=yes
+	dynasty=1009990286
+	dna="ddcajbemdpa"
+	culture=rekohun religion=maori_religion
+	father=1019932169	#Wulur
+	1185.12.19={ birth=yes }
+	1266.3.14={ death=yes }
+}
+1019932175={
+	name=Manarisip
+	dynasty=1009990286
+	dna="dilbelomeaa"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=6 stewardship=7 intrigue=7 learning=7
+	add_trait=charismatic_negotiator add_trait=gregarious add_trait=envious add_trait=lustful add_trait=ambitious 
+	father=1019932169	#Wulur
+	1189.4.19={ birth=yes }
+	1269.10.27={ death=yes }
+}
+1019932176={
+	name=Sambuaga
+	female=yes
+	dynasty=1009990286
+	dna="oiifjpemblp"
+	culture=rekohun religion=maori_religion
+	father=1019932169	#Wulur
+	1195.9.1={ birth=yes }
+	1267.6.27={ death=yes }
+}
+1019932177={
+	name=Andu
+	female=yes
+	dynasty=1009990286
+	dna="dihepneipae"
+	culture=rekohun religion=maori_religion
+	father=1019932169	#Wulur
+	1201.1.10={ birth=yes }
+	1288.12.5={ death=yes }
+}
+1019932178={
+	name=Ratuwalangon
+	female=yes
+	dynasty=1009990286
+	dna="mifdinombcm"
+	culture=rekohun religion=maori_religion
+	father=1019932169	#Wulur
+	1206.5.6={ birth=yes }
+	1278.6.20={ death=yes }
+}
+1019932179={
+	name=Solang
+	dynasty=1009990286
+	dna="diihjnaabaa"
+	culture=rekohun religion=maori_religion
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	add_trait=elusive_shadow add_trait=trusting add_trait=cynical add_trait=diligent add_trait=wroth 
+	father=1019932169	#Wulur
+	1212.3.3={ birth=yes }
+	1289.7.6={ death=yes }
+}
+1019932180={
+	name=Pepah
+	dynasty=1009990286
+	dna="glidejmlhoa"
+	culture=rekohun religion=maori_religion
+	martial=8 diplomacy=6 stewardship=8 intrigue=5 learning=4
+	add_trait=grey_eminence add_trait=ambitious add_trait=gregarious add_trait=charitable 
+	add_trait=weak 
+	father=1019932173	#Lumenta
+	1206.9.18={ birth=yes }
+	1257.1.14={ death=yes }
+}
+1019932181={
+	name=Pele
+	dynasty=1009990286
+	dna="hoidohdngia"
+	culture=rekohun religion=maori_religion
+	martial=8 diplomacy=4 stewardship=4 intrigue=6 learning=7
+	add_trait=flamboyant_schemer add_trait=proud add_trait=lustful add_trait=ambitious 
+	father=1019932173	#Lumenta
+	1211.3.26={ birth=yes }
+	1267.11.23={ death=yes }
+}
+1019932182={
+	name=Sengkey
+	dynasty=1009990286
+	dna="diidmcamfia"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=lustful add_trait=gregarious add_trait=gluttonous add_trait=weak 
+	father=1019932173	#Lumenta
+	1218.12.14={ birth=yes }
+	1294.9.6={ death=yes }
+}
+1019932183={
+	name=Tooi
+	dynasty=1009990286
+	dna="iobjnmnphog"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=content add_trait=patient add_trait=diligent add_trait=charitable 
+	
+	father=1019932180	#Pepah
+	1230.7.9={ birth=yes }
+	1293.5.2={ death=yes }
+}
+1019932184={
+	name=Awondatu
+	female=yes
+	dynasty=1009990286
+	dna="glpdmjhmbha"
+	culture=rekohun religion=maori_religion
+	father=1019932180	#Pepah
+	1234.8.5={ birth=yes }
+	1288.5.27={ death=yes }
+}
+1019932185={
+	name=Kalempou
+	female=yes
+	dynasty=1009990286
+	dna="cfbjmmnaiog"
+	culture=rekohun religion=maori_religion
+	father=1019932183	#Tooi
+	1259.10.15={ birth=yes }
+	1321.8.14={ death=yes }
+}
+1019932186={
+	name=Piri
+	dynasty=1009990286
+	dna="iogjgmnpdin"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=5 stewardship=7 intrigue=6 learning=7
+	add_trait=grey_eminence add_trait=humble add_trait=paranoid add_trait=diligent 
+	father=1019932183	#Tooi
+	1267.8.1={ birth=yes }
+	1339.7.4={ death=yes }
+}
+1019932187={
+	name=Gumansing
+	dynasty=1009990286
+	dna="kmbjndnihig"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	add_trait=misguided_warrior add_trait=just add_trait=cynical add_trait=gregarious add_trait=lustful 
+	add_trait=greedy 
+	father=1019932183	#Tooi
+	1274.6.3={ birth=yes }
+	1333.10.14={ death=yes }
+}
+1019932188={
+	name=Pangkerego
+	dynasty=1009990286
+	dna="glojnmdpdin"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=7 stewardship=7 intrigue=7 learning=5
+	add_trait=scholarly_theologian add_trait=wroth add_trait=zealous add_trait=craven 
+	father=1019932186	#Piri
+	1296.6.10={ birth=yes }
+	1383.2.20={ death=yes }
+}
+1019932189={
+	name=Kapoyos
+	female=yes
+	dynasty=1009990286
+	dna="lbgjkmnmdin"
+	culture=rekohun religion=maori_religion
+	father=1019932186	#Piri
+	1301.10.17={ birth=yes }
+	1360.6.3={ death=yes }
+}
+1019932190={
+	name=Ratumbuisang
+	female=yes
+	dynasty=1009990286
+	dna="iedjbmnpdln"
+	culture=rekohun religion=maori_religion
+	father=1019932186	#Piri
+	1305.4.22={ birth=yes }
+	1378.9.27={ death=yes }
+}
+1019932191={
+	name=Kesek
+	female=yes
+	dynasty=1009990286
+	dna="ionbcmnfden"
+	culture=rekohun religion=maori_religion
+	father=1019932186	#Piri
+	1311.1.17={ birth=yes }
+	1388.10.20={ death=yes }
+}
+1019932192={
+	name=Pangau
+	dynasty=1009990286
+	dna="oeojamdjmin"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	add_trait=elusive_shadow add_trait=gluttonous add_trait=honest 
+	father=1019932188	#Pangkerego
+	1322.4.16={ birth=yes }
+	1404.1.13={ death=yes }
+}
+1019932193={
+	name=Korengkeng
+	dynasty=1009990286
+	dna="algjnmdaecn"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	add_trait=grey_eminence add_trait=greedy add_trait=diligent add_trait=deceitful add_trait=wounded 
+	father=1019932188	#Pangkerego
+	1324.7.8={ birth=yes }
+	1414.6.2={ death=yes }
+}
+1019932194={
+	name=Kalalo
+	female=yes
+	dynasty=1009990286
+	dna="clmlmmnbmjn"
+	culture=rekohun religion=maori_religion
+	father=1019932188	#Pangkerego
+	1332.6.6={ birth=yes }
+	1391.7.16={ death=yes }
+}
+1019932195={
+	name=Palenteng
+	dynasty=1009990286
+	dna="obobfjdjdon"
+	culture=rekohun religion=maori_religion
+	martial=8 diplomacy=7 stewardship=8 intrigue=7 learning=8
+	add_trait=indulgent_wastrel add_trait=paranoid add_trait=greedy add_trait=temperate add_trait=brave 
+	father=1019932192	#Pangau
+	1352.10.26={ birth=yes }
+	1438.1.24={ death=yes }
+}
+1019932196={
+	name=Gumion
+	dynasty=1009990286
+	dna="naojapdadld"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=5 stewardship=4 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=brave add_trait=wroth add_trait=greedy add_trait=diligent 
+	father=1019932192	#Pangau
+	1358.12.2={ birth=yes }
+	1431.6.23={ death=yes }
+}
+1019932197={
+	name=Podung
+	dynasty=1009990286
+	dna="oegjfloicin"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=4
+	add_trait=indulgent_wastrel add_trait=slothful add_trait=shy add_trait=craven add_trait=paranoid 
+	father=1019932192	#Pangau
+	1361.10.7={ birth=yes }
+	1419.7.29={ death=yes }
+}
+1019932198={
+	name=Pola
+	dynasty=1009990286
+	dna="fooaamfjeid"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=ambitious add_trait=zealous add_trait=wroth 
+	father=1019932192	#Pangau
+	1365.4.4={ birth=yes }
+	1445.5.1={ death=yes }
+}
+1019932199={
+	name=Lumanau
+	dynasty=1009990286
+	dna="mkopaadjmgn"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=7
+	add_trait=grey_eminence add_trait=impaler add_trait=diligent add_trait=cynical add_trait=gregarious 
+	add_trait=arbitrary add_trait=content add_trait=brave 
+	father=1019932192	#Pangau
+	1370.4.20={ birth=yes }
+	1464.5.8={ death=yes }
+}
+1019932200={
+	name=Ilat
+	dynasty=1009990286
+	dna="kfbhfjfjgon"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=temperate add_trait=gregarious add_trait=chaste 
+	add_trait=cynical add_trait=depressed 
+	father=1019932195	#Palenteng
+	1377.7.17={ birth=yes }
+	1456.6.28={ death=yes }
+}
+1019932201={
+	name=Dewat
+	dynasty=1009990286
+	dna="dbobpjdifli"
+	culture=rekohun religion=maori_religion
+	martial=6 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	add_trait=indulgent_wastrel add_trait=craven add_trait=wroth add_trait=arbitrary 
+	father=1019932195	#Palenteng
+	1382.8.11={ birth=yes }
+	1457.9.10={ death=yes }
+}
+1019932202={
+	name=Gumion
+	dynasty=1009990286
+	dna="liehajdodnn"
+	culture=rekohun religion=maori_religion
+	martial=7 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	add_trait=intricate_webweaver add_trait=craven add_trait=paranoid 
+	father=1019932195	#Palenteng
+	1386.4.24={ birth=yes }
+	1441.9.21={ death=yes }
+}
+1019932203={
+	name=Sambur
+	female=yes
+	dynasty=1009990286
+	dna="onkbejdjdhn"
+	culture=rekohun religion=maori_religion
+	father=1019932195	#Palenteng
+	1391.1.19={ birth=yes }
+	1470.4.5={ death=yes }
+}
+1019932204={
+	name=Lampus
+	female=yes
+	dynasty=1009990286
+	dna="ebobaddaodn"
+	culture=rekohun religion=maori_religion
+	father=1019932195	#Palenteng
+	1396.6.19={ birth=yes }
+	1447.12.15={ death=yes }
+}
+1019932205={
+	name=Londok
+	dynasty=1009990286
+	dna="bfbocjfgjfn"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=8 stewardship=6 intrigue=5 learning=4
+	add_trait=midas_touched add_trait=just add_trait=ambitious add_trait=chaste  
+	father=1019932200	#Ilat
+	1407.2.9={ birth=yes }
+	1460.10.24={ death=yes }
+}
+1019932206={
+	name=Manopo
+	dynasty=1009990286
+	dna="knbhfjjoboc"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=6 stewardship=6 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=honest add_trait=chaste add_trait=humble add_trait=gregarious 
+	add_trait=possessed add_trait=clubfooted 
+	father=1019932200	#Ilat
+	1410.7.8={ birth=yes }
+	1486.2.1={ death=yes }
+}
+1019932207={
+	name=Mince
+	female=yes
+	dynasty=1009990286
+	dna="klbdejjjgog"
+	culture=rekohun religion=maori_religion
+	father=1019932200	#Ilat
+	1415.9.20={ birth=yes }
+	1502.10.17={ death=yes }
+}
+1019932208={
+	name=Dimpudus
+	dynasty=1009990286
+	dna="kfahjbmfbon"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=6 stewardship=8 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=charitable add_trait=brave 
+	father=1019932200	#Ilat
+	1421.3.26={ birth=yes }
+	1493.5.16={ death=yes }
+}
+1019932209={
+	name=Laoh
+	female=yes
+	dynasty=1009990286
+	dna="kfaikjfleln"
+	culture=rekohun religion=maori_religion
+	father=1019932200	#Ilat
+	1424.7.8={ birth=yes }
+	1477.12.19={ death=yes }
+}
+1019932210={
+	name=Lumenta
+	dynasty=1009990286
+	dna="bfbjiafgfcn"
+	culture=rekohun religion=maori_religion
+	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=lustful add_trait=humble add_trait=craven 
+	father=1019932205	#Londok
+	1440.10.13={ birth=yes }
+	1499.5.5={ death=yes }
+}
+1019932211={
+	name=Umboh
+	dynasty=1009990286
+	dna="bfbmmfogjmn"
+	culture=rekohun religion=maori_religion
+	martial=5 diplomacy=6 stewardship=7 intrigue=6 learning=4
+	add_trait=martial_cleric add_trait=hedonist add_trait=lustful add_trait=proud add_trait=temperate 
+	 
+	father=1019932205	#Londok
+	1446.5.8={ birth=yes }
+	1510.2.9={ death=yes }
+}
+1019932212={
+	name=Sirang
+	female=yes
+	dynasty=1009990286
+	dna="nfboijgkcfm"
+	culture=rekohun religion=maori_religion
+	father=1019932205	#Londok
+	1451.5.10={ birth=yes }
+	1546.7.12={ death=yes }
+}

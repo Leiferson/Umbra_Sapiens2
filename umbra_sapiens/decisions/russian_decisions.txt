@@ -1,0 +1,602 @@
+decisions = {
+vassalize_don_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_don_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+			independent = yes
+			NOT = { is_liege_of = d_don_cossacks }
+			OR = {
+				has_landed_title = c_ryazan
+				any_realm_lord = {
+					has_landed_title = c_ryazan
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_don_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+vassalize_zaporozhian_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_zaporozhian_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_zaporozhian_cossacks }
+			OR = {
+				has_landed_title = c_oleshye
+				any_realm_lord = {
+					has_landed_title = c_oleshye
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_zaporozhian_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+vassalize_kuban_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_kuban_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_kuban_cossacks }
+			OR = {
+				has_landed_title = c_kuban
+				any_realm_lord = {
+					has_landed_title = c_kuban
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_kuban_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+vassalize_terek_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_terek_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_terek_cossacks }
+			OR = {
+				has_landed_title = c_jidan
+				any_realm_lord = {
+					has_landed_title = c_jidan
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_terek_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+	vassalize_ural_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_ural_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_ural_cossacks }
+			OR = {
+				has_landed_title = c_guryev
+				any_realm_lord = {
+					has_landed_title = c_guryev
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_ural_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+	vassalize_orenburg_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_orenburg_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_orenburg_cossacks }
+			OR = {
+				has_landed_title = c_belaya
+				any_realm_lord = {
+					has_landed_title = c_belaya
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_orenburg_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+	vassalize_astrakhan_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_astrakhan_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_astrakhan_cossacks }
+			OR = {
+				has_landed_title = c_kuma
+				any_realm_lord = {
+					has_landed_title = c_kuma
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_astrakhan_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+	vassalize_siberian_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_siberian_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_siberian_cossacks }
+			OR = {
+				has_landed_title = c_sibir
+				any_realm_lord = {
+					has_landed_title = c_sibir
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_siberian_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+	vassalize_semirechye_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_semirechye_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_semirechye_cossacks }
+			OR = {
+				has_landed_title = c_almaty
+				any_realm_lord = {
+					has_landed_title = c_almaty
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_semirechye_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+	vassalize_baikal_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_baikal_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_baikal_cossacks }
+			OR = {
+				has_landed_title = c_baygal
+				any_realm_lord = {
+					has_landed_title = c_baygal
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_baikal_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+	vassalize_amur_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_amur_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_amur_cossacks }
+			OR = {
+				has_landed_title = c_urkan
+				any_realm_lord = {
+					has_landed_title = c_urkan
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_amur_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+	vassalize_ussuri_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_ussuri_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_ussuri_cossacks }
+			OR = {
+				has_landed_title = c_hurha
+				any_realm_lord = {
+					has_landed_title = c_hurha
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_ussuri_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+vassalize_povolzhye_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_povolzhye_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_povolzhye_cossacks }
+			OR = {
+				has_landed_title = c_don_portage
+				any_realm_lord = {
+					has_landed_title = c_don_portage
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_povolzhye_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+vassalize_bug_cossacks = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_bug_cossacks
+			higher_tier_than = DUKE
+			
+			religion_group = christian
+
+			independent = yes
+			NOT = { is_liege_of = d_bug_cossacks }
+			OR = {
+				has_landed_title = c_vinnytsia
+				any_realm_lord = {
+					has_landed_title = c_vinnytsia
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			religion_group = christian
+			independent = yes
+		}
+		effect = {
+			wealth = -300
+
+			hidden_tooltip = {
+				d_bug_cossacks = {
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+	}
+}

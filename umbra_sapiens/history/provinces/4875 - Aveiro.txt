@@ -1,0 +1,19 @@
+# County Title
+title = c_aveiro
+
+# Settlements
+max_settlements = 6
+b_aveiro = castle
+b_aveiro-ii = temple
+#b_aveiro-iii = city
+#b_aveiro-iv = castle
+#b_aveiro-v = temple
+#b_aveiro-vi = castle
+# Misc
+culture = suebi
+religion = catholic
+terrain = marsh
+# History
+931.1.1 = {
+	culture = portuguese
+}

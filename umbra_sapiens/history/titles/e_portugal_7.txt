@@ -1,0 +1,15 @@
+20.1.1={
+	active = no
+}
+1495.10.25={
+	active = yes
+	holder=370292 # D.Manuel
+	law = succ_primogeniture
+	effect={
+		insert_title_history=e_portugal_6
+	}
+}
+1521.12.13={
+	holder=0
+	active = no
+}

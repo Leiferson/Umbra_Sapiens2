@@ -1,0 +1,100 @@
+711.1.1={
+	de_jure_liege = k_navarra
+}
+810.1.1={
+	holder=70300 # Aznar I de Aragón
+	liege=k_aquitaine
+}
+820.1.1={
+	holder=70302 # Gartzia I Belascotenes
+}
+833.1.1={
+	holder=70303 # Galindo I Belascotenes
+}
+844.1.1={
+	holder=70277 # Galindo II de Aragón
+}
+867.1.1={
+	holder=70276 # Aznar II de Aragón
+	liege=k_navarra
+}
+893.1.1={
+	holder=70274 # Galindo III de Aragón
+}
+923.1.1={
+	holder=70275 # Andregoto de Aragón
+}
+940.1.1={
+	holder=70123 # Gartzia III Jimena
+}
+970.2.22={
+	holder=70124 # Antso II Jimena
+}
+994.12.1={
+	holder=106040 # Gartzia IV Jimena
+}
+999.12.8={
+	holder=106030 # Antso III Jimena
+}
+1035.10.18={
+	holder=0
+}
+1066.9.10={
+	de_jure_liege=k_aragon
+}
+1517.1.1={
+	holder=370350	#Alonso de Aragón, bishop of Zaragoza 1517–1520
+	liege=e_espana_burgona
+	vice_royalty=yes
+}
+1520.1.1={
+	holder=380589	#Juan de Lanuza y Torrellas 1520–1535
+}
+1535.1.1={
+	holder=380546	#Beltrán de la Cueva, 3rd Duke of Alburquerque 1535–1539
+}
+1539.1.1={
+	holder=380590	#Pedro Manrique de Luna y de Urrea, count of Morata de Jalón 1539–1554
+}
+1554.1.1={
+	holder=379758	#Diego Hurtado de Mendoza y de la Cerda, prince of Melito 1554–1564
+}
+1566.1.1={
+	holder=375392	#Ferran d'Aragón i de Gurrea, Bishop of Zaragoza 1566–1575
+}
+1575.1.1={
+	holder=380591	#Artal de Alagón y Luna, count of Sástago 1575–1588
+}
+1588.1.1={
+	holder=380592	#Iñigo de Mendoza y de la Cerda y Manrique de Luna, marquis of Almenara 1588
+}
+1592.1.1={
+	holder=380594	#Miguel Martinez de Luna y Mendoza, count of Morata de Jalón 1592–1593
+}
+1593.1.1={
+	holder=380595	#Diego Fernández de Cabrera Bobadilla y Mendoza, count of Chincón 1593–1601
+}
+1601.1.1={
+	holder=380565	#Beltrán de la Cueva y Castilla, duke of Alburquerque 1601–1602
+}
+1602.1.1={
+	holder=380596	#Ascanio Colonna, cardinal 1602–1604
+}
+1604.1.1={
+	holder=380597	#Gastón de Moncada, 2nd Marquis of Aitona 1604–1610
+}
+1610.1.1={
+	holder=380598	#Diego Carrillo de Mendoza, 1st Marquis of Gelves 1610–1621
+}
+1621.1.1={
+	holder=380291	#Fernando de Borja y Aragón, count of Mayalde 1621–1632
+}
+1632.1.1={
+	holder=380599	#Girolamo Carraffa e Carrascciolo, marquis de Montenegro 1632–1636
+}
+1635.1.1={
+	holder=380289	#Pedro Fajardo de Requesens de Zuñiga y Pimentel, marquis of Los Velez 1635–1638
+}
+1639.1.1={
+	holder=380600	#Francesco Maria Carafa, Duke of Nocera 1639–1640
+}

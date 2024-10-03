@@ -1,0 +1,20 @@
+# County Title
+title = c_cape_verde
+
+# Settlements
+max_settlements = 3
+b_saovicente = tribal
+#b_saonicolao = 
+#b_santoantao = 
+#b_boavista = 
+#b_sal = 
+
+# Misc
+culture = balanta
+religion = west_african_pagan
+
+# History
+1300.1.1 = {
+	b_saovicente = castle
+	b_saonicolao = city
+}

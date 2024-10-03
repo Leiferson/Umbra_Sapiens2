@@ -1,0 +1,473 @@
+objectTypes = {
+
+	#LIGHT_INFANTRY
+	#HEAVY_INFANTRY
+	#PIKEMEN
+	#LIGHT_CAVALRY
+	#KNIGHTS
+	#ARCHERS
+	#horse_archers
+	#GALLEYS
+
+	pdxmesh = {
+		name = "japanesegfx_HEAVY_INFANTRY"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_HEAVY_INFANTRY"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_HEAVY_INFANTRY"
+		file = "gfx\models\ainu_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "ainu_katana2_idle_animation" }
+		animation = { id = "move"		type = "ainu_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_LIGHT_INFANTRY"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_LIGHT_INFANTRY"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_LIGHT_INFANTRY"
+		file = "gfx\models\ainu_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "ainu_katana2_idle_animation" }
+		animation = { id = "move"		type = "ainu_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_PIKEMEN"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_PIKEMEN"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_PIKEMEN"
+		file = "gfx\models\ainu_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "ainu_katana2_idle_animation" }
+		animation = { id = "move"		type = "ainu_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_ARCHERS"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}	
+	
+	pdxmesh = {
+		name = "ryukyugfx_ARCHERS"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}	
+	
+	pdxmesh = {
+		name = "ainugfx_ARCHERS"
+		file = "gfx\models\ainu_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "ainu_katana2_idle_animation" }
+		animation = { id = "move"		type = "ainu_katana2_move_animation" }
+		
+		scale = 1.0f
+	}	
+	
+	pdxmesh = {
+		name = "japanesegfx_KNIGHTS"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_KNIGHTS"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_KNIGHTS"
+		file = "gfx\models\ainu_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "ainu_katana2_idle_animation" }
+		animation = { id = "move"		type = "ainu_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_LIGHT_CAVALRY"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_LIGHT_CAVALRY"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_LIGHT_CAVALRY"
+		file = "gfx\models\ainu_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "ainu_katana2_idle_animation" }
+		animation = { id = "move"		type = "ainu_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_arquebusiers"
+		file = "gfx\models\samurai_katana2.mesh"
+		
+		animation = { id = "attack"		type = "samurai_katana2_attack_animation" }
+		animation = { id = "idle"		type = "samurai_katana2_idle_animation" }
+		animation = { id = "move"		type = "samurai_katana2_move_animation" }
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_job_chancellor"
+		file = "gfx\models\japanese_chancellor.mesh"
+	
+		animation = { id = "idle"		type = "japanese_chancellor_animation" }
+	
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_job_chancellor"
+		file = "gfx\models\japanese_chancellor.mesh"
+	
+		animation = { id = "idle"		type = "japanese_chancellor_animation" }
+	
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_job_chancellor"
+		file = "gfx\models\ainu_chancellor.mesh"
+	
+		animation = { id = "idle"		type = "japanese_chancellor_animation" }
+	
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_job_chancellor_female"
+		file = "gfx/models/japanese_chancellor_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "japanese_chancellor_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_job_chancellor_female"
+		file = "gfx/models/japanese_chancellor_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "japanese_chancellor_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_job_chancellor_female"
+		file = "gfx/models/ainu_chancellor_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "japanese_chancellor_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_job_marshal"
+		file = "gfx\models\japanese_marshal.mesh"
+	
+		animation = { id = "idle"		type = "japanese_marshal_animation" }
+	
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_job_marshal"
+		file = "gfx\models\japanese_marshal.mesh"
+	
+		animation = { id = "idle"		type = "japanese_marshal_animation" }
+	
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_job_marshal"
+		file = "gfx\models\ainu_marshal.mesh"
+	
+		animation = { id = "idle"		type = "ainu_marshal_animation" }
+	
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_job_marshal_female"
+		file = "gfx/models/japanese_marshal_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "japanese_marshal_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_job_marshal_female"
+		file = "gfx/models/japanese_marshal_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "japanese_marshal_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_job_marshal_female"
+		file = "gfx/models/ainu_marshal_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "ainu_marshal_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_job_treasurer"
+		file = "gfx\models\japanese_treasurer.mesh"
+	
+		animation = { id = "idle"		type = "japanese_treasurer_animation" }
+	
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_job_treasurer"
+		file = "gfx\models\japanese_treasurer.mesh"
+	
+		animation = { id = "idle"		type = "japanese_treasurer_animation" }
+	
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_job_treasurer"
+		file = "gfx\models\ainu_treasurer.mesh"
+	
+		animation = { id = "idle"		type = "japanese_treasurer_animation" }
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_job_treasurer_female"
+		file = "gfx/models/japanese_treasurer_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "japanese_treasurer_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_job_treasurer_female"
+		file = "gfx/models/japanese_treasurer_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "japanese_treasurer_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_job_treasurer_female"
+		file = "gfx/models/ainu_treasurer_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "japanese_treasurer_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_job_spymaster"
+		file = "gfx\models\japanese_spymaster.mesh"
+	
+		animation = { id = "idle"		type = "japanese_spymaster_animation" }
+	
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_job_spymaster"
+		file = "gfx\models\japanese_spymaster.mesh"
+	
+		animation = { id = "idle"		type = "japanese_spymaster_animation" }
+	
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_job_spymaster"
+		file = "gfx\models\ainu_spymaster.mesh"
+	
+		animation = { id = "idle"		type = "ainu_spymaster_animation" }
+	
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "japanesegfx_job_spymaster_female"
+		file = "gfx/models/japanese_spymaster_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "japanese_spymaster_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_job_spymaster_female"
+		file = "gfx/models/japanese_spymaster_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "japanese_spymaster_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_job_spymaster_female"
+		file = "gfx/models/ainu_spymaster_female.mesh"		
+		
+
+
+		animation = { id = "idle"		type = "japanese_spymaster_animation" }
+	
+		
+		scale = 1.0f
+	}
+	
+
+}

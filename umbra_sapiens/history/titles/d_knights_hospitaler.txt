@@ -1,0 +1,204 @@
+20.1.1={
+	active = no
+	law = revoke_title_law_2
+	law = ze_administration_laws_1
+	law = law_voting_power_0
+	law = war_voting_power_0
+	law = revoke_title_voting_power_0
+	law = imprison_voting_power_0
+	law = grant_title_voting_power_0
+	law = banish_voting_power_0
+	law = execution_voting_power_0
+	law = succession_voting_power_0	
+	law = centralization_3
+}
+1099.7.15={
+	active = yes
+}
+1099.7.15={
+	liege="k_jerusalem"
+}
+1099.7.15={
+	holder=147000
+}
+1120.9.3={
+	holder=147001
+}
+1160.1.1={
+	holder=147002
+}
+1162.1.1={
+	holder=147003
+}
+1163.1.1={
+	holder=147004
+}
+1170.1.1={
+	holder=147005
+}
+1172.1.1={
+	holder=147006
+}
+1177.1.1={
+	holder=231000
+}
+1187.5.1={
+	holder=147007
+}
+1187.7.1={
+	holder=147008
+}
+1190.1.1={
+	holder=147009
+}
+1192.4.25={
+	holder=147010
+}
+1202.3.23={
+	holder=142132
+}
+1206.5.25={
+	holder=147012
+}
+1207.4.27={
+	holder=147013
+}
+1230.2.27={
+	holder=147014
+}
+1231.9.12={
+	holder=147015
+}
+1236.11.1={
+	holder= 147016 # Bertrand de Comps
+}
+1240.3.17={
+	holder=147017 # Pierre de Brideville
+}
+1242.4.30={
+	holder=147018 # Guillaume de Chateauneuf
+}
+1258.6.6={
+	holder=147019 # Hugues de Revel
+}
+1277.3.4={
+	holder=147020
+}
+1284.5.5={
+	holder=147021
+}
+#Fall of Accre
+1291.5.28={
+	liege=0
+}
+1294.9.9={
+	holder=147022
+}
+1296.3.17={
+	holder=147023
+}
+1305.2.13={
+	holder=147024
+}
+1319.6.18={
+	holder=478502
+}
+1346.5.27={
+	holder=378400	#Dieudonné de Gozon
+}	
+1353.12.1={
+	holder=378401	#Pierre de Corneillan
+}		
+1355.8.24={
+	holder=378402	#Roger de Pins
+}			
+1365.5.28={
+	holder=378403	#Raymond Berengar
+}			
+1374.1.1={
+	holder=378404	#Robert de Juilly
+}				 
+1377.7.29={
+	holder=378405	#Juan Fernández de Heredia
+}				
+1383.4.1={
+	holder=378406	#Riccardo Caracciolo After this Juan Fernandez becomes Anti-Master in Rhodes
+}				
+1395.5.18={
+	holder=378407	#Philibert de Naillac
+}				
+1421.6.2={
+	holder=378408	#Anton Flavian de Ripa
+}				
+1437.10.29={
+	holder=378409	#Jean de Lastic
+}				
+1454.5.19={
+	holder=378480	#Jacques de Milly
+}				
+1461.8.17={
+	holder=378410	#Piero Raimondo Zacosta
+}				
+1467.2.21={
+	holder=378411	#Giovanni Battista Orsini
+}				
+1476.6.8={
+	holder=378412	#Pierre d'Aubusson
+}				
+1503.7.3={
+	holder=378413	#Emery d'Amboise
+}				
+1512.11.13={
+	holder=378414	#Guy de Blanchefort
+}				
+1513.11.24={
+	holder=378415	#Fabrizio del Carretto
+}				
+1521.1.10={
+	holder=378416	#Philippe de Villiers de L'Isle-Adam
+}				
+1534.8.21={
+	holder=378417	#Pierino de Ponte
+}				
+1535.11.18={
+	holder=378418	#Didier de Sainte-Jalle
+}				
+1536.9.26={
+	holder=378419	#Juan de Homedes
+}				
+1553.9.6={
+	holder=378420	#Claude de La Sengle
+}				
+1557.8.18={
+	holder=378421	#Jean de Valette
+}				
+1568.8.21={
+	holder=378422	#Pietro del Monte
+}				
+1572.1.26={
+	holder=378423	#Jean L'Evesque de La Cassière
+}				
+1581.7.11={
+	holder=378424	#Mathurin Romegas
+}				
+1581.10.1={
+	holder=378423	#Jean L'Evesque de La Cassière
+}				
+1581.12.21={
+	holder=378425	#Hugues Loubenx de Verdalle
+}				
+1595.5.4={
+	holder=378426	#Martín Garzés
+}				
+1601.2.7={
+	holder=378427	#Alof de Wignacourt
+}				
+1622.9.14={
+	holder=378428	#Luís Mendes de Vasconcellos
+}				
+1623.3.7={
+	holder=378429	#Antoine de Paule
+}				
+1636.6.9={
+	holder=378430	#Giovanni Paolo Lascaris
+}				

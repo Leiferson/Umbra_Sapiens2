@@ -1,0 +1,29 @@
+# 1443 - Bienh
+
+# County Title
+title = c_bienh
+
+# Settlements
+max_settlements = 7
+b_khaibyung = castle
+b_zsiangbyo = castle
+b_drinliu = castle
+b_yungkhiu = city
+b_siangip = city
+b_thadkhang = city
+b_ienling = city
+#b_pyungkhiu = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+1045.1.1 = {
+build_wonder = wonder_university
+set_wonder_stage = 1
+set_wonder_name = GUOZIJIANUNIVERSITY
+set_wonder_description = GUOZIJIANUNIVERSITYDESC
+build_wonder_upgrade = upgrade_great_seminars
+build_wonder_upgrade = upgrade_wing_of_stewardship
+}

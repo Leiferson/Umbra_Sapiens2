@@ -1,0 +1,120 @@
+761.1.1 = {
+	liege = d_holstein
+}
+761.1.1={
+	holder = 190474 #Hesso
+}
+782.1.1={
+	holder = 0
+}
+860.1.1={
+	liege="d_slesvig"
+}
+860.1.1={
+	holder = 163113
+}
+936.1.1 = {
+	holder = 1410
+	liege = d_mecklemburg
+}
+1066.1.1 = {
+	holder=101517
+	liege = d_slesvig
+}
+1080.4.17=
+{
+holder=101521
+}
+1099.1.1=
+{
+holder=101525
+}
+1100.1.1=
+{
+holder=101521
+}
+
+1103.7.10=
+{
+holder=201513
+}
+
+1106.1.1=
+{
+liege="d_saxony"
+}
+1106.1.1=
+{
+holder=31750 #Adolf I
+}
+1130.11.13=
+{
+holder=212362 #Adolf II
+}
+1164.7.6=
+{
+holder=212360 #Adolf III
+}
+1180.9.16=
+{
+	liege="e_hre"
+}
+1202.1.1=
+{
+liege="d_holstein"
+}
+1225.1.3=
+{
+holder=31752 #Adolf IV
+}
+1261.7.8=
+{
+holder=451975 #Gerhard I
+}
+1290.12.21=
+{
+holder=451972 #Gerhard II
+}
+1312.10.28={
+	holder = 451973
+}
+1323.1.2=
+{
+	holder=451970 #Gerhard III
+}
+1350.9.22 = {
+	holder=451960 #Johann III Plön
+}
+1359.1.1 = {
+	holder=451963	#Adolph IX, Count of Holstein-Kiel
+}	
+1390.1.26 = {
+	holder=372128 #Gerhard VI, Count of Holstein-Rendsburg
+}
+1404.1.1 = {
+	holder=372132 #Henry IV, Count of Holstein-Rendsburg
+}
+1427.5.28= {
+	holder=372135 #Adolph VIII, Count of Holstein
+}
+1459.12.4= {
+	holder=372138	#Christian I of Denmark
+}
+1481.5.21 = {
+	holder=372165	#John, King of Denmark
+}
+1513.2.20 = {
+	holder=372306	#Christian II of Denmark
+}
+1523.1.1 = {
+	holder=372167	#Frederick I of Denmark
+}
+1533.4.10 = {
+	holder=373393	#Christian III of Denmark
+}
+1559.1.1 = {
+	holder=373437	#Frederick II of Denmark
+}
+1588.4.4 = {
+	holder=373454	#Christian IV of Denmark
+}

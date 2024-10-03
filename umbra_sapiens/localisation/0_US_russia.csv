@@ -1,0 +1,113 @@
+d_don_cossacks;Don Cossacks;;;;;;;;;;;;;x
+d_don_cossacks_adj;Don Cossack;;;;;;;;;;;;;x
+d_zaporozhian_cossacks;Zaporozhian Cossacks;;;;;;;;;;;;;x
+d_zaporozhian_cossacks_adj;Zaporozhian Cossack;;;;;;;;;;;;;x
+d_bug_cossacks;Bug Cossacks;;;;;;;;;;;;;x
+d_bug_cossacks_adj;Bug Cossack;;;;;;;;;;;;;x
+d_kuban_cossacks;Kuban Cossacks;;;;;;;;;;;;;x
+d_kuban_cossacks_adj;Kuban Cossack;;;;;;;;;;;;;x
+d_terek_cossacks;Terek Cossacks;;;;;;;;;;;;;x
+d_terek_cossacks_adj;Terek Cossack;;;;;;;;;;;;;x
+d_ural_cossacks;Ural Cossacks;;;;;;;;;;;;;x
+d_ural_cossacks_adj;Ural Cossack;;;;;;;;;;;;;x
+d_orenburg_cossacks;Orenburg Cossacks;;;;;;;;;;;;;x
+d_orenburg_cossacks_adj;Orenburg Cossack;;;;;;;;;;;;;x
+d_astrakhan_cossacks;Astrakhan Cossacks;;;;;;;;;;;;;x
+d_astrakhan_cossacks_adj;Astrakhan Cossack;;;;;;;;;;;;;x
+d_siberian_cossacks;Siberian Cossacks;;;;;;;;;;;;;x
+d_siberian_cossacks_adj;Siberian Cossack;;;;;;;;;;;;;x
+d_semirechye_cossacks;Semirechye Cossacks;;;;;;;;;;;;;x
+d_semirechye_cossacks_adj;Semirechye Cossack;;;;;;;;;;;;;x
+d_baikal_cossacks;Baikal Cossacks;;;;;;;;;;;;;x
+d_baikal_cossacks_adj;Baikal Cossack;;;;;;;;;;;;;x
+d_amur_cossacks;Amur Cossacks;;;;;;;;;;;;;x
+d_amur_cossacks_adj;Amur Cossack;;;;;;;;;;;;;x
+d_ussuri_cossacks;Ussuri Cossacks;;;;;;;;;;;;;x
+d_ussuri_cossacks_adj;Ussuri Cossack;;;;;;;;;;;;;x
+d_povolzhye_cossacks;Povolzhye Cossacks;;;;;;;;;;;;;x
+d_povolzhye_cossacks_adj;Povolzhye Cossack;;;;;;;;;;;;;x
+vassalize_don_cossacks;Vassalize the Don Cossacks;;;;;;;;;;;;;x
+vassalize_don_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_zaporozhian_cossacks;Vassalize the Zaporozhian Cossacks;;;;;;;;;;;;;x
+vassalize_zaporozhian_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_kuban_cossacks;Vassalize the Kuban Cossacks;;;;;;;;;;;;;x
+vassalize_kuban_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_terek_cossacks;Vassalize the Terek Cossacks;;;;;;;;;;;;;x
+vassalize_terek_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_ural_cossacks;Vassalize the Ural Cossacks;;;;;;;;;;;;;x
+vassalize_ural_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_orenburg_cossacks;Vassalize the Orenburg Cossacks;;;;;;;;;;;;;x
+vassalize_orenburg_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_astrakhan_cossacks;Vassalize the Astrakhan Cossacks;;;;;;;;;;;;;x
+vassalize_astrakhan_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_siberian_cossacks;Vassalize the Siberian Cossacks;;;;;;;;;;;;;x
+vassalize_siberian_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_semirechye_cossacks;Vassalize the Semirechye Cossacks;;;;;;;;;;;;;x
+vassalize_semirechye_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_baikal_cossacks;Vassalize the Baikal Cossacks;;;;;;;;;;;;;x
+vassalize_baikal_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_amur_cossacks;Vassalize the Amur Cossacks;;;;;;;;;;;;;x
+vassalize_amur_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_ussuri_cossacks;Vassalize the Ussuri Cossacks;;;;;;;;;;;;;x
+vassalize_ussuri_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_povolzhye_cossacks;Vassalize the Povolzhye Cossacks;;;;;;;;;;;;;x
+vassalize_povolzhye_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+vassalize_bug_cossacks;Vassalize the Bug Cossacks;;;;;;;;;;;;;x
+vassalize_bug_cossacks_desc;Incorporating this Cossack Host into our armed forces would mean you could employ them in battle against our enemies.;;;;;;;;;;;;;x
+HETMAN;Hetman;;;;;;;;;;;;;x
+EVTNAMErussianevents.1;Rise of the Don Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.1;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts along the river Don. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.1;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.1;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.2;Rise of the Zaporozhian Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.2;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts in the region of Zaporozhia. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.2;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.2;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.3;Rise of the Kuban Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.3;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts in the region of Kuban. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.3;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.3;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.4;Rise of the Terek Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.4;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts along the river Terek. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.4;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.4;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.5;Rise of the Ural Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.5;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts along the region of the Ural. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.5;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.5;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.6;Rise of the Orenburg Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.6;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts around Orenburg. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.6;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.6;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.7;Rise of the Astrakhan Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.7;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts around Astrakhan. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.7;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.7;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.8;Rise of the Semirechye Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.8;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts in the region of the Semiriche. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.8;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.8;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.9;Rise of the Baikal Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.9;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts along lake Baikal. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.9;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.9;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.10;Rise of the Amur Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.10;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts along the river Amur. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.10;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.10;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.11;Rise of the Ussuri Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.11;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts along the river Ussuri. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.11;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.11;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.12;Rise of the Povolzhye Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.12;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts along the river Volga. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.12;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.12;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.13;Rise of the Bug Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.13;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts along the river Bug. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.13;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.13;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x
+EVTNAMErussianevents.14;Rise of the Siberian Cossacks!;;;;;;;;;;;;;x
+EVTDESCrussianeventsR.14;Runaway serfs fleeing drafts and heavy thites imposed upon the peasantry of the troubled Russias seem to be amassing in significant hosts in Siberia. They might just be looking for free pasture and living, but some fear this development might shake the foundations of serfdom, others fear even their already proven military capabilites.;;;;;;;;;;;;;x
+EVTOPTArussianevents.14;I'd preffer if they paid taxes... but they might be of use in the battlefield.;;;;;;;;;;;;;x
+EVTOPTBrussianevents.14;It is not as if we didn't have ocious peasants.;;;;;;;;;;;;;x

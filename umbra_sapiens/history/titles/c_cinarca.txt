@@ -1,0 +1,478 @@
+767.1.1={
+	liege=k_italy
+}
+767.1.1={
+	holder = 190277 #Peter
+}
+774.1.1={
+	liege=d_corsica
+	holder = 235002 #Burchard
+}
+828.1.1={
+	liege="d_toscana"
+}
+#Counts of Cinarca
+828.1.1=
+{
+	holder=235034 #Cinarco
+}
+854.1.1=
+{
+	holder=235035 #Oliviero
+}
+889.1.1=
+{
+	holder=235036 #Rinaldo
+}
+928.1.1=
+{
+	holder=235037 #Guglielmo
+}
+930.1.1={
+	liege=d_toscana
+}
+955.1.1={
+	liege=k_italy
+}
+962.1.1={
+	liege=d_corsica
+}
+963.1.1=
+{
+	holder=235038 #Forte
+}
+975.1.1={
+	liege="d_toscana"
+}
+1001.1.1={
+	holder=235039 #Antonio
+}
+1062.1.1={
+	holder=235009 #Giovanni of Massa
+}#Counts of Cinarca go into exile in Gallura
+1077.1.1={
+	liege="k_papal_state"
+}
+1091.6.28={
+	liege="d_pisa"
+}
+1094.1.1={
+	holder=235010 #Marco of Massa
+}
+1112.1.1={
+	holder=235042 #Arrigo I
+}#Cinarca ragained by Arrigo
+1113.1.1={
+	holder=235043 #Arrigo II
+}
+1132.1.1={
+	holder=235044 #Diotiaiuti
+}
+1189.1.1={
+	holder=235045 #Arrigo III
+}
+1195.1.1={
+	liege="d_genoa"
+	holder = 91417 #Niccolo Doria
+}#Genoa conquers Bonifacio
+1220.1.1={
+	holder=235046 #Opizzo
+}#Counts of Cinarca restored
+1225.1.1={
+	holder=235048 #Arrigo IV
+}
+1250.1.1={
+	liege="d_pisa"
+}#Pisa reconquers Corsica from Genoa, except Bonifacio
+1255.1.1=
+{
+	holder=235050 #Guglielmo I
+}
+1257.1.1=
+{
+	holder=235052 #Guido I
+}
+1258.1.1=
+{
+	holder=235055 #Arrigo V
+}
+1265.1.1=
+{
+	holder=235068 #Rinieri I
+}
+1277.1.1=
+{
+	holder=235069 #Giudice di Cinarca (Sinucello della Rocca), Count of Cinarca
+}
+1284.1.1={
+	liege="d_genoa"
+}#Genoa defeats Pisa
+1304.1.1={
+	holder=235053
+} #Rinieri II
+1325.1.1={
+	holder=235056
+} #Arrigo VI
+1330.1.1={
+	holder=235086
+} #Rinieri III
+1355.1.1={
+	holder=463150	#Matteo II Visconti
+}
+1356.11.15={
+	liege=k_genoa
+	holder=377815	#Simone Boccanegra
+}
+1363.3.30={
+	holder=377818	#Gabriele Adorno
+}
+1370.8.13={
+	holder=377819	#Domenico di Campofregoso
+}
+1378.6.13={
+	holder=377820	#Antoniotto I Adorno
+}
+1378.6.17={
+	holder=377821	#Nicolò Guarco
+}
+1383.4.7={
+	holder=377822	#Federico di Pagana
+}
+1383.4.8={
+	holder=377823	#Leonardo Montaldo
+}
+1384.6.14={
+	holder=377820	#Antoniotto I Adorno
+}
+1390.8.3={
+	holder=377824	#Giacomo Fregoso
+}
+1391.4.6={
+	holder=377820	#Antoniotto I Adorno
+}
+1392.6.16={
+	holder=377825	#Antoniotto di Montaldo
+}
+1393.7.15={
+	holder=381603	#Pietro di Campofregoso
+}
+1393.7.16={
+	holder=377827	#Clemente Promontorio
+}
+1393.7.17={
+	holder=377828	#Francesco Giustiniano di Garibaldo
+}
+1393.7.30={
+	holder=377825	#Antoniotto di Montaldo
+}
+1394.5.24={
+	holder=377829	#Niccolo Zoagli
+}
+1394.8.17={
+	holder=377830	#Antonio Guarco
+}
+1394.9.3={
+	holder=377820	#Antoniotto I Adorno
+}
+1396.11.27={
+	holder=370746 #Charles VI
+	liege=k_france
+}
+1413.3.27={
+	holder=377831	#Giorgio Adorno
+	liege=k_genoa
+}
+1415.3.29={
+	holder=377832	#Barnaba Guano
+}
+1415.7.3={
+	holder=377833	#Tomaso di Campofregoso
+}
+1421.11.23={
+	#milanese occupation
+	liege=d_lombardia
+	holder=370761	#Filippo Maria
+}
+1436.3.28={
+	holder=377834	#Isnardo Guarco
+	liege=k_genoa
+}
+1436.4.3={
+	holder=377833	#Tomaso di Campofregoso
+}
+1437.3.24={
+	holder=377835	#Battista Fregoso (1380–1442)
+}
+1437.3.25={
+	holder=377833	#Tomaso di Campofregoso
+}
+1442.12.18={
+	holder=377836	#Raffaele Adorno
+}
+1447.1.4={
+	holder=377837	#Barnaba Adorno
+}
+1447.1.30={
+	holder=377838	#Giano I di Campofregoso
+}
+1448.12.16={
+	holder=377839	#Lodovico di Campofregoso
+}
+1450.9.4={
+	holder=377840	#Pietro di Campofregoso
+}
+1458.1.1={
+	holder=370786 #Charles VII
+	liege=k_france
+}
+1461.3.12={
+	holder=377841	#Prospero Adorno
+	liege=k_genoa
+}
+1461.7.8={
+	holder=377842	#Spinetta Fregoso
+}
+1461.7.25={
+	holder=377839	#Lodovico di Campofregoso
+}
+1462.5.14={
+	holder=377843	#Paolo di Campofregoso
+}
+1462.5.31={
+	holder=377839	#Lodovico di Campofregoso
+}
+1463.1.8={
+	holder=377843	#Paolo di Campofregoso
+}
+1464.4.16={
+	#milanese conquest
+	liege=d_lombardia
+	holder=371595 #Francesco I Sforza
+}
+1466.3.8={
+	holder=371605 #Galeazzo Maria Sforza
+}
+1477.8.17={
+	holder=377841	#Prospero Adorno
+	liege=k_genoa
+}
+1478.11.26={
+	holder=377844	#Battista Fregoso (1452–1504)
+}
+1483.11.25={
+	holder=377843	#Paolo di Campofregoso
+}
+1488.1.6={
+	#milanese conquest
+	liege=d_lombardia
+	holder=371618 #Gian Galeazzo Sforza
+}
+1499.1.1={
+	holder=371092 #Louis XII
+	liege=k_france
+}
+1507.4.10={
+	holder=377845	#Paolo da Novi
+	liege=k_genoa
+}
+1507.4.27={
+	holder=371092 #Louis XII
+	liege=k_france
+}
+1512.6.29={
+	holder=377846	#Giano II di Campofregoso
+	liege=k_genoa
+}
+1513.5.25={
+	holder=377847	#Ottaviano Fregoso
+}
+1515.9.7={
+	holder=370977 #Francis I
+	liege=k_france
+}
+1522.5.31={
+	holder=377848	#Antoniotto II Adorno
+	liege=k_genoa
+}
+1527.8.1={
+	holder=370977 #Francis I
+	liege=k_france
+}
+1528.10.12={
+	holder=377849	#Oberto Cattaneo Lazzari
+	liege=k_genoa
+}
+1531.1.4={
+	holder=377850	#Battista Spinola
+}
+1533.1.4={
+	holder=377851	#Battista Lomellini
+}
+1535.1.4={
+	holder=377852	#Cristoforo Grimaldi Rosso
+}
+1537.1.4={
+	holder=377853	#Giovanni Battista Doria
+}
+1539.1.4={
+	holder=377854	#Giannandrea Giustiniani Longo
+}
+1541.1.4={
+	holder=377855	#Leonardo Cattaneo della Volta
+}
+1543.1.4={
+	holder=377856	#Andrea Centurione Pietrasanta
+}
+1545.1.4={
+	holder=377857	#Giovanni Battista De Fornari
+}
+1547.1.4={
+	holder=377858	#Benedetto Gentile Pevere
+}
+1549.1.4={
+	holder=377859	#Gaspare Grimaldi Bracelli
+}
+1551.1.4={
+	holder=377860	#Luca Spinola
+}
+1553.1.4={
+	holder=377861	#Giacomo Promontorio
+}
+1555.1.4={
+	holder=377862	#Agostino Pinelli Ardimenti
+}
+1557.1.4={
+	holder=377863	#Pietro Giovanni Chiavica Cibo
+}
+1558.12.3={
+	holder=377864	#Girolamo Vivaldi
+}
+1561.1.4={
+	holder=377865	#Paolo Battista Giudice Calvi
+}
+1561.9.27={
+	holder=377866	#Giovanni Battista Cicala Zoagli
+}
+1563.10.4={
+	holder=377867	#Giovanni Battista Lercari
+}
+1565.10.7={
+	holder=377868	#Ottavio Gentile Oderico
+}
+1567.10.11={
+	holder=377869	#Simone Spinola
+}
+1569.10.3={
+	holder=377870	#Paolo Giustiniani Moneglia 	
+}
+1571.10.6={
+	holder=377871	#Giannotto Lomellini
+}
+1573.10.13={
+	holder=377872	#Giacomo Grimaldi Durazzo
+}
+1575.10.17={
+	holder=377873	#Prospero Centurione Fattinanti
+}
+1577.10.17={
+	holder=377874	#Giovanni Battista Gentile Pignolo
+}
+1579.10.19={
+	holder=377875	#Nicolò Doria 
+}
+1581.10.21={
+	holder=377876	#Gerolamo De Franchi Toso
+}
+1583.11.4={
+	holder=377877	#Gerolamo Chiavari
+}
+1585.11.8={
+	holder=377878	#Ambrogio Di Negro
+}
+1587.11.13={
+	holder=377879	#Davide Vacca
+}
+1589.11.14={
+	holder=377880	#Battista Negrone
+}
+1591.11.15={
+	holder=377881	#Giovanni Agostino Giustiniani Campi
+}
+1593.11.26={
+	holder=377882	#Antonio Grimaldi Cebà
+}
+1595.11.26={
+	holder=377883	#Matteo Senarega
+}
+1597.12.4={
+	holder=377884	#Lazzaro Grimaldi Cebà
+}
+1599.2.22={
+	holder=377885	#Lorenzo Sauli
+}
+1601.2.21={
+	holder=377886	#Agostino Doria
+}
+1603.2.26={
+	holder=377887	#Pietro De Franchi Sacco
+}
+1605.2.27={
+	holder=377888	#Luca Grimaldi De Castro
+}
+1607.3.2={
+	holder=377889	#Silvestro Invrea
+}
+1607.3.17={
+	holder=377890	#Gerolamo Assereto
+}
+1609.3.23={
+	holder=377891	#Agostino Pinelli Luciani
+}
+1611.4.2={
+	holder=377892	#Alessandro Giustiniani Longo
+}
+1613.4.6={
+	holder=377893	#Tomaso Spinola
+}
+1615.4.21={
+	holder=377894	#Bernardo Clavarezza
+}
+1617.4.25={
+	holder=377895	#Giovanni Giacomo Imperiale Tartaro
+}
+1619.4.29={
+	holder=377896	#Pietro Durazzo
+}
+1621.5.4={
+	holder=377897	#Ambrogio Doria
+}
+1621.6.12={
+	holder=377898	#Giorgio Centurione
+}
+1623.6.22={
+	holder=377899	#Federico De Franchi Toso
+}
+1625.6.26={
+	holder=377900	#Giacomo Lomellini
+}
+1627.6.25={
+	holder=377901	#Giovanni Luca Chiavari
+}
+1629.6.26={
+	holder=377902	#Andrea Spinola
+}
+1631.6.26={
+	holder=377903	#Leonardo Della Torre
+}
+1633.6.30={
+	holder=377904	#Giovanni Stefano Doria
+}
+1635.7.5={
+	holder=377905	#Giovanni Francesco I Brignole Sale
+}
+1637.7.11={
+	holder=377906	#Agostino Pallavicini
+}
+1639.7.13={
+	holder=377907	#Giovanni Battista Durazzo
+}

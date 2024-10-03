@@ -1,0 +1,20 @@
+# 602 - Kasogia
+
+# County Title
+title = c_kasogia
+
+# Settlements
+max_settlements = 4
+b_psyfabe = castle
+b_zikhopolis = city
+b_arkhyz = temple
+
+#b_sapaksi = castle
+
+# Misc
+culture = circassian
+religion = orthodox
+terrain = hills 
+
+# History
+

@@ -1,0 +1,43 @@
+# County Title
+title = c_mitla
+
+# Settlements
+max_settlements = 7
+b_mitla = castle
+b_mitla-ii = temple
+#b_mitla-iii = city
+#b_mitla-iv = castle
+#b_mitla-v = city
+#b_mitla-vi = temple
+#b_mitla-vii = castle
+# Misc
+culture = zapotek
+religion = zapotec_pagan
+
+# History
+450.1.1 = {
+	build_wonder = wonder_zapotec_pyramid
+	set_wonder_name = LYOBAA
+	set_wonder_description = LYOBAADESC
+	b_mitla-iii = city
+}
+750.1.1= {
+	b_mitla-iv = castle
+}
+800.1.1= {
+	b_mitla-v = city
+}
+850.1.1= {
+	set_wonder_stage = 1
+	b_mitla-vi = temple
+}
+950.1.1 = {
+	set_wonder_stage = 2
+	b_mitla-vii = castle
+}
+1150.1.1 = {
+	set_wonder_stage = 3
+}
+1250.1.1 = {
+	set_wonder_stage = 4
+}

@@ -1,0 +1,243 @@
+766.1.1={
+	holder=200214 # Abd al-Karim Karimid
+	liege=k_andalusia
+}
+784.1.1={
+	holder=73679 # Abd al-Rahman I Umayyad
+}
+788.10.7={
+	holder=73680 # Hisham I Umayyad
+}
+796.6.12={
+	holder=73681 # al-Hakam I Umayyad
+}
+822.5.21={
+	holder=73682 # Abd al-Rahman II Umayyad
+}
+843.1.1={
+	holder=73956 # Ibn Marwan
+	liege=d_badajoz
+}
+859.1.1={
+	holder=73976 # Abdallah Ubbaid
+}
+894.1.1={
+	holder=73957 # Abd al-Rahman Marwanid
+}
+912.1.1={
+	holder=73959 # Zaid Marwanid
+}
+928.1.1={
+	holder=3200 # Abd al-Rahman III Umayyad
+	liege=k_andalusia
+}
+936.1.1 = {
+	holder = 260609
+}
+961.10.15={
+	holder=3202 # al-Hakam II Umayyad
+}
+976.10.16={
+	holder=3204 # Hisham II Umayyad
+}
+1009.2.15={
+	holder=73671 # Muhammad II Umayyad
+}
+1009.11.1={
+	holder=73675 # Suleyman Umayyad
+}
+1010.5.10={
+	holder=73671 # Muhammad II Umayyad
+}
+1010.7.23={
+	holder=3204 # Hisham II Umayyad
+}
+1013.4.19={
+	holder=73675 # Suleyman Umayyad
+}
+1016.7.1={
+	holder=73687 # Ali Hammudid
+}
+1018.3.22={
+	holder=73678 # Abd al-Rahman IV Umayyad
+}
+1018.6.1={
+	holder=73689 # al-Qasim Hammudid
+}
+1021.1.1={
+	holder=73690 # Yahya Hammudid
+}
+1022.1.1={
+	holder=45007 # Abdallah Aftasid
+	liege=d_badajoz
+}
+1045.1.1={
+	holder=3900 # Abu-Bakr Aftasid
+}
+1060.1.1={
+	holder=3901 # Yahya Aftasid
+}
+1079.1.1={
+	holder=3902 # Muhammad Aftasid
+}
+1080.1.1={
+	holder=45008 # Fadl Aftasid
+}
+1094.1.1={
+	holder=73205 # Yusuf Yusufid
+	liege=k_mauretania
+}
+1116.1.1={
+	holder=73204 # Hakam Hayyid
+}
+1142.1.1={
+	liege=d_beja
+}
+1144.1.1={
+	holder=224008 # Muhammad Hayyid
+}
+1146.1.1={
+	liege=d_badajoz
+}
+1150.1.1={
+	holder=224022 # Muhammad Ishaqid
+	liege=k_mauretania
+}
+1169.1.1={
+	holder=224010 # Abd al-Aziz Mansurid
+}
+1188.1.1={
+	holder=73613 # Abd al-Rahman Sebtaid
+}
+1205.1.1={
+	holder=73614 # Rashid Sebtaid
+}
+1221.1.1={
+	holder=73164 # Diego García Sánchez
+	liege=k_leon
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+1227.1.1={
+	holder=73165 # Arias Pérez
+}
+1230.9.24={
+	liege=k_cas_and_leon
+}
+1234.1.1={
+	holder=73161 # Pedro Yáñez
+}
+1254.1.1={
+	holder=73166 # García Fernández de Barrantes
+}
+1284.1.1={
+	holder=73167 # Fernando Páez
+}
+1292.1.1={
+	holder=73168 # Fernando Pérez Gallego
+}
+1296.1.1={
+	holder=73169 # Gonzalo Pérez
+}
+1312.1.1={
+	holder=73170 # Rodrigo Vázquez de Quiroga
+}
+1318.1.1={
+	holder=73171 # Suero Pérez Maldonado
+}
+1334.1.1={
+	holder=73172 # Rodrigo Pérez Maldonado
+}
+1335.1.1={
+	holder=73173 # Fernando López
+}
+1335.7.1={
+	holder=73174 # Suero López
+}
+1337.1.1={
+	holder=458006 # Gonzalo Martínez de Oviedo
+}
+1340.1.1={
+	holder=381246 # Nuño Chamizo (1340–1343)
+}
+1343.1.1={
+	holder=381247 # Pedro Alfonso Pantoja (1343–1345)
+}
+1345.1.1={
+	holder=381248 # Pedro Yáñez de Campo (1345)
+}
+1346.1.1={
+	holder=381249 # Fernando Pérez Ponce de León (1346–1355)
+}
+1355.1.1={
+	holder=381250 # Diego Gutiérrez de Cevallos (1355)
+}
+1356.1.1={
+	holder=381251 # Suero Martínez (1356–1363)
+}
+1363.1.1={
+	holder=381252	# Gutierre Gómez de Toledo (1363–1365)
+}
+1365.1.1={
+	holder=378481	# Martín López de Córdoba (1365–1367)
+}
+1367.1.1={
+	holder=378482	# Pedro Muñiz Godoy (1367)
+}
+1369.1.1={
+	holder=381253	# Melén Suárez (1369–1370)
+}
+1370.1.1={
+	holder=381254	# Rodrigo Díaz de la Vega (1370–1375)
+}
+1375.1.1={
+	holder=381255	# Diego Martínez (1376–1383)
+}
+1383.1.1={
+	holder=381256	# Diego Gómez Barroso (1383–1384)
+}
+1384.1.1={
+	holder=381257	# Gonzalo Núñez Guzmán (1384–1385)
+}
+1385.1.1={
+	holder=381258	# Martín Yáñez de Barbudo (1385–1394)
+}
+1394.1.1={
+	holder=381259	# Fernando Rodríguez Villalobos (1394–1408)
+}
+1408.1.1={
+	holder=370188	# Infante Sancho de Aragón (1408–1416)
+}
+1416.3.1={
+	holder=381260	# Juan de Sotomayor (1416–1432)
+}
+1432.1.1={
+	holder=381261	# Gutierre de Sotomayor (1432–1454)
+}
+1454.1.1={
+	holder=381262	# Gómez de Cáceres y Solís (1458–1473)
+}
+1473.1.1={
+	holder=381263	# Alonso de Monroy (1473–1477)
+}
+1477.1.1={
+	holder=381264	# Juan de Zúñiga y Pimentel (1477–1494)
+}
+1494.1.1={
+	holder=370189	#Isabella I
+}
+1504.11.26={
+	holder=370344	#Joanna of Castile
+}
+1516.3.13={
+	holder=370714	#Charles I
+}
+1556.1.16={
+	holder=370718	#Philip II
+}
+1598.9.13={
+	holder=371850	#Philip III
+}
+1621.3.31={
+	holder=372606	#Philip IV
+}

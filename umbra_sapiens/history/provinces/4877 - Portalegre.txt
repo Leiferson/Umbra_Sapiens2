@@ -1,0 +1,23 @@
+# County Title
+title = c_portalegre
+
+# Settlements
+max_settlements = 4
+b_portalegre = castle
+b_portalegre-ii = temple
+#b_portalegre-iii = city
+#b_portalegre-iv = castle
+# Misc
+culture = visigothic
+religion = catholic
+
+# History
+
+944.1.1 = {
+	culture = andalusian_arabic
+	religion = sunni
+}
+1160.1.1 = {
+	culture = portuguese
+	religion = catholic
+}

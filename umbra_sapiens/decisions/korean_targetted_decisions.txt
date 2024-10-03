@@ -1,0 +1,37 @@
+targetted_decisions = { 
+convert_shingyo_branch = {
+		only_playable = yes
+		
+		filter = self
+		ai_target_filter = self
+		ai = no
+		
+		potential = {
+			is_playable = yes
+			is_adult = yes
+			religion = shingyo
+		}
+		allow = {
+			NOT = { trait = zealous }
+			prestige = 50
+			custom_tooltip = {
+				text = indian_has_not_converted
+				NOT = { has_character_flag = india_branch_converted }
+			}
+		}
+		effect = {
+			set_character_flag = india_branch_converted
+			prestige = -50
+			piety = 25
+				character_event = { id = koreaevents.1 } # Choose branch
+			
+		
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	}

@@ -1,0 +1,1574 @@
+namespace = chinaevents
+# Converted within Chinese beliefs - choose branch
+character_event = {
+	id = chinaevents.1
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCchinaevents.1
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCchinaevents.1
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = EVTOPTAchinaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTAchinaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = neo_confucian }
+		}
+		add_trait = neo_confucian
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = neo_confucian }
+			}
+			add_trait = neo_confucian
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = neo_confucian }
+			}
+			add_trait = neo_confucian
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_ENRYAKUJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = neo_confucian
+							}
+				}
+						}
+	}
+	option = {
+		name = {
+			text = EVTOPTBchinaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBchinaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = chinaevents.2
+    days = 1
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			OR = {
+			trait = zhengyi_taoist
+			trait = quanzhen_taoist
+			trait = shanqing_taoist
+			}
+							}
+				}
+						}
+	}
+		option = {
+		name = {
+			text = EVTOPTCchinaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCchinaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = chinaevents.3
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			OR = {
+			trait = tiantai_buddhist
+			trait = huayan_buddhist
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+			}
+							}
+				}
+						}
+	}
+	option = {
+		name = {
+			text = EVTOPTDchinaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTDchinaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+							clr_character_flag = india_branch_converted
+							}
+				
+						
+	
+}
+# Converted within Taoism
+character_event = {
+	id = chinaevents.2
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCchinaevents.2
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCchinaevents.2
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	option = {
+		name = {
+			text = EVTOPTAchinaevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTAchinaevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = zhengyi_taoist }
+		}
+		add_trait = zhengyi_taoist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = zhengyi_taoist }
+			}
+			add_trait = zhengyi_taoist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = zhengyi_taoist }
+			}
+			add_trait = zhengyi_taoist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_JODOSHINSHU
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+	}
+	option = {
+		name = {
+			text = EVTOPTBchinaevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBchinaevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = quanzhen_taoist }
+		}
+		add_trait = quanzhen_taoist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = quanzhen_taoist }
+			}
+			add_trait = quanzhen_taoist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = quanzhen_taoist }
+			}
+			add_trait = quanzhen_taoist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_NANZENJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = quanzhen_taoist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTCchinaevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCchinaevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = shanqing_taoist }
+		}
+		add_trait = shanqing_taoist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = shanqing_taoist }
+			}
+			add_trait = shanqing_taoist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = shanqing_taoist }
+			}
+			add_trait = shanqing_taoist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_NICHIREN
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = shanqing_taoist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTDchinaevents.2
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTDchinaevents.2
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = chinaevents.1
+		}
+			ai_chance = {
+	factor = 0
+						}
+		
+	}
+}
+# Converted within Buddhism
+character_event = {
+	id = chinaevents.3
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCchinaevents.3
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCchinaevents.3
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	option = {
+		name = {
+			text = EVTOPTAchinaevents.3
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTAchinaevents.3
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = tiantai_buddhist }
+		}
+		add_trait = tiantai_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = tiantai_buddhist }
+			}
+			add_trait = tiantai_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = tiantai_buddhist }
+			}
+			add_trait = tiantai_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_JODOSHINSHU
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+	}
+	option = {
+		name = {
+			text = EVTOPTBchinaevents.3
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBchinaevents.3
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = huayan_buddhist }
+		}
+		add_trait = huayan_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = huayan_buddhist }
+			}
+			add_trait = huayan_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = huayan_buddhist }
+			}
+			add_trait = huayan_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_NANZENJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = huayan_buddhist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTCchinaevents.3
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCchinaevents.3
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = chinaevents.4
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+		OR = {
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+			}
+		}
+	}
+}
+		
+	}
+	}
+# Converted within Buddhism 2
+character_event = {
+	id = chinaevents.4
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCchinaevents.4
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCchinaevents.4
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	option = {
+		name = {
+			text = EVTOPTAchinaevents.4
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTAchinaevents.4
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = jingtuzong_buddhist }
+		}
+		add_trait = jingtuzong_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = jingtuzong_buddhist }
+			}
+			add_trait = jingtuzong_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = jingtuzong_buddhist }
+			}
+			add_trait = jingtuzong_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_JODOSHINSHU
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+	}
+	option = {
+		name = {
+			text = EVTOPTBchinaevents.4
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBchinaevents.4
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = chan_buddhist }
+		}
+		add_trait = chan_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = chan_buddhist }
+			}
+			add_trait = chan_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = chan_buddhist }
+			}
+			add_trait = chan_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_NANZENJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = chan_buddhist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTCchinaevents.4
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCchinaevents.4
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = chinaevents.1
+		}
+		
+	}
+	
+}
+character_event = {
+	id = chinaevents.5
+	hide_window = yes
+	is_triggered_only = yes
+	ai = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	religion = taoist
+	NOR = {
+	trait = neo_confucian
+	trait = zhengyi_taoist
+	trait = quanzhen_taoist
+	trait = shanqing_taoist
+	trait = huayan_buddhist
+	trait = jingtuzong_buddhist
+	trait = chan_buddhist
+	}
+	}
+	immediate = {
+	character_event = {
+    id = chinaevents.1
+}
+	}
+	}
+	narrative_event = {
+	id = chinaevents.6
+	desc = EVTDESCchinaevents.6
+	hide_window = yes
+	is_triggered_only = yes
+	border = GFX_event_narrative_frame_war
+	option = {
+		name = { text = EVTOPTAchinaevents.6 }
+		trigger = {
+			OR = {
+			trait = nichiren_buddhist
+			trait = nanzenji_buddhist
+			trait = jodoshinshu_buddhist
+			trait = koyasan_buddhist
+			trait = enryakuji_buddhist
+			trait = todaiji_buddhist
+			trait = seon_buddhist
+			trait = wonyung_buddhist
+			trait = yeolban_buddhist
+			trait = gyeyul_buddhist
+			trait = beopsang_buddhist
+			trait = beopseong_buddhist
+			trait = huayan_buddhist
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+			religion = buddhist
+			}
+		}
+	}
+	option = {
+		name = { text = EVTOPTBchinaevents.6 }
+		trigger = {
+			NOR = {
+			trait = nichiren_buddhist
+			trait = nanzenji_buddhist
+			trait = jodoshinshu_buddhist
+			trait = koyasan_buddhist
+			trait = enryakuji_buddhist
+			trait = todaiji_buddhist
+			trait = seon_buddhist
+			trait = wonyung_buddhist
+			trait = yeolban_buddhist
+			trait = gyeyul_buddhist
+			trait = beopsang_buddhist
+			trait = beopseong_buddhist
+			trait = huayan_buddhist
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+			religion = buddhist
+			}
+			capital_scope = {
+				OR = {
+					NOT = { region = world_europe }
+					NOT = { region = world_africa }
+					NOT = { region = world_america }
+				}
+			}
+		}
+		
+	}
+	}
+	#Event for fixing pretender bug where the new emperor keeps the revolt title for some reason
+	#this prevents him from being capable of giving away titles
+	character_event = {
+	id = chinaevents.7
+	hide_window = yes
+	only_playable = yes
+	is_triggered_only = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	government = chinese_imperial_government 
+	has_landed_title = e_china
+	any_demesne_title = {
+	temporary = yes
+	}
+	}
+	immediate = {
+	random_demesne_title = {
+	limit = {
+	temporary = yes
+	}
+	unsafe_destroy_landed_title = THIS
+	}
+	}
+	}
+	character_event = {
+	id = chinaevents.8
+	hide_window = yes
+	only_playable = yes
+	ai = yes
+	mean_time_to_happen = {
+	months = 1
+	}
+	trigger = {
+	wealth >= 500
+	monthly_income >= 1
+	war = no
+	government = chinese_imperial_government 
+	ai = yes
+	has_space_for_retinue = RETTYPE_CUL_HAN
+	}
+	immediate = {
+	create_retinue = RETTYPE_CUL_HAN
+	}
+	}
+	
+	narrative_event = {
+	id = chinaevents.9
+	is_triggered_only = yes
+	title =  EVTNAMEchinaevents.9
+	desc = EVTDESCchinaevents.9
+	option = {
+	name= {
+		text = EVTOPTBchinaevents.9
+	trigger = {
+    OR = {
+	trait = military_juren
+	trait = military_gongshi
+	}
+			}
+			}
+			name= {
+		text = EVTOPTAchinaevents.9 
+			trigger = {
+			NOR = {
+			trait = military_juren
+			trait = military_gongshi
+			}
+			}
+			}
+		set_character_flag = persuing_civil_education
+		random_list = {
+			50 = {
+			character_event = { id = chinaevents.14 days = 45 }	
+			
+			modifier = {
+			factor = 2.5
+			OR = {
+			trait = incapable
+			trait = infirm
+			trait = lunatic
+			trait = possessed
+			}
+		}
+			modifier = {
+			factor = 2.5
+			trait = eunuch
+		}	
+		modifier = {
+			factor = 2
+			trait = genius
+		}
+		modifier = {
+			factor = 2
+			trait = quick
+		}
+		modifier = {
+			factor = 2
+			trait = fair
+		}
+		modifier = {
+			factor = 2
+			trait = diligent
+		}
+		modifier = {
+			factor = 2
+			trait = architect
+		}
+		modifier = {
+			factor = 2
+			trait = administrator
+		}
+		modifier = {
+			factor = 2
+			trait = scholar
+		}
+		modifier = {
+			factor = 2
+			trait = ambitious
+		}
+		modifier = {
+			factor = 2
+			trait = naive_appeaser
+			trait = indulgent_wastrel
+			trait = detached_priest
+		}
+		modifier = {
+			factor = 2
+			trait = underhanded_rogue
+			trait = thrifty_clerk
+			trait = martial_cleric
+		}
+		modifier = {
+			factor = 2
+			OR = {
+			trait = charismatic_negotiator
+			trait = fortune_builder
+			trait = scholarly_theologian
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+			trait = mastermind_theologian
+			trait = midas_touched
+			trait = grey_eminence
+			}
+		}
+				modifier = {
+					factor = 2
+					OR = {
+					learning = 12
+					stewardship = 12
+					diplomacy = 12
+					}
+				}
+				modifier = {
+					factor = 2
+					OR = {
+					learning = 14
+					stewardship = 14
+					diplomacy = 14
+					}
+				}
+				modifier = {
+					factor = 2
+					OR = {
+					learning = 16
+					stewardship = 16
+					diplomacy = 16
+					}
+				}
+				modifier = {
+					factor = 2
+					OR = {
+					learning = 18
+					stewardship = 18
+					diplomacy = 18
+					}
+				}
+				modifier = {
+					factor = 2
+					OR = {
+					learning = 20
+					stewardship = 20
+					diplomacy = 20
+					}
+				}
+			}
+			
+			50 = { character_event = { id = chinaevents.15 days = 45 }
+			modifier = {
+			factor = 0.01
+			trait = imbecile
+		}
+		modifier = {
+			factor = 2
+			trait = inbred
+		}
+			modifier = {
+			factor = 2
+			trait = stutter
+		}
+			modifier = {
+			factor = 2
+			trait = ugly
+		}
+			modifier = {
+			factor = 2
+			trait = disfigured
+		}
+			modifier = {
+			factor = 2
+			trait = dull
+		}
+		modifier = {
+			factor = 2
+			NOR = {
+					learning = 12
+					stewardship = 12
+					diplomacy = 12
+					}
+		}
+		modifier = {
+			factor = 2
+			NOR = {
+					learning = 8
+					stewardship = 8
+					diplomacy = 8
+					}
+			}
+		modifier = {
+			factor = 2
+			OR = {
+					learning = 6
+					stewardship = 6
+					diplomacy = 6
+					}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+					learning = 4
+					stewardship = 4
+					diplomacy = 4
+					}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+					learning = 2
+					stewardship = 2
+					diplomacy = 2
+					}
+		}
+		modifier = {
+			factor = 2
+			trait = tongsheng
+		}
+		modifier = {
+			factor = 4
+			trait = shengyuan
+		}
+		modifier = {
+			factor = 6
+			trait = juren
+		}
+		modifier = {
+			factor = 8
+			trait = gongshi
+		}
+			}
+	}
+	}
+	option = {
+		name = { text = EVTOPTBchinaevents.9 }
+		trigger = {
+		NOT = { religion = nihon_shinto }
+		trait = shengyuan
+		}
+		set_character_flag = persuing_military_education
+		random_list = {
+			50 = {
+			character_event = { id = chinaevents.14 days = 45 }	
+			
+			modifier = {
+			factor = 0
+			OR = {
+			trait = incapable
+			trait = infirm
+			trait = lunatic
+			trait = possessed
+			}
+		}
+		modifier = {
+			factor = 2
+	   top_liege = { NOT = { culture = ROOT } }
+		}
+		modifier = {
+			factor = 2
+	   top_liege = { NOT = { religion = ROOT } }
+		}
+			modifier = {
+			factor = 2.5
+			trait = eunuch
+		}
+		modifier = {
+			factor = 2
+			trait = giant
+		}		
+        modifier = {
+			factor = 2
+			trait = strong
+		}		
+		modifier = {
+			factor = 2
+			trait = genius
+		}
+		modifier = {
+			factor = 2
+			trait = quick
+		}
+		modifier = {
+			factor = 2
+			trait = fair
+		}
+		modifier = {
+			factor = 2
+			trait = diligent
+		}
+		modifier = {
+			factor = 2
+			trait = sturdy
+		}
+		modifier = {
+			factor = 2
+			trait = ambitious
+		}
+		modifier = {
+			factor = 2
+			trait = hunter
+		}
+		modifier = {
+			factor = 2
+			trait = strategist
+		}	
+		modifier = {
+			factor = 1.5
+			trait = naive_appeaser
+			trait = indulgent_wastrel
+			trait = detached_priest
+			trait = misguided_warrior
+		}
+		modifier = {
+			factor = 2
+			trait = underhanded_rogue
+			trait = thrifty_clerk
+			trait = martial_cleric
+			trait = tough_soldier
+		}
+		modifier = {
+			factor = 3
+			OR = {
+			trait = charismatic_negotiator
+			trait = fortune_builder
+			trait = scholarly_theologian
+			trait = skilled_tactician
+			}
+		}
+		modifier = {
+			factor = 4
+			OR = {
+			trait = mastermind_theologian
+			trait = midas_touched
+			trait = grey_eminence
+			trait = brilliant_strategist
+			}
+		}
+				modifier = {
+					factor = 2
+					martial = 12
+				}
+				modifier = {
+					factor = 2
+					martial = 14
+				}
+				modifier = {
+					factor = 2
+					martial = 16
+				}
+				modifier = {
+					factor = 2
+					martial = 18
+				}
+				modifier = {
+					factor = 2
+					martial = 20
+				}
+			}
+			
+			50 = {
+			character_event = { id = chinaevents.15  days = 45 }
+			modifier = {
+			factor = 1.1
+			trait = imbecile
+		}
+		modifier = {
+			factor = 1.1
+			trait = inbred
+		}
+		modifier = {
+			factor = 2
+			trait = is_fat
+		}	
+		modifier = {
+			factor = 2
+			trait = is_malnourished
+		}	
+			modifier = {
+			factor = 1.1
+			trait = stutter
+		}
+		modifier = {
+			factor = 2
+			trait = dwarf
+		}
+			modifier = {
+			factor = 1.1
+			trait = ugly
+		}
+			modifier = {
+			factor = 1.1
+			trait = disfigured
+		}
+			modifier = {
+			factor = 1.1
+			trait = dull
+		}
+		modifier = {
+			factor = 1.1
+			NOT = { learning = 6 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { martial = 12 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { martial = 8 }
+			}
+		modifier = {
+			factor = 2
+			NOT = { martial = 6 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { martial = 4 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { martial = 2 }
+		}
+		modifier = {
+			factor = 2
+			trait = shengyuan
+		}
+		modifier = {
+			factor = 3
+			trait = military_juren
+		}
+		modifier = {
+			factor = 4
+			trait = military_gongshi
+		}
+			}
+	}
+	ai_chance = {
+	factor = 0
+	additive_modifier = {
+		value = 1000
+		OR = {
+			martial = 12
+			trait = strong
+			trait = misguided_warrior
+			trait = tough_soldier
+			trait = skilled_tactician
+			trait = brilliant_strategist
+			trait = strategist
+			trait = hunter
+			trait = giant
+		}
+	}
+		}
+	}
+	}
+	narrative_event = {
+	id = chinaevents.14
+	title = EVTDESCchinaevents.14
+	desc = EVTDESCchinaevents.14
+	is_triggered_only = yes
+	trigger = {
+	OR = {
+	has_character_flag = persuing_civil_education
+	has_character_flag = persuing_military_education
+	}
+	}
+	immediate = {
+	clr_character_flag = persue_high_education
+	clr_character_flag = persuing_civil_education
+	}
+	
+	option = {
+		name = { text = EVTOPTAchinaevents.14 }
+		trigger = { NOR = { 
+		trait = tongsheng
+		trait = shengyuan
+		trait = juren
+		trait = gongshi
+		trait = military_juren
+		trait = military_gongshi 
+		} }
+				add_trait = tongsheng		
+	}
+	option = {
+		name = { text = EVTOPTBchinaevents.14 }
+		trigger = { trait = tongsheng }
+				add_trait = shengyuan		
+	}
+	option = {
+		name = { text = EVTOPTCchinaevents.14 }
+		trigger = { 
+		trait = shengyuan
+		NOT = { has_global_flag = persuing_military_education }
+		}
+				add_trait = juren		
+	}
+	option = {
+		name = { text = EVTOPTDchinaevents.14 }
+		trigger = { trait = juren }
+				add_trait = gongshi		
+	}
+	option = {
+		name = { text = EVTOPTEchinaevents.14 }
+		trigger = { trait = gongshi }
+				add_trait = jinshi		
+	}
+	option = {
+		name = { text = EVTOPTFchinaevents.14 }
+		trigger = { 
+		AND = {
+		trait = shengyuan 
+		has_global_flag = persuing_military_education
+		} }
+				add_trait = military_juren		
+	}
+	option = {
+		name = { text = EVTOPTGchinaevents.14 }
+		trigger = { 
+		trait = military_juren 
+		 }
+				add_trait = military_gongshi		
+	}
+	option = {
+		name = { text = EVTOPTHchinaevents.14 }
+		trigger = { 
+		trait = military_gongshi 
+		 }
+				add_trait = military_jinshi		
+	}
+	}
+	narrative_event = {
+	id = chinaevents.15
+	title = EVTDESCchinaevents.15
+	desc = EVTDESCchinaevents.15
+	is_triggered_only = yes
+	trigger = {
+	OR = {
+	has_character_flag = persuing_civil_education
+	has_character_flag = persuing_military_education
+	}
+	}
+	immediate = {
+	clr_character_flag = persuing_military_education
+	clr_character_flag = persuing_civil_education
+	clr_character_flag = persue_high_education
+	}
+	option = {
+		name = { text = EVTOPTAchinaevents.15 }
+	}
+	}
+	narrative_event = {
+	id = chinaevents.16
+	hide_window = yes
+	is_triggered_only = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	is_save_game = no
+	age = 14
+	is_female = no
+	NOR = { 
+	trait  = tongsheng
+	trait = shengyuan
+	trait = juren
+	trait = gongshi
+	trait = jinshi
+	trait = military_juren
+	trait = military_gongshi
+	trait = military_jinshi
+	}
+	OR = {
+	religion = thangiao
+	religion = ua_dab
+	religion = nugyauq
+	religion = benzhujiao
+	religion = taoist
+	religion = shingyo
+	AND = {
+	religion = nihon_shinto
+	trait = kuge
+	}
+	culture_group = chinese_group
+	} 
+	}
+	immediate = {
+	if = {
+			limit = {
+			NOR = { 
+			learning  = 6
+			stewardship = 6
+			diplomacy = 6
+			 }
+		 }
+			add_trait = tongsheng				
+			}
+	if = {
+			limit = {
+			age > 20
+			OR = {
+			learning  = 6
+			stewardship = 6
+			diplomacy = 6
+			}
+			NOR = { 
+			learning  = 12
+			stewardship = 12
+			diplomacy = 12
+			}
+		 }
+			add_trait = shengyuan				
+			}
+	if = {
+			limit = {
+			age > 25
+			OR = {
+			learning  = 12
+			stewardship = 12
+			diplomacy = 12
+			}
+			NOR = { 
+			learning  = 16
+			stewardship = 16
+			diplomacy = 16
+			}
+		 }
+			add_trait = juren				
+			}
+	if = {
+			limit = {
+			age > 30
+			OR = {
+			learning  = 16
+			stewardship = 16
+			diplomacy = 16
+			}
+			NOR = { 
+			learning  = 20
+			stewardship = 20
+			diplomacy = 20
+			}
+			}
+			add_trait = gongshi					
+			}
+	if = {
+			limit = {
+			age > 45	
+			OR = { 
+			learning  = 20
+			stewardship = 20
+			diplomacy = 20
+			}
+			}
+			add_trait = jinshi					
+			}			
+	if = {
+			limit = {
+			age > 25
+			martial  = 12
+			NOT = { religion = nihon_shinto }
+		 }
+			add_trait = military_juren				
+			}
+	if = {
+			limit = {
+			age > 30
+			martial  = 16
+			NOT = { religion = nihon_shinto }
+		 }
+			add_trait = military_gongshi			
+			}
+	if = {
+			limit = {
+			age > 45
+			martial  = 20
+			NOT = { religion = nihon_shinto }
+		 }
+			add_trait = military_jinshi			
+			}
+				}
+	}

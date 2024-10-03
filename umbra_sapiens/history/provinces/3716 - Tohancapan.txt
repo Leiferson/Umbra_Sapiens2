@@ -1,0 +1,48 @@
+# County Title
+title = c_tohancapan
+
+# Settlements
+max_settlements = 7
+b_tohancapan = castle
+b_tohancapan-ii = temple
+#b_tohancapan-iii = city
+#b_tohancapan-iv = castle
+#b_tohancapan-v = temple
+#b_tohancapan-vi = city
+#b_tohancapan-vii = castle
+# Misc
+culture = totonac
+religion = totonac_pagan
+
+# History
+600.1.1 = {
+	build_wonder = wonder_totonac_pyramid
+	set_wonder_name = ELTAJIN
+	set_wonder_description = ELTAJINDESC
+	set_wonder_stage = 1
+	b_tohancapan-iii = city
+}
+700.1.1 = {
+	set_wonder_stage = 2
+	b_tohancapan-iv = castle
+}
+800.1.1 = {
+	set_wonder_stage = 3
+	b_tohancapan-v = temple
+}
+900.1.1 = {
+	set_wonder_stage = 4
+	b_tohancapan-vi = city
+} 
+1000.1.1 = {
+	b_tohancapan-vii = castle
+} 
+1200.1.1 = {
+set_wonder_damaged = yes
+remove_settlement = b_tohancapan-ii
+remove_settlement = b_tohancapan-iii
+remove_settlement = b_tohancapan-iv
+remove_settlement = b_tohancapan-v
+remove_settlement = b_tohancapan-vi
+remove_settlement = b_tohancapan-vii
+} 

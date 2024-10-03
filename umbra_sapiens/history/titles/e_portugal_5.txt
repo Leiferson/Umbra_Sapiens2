@@ -1,0 +1,24 @@
+20.1.1={
+	active = no
+}
+1415.8.21={
+	active = yes
+	holder=370013 # John I de Borgonha
+	law = succ_primogeniture
+	effect={
+		insert_title_history=k_portugal_5
+	}
+}
+1433.1.1={
+	holder=370069 # Edward I de Borgonha
+}
+1438.9.9={
+	holder=370205 # Alphonse V de Borgonha
+}
+1477.11.11={
+	holder=370227 # John II de Borgonha
+}
+1485.1.1={
+	holder=0 # John II de Borgonha Changes the flag
+	active = no
+}

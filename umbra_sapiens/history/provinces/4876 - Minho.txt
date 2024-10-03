@@ -1,0 +1,19 @@
+# County Title
+title = c_minho
+
+# Settlements
+max_settlements = 5
+b_minho = castle
+b_minho-ii = temple
+#b_minho-iii = city
+#b_minho-iv = castle
+#b_minho-v = temple
+# Misc
+culture = suebi
+religion = catholic
+terrain = hills
+# History
+926.1.1={
+	culture = portuguese
+}
+1147.1.1 = { trade_post = b_spinola }

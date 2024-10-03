@@ -1,0 +1,195 @@
+767.1.1={	
+	liege = "d_kabylia"
+	holder = 210035
+}
+864.1.1={	
+	liege = "k_africa"
+	holder = 6882
+}
+936.1.1 = {
+	holder = 260858
+	liege = d_kabylia
+}
+1066.1.1=
+{
+holder=155173
+}
+1080.1.1=
+{
+holder=155174
+}
+1088.1.1=
+{
+liege=0
+}
+1095.1.1=
+{
+holder=155175
+}
+1110.1.1=
+{
+holder=155176
+}
+1125.1.1=
+{
+holder=155177
+}
+1152.1.1=
+{
+liege="d_kabylia"
+}
+1152.1.1=
+{
+holder=155087
+}
+1185.1.1=
+{
+liege="d_mallorca"
+}
+1185.1.1=
+{
+holder=32977
+}
+1185.7.1=
+{
+liege="d_kabylia"
+}
+1185.7.1=
+{
+holder=155087
+}
+1190.1.1=
+{
+holder=32985
+}
+1200.1.1=
+{
+liege="d_tunis"
+}
+1200.1.1=
+{
+holder=32977
+}
+1207.1.1=
+{
+liege="d_kabylia"
+}
+1207.1.1=
+{
+holder=32985
+}
+1223.1.1=
+{
+holder=32977
+}
+1227.1.1=
+{
+holder=32985
+}
+1229.1.1=
+{
+holder=33021
+}
+1251.1.1=
+{
+holder=33024
+}
+1276.1.1=
+{
+holder=33026
+}
+1279.1.1=
+{
+holder=33025
+}
+1284.1.1=
+{
+holder=33017
+}
+1295.1.1=
+{
+holder=33027
+}
+1309.1.1=
+{
+holder=33028
+}
+1310.1.1=
+{
+holder=33031
+}
+1311.1.1=
+{
+holder=33042
+}
+1317.1.1=
+{
+holder=33043
+}
+1318.1.1=
+{
+holder=33032
+}
+1346.1.1= 
+{
+	holder=33035	#Abu Hafs Omar II
+}
+1347.1.1=
+{
+	holder=33004	#Marinid Occupation
+}
+1348.1.1 = {
+	holder=33007	#Abu Inan Faris
+}
+1350.1.1=
+{
+	holder=378874	#Abu Abbas Al-Fadl
+	liege="k_africa"
+}
+1350.5.1={
+	holder=33034	#Abu Ishaq Ibrahim II 
+}
+1357.1.1= {
+	holder=33007	#Abu Inan Faris #Second Marinid Invasion
+}
+1357.6.1={
+	holder=33034	#Abu Ishaq Ibrahim II 
+}
+1369.2.19 ={
+	holder=33037	#Abu Al-Baqa Khaled Al-Nasser II
+}
+1370.11.3={
+	holder=378875	#Abu Abbas Ahmed I
+}
+1394.6.3={
+	holder=378876	#Abu Fares Abdul Aziz Al-Mutawakkil
+}
+1414.1.1={
+	holder=378669	#Hajj Sulayman bin Rajab al-Marini, known as "The Pleasant Man", sat on the throne from 1414 to 1431 and married his daughter to al-Sakhri in the valley.
+	liege=0
+}
+1431.1.1={
+	holder=378670	#Sulayman bin Rajab al-Marini
+}
+1480.1.1={
+	holder=378671	#Ahmed bin Ali
+}
+1514.1.1={
+	holder=378672	#Imran bin Ahmed
+}
+1527.1.1={
+	holder=378719	#Ahmad ibn Ahmad
+}
+1552.1.1={
+	holder=378673	#Mansour bin Ahmed
+}
+#becomes tributary of Algiers 1552.10.1
+1573.1.1={
+	holder=378674	#Othman bin Mansour
+}
+1608.1.1={
+	holder=378720	#Ali ibn Fatima
+}
+1633.1.1={
+	holder=378861	#Mubarek bin Othman
+

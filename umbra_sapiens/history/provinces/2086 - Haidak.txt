@@ -1,0 +1,17 @@
+# 2086 - Haidak
+
+# County Title
+title = c_haidak
+
+# Settlements
+max_settlements = 3
+b_kala-koreysh = castle
+b_majalis = city
+b_urkarakh = temple
+
+# Misc
+culture = dagestani
+religion = raism_pagan
+
+# History
+860.1.1 = { religion = sunni }

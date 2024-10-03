@@ -1,0 +1,12 @@
+20.1.1={
+	active = no
+}
+1400.1.1={
+	active = yes
+	set_global_flag = zaporozhian_cossacks_formed
+	liege="k_lithuania"
+}
+1654.1.1={ liege="e_russia_2" }
+1775.5.7={
+	active = no
+}

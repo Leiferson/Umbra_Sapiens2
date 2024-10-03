@@ -1,0 +1,115 @@
+766.1.1={
+	holder=145799
+}
+843.1.1 = {
+	set_tribute_suzerain = {
+		who = e_byzantium
+		type = permanent 
+	}
+}
+865.1.1={
+	holder=145180
+}
+936.1.1 = {
+	clear_tribute_suzerain = e_byzantium
+	vice_royalty = yes
+	liege = e_byzantium
+	holder = 145162
+}
+1060.1.1={
+	holder=1764
+}
+1081.10.18={
+	holder=90093
+}
+1093.1.1={
+	holder=90092
+}
+1098.1.1={
+	holder=232512
+}
+1149.1.1={
+	holder=215035
+}
+1185.9.12={
+	holder=215508
+}
+1200.1.1={
+	holder=215513
+}
+1203.1.2={
+	holder=215514
+}
+1204.5.16={
+	liege=0
+	vice_royalty = no
+}
+1204.5.16={
+	holder=215517
+}
+1215.1.1={
+	holder=215514
+}
+1230.3.9={
+	holder=125715
+}
+1268.1.1={
+	holder=125726
+}
+1297.1.1={
+	holder=125728
+}
+
+1318.1.1={
+	holder=31440 #Nicolo Orsini
+}
+1323.1.1={
+	holder=31441 #Giovanni II Orsini
+}
+1335.1.1={
+	holder=31443 #Nikephoros Orsini
+}
+1338.1.1={
+	holder=0	#Byzantine invasion 465500
+}
+1340.1.1={
+	holder=31443	#Nikephoros Orsini
+}
+1340.6.1={
+	holder=0	#Byzantine invasion continues 465500
+}
+1348.1.1={
+	#Stefan Dushan conquers Epirus
+	holder=468500
+}
+1356.1.1={
+	holder=31443	#Nikephoros Orsini
+	liege=0
+}
+1359.1.1={
+	holder=468502 #Simeon Urosh
+}
+1370.1.1={
+	holder=379495 #Thomas II Preljubovic
+}
+1384.12.23={
+	holder=375524	#Maria Angelina Doukaina Palaiologina
+}
+1385.1.1={
+	holder=379497	#Esau de Buondelmonti
+}
+1411.2.6={
+	holder=379499	#Giorgio de Buondelmonti	
+}
+1411.2.26={
+	holder=379509	#Carlo I Tocco
+}
+1429.7.4={
+	holder=379516	#Carlo II Tocco
+}
+1448.9.30 = {
+	holder=379520	#Leonardo III Tocco
+}
+1479.1.1={
+	holder=0 #Ottoman Conquest
+}

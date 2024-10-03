@@ -1,0 +1,99 @@
+
+1165.1.1=
+{
+liege="e_byzantium"
+vice_royalty = yes
+} 
+1165.1.1=
+{
+holder=219500
+}
+1172.3.4=
+{
+holder=218800
+}
+1183.9.24=
+{
+liege="k_hungary"
+vice_royalty = no
+} 
+1204.1.1=
+{
+holder=218801
+liege=0
+set_tribute_suzerain = { #Death of Ban Kulin, Bosnia drifts away from Hungarian influence.
+		who = k_hungary
+		type = permanent 
+	}
+}
+1232.1.1=
+{
+holder=34145
+}
+1249.3.1=
+{
+holder=34148
+}
+1287.1.1=
+{
+holder=34149
+}
+1295.1.1=
+{
+holder=468810
+}
+1314.1.13=
+{
+holder=468800
+}
+1322.1.1=
+{
+liege=0
+de_jure_liege=k_bosnia
+}
+1353.9.1={
+	holder=374197	#Tvrtko I
+}
+1366.1.1={
+	holder=374198	#Vuk
+}
+1367.1.1={
+	holder=374197	#Tvrtko I becomes king in 1377.10.26
+}
+1377.10.26={
+	liege=k_bosnia
+	clear_tribute_suzerain = k_hungary
+}
+1391.3.10={
+	holder=34153	#Dabisha	
+}
+1398.4.1={
+	holder=374199	#Ostoja of Bosnia
+}
+1404.1.1={
+	holder=374202	#Stephen Tvrtko II
+}
+1409.1.1={
+	holder=374199	#Ostoja of Bosnia
+}
+1418.1.1={
+	holder=377343	#Stephen Ostojic
+}
+1420.8.1={
+	holder=374202	#Stephen Tvrtko II
+}
+1443.11.1={
+	holder=377344 #Stephen Thomas
+}
+1461.7.10={
+	holder=377350 #Stephen Tomashevic
+}
+1463.6.5={
+	holder=377353
+}
+1471.1.1={
+	holder=379570	#Matija Vojsalic
+}
+1476.1.1={
+	holder=0
+}

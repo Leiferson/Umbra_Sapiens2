@@ -1,0 +1,29 @@
+# 1065 - Dagon
+
+# County Title
+title = c_dagon
+
+# Settlements
+max_settlements = 5
+b_siriam = castle
+b_dagon = city
+b_gwa_ywa = temple
+#b_banbwegon =
+#b_kyauktan =
+#b_bawkalut =
+#b_mibya =
+#b_zweba_kondan =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History
+1.1.1 = {
+build_wonder = wonder_temple_buddhist
+set_wonder_stage = 1
+set_wonder_name = ShwedagonTEMPLE
+set_wonder_description = ShwedagonTEMPLEDESC
+build_wonder_upgrade = upgrade_school_buddhist
+build_wonder_upgrade = upgrade_vihara
+}

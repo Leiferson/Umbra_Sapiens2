@@ -1,0 +1,21 @@
+# 673 - Sheki
+
+# County Title
+title = c_sheki
+
+# Settlements
+max_settlements = 3
+b_lagodekhi = castle
+b_sheki = city
+b_khish = temple
+
+# Misc
+culture = dagestani
+religion = miaphysite
+terrain = hills
+
+# History
+835.1.1 = { religion = orthodox }
+1100.1.1 = { culture = georgian }
+1400.1.1 = { culture = persian }
+1350.1.1 = { religion = sunni }

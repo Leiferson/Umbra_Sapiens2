@@ -1,0 +1,1958 @@
+namespace = colonialevents
+#West African trade
+character_event = {
+	id = colonialevents.2
+	title = EVTNAMEcolonialevents.2
+	desc = EVTDESCcolonialeventsR.2
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		OR = {
+		region =  world_africa_west
+		region = world_africa_se
+		region = world_africa_central
+		}
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.2
+		scaled_wealth = 1.5
+	}
+}
+#Caribic trade
+character_event = {
+	id = colonialevents.3
+	title = EVTNAMEcolonialevents.3
+	desc = EVTDESCcolonialeventsR.3
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		region =  world_west_isles
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.3
+		scaled_wealth = 1.0
+	}
+}
+#Central American trade
+character_event = {
+	id = colonialevents.4
+	title = EVTNAMEcolonialevents.4
+	desc = EVTDESCcolonialeventsR.4
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		OR = {
+		region =  world_meso
+		region = world_desert_america
+		}
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.4
+		scaled_wealth = 1.0
+	}
+}
+#American trade
+character_event = {
+	id = colonialevents.5
+	title = EVTNAMEcolonialevents.5
+	desc = EVTDESCcolonialeventsR.5
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		OR = {
+		region = world_west_america
+		region = world_east_america
+		region = world_artic_america	
+		region =  world_south_north_america
+		region = world_plains_america
+		}
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.5
+		scaled_wealth = 0.5
+	}
+}
+#South American trade
+character_event = {
+	id = colonialevents.6
+	title = EVTNAMEcolonialevents.6
+	desc = EVTDESCcolonialeventsR.6
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		region =  world_south_america
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.6
+		scaled_wealth = 1.0
+	}
+}
+#North North American trade
+character_event = {
+	id = colonialevents.7
+	title = EVTNAMEcolonialevents.7
+	desc = EVTDESCcolonialeventsR.7
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		region = world_artic_america	
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.7
+		scaled_wealth = 0.25
+	}
+}
+#Indian trade
+character_event = {
+	id = colonialevents.8
+	title = EVTNAMEcolonialevents.8
+	desc = EVTDESCcolonialeventsR.8
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		region = world_india	
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.8
+		scaled_wealth = 1.75
+	}
+}
+#East Indies
+character_event = {
+	id = colonialevents.9
+	title = EVTNAMEcolonialevents.9
+	desc = EVTDESCcolonialeventsR.9
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		region = world_indochina	
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.9
+		scaled_wealth = 0.8
+	}
+}
+#Spice Islands
+character_event = {
+	id = colonialevents.10
+	title = EVTNAMEcolonialevents.10
+	desc = EVTDESCcolonialeventsR.10
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		OR = { 
+		region = world_tenem_lamit 
+		region = world_malaysia 
+		region = world_java 
+		region = world_indonesia
+		}
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.10
+		scaled_wealth = 5.0
+	}
+}
+#Far East
+character_event = {
+	id = colonialevents.11
+	title = EVTNAMEcolonialevents.11
+	desc = EVTDESCcolonialeventsR.11
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe }
+		any_realm_province = {
+		region = world_far_east	
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.11
+		scaled_wealth = 2.0
+	}
+}
+#South African Trade
+character_event = {
+	id = colonialevents.12
+	title = EVTNAMEcolonialevents.12
+	desc = EVTDESCcolonialeventsR.12
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe }
+		any_realm_province = {
+		region = world_kongo	
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.12
+		scaled_wealth = 0.5
+	}
+}
+#East African Trade
+character_event = {
+	id = colonialevents.13
+	title = EVTNAMEcolonialevents.13
+	desc = EVTDESCcolonialeventsR.13
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe }
+		any_realm_province = {
+		OR = {
+		region = world_east_african_coast
+		region = world_zimbabwe
+		region = world_kentanmoz
+		}
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.13
+		scaled_wealth = 1.25
+	}
+}
+#Stralian Trade
+character_event = {
+	id = colonialevents.14
+	title = EVTNAMEcolonialevents.14
+	desc = EVTDESCcolonialeventsR.14
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	only_independent = yes
+	trigger = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe }
+		any_realm_province = {
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.13
+		scaled_wealth = 0.5
+	}
+}
+#Populate with random rel 
+province_event = {
+	id = colonialevents.15
+	title = EVTNAMEcolonialevents.15
+	desc = EVTDESCcolonialeventsR.15
+	  picture = GFX_evt_magnificent_castle_wol
+	only_playable = yes
+	mean_time_to_happen = {
+		years = 15
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion = methodist
+			}
+			}
+		modifier = {
+			factor = 0.8
+			owner = { religion = methodist }
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion = methodist }
+			}
+			
+						}
+	trigger = {
+		has_global_flag = methodist_work 
+		is_alternate_start = no 
+		NOT = { religion_group = christian }
+		any_neighbor_province = {
+		religion_group = christian
+		}
+		owner = { 
+		OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = anglican
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		 
+		}
+		OR = {
+		region = world_america
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.13
+		religion = methodist
+		culture = english
+	}
+}
+province_event = {
+	id = colonialevents.16
+	title = EVTNAMEcolonialevents.16
+	desc = EVTDESCcolonialeventsR.16
+	  picture = GFX_evt_magnificent_castle_wol
+	only_playable = yes
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion = arminian
+			}
+			}
+		modifier = {
+			factor = 0.8
+			owner = { religion = arminian }
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion = arminian }
+			}
+						}
+	trigger = {
+		has_global_flag = arminian_work 
+		is_alternate_start = no
+		NOT = { religion_group = christian }
+		any_neighbor_province = {
+		religion_group = christian
+		}		
+		owner = { 
+		OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = anglican
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+			} 
+		
+		}
+		OR = {
+		region = world_america
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.16
+		religion = arminian
+		culture = dutch
+	}
+}
+province_event = {
+	id = colonialevents.17
+	title = EVTNAMEcolonialevents.17
+	desc = EVTDESCcolonialeventsR.17
+	  picture = GFX_evt_magnificent_castle_wol
+	only_playable = yes
+	mean_time_to_happen = {
+		years = 15
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion = baptist
+			}
+			}
+		modifier = {
+			factor = 0.8
+			owner = { religion = baptist }
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion = baptist }
+			}
+						}
+	trigger = {
+		has_global_flag = baptist_work 
+		is_alternate_start = no 
+		NOT = { religion_group = christian }
+		any_neighbor_province = {
+		religion_group = christian
+		}
+		owner = { 
+		OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = anglican
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+			} 
+		
+		}
+		OR = {
+		region = world_america
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.17
+		religion = baptist
+		culture = english
+	}
+}
+province_event = {
+	id = colonialevents.18
+	title = EVTNAMEcolonialevents.18
+	desc = EVTDESCcolonialeventsR.18
+	  picture = GFX_evt_magnificent_castle_wol
+	only_playable = yes
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion = unitarian
+			}
+			}
+		modifier = {
+			factor = 0.8
+			owner = { religion = unitarian }
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion = unitarian }
+			}
+						}
+	trigger = {
+		has_global_flag = unitarian_work 
+		is_alternate_start = no 
+		NOT = { religion_group = christian }
+		any_neighbor_province = {
+		religion_group = christian
+		}
+		owner = { 
+		OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = anglican
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+			} 
+		
+		}
+		OR = {
+		region = world_america
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.18
+		religion = unitarian
+		random_list = {
+			50 = { 
+			culture = hungarian 
+				}
+			50 = {
+			culture = polish
+			}				
+					}
+	}
+}
+province_event = {
+	id = colonialevents.19
+	title = EVTNAMEcolonialevents.19
+	desc = EVTDESCcolonialeventsR.19
+	  picture = GFX_evt_magnificent_castle_wol
+	only_playable = yes
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion = anabaptist
+			}
+			}
+		modifier = {
+			factor = 0.8
+			owner = { religion = anabaptist }
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion = anabaptist }
+			}
+						}
+	trigger = {
+		has_global_flag = radical_work 
+		is_alternate_start = no 
+		NOT = { religion_group = christian }
+		any_neighbor_province = {
+		religion_group = christian
+		}
+		owner = { 
+		OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = anglican
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+			} 
+		
+		}
+		OR = {
+		region = world_america
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.19
+		religion = anabaptist
+		random_list = {
+			50 = { 
+			culture = dutch 
+				}
+			50 = {
+			culture = german
+			}				
+					}
+			}
+		}
+province_event = {
+	id = colonialevents.20
+	title = EVTNAMEcolonialevents.20
+	desc = EVTDESCcolonialeventsR.20
+	  picture = GFX_evt_magnificent_castle_wol
+	only_playable = yes
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion = reformed
+			}
+			}
+		modifier = {
+			factor = 0.8
+			owner = { religion = reformed }
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion = reformed }
+			}
+						}
+	trigger = {
+	has_global_flag = calvin_work 
+		is_alternate_start = no 
+		NOT = { religion_group = christian }
+		any_neighbor_province = {
+		religion_group = christian
+		}
+		owner = { 
+		OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = anglican
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+			} 
+		
+		}
+		OR = {
+		region = world_america
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.20
+		religion = reformed
+		random_list = {
+			33 = { 
+			trigger = {
+			NOR = { culture = german
+					culture = dutch
+					}
+				}
+			culture = frankish 
+				}
+			33 = {
+			trigger = {
+			NOR = { culture = dutch
+					culture = frankish
+					}
+				}
+			culture = german
+			}	
+			33 = {
+			trigger = {
+			NOR = { culture = german
+					culture = frankish
+					}
+				}
+			culture = dutch
+			}		
+					}
+	}
+}
+#Cape Bojador
+narrative_event = {
+	id = colonialevents.25
+	title = EVTNAMEcolonialevents.25
+	desc = EVTDESCcolonialeventsR.25
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1434
+		NOT = { has_global_flag = cabo_bojador }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = cabo_bojador
+		if = {
+		limit = {
+		is_portugal = yes
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.25
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.25
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#Rio do Ouro
+narrative_event = {
+	id = colonialevents.26
+	title = EVTNAMEcolonialevents.26
+	desc = EVTDESCcolonialeventsR.26
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1434
+		NOT = { has_global_flag = rio_de_ouro }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+	set_global_flag = rio_de_ouro
+		if = {
+		limit = {
+		is_portugal = yes
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.26
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.26
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#Cabo Branco
+narrative_event = {
+	id = colonialevents.27
+	title = EVTNAMEcolonialevents.27
+	desc = EVTDESCcolonialeventsR.27
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1441
+		NOT = { has_global_flag = cabo_branco }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = cabo_branco
+		if = {
+		limit = {
+		is_portugal = yes
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.27
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.27
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#Cabo de Santa Catarina
+narrative_event = {
+	id = colonialevents.28
+	title = EVTNAMEcolonialevents.28
+	desc = EVTDESCcolonialeventsR.28
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1475
+		NOT = { has_global_flag = cabo_santa_catarina }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = cabo_santa_catarina
+		if = {
+		limit = {
+		is_portugal = yes
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.28
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.28
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#New Found Land!
+narrative_event = {
+	id = colonialevents.29
+	title = EVTNAMEcolonialevents.29
+	desc = EVTDESCcolonialeventsR.29
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1472
+		NOT = { has_global_flag = terra_nova }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = terra_nova
+		if = {
+		limit = {
+		is_portugal = yes
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.29
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.29
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#Cabo Lopes
+narrative_event = {
+	id = colonialevents.30
+	title = EVTNAMEcolonialevents.30
+	desc = EVTDESCcolonialeventsR.30
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1473
+		NOT = { has_global_flag = cabo_lopes }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = cabo_lopes
+		if = {
+		limit = {
+		is_portugal = yes
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.30
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.30
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#Cabo das Tormentas
+narrative_event = {
+	id = colonialevents.31
+	title = EVTNAMEcolonialevents.31
+	desc = EVTDESCcolonialeventsR.31
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1488
+		NOT = { has_global_flag = cabo_das_tormentas }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = cabo_das_tormentas
+		if = {
+		limit = {
+		is_portugal = yes
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.31
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.31
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#Sea way to India
+narrative_event = {
+	id = colonialevents.32
+	title = EVTNAMEcolonialevents.32
+	desc = EVTDESCcolonialeventsR.32
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1498
+		NOT = { has_global_flag = caminho_para_India }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = caminho_para_India
+		if = {
+		limit = {
+		is_portugal = yes
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.32
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.32
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#Discovery of Brazil
+narrative_event = {
+	id = colonialevents.33
+	title = EVTNAMEcolonialevents.33
+	desc = EVTDESCcolonialeventsR.33
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1500
+		NOT = { has_global_flag = found_brazil }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = found_brazil
+		if = {
+		limit = {
+		is_portugal = yes
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.33
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.33
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#Discovery of China
+narrative_event = {
+	id = colonialevents.34
+	title = EVTNAMEcolonialevents.34
+	desc = EVTDESCcolonialeventsR.34
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1513
+		NOT = { has_global_flag = found_china }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = found_china
+		if = {
+		limit = {
+		is_portugal = yes
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.34
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.34
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#Discovery of Japan
+narrative_event = {
+	id = colonialevents.35
+	title = EVTNAMEcolonialevents.35
+	desc = EVTDESCcolonialeventsR.35
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1492
+		NOT = { has_global_flag = found_japan }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = found_japan
+		if = {
+		limit = {
+		is_portugal = yes
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.35
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.35
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#Discovery of America
+narrative_event = {
+	id = colonialevents.36
+	title = EVTNAMEcolonialevents.36
+	desc = EVTDESCcolonialeventsR.36
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1492
+		NOT = { has_global_flag = colombus_america }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = colombus_america
+		if = {
+		limit = {
+		OR = { 
+		has_landed_title = e_spain
+		has_landed_title = k_castille
+		}
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.36
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.36
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#Circumnavigation of the Wolrd
+narrative_event = {
+	id = colonialevents.37
+	title = EVTNAMEcolonialevents.37
+	desc = EVTDESCcolonialeventsR.37
+	picture = GFX_evt_magnificent_castle_wol
+	border = GFX_event_narrative_frame_economy
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1520
+		NOT = { has_global_flag = magellan_circumnavigation }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = magellan_circumnavigation 
+		if = {
+		limit = {
+		OR = {
+		has_landed_title = e_spain
+		has_landed_title = k_castille
+		}
+		}
+		prestige = 500
+		wealth = 500
+		}
+		}
+	option = {
+		name = {
+			text = EVTOPTAcolonialevents.37
+			trigger = {
+			is_portugal = yes
+			}
+		}
+		name = {
+			text = EVTOPTBcolonialevents.37
+			trigger = {
+			is_portugal = no
+		}
+	}
+}
+}
+#West African trade
+character_event = {
+	id = colonialevents.38
+	title = EVTNAMEcolonialevents.2
+	desc = EVTDESCcolonialeventsR.2
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		OR = {
+		region =  world_africa_west
+		region = world_africa_se
+		region = world_africa_central
+		}
+		}
+	}
+	immediate = {
+		scaled_wealth = 1.5
+	}
+}
+#Caribic trade
+character_event = {
+	id = colonialevents.50
+	title = EVTNAMEcolonialevents.3
+	desc = EVTDESCcolonialeventsR.3
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		region =  world_west_isles
+		}
+	}
+	immediate = {
+		scaled_wealth = 1.0
+	}
+}
+#Central American trade
+character_event = {
+	id = colonialevents.39
+	title = EVTNAMEcolonialevents.4
+	desc = EVTDESCcolonialeventsR.4
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		OR = {
+		region =  world_meso
+		region = world_desert_america
+		}
+		}
+	}
+	immediate = {
+		scaled_wealth = 1.0
+	}
+}
+#American trade
+character_event = {
+	id = colonialevents.40
+	title = EVTNAMEcolonialevents.5
+	desc = EVTDESCcolonialeventsR.5
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		OR = {
+		region = world_west_america
+		region = world_east_america
+		region = world_artic_america	
+		region =  world_south_north_america
+		region = world_plains_america
+		}
+		}
+	}
+	immediate = {
+		scaled_wealth = 0.5
+	}
+}
+#South American trade
+character_event = {
+	id = colonialevents.41
+	title = EVTNAMEcolonialevents.6
+	desc = EVTDESCcolonialeventsR.6
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {	
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		region =  world_south_america
+		}
+	}
+	immediate = {
+		scaled_wealth = 1.0
+	}
+}
+#North North American trade
+character_event = {
+	id = colonialevents.42
+	title = EVTNAMEcolonialevents.7
+	desc = EVTDESCcolonialeventsR.7
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		region = world_artic_america	
+		}
+	}
+	immediate = {
+		scaled_wealth = 0.25
+	}
+}
+#Indian trade
+character_event = {
+	id = colonialevents.43
+	title = EVTNAMEcolonialevents.8
+	desc = EVTDESCcolonialeventsR.8
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		region = world_india	
+		}
+	}
+	immediate = {
+		scaled_wealth = 1.75
+	}
+}
+#East Indies
+character_event = {
+	id = colonialevents.44
+	title = EVTNAMEcolonialevents.9
+	desc = EVTDESCcolonialeventsR.9
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		region = world_indochina	
+		}
+	}
+	immediate = {
+		scaled_wealth = 0.8
+	}
+}
+#Spice Islands
+character_event = {
+	id = colonialevents.45
+	title = EVTNAMEcolonialevents.10
+	desc = EVTDESCcolonialeventsR.10
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		OR = { 
+		region = world_tenem_lamit 
+		region = world_malaysia 
+		region = world_java 
+		region = world_indonesia
+		}
+		}
+	}
+	immediate = {
+		scaled_wealth = 5.0
+	}
+}
+#Far East
+character_event = {
+	id = colonialevents.46
+	title = EVTNAMEcolonialevents.11
+	desc = EVTDESCcolonialeventsR.11
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe }
+		any_realm_province = {
+		region = world_far_east	
+		}
+	}
+	immediate = {
+		scaled_wealth = 2.0
+	}
+}
+#South African Trade
+character_event = {
+	id = colonialevents.47
+	title = EVTNAMEcolonialevents.12
+	desc = EVTDESCcolonialeventsR.12
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe }
+		any_realm_province = {
+		region = world_kongo	
+		}
+	}
+	immediate = {
+		scaled_wealth = 0.5
+	}
+}
+#East African Trade
+character_event = {
+	id = colonialevents.48
+	title = EVTNAMEcolonialevents.13
+	desc = EVTDESCcolonialeventsR.13
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe }
+		any_realm_province = {
+		OR = {
+		region = world_east_african_coast
+		region = world_zimbabwe
+		region = world_kentanmoz
+		}
+		}
+	}
+	immediate = {
+		scaled_wealth = 1.25
+	}
+}
+#Stralian Trade
+character_event = {
+	id = colonialevents.49
+	title = EVTNAMEcolonialevents.14
+	desc = EVTDESCcolonialeventsR.14
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	hide_window = yes
+	only_independent = yes
+	trigger = {
+		has_character_flag = hide_colonial_messages_flag
+		is_alternate_start = no 
+		religion_group = christian
+		capital_scope = { region = world_europe }
+		any_realm_province = {
+		region = world_ausnew
+		}
+	}
+	immediate = {
+		scaled_wealth = 0.5
+	}
+}
+province_event = {
+	id = colonialevents.21
+	title = EVTNAMEcolonialevents.21
+	desc = EVTDESCcolonialeventsR.21
+	  picture = GFX_evt_magnificent_castle_wol
+	only_playable = yes
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion = hussite
+			}
+			}
+		modifier = {
+			factor = 0.8
+			owner = { religion = hussite }
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion = hussite }
+			}
+						}
+	trigger = {		
+		is_alternate_start = no 
+		has_global_flag = hus_work 
+		NOT = { religion_group = christian }
+		any_neighbor_province = {
+		religion_group = christian
+		}
+		owner = { 
+		OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = anglican
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+			} 
+		}
+		OR = {
+		region = world_america
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.21
+		religion = hussite
+		culture = bohemian
+	}
+}
+province_event = {
+	id = colonialevents.22
+	title = EVTNAMEcolonialevents.22
+	desc = EVTDESCcolonialeventsR.22
+	  picture = GFX_evt_magnificent_castle_wol
+	only_playable = yes
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion = lutheran
+			}
+			}
+		modifier = {
+			factor = 0.8
+			owner = { religion = lutheran }
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion = lutheran }
+			}
+						}
+	trigger = { 
+		has_global_flag = luther_work 
+		NOT = { religion_group = christian }
+		any_neighbor_province = {
+		religion_group = christian
+		}
+		is_alternate_start = no 
+		owner = { 
+		OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = anglican
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+			} 
+		}
+		OR = {
+		region = world_america
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.22
+		religion = lutheran
+		random_list = {
+			25 = { 
+			culture = norwegian 
+				}
+			75 = {
+			culture = german
+			}				
+					}
+	}
+}
+province_event = {
+	id = colonialevents.23
+	title = EVTNAMEcolonialevents.23
+	desc = EVTDESCcolonialeventsR.23
+   picture = GFX_evt_magnificent_castle_wol
+	only_playable = yes
+	mean_time_to_happen = {
+		years = 20
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion = catholic
+			}
+			}
+		modifier = {
+			factor = 0.8
+			owner = { religion = catholic }
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion = catholic }
+			}
+						}
+	trigger = {
+		NOT = { religion_group = christian }
+		any_neighbor_province = {
+		religion_group = christian
+		}
+		is_alternate_start = no 
+		owner = { 
+		OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = anglican
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				religion = catholic
+			} 
+		}
+		OR = {
+		region = world_america
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.23
+		religion = catholic
+		if = {
+		limit = { owner = { religion = anglican } }
+		culture = irish
+		}
+	}
+}
+province_event = {
+	id = colonialevents.24
+	title = EVTNAMEcolonialevents.24
+	desc = EVTDESCcolonialeventsR.24
+	  picture = GFX_evt_magnificent_castle_wol
+	only_playable = yes
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion = anglican
+			}
+			}
+		modifier = {
+			factor = 0.8
+			owner = { religion = anglican }
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion = anglican }
+			}
+						}
+	trigger = { 
+		has_global_flag = anglican_work 
+		NOT = { religion_group = christian }
+		any_neighbor_province = {
+		religion_group = christian
+		}
+		is_alternate_start = no 
+		owner = { 
+		OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = anglican
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+			} 
+		}
+		OR = {
+		region = world_america
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.24
+		religion = anglican
+		culture = english
+	}
+}
+province_event = {
+	id = colonialevents.51
+	title = EVTNAMEcolonialevents.51
+	desc = EVTDESCcolonialeventsR.51
+	  picture = GFX_evt_magnificent_castle_wol
+	only_playable = yes
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion = catholic
+			}
+			}
+		modifier = {
+			factor = 0.8
+			owner = { religion = catholic }
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion = catholic }
+			}
+						}
+	trigger = {  
+		NOT = { religion_group = christian }
+		any_neighbor_province = {
+		religion_group = catholic
+		}
+		is_alternate_start = no 
+		owner = { 
+		religion = catholic
+		}
+		OR = {
+		region = world_america
+		region = world_ausnew
+		}
+	}
+	option = {
+		name = EVTOPTAcolonialevents.51
+		religion = catholic
+		top_liege = { ROOT = { culture = PREV } }
+	}
+}

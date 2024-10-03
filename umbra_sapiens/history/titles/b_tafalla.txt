@@ -1,0 +1,202 @@
+867.1.1={
+	holder=70121
+}
+885.1.1={
+	holder=70128
+}
+931.5.29={
+	holder=70123
+}
+970.2.22={
+	holder=70124
+}
+994.12.1={
+	holder=106040
+}
+999.12.8={
+	holder=106030
+}
+1035.10.18={
+	holder=106010
+}
+1054.9.1={
+	holder=106000
+}
+1076.6.4={
+	holder=106011
+}
+1083.1.6={
+	holder=106021
+}
+1116.1.1={
+	holder=206510
+}
+1150.11.25={
+	holder=206500
+}
+1194.6.27={
+	holder=206502
+}
+1234.4.7={
+	holder=205964
+}
+1253.7.8={
+	holder=205967
+}
+1270.12.4={
+	holder=205968
+}
+1274.7.22={
+	holder=455531
+}
+1305.4.2={
+	holder=462620
+}
+1314.11.29={
+	holder=455836 #Louis V
+}
+1316.6.5={
+	holder=70137
+}
+1316.6.5={
+	holder=70137 # Jean Capet
+}
+1316.11.19={
+	holder=455509  # Philippe II Capet
+}
+1322.1.3={
+	holder=455414 # Charles Capet
+}
+1328.2.1={
+	holder=455835 # Jeanne II Capet
+	law = cognatic_succession
+}
+1349.10.6 = {
+	holder=455813	#Charles II (roi de Navarre)
+}
+1387.1.1 = {
+	holder=370139	#Charles III (roi de Navarre)
+}
+1425.9.8 = {
+	holder=370161	#Blanche I
+}
+1441.4.3 = {
+	holder=370184	#King John II of Aragon
+}
+1479.1.20 = {
+	holder=370198	#Eleanor of Navarre
+}
+1479.2.12 = {
+	holder=371104	#Francis Phoebus of Navarre
+}
+1483.1.7 = {
+	holder=371105	#Catherine of Navarre
+}
+#Catherine of Navarre rules only in french provinces after 1512.8 
+1512.8.1={
+	holder=380369	#1512 : Diego Fernández de Córdoba y Arellano, marqués de Comares
+	vice_royalty=yes
+	liege=k_aragon
+}
+1515.1.1={
+	holder=380420	#1515 : Fadrique de Acuña, Conde de Buendía
+}
+1516.1.1={
+	holder=380431	#1516 : Antonio Manrique de Lara, Duque de Nájera
+}
+1516.1.23={
+	liege=e_espana_burgona
+}
+1521.1.1={
+	holder=380432	#1521 : Francisco López de Zúñiga, Conde de Miranda
+}
+1524.1.1={
+	holder=380433	#1524 : Diego de Avellaneda, Bishop of Tuy
+}
+1527.1.1={
+	holder=380434	#1527 : Martín Alfonso Fernández de Córdoba, Conde de Alcaudete
+}
+1534.1.1={
+	holder=380443	#1534 : Diego Hurtado de Mendoza, 2nd Marquis of Cañete
+}
+1542.1.1={
+	holder=379818	#1542 : Juan de Vega, Señor de Grajal
+}
+1543.1.1={
+	holder=379763	#1543 : Luis Hurtado de Mendoza, 2nd Marquess of Mondéjar
+}
+1546.1.1={
+	holder=380462	#1546 : Álvar Gómez Manrique de Mendoza, Conde de Castrogeriz
+}
+1547.1.1={
+	holder=380463	#1547 : Luís de Velasco, Señor de Salinas
+}
+1549.1.1={
+	holder=380464	#1549 : Bernardino de Cárdenas y Pacheco, Duque de Maqueda
+}
+1552.1.1={
+	holder=380546	#1552 : Beltrán de la Cueva, 3rd Duke of Alburquerque
+}
+1560.1.1={
+	holder=380558	#1560 : Gabriel de la Cueva, 5th Duke of Alburquerque
+}
+1564.1.1={
+	holder=380465	#1564 : Alfonso de Córdoba y Velasco, 2nd Conde de Alcaudete
+}
+1567.1.1={
+	holder=379819	#1567 : Juan de la Cerda y Silva, 4th Duke of Medinaceli
+}
+1572.1.1={
+	holder=380278	#1572 : Vespasiano Gonzaga y Colonna, Prínce of Sabbioneta
+}
+1575.1.1={
+	holder=380467	#1575 : Sancho Martínez de Leiva, Señor de Leiva
+}
+1579.1.1={
+	holder=380489	#1579 : Francisco Hurtado de Mendoza, Marqués de Almazán
+}
+1589.1.1={
+	holder=380435	#1589 : José Martín de Córdoba y Velasco, Marqués de Cortes
+}
+1595.1.1={
+	holder=380490	#1595 : Juan de Cardona y Requesens, Baron de Sant Boi
+}
+1602.1.1={
+	holder=380491	#1602 : Mateo de Burgos, Bishop of Pamplona (interim)
+}
+1603.1.1={
+	holder=380490	#1603 : Juan de Cardona y Requesens, Baron de Sant Boi (2nd term)
+}
+1609.9.10={
+	holder=380495	#1610 : Alonso Idiáquez de Butrón, Duque de Ciudad Real
+}
+1618.1.1={
+	holder=380496	#1618 : Felipe Ramírez de Arellano, Conde de Aguilar
+}
+1620.1.1={
+	holder=380497	#1620 : Juan de Mendoza y Velasco, Marqués de Hinojosa
+}
+1623.1.1={
+	holder=380498	#1623 : Bernardino González de Avellaneda, Marqués de Castrillo
+}
+1629.1.1={
+	holder=380499	#1629 : Fernando Girón, Duque de Nemeses
+}
+1629.1.1={
+	holder=380500	#1629 : Juan Carlos de Guzmán y Silva, Marqués de Fuentes
+}
+1631.1.1={
+	holder=380501	#1631 : Luis Bravo Acuña
+}
+1634.1.1={
+	holder=380502	#1634 : Francisco González de Andía-Irarrázabal, Marqués de Valparaíso
+}
+1637.1.1={
+	holder=380503	#1637 : Fernando de Andrade y Sotomayor, Archbishop of Burgos
+}
+1638.1.1={
+	holder=380289	#1638 : Pedro Fajardo Requesens y Zúñiga, Marqués de los Vélez
+}
+1640.1.1={
+	holder=380504	#1640 : Francesco Maria Carafa y Carafa, 5th Duke of Duke of Nochera
+}

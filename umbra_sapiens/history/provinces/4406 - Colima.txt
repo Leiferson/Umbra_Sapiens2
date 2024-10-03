@@ -1,0 +1,17 @@
+# County Title
+title = c_colima
+
+# Settlements
+max_settlements = 7
+b_colima = castle
+b_colima-ii = temple
+b_colima-iii = city
+b_colima-iv = castle
+b_colima-v = temple
+b_colima-vi = city
+b_colima-vii = castle			
+# Misc
+culture = tarascan
+religion = tarascan_pagan
+
+# History

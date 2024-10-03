@@ -1,0 +1,135 @@
+#county of Mortain
+740.1.1 = {
+	liege="k_france"
+	holder = 91474 #Wildo, historical placeholder
+}
+853.1.1={
+	liege="d_anjou"
+	holder = 6440 #Robert le fort
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+866.7.2={
+	holder = 168041
+}
+936.1.1 = {
+	holder = 260555
+	liege = d_normandy
+}
+1056.1.1={
+	holder=150 #Robert de Conteville
+}
+
+1090.12.9 = {
+	holder=158 #Guillaume de Mortain
+}
+1106.1.1={
+	holder=91197 #Robert II le Vieux
+}
+
+1112.1.1={
+	holder = 205851 #Étienne de Blois
+}
+
+1142.1.1={
+	holder = 204506 #Geoffroy Plantagenêt
+}
+
+1151.9.7={
+	 holder=7474 #Guillaume de Boulogne
+}
+1159.11.1={
+	holder=204500 #Henri II Plantagenêt
+}
+1189.1.1={
+	holder = 204514 #Jean I Sans Terre
+}
+
+1204.1.1={
+	holder=205506 # Philippe I Auguste
+}
+
+1209.1.1={
+	holder=91194 #Renaud de Dammartin
+}
+
+1212.1.1={
+	liege = d_normandy
+	holder=91030 #Philippe Hurepel
+}
+
+1234.1.18={
+	holder=91196 #Aubry de Dammartin
+}
+
+1240.1.1={
+	holder=91195 #Jeanne de Dammartin
+}
+
+1252.1.14={
+	holder = 455404 #Louis IX (saint Louis)
+}
+1270.8.25={
+	holder = 455528 # Philippe II le Hardi
+}
+1285.10.5={
+	holder = 455526 # Philippe III le Bel
+}
+1298.1.1={
+	holder=455811 #Louis de France
+}
+1319.5.19={
+	liege="k_navarra"
+	holder=455810 #Philippe d'Évreux
+}
+1343.9.26 = {
+	holder=455813	#Charles II of Navarre
+}
+1365.3.6 = {
+	holder=455499 #Charles V
+	liege=0
+}
+1380.9.16={
+	holder=370746 #Charles VI
+}
+1417.9.20={
+	holder=372783	#Henry V
+	liege=k_england
+}
+1422.8.31 = {
+	holder=372790	#Henry VI
+}
+1450.7.12={
+	holder=370786 #Charles VII
+	liege=k_france
+}
+1461.7.22={
+	holder=370841 #Louis XI
+}
+1483.8.30={
+	holder=370997 #Charles VIII
+}
+1498.4.7={
+	holder=371092 #Louis XII
+}
+1515.1.1={
+	holder=370977 #Francis I
+}
+1547.3.31={
+	holder=371100 #Henry II
+}
+1559.7.10={
+	holder=375095 #Francis II
+}
+1560.12.5={
+	holder=371693 #Charles IX
+}
+1574.5.30={
+	holder=371694 #Henry III
+}
+1589.8.2={
+	holder=371464 #Henry IV the Great
+}
+1610.5.14={
+	holder=371859 #Louis XIII the Just
+}

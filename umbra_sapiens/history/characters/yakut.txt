@@ -1,0 +1,1172 @@
+#Netulamela Dynasty (Placeholders) of Tulamela
+
+1019200001 = {
+	name="Aman"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1019200002 = {
+	name="Bert"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200001
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1019200003 = {
+	name="Taman"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200002
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1019200004 = {
+	name="Timir"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200003
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1019200005 = {
+	name="Tubek"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200004
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1019200006 = {
+	name="Badeey"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200005
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1019200007 = {
+	name="Baybal"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200006
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1019200008 = {
+	name="khotoy"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200007
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1019200009 = {
+	name="Tolbon"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200008
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1019200010 = {
+	name="Ayantay"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200009
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1019200011 = {
+	name="Kuobakh"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200010
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1019200012 = {
+	name="Sallaat"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200011
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1019200013 = {
+	name="Tolluman"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200012
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1019200014 = {
+	name="Legentey"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200013
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1019200015 = {
+	name="Khabyryys"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200014
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1019200016 = {
+	name="Atyrdakh"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200015
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1019200017 = {
+	name="Erchimen"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200016
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1019200018 = {
+	name="Durustaan"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200017
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1019200019 = {
+	name="Kirgieley"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200018
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1019200020 = {
+	name="Tuluykhan"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200019
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1019200021 = {
+	name="Duluskhaan"
+	dynasty=1009990058 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200020
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1019200022 = {
+	name="Okhonoohoy"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1019200023 = {
+	name="Dupsun"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200022
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1019200024 = {
+	name="Duluur"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200023
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1019200025 = {
+	name="Kustuk"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200024
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1019200026 = {
+	name="Khotoy"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200025
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1019200027 = {
+	name="Murgun"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200026
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1019200028 = {
+	name="Baydam"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200027
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1019200029 = {
+	name="Baatyr"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200028
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1019200030 = {
+	name="Chakyl"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200029
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1019200031 = {
+	name="Duolan"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200030
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1019200032 = {
+	name="Dabyl"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200031
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1019200033 = {
+	name="Ergis"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200032
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1019200034 = {
+	name="Uruy"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200033
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1019200035 = {
+	name="Erel"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200034
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1019200036 = {
+	name="Duon"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200035
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+1019200037 = {
+	name="Odun"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200036
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1019200038 = {
+	name="Bete"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200037
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1019200039 = {
+	name="Aydyn"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200038
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1019200040 = {
+	name="Aytas"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200039
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1019200041 = {
+	name="Irgen"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200040
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1019200042 = {
+	name="Kunay"
+	dynasty=1009990059 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200041
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+1019200043 = {
+	name="Tubey"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1019200044 = {
+	name="Tuluy"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200043
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1019200045 = {
+	name="Uygun"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200044
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1019200046 = {
+	name="Tumen"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200045
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1019200047 = {
+	name="Baroon"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200046
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1019200048 = {
+	name="Khomus"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200047
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1019200049 = {
+	name="Erilik"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200048
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1019200050 = {
+	name="Ogoro"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200049
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1019200051 = {
+	name="Madan"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200050
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1019200052 = {
+	name="Kuduk"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200051
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1019200053 = {
+	name="Dobun"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200052
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1019200054 = {
+	name="Dayan"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200053
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1019200055 = {
+	name="Ayuol"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200054
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1019200056 = {
+	name="Sulus"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200055
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1019200057 = {
+	name="Timir"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200056
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1019200058 = {
+	name="Tygyn"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200057
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1019200059 = {
+	name="Aynaan"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200058
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1019200060 = {
+	name="Uraan"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200059
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1019200061 = {
+	name="Bukdur"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200060
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1019200062 = {
+	name="Biebey"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200061
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1019200063 = {
+	name="Munnan"
+	dynasty=1009990060 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200062
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1019200064 = {
+	name="Turkun"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1019200065 = {
+	name="Tuskul"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200064
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1019200066 = {
+	name="Uybaan"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200065
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1019200067 = {
+	name="Baltuga"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200066
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1019200068 = {
+	name="Keremen"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200067
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1019200069 = {
+	name="Erkhaan"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200068
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1019200070 = {
+	name="Mikiite"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200069
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1019200071 = {
+	name="Mappyay"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200070
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1019200072 = {
+	name="Taybiir"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200071
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1019200073 = {
+	name="Darkhaan"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200072
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1019200074 = {
+	name="Arylkhan"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200073
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1019200075 = {
+	name="Mekheele"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200074
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1019200076 = {
+	name="Tolluman"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200075
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1019200077 = {
+	name="Kirgieley"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200076
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1019200078 = {
+	name="Kurchekhan"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200077
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1019200079 = {
+	name="Kustuktaan"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200078
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1019200080 = {
+	name="Nyurgustay"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200079
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1019200081 = {
+	name="Omogoy"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200080
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1019200082 = {
+	name="Nurgun"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200081
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1019200083 = {
+	name="Chokon"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200082
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1019200084 = {
+	name="Doguor"
+	dynasty=1009990061 #Netulamela
+	religion="tengri_pagan"
+	culture="yakut"
+	father=1019200083
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

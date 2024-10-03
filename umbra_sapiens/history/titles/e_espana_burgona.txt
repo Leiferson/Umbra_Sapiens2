@@ -1,0 +1,26 @@
+20.1.1={
+	active = no
+}
+1516.1.23={
+	active = yes
+	holder=370344 #Joanna
+	law = succ_primogeniture
+	law = crown_authority_1
+	law = investiture_law_1
+	holder=457620 # Fernando III de Borgoña
+	effect={
+		insert_title_history=k_cas_and_leon
+	}
+}
+1516.3.13={
+	holder=370714 #Charles I
+}
+1556.1.16={
+	holder=370718 #Philip II
+}
+1598.9.13={
+	holder=371850 #Philip III
+}
+1621.3.31={
+	holder=372606 #Philip IV
+}

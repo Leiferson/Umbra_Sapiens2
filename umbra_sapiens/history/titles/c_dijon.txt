@@ -1,0 +1,104 @@
+745.1.1={
+	holder = 190511 #Theoderic
+}
+745.1.1={
+	liege=k_lotharingia
+}
+798.1.1={
+	holder = 190512 #Teudoin
+}
+827.1.1={
+	holder = 190513 #Theoderic
+}
+863.1.1={
+	liege=k_france
+	holder = 163066
+}
+923.1.1 = {
+	holder = 168167
+	liege = d_burgundy
+}
+1032.1.1={
+	holder=210 #Robert I le Vieux
+	liege = k_france
+}
+1076.3.21={
+	holder = 224 #Hugues I
+}
+1079.1.1={
+	holder = 225 #Eudes I Borel
+}
+1103.3.23 = {
+	holder = 206003 #Hugues II
+}
+1143.1.1={
+	holder = 206001 #Eudes II
+}
+1162.9.27={
+	holder=206000 #Hugues III
+}
+1192.1.1={
+	holder = 206011 #Eudes III
+}
+1218.7.6={
+	holder = 7618 #Hugues IV
+}
+1271.10.27={
+	holder = 455535 #Robert II
+}
+1306.3.21={
+	holder = 455911 #Hugues V
+}
+1315.5.9={
+	holder=455910 #Eudes IV
+}
+1347.1.2 = {
+	holder=381383 #Philippe Ier de Bourgogne
+	liege=d_burgundy
+}
+1361.11.21 = {
+	holder=370092 #Philip the Bold
+}
+1404.4.27 = {
+	holder=370527 #John the Fearless
+}
+1419.9.10 = {
+	holder=370536 #Philip the Good
+}
+1467.6.15 = {
+	holder=370558 #Charles the Bold
+}
+1477.1.5 = {
+	holder=370866 #Mary of Burgundy
+}
+1482.3.27 = {
+	holder=370841 #Louis XI
+	liege=k_france
+}
+1483.8.30={
+	holder=370997 #Charles VIII
+}
+1498.4.7={
+	holder=371092 #Louis XII
+}
+1515.1.1={
+	holder=370977 #Francis I
+}
+1547.3.31={
+	holder=371100 #Henry II
+}
+1559.7.10={
+	holder=375095 #Francis II
+}
+1560.12.5={
+	holder=371693 #Charles IX
+}
+1574.5.30={
+	holder=371694 #Henry III
+}
+1589.8.2={
+	holder=371464 #Henry IV the Great
+}
+1610.5.14={
+	holder=371859 #Louis XIII the Just
+}

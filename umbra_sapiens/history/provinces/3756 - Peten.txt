@@ -1,0 +1,21 @@
+# County Title
+title = c_peten
+
+# Settlements
+max_settlements = 6
+b_peten = castle
+b_peten-ii = city
+b_peten-iii = temple
+
+# Misc
+culture = mayanx
+religion = mayan
+
+# History
+1.1.1 = {
+	build_wonder = wonder_maya_pyramid
+	set_wonder_stage = 4
+	set_wonder_damaged = yes
+	set_wonder_name = CHIAPAS
+	set_wonder_description = CHIAPASDESC
+}

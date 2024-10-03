@@ -1,0 +1,27 @@
+# 2921 - Wolof
+
+# County Title
+title = c_wolof
+
+# Settlements
+max_settlements = 4
+b_wolof = tribal
+
+#b_yaresna = city
+#b_ghiyaru = temple
+#b_diouboye = castle
+#b_goundafal = castle
+#b_sankaran = castle
+#b_kiffa = castle
+
+# Misc
+culture = fula
+religion = west_african_pagan
+
+# History
+1250.1.1 = { religion = sunni }
+1300.1.1 = {
+	b_wolof = castle
+	b_hiskapmnar = city
+	b_hukansinti = temple
+}

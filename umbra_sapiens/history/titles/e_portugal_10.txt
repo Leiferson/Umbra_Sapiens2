@@ -1,0 +1,18 @@
+20.1.1={
+	active = no
+}
+1616.1.1={
+	active = yes
+	holder=371850 # Filipe II de Portugal
+	law = succ_primogeniture
+	effect={
+		insert_title_history=e_portugal_9
+	}
+}
+1621.3.31={
+	holder=372606 # Filipe III de Portugal
+}
+1640.12.1={
+	holder=0
+	active = no
+}

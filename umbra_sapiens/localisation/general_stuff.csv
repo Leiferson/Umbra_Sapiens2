@@ -1,0 +1,253 @@
+primitive_government;Primitive;Primitive;Primitive;Primitive;Primitive;Primitive;Primitive;Primitive;Primitive;Primitive;Primitive;Primitive;Primitive;x
+wonder_temple_confucian;Temple of Confucius;;;;;;;;;;;;;x
+kangoo_road_trade_post_trigger;Austranesian trade route;;;;;;;;;;;;;x
+america_road_trade_post_trigger;Trans American trade route;;;;;;;;;;;;;x
+golden_path_trade_post_trigger;Golden Path route;;;;;;;;;;;;;x
+golden_path_province_desc;Can only build §YGolden Path Trade Posts§! in certain Counties along the §YGolden Path§!\n   Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
+kangoo_road_province_desc;Can only build §YKangooro Road Trade Posts§! in certain Counties along the §YKangooro Road§!\n   Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
+america_road_province_desc;Can only build §YTrans-american Road Trade Posts§! in certain Counties along the §YTrans-american Road§!\n   Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
+generic_tr_silk_road_1;Trade Post;;;;;;;;;x
+generic_tr_silk_road_1_desc;This is a small but vibrant trading post.;;;;;;;;;x
+generic_tr_silk_road_2;Market;;;;;;;;;x
+generic_tr_silk_road_2_desc;This trading post has grown into a large town, offering more protection against raiders and brigands and thus attracting more merchants who prefer to stay here and trade.;;;;;;;;;x
+generic_tr_silk_road_3;Major Trade City;;;;;;;;;x
+generic_tr_silk_road_3_desc;This is a major trading hub, where merchants come from all directions to trade their wares. All goods and services known to civilized man can be found here, and a myriad of languages echo through the many streets and alleys;;;;;;;;;x
+ca_jd_wall_1_desc;This ancient streach of the Wanli Changcheng, or as it is known in the west, the Great Wall, provides meager protection from the Northern Barbarians.;;;;;;;;;;;;;x
+ca_jd_wall_2_desc;This reinforced streach of the Wanli Changcheng, or as it is known in the west, the Great Wall, provides satisfactory protection from the Northern Barbarians.;;;;;;;;;;;;;x
+ca_jd_wall_3_desc;This improved streach of the Wanli Changcheng, or as it is known in the west, the Great Wall, provides reasonable protection from the Northern Barbarians.;;;;;;;;;;;;;x
+ca_jd_wall_4_desc;This modern streach of the Wanli Changcheng, or as it is known in the west, the Great Wall, provides decent protection from the Northern Barbarians.;;;;;;;;;;;;;x
+ca_jd_wall_5_desc;This state of the art streach of the Wanli Changcheng, or as it is known in the west, the Great Wall, provides superb protection from the Northern Barbarians.;;;;;;;;;;;;;x
+ca_jd_wall_1;Wanli Changcheng;;;;;;;;;;;;;x
+ca_jd_wall_2;Wanli Changcheng;;;;;;;;;;;;;x
+ca_jd_wall_3;Wanli Changcheng;;;;;;;;;;;;;x
+ca_jd_wall_4;Wanli Changcheng;;;;;;;;;;;;;x
+ca_jd_wall_5;Wanli Changcheng;;;;;;;;;;;;;x
+ca_kr_wall_1;Cheolli Jangseong;;;;;;;;;;;;;x
+ca_kr_wall_2;Cheolli Jangseong;;;;;;;;;;;;;x
+ca_kr_wall_3;Cheolli Jangseong;;;;;;;;;;;;;x
+ca_kr_wall_4;Cheolli Jangseong;;;;;;;;;;;;;x
+ca_kr_wall_5;Cheolli Jangseong;;;;;;;;;;;;;x
+ca_kr_wall_1_desc;This ancient streach of the Cheolli Jangseong, or as it is known in the west, the Thousand Li Wall, provides meager protection from the Northern... the Chinese?;;;;;;;;;;;;;x
+ca_kr_wall_2_desc;This ancient streach of the Cheolli Jangseong, or as it is known in the west, the Thousand Li Wall, provides meager protection from the Northern... the Chinese?;;;;;;;;;;;;;x
+ca_kr_wall_3_desc;This ancient streach of the Cheolli Jangseong, or as it is known in the west, the Thousand Li Wall, provides meager protection from the Northern... the Chinese?;;;;;;;;;;;;;x
+ca_kr_wall_4_desc;This ancient streach of the Cheolli Jangseong, or as it is known in the west, the Thousand Li Wall, provides meager protection from the Northern... the Chinese?;;;;;;;;;;;;;x
+ca_kr_wall_1_desc;This ancient streach of the Cheolli Jangseong, or as it is known in the west, the Thousand Li Wall, provides meager protection from the Northern... the Chinese?;;;;;;;;;;;;;x
+ca_fire_arrows_1;Shiliujian Manufactories;;;;;;;;;;;;;x
+ca_fire_arrows_2;Shiliujian Manufactories;;;;;;;;;;;;;x
+ca_fire_arrows_3;Shiliujian Manufactories;;;;;;;;;;;;;x
+ca_fire_arrows_4;Shiliujian Manufactories;;;;;;;;;;;;;x
+ca_fire_arrows_1_desc;In this Manufactory Shiliujian, or pomegranate arrows, are produced and shipped to the campaining archers across the empire. Pomegranate Arrows were the first large scale weaponized use of gunpowder and would deliver an explosion or start combustion.;;;;;;;;;;;;;x
+ca_fire_arrows_2_desc;In this Manufactory Shiliujian, or pomegranate arrows, are produced and shipped to the campaining archers across the empire. Pomegranate Arrows were the first large scale weaponized use of gunpowder and would deliver an explosion or start combustion.;;;;;;;;;;;;;x
+ca_fire_arrows_3_desc;In this Manufactory Shiliujian, or pomegranate arrows, are produced and shipped to the campaining archers across the empire. Pomegranate Arrows were the first large scale weaponized use of gunpowder and would deliver an explosion or start combustion.;;;;;;;;;;;;;x
+ca_fire_arrows_4_desc;In this Manufactory Shiliujian, or pomegranate arrows, are produced and shipped to the campaining archers across the empire. Pomegranate Arrows were the first large scale weaponized use of gunpowder and would deliver an explosion or start combustion.;;;;;;;;;;;;;x
+fire_lancers;Fire Lancers;;;;;;;;;;;;;x
+fire_lancers_offensive;Fire Lancers Offensive;;;;;;;;;;;;;x
+fire_lancers_defensive;Fire Lancers Defensive;;;;;;;;;;;;;x
+fire_lancers_morale;Fire Lancers Morale;;;;;;;;;;;;;x
+fire_lancers_modifier;Combat Modifier boost to Fire Lancer Troops: $PERC$;;;;;;;;;;;;;x
+hand_gunners;Hand Gunners;;;;;;;;;;;;;x
+hand_gunners_offensive;Hand Gunners Offensive;;;;;;;;;;;;;x
+hand_gunners_defensive;Hand Gunners Defensive;;;;;;;;;;;;;x
+hand_gunners_morale;Hand Gunners Morale;;;;;;;;;;;;;x
+hand_gunners_modifier;Combat Modifier boost to Hand Gunner Troops: $PERC$;;;;;;;;;;;;;x
+cannoneers;Cannoneers;;;;;;;;;;;;;x
+cannoneers_offensive;Cannoneers Offensive;;;;;;;;;;;;;x
+cannoneers_defensive;Cannoneers Defensive;;;;;;;;;;;;;x
+cannoneers_morale;Cannoneers Morale;;;;;;;;;;;;;x
+cannoneers_modifier;Combat Modifier boost to Cannoneer Troops: $PERC$;;;;;;;;;;;;;x
+rocketeers;Rocketeers;;;;;;;;;;;;;x
+rocketeers_offensive;Rocketeers Offensive;;;;;;;;;;;;;x
+rocketeers_defensive;Rocketeers Defensive;;;;;;;;;;;;;x
+rocketeers_morale;Rocketeers Morale;;;;;;;;;;;;;x
+rocketeers_modifier;Combat Modifier boost to Fire Archer Troops: $PERC$;;;;;;;;;;;;;x
+ca_fire_lancers_1;Huoqiang Manufactories;;;;;;;;;;;;;x
+ca_fire_lancers_2;Huoqiang Manufactories;;;;;;;;;;;;;x
+ca_fire_lancers_3;Huoqiang Manufactories;;;;;;;;;;;;;x
+ca_fire_lancers_4;Huoqiang Manufactories;;;;;;;;;;;;;x
+ca_fire_lancers_1_desc;In this Manufactory Huoqiang, or fire lances, are produced and men trained to wield this inovative weapon. Fire lances were a gunpowder weapon and the ancestor of modern firearms originally consisting of a lance with a tube attached capable of firing a single or doble shot before engaging in melee combat.;;;;;;;;;;;;;x
+ca_fire_lancers_2_desc;In this Manufactory Huoqiang, or fire lances, are produced and men trained to wield this inovative weapon. Fire lances were a gunpowder weapon and the ancestor of modern firearms originally consisting of a lance with a tube attached capable of firing a single or doble shot before engaging in meele combat.;;;;;;;;;;;;;x
+ca_fire_lancers_3_desc;In this Manufactory Huoqiang, or fire lances, are produced and men trained to wield this inovative weapon. Fire lances were a gunpowder weapon and the ancestor of modern firearms originally consisting of a lance with a tube attached capable of firing a single or doble shot before engaging in meele combat.;;;;;;;;;;;;;x
+ca_fire_lancers_4_desc;In this Manufactory Huoqiang, or fire lances, are produced and men trained to wield this inovative weapon. Fire lances were a gunpowder weapon and the ancestor of modern firearms originally consisting of a lance with a tube attached capable of firing a single or doble shot before engaging in meele combat.;;;;;;;;;;;;;x
+RETTYPE_CUL_EXPLOSIVE_HAN;Fire Squad;;;;;;;;;;;;;x
+RETTYPE_CUL_GUNNERS_HAN;Handgonnes Squad;;;;;;;;;;;;;x
+RETTYPE_CUL_FIRELANCERS_HAN;Fire Lancers Squad;;;;;;;;;;;;;x
+RETTYPE_CUL_CANNONS_HAN;Pao Squad;;;;;;;;;;;;;x
+RETTYPE_CUL_ROCKETS_HAN;Fire Archers Squad;;;;;;;;;;;;;x
+ca_gunnery_1;Tuhuoqiang Gunneries;;;;;;;;;;;;;x
+ca_gunnery_2;Tuhuoqiang Gunneries;;;;;;;;;;;;;x
+ca_gunnery_3;Tuhuoqiang Gunneries;;;;;;;;;;;;;x
+ca_gunnery_4;Tuhuoqiang Gunneries;;;;;;;;;;;;;x
+ca_gunnery_1_desc;In this gunnery Tuhuoqiang, or handguns, are produced and men trained to wield this inovative weapon. Fire-emitting lances were the first proper gunpowder weapons. Improving on the previous design they were cabable of firing bullets in stead of schrapnell and were used primarly at the distance.;;;;;;;;;;;;;x
+ca_gunnery_2_desc;In this gunnery Tuhuoqiang, or handguns, are produced and men trained to wield this inovative weapon. Fire-emitting lances were the first proper gunpowder weapons. Improving on the previous design they were cabable of firing bullets in stead of schrapnell and were used primarly at the distance.;;;;;;;;;;;;;x
+ca_gunnery_3_desc;In this gunnery Tuhuoqiang, or handguns, are produced and men trained to wield this inovative weapon. Fire-emitting lances were the first proper gunpowder weapons. Improving on the previous design they were cabable of firing bullets in stead of schrapnell and were used primarly at the distance.;;;;;;;;;;;;;x
+ca_gunnery_4_desc;In this gunnery Tuhuoqiang, or handguns, are produced and men trained to wield this inovative weapon. Fire-emitting lances were the first proper gunpowder weapons. Improving on the previous design they were cabable of firing bullets in stead of schrapnell and were used primarly at the distance.;;;;;;;;;;;;;x
+ca_foundry_1;Pao Foundries;;;;;;;;;;;;;x
+ca_foundry_2;Pao Foundries;;;;;;;;;;;;;x
+ca_foundry_3;Pao Foundries;;;;;;;;;;;;;x
+ca_foundry_4;Pao Foundries;;;;;;;;;;;;;x
+ca_foundry_1_desc;In this foundry Pao, or cannons, are produced and men trained to wield this inovative weapon. Handcannons were larger versions of the handgun. In Asia they were mostly used as anti-personnel weapons and were later reffined to might potency by Europeans and Middle-easterns.;;;;;;;;;;;;;x
+ca_foundry_2_desc;In this foundry Pao, or cannons, are produced and men trained to wield this inovative weapon. Handcannons were larger versions of the handgun. In Asia they were mostly used as anti-personnel weapons and were later reffined to might potency by Europeans and Middle-easterns.;;;;;;;;;;;;;x
+ca_foundry_3_desc;In this foundry Pao, or cannons, are produced and men trained to wield this inovative weapon. Handcannons were larger versions of the handgun. In Asia they were mostly used as anti-personnel weapons and were later reffined to might potency by Europeans and Middle-easterns.;;;;;;;;;;;;;x
+ca_foundry_4_desc;In this foundry Pao, or cannons, are produced and men trained to wield this inovative weapon. Handcannons were larger versions of the handgun. In Asia they were mostly used as anti-personnel weapons and were later reffined to might potency by Europeans and Middle-easterns.;;;;;;;;;;;;;x
+ca_rocketry_1;Huojian Manufactories;;;;;;;;;;;;;x
+ca_rocketry_2;Huojian Manufactories;;;;;;;;;;;;;x
+ca_rocketry_3;Huojian Manufactories;;;;;;;;;;;;;x
+ca_rocketry_4;Huojian Manufactories;;;;;;;;;;;;;x
+ca_rocketry_1_desc;In this manufactory Huojian, or fire arrows, are produced and men trained to wield this inovative weapon. Fire arrows are the precursors of modern rockets and varied in size with the earliest being shot from bows later evolging into strange contraptions capable of firing hundreds of them at once or into impactfull missiles with several hundred meters of destructive radius.;;;;;;;;;;;;;x
+ca_rocketry_2_desc;In this manufactory Huojian, or fire arrows, are produced and men trained to wield this inovative weapon. Fire arrows are the precursors of modern rockets and varied in size with the earliest being shot from bows later evolging into strange contraptions capable of firing hundreds of them at once or into impactfull missiles with several hundred meters of destructive radius.;;;;;;;;;;;;;x
+ca_rocketry_3_desc;In this manufactory Huojian, or fire arrows, are produced and men trained to wield this inovative weapon. Fire arrows are the precursors of modern rockets and varied in size with the earliest being shot from bows later evolging into strange contraptions capable of firing hundreds of them at once or into impactfull missiles with several hundred meters of destructive radius.;;;;;;;;;;;;;x
+ca_rocketry_4_desc;In this manufactory Huojian, or fire arrows, are produced and men trained to wield this inovative weapon. Fire arrows are the precursors of modern rockets and varied in size with the earliest being shot from bows later evolging into strange contraptions capable of firing hundreds of them at once or into impactfull missiles with several hundred meters of destructive radius.;;;;;;;;;;;;;x
+k_yakut;Sakha;;;;;;;;;;;;;x
+k_even;Evenia;;;;;;;;;;;;;x
+k_yenisia;Yenisia;;;;;;;;;;;;;x
+k_yukaghir;Yukaghir;;;;;;;;;;;;;x
+k_khabarovsk;Khabarovsk;;;;;;;;;;;;;x
+ca_culture_chukchi_4;Reindeer Herders;;;;;;;;;;;;;x
+ca_culture_chukchi_3;Reindeer Herders;;;;;;;;;;;;;x
+ca_culture_chukchi_2;Reindeer Herders;;;;;;;;;;;;;x
+ca_culture_chukchi_1;Reindeer Herders;;;;;;;;;;;;;x
+ca_culture_chukchi_1_desc;Here are brave warriors clad in laminar armour and trained in the ancient art of reindeer riding to devastating effect.;;;;;;;;;;;;;x
+tb_culture_chukchi_1;Reindeer Herders;;;;;;;;;;;;;x
+tb_culture_chukchi_2;Reindeer Herders;;;;;;;;;;;;;x
+tb_culture_chukchi_3;Reindeer Herders;;;;;;;;;;;;;x
+tb_culture_chukchi_4;Reindeer Herders;;;;;;;;;;;;;x
+ca_culture_korean_1;Gaemamusa Grounds;;;;;;;;;;;;;x
+ca_culture_korean_2;Gaemamusa Grounds;;;;;;;;;;;;;x
+ca_culture_korean_3;Gaemamusa Grounds;;;;;;;;;;;;;x
+ca_culture_korean_4;Gaemamusa Grounds;;;;;;;;;;;;;x
+tb_culture_korean_1;Gaemamusa Grounds;;;;;;;;;;;;;x
+tb_culture_korean_2;Gaemamusa Grounds;;;;;;;;;;;;;x
+tb_culture_korean_3;Gaemamusa Grounds;;;;;;;;;;;;;x
+tb_culture_korean_4;Gaemamusa Grounds;;;;;;;;;;;;;x
+ca_culture_korean_1_desc;Gaemamusa were the elite panzered knights of the Korean military;;;;;;;;;;;;;x
+RETTYPE_CUL_KOR;Gaemamusa Band;;;;;;;;;;;;;x
+RETTYPE_CUL_CHUK;Reindeer Riders;;;;;;;;;;;;;x
+reindeer_cavalry;Reindeer Riders;;;;;;;;;;;;;x
+reindeer_cavalry_offensive;Reindeer Riders;;;;;;;;;;;;;x
+reindeer_cavalry_defensive;Reindeer Riders;;;;;;;;;;;;;x
+reindeer_cavalry_morale;Reindeer Riders;;;;;;;;;;;;;x
+reindeer_cavalry_modifier;Combat Modifier boost to Reindeer Riders: $PERC$;;;;;;;;;;;;;x
+reindeer_ambush_tactic;Reindeer Ambush;;;;;;;;;;;;;x
+b_ustmana;Ust Mana;;;;;;;;;;;;;x
+b_tegi;Tegi;;;;;;;;;;;;;x
+b_ustrem;Ust Rem;;;;;;;;;;;;;x
+d_red_sea;Bahr al-Qulzum;;;;;;;;;;;;;x
+c_red_sea_adj;Bahr al-Qulzum;;;;;;;;;;;;;x
+c_farasan;Farasan;;;;;;;;;;;;;x
+c_farasan_adj;Farasan;;;;;;;;;;;;;x
+b_farasan;Farasan;;;;;;;;;;;;;x
+b_qummah;Qummah;;;;;;;;;;;;;x
+b_khutob;Khutob;;;;;;;;;;;;;x
+b_abutwoq;Abutwoq;;;;;;;;;;;;;x
+b_zamhar;Zamhar;;;;;;;;;;;;;x
+c_hanish;Hanish;;;;;;;;;;;;;x
+c_hanish_adj;Hanish;;;;;;;;;;;;;x
+b_alkabir;al-Kabir;;;;;;;;;;;;;x
+b_alsaghir;al-Saghir;;;;;;;;;;;;;x
+b_almamalih;Almalih;;;;;;;;;;;;;x
+b_jabalzugar;Zuqar;;;;;;;;;;;;;x
+c_debealuwa;Debealuwa;;;;;;;;;;;;;x
+c_debealuwa_adj;Debealuwa;;;;;;;;;;;;;x
+b_debealuwa;Debealuwa;;;;;;;;;;;;;x
+b_dsahelia;Dsahelia;;;;;;;;;;;;;x
+b_nocra;Nocra;;;;;;;;;;;;;x
+b_noranew;Nora;;;;;;;;;;;;;x
+b_gabi_hu;Gabi Hu;;;;;;;;;;;;;x
+c_qeshm;Qeshm;;;;;;;;;;;;;x
+c_qeshm_adj;Qeshm;;;;;;;;;;;;;x
+b_qeshm;Qeshm;;;;;;;;;;;;;x
+b_tabl;Tabl;;;;;;;;;;;;;x
+b_ramkan;Ramkan;;;;;;;;;;;;;x
+b_dargahan;Dargahan;;;;;;;;;;;;;x
+b_basaido;Basaido;;;;;;;;;;;;;x
+b_salakh;Salakh;;;;;;;;;;;;;x
+c_abualabyad;Abu al Jirab;;;;;;;;;;;;;x
+c_abualabyad_adj;Abu al Jirab;;;;;;;;;;;;;x
+b_aljirab;Al Jirab;;;;;;;;;;;;;x
+b_jananah;Jananah;;;;;;;;;;;;;x
+b_marawah;Marawah;;;;;;;;;;;;;x
+b_alrehm;Al Reem;;;;;;;;;;;;;x
+c_masirah;Masirah;;;;;;;;;;;;;x
+c_masirah_adj;Masirah;;;;;;;;;;;;;x
+b_surmasirah;Sur Masirah;;;;;;;;;;;;;x
+b_mursays;Mur Says;;;;;;;;;;;;;x
+b_maghilah;Maghilah;;;;;;;;;;;;;x
+b_hiql;Hiql;;;;;;;;;;;;;x
+b_shinzi;Shinzi;;;;;;;;;;;;;x
+b_dafiyat;Dafiyat;;;;;;;;;;;;;x
+c_hallaniyyah;Al-Hallaniyah;;;;;;;;;;;;;x
+c_hallaniyyah_adj;Al-Hallaniyah;;;;;;;;;;;;;x
+b_hallaniyyah;Al-Hallaniyah;;;;;;;;;;;;;x
+b_sawdan;Sawdan;;;;;;;;;;;;;x
+b_qibliyyah;Qibliyyah;;;;;;;;;;;;;x
+b_hasikiyyah;Hasikiyyah;;;;;;;;;;;;;x
+c_fernando_de_noronha;Fernando de Noronha;;;;;;;;;;;;;x
+c_fernando_de_noronha_adj;Fernando de Noronha;;;;;;;;;;;;;x
+b_viladosremedios;Vila dos Remedios;;;;;;;;;;;;;x
+POPOL_VUH;Popol Vuh;;;;;;;;;;;;;x
+THE_KAMUY_YUKAR;Kamuy Yukar;;;;;;;;;;;;;x
+REVERENCE;Reverence;;;;;;;;;;;;;x
+ADMAPU;Admapu;;;;;;;;;;;;;x
+ca_culture_corachol_4;Raiders Training Fields;;;;;;;;;;;;;x
+ca_culture_corachol_3;Raiders Training Fields;;;;;;;;;;;;;x
+ca_culture_corachol_2;Raiders Training Fields;;;;;;;;;;;;;x
+ca_culture_corachol_1;Raiders Training Fields;;;;;;;;;;;;;x
+ca_culture_corachol_1_desc;In preparation for the raiding sorties into enemy land Raiders gather here and hone their skills;;;;;;;;;;;;;x
+tb_culture_corachol_1;Raiders Training Fields;;;;;;;;;;;;;x
+tb_culture_corachol_2;Raiders Training Fields;;;;;;;;;;;;;x
+tb_culture_corachol_3;Raiders Training Fields;;;;;;;;;;;;;x
+tb_culture_corachol_4;Raiders Training Fields;;;;;;;;;;;;;x
+ca_culture_mayan_4;Aj X Bhak Fraternity;;;;;;;;;;;;;x
+ca_culture_mayan_3;Aj X Bhak Fraternity;;;;;;;;;;;;;x
+ca_culture_mayan_2;Aj X Bhak Fraternity;;;;;;;;;;;;;x
+ca_culture_mayan_1;Aj X Bhak Fraternity;;;;;;;;;;;;;x
+ca_culture_mayan_1_desc;The Aj X Bhak(Count of Captives) were proven warriors and would be adressed by the number of enemies they had taken captive prefixed on their title. Ex: A Winak Bhak(Taker of 20 prisioners);;;;;;;;;;;;;x
+tb_culture_mayan_1;Aj X Bhak Fraternity;;;;;;;;;;;;;x
+tb_culture_mayan_2;Aj X Bhak Fraternity;;;;;;;;;;;;;x
+tb_culture_mayan_3;Aj X Bhak Fraternity;;;;;;;;;;;;;x
+tb_culture_mayan_4;Aj X Bhak Fraternity;;;;;;;;;;;;;x
+ca_culture_tarascan_4;Tarascan Smithy;;;;;;;;;;;;;x
+ca_culture_tarascan_3;Tarascan Smithy;;;;;;;;;;;;;x
+ca_culture_tarascan_2;Tarascan Smithy;;;;;;;;;;;;;x
+ca_culture_tarascan_1;Tarascan Smithy;;;;;;;;;;;;;x
+ca_culture_tarascan_1_desc;The lack of obsidian supplies required for the creation of weapons readily available in the Tarascan homelands created the stimulous for the mastery over cooper.;;;;;;;;;;;;;x
+tb_culture_tarascan_1;Tarascan Smithy;;;;;;;;;;;;;x
+tb_culture_tarascan_2;Tarascan Smithy;;;;;;;;;;;;;x
+tb_culture_tarascan_3;Tarascan Smithy;;;;;;;;;;;;;x
+tb_culture_tarascan_4;Tarascan Smithy;;;;;;;;;;;;;x
+ca_culture_otomi_4;Otomi Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_otomi_3;Otomi Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_otomi_2;Otomi Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_otomi_1;Otomi Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_otomi_1_desc;The fearless warriors of the Otomi order are trained here. They represent the elite of the Otomi war machine and entire armies have known to rout after earing the sound of their death whistles.;;;;;;;;;;;;;x
+tb_culture_otomi_1;Otomi Warrior Lodge;;;;;;;;;;;;;x
+tb_culture_otomi_2;Otomi Warrior Lodge;;;;;;;;;;;;;x
+tb_culture_otomi_3;Otomi Warrior Lodge;;;;;;;;;;;;;x
+tb_culture_otomi_4;Otomi Warrior Lodge;;;;;;;;;;;;;x
+ca_culture_zacatecan_4;Chichimecan Bands;;;;;;;;;;;;;x
+ca_culture_zacatecan_3;Chichimecan Bands;;;;;;;;;;;;;x
+ca_culture_zacatecan_2;Chichimecan Bands;;;;;;;;;;;;;x
+ca_culture_zacatecan_1;Chichimecan Bands;;;;;;;;;;;;;x
+ca_culture_zacatecan_1_desc;The fearsome Chichimecas muster in anticipation of profitable incursions into the rich mesoamerican neighbours.;;;;;;;;;;;;;x
+tb_culture_zacatecan_1;Chichimecan Bands;;;;;;;;;;;;;x
+tb_culture_zacatecan_2;Chichimecan Bands;;;;;;;;;;;;;x
+tb_culture_zacatecan_3;Chichimecan Bands;;;;;;;;;;;;;x
+tb_culture_zacatecan_4;Chichimecan Bands;;;;;;;;;;;;;x
+BM_CONQUEST_OF_CEUTA;Conquest of Ceuta;;;;;;;;;;;;;x
+BM_CONQUEST_OF_CEUTA_INFO;Conquest of Ceuta;;;;;;;;;;;;;x
+BM_CONQUEST_OF_CONSTANTINOPLE;Fall of Constantinople;;;;;;;;;;;;;x
+BM_CONQUEST_OF_CONSTANTINOPLE_INFO;Fall of Constantinople;;;;;;;;;;;;;x
+BM_CASTILLIAN_SUCCESSION;War of Castillian Succession;;;;;;;;;;;;;x
+BM_CASTILLIAN_SUCCESSION_INFO;War of Castillian Succession;;;;;;;;;;;;;x
+BM_SECOND_TRIP_COLUMBUS;Second Voyage of Columbus;;;;;;;;;;;;;x
+BM_SECOND_TRIP_COLUMBUS_INFO;Second Voyage of Columbus;;;;;;;;;;;;;x
+BM_FERNANDINE_WARS;Fernandine Wars;;;;;;;;;;;;;x
+BM_FERNANDINE_WARS_INFO;Fernandine Wars;;;;;;;;;;;;;x
+BM_INTERREGNO_WARS;Interregno;;;;;;;;;;;;;x
+BM_INTERREGNO_WARS_INFO;Interregno;;;;;;;;;;;;;x
+BM_ACCLAMATION;Acclamation of the Prior of Crato;;;;;;;;;;;;;x
+BM_ACCLAMATION_INFO;Acclamation of the Prior of Crato;;;;;;;;;;;;;x
+BM_IBERIAN_UNION;Iberian Union;;;;;;;;;;;;;x
+BM_IBERIAN_UNION_INFO;Iberian Union;;;;;;;;;;;;;x
+BM_RESTAURATION;War of Restauration;;;;;;;;;;;;;x
+BM_RESTAURATION_INFO;War of Restauration;;;;;;;;;;;;;x

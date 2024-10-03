@@ -1,0 +1,5125 @@
+1019929325={
+	name=Cusichaca
+	dynasty=1009990261
+	dna="icifhgabhoh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=5 learning=5
+	720.7.16={ birth=yes }
+	807.4.11={ death=yes }
+}
+1019929326={
+	name=Katari
+	dynasty=1009990261
+	dna="iciglgcbhoj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=5 learning=4
+	father=1019929325	#Cusichaca
+	751.8.2={ birth=yes }
+	838.2.4={ death=yes }
+}
+1019929327={
+	name=Ana
+	female=yes
+	dynasty=1009990261
+	dna="omafhdaadoh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929325	#Cusichaca
+	758.12.16={ birth=yes }
+	833.8.5={ death=yes }
+}
+1019929328={
+	name=Taraque
+	dynasty=1009990261
+	dna="gjceggfbfda"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=5 learning=8
+	father=1019929325	#Cusichaca
+	763.8.18={ birth=yes }
+	840.11.5={ death=yes }
+}
+1019929329={
+	name=Guaritopa
+	dynasty=1009990261
+	dna="efinlmcbaop"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=4 learning=5
+	father=1019929326	#Katari
+	774.9.19={ birth=yes }
+	834.8.28={ death=yes }
+}
+1019929330={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="iciplgcbhol"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929326	#Katari
+	780.7.20={ birth=yes }
+	816.12.23={ death=yes }
+}
+1019929331={
+	name=Quispe
+	dynasty=1009990261
+	dna="icigdgcchap"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=6 learning=5
+	father=1019929326	#Katari
+	786.4.11={ birth=yes }
+	825.10.20={ death=yes }
+}
+1019929332={
+	name=Sopa
+	dynasty=1009990261
+	dna="idfgloclooc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=8
+	father=1019929326	#Katari
+	791.11.4={ birth=yes }
+	876.6.16={ death=yes }
+}
+1019929333={
+	name=Maiara
+	female=yes
+	dynasty=1009990261
+	dna="iligkgpkeoj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929326	#Katari
+	796.2.8={ birth=yes }
+	871.10.2={ death=yes }
+}
+1019929334={
+	name=Ruminavi
+	dynasty=1009990261
+	dna="eficdncjfda"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	father=1019929329	#Guaritopa
+	795.10.15={ birth=yes }
+	878.1.25={ death=yes }
+}
+1019929335={
+	name=Nina
+	female=yes
+	dynasty=1009990261
+	dna="efmogmbbpoi"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929329	#Guaritopa
+	799.9.22={ birth=yes }
+	864.8.14={ death=yes }
+}
+1019929336={
+	name=Taraque
+	dynasty=1009990261
+	dna="nhindccbfop"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	father=1019929329	#Guaritopa
+	805.8.25={ birth=yes }
+	875.8.26={ death=yes }
+}
+1019929337={
+	name=Nina
+	female=yes
+	dynasty=1009990261
+	dna="efbdlocnahp"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929329	#Guaritopa
+	810.12.24={ birth=yes }
+	876.6.30={ death=yes }
+}
+1019929338={
+	name=Ana
+	female=yes
+	dynasty=1009990261
+	dna="nhiblmcaaod"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929329	#Guaritopa
+	815.5.15={ birth=yes }
+	893.11.1={ death=yes }
+}
+1019929339={
+	name=Orco
+	dynasty=1009990261
+	dna="dfineicjcdo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=8 learning=8
+	father=1019929334	#Ruminavi
+	829.1.11={ birth=yes }
+	904.7.16={ death=yes }
+}
+1019929340={
+	name=Amaru
+	dynasty=1009990261
+	dna="mcipondncda"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=4 learning=4
+	father=1019929334	#Ruminavi
+	832.5.6={ birth=yes }
+	918.4.30={ death=yes }
+}
+1019929341={
+	name=Kantuta
+	female=yes
+	dynasty=1009990261
+	dna="bjdgbiojfdo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929334	#Ruminavi
+	837.8.15={ birth=yes }
+	900.12.6={ death=yes }
+}
+1019929342={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="fgicdngjfgf"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929334	#Ruminavi
+	840.5.11={ birth=yes }
+	895.1.3={ death=yes }
+}
+1019929343={
+	name=Villac
+	dynasty=1009990261
+	dna="mcmboicjlnn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	father=1019929339	#Orco
+	854.3.19={ birth=yes }
+	914.6.11={ death=yes }
+}
+1019929344={
+	name=Sopa
+	dynasty=1009990261
+	dna="dpipiinjbdo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	father=1019929339	#Orco
+	862.7.16={ birth=yes }
+	925.11.2={ death=yes }
+}
+1019929345={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990261
+	dna="mfcneocpcdh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929339	#Orco
+	865.10.14={ birth=yes }
+	933.11.15={ death=yes }
+}
+1019929346={
+	name=Ana
+	female=yes
+	dynasty=1009990261
+	dna="dlinhccjcgo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929339	#Orco
+	870.9.26={ birth=yes }
+	933.11.1={ death=yes }
+}
+1019929347={
+	name=Pumi
+	dynasty=1009990261
+	dna="mcdblicnlnn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=4
+	father=1019929343	#Villac
+	877.2.2={ birth=yes }
+	961.7.12={ death=yes }
+}
+1019929348={
+	name=Nina
+	female=yes
+	dynasty=1009990261
+	dna="pcmhdgemklj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929343	#Villac
+	881.11.2={ birth=yes }
+	946.4.24={ death=yes }
+}
+1019929349={
+	name=Capac
+	dynasty=1009990261
+	dna="hjalolcjlen"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=8 learning=7
+	father=1019929343	#Villac
+	887.1.24={ birth=yes }
+	943.4.17={ death=yes }
+}
+1019929350={
+	name=Maiara
+	female=yes
+	dynasty=1009990261
+	dna="mlgbgichpnn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929343	#Villac
+	891.2.20={ birth=yes }
+	971.3.10={ death=yes }
+}
+1019929351={
+	name=Colla
+	dynasty=1009990261
+	dna="cpjalepnlng"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=5 learning=7
+	father=1019929347	#Pumi
+	904.6.23={ birth=yes }
+	1004.6.23={ death=yes }
+}
+1019929352={
+	name=Curiatao
+	dynasty=1009990261
+	dna="ecnblihmgnn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	father=1019929347	#Pumi
+	908.9.20={ birth=yes }
+	971.8.3={ death=yes }
+}
+1019929353={
+	name=Maiara
+	female=yes
+	dynasty=1009990261
+	dna="mcdbeohnnnn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929347	#Pumi
+	910.4.25={ birth=yes }
+	1007.9.27={ death=yes }
+}
+1019929354={
+	name=Capac
+	dynasty=1009990261
+	dna="mldbdicjffn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	father=1019929347	#Pumi
+	914.7.25={ birth=yes }
+	980.2.12={ death=yes }
+}
+1019929355={
+	name=Amaru
+	dynasty=1009990261
+	dna="fcinkacmlnn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=7
+	father=1019929347	#Pumi
+	919.5.20={ birth=yes }
+	976.12.22={ death=yes }
+}
+1019929356={
+	name=Sopa
+	dynasty=1009990261
+	dna="oenaofpbjng"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=6 learning=4
+	father=1019929351	#Colla
+	927.10.14={ birth=yes }
+	1000.4.25={ death=yes }
+}
+1019929357={
+	name=Inti
+	dynasty=1009990261
+	dna="cpjalmpbfji"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=8 learning=8
+	father=1019929351	#Colla
+	930.11.13={ birth=yes }
+	1013.11.29={ death=yes }
+}
+1019929358={
+	name=Topa
+	dynasty=1009990261
+	dna="ohjlhepnljg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=6 learning=8
+	father=1019929351	#Colla
+	934.8.20={ birth=yes }
+	987.8.9={ death=yes }
+}
+1019929359={
+	name=Colla
+	dynasty=1009990261
+	dna="ogjanmenhja"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	father=1019929351	#Colla
+	938.7.10={ birth=yes }
+	1024.3.20={ death=yes }
+}
+1019929360={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="bcjalejnlng"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929351	#Colla
+	943.10.4={ birth=yes }
+	1014.6.25={ death=yes }
+}
+1019929361={
+	name=Nina
+	female=yes
+	dynasty=1009990261
+	dna="penaedpmmlg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929356	#Sopa
+	953.7.8={ birth=yes }
+	1032.6.12={ death=yes }
+}
+1019929362={
+	name=Pomaguala
+	dynasty=1009990261
+	dna="hdnaompbjfk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=5 learning=7
+	father=1019929356	#Sopa
+	959.6.18={ birth=yes }
+	1040.12.15={ death=yes }
+}
+1019929363={
+	name=Maiara
+	female=yes
+	dynasty=1009990261
+	dna="kdnchbpjjfk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929362	#Pomaguala
+	982.10.4={ birth=yes }
+	1048.2.3={ death=yes }
+}
+1019929364={
+	name=Orco
+	dynasty=1009990261
+	dna="pjeahfkbcfg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=5 learning=7
+	father=1019929362	#Pomaguala
+	986.9.1={ birth=yes }
+	1041.6.1={ death=yes }
+}
+1019929365={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="gdnllpnbjfk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929362	#Pomaguala
+	992.5.20={ birth=yes }
+	1056.4.15={ death=yes }
+}
+1019929366={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="hgnadopjjfk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929362	#Pomaguala
+	994.4.16={ birth=yes }
+	1047.8.21={ death=yes }
+}
+1019929367={
+	name=Ana
+	female=yes
+	dynasty=1009990261
+	dna="hcnabmiojmf"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929362	#Pomaguala
+	999.6.27={ birth=yes }
+	1079.1.25={ death=yes }
+}
+1019929368={
+	name=Sopa
+	dynasty=1009990261
+	dna="jngajopolfk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=8 learning=7
+	father=1019929362	#Pomaguala
+	1005.10.14={ birth=yes }
+	1085.7.30={ death=yes }
+}
+1019929369={
+	name=Sopa
+	dynasty=1009990261
+	dna="hdpeaopbpfk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=6 learning=5
+	father=1019929362	#Pomaguala
+	1008.9.7={ birth=yes }
+	1110.3.25={ death=yes }
+}
+1019929370={
+	name=Huachuri
+	dynasty=1009990261
+	dna="pjeakgbbolc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=8 learning=4
+	father=1019929364	#Orco
+	1008.12.18={ birth=yes }
+	1050.5.31={ death=yes }
+}
+1019929371={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="pjechfahcfg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929364	#Orco
+	1013.11.16={ birth=yes }
+	1091.1.10={ death=yes }
+}
+1019929372={
+	name=Mayta
+	dynasty=1009990261
+	dna="ffcenjkbckc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=5 learning=8
+	father=1019929364	#Orco
+	1018.9.17={ birth=yes }
+	1103.7.2={ death=yes }
+}
+1019929373={
+	name=Kantuta
+	female=yes
+	dynasty=1009990261
+	dna="pffahfkbebi"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929364	#Orco
+	1022.11.13={ birth=yes }
+	1081.12.9={ death=yes }
+}
+1019929374={
+	name=Ana
+	female=yes
+	dynasty=1009990261
+	dna="pkkahpknped"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929364	#Orco
+	1027.5.10={ birth=yes }
+	1082.7.7={ death=yes }
+}
+1019929375={
+	name=Nina
+	female=yes
+	dynasty=1009990261
+	dna="hjgckjgjblp"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929370	#Huachuri
+	1034.9.17={ birth=yes }
+	1098.1.18={ death=yes }
+}
+1019929376={
+	name=Yupanqui
+	dynasty=1009990261
+	dna="cjeafbbbokc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=5 learning=4
+	father=1019929370	#Huachuri
+	1041.8.9={ birth=yes }
+	1107.12.24={ death=yes }
+}
+1019929377={
+	name=Maiara
+	female=yes
+	dynasty=1009990261
+	dna="djeflbbeomf"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929376	#Yupanqui
+	1060.10.25={ birth=yes }
+	1141.4.28={ death=yes }
+}
+1019929378={
+	name=Nina
+	female=yes
+	dynasty=1009990261
+	dna="clgaknknjkc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929376	#Yupanqui
+	1066.7.14={ birth=yes }
+	1121.3.20={ death=yes }
+}
+1019929379={
+	name=Tucuycuyche
+	dynasty=1009990261
+	dna="nbeafbbookm"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	father=1019929376	#Yupanqui
+	1072.5.24={ birth=yes }
+	1138.6.13={ death=yes }
+}
+1019929380={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990261
+	dna="cjpadbpednl"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929376	#Yupanqui
+	1079.10.18={ birth=yes }
+	1139.8.28={ death=yes }
+}
+1019929381={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="nbaafjhelkp"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929379	#Tucuycuyche
+	1099.11.15={ birth=yes }
+	1176.12.26={ death=yes }
+}
+1019929382={
+	name=Maiara
+	female=yes
+	dynasty=1009990261
+	dna="hbbafbblbcj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929379	#Tucuycuyche
+	1103.9.20={ birth=yes }
+	1190.10.31={ death=yes }
+}
+1019929383={
+	name=Cuyuchi
+	dynasty=1009990261
+	dna="pfeafghcocj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=5 learning=6
+	father=1019929379	#Tucuycuyche
+	1106.9.8={ birth=yes }
+	1170.5.26={ death=yes }
+}
+1019929384={
+	name=Curiatao
+	dynasty=1009990261
+	dna="edlkmbjhjkm"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=6 learning=4
+	father=1019929379	#Tucuycuyche
+	1111.8.9={ birth=yes }
+	1190.5.30={ death=yes }
+}
+1019929385={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="pbeaobhodkm"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929379	#Tucuycuyche
+	1117.7.11={ birth=yes }
+	1182.2.15={ death=yes }
+}
+1019929386={
+	name=Sopa
+	dynasty=1009990261
+	dna="cdglflboocm"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=8 learning=8
+	father=1019929379	#Tucuycuyche
+	1123.8.23={ birth=yes }
+	1203.3.22={ death=yes }
+}
+1019929387={
+	name=Cayo
+	dynasty=1009990261
+	dna="nfeljhaonfc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=5
+	father=1019929379	#Tucuycuyche
+	1125.7.23={ birth=yes }
+	1180.8.27={ death=yes }
+}
+1019929388={
+	name=Tupac
+	dynasty=1009990261
+	dna="hoeaighcncj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=5 learning=8
+	father=1019929383	#Cuyuchi
+	1134.2.14={ birth=yes }
+	1213.12.2={ death=yes }
+}
+1019929389={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="ffeplginofj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929383	#Cuyuchi
+	1141.4.7={ birth=yes }
+	1196.7.19={ death=yes }
+}
+1019929390={
+	name=Colla
+	dynasty=1009990261
+	dna="hoeaganbncj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	father=1019929388	#Tupac
+	1158.7.24={ birth=yes }
+	1217.7.29={ death=yes }
+}
+1019929391={
+	name=Coyllas
+	dynasty=1009990261
+	dna="mfcainjmfcf"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	father=1019929388	#Tupac
+	1164.9.25={ birth=yes }
+	1230.9.1={ death=yes }
+}
+1019929392={
+	name=Titu
+	dynasty=1009990261
+	dna="hceaihlffcj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=8
+	father=1019929388	#Tupac
+	1169.10.21={ birth=yes }
+	1247.12.4={ death=yes }
+}
+1019929393={
+	name=Tucuycuyche
+	dynasty=1009990261
+	dna="hkfagmdbhhj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	father=1019929390	#Colla
+	1182.6.7={ birth=yes }
+	1240.2.13={ death=yes }
+}
+1019929394={
+	name=Capac
+	dynasty=1009990261
+	dna="hfeojankdcj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=5 learning=5
+	father=1019929390	#Colla
+	1188.2.20={ birth=yes }
+	1246.4.8={ death=yes }
+}
+1019929395={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="jiegimjbecj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929390	#Colla
+	1192.11.3={ birth=yes }
+	1257.2.9={ death=yes }
+}
+1019929396={
+	name=Ana
+	female=yes
+	dynasty=1009990261
+	dna="ickmkaibcln"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929390	#Colla
+	1196.11.16={ birth=yes }
+	1259.8.9={ death=yes }
+}
+1019929397={
+	name=Nina
+	female=yes
+	dynasty=1009990261
+	dna="holmianancj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929390	#Colla
+	1199.7.24={ birth=yes }
+	1269.6.12={ death=yes }
+}
+1019929398={
+	name=Sopa
+	dynasty=1009990261
+	dna="hkcaegnbhhh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=8 learning=7
+	father=1019929393	#Tucuycuyche
+	1201.8.27={ birth=yes }
+	1248.3.30={ death=yes }
+}
+1019929399={
+	name=Nina
+	female=yes
+	dynasty=1009990261
+	dna="hkfccmdnhhj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929393	#Tucuycuyche
+	1207.11.10={ birth=yes }
+	1289.3.6={ death=yes }
+}
+1019929400={
+	name=Chuqui
+	dynasty=1009990261
+	dna="bpfaemcbhhe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=6
+	father=1019929393	#Tucuycuyche
+	1212.6.19={ birth=yes }
+	1271.12.8={ death=yes }
+}
+1019929401={
+	name=Coyllas
+	dynasty=1009990261
+	dna="hkkdakdghjj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	father=1019929393	#Tucuycuyche
+	1216.7.8={ birth=yes }
+	1296.11.17={ death=yes }
+}
+1019929402={
+	name=Ana
+	female=yes
+	dynasty=1009990261
+	dna="jkeimmdbhnj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929393	#Tucuycuyche
+	1221.3.23={ birth=yes }
+	1286.1.9={ death=yes }
+}
+1019929403={
+	name=Tucuycuyche
+	dynasty=1009990261
+	dna="hkfabipdohf"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	father=1019929393	#Tucuycuyche
+	1227.12.23={ birth=yes }
+	1309.2.12={ death=yes }
+}
+1019929404={
+	name=Cayo
+	dynasty=1009990261
+	dna="heaoegafppk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=4
+	father=1019929398	#Sopa
+	1227.12.23={ birth=yes }
+	1286.5.21={ death=yes }
+}
+1019929405={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="kbcaennbalh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929398	#Sopa
+	1231.10.16={ birth=yes }
+	1286.7.3={ death=yes }
+}
+1019929406={
+	name=Yupanqui
+	dynasty=1009990261
+	dna="hkfpeillhkh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=5 learning=7
+	father=1019929398	#Sopa
+	1236.1.17={ birth=yes }
+	1291.3.25={ death=yes }
+}
+1019929407={
+	name=Quispe
+	dynasty=1009990261
+	dna="heccegnmhmh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=5
+	father=1019929398	#Sopa
+	1241.9.2={ birth=yes }
+	1320.9.8={ death=yes }
+}
+1019929408={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="hbnagllchmo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929398	#Sopa
+	1247.10.10={ birth=yes }
+	1333.9.8={ death=yes }
+}
+1019929409={
+	name=Maiara
+	female=yes
+	dynasty=1009990261
+	dna="fedgegbfphk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929404	#Cayo
+	1259.2.23={ birth=yes }
+	1324.7.26={ death=yes }
+}
+1019929410={
+	name=Taraque
+	dynasty=1009990261
+	dna="heakefakljb"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=7
+	father=1019929404	#Cayo
+	1266.2.10={ birth=yes }
+	1349.5.2={ death=yes }
+}
+1019929411={
+	name=Ana
+	female=yes
+	dynasty=1009990261
+	dna="hehkeaalljc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929410	#Taraque
+	1288.1.27={ birth=yes }
+	1359.1.11={ death=yes }
+}
+1019929412={
+	name=Guaritopa
+	dynasty=1009990261
+	dna="baakebcklbk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	father=1019929410	#Taraque
+	1291.1.22={ birth=yes }
+	1368.5.29={ death=yes }
+}
+1019929413={
+	name=Axomamma
+	female=yes
+	dynasty=1009990261
+	dna="heilmlgoajb"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929410	#Taraque
+	1298.8.19={ birth=yes }
+	1375.2.25={ death=yes }
+}
+1019929414={
+	name=Anquimarca
+	dynasty=1009990261
+	dna="hpjeeeaklcb"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	father=1019929410	#Taraque
+	1304.5.8={ birth=yes }
+	1386.8.25={ death=yes }
+}
+1019929415={
+	name=Ruminavi
+	dynasty=1009990261
+	dna="bmoaebcklfk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	father=1019929412	#Guaritopa
+	1318.2.8={ birth=yes }
+	1376.8.21={ death=yes }
+}
+1019929416={
+	name=Quispe
+	dynasty=1009990261
+	dna="kmaiebgffbk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=5 learning=4
+	father=1019929412	#Guaritopa
+	1324.10.15={ birth=yes }
+	1388.9.29={ death=yes }
+}
+1019929417={
+	name=Maiara
+	female=yes
+	dynasty=1009990261
+	dna="fapdlbdbbdi"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929412	#Guaritopa
+	1328.4.25={ birth=yes }
+	1401.11.25={ death=yes }
+}
+1019929418={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990261
+	dna="faakebcmlbk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929412	#Guaritopa
+	1332.6.3={ birth=yes }
+	1414.4.14={ death=yes }
+}
+1019929419={
+	name=Maiara
+	female=yes
+	dynasty=1009990261
+	dna="bffjebcolbp"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929412	#Guaritopa
+	1335.9.1={ birth=yes }
+	1375.7.28={ death=yes }
+}
+1019929420={
+	name=Umu
+	dynasty=1009990261
+	dna="cmneebcmabk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	father=1019929412	#Guaritopa
+	1340.9.11={ birth=yes }
+	1420.7.21={ death=yes }
+}
+1019929421={
+	name=Guaritopa
+	dynasty=1009990261
+	dna="boaieccfjbk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=4
+	father=1019929412	#Guaritopa
+	1345.7.24={ birth=yes }
+	1432.10.28={ death=yes }
+}
+1019929422={
+	name=Zambiza
+	dynasty=1009990261
+	dna="amiabmcklfk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=8 learning=7
+	father=1019929415	#Ruminavi
+	1342.6.22={ birth=yes }
+	1402.2.20={ death=yes }
+}
+1019929423={
+	name=Nina
+	female=yes
+	dynasty=1009990261
+	dna="bgilpighlmk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929415	#Ruminavi
+	1346.11.20={ birth=yes }
+	1431.5.29={ death=yes }
+}
+1019929424={
+	name=Maiara
+	female=yes
+	dynasty=1009990261
+	dna="pdilpffklno"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929422	#Zambiza
+	1366.8.16={ birth=yes }
+	1432.10.3={ death=yes }
+}
+1019929425={
+	name=Tupac
+	dynasty=1009990261
+	dna="akmablcolmo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=7
+	father=1019929422	#Zambiza
+	1369.8.17={ birth=yes }
+	1450.9.1={ death=yes }
+}
+1019929426={
+	name=Sopa
+	dynasty=1009990261
+	dna="abialdbkiak"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=8 learning=5
+	father=1019929422	#Zambiza
+	1374.4.2={ birth=yes }
+	1443.6.5={ death=yes }
+}
+1019929427={
+	name=Kantuta
+	female=yes
+	dynasty=1009990261
+	dna="adihbmcelfk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929422	#Zambiza
+	1379.3.27={ birth=yes }
+	1452.11.14={ death=yes }
+}
+1019929428={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990261
+	dna="adiklmkmlfk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929422	#Zambiza
+	1382.4.23={ birth=yes }
+	1453.9.25={ death=yes }
+}
+1019929429={
+	name=Tunupa
+	dynasty=1009990261
+	dna="nmiabmckofd"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=6
+	father=1019929422	#Zambiza
+	1387.6.11={ birth=yes }
+	1448.7.31={ death=yes }
+}
+1019929430={
+	name=Umu
+	dynasty=1009990262
+	dna="fimmhabkkpa"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	719.10.10={ birth=yes }
+	819.5.28={ death=yes }
+}
+1019929431={
+	name=Kantuta
+	female=yes
+	dynasty=1009990262
+	dna="fccmhlnfapa"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929430	#Umu
+	749.8.11={ birth=yes }
+	830.9.25={ death=yes }
+}
+1019929432={
+	name=Katari
+	dynasty=1009990262
+	dna="fimhkngbhpe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=5 learning=8
+	father=1019929430	#Umu
+	754.1.25={ birth=yes }
+	821.8.1={ death=yes }
+}
+1019929433={
+	name=Kantuta
+	female=yes
+	dynasty=1009990262
+	dna="ciempaobcjb"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929430	#Umu
+	758.4.22={ birth=yes }
+	818.7.21={ death=yes }
+}
+1019929434={
+	name=Axomamma
+	female=yes
+	dynasty=1009990262
+	dna="filhkcgkjpe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929432	#Katari
+	779.10.11={ birth=yes }
+	844.1.28={ death=yes }
+}
+1019929435={
+	name=Pumi
+	dynasty=1009990262
+	dna="cpdhpngbkck"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=8 learning=5
+	father=1019929432	#Katari
+	786.5.25={ birth=yes }
+	826.2.23={ death=yes }
+}
+1019929436={
+	name=Kantuta
+	female=yes
+	dynasty=1009990262
+	dna="fhchjngbpoe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929432	#Katari
+	790.7.3={ birth=yes }
+	849.3.21={ death=yes }
+}
+1019929437={
+	name=Maiara
+	female=yes
+	dynasty=1009990262
+	dna="fjmhjklegpj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929432	#Katari
+	797.8.7={ birth=yes }
+	878.11.18={ death=yes }
+}
+1019929438={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990262
+	dna="kpccpmkpklk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929435	#Pumi
+	819.5.24={ birth=yes }
+	896.10.9={ death=yes }
+}
+1019929439={
+	name=Villac
+	dynasty=1009990262
+	dna="chcadnhhphk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=8
+	father=1019929435	#Pumi
+	822.6.25={ birth=yes }
+	893.1.14={ death=yes }
+}
+1019929440={
+	name=Villac
+	dynasty=1009990262
+	dna="ijdhpagblcc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	father=1019929435	#Pumi
+	827.7.12={ birth=yes }
+	910.7.16={ death=yes }
+}
+1019929441={
+	name=Sopa
+	dynasty=1009990262
+	dna="dhhalfadpfo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=8
+	father=1019929439	#Villac
+	847.1.2={ birth=yes }
+	918.11.10={ death=yes }
+}
+1019929442={
+	name=Titu
+	dynasty=1009990262
+	dna="lgcaoohhhlk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	father=1019929439	#Villac
+	850.9.8={ birth=yes }
+	936.9.26={ death=yes }
+}
+1019929443={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990262
+	dna="chfahnihabk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929439	#Villac
+	857.4.5={ birth=yes }
+	912.5.14={ death=yes }
+}
+1019929444={
+	name=Maiara
+	female=yes
+	dynasty=1009990262
+	dna="chcpdnholhk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929439	#Villac
+	863.9.26={ birth=yes }
+	927.12.15={ death=yes }
+}
+1019929445={
+	name=Maiara
+	female=yes
+	dynasty=1009990262
+	dna="lppaafocpfo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929441	#Sopa
+	876.2.3={ birth=yes }
+	932.2.10={ death=yes }
+}
+1019929446={
+	name=Quispe
+	dynasty=1009990262
+	dna="dhealfadpfo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	father=1019929441	#Sopa
+	879.6.25={ birth=yes }
+	951.4.19={ death=yes }
+}
+1019929447={
+	name=Yupanqui
+	dynasty=1009990262
+	dna="alpancacpfc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=5 learning=8
+	father=1019929441	#Sopa
+	882.12.22={ birth=yes }
+	955.5.1={ death=yes }
+}
+1019929448={
+	name=Nina
+	female=yes
+	dynasty=1009990262
+	dna="dkhafofiphn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929441	#Sopa
+	888.8.17={ birth=yes }
+	958.12.30={ death=yes }
+}
+1019929449={
+	name=Pascac
+	dynasty=1009990262
+	dna="dhkalgakmnb"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	father=1019929446	#Quispe
+	904.8.18={ birth=yes }
+	981.2.4={ death=yes }
+}
+1019929450={
+	name=Huachuri
+	dynasty=1009990262
+	dna="ineaefgnpjo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=7 learning=8
+	father=1019929446	#Quispe
+	907.10.20={ birth=yes }
+	980.3.17={ death=yes }
+}
+1019929451={
+	name=Axomamma
+	female=yes
+	dynasty=1009990262
+	dna="jheaiedkbco"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929446	#Quispe
+	912.11.17={ birth=yes }
+	983.8.18={ death=yes }
+}
+1019929452={
+	name=Luyes
+	dynasty=1009990262
+	dna="dhepmdafcfo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=5 learning=7
+	father=1019929446	#Quispe
+	918.5.12={ birth=yes }
+	982.3.30={ death=yes }
+}
+1019929453={
+	name=Cari
+	dynasty=1009990262
+	dna="dhaplgakfnl"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=8 learning=8
+	father=1019929449	#Pascac
+	929.1.3={ birth=yes }
+	1029.4.23={ death=yes }
+}
+1019929454={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990262
+	dna="mdfjlglkmnm"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929449	#Pascac
+	934.11.21={ birth=yes }
+	1012.7.1={ death=yes }
+}
+1019929455={
+	name=Ana
+	female=yes
+	dynasty=1009990262
+	dna="dpcabgnhfhb"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929449	#Pascac
+	940.6.23={ birth=yes }
+	1000.6.13={ death=yes }
+}
+1019929456={
+	name=Cari
+	dynasty=1009990262
+	dna="mikpnjanaab"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=8 learning=7
+	father=1019929449	#Pascac
+	943.5.8={ birth=yes }
+	1024.9.25={ death=yes }
+}
+1019929457={
+	name=Nina
+	female=yes
+	dynasty=1009990262
+	dna="cmgbmdakfnl"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929453	#Cari
+	960.3.1={ birth=yes }
+	1020.1.27={ death=yes }
+}
+1019929458={
+	name=Tucuycuyche
+	dynasty=1009990262
+	dna="ehkplgaefnh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=6 learning=4
+	father=1019929453	#Cari
+	963.11.22={ birth=yes }
+	1028.3.8={ death=yes }
+}
+1019929459={
+	name=Pomaguala
+	dynasty=1009990262
+	dna="abapiiakfnl"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=4
+	father=1019929453	#Cari
+	970.8.19={ birth=yes }
+	1056.6.24={ death=yes }
+}
+1019929460={
+	name=Atoc
+	dynasty=1009990262
+	dna="fagplgfhfnh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	father=1019929458	#Tucuycuyche
+	981.10.14={ birth=yes }
+	1065.6.7={ death=yes }
+}
+1019929461={
+	name=Maiara
+	female=yes
+	dynasty=1009990262
+	dna="eppplgjefno"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929458	#Tucuycuyche
+	986.6.10={ birth=yes }
+	1043.8.27={ death=yes }
+}
+1019929462={
+	name=Varanca
+	dynasty=1009990262
+	dna="macmhafhjno"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=4
+	father=1019929460	#Atoc
+	1012.7.22={ birth=yes }
+	1095.6.11={ death=yes }
+}
+1019929463={
+	name=Tucuycuyche
+	dynasty=1009990262
+	dna="hkgplghhgnk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=8 learning=8
+	father=1019929460	#Atoc
+	1018.1.12={ birth=yes }
+	1089.3.7={ death=yes }
+}
+1019929464={
+	name=Atoc
+	dynasty=1009990262
+	dna="gagpfgfofne"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=5
+	father=1019929460	#Atoc
+	1021.5.23={ birth=yes }
+	1096.2.22={ death=yes }
+}
+1019929465={
+	name=Cayo
+	dynasty=1009990262
+	dna="jogokeflmnh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	father=1019929460	#Atoc
+	1025.5.9={ birth=yes }
+	1107.8.30={ death=yes }
+}
+1019929466={
+	name=Ana
+	female=yes
+	dynasty=1009990262
+	dna="lfgogefmffh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929460	#Atoc
+	1030.11.15={ birth=yes }
+	1106.3.12={ death=yes }
+}
+1019929467={
+	name=Cari
+	dynasty=1009990262
+	dna="gngplgfhfnn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	father=1019929460	#Atoc
+	1034.6.27={ birth=yes }
+	1096.10.24={ death=yes }
+}
+1019929468={
+	name=Kantuta
+	female=yes
+	dynasty=1009990262
+	dna="hahcknphocc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929460	#Atoc
+	1039.9.18={ birth=yes }
+	1107.10.24={ death=yes }
+}
+1019929469={
+	name=Maiara
+	female=yes
+	dynasty=1009990262
+	dna="bfclhakhjno"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929462	#Varanca
+	1030.11.24={ birth=yes }
+	1115.5.27={ death=yes }
+}
+1019929470={
+	name=Sopa
+	dynasty=1009990262
+	dna="facghafhjfo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	father=1019929462	#Varanca
+	1034.6.11={ birth=yes }
+	1115.10.13={ death=yes }
+}
+1019929471={
+	name=Ana
+	female=yes
+	dynasty=1009990262
+	dna="fcfchdfpfdf"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929462	#Varanca
+	1040.3.17={ birth=yes }
+	1121.3.17={ death=yes }
+}
+1019929472={
+	name=Ana
+	female=yes
+	dynasty=1009990262
+	dna="machhdkbjno"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929462	#Varanca
+	1044.1.8={ birth=yes }
+	1113.7.1={ death=yes }
+}
+1019929473={
+	name=Mayta
+	dynasty=1009990262
+	dna="gaimedleajo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=6
+	father=1019929462	#Varanca
+	1051.11.25={ birth=yes }
+	1114.8.10={ death=yes }
+}
+1019929474={
+	name=Nina
+	female=yes
+	dynasty=1009990262
+	dna="mihbhafhajm"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929462	#Varanca
+	1056.2.17={ birth=yes }
+	1133.6.15={ death=yes }
+}
+1019929475={
+	name=Axomamma
+	female=yes
+	dynasty=1009990262
+	dna="lhobhabfkle"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929462	#Varanca
+	1059.12.9={ birth=yes }
+	1146.7.29={ death=yes }
+}
+1019929476={
+	name=Capac
+	dynasty=1009990262
+	dna="fdcghofbjpo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=4 learning=6
+	father=1019929470	#Sopa
+	1066.6.10={ birth=yes }
+	1121.11.1={ death=yes }
+}
+1019929477={
+	name=Kantuta
+	female=yes
+	dynasty=1009990262
+	dna="caggkakgjno"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929470	#Sopa
+	1073.2.5={ birth=yes }
+	1145.12.14={ death=yes }
+}
+1019929478={
+	name=Pomaguala
+	dynasty=1009990262
+	dna="ddcghnfapnc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	father=1019929476	#Capac
+	1086.11.11={ birth=yes }
+	1160.11.12={ death=yes }
+}
+1019929479={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990262
+	dna="fmbgeoibodn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929476	#Capac
+	1090.10.20={ birth=yes }
+	1175.8.27={ death=yes }
+}
+1019929480={
+	name=Axomamma
+	female=yes
+	dynasty=1009990262
+	dna="fdcaaoabjoj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929476	#Capac
+	1094.10.24={ birth=yes }
+	1167.4.7={ death=yes }
+}
+1019929481={
+	name=Kantuta
+	female=yes
+	dynasty=1009990262
+	dna="fdeghodbjlo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929476	#Capac
+	1100.1.3={ birth=yes }
+	1182.9.12={ death=yes }
+}
+1019929482={
+	name=Axomamma
+	female=yes
+	dynasty=1009990262
+	dna="mdcghhfbgpe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929476	#Capac
+	1103.6.13={ birth=yes }
+	1169.10.26={ death=yes }
+}
+1019929483={
+	name=Amaru
+	dynasty=1009990262
+	dna="mdcmhhkggpo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=4 learning=8
+	father=1019929476	#Capac
+	1106.7.17={ birth=yes }
+	1186.12.21={ death=yes }
+}
+1019929484={
+	name=Surandaman
+	dynasty=1009990262
+	dna="mdgalofejno"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=5
+	father=1019929476	#Capac
+	1110.7.3={ birth=yes }
+	1167.4.23={ death=yes }
+}
+1019929485={
+	name=Maiara
+	female=yes
+	dynasty=1009990262
+	dna="ddcbnngapon"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929478	#Pomaguala
+	1109.8.21={ birth=yes }
+	1166.1.1={ death=yes }
+}
+1019929486={
+	name=Tunupa
+	dynasty=1009990262
+	dna="ddhbfnmafln"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=5 learning=8
+	father=1019929478	#Pomaguala
+	1113.11.11={ birth=yes }
+	1174.1.17={ death=yes }
+}
+1019929487={
+	name=Umu
+	dynasty=1009990262
+	dna="dkmnjjgaikn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=6 learning=4
+	father=1019929486	#Tunupa
+	1133.6.24={ birth=yes }
+	1223.9.20={ death=yes }
+}
+1019929488={
+	name=Maiara
+	female=yes
+	dynasty=1009990262
+	dna="ndgbajkifjm"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929486	#Tunupa
+	1137.2.6={ birth=yes }
+	1217.4.4={ death=yes }
+}
+1019929489={
+	name=Tupac
+	dynasty=1009990262
+	dna="dnhcdgmbeln"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	father=1019929486	#Tunupa
+	1140.3.10={ birth=yes }
+	1193.3.9={ death=yes }
+}
+1019929490={
+	name=Coyllas
+	dynasty=1009990262
+	dna="mfhdkjmcblc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=4 learning=5
+	father=1019929486	#Tunupa
+	1145.2.9={ birth=yes }
+	1225.10.8={ death=yes }
+}
+1019929491={
+	name=Topa
+	dynasty=1009990262
+	dna="ekjnnjppikn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	father=1019929487	#Umu
+	1153.2.10={ birth=yes }
+	1215.11.4={ death=yes }
+}
+1019929492={
+	name=Kantuta
+	female=yes
+	dynasty=1009990262
+	dna="ckgljdhaicn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929487	#Umu
+	1156.3.1={ birth=yes }
+	1201.11.1={ death=yes }
+}
+1019929493={
+	name=Axomamma
+	female=yes
+	dynasty=1009990262
+	dna="akmnljegifc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929487	#Umu
+	1164.10.15={ birth=yes }
+	1250.9.9={ death=yes }
+}
+1019929494={
+	name=Cari
+	dynasty=1009990262
+	dna="ekjnnjppimn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=7
+	father=1019929491	#Topa
+	1174.8.2={ birth=yes }
+	1253.1.5={ death=yes }
+}
+1019929495={
+	name=Maiara
+	female=yes
+	dynasty=1009990262
+	dna="aoonnjjphkj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929491	#Topa
+	1180.4.14={ birth=yes }
+	1262.8.8={ death=yes }
+}
+1019929496={
+	name=Curiatao
+	dynasty=1009990262
+	dna="gkjnjjcecmn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	father=1019929494	#Cari
+	1194.1.6={ birth=yes }
+	1275.5.27={ death=yes }
+}
+1019929497={
+	name=Nina
+	female=yes
+	dynasty=1009990262
+	dna="edennbppfln"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929494	#Cari
+	1197.12.6={ birth=yes }
+	1278.6.26={ death=yes }
+}
+1019929498={
+	name=Ana
+	female=yes
+	dynasty=1009990262
+	dna="kmhmnjpcimn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929494	#Cari
+	1204.11.6={ birth=yes }
+	1265.7.26={ death=yes }
+}
+1019929499={
+	name=Nina
+	female=yes
+	dynasty=1009990262
+	dna="lknnnjelkan"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929494	#Cari
+	1206.12.13={ birth=yes }
+	1270.8.4={ death=yes }
+}
+1019929500={
+	name=Zambiza
+	dynasty=1009990262
+	dna="jajnojnphmn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=5
+	father=1019929494	#Cari
+	1211.2.9={ birth=yes }
+	1287.8.9={ death=yes }
+}
+1019929501={
+	name=Axomamma
+	female=yes
+	dynasty=1009990262
+	dna="ekfiejpgobf"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929494	#Cari
+	1214.7.22={ birth=yes }
+	1278.3.12={ death=yes }
+}
+1019929502={
+	name=Cayo
+	dynasty=1009990262
+	dna="emhhnbopimo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=4 learning=8
+	father=1019929494	#Cari
+	1219.4.16={ birth=yes }
+	1275.5.5={ death=yes }
+}
+1019929503={
+	name=Ruminavi
+	dynasty=1009990262
+	dna="lnjnjfcjcmm"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=6
+	father=1019929496	#Curiatao
+	1219.1.2={ birth=yes }
+	1287.7.26={ death=yes }
+}
+1019929504={
+	name=Ninan
+	dynasty=1009990262
+	dna="gkakjjfagmo"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=8
+	father=1019929496	#Curiatao
+	1226.5.21={ birth=yes }
+	1279.10.31={ death=yes }
+}
+1019929505={
+	name=Cusichaca
+	dynasty=1009990262
+	dna="dneoefcebmp"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=6 learning=4
+	father=1019929503	#Ruminavi
+	1242.9.9={ birth=yes }
+	1321.6.7={ death=yes }
+}
+1019929506={
+	name=Nina
+	female=yes
+	dynasty=1009990262
+	dna="mmjljgcjiem"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929503	#Ruminavi
+	1248.3.1={ birth=yes }
+	1325.7.5={ death=yes }
+}
+1019929507={
+	name=Ana
+	female=yes
+	dynasty=1009990262
+	dna="inecefcnoip"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929505	#Cusichaca
+	1263.1.7={ birth=yes }
+	1346.7.23={ death=yes }
+}
+1019929508={
+	name=Cusichaca
+	dynasty=1009990262
+	dna="dneiedcebma"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=8 learning=4
+	father=1019929505	#Cusichaca
+	1269.7.14={ birth=yes }
+	1355.1.13={ death=yes }
+}
+1019929509={
+	name=Axomamma
+	female=yes
+	dynasty=1009990262
+	dna="dnjlefdhbbd"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929505	#Cusichaca
+	1276.2.20={ birth=yes }
+	1360.6.27={ death=yes }
+}
+1019929510={
+	name=Kantuta
+	female=yes
+	dynasty=1009990262
+	dna="pobhcfdebmj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929505	#Cusichaca
+	1281.8.18={ birth=yes }
+	1342.10.10={ death=yes }
+}
+1019929511={
+	name=Cusichaca
+	dynasty=1009990262
+	dna="pnchedcemja"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=8 learning=8
+	father=1019929508	#Cusichaca
+	1292.4.2={ birth=yes }
+	1385.11.12={ death=yes }
+}
+1019929512={
+	name=Maiara
+	female=yes
+	dynasty=1009990262
+	dna="gneiedeebma"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929508	#Cusichaca
+	1298.3.9={ birth=yes }
+	1355.4.7={ death=yes }
+}
+1019929513={
+	name=Axomamma
+	female=yes
+	dynasty=1009990262
+	dna="mceiedjebmg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929508	#Cusichaca
+	1301.5.18={ birth=yes }
+	1351.6.23={ death=yes }
+}
+1019929514={
+	name=Huaypalcon
+	dynasty=1009990262
+	dna="dgakeagebaa"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=5 learning=6
+	father=1019929508	#Cusichaca
+	1307.9.27={ birth=yes }
+	1361.2.21={ death=yes }
+}
+1019929515={
+	name=Ana
+	female=yes
+	dynasty=1009990262
+	dna="dfbigdcjbeg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929508	#Cusichaca
+	1311.9.4={ birth=yes }
+	1392.7.4={ death=yes }
+}
+1019929516={
+	name=Ana
+	female=yes
+	dynasty=1009990262
+	dna="dgeindceiaa"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929508	#Cusichaca
+	1313.4.9={ birth=yes }
+	1415.4.6={ death=yes }
+}
+1019929517={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990262
+	dna="ddiflbaebml"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929508	#Cusichaca
+	1318.10.25={ birth=yes }
+	1400.11.15={ death=yes }
+}
+1019929518={
+	name=Zambiza
+	dynasty=1009990262
+	dna="pncjeffjmja"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=6 learning=7
+	father=1019929511	#Cusichaca
+	1323.7.17={ birth=yes }
+	1408.11.28={ death=yes }
+}
+1019929519={
+	name=Axomamma
+	female=yes
+	dynasty=1009990262
+	dna="mpknkdcnmfe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929511	#Cusichaca
+	1328.6.23={ birth=yes }
+	1409.4.24={ death=yes }
+}
+1019929520={
+	name=Zambiza
+	dynasty=1009990262
+	dna="pfhhedmimio"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=4 learning=6
+	father=1019929511	#Cusichaca
+	1333.10.26={ birth=yes }
+	1395.11.9={ death=yes }
+}
+1019929521={
+	name=Umu
+	dynasty=1009990262
+	dna="onbjlfcpmja"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=7
+	father=1019929518	#Zambiza
+	1352.5.19={ birth=yes }
+	1435.1.29={ death=yes }
+}
+1019929522={
+	name=Axomamma
+	female=yes
+	dynasty=1009990262
+	dna="ajgcmfffmje"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929518	#Zambiza
+	1358.12.26={ birth=yes }
+	1437.7.5={ death=yes }
+}
+1019929523={
+	name=Ana
+	female=yes
+	dynasty=1009990262
+	dna="pncjekggmna"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929518	#Zambiza
+	1362.9.27={ birth=yes }
+	1431.11.5={ death=yes }
+}
+1019929524={
+	name=Tunupa
+	dynasty=1009990262
+	dna="pnbjeafikid"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	father=1019929518	#Zambiza
+	1368.12.16={ birth=yes }
+	1405.7.24={ death=yes }
+}
+1019929525={
+	name=Luyes
+	dynasty=1009990262
+	dna="gfojefkbmja"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	father=1019929518	#Zambiza
+	1371.12.18={ birth=yes }
+	1455.4.29={ death=yes }
+}
+1019929526={
+	name=Kantuta
+	female=yes
+	dynasty=1009990262
+	dna="nncjchfjmma"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929518	#Zambiza
+	1376.1.15={ birth=yes }
+	1431.12.9={ death=yes }
+}
+1019929527={
+	name=Sopa
+	dynasty=1009990263
+	dna="djdolhogmji"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=8 learning=7
+	720.8.21={ birth=yes }
+	780.3.1={ death=yes }
+}
+1019929528={
+	name=Tunupa
+	dynasty=1009990263
+	dna="apgglioglji"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=6 learning=5
+	father=1019929527	#Sopa
+	749.5.19={ birth=yes }
+	823.11.26={ death=yes }
+}
+1019929529={
+	name=Villac
+	dynasty=1009990263
+	dna="ejjojnbgagh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	father=1019929527	#Sopa
+	752.1.6={ birth=yes }
+	811.10.9={ death=yes }
+}
+1019929530={
+	name=Axomamma
+	female=yes
+	dynasty=1009990263
+	dna="mjdjljoephi"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929527	#Sopa
+	755.6.21={ birth=yes }
+	820.2.11={ death=yes }
+}
+1019929531={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990263
+	dna="njdochhgkja"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929527	#Sopa
+	760.10.3={ birth=yes }
+	830.6.13={ death=yes }
+}
+1019929532={
+	name=Axomamma
+	female=yes
+	dynasty=1009990263
+	dna="dpddbfomjji"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929527	#Sopa
+	764.7.20={ birth=yes }
+	833.6.29={ death=yes }
+}
+1019929533={
+	name=Coyllas
+	dynasty=1009990263
+	dna="kepmlhfgeji"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=5 learning=8
+	father=1019929527	#Sopa
+	767.3.21={ birth=yes }
+	834.7.31={ death=yes }
+}
+1019929534={
+	name=Curiatao
+	dynasty=1009990263
+	dna="ajmomfgcmni"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=7 learning=5
+	father=1019929527	#Sopa
+	771.2.24={ birth=yes }
+	833.9.5={ death=yes }
+}
+1019929535={
+	name=Curiatao
+	dynasty=1009990263
+	dna="apgmlbjpljn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	father=1019929528	#Tunupa
+	778.10.18={ birth=yes }
+	852.5.15={ death=yes }
+}
+1019929536={
+	name=Nina
+	female=yes
+	dynasty=1009990263
+	dna="cpbgalogpdi"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929528	#Tunupa
+	782.12.3={ birth=yes }
+	849.9.9={ death=yes }
+}
+1019929537={
+	name=Sahuaraura
+	dynasty=1009990263
+	dna="hgnglidglnp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	father=1019929528	#Tunupa
+	788.10.23={ birth=yes }
+	846.4.15={ death=yes }
+}
+1019929538={
+	name=Pomaguala
+	dynasty=1009990263
+	dna="eegjhmogfjm"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=6
+	father=1019929528	#Tunupa
+	792.10.24={ birth=yes }
+	874.3.27={ death=yes }
+}
+1019929539={
+	name=Ana
+	female=yes
+	dynasty=1009990263
+	dna="higplkoiljj"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929528	#Tunupa
+	797.6.6={ birth=yes }
+	869.11.1={ death=yes }
+}
+1019929540={
+	name=Cayo
+	dynasty=1009990263
+	dna="kpdmijkpfln"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=7
+	father=1019929535	#Curiatao
+	802.11.16={ birth=yes }
+	885.12.7={ death=yes }
+}
+1019929541={
+	name=Marcavilca
+	dynasty=1009990263
+	dna="dpgikboplhn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=4
+	father=1019929535	#Curiatao
+	806.4.3={ birth=yes }
+	864.4.28={ death=yes }
+}
+1019929542={
+	name=Ana
+	female=yes
+	dynasty=1009990263
+	dna="kpcmobdmbcb"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929535	#Curiatao
+	810.3.16={ birth=yes }
+	890.1.14={ death=yes }
+}
+1019929543={
+	name=Cusichaca
+	dynasty=1009990263
+	dna="jpimgkjpljp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=4 
+	father=1019929535	#Curiatao
+	816.5.13={ birth=yes }
+	872.2.11={ death=yes }
+}
+1019929544={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990263
+	dna="jjdeicphfln"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929540	#Cayo
+	826.6.15={ birth=yes }
+	895.8.24={ death=yes }
+}
+1019929545={
+	name=Anquimarca
+	dynasty=1009990263
+	dna="kphmijnpaln"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	father=1019929540	#Cayo
+	831.3.11={ birth=yes }
+	916.10.31={ death=yes }
+}
+1019929546={
+	name=Kantuta
+	female=yes
+	dynasty=1009990263
+	dna="koedcjkpoak"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929540	#Cayo
+	836.8.20={ birth=yes }
+	901.6.12={ death=yes }
+}
+1019929547={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990263
+	dna="nnbmbjamfbh"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929540	#Cayo
+	841.2.11={ birth=yes }
+	910.3.6={ death=yes }
+}
+1019929548={
+	name=Usca
+	dynasty=1009990263
+	dna="pmhmijlcbln"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=7 learning=4
+	father=1019929545	#Anquimarca
+	855.7.3={ birth=yes }
+	914.11.20={ death=yes }
+}
+1019929549={
+	name=Pomaguala
+	dynasty=1009990263
+	dna="jphhfjnpkln"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=6
+	father=1019929545	#Anquimarca
+	860.6.8={ birth=yes }
+	940.3.26={ death=yes }
+}
+1019929550={
+	name=Ana
+	female=yes
+	dynasty=1009990263
+	dna="mhhgiaepeln"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929545	#Anquimarca
+	864.3.13={ birth=yes }
+	941.8.25={ death=yes }
+}
+1019929551={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990263
+	dna="kpbfienpjlo"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929545	#Anquimarca
+	870.1.13={ birth=yes }
+	950.4.28={ death=yes }
+}
+1019929552={
+	name=Axomamma
+	female=yes
+	dynasty=1009990263
+	dna="pohmijlabgn"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929548	#Usca
+	875.4.11={ birth=yes }
+	959.4.26={ death=yes }
+}
+1019929553={
+	name=Pumi
+	dynasty=1009990263
+	dna="aickfjbkbjn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=4 learning=5
+	father=1019929548	#Usca
+	879.12.23={ birth=yes }
+	938.8.30={ death=yes }
+}
+1019929554={
+	name=Kantuta
+	female=yes
+	dynasty=1009990263
+	dna="pmhjielpnln"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929548	#Usca
+	884.6.27={ birth=yes }
+	957.5.25={ death=yes }
+}
+1019929555={
+	name=Tomás
+	dynasty=1009990263
+	dna="pmpihjlkppi"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	father=1019929548	#Usca
+	891.7.9={ birth=yes }
+	945.6.12={ death=yes }
+}
+1019929556={
+	name=Kantuta
+	female=yes
+	dynasty=1009990263
+	dna="hgnkjpbkfjg"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929553	#Pumi
+	913.6.19={ birth=yes }
+	991.11.17={ death=yes }
+}
+1019929557={
+	name=Pumi
+	dynasty=1009990263
+	dna="kickhkdehhp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=7
+	father=1019929553	#Pumi
+	919.12.3={ birth=yes }
+	1004.7.19={ death=yes }
+}
+1019929558={
+	name=Kantuta
+	female=yes
+	dynasty=1009990263
+	dna="bijkdcfjlhg"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929553	#Pumi
+	926.10.25={ birth=yes }
+	1001.6.3={ death=yes }
+}
+1019929559={
+	name=Maiara
+	female=yes
+	dynasty=1009990263
+	dna="micgfjkkfkj"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929553	#Pumi
+	933.2.12={ birth=yes }
+	1035.12.16={ death=yes }
+}
+1019929560={
+	name=Katari
+	dynasty=1009990263
+	dna="kikdhbdkhle"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=5 learning=4
+	father=1019929557	#Pumi
+	951.10.23={ birth=yes }
+	1000.9.8={ death=yes }
+}
+1019929561={
+	name=Katari
+	dynasty=1009990263
+	dna="gbcgbkdechp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=5
+	father=1019929557	#Pumi
+	956.2.9={ birth=yes }
+	1032.5.28={ death=yes }
+}
+1019929562={
+	name=Guaritopa
+	dynasty=1009990263
+	dna="kigkhmdeacl"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=5 learning=4
+	father=1019929557	#Pumi
+	961.7.7={ birth=yes }
+	1023.5.4={ death=yes }
+}
+1019929563={
+	name=Capac
+	dynasty=1009990263
+	dna="nibdbckehhp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=5
+	father=1019929557	#Pumi
+	967.4.12={ birth=yes }
+	1043.11.14={ death=yes }
+}
+1019929564={
+	name=Cari
+	dynasty=1009990263
+	dna="kcfgpkoehgp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	father=1019929557	#Pumi
+	971.6.15={ birth=yes }
+	1056.12.22={ death=yes }
+}
+1019929565={
+	name=Capac
+	dynasty=1009990263
+	dna="kiaghklehcp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=8 learning=5
+	father=1019929557	#Pumi
+	978.11.20={ birth=yes }
+	1039.3.1={ death=yes }
+}
+1019929566={
+	name=Villac
+	dynasty=1009990263
+	dna="nmbghkanknp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=5
+	father=1019929557	#Pumi
+	982.10.15={ birth=yes }
+	1063.5.15={ death=yes }
+}
+1019929567={
+	name=Axomamma
+	female=yes
+	dynasty=1009990263
+	dna="kakdhlakefe"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929560	#Katari
+	980.11.21={ birth=yes }
+	1063.3.2={ death=yes }
+}
+1019929568={
+	name=Ruminavi
+	dynasty=1009990263
+	dna="cihdnjdkdnh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=7
+	father=1019929560	#Katari
+	987.6.12={ birth=yes }
+	1069.5.14={ death=yes }
+}
+1019929569={
+	name=Nina
+	female=yes
+	dynasty=1009990263
+	dna="kicfhblkgle"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929560	#Katari
+	989.2.21={ birth=yes }
+	1043.3.27={ death=yes }
+}
+1019929570={
+	name=Inti
+	dynasty=1009990263
+	dna="kncplbdkhlh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	father=1019929560	#Katari
+	994.6.5={ birth=yes }
+	1058.5.4={ death=yes }
+}
+1019929571={
+	name=Axomamma
+	female=yes
+	dynasty=1009990263
+	dna="kfkdhbdkflo"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929560	#Katari
+	999.12.20={ birth=yes }
+	1054.2.28={ death=yes }
+}
+1019929572={
+	name=Chuqui
+	dynasty=1009990263
+	dna="cibffjngnng"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=6 learning=5
+	father=1019929568	#Ruminavi
+	1010.1.5={ birth=yes }
+	1079.4.28={ death=yes }
+}
+1019929573={
+	name=Orco
+	dynasty=1009990263
+	dna="cchdnjdkcfp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=8 learning=7
+	father=1019929568	#Ruminavi
+	1016.5.21={ birth=yes }
+	1079.6.4={ death=yes }
+}
+1019929574={
+	name=Cayo
+	dynasty=1009990263
+	dna="dihbnjdolah"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=6
+	father=1019929568	#Ruminavi
+	1021.1.19={ birth=yes }
+	1081.3.19={ death=yes }
+}
+1019929575={
+	name=Yupanqui
+	dynasty=1009990263
+	dna="cipddchkmgh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	father=1019929568	#Ruminavi
+	1026.11.22={ birth=yes }
+	1092.4.23={ death=yes }
+}
+1019929576={
+	name=Cayo
+	dynasty=1009990263
+	dna="fnaegnddknh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=6 learning=7
+	father=1019929568	#Ruminavi
+	1031.8.16={ birth=yes }
+	1109.1.16={ death=yes }
+}
+1019929577={
+	name=Zambiza
+	dynasty=1009990263
+	dna="ciocfjdkfal"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=8
+	father=1019929568	#Ruminavi
+	1036.1.16={ birth=yes }
+	1123.4.13={ death=yes }
+}
+1019929578={
+	name=Chuqui
+	dynasty=1009990263
+	dna="cmhnnjhpdjb"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	father=1019929568	#Ruminavi
+	1042.7.8={ birth=yes }
+	1107.3.22={ death=yes }
+}
+1019929579={
+	name=Chuqui
+	dynasty=1009990263
+	dna="cnnmfkjenai"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	father=1019929572	#Chuqui
+	1040.2.22={ birth=yes }
+	1093.9.17={ death=yes }
+}
+1019929580={
+	name=Zopahua
+	dynasty=1009990263
+	dna="mebkhjngnnb"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=6
+	father=1019929572	#Chuqui
+	1047.12.16={ birth=yes }
+	1118.4.14={ death=yes }
+}
+1019929581={
+	name=Huachuri
+	dynasty=1009990263
+	dna="lcbmfachhfi"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=7
+	father=1019929579	#Chuqui
+	1067.10.10={ birth=yes }
+	1130.12.6={ death=yes }
+}
+1019929582={
+	name=Pomaguala
+	dynasty=1009990263
+	dna="cnampnmgooo"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=7 learning=8
+	father=1019929579	#Chuqui
+	1072.3.2={ birth=yes }
+	1144.3.30={ death=yes }
+}
+1019929583={
+	name=Pumi
+	dynasty=1009990263
+	dna="lhgkfachohi"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=4 learning=7
+	father=1019929581	#Huachuri
+	1087.9.12={ birth=yes }
+	1164.6.25={ death=yes }
+}
+1019929584={
+	name=Katari
+	dynasty=1009990263
+	dna="gmbkhmdnhfi"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=6 learning=6
+	father=1019929581	#Huachuri
+	1093.8.19={ birth=yes }
+	1146.12.10={ death=yes }
+}
+1019929585={
+	name=Pascac
+	dynasty=1009990263
+	dna="lcpmfdlihfi"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	father=1019929581	#Huachuri
+	1098.2.12={ birth=yes }
+	1172.6.3={ death=yes }
+}
+1019929586={
+	name=Inti
+	dynasty=1009990263
+	dna="lfbpfcfhafi"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	father=1019929581	#Huachuri
+	1102.3.22={ birth=yes }
+	1173.11.19={ death=yes }
+}
+1019929587={
+	name=Ruminavi
+	dynasty=1009990263
+	dna="lcfmgakghfh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	father=1019929581	#Huachuri
+	1106.6.25={ birth=yes }
+	1188.7.26={ death=yes }
+}
+1019929588={
+	name=Ana
+	female=yes
+	dynasty=1009990263
+	dna="gkbefddhhel"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929581	#Huachuri
+	1111.1.12={ birth=yes }
+	1172.1.3={ death=yes }
+}
+1019929589={
+	name=Ninan
+	dynasty=1009990263
+	dna="llmofachbff"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=5 learning=4
+	father=1019929581	#Huachuri
+	1115.10.21={ birth=yes }
+	1197.12.4={ death=yes }
+}
+1019929590={
+	name=Pascac
+	dynasty=1009990263
+	dna="ilefclahnoi"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	father=1019929583	#Pumi
+	1117.4.4={ birth=yes }
+	1185.10.10={ death=yes }
+}
+1019929591={
+	name=Varanca
+	dynasty=1009990263
+	dna="glckfaghonb"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=6
+	father=1019929583	#Pumi
+	1122.10.27={ birth=yes }
+	1200.11.25={ death=yes }
+}
+1019929592={
+	name=Inti
+	dynasty=1009990263
+	dna="lhenimcgohf"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	father=1019929583	#Pumi
+	1125.5.4={ birth=yes }
+	1224.1.30={ death=yes }
+}
+1019929593={
+	name=Ana
+	female=yes
+	dynasty=1009990263
+	dna="ijgihhceiek"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929583	#Pumi
+	1130.1.25={ birth=yes }
+	1216.9.21={ death=yes }
+}
+1019929594={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990263
+	dna="lkgkdachohi"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929583	#Pumi
+	1137.8.22={ birth=yes }
+	1234.6.23={ death=yes }
+}
+1019929595={
+	name=Maiara
+	female=yes
+	dynasty=1009990263
+	dna="lhkldfohodi"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929583	#Pumi
+	1140.10.19={ birth=yes }
+	1243.7.18={ death=yes }
+}
+1019929596={
+	name=Pumi
+	dynasty=1009990263
+	dna="lhekogblohn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=8 learning=4
+	father=1019929583	#Pumi
+	1142.11.9={ birth=yes }
+	1219.5.2={ death=yes }
+}
+1019929597={
+	name=Ruminavi
+	dynasty=1009990263
+	dna="gleajlafnai"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=8 learning=7
+	father=1019929590	#Pascac
+	1143.5.12={ birth=yes }
+	1224.11.15={ death=yes }
+}
+1019929598={
+	name=Yamqui
+	dynasty=1009990263
+	dna="hlifclahbpc"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	father=1019929590	#Pascac
+	1147.5.8={ birth=yes }
+	1195.6.14={ death=yes }
+}
+1019929599={
+	name=Villac
+	dynasty=1009990263
+	dna="kfekclahfoi"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=5
+	father=1019929590	#Pascac
+	1154.8.13={ birth=yes }
+	1229.12.25={ death=yes }
+}
+1019929600={
+	name=Colla
+	dynasty=1009990263
+	dna="clefmlapnci"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	father=1019929597	#Ruminavi
+	1164.3.10={ birth=yes }
+	1232.4.12={ death=yes }
+}
+1019929601={
+	name=Mayta
+	dynasty=1009990263
+	dna="hlelaaghdai"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	father=1019929597	#Ruminavi
+	1169.5.3={ birth=yes }
+	1240.11.7={ death=yes }
+}
+1019929602={
+	name=Kantuta
+	female=yes
+	dynasty=1009990263
+	dna="allaiaifpai"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929597	#Ruminavi
+	1174.7.13={ birth=yes }
+	1252.9.8={ death=yes }
+}
+1019929603={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990263
+	dna="geiijaaflfi"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929597	#Ruminavi
+	1178.7.6={ birth=yes }
+	1238.5.7={ death=yes }
+}
+1019929604={
+	name=Atoc
+	dynasty=1009990263
+	dna="cpegmagppmd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	father=1019929600	#Colla
+	1185.2.27={ birth=yes }
+	1262.7.24={ death=yes }
+}
+1019929605={
+	name=Taraque
+	dynasty=1009990263
+	dna="hlocblgpdim"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=6
+	father=1019929600	#Colla
+	1190.4.22={ birth=yes }
+	1237.2.17={ death=yes }
+}
+1019929606={
+	name=Huaypalcon
+	dynasty=1009990263
+	dna="gnhfmpbjbfi"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	father=1019929600	#Colla
+	1197.2.5={ birth=yes }
+	1258.6.27={ death=yes }
+}
+1019929607={
+	name=Sopa
+	dynasty=1009990263
+	dna="fldnjpbpnci"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=7 learning=8
+	father=1019929600	#Colla
+	1199.5.14={ birth=yes }
+	1282.5.30={ death=yes }
+}
+1019929608={
+	name=Katari
+	dynasty=1009990263
+	dna="giefbkannnd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=8 learning=5
+	father=1019929600	#Colla
+	1204.11.12={ birth=yes }
+	1281.12.14={ death=yes }
+}
+1019929609={
+	name=Tupac
+	dynasty=1009990263
+	dna="ppacmafgjfd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=4 learning=5
+	father=1019929604	#Atoc
+	1215.9.23={ birth=yes }
+	1269.7.1={ death=yes }
+}
+1019929610={
+	name=Maiara
+	female=yes
+	dynasty=1009990263
+	dna="cpealkgpood"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929604	#Atoc
+	1220.4.5={ birth=yes }
+	1276.11.19={ death=yes }
+}
+1019929611={
+	name=Ruminavi
+	dynasty=1009990263
+	dna="nhkelaiifod"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=8 learning=4
+	father=1019929609	#Tupac
+	1240.11.8={ birth=yes }
+	1315.12.1={ death=yes }
+}
+1019929612={
+	name=Ana
+	female=yes
+	dynasty=1009990263
+	dna="miaphofnkpn"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929609	#Tupac
+	1244.9.1={ birth=yes }
+	1307.4.25={ death=yes }
+}
+1019929613={
+	name=Chuqui
+	dynasty=1009990263
+	dna="gpapbbiljfg"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=7
+	father=1019929609	#Tupac
+	1250.7.19={ birth=yes }
+	1311.10.8={ death=yes }
+}
+1019929614={
+	name=Tomás
+	dynasty=1009990263
+	dna="pdacmlfgafd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=6 learning=6
+	father=1019929609	#Tupac
+	1254.9.20={ birth=yes }
+	1319.2.26={ death=yes }
+}
+1019929615={
+	name=Tunupa
+	dynasty=1009990263
+	dna="pekelakefjm"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=5 learning=8
+	father=1019929611	#Ruminavi
+	1268.12.20={ birth=yes }
+	1336.2.4={ death=yes }
+}
+1019929616={
+	name=Capac
+	dynasty=1009990263
+	dna="npjelebpjok"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=6 learning=5
+	father=1019929611	#Ruminavi
+	1271.7.13={ birth=yes }
+	1354.2.14={ death=yes }
+}
+1019929617={
+	name=Pascac
+	dynasty=1009990263
+	dna="kdkelgkbfkd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	father=1019929611	#Ruminavi
+	1277.1.26={ birth=yes }
+	1341.6.7={ death=yes }
+}
+1019929618={
+	name=Maiara
+	female=yes
+	dynasty=1009990263
+	dna="fekekikegjm"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929615	#Tunupa
+	1290.3.2={ birth=yes }
+	1368.11.21={ death=yes }
+}
+1019929619={
+	name=Sopa
+	dynasty=1009990263
+	dna="bokebebepcl"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=6 learning=5
+	father=1019929615	#Tunupa
+	1298.12.4={ birth=yes }
+	1343.11.29={ death=yes }
+}
+1019929620={
+	name=Nina
+	female=yes
+	dynasty=1009990263
+	dna="delkmakffjf"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929615	#Tunupa
+	1303.2.26={ birth=yes }
+	1369.8.14={ death=yes }
+}
+1019929621={
+	name=Zopahua
+	dynasty=1009990263
+	dna="ifkkiebeccl"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	father=1019929619	#Sopa
+	1327.7.18={ birth=yes }
+	1391.8.1={ death=yes }
+}
+1019929622={
+	name=Axomamma
+	female=yes
+	dynasty=1009990263
+	dna="akjebnkhlcl"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929619	#Sopa
+	1333.1.27={ birth=yes }
+	1402.11.8={ death=yes }
+}
+1019929623={
+	name=Pumi
+	dynasty=1009990263
+	dna="bhnedebhoco"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=6 learning=8
+	father=1019929619	#Sopa
+	1339.3.23={ birth=yes }
+	1425.7.9={ death=yes }
+}
+1019929624={
+	name=Maiara
+	female=yes
+	dynasty=1009990263
+	dna="ofkiibbapkj"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929621	#Zopahua
+	1347.4.4={ birth=yes }
+	1418.9.17={ death=yes }
+}
+1019929625={
+	name=Ana
+	female=yes
+	dynasty=1009990263
+	dna="lfknaijlcap"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929621	#Zopahua
+	1353.10.4={ birth=yes }
+	1434.1.8={ death=yes }
+}
+1019929626={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990263
+	dna="ihpkiebhabl"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929621	#Zopahua
+	1359.2.4={ birth=yes }
+	1444.7.18={ death=yes }
+}
+1019929627={
+	name=Nina
+	female=yes
+	dynasty=1009990263
+	dna="ahgkmemegdf"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929621	#Zopahua
+	1365.7.23={ birth=yes }
+	1423.8.25={ death=yes }
+}
+1019929628={
+	name=Luyes
+	dynasty=1009990263
+	dna="acdkfebecoe"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=7
+	father=1019929621	#Zopahua
+	1370.6.8={ birth=yes }
+	1441.8.21={ death=yes }
+}
+1019929629={
+	name=Katari
+	dynasty=1009990263
+	dna="fdlkfdbkfoe"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=6 learning=5
+	father=1019929628	#Luyes
+	1400.4.18={ birth=yes }
+	1468.5.18={ death=yes }
+}
+1019929630={
+	name=Axomamma
+	female=yes
+	dynasty=1009990263
+	dna="acikfedecop"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929628	#Luyes
+	1408.10.23={ birth=yes }
+	1510.9.4={ death=yes }
+}
+1019929631={
+	name=Kantuta
+	female=yes
+	dynasty=1009990263
+	dna="lchkfebecoj"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929628	#Luyes
+	1411.6.1={ birth=yes }
+	1459.11.7={ death=yes }
+}
+1019929632={
+	name=Axomamma
+	female=yes
+	dynasty=1009990263
+	dna="acdkfgbekpe"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929628	#Luyes
+	1415.9.7={ birth=yes }
+	1483.9.14={ death=yes }
+}
+1019929633={
+	name=Coyllas
+	dynasty=1009990264
+	dna="ajgcdfhamlh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=5 learning=6
+	720.3.3={ birth=yes }
+	807.2.23={ death=yes }
+}
+1019929634={
+	name=Kantuta
+	female=yes
+	dynasty=1009990264
+	dna="ajgcbfiomlh"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929633	#Coyllas
+	747.1.22={ birth=yes }
+	849.7.6={ death=yes }
+}
+1019929635={
+	name=Ana
+	female=yes
+	dynasty=1009990264
+	dna="femcjfhfklj"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929633	#Coyllas
+	751.1.23={ birth=yes }
+	817.12.29={ death=yes }
+}
+1019929636={
+	name=Illapa
+	dynasty=1009990264
+	dna="efacdfhcmoh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	father=1019929633	#Coyllas
+	756.9.27={ birth=yes }
+	844.1.16={ death=yes }
+}
+1019929637={
+	name=Katari
+	dynasty=1009990264
+	dna="efacddhjmin"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=5 learning=4
+	father=1019929636	#Illapa
+	775.1.3={ birth=yes }
+	850.6.16={ death=yes }
+}
+1019929638={
+	name=Inti
+	dynasty=1009990264
+	dna="eiacdfhhmfh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=5
+	father=1019929636	#Illapa
+	781.3.16={ birth=yes }
+	838.10.8={ death=yes }
+}
+1019929639={
+	name=Yamqui
+	dynasty=1009990264
+	dna="elacifhcmfh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	father=1019929636	#Illapa
+	787.6.25={ birth=yes }
+	861.2.28={ death=yes }
+}
+1019929640={
+	name=Umu
+	dynasty=1009990264
+	dna="pfacddhjoen"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=4
+	father=1019929637	#Katari
+	804.8.17={ birth=yes }
+	868.8.4={ death=yes }
+}
+1019929641={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990264
+	dna="lfccdnfjnfn"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929637	#Katari
+	808.10.25={ birth=yes }
+	886.2.1={ death=yes }
+}
+1019929642={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990264
+	dna="jeblddhlmin"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929637	#Katari
+	814.3.27={ birth=yes }
+	887.10.26={ death=yes }
+}
+1019929643={
+	name=Tomás
+	dynasty=1009990264
+	dna="pillddnjmin"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=6 learning=7
+	father=1019929637	#Katari
+	821.3.3={ birth=yes }
+	895.12.6={ death=yes }
+}
+1019929644={
+	name=Kantuta
+	female=yes
+	dynasty=1009990264
+	dna="ppaiddajhmn"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929640	#Umu
+	832.6.16={ birth=yes }
+	903.7.23={ death=yes }
+}
+1019929645={
+	name=Marcavilca
+	dynasty=1009990264
+	dna="pgapcdhjfbn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=4 learning=5
+	father=1019929640	#Umu
+	838.10.13={ birth=yes }
+	920.5.13={ death=yes }
+}
+1019929646={
+	name=Ana
+	female=yes
+	dynasty=1009990264
+	dna="mchgddhaean"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929645	#Marcavilca
+	864.9.21={ birth=yes }
+	921.12.12={ death=yes }
+}
+1019929647={
+	name=Pomaguala
+	dynasty=1009990264
+	dna="hgkpedojgbj"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=6 learning=4
+	father=1019929645	#Marcavilca
+	870.3.23={ birth=yes }
+	911.2.27={ death=yes }
+}
+1019929648={
+	name=Ana
+	female=yes
+	dynasty=1009990264
+	dna="pbapcecjfbf"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929645	#Marcavilca
+	874.1.24={ birth=yes }
+	953.9.26={ death=yes }
+}
+1019929649={
+	name=Ana
+	female=yes
+	dynasty=1009990264
+	dna="pgafdihlaol"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929645	#Marcavilca
+	880.9.2={ birth=yes }
+	934.11.20={ death=yes }
+}
+1019929650={
+	name=Cusichaca
+	dynasty=1009990264
+	dna="goadcdhjdbn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=5
+	father=1019929645	#Marcavilca
+	883.8.20={ birth=yes }
+	955.8.1={ death=yes }
+}
+1019929651={
+	name=Kantuta
+	female=yes
+	dynasty=1009990264
+	dna="mcknndojgbj"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929647	#Pomaguala
+	899.11.10={ birth=yes }
+	972.8.8={ death=yes }
+}
+1019929652={
+	name=Yupanqui
+	dynasty=1009990264
+	dna="bekpehcjecj"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=7 learning=8
+	father=1019929647	#Pomaguala
+	902.7.19={ birth=yes }
+	965.4.8={ death=yes }
+}
+1019929653={
+	name=Chuqui
+	dynasty=1009990264
+	dna="ggjjediegbj"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=8
+	father=1019929647	#Pomaguala
+	907.11.14={ birth=yes }
+	945.7.27={ death=yes }
+}
+1019929654={
+	name=Nina
+	female=yes
+	dynasty=1009990264
+	dna="gabpehhacfj"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929647	#Pomaguala
+	912.3.21={ birth=yes }
+	971.3.12={ death=yes }
+}
+1019929655={
+	name=Umu
+	dynasty=1009990264
+	dna="bhkonnhcmcj"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=8 learning=8
+	father=1019929652	#Yupanqui
+	930.10.3={ birth=yes }
+	992.9.16={ death=yes }
+}
+1019929656={
+	name=Pumi
+	dynasty=1009990264
+	dna="beppehcjbdj"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	father=1019929652	#Yupanqui
+	935.8.18={ birth=yes }
+	1005.7.10={ death=yes }
+}
+1019929657={
+	name=Taraque
+	dynasty=1009990264
+	dna="biepihcjeco"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	father=1019929652	#Yupanqui
+	943.10.3={ birth=yes }
+	1002.11.19={ death=yes }
+}
+1019929658={
+	name=Cusichaca
+	dynasty=1009990264
+	dna="bnknnhbcgca"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	father=1019929655	#Umu
+	953.6.21={ birth=yes }
+	1015.7.27={ death=yes }
+}
+1019929659={
+	name=Maiara
+	female=yes
+	dynasty=1009990264
+	dna="bomlnneklcj"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929655	#Umu
+	959.1.8={ birth=yes }
+	1021.2.10={ death=yes }
+}
+1019929660={
+	name=Maiara
+	female=yes
+	dynasty=1009990264
+	dna="abdpcdhhjdj"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929655	#Umu
+	962.1.14={ birth=yes }
+	1012.3.13={ death=yes }
+}
+1019929661={
+	name=Zambiza
+	dynasty=1009990264
+	dna="nhkannahmcp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=6
+	father=1019929655	#Umu
+	966.5.10={ birth=yes }
+	1050.11.3={ death=yes }
+}
+1019929662={
+	name=Curiatao
+	dynasty=1009990264
+	dna="bihnnhgcgja"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=7
+	father=1019929658	#Cusichaca
+	975.6.24={ birth=yes }
+	1040.12.30={ death=yes }
+}
+1019929663={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990264
+	dna="pkknndbbgia"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929658	#Cusichaca
+	981.10.15={ birth=yes }
+	1065.12.15={ death=yes }
+}
+1019929664={
+	name=Nina
+	female=yes
+	dynasty=1009990264
+	dna="knhkjhbggcf"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929658	#Cusichaca
+	984.10.18={ birth=yes }
+	1062.9.10={ death=yes }
+}
+1019929665={
+	name=Capac
+	dynasty=1009990264
+	dna="bbnnmbjcdga"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	father=1019929662	#Curiatao
+	1003.1.9={ birth=yes }
+	1077.1.4={ death=yes }
+}
+1019929666={
+	name=Luyes
+	dynasty=1009990264
+	dna="bdhnnhgnkoe"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	father=1019929662	#Curiatao
+	1010.8.5={ birth=yes }
+	1059.3.7={ death=yes }
+}
+1019929667={
+	name=Axomamma
+	female=yes
+	dynasty=1009990264
+	dna="hmghndgcgla"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929662	#Curiatao
+	1015.11.17={ birth=yes }
+	1075.3.9={ death=yes }
+}
+1019929668={
+	name=Taraque
+	dynasty=1009990264
+	dna="kednndgchla"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	father=1019929662	#Curiatao
+	1019.2.25={ birth=yes }
+	1105.8.19={ death=yes }
+}
+1019929669={
+	name=Pumi
+	dynasty=1009990264
+	dna="bbcnmkmcfha"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	father=1019929665	#Capac
+	1032.2.25={ birth=yes }
+	1119.8.3={ death=yes }
+}
+1019929670={
+	name=Kantuta
+	female=yes
+	dynasty=1009990264
+	dna="lknfibjcdaa"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929665	#Capac
+	1036.7.9={ birth=yes }
+	1119.5.6={ death=yes }
+}
+1019929671={
+	name=Axomamma
+	female=yes
+	dynasty=1009990264
+	dna="bbbcmboamid"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929665	#Capac
+	1040.3.21={ birth=yes }
+	1106.1.5={ death=yes }
+}
+1019929672={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990264
+	dna="jbapcbhciea"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929665	#Capac
+	1046.10.13={ birth=yes }
+	1104.2.16={ death=yes }
+}
+1019929673={
+	name=Atoc
+	dynasty=1009990264
+	dna="ehcenbjjoga"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	father=1019929665	#Capac
+	1049.1.20={ birth=yes }
+	1121.4.8={ death=yes }
+}
+1019929674={
+	name=Maiara
+	female=yes
+	dynasty=1009990264
+	dna="mplhmdhlaon"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929669	#Pumi
+	1053.3.13={ birth=yes }
+	1133.6.7={ death=yes }
+}
+1019929675={
+	name=Nina
+	female=yes
+	dynasty=1009990264
+	dna="bbjfekmcihl"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929669	#Pumi
+	1055.8.6={ birth=yes }
+	1114.9.12={ death=yes }
+}
+1019929676={
+	name=Capac
+	dynasty=1009990264
+	dna="ibpnmcaciha"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=8
+	father=1019929669	#Pumi
+	1059.3.2={ birth=yes }
+	1144.12.29={ death=yes }
+}
+1019929677={
+	name=Axomamma
+	female=yes
+	dynasty=1009990264
+	dna="bpdnmkhcfba"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929669	#Pumi
+	1062.12.27={ birth=yes }
+	1128.3.10={ death=yes }
+}
+1019929678={
+	name=Nina
+	female=yes
+	dynasty=1009990264
+	dna="bndadkpcfhe"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929669	#Pumi
+	1066.6.10={ birth=yes }
+	1123.1.3={ death=yes }
+}
+1019929679={
+	name=Axomamma
+	female=yes
+	dynasty=1009990264
+	dna="ebcfjigcmga"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929669	#Pumi
+	1070.6.8={ birth=yes }
+	1134.8.13={ death=yes }
+}
+1019929680={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990264
+	dna="bbcooomnmkk"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929669	#Pumi
+	1075.12.19={ birth=yes }
+	1134.7.8={ death=yes }
+}
+1019929681={
+	name=Yamqui
+	dynasty=1009990264
+	dna="mmjnmpadahg"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=7 learning=6
+	father=1019929676	#Capac
+	1088.1.20={ birth=yes }
+	1155.5.23={ death=yes }
+}
+1019929682={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990264
+	dna="ibpndcncaja"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929676	#Capac
+	1095.12.10={ birth=yes }
+	1161.10.2={ death=yes }
+}
+1019929683={
+	name=Ana
+	female=yes
+	dynasty=1009990264
+	dna="iclnfgabiha"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929676	#Capac
+	1101.8.24={ birth=yes }
+	1168.3.18={ death=yes }
+}
+1019929684={
+	name=Nina
+	female=yes
+	dynasty=1009990264
+	dna="omjdplaoahd"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929681	#Yamqui
+	1111.2.22={ birth=yes }
+	1194.1.15={ death=yes }
+}
+1019929685={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990264
+	dna="cljbeacanlk"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929681	#Yamqui
+	1114.4.3={ birth=yes }
+	1158.10.22={ death=yes }
+}
+1019929686={
+	name=Nina
+	female=yes
+	dynasty=1009990264
+	dna="lmgmbmldafg"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929681	#Yamqui
+	1118.8.7={ birth=yes }
+	1220.8.12={ death=yes }
+}
+1019929687={
+	name=Kantuta
+	female=yes
+	dynasty=1009990264
+	dna="mhcjmiedagn"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929681	#Yamqui
+	1121.3.1={ birth=yes }
+	1205.12.21={ death=yes }
+}
+1019929688={
+	name=Titu
+	dynasty=1009990264
+	dna="mmjhmngkabh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=6 learning=6
+	father=1019929681	#Yamqui
+	1126.8.9={ birth=yes }
+	1184.9.6={ death=yes }
+}
+1019929689={
+	name=Varanca
+	dynasty=1009990264
+	dna="mmignjapadg"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=7
+	father=1019929681	#Yamqui
+	1130.5.13={ birth=yes }
+	1200.6.19={ death=yes }
+}
+1019929690={
+	name=Colla
+	dynasty=1009990264
+	dna="mbjmmiekihg"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	father=1019929681	#Yamqui
+	1136.10.26={ birth=yes }
+	1195.8.8={ death=yes }
+}
+1019929691={
+	name=Atoc
+	dynasty=1009990264
+	dna="cmjemklkgjf"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=8 learning=6
+	father=1019929688	#Titu
+	1154.11.5={ birth=yes }
+	1253.8.20={ death=yes }
+}
+1019929692={
+	name=Axomamma
+	female=yes
+	dynasty=1009990264
+	dna="bmeefagkgji"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929688	#Titu
+	1158.3.16={ birth=yes }
+	1216.10.5={ death=yes }
+}
+1019929693={
+	name=Cuyuchi
+	dynasty=1009990264
+	dna="mgckfninabh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=5 learning=6
+	father=1019929688	#Titu
+	1161.12.5={ birth=yes }
+	1228.1.27={ death=yes }
+}
+1019929694={
+	name=Ana
+	female=yes
+	dynasty=1009990264
+	dna="bajdkngkaio"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929688	#Titu
+	1166.1.13={ birth=yes }
+	1246.9.4={ death=yes }
+}
+1019929695={
+	name=Maiara
+	female=yes
+	dynasty=1009990264
+	dna="ebjhmngaabn"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929688	#Titu
+	1170.2.23={ birth=yes }
+	1264.12.20={ death=yes }
+}
+1019929696={
+	name=Capac
+	dynasty=1009990264
+	dna="mlohmngkaih"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	father=1019929688	#Titu
+	1176.2.4={ birth=yes }
+	1253.7.6={ death=yes }
+}
+1019929697={
+	name=Nina
+	female=yes
+	dynasty=1009990264
+	dna="mmkhmigldbi"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929688	#Titu
+	1181.1.21={ birth=yes }
+	1241.8.15={ death=yes }
+}
+1019929698={
+	name=Katari
+	dynasty=1009990264
+	dna="cnjfdighcjp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=4
+	father=1019929691	#Atoc
+	1180.6.20={ birth=yes }
+	1258.2.3={ death=yes }
+}
+1019929699={
+	name=Ana
+	female=yes
+	dynasty=1009990264
+	dna="cmeebkckgli"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929691	#Atoc
+	1184.11.15={ birth=yes }
+	1249.4.29={ death=yes }
+}
+1019929700={
+	name=Cayo
+	dynasty=1009990264
+	dna="omjelklegjf"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=6 learning=8
+	father=1019929691	#Atoc
+	1188.6.1={ birth=yes }
+	1244.4.11={ death=yes }
+}
+1019929701={
+	name=Axomamma
+	female=yes
+	dynasty=1009990264
+	dna="nmjeekfgcoa"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929691	#Atoc
+	1195.7.25={ birth=yes }
+	1254.3.4={ death=yes }
+}
+1019929702={
+	name=Quispe
+	dynasty=1009990264
+	dna="cnjjaplocfk"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=8
+	father=1019929698	#Katari
+	1204.2.22={ birth=yes }
+	1259.11.26={ death=yes }
+}
+1019929703={
+	name=Yamqui
+	dynasty=1009990264
+	dna="cgfhdichcbn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=7 learning=8
+	father=1019929698	#Katari
+	1209.6.8={ birth=yes }
+	1262.11.25={ death=yes }
+}
+1019929704={
+	name=Axomamma
+	female=yes
+	dynasty=1009990264
+	dna="pnjfddgbcjp"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929698	#Katari
+	1215.7.25={ birth=yes }
+	1270.5.5={ death=yes }
+}
+1019929705={
+	name=Nina
+	female=yes
+	dynasty=1009990264
+	dna="ccjhgighmpp"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929698	#Katari
+	1220.6.15={ birth=yes }
+	1285.5.22={ death=yes }
+}
+1019929706={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990264
+	dna="caejhdlocfd"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929702	#Quispe
+	1236.12.14={ birth=yes }
+	1300.11.23={ death=yes }
+}
+1019929707={
+	name=Guaritopa
+	dynasty=1009990264
+	dna="ancjcplamfk"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	father=1019929702	#Quispe
+	1239.11.12={ birth=yes }
+	1303.6.28={ death=yes }
+}
+1019929708={
+	name=Cayo
+	dynasty=1009990264
+	dna="flejacloofh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=8 learning=6
+	father=1019929702	#Quispe
+	1243.4.21={ birth=yes }
+	1322.8.15={ death=yes }
+}
+1019929709={
+	name=Cusichaca
+	dynasty=1009990264
+	dna="anljcdlaffk"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	father=1019929707	#Guaritopa
+	1265.10.14={ birth=yes }
+	1336.9.12={ death=yes }
+}
+1019929710={
+	name=Nina
+	female=yes
+	dynasty=1009990264
+	dna="aijjapjamed"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929707	#Guaritopa
+	1271.6.4={ birth=yes }
+	1348.3.23={ death=yes }
+}
+1019929711={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990264
+	dna="oeiajinomdk"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929707	#Guaritopa
+	1276.2.10={ birth=yes }
+	1330.12.29={ death=yes }
+}
+1019929712={
+	name=Maiara
+	female=yes
+	dynasty=1009990264
+	dna="apbjpmgimbk"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929707	#Guaritopa
+	1280.4.7={ birth=yes }
+	1348.9.14={ death=yes }
+}
+1019929713={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990264
+	dna="acgknphagfk"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929707	#Guaritopa
+	1285.2.27={ birth=yes }
+	1339.6.18={ death=yes }
+}
+1019929714={
+	name=Kantuta
+	female=yes
+	dynasty=1009990264
+	dna="ehmjbflmoeo"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929707	#Guaritopa
+	1289.6.26={ birth=yes }
+	1327.2.12={ death=yes }
+}
+1019929715={
+	name=Ana
+	female=yes
+	dynasty=1009990264
+	dna="bnamcjepgfp"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929707	#Guaritopa
+	1295.10.21={ birth=yes }
+	1379.7.18={ death=yes }
+}
+1019929716={
+	name=Pumi
+	dynasty=1009990264
+	dna="fabnidljnfk"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	father=1019929709	#Cusichaca
+	1295.12.23={ birth=yes }
+	1365.12.10={ death=yes }
+}
+1019929717={
+	name=Axomamma
+	female=yes
+	dynasty=1009990264
+	dna="abejcdlcffk"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929709	#Cusichaca
+	1301.2.14={ birth=yes }
+	1375.4.27={ death=yes }
+}
+1019929718={
+	name=Maiara
+	female=yes
+	dynasty=1009990264
+	dna="aoliedlgffk"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929709	#Cusichaca
+	1305.8.20={ birth=yes }
+	1363.2.5={ death=yes }
+}
+1019929719={
+	name=Sopa
+	dynasty=1009990264
+	dna="dfamicllkje"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	father=1019929716	#Pumi
+	1327.4.13={ birth=yes }
+	1411.1.13={ death=yes }
+}
+1019929720={
+	name=Tucuycuyche
+	dynasty=1009990264
+	dna="fadnilpjnfa"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	father=1019929716	#Pumi
+	1331.3.16={ birth=yes }
+	1389.5.12={ death=yes }
+}
+1019929721={
+	name=Kantuta
+	female=yes
+	dynasty=1009990264
+	dna="labhikljnfg"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929716	#Pumi
+	1337.2.19={ birth=yes }
+	1418.4.24={ death=yes }
+}
+1019929722={
+	name=Atoc
+	dynasty=1009990264
+	dna="fabkadpjnnk"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=4 learning=4
+	father=1019929716	#Pumi
+	1344.7.7={ birth=yes }
+	1429.4.22={ death=yes }
+}
+1019929723={
+	name=Anquimarca
+	dynasty=1009990264
+	dna="dfadeckecjd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=6 learning=7
+	father=1019929719	#Sopa
+	1352.8.16={ birth=yes }
+	1430.3.1={ death=yes }
+}
+1019929724={
+	name=Ana
+	female=yes
+	dynasty=1009990264
+	dna="dfamicioaje"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929719	#Sopa
+	1356.8.27={ birth=yes }
+	1403.9.2={ death=yes }
+}
+1019929725={
+	name=Cayo
+	dynasty=1009990264
+	dna="gmmdekkccjd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=7 learning=7
+	father=1019929723	#Anquimarca
+	1380.8.26={ birth=yes }
+	1451.12.29={ death=yes }
+}
+1019929726={
+	name=Anquimarca
+	dynasty=1009990264
+	dna="dfannciebed"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	father=1019929723	#Anquimarca
+	1384.8.16={ birth=yes }
+	1441.12.8={ death=yes }
+}
+1019929727={
+	name=Tomás
+	dynasty=1009990264
+	dna="dfamenhejjb"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	father=1019929723	#Anquimarca
+	1387.8.17={ birth=yes }
+	1457.10.22={ death=yes }
+}
+1019929728={
+	name=Kantuta
+	female=yes
+	dynasty=1009990264
+	dna="dflajcaeccd"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929723	#Anquimarca
+	1393.10.17={ birth=yes }
+	1452.10.3={ death=yes }
+}
+1019929729={
+	name=Mayta
+	dynasty=1009990264
+	dna="gkodealelfa"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	father=1019929723	#Anquimarca
+	1395.7.11={ birth=yes }
+	1480.11.23={ death=yes }
+}
+1019929730={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990264
+	dna="dmkaelpccmd"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929725	#Cayo
+	1411.9.26={ birth=yes }
+	1477.11.20={ death=yes }
+}
+1019929731={
+	name=Varanca
+	dynasty=1009990264
+	dna="kmhegkpccke"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=5 learning=5
+	father=1019929725	#Cayo
+	1414.9.15={ birth=yes }
+	1499.10.14={ death=yes }
+}
+1019929732={
+	name=Surandaman
+	dynasty=1009990264
+	dna="gmbgbekdebd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=6 learning=5
+	father=1019929725	#Cayo
+	1419.9.25={ birth=yes }
+	1473.5.14={ death=yes }
+}
+1019929733={
+	name=Usca
+	dynasty=1009990264
+	dna="lkkcenecagd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	father=1019929725	#Cayo
+	1424.7.2={ birth=yes }
+	1498.1.28={ death=yes }
+}
+1019929734={
+	name=Orco
+	dynasty=1009990265
+	dna="nihhkdjpmed"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=6 learning=8
+	719.5.15={ birth=yes }
+	798.6.3={ death=yes }
+}
+1019929735={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="nlbkkjmpmle"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929734	#Orco
+	742.5.17={ birth=yes }
+	795.10.5={ death=yes }
+}
+1019929736={
+	name=Kantuta
+	female=yes
+	dynasty=1009990265
+	dna="nahhgdjpged"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929734	#Orco
+	745.7.16={ birth=yes }
+	822.11.8={ death=yes }
+}
+1019929737={
+	name=Ana
+	female=yes
+	dynasty=1009990265
+	dna="mkhljmnhmed"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929734	#Orco
+	753.1.24={ birth=yes }
+	827.11.23={ death=yes }
+}
+1019929738={
+	name=Ruminavi
+	dynasty=1009990265
+	dna="iicpidjpeed"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	father=1019929734	#Orco
+	757.2.24={ birth=yes }
+	830.7.6={ death=yes }
+}
+1019929739={
+	name=Pascac
+	dynasty=1009990265
+	dna="iicailagied"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=6 learning=4
+	father=1019929738	#Ruminavi
+	777.3.20={ birth=yes }
+	857.6.26={ death=yes }
+}
+1019929740={
+	name=Maiara
+	female=yes
+	dynasty=1009990265
+	dna="jlcpdcjbeen"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929738	#Ruminavi
+	783.6.26={ birth=yes }
+	852.7.12={ death=yes }
+}
+1019929741={
+	name=Kantuta
+	female=yes
+	dynasty=1009990265
+	dna="ikghadbdmkd"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929738	#Ruminavi
+	788.3.24={ birth=yes }
+	849.8.9={ death=yes }
+}
+1019929742={
+	name=Axomamma
+	female=yes
+	dynasty=1009990265
+	dna="pfjjicjfned"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929738	#Ruminavi
+	791.11.5={ birth=yes }
+	873.1.14={ death=yes }
+}
+1019929743={
+	name=Katari
+	dynasty=1009990265
+	dna="ilkpidjpfag"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=5
+	father=1019929738	#Ruminavi
+	793.1.26={ birth=yes }
+	869.5.8={ death=yes }
+}
+1019929744={
+	name=Tunupa
+	dynasty=1009990265
+	dna="iiapiddgheb"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=5 learning=4
+	father=1019929739	#Pascac
+	810.11.21={ birth=yes }
+	888.12.1={ death=yes }
+}
+1019929745={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="ginpinckiej"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929739	#Pascac
+	816.3.6={ birth=yes }
+	881.7.25={ death=yes }
+}
+1019929746={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990265
+	dna="iiapcdpehed"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929744	#Tunupa
+	835.2.15={ birth=yes }
+	928.11.13={ death=yes }
+}
+1019929747={
+	name=Coyllas
+	dynasty=1009990265
+	dna="giapildgheb"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	father=1019929744	#Tunupa
+	839.6.21={ birth=yes }
+	899.5.2={ death=yes }
+}
+1019929748={
+	name=Maiara
+	female=yes
+	dynasty=1009990265
+	dna="ilapladoheb"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929744	#Tunupa
+	847.1.1={ birth=yes }
+	904.1.29={ death=yes }
+}
+1019929749={
+	name=Kantuta
+	female=yes
+	dynasty=1009990265
+	dna="fhapldkghnb"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929744	#Tunupa
+	851.10.9={ birth=yes }
+	918.11.14={ death=yes }
+}
+1019929750={
+	name=Katari
+	dynasty=1009990265
+	dna="aiapklfgoei"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	father=1019929747	#Coyllas
+	869.5.8={ birth=yes }
+	955.3.7={ death=yes }
+}
+1019929751={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990265
+	dna="gnhdihdkkcb"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929747	#Coyllas
+	872.3.20={ birth=yes }
+	942.9.1={ death=yes }
+}
+1019929752={
+	name=Taraque
+	dynasty=1009990265
+	dna="hhbldopcmeb"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=8 learning=7
+	father=1019929747	#Coyllas
+	878.12.8={ birth=yes }
+	946.6.6={ death=yes }
+}
+1019929753={
+	name=Sopa
+	dynasty=1009990265
+	dna="aiapcmdpoeg"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=5 
+	father=1019929750	#Katari
+	888.7.26={ birth=yes }
+	961.11.8={ death=yes }
+}
+1019929754={
+	name=Axomamma
+	female=yes
+	dynasty=1009990265
+	dna="fiaocpfloeb"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929750	#Katari
+	891.10.1={ birth=yes }
+	944.6.22={ death=yes }
+}
+1019929755={
+	name=Mayta
+	dynasty=1009990265
+	dna="poapllfgiej"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=6
+	father=1019929750	#Katari
+	897.10.26={ birth=yes }
+	968.7.31={ death=yes }
+}
+1019929756={
+	name=Tupac
+	dynasty=1009990265
+	dna="aiapknfmoel"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=4
+	father=1019929750	#Katari
+	903.4.3={ birth=yes }
+	982.7.18={ death=yes }
+}
+1019929757={
+	name=Maiara
+	female=yes
+	dynasty=1009990265
+	dna="jcapklfgbfe"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929750	#Katari
+	907.5.20={ birth=yes }
+	980.3.13={ death=yes }
+}
+1019929758={
+	name=Cayo
+	dynasty=1009990265
+	dna="apapcokpoen"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=8 learning=7
+	father=1019929753	#Sopa
+	908.3.22={ birth=yes }
+	950.6.17={ death=yes }
+}
+1019929759={
+	name=Katari
+	dynasty=1009990265
+	dna="piaochdgobm"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=8
+	father=1019929753	#Sopa
+	912.9.11={ birth=yes }
+	978.9.30={ death=yes }
+}
+1019929760={
+	name=Curiatao
+	dynasty=1009990265
+	dna="bipecenafhm"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=8
+	father=1019929753	#Sopa
+	916.9.1={ birth=yes }
+	976.12.14={ death=yes }
+}
+1019929761={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="aiincmdpoeg"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929753	#Sopa
+	921.2.21={ birth=yes }
+	992.8.27={ death=yes }
+}
+1019929762={
+	name=Sahuaraura
+	dynasty=1009990265
+	dna="aiganddnofg"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=5 learning=5
+	father=1019929753	#Sopa
+	923.6.27={ birth=yes }
+	1006.5.19={ death=yes }
+}
+1019929763={
+	name=Cayo
+	dynasty=1009990265
+	dna="ginpcogpfen"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=8 learning=8
+	father=1019929758	#Cayo
+	936.4.17={ birth=yes }
+	1022.4.18={ death=yes }
+}
+1019929764={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="apopcoopoed"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929758	#Cayo
+	939.10.25={ birth=yes }
+	1022.5.22={ death=yes }
+}
+1019929765={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="amapnlkppen"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929758	#Cayo
+	946.11.5={ birth=yes }
+	1009.5.29={ death=yes }
+}
+1019929766={
+	name=Cari
+	dynasty=1009990265
+	dna="apapfoipoen"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=8
+	father=1019929758	#Cayo
+	950.8.11={ birth=yes }
+	988.5.10={ death=yes }
+}
+1019929767={
+	name=Surandaman
+	dynasty=1009990265
+	dna="gnjpcogpmln"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=5
+	father=1019929763	#Cayo
+	961.3.19={ birth=yes }
+	1015.12.15={ death=yes }
+}
+1019929768={
+	name=Coyllas
+	dynasty=1009990265
+	dna="gmiccobolen"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=8
+	father=1019929763	#Cayo
+	969.8.18={ birth=yes }
+	1068.8.24={ death=yes }
+}
+1019929769={
+	name=Colla
+	dynasty=1009990265
+	dna="ginpdoapjcf"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=7 learning=5
+	father=1019929763	#Cayo
+	972.1.4={ birth=yes }
+	1058.12.11={ death=yes }
+}
+1019929770={
+	name=Maiara
+	female=yes
+	dynasty=1009990265
+	dna="gmjpmbgajln"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929767	#Surandaman
+	981.8.6={ birth=yes }
+	1052.3.3={ death=yes }
+}
+1019929771={
+	name=Kantuta
+	female=yes
+	dynasty=1009990265
+	dna="gbjpcoggmln"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929767	#Surandaman
+	985.7.12={ birth=yes }
+	1050.9.7={ death=yes }
+}
+1019929772={
+	name=Titu
+	dynasty=1009990265
+	dna="ppgpimgpflh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=8
+	father=1019929767	#Surandaman
+	990.2.25={ birth=yes }
+	1052.6.7={ death=yes }
+}
+1019929773={
+	name=Umu
+	dynasty=1009990265
+	dna="ebkfindpcfg"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	father=1019929772	#Titu
+	1016.5.3={ birth=yes }
+	1099.8.13={ death=yes }
+}
+1019929774={
+	name=Maiara
+	female=yes
+	dynasty=1009990265
+	dna="jkemiljpglk"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929772	#Titu
+	1019.3.23={ birth=yes }
+	1102.5.23={ death=yes }
+}
+1019929775={
+	name=Varanca
+	dynasty=1009990265
+	dna="npngidadolh"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	father=1019929772	#Titu
+	1025.6.10={ birth=yes }
+	1087.3.29={ death=yes }
+}
+1019929776={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="nbephhdfpfa"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929773	#Umu
+	1045.8.8={ birth=yes }
+	1088.2.15={ death=yes }
+}
+1019929777={
+	name=Ruminavi
+	dynasty=1009990265
+	dna="eoaflodpnff"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=7 learning=8
+	father=1019929773	#Umu
+	1051.1.1={ birth=yes }
+	1137.10.2={ death=yes }
+}
+1019929778={
+	name=Cuyuchi
+	dynasty=1009990265
+	dna="pbofidjjcfm"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	father=1019929773	#Umu
+	1053.11.27={ birth=yes }
+	1137.6.2={ death=yes }
+}
+1019929779={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="ceciinfpcag"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929773	#Umu
+	1057.2.9={ birth=yes }
+	1120.4.19={ death=yes }
+}
+1019929780={
+	name=Kantuta
+	female=yes
+	dynasty=1009990265
+	dna="egdfbkdphcf"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929773	#Umu
+	1061.6.14={ birth=yes }
+	1130.8.22={ death=yes }
+}
+1019929781={
+	name=Zambiza
+	dynasty=1009990265
+	dna="hbcoiodplid"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	father=1019929773	#Umu
+	1064.2.6={ birth=yes }
+	1120.2.18={ death=yes }
+}
+1019929782={
+	name=Yamqui
+	dynasty=1009990265
+	dna="egaflodpkff"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=4 learning=5
+	father=1019929777	#Ruminavi
+	1080.12.2={ birth=yes }
+	1164.12.9={ death=yes }
+}
+1019929783={
+	name=Axomamma
+	female=yes
+	dynasty=1009990265
+	dna="eolkldgpnbg"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929777	#Ruminavi
+	1083.8.27={ birth=yes }
+	1127.4.17={ death=yes }
+}
+1019929784={
+	name=Tucuycuyche
+	dynasty=1009990265
+	dna="noafhmkpgff"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=6 learning=7
+	father=1019929777	#Ruminavi
+	1088.1.14={ birth=yes }
+	1156.1.28={ death=yes }
+}
+1019929785={
+	name=Katari
+	dynasty=1009990265
+	dna="joaflbohkic"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=8 learning=4
+	father=1019929777	#Ruminavi
+	1092.9.25={ birth=yes }
+	1150.7.15={ death=yes }
+}
+1019929786={
+	name=Maiara
+	female=yes
+	dynasty=1009990265
+	dna="goaclodgnhf"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929777	#Ruminavi
+	1096.1.10={ birth=yes }
+	1156.2.8={ death=yes }
+}
+1019929787={
+	name=Tupac
+	dynasty=1009990265
+	dna="djafiogplfn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=4 learning=7
+	father=1019929782	#Yamqui
+	1112.2.12={ birth=yes }
+	1186.11.25={ death=yes }
+}
+1019929788={
+	name=Katari
+	dynasty=1009990265
+	dna="jglclpdpkai"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=7
+	father=1019929782	#Yamqui
+	1119.7.19={ birth=yes }
+	1183.1.15={ death=yes }
+}
+1019929789={
+	name=Anquimarca
+	dynasty=1009990265
+	dna="egkggoippff"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=8 learning=5
+	father=1019929782	#Yamqui
+	1126.7.8={ birth=yes }
+	1209.10.7={ death=yes }
+}
+1019929790={
+	name=Ana
+	female=yes
+	dynasty=1009990265
+	dna="hjjgihkanji"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929787	#Tupac
+	1142.8.23={ birth=yes }
+	1229.6.8={ death=yes }
+}
+1019929791={
+	name=Kantuta
+	female=yes
+	dynasty=1009990265
+	dna="eeafnognlfn"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929787	#Tupac
+	1146.1.26={ birth=yes }
+	1214.9.4={ death=yes }
+}
+1019929792={
+	name=Kantuta
+	female=yes
+	dynasty=1009990265
+	dna="oanjoobplfg"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929787	#Tupac
+	1150.8.25={ birth=yes }
+	1217.6.13={ death=yes }
+}
+1019929793={
+	name=Coyllas
+	dynasty=1009990265
+	dna="ijofioghljn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	father=1019929787	#Tupac
+	1155.2.5={ birth=yes }
+	1222.5.7={ death=yes }
+}
+1019929794={
+	name=Pascac
+	dynasty=1009990265
+	dna="ajafeogigdn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=8 learning=7
+	father=1019929787	#Tupac
+	1158.2.11={ birth=yes }
+	1212.2.1={ death=yes }
+}
+1019929795={
+	name=Atoc
+	dynasty=1009990265
+	dna="ehaefogcpgn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=7
+	father=1019929787	#Tupac
+	1163.3.22={ birth=yes }
+	1241.10.4={ death=yes }
+}
+1019929796={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990265
+	dna="ihaoodgljfn"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929787	#Tupac
+	1168.8.11={ birth=yes }
+	1234.8.11={ death=yes }
+}
+1019929797={
+	name=Cusichaca
+	dynasty=1009990265
+	dna="ickfiofhlan"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=4 learning=7
+	father=1019929793	#Coyllas
+	1182.10.20={ birth=yes }
+	1253.5.21={ death=yes }
+}
+1019929798={
+	name=Villac
+	dynasty=1009990265
+	dna="nkofiafhljn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=8 
+	father=1019929793	#Coyllas
+	1189.10.23={ birth=yes }
+	1261.4.13={ death=yes }
+}
+1019929799={
+	name=Pumi
+	dynasty=1009990265
+	dna="ijoailbdlnn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=7 learning=7
+	father=1019929793	#Coyllas
+	1193.10.4={ birth=yes }
+	1234.2.27={ death=yes }
+}
+1019929800={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="oohfilfgban"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929797	#Cusichaca
+	1209.2.3={ birth=yes }
+	1265.4.10={ death=yes }
+}
+1019929801={
+	name=Capac
+	dynasty=1009990265
+	dna="mnkfinlhlfb"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	father=1019929797	#Cusichaca
+	1214.11.15={ birth=yes }
+	1277.10.25={ death=yes }
+}
+1019929802={
+	name=Capac
+	dynasty=1009990265
+	dna="ickjiceplkp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	father=1019929797	#Cusichaca
+	1217.2.25={ birth=yes }
+	1301.6.14={ death=yes }
+}
+1019929803={
+	name=Sopa
+	dynasty=1009990265
+	dna="icmelofonfn"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=8 
+	father=1019929797	#Cusichaca
+	1220.4.25={ birth=yes }
+	1284.1.1={ death=yes }
+}
+1019929804={
+	name=Kantuta
+	female=yes
+	dynasty=1009990265
+	dna="camfdofnggf"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929797	#Cusichaca
+	1226.11.21={ birth=yes }
+	1305.10.15={ death=yes }
+}
+1019929805={
+	name=Ana
+	female=yes
+	dynasty=1009990265
+	dna="mkkcenehkfb"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929801	#Capac
+	1236.6.4={ birth=yes }
+	1305.5.19={ death=yes }
+}
+1019929806={
+	name=Titu
+	dynasty=1009990265
+	dna="gkffinlahfb"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	father=1019929801	#Capac
+	1240.9.7={ birth=yes }
+	1310.4.14={ death=yes }
+}
+1019929807={
+	name=Ana
+	female=yes
+	dynasty=1009990265
+	dna="alnfinlhifg"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929801	#Capac
+	1244.5.3={ birth=yes }
+	1299.1.9={ death=yes }
+}
+1019929808={
+	name=Cuyuchi
+	dynasty=1009990265
+	dna="mfbfiolhlki"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=4 learning=5
+	father=1019929801	#Capac
+	1250.3.4={ birth=yes }
+	1320.4.25={ death=yes }
+}
+1019929809={
+	name=Titu
+	dynasty=1009990265
+	dna="akmppnlhlgl"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=4 learning=5
+	father=1019929801	#Capac
+	1256.12.16={ birth=yes }
+	1318.7.14={ death=yes }
+}
+1019929810={
+	name=Maiara
+	female=yes
+	dynasty=1009990265
+	dna="pnabgnlhlib"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929801	#Capac
+	1260.10.3={ birth=yes }
+	1320.12.24={ death=yes }
+}
+1019929811={
+	name=Maiara
+	female=yes
+	dynasty=1009990265
+	dna="gcfjinlahfb"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929806	#Titu
+	1269.10.15={ birth=yes }
+	1322.11.12={ death=yes }
+}
+1019929812={
+	name=Coyllas
+	dynasty=1009990265
+	dna="jbffiadahkd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=5
+	father=1019929806	#Titu
+	1277.9.24={ birth=yes }
+	1361.9.18={ death=yes }
+}
+1019929813={
+	name=Tunupa
+	dynasty=1009990265
+	dna="ckpaidoahfb"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=4 learning=4
+	father=1019929806	#Titu
+	1283.7.21={ birth=yes }
+	1364.3.19={ death=yes }
+}
+1019929814={
+	name=Huachuri
+	dynasty=1009990265
+	dna="llfaiadlekd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=4 learning=8
+	father=1019929812	#Coyllas
+	1299.5.16={ birth=yes }
+	1368.6.24={ death=yes }
+}
+1019929815={
+	name=Tunupa
+	dynasty=1009990265
+	dna="dbefhadaoke"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=7 learning=4
+	father=1019929812	#Coyllas
+	1303.10.6={ birth=yes }
+	1379.5.9={ death=yes }
+}
+1019929816={
+	name=Zambiza
+	dynasty=1009990265
+	dna="jljfoakamjd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=6
+	father=1019929812	#Coyllas
+	1309.9.12={ birth=yes }
+	1397.7.19={ death=yes }
+}
+1019929817={
+	name=Axomamma
+	female=yes
+	dynasty=1009990265
+	dna="blmfiaekhko"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929812	#Coyllas
+	1314.1.25={ birth=yes }
+	1393.6.28={ death=yes }
+}
+1019929818={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="jdlfpadchkd"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929812	#Coyllas
+	1321.1.25={ birth=yes }
+	1368.8.29={ death=yes }
+}
+1019929819={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990265
+	dna="ehlfbjdahld"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929812	#Coyllas
+	1324.8.14={ birth=yes }
+	1390.12.27={ death=yes }
+}
+1019929820={
+	name=Kantuta
+	female=yes
+	dynasty=1009990265
+	dna="aehegpaalci"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929812	#Coyllas
+	1327.9.25={ birth=yes }
+	1381.11.14={ death=yes }
+}
+1019929821={
+	name=Capac
+	dynasty=1009990265
+	dna="mlfaiohiefd"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=7 learning=7
+	father=1019929814	#Huachuri
+	1326.9.15={ birth=yes }
+	1381.10.21={ death=yes }
+}
+1019929822={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="loflnmdbekd"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929814	#Huachuri
+	1329.2.22={ birth=yes }
+	1382.9.22={ death=yes }
+}
+1019929823={
+	name=Axomamma
+	female=yes
+	dynasty=1009990265
+	dna="ilfliadlgnd"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929814	#Huachuri
+	1333.4.20={ birth=yes }
+	1398.5.13={ death=yes }
+}
+1019929824={
+	name=Ana
+	female=yes
+	dynasty=1009990265
+	dna="lifaoadlfkp"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929814	#Huachuri
+	1337.6.4={ birth=yes }
+	1428.4.30={ death=yes }
+}
+1019929825={
+	name=Inti
+	dynasty=1009990265
+	dna="lpfadadfjnp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	father=1019929814	#Huachuri
+	1342.11.11={ birth=yes }
+	1403.3.21={ death=yes }
+}
+1019929826={
+	name=Axomamma
+	female=yes
+	dynasty=1009990265
+	dna="hjoamhdlkid"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929814	#Huachuri
+	1346.11.16={ birth=yes }
+	1413.2.23={ death=yes }
+}
+1019929827={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="ldddiadlekd"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929814	#Huachuri
+	1350.12.17={ birth=yes }
+	1422.11.15={ death=yes }
+}
+1019929828={
+	name=Pascac
+	dynasty=1009990265
+	dna="mljciohiadp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=7 learning=7
+	father=1019929821	#Capac
+	1358.8.9={ birth=yes }
+	1416.1.22={ death=yes }
+}
+1019929829={
+	name=Axomamma
+	female=yes
+	dynasty=1009990265
+	dna="lbhkmohabfd"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929821	#Capac
+	1362.7.23={ birth=yes }
+	1434.7.5={ death=yes }
+}
+1019929830={
+	name=Axomamma
+	female=yes
+	dynasty=1009990265
+	dna="iapaiogiefd"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929821	#Capac
+	1367.6.21={ birth=yes }
+	1448.3.6={ death=yes }
+}
+1019929831={
+	name=Ninan
+	dynasty=1009990265
+	dna="blfaighield"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=6
+	father=1019929821	#Capac
+	1373.12.1={ birth=yes }
+	1441.12.27={ death=yes }
+}
+1019929832={
+	name=Nina
+	female=yes
+	dynasty=1009990265
+	dna="mljciahghdc"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929828	#Pascac
+	1380.10.11={ birth=yes }
+	1450.10.24={ death=yes }
+}
+1019929833={
+	name=Guaritopa
+	dynasty=1009990265
+	dna="iljkafacnlp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=4 learning=8
+	father=1019929828	#Pascac
+	1383.11.25={ birth=yes }
+	1455.9.11={ death=yes }
+}
+1019929834={
+	name=Cari
+	dynasty=1009990265
+	dna="cpfihelanmo"
+	culture=aimara religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=6 learning=8
+	father=1019929833	#Guaritopa
+	1408.7.11={ birth=yes }
+	1483.6.8={ death=yes }
+}
+1019929835={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990265
+	dna="bljkabgjhci"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929833	#Guaritopa
+	1412.12.3={ birth=yes }
+	1483.11.15={ death=yes }
+}
+1019929836={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990265
+	dna="aejkjffgolc"
+	culture=aimara religion=tiwanakan_pagan
+	father=1019929833	#Guaritopa
+	1419.2.14={ birth=yes }
+	1488.11.9={ death=yes }
+}
+1019929837={
+	name=Zambiza
+	dynasty=1009990265
+	dna="hljfammfnfp"
+	culture=aimara religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=5 learning=6
+	father=1019929833	#Guaritopa
+	1426.1.15={ birth=yes }
+	1499.11.29={ death=yes }
+}

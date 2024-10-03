@@ -1,0 +1,280 @@
+targetted_decisions = { 
+convert_shinto_branch = {
+		only_playable = yes
+		
+		filter = self
+		ai_target_filter = self
+		ai = no
+		
+		potential = {
+			is_playable = yes
+			is_adult = yes
+			religion = nihon_shinto
+		}
+		allow = {
+			NOT = { trait = zealous }
+			prestige = 50
+			custom_tooltip = {
+				text = indian_has_not_converted
+				NOT = { has_character_flag = india_branch_converted }
+			}
+		}
+		effect = {
+			set_character_flag = india_branch_converted
+			prestige = -50
+			piety = 25
+				character_event = { id = japanevents.2 } # Choose branch
+			
+		
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	ask_harakiri = {
+		only_playable = yes
+		ai = no
+		from_potential = {
+			is_adult = yes
+			prisoner = no
+			NOT = { trait = incapable }
+			religion = nihon_shinto
+		}
+		potential = {
+			is_adult = yes
+			religion = nihon_shinto
+			de_facto_liege = FROM
+		}
+		allow = {
+			OR = {
+			AND = {
+			real_tier = BARON
+			FROM = {
+			piety = 200
+			}
+			}
+			AND = {
+			real_tier = COUNT
+			FROM = {
+			piety = 400
+		    }
+			}
+			AND = {
+			real_tier = DUKE
+			FROM = {
+			piety = 800
+			}
+			}
+			AND = {
+			real_tier = KING
+			FROM = {
+			piety = 1600
+			}
+			}
+			}
+				NOT = { has_character_flag = asked_commit_harakiri }
+		}
+		effect = {
+			set_character_flag = asked_commit_harakiri
+			if = {
+				limit = {
+				real_tier = BARON
+				}
+				FROM = {
+				piety = -200
+				}
+				}
+				if = {
+				limit = {
+			  real_tier = COUNT
+				}
+				FROM = {
+				piety = -400
+				}
+				}
+				if = {
+				limit = {
+				real_tier = DUKE	
+				}
+				FROM = {
+				piety = -800
+				}
+				}
+				if = {
+				limit = {
+				real_tier = KING 
+				}
+				FROM = {
+				piety = -1600
+				}
+				}
+				character_event = { id = japanevents.6 } # commit harakiri
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0
+			modifier = {
+			factor = 0.01
+			is_friend = FROM 
+			}	
+			modifier = {
+			factor = 2
+			NOT = { piety > 0 }
+					} 
+			modifier = {
+			factor = 2
+			is_foe = FROM
+			}
+			modifier = {
+			factor = 2
+			relative_power_to_liege > 1.5 
+			}	
+			modifier = {
+			factor = 2
+			reverse_opinion = { who = FROM  value < -50 }
+			}
+					}
+	}
+	ask_total_harakiri = {
+		only_playable = yes
+		ai = no
+		from_potential = {
+			is_adult = yes
+			prisoner = no
+			NOT = { trait = incapable }
+			religion = nihon_shinto
+		}
+		potential = {
+			is_adult = yes
+			religion = nihon_shinto
+			de_facto_liege = FROM
+		}
+		allow = {
+			OR = {
+			AND = {
+			real_tier = BARON
+			FROM = {
+			piety = 400
+			}
+			}
+			AND = {
+			real_tier = COUNT
+			FROM = {
+			piety = 800
+		    }
+			}
+			AND = {
+			real_tier = DUKE
+			FROM = {
+			piety = 1600
+			}
+			}
+			AND = {
+			real_tier = KING
+			FROM = {
+			piety = 3200
+			}
+			}
+			}
+				NOT = { has_character_flag = asked_commit_harakiri }
+		}
+		effect = {
+			set_character_flag = asked_commit_harakiri
+				if = {
+				limit = {
+				real_tier = BARON
+				}
+				FROM = {
+				piety = -400
+				}
+				}
+				if = {
+				limit = {
+			  real_tier = COUNT
+				}
+				FROM = {
+				piety = -800
+				}
+				}
+				if = {
+				limit = {
+				real_tier = DUKE	
+				}
+				FROM = {
+				piety = -1600
+				}
+				}
+				if = {
+				limit = {
+				real_tier = KING 
+				}
+				FROM = {
+				piety = -3200
+				}
+				}
+				character_event = { id = japanevents.7 } # commit total harakiri
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+			factor = 0.01
+			is_friend = FROM 
+			}	
+			modifier = {
+			factor = 2
+			NOT = { piety > 0 }
+					} 
+			modifier = {
+			factor = 2
+			is_foe = FROM
+			}
+			modifier = {
+			factor = 2
+			relative_power_to_liege > 1.5 
+			}	
+			modifier = {
+			factor = 2
+			reverse_opinion = { who = FROM  value < -50 }
+			}
+					}
+	}
+	retire_cloister = {
+		only_playable = yes
+		filter = self
+		ai_target_filter = self
+		ai = no
+		potential = {
+			ruled_years >= 5	
+			is_playable = yes
+			is_adult = yes
+		    has_character_flag = emperor_of_japan
+		}
+		allow = {
+			piety >= 100
+			age >= 40
+			ROOT = {
+			current_heir = {
+			age < 30
+			}
+			}
+		}
+		effect = {
+		set_character_flag = wants_to_retire
+		character_event = { id = japanevents.10 } #retire event
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	}

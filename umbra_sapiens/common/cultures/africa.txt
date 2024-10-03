@@ -1,0 +1,2891 @@
+berberic = {
+	graphical_cultures = { muslimgfx }
+	
+	guanchinet = { 
+		graphical_cultures = { muslimgfx }
+		
+		color = { 0.3 0.2 0.1 }
+
+		male_names = {
+			Guanarigato Betzenuriga Vinque Chindia Binicherque Archinife Tamanca Bencomo Guanareme Betancaice Acaimo_Acaimo Acaymo_Acaimo Adjona Añaterve Beneharo Pelicar
+			Pelinor Romen Tegueste Maninidra Adargoma Doramas Tanausú Atanausu Tinguaro Chimechia Achimenchia Ache Ahuago Alby Altaha Asche Atche Atchen
+			Avago Chemira Dafra Guardafía Mahan Mahey Saco Tiguafaya Zonzamas Amen Alzanxiquian Afaro Agonec Anapa Ar Aran Ataman Banot Benesmen Benichen
+			Bicararo Cancha Cel Chucar Cichiciquizo Coran Coraja Cuca Gofio Guan Guanamana Amana Guarirari Guijon Guirre Jarco Machet Mocan N-amet Rimo
+			Petut Relac Reste Sahur Sahec Samel Tabona Tagorar Tamarco Tanaga Tagaire Teyde Van Xarco Xerax Zahana Zahori Zaxi Sani Quian Harco Sunta
+			Tinerfe Bentor
+		}
+		female_names = {
+			Yaiza Hadaza Isora Aniagua Dafra Faina Fayna Ico Teguise Timanfaya Achimayec Ahof Ahorer Ahico Aguere Ana Ara Chacarquen Chafa Chafana Chamato
+			Cucaha Efiai Guaya Hacichei Hari Harimaguada Haro Hana Haya Maguada Magath Manja Maja Manse Mayec Morangana N-azet Nun O-che Ofiac Quebehi Sole
+			Sabagua Sahana Tabayba Tagasaste Taginaste Taoro Orotava Tara Taraire Tea Xerax Yoya Zucasa Zonfa Hirahi
+		}
+
+		modifier = default_culture_modifier
+	}
+}
+bantu = {
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+	wangozi = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.2 0.7 0.3 }
+
+		male_names = {
+		Abidemi Abimbola Abiodun Abioye Aboubacar Abubakar Ade Adebayo Adebola Adebowale Adedayo Adegoke Adetokunbo Adisa 
+		Afolabi Akachi Akpofure Akuchi Alemayehu Alinafe Amadi Amadi Ameqran Anan Andile Awotwi Ayo Ayodele Ayokunle Ayomide 
+		Ayotunde Azubuike Baako Babajide Babatunde Bamidele Berhanu Berko Boipelo Boitumelo Bongani Chi Chibueze Chibuike 
+		Chibuzo Chidi Chidiebere Chidiebube Chidiegwu Chidike Chidubem Chiemeka Chifundo Chifuniro Chijindum Chike Chikelu 
+		Chikere Chikondi Chikumbutso Chima Chimwemwe Chinedu Chinonso Chinwe Chinweike Chinwendu Chinweuba Chioma Chisomo 
+		Chiumbo Chiyembekezo Chizoba Chuks Chukwudi Chukwuemeka Chukwuma Dakarai Dalitso Dayo Dejen Desta Dubaku Dumisani 
+		Efemena Ejiro Ejiroghene Ekene Ekenedilichukwu Ekundayo Ekwueme Emeka Emem Eniola Enitan Enu Enyinnaya Eseoghene 
+		Farai Faraji Fatsani Femi Folami Fungai Ganizani Gwandoya Idir Idowu Ikenna Imamu Imani Ime Isingoma Itri Itumeleng 
+		Izem Jelani Jengo Jumaane Katlego Kato Kayin Kayode Kefilwe Kgosi Khamisi Kibwe Kirabo Kobina Vabena Kofi Kojo Vadwo 
+		Kondwani Kumbukani Kwabena Kwadwo Kwaku Kwame Kwasi Kweku Kwesi Lanre Lekan Limbani 
+		Limbikani Madalitso Makena Mamadou Masamba Masozi Mavuto Mayamiko Mayeso Melisizwe Mosi Mphatso Mtendere Mudiwa 
+		Munashe Mwenye Ndidi Neo Ngozi Nkemdilim Nkosana Nkruma Nnamdi Nsia Nsonowa Nthanda Obi Ochieng Odhiambo Oghenekaro 
+		Oghenekevwe Oghenero Okoro Olabode Olamilekan Olanrewaju Oluchi Olufemi Olufunke Olufunmilayo Olufunmilola Olujimi 
+		Olukayode Olumide Oluwafemi Oluwafunmilayo Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi 
+		Omobolanle Onyekachi Onyekachukwu Opeyemi i Otieno Oyibo Paki Pemphero Pilirani Refilwe Rudo Rutendo Sefu Simba 
+		Sipho Sithembile Sizwe Tadala Tafadzwa Tafari Takondwa Tamandani Tamrat Taonga Tatenda Tau Temitope Tendai Tendaji 
+		Tewodros Thabo Themba Thoko Thokozani Thulani Tichaona Tinashe Tiyamike Tumelo Udo Uduak Ufuoma Umukoro Unathi 
+		Uzochi Uzoma Wasswa Wekesa Xolani Yamikani Yared Yaw Zephania Zuberi 
+	}
+	female_names = {
+		Mavuto Mayamiko Mayeso Mbali Mchumba Meklit Mirembe Mojisola Monifa Mphatso Mtendere Mudiwa Munashe Mwanajuma Nakato 
+		Ndidi Neo Ngozi Nia Nkechi Nkechinyere Nkemdilim Nkiru Nkiruka Nkosazana Nkruma Nneka Nnenna Nnenne Nomusa Nontle 
+		Nosipho Nosizwe Nsia Nsonowa Nthanda Ntombi Nuru Nwanneka Nyah Nyarai Ogechi Ogechukwukama Oghenekaro Oghenekevwe 
+		Oghenero Olamide Olayinka Olubunmi Oluchi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo Oluwakanyinsola 
+		Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Onyeka Onyekachi Onyekachukwu Opeyemi 
+		Oyibo Pemphero Pilirani Refilwe Rudo Rufaro Rumbidzai Rutendo Sanaa Sauda Seble Sekai Sethunya Sibonakaliso Simisola 
+		Sithembile Ssanyu Subira Tadala Tafadzwa Tajeddigt Takondwa Tamandani Taonga Tapiwa Tariro Tatenda Temitope Tendai 
+		Thandiwe Thema Themba Thoko Thokozani Thulile Tidir Tifawt Tinashe Titilayo Titrit Tiyamike Tsholofelo Tumelo Udo 
+		Uduak Ufuoma Unathi Uzoma Werknesh Worknesh Yaa Yamikani Yejide Yewande Zola Zuri
+		Abena Abeni Aberash Abimbola Abiodun Achieng Adaeze Adanna Adannaya Ade Adebola Adebowale Adedayo Adetokunbo 
+		Adhiambo Adjoa Adwoa Afia Afua Akachi Akinyi Akosua Akpofure Akua Akuchi Alaba Alemayehu Alinafe Ama Amaka Amara 
+		Amarachi Anan Añuli Asha Aisha Atieno Awiti Awotwi Ayo Ayodele Ayomide Ayotunde Baako Babirye Boipelo Boitumelo 
+		Bolanle Bosede  Chausiku Chi Chiamaka Chibueze Chibuike Chibuzo Chichi Chidi Chidiebere Chidiebube Chidiegwu 
+		Chidimma Chifundo Chifuniro Chijindum Chika Chike Chikelu Chikere Chikondi Chikumbutso Chimwemwe Chinasa Chinedu 
+		Chinonso Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere Chioma Chipo Chisomo Chiyembekezo Chizoba Dada 
+		Dalitso Dayo Desta Dikeledi Dubaku Dumisani Ebele Efe Efemena Efua Ejiro Ejiroghene Ekene Ekenedilichukwu Ekua 
+		Ekundayo Emem Eniola Enitan Enu Eseoghene Eshe Esi Farai Fatsani Folami Fumnanya Funanya Fungai Furaha Ganizani 
+		Gbemisola Hiwot Hlengiwe Idowu Ife Ige Imani Ime Itumeleng Kagiso Kahina Kamaria Katlego Kayin Kefilwe Kirabo 
+		Kondwani Kumbukani Kunto Lerato Lesedi Limbani Limbikani Lindiwe Lumusi Lungile Madalitso Makena Manyara Marjani 
+		Masego Masozi 
+	}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	swahili = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.25 0.75 0.35 }
+
+		male_names = {
+		Abidemi Abimbola Abiodun Abioye Aboubacar Abubakar Ade Adebayo Adebola Adebowale Adedayo Adegoke Adetokunbo Adisa 
+		Afolabi Akachi Akpofure Akuchi Alemayehu Alinafe Amadi Amadi Ameqran Anan Andile Awotwi Ayo Ayodele Ayokunle Ayomide 
+		Ayotunde Azubuike Baako Babajide Babatunde Bamidele Berhanu Berko Boipelo Boitumelo Bongani Chi Chibueze Chibuike 
+		Chibuzo Chidi Chidiebere Chidiebube Chidiegwu Chidike Chidubem Chiemeka Chifundo Chifuniro Chijindum Chike Chikelu 
+		Chikere Chikondi Chikumbutso Chima Chimwemwe Chinedu Chinonso Chinwe Chinweike Chinwendu Chinweuba Chioma Chisomo 
+		Chiumbo Chiyembekezo Chizoba Chuks Chukwudi Chukwuemeka Chukwuma Dakarai Dalitso Dayo Dejen Desta Dubaku Dumisani 
+		Efemena Ejiro Ejiroghene Ekene Ekenedilichukwu Ekundayo Ekwueme Emeka Emem Eniola Enitan Enu Enyinnaya Eseoghene 
+		Farai Faraji Fatsani Femi Folami Fungai Ganizani Gwandoya Idir Idowu Ikenna Imamu Imani Ime Isingoma Itri Itumeleng 
+		Izem Jelani Jengo Jumaane Katlego Kato Kayin Kayode Kefilwe Kgosi Khamisi Kibwe Kirabo Kobina Vabena Kofi Kojo Vadwo 
+		Kondwani Kumbukani Kwabena Kwadwo Kwaku Kwame Kwasi Kweku Kwesi Lanre Lekan Limbani 
+		Limbikani Madalitso Makena Mamadou Masamba Masozi Mavuto Mayamiko Mayeso Melisizwe Mosi Mphatso Mtendere Mudiwa 
+		Munashe Mwenye Ndidi Neo Ngozi Nkemdilim Nkosana Nkruma Nnamdi Nsia Nsonowa Nthanda Obi Ochieng Odhiambo Oghenekaro 
+		Oghenekevwe Oghenero Okoro Olabode Olamilekan Olanrewaju Oluchi Olufemi Olufunke Olufunmilayo Olufunmilola Olujimi 
+		Olukayode Olumide Oluwafemi Oluwafunmilayo Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi 
+		Omobolanle Onyekachi Onyekachukwu Opeyemi i Otieno Oyibo Paki Pemphero Pilirani Refilwe Rudo Rutendo Sefu Simba 
+		Sipho Sithembile Sizwe Tadala Tafadzwa Tafari Takondwa Tamandani Tamrat Taonga Tatenda Tau Temitope Tendai Tendaji 
+		Tewodros Thabo Themba Thoko Thokozani Thulani Tichaona Tinashe Tiyamike Tumelo Udo Uduak Ufuoma Umukoro Unathi 
+		Uzochi Uzoma Wasswa Wekesa Xolani Yamikani Yared Yaw Zephania Zuberi 
+		Husayn Muhammad Sulayman Ahmad Hasan Said Abd Allah Ali Ibrahim al-Fudail "Abu Bakr" Sabo al-Hasan 
+		Munganaye Yûsuf Bwana Mkuu Mas'ûd Bwana Tamu Fumo Madi Makame Mwinyi Ahmad Saif Nasr Salih Fumo Luti Bwana 
+		Waziri Bwana Shaykh Fumo Bakari Fumo Umar Khamis Rashid Mwinyi Hasan Kombo Ngwale Ngwacani Athmani Alawi 
+		Twakali Janfar Muksedi
+	}
+	female_names = {
+		Mavuto Mayamiko Mayeso Mbali Mchumba Meklit Mirembe Mojisola Monifa Mphatso Mtendere Mudiwa Munashe Mwanajuma Nakato 
+		Ndidi Neo Ngozi Nia Nkechi Nkechinyere Nkemdilim Nkiru Nkiruka Nkosazana Nkruma Nneka Nnenna Nnenne Nomusa Nontle 
+		Nosipho Nosizwe Nsia Nsonowa Nthanda Ntombi Nuru Nwanneka Nyah Nyarai Ogechi Ogechukwukama Oghenekaro Oghenekevwe 
+		Oghenero Olamide Olayinka Olubunmi Oluchi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo Oluwakanyinsola 
+		Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Onyeka Onyekachi Onyekachukwu Opeyemi 
+		Oyibo Pemphero Pilirani Refilwe Rudo Rufaro Rumbidzai Rutendo Sanaa Sauda Seble Sekai Sethunya Sibonakaliso Simisola 
+		Sithembile Ssanyu Subira Tadala Tafadzwa Tajeddigt Takondwa Tamandani Taonga Tapiwa Tariro Tatenda Temitope Tendai 
+		Thandiwe Thema Themba Thoko Thokozani Thulile Tidir Tifawt Tinashe Titilayo Titrit Tiyamike Tsholofelo Tumelo Udo 
+		Uduak Ufuoma Unathi Uzoma Werknesh Worknesh Yaa Yamikani Yejide Yewande Zola Zuri
+		Abena Abeni Aberash Abimbola Abiodun Achieng Adaeze Adanna Adannaya Ade Adebola Adebowale Adedayo Adetokunbo 
+		Adhiambo Adjoa Adwoa Afia Afua Akachi Akinyi Akosua Akpofure Akua Akuchi Alaba Alemayehu Alinafe Ama Amaka Amara 
+		Amarachi Anan Añuli Asha Aisha Atieno Awiti Awotwi Ayo Ayodele Ayomide Ayotunde Baako Babirye Boipelo Boitumelo 
+		Bolanle Bosede  Chausiku Chi Chiamaka Chibueze Chibuike Chibuzo Chichi Chidi Chidiebere Chidiebube Chidiegwu 
+		Chidimma Chifundo Chifuniro Chijindum Chika Chike Chikelu Chikere Chikondi Chikumbutso Chimwemwe Chinasa Chinedu 
+		Chinonso Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere Chioma Chipo Chisomo Chiyembekezo Chizoba Dada 
+		Dalitso Dayo Desta Dikeledi Dubaku Dumisani Ebele Efe Efemena Efua Ejiro Ejiroghene Ekene Ekenedilichukwu Ekua 
+		Ekundayo Emem Eniola Enitan Enu Eseoghene Eshe Esi Farai Fatsani Folami Fumnanya Funanya Fungai Furaha Ganizani 
+		Gbemisola Hiwot Hlengiwe Idowu Ife Ige Imani Ime Itumeleng Kagiso Kahina Kamaria Katlego Kayin Kefilwe Kirabo 
+		Kondwani Kumbukani Kunto Lerato Lesedi Limbani Limbikani Lindiwe Lumusi Lungile Madalitso Makena Manyara Marjani 
+		Masego Masozi 
+		"Mwana Mwema" Fatima
+	}
+
+		parent=wangozi
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	fang = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.55 0.75 0.22 }
+
+			male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	zambian = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.2 0.3 0.8 }
+
+		male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	gabonese = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.35 0.25 0.6 }
+
+			male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	sena = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.4 0.2 0.9 }
+
+		male_names = {
+			Baba Baroma Biria Changamire Chenjerai Chikuyo Chipinduka Chisi Chivere Dambanyika Dehwe Dzingai Gatsi Goridhe Hatitye Hosho Itai Iwe Jongwe Kamharapasu Kumbirai Kuseka
+			Matope Mavura Mbada Mhuru Moyo Muchaneta Musafare Negomo Neshangwe Nhamo Nyahuma Nyakambira Nyamaende Nyambu Nyatsimba Nyatsusu Nyashadzashe Nyenyedzi Samatambira Simba
+			Siti Takudzwa Tapiwa Tashongedzwa Tateguru Taurai Tavonga Tazvitya Tendekai Tichafara Tichaona Tichayana Tinaye Tinodaishe Tsungirirai Twiza Zivanai
+			Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			Anokosha Chenesai Chidiwa Chidochashe Danai Kudzaishe Mai Mangwanani Meso Mukaddzi Munashe Mutapa Ndanatsei Ngaakudzwe Nomusa Nyika Onai
+			Pepukai Revesai Rindai Rudairo Rutendo Ruwadzano Sadzamari Tanyaradzwa Tapedza Taropafadzwa Vimbiso
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	karanga = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.2 0.3 0.7 }
+
+		male_names = {
+			Mbire Matope Mavura Mukombero Changamire Kakuyo Neshangwe Chivere Chirisamhuru Gatsi Nyambo Siti 
+			Kamborapasu Dombo Chinkura Nechisake Nechagadzike Mambo Rupanadamananga Gumboremvura Toloa Matuzvianye 
+			Mukombwe Nyamhandu Basvi Tohwechipi Nyatsimba Ngwato Molwa Tamasiga Seogola Mucombo Inhamunda Ningomoxa 
+			Chiraramuro Chombo Peranhe Chicanga Nyacuimbiri Samutumbu Mupunzagutu Gowera Nyarumwe
+			Baba Baroma Biria Changamire Chenjerai Chikuyo Chipinduka Chisi Chivere Dambanyika Dehwe Dzingai Gatsi Goridhe Hatitye Hosho Itai Iwe Jongwe Kamharapasu Kumbirai Kuseka
+			Matope Mavura Mbada Mhuru Moyo Muchaneta Musafare Negomo Neshangwe Nhamo Nyahuma Nyakambira Nyamaende Nyambu Nyatsimba Nyatsusu Nyashadzashe Nyenyedzi Samatambira Simba
+			Siti Takudzwa Tapiwa Tashongedzwa Tateguru Taurai Tavonga Tazvitya Tendekai Tichafara Tichaona Tichayana Tinaye Tinodaishe Tsungirirai Twiza Zivanai
+					Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro    
+		}
+		female_names = {
+			Achieng Nuru
+			Anokosha Chenesai Chidiwa Chidochashe Danai Kudzaishe Mai Mangwanani Meso Mukaddzi Munashe Mutapa Ndanatsei Ngaakudzwe Nomusa Nyika Onai
+			Pepukai Revesai Rindai Rudairo Rutendo Ruwadzano Sadzamari Tanyaradzwa Tapedza Taropafadzwa Vimbiso
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+
+	kalanga = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.2 0.45 0.7 }
+
+		male_names = {
+			Changamire Chibamubamu Chibundule Chikura Chikuyo Chingombe Chirisa Chirisamhuru Dalaunde Dlembeubu Dombo Gumboremvura Hungwe Kambgun Kwelekwele Langane Madabhale Madlazwegwendo Makulukusa
+			Maluzapi Masola Mhange Misola Mosojane Mpengo Mudavanhu Mutinhima Mwayile Nichasike Nikati Nichibombwe Nigwande Nimale Ninhenbwe Nkami Nkuse Ntalaolte Rupandamanhanga Rupengo Tohwechipi
+			Tumbare Vunamakuni Zwikono
+		Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			Bagedze Mutanda Ngabate Ninenbwe
+
+			Anokosha Chenesai Chidiwa Chidochashe Danai Kudzaishe Mai Mangwanani Meso Mukaddzi Munashe Mutapa Ndanatsei Ngaakudzwe Nomusa Nyika Onai
+			Pepukai Revesai Rindai Rudairo Rutendo Ruwadzano Sadzamari Tanyaradzwa Tapedza Taropafadzwa Vimbiso
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+
+	ila_tonga = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.15 0.3 0.43 }
+
+		male_names = {
+			#venda
+			Mafhudu Muzalo Nkhangweleni Rolivhuwa Thikhathali Thilivhali Tshifhiwa Zwanga
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Ksayhu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Ntokoto			
+		Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+		Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			#venda
+			Elelwani Mufunwa Washu
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Khathu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Dyondzeka Khensani Lelani Xongi			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	venda = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.46 0.62 0.02 }
+
+		male_names = {
+			#venda
+			Mafhudu Muzalo Nkhangweleni Rolivhuwa Thikhathali Thilivhali Tshifhiwa Zwanga
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Ksayhu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Ntokoto			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+				Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			#venda
+			Elelwani Mufunwa Washu
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Khathu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Dyondzeka Khensani Lelani Xongi			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	venda_tsonga = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.26 0.72 0.12 }
+
+		male_names = {
+			#venda
+			Mafhudu Muzalo Nkhangweleni Rolivhuwa Thikhathali Thilivhali Tshifhiwa Zwanga
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Ksayhu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Ntokoto			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+				Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			#venda
+			Elelwani Mufunwa Washu
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Khathu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Dyondzeka Khensani Lelani Xongi			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+
+	venda_bonga = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.74 0.92 0.22 }
+
+		male_names = {
+			#venda
+			Mafhudu Muzalo Nkhangweleni Rolivhuwa Thikhathali Thilivhali Tshifhiwa Zwanga
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Ksayhu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Ntokoto			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+				Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			#venda
+			Elelwani Mufunwa Washu
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Khathu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Dyondzeka Khensani Lelani Xongi			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+
+	kolokolo = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.84 0.22 0.32 }
+
+		male_names = {
+			#venda
+			Mafhudu Muzalo Nkhangweleni Rolivhuwa Thikhathali Thilivhali Tshifhiwa Zwanga
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Ksayhu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Ntokoto			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+				Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			#venda
+			Elelwani Mufunwa Washu
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Khathu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Dyondzeka Khensani Lelani Xongi			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+
+	hubibi = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.13 0.21 0.71 }
+
+		male_names = {
+			#venda
+			Mafhudu Muzalo Nkhangweleni Rolivhuwa Thikhathali Thilivhali Tshifhiwa Zwanga
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Ksayhu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Ntokoto			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+				Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			#venda
+			Elelwani Mufunwa Washu
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Khathu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Dyondzeka Khensani Lelani Xongi			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+
+	robana = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.91 0.10 0.40 }
+
+		male_names = {
+			#venda
+			Mafhudu Muzalo Nkhangweleni Rolivhuwa Thikhathali Thilivhali Tshifhiwa Zwanga
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Ksayhu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Ntokoto			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+				Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			#venda
+			Elelwani Mufunwa Washu
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Khathu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Dyondzeka Khensani Lelani Xongi			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	rutara = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.24 0.68 0.51 }
+
+		male_names = {
+			Rukidi Ocaki Oyo Winyi Olimi Nyabongo Nyarwa Cwamali Masamba Anabwani Kyebambe Nyaika Duhaga Nyamutukura Kyembambe Nyabongo Nkuba
+			Kabalega Kitahimbwa Iguru Nyamutukura Kamurasi Kyebambi Bwarenga Rwebishengye Kayunga Gasiyonga Mutambuka Gasiyonga Barigye Rwebishengye
+			Mpuga Ruhinda Nkuba Nyabugari Ntare Rushango Kasasira Kitera Kumongye Mirindi Macwa Rwabirere Karara Karaiga Kahaya Nyakashaija 
+			Olimi Ruhaga Rububi Kakende Nyamuyonjo Omubiito Kabuzi Isansa Barongo Kato Ndahura Mushaga Kazana Ruhaga Kasunga Kyebambe Nyaika Mukarusa
+			Daudi Kasagama Samwiri Katera Mukarusa Kaboyo Nyimba Kabamba
+			Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro    	
+			}
+		female_names = {
+		Komweru Gafabusa Ateenyi Omugo Karunga Komuntale Kibundabunda Bayanjeru Nsemere Komukyeya Omugo
+		Kemigisa Akiiki
+		Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+		Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+		 Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+		Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+		Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+		Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+		Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+		Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+		Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	ganda = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.22 0.78 0.31 }
+
+		male_names = {
+		Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro    	
+			}
+		female_names = { 
+		Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+		Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+		 Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+		Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+		Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+		Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+		Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+		Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+		Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	kinyarwanda = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.68 0.94 0.31 }
+
+		male_names = {
+			Kigeli Yuhi Mutara Musinga Mibambwe Rwogera Mutabazi Sentabyo Mhwerazikamwa Gihanga Kanyarwanda 
+			Gahima Kimari Cya Rurenge Ndahiro Wamala Ruganzu Nyarume Ntarama Rubanda Lugalbanda Nsoro Cyilima Ndoba
+			Samembe Samukondo Byinshi Bwimba Rugwe Ruyange Sekarongoro Kalemera Rwaka Ndoli Semugeshi Mazimpaka 
+			Kazi Kazigaba
+		Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+			}
+		female_names = {
+			Mukashema Radegonde Nyirakabuga Nyirayuhi Kanjogera Nyiraburunga Murorunkwere Nyirankende Nyiragahima
+			Nyamususa
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+			}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	zanzi = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.68 0.49 0.29 }
+
+		male_names = {
+			Kigeli Yuhi Mutara Musinga Mibambwe Rwogera Mutabazi Sentabyo Mhwerazikamwa Gihanga Kanyarwanda 
+			Gahima Kimari Cya Rurenge Ndahiro Wamala Ruganzu Nyarume Ntarama Rubanda Lugalbanda Nsoro Cyilima Ndoba
+			Samembe Samukondo Byinshi Bwimba Rugwe Ruyange Sekarongoro Kalemera Rwaka Ndoli Semugeshi Mazimpaka 
+			Kazi Kazigaba
+		Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			Baramparaye Ruhasha
+			Mukashema Radegonde Nyirakabuga Nyirayuhi Kanjogera Nyiraburunga Murorunkwere Nyirankende Nyiragahima
+			Nyamususa
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+			}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+
+	kenya = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.58 0.89 0.29 }
+
+		male_names = {
+			#venda
+			Mafhudu Muzalo Nkhangweleni Rolivhuwa Thikhathali Thilivhali Tshifhiwa Zwanga
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Ksayhu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Ntokoto			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			
+			Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			#venda
+			Elelwani Mufunwa Washu
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Khathu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Dyondzeka Khensani Lelani Xongi			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	ruvu_seuta = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.48 0.69 0.39 }
+
+		male_names = {
+			#venda
+			Mafhudu Muzalo Nkhangweleni Rolivhuwa Thikhathali Thilivhali Tshifhiwa Zwanga
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Ksayhu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Ntokoto			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			
+			Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			#venda
+			Elelwani Mufunwa Washu
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Khathu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Dyondzeka Khensani Lelani Xongi			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	tangan = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.38 0.79 0.19 }
+
+		male_names = {
+			#venda
+			Mafhudu Muzalo Nkhangweleni Rolivhuwa Thikhathali Thilivhali Tshifhiwa Zwanga
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Ksayhu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Ntokoto			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+				Kato Chwa Kimera Ttembo Kiggala Kiyimba Kayima Nakibinge Mulondo Jemba Suuna Sekamaanya Kimbugwe Kateregga
+		Mutebi Juuko Kayemba Ndawula Kagulu Kukulwe Madawanda Ndugwa Namuggala Kyabaggu Jjunju Semakookiro Kamaanya Kiweewa
+		Kalema Daudi Mutesa Muwenda Mutebi Walugembe Luwangula Musanje Susenyos Wampamba Nzigu Kazibwe Walugembe Kawaali    
+		Mwanga Lumansi Lulume Gogombe Kawaali Zigulu Sewatti Kamyuuka Baleke Kisozi Kewumpuli Madangu Maganda
+		Naluwembe Kinyago Wasswa Senninde Gaweserwa	Kawuuwa Kawagga Kazibwe Katakessu Batanzi Wakayima Mpalikitenda
+		Geserwa Nazibanja Mpiima Lukenge Mawuba Mukama Matumbwe Kyekaka Kasagazi Lumweeno Sematimba Isaaka Gabanga
+		Katebe Juma Golooba Segaamwenge Luyenje Ndege Bezzaluno Kyomubi Ssekindi Sekitamu Lubugu Kikindu Segaamweenge
+		Zansanze Nabaloga Gabane Gomottoka Mulere Bbengo Waswa Kirabe Kiwanuka Nkondoggo Kateregga Ngabo Kiboli
+		Sanya Mbajjwe Saku Wango Kigoye Lubambula Sekafuuwa Kikunta Nsekere	Nalukwaakula Nakayiza Semalume Nakabiri 
+		Nyiningabo Kakirebwe Kakungulu Zzimbe Nakuyita Nabisalo Nagaddya Nabinaka Lule Kitereera Mugogo Tobi Nayime
+		Kaggwa Bagunyeenyamangu Mbajjwe Bamweyana Twaayise Kyomubi Luwedde Tebandeke Wasajja Kajumba Kizza Yusuufu 
+		Kiweewa Nganda Mulindwa Abdallah Kagolo Walulyo Nabadda Muyinda Lulaba Lukongwa Kagunya Kalubagwiire Musisi
+		Nasuswa Alamanzaani Ssimbwa Ssemakookiro 
+		}
+		female_names = {
+			#venda
+			Elelwani Mufunwa Washu
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Khathu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Dyondzeka Khensani Lelani Xongi			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+			Namasole Nalule Nkinzi Ssangalyambogo Babirye Nakato Damali Omubiitokati Ndagire
+			Mesta Rugumayo Kaakako Rwanchwende Keihangwe Zibiah Wangari Ngatho Karungu Naome Nanyonga 
+			Kulabako Damali Bayita Nanjobe Naabakayaala Dolosi Esiteri Nabunnya Nabweeteme Nakijoba Nabulya
+			Batwegombya Ntongo Nabisubi Namirembe Laakeeri Mbekeka Nalwooga Omuyigiriza Buteba Nattimba Abisagi Bagalayaze 
+			Muganzirwazza Nakkazi Mpozaaki Lubadde Saamanya Baakuyiira Basiima Mukooki Gwowemukira Kisirisa Kayaga
+			Namukasa Namawuba Tebasaanidde Namwenyagira Nannozi Nankanja Nanteza Tebeemalizibwa Siribatwaalira Nzaalambi Nzaalambi
+			Mubyuwo Mukwaano Nabikuku Nabirumbi Nabyonga Nabbowa Nakaddu Kannyange Nakanyike Nakku Nakyekoledde Namale Nambi
+			Wannyana Namagembe Nabukalu Najjemba Nabitaba Nasuuna Bukirwa Nnono Batenga Nakabugo Najjuma Najjuka Basuuta
+			Nawaguma Nassuuna Kagere Nassolo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	mozam = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.68 0.39 0.69 }
+
+		male_names = {
+			Gallo Bano Maurusa Tondo Mcepera Mcocoma Sosola Muzura Chunzo Bakili Capampo Chicanda 
+			Kamborapasu Dombo Chinkura Nechisake Nechagadzike Mambo Rupanadamananga Gumboremvura Toloa Matuzvianye 
+			Mukombwe Nyamhandu Basvi Tohwechipi Nyatsimba Ngwato Molwa Tamasiga Seogola Mucombo Inhamunda Ningomoxa 
+			Chiraramuro Chombo Peranhe Chicanga Nyacuimbiri Samutumbu Mupunzagutu Gowera Nyarumwe
+			Mcepera Mcocoma Kampini Sosola Muzura Chunzo Bakili Capampo Chicanda Tondo
+		}
+		female_names = {
+			Achieng Nuru Nyalak
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	ovambo  = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.78 0.55 0.99 }
+
+		male_names = {
+		Quiluanje Quilombo Ambandi Nzinga Kuluanji Ndambi Kilombo Mbandi Mwongo Hari Ndala Mwene Samba  
+		Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+		Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+		female_names = {
+		Njinga Kangela Makambu
+		Natula
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	nganguela  = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.58 0.59 0.99 }
+
+	male_names = {
+		Quiluanje Quilombo Ambandi Nzinga Kuluanji Ndambi Kilombo Mbandi Mwongo Hari Ndala Mwene Samba  
+		Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+		Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+		female_names = {
+		Njinga Kangela Makambu
+		Natula
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	chokwe = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.48 0.59 0.99 }
+
+		male_names = {
+		Quiluanje Quilombo Ambandi Nzinga Kuluanji Ndambi Kilombo Mbandi Mwongo Hari Ndala Mwene Samba  
+		Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+		Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+		female_names = {
+		Njinga Kangela Makambu
+		Natula
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	ambundu = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.28 0.59 0.99 }
+
+		male_names = {
+		Quiluanje Quilombo Ambandi Nzinga Kuluanji Ndambi Kilombo Mbandi Mwongo Hari Ndala Mwene Samba  
+		Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+		Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+		female_names = {
+		Njinga Kangela Makambu
+		Natula
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	totela = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.34 0.46 0.33 }
+
+		male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kalombo Mande Nday Kasongwa Umpafu Ilunga  
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese  Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	lozi = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.88 0.92 0.03 }
+
+		male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kalombo Mande Nday Kasongwa Umpafu Ilunga  
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese  Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	nkoya = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.55 0.33 0.34 }
+
+		male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Maloba Kalombo Mande Nday Kasongwa Umpafu 
+		Kisula Maniema Kabongo Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	lovale = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.65 0.50 0.80 }
+
+		male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	lunda_lovale = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.89 0.33 0.64 }
+
+	male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	kaonde = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.85 0.20 0.27 }
+
+	male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	mambwe_lungu = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.47 0.05 0.67 }
+
+	male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	lula_bemba = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.75 0.33 0.44 }
+
+	male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	nande = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.95 0.32 0.16 }
+
+	male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	lega_shabunda = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.08 0.84 0.96 }
+
+		male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	mongo_nkundu = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.16 0.34 0.46 }
+
+	male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	songe = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.63 0.64 0.44 }
+
+	male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	yansi = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.32 0.34 0.66 }
+
+	male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	yaka = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.22 0.44 0.46 }
+
+		male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	taabwa = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.42 0.64 0.76 }
+
+	male_names = {
+		Nkongolo Ilunga Kasongo Kumwimba Ndaye Ilunga Maloba Kasongo Kalombo Mande Nday Kasongwa Umpafu Ilunga Kasongo 
+		Kisula Maniema Kabongo Kumwimba Diambi Shyaam Mbul Ngoong Msiri Kumwimbe 
+			Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+			Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+			Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+			Atepekoungo Ayani Bote Fumu Kakengo Kasese Kasongo Keise Kembo Kengani Kihani Kokolo Lukinda Lumingu Lutete Luyindama Luyindu Makana Menji
+			Mukiese Musambila Namiri Ngonda Nkelian Nsakala Nsumbu Ntinu Tulengi Tutonda Tutondele Wisliane Yaviche Zaire Zohari
+		}
+		female_names = {
+		Bompaka Lukinda Makanga Makiadi Makiese Manoka Matadi Mayangi Nsimba Nsumbu Nzuzi Tiya
+		Ayana Kalunga Kia Kimiya Kimoya Kimpa-vita Kiona Kuyana Lufima Lukinda Lunia Mavika Mayela Ndombolo Neera Nekemiyah Ngondala Nsuka Nsumbu
+		Nzaya Nzimbu Sefeniya Songanzila Yende Yenge Zahina Zolana Zolani
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	xindonga = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.42 0.64 0.76 }
+
+		male_names = {
+		Quiluanje Quilombo Ambandi Nzinga Kuluanji Ndambi Kilombo Mbandi Mwongo Hari Ndala Mwene Samba  
+		Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+		Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+		female_names = {
+		Njinga Kangela Makambu
+		Natula
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	nhaneca = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.28 0.59 0.99 }
+
+		male_names = {
+		Quiluanje Quilombo Ambandi Nzinga Kuluanji Ndambi Kilombo Mbandi Mwongo Hari Ndala Mwene Samba  
+		Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+		Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+		female_names = {
+		Njinga Kangela Makambu
+		Natula
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	angolan = { #ovimbundu
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.88 0.59 0.99 }
+
+	male_names = {
+		Quiluanje Quilombo Ambandi Nzinga Kuluanji Ndambi Kilombo Mbandi Mwongo Hari Ndala Mwene Samba  
+		Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+		Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+		female_names = {
+		Njinga Kangela Makambu
+		Natula
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+
+	namibian = { #herero
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.38 0.49 0.59 }
+
+		male_names = {
+		Quiluanje Quilombo Ambandi Nzinga Kuluanji Ndambi Kilombo Mbandi Mwongo Hari Ndala Mwene Samba  
+		Nimi Lukeni Quinanga Nlaza Nkuwu Nzinga Mvemba Nkanga Nkumbi Mpudi Mpemba Nerika Nkanga Mpanzu
+		Mvika Nzenze Ntumba Nvita Mpandu Ntivila Miala Nzimvwila Nusamu Mvizi Ntamba
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+		female_names = {
+		Njinga Kangela Makambu
+		Natula
+		Kanhanga Katema Casandi Chacoco Cavita Tchika Epalanga Elavoko Ekumbi Hossi Handanga Kassoma Kapinhgala
+		Kapuka Kavinoqueka Kalunga Kahossi Kaleyi Kalitangui Kandimba Kanguya Kapitango
+		Kassova Katanya Kulembe Kussumwa Kangandjo Kumola Katchikukuvanda Lussati Moko Muhongo Mulungo Munga
+		Ngueve Njamba Ngongo Nambundi Ndavoka Nangombe Natumbu Navimbi Navita Ndala Ndumbu Ngonga Nassoma 
+		Sonehan Sassonde Sinjekumbi Samahina Sandambongo Savimbi Tchikukuma Tchilepue Tchopelonga Tchilombo 
+		Tchimuku Tchipenda Tchipilika Tchitekulo Tchitula Tchitwe Tchivinda Viti Vitulo Welema Tchilombo
+		Tchivinda Mulungu Tchambasuku Nduva Kusumwa Ndungula Ndalu Sindjekumbi Tchpilika Tchokovava Tchela Eyala 
+		Henda Kalei Kalundungu Kamwenho Kassinda katchissapa Katito Katulo Kavinyama Kayengenga Likiliki Lukamba
+		Moma Ndandula Ndjamba Nhimawa Safeka Sandula Simbu Simwila Sukwapanga Tchakussola Thikola
+		Thikomo Tchilimbo Tchinofila Tchinonhale Tchipuma Tchisingi Tchitende Tchitula Tchitumba Tchivinda Tchiyo
+		Vihemba Vissoka 
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	zulu = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.86 0.86 0.86 }
+
+		male_names = {
+		Luzumana Ngoni Baba Nkosin Mnguni Malandela Zulu Nkosinkulu Ntombela Gumede Phunga Mageba Ndaba Jama Mkabayi
+		Senzangakhona Sugujana Shaka Dingane Mpande Cetshwayo Dinuzulu Bhekuzulu Zwelithini Misuzulu
+		Amile Atepekoungo Bafana Bhekani Nheki Bhekizifundiswa Bhezifundiswa Bhekizizwe Bhekumbuso Fanyana
+		Gatsha Gazini Ghakari Ibubesi Iqaqa Jabulani Khanya Khayalethu Langa Langalibalele Linda Lwazi Malusi 
+		Menzi Meshindi Mesuli Mfanbombu Mkhumbuleni Mphikeleli Mpilo Mpumelelo Msizi Mxolisi Mzwenhlanhla 
+		Ndabazaniye Ndleleni Nkanyezi Nkanyiso Nkosiphendule Nkosiyabo Nkululeko Nqobani Phumlani Sakhile Sfiso 
+		Sibongiseni Siboniso Siphamandla Siphelele Siphesihle Siphosethu Siyanda Sthenjwa Tandeko Thamsanqa Thandabantu
+		Thandoluhle Tholane Thulane Uluthando Ulwazi Unkulunkulu Vusumuzi Yuatisisoiwahde Zithembe
+		Abafile Amandla Anele Enzokuhle Esihle Funani Ikusasa Imbasa Kgabu Khwezi Langelihle Lukhona Lungelo
+		Mnotho Nkosingimele Silindile Simdingile Simphiwe Sindisa Sizakele Thandolwethu Wandile Yibanathi Ziphozonke
+		Lwandle Mandulo Lungelo Mandlesizwe Simangaye Bambindlovu Lethukuthula Shlobosenkosi Nhlendlayenkosi Nhlanganiso
+		Nhlangano Buzabazi Phumuzu Sihlangu Butho Bizwekhaya Masikomahle Simakade Malanga Dabulamanzi Bangani
+		}
+		female_names = {
+		Bekebeke Bhekisisa Bhekithemba Busisiwe Cashile Dela Didiza Ekuseni Enanela Esasa Ethuka Ethulo Ethwasa 
+		Gagasi Gugu Ujuba Ingqondo Inyoni Isisa Izula Jabulani Jabulile Khangezile Khanyisile Khanyokulhe Khaya Khethiwe
+		Khethukuthula Khule Khulekani Khululiwe Lakiwe Leleti Lindelani Liyana Mbalienhle Mhambi Mlilo Mpendulo Mthandeni 
+		Mthunzi Nandi Ndabezinhle Ndondoloza Ndonsa Ndumiso Nelisiwe Nhalahla Nhlakanipho Njabulu Nkazumulo Nkonkoni 
+		Nkosingiphile Nobhalela Nokulunga Nokuthula Nolwandle Nolwazi Nomagugu Nomandla Nomasonto Nomathemba Nomthimba
+		Nomvula Nomzamo Nonhlanhla Nonjabulo Nonkululeko Nosakhele Nothando Nozibusiso Ntokozo Ntombikayise Ntombiyesizwe
+		Ntombiyezulu Ntombizanele Ntuthuko Ntwenhle Philisiwe Samukelisiwe Sibhakabhaka Simangele Somisihle Sindisiwe Sinegugu
+		Sinehlanhla Sinethemba Siphephelo Siphokazi Sisipho Sizani Thabisa Thembelihle Thembi Thembisile Thenjiwe Thobeka
+		Tholakele Thula Thulisile Umklomelo Umakoti Vemvane Xolisile Zama Zamokuhle Zandile Zanele Zibu Zunhle Zintwezinhle 
+		Zobuhle Jubezizweni Mantfombi Bukhosibemvelo Nomkhosi Ntandoyesizwe Sibusile Nqobangothando Nombuso Cebolabo
+		Abafile Amandla Anele Enzokuhle Esihle Funani Ikusasa Imbasa Kgabu Khwezi Langelihle Lukhona Lungelo Mukelile
+		Mnotho Nkosingimele Silindile Simdingile Simphiwe Sindisa Sizakele Thandolwethu Wandile Yibanathi Ziphozonke
+		Ntombizosuthu Ntandoyenkosi Nompumelelo Zelusiwe Buthle Ngqumbazi Nomantshali Monase 
+		}
+		prefix = yes
+		male_patronym = "ka"
+		female_patronym = "ka"
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	swati = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.35 0.62 0.12 }
+		#Names from kings and queens of Eswatini. Might be partially inacuarate because they have wierd names that change once they become kings and queens
+		male_names = {
+		Mkhulunkosi Qomizitha Sukuta Madlasomo Ndlovu Ngwekati Mawawa Sidvwabasilutfuli Sukumbili Mbokane Gebase Kunene Nkabingwe
+		Madlabane Hhili Dulunga Dondobola Sihuba Mlangeni Msimudze Mbhondlo Tembe Sikhulumaloyo "Langa Samuketi" Nkomo Khabako Nkosi
+		Dlamini Mswati Matsanjana Mavuso Zwide Langa Magudulela Ludvonga Ngwane Ndvungunye Sobhuza Macaleni Mbandzeni Mahlokohla Sozisa
+		}
+		female_names = {
+			Gwamile Tibati File Sisile Nukwase Lomvula Tsandzile Tibati Msindvose Dzeliwe Nftombi Sibonelo Senteni Zena Nothando 
+			Sindiswa Lomawa Nandzi Somnjalose
+			}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	tswana = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.88 0.32 0.45 }
+
+		male_names = {
+		Amogelang Atang Atarelang Baaitse Baakanyang Bahelwang Baitshephi Bakang Bathusi Bolkanyo Dikgakgamatso
+		Dipone Dithapelo Ditshwanelo Gaolatlhe Gaone Gofaone Goitseone Kakanyo Keabetswe Kealeboga Keamogetse Keamogetswe
+		Keemenao Kegomoditswe Keletso Keolebogile Kerapetse Kereeditse Ketshephaone Kgomotso Khumiso Khumo Khumoetsile
+		Khutsafalo Kitso Koketso Leago Lerothodi Lesegolame Letang Letlanang Leungo Lorato Malebogo Maru Masegonyana Motlagomang 
+		Mphonyana Nakedi Neoyaone Ntshephang Oabona Oaitse Oarabile Onalenna Onalethata Onkarabile Onkgopotse Ookeditse
+		Oratile Othusitse Outule Phenyo Realeboga Rebokile Resego Rwesang Sebaga Thatayaone Thayi Thulaganyo Tisetso Tshephang 
+		Thsephoyame Tshiamo Tuelo Tumisang
+		Atasoane Babusi Baitumetse Bapaki Baruti Basireletsi Boammaruri Boatametse Bogosi Boikaego Boipuso
+		Botshelo Dipesalema Diphetogo Dithebe Ditiro Fenyang Gaofenngwe Gaolebale Goitsemodimo Gotaatamang
+		Ikakeng Kagisoyame Keatlile Kebitsemang Kenalemang Kenanao Kgolo Kgosiamang Lekone Leru Lewapi Loeto 
+		Maruapula madupe Mmoloki Mmusi Moagi Moeng Mofenyi Mogakolodi Mogapi Mogotsi Molokoane Monkgomotsi Mosimanegape
+		Mothusi Motshegetsi Oabile Oagile Ogotseng Onthusitse Ontiretse Ontuetse Oreeditse Orelebe Oteng Otsogile
+		Phakalane Phetolo Reetsang Resegofetse Sedireng Seretse Setshaba Tebatso Thatayotlhe Thebeyame Thero Thusoyaone 
+		Tiroyamodimo Tshenolo Tshupelo Tumelano	
+		Motsi Mpule Thebe Shona Kgomotso Kgosi Molefi Nthato Leruo Mogoeng Khama Bathoen Mamokgethi Matshidiso Kgwadi Kgositsile		
+		}
+		female_names = {
+		Amogelang Atang Atarelang Baaitse Baakanyang Bahelwang Baitshephi Bakang Bathusi Bolkanyo Dikgakgamatso
+		Dipone Dithapelo Ditshwanelo Gaolatlhe Gaone Gofaone Goitseone Kakanyo Keabetswe Kealeboga Keamogetse Keamogetswe
+		Keemenao Kegomoditswe Keletso Keolebogile Kerapetse Kereeditse Ketshephaone Kgomotso Khumiso Khumo Khumoetsile
+		Khutsafalo Kitso Koketso Leago Lerothodi Lesegolame Letang Letlanang Leungo Lorato Malebogo Maru Masegonyana Motlagomang 
+		Mphonyana Nakedi Neoyaone Ntshephang Oabona Oaitse Oarabile Onalenna Onalethata Onkarabile Onkgopotse Ookeditse
+		Oratile Othusitse Outule Phenyo Realeboga Rebokile Resego Rwesang Sebaga Thatayaone Thayi Thulaganyo Tisetso Tshephang 
+		Thsephoyame Tshiamo Tuelo Tumisang
+		Akanyang Baakantse Badumedi Bankatametse Banyatsang Baone Barulaganye Basadibotlhe
+		Basetsanabotlhe Batshegi Bofelo Boiketlo Boitshepo Boragane Didimalang Dikeleditsame
+		Dikeletso Dimakatso Dineo Ditebogo Duduetsang Gadifele Galaletsang Gaodithong Gaolefufa 
+		Gaongalelwe Gogontlejang Goitsemang Gothusang Ipeleng Joalane Kamogelo Keatlaretse Kebabonye 
+		Kebarutile Kebasadi Kedumetse Kefentse Kehumile Keitumetse Kelebileone Kelefetswe Kemmonye 
+		Keneilwe Kennake Kereemang Kesegofetse Kgakgamatso Kgalalelo Legakwa Lesedilaone Maatla Mabasi 
+		Magetalene Maikaelelo Maipelo Maphoi Merapelo Mmaabo Modiri Montlenyane Mosetsanagape Mosidi 
+		Motlalepula Mpelegang Mphoetsile Naledi Naletsana Nametsegang Nnete Ntirelang Olerato Onkgomoditse
+		Oomihlynne Oreneile Osego Osenotse Oweditse Pelonomi Pelntle Phatsimo Phatsimoyaone Polelo Reatshwana 
+		Rehana Rorisang Sebutlana Seetsele Segametsi Segolame Segomotso Seithati Selebaleng Selemo Senatla
+		Setshego Setshawano Sewelo Tshepiso Tshimologo Tshireletso Tshwanelo
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	sotho = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.38 0.49 0.39 }
+
+		male_names = {
+			Hlompho Kealeboa Kekeletso Kelebohili Kgabareya Kganya Kgethang Khabane Khoeli Khosi Khotsofalang
+			Leabua Lefa Lefika Lehumo Lemohang Lereko Letsatsi Likotsi Matheeletsha Matome Moeketsi Moeletsi
+			Mohato Mohau Mojalefa Mokgethi Molapo Molatadi Molefi Moluleloa Morena Motlalepule Motsamai Ntsu
+			Oasetso Omatla Paoloso Paseka Phahamo Pheelo Phethisi Poloko Realeboha Sebolai Sechaba Sehlolo Setifene
+			Setjhaba Tafeta Tekano Thaba Thapeli Thapelo Thoriso Tlali Tiholo Tsebo Tshediso Tsitang Vusi
+			Tuma Khusi Tlahi Dino Teboho Thuso Matsimela Litsehoana Rapuk Lebohang Mohavi Lewatle
+			Letsatsi Moshoeshoe Amohelang Tlotliso Tsotang Sontaha Pheijna Potso Pule Tsietsi Motsumi
+			Sello Nku Kweda Lerumo Letsatsi Matla Lebogo Mokhasi Fefo Hlano Fenya Thebe Atlarela
+			Amogelang Baatseba Bokamoso Kamohelo Kananelo Kgodi Khauhelo Kutloisiso Lebone Lehlogonolo "Leihlo-larona"
+			Lethabo Litshehoana Mahlatse Mosa Motlagoman Naha Nalane Nelbe Nyakallo Omphille Pontsho Rethabile Semakaleng 
+			Tebello Tlhokomelo Tsoalo Tumisho
+			}
+		female_names = {
+			Arenaya Areneha Basetsana Buang Dineo Felleng Joalane Keneoue Keromang Khothatso Kutlwano Leana Liboko Letlotlo 
+			Liepollo Likeleli Likengkeng Limakatso Limpho Lineo Lipalesa Litsheho Maikano Makhokolotso
+			Maleshoane Maletsatsi Mamphaki Mathe Matshediso Mmathapelo Mmini Moipone Mokgadi Mosela Mosidi Nala
+			Naleli Nkhetheleng Nthabi Nthabiseng Nthati Ntsebo Ntsoaki Paballo Peo Phutheho Pila Pulane Qenehelo Ramatjato
+			Ramatla Relebohile Remaketse Seilatsatsi Tholoana Tiisetso Yemetle Tshegofatso
+			Sesi Nyakallo Atile Bina Bertha Bokang Ntsoaki Pula Tlhokomelo Mosela Nthabiseng Tloltiso
+			Dineo Tebello Ramatia Palesa Liseho Naleli Matseliso Mpho Lindelani Moipone Lisebo Bonolo 
+			Libiko Dipuo Masimong Tsepiso Ratsebo Arabang Lebadi Ausi Futsana Mantso Lorato Mosetsanagape 
+			Rethabile Mathapelo
+			Amogelang Baatseba Bokamoso Kamohelo Kananelo Kgodi Khauhelo Kutloisiso Lebone Lehlogonolo "Leihlo-larona"
+			Lethabo Litshehoana Mahlatse Mosa Motlagoman Naha Nalane Nelbe Nyakallo Omphille Pontsho Rethabile Semakaleng 
+			Tebello Tlhokomelo Tsoalo Tumisho
+			}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	xhosa = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.76 0.47 0.21 }
+
+		male_names = {
+		Letsile Baboloki Kagiso Katlego Pitso Teko Dikgang Reneilwe Rapulana
+		Mahlubandile Themba Uuka Thandiwe Nomlanga Bathandwa Daluxolo Esihle Fezile Gcobani Akhona Anathi Aphiwe Aviwe Ayabonga
+		Bhutana Bonginkosi Dumisa Fezekile Fezile Fundani Gugulethu Jongikhaya Khwezi Khuselwa Langa Lonwabo Lubabalo Luthando Luzuko
+		Lwazi Mabhuti Madoda Malibongwe Mandla Mangaliso Mbulelo Meluzmi Mkhokeli Mthandeni Mpumelelo Nkokheli Nkululeko ntando Nyaniso
+		Qaqambile Sibabalwe Silumko Melisizwe Sifso Rolihlahla Nkosi Mpilo Ntando Silindokuhle Phumza Mxolisi Lephelo Lubanzi Luphumlo Khanyiso
+		Abongile Unathi Thando Yonela Xabiso Wandisiwe Wonga Vusumzi Vuyiseka Thembalethu Ayanda Bandile Zola Buhle
+		}
+		female_names = {
+			Anathi Akhona Aphiwe Babalwa Bathandwa Buhle Bongani Cebisa Esihle Fezeka
+			Fundiswa Funeka Gcobisa Khanyiswa Khetiwe Khunjulwa Kuhle Lindelwa Lulama 
+			Mafungwashe Mandela Mncedisi Mthobeli Nandipha Nceba Ndiliswa Nobomi Nocawe
+			Nomthandazo Nomuula Nomlanga Nontasasa Notumato Nofoto Nkosazana Nomble Ntombentsha
+			Olwethu Qaqamba Simtnadile Siphosethu Sisipho Thandiwe Themba Thembeka Thozoma 
+			Vuyokazi Zimkhitha Zintle Noxolo Gugu Nonhle Nontle Khethiwe Sivuyile Sansile Thimna
+			Sibahle Simile Owam Simpho Liyema Lyabona Andisiwe Aphiwe Hlengiwe Lindiwe Nosizwe Nosipho
+			Luthando Unathi Thando Yonela Xabiso Wandisiwe Wonga Vusumzi Vuyiseka Thembalethu Ayanda Bandile Zola
+			Manaka Tumi
+			}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	south_african = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.28 0.19 0.89 }
+
+		male_names = {
+			#venda
+			Mafhudu Muzalo Nkhangweleni Rolivhuwa Thikhathali Thilivhali Tshifhiwa Zwanga
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Ksayhu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Ntokoto			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+		}
+		female_names = {
+			#venda
+			Elelwani Mufunwa Washu
+			Alu Aluwanip Arehone Athiambiwied Avhadali Avhapfani Azwihangwisi Azwimmbahvi Azwinaki Azwinndini Dali Dowe Dowelani Fhulufhuwani Funi Hangwani Hulisani Humbe Humbelani
+			Khathu Khathutshelo Khuliso Khumbu Lindelani Livhu Lutendo Luvhengo Mpfareleli Mphedziseni Muwambiwa Mutsutshudzi Ndiyafhi Nduvho Nkhumbudzeni Nkhumbuleni Nnyadzeni
+			Nnyawedzeni Nnyaweleni Ntungufhadzeni Ntshengedzeni Pfunzo Phathutshedzo Phathu Phathutshedzo Rabe Rendi Rotshidzwa Rudzani Rudzi Sei Shandu Shandukani Taki Tanga Tendani
+			Thabelo Thanyani  Thina Thinawanga Tondani Tshanduko Tshiananeo Tshidino Tshinyalani Tungu
+
+			#tshona
+			Dyondzeka Khensani Lelani Xongi			
+			Akani Amukelani Elela Eletsa Masana Masingita Minkateko Nsuku Ntsako Ntosvelo Ntsumi Ntwanano Nyeleti Rhandzu Rhulani Shiluva Thirani Unwana Vuthlari
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+}
+kanuri_group = { 
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+	kanuri = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.8 0.45 0.75 }
+		
+		male_names = {
+		  "Muhammad" "Amir" "Ghaji" "'Uthman" "'Umar" "'Ali" "Idris" "'Abd Allah" "Ibrahim" "Hamdan" 
+			"Othman Kalinuama" "Abdullah" "Biri" "'Abd al-Karim" "Kharut" "Kharif" "Ya'qub" "Salih" "Birni Besse" 
+			"Dalai" "Burkomanda" "Dalo" "'Abd al-Qadir" "Wanja" "Abu Sekkin" "Rifaya" "Sharud" "Tindhim" "Musa" 
+			"Sulbuta" "Ishaq" "Kade Alunu" "Abu Bakr" "Da'ud" "Kure" "Bikoru" "Humayy" "Sa'id" "Nasr" "Yahya" "Yusuf"
+			Abbas Abdallah Abdul Abdulraham Abubakar Adam_Adam Ahmed Airimi Alhaji Ali Alooma Amin Amr Arku Arsu Baba 
+			Baram Bikorom Biri Bukar Bulu Buyuma Dabbalemi Dala Daoud_David Dugu Dunama Fune Gaji Gajideni Galrima Gana 
+			Garbai Gazali Gazi Ghana Hume Hummay Ibrahim_Abraham Idris Kaday Kanemi Kashim Katakarmabe Katur Kiyari Kura 
+			Kuri Kuwaana Madu Mahmoud Mamane Modu Mohammed_Mohammed Mufioma Murama Musa Mustafa Nikale Osman Said Salmama 
+			Sanda Sani Sef Selma Shettima Shu Suleyman_Solomon Tandja Umar Waziri Yahya_John Yaqub_Jacob Yusuf_Joseph Zannah
+		}
+		female_names = {
+			Aissa 
+			Amina Aziza Bakhita Cinta Daniyah Dikwa Fatima_Fatima Halima Jalila Kaltum Karima Khadija Khalila Kili Layla Malika Mariam_Maria Mina Nadia Rashida Shadia Shakira Sukda Tebunnu Wahida Ya Yasmin
+			Aamina Adila Afaf Afra Aida 'aisha A'isha Aisha Akilah Alia Alina Aliya 
+			Aliyah Aliyya Aliyyah Almas Alya Amal Amani Amina Aminah Amira Amirah Amna Anisa Aqila Arij Arwa Ashraqat 
+			Asma Asmaa Asra Atifa Atiya Ayda Ayesha Ayishah Azra Badr Bahiga Bahija Bahiyya Basima Basira Basma Batul 
+			Budur Dalal Dana Dania Daniyah Dema Dima Djamila Dua Duha Fadia Fadila Fahima Fairuz Faiza Fajr Fakhriyya 
+			Farah Farida Fariha Farrah Fathiyya Fatima Fatimah Fatin Fatma Fawziya Fawziyya Fayruz Fayza Fidda 
+			Fikriyya Fizza Galila Gamila Gathbiyya Gauhar Gawahir Gazbiyya Ghada Ghadir Ghaliya Ghufran Habiba Hadia 
+			Hadil Hadiya Hadiyya Hadjara Hadya Hafsa Hafsah Hafza Hagir Haifa Hajar Hala Halima Halim Hamida Hamid 
+			Hana Hanaa Hanan Hania Haniyya Hanifa Hanif Haniyah Haniyya Haniyya Hasna Hawa Hayfa Hiba Hikmat Hind 
+			Hooda Hosni Houda Huda Husna Husni Husniya Ibtihaj Ibtisam Ihab Ihsan Ikraam Ikram Ikram Ilham Iman In'am 
+			Inas 'ismat Isra Israa I'tidal I'timad Izdihar Jalila Jameela Jamila Jamillah Janan Jathbiyya Jawahir 
+			Jawdat Jinan Jumana Karam Karima Khadiga Khadija Khalida Khalilah Khatijah Khayrat Khayriyya Laila Layla 
+			Lamia Lamis Lamya Lateefah Latifa Latifah Lawahiz Layla Leila Lubna Lujayn Maha Malaika Malak Malika Maram 
+			Mariam Marwa Maryam Masuma Midha Mona Mouna Mubina Muhsina Mumina Muna Munira Munya Nabila Nada Nadia 
+			Nadira Nadiyya Nadra Nadya Naila Na'ima Najwa Naseem Nashwa Nasim Nasira Nassim Nawal Nawra Naziha Nazli 
+			Nida Nimat Noor Nuha Nur Nura Qamar Raabi'a Rabab Rabi'a Rabi Rafiqa Rafiq Rahat Raisa Rais Raja Rajiya 
+			Rajya Rajiya Ramla Ramlah Ramlah Rana Randa Raniya Ranya Raniya Rasha Rashida Rashid Rasima Rasim Rawiya 
+			Rawya Rayhana Reem Ridwana Rihanna Rim Rizwana Ruba Ruqayya Ruqayyah Ruwa Ruya Sa'adat Sabah Sabeen 
+			Sabriyya Sabri Sadaf Sa'dia Sa'di Safiya Safiyyah Sahar Sa'ida Sakina Salha Saliha Salima Salma Salwah 
+			Samar Sameera Samira Samia Samiya Samina Thamina Samira Samiya Sana Saniyya Sanya Sawsan Sayyida Selima 
+			Salima Shadiya Shadya Shadiya Shafaqat Shafiqa Shahd Shahira Shahnazpu Shahrazadr Shahrizad Shahrazad 
+			Shaimaa Shayma Shakila Shakil Shakira Shakir Shakura Shakur Sham'a Sharifa Shayma Shazi Shukriya Shula 
+			Suha Suhaila Sultana Sumayya Suraya Tabassum Tahira Taliba Tasnim Thamina Thana Thurayya Tuba Uzma Wafiya 
+			Waheeda Wahida Widad Yasmeen Yusra Zaahira Zahia Zahida Zahira Zahra Zahrah Zaida Zaina Zainab Zakiah 
+			Zakiya Zakiyya Zaray Zayna Zaynab Zinat Zubaida Zulaykha Zulekha
+		}
+	}
+	}
+ijaw_group = { 
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+	ijaw = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.22 0.44 0.66 }
+
+		male_names = {
+				Abadu-ingobo Abalagha Aberebiegha Adaere Adagogo Adango Adaubu Adawari Adonye Afini Akpoebi Akokari
+				Akede Ake Akpoebi Alali Alawei Amabara Amabipi Atonye Atili Ayebatari Ayebatonbra Ayibasenghe Balafama Baafuro
+				Baratuipre Benmonyo Basoene Biedima Bietonye Binatu Boma Brasiun Bubaraye Bulakakotua Damiebi Daminabo Daobomate
+				Daopunye Daowanate Datonye Datubo Dauebi Daulayefa Dawari Degbe Douye Ebi Ebiaga Ebiakpo Ebiarede Ebide Ebieya Ebikabowei 
+				Ebikemefa Ebikemie Ebisdor Ebitari Ebitimi Ebiye Ekiyor Ekiye Enemo Enai Eneyi Enibra Inemo Inemoweri Inyingiala Ituaton
+				Funpere Gesikeme Gbanaibolou Ibiaso Ibibo Ibienebo Ibim Ibimina Ibinye Ibisa Ibitamuno Idala Idawari Iderima Igunikeme 
+				Iyeopu Karibi Kromor Kenisuomein Kurokeme Ndukari Nimi Ogbotubo Oifie Okubo Olotu Ondotimi Ovie Oweipare Owoturufa Oyinagonoemi 
+				Pelleghedi Pere Perekreme Perelayefa Pereyei Seikemefa Seimieghan Seimobofa Suala Songo Seriake Suoyo Tamara-brakemi Tamara-emi
+				Tamarakro Tari Teinane Tekena Tibikaemi Timadi Timiebi Timieri Timilaemi Timipre Tokini Tokoni Wariebi Wengibunugha Zila Zuo Woyinpreye
+			}
+		
+		female_names = {
+		 Abinla Abiye Abenbofa Adibo Agake-ere Akpotutari Akumorere Alaere Alakere Alali Alayingi Amafini-ere Anitorunfa
+		 Ayakpo Ayawari Bejeara Beleuzi Beredugo Beriyai Bibinidei Bibodra Biboye Biobele Birakumo Bobolayefa Bobomiegha Bodisere Boma Boyelayefa
+		 Braibi Buboupakumo Dabota Debelolia Deina Dirimoebi Diseiin Disemi Diseye Doubra Douye Ebeleakpo Ebi Ebiakpo Ebiarede Ebiarere Ebiasuode
+		 Ebibani Ebidein-ere Ebieya Ebimie Ebimini Ebipade Ebipatei Ebisinkumor Ebiwou Ebiye Edubamo Ekiyor Elayokon Emeleakpo Enai Emomoemi Eniye
+		Enibraye Erebi Eredapa Erefagha Eremiemi Fila Fasingha Fimienye Funakpo Funebi Funere Funware Furopanye Ibiere Ibifuro Ibidigido Ibime Ibimina
+		Ibiso Ibinado Ikaebinyo Inekidou Inemo Ineye Inibrakemi Iniebi Iniye Iso Itohan Itorufa Izibekien Kalaya Kariara Kariebi Leleru Lolia Korimodi Makuere Naden
+		Nengimote Ngoebi Ogola Okubo-ere Oyin-efiye Oyinbra Oyinenade Oyinkarebi Paebe Pere Perede Pinaere Powei Poweila Seiakumokumo Sodienyi
+		Suoton Suoyo Takumeire Tamara Tamaraefie Tamarakarinate Tamarakru Tamaralayefa Tamaramiemini Tamarapreye Tare Tariebi Tarila Tekena Tokoni Woyengiemi Woyengifie Woyinbode Yinkeye
+		Yoriyori Yoroakpo Ziniebimiete Ziola Zuo
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	}
+tiv_group = { 
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+		cameroonian = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.85 0.35 0.2 }
+
+		male_names = {
+			"Nchare Yen" Ngoupou Monjou Mengap Ngouh Fifen Ngapna Ngouloure Koutou Mbouombouo
+			Ngbetnkom Mbeikuo Ngouhouo Ngoungoure Nsangou Njoya Seidou Njimoluh Ibrahim Nabil Mbombo 
+			Abi-Bakr_Abu-Bakr Abubakari_Abu-Bakr Akoi Alayaman Ali_Ali Ali-Fay Ali-Kolon Ali-Zalil Badä Bakr Bakr-Kanbu Bamari Bankanu
+			Bannu Bassarou Bassi Birama Bisi Biyu Bonga Cisse Dankaran Daoud_David Dawud_David Demba Diara Düru
+			Faga-Laye Fatta Fodi Fuluku Fädazu Gane Gao Hargani Harun Igoumou Ishaq_Isaac Ismail_Ismail Kabayo Kalabi Kambine
+			Kanafa Kassa Kasseï Kaya Kayna Kinkin Kisha Kodama Koize Kukuray Kusoy Lahiltoul M'Bali Maammarou Maghan
+			Mahmud_Mahmud Majan Malla Mamadi Mamoudou Manding-Bory Mari-Djata Maÿroumfa Missi-Izé Morobani Musa_Moses
+			Nintasanay Nuh Ouali Ouankoÿ Ouati Reidja Sakoura Salman_Solomon Samsou-Béri Samsou-Keïna Sandaki Soumaba
+			Soumaoro Soundiata Sulayman_Solomon Takoi Tib Tomo_Thomas Tunka Umar_Umar Yama Yaqub_Jacob Yasiboy Zakoi Zenku
+		}
+		female_names = {
+			Adja Aichata Aissata Alima Aminata Amita Aoua Barakissa Bintou Deye Djeneba Djenly Djire Fadima
+			Fatim Fatoumata Halima Hawa Ina Kadi Kilia Kolonkan Lorane Mariam Nafissa Namandjé Namiss Nana
+			Safiatou Salimata Sassouma Sidibé Siya Sogolon Tekhaye Youma Zeïnab
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	edo = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.36 0.55 0.47 }
+
+		male_names = {
+		Idogo Ere Orire Odia Ighido Evbobo Emehen Ekpigho Akhuankhuan Efeseke Irudia Orria Imarhan Etobowe Odion 
+		Erebo Agbonzeke Ediae Orriagba Uwa Eheneden Ohuede Oduwa Obioye Arigho Owodo Eweka Uwuakhuahen Henmihen Ewedo Oguola Edoni
+		Akang Udagbedo Ohen Egbeka Orobiru Uwaifiokun Ewuare Ezoti Olua Ozolua Esigie Orhogbua Ehengbuda Ohuan Ohenzae
+		Akenkpaye Akengbedo Ore-Oghene Ewuakpen Ozuere Akenzua Eresoyen Akengbuda Obanosa Ogbebo Osemwende Adolo Ovonramwen
+		Erediauwa 
+		Abu Abaku Abeh Abudu Aburimen Ada Adeusus Adodo Adolor Adoni Adu Aigbokhai Aigbokhan Aikhionbare Aikoriogie 
+		Aikpitanyi Ainojie Airenbesunu Airewele Airiavbere Aiwanyo Aiwuyo Ajayi Akhimien Akodeja Akpasi Akpata Alami 
+		Alohan Alufa Aleonjie Alegbe Amayo Amu Askia Asoro Ayegbeni Bagwa Bamiyi Bare Bazuaye Bosa Dauda Dokpesi Doni 
+		Ebengho Ebhojie Ebikade Edebiri Eguaseki Eguavoen Ehigie Ekeh Ekpen Ekhator Ekenezar Emovon Emwanmwan Enobore Esezobor
+		Ewaen Ezele Falodun Fosa Gbogi Guobadia Idah Idahor Idahosa Idemudia Idiagbon Idiaghe Idinyen Idubor Idukpayi
+		Idumwonyi Igen Ighekpe Igbinovia Igie Igunbor Igunma Ikan Iken Ikhafo Ikhana Ikhimwin Imina Imohe Imojie Imkhuede Itan Ituah
+		Iyamu Izedomi Izekor Izevbigie Jatto Joromi Kadiri Kedo Keneri Kokobi Legema Madujemu Momodu Momoh Nehi Obaretin Obaseki Obasogie
+		Obasuyi Obayagbona Obazee Odaro Odiase Odigie Ofeimu Ogbebor Ogbeide Ogbemudia Ogbodu Ogbomo Oghide Ogiemudia Ohehen Ohonbamu Ojeaga Okey
+		Okiri Okoduwa Okojie Okpefan Okosun Okoro Okundia Okuomose Oleghe Olumese Omerua Omiwe Omoruyi Onaghise Onaifo Osaghae Osaheni Osahon 
+		Osaigbovo Osakpamwan Osakpolor Osama Osawaru Osasuyi Osifo Osionmwunhi Otah Oto Otsu Oviarobo Oviasu Salawe Wie Oviawe Samu Suyi Taso Ubini
+		Ugbo Ugiagbe Ukeke Uloko Usifo Usiobaifo Usunobun Uwadia Uwagboe Uwaifo Uyiro Uzamere Woghiren Zomi Zomizomi Zuki
+		}
+		
+		female_names = {
+		Abiemwense Abies Abieyuwa Adesuwa Aghabiomo Aghaleladia Agharese Aghatiti Ahunwan Aigbogho Aiminede Aimienoho Aitemini Aizivie
+		Akugue Akugueghian Alele Ameghasihion Amenze Arese Ariowa Atiti Ayeki Ayemie Ayi Azagueni Azuwa Dieya Ebehiweokhin Ebiuwairo Ede Edehia Edeleokun
+		Edo Edoisiuwa Edowaye Efeomo Efua Efosa Eghe Egonmwan Ehigiawina Ehzogie Ekhorose Ekhosu Eki Ekiuwa Ekundayo Elo Elawe Emotan Enibokun Eniye Enotayo
+		Ese Esewie Esohe Evbayiro Evbu Evbusogie Ewminghare Fuje Iden Idia Ibieuwairo Ifueko Igharo Ighomo Iguehide Ijose Ikpakpa Ikuero Ilawe Imalele Imatiti
+		Imiamia Irowiri Isimeme Ivie Iwuomo Iyense Iyore Izehi Izogie Minoho Nadiakhe Nanare Niyen Notayo Noyin Ododo Oghoye Ohomoime Okankan Oloi Omi Omo Omobude
+		Omorose Omorowa Omosefe Omosukpon Omozusi Onah Osamiho Osarose Osasogie Osaruese Oseluese Otibhor Otoibhi Oyeh Sogie Shikpeka Teghese Tiyosayi Ugheghe Uvbi
+		Ulamen Uwafiokun Yoname Yuwa Zaye Zena Zogie Zona Zuwa Emose Ororo
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	tiv = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.77 0.33 0.44 }
+
+		male_names = {
+			Tyehimba Hemen Cieryol Ngutor Bundesaan Tor Vershima Fanan Terdue Gowon Ushahemba
+			Aondoawase Ushahemba Aondoawase Budepuun Dooshima Sekav Mmemna Pasem Kator Aondohimba Kumasughun Bemshima Bem Ishughun Boseda Teremun
+		}
+		
+		female_names = {
+			Seember Mimidoo Iywanger Ngusorun Sengohol Iyua Mensuur Shiana Hembafan Nguamo Kumasughun Awase Umbur Wueseter Fanen Ember
+			Dooember Ahemen Nguember Terungwa Nguyilan Mwar Dookenger Famimi
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	}
+niger_group = { 
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+yoruba = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.55 0.33 0.44 }
+
+		male_names = {
+		Abimbola Abiodun Abiola Abioye Abotoluwa Ade Adebayo Adebimpe Adebisi Adebola
+		Adebowale Adeboye Adedamola Adedayo Adedeji Adegoke Adekola Adekunle Adelaja Adeleke
+		Ademolo Adelowo Ademola Adeniyi Adenrele Adenuga Adepoju Adesoji Adesola Adetokunbo Adetola 
+		Adewale Adewunmi Adeyemi Adeyemi Adeyinka Afolabi Akande Akunkunmi Akintoye Akinwale Akinyemi
+		Alaba Anjolaoluwa Anuoluwapo Araloluwa Araoluwakitan Aremo Ayanfeoluwa Ayobami Ayobintan Ayodele Ayomide
+		Ayomiposi Ayoola Ayooluwa Ayooluwakitan Ayorinsola Ayiwznu Babalola Babatunde Babawale Bamidele 
+		Bayloluwato Bikoseoluwa Boluwatifenisola Bolutwatilolae Durodola Ebunoluwa Eniobafe Eniola Erioluwa Erioluwape Eytayo
+		Eytomilayo Fiyinfoluwa Ibukunoluwa Idow Idunnuola Ifedayo Ifeoluwa Ilerioluwa Inioluwa Ireoluwa
+		Iretioluwa Iseoluwa Iteluwakiishi Iyanuoluwa Maseso Mobalaji Mobolanrinwa Mosadioluwa Motosinuluwa
+		Obaloluwa Ogooluwa Ojumirayo Okanlanwon Oladayo Olafimihan Oladimeji Olamilekan Olamiposi Olanrewaju 
+		Olaoluwadotun Olaoluwatayo Olaoluwatomijogun Olasupo Oludemilade Olufemi Olujmi Olukayode Olusesan
+		Oluwbanigbe Sujuade Sujuwola Taiwo Temitope Titobiloluwa Toluwanimi
+		}
+		
+		female_names = {
+		Abeni Abifoluwa Abombola Abiodun Abioye Abisola Abosede Adepimbe Adebisi Adebola Adeboye Adedamola Adelola
+		Ademuyiwa Adenike Adeola Adepeju Aderonke Adesanya Adesewa Adetola Adetutu Adewemimo Adewunmi Adeyemi Adunni Aduragbemi Akanni
+		Anjolaifeoluwa Anrolaoluwayo Anuoluwabamise Anuoluwakiishi Anuoluwapo Ayomide Ayoola Ayooluwa Ayotola Ayotundun Ayowumi Boluwatife
+		Araoluwa Araoluwanimi Atinuke Atofarati Ayanfeoluwanimi Ayodapomope Ayodele Ayokunumi Digiola Ebunoluwa Eniola Ereadura Eriadurami 
+		Eriayomi Eriifeoluwasimi Erimipe Erinkansilemi Erioluwa Ewatomi Eyitayo Eyitomilayo Fadekemi Fadesewa Fadesike Fadesope Fiyinfoluwa
+		Gbemisola Ibukunoluwa Idunnuola Ifedayo Ifeoluwa Ikeoluwa Inioluwa Irekanmi Ireoluwa Iretiola Iteluwa Ololade Olubunmi Oluwabukunmi 
+		Itunuoluwa Iyalomowun Iyanuayo Iyin Kasopefoluwa Kikelomo Mobolade Mobolarinwa Mofeoluwa Mojirola Momoreoluwa Monifa Olamide Olaoluwatomi 
+		Moraanugba Morayo Morenike Morireoluwa Morounranti Motunrayo Moyinoluwa Ododo Odunayo Odunola Ogooluwa Ojumiriireoluwa Oladayo Olajumoke
+		Oluwabusola Oluwadabira Oluwadamilola Oluwadunsin Oluwafunke Oluwateniola Oluwatobi Omobobola Omolara Omolola Omotade Omotola Omowunmi Opeyemi
+		Oreofe Oreoluwa Oyenike Oyindasola Oyindumade Simisola Tanitoluwa Tanitoluwami Temitope Temilade Temiloluwa Titilayo Tititlope Tiwatope Toluwalashe
+		Wuraola Yejide Yewande Yeyetunde Yosolaoluwa Omolara
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+gbari  = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.96 0.45 0.27 }
+
+		male_names = {
+		Abimbola Abiodun Abiola Abioye Abotoluwa Ade Adebayo Adebimpe Adebisi Adebola
+		Adebowale Adeboye Adedamola Adedayo Adedeji Adegoke Adekola Adekunle Adelaja Adeleke
+		Ademolo Adelowo Ademola Adeniyi Adenrele Adenuga Adepoju Adesoji Adesola Adetokunbo Adetola 
+		Adewale Adewunmi Adeyemi Adeyemi Adeyinka Afolabi Akande Akunkunmi Akintoye Akinwale Akinyemi
+		Alaba Anjolaoluwa Anuoluwapo Araloluwa Araoluwakitan Aremo Ayanfeoluwa Ayobami Ayobintan Ayodele Ayomide
+		Ayomiposi Ayoola Ayooluwa Ayooluwakitan Ayorinsola Ayiwznu Babalola Babatunde Babawale Bamidele 
+		Bayloluwato Bikoseoluwa Boluwatifenisola Bolutwatilolae Durodola Ebunoluwa Eniobafe Eniola Erioluwa Erioluwape Eytayo
+		Eytomilayo Fiyinfoluwa Ibukunoluwa Idow Idunnuola Ifedayo Ifeoluwa Ilerioluwa Inioluwa Ireoluwa
+		Iretioluwa Iseoluwa Iteluwakiishi Iyanuoluwa Maseso Mobalaji Mobolanrinwa Mosadioluwa Motosinuluwa
+		Obaloluwa Ogooluwa Ojumirayo Okanlanwon Oladayo Olafimihan Oladimeji Olamilekan Olamiposi Olanrewaju 
+		Olaoluwadotun Olaoluwatayo Olaoluwatomijogun Olasupo Oludemilade Olufemi Olujmi Olukayode Olusesan
+		Oluwbanigbe Sujuade Sujuwola Taiwo Temitope Titobiloluwa Toluwanimi
+		}
+		
+		female_names = {
+		Abeni Abifoluwa Abombola Abiodun Abioye Abisola Abosede Adepimbe Adebisi Adebola Adeboye Adedamola Adelola
+		Ademuyiwa Adenike Adeola Adepeju Aderonke Adesanya Adesewa Adetola Adetutu Adewemimo Adewunmi Adeyemi Adunni Aduragbemi Akanni
+		Anjolaifeoluwa Anrolaoluwayo Anuoluwabamise Anuoluwakiishi Anuoluwapo Ayomide Ayoola Ayooluwa Ayotola Ayotundun Ayowumi Boluwatife
+		Araoluwa Araoluwanimi Atinuke Atofarati Ayanfeoluwanimi Ayodapomope Ayodele Ayokunumi Digiola Ebunoluwa Eniola Ereadura Eriadurami 
+		Eriayomi Eriifeoluwasimi Erimipe Erinkansilemi Erioluwa Ewatomi Eyitayo Eyitomilayo Fadekemi Fadesewa Fadesike Fadesope Fiyinfoluwa
+		Gbemisola Ibukunoluwa Idunnuola Ifedayo Ifeoluwa Ikeoluwa Inioluwa Irekanmi Ireoluwa Iretiola Iteluwa Ololade Olubunmi Oluwabukunmi 
+		Itunuoluwa Iyalomowun Iyanuayo Iyin Kasopefoluwa Kikelomo Mobolade Mobolarinwa Mofeoluwa Mojirola Momoreoluwa Monifa Olamide Olaoluwatomi 
+		Moraanugba Morayo Morenike Morireoluwa Morounranti Motunrayo Moyinoluwa Ododo Odunayo Odunola Ogooluwa Ojumiriireoluwa Oladayo Olajumoke
+		Oluwabusola Oluwadabira Oluwadamilola Oluwadunsin Oluwafunke Oluwateniola Oluwatobi Omobobola Omolara Omolola Omotade Omotola Omowunmi Opeyemi
+		Oreofe Oreoluwa Oyenike Oyindasola Oyindumade Simisola Tanitoluwa Tanitoluwami Temitope Temilade Temiloluwa Titilayo Tititlope Tiwatope Toluwalashe
+		Wuraola Yejide Yewande Yeyetunde Yosolaoluwa Omolara
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+nupe = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.76 0.25 0.37 }
+
+		male_names = {
+		Abimbola Abiodun Abiola Abioye Abotoluwa Ade Adebayo Adebimpe Adebisi Adebola
+		Adebowale Adeboye Adedamola Adedayo Adedeji Adegoke Adekola Adekunle Adelaja Adeleke
+		Ademolo Adelowo Ademola Adeniyi Adenrele Adenuga Adepoju Adesoji Adesola Adetokunbo Adetola 
+		Adewale Adewunmi Adeyemi Adeyemi Adeyinka Afolabi Akande Akunkunmi Akintoye Akinwale Akinyemi
+		Alaba Anjolaoluwa Anuoluwapo Araloluwa Araoluwakitan Aremo Ayanfeoluwa Ayobami Ayobintan Ayodele Ayomide
+		Ayomiposi Ayoola Ayooluwa Ayooluwakitan Ayorinsola Ayiwznu Babalola Babatunde Babawale Bamidele 
+		Bayloluwato Bikoseoluwa Boluwatifenisola Bolutwatilolae Durodola Ebunoluwa Eniobafe Eniola Erioluwa Erioluwape Eytayo
+		Eytomilayo Fiyinfoluwa Ibukunoluwa Idow Idunnuola Ifedayo Ifeoluwa Ilerioluwa Inioluwa Ireoluwa
+		Iretioluwa Iseoluwa Iteluwakiishi Iyanuoluwa Maseso Mobalaji Mobolanrinwa Mosadioluwa Motosinuluwa
+		Obaloluwa Ogooluwa Ojumirayo Okanlanwon Oladayo Olafimihan Oladimeji Olamilekan Olamiposi Olanrewaju 
+		Olaoluwadotun Olaoluwatayo Olaoluwatomijogun Olasupo Oludemilade Olufemi Olujmi Olukayode Olusesan
+		Oluwbanigbe Sujuade Sujuwola Taiwo Temitope Titobiloluwa Toluwanimi
+		}
+		
+		female_names = {
+		Abeni Abifoluwa Abombola Abiodun Abioye Abisola Abosede Adepimbe Adebisi Adebola Adeboye Adedamola Adelola
+		Ademuyiwa Adenike Adeola Adepeju Aderonke Adesanya Adesewa Adetola Adetutu Adewemimo Adewunmi Adeyemi Adunni Aduragbemi Akanni
+		Anjolaifeoluwa Anrolaoluwayo Anuoluwabamise Anuoluwakiishi Anuoluwapo Ayomide Ayoola Ayooluwa Ayotola Ayotundun Ayowumi Boluwatife
+		Araoluwa Araoluwanimi Atinuke Atofarati Ayanfeoluwanimi Ayodapomope Ayodele Ayokunumi Digiola Ebunoluwa Eniola Ereadura Eriadurami 
+		Eriayomi Eriifeoluwasimi Erimipe Erinkansilemi Erioluwa Ewatomi Eyitayo Eyitomilayo Fadekemi Fadesewa Fadesike Fadesope Fiyinfoluwa
+		Gbemisola Ibukunoluwa Idunnuola Ifedayo Ifeoluwa Ikeoluwa Inioluwa Irekanmi Ireoluwa Iretiola Iteluwa Ololade Olubunmi Oluwabukunmi 
+		Itunuoluwa Iyalomowun Iyanuayo Iyin Kasopefoluwa Kikelomo Mobolade Mobolarinwa Mofeoluwa Mojirola Momoreoluwa Monifa Olamide Olaoluwatomi 
+		Moraanugba Morayo Morenike Morireoluwa Morounranti Motunrayo Moyinoluwa Ododo Odunayo Odunola Ogooluwa Ojumiriireoluwa Oladayo Olajumoke
+		Oluwabusola Oluwadabira Oluwadamilola Oluwadunsin Oluwafunke Oluwateniola Oluwatobi Omobobola Omolara Omolola Omotade Omotola Omowunmi Opeyemi
+		Oreofe Oreoluwa Oyenike Oyindasola Oyindumade Simisola Tanitoluwa Tanitoluwami Temitope Temilade Temiloluwa Titilayo Tititlope Tiwatope Toluwalashe
+		Wuraola Yejide Yewande Yeyetunde Yosolaoluwa Omolara
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+igbo = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.36 0.53 0.21 }
+
+		male_names = {
+		Okonkwo Okorie Okoeke Okoafo Okoroafo Agu Onundungo Umewezie Okoro_Okorie  
+		}
+		
+		female_names = {
+		Mgboafo Mgborie Nwanyinkwo Mgbeeke Nkwoja Ugweke 
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+igala = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.86 0.44 0.12 }
+
+		male_names = {
+		Ache Abalaka Achimugwu Aboh Achagba Achegbulu Achemu Acheneje Achenyo Achonu Achimi Adaji Adama Adebo Adejo Adegbe
+		Adukwu Agefu Agbeju Agude Ajanigo Uchebo Ajowu Ajuma Aladi Aladi Laluba Alami Akoji Akowe Alika Alifeli Amade Ameh Anene
+		Anone Anoko Anaja Atulukwu Abimaje Ajigwu Ajifa Akwu Adegbe Aneju Aruwa Ojochenemi Ojochide Ojochogwu Ebiojo Edegboi Edogbanya
+		Edoeje Ejura Edibo Ejima Egbunu Ekojonwa Eleojo Ekele Enemona Enenbi Enenyo Enefola Enemi Enejo Ojimaojo Umola Etila Eyimeje Etimabo
+		Etimabo Enemakwu Fitumi Ufedo Ibe Ichala Idaji Idakwo Idachaba Idajili Idoko Iganya Ikojo Ikani Ileje Iyoma Itodo Ichado Idegwu Obaje Oboni
+		Obaka Odoma Ogala Omebije Onechojo Onaji Ogwuche Oboja Onalo Okayi Okpanachi Opaluwa Okolo Ugbane Ojonimi Ojomugbo Ocholi
+		}
+		
+		female_names = {
+		Ati-Ata Olema Anogena Agbo Agochi Olema  Ebulejonu Aganapoje Ayegba Akwumabi Akogwu Agada Ameh Itodo Ogala Idoko Onuche Ekele Ameh Akwu
+		Okoliko Agah Ocheje Aliyu Idakwo
+		Ache Abalaka Achimugwu Aboh Achagba Achegbulu Achemu Acheneje Achenyo Achonu Achimi Adaji Adama Adebo Adejo Adegbe
+		Adukwu Agefu Agbeju Agude Ajanigo Uchebo Ajowu Ajuma Aladi Aladi Laluba Alami Akoji Akowe Alika Alifeli Amade Ameh Anene
+		Anone Anoko Anaja Atulukwu Abimaje Ajigwu Ajifa Akwu Adegbe Aneju Aruwa Ojochenemi Ojochide Ojochogwu Ebiojo Edegboi Edogbanya
+		Edoeje Ejura Edibo Ejima Egbunu Ekojonwa Eleojo Ekele Enemona Enenbi Enenyo Enefola Enemi Enejo Ojimaojo Umola Etila Eyimeje Etimabo
+		Etimabo Enemakwu Fitumi Ufedo Ibe Ichala Idaji Idakwo Idachaba Idajili Idoko Iganya Ikojo Ikani Ileje Iyoma Itodo Ichado Idegwu Obaje Oboni
+		Obaka Odoma Ogala Omebije Onechojo Onaji Ogwuche Oboja Onalo Okayi Okpanachi Opaluwa Okolo Ugbane Ojonimi Ojomugbo Ocholi
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+itsekiri = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.79 0.54 0.14 }
+
+		male_names = {
+		Ginuwa Ijijen Irame Ojoluwa Esigie Atorongboye Atuwatse Oyenakpagha Omoluyiri Abejoye Akenjoye Omagboye Akengboye Atogbuwa Erejuwa Akengbuwa 
+		Ikenwoli
+		Ache Abalaka Achimugwu Aboh Achagba Achegbulu Achemu Acheneje Achenyo Achonu Achimi Adaji Adama Adebo Adejo Adegbe
+		Adukwu Agefu Agbeju Agude Ajanigo Uchebo Ajowu Ajuma Aladi Aladi Laluba Alami Akoji Akowe Alika Alifeli Amade Ameh Anene
+		Anone Anoko Anaja Atulukwu Abimaje Ajigwu Ajifa Akwu Adegbe Aneju Aruwa Ojochenemi Ojochide Ojochogwu Ebiojo Edegboi Edogbanya
+		Edoeje Ejura Edibo Ejima Egbunu Ekojonwa Eleojo Ekele Enemona Enenbi Enenyo Enefola Enemi Enejo Ojimaojo Umola Etila Eyimeje Etimabo
+		Etimabo Enemakwu Fitumi Ufedo Ibe Ichala Idaji Idakwo Idachaba Idajili Idoko Iganya Ikojo Ikani Ileje Iyoma Itodo Ichado Idegwu Obaje Oboni
+		Obaka Odoma Ogala Omebije Onechojo Onaji Ogwuche Oboja Onalo Okayi Okpanachi Opaluwa Okolo Ugbane Ojonimi Ojomugbo Ocholi
+		}
+		
+		female_names = {
+		Ati-Ata Olema Anogena Agbo Agochi Olema  Ebulejonu Aganapoje Ayegba Akwumabi Akogwu Agada Ameh Itodo Ogala Idoko Onuche Ekele Ameh Akwu
+		Okoliko Agah Ocheje Aliyu Idakwo
+		Ache Abalaka Achimugwu Aboh Achagba Achegbulu Achemu Acheneje Achenyo Achonu Achimi Adaji Adama Adebo Adejo Adegbe
+		Adukwu Agefu Agbeju Agude Ajanigo Uchebo Ajowu Ajuma Aladi Aladi Laluba Alami Akoji Akowe Alika Alifeli Amade Ameh Anene
+		Anone Anoko Anaja Atulukwu Abimaje Ajigwu Ajifa Akwu Adegbe Aneju Aruwa Ojochenemi Ojochide Ojochogwu Ebiojo Edegboi Edogbanya
+		Edoeje Ejura Edibo Ejima Egbunu Ekojonwa Eleojo Ekele Enemona Enenbi Enenyo Enefola Enemi Enejo Ojimaojo Umola Etila Eyimeje Etimabo
+		Etimabo Enemakwu Fitumi Ufedo Ibe Ichala Idaji Idakwo Idachaba Idajili Idoko Iganya Ikojo Ikani Ileje Iyoma Itodo Ichado Idegwu Obaje Oboni
+		Obaka Odoma Ogala Omebije Onechojo Onaji Ogwuche Oboja Onalo Okayi Okpanachi Opaluwa Okolo Ugbane Ojonimi Ojomugbo Ocholi
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+}
+gur_group = { # needs names
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+gur = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.12 0.44 0.66 }
+
+		male_names = {
+			Abi Abu Adamu_Adam Ahmad Al-Hajj Alayaman Ali Alkamiisa Ammar Ankabi Ar Arabi Aranda
+			Baba Babba Bada Baki Bakr Bani Bano Baru Bassarou Bay Ber Binta Birma Bisi Biya Biyay Biyo Bonkana Borgo Boumi Bukar Buyunbu
+			Daara Dala Dankataya Dao Daouda_David Dari Dawud_David Dum Dunku Duru
+			Fadazaw Falaku Far Fari-Mondzo Fay Fi Fodi
+			Hanga Hargani Harun Hassan Hin Huseini
+			Ibrahim_Abraham Igoumou Ikoi Ishaq_Isaac Is’mail Ize Jim
+			Kaasei Kanafa Kanbu Karaway Karay Karbachi Kayna Keina Kibu’u Kima Kimi Kinba Kinkin Kiray Kisha Kodama Koi Koize Kolon Komi Koy Ku Kukiya Kukura Kuli Kulun Kumay Kun Kur Kusoy Kusur
+			Laraba Maammarou Mahmud Malla Mar Mar-Chindin Mayroumfa Missi Morobani Moussa Muhammed Musa
+			Nari Nuh Nunta Ouankoy
+			Samsou Samsou-Beri Sanay Shams Shinyunbu Silman Sorko-ije Sulayman Sunni
+			Takoi Tib Tomo Uthman Wunka Yama Yaqub_Jacob Yasiboy Yuma Zakoi Zalil Zunku
+		}
+		
+		female_names = {
+			Adama Aisha Alkamiisa Amina Aminah Azzah 
+			Bilqis Chindi Daara Dangey
+			Fanta Fatima_Fatima Fatimah Fitila
+			Gando Geyka Hassana Hawa Huseina Kouton
+			Lambu Layla Mecca Medina Nuru Tarifa Teko Zaynab
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+}
+nilotic_group = {
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+	acholi = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.25 0.25 0.25 }
+
+		male_names = {
+		Barmasai Leboo Koinet Legishon Lemayian Lemuani Naengop Sironka Olamayian Mingati Miterenianka Kapalei Koinet
+		Komeyicin Kurary Legeny Lemaron Lemayian Lembui Lemuanik Lolkerra Maitera Masigonde Mbiraru Mejooli Meticiko Murunga Naengop Nampazo 
+		Ntimama Oloishona Parneres Sabore Sankei Sankale Santamo Simel Surum Tonkei Nadupoi
+		}
+		female_names = {
+			Naserian Namelok Nkasiogi Nataana Nalutuesha Nalangu Naisiae Naipanoi Naimutiae Naeku Lankenua Kingasunye Esiankiki
+			Namunyak Naipanoi Isina Kingasunye Kiserian Lankenua Liloe Malazo Naeku Naimutiae Naipanoi Naisaruru Naisenya Naisiae Naisianoi Nalangu
+		  Naramal Peresian Pion Resson Sankau Segeyian Semeyian Siglal Siatamei Simaloi Simu Sintamei Sipanto
+			Sopiato Tanei Tentoyia Terenua Tigisi
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	turkana = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 1 51 1 }
+
+		male_names = {
+		Barmasai Leboo Koinet Legishon Lemayian Lemuani Naengop Sironka Olamayian Mingati Miterenianka Kapalei Koinet
+		Komeyicin Kurary Legeny Lemaron Lemayian Lembui Lemuanik Lolkerra Maitera Masigonde Mbiraru Mejooli Meticiko Murunga Naengop Nampazo 
+		Ntimama Oloishona Parneres Sabore Sankei Sankale Santamo Simel Surum Tonkei Nadupoi
+		}
+		female_names = {
+			Naserian Namelok Nkasiogi Nataana Nalutuesha Nalangu Naisiae Naipanoi Naimutiae Naeku Lankenua Kingasunye Esiankiki
+			Namunyak Naipanoi Isina Kingasunye Kiserian Lankenua Liloe Malazo Naeku Naimutiae Naipanoi Naisaruru Naisenya Naisiae Naisianoi Nalangu
+		  Naramal Peresian Pion Resson Sankau Segeyian Semeyian Siglal Siatamei Simaloi Simu Sintamei Sipanto
+			Sopiato Tanei Tentoyia Terenua Tigisi
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	nilotic = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.00 0.00 0.00 }
+
+		male_names = {
+		Barmasai Leboo Koinet Legishon Lemayian Lemuani Naengop Sironka Olamayian Mingati Miterenianka Kapalei Koinet
+		Komeyicin Kurary Legeny Lemaron Lemayian Lembui Lemuanik Lolkerra Maitera Masigonde Mbiraru Mejooli Meticiko Murunga Naengop Nampazo 
+		Ntimama Oloishona Parneres Sabore Sankei Sankale Santamo Simel Surum Tonkei Nadupoi
+		}
+		female_names = {
+			Naserian Namelok Nkasiogi Nataana Nalutuesha Nalangu Naisiae Naipanoi Naimutiae Naeku Lankenua Kingasunye Esiankiki
+			Namunyak Naipanoi Isina Kingasunye Kiserian Lankenua Liloe Malazo Naeku Naimutiae Naipanoi Naisaruru Naisenya Naisiae Naisianoi Nalangu
+		  Naramal Peresian Pion Resson Sankau Segeyian Semeyian Siglal Siatamei Simaloi Simu Sintamei Sipanto
+			Sopiato Tanei Tentoyia Terenua Tigisi
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	}
+sudanese_group = {
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+	gbaya = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.35 0.6 0.4 }
+
+		male_names = {
+			Alier Alou Bol Chol Deng Dut Garang Hol Jok Kuol Kuur Mabior Makuach Marial Mayol Teng Thon
+			Kapalei Koinet Komeyicin Kurary Leboo Legeny Legishon Lemaron Lemashon Lemayian Lembui Lemuanik Lolkerra Maitera Masigonde Mbiraru Mejooli
+			Meticiki Murunga Naengop Nampazo Ntimama Oloishona Parneres Sabore Sankei Sankale Santamo Simel Sironka Surum Tonkei
+		}
+		female_names = {
+			Acol Achor Adut Agau Agop Ajuong Akech Aker Alek Aluel Amer Anon Atap Atong Awek Ayen Nyandeng
+			Isina Kingasunye Kiserian Lankenua Liloe Malazo Naeku Naimutiae Naipanoi Naisaruru Naisenya Naisiae Naisianoi Nalangu Nalutuesha Namelok Namunyak
+			Naramal Naserian Nataana Nkasiogi Peresian Pion Resson Sankau Segeyian Semeyian Siglal Siatamei Simaloi Simu Sintamei Sipanto Sopiato Tanei
+			Tentoyia Terenua Tigisi
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	banda = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.4 0.5 0.4 }
+
+		male_names = {
+			Alier Alou Bol Chol Deng Dut Garang Hol Jok Kuol Kuur Mabior Makuach Marial Mayol Teng Thon
+			Kapalei Koinet Komeyicin Kurary Leboo Legeny Legishon Lemaron Lemashon Lemayian Lembui Lemuanik Lolkerra Maitera Masigonde Mbiraru Mejooli
+			Meticiki Murunga Naengop Nampazo Ntimama Oloishona Parneres Sabore Sankei Sankale Santamo Simel Sironka Surum Tonkei
+		}
+		female_names = {
+			Acol Achor Adut Agau Agop Ajuong Akech Aker Alek Aluel Amer Anon Atap Atong Awek Ayen Nyandeng
+			Isina Kingasunye Kiserian Lankenua Liloe Malazo Naeku Naimutiae Naipanoi Naisaruru Naisenya Naisiae Naisianoi Nalangu Nalutuesha Namelok Namunyak
+			Naramal Naserian Nataana Nkasiogi Peresian Pion Resson Sankau Segeyian Semeyian Siglal Siatamei Simaloi Simu Sintamei Sipanto Sopiato Tanei
+			Tentoyia Terenua Tigisi
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	sudanese = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.3 0.7 0.4 }
+
+		male_names = {
+			Alier Alou Bol Chol Deng Dut Garang Hol Jok Kuol Kuur Mabior Makuach Marial Mayol Teng Thon
+			Kapalei Koinet Komeyicin Kurary Leboo Legeny Legishon Lemaron Lemashon Lemayian Lembui Lemuanik Lolkerra Maitera Masigonde Mbiraru Mejooli
+			Meticiki Murunga Naengop Nampazo Ntimama Oloishona Parneres Sabore Sankei Sankale Santamo Simel Sironka Surum Tonkei
+		}
+		female_names = {
+			Acol Achor Adut Agau Agop Ajuong Akech Aker Alek Aluel Amer Anon Atap Atong Awek Ayen Nyandeng
+			Isina Kingasunye Kiserian Lankenua Liloe Malazo Naeku Naimutiae Naipanoi Naisaruru Naisenya Naisiae Naisianoi Nalangu Nalutuesha Namelok Namunyak
+			Naramal Naserian Nataana Nkasiogi Peresian Pion Resson Sankau Segeyian Semeyian Siglal Siatamei Simaloi Simu Sintamei Sipanto Sopiato Tanei
+			Tentoyia Terenua Tigisi
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	}
+songhay_group = {
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+	songhay = {
+		color = { 0.5 0.35 0.10 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		male_names = {
+			Abi Abu Adamu_Adam Ahmad Al-Hajj Alayaman Ali Alkamiisa Ammar Ankabi Ar Arabi Aranda
+			Baba Babba Bada Baki Bakr Bani Bano Baru Bassarou Bay Ber Binta Birma Bisi Biya Biyay Biyo Bonkana Borgo Boumi Bukar Buyunbu
+			Daara Dala Dankataya Dao Daouda_David Dari Dawud_David Dum Dunku Duru
+			Fadazaw Falaku Far Fari-Mondzo Fay Fi Fodi
+			Hanga Hargani Harun Hassan Hin Huseini
+			Ibrahim_Abraham Igoumou Ikoi Ishaq_Isaac Is’mail Ize Jim
+			Kaasei Kanafa Kanbu Karaway Karay Karbachi Kayna Keina Kibu’u Kima Kimi Kinba Kinkin Kiray Kisha Kodama Koi Koize Kolon Komi Koy Ku Kukiya Kukura Kuli Kulun Kumay Kun Kur Kusoy Kusur
+			Laraba Maammarou Mahmud Malla Mar Mar-Chindin Mayroumfa Missi Morobani Moussa Muhammed Musa
+			Nari Nuh Nunta Ouankoy
+			Samsou Samsou-Beri Sanay Shams Shinyunbu Silman Sorko-ije Sulayman Sunni
+			Takoi Tib Tomo Uthman Wunka Yama Yaqub_Jacob Yasiboy Yuma Zakoi Zalil Zunku
+		}
+		
+		female_names = {
+			Adama Aisha Alkamiisa Amina Aminah Azzah 
+			Bilqis Chindi Daara Dangey
+			Fanta Fatima_Fatima Fatimah Fitila
+			Gando Geyka Hassana Hawa Huseina Kouton
+			Lambu Layla Mecca Medina Nuru Tarifa Teko Zaynab
+		}
+	}
+	}
+	dogon_group = { #needs names
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+	dogon = {
+		color = { 0.0 1.0 1.0 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		male_names = {
+			Abi Abu Adamu_Adam Ahmad Al-Hajj Alayaman Ali Alkamiisa Ammar Ankabi Ar Arabi Aranda
+			Baba Babba Bada Baki Bakr Bani Bano Baru Bassarou Bay Ber Binta Birma Bisi Biya Biyay Biyo Bonkana Borgo Boumi Bukar Buyunbu
+			Daara Dala Dankataya Dao Daouda_David Dari Dawud_David Dum Dunku Duru
+			Fadazaw Falaku Far Fari-Mondzo Fay Fi Fodi
+			Hanga Hargani Harun Hassan Hin Huseini
+			Ibrahim_Abraham Igoumou Ikoi Ishaq_Isaac Is’mail Ize Jim
+			Kaasei Kanafa Kanbu Karaway Karay Karbachi Kayna Keina Kibu’u Kima Kimi Kinba Kinkin Kiray Kisha Kodama Koi Koize Kolon Komi Koy Ku Kukiya Kukura Kuli Kulun Kumay Kun Kur Kusoy Kusur
+			Laraba Maammarou Mahmud Malla Mar Mar-Chindin Mayroumfa Missi Morobani Moussa Muhammed Musa
+			Nari Nuh Nunta Ouankoy
+			Samsou Samsou-Beri Sanay Shams Shinyunbu Silman Sorko-ije Sulayman Sunni
+			Takoi Tib Tomo Uthman Wunka Yama Yaqub_Jacob Yasiboy Yuma Zakoi Zalil Zunku
+		}
+		
+		female_names = {
+			Adama Aisha Alkamiisa Amina Aminah Azzah 
+			Bilqis Chindi Daara Dangey
+			Fanta Fatima_Fatima Fatimah Fitila
+			Gando Geyka Hassana Hawa Huseina Kouton
+			Lambu Layla Mecca Medina Nuru Tarifa Teko Zaynab
+		}
+	}
+	}
+kwa_group = {
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+ivoir = {
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.65 0.35 0.3 }
+
+		male_names = {
+		Kwesi Kojo Kwabena Ebo Kweku Yooku Yaw Kofi Kwame Ata "Ata Panyin" "Ata Kakra" Tawia Gaddo		
+		Piesi Manu Mensa Anan Num Esia Esuon Botwe Akron Badu Duku Dunu Adusa Agyeman Kaakyire
+		Efum Ekwan Bekoe Afriyie Adofo Agyenim Nyamekye Nyameama Kumi Anto Obirnre Yempew
+		}
+		female_names = {
+		Akosua Esi Adwoa Abena Akua Yaa Afua Amba Ama Ataa "Ataa Panyin" Kakra Tawia Nyankomago
+		Piesi Manu Mansa Anan Num Esia Nsowaa Botwe Nkroma Baduwaa Duku Dunu Adusa Agyeman Kaakyire
+		Efum Ekwan Bekoe Afriyie Adofo Agyenim Nyamekye Nyameama Kumi Anto Obirnre Yempew
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+}
+kru_group = {
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+kru = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.44 0.36 0.25 }
+		male_names = {
+		Drogba Koudou Gbagdo Didwho
+		}
+		female_names = {
+		Fatou Aminata Awa Khady Aissatou Seynabou Mariama Maimouna Rokhaya Fatoumata
+		Coumba "Ndeye Fatou" Adama Astou Khadidiatou Dieynaba Aida Ramatoulaye Joor
+		Mbayang Yengiga
+		}
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+}
+}
+atlantic_kongo = {
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+wolof = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.12 0.36 0.99 }
+		
+		male_names = {
+		Mamadou	Ibrahima Abdoulaye Ousmane Moussa Amadou Babacar Oumar Cheikh Moustapha
+		Aliou Assane Abdou Souleymane Mbaye Malick Lamine Samba Alburi Amul-yaakaar Birago Famara
+		Gor Gorgui Massyla Nfamara Yeggul-ngon Yoro
+		}
+		female_names = {
+		Fatou Aminata Awa Khady Aissatou Seynabou Mariama Maimouna Rokhaya Fatoumata
+		Coumba "Ndeye Fatou" Adama Astou Khadidiatou Dieynaba Aida Ramatoulaye Joor
+		Mbayang Yengiga
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+		}
+serer = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.22 0.46 0.88 }
+		
+		male_names = {
+		Mamadou	Ibrahima Abdoulaye Ousmane Moussa Amadou Babacar Oumar Cheikh Moustapha
+		Aliou Assane Abdou Souleymane Mbaye Malick Lamine Samba Alburi Amul-yaakaar Birago Famara
+		Gor Gorgui Massyla Nfamara Yeggul-ngon Yoro
+		}
+		female_names = {
+		Fatou Aminata Awa Khady Aissatou Seynabou Mariama Maimouna Rokhaya Fatoumata
+		Coumba "Ndeye Fatou" Adama Astou Khadidiatou Dieynaba Aida Ramatoulaye Joor
+		Mbayang Yengiga
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+		}
+ajamat = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.32 0.56 0.77 }
+		
+		male_names = {
+		Mamadou	Ibrahima Abdoulaye Ousmane Moussa Amadou Babacar Oumar Cheikh Moustapha
+		Aliou Assane Abdou Souleymane Mbaye Malick Lamine Samba Alburi Amul-yaakaar Birago Famara
+		Gor Gorgui Massyla Nfamara Yeggul-ngon Yoro
+		}
+		female_names = {
+		Fatou Aminata Awa Khady Aissatou Seynabou Mariama Maimouna Rokhaya Fatoumata
+		Coumba "Ndeye Fatou" Adama Astou Khadidiatou Dieynaba Aida Ramatoulaye Joor
+		Mbayang Yengiga
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+		}
+balanta = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.42 0.66 0.66 }
+		
+		male_names = {
+		Isnaba Bidamatcha Bidamoni Pansau Muthna Midana Yabna Yemna Bessna Bussnasum Clode Loqbass "N'ala" Yurna-uede
+		Tibna Wilbonh Bodamlo Sanabe Blomate Matchna Lagna Abna Tchedna "N'kole" "N'kalussa" Daghna Yufa "N'bonh" Rufna Tanhana
+		Kdelekeya Mamna Furpanh Longo Buongue "N'bana" Binham-blata Binhangueletche Satna Thuna "N'urgue" Kundok "Q'balna" Nhangata
+		Buyussum Alan-ate Wafande Ismarate Lifna Sunhana Bilimbate "N'marate" Latindam Alod
+		}
+		female_names = {
+		"N'damessa" Nhikuba Bissam Uindjaba Mada Sindatchi Buota Abemnam Tcetna Tcherna Binham "Binham-Bitida"
+		Bigna Bitche-san Nansam Butunsam "N'tabanhin" Baren Tolous Messtina Alanan Aule Uinda Tcholona Wilmada Bidamsanta
+		Alabote Alaoi Nindam Loqssan Uinten Ferian Nhiodida Webche Nam-ussa Dayena Bissigue Babitida Kdutar
+		Biess Bitchelia Bissilay Sanqueia Binan-Bissan Nhimana "N'panhde" Nhet "N'sundeuna" Sunda "N'bonde" Buomessa Bundate
+		Woiany "N'tonbique" "N'ramba" Balantaya Alantem Bissamin Bioqssan Qssan Abeni
+		}
+		
+		from_dynasty_prefix = "Na "
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+		}
+temne = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.52 0.76 0.55 }
+		
+		male_names = {
+		Alhassan Alimamy Mustapha Thaimu Umaru Zainab Abass Sallieu Bai Mohamed
+		Alie Bai Obai Soccoh Dauda Samura Abu Abdul Brima Momodou Sorie Ahmed Naimbanna 
+		Yahya Okere	Mustapha Kabba Sorious Foday Kemoh Gbassay Alhaji Minkailu Togidankay Adiatu
+		Sulaiman Solomon Siaka Sheku Kaifala Komba Teteh Santigie Haja Moinina     
+		}
+		female_names = {
+		Isha Fatmata Isatu Kadi Sia Shirley Rashida 
+		
+		Fatou Aminata Awa Khady Aissatou Seynabou Mariama Maimouna Rokhaya Fatoumata
+		Coumba "Ndeye Fatou" Adama Astou Khadidiatou Dieynaba Aida Ramatoulaye Joor
+		Mbayang Yengiga
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+		}
+gola = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.62 0.86 0.44 }
+		
+		male_names = {
+		Siaffa Seh Sei_Seh Tarweh Momolu Momo Kayme Sekou Ansa Baimba Bonokai Lamie Kaijaah Varney Varfee Jallah Kanneh 
+		Kengbe Gbessay Kemokai Pese Karmo Gbotoe Konowa Buyamah Kpanna Lumah Jahn Konah Sando Zinnah Jalla Zolu 
+		}
+		female_names = {
+		Fatu Jebbeh Ciatta Miata Satta Gbelly Hawa Musu Jandi Jumah Kaymah Gbessay Jenneh Cianna Maima Famatta Fatumatta 
+		Bendu Jabateh Nyanae Kula Kumba Siah Tenneh Mabasi Wokie Weyatta Yattah Kpannah Tartu Somo Jartu Fofannah Zoe Massa
+		Yassa Ciatta Lorpu Somah Konah Sando Zinnah
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+		}
+fula = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.72 0.96 0.04 }
+		
+		male_names = {
+		Tengella Koli Laba Jam Gelaajo Yero Njal Jaje Gata Samba Bokar Bubakar Sire Bubu Konko Sule Makhan Abdul 
+		Kader Moktar Hamat Yusuf Ali Mamadu Biran
+		Siaffa Seh Sei_Seh Tarweh Momolu Momo Kayme Sekou Ansa Baimba Bonokai Lamie Kaijaah Varney Varfee Jallah Kanneh 
+		Kengbe Gbessay Kemokai Pese Karmo Gbotoe Konowa Buyamah Kpanna Lumah Jahn Konah Sando Zinnah
+		}
+		female_names = {
+		Fatu Jebbeh Ciatta Miata Satta Gbelly Hawa Musu Jandi Jumah Kaymah Gbessay Jenneh Cianna Maima Famatta Fatumatta 
+		Bendu Jabateh Nyanae Kula Kumba Siah Tenneh Mabasi Wokie Weyatta Yattah Kpannah Tartu Somo Jartu Fofannah Zoe Massa
+		Yassa Ciatta Lorpu Somah Konah Sando Zinnah
+		"Tabara" "Gaisiri" "Bello" "Diallo" "Nyako" Endana Gethera Hinya Ikeno Inira Inithia Itanya Jamba Kakena 
+		Kenja Kenithia Kenura Kiama Kiania Kianira Kiira Kirima Muney Muraty Oyana Therania Tia
+		}
+		from_dynasty_prefix = "dan "
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+		}
+	}
+khoisan = {
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+botswanan = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.38 0.19 0.29 }
+
+			male_names = {	
+						Sekgoma Munjuku Tjamuaha Maharero
+						Cgose Coexae Gamnqoa Kase Kgakgam Kukama Mangana Ncgabe Ncokgo Ntcoxo Nxaedom Qaetcao Qgam Qgoma Qhomatca Setshogo Sobe Taase Tcuixgao Thama Thamae Xaga Xare Xgaiga Xgaoco Xgoa
+					}
+		female_names = {
+							Behati
+							Cgose Coexae Gamnqoa Kase Kgakgam Kukama Mangana Ncgabe Ncokgo Ntcoxo Nxaedom Qaetcao Qgam Qgoma Qhomatca Setshogo Sobe Taase Tcuixgao Thama Thamae Xaga Xare Xgaiga Xgaoco Xgoa
+			}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	san = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.28 0.39 0.09 }
+
+		male_names = {	
+						Sekgoma Munjuku Tjamuaha Maharero
+						Cgose Coexae Gamnqoa Kase Kgakgam Kukama Mangana Ncgabe Ncokgo Ntcoxo Nxaedom Qaetcao Qgam Qgoma Qhomatca Setshogo Sobe Taase Tcuixgao Thama Thamae Xaga Xare Xgaiga Xgaoco Xgoa
+					}
+		female_names = {
+							Behati
+							Cgose Coexae Gamnqoa Kase Kgakgam Kukama Mangana Ncgabe Ncokgo Ntcoxo Nxaedom Qaetcao Qgam Qgoma Qhomatca Setshogo Sobe Taase Tcuixgao Thama Thamae Xaga Xare Xgaiga Xgaoco Xgoa
+			}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+}
+
+afroaustronesian = {
+	#graphical_cultures = { westafricangfx africangfx muslimgfx }
+	graphical_cultures = { southeastafricangfx africangfx muslimgfx }
+
+	vazimba = { 
+		#graphical_cultures = { westafricangfx africangfx muslimgfx }
+		graphical_cultures = { southeastafricangfx africangfx muslimgfx }
+		
+		color = { 0.45 0.25 0.15 }
+
+		male_names = {
+			Andriamanelo Andriamasinavalona Andriambelomasina Andrianavalona Andrianjafynandriamanitra Andrianampoinimerina
+			Andrianantoandro Andrianary Andrianasy Andrianjaka Andriantsimitoviaminandriana Andriantsimitoviaminandriandehibe
+			Andriantsitakatrandriana Anja Faneva Haja Hamada Jaona Lova Mamisoa Mampihao Mandresy Narisoa Niaina Odon Radama
+			Ralambo Rano Razafitiana Sedera Solofo Toavina Tombovelo Tovohery Tsilavohery Tsimisotry Tsiory Zafiamiarina Zazaharivelo
+		}
+		female_names = {
+			Ahitra Anziza Arisoa Faniry Fitiavana Hanta Harijesy Henintsoa Lalao Lanitra Maeva Manantena Masina Mbolatiana Mirantsoa
+			Naina Nambinintsoa Nandrianina Nantenaina Neny Norovelomampionona Nyantsa Oly Ony Rafohy Raharimampionona Ranavalona Rangita
+			Rasoherina Razia Riantsoa Tahiry Tandra Tsiky Vaohangy Volana Vorona
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	malagasy = { 
+		#graphical_cultures = { westafricangfx africangfx muslimgfx }
+		graphical_cultures = { merinagfx africangfx muslimgfx }
+		
+		color = { 0.4 0.2 0.1 }
+
+		male_names = {
+			Andriamanelo Andriamasinavalona Andriambelomasina Andrianavalona Andrianjafynandriamanitra Andrianampoinimerina
+			Andrianantoandro Andrianary Andrianasy Andrianjaka Andriantsimitoviaminandriana Andriantsimitoviaminandriandehibe
+			Andriantsitakatrandriana Anja Faneva Haja Hamada Jaona Lova Mamisoa Mampihao Mandresy Narisoa Niaina Odon Radama
+			Ralambo Rano Razafitiana Sedera Solofo Toavina Tombovelo Tovohery Tsilavohery Tsimisotry Tsiory Zafiamiarina Zazaharivelo
+		}
+		female_names = {
+			Ahitra Anziza Arisoa Faniry Fitiavana Hanta Harijesy Henintsoa Lalao Lanitra Maeva Manantena Masina Mbolatiana Mirantsoa
+			Naina Nambinintsoa Nandrianina Nantenaina Neny Norovelomampionona Nyantsa Oly Ony Rafohy Raharimampionona Ranavalona Rangita
+			Rasoherina Razia Riantsoa Tahiry Tandra Tsiky Vaohangy Volana Vorona
+		}
+
+		parent=vazimba
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+}

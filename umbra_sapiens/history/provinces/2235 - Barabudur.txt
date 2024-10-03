@@ -1,0 +1,29 @@
+# 1190 - Barabudur
+
+# County Title
+title = c_barabudur
+
+# Settlements
+max_settlements = 6
+b_canggal = castle
+b_barabudur = city
+b_bagaluhan = temple
+b_kertek = city
+#b_sapuran =
+#b_sadang =
+#b_alian =
+#b_pituruh =
+
+# Misc
+culture = javanese
+religion = java_religion
+
+# History
+800.1.1 = {
+build_wonder = wonder_temple_buddhist
+set_wonder_stage = 1
+set_wonder_name = BorobudurTEMPLE
+set_wonder_description = BorobudurTEMPLEDESC
+build_wonder_upgrade = upgrade_school_buddhist
+build_wonder_upgrade = upgrade_vihara
+}

@@ -1,0 +1,210 @@
+trans_saharan_trade_route = {
+	wealth = 7.0			# Total base wealth of trade route
+	trade_post_display_trigger = {
+		OR = {
+			province_id = 811	# Trade post
+			province_id = 840	# Trade post
+			province_id = 843	# Trade post
+			province_id = 911	# Cloth production
+			province_id = 912	# Salt mine
+			province_id = 916	# Salt mine
+			province_id = 926	# Gold mine
+			province_id = 1739	# Trade post
+			province_id = 1746	# Trade post
+			province_id = 1761	# Gold mine
+			province_id = 3334
+			province_id = 3342
+			province_id = 3345
+			province_id = 1735
+			province_id = 808
+			province_id = 1735
+			province_id = 1770
+			province_id = 1772
+			province_id = 1343
+			province_id = 882
+			province_id = 883
+			province_id = 872
+			province_id = 880
+			province_id = 795
+			province_id = 1344
+			province_id = 3356
+			province_id = 3371
+			province_id = 3372
+			province_id = 3457
+			province_id = 3375
+			province_id = 2352
+			province_id = 2349
+			province_id = 2368
+			province_id = 2312
+			province_id = 2482
+			province_id = 3460
+			province_id = 3351
+			province_id = 3368
+			province_id = 2375
+			province_id = 2365
+			province_id = 2346 
+			province_id = 2362
+			province_id = 3482
+			province_id = 3312
+			province_id = 3333
+			province_id = 3336
+			province_id = 914
+			province_id = 1743
+			province_id = 1755
+			province_id = 3341
+			province_id = 2372
+			province_id = 2512
+			province_id = 2518 
+			province_id = 2519
+			province_id = 2521
+			province_id = 2509
+			province_id = 2381
+		}
+	}
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.05
+		city_tax_modifier = 0.05
+		temple_tax_modifier = 0.05
+		tribal_tax_modifier = 0.30
+		trade_route_value = 15
+		local_movement_speed = 0.30
+		tech_growth_modifier = 0.10
+		icon = 127
+	}
+
+	start = {				# Start provinces of trade route
+		3333	# Gabu
+		3336	# Sassandra
+		912 	#Aoudaghost
+		1755	#Dendi	
+		1735	#Bilma
+		1770 	#Wadai
+		1772	#Darfur
+		880	 	#Sennar
+		882		#Ankober
+		883		#Gonder
+		1343	#Massawa
+		3356	#Nyala
+		3351 	#Borno
+		3460 	#Luounga
+		3375	#Huambo
+		2368	#Buganda
+		3312	#Rift Valley
+		2372 	#Zimbabwe
+	}
+
+	### Inland route - Bure
+	path = {	# Bure-Timbuktu
+		3336 2894 3337 1761 925 915 911 
+	}
+	path = {	# Timbuktu-Araouane
+		911 917 
+	}
+	path = {	# Araouane-Fes
+		917 916 918 1780 1733 1774 840 839
+	}
+	path = {	# Timbuktu-Kano-Tripoli
+		911 914 1754 1755 1753 1752 1750 1751 1746 1744 1743
+	}
+	path = {	# Timbuktu-Kano-Tripoli
+		1743 1739 1736 1735
+	}
+	path = {	# From Bornu to Nyala
+		1743 1742 3351 
+	}
+	path = {	# From Bornu to Nyala
+		3351 3355 3484 3478 3356
+	}
+	path = {	# From Saurimo to Masuku
+		3351 3350 3349 3353 3369 3370 3368 2498 3460
+	}
+	path = {	# Luounga > Camanangue
+		3460 3374 3457
+	}
+	path = {	# Camanangue > Lubango 
+		3457 2497 3462 3372
+	}
+	path = {	# Camanangue > Tete 
+		3457 2525 2521 2518 2508 2514 2513 2512 2376 2072 2362
+	}
+	path = {	# Tete > Kilwa 
+		2362 3331 2382 3327 3328 2352
+	}
+	path = {	# Zimbabwe > Tete
+		2372 2078 2066 2065 2362    
+	}
+	path = {	# Camanangue > Huambo 
+		3457 3375
+	}
+	path = {	# Saurimo > Malawiya
+		3460 2711 3365 3482
+	}
+	path = {	# Saurimo > Pangane 
+		3460 3362 2519 2517 2515 2509 2808 2381 2380 3323 2349
+	}
+	path = {	# Buganda > Pangane 
+		2368 2364 2375 2365 2370 3321 3322 2349
+	}
+	path = {	# Rift Valley > Pangane 
+		3312 3317 3319 3320 2346 2349
+	}
+	path = {	# Luounga > Luanda
+		3460 3461 3371
+	}
+	path = {	# Timbuktu-Kano-Tripoli
+		1735 1732 1730 1723 811
+	}
+	path = {	# Timbuktu-Kano-Tripoli
+		911 914 1754 1755
+	}
+	path = {	# Bilma > Wadai
+		1735 1770
+	}
+	path = {	# Wadai > Benghazi
+		1770 807 808
+	}
+	path = {	# Wadai > Darfur
+		 1770 1772
+	}
+	path = {	# Darfur > Asyut
+		 1772 1994 793 1322 1782 795
+	}
+	path = {	# Darfur > Sennar
+		 1772 1335 880
+	}
+	path = {	# Sennar > Gondar
+		 880 1993 883
+	}
+	path = {	# Sennar > Nyala
+		 880 3358 3480 3360 3481 3356
+	}
+	path = {	# Gondar > Massawa 
+		 883  1437 876 1343
+	}
+	path = {	# Massawa > Ankober 
+		 1343 875 1417 1436 882
+	}
+	path = {	# Gondar > Ankober 
+		 883 1280 884 882
+	}
+	path = {	# Ankober > Berbera
+		 882 873 1344 872
+	}
+	### Coastal route - Bambuk
+	path = {	# Gabu-Aoudaghost
+		3333 1765 926 1764 912
+	}
+	path = {	# Aoudaghost-Araouane
+		912 913 919 917
+	}
+	path = {	# Aoudaghost-Marrakech-Safi
+		912 1762 920 921 846 847 1778 843 845
+	}
+	path = {	# Aoudaghost-Cayor
+		912 3335 3334    
+	}
+	path = {	# Yamousskrou-Dendi 
+		 1755 928 1759 2888 2892 2890 3341
+	}
+}

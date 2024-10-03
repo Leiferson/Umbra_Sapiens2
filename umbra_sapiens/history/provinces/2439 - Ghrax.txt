@@ -1,0 +1,14 @@
+# 1769 - Ghrax
+
+# County Title
+title = c_ghrax
+
+# Settlements
+max_settlements = 2
+b_tokziengx = castle
+b_srukpyang = city
+
+# Misc
+culture = tangut
+religion = buddhist
+2.1.1 = { b_tokziengx = ca_jd_wall_1 }

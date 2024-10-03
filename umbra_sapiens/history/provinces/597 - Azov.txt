@@ -1,0 +1,24 @@
+# 597 - Azov
+
+# County Title
+title = c_azov
+
+# Settlements
+max_settlements = 3
+
+b_azaq = tribal
+
+#b_balzimachi = city
+#b_taro = temple
+
+culture = khazar
+religion = tengri_pagan
+
+# History
+
+
+1227.1.1 = { religion = sunni } 
+
+1238.1.1 = { culture = mongol }
+1275.1.1 = { trade_post = b_grimaldi }
+

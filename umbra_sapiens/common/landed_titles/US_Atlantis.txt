@@ -1,0 +1,262 @@
+			e_atlantis = {
+			color={ 128 163 13 }
+			color2={ 255 255 255 }
+			allow={
+			is_colonial = no
+				}
+			k_artic_isles = {
+			color={ 128 163 13 }
+			color2={ 255 255 255 }
+			allow={
+			is_colonial = no
+					}
+			d_falkland = {
+
+			color={ 99 224 10 }
+			color2={ 220 220 220 }
+			
+			capital = 4071 # West Falkland
+			
+			c_west_falkland = {
+
+				color={ 85 159 199 }
+				color2={ 220 220 220 }
+				
+				b_west_falkland = {
+				}
+				b_west_falkland-ii = {
+				}
+				b_west_falkland-iii = {
+				}
+				b_west_falkland-iv = {
+				}
+			}
+			c_east_falkland = {
+
+				color={ 15 94 29 }
+				color2={ 220 220 220 }
+				
+				b_east_falkland = {
+				}
+				b_east_falkland-ii = {
+				}
+				b_east_falkland-iii = {
+				}
+			}
+		}
+			d_artic_isles = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			c_crozet = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			b_cochons = {}
+			b_alfredfaure = {}
+			b_iledelest = {}
+			}
+			c_marionnew = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			b_marionnew = {}
+			}
+			c_heard = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			b_heard = {}
+			}
+			c_kerguelen = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			b_port_aux_francais = {}
+			}
+			}
+			d_sandwich = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			c_sandwich = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			b_sandwich_isle = {}
+			}
+			c_south_sandwich = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			b_montagu = {}
+			b_traversay = {}
+			b_southern_thule = {}
+			}
+			}
+			d_st_helena = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			c_st_helena = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			b_st_helenanew = {}
+			b_longwood = {}
+			}
+			c_seven_seas = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			b_seven_seas = {}
+			b_nightingale = {}
+			}
+			}
+			}
+			k_macaronesia = {
+			color={ 128 163 13 }
+			color2={ 255 255 255 }
+			allow={
+			is_colonial = no
+					}
+			d_canarias = {
+			color={ 60 190 43 }
+			color2={ 255 255 255 }
+			capital = 4810
+			c_canarias = {
+				color={ 60 190 43 }
+				color2={ 255 255 255 }
+				b_lanzarote = {}
+				b_costaadeje = {}
+				b_lagomera = {}
+				b_puertodelacruz = {}
+				b_lapalma = {}
+				b_santacruzdetenerife = {}
+			}
+			c_grancanaria = {
+				color={ 100 190 80 }
+				color2={ 255 255 255 }
+				b_laspalmas = {	}
+				b_maspaiomas = {}
+				b_telde = {}
+				b_mogan = {}
+				b_galdar = {}
+			}
+			c_fuerteventura = {
+				color={ 80 190 60 }
+				color2={ 255 255 255 }
+				b_grantarajal = {	}
+				b_arrecife = {}
+				b_elmatorral = {}
+				b_caleta = {}
+				b_ajuy = {}
+			}
+			}
+			d_madeira = {
+			color={ 166 66 73 }
+			color2={ 255 255 255 }
+			c_madeira = {
+				color={ 166 66 73 }
+				color2={ 255 255 255 }
+		
+				b_madeira = {}
+				b_madeira-ii = {}
+				b_madeira-iii = {}
+				b_madeira-iv = {}
+				b_madeira-v = {}
+				b_madeira-vi = {}
+			}
+			}
+			d_the_azores = {
+			color={ 186 36 178 }
+			color2={ 255 255 255 }
+			capital = 4065
+			c_the_azores = {
+				color={ 186 36 178 }
+				color2={ 255 255 255 }
+				b_the_azores = {}
+				b_the_azores-ii = {}
+				b_the_azores-iii = {}
+				b_the_azores-iv = {}
+				b_the_azores-v = {}
+				b_the_azores-vi = {}
+			}
+			c_flores = {
+				color={ 200 70 178 }
+				color2={ 255 255 255 }
+		
+				b_santacruz = {}
+				b_faja = {}
+				b_corvo = {}
+				b_lajes = {}
+				b_lomba = {}
+			}
+			c_saomiguel = {
+				color={ 220 50 178 }
+				color2={ 255 255 255 }
+		
+				b_saomiguel = {}
+				b_ponta_delgada = {}
+				b_vilafrancadocampo = {}
+				b_ribeirabranca = {}
+				b_nordeste = {}
+				b_achada = {}
+			}
+			}
+			d_cape_verde = {
+			color={ 85 137 157 }
+			color2={ 255 255 255 }
+			capital = 4065
+			c_cape_verde = {
+				color={ 85 137 157 }
+				color2={ 255 255 255 }
+				
+				b_saovicente = {}
+				b_saonicolao = {}
+				b_santoantao = {}
+				b_boavista = {}
+				b_sal = {}
+			}
+			c_sotavento = {
+				color={ 85 150 170 }
+				color2={ 255 255 255 }
+				
+				b_praia = {}
+				b_viladomaio = {}
+				b_brava = {}
+				b_saofilipe = {}
+				b_tarrafal = {}
+			}
+			c_bijagos = {
+				color={ 120 150 150 }
+				color2={ 255 255 255 }
+				
+				b_caravelas = {}
+				b_caraches = {}
+				b_galinhas = {}
+				b_bubaque = {}
+				b_uno = {}
+				b_joaoviera = {}
+			}
+			c_shrebro = {
+				color={ 90 150 200 }
+				color2={ 255 255 255 }
+				
+				b_manianew = {}
+				b_bamba = {}
+				b_madina = {}
+				b_yonew = {}
+			}
+			}
+			d_saotome = {
+			color={ 200 150 200 }
+			color2={ 255 255 255 }
+			capital = 4065
+			c_saotome = {
+				color={ 200 150 200 }
+				color2={ 255 255 255 }
+				
+				b_saotome = {}
+				b_principe = {}
+				b_saoantonio = {}
+			}
+			c_fernandopo = {
+				color={ 160 150 200 }
+				color2={ 255 255 255 }
+				
+				b_fernandopo = {}
+				b_sanantonio = {}
+			}
+			}
+			}
+			}

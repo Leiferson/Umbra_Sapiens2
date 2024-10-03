@@ -1,0 +1,907 @@
+# Khundzia holders --------------------------------------------------------------------
+# 769 START --------------------------------------------------------------------------
+555201 = {
+	name="Araskhan"
+	dynasty=5557807
+	religion="miaphysite"
+	culture="dagestani"
+	
+	745.1.1={
+		birth="745.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+555202 = {
+	name="Khidirshah"
+	dynasty=5557807
+	religion="miaphysite"
+	culture="dagestani"
+	father=555201
+	780.1.1={
+		birth="768.1.1"
+	}
+	832.1.1={
+		death="832.1.1"
+	}
+}
+
+# 867 START --------------------------------------------------------------------------
+555203 = {
+	name="Tarraz"
+	dynasty=5557807
+	religion="miaphysite"
+	culture="dagestani"
+	father=555202
+	816.1.1={
+		birth="816.1.1"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+555204 = {
+	name="Avaz"
+	dynasty=5557807
+	religion="miaphysite"
+	culture="dagestani"
+	father=555203
+	890.1.1={
+		birth="890.1.1"
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+555205 = {
+	name="Safishah"
+	dynasty=5557807
+	religion="miaphysite"
+	culture="dagestani"
+	father=555204	
+	914.1.1={
+		birth="914.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+555206 = {
+	name="Khavajakh"
+	dynasty=5557807
+	religion="miaphysite"
+	culture="dagestani"
+	father=555205
+	943.1.1={
+		birth="943.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+555207 = {
+	name="Firavn"
+	dynasty=5557807
+	religion="miaphysite"
+	culture="dagestani"
+	father=555206
+	961.1.1={
+		birth="961.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+
+# 1066 START --------------------------------------------------------------------------
+555208 = {
+	name="Amir"
+	dynasty=5557803
+	religion="raism_pagan"
+	culture="dagestani"
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+555209 = {
+	name="Sukrat"
+	dynasty=5557803
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555208
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+555210 = {
+	name="Aulkhan"
+	dynasty=5557803
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555209
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+555211 = {
+	name="Saratan"
+	dynasty=5557803
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555210
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+555212 = {
+	name="Surakat"
+	dynasty=5557803
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555211
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+555213 = {
+	name="Bayar"
+	dynasty=5557803
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555212
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+555214 = {
+	name="Amir-Sultan"
+	dynasty=5557803
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555213
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+555215 = {
+	name="Malik-Saratan"
+	dynasty=5557803
+	religion="sunni"
+	culture="dagestani"
+	father=555214
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1401.1.1={
+		death="1401.1.1"
+	}
+}
+# Didoya holders --------------------------------------------------------------------
+# 1066 START --------------------------------------------------------------------------
+555216 = {
+	name="Dudan"
+	dynasty=5557805
+	religion="raism_pagan"
+	culture="dagestani"
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+555217 = {
+	name="Abakh"
+	dynasty=5557805
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555216
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+555218 = {
+	name="Darkhu"
+	dynasty=5557805
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555217
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+555219 = {
+	name="Mutuk"
+	dynasty=5557805
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555218
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+555220 = {
+	name="Buday"
+	dynasty=5557805
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555219
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+555221 = {
+	name="Shamsun"
+	dynasty=5557805
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555220
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+555222 = {
+	name="Jaray"
+	dynasty=5557805
+	religion="raism_pagan"
+	culture="dagestani"
+	father=555221
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+555223 = {
+	name="Murad"
+	dynasty=5557805
+	religion="sunni"
+	culture="dagestani"
+	father=555222
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1401.1.1={
+		death="1401.1.1"
+	}
+}
+# Kumukh holders --------------------------------------------------------------------
+# 769 START --------------------------------------------------------------------------
+555224 = {
+	name="Shahbal"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	
+	745.1.1={
+		birth="745.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+555225 = {
+	name="Amir"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555224
+	780.1.1={
+		birth="768.1.1"
+	}
+	832.1.1={
+		death="832.1.1"
+	}
+}
+
+# 867 START --------------------------------------------------------------------------
+555226 = {
+	name="Alibek"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555225
+	816.1.1={
+		birth="816.1.1"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+555227 = {
+	name="Surkhay"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555226
+	890.1.1={
+		birth="890.1.1"
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+555228 = {
+	name="Giray"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555227
+	914.1.1={
+		birth="914.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+555229 = {
+	name="Umalat"
+	dynasty=5557809
+	religion="miaphysite"
+	culture="dagestani"
+	father=555228
+	943.1.1={
+		birth="943.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+555230 = {
+	name="Ghazi"
+	dynasty=5557809
+	religion="miaphysite"
+	culture="dagestani"
+	father=555229
+	961.1.1={
+		birth="961.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+
+# 1066 START --------------------------------------------------------------------------
+555231 = {
+	name="Buday"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555230
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+555232 = {
+	name="Chupan"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555231
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+555233 = {
+	name="Andiy"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555232
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+555234 = {
+	name="Ildar"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555233
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+555235 = {
+	name="Jaray"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555234
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+555236 = {
+	name="Badr"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555235
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+555237 = {
+	name="Akhsuvar"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555236
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+555238 = {
+	name="Muhammad-Ullu"
+	dynasty=5557809
+	religion="sunni"
+	culture="dagestani"
+	father=555237
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1401.1.1={
+		death="1401.1.1"
+	}
+}
+# Lekia holders --------------------------------------------------------------------
+# 769 START --------------------------------------------------------------------------
+555239 = {
+	name="Urbis"
+	dynasty=5557804
+	religion="raism_pagan"
+	culture="dagestani"
+	
+	745.1.1={
+		birth="745.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+555240 = {
+	name="Aviz"
+	dynasty=5557804
+	religion="miaphysite"
+	culture="dagestani"
+	father=555239
+	780.1.1={
+		birth="768.1.1"
+	}
+	832.1.1={
+		death="832.1.1"
+	}
+}
+
+# 867 START --------------------------------------------------------------------------
+555241 = {
+	name="Khashram"
+	dynasty=5557808
+	religion="sunni"
+	culture="dagestani"
+	816.1.1={
+		birth="816.1.1"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+555242 = {
+	name="Hamzat"
+	dynasty=5557808
+	religion="sunni"
+	culture="dagestani"
+	father=555241
+	890.1.1={
+		birth="890.1.1"
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+555243 = {
+	name="Ramazan"
+	dynasty=5557808
+	religion="sunni"
+	culture="dagestani"
+	father=555242
+	914.1.1={
+		birth="914.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+555244 = {
+	name="Khashram"
+	dynasty=5557808
+	religion="sunni"
+	culture="dagestani"
+	father=555243
+	943.1.1={
+		birth="943.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+555245 = {
+	name="Yusuf"
+	dynasty=5557808
+	religion="sunni"
+	culture="dagestani"
+	father=555244
+	961.1.1={
+		birth="961.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+
+# 1066 START --------------------------------------------------------------------------
+555246 = {
+	name="Khaisam"
+	dynasty=5557806
+	religion="sunni"
+	culture="dagestani"
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+555247 = {
+	name="Zikhrar"
+	dynasty=5557806
+	religion="sunni"
+	culture="dagestani"
+	father=555246
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+555248 = {
+	name="Kadit"
+	dynasty=5557806
+	religion="sunni"
+	culture="dagestani"
+	father=555247
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+555249 = {
+	name="Gerey"
+	dynasty=5557806
+	religion="sunni"
+	culture="dagestani"
+	father=555248
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+555250 = {
+	name="Mirza"
+	dynasty=5557806
+	religion="sunni"
+	culture="dagestani"
+	father=555249
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+555251 = {
+	name="Muhammad"
+	dynasty=5557806
+	religion="sunni"
+	culture="dagestani"
+	father=555250
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+555252 = {
+	name="Murtazali"
+	dynasty=5557806
+	religion="sunni"
+	culture="dagestani"
+	father=555251
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+555253 = {
+	name="Sayil"
+	dynasty=5557806
+	religion="sunni"
+	culture="dagestani"
+	father=555252
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1401.1.1={
+		death="1401.1.1"
+	}
+}
+# Haidak holders --------------------------------------------------------------------
+# 769 START --------------------------------------------------------------------------
+555254 = {
+	name="Amir-Hamza"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	
+	745.1.1={
+		birth="745.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+555255 = {
+	name="Hasan-Ali"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555254
+	780.1.1={
+		birth="768.1.1"
+	}
+	832.1.1={
+		death="832.1.1"
+	}
+}
+
+# 867 START --------------------------------------------------------------------------
+555256 = {
+	name="Chufan"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555255
+	816.1.1={
+		birth="816.1.1"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+555257 = {
+	name="Riyad"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555256
+	890.1.1={
+		birth="890.1.1"
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+555258 = {
+	name="Haidar"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555257
+	914.1.1={
+		birth="914.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+555259 = {
+	name="Hasan-Ali"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555258
+	943.1.1={
+		birth="943.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+555260 = {
+	name="Ulug"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555259
+	961.1.1={
+		birth="961.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+
+# 1066 START --------------------------------------------------------------------------
+555261 = {
+	name="Firuz"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555260
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+555262 = {
+	name="Andzarnars"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555261
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+555263 = {
+	name="Hizdan"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555262
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1201.1.1={
+		death="1201.1.1"
+	}
+}
+555264 = {
+	name="Ahmad-Sultan"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555263
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+555265 = {
+	name="Muhammadkhan"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555264
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+555266 = {
+	name="Amirkhan"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555265
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+555267 = {
+	name="Sultan-Alibek"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555266
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+555268 = {
+	name="Ilchi-Ahmad"
+	dynasty=5557801
+	religion="sunni"
+	culture="dagestani"
+	father=555267
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1401.1.1={
+		death="1401.1.1"
+	}
+}
+

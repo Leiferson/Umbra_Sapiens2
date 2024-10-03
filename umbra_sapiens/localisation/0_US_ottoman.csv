@@ -1,0 +1,129 @@
+EVTNAMEturkishevents.1;Triumph in Thrace;;;;;;;;;x
+EVTDESCturkisheventsR.1;Our recent conquest of Thrace as attracted the attention of turkoman bands. Who seeking fame and fortune wish to join our ranks.;;;;;;;;;x
+EVTOPTAturkishevents.1;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.2;Triumph in Anatolia;;;;;;;;;x
+EVTDESCturkisheventsR.2;Our recent conquest of Anatolia as attracted the attention of turkoman bands. Who seeking fame and fortune wish to join our ranks.;;;;;;;;;x
+EVTOPTAturkishevents.2;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.3;Triumph in Trebizond;;;;;;;;;x
+EVTDESCturkisheventsR.3;Our recent conquest of Trebizond as attracted the attention of turkoman bands. Who seeking fame and fortune wish to join our ranks.;;;;;;;;;x
+EVTOPTAturkishevents.3;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.4;Triumph in Armenia;;;;;;;;;x
+EVTDESCturkisheventsR.4;Our recent conquest of Armenia as attracted the attention of turkoman bands. Who seeking fame and fortune wish to join our ranks.;;;;;;;;;x
+EVTOPTAturkishevents.4;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.5;Triumph in Georgia;;;;;;;;;x
+EVTDESCturkisheventsR.5;Our recent conquest of Georgia as attracted the attention of turkoman bands. Who seeking fame and fortune wish to join our ranks.;;;;;;;;;x
+EVTOPTAturkishevents.5;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.6;Triumph in Greece;;;;;;;;;x
+EVTDESCturkisheventsR.6;Our recent conquest of Greece as attracted the attention of turkoman bands. Who seeking fame and fortune wish to join our ranks.;;;;;;;;;x
+EVTOPTAturkishevents.6;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.7;Triumph in Epirus;;;;;;;;;x
+EVTDESCturkisheventsR.7;Our recent conquest of Epirus as attracted the attention of turkoman bands. Who seeking fame and fortune wish to join our ranks.;;;;;;;;;x
+EVTOPTAturkishevents.7;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.8;Triumph in Bulgaria;;;;;;;;;x
+EVTDESCturkisheventsR.8;Our recent conquest of Bulgaria as attracted the attention of turkoman bands. Who seeking fame and fortune wish to join our ranks.;;;;;;;;;x
+EVTOPTAturkishevents.8;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.9;Triumph in Serbia;;;;;;;;;x
+EVTDESCturkisheventsR.9;Our recent conquest of Serbia as attracted the attention of turkoman bands. Who seeking fame and fortune wish to join our ranks.;;;;;;;;;x
+EVTOPTAturkishevents.9;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.10;Triumph in Bosnia;;;;;;;;;x
+EVTDESCturkisheventsR.10;Our recent conquest of Bosnia as attracted the attention of turkoman bands. Who seeking fame and fortune wish to join our ranks.;;;;;;;;;x
+EVTOPTAturkishevents.10;Bid them welcome!;;;;;;;;;x
+ottoman_ambitions_desc;It is our duty to unite all the turks and subdue all the romans as the true successors of the sultanate of Rum.;;;;;;;;;x
+ottoman_ambitions_2_desc;It is our duty to unite all Muslims to protect Islam from opression;;;;;;;;;x
+CB_NAME_OTTOMAN;Ambitious Conquest of [Title.GetBaseName];;;;;;;;;x
+WAR_NAME_OTTOMAN;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Ambitious Conquest of [Title.GetBaseName];;;;;;;;;x
+create_ottoman_empire;Establish the Ottoman Empire;;;;;;;;;x
+create_ottoman_empire_desc;Constantinople is under our control and the empire of the Romans is no more. From the confort of the city of the worls desire we may now proclaim the Ottoman Empire.;;;;;;;;;x
+e_ottomans;Ottoman Empire;;;;;;;;;x
+e_ottomans_adj;Ottoman;;;;;;;;;x
+SULTANATE;Sultanate of;;;;;;;;;x
+organize_janissary_ocak;Organize the Janissaries;;;;;;;;;x
+organize_janissary_ocak_desc;Our quick rise to power as made the Sultan plenty of enemies, it is about time that we organize a mighty modern force capable of protecting the empire.;;;;;;;;;x
+d_janissary_ocak;Janissary Ocak;;;;;;;;;x
+d_janissary_ocak_adj;Janissary;;;;;;;;;x
+AGHA;Agha;;;;;;;;;x
+AGHA_FOA;My Agha;;;;;;;;;x
+claim_istanbul;Claim Istanbul;;;;;;;;;x
+claim_istanbul_desc;As the magnificent Sultan of the Ottoman Empire it is only suitable that we claim Istanbul for our selves and make it the seat of our potentate.;;;;;;;;;x
+EVTNAMEturkishevents.11;Fall of Constantinople;;;;;;;;;x
+EVTDESCturkishevents.11;The city of the world's desire has fallen to Ottoman ambition. Deserted by the West the last of the romans valiently held off the Turks for as long as their mortal efforts allowed only to succumb to a vastly superior force.;;;;;;;;;x
+EVTOPTAcolonialevents.11;God punishes us for our sins;;;;;;;;;x
+EVTOPTBcolonialevents.11;If only the West would have done something;;;;;;;;;x
+EVTOPTCcolonialevents.11;Allahu Akbar!;;;;;;;;;x
+EVTOPTDcolonialevents.11;I don't see how this matters to me;;;;;;;;;x
+EVTNAMEturkishevents.12;Displaced Saruhan Turkomans;;;;;;;;;x
+EVTDESCturkisheventsR.12;Turkoman Warriors from the fallen Sultanate of Saruhan seek to join our armies as they have heard of our mounting victories.;;;;;;;;;x
+EVTOPTAturkishevents.12;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.13;Displaced Aydin Turkomans;;;;;;;;;x
+EVTDESCturkisheventsR.13;Turkoman Warriors from the fallen Sultanate of Aydin seek to join our armies as they have heard of our mounting victories.;;;;;;;;;x
+EVTOPTAturkishevents.13;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.14;Displaced Mentese Turkomans;;;;;;;;;x
+EVTDESCturkisheventsR.14;Turkoman Warriors from the fallen Sultanate of Mentese seek to join our armies as they have heard of our mounting victories.;;;;;;;;;x
+EVTOPTAturkishevents.14;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.15;Displaced Germiyan Turkomans;;;;;;;;;x
+EVTDESCturkisheventsR.15;Turkoman Warriors from the fallen Sultanate of Germiyan seek to join our armies as they have heard of our mounting victories.;;;;;;;;;x
+EVTOPTAturkishevents.15;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.16;Displaced Karaman Turkomans;;;;;;;;;x
+EVTDESCturkisheventsR.16;Turkoman Warriors from the fallen Sultanate of Karaman seek to join our armies as they have heard of our mounting victories.;;;;;;;;;x
+EVTOPTAturkishevents.16;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.17;Displaced Candar Turkomans;;;;;;;;;x
+EVTDESCturkisheventsR.17;Turkoman Warriors from the fallen Sultanate of Candar seek to join our armies as they have heard of our mounting victories.;;;;;;;;;x
+EVTOPTAturkishevents.17;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.18;Displaced Eretnid Turkomans;;;;;;;;;x
+EVTDESCturkisheventsR.18;Turkoman Warriors from the fallen Sultanate of Eretnid seek to join our armies as they have heard of our mounting victories.;;;;;;;;;x
+EVTOPTAturkishevents.18;Bid them welcome!;;;;;;;;;x
+EVTNAMEturkishevents.19;Displaced Tekke Turkomans;;;;;;;;;x
+EVTDESCturkisheventsR.19;Turkoman Warriors from the fallen Sultanate of Tekke seek to join our armies as they have heard of our mounting victories.;;;;;;;;;x
+EVTOPTAturkishevents.19;Bid them welcome!;;;;;;;;;x
+title_silahdar_agha;Silahdar Agha;;;;;;;;;x
+title_silahdar_agha_desc;The Silahdar Agha was a palace office of the Ottoman Empire, denoting the principal page of the Ottoman Sultan. As such its holders were persons of great influence, and provided many senior officials and even Grand Viziers.;;;;;;;;;x
+title_kizlar_agha;Kizlar Agha;;;;;;;;;x
+title_kizlar_agha_desc;The post of the Kizlar Agha or was created in 1574 and came to be occupied by black eunuch slaves, hence it is also referred to as the Chief Black Eunuch.;;;;;;;;;x
+title_kapi_agha;Kapi Agha;;;;;;;;;x
+title_kapi_agha_desc;The Kapi Agha, formally called the Agha of the Gate of Felicity, was the head of the eunuch servants of the palace until the late 16th century. At the time the Ottoman palace was dominated by the white eunuchs, chiefly drawn from the Christian populations of the Balkans or the Caucasus.;;;;;;;;;x
+kill_off_brothers;Kill off potential threats;;;;;;;;;x
+kill_off_brothers_desc;It was common and expected in the Ottoman Empire for the newly crowned Sultans to swiftly execute all possible competition, including their brothers and their offspring as well as any pregnant women in the harem of their predecessor.;;;;;;;;;x
+k_bou_reg;Bou Regreg;;;;;;;;;x
+k_bou_reg_adj;Bou Regreg;;;;;;;;;x
+k_tlemcen;Tlemcen;;;;;;;;;x
+k_tlemcen_adj;Tlemcen;;;;;;;;;x
+k_koukou;Koukou;;;;;;;;;x
+k_koukou_adj;Koukou;;;;;;;;;x
+k_touggourt;Touggourt;;;;;;;;;x
+k_touggourt_adj;Touggourt;;;;;;;;;x
+k_beni_abbas;Beni Abbas;;;;;;;;;x
+k_beni_abbas_adj;Beni Abbas;;;;;;;;;x
+k_algiers;Algeria;;;;;;;;;x
+k_algiers_adj;Algeria;;;;;;;;;x
+k_tunis;Tunis;;;;;;;;;x
+k_tunis_adj;Tunis;;;;;;;;;x
+k_tripolitania;Tripolitania;;;;;;;;;x
+k_tripolitania_adj;Tripolitania;;;;;;;;;x
+k_ottoman_syria;Syria;;;;;;;;;x
+k_ottoman_syria_adj;Syria;;;;;;;;;x
+k_ottoman_egypt;Egypt;;;;;;;;;x
+k_ottoman_egypt_adj;Egypt;;;;;;;;;x
+k_ottoman_tripoli;Tripoli;;;;;;;;;x
+k_ottoman_tripoli_adj;Tripoli;;;;;;;;;x
+k_ottoman_adana;Adana;;;;;;;;;x
+k_ottoman_adana_adj;Adana;;;;;;;;;x
+k_ottoman_anatolia;Anatolia;;;;;;;;;x
+k_ottoman_anatolia_adj;Anatolia;;;;;;;;;x
+k_ottoman_islands;The Islands of the White Sea;;;;;;;;;x
+k_ottoman_islands_adj;The Islands of the White Sea;;;;;;;;;x
+k_ottoman_rum;Rum;;;;;;;;;x
+k_ottoman_rum_adj;Rum;;;;;;;;;x
+k_ottoman_karaman;Karaman;;;;;;;;;x
+k_ottoman_karaman_adj;Karaman;;;;;;;;;x
+REGENCY;Regency of;;;;;;;;;x
+EYALET;Eyalet of;;;;;;;;;x
+KAPUDAN;Kapudan Pasha;;;;;;;;;x
+BEYLERBEY;Beylerbey;;;;;;;;;x
+PASHA;Pasha;;;;;;;;;x
+AMOKRANE;Amokrane;;;;;;;;;x
+b_aulef;Ksar es Seghir;;;;;;;;;x
+b_akermoud;Aguz;;;;;;;;;x
+b_saka;Velez de la Gomera;;;;;;;;;x
+b_gdyel;Mers El Kebir;;;;;;;;;x
+b_driouch;Penon de Alhucemas;;;;;;;;;x
+b_elRdair;Penon de Argel;;;;;;;;;x

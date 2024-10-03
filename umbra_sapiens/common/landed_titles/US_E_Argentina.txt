@@ -1,0 +1,954 @@
+#####Argentina and Hawaii
+
+e_argentina = {
+
+	color={ 150 10 200 }
+	color2={ 220 220 220 }
+
+	capital = 4128 # Argentina
+	allow={
+	is_colonial = no	
+	}
+	k_paraguay = {
+
+		color={ 200 20 13 }
+		color2={ 220 220 220 }
+
+		capital = 4113 #Paraguay
+
+		d_paraguay = {
+
+			color={ 54 100 22 }
+			color2={ 220 220 220 }
+			
+			capital = 4113 #Paraguay
+			
+			c_paraguay = {
+				
+				color={ 33 22 11 }
+				color2={ 220 220 220 }
+				holy_site=amazonian_pagan
+				holy_site=amazonian_pagan_reformed
+				holy_site=chaco_pagan
+				holy_site=chaco_pagan_reformed
+				holy_site=pampas_pagan
+				holy_site=pampas_pagan_reformed
+				holy_site=mapuche_pagan
+				holy_site=mapuche_pagan_reformed
+				b_paraguay = {
+				}
+				b_paraguay-ii = {
+				}
+				b_paraguay-iii = {
+				}
+				b_paraguay-iv = {
+				}
+				b_paraguay-v = {
+				}
+				b_paraguay-vi = {
+				}
+			}
+			c_loma = {
+
+				color={ 108 19 106 }
+				color2={ 220 220 220 }
+				
+				b_loma = {
+				}
+				b_loma-ii = {
+				}
+				b_loma-iii = {
+				}
+				b_loma-iv = {
+				}
+				b_loma-v = {
+				}
+				b_loma-vi = {
+				}
+			}
+			c_corumba = {
+
+				color={ 166 123 183 }
+				color2={ 220 220 220 }
+				
+				b_corumbanew = {
+				}
+				b_corumbanew-ii = {
+				}
+				b_corumbanew-iii = {
+				}
+			}
+			c_formosac = {
+
+				color={ 103 14 9 }
+				color2={ 220 220 220 }
+				
+				b_formosac = {
+				}
+				b_formosac-ii = {
+				}
+				b_formosac-iii = {
+				}
+				b_formosac-iv = {
+				}
+				b_formosac-v = {
+				}
+				b_formosac-vi = {
+				}
+			}
+		}
+		
+		d_unquillo = {
+
+			color={ 140 10 200 }
+			color2={ 220 220 220 }
+			
+			capital = 4113 #Unquillo
+			
+			c_unquillo = {
+
+				color={ 185 194 138 }
+				color2={ 220 220 220 }
+				
+				b_unquillo = {
+				}
+				b_unquillo-ii = {
+				}
+				b_unquillo-iii = {
+				}
+				b_unquillo-iv = {
+				}
+				b_unquillo-v = {
+				}
+				b_unquillo-vi = {
+				}
+			}
+			c_corrientes = {
+
+				color={ 99 24 32 }
+				color2={ 220 220 220 }
+				
+				b_corrientes = {
+				}
+				b_corrientes-ii = {
+				}
+				b_corrientes-iii = {
+				}
+				b_corrientes-iv = {
+				}
+				b_corrientes-v = {
+				}
+				b_corrientes-vi = {
+				}
+			}
+			c_asuncion = {
+
+				color={ 8 19 123 }
+				color2={ 220 220 220 }
+				
+				b_asuncion = {
+				}
+				b_asuncion-ii = {
+				}
+				b_asuncion-iii = {
+				}
+				b_asuncion-iv = {
+				}
+				b_asuncion-v = {
+				}
+				b_asuncion-vi = {
+				}
+			}
+			c_rio_cuarto = {
+
+				color={ 5 100 209 }
+				color2={ 220 220 220 }
+				
+				b_rio_cuarto = {
+				}
+				b_rio_cuarto-ii = {
+				}
+				b_rio_cuarto-iii = {
+				}
+				b_rio_cuarto-iv = {
+				}
+				b_rio_cuarto-v = {
+				}
+				b_rio_cuarto-vi = {
+				}
+			}
+			c_concordia = {
+
+				color={ 43 109 78 }
+				color2={ 220 220 220 }
+				
+				b_concordianew = {
+				}
+				b_concordia-ii = {
+				}
+				b_concordia-iii = {
+				}
+				b_concordia-iv = {
+				}
+				b_concordia-v = {
+				}
+				b_concordia-vi = {
+				}
+			}
+		}
+	}
+	
+	k_argentina = {
+
+		color={ 40 95 135 }
+		color2={ 220 220 220 }
+
+		capital = 4128 # Argentina
+		
+		d_valcheta = {
+
+			color={ 66 66 66 }
+			color2={ 220 220 220 }
+			
+			capital = 4140 #Valcheta
+			
+			c_bariloche = {
+
+				color={ 177 94 144 }
+				color2={ 220 220 220 }
+				
+				b_bariloche = {
+				}
+				b_bariloche-ii = {
+				}
+				b_bariloche-iii = {
+				}
+				b_bariloche-iv = {
+				}
+				b_bariloche-v = {
+				}
+				b_bariloche-vi = {
+				}
+			}
+			c_bolson = {
+
+				color={ 88 123 33 }
+				color2={ 220 220 220 }
+				
+				b_bolson = {
+				}
+				b_bolson-ii = {
+				}
+				b_bolson-iii = {
+				}
+				b_bolson-iv = {
+				}
+				b_bolson-v = {
+				}
+				b_bolson-vi = {
+				}
+			}
+			c_pique = {
+
+				color={ 129 120 144 }
+				color2={ 220 220 220 }
+				
+				b_pique = {
+				}
+				b_pique-ii = {
+				}
+				b_pique-iii = {
+				}
+				b_pique-iv = {
+				}
+				b_pique-v = {
+				}
+				b_pique-vi = {
+				}
+			}
+			c_valcheta = {
+
+				color={ 85 79 79 }
+				color2={ 220 220 220 }
+				
+				b_valcheta = {
+				}
+				b_valcheta-ii = {
+				}
+				b_valcheta-iii = {
+				}
+				b_valcheta-iv = {
+				}
+				b_valcheta-v = {
+				}
+				b_valcheta-vi = {
+				}
+			}
+			c_arroyo_verde = {
+
+				color={ 139 133 33 }
+				color2={ 220 220 220 }
+				
+				b_arroyo_verde = {
+				}
+				b_arroyo_verde-ii = {
+				}
+				b_arroyo_verde-iii = {
+				}
+				b_arroyo_verde-iv = {
+				}
+				b_arroyo_verde-v = {
+				}
+				b_arroyo_verde-vi = {
+				}
+			}
+			
+		}
+		
+		d_torres = {
+
+			color={ 198 198 112 }
+			color2={ 220 220 220 }
+			
+			capital = 4158 #Torres
+			
+			c_puerto_zenteno = {
+
+				color={ 135 121 144 }
+				color2={ 220 220 220 }
+				
+				b_puerto_zenteno = {
+				}
+				b_puerto_zenteno-ii = {
+				}
+				b_puerto_zenteno-iii = {
+				}
+				b_puerto_zenteno-iv = {
+				}
+				b_puerto_zenteno-v = {
+				}
+				b_puerto_zenteno-vi = {
+				}
+			}
+			c_cameron = {
+
+				color={ 138 12 29 }
+				color2={ 220 220 220 }
+				holy_site=pampas_pagan
+				holy_site=pampas_pagan_reformed
+				holy_site=mapuche_pagan
+				holy_site=mapuche_pagan_reformed
+				b_cameron = {
+				}
+				b_cameron-ii = {
+				}
+				b_cameron-iii = {
+				}
+				b_cameron-iv = {
+				}
+				b_cameron-v = {
+				}
+				b_cameron-vi = {
+				}
+			}
+			c_primavera = {
+
+				color={ 122 16 98 }
+				color2={ 220 220 220 }
+				
+				b_primavera = {
+				}
+				b_primavera-ii = {
+				}
+				b_primavera-iii = {
+				}
+				b_primavera-iv = {
+				}
+				b_primavera-v = {
+				}
+				b_primavera-vi = {
+				}
+			}
+			c_torres_paine = {
+
+				color={ 91 25 1 }
+				color2={ 220 220 220 }
+				
+				b_torres_paine = {
+				}
+				b_torres_paine-ii = {
+				}
+				b_torres_paine-iii = {
+				}
+				b_torres_paine-iv = {
+				}
+				b_torres_paine-v = {
+				}
+				b_torres_paine-vi = {
+				}
+			}
+			c_cerro_dragon = {
+
+				color={ 185 194 39 }
+				color2={ 220 220 220 }
+				
+				b_cerro_dragon = {
+				}
+				b_cerro_dragon-ii = {
+				}
+				b_cerro_dragon-iii = {
+				}
+				b_cerro_dragon-iv = {
+				}
+				b_cerro_dragon-v = {
+				}
+				b_cerro_dragon-vi = {
+				}
+			}
+			c_pico_truncado = {
+
+				color={ 115 113 213 }
+				color2={ 220 220 220 }
+				
+				b_pico_truncado = {
+				}
+				b_pico_truncado-ii = {
+				}
+				b_pico_truncado-iii = {
+				}
+				b_pico_truncado-iv = {
+				}
+				b_pico_truncado-v = {
+				}
+				b_pico_truncado-vi = {
+				}
+			}
+			
+		}
+		
+		d_sarmiento = {
+
+			color={ 121 172 129 }
+			color2={ 220 220 220 }
+			
+			capital = 4152 #Sarmiento
+			
+			c_leona = {
+
+				color={ 92 10 39 }
+				color2={ 220 220 220 }
+				
+				b_leona = {
+				}
+				b_leona-ii = {
+				}
+				b_leona-iii = {
+				}
+				b_leona-iv = {
+				}
+				b_leona-v = {
+				}
+				b_leona-vi = {
+				}
+			}
+			c_tucu_tucu = {
+
+				color={ 99 44 8 }
+				color2={ 220 220 220 }
+				
+				b_tucu_tucu = {
+				}
+				b_tucu_tucu-ii = {
+				}
+				b_tucu_tucu-iii = {
+				}
+				b_tucu_tucu-iv = {
+				}
+				b_tucu_tucu-v = {
+				}
+				b_tucu_tucu-vi = {
+				}
+			}
+			c_rawson = {
+
+				color={ 77 77 98 }
+				color2={ 220 220 220 }
+				
+				b_rawson = {
+				}
+				b_rawson-ii = {
+				}
+				b_rawson-iii = {
+				}
+				b_rawson-iv = {
+				}
+				b_rawson-v = {
+				}
+				b_rawson-vi = {
+				}
+			}
+			c_garayalde = {
+
+				color={ 180 94 52 }
+				color2={ 220 220 220 }
+				
+				b_garayalde = {
+				}
+				b_garayalde-ii = {
+				}
+				b_garayalde-iii = {
+				}
+				b_garayalde-iv = {
+				}
+				b_garayalde-v = {
+				}
+				b_garayalde-vi = {
+				}
+			}
+			c_camarones = {
+
+				color={ 55 148 74 }
+				color2={ 220 220 220 }
+				
+				b_camarones = {
+				}
+				b_camarones-ii = {
+				}
+				b_camarones-iii = {
+				}
+				b_camarones-iv = {
+				}
+				b_camarones-v = {
+				}
+				b_camarones-vi = {
+				}
+			}
+			c_sarmiento = {
+
+				color={ 55 14 155 }
+				color2={ 220 220 220 }
+				
+				b_sarmiento = {
+				}
+				b_sarmiento-ii = {
+				}
+				b_sarmiento-iii = {
+				}
+				b_sarmiento-iv = {
+				}
+				b_sarmiento-v = {
+				}
+				b_sarmiento-vi = {
+				}
+			}
+			
+			}
+		
+		d_condor = {
+
+			color={ 158 111 178 }
+			color2={ 220 220 220 }
+			
+			capital = 4143 #Condor
+			
+			c_valdes = {
+
+				color={ 3 44 200 }
+				color2={ 220 220 220 }
+				
+				b_valdes = {
+				}
+				b_valdes-ii = {
+				}
+				b_valdes-iii = {
+				}
+				b_valdes-iv = {
+				}
+				b_valdes-v = {
+				}
+				b_valdes-vi = {
+				}
+			}
+			
+			c_trelew = {
+
+				color={ 70 75 62 }
+				color2={ 220 220 220 }
+				
+				b_trelew = {
+				}
+				b_trelew-ii = {
+				}
+				b_trelew-iii = {
+				}
+				b_trelew-iv = {
+				}
+				b_trelew-v = {
+				}
+				b_trelew-vi = {
+				}
+			}
+			c_gaiman = {
+
+				color={ 44 19 169 }
+				color2={ 220 220 220 }
+				
+				b_gaiman = {
+				}
+				b_gaiman-ii = {
+				}
+				b_gaiman-iii = {
+				}
+				b_gaiman-iv = {
+				}
+				b_gaiman-v = {
+				}
+				b_gaiman-vi = {
+				}
+			}
+			c_jacobacci = {
+
+				color={ 32 139 216 }
+				color2={ 220 220 220 }
+				
+				b_jacobacci = {
+				}
+				b_jacobacci-ii = {
+				}
+				b_jacobacci-iii = {
+				}
+				b_jacobacci-iv = {
+				}
+				b_jacobacci-v = {
+				}
+				b_jacobacci-vi = {
+				}
+			}
+			c_gan_gan = {
+
+				color={ 62 73 163 }
+				color2={ 220 220 220 }
+				
+				b_gan_gan = {
+				}
+				b_gan_gan-ii = {
+				}
+				b_gan_gan-iii = {
+				}
+				b_gan_gan-iv = {
+				}
+				b_gan_gan-v = {
+				}
+				b_gan_gan-vi = {
+				}
+			}
+			c_telsen = {
+
+				color={ 199 32 111 }
+				color2={ 220 220 220 }
+				
+				b_telsen = {
+				}
+				b_telsen-ii = {
+				}
+				b_telsen-iii = {
+				}
+				b_telsen-iv = {
+				}
+				b_telsen-v = {
+				}
+				b_telsen-vi = {
+				}
+			}
+			c_condor = {
+
+				color={ 45 32 32 }
+				color2={ 220 220 220 }
+				
+				b_condor = {
+				}
+				b_condor-ii = {
+				}
+				b_condor-iii = {
+				}
+				b_condor-iv = {
+				}
+				b_condor-v = {
+				}
+				b_condor-vi = {
+				}
+			}
+		}
+		
+		d_uruguay = {
+
+			color={ 153 141 171 }
+			color2={ 220 220 220 }
+			
+			capital = 4121 #Uruguay
+			
+			c_uruguay = {
+
+				color={ 22 22 3 }
+				color2={ 220 220 220 }
+				
+				b_uruguay = {
+				}
+				b_uruguay-ii = {
+				}
+				b_uruguay-iii = {
+				}
+				b_uruguay-iv = {
+				}
+				b_uruguay-v = {
+				}
+				b_uruguay-vi = {
+				}
+			}
+			c_montevideo = {
+
+				color={ 211 113 153 }
+				color2={ 220 220 220 }
+				
+				b_montevideo = {
+				}
+				b_montevideo-ii = {
+				}
+				b_montevideo-iii = {
+				}
+				b_montevideo-iv = {
+				}
+				b_montevideo-v = {
+				}
+				b_montevideo-vi = {
+				}
+			}
+			c_galopolis = {
+
+				color={ 19 19 9 }
+				color2={ 220 220 220 }
+				
+				b_galopolis = {
+				}
+				b_galopolis-ii = {
+				}
+				b_galopolis-iii = {
+				}
+				b_galopolis-iv = {
+				}
+				b_galopolis-v = {
+				}
+				b_galopolis-vi = {
+				}
+			}
+			
+		}
+		
+		d_villalonga = {
+
+			color={ 32 32 84 }
+			color2={ 220 220 220 }
+			
+			capital = 4136 #Villalonga
+			
+			c_villalonga = {
+
+				color={ 62 112 73 }
+				color2={ 220 220 220 }
+				
+				b_villalonga = {
+				}
+				b_villalonga-ii = {
+				}
+				b_villalonga-iii = {
+				}
+				b_villalonga-iv = {
+				}
+				b_villalonga-v = {
+				}
+				b_villalonga-vi = {
+				}
+			}
+			c_conesa = {
+
+				color={ 22 23 29 }
+				color2={ 220 220 220 }
+				
+				b_conesa = {
+				}
+				b_conesa-ii = {
+				}
+				b_conesa-iii = {
+				}
+				b_conesa-iv = {
+				}
+				b_conesa-v = {
+				}
+				b_conesa-vi = {
+				}
+			}
+			c_grutas = {
+
+				color={ 13 14 18 }
+				color2={ 220 220 220 }
+				
+				b_grutas = {
+				}
+				b_grutas-ii = {
+				}
+				b_grutas-iii = {
+				}
+				b_grutas-iv = {
+				}
+				b_grutas-v = {
+				}
+				b_grutas-vi = {
+				}
+			}
+			c_viedma = {
+
+				color={ 27 128 38 }
+				color2={ 220 220 220 }
+				
+				b_viedma = {
+				}
+				b_viedma-ii = {
+				}
+				b_viedma-iii = {
+				}
+				b_viedma-iv = {
+				}
+				b_viedma-v = {
+				}
+				b_viedma-vi = {
+				}
+			}
+			
+		}
+
+		d_argentina = {
+
+			color={ 35 204 41 }
+			color2={ 220 220 220 }
+			
+			capital = 4128 # Argentina
+			
+			c_santa_rosa = {
+
+				color={ 174 109 106 }
+				color2={ 220 220 220 }
+				
+				b_santa_rosa = {
+				}
+				b_santa_rosa-ii = {
+				}
+				b_santa_rosa-iii = {
+				}
+				b_santa_rosa-iv = {
+				}
+				b_santa_rosa-v = {
+				}
+				b_santa_rosa-vi = {
+				}
+			}
+			c_argentina = {
+
+				color={ 139 23 200 }
+				color2={ 220 220 220 }
+				
+				b_argentina = {
+				}
+				b_argentina-ii = {
+				}
+				b_argentina-iii = {
+				}
+				b_argentina-iv = {
+				}
+				b_argentina-v = {
+				}
+				b_argentina-vi = {
+				}
+			}
+			c_zapala = {
+
+				color={ 99 19 56 }
+				color2={ 220 220 220 }
+				
+				b_zapala = {
+				}
+				b_zapala-ii = {
+				}
+				b_zapala-iii = {
+				}
+				b_zapala-iv = {
+				}
+				b_zapala-v = {
+				}
+				b_zapala-vi = {
+				}
+			}
+			c_carhue = {
+
+				color={ 159 14 159 }
+				color2={ 220 220 220 }
+				holy_site=mapuche_pagan
+				holy_site=mapuche_pagan_reformed
+				holy_site=south_american
+				holy_site=south_american_reformed
+				holy_site=chaco_pagan
+				holy_site=chaco_pagan_reformed
+				holy_site=pampas_pagan
+				holy_site=pampas_pagan_reformed
+				b_carhue = {
+				}
+				b_carhue-ii = {
+				}
+				b_carhue-iii = {
+				}
+				b_carhue-iv = {
+				}
+				b_carhue-v = {
+				}
+				b_carhue-vi = {
+				}
+			}
+			c_macachin = {
+
+				color={ 138 132 190 }
+				color2={ 220 220 220 }
+				
+				b_macachin = {
+				}
+				b_macachin-ii = {
+				}
+				b_macachin-iii = {
+				}
+				b_macachin-iv = {
+				}
+				b_macachin-v = {
+				}
+				b_macachin-vi = {
+				}
+			}
+			c_concepcion = {
+
+				color={ 33 66 56 }
+				color2={ 220 220 220 }
+				
+				b_concepcion = {
+				}
+				b_concepcion-ii = {
+				}
+				b_concepcion-iii = {
+				}
+				b_concepcion-iv = {
+				}
+				b_concepcion-v = {
+				}
+				b_concepcion-vi = {
+				}
+			}
+		}
+	}
+}
+

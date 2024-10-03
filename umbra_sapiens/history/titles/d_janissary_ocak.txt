@@ -1,0 +1,11 @@
+20.1.1={
+	active = no
+}
+1360.1.1={
+	liege="k_ottoman"
+	active = yes
+	set_global_flag = janissary_ocak_founded
+}
+1453.5.29={
+	liege="e_ottomans"
+}

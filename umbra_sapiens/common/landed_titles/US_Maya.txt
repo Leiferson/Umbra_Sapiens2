@@ -1,0 +1,2344 @@
+e_maya = {
+
+	color={ 25 44 177 }
+	color2={ 220 220 220 }
+	allow={
+	is_colonial = no
+	}
+	capital = 3723 # Tenochtitlan
+	k_otomi = {
+		color={ 255 255 128 }
+		color2={ 220 220 220 }
+		capital = 3807 # Metztitlan
+		chorotega="Otomi"
+		matlazincas="Otomi"
+		nonohualcan="Otomi"
+		otopamean="Otomi"
+		tlapanec="Otomi"
+		mixtec="Otomi"
+		zapotek="Otomi"
+		d_huasteca = {
+
+			color={ 255 255 108 }
+			color2={ 220 220 220 }
+			capital = 3769 # Tamaulipas
+			c_oxtilipan= {
+			
+				color={ 255 215 77 }
+				color2={ 220 220 220 }
+				b_oxtilipan = {
+				}
+				b_oxtilipan-ii = {
+				}
+				b_oxtilipan-iii = {
+				}
+				b_oxtilipan-iv = {
+				}
+			}
+			c_tezatotitlan= {
+			
+				color={ 245 235 97 }
+				color2={ 220 220 220 }
+				b_tezatotitlan = {
+				}
+				b_tezatotitlan-ii = {
+				}
+				b_tezatotitlan-iii = {
+				}
+				b_tezatotitlan-iv = {
+				}
+				b_tezatotitlan-v = {
+				}
+			}
+			c_chila= {
+			
+				color={ 235 245 97 }
+				color2={ 220 220 220 }
+				b_chila = {
+				}
+				b_chila-ii = {
+				}
+				b_chila-iii = {
+				}
+				b_chila-iv = {
+				}
+				b_chila-v = {
+				}
+			}
+			c_chamuin= {
+			
+				color={ 265 215 77 }
+				color2={ 220 220 220 }
+				b_chamuin = {
+				}
+				b_chamuin-ii = {
+				}
+				b_chamuin-iii = {
+				}
+				b_chamuin-iv = {
+				}
+				b_chamuin-v = {
+				}
+			}
+			c_tuxpan = {
+			
+				color={ 245 235 77 }
+				color2={ 220 220 220 }
+				b_tuxpan = {
+				}
+				b_tuxpan-ii = {
+				}
+				b_tuxpan-iii = {
+				}
+				b_tuxpan-iv = {
+				}
+				b_tuxpan-v = {
+				}
+				b_tuxpan-vi = {
+				}
+			}
+			c_tziccoac = {
+
+				color={ 245 245 88 }
+				color2={ 220 220 220 }
+				holy_site = zapotec_pagan
+				holy_site = zapotec_pagan_reformed
+				holy_site = wastek_pagan
+				holy_site = wastek_pagan_reformed
+				holy_site = mixtec_pagan
+				holy_site = mixtec_pagan_reformed
+				holy_site = totonac_pagan
+				holy_site = totonac_pagan_reformed
+				holy_site = corachol_pagan
+				holy_site = corachol_pagan_reformed
+				b_tziccoac = {
+				}
+				b_tziccoac-ii = {
+				}
+				b_tziccoac-iii = {
+				}
+			}
+			}
+		d_metztitlan = {
+			capital = 3807 # Metztitlan
+			color={ 242 140 168 }
+			color2={ 220 220 220 }
+			c_tepatetita= {
+			
+				color={ 245 225 77 }
+				color2={ 220 220 220 }
+				b_tepatetita = {
+				}
+				b_tepatetita-ii = {
+				}
+				b_tepatetita-iii = {
+				}
+				b_tepatetita-iv = {
+				}
+				b_tepatetita-v = {
+				}
+			}
+			c_metztitlan = {
+
+				color={ 225 134 49 }
+				color2={ 220 220 220 }
+				holy_site = otomi_pagan
+				holy_site = otomi_pagan_reformed
+				b_metztitlan = {
+				}
+				b_metztitlan-ii = {
+				}
+				b_metztitlan-iii = {
+				}
+			}
+				c_cotoname = {
+
+				color={ 75 124 33 }
+				color2={ 220 220 220 }
+				
+				b_cotoname = {
+				}
+				b_cotoname-ii = {
+				}
+				b_cotoname-iii = {
+				}
+			}
+			c_pame = {
+
+				color={ 95 197 49 }
+				color2={ 220 220 220 }
+				
+				b_pame = {
+				}
+				b_pame-ii = {
+				}
+				b_pame-iii = {
+					}
+				}
+			}
+		
+		}
+k_alamos = {
+		color={ 133 211 162 }
+		color2={ 0 0 0 }
+		d_tamaulipas = {
+
+			color={ 55 194 22 }
+			color2={ 220 220 220 }
+			
+			capital = 3777 
+			c_tamaulipas = {
+
+				color={ 195 144 119 }
+				color2={ 220 220 220 }
+				b_tamaulipas = {
+				}
+				b_tamaulipas-ii = {
+				}
+				b_tamaulipas-iii = {
+				}
+				b_tamaulipas-iv = {
+			}
+			}
+			c_coahuilteco = {
+
+				color={ 155 174 49 }
+				color2={ 220 220 220 }
+				
+				b_coahuilteco = {
+				}
+				b_coahuilteco-ii = {
+				}
+				b_coahuilteco-iii = {
+				}
+			}
+			c_borrado = {
+
+				color={ 115 34 29 }
+				color2={ 220 220 220 }
+				
+				b_borrado = {
+				}
+				b_borrado-ii = {
+				}
+				b_borrado-iii = {
+				}
+			}
+		}
+		d_guasave = {
+		
+			color={ 33 33 219 }
+			color2={ 220 220 220 }
+			
+			capital = 4167 #Guasave
+		
+		c_chihuahua = {
+				color={ 82 1 19 }
+				color2={ 220 220 220 }
+				holy_site=tarascan_pagan
+				holy_site=tarascan_pagan_reformed
+				holy_site=southwest_pagan
+				holy_site=southwest_pagan_reformed
+				holy_site=southeast_pagan
+				holy_site=southeast_pagan_reformed
+				holy_site = otomi_pagan
+				holy_site = otomi_pagan_reformed
+				holy_site = corachol_pagan
+				holy_site = corachol_pagan_reformed
+				b_chihuahua = {
+				}
+				b_chihuahua-ii = {
+				}
+				b_chihuahua-iii = {
+				}
+			}
+		c_guachochi = {
+				color={ 2 111 39 }
+				color2={ 220 220 220 }
+				
+				b_guachochi = {
+				}
+				b_guachochi-ii = {
+				}
+				b_guachochi-iii = {
+				}
+			}
+		c_guasave = {
+				color={ 32 11 66 }
+				color2={ 220 220 220 }
+				
+				b_guasave = {
+				}
+				b_guasave-ii = {
+				}
+				b_guasave-iii = {
+				}
+			}
+		}
+		d_mazatlan = {
+
+			color={ 0.10 0.42 0.55 }
+			color2={ 220 220 220 }
+			
+			capital = 4084 #Mazatlan
+			c_cuxtaque= {
+
+				color={ 73 223 103 }
+				color2={ 220 220 220 }
+				
+				b_cuxtaque = {
+				}
+				b_cuxtaque-ii = {
+				}
+				b_cuxtaque-iii = {
+				}
+				b_cuxtaque-iv = {
+				}
+				b_cuxtaque-v = {
+				}
+			}
+			c_guaxaban= {
+
+				color={ 83 223 103 }
+				color2={ 220 220 220 }
+				
+				b_guaxaban = {
+				}
+				b_guaxaban-ii = {
+				}
+				b_guaxaban-iii = {
+				}
+				b_guaxaban-iv = {
+				}
+				b_guaxaban-v = {
+				}
+			}
+			c_tecpatitlan = {
+
+				color={ 93 223 103 }
+				color2={ 220 220 220 }
+				
+				b_tecpatitlan = {
+				}
+				b_tecpatitlan-ii = {
+				}
+				b_tecpatitlan-iii = {
+				}
+				b_tecpatitlan-iv = {
+				}
+				b_tecpatitlan-v = {
+				}
+			}
+			c_etzatlan = {
+
+				color={ 113 233 113 }
+				color2={ 220 220 220 }
+				
+				b_etzatlan = {
+				}
+				b_etzatlan-ii = {
+				}
+				b_etzatlan-iii = {
+				}
+				b_etzatlan-iv = {
+				}
+			}
+			c_durango = {
+
+				color={ 123 223 123 }
+				color2={ 220 220 220 }
+				
+				b_durango = {
+				}
+				b_durango-ii = {
+				}
+				b_durango-iii = {
+				}
+			}
+			
+			c_zacatecas = {
+				color={ 188 29 188 }
+				color2={ 220 220 220 }
+				
+				b_zacatecas = {
+				}
+				b_zacatecas-ii = {
+				}
+				b_zacatecas-iii = {
+				}
+			}
+			c_zuniga = {
+				color={ 111 111 9 }
+				color2={ 220 220 220 }
+				b_zuniga = {
+				}
+				b_zuniga-ii = {
+				}
+				b_zuniga-iii = {
+				}
+				b_zuniga-iv = {
+				}
+			}
+		}
+		d_tahues ={
+			color={ 35 36 217 }
+				color2={ 220 220 220 }
+				capital = 4850
+			c_huacica = {
+
+				color={ 103 223 103 }
+				color2={ 220 220 220 }
+				
+				b_huacica = {
+				}
+				b_huacica-ii = {
+				}
+				b_huacica-iii = {
+				}
+			}
+			c_xiximes = {
+
+				color={ 15 16 187 }
+				color2={ 220 220 220 }
+				
+				b_xiximes = {
+				}
+				b_xiximes-ii = {
+				}
+				b_xiximes-iii = {
+				}
+			}
+			c_tahues = {
+
+				color={ 15 16 157 }
+				color2={ 220 220 220 }
+				
+				b_tahues = {
+				}
+				b_tahues-ii = {
+				}
+				b_tahues-iii = {
+				}
+			}
+			c_achires = {
+
+				color={ 15 16 167 }
+				color2={ 220 220 220 }
+				
+				b_achires = {
+				}
+				b_achires-ii = {
+				}
+				b_achires-iii = {
+				}
+			}
+			c_acaxees = {
+
+				color={ 15 16 177 }
+				color2={ 220 220 220 }
+				
+				b_acaxees = {
+				}
+				b_acaxees-ii = {
+				}
+				b_acaxees-iii = {
+				}
+				b_acaxees-iv = {
+				}
+				b_acaxees-v = {
+				}
+			}
+			c_parral = {
+
+				color={ 5 11 197 }
+				color2={ 220 220 220 }
+				
+				b_parral = {
+				}
+				b_parral-ii = {
+				}
+				b_parral-iii = {
+				}
+			}
+			}
+			d_guachichil = {
+			capital = 3772
+			color={ 65 234 149 }
+			color2={ 220 220 220 }
+			c_laguneros = {
+
+				color={ 55 214 129 }
+				color2={ 220 220 220 }
+				
+				b_laguneros = {
+				}
+				b_laguneros-ii = {
+				}
+				b_laguneros-iii = {
+				}
+			}
+				c_xale = {
+
+				color={ 65 214 129 }
+				color2={ 220 220 220 }
+				
+				b_xale = {
+				}
+				b_xale-ii = {
+				}
+				b_xale-iii = {
+				}
+			}
+			c_malehualan = {
+
+				color={ 85 214 129 }
+				color2={ 220 220 220 }
+				
+				b_malehualan = {
+				}
+				b_malehualan-ii = {
+				}
+				b_malehualan-iii = {
+				}
+			}
+			c_xanal = {
+
+				color={ 105 214 129 }
+				color2={ 220 220 220 }
+				
+				b_xanal = {
+				}
+				b_xanal-ii = {
+				}
+				b_xanal-iii = {
+				}
+			}
+			}
+		d_coahuila = {
+
+			color={ 14 222 129 }
+			color2={ 220 220 220 }
+			
+			capital = 3773 # Coahuila
+			
+			c_coahuila = {
+
+				color={ 185 67 129 }
+				color2={ 220 220 220 }	
+				b_coahuila1  = {
+				}
+				b_coahuila-ii = {
+				}
+				b_coahuila-iii = {
+				}
+				b_coahuila-iv = {
+				}
+			}
+			c_chichitames = {
+
+				color={ 95 124 149 }
+				color2={ 220 220 220 }
+				
+				b_chichitames = {
+				}
+				b_chichitames-ii = {
+				}
+				b_chichitames-iii = {
+				}
+			}
+			c_cacaxtes = {
+
+				color={ 125 24 109 }
+				color2={ 220 220 220 }
+				
+				b_cacaxtes = {
+				}
+				b_cacaxtes-ii = {
+				}
+				b_cacaxtes-iii = {
+				}
+			}
+			c_tuintsunde = {
+
+				color={ 148 54 189 }
+				color2={ 220 220 220 }
+				
+				b_tuintsunde = {
+				}
+				b_tuintsunde-ii = {
+				}
+				b_tuintsunde-iii = {
+				}
+			}
+		}
+		d_cosala = {
+
+			color={ 68 99 100 }
+			color2={ 220 220 220 }
+			
+			capital = 4086 #Cosala
+			c_mazatlan = {
+				color={ 119 29 103 }
+				color2={ 220 220 220 }
+				
+				b_mazatlan = {
+				}
+				b_mazatlan-ii = {
+				}
+				b_mazatlan-iii = {
+				}
+			}
+			c_guamuchil = {
+
+				color={ 8 1 147 }
+				color2={ 220 220 220 }
+				holy_site = corachol_pagan
+				holy_site = corachol_pagan_reformed
+				b_guamuchil = {
+				}
+				b_guamuchil-ii = {
+				}
+				b_guamuchil-iii = {
+				}
+			}
+			
+			c_cosala = {
+
+				color={ 75 41 127 }
+				color2={ 220 220 220 }
+				
+				b_cosala = {
+				}
+				b_cosala-ii = {
+				}
+				b_cosala-iii = {
+				}
+			}
+		}
+		d_alamos = {
+		
+			color={ 49 66 66 }
+			color2={ 220 220 220 }
+			
+			capital = 4168 #Alamos
+		
+		
+		c_alamos = {
+				color={ 42 21 3 }
+				color2={ 220 220 220 }
+				
+				b_alamos = {
+				}
+				b_alamos-ii = {
+				}
+				b_alamos-iii = {
+				}
+			}
+		c_huatabampo = {
+				color={ 32 131 59 }
+				color2={ 220 220 220 }
+				
+				b_huatabampo = {
+				}
+				b_huatabampo-ii = {
+				}
+				b_huatabampo-iii = {
+				}
+			}
+			c_movas = {
+				color={ 109 144 121 }
+				color2={ 220 220 220 }
+				
+				b_movas = {
+				}
+				b_movas-ii = {
+				}
+				b_movas-iii = {
+				}
+			}
+			c_cajeme = {
+				color={ 11 201 119 }
+				color2={ 220 220 220 }
+				
+				b_cajeme = {
+				}
+				b_cajeme-ii = {
+				}
+				b_cajeme-iii = {
+				}
+			}
+		}
+	}
+	
+	k_mazatlan = {
+	
+		color={ 183 11 62 }
+		color2={ 0 0 0 }
+		
+		capital = 4084 #Mazatlan
+		
+		d_colima = { #patzcuaro
+
+			color={ 101 199 123 }
+			color2={ 220 220 220 }
+			
+			capital = 4075 #patzcuaro
+			c_tingambato = { 
+				color={ 188 51 56 }
+				color2={ 220 220 220 }
+				b_tingambato = {
+				}
+				b_tingambato-ii = {
+				}
+				b_tingambato-iii = {
+				}
+				b_tingambato-iv = {
+				}
+				b_tingambato-v = {
+				}
+				b_tingambato-vi = {
+				}
+			}
+			c_tizapan = { 
+				color={ 188 81 56 }
+				color2={ 220 220 220 }
+				b_tizapan = {
+				}
+				b_tizapan-ii = {
+				}
+				b_tizapan-iii = {
+				}
+				b_tizapan-iv = {
+				}
+			}
+			c_apatzingan = { 
+				color={ 188 91 56 }
+				color2={ 220 220 220 }
+				b_apatzingan = {
+				}
+				b_apatzingan-ii = {
+				}
+				b_apatzingan-iii = {
+				}
+				b_apatzingan-iv = {
+				}
+				b_apatzingan-v = {
+				}
+			}
+			c_colima = {
+				color={ 188 101 66 }
+				color2={ 220 220 220 }
+				holy_site = zapotec_pagan
+				holy_site = zapotec_pagan_reformed
+				holy_site = wastek_pagan
+				holy_site = wastek_pagan_reformed
+				holy_site = mixtec_pagan
+				holy_site = mixtec_pagan_reformed
+				holy_site = totonac_pagan
+				holy_site = totonac_pagan_reformed
+				holy_site=tarascan_pagan
+				holy_site=tarascan_pagan_reformed
+				holy_site=southwest_pagan
+				holy_site=southwest_pagan_reformed
+				b_colima = {
+				}
+				b_colima-ii = {
+				}
+				b_colima-iii = {
+				}
+				b_colima-iv = {
+				}
+				b_colima-v = {
+				}
+				b_colima-vi = {
+				}
+				b_colima-vii = {
+				}
+			}	
+		}
+		d_ihuatzio = {
+		color={ 31 221 139 }
+		color2={ 220 220 220 }
+		capital = 4405 #ihuatzio/guzman
+		c_zinapecuaro = { 
+				color={ 11 201 79 }
+				color2={ 220 220 220 }
+				b_zinapecuaro = {
+				}
+				b_zinapecuaro-ii = {
+				}
+				b_zinapecuaro-iii = {
+				}
+			}
+		c_zacapu = { 
+				color={ 11 201 109 }
+				color2={ 220 220 220 }
+				b_zacapu = {
+				}
+				b_zacapu-ii = {
+				}
+				b_zacapu-iii = {
+				}
+				b_zacapu-iv = {
+				}
+			}
+			c_zinaparo = { 
+				color={ 11 201 99 }
+				color2={ 220 220 220 }
+				b_zinaparo = {
+				}
+				b_zinaparo-ii = {
+				}
+				b_zinaparo-iii = {
+				}
+				b_zinaparo-iv = {
+				}
+				b_zinaparo-v = {
+				}
+			}
+			c_acambaro = { 
+				color={ 11 201 89 }
+				color2={ 220 220 220 }
+				b_acambaro = {
+				}
+				b_acambaro-ii = {
+				}
+				b_acambaro-iii = {
+				}
+				b_acambaro-iv = {
+				}
+				b_acambaro-v = {
+				}
+			}
+		c_guzman = {
+				color={ 11 201 119 }
+				color2={ 220 220 220 }
+				b_guzman = {
+				}
+				b_guzman-ii = {
+				}
+				b_guzman-iii = {
+				}
+				b_guzman-iv = {
+				}
+				b_guzman-v = {
+				}
+				b_guzman-vi = {
+				}
+				b_guzman-vii = {
+				}
+			}
+			}
+		d_tzintzuntzan = {
+		color={ 69 221 146 }
+		color2={ 220 220 220 }
+		capital = 4405 #Tzintzuntzan/manzanillo
+			c_querendaro = { 
+				color={ 69 181 146 }
+				color2={ 220 220 220 }
+				b_querendaro = {
+				}
+				b_querendaro-ii = {
+				}
+				b_querendaro-iii = {
+				}
+				b_querendaro-iv = {
+				}
+			}
+			c_puruaran = { 
+				color={ 69 191 146 }
+				color2={ 220 220 220 }
+				b_puruaran = {
+				}
+				b_puruaran-ii = {
+				}
+				b_puruaran-iii = {
+				}
+				b_puruaran-iv = {
+				}
+			}
+			c_huetamo = { 
+				color={ 69 201 146 }
+				color2={ 220 220 220 }
+				b_huetamo = {
+				}
+				b_huetamo-ii = {
+				}
+				b_huetamo-iii = {
+				}
+			}
+			c_zacatula = { 
+				color={ 69 211 146 }
+				color2={ 220 220 220 }
+				b_zacatula = {
+				}
+				b_zacatula-ii = {
+				}
+				b_zacatula-iii = {
+				}
+				b_zacatula-iv = {
+				}
+				b_zacatula-v = {
+				}
+			}
+		c_manzanillo = {
+				color={ 49 201 136 }
+				color2={ 220 220 220 }
+				holy_site=tarascan_pagan
+				holy_site=tarascan_pagan_reformed
+				holy_site= nonohualcan_pagan
+				holy_site= nonohualcan_pagan_reformed
+				b_manzanillo = {
+				}
+				b_manzanillo-ii = {
+				}
+				b_manzanillo-iii = {
+				}
+				b_manzanillo-iv = {
+				}
+				b_manzanillo-v = {
+				}
+				b_manzanillo-vi = {
+				}
+				b_manzanillo-vii = {
+				}
+			}
+			}
+	}
+	k_collimatl = {
+			color={ 34 901 56 }
+			color2={ 220 220 220 }
+			capital = 4407
+	d_colimanew = {
+			color={ 64 121 86 }
+			color2={ 220 220 220 }
+			capital = 4407
+			c_cutzallan = {
+				color={ 44 101 56 }
+				color2={ 220 220 220 }
+				b_cutzallan = {
+				}
+				b_cutzallan-ii = {
+				}
+				b_cutzallan-iii = {
+				}
+				b_cutzallan-iv = {
+				}
+				b_cutzallan-v = {
+				}
+			}
+			c_coahuayana = {
+				color={ 44 101 76 }
+				color2={ 220 220 220 }
+				b_coahuayana = {
+				}
+				b_coahuayana-ii = {
+				}
+				b_coahuayana-iii = {
+				}
+				b_coahuayana-iv = {
+				}
+				b_coahuayana-v = {
+				}
+			}
+			c_vallarta = { #Colimatl
+				color={ 44 101 66 }
+				color2={ 220 220 220 }
+				holy_site = otomi_pagan
+				holy_site = otomi_pagan_reformed
+				b_vallarta = {
+				}
+				b_vallarta-ii = {
+				}
+				b_vallarta-iii = {
+				}
+				b_vallarta-iv = {
+				}
+				b_vallarta-v = {
+				}
+			}
+			}
+	}
+	k_jalisco = {
+	color={ 84 141 106 }
+	color2={ 220 220 220 }
+	capital = 4077 #Jalisco
+		d_coculla = { 
+			color={ 120 40 75 }
+			color2={ 220 220 220 }
+			
+			capital = 4837 #Coculla
+			c_melahuacan = {
+				color={ 99 201 19 }
+				color2={ 220 220 220 }
+				
+				b_melahuacan = {
+				}
+				b_melahuacan-ii = {
+				}
+				b_melahuacan-iii = {
+				}
+				b_melahuacan-iv = {
+				}
+			}
+			c_amollan= {
+				color={ 110 30 75 }
+				color2={ 220 220 220 }
+				
+				b_amollan = {
+				}
+				b_amollan-ii = {
+				}
+				b_amollan-iii = {
+				}
+			}
+			c_autlan= {
+				color={ 110 30 55 }
+				color2={ 220 220 220 }
+				
+				b_autlan = {
+				}
+				b_autlan-ii = {
+				}
+				b_autlan-iii = {
+				}
+				b_autlan-iv = {
+				}
+			}
+			c_coculla= {
+				color={ 110 30 65 }
+				color2={ 220 220 220 }
+				
+				b_coculla = {
+				}
+				b_coculla-ii = {
+				}
+				b_coculla-iii = {
+				}
+			}
+			c_tenamaxtlan = {
+				color={ 110 30 65 }
+				color2={ 220 220 220 }
+				
+				b_tenamaxtlan = {
+				}
+				b_tenamaxtlan-ii = {
+				}
+				b_tenamaxtlan-iii = {
+				}
+				b_tenamaxtlan-iv = {
+				}
+			}
+			}
+		d_jalisco = { 
+			color={ 99 66 55 }
+			color2={ 220 220 220 }
+			
+			capital = 4077 #Jalisco
+			c_centicpac= {
+				color={ 99 171 19 }
+				color2={ 220 220 220 }
+				
+				b_centicpac= {
+				}
+				b_centicpac-ii = {
+				}
+				b_centicpac-iii = {
+				}
+				b_centicpac-iv = {
+				}
+			}
+			c_amoxocotlan= {
+				color={ 99 181 19 }
+				color2={ 220 220 220 }
+				
+				b_amoxocotlan= {
+				}
+				b_amoxocotlan-ii = {
+				}
+				b_amoxocotlan-iii = {
+				}
+				b_amoxocotlan-iv = {
+				}
+				b_amoxocotlan-v = {
+				}
+			}
+			c_ahuacatlan = {
+				color={ 99 191 19 }
+				color2={ 220 220 220 }
+				
+				b_ahuacatlan= {
+				}
+				b_ahuacatlan-ii = {
+				}
+				b_ahuacatlan-iii = {
+				}
+				b_ahuacatlan-iv = {
+				}
+			}
+			c_jalisco = {
+				color={ 99 211 19 }
+				color2={ 220 220 220 }
+				
+				b_jalisco = {
+				}
+				b_jalisco-ii = {
+				}
+				b_jalisco-iii = {
+				}
+				b_jalisco-iv = {
+				}
+				b_jalisco-v = {
+				}
+			}
+			
+			c_sayulita = {
+				color={ 184 19 122 }
+				color2={ 220 220 220 }
+				holy_site = corachol_pagan
+				holy_site = corachol_pagan_reformed
+				b_sayulita = {
+				}
+				b_sayulita-ii = {
+				}
+				b_sayulita-iii = {
+				}
+			}
+			
+			c_magdalena_isle = {
+
+				color={ 99 99 163 }
+				color2={ 220 220 220 }
+				
+				b_magdalena_isle = {
+				}
+				b_magdalena_isle-ii = {
+				}
+				b_magdalena_isle-iii = {
+				}
+			}
+			
+		}
+	}
+	k_tlaxcala = {
+		wastek="Cacaxtla"
+		chontales="Cacaxtla"
+		xicalanca="Cacaxtla"
+		highland_mayan="Cacaxtla"
+		lacandon="Cacaxtla"
+		mayanx="Cacaxtla"
+		color={ 255 127 39 }
+		color2={ 220 220 220 }
+		capital = 4818 # Tlaxcala Proper
+		d_tlaxcala = {
+			color={ 220 100 29 }
+			color2={ 220 220 220 }
+			capital = 4818 # Tlaxcala Proper
+			wastek="Cacaxtla"
+			chontales="Cacaxtla"
+			xicalanca="Cacaxtla"
+			highland_mayan="Cacaxtla"
+			lacandon="Cacaxtla"
+			mayanx="Cacaxtla"
+			c_tlaxcala = {
+				color={ 210 90 19 }
+				color2={ 220 220 220 }
+				b_tlaxcala = {
+				}
+				b_tlaxcala-ii = {
+				}
+				b_tlaxcala-iii = {
+				}
+				b_tlaxcala-iv = {
+				}
+				b_tlaxcala-v = {
+				}
+
+			}
+			c_ocutelulco = {
+				color={ 180 90 19 }
+				color2={ 220 220 220 }
+			
+				b_ocutelulco = {
+				}
+				b_ocutelulco-ii = {
+				}
+				b_ocutelulco-iii = {
+				}
+				b_ocutelulco-iv = {
+				}
+				b_ocutelulco-v = {
+				}
+
+			}
+			c_tizatlan = {
+				color={ 170 90 19 }
+				color2={ 220 220 220 }
+			
+				b_tizatlan = {
+				}
+				b_tizatlan-ii = {
+				}
+				b_tizatlan-iii = {
+				}
+				b_tizatlan-iv = {
+				}
+
+			}
+			c_tepectipac = {
+				color={ 150 90 19 }
+				color2={ 220 220 220 }
+			
+				b_tepectipac = {
+				}
+				b_tepectipac-ii = {
+				}
+				b_tepectipac-iii = {
+				}
+				b_tepectipac-iv = {
+				}
+
+			}
+			c_tlaxcalanew = {
+				color={ 120 90 19 }
+				color2={ 220 220 220 }
+				wastek="Cacaxtla"
+				chontales="Cacaxtla"
+				xicalanca="Cacaxtla"
+				highland_mayan="Cacaxtla"
+				lacandon="Cacaxtla"
+				mayanx="Cacaxtla"
+				b_tlaxcalanew = {
+				wastek="Cacaxtla"
+				chontales="Cacaxtla"
+				xicalanca="Cacaxtla"
+				highland_mayan="Cacaxtla"
+				lacandon="Cacaxtla"
+				mayanx="Cacaxtla"
+				}
+				b_tlaxcalanew-ii = {
+				}
+				b_tlaxcalanew-iii = {
+				}
+				b_tlaxcalanew-iv = {
+				}
+				b_tlaxcalanew-v = {
+				}
+				b_tlaxcalanew-vi = {
+				}
+				b_tlaxcalanew-vii = {
+				}
+			}
+			}
+		d_puebla = {
+
+			color={ 100 90 40 }
+			color2={ 220 220 220 }
+			
+			capital = 3728 # Cholula
+			c_huetjotzingo = {
+
+				color={ 55 165 145 }
+				color2={ 220 220 220 }
+				
+				b_huetjotzingo = {
+				}
+				b_huetjotzingo-ii = {
+				}
+				b_huetjotzingo-iii = {
+				}
+				b_huetjotzingo-iv= {
+				}
+				b_huetjotzingo-v= {
+				}
+			}
+			c_ocuituco = {
+
+				color={ 75 165 131 }
+				color2={ 220 220 220 }
+				
+				b_ocuituco = {
+				}
+				b_ocuituco-ii = {
+				}
+				b_ocuituco-iii = {
+				}
+				b_ocuituco-iv= {
+				}
+				b_ocuituco-v= {
+				}
+				b_ocuituco-vi= {
+				}
+				b_ocuituco-vii= {
+				}
+			}
+			c_xocotla = {
+
+				color={ 95 144 119 }
+				color2={ 220 220 220 }
+				
+				b_xocotla = {
+				}
+				b_xocotla-ii = {
+				}
+				b_xocotla-iii = {
+				}
+			}
+			c_cholula = {
+
+				color={ 175 124 33 }
+				color2={ 220 220 220 }
+				holy_site= nonohualcan_pagan
+				holy_site= nonohualcan_pagan_reformed
+				b_cholula = {
+				}
+				b_cholula-ii = {
+				}
+				b_cholula-iii = {
+				}
+				b_cholula-iv = {
+				}
+				b_cholula-v = {
+				}
+			}
+			c_tepeacac = {
+
+				color={ 55 174 49 }
+				color2={ 220 220 220 }
+				
+				b_tepeacac = {
+				}
+				b_tepeacac-ii = {
+				}
+				b_tepeacac-iii = {
+				}
+				b_tepeacac-iv = {
+				}
+			}
+			c_teotitlan = {
+
+				color={ 35 11 58 }
+				color2={ 220 220 220 }
+				
+				b_teotitlan = {
+				}
+				b_teotitlan-ii = {
+				}
+				b_teotitlan-iii = {
+				}
+			}
+		}
+		}
+	k_aztec = {
+
+		color={ 15 134 77 }
+		color2={ 220 220 220 }
+			pipil = "Aztec"
+			nahuatl = "Aztec"
+			xochimilca = "Aztec"
+			tlahuica = "Aztec"
+			acolhua = "Aztec"
+			tlaxcalteca = "Aztec"
+			tepaneca = "Aztec"
+			chalca = "Aztec"
+				
+		capital = 3723 # Tenochtitlan
+		d_chalco = {
+
+			color={ 140 200 124 }
+			color2={ 220 220 220 }
+			capital = 3725 # Chalco
+			c_xochicalco = {
+				color={ 215 190 99 }
+				color2={ 220 220 220 }	
+				b_xochicalco = {
+				}
+				b_xochicalco-ii = {
+				}
+				b_xochicalco-iii = {
+				}
+				b_xochicalco-iv = {
+				}
+				b_xochicalco-v = {
+				}
+				b_xochicalco-vi = {
+				}
+			}
+			c_cuauhnahuacnew = {
+				color={ 205 190 110 }
+				color2={ 220 220 220 }	
+				b_cuauhnahuacnew = {
+				}
+				b_cuauhnahuacnew-ii = {
+				}
+				b_cuauhnahuacnew-iii = {
+				}
+				b_cuauhnahuacnew-iv = {
+				}
+				b_cuauhnahuacnew-v = {
+				}
+			}
+			c_colhuacan = {
+				color={ 175 234 159 }
+				color2={ 220 220 220 }	
+				b_colhuacan = {
+				}
+				b_colhuacan-ii = {
+				}
+				b_colhuacan-iii = {
+				}
+				b_colhuacan-iv = {
+				}
+				b_colhuacan-v = {
+				}
+				b_colhuacan-vi = {
+				}
+			}
+			c_xomchimilco = {
+				color={ 165 224 149 }
+				color2={ 220 220 220 }	
+				b_xomchimilco = {
+				}
+				b_xomchimilco-ii = {
+				}
+				b_xomchimilco-iii = {
+				}
+				b_xomchimilco-iv = {
+				}
+				b_xomchimilco-v = {
+				}
+			}
+		c_cuauhnahuac = {
+
+				color={ 145 204 129 }
+				color2={ 220 220 220 }
+				
+				b_cuauhnahuac = {
+				}
+				b_cuauhnahuac-ii = {
+				}
+				b_cuauhnahuac-iii = {
+				}
+				b_cuauhnahuac-iv = {
+				}
+				b_cuauhnahuac-v = {
+				}
+				b_cuauhnahuac-vi = {
+				}
+			}
+			}
+			d_mexico ={
+			color={ 15 164 95 }
+			color2={ 220 220 220 }
+			capital = 3823 # Tenochtitlan
+			c_tlacopan = {
+				color={ 45 54 55 }
+				color2={ 220 220 220 }
+				b_tlacopan = {
+				}
+				b_tlacopan-ii = {
+				}
+				b_tlacopan-iii = {
+				}
+				b_tlacopan-iv = {
+				}
+				b_tlacopan-v = {
+				}
+			}
+			c_tetzcoco = {
+				color={ 65 86 34 }
+				color2={ 220 220 220 }
+				b_tetzcoco  = {
+				}
+				b_tetzcoco-ii = {
+				}
+				b_tetzcoco-iii = {
+				}
+				b_tetzcoco-iv = {
+				}
+				b_tetzcoco-v = {
+				}
+			}
+			c_mexico = {
+				color={ 65 74 75 }
+				color2={ 220 220 220 }
+				b_mexico = {
+				}
+				b_mexico-ii = {
+				}
+				b_mexico-iii = {
+				}
+				b_mexico-iv = {
+				}
+				b_mexico-v = {
+				}
+				b_mexico-vi = {
+				}
+			}
+			}
+			d_matlazinco = {
+			capital = 3724
+			color={ 105 34 159 }
+			color2={ 220 220 220 }
+			c_teloloapan = {
+
+				color={ 45 75 226 }
+				color2={ 220 220 220 }
+				
+				b_teloloapan = {
+				}
+				b_teloloapan-ii = {
+				}
+				b_teloloapan-iii = {
+				}
+			}
+			c_tolucan = {
+
+				color={ 65 14 149 }
+				color2={ 220 220 220 }
+				
+				b_tolucan = {
+				}
+				b_tolucan-ii = {
+				}
+				b_tolucan-iii = {
+				}
+				b_tolucan-iv = {
+				}
+				b_tolucan-v = {
+				}
+			}
+			c_malinalco = {
+
+				color={ 85 14 139 }
+				color2={ 220 220 220 }
+				
+				b_malinalco = {
+				}
+				b_malinalco-ii = {
+				}
+				b_malinalco-iii = {
+				}
+				b_malinalco-iv = {
+				}
+				b_malinalco-v = {
+				}
+				b_malinalco-vi = {
+				}
+			}
+			c_tullucan = {
+
+				color={ 85 94 149 }
+				color2={ 220 220 220 }
+				
+				b_tullucan = {
+				}
+				b_tullucan-ii = {
+				}
+				b_tullucan-iii = {
+				}
+			}
+			}
+		d_aztec1 = {
+
+			color={ 44 184 159 }
+			color2={ 220 220 220 }
+			
+			capital = 3718
+			c_teotihuacan = {
+				color={ 185 244 169 }
+				color2={ 220 220 220 }
+				holy_site= nonohualcan_pagan
+				holy_site= nonohualcan_pagan_reformed
+				b_teotihuacan = {
+				}
+				b_teotihuacan-ii = {
+				}
+				b_teotihuacan-iii = {
+				}
+				b_teotihuacan-iv = {
+				}
+				b_teotihuacan-v = {
+				}
+				b_teotihuacan-vi = {
+				}
+				b_teotihuacan-vii = {
+				}
+			}
+			c_tenochtitlan = {
+
+				color={ 85 24 119 }
+				color2={ 220 220 220 }
+				holy_site = aztec
+				holy_site = aztec_reformed	
+				b_tenochtitlan = {
+				}
+				b_tenochtitlan-ii = {
+				}
+				b_tenochtitlan-iii = {
+				}
+				b_tenochtitlan-iv = {
+				}
+				b_tenochtitlan-v = {
+				}
+				b_tenochtitlan-vi = {
+				}
+			}
+			c_tulax = {
+
+				color={ 85 34 159 }
+				color2={ 220 220 220 }
+				holy_site = otomi_pagan
+				holy_site = otomi_pagan_reformed
+				holy_site = zapotec_pagan
+				holy_site = zapotec_pagan_reformed
+				holy_site = wastek_pagan
+				holy_site = wastek_pagan_reformed
+				holy_site = mixtec_pagan
+				holy_site = mixtec_pagan_reformed
+				holy_site = totonac_pagan
+				holy_site = totonac_pagan_reformed
+				holy_site= mayan
+				holy_site= mayan_reformed		
+				holy_site= aztec
+				holy_site= aztec_reformed		
+				holy_site= tarascan_pagan
+				holy_site= tarascan_pagan_reformed
+				holy_site= corachol_pagan
+				holy_site= corachol_pagan_reformed
+				b_tulax = {
+				}
+				b_tulax-ii = {
+				}
+				b_tulax-iii = {
+				}
+				b_tulax-iv = {
+				}
+				b_tulax-v = {
+				}
+				b_tulax-vi = {
+				}
+			}
+			c_tlapacoyan = {
+
+				color={ 85 144 169 }
+				color2={ 220 220 220 }
+				
+				b_tlapacoyan = {
+				}
+				b_tlapacoyan-ii = {
+				}
+				b_tlapacoyan-iii = {
+				}
+			}
+		}	
+    }
+
+	k_mixteca = {
+
+		color={ 65 174 158 }
+		color2={ 220 220 220 }
+
+		capital = 3738 # Mixtec
+
+		d_mixteca = {
+
+			color={ 55 71 143 }
+			color2={ 220 220 220 }
+			
+			capital = 3738 # Mixtec
+			
+			c_mixtec = {
+
+				color={ 225 124 174 }
+				color2={ 220 220 220 }
+				holy_site = mixtec_pagan
+				holy_site = mixtec_pagan_reformed
+				holy_site = aztec
+				holy_site = aztec_reformed
+				holy_site = wastek_pagan
+				holy_site = wastek_pagan_reformed
+				holy_site=tarascan_pagan
+				holy_site=tarascan_pagan_reformed
+				holy_site = otomi_pagan
+				holy_site = otomi_pagan_reformed
+				b_mixtec = {
+				}
+				b_mixtec-ii = {
+				}
+				b_mixtec-iii = {
+				}
+				b_mixtec-iv = {
+				}
+				b_mixtec-v = {
+				}
+				b_mixtec-vi = {
+				}
+				b_mixtec-vii = {
+				}
+			}
+			c_tlapenec = {
+
+				color={ 35 141 184 }
+				color2={ 220 220 220 }
+				
+				b_tlapenec = {
+				}
+				b_tlapenec-ii = {
+				}
+				b_tlapenec-iii = {
+				}
+			}
+			c_yohualtepec = {
+
+				color={ 115 29 193 }
+				color2={ 220 220 220 }
+				
+				b_yohualtepec = {
+				}
+				b_yohualtepec-ii = {
+			              }
+				b_yohualtepec-iii = {
+				}
+			}
+			c_coixtlahuacan = {
+
+				color={ 195 144 204 }
+				color2={ 220 220 220 }
+				
+				b_coixtlahuacan = {
+				}
+				b_coixtlahuacan-ii = {
+				}
+				b_coixtlahuacan-iii = {
+				}
+			}
+		}
+		d_tlapanec = {
+
+			color={ 195 151 33 }
+			color2={ 220 220 220 }
+			
+			capital = 3727 # Cihuatlan
+			
+			c_cihuatlan = {
+
+				color={ 35 17 216 }
+				color2={ 220 220 220 }
+
+				holy_site=mayan
+				holy_site=mayan_reformed
+				
+				b_cihuatlan = {
+				}
+				b_cihuatlan-ii = {
+				}
+				b_cihuatlan-iii = {
+				}
+				b_cihuatlan-iv = {
+				}
+			}
+			c_yopitzinco = {
+
+				color={ 88 14 236 }
+				color2={ 220 220 220 }
+				
+				b_yopitzinco = {
+				}
+				b_yopitzinco-ii = {
+			              }
+				b_yopitzinco-iii = {
+				}
+			}
+		}
+		d_zapotec = {
+
+			color={ 135 181 153 }
+			color2={ 220 220 220 }
+			
+			capital = 3739 # Zapotec
+			
+			c_zapotec = {
+
+				color={ 5 27 46 }
+				color2={ 220 220 220 }
+				holy_site = zapotec_pagan
+				holy_site = zapotec_pagan_reformed
+				b_zapotec = {
+				}
+				b_zapotec-ii = {
+				}
+				b_zapotec-iii = {
+				}
+				b_zapotec-iv = {
+				}
+				b_zapotec-v = {
+				}
+				b_zapotec-vi = {
+				}
+				b_zapotec-vii = {
+				}
+			}
+			c_coyolapan = {
+
+				color={ 116 143 164 }
+				color2={ 220 220 220 }
+				
+				b_coyolapan = {
+				}
+				b_coyolapan-ii = {
+				}
+				b_coyolapan-iii = {
+				}
+			}
+			c_tehuantepec = {
+
+				color={ 58 84 108 }
+				color2={ 220 220 220 }
+				
+				b_tehuantepec = {
+				}
+				b_tehuantepec-ii = {
+			              }
+				b_tehuantepec-iii = {
+				}
+			}
+			c_xocnochco = {
+
+				color={ 25 114 147 }
+				color2={ 220 220 220 }
+				
+				b_xocnochco = {
+				}
+				b_xocnochco-ii = {
+				}
+				b_xocnochco-iii = {
+				}
+			}
+		}
+	}
+	k_yokotan = {
+
+		color={ 45 74 227 }
+		color2={ 220 220 220 }
+
+		capital = 3762 # Campeche
+		d_totonac = {
+
+			color={ 165 164 229 }
+			color2={ 220 220 220 }
+
+			capital = 3716 # Cuauhtochco
+			c_tohancapan = {
+
+				color={ 45 134 79 }
+				color2={ 220 220 220 }
+				holy_site = totonac_pagan
+				holy_site = totonac_pagan_reformed
+				b_tohancapan = {
+				}
+				b_tohancapan-ii = {
+				}
+				b_tohancapan-iii = {
+				}
+				b_tohancapan-iv = {
+				}
+				b_tohancapan-v = {
+				}
+				b_tohancapan-vi = {
+				}
+				b_tohancapan-vii = {
+				}
+			}
+			c_cuauhtochco = {
+
+				color={ 15 194 83 }
+				color2={ 220 220 220 }
+				
+				b_cuauhtochco = {
+				}
+				b_cuauhtochco-ii = {
+				}
+				b_cuauhtochco-iii = {
+				}
+				b_cuauhtochco-iv = {
+				}
+			}
+			c_cuetlaxtlan = {
+
+				color={ 58 74 99 }
+				color2={ 220 220 220 }
+				
+				b_cuetlaxtlan = {
+				}
+				b_cuetlaxtlan-ii = {
+				}
+				b_cuetlaxtlan-iii = {
+				}
+				b_cuetlaxtlan-iv = {
+				}
+				b_cuetlaxtlan-v = {
+				}
+				b_cuetlaxtlan-vi = {
+				}
+				b_cuetlaxtlan-vii = {
+				}
+			}
+			c_tochtepec = {
+
+				color={ 215 24 109 }
+				color2={ 220 220 220 }
+				
+				b_tochtepec = {
+				}
+				b_tochtepec-ii = {
+				}
+				b_tochtepec-iii = {
+				}
+			}
+
+		}
+		d_tzotzil = {
+
+			color={ 155 14 209 }
+			color2={ 220 220 220 }
+
+			capital = 3745 # Tzotzil
+			
+			c_chiapas = {
+
+				color={ 55 44 89 }
+				color2={ 220 220 220 }
+				
+				b_chiapas = {
+				}
+				b_chiapas-ii = {
+				}
+				b_chiapas-iii = {
+				}
+				b_chiapas-iv = {
+				}
+			}
+			c_jakaltek = {
+
+				color={ 65 134 69 }
+				color2={ 220 220 220 }
+				
+				b_jakaltek = {
+				}
+				b_jakaltek-ii = {
+				}
+				b_jakaltek-iii = {
+				}
+			}
+			c_tzotzil = {
+
+				holy_site=mayan
+				holy_site=mayan_reformed
+				holy_site= nonohualcan_pagan
+				holy_site= nonohualcan_pagan_reformed
+				color={ 75 194 223 }
+				color2={ 220 220 220 }
+				
+				b_tzotzil = {
+				}
+				b_tzotzil-ii = {
+				}
+				b_tzotzil-iii = {
+				}
+				b_tzotzil-iv = {
+				}
+			}
+		}
+		d_yokotan = {
+
+			color={ 205 84 189 }
+			color2={ 220 220 220 }
+			
+			capital = 3762 # Campeche
+			
+			c_campeche = {
+
+				color={ 95 24 69 }
+				color2={ 220 220 220 }
+				
+				b_campeche = {
+				}
+				b_campeche-ii = {
+				}
+				b_campeche-iii = {
+				}
+				b_campeche-iv = {
+				}
+			}
+			c_champutun = {
+
+				color={ 105 204 169 }
+				color2={ 220 220 220 }
+				
+				b_champutun = {
+				}
+				b_champutun-ii = {
+				}
+				b_champutun-iii = {
+				}
+			}
+			c_xicallanco = {
+
+				color={ 115 144 199 }
+				color2={ 220 220 220 }
+				
+				b_xicallanco = {
+				}
+				b_xicallanco-ii = {
+				}
+				b_xicallanco-iii = {
+				}
+			}
+			c_mixe = {
+
+				color={ 125 214 129 }
+				color2={ 220 220 220 }
+				
+				b_mixe = {
+				}
+				b_mixe-ii = {
+				}
+				b_mixe-iii = {
+				}
+			}
+			c_mitla = {
+
+				color={ 123 171 129 }
+				color2={ 220 220 220 }
+				
+				b_mitla = {
+				}
+				b_mitla-ii = {
+				}
+				b_mitla-iii = {
+				}
+				b_mitla-iv = {
+				}
+				b_mitla-v = {
+				}
+				b_mitla-vi = {
+				}
+				b_mitla-vii = {
+				}
+			}
+		}
+              }
+
+	k_maya = {
+
+		color={ 45 21 94 }
+		color2={ 220 220 220 }
+
+		capital = 3759 # Tikal
+
+		d_kaminaljuyu = {
+
+			color={ 95 57 129 }
+			color2={ 220 220 220 }
+			
+			capital = 3748 # Guatemala
+			
+			c_guatemala = {
+
+				color={ 15 144 149 }
+				color2={ 220 220 220 }
+
+				holy_site = aztec
+				holy_site = aztec_reformed
+				
+				b_guatemala = {
+				}
+				b_guatemala-ii = {
+				}
+				b_guatemala-iii = {
+				}
+				b_guatemala-iv = {
+				}
+			}
+			c_xelaju = {
+
+				color={ 35 124 103 }
+				color2={ 220 220 220 }
+				
+				b_xelaju = {
+				}
+				b_xelaju-ii = {
+				}
+				b_xelaju-iii = {
+				}
+			}
+			c_qumarkaj = {
+
+				color={ 45 174 19 }
+				color2={ 220 220 220 }
+				
+				b_qumarkaj = {
+				}
+				b_qumarkaj-ii = {
+				}
+				b_qumarkaj-iii = {
+				}
+				b_qumarkaj-iv = {
+				}
+			}
+		}
+
+		d_yucatan = {
+
+			color={ 35 51 83 }
+			color2={ 220 220 220 }
+			
+			capital = 3767 # Sotuta
+			
+			c_sotuta = {
+
+				color={ 145 124 74 }
+				color2={ 220 220 220 }
+				
+				b_sotuta = {
+				}
+				b_sotuta-ii = {
+				}
+				b_sotuta-iii = {
+				}
+				b_sotuta-iv = {
+				}
+				b_sotuta-v = {
+				}
+			}
+			c_ah_canul = {
+
+				color={ 155 141 224 }
+				color2={ 220 220 220 }
+				
+				b_ah_canul = {
+				}
+				b_ah_canul-ii = {
+				}
+				b_ah_canul-iii = {
+				}
+			}
+			c_xiu = {
+
+				color={ 165 29 73 }
+				color2={ 220 220 220 }
+				
+				b_xiu = {
+				}
+				b_xiu-ii = {
+			              }
+				b_xiu-iii = {
+				}
+			}
+			c_mani = {
+
+				color={ 175 144 34 }
+				color2={ 220 220 220 }
+				
+				b_mani = {
+				}
+				b_mani-ii = {
+				}
+				b_mani-iii = {
+				}
+				b_mani-iv = {
+				}
+			}
+			c_ecab = {
+
+				color={ 135 58 34 }
+				color2={ 220 220 220 }
+				
+				b_ecab = {
+				}
+				b_ecab-ii = {
+				}
+				b_ecab-iii = {
+				}
+			}
+			c_chikinchel = {
+
+				color={ 225 88 34 }
+				color2={ 220 220 220 }
+				
+				b_chikinchel = {
+				}
+				b_chikinchel-ii = {
+				}
+				b_chikinchel-iii = {
+				}
+			}
+			c_uaymil = {
+
+				color={ 235 28 34 }
+				color2={ 220 220 220 }
+				
+				b_uaymil = {
+				}
+				b_uaymil-ii = {
+				}
+				b_uaymil-iii = {
+				}
+			}
+		}
+		d_tikal = {
+
+			color={ 125 131 57 }
+			color2={ 220 220 220 }
+			
+			capital = 3759 # Tikal
+
+			c_tikal = {
+
+				color={ 139 194 34 }
+				color2={ 220 220 220 }
+				holy_site= nonohualcan_pagan
+				holy_site= nonohualcan_pagan_reformed
+				holy_site = zapotec_pagan
+				holy_site = zapotec_pagan_reformed
+				holy_site = wastek_pagan
+				holy_site = wastek_pagan_reformed
+				holy_site = mixtec_pagan
+				holy_site = mixtec_pagan_reformed
+				holy_site = totonac_pagan
+				holy_site = totonac_pagan_reformed
+				holy_site=mayan
+				holy_site=mayan_reformed
+				holy_site = aztec
+				holy_site = aztec_reformed
+				holy_site=miskito_pagan
+				holy_site=miskito_pagan_reformed
+				
+				b_tikal = {
+				}
+				b_tikal-ii = {
+				}
+				b_tikal-iii = {
+				}
+				b_tikal-iv = {
+				}
+				b_tikal-v = {
+				}
+				b_tikal-vi = {
+				}
+				b_tikal-vii = {
+				}
+			}			
+			c_peten = {
+
+				color={ 235 17 96 }
+				color2={ 220 220 220 }
+				
+				b_peten = {
+				}
+				b_peten-ii = {
+				}
+				b_peten-iii = {
+				}
+				b_peten-iv = {
+				}
+			}
+			c_belize = {
+
+				color={ 245 75 216 }
+				color2={ 220 220 220 }
+				
+				b_belize = {
+				}
+				b_belize-ii = {
+				}
+				b_belize-iii = {
+				}
+			}
+			c_moran = {
+
+				color={ 88 24 36 }
+				color2={ 220 220 220 }
+				
+				b_moran = {
+				}
+				b_moran-ii = {
+			              }
+				b_moran-iii = {
+				}
+			}
+			c_tzul = {
+
+				color={ 5 37 66 }
+				color2={ 220 220 220 }
+				
+				b_tzul = {
+				}
+				b_tzul-ii = {
+				}
+				b_tzul-iii = {
+				}
+				b_tzul-iv = {
+				}
+			}
+		}
+		d_chorti = {
+
+			color={ 185 121 223 }
+			color2={ 220 220 220 }
+			
+			capital = 3754 # Chortli
+			
+			c_chacujal = {
+
+				color={ 116 43 104 }
+				color2={ 220 220 220 }
+				
+				b_chacujal = {
+				}
+				b_chacujal-ii = {
+				}
+				b_chacujal-iii = {
+				}
+			}
+			c_chortli = {
+
+				color={ 58 54 58 }
+				color2={ 220 220 220 }
+
+				
+				b_chortli = {
+				}
+				b_chortli-ii = {
+			              }
+				b_chortli-iii = {
+				}
+			}
+			c_pipil = {
+
+				color={ 25 34 209 }
+				color2={ 220 220 220 }
+				
+				b_pipil  = {
+				}
+				b_pipil-ii = {
+				}
+				b_pipil-iii = {
+				}
+			}
+			c_xicaque = {
+
+				color={ 25 64 157 }
+				color2={ 220 220 220 }
+				
+				b_xicaque = {
+				}
+				b_xicaque-ii = {
+				}
+				b_xicaque-iii = {
+				}
+			}
+		}
+	}
+}

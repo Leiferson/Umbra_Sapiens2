@@ -1,0 +1,20 @@
+# 1606 - Apsilia
+
+# County Title
+title = c_apsilia
+
+# Settlements
+max_settlements = 4
+b_tsabal = castle
+b_aqwa = city
+b_myke = temple
+
+#b_skotor = city
+
+# Misc
+culture = abasgi
+religion = orthodox
+terrain = hills
+
+
+# History

@@ -1,0 +1,43 @@
+# County Title
+title = c_xochicalco
+
+# Settlements
+max_settlements = 6
+b_xochicalco = castle
+b_xochicalco-ii = temple
+b_xochicalco-iii = city
+b_xochicalco-iv = castle
+b_xochicalco-v = temple
+b_xochicalco-vi = city
+
+# Misc
+culture = xicalanca
+religion = mayan
+
+# History
+450.1.1 = {
+	build_wonder = wonder_maya_pyramid
+	set_wonder_stage = 1
+	set_wonder_name = XOCHICALCO
+	set_wonder_description = XOCHICALCODESC
+}
+700.1.1= {
+	set_wonder_stage = 2
+	culture = nonohualcan
+	religion = nonohualcan_pagan
+}
+800.1.1= {
+	set_wonder_stage = 3
+}
+900.1.1 = {
+	set_wonder_damaged = yes
+	remove_settlement = b_xochicalco-ii
+	remove_settlement = b_xochicalco-iii
+	remove_settlement = b_xochicalco-iv
+	remove_settlement = b_xochicalco-v
+	remove_settlement = b_xochicalco-vi
+}
+1200.1.1 = {
+	culture = xochimilca
+	religion = aztec
+}

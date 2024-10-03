@@ -1,0 +1,93 @@
+# 233 - Genoa
+
+# County Title
+title = c_genoa
+
+# Settlements
+max_settlements = 6
+b_genoa = city
+b_luna = castle
+b_rapallo = temple
+b_chiavari = castle
+
+#b_fosdinovo = castle
+
+# Misc
+culture = lombard
+religion = catholic
+
+# History
+
+849.1.1 = { culture = italian }
+867.1.1 = { 
+	b_genoa = ct_wall_1
+	b_genoa = ct_wall_2
+	b_genoa = ct_port_1
+	b_genoa = ct_marketplace_1
+	b_genoa = ct_marketplace_2
+	b_genoa = ct_wall_q_1
+	b_genoa = ct_barracks_1
+	b_genoa = ct_training_grounds_1
+	b_genoa = ct_shipyard_1
+	b_luna = ca_keep_1
+	b_luna = ca_stable_1
+	b_luna = ca_militia_barracks_1
+	b_luna = ca_wall_1
+	b_luna = ca_wall_2
+	b_luna = ca_shipyard_1
+	b_rapallo = tp_shipyard_1
+	b_savona = ct_shipyard_1
+}
+1066.1.1 = {
+	trade_post = b_doria
+	b_genoa = ct_port_2
+	b_genoa = ct_port_3
+}
+1353.10.8={
+	capital=b_luna
+}
+1356.11.15={
+	capital=b_genoa
+}
+1421.11.23={
+	capital=b_luna
+}
+1436.3.28={
+	capital=b_genoa
+}
+1458.1.1={
+	capital=b_luna
+}
+1461.3.12={
+	capital=b_genoa
+}
+1464.4.16={
+	capital=b_luna
+}
+1477.8.17={
+	capital=b_genoa
+}
+1488.1.6={
+	capital=b_luna
+}
+1507.4.10={
+	capital=b_genoa
+}
+1507.4.27={
+	capital=b_luna
+}
+1512.6.29={
+	capital=b_genoa
+}
+1515.9.7={
+	capital=b_luna
+}
+1522.5.31={
+	capital=b_genoa
+}
+1527.8.1={
+	capital=b_luna
+}
+1528.10.12={
+	capital=b_genoa
+}

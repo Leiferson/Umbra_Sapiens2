@@ -1,0 +1,153 @@
+330.1.1={
+	liege = "e_byzantium"
+	vice_royalty = yes
+}
+733.1.1={
+	holder=145802
+}
+765.1.1={
+	holder=145804
+}
+788.1.1={
+	holder=145805
+}
+812.1.1={
+	holder=145148
+}
+820.1.1={
+	holder=145149
+}
+845.1.1={
+	holder=145150
+}
+936.1.1 = {
+	vice_royalty = yes
+	holder = 145159
+}
+1060.1.1 = {
+	holder=41303
+}
+1107.2.1=
+{
+holder=34576
+}
+1120.1.1=
+{
+holder=34577
+}
+1150.1.1=
+{
+holder=34578
+}
+1176.1.1=
+{
+holder=215013
+}
+1204.5.16={ # Collapse of Byzantine Empire
+	liege=0
+	vice_royalty = no
+}
+1204.8.1=
+{
+liege="e_latin_empire" 
+#law = succ_primogeniture
+#law = cognatic_succession
+}
+1204.8.1=
+{
+holder=31211 #Othon I
+}
+1216.6.11=
+{
+liege=0
+}
+1225.1.1=
+{
+holder=31216 #Guy I
+}
+1263.1.1=
+{
+holder=31217 #Jean I
+}
+1280.1.1=
+{
+holder=31218 #Guillaume I
+}
+1287.1.1=
+{
+holder=31223 #Guy II
+}
+1308.10.5=
+{
+	holder=461733 #Gauthier I
+}
+1311.3.15=
+{
+	holder=31225 #Roger
+}
+1312.1.1=
+{
+	liege="k_trinacria"
+}
+1312.1.1=
+{
+	holder=71753 #Manfredo
+}
+1317.11.19=
+{
+	holder=461510 #Gugliemo
+}
+1338.8.22 = {
+	holder=461520	#John, Duke of Randazzo
+}
+1348.1.1={
+	holder=379488	#Frederick I, Duke of Athens
+}
+1355.7.11={
+	holder=370132	#Frederick the Simple of Sicily
+}
+1377.7.27={
+	holder=370137	#Maria, Queen of Sicily
+}
+1380.5.20={
+	holder=460500 #Peter IV of Aragon
+	liege=k_aragon
+}
+1388.5.2={
+	holder=379478	#Nerio I Acciaioli
+	liege=0
+}
+1394.9.25={
+	holder=379487 #Donato Acciaioli
+}
+1395.1.1={
+	liege=k_venice
+}
+1403.1.1={
+	holder=379479 #Antonio I Acciaioli ill
+	liege=d_athens
+}
+1435.1.1={
+	holder=379483 #Nerio II Acciaioli
+}
+1439.1.1={
+	holder=379484	#Antonio II Acciaioli
+}
+1441.1.1={
+	holder=379483 #Nerio II Acciaioli
+}
+1444.1.1={
+	set_tribute_suzerain = {
+		who = d_achaia
+		type = permanent 
+	}
+}
+1451.1.1={
+	holder=379485 #Francesco I Acciaioli
+}
+1455.1.1={
+	holder=379486 #Francesco II Acciaioli
+}
+1460.1.1={
+	holder=0 #Ottoman conquest
+}

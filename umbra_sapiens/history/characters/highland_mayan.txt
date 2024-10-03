@@ -1,0 +1,2179 @@
+1019919964={
+	name=Ahuitzotl
+	dynasty=1009990167
+	dna="ggfpokfifld"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=7
+	add_trait=naive_appeaser add_trait=gardener add_trait=proud add_trait=chaste add_trait=zealous 
+	720.12.11={ birth=yes }
+	780.9.26={ death=yes }
+}
+1019919965={
+	name=Maxtla
+	dynasty=1009990167
+	dna="ggicoemhldd"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=6
+	add_trait=scholarly_theologian add_trait=honest add_trait=ambitious 
+	father=1019919964	#Ahuitzotl
+	752.1.9={ birth=yes }
+	820.9.2={ death=yes }
+}
+1019919966={
+	name=Zipactonal
+	dynasty=1009990167
+	dna="glfphkfiakc"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	add_trait=misguided_warrior add_trait=shy add_trait=diligent add_trait=just add_trait=proud 
+	add_trait=wroth 
+	father=1019919964	#Ahuitzotl
+	760.5.25={ birth=yes }
+	837.9.8={ death=yes }
+}
+1019919967={
+	name=Nezahualpilli
+	dynasty=1009990167
+	dna="ggfaaffnflp"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	add_trait=flamboyant_schemer add_trait=proud  add_trait=shy add_trait=patient 
+	add_trait=slothful add_trait=possessed 
+	father=1019919964	#Ahuitzotl
+	763.2.5={ birth=yes }
+	823.7.25={ death=yes }
+}
+1019919968={
+	name=Coszcatl
+	female=yes
+	dynasty=1009990167
+	dna="ggfenkfhpld"
+	culture=highland_mayan religion=mayan
+	father=1019919964	#Ahuitzotl
+	769.12.5={ birth=yes }
+	822.4.22={ death=yes }
+}
+1019919969={
+	name=Mecatl
+	female=yes
+	dynasty=1009990167
+	dna="bggcomlhled"
+	culture=highland_mayan religion=mayan
+	father=1019919965	#Maxtla
+	773.7.3={ birth=yes }
+	827.12.20={ death=yes }
+}
+1019919970={
+	name=Xocoyotl
+	female=yes
+	dynasty=1009990167
+	dna="bjijmfahjhb"
+	culture=highland_mayan religion=mayan
+	father=1019919965	#Maxtla
+	778.10.25={ birth=yes }
+	864.7.7={ death=yes }
+}
+1019919971={
+	name=Chimalpilli
+	dynasty=1009990167
+	dna="omnioaeapdj"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=patient add_trait=envious add_trait=charitable add_trait=shy 
+	father=1019919965	#Maxtla
+	782.8.15={ birth=yes }
+	849.3.31={ death=yes }
+}
+1019919972={
+	name=Zipactonal
+	dynasty=1009990167
+	dna="ganclolepdg"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=cynical add_trait=lustful add_trait=patient add_trait=greedy 
+	father=1019919965	#Maxtla
+	785.10.15={ birth=yes }
+	865.1.25={ death=yes }
+}
+1019919973={
+	name=Mahchimaleh
+	dynasty=1009990167
+	dna="ggicnjhhdld"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=4 stewardship=5 intrigue=6 learning=4
+	add_trait=elusive_shadow add_trait=diligent add_trait=brave add_trait=cynical add_trait=proud 
+	add_trait=wounded 
+	father=1019919965	#Maxtla
+	789.1.11={ birth=yes }
+	860.2.14={ death=yes }
+}
+1019919974={
+	name=Cozahtli
+	dynasty=1009990167
+	dna="jgicceillcj"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=greedy add_trait=just add_trait=ambitious  
+	father=1019919965	#Maxtla
+	794.5.26={ birth=yes }
+	853.3.9={ death=yes }
+}
+1019919975={
+	name=Sacnite
+	female=yes
+	dynasty=1009990167
+	dna="ngienemhpfg"
+	culture=highland_mayan religion=mayan
+	father=1019919965	#Maxtla
+	797.3.22={ birth=yes }
+	872.7.16={ death=yes }
+}
+1019919976={
+	name=Huehue-Zaca
+	female=yes
+	dynasty=1009990167
+	dna="omhanaeapik"
+	culture=highland_mayan religion=mayan
+	father=1019919971	#Chimalpilli
+	815.7.26={ birth=yes }
+	898.1.24={ death=yes }
+}
+1019919977={
+	name=Izel
+	female=yes
+	dynasty=1009990167
+	dna="omojnaekodj"
+	culture=highland_mayan religion=mayan
+	father=1019919971	#Chimalpilli
+	818.10.19={ birth=yes }
+	875.6.4={ death=yes }
+}
+1019919978={
+	name=Chimalli
+	dynasty=1009990167
+	dna="jmmiodhmnak"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=4
+	add_trait=mastermind_theologian add_trait=diligent add_trait=greedy add_trait=ambitious add_trait=chaste 
+	father=1019919971	#Chimalpilli
+	824.1.18={ birth=yes }
+	909.12.10={ death=yes }
+}
+1019919979={
+	name=Nezahualpilli
+	dynasty=1009990167
+	dna="jamiadhmngg"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=8 stewardship=5 intrigue=5 learning=8
+	add_trait=elusive_shadow add_trait=greedy add_trait=humble  add_trait=lustful 
+	father=1019919978	#Chimalli
+	846.6.26={ birth=yes }
+	904.5.25={ death=yes }
+}
+1019919980={
+	name=Xocoyotl
+	female=yes
+	dynasty=1009990167
+	dna="jjgionmmmpe"
+	culture=highland_mayan religion=mayan
+	father=1019919978	#Chimalli
+	850.9.17={ birth=yes }
+	913.8.8={ death=yes }
+}
+1019919981={
+	name=Cuicatl
+	female=yes
+	dynasty=1009990167
+	dna="jhmkodhpnak"
+	culture=highland_mayan religion=mayan
+	father=1019919978	#Chimalli
+	855.8.14={ birth=yes }
+	937.5.19={ death=yes }
+}
+1019919982={
+	name=Huitztecol
+	dynasty=1009990167
+	dna="mmbkodhdnek"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=8 stewardship=7 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=shy add_trait=diligent  add_trait=envious 
+	father=1019919978	#Chimalli
+	859.5.23={ birth=yes }
+	913.11.13={ death=yes }
+}
+1019919983={
+	name=Nahuatl
+	female=yes
+	dynasty=1009990167
+	dna="dmmiofhmahh"
+	culture=highland_mayan religion=mayan
+	father=1019919978	#Chimalli
+	863.9.15={ birth=yes }
+	937.12.23={ death=yes }
+}
+1019919984={
+	name=Eloxochitl
+	female=yes
+	dynasty=1009990167
+	dna="jkoigdhbcap"
+	culture=highland_mayan religion=mayan
+	father=1019919978	#Chimalli
+	865.3.2={ birth=yes }
+	951.11.15={ death=yes }
+}
+1019919985={
+	name=Matlalatzin
+	female=yes
+	dynasty=1009990167
+	dna="okmioihmkoh"
+	culture=highland_mayan religion=mayan
+	father=1019919978	#Chimalli
+	870.6.15={ birth=yes }
+	966.5.15={ death=yes }
+}
+1019919986={
+	name=Tlacotl
+	female=yes
+	dynasty=1009990167
+	dna="jamildfangg"
+	culture=highland_mayan religion=mayan
+	father=1019919979	#Nezahualpilli
+	875.9.9={ birth=yes }
+	934.4.1={ death=yes }
+}
+1019919987={
+	name=Matlal
+	dynasty=1009990167
+	dna="jaaeahhdnlg"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=patient add_trait=shy add_trait=greedy add_trait=envious 
+	father=1019919979	#Nezahualpilli
+	879.4.22={ birth=yes }
+	956.9.3={ death=yes }
+}
+1019919988={
+	name=Xochitl
+	dynasty=1009990167
+	dna="jlpihdhmngk"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=5
+	add_trait=grey_eminence add_trait=chaste add_trait=proud add_trait=paranoid add_trait=gregarious 
+	add_trait=diligent 
+	father=1019919979	#Nezahualpilli
+	883.8.10={ birth=yes }
+	969.6.11={ death=yes }
+}
+1019919989={
+	name=Amoxtli
+	female=yes
+	dynasty=1009990167
+	dna="nkjeacfdnbg"
+	culture=highland_mayan religion=mayan
+	father=1019919987	#Matlal
+	899.4.9={ birth=yes }
+	956.9.17={ death=yes }
+}
+1019919990={
+	name=Zeltzin
+	female=yes
+	dynasty=1009990167
+	dna="jeleaihdnee"
+	culture=highland_mayan religion=mayan
+	father=1019919987	#Matlal
+	905.10.16={ birth=yes }
+	977.8.15={ death=yes }
+}
+1019919991={
+	name=Ahuitzotl
+	dynasty=1009990167
+	dna="anaiahhdnll"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=temperate add_trait=content add_trait=just 
+	add_trait=charitable 
+	father=1019919987	#Matlal
+	908.10.11={ birth=yes }
+	967.6.7={ death=yes }
+}
+1019919992={
+	name=Nahuatl
+	female=yes
+	dynasty=1009990167
+	dna="oiahihiibdg"
+	culture=highland_mayan religion=mayan
+	father=1019919987	#Matlal
+	911.8.21={ birth=yes }
+	952.2.4={ death=yes }
+}
+1019919993={
+	name=Quiauhxochitl
+	female=yes
+	dynasty=1009990167
+	dna="caapgohgnln"
+	culture=highland_mayan religion=mayan
+	father=1019919987	#Matlal
+	917.3.26={ birth=yes }
+	1016.5.25={ death=yes }
+}
+1019919994={
+	name=Nahuatl
+	female=yes
+	dynasty=1009990167
+	dna="joaajehpmlf"
+	culture=highland_mayan religion=mayan
+	father=1019919987	#Matlal
+	923.8.16={ birth=yes }
+	997.2.23={ death=yes }
+}
+1019919995={
+	name=Sacnite
+	female=yes
+	dynasty=1009990167
+	dna="bamdohhddig"
+	culture=highland_mayan religion=mayan
+	father=1019919987	#Matlal
+	928.7.3={ birth=yes }
+	990.6.22={ death=yes }
+}
+1019919996={
+	name=Chicomecoatl
+	female=yes
+	dynasty=1009990167
+	dna="aolmokhdnll"
+	culture=highland_mayan religion=mayan
+	father=1019919991	#Ahuitzotl
+	931.8.12={ birth=yes }
+	990.6.23={ death=yes }
+}
+1019919997={
+	name=Iquehuacatzin
+	dynasty=1009990167
+	dna="agecehhdnml"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	add_trait=scholarly_theologian add_trait=gregarious add_trait=just add_trait=wroth add_trait=deceitful 
+	 add_trait=envious 
+	father=1019919991	#Ahuitzotl
+	936.10.10={ birth=yes }
+	1021.4.15={ death=yes }
+}
+1019919998={
+	name=Tlacotl
+	female=yes
+	dynasty=1009990167
+	dna="anidmohdopl"
+	culture=highland_mayan religion=mayan
+	father=1019919991	#Ahuitzotl
+	941.4.15={ birth=yes }
+	1019.3.24={ death=yes }
+}
+1019919999={
+	name=Chichimecacihuatzin
+	female=yes
+	dynasty=1009990167
+	dna="alaohhhjocf"
+	culture=highland_mayan religion=mayan
+	father=1019919991	#Ahuitzotl
+	945.1.14={ birth=yes }
+	1014.5.10={ death=yes }
+}
+1019920000={
+	name=Mecatl
+	female=yes
+	dynasty=1009990167
+	dna="anacaihhnaj"
+	culture=highland_mayan religion=mayan
+	father=1019919991	#Ahuitzotl
+	950.9.12={ birth=yes }
+	1036.10.4={ death=yes }
+}
+1019920001={
+	name=Xocoyotl
+	female=yes
+	dynasty=1009990167
+	dna="knhiojccdpp"
+	culture=highland_mayan religion=mayan
+	father=1019919991	#Ahuitzotl
+	955.4.27={ birth=yes }
+	1019.10.12={ death=yes }
+}
+1019920002={
+	name=Ixtlilxochitl
+	dynasty=1009990167
+	dna="anainhcafld"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=8
+	add_trait=charismatic_negotiator add_trait=duelist add_trait=just add_trait=envious  
+	add_trait=brave 
+	father=1019919991	#Ahuitzotl
+	961.2.19={ birth=yes }
+	1030.3.17={ death=yes }
+}
+1019920003={
+	name=Tecolotl
+	dynasty=1009990167
+	dna="aheclhpdnil"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=4 stewardship=8 intrigue=5 learning=6
+	add_trait=elusive_shadow add_trait=duelist add_trait=humble add_trait=patient add_trait=lustful 
+	add_trait=greedy add_trait=weak 
+	father=1019919997	#Iquehuacatzin
+	962.10.26={ birth=yes }
+	1047.9.26={ death=yes }
+}
+1019920004={
+	name=Tlazozomizqui
+	female=yes
+	dynasty=1009990167
+	dna="agdhnmidfmk"
+	culture=highland_mayan religion=mayan
+	father=1019919997	#Iquehuacatzin
+	967.8.20={ birth=yes }
+	1005.3.26={ death=yes }
+}
+1019920005={
+	name=Chipahua
+	female=yes
+	dynasty=1009990167
+	dna="agecehgdimc"
+	culture=highland_mayan religion=mayan
+	father=1019919997	#Iquehuacatzin
+	970.3.21={ birth=yes }
+	1027.1.10={ death=yes }
+}
+1019920006={
+	name=Ayauhcihuatl
+	female=yes
+	dynasty=1009990167
+	dna="jgjjmnedpll"
+	culture=highland_mayan religion=mayan
+	father=1019919997	#Iquehuacatzin
+	976.9.5={ birth=yes }
+	1035.5.4={ death=yes }
+}
+1019920007={
+	name=Huitzilin
+	dynasty=1009990167
+	dna="nnlclhpgnio"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=4
+	add_trait=thrifty_clerk add_trait=patient add_trait=zealous  
+	father=1019920003	#Tecolotl
+	985.2.8={ birth=yes }
+	1071.12.7={ death=yes }
+}
+1019920008={
+	name=Tototl
+	dynasty=1009990167
+	dna="afcclapdnap"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=trusting add_trait=just add_trait=gregarious  
+	add_trait=temperate 
+	father=1019920003	#Tecolotl
+	991.1.3={ birth=yes }
+	1029.7.18={ death=yes }
+}
+1019920009={
+	name=Patli
+	female=yes
+	dynasty=1009990167
+	dna="lpeolmpjgig"
+	culture=highland_mayan religion=mayan
+	father=1019920003	#Tecolotl
+	994.6.23={ birth=yes }
+	1063.3.27={ death=yes }
+}
+1019920010={
+	name=Xocoyotl
+	female=yes
+	dynasty=1009990167
+	dna="lheclppdlni"
+	culture=highland_mayan religion=mayan
+	father=1019920003	#Tecolotl
+	998.4.5={ birth=yes }
+	1074.2.1={ death=yes }
+}
+1019920011={
+	name=Chicomecoatl
+	female=yes
+	dynasty=1009990167
+	dna="ahggenpddig"
+	culture=highland_mayan religion=mayan
+	father=1019920003	#Tecolotl
+	1002.2.7={ birth=yes }
+	1085.11.26={ death=yes }
+}
+1019920012={
+	name=Tlazozomizqui
+	female=yes
+	dynasty=1009990167
+	dna="hhlblcmdida"
+	culture=highland_mayan religion=mayan
+	father=1019920003	#Tecolotl
+	1008.11.24={ birth=yes }
+	1105.2.7={ death=yes }
+}
+1019920013={
+	name=Opochtli
+	dynasty=1009990167
+	dna="cngcncpddik"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	add_trait=midas_touched add_trait=charitable add_trait=honest add_trait=envious add_trait=just 
+	add_trait=gluttonous add_trait=gregarious 
+	father=1019920003	#Tecolotl
+	1012.11.9={ birth=yes }
+	1087.12.26={ death=yes }
+}
+1019920014={
+	name=Coanacoch
+	dynasty=1009990167
+	dna="ndlcgphgnig"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=cynical add_trait=greedy add_trait=brave  
+	add_trait=proud add_trait=lunatic 
+	father=1019920007	#Huitzilin
+	1015.3.14={ birth=yes }
+	1072.3.17={ death=yes }
+}
+1019920015={
+	name=Xochipilli
+	dynasty=1009990167
+	dna="nnlnhcagnho"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=6 stewardship=8 intrigue=7 learning=5
+	add_trait=grey_eminence add_trait=greedy add_trait=patient add_trait=honest add_trait=diligent 
+	father=1019920007	#Huitzilin
+	1019.3.17={ birth=yes }
+	1063.6.3={ death=yes }
+}
+1019920016={
+	name=Chicahua
+	female=yes
+	dynasty=1009990167
+	dna="nnecjhpgnbf"
+	culture=highland_mayan religion=mayan
+	father=1019920007	#Huitzilin
+	1025.12.2={ birth=yes }
+	1122.5.25={ death=yes }
+}
+1019920017={
+	name=Cacamatzin
+	dynasty=1009990167
+	dna="gldlchhgdfg"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=6 stewardship=5 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=humble  add_trait=greedy add_trait=deceitful 
+	add_trait=paranoid  add_trait=lunatic 
+	father=1019920014	#Coanacoch
+	1042.7.20={ birth=yes }
+	1101.8.8={ death=yes }
+}
+1019920018={
+	name=Acolmiztli
+	dynasty=1009990167
+	dna="pdicgpfonih"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=celibate add_trait=craven add_trait=arbitrary add_trait=chaste 
+	add_trait=proud add_trait=paranoid 
+	father=1019920014	#Coanacoch
+	1046.6.11={ birth=yes }
+	1130.8.11={ death=yes }
+}
+1019920019={
+	name=Tezozomoc
+	female=yes
+	dynasty=1009990167
+	dna="ndipkphmkon"
+	culture=highland_mayan religion=mayan
+	father=1019920014	#Coanacoch
+	1050.3.24={ birth=yes }
+	1109.3.2={ death=yes }
+}
+1019920020={
+	name=Mizquixahual
+	female=yes
+	dynasty=1009990167
+	dna="odlcgehgnpc"
+	culture=highland_mayan religion=mayan
+	father=1019920014	#Coanacoch
+	1052.3.1={ birth=yes }
+	1136.6.25={ death=yes }
+}
+1019920021={
+	name=Xihuitl
+	dynasty=1009990167
+	dna="jdjcgphclhg"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=wroth add_trait=gregarious  
+	father=1019920014	#Coanacoch
+	1056.8.3={ birth=yes }
+	1117.1.5={ death=yes }
+}
+1019920022={
+	name=Maxtla
+	dynasty=1009990167
+	dna="ildlekhgcfd"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	add_trait=grey_eminence add_trait=diligent add_trait=craven add_trait=charitable add_trait=honest 
+	father=1019920017	#Cacamatzin
+	1065.4.18={ birth=yes }
+	1124.3.25={ death=yes }
+}
+1019920023={
+	name=Tezozomoc
+	dynasty=1009990167
+	dna="ccdgcejkgfg"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	add_trait=elusive_shadow add_trait=hunter add_trait=proud  add_trait=brave 
+	add_trait=honest add_trait=content 
+	father=1019920017	#Cacamatzin
+	1070.2.3={ birth=yes }
+	1124.11.23={ death=yes }
+}
+1019920024={
+	name=Tlahcoehua
+	female=yes
+	dynasty=1009990167
+	dna="gdjmchhgdhg"
+	culture=highland_mayan religion=mayan
+	father=1019920017	#Cacamatzin
+	1073.7.3={ birth=yes }
+	1142.11.18={ death=yes }
+}
+1019920025={
+	name=Amoxtli
+	female=yes
+	dynasty=1009990167
+	dna="gbplbiogdfg"
+	culture=highland_mayan religion=mayan
+	father=1019920017	#Cacamatzin
+	1079.1.5={ birth=yes }
+	1147.10.6={ death=yes }
+}
+1019920026={
+	name=Yaretzi
+	female=yes
+	dynasty=1009990167
+	dna="pdjlhhcgjmg"
+	culture=highland_mayan religion=mayan
+	father=1019920017	#Cacamatzin
+	1083.2.7={ birth=yes }
+	1170.9.11={ death=yes }
+}
+1019920027={
+	name=Yoltzin
+	female=yes
+	dynasty=1009990167
+	dna="iaelekbhgfc"
+	culture=highland_mayan religion=mayan
+	father=1019920022	#Maxtla
+	1085.10.2={ birth=yes }
+	1138.11.1={ death=yes }
+}
+1019920028={
+	name=Nochehuatl
+	dynasty=1009990167
+	dna="iimdebhgjfi"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=5 stewardship=7 intrigue=5 learning=8
+	add_trait=mastermind_theologian add_trait=hunter add_trait=zealous  add_trait=proud 
+	add_trait=diligent 
+	father=1019920022	#Maxtla
+	1088.1.14={ birth=yes }
+	1158.1.22={ death=yes }
+}
+1019920029={
+	name=Xipil
+	dynasty=1009990167
+	dna="iimkkbhnmfi"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=cynical add_trait=chaste add_trait=temperate add_trait=paranoid 
+	add_trait=patient add_trait=honest 
+	father=1019920028	#Nochehuatl
+	1117.4.5={ birth=yes }
+	1204.3.24={ death=yes }
+}
+1019920030={
+	name=Yoltzin
+	female=yes
+	dynasty=1009990167
+	dna="limdfiogkie"
+	culture=highland_mayan religion=mayan
+	father=1019920028	#Nochehuatl
+	1120.5.3={ birth=yes }
+	1194.3.21={ death=yes }
+}
+1019920031={
+	name=Huehue-Zaca
+	female=yes
+	dynasty=1009990167
+	dna="ihmaeadgjec"
+	culture=highland_mayan religion=mayan
+	father=1019920028	#Nochehuatl
+	1127.9.18={ birth=yes }
+	1182.5.7={ death=yes }
+}
+1019920032={
+	name=Matlalatzin
+	female=yes
+	dynasty=1009990167
+	dna="ibadobhgjoi"
+	culture=highland_mayan religion=mayan
+	father=1019920028	#Nochehuatl
+	1130.8.25={ birth=yes }
+	1183.3.26={ death=yes }
+}
+1019920033={
+	name=Cuixtli
+	dynasty=1009990167
+	dna="opmopihgjfp"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	add_trait=intricate_webweaver add_trait=patient add_trait=deceitful add_trait=zealous 
+	father=1019920028	#Nochehuatl
+	1135.2.20={ birth=yes }
+	1192.10.5={ death=yes }
+}
+1019920034={
+	name=Mahchimaleh
+	dynasty=1009990167
+	dna="igmgkbmfmkf"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=5
+	add_trait=elusive_shadow add_trait=craven add_trait=humble add_trait=greedy add_trait=chaste 
+	add_trait=zealous add_trait=quick 
+	father=1019920029	#Xipil
+	1138.8.20={ birth=yes }
+	1214.11.22={ death=yes }
+}
+1019920035={
+	name=Topiltzin
+	dynasty=1009990167
+	dna="pimkkmfnmgi"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=5 stewardship=5 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=poet add_trait=envious  
+	father=1019920029	#Xipil
+	1142.6.23={ birth=yes }
+	1187.7.31={ death=yes }
+}
+1019920036={
+	name=Xiloxoch
+	female=yes
+	dynasty=1009990167
+	dna="ocmgobhfhod"
+	culture=highland_mayan religion=mayan
+	father=1019920034	#Mahchimaleh
+	1161.3.9={ birth=yes }
+	1226.7.9={ death=yes }
+}
+1019920037={
+	name=Matlal
+	dynasty=1009990167
+	dna="ilmgkmljmka"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=5 stewardship=7 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=impaler add_trait=just add_trait=slothful add_trait=brave 
+	add_trait=content add_trait=charitable 
+	father=1019920034	#Mahchimaleh
+	1166.9.6={ birth=yes }
+	1219.7.5={ death=yes }
+}
+1019920038={
+	name=Yayauhqui
+	dynasty=1009990167
+	dna="plmggmhjjka"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	add_trait=mastermind_theologian add_trait=wroth add_trait=temperate add_trait=greedy  
+	add_trait=drunkard 
+	father=1019920037	#Matlal
+	1191.8.23={ birth=yes }
+	1251.8.28={ death=yes }
+}
+1019920039={
+	name=Toltecatl
+	female=yes
+	dynasty=1009990167
+	dna="jlmgkkijmca"
+	culture=highland_mayan religion=mayan
+	father=1019920037	#Matlal
+	1198.5.7={ birth=yes }
+	1276.4.29={ death=yes }
+}
+1019920040={
+	name=Momoztli
+	female=yes
+	dynasty=1009990167
+	dna="pmmggiajjkp"
+	culture=highland_mayan religion=mayan
+	father=1019920038	#Yayauhqui
+	1215.7.1={ birth=yes }
+	1278.3.10={ death=yes }
+}
+1019920041={
+	name=Izel
+	female=yes
+	dynasty=1009990167
+	dna="pfboonhjpkb"
+	culture=highland_mayan religion=mayan
+	father=1019920038	#Yayauhqui
+	1220.3.22={ birth=yes }
+	1302.5.6={ death=yes }
+}
+1019920042={
+	name=Zyanya
+	female=yes
+	dynasty=1009990167
+	dna="plmdgcnbdka"
+	culture=highland_mayan religion=mayan
+	father=1019920038	#Yayauhqui
+	1223.9.20={ birth=yes }
+	1291.10.14={ death=yes }
+}
+1019920043={
+	name=Chipahua
+	female=yes
+	dynasty=1009990167
+	dna="ohncalhmjkj"
+	culture=highland_mayan religion=mayan
+	father=1019920038	#Yayauhqui
+	1229.8.24={ birth=yes }
+	1311.2.27={ death=yes }
+}
+1019920044={
+	name=Xicohtencatl
+	dynasty=1009990167
+	dna="blkjgmanjhb"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=4 stewardship=8 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=just add_trait=chaste add_trait=craven add_trait=content 
+	father=1019920038	#Yayauhqui
+	1233.4.6={ birth=yes }
+	1290.7.14={ death=yes }
+}
+1019920045={
+	name=Tetlepanquetzaltzin
+	dynasty=1009990167
+	dna="pijjimokbfp"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=hedonist add_trait=deceitful add_trait=craven add_trait=cynical 
+	father=1019920044	#Xicohtencatl
+	1263.4.6={ birth=yes }
+	1326.7.11={ death=yes }
+}
+1019920046={
+	name=Opochtli
+	dynasty=1009990167
+	dna="ofkjkiibjbi"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=6 stewardship=6 intrigue=4 learning=7
+	add_trait=intricate_webweaver  add_trait=honest add_trait=slothful add_trait=zealous 
+	add_trait=stressed 
+	father=1019920044	#Xicohtencatl
+	1268.9.14={ birth=yes }
+	1321.12.8={ death=yes }
+}
+1019920047={
+	name=Eloxochitl
+	female=yes
+	dynasty=1009990167
+	dna="glpjcahndmi"
+	culture=highland_mayan religion=mayan
+	father=1019920044	#Xicohtencatl
+	1272.11.21={ birth=yes }
+	1328.6.10={ death=yes }
+}
+1019920048={
+	name=Xochitl
+	female=yes
+	dynasty=1009990167
+	dna="mlkjkmanjob"
+	culture=highland_mayan religion=mayan
+	father=1019920044	#Xicohtencatl
+	1276.9.23={ birth=yes }
+	1354.6.26={ death=yes }
+}
+1019920049={
+	name=Nezahualcoyotl
+	dynasty=1009990167
+	dna="blbjgmcgfpi"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=7 stewardship=7 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=wroth add_trait=temperate add_trait=brave add_trait=ambitious 
+	add_trait=shy 
+	father=1019920044	#Xicohtencatl
+	1280.9.9={ birth=yes }
+	1330.6.22={ death=yes }
+}
+1019920050={
+	name=Tzompantzin
+	dynasty=1009990167
+	dna="nijndmaibfb"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=4 stewardship=5 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=trusting add_trait=temperate add_trait=gregarious 
+	father=1019920045	#Tetlepanquetzaltzin
+	1288.7.10={ birth=yes }
+	1338.12.14={ death=yes }
+}
+1019920051={
+	name=Ohtli
+	female=yes
+	dynasty=1009990167
+	dna="hiajimicbap"
+	culture=highland_mayan religion=mayan
+	father=1019920045	#Tetlepanquetzaltzin
+	1295.4.14={ birth=yes }
+	1361.6.4={ death=yes }
+}
+1019920052={
+	name=Xochitl
+	female=yes
+	dynasty=1009990167
+	dna="pdjkimhkbkf"
+	culture=highland_mayan religion=mayan
+	father=1019920045	#Tetlepanquetzaltzin
+	1300.7.25={ birth=yes }
+	1370.10.6={ death=yes }
+}
+1019920053={
+	name=Ahuiliztli
+	dynasty=1009990167
+	dna="bijfgcjibnk"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=trusting add_trait=cynical add_trait=gluttonous 
+	father=1019920050	#Tzompantzin
+	1320.7.11={ birth=yes }
+	1396.9.12={ death=yes }
+}
+1019920054={
+	name=Achcauhtli
+	female=yes
+	dynasty=1009990167
+	dna="nijndmaibob"
+	culture=highland_mayan religion=mayan
+	father=1019920050	#Tzompantzin
+	1325.2.12={ birth=yes }
+	1403.3.5={ death=yes }
+}
+1019920055={
+	name=Quiauhxochitl
+	female=yes
+	dynasty=1009990167
+	dna="lghnomnibfo"
+	culture=highland_mayan religion=mayan
+	father=1019920050	#Tzompantzin
+	1327.1.26={ birth=yes }
+	1391.9.1={ death=yes }
+}
+1019920056={
+	name=Cuetlachtli
+	dynasty=1009990167
+	dna="biofedmioih"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=5 stewardship=7 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=charitable add_trait=proud add_trait=patient 
+	father=1019920053	#Ahuiliztli
+	1343.8.6={ birth=yes }
+	1411.9.4={ death=yes }
+}
+1019920057={
+	name=Ayauhcihuatl
+	female=yes
+	dynasty=1009990167
+	dna="bijfabcibmk"
+	culture=highland_mayan religion=mayan
+	father=1019920053	#Ahuiliztli
+	1346.10.12={ birth=yes }
+	1407.3.19={ death=yes }
+}
+1019920058={
+	name=Coanacoch
+	dynasty=1009990167
+	dna="nijehdjjenk"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	add_trait=misguided_warrior add_trait=shy add_trait=envious add_trait=just add_trait=cynical 
+	father=1019920053	#Ahuiliztli
+	1352.9.22={ birth=yes }
+	1413.11.23={ death=yes }
+}
+1019920059={
+	name=Zipactonal
+	dynasty=1009990167
+	dna="cplflcembmi"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=4 stewardship=7 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=shy  add_trait=lustful add_trait=drunkard 
+	father=1019920053	#Ahuiliztli
+	1359.6.8={ birth=yes }
+	1444.2.9={ death=yes }
+}
+1019920060={
+	name=Aculnahuacatl
+	dynasty=1009990167
+	dna="biofgepioih"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=6 stewardship=8 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=paranoid add_trait=lustful 
+	father=1019920056	#Cuetlachtli
+	1365.2.4={ birth=yes }
+	1416.10.19={ death=yes }
+}
+1019920061={
+	name=Tlahco
+	female=yes
+	dynasty=1009990167
+	dna="bincldmldin"
+	culture=highland_mayan religion=mayan
+	father=1019920056	#Cuetlachtli
+	1370.8.6={ birth=yes }
+	1451.8.5={ death=yes }
+}
+1019920062={
+	name=Tezcatlan
+	female=yes
+	dynasty=1009990167
+	dna="oimfedmmojh"
+	culture=highland_mayan religion=mayan
+	father=1019920056	#Cuetlachtli
+	1373.2.7={ birth=yes }
+	1451.12.27={ death=yes }
+}
+1019920063={
+	name=Topiltzin
+	dynasty=1009990167
+	dna="bfomnmmnoih"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	add_trait=scholarly_theologian add_trait=gardener add_trait=diligent add_trait=arbitrary add_trait=ambitious 
+	add_trait=brave 
+	father=1019920056	#Cuetlachtli
+	1379.4.21={ birth=yes }
+	1451.12.3={ death=yes }
+}
+1019920064={
+	name=Totoquihuaztli
+	dynasty=1009990167
+	dna="digfeepgaii"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=4
+	add_trait=elusive_shadow add_trait=gregarious add_trait=brave add_trait=envious add_trait=cynical 
+	father=1019920060	#Aculnahuacatl
+	1393.11.1={ birth=yes }
+	1448.4.10={ death=yes }
+}
+1019920065={
+	name=Xipilli
+	dynasty=1009990167
+	dna="hioogehiolj"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=honest add_trait=gregarious add_trait=ambitious add_trait=slothful 
+	add_trait=wroth 
+	father=1019920060	#Aculnahuacatl
+	1400.3.8={ birth=yes }
+	1466.2.24={ death=yes }
+}
+1019920066={
+	name=Papa
+	female=yes
+	dynasty=1009990167
+	dna="biomgeicoih"
+	culture=highland_mayan religion=mayan
+	father=1019920060	#Aculnahuacatl
+	1403.12.17={ birth=yes }
+	1468.7.16={ death=yes }
+}
+1019920067={
+	name=Meztli
+	female=yes
+	dynasty=1009990167
+	dna="kiagggpnojo"
+	culture=highland_mayan religion=mayan
+	father=1019920060	#Aculnahuacatl
+	1410.10.9={ birth=yes }
+	1493.9.4={ death=yes }
+}
+1019920068={
+	name=Coatl
+	dynasty=1009990168
+	dna="hgedobjojbg"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=8
+	add_trait=naive_appeaser add_trait=just add_trait=proud add_trait=greedy 
+	720.5.16={ birth=yes }
+	778.11.21={ death=yes }
+}
+1019920069={
+	name=Itzcuintli
+	dynasty=1009990168
+	dna="ggepobjogbg"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=6 stewardship=5 intrigue=4 learning=5
+	add_trait=flamboyant_schemer add_trait=gardener add_trait=envious add_trait=diligent add_trait=arbitrary 
+	add_trait=stressed 
+	father=1019920068	#Coatl
+	747.7.9={ birth=yes }
+	809.10.5={ death=yes }
+}
+1019920070={
+	name=Xiuhtomiyauhtzin
+	female=yes
+	dynasty=1009990168
+	dna="cgehobbdjbm"
+	culture=highland_mayan religion=mayan
+	father=1019920068	#Coatl
+	752.6.19={ birth=yes }
+	818.2.27={ death=yes }
+}
+1019920071={
+	name=Tototl
+	dynasty=1009990168
+	dna="jceeobaohbg"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	add_trait=scholarly_theologian add_trait=zealous add_trait=charitable add_trait=shy add_trait=deceitful 
+	add_trait=wroth add_trait=lustful 
+	father=1019920069	#Itzcuintli
+	767.3.5={ birth=yes }
+	847.11.2={ death=yes }
+}
+1019920072={
+	name=Necahual
+	female=yes
+	dynasty=1009990168
+	dna="kpkplhooobg"
+	culture=highland_mayan religion=mayan
+	father=1019920069	#Itzcuintli
+	771.5.4={ birth=yes }
+	833.3.3={ death=yes }
+}
+1019920073={
+	name=Nezahualpilli
+	dynasty=1009990168
+	dna="ggdjopgggbf"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=indulgent_wastrel add_trait=diligent add_trait=brave add_trait=envious add_trait=temperate 
+	add_trait=ambitious 
+	father=1019920069	#Itzcuintli
+	775.5.19={ birth=yes }
+	824.2.5={ death=yes }
+}
+1019920074={
+	name=Cacamatzin
+	dynasty=1009990168
+	dna="hghpjijijnj"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=4 stewardship=7 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=wroth add_trait=honest add_trait=craven 
+	father=1019920069	#Itzcuintli
+	780.8.22={ birth=yes }
+	836.8.23={ death=yes }
+}
+1019920075={
+	name=Centehua
+	female=yes
+	dynasty=1009990168
+	dna="ggepoaihcfa"
+	culture=highland_mayan religion=mayan
+	father=1019920069	#Itzcuintli
+	784.1.21={ birth=yes }
+	862.11.14={ death=yes }
+}
+1019920076={
+	name=Yolotli
+	dynasty=1009990168
+	dna="jneeobamikg"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=wroth  add_trait=paranoid add_trait=charitable 
+	add_trait=diligent add_trait=proud add_trait=lunatic 
+	father=1019920071	#Tototl
+	788.4.12={ birth=yes }
+	860.12.27={ death=yes }
+}
+1019920077={
+	name=Totoquihuaztli
+	dynasty=1009990168
+	dna="bkgeemnghil"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=7 stewardship=6 intrigue=4 learning=4
+	add_trait=indulgent_wastrel add_trait=greedy add_trait=diligent add_trait=depressed 
+	father=1019920071	#Tototl
+	793.8.19={ birth=yes }
+	875.2.15={ death=yes }
+}
+1019920078={
+	name=Meztli
+	female=yes
+	dynasty=1009990168
+	dna="pclefbiohhg"
+	culture=highland_mayan religion=mayan
+	father=1019920071	#Tototl
+	799.4.16={ birth=yes }
+	863.6.24={ death=yes }
+}
+1019920079={
+	name=Matlalatzin
+	female=yes
+	dynasty=1009990168
+	dna="ieeholnoefg"
+	culture=highland_mayan religion=mayan
+	father=1019920071	#Tototl
+	806.8.8={ birth=yes }
+	863.7.10={ death=yes }
+}
+1019920080={
+	name=Cuetzpalli
+	dynasty=1009990168
+	dna="nneeoembgkg"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=honest add_trait=charitable add_trait=content 
+	father=1019920076	#Yolotli
+	813.2.15={ birth=yes }
+	886.6.19={ death=yes }
+}
+1019920081={
+	name=Tlaloc
+	dynasty=1009990168
+	dna="fleeobimikg"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=6 stewardship=6 intrigue=7 learning=6
+	add_trait=naive_appeaser add_trait=greedy add_trait=just add_trait=gregarious add_trait=honest 
+	father=1019920076	#Yolotli
+	817.9.14={ birth=yes }
+	894.12.6={ death=yes }
+}
+1019920082={
+	name=Xilonen
+	female=yes
+	dynasty=1009990168
+	dna="jlaglbjling"
+	culture=highland_mayan religion=mayan
+	father=1019920076	#Yolotli
+	820.2.2={ birth=yes }
+	880.11.24={ death=yes }
+}
+1019920083={
+	name=Acacitli
+	dynasty=1009990168
+	dna="fihgopppjck"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=4
+	add_trait=scholarly_theologian add_trait=shy add_trait=cynical add_trait=envious add_trait=greedy 
+	add_trait=diligent add_trait=gluttonous 
+	father=1019920076	#Yolotli
+	823.3.25={ birth=yes }
+	895.12.23={ death=yes }
+}
+1019920084={
+	name=Itzcuintli
+	dynasty=1009990168
+	dna="jeeeoimjmkk"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=4 stewardship=5 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=ambitious add_trait=deceitful add_trait=humble add_trait=greedy 
+	add_trait=slothful add_trait=wroth add_trait=possessed 
+	father=1019920080	#Cuetzpalli
+	835.9.18={ birth=yes }
+	909.10.27={ death=yes }
+}
+1019920085={
+	name=Teicuih
+	female=yes
+	dynasty=1009990168
+	dna="nlhbmeamiic"
+	culture=highland_mayan religion=mayan
+	father=1019920080	#Cuetzpalli
+	841.6.9={ birth=yes }
+	900.7.19={ death=yes }
+}
+1019920086={
+	name=Itotia
+	female=yes
+	dynasty=1009990168
+	dna="noeeoelbokm"
+	culture=highland_mayan religion=mayan
+	father=1019920080	#Cuetzpalli
+	847.1.17={ birth=yes }
+	892.4.22={ death=yes }
+}
+1019920087={
+	name=Matlal
+	dynasty=1009990168
+	dna="nnkcofcbeka"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	add_trait=detached_priest  add_trait=just add_trait=patient add_trait=honest 
+	add_trait=temperate 
+	father=1019920080	#Cuetzpalli
+	851.10.6={ birth=yes }
+	927.10.3={ death=yes }
+}
+1019920088={
+	name=Tecolotl
+	dynasty=1009990168
+	dna="jepjofedmlk"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=7 stewardship=8 intrigue=4 learning=6
+	add_trait=charismatic_negotiator add_trait=lustful add_trait=craven add_trait=arbitrary 
+	father=1019920084	#Itzcuintli
+	856.11.13={ birth=yes }
+	909.3.23={ death=yes }
+}
+1019920089={
+	name=Atl
+	female=yes
+	dynasty=1009990168
+	dna="jmppoemhoko"
+	culture=highland_mayan religion=mayan
+	father=1019920084	#Itzcuintli
+	860.11.9={ birth=yes }
+	947.5.17={ death=yes }
+}
+1019920090={
+	name=Chimalli
+	dynasty=1009990168
+	dna="beemokjomah"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=5 stewardship=6 intrigue=4 learning=6
+	add_trait=intricate_webweaver add_trait=poet  add_trait=lustful add_trait=cynical 
+	add_trait=proud 
+	father=1019920084	#Itzcuintli
+	863.9.23={ birth=yes }
+	959.6.6={ death=yes }
+}
+1019920091={
+	name=Patli
+	female=yes
+	dynasty=1009990168
+	dna="lpeekljjgnk"
+	culture=highland_mayan religion=mayan
+	father=1019920084	#Itzcuintli
+	869.1.9={ birth=yes }
+	945.1.21={ death=yes }
+}
+1019920092={
+	name=Acalan
+	dynasty=1009990168
+	dna="cfeeoampmkl"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=6
+	add_trait=skilled_tactician add_trait=deceitful add_trait=charitable add_trait=temperate add_trait=just 
+	add_trait=chaste add_trait=wounded 
+	father=1019920084	#Itzcuintli
+	873.12.18={ birth=yes }
+	954.1.21={ death=yes }
+}
+1019920093={
+	name=Citlalmina
+	female=yes
+	dynasty=1009990168
+	dna="jipjofedgfn"
+	culture=highland_mayan religion=mayan
+	father=1019920088	#Tecolotl
+	885.12.12={ birth=yes }
+	971.2.22={ death=yes }
+}
+1019920094={
+	name=Tecocoltzin
+	dynasty=1009990168
+	dna="jegjhkdngmk"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=8 stewardship=7 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=poet add_trait=ambitious add_trait=cynical add_trait=deceitful 
+	add_trait=humble 
+	father=1019920088	#Tecolotl
+	890.1.6={ birth=yes }
+	971.12.6={ death=yes }
+}
+1019920095={
+	name=Olli
+	dynasty=1009990168
+	dna="kegbhkdnemm"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=impaler add_trait=cynical add_trait=envious  
+	add_trait=wroth add_trait=trusting add_trait=temperate 
+	father=1019920094	#Tecocoltzin
+	911.9.15={ birth=yes }
+	968.8.27={ death=yes }
+}
+1019920096={
+	name=Tecocoltzin
+	dynasty=1009990168
+	dna="jfaahkdngpl"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=proud add_trait=lustful add_trait=trusting 
+	add_trait=envious add_trait=just 
+	father=1019920094	#Tecocoltzin
+	917.7.24={ birth=yes }
+	977.10.13={ death=yes }
+}
+1019920097={
+	name=Xochipilli
+	dynasty=1009990168
+	dna="aeoohkaefmi"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=8 stewardship=4 intrigue=8 learning=4
+	add_trait=elusive_shadow add_trait=patient add_trait=proud 
+	father=1019920095	#Olli
+	938.1.26={ birth=yes }
+	1008.2.29={ death=yes }
+}
+1019920098={
+	name=Miyaoaxochitl
+	female=yes
+	dynasty=1009990168
+	dna="khgbmkhnkkm"
+	culture=highland_mayan religion=mayan
+	father=1019920095	#Olli
+	940.9.3={ birth=yes }
+	1016.11.1={ death=yes }
+}
+1019920099={
+	name=Coszcatl
+	female=yes
+	dynasty=1009990168
+	dna="pedcfndnece"
+	culture=highland_mayan religion=mayan
+	father=1019920095	#Olli
+	946.4.14={ birth=yes }
+	1035.3.11={ death=yes }
+}
+1019920100={
+	name=Tlazozomizqui
+	female=yes
+	dynasty=1009990168
+	dna="jigiekinpml"
+	culture=highland_mayan religion=mayan
+	father=1019920095	#Olli
+	948.4.7={ birth=yes }
+	1030.1.24={ death=yes }
+}
+1019920101={
+	name=Quauhtli
+	dynasty=1009990168
+	dna="kegchgmdemm"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=5 stewardship=7 intrigue=8 learning=4
+	add_trait=misguided_warrior add_trait=proud add_trait=craven add_trait=trusting 
+	father=1019920095	#Olli
+	951.3.23={ birth=yes }
+	1000.11.11={ death=yes }
+}
+1019920102={
+	name=Yaotl
+	dynasty=1009990168
+	dna="eoojhlaaamk"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=8 stewardship=5 intrigue=5 learning=5
+	add_trait=thrifty_clerk add_trait=gregarious add_trait=charitable add_trait=craven add_trait=patient 
+	add_trait=lunatic 
+	father=1019920097	#Xochipilli
+	962.7.18={ birth=yes }
+	1022.3.22={ death=yes }
+}
+1019920103={
+	name=Xochipilli
+	dynasty=1009990168
+	dna="abfjhkaefmp"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	add_trait=intricate_webweaver add_trait=celibate add_trait=just add_trait=zealous add_trait=gluttonous 
+	father=1019920097	#Xochipilli
+	968.9.23={ birth=yes }
+	1025.12.4={ death=yes }
+}
+1019920104={
+	name=Izel
+	female=yes
+	dynasty=1009990168
+	dna="gogflcnahnm"
+	culture=highland_mayan religion=mayan
+	father=1019920102	#Yaotl
+	983.7.4={ birth=yes }
+	1065.6.27={ death=yes }
+}
+1019920105={
+	name=Huitzitl
+	dynasty=1009990168
+	dna="hoolhhnadme"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=8 stewardship=5 intrigue=6 learning=8
+	add_trait=misguided_warrior add_trait=humble add_trait=temperate add_trait=lustful  
+	father=1019920102	#Yaotl
+	989.11.6={ birth=yes }
+	1070.1.23={ death=yes }
+}
+1019920106={
+	name=Xiloxoch
+	female=yes
+	dynasty=1009990168
+	dna="goojakaedmc"
+	culture=highland_mayan religion=mayan
+	father=1019920102	#Yaotl
+	993.5.4={ birth=yes }
+	1048.11.20={ death=yes }
+}
+1019920107={
+	name=Mecatl
+	female=yes
+	dynasty=1009990168
+	dna="eamfblanaoo"
+	culture=highland_mayan religion=mayan
+	father=1019920102	#Yaotl
+	1001.4.21={ birth=yes }
+	1057.4.28={ death=yes }
+}
+1019920108={
+	name=Itzli
+	dynasty=1009990168
+	dna="hnjlhjnpdpe"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	add_trait=naive_appeaser add_trait=gluttonous add_trait=slothful add_trait=gregarious add_trait=lisp 
+	father=1019920105	#Huitzitl
+	1019.9.5={ birth=yes }
+	1083.4.26={ death=yes }
+}
+1019920109={
+	name=Techichpotzin
+	female=yes
+	dynasty=1009990168
+	dna="hooefhfafmn"
+	culture=highland_mayan religion=mayan
+	father=1019920105	#Huitzitl
+	1023.4.2={ birth=yes }
+	1103.2.2={ death=yes }
+}
+1019920110={
+	name=Sacnite
+	female=yes
+	dynasty=1009990168
+	dna="hooohlnccmk"
+	culture=highland_mayan religion=mayan
+	father=1019920105	#Huitzitl
+	1027.9.6={ birth=yes }
+	1069.8.3={ death=yes }
+}
+1019920111={
+	name=Tlahco
+	female=yes
+	dynasty=1009990168
+	dna="hfblmlnadme"
+	culture=highland_mayan religion=mayan
+	father=1019920105	#Huitzitl
+	1033.4.19={ birth=yes }
+	1102.4.11={ death=yes }
+}
+1019920112={
+	name=Sacnite
+	female=yes
+	dynasty=1009990168
+	dna="hooljhdadmj"
+	culture=highland_mayan religion=mayan
+	father=1019920105	#Huitzitl
+	1037.7.6={ birth=yes }
+	1116.8.1={ death=yes }
+}
+1019920113={
+	name=Matlalihuitl
+	dynasty=1009990168
+	dna="hoilcnnkbdp"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=envious add_trait=slothful add_trait=content 
+	 
+	father=1019920105	#Huitzitl
+	1042.8.9={ birth=yes }
+	1122.10.10={ death=yes }
+}
+1019920114={
+	name=Chicomecoatl
+	female=yes
+	dynasty=1009990168
+	dna="hoiohhaadoh"
+	culture=highland_mayan religion=mayan
+	father=1019920105	#Huitzitl
+	1047.11.3={ birth=yes }
+	1108.7.25={ death=yes }
+}
+1019920115={
+	name=Zeltzin
+	female=yes
+	dynasty=1009990168
+	dna="dkmlhjnmiod"
+	culture=highland_mayan religion=mayan
+	father=1019920108	#Itzli
+	1040.12.18={ birth=yes }
+	1123.4.3={ death=yes }
+}
+1019920116={
+	name=Acalan
+	dynasty=1009990168
+	dna="hnelfjnbdee"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=4
+	add_trait=martial_cleric add_trait=lustful add_trait=temperate add_trait=ambitious add_trait=cynical 
+	add_trait=deceitful 
+	father=1019920108	#Itzli
+	1046.6.8={ birth=yes }
+	1101.9.23={ death=yes }
+}
+1019920117={
+	name=Ozomatli
+	dynasty=1009990168
+	dna="fnbkclapdpe"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=8 stewardship=4 intrigue=4 learning=4
+	add_trait=mastermind_theologian add_trait=poet add_trait=arbitrary add_trait=shy add_trait=zealous 
+	add_trait=charitable add_trait=wroth add_trait=brave 
+	father=1019920108	#Itzli
+	1051.4.23={ birth=yes }
+	1132.11.12={ death=yes }
+}
+1019920118={
+	name=Matlalihuitl
+	dynasty=1009990168
+	dna="hnplejnbplh"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=6 stewardship=8 intrigue=5 learning=8
+	add_trait=tough_soldier add_trait=gregarious add_trait=lustful add_trait=charitable add_trait=zealous 
+	add_trait=ambitious add_trait=patient add_trait=possessed 
+	father=1019920108	#Itzli
+	1053.12.9={ birth=yes }
+	1157.1.14={ death=yes }
+}
+1019920119={
+	name=Zeltzin
+	female=yes
+	dynasty=1009990168
+	dna="hgjlhjppmpn"
+	culture=highland_mayan religion=mayan
+	father=1019920108	#Itzli
+	1058.8.10={ birth=yes }
+	1128.1.22={ death=yes }
+}
+1019920120={
+	name=Totoquihuaztli
+	dynasty=1009990168
+	dna="hmbphjjkgpk"
+	culture=highland_mayan religion=mayan
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=greedy add_trait=ambitious add_trait=arbitrary 
+	father=1019920108	#Itzli
+	1062.1.22={ birth=yes }
+	1119.7.19={ death=yes }
+}
+1019920121={
+	name=Acolmiztli
+	dynasty=1009990168
+	dna="hjbldjgpodj"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=8
+	add_trait=naive_appeaser add_trait=arbitrary add_trait=envious add_trait=gregarious 
+	father=1019920108	#Itzli
+	1069.8.8={ birth=yes }
+	1151.7.17={ death=yes }
+}
+1019920122={
+	name=Ixcatzin
+	female=yes
+	dynasty=1009990168
+	dna="dmedhhabdee"
+	culture=highland_mayan religion=mayan
+	father=1019920116	#Acalan
+	1079.6.14={ birth=yes }
+	1151.7.28={ death=yes }
+}
+1019920123={
+	name=Aculnahuacatl
+	dynasty=1009990168
+	dna="jnegfjhgnee"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=5 stewardship=8 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=patient add_trait=brave add_trait=temperate 
+	father=1019920116	#Acalan
+	1085.12.19={ birth=yes }
+	1142.7.27={ death=yes }
+}
+1019920124={
+	name=Toltecatl
+	female=yes
+	dynasty=1009990168
+	dna="phegffognee"
+	culture=highland_mayan religion=mayan
+	father=1019920123	#Aculnahuacatl
+	1114.6.27={ birth=yes }
+	1179.2.18={ death=yes }
+}
+1019920125={
+	name=Matlalihuitl
+	dynasty=1009990168
+	dna="pneehjhjnee"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=7 stewardship=5 intrigue=7 learning=7
+	add_trait=charismatic_negotiator add_trait=impaler  add_trait=trusting add_trait=slothful 
+	add_trait=brave add_trait=depressed add_trait=possessed 
+	father=1019920123	#Aculnahuacatl
+	1120.4.13={ birth=yes }
+	1190.6.5={ death=yes }
+}
+1019920126={
+	name=Tepin
+	female=yes
+	dynasty=1009990168
+	dna="aoeehjcjnee"
+	culture=highland_mayan religion=mayan
+	father=1019920125	#Matlalihuitl
+	1145.2.14={ birth=yes }
+	1204.3.6={ death=yes }
+}
+1019920127={
+	name=Huitztecol
+	dynasty=1009990168
+	dna="mneenbhdnjb"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=7
+	add_trait=elusive_shadow add_trait=cynical add_trait=proud add_trait=envious 
+	father=1019920125	#Matlalihuitl
+	1151.9.26={ birth=yes }
+	1228.6.26={ death=yes }
+}
+1019920128={
+	name=Ueman
+	dynasty=1009990168
+	dna="pdeahkojkde"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=craven add_trait=paranoid add_trait=lustful 
+	father=1019920125	#Matlalihuitl
+	1157.8.4={ birth=yes }
+	1232.5.24={ death=yes }
+}
+1019920129={
+	name=Cuauhtl
+	dynasty=1009990168
+	dna="hnepcbhnned"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=8
+	add_trait=mastermind_theologian add_trait=diligent add_trait=lustful add_trait=ambitious  
+	add_trait=stutter 
+	father=1019920127	#Huitztecol
+	1176.12.14={ birth=yes }
+	1233.11.17={ death=yes }
+}
+1019920130={
+	name=Tapayaxi
+	dynasty=1009990168
+	dna="ifllejpmnmb"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=7 stewardship=4 intrigue=7 learning=5
+	add_trait=grey_eminence add_trait=hedonist add_trait=deceitful add_trait=wroth add_trait=proud 
+	add_trait=lunatic 
+	father=1019920127	#Huitztecol
+	1182.5.5={ birth=yes }
+	1257.1.2={ death=yes }
+}
+1019920131={
+	name=Chimalpilli
+	dynasty=1009990168
+	dna="mnkendjpidb"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	add_trait=misguided_warrior add_trait=mystic add_trait=temperate add_trait=honest add_trait=content 
+	add_trait=depressed 
+	father=1019920127	#Huitztecol
+	1189.5.13={ birth=yes }
+	1247.4.25={ death=yes }
+}
+1019920132={
+	name=Cuauhtemoc
+	dynasty=1009990168
+	dna="anbfbbhdnjc"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=4 stewardship=6 intrigue=6 learning=5
+	add_trait=martial_cleric add_trait=lustful  add_trait=content add_trait=depressed 
+	father=1019920127	#Huitztecol
+	1193.6.10={ birth=yes }
+	1259.5.13={ death=yes }
+}
+1019920133={
+	name=Xihuitl
+	dynasty=1009990168
+	dna="holccbhgofl"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=8
+	add_trait=grey_eminence add_trait=honest add_trait=trusting   
+	add_trait=content add_trait=gluttonous 
+	father=1019920129	#Cuauhtl
+	1208.3.9={ birth=yes }
+	1268.12.1={ death=yes }
+}
+1019920134={
+	name=Eleuia
+	female=yes
+	dynasty=1009990168
+	dna="hfmpcbhnnnd"
+	culture=highland_mayan religion=mayan
+	father=1019920129	#Cuauhtl
+	1213.10.25={ birth=yes }
+	1287.10.30={ death=yes }
+}
+1019920135={
+	name=Zeltzin
+	female=yes
+	dynasty=1009990168
+	dna="hjlpcgoicfl"
+	culture=highland_mayan religion=mayan
+	father=1019920133	#Xihuitl
+	1231.12.26={ birth=yes }
+	1299.5.5={ death=yes }
+}
+1019920136={
+	name=Cuauhtl
+	dynasty=1009990168
+	dna="holccbhgjgl"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=7
+	add_trait=midas_touched  add_trait=paranoid add_trait=just add_trait=slothful 
+	add_trait=lunatic 
+	father=1019920133	#Xihuitl
+	1234.4.25={ birth=yes }
+	1295.4.5={ death=yes }
+}
+1019920137={
+	name=Xicohtencatl
+	dynasty=1009990168
+	dna="oclcmbggofl"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=5 stewardship=7 intrigue=5 learning=7
+	add_trait=grey_eminence add_trait=paranoid add_trait=ambitious add_trait=temperate add_trait=shy 
+	father=1019920133	#Xihuitl
+	1239.5.25={ birth=yes }
+	1326.2.12={ death=yes }
+}
+1019920138={
+	name=Yaotl
+	dynasty=1009990168
+	dna="liloedbedfl"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	add_trait=grey_eminence  add_trait=slothful add_trait=craven 
+	father=1019920133	#Xihuitl
+	1243.5.25={ birth=yes }
+	1307.11.28={ death=yes }
+}
+1019920139={
+	name=Azcalxochitzin
+	female=yes
+	dynasty=1009990168
+	dna="bolccngbkln"
+	culture=highland_mayan religion=mayan
+	father=1019920133	#Xihuitl
+	1249.11.4={ birth=yes }
+	1308.6.27={ death=yes }
+}
+1019920140={
+	name=Cipac
+	dynasty=1009990168
+	dna="polcnbagoha"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=8 stewardship=5 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=diligent add_trait=just add_trait=paranoid add_trait=lustful 
+	add_trait=patient 
+	father=1019920133	#Xihuitl
+	1253.4.11={ birth=yes }
+	1313.5.3={ death=yes }
+}
+1019920141={
+	name=Tetlepanquetzaltzin
+	dynasty=1009990168
+	dna="hohccpnjoic"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=4 stewardship=7 intrigue=8 learning=5
+	add_trait=grey_eminence add_trait=brave add_trait=envious add_trait=humble  
+	father=1019920133	#Xihuitl
+	1258.12.13={ birth=yes }
+	1316.3.3={ death=yes }
+}
+1019920142={
+	name=Tezozomoc
+	dynasty=1009990168
+	dna="ghlccbhepge"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=wroth add_trait=content add_trait=gluttonous  
+	add_trait=deceitful 
+	father=1019920136	#Cuauhtl
+	1256.10.5={ birth=yes }
+	1312.10.15={ death=yes }
+}
+1019920143={
+	name=Chimalpilli
+	dynasty=1009990168
+	dna="jolecbkgkgl"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	add_trait=detached_priest add_trait=lustful  add_trait=proud 
+	father=1019920136	#Cuauhtl
+	1260.1.5={ birth=yes }
+	1303.3.21={ death=yes }
+}
+1019920144={
+	name=Zyanya
+	female=yes
+	dynasty=1009990168
+	dna="hnllcbbojgl"
+	culture=highland_mayan religion=mayan
+	father=1019920136	#Cuauhtl
+	1263.10.23={ birth=yes }
+	1324.12.30={ death=yes }
+}
+1019920145={
+	name=Tlaloc
+	dynasty=1009990168
+	dna="hmlcnbjgjgh"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=4 stewardship=6 intrigue=5 learning=7
+	add_trait=grey_eminence add_trait=impaler add_trait=charitable add_trait=zealous add_trait=chaste 
+	add_trait=temperate add_trait=patient  
+	father=1019920136	#Cuauhtl
+	1268.1.15={ birth=yes }
+	1332.9.13={ death=yes }
+}
+1019920146={
+	name=Tziquetzalpoztectzin
+	female=yes
+	dynasty=1009990168
+	dna="oolcdongeml"
+	culture=highland_mayan religion=mayan
+	father=1019920136	#Cuauhtl
+	1272.4.18={ birth=yes }
+	1352.5.1={ death=yes }
+}
+1019920147={
+	name=Yoltzin
+	female=yes
+	dynasty=1009990168
+	dna="gglccmhbjce"
+	culture=highland_mayan religion=mayan
+	father=1019920136	#Cuauhtl
+	1277.12.12={ birth=yes }
+	1364.6.13={ death=yes }
+}
+1019920148={
+	name=Zeltzin
+	female=yes
+	dynasty=1009990168
+	dna="aojcoihdjgl"
+	culture=highland_mayan religion=mayan
+	father=1019920136	#Cuauhtl
+	1280.8.5={ birth=yes }
+	1336.10.8={ death=yes }
+}
+1019920149={
+	name=Teiuc
+	female=yes
+	dynasty=1009990168
+	dna="ghbocbhipee"
+	culture=highland_mayan religion=mayan
+	father=1019920142	#Tezozomoc
+	1281.8.21={ birth=yes }
+	1354.4.26={ death=yes }
+}
+1019920150={
+	name=Nezahualcoyotl
+	dynasty=1009990168
+	dna="gncgjbhephm"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=gluttonous add_trait=just 
+	father=1019920142	#Tezozomoc
+	1286.4.23={ birth=yes }
+	1340.3.4={ death=yes }
+}
+1019920151={
+	name=Atl
+	female=yes
+	dynasty=1009990168
+	dna="ghllpmpagge"
+	culture=highland_mayan religion=mayan
+	father=1019920142	#Tezozomoc
+	1293.5.9={ birth=yes }
+	1366.5.22={ death=yes }
+}
+1019920152={
+	name=Xocoyotl
+	female=yes
+	dynasty=1009990168
+	dna="fhlcjhhegbe"
+	culture=highland_mayan religion=mayan
+	father=1019920142	#Tezozomoc
+	1297.4.11={ birth=yes }
+	1353.4.19={ death=yes }
+}
+1019920153={
+	name=Zipactonal
+	dynasty=1009990168
+	dna="ghlcjbhepgo"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=7
+	add_trait=flamboyant_schemer add_trait=hedonist add_trait=craven add_trait=paranoid add_trait=cynical 
+	add_trait=gluttonous  add_trait=envious 
+	father=1019920142	#Tezozomoc
+	1300.8.17={ birth=yes }
+	1360.6.14={ death=yes }
+}
+1019920154={
+	name=Tizocic
+	dynasty=1009990168
+	dna="gkndodhoegh"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=impaler add_trait=patient add_trait=temperate add_trait=trusting 
+	father=1019920142	#Tezozomoc
+	1306.5.26={ birth=yes }
+	1363.12.13={ death=yes }
+}
+1019920155={
+	name=Tochtli
+	dynasty=1009990168
+	dna="ghpcphlehgg"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	add_trait=midas_touched  add_trait=paranoid  add_trait=temperate 
+	add_trait=deceitful add_trait=wroth add_trait=lunatic 
+	father=1019920142	#Tezozomoc
+	1310.8.14={ birth=yes }
+	1377.9.25={ death=yes }
+}
+1019920156={
+	name=Tlilpotonqui
+	dynasty=1009990168
+	dna="gnnkgbhjphh"
+	culture=highland_mayan religion=mayan
+	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=hedonist add_trait=temperate add_trait=patient add_trait=content 
+	add_trait=proud add_trait=trusting add_trait=charitable 
+	father=1019920150	#Nezahualcoyotl
+	1310.12.27={ birth=yes }
+	1380.1.24={ death=yes }
+}
+1019920157={
+	name=Chalchiuitl
+	female=yes
+	dynasty=1009990168
+	dna="ojcgjkmepda"
+	culture=highland_mayan religion=mayan
+	father=1019920150	#Nezahualcoyotl
+	1315.2.16={ birth=yes }
+	1418.11.15={ death=yes }
+}
+1019920158={
+	name=Sacnite
+	female=yes
+	dynasty=1009990168
+	dna="pncgcbgephm"
+	culture=highland_mayan religion=mayan
+	father=1019920150	#Nezahualcoyotl
+	1318.11.9={ birth=yes }
+	1394.8.13={ death=yes }
+}
+1019920159={
+	name=Xicohtencatl
+	dynasty=1009990168
+	dna="kecijbhlpgb"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=7 stewardship=7 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=diligent add_trait=deceitful add_trait=temperate add_trait=lustful 
+	add_trait=charitable 
+	father=1019920150	#Nezahualcoyotl
+	1324.6.26={ birth=yes }
+	1408.1.18={ death=yes }
+}
+1019920160={
+	name=Ocuil
+	dynasty=1009990168
+	dna="gnnpgaheoah"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=proud add_trait=arbitrary 
+	father=1019920156	#Tlilpotonqui
+	1337.4.2={ birth=yes }
+	1405.9.23={ death=yes }
+}
+1019920161={
+	name=Matlalatzin
+	female=yes
+	dynasty=1009990168
+	dna="hnkikmhipap"
+	culture=highland_mayan religion=mayan
+	father=1019920156	#Tlilpotonqui
+	1342.6.21={ birth=yes }
+	1402.7.3={ death=yes }
+}
+1019920162={
+	name=Moctezuma
+	dynasty=1009990168
+	dna="gnnpfjfonac"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=just add_trait=wroth add_trait=clubfooted 
+	father=1019920160	#Ocuil
+	1362.8.15={ birth=yes }
+	1465.10.30={ death=yes }
+}
+1019920163={
+	name=Ahuiliztli
+	dynasty=1009990168
+	dna="dnailkhccmj"
+	culture=highland_mayan religion=mayan
+	martial=6 diplomacy=8 stewardship=6 intrigue=7 learning=4
+	add_trait=intricate_webweaver add_trait=wroth add_trait=paranoid add_trait=gluttonous  
+	add_trait=ill 
+	father=1019920160	#Ocuil
+	1368.10.13={ birth=yes }
+	1433.9.21={ death=yes }
+}
+1019920164={
+	name=Tlilpotonqui
+	dynasty=1009990168
+	dna="ghcbgchekbh"
+	culture=highland_mayan religion=mayan
+	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=7
+	add_trait=indulgent_wastrel add_trait=brave  add_trait=arbitrary add_trait=honest 
+	add_trait=diligent add_trait=cynical 
+	father=1019920160	#Ocuil
+	1372.9.21={ birth=yes }
+	1439.12.26={ death=yes }
+}
+1019920165={
+	name=Xicohtencatl
+	dynasty=1009990168
+	dna="ldhpgecioam"
+	culture=highland_mayan religion=mayan
+	martial=4 diplomacy=7 stewardship=4 intrigue=7 learning=8
+	add_trait=skilled_tactician add_trait=celibate add_trait=shy add_trait=proud add_trait=zealous 
+	add_trait=gluttonous 
+	father=1019920160	#Ocuil
+	1378.11.20={ birth=yes }
+	1456.10.27={ death=yes }
+}

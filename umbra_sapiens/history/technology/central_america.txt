@@ -1,0 +1,269 @@
+technology = {
+	titles = {
+		d_aztec1
+		d_puebla
+		d_metztitlan
+		d_tlaxcala
+		d_chalco
+		d_mexico
+		d_matlazinco
+	}
+	
+	769 = {
+		military = 0.5
+		economy = 0.6
+		culture = 0.5
+		
+	}
+	
+	1337 = {
+		military = 1
+		economy = 1.1
+		culture = 1
+	}
+	
+	1500 = {
+		military = 2
+		economy = 2.1
+		culture = 2
+	}
+	
+	1640 = {
+		military = 3
+		economy = 4
+		culture = 3
+	}
+}
+
+technology = {
+	titles = {
+		d_totonac
+		d_huasteca
+		d_tlapanec
+	}
+	
+	769 = {
+		military = 0.5
+		economy = 0.4
+		culture = 0.6
+		
+	}
+	
+	1337 = {
+		military = 1
+		economy = 1
+		culture = 1.1
+	}
+	
+	1500 = {
+		military = 2
+		economy = 2
+		culture = 2.1
+	}
+	
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 4
+	}
+}
+
+technology = {
+	titles = {
+		d_mixteca
+		d_zapotec
+	}
+	
+	769 = {
+		military = 0.4
+		economy = 0.6
+		culture = 0.5
+		
+	}
+	
+	1337 = {
+		military = 1
+		economy = 1.2
+		culture = 1
+	}
+	
+	1500 = {
+		military = 2
+		economy = 2.2
+		culture = 2
+	}
+	
+	1640 = {
+		military = 3
+		economy = 4
+		culture = 3
+	}
+}
+
+technology = {
+	titles = {
+		d_zapotec
+		d_yokotan
+	}
+	
+	769 = {
+		military = 0.6
+		economy = 0.5
+		culture = 0.5
+		
+	}
+	
+	1337 = {
+		military = 1.1
+		economy = 1
+		culture = 1
+	}
+	
+	1500 = {
+		military = 2.1
+		economy = 2
+		culture = 2
+	}
+	
+	1640 = {
+		military = 3
+		economy = 4
+		culture = 3
+	}
+}
+
+technology = {
+	titles = {
+		d_mazatlan
+		d_jalisco
+		d_coculla
+		d_colimanew
+		d_colima
+		d_ihuatzio
+		d_tzintzuntzan
+	}
+	
+	769 = {
+		military = 0.5
+		economy = 0.5
+		culture = 0.6
+		
+	}
+	
+	1337 = {
+		military = 1
+		economy = 1
+		culture = 1.1
+	}
+	
+	1500 = {
+		military = 2
+		economy = 2
+		culture = 2.1
+	}
+	
+	1640 = {
+		military = 3
+		economy = 4
+		culture = 3
+	}
+}
+
+technology = {
+	titles = {
+		d_tzotzil
+		d_kaminaljuyu
+         d_chorti
+	}
+	
+	769 = {
+		military = 0.6
+		economy = 0.5
+		culture = 0.5
+		
+	}
+	
+	1337 = {
+		military = 1
+		economy = 1
+		culture = 1.1
+	}
+	
+	1500 = {
+		military = 2
+		economy = 2
+		culture = 2.1
+	}
+	
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 4
+	}
+}
+
+technology = {
+	titles = {
+		d_tikal
+		d_yucatan
+	}
+	
+	769 = {
+		military = 0.5
+		economy = 0.6
+		culture = 0.5
+		
+	}
+	
+	1337 = {
+		military = 1
+		economy = 1.1
+		culture = 1
+	}
+	
+	1500 = {
+		military = 2
+		economy = 2.1
+		culture = 2
+	}
+	
+	1640 = {
+		military = 3
+		economy = 4
+		culture = 3
+	}
+}
+
+technology = {
+	titles = {
+		d_honduras
+		d_nicaragua
+		d_costa_rica
+		d_panama
+	}
+	
+	769 = {
+		military = 0.4
+		economy = 0.3
+		culture = 0.4
+		
+	}
+	
+	1337 = {
+		military = 0.6
+		economy = 0.6
+		culture = 0.6
+	}
+	
+	1500 = {
+		military = 1
+		economy = 1.1
+		culture = 1
+	}
+	
+	1640 = {
+		military = 2
+		economy = 3
+		culture = 2
+	}
+}

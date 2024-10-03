@@ -1,0 +1,168 @@
+765.1.1 = {
+	liege="k_lotharingia"
+	holder = 91491 #VUODO, historical count as placeholder
+}
+855.8.23={
+	liege = "k_burgundy"
+	holder = 144998
+}
+863.1.1 ={
+	holder = 168238  #Guilhem I de Forez
+}
+871.1.1 ={
+	holder = 168239  #Guilhem II de Forez
+}
+925.8.27 ={
+	holder = 168240  #Artaud I de Forez
+}
+960.1.1 ={
+	holder = 168241  #Geraud I de Forez
+}
+993.1.1 ={
+	holder = 168242  #Artaud II de Forez
+}
+1000.10.11 = {
+	holder = 168243  #Artaud III de Forez
+}
+1017.1.1={
+	holder = 10028
+}
+1032.9.5={
+	liege="e_hre"
+}
+1058.1.1={
+	holder = 20290
+}
+1079.12.1={
+	holder = 212806
+}
+1097.6.1={
+	holder = 212807
+}
+1107.1.1={
+	holder = 205681 #Guy d'Albon
+}
+1138.10.27={
+	holder = 205680 #Guigues d'Albon
+}
+1163.1.1={
+	liege="k_france"
+}
+1187.1.1={
+	liege="d_burgundy"
+}
+1193.1.1 = { #Guigues III should hold Lyon from 1193 to his death, after which his brother Archbishop Renaud holds it.
+	holder = 205684
+}
+1202.11.28 = {
+	holder = 205685 #Archbishop Renaud d'Albon
+}
+1226.10.21={
+	holder = 138427 #ArchBishop Robert d'Auvergne
+}
+1234.1.1={
+	holder = 138425 #ArchBishop Raoul I de La Roche-Aymon
+}
+1236.1.1={
+	holder = 138437 #Bishop Aimery de Rives
+}
+1245.1.1={
+	holder= 70913 #ArchBishop Philippe I de Savoie
+}
+1267.1.1={
+	holder = 138438	#Bishop Guy II
+}
+1268.1.1={
+	holder = 71827 #ArchBishop Pierre II de Tarentaise/future Pope Innocent IV
+}
+1273.1.1={
+	holder = 138439	#ArchBishop Aymar de Roussillon
+}
+1283.1.1={
+	holder = 138453 #ArchBishop Raoul II de la Tourette
+}
+1288.1.1={
+	holder= 138404 #ArchBishop Bérard de Got brother of Pope Clement V
+}
+1294.1.1={
+	holder= 138440 #ArchBishop Henri I de Villars
+}
+1301.1.1={
+	holder= 138441	#ArchBishop Louis de Villars
+}
+1308.1.1={
+	holder = 70926 #ArchBishop Pierre de Savoie
+}
+1312.4.10={
+	liege="k_france"
+}
+1332.11.1={
+	holder = 138442 #ArchBishop Guillaume I de Sure
+}
+1340.9.20 = {
+	holder=381385	#1340–1342 Guy de Bologne
+}	
+1342.1.1 = {
+	holder=381400	#1342–1354 Henri II de Villars
+}    
+1354.1.1 = {
+	holder=381401	#1356–1358 Raymond Saquet
+}      
+1358.1.1 = {
+	holder=381402	#1358–1365 Guillaume II de Thurey
+}      
+1365.1.1 = {
+	holder=371124	#1365–1375 Charles III d'Alençon
+}    
+1375.7.5 = {
+	holder=381403	# 1375–1389 Jean II de Talaru
+}    
+1389.1.1 = {
+	holder=381404	# 1389–1415 Philippe de Thurey Avignon Obedience
+}        
+1415.1.1 = {
+	holder=381405	# 1417–1444 Amédée de Talaru
+}    
+1444.2.11 = {
+	holder=381406 # 1444–1446 Geoffroy II de Versailles
+}    
+1446.1.1 = {
+	holder=370684 # 1447–1488 Charles II of Bourbon
+}
+1488.9.13 = {
+	holder=381407	# 1488–1499 Hugues II de Talaru
+}   
+1499.1.1 = {
+	holder=381408	# 1499–1500 André d'Espinay (cardinal)
+}
+1500.1.1 = {
+	holder=381409	# 1501–1536 François de Rohan
+}    
+1537.1.1 = {
+	holder=372455	# 1537–1539 John, Cardinal of Lorraine
+}     
+1550.5.18 = {
+	holder=375407	# 1539–1551 Ippolito II d'Este Administrator
+}   
+1551.1.1={
+	holder=381410   # 1551–1562 Cardinal François de Tournon
+}
+1562.1.1 = {
+	holder=375407	# 1562–1564 Ippolito II d'Este Administrator
+}
+1564.1.1={
+	holder=381411	# 1564–1573 Antoine d'Albon
+}
+1573.1.1={
+	holder=381412	# 1573–1599 Pierre d'Epinac
+}
+1599.1.1={
+	holder=381413	# 1612–1626 Denis-Simon de Marquemont
+}  
+1626.1.1={
+	holder=381414	# 1626–1628 Charles Miron
+}   
+1628.1.1={
+	holder=381415	# 1628–1653 Alphonse-Louis du Plessis de Richelieu
+}   
+    

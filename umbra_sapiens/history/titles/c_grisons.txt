@@ -1,0 +1,276 @@
+768.1.1={
+	liege=d_swabia
+}
+768.1.1={
+	holder = 161742 #Hunfrid
+}
+808.1.1={
+	holder = 0
+}
+860.1.1={
+	liege="d_lombardia"
+}
+860.1.1={
+	holder=167974
+}
+1066.1.1=
+{
+holder=20299
+}
+1128.12.15=
+{
+holder=223597
+}
+1187.1.1=
+{
+holder=213020
+}
+1193.12.25={
+	liege="e_hre"
+}
+1200.1.1 = {
+	holder = 212506 #Philip I von Hohenstaufen
+}
+1208.6.21= {
+	holder = 212607 #Otto IV Welf
+}
+1212.7.5 = {
+	holder = 213135
+}
+1220.1.1 = {
+	liege = d_upper_burgundy
+}
+1240.1.1={
+	liege="d_lombardia"
+	holder=70753
+}
+1247.1.1=
+{
+holder=70762
+}
+1257.1.1=
+{
+holder=70765
+}
+1259.1.1=
+{
+holder=70744
+}
+1264.1.1=
+{
+holder=70766
+}
+1265.1.1=
+{
+holder=70755
+}
+1277.1.1=
+{
+holder=70770
+}
+1295.8.1=
+{
+holder=463145
+}
+1302.1.1=
+{
+holder=70759
+}
+1311.8.1=
+{
+holder=463145
+}
+1322.6.28=
+{
+holder=463141
+}
+1327.7.5=
+{
+holder=463140
+}
+1337.1.1=
+{
+holder=463140
+}
+1339.8.16={
+	holder=463147	#Luchino Visconti (died 1349)
+}
+1349.1.24={
+	holder=463146	#Giovanni Visconti (archbishop of Milan)
+}
+1354.10.5={
+	holder=463150	#Matteo II Visconti
+}
+1355.9.29={
+	holder=463151	#Galeazzo II Visconti
+}
+1378.8.4={
+	holder=463152	#Bernabò Visconti
+}
+1385.5.6={
+	holder=370753	#Gian Galeazzo Visconti
+}
+1402.9.3={
+	holder=370760	#Giovanni Maria Visconti
+}
+1412.5.16={
+	holder=370761	#Filippo Maria
+}
+1447.8.17={
+	holder=380873	# Giorgio Lampugnano
+	liege=k_ambrosian_republic
+}
+1449.9.8 = {
+	holder=380875	# Biagio Assereto
+}
+1450.2.25={
+	holder=371595 #Francesco I Sforza
+	liege=d_lombardia
+}
+1466.3.8={
+	holder=371605 #Galeazzo Maria Sforza
+}
+1476.12.26={
+	holder=371618 #Gian Galeazzo Sforza
+}
+1494.10.21={
+	holder=371610 #Ludovico Maria Sforza
+}
+1499.9.17={
+	holder=371092 #Louis XII
+	liege=k_france
+}
+1512.6.12={
+	holder=375491 #Maximilian Maria Sforza
+	liege=d_lombardia
+}
+1515.10.5={
+	holder=370977 #Francis I
+	liege=k_france
+}
+1521.11.20={
+	holder=375492 #Francesco II Sforza
+	liege=d_lombardia
+}
+1535.11.2={
+	holder=380895 #Antonio de Leyva
+	vice_royalty=yes
+	liege=e_espana_burgona
+}
+1536.9.7={
+	holder=380896 #Marino Caracciolo
+}
+1538.1.28={
+	holder=379859	#Alfonso III d'Avalos
+}
+1546.3.31={
+	holder=380907	#Álvaro de Luna y Bobadilla
+}
+1546.10.1={
+	holder=375427	#Ferrante I Gonzaga
+}
+1555.4.14={
+	holder=379598	#Fernando Álvarez de Toledo y Pimentel
+}
+1555.12.1={
+	holder=380931	#Cristoforo Madruzzo
+}
+1557.8.1={
+	holder=380932	#Juan de Figueroa
+}
+1558.4.24={
+	holder=380933	#Gonzalo Fernández de Córdoba y Fernández de Córdoba
+}
+1559.12.10={
+	holder=379821	#Francisco Fernando de Ávalos, marqués de Pescara
+}
+1561.9.1={
+	holder=380933	#Gonzalo Fernández de Córdoba y Fernández de Córdoba
+}
+1564.1.18={
+	holder=380558	#Gabriel III de la Cueva y Girón
+}
+1571.8.21={
+	holder=380934	#Alonso Pimentel
+}
+1571.9.8={
+	holder=380935	#Álvaro de Sande
+}
+1571.12.8={
+	holder=380936	#Luis de Requesens y Zúñiga
+}
+1573.9.1={
+	holder=380937	#Antonio de Zúñiga Guzmán y Sotomayor
+}
+1580.4.20={
+	holder=380938	#Sancho de Guevara y Padilla
+}
+1581.3.27={
+	holder=380154	#Alonso de Guzmán y Sotomayor, 7th Duke of Medina Sidonia
+}
+1581.10.15={
+	holder=380947	#Carlos de Aragón y Tagliavia
+}
+1592.5.10={
+	holder=380660	#Juan Fernández de Velasco y Tovar
+}
+1595.3.1={
+	holder=380939	#Pedro de Padilla
+}
+1595.11.1={
+	holder=380660	#Juan Fernández de Velasco y Tovar
+}
+1600.4.20={
+	holder=380660	#Pedro Enríquez de Acevedo, conde Fuentes
+}
+1610.7.22={
+	holder=380940	#Diego de Portugal
+}
+1610.10.2={
+	holder=380660	#Juan Fernández de Velasco y Tovar
+}
+1612.5.4={
+	holder=380497	#Juan de Mendoza y Velasco
+}
+1614.8.1={
+	holder=380922	#Sancho de Luna y Rojas
+}
+1614.11.1={
+	holder=380497	#Juan de Mendoza y Velasco,
+}
+1615.9.26={
+	holder=380941	#Pedro Álvarez de Toledo Osorio y Colonna
+}
+1618.2.13={
+	holder=380285	#Gomes Suárez de Figueroa y Córdoba, duque de Feria
+}
+1626.3.31={
+	holder=380942	#Gonzalo Fernández de Córdoba, príncipe de Maratea
+}
+1627.10.14={
+	holder=379812	#Ferdinando Afán de Ribera y Enríquez, duque de Alcalá
+}
+1628.3.17={
+	holder=380942	#Gonzalo Fernández de Córdoba, príncipe de Maratea
+}
+1629.7.16={
+	holder=380943	#Ambrosio Spinola, marqués de los Balbases
+}
+1630.9.20={
+	holder=380944	#Álvaro de Bazán y Benavides, marqués de Santa Cruz
+}
+1631.4.18={
+	holder=380285	#Gomes IV Suárez de Figueroa y Córdoba, duque de Feria
+}
+1633.1.22={
+	holder=372609	#Fernando de Austria, cardenal e infante de España
+}
+1635.7.11={
+	holder=379812	#Ferdinando Afán de Ribera y Enríquez, duque de Alcalá
+}
+1635.9.24={
+	holder=380945	#Diego Mexía Felípez de Guzmán, marqués de Leganés
+}
+1640.12.19={
+	holder=380946	#Juan Velasco de la Cueva y Pacheco, conde Siruela 	
+}

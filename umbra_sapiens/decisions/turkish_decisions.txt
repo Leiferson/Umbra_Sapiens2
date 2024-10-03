@@ -1,0 +1,139 @@
+decisions = {
+	kill_off_brothers = { 
+		only_independent = yes
+		is_high_prio = yes
+		
+		potential = {
+			is_nomadic = no
+			is_playable = yes
+			has_landed_title = e_ottomans
+			NOT = { has_character_flag = killed_off_brothers }
+			any_close_relative = {
+			has_claim = e_ottomans
+			}
+		}
+		allow = {
+		piety >= 250		
+		}
+		effect = {
+			piety = -250
+			set_character_flag = killed_off_brothers
+			any_close_relative = {
+			limit = {
+			NOT = { is_child_of = ROOT }
+			has_claim = e_ottomans
+			is_female = no
+			}
+			any_spouse = {
+			death = {
+			death_reason = death_execution
+			killer = ROOT
+					}
+			}
+			death = {
+			death_reason = death_execution
+			killer = ROOT
+					}
+			}
+			father_even_if_dead = { 
+			any_spouse = {
+			limit = { NOT = { is_mother = ROOT } }
+			death = {
+			death_reason = death_execution
+			killer = ROOT
+					}
+			}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		modifier = {
+				factor = 0
+				OR = {
+				trait = kind
+				trait = trusting
+				}
+			}
+		}
+	}
+claim_istanbul = { 
+		only_independent = yes
+		is_high_prio = yes
+		
+		potential = {
+			is_nomadic = no
+			is_playable = yes
+			has_landed_title = e_ottomans
+			NOT = { has_landed_title = c_byzantion }
+			any_realm_lord = { 
+				ai = yes
+				has_landed_title = c_byzantion 
+			}
+		}
+		allow = {
+			NOT = { has_landed_title = c_byzantion }
+			any_realm_lord = { 
+				has_landed_title = c_byzantion 
+			}
+		}
+		effect = {
+			ROOT = {
+				c_byzantion = {
+					usurp_title_plus_barony_if_unlanded_and_vassals = PREV
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	organize_janissary_ocak = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 24
+		
+		potential = {
+			year = 1362
+			is_playable = yes
+			independent = yes
+			prisoner = no
+			is_adult = yes
+			NOT = { trait = incapable }
+			OR = {
+				has_landed_title = k_ottoman
+				has_landed_title = e_ottomans
+			}
+			NOT = { has_global_flag = janissary_ocak_founded }
+		}
+		allow = {
+			prestige = 300
+			wealth = 300
+		}
+		effect = {
+			set_global_flag = janissary_ocak_founded
+			prestige = -300
+			wealth = -300
+			activate_title = { title = d_janissary_ocak status = yes }
+			hidden_tooltip = {
+				create_character = {
+						random_traits = yes
+						religion = sunni
+						culture = turkish
+						dynasty = NONE
+						female = no
+						age = 30
+						trait = skilled_tactician
+					}
+				new_character = {
+					d_janissary_ocak = {
+						grant_title = PREV
+					}
+					set_defacto_liege = ROOT
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

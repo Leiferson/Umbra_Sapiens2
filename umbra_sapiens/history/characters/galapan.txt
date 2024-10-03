@@ -1,0 +1,1408 @@
+1019930739={
+	name=Villac
+	dynasty=1009990275
+	dna="egofbabaege"
+	culture=galapan religion=muisca_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	add_trait=flamboyant_schemer add_trait=gardener add_trait=trusting add_trait=cynical add_trait=honest 
+	
+	640.5.15={ birth=yes }
+	715.7.16={ death=yes }
+}
+1019930740={
+	name=Chia
+	female=yes
+	dynasty=1009990275
+	dna="fgoibmdaocp"
+	culture=galapan religion=muisca_pagan
+	father=1019930739	#Villac
+	670.8.17={ birth=yes }
+	722.7.26={ death=yes }
+}
+1019930741={
+	name=Ana
+	female=yes
+	dynasty=1009990275
+	dna="fgofiaocegg"
+	culture=galapan religion=muisca_pagan
+	father=1019930739	#Villac
+	676.3.14={ birth=yes }
+	745.12.10={ death=yes }
+}
+1019930742={
+	name=Coyllas
+	dynasty=1009990275
+	dna="egefbpigimf"
+	culture=galapan religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=8 learning=8
+	add_trait=grey_eminence add_trait=proud add_trait=charitable 
+	father=1019930739	#Villac
+	683.3.26={ birth=yes }
+	760.11.18={ death=yes }
+}
+1019930743={
+	name=Pomaguala
+	dynasty=1009990275
+	dna="igefmpigidb"
+	culture=galapan religion=muisca_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=6 learning=6
+	add_trait=scholarly_theologian add_trait=greedy add_trait=wroth add_trait=lunatic 
+	father=1019930742	#Coyllas
+	712.1.5={ birth=yes }
+	784.7.29={ death=yes }
+}
+1019930744={
+	name=China
+	female=yes
+	dynasty=1009990275
+	dna="mghfmdngcmf"
+	culture=galapan religion=muisca_pagan
+	father=1019930742	#Coyllas
+	715.1.23={ birth=yes }
+	788.10.2={ death=yes }
+}
+1019930745={
+	name=Kantuta
+	female=yes
+	dynasty=1009990275
+	dna="emkempiofib"
+	culture=galapan religion=muisca_pagan
+	father=1019930743	#Pomaguala
+	738.9.7={ birth=yes }
+	798.1.10={ death=yes }
+}
+1019930746={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="igffppigkkf"
+	culture=galapan religion=muisca_pagan
+	father=1019930743	#Pomaguala
+	743.9.15={ birth=yes }
+	796.10.9={ death=yes }
+}
+1019930747={
+	name=Axomamma
+	female=yes
+	dynasty=1009990275
+	dna="fefffpigipi"
+	culture=galapan religion=muisca_pagan
+	father=1019930743	#Pomaguala
+	747.2.19={ birth=yes }
+	811.5.23={ death=yes }
+}
+1019930748={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990275
+	dna="igbnnpipinb"
+	culture=galapan religion=muisca_pagan
+	father=1019930743	#Pomaguala
+	751.6.5={ birth=yes }
+	808.11.12={ death=yes }
+}
+1019930749={
+	name=Anquimarca
+	dynasty=1009990275
+	dna="iaepapcgodm"
+	culture=galapan religion=muisca_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=diligent add_trait=gluttonous add_trait=proud add_trait=just 
+	add_trait=fair 
+	father=1019930743	#Pomaguala
+	756.4.7={ birth=yes }
+	837.1.25={ death=yes }
+}
+1019930750={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="igejmpbnmkb"
+	culture=galapan religion=muisca_pagan
+	father=1019930743	#Pomaguala
+	759.11.26={ birth=yes }
+	833.10.3={ death=yes }
+}
+1019930751={
+	name=Taraque
+	dynasty=1009990275
+	dna="idcafpbggoh"
+	culture=galapan religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=gardener add_trait=patient add_trait=humble add_trait=just 
+	 add_trait=gluttonous 
+	father=1019930749	#Anquimarca
+	787.5.24={ birth=yes }
+	848.4.16={ death=yes }
+}
+1019930752={
+	name=Maiara
+	female=yes
+	dynasty=1009990275
+	dna="iolaafhgfha"
+	culture=galapan religion=muisca_pagan
+	father=1019930749	#Anquimarca
+	791.4.23={ birth=yes }
+	866.11.22={ death=yes }
+}
+1019930753={
+	name=Ninan
+	dynasty=1009990275
+	dna="ialldjbgodm"
+	culture=galapan religion=muisca_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	add_trait=scholarly_theologian add_trait=wroth add_trait=greedy add_trait=gluttonous add_trait=gregarious 
+	father=1019930749	#Anquimarca
+	798.1.14={ birth=yes }
+	862.2.8={ death=yes }
+}
+1019930754={
+	name=Sahuaraura
+	dynasty=1009990275
+	dna="iokafbbbgjp"
+	culture=galapan religion=muisca_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=5
+	add_trait=flamboyant_schemer add_trait=proud add_trait=slothful add_trait=honest add_trait=content 
+	add_trait=trusting add_trait=patient 
+	father=1019930751	#Taraque
+	814.6.2={ birth=yes }
+	886.10.12={ death=yes }
+}
+1019930755={
+	name=China
+	female=yes
+	dynasty=1009990275
+	dna="agbkfoagjoi"
+	culture=galapan religion=muisca_pagan
+	father=1019930751	#Taraque
+	819.9.10={ birth=yes }
+	896.6.2={ death=yes }
+}
+1019930756={
+	name=Ana
+	female=yes
+	dynasty=1009990275
+	dna="ligaflbggkc"
+	culture=galapan religion=muisca_pagan
+	father=1019930751	#Taraque
+	822.10.17={ birth=yes }
+	903.2.6={ death=yes }
+}
+1019930757={
+	name=Anquimarca
+	dynasty=1009990275
+	dna="iokafjibgdf"
+	culture=galapan religion=muisca_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=4 learning=7
+	add_trait=skilled_tactician add_trait=envious add_trait=charitable add_trait=deceitful add_trait=patient 
+	father=1019930754	#Sahuaraura
+	844.4.5={ birth=yes }
+	928.6.15={ death=yes }
+}
+1019930758={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="ioolhpobhjf"
+	culture=galapan religion=muisca_pagan
+	father=1019930754	#Sahuaraura
+	851.7.27={ birth=yes }
+	917.1.15={ death=yes }
+}
+1019930759={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990275
+	dna="gokcfeciggb"
+	culture=galapan religion=muisca_pagan
+	father=1019930754	#Sahuaraura
+	856.8.16={ birth=yes }
+	921.12.9={ death=yes }
+}
+1019930760={
+	name=Kantuta
+	female=yes
+	dynasty=1009990275
+	dna="flbafilbpfp"
+	culture=galapan religion=muisca_pagan
+	father=1019930754	#Sahuaraura
+	859.3.24={ birth=yes }
+	932.5.18={ death=yes }
+}
+1019930761={
+	name=Huaypalcon
+	dynasty=1009990275
+	dna="cooahpjbidf"
+	culture=galapan religion=muisca_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=content add_trait=lustful add_trait=proud add_trait=craven 
+	add_trait=charitable 
+	father=1019930757	#Anquimarca
+	873.1.16={ birth=yes }
+	938.7.25={ death=yes }
+}
+1019930762={
+	name=Maiara
+	female=yes
+	dynasty=1009990275
+	dna="iokafjiphdh"
+	culture=galapan religion=muisca_pagan
+	father=1019930757	#Anquimarca
+	879.4.9={ birth=yes }
+	954.5.5={ death=yes }
+}
+1019930763={
+	name=Ninan
+	dynasty=1009990275
+	dna="iokagjilghp"
+	culture=galapan religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	add_trait=midas_touched  add_trait=diligent add_trait=cynical add_trait=content 
+	add_trait=ill 
+	father=1019930757	#Anquimarca
+	884.2.2={ birth=yes }
+	953.10.10={ death=yes }
+}
+1019930764={
+	name=Ninan
+	dynasty=1009990275
+	dna="kcoajpbgcoc"
+	culture=galapan religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=7
+	add_trait=skilled_tactician add_trait=cynical add_trait=craven add_trait=patient 
+	father=1019930761	#Huaypalcon
+	893.3.7={ birth=yes }
+	977.11.26={ death=yes }
+}
+1019930765={
+	name=Zambiza
+	dynasty=1009990275
+	dna="cooafpfkiif"
+	culture=galapan religion=muisca_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=5
+	add_trait=detached_priest add_trait=honest add_trait=zealous add_trait=brave 
+	father=1019930761	#Huaypalcon
+	899.4.24={ birth=yes }
+	965.2.11={ death=yes }
+}
+1019930766={
+	name=China
+	female=yes
+	dynasty=1009990275
+	dna="eobihejbmdf"
+	culture=galapan religion=muisca_pagan
+	father=1019930761	#Huaypalcon
+	904.1.16={ birth=yes }
+	985.12.5={ death=yes }
+}
+1019930767={
+	name=Ana
+	female=yes
+	dynasty=1009990275
+	dna="cooahplbihf"
+	culture=galapan religion=muisca_pagan
+	father=1019930761	#Huaypalcon
+	910.3.21={ birth=yes }
+	991.7.27={ death=yes }
+}
+1019930768={
+	name=Luyes
+	dynasty=1009990275
+	dna="poehhdjbidf"
+	culture=galapan religion=muisca_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=4 learning=8
+	add_trait=tough_soldier add_trait=arbitrary add_trait=paranoid 
+	father=1019930761	#Huaypalcon
+	912.1.4={ birth=yes }
+	993.2.10={ death=yes }
+}
+1019930769={
+	name=Taraque
+	dynasty=1009990275
+	dna="econkpggmog"
+	culture=galapan religion=muisca_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	add_trait=indulgent_wastrel add_trait=slothful add_trait=trusting add_trait=cynical 
+	add_trait=quick 
+	father=1019930764	#Ninan
+	917.12.3={ birth=yes }
+	976.2.2={ death=yes }
+}
+1019930770={
+	name=Yupanqui
+	dynasty=1009990275
+	dna="kcokkjbacff"
+	culture=galapan religion=muisca_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=7
+	add_trait=detached_priest add_trait=trusting  add_trait=gregarious add_trait=zealous 
+	add_trait=gluttonous add_trait=proud 
+	father=1019930764	#Ninan
+	921.4.19={ birth=yes }
+	978.11.25={ death=yes }
+}
+1019930771={
+	name=Umu
+	dynasty=1009990275
+	dna="ojoacomokih"
+	culture=galapan religion=muisca_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=7 learning=5
+	add_trait=indulgent_wastrel add_trait=hunter add_trait=proud add_trait=diligent 
+	add_trait=wroth add_trait=envious add_trait=content 
+	father=1019930764	#Ninan
+	926.3.21={ birth=yes }
+	984.5.18={ death=yes }
+}
+1019930772={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="hcodjplafoh"
+	culture=galapan religion=muisca_pagan
+	father=1019930764	#Ninan
+	930.3.5={ birth=yes }
+	1016.12.18={ death=yes }
+}
+1019930773={
+	name=Atoc
+	dynasty=1009990275
+	dna="ecoicnegfcm"
+	culture=galapan religion=muisca_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=4
+	add_trait=grey_eminence add_trait=gardener add_trait=proud  add_trait=zealous 
+	add_trait=shy add_trait=brave 
+	father=1019930769	#Taraque
+	941.8.8={ birth=yes }
+	1008.4.12={ death=yes }
+}
+1019930774={
+	name=China
+	female=yes
+	dynasty=1009990275
+	dna="eoonnpagpjg"
+	culture=galapan religion=muisca_pagan
+	father=1019930769	#Taraque
+	944.10.3={ birth=yes }
+	1009.9.7={ death=yes }
+}
+1019930775={
+	name=Usca
+	dynasty=1009990275
+	dna="bchkkplaegg"
+	culture=galapan religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=temperate add_trait=envious add_trait=humble add_trait=trusting 
+	add_trait=deceitful add_trait=quick 
+	father=1019930769	#Taraque
+	947.4.2={ birth=yes }
+	1028.4.4={ death=yes }
+}
+1019930776={
+	name=Huachuri
+	dynasty=1009990275
+	dna="pcpnkaggmdg"
+	culture=galapan religion=muisca_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=arbitrary add_trait=diligent add_trait=humble 
+	father=1019930769	#Taraque
+	952.3.17={ birth=yes }
+	1005.4.13={ death=yes }
+}
+1019930777={
+	name=Ruminavi
+	dynasty=1009990275
+	dna="ahoikojlmai"
+	culture=galapan religion=muisca_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=zealous add_trait=content add_trait=envious add_trait=wroth 
+	father=1019930769	#Taraque
+	955.7.12={ birth=yes }
+	1034.2.2={ death=yes }
+}
+1019930778={
+	name=Ninan
+	dynasty=1009990275
+	dna="ebomlnedfom"
+	culture=galapan religion=muisca_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=7 learning=8
+	add_trait=elusive_shadow add_trait=shy add_trait=wroth add_trait=deceitful add_trait=diligent 
+	father=1019930773	#Atoc
+	968.3.11={ birth=yes }
+	1023.1.12={ death=yes }
+}
+1019930779={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990275
+	dna="gcoofnnknlm"
+	culture=galapan religion=muisca_pagan
+	father=1019930773	#Atoc
+	974.11.21={ birth=yes }
+	1027.11.11={ death=yes }
+}
+1019930780={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="iejfcfeiffc"
+	culture=galapan religion=muisca_pagan
+	father=1019930773	#Atoc
+	977.7.17={ birth=yes }
+	1059.3.15={ death=yes }
+}
+1019930781={
+	name=Yamqui
+	dynasty=1009990275
+	dna="emkicleffcm"
+	culture=galapan religion=muisca_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	add_trait=intricate_webweaver add_trait=poet add_trait=gluttonous add_trait=proud add_trait=charitable 
+	add_trait=shy 
+	father=1019930773	#Atoc
+	982.1.9={ birth=yes }
+	1066.6.19={ death=yes }
+}
+1019930782={
+	name=Ruminavi
+	dynasty=1009990275
+	dna="abopmnjpfgo"
+	culture=galapan religion=muisca_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=5 learning=4
+	add_trait=flamboyant_schemer add_trait=impaler add_trait=content add_trait=wroth 
+	father=1019930778	#Ninan
+	993.8.24={ birth=yes }
+	1054.4.16={ death=yes }
+}
+1019930783={
+	name=Varanca
+	dynasty=1009990275
+	dna="jgomanadoom"
+	culture=galapan religion=muisca_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=slothful add_trait=shy add_trait=paranoid add_trait=charitable 
+	father=1019930778	#Ninan
+	996.5.25={ birth=yes }
+	1063.8.21={ death=yes }
+}
+1019930784={
+	name=Cuyuchi
+	dynasty=1009990275
+	dna="eccmlnmdffj"
+	culture=galapan religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=arbitrary add_trait=trusting add_trait=charitable add_trait=slothful 
+	add_trait=temperate 
+	father=1019930778	#Ninan
+	1001.5.3={ birth=yes }
+	1058.6.25={ death=yes }
+}
+1019930785={
+	name=China
+	female=yes
+	dynasty=1009990275
+	dna="egomllegfcf"
+	culture=galapan religion=muisca_pagan
+	father=1019930778	#Ninan
+	1005.11.24={ birth=yes }
+	1087.9.23={ death=yes }
+}
+1019930786={
+	name=Sahuaraura
+	dynasty=1009990275
+	dna="dnmognhcmkm"
+	culture=galapan religion=muisca_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=7 learning=7
+	add_trait=elusive_shadow add_trait=slothful add_trait=greedy add_trait=proud add_trait=paranoid 
+	father=1019930778	#Ninan
+	1008.10.27={ birth=yes }
+	1083.5.6={ death=yes }
+}
+1019930787={
+	name=Orco
+	dynasty=1009990275
+	dna="eohmkneffhm"
+	culture=galapan religion=muisca_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=6 learning=6
+	add_trait=mastermind_theologian add_trait=humble add_trait=charitable add_trait=lisp 
+	father=1019930778	#Ninan
+	1014.7.14={ birth=yes }
+	1083.5.4={ death=yes }
+}
+1019930788={
+	name=Axomamma
+	female=yes
+	dynasty=1009990275
+	dna="ibepmhkpdgi"
+	culture=galapan religion=muisca_pagan
+	father=1019930782	#Ruminavi
+	1017.5.16={ birth=yes }
+	1072.10.31={ death=yes }
+}
+1019930789={
+	name=Huachuri
+	dynasty=1009990275
+	dna="ikoopncpbgn"
+	culture=galapan religion=muisca_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=charitable add_trait=envious add_trait=arbitrary add_trait=gluttonous 
+	father=1019930782	#Ruminavi
+	1021.1.24={ birth=yes }
+	1077.7.8={ death=yes }
+}
+1019930790={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990275
+	dna="aboppnipfpo"
+	culture=galapan religion=muisca_pagan
+	father=1019930782	#Ruminavi
+	1027.7.4={ birth=yes }
+	1108.12.17={ death=yes }
+}
+1019930791={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="anippejjegi"
+	culture=galapan religion=muisca_pagan
+	father=1019930782	#Ruminavi
+	1034.1.7={ birth=yes }
+	1095.2.7={ death=yes }
+}
+1019930792={
+	name=Ninan
+	dynasty=1009990275
+	dna="ikoikocpbgj"
+	culture=galapan religion=muisca_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=temperate add_trait=brave add_trait=chaste add_trait=lunatic 
+	father=1019930789	#Huachuri
+	1048.4.11={ birth=yes }
+	1118.5.6={ death=yes }
+}
+1019930793={
+	name=Axomamma
+	female=yes
+	dynasty=1009990275
+	dna="ikooahmpolb"
+	culture=galapan religion=muisca_pagan
+	father=1019930789	#Huachuri
+	1056.8.27={ birth=yes }
+	1136.6.30={ death=yes }
+}
+1019930794={
+	name=Ana
+	female=yes
+	dynasty=1009990275
+	dna="ikoojcepbdp"
+	culture=galapan religion=muisca_pagan
+	father=1019930789	#Huachuri
+	1060.3.14={ birth=yes }
+	1135.9.15={ death=yes }
+}
+1019930795={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="mfooioaobgn"
+	culture=galapan religion=muisca_pagan
+	father=1019930789	#Huachuri
+	1062.2.21={ birth=yes }
+	1125.12.28={ death=yes }
+}
+1019930796={
+	name=Marcavilca
+	dynasty=1009990275
+	dna="iioikocmlgj"
+	culture=galapan religion=muisca_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=4
+	add_trait=martial_cleric add_trait=chaste add_trait=proud add_trait=patient add_trait=charitable 
+	add_trait=gluttonous 
+	father=1019930792	#Ninan
+	1077.5.7={ birth=yes }
+	1139.1.14={ death=yes }
+}
+1019930797={
+	name=Axomamma
+	female=yes
+	dynasty=1009990275
+	dna="imonhjhpdgj"
+	culture=galapan religion=muisca_pagan
+	father=1019930792	#Ninan
+	1083.12.5={ birth=yes }
+	1151.12.4={ death=yes }
+}
+1019930798={
+	name=Ana
+	female=yes
+	dynasty=1009990275
+	dna="dkoakmcjcgj"
+	culture=galapan religion=muisca_pagan
+	father=1019930792	#Ninan
+	1087.9.1={ birth=yes }
+	1142.12.22={ death=yes }
+}
+1019930799={
+	name=China
+	female=yes
+	dynasty=1009990275
+	dna="gdoakbaphhj"
+	culture=galapan religion=muisca_pagan
+	father=1019930792	#Ninan
+	1093.6.26={ birth=yes }
+	1168.11.9={ death=yes }
+}
+1019930800={
+	name=Cuyuchi
+	dynasty=1009990275
+	dna="iiciiocfngj"
+	culture=galapan religion=caran_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=7 learning=6
+	add_trait=skilled_tactician add_trait=impaler add_trait=content add_trait=brave  
+	add_trait=greedy add_trait=humble add_trait=diligent 
+	father=1019930796	#Marcavilca
+	1106.6.19={ birth=yes }
+	1184.5.8={ death=yes }
+}
+1019930801={
+	name=Sahuaraura
+	dynasty=1009990275
+	dna="iiankocingj"
+	culture=galapan religion=caran_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=5 learning=6
+	add_trait=scholarly_theologian add_trait=chaste add_trait=gregarious add_trait=patient 
+	father=1019930796	#Marcavilca
+	1110.2.10={ birth=yes }
+	1173.5.8={ death=yes }
+}
+1019930802={
+	name=Coyllas
+	dynasty=1009990275
+	dna="iinbnmcdlij"
+	culture=galapan religion=caran_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=4 learning=6
+	add_trait=indulgent_wastrel add_trait=trusting add_trait=chaste add_trait=envious add_trait=diligent 
+	add_trait=clubfooted 
+	father=1019930796	#Marcavilca
+	1116.5.18={ birth=yes }
+	1202.4.5={ death=yes }
+}
+1019930803={
+	name=Sopa
+	dynasty=1009990275
+	dna="hbaiiocfpge"
+	culture=galapan religion=caran_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=cynical add_trait=wroth add_trait=slothful 
+	add_trait=greedy add_trait=proud 
+	father=1019930800	#Cuyuchi
+	1139.2.11={ birth=yes }
+	1198.12.27={ death=yes }
+}
+1019930804={
+	name=Cusichaca
+	dynasty=1009990275
+	dna="iicioemgngf"
+	culture=galapan religion=caran_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=midas_touched add_trait=greedy add_trait=trusting add_trait=slothful add_trait=wroth 
+	add_trait=brave add_trait=content add_trait=harelip 
+	father=1019930800	#Cuyuchi
+	1144.1.12={ birth=yes }
+	1209.12.11={ death=yes }
+}
+1019930805={
+	name=Axomamma
+	female=yes
+	dynasty=1009990275
+	dna="iicncnccjgc"
+	culture=galapan religion=caran_pagan
+	father=1019930800	#Cuyuchi
+	1149.5.25={ birth=yes }
+	1219.2.7={ death=yes }
+}
+1019930806={
+	name=Sopa
+	dynasty=1009990275
+	dna="ppciaocfclj"
+	culture=galapan religion=caran_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=slothful add_trait=patient 
+	add_trait=brave add_trait=drunkard 
+	father=1019930800	#Cuyuchi
+	1155.7.9={ birth=yes }
+	1228.3.9={ death=yes }
+}
+1019930807={
+	name=Pascac
+	dynasty=1009990275
+	dna="heicfjjfpge"
+	culture=galapan religion=caran_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=diligent add_trait=zealous add_trait=trusting  
+	add_trait=arbitrary add_trait=depressed 
+	father=1019930803	#Sopa
+	1169.5.26={ birth=yes }
+	1228.6.12={ death=yes }
+}
+1019930808={
+	name=Chia
+	female=yes
+	dynasty=1009990275
+	dna="fbniidcecjn"
+	culture=galapan religion=caran_pagan
+	father=1019930803	#Sopa
+	1174.4.12={ birth=yes }
+	1250.12.7={ death=yes }
+}
+1019930809={
+	name=Atoc
+	dynasty=1009990275
+	dna="egimfokebgg"
+	culture=galapan religion=caran_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=8 learning=5
+	add_trait=grey_eminence add_trait=patient add_trait=deceitful add_trait=ambitious add_trait=zealous 
+	add_trait=envious add_trait=chaste 
+	father=1019930807	#Pascac
+	1192.3.21={ birth=yes }
+	1272.11.11={ death=yes }
+}
+1019930810={
+	name=Varanca
+	dynasty=1009990275
+	dna="hepcfbifpce"
+	culture=galapan religion=caran_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=hedonist add_trait=envious add_trait=diligent add_trait=wroth 
+	father=1019930807	#Pascac
+	1196.12.1={ birth=yes }
+	1279.12.9={ death=yes }
+}
+1019930811={
+	name=Ana
+	female=yes
+	dynasty=1009990275
+	dna="hhfgebhhage"
+	culture=galapan religion=caran_pagan
+	father=1019930807	#Pascac
+	1200.6.13={ birth=yes }
+	1262.10.1={ death=yes }
+}
+1019930812={
+	name=Usca
+	dynasty=1009990275
+	dna="egnnggkekeg"
+	culture=galapan religion=caran_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=proud add_trait=just add_trait=chaste add_trait=deceitful 
+	father=1019930809	#Atoc
+	1225.8.7={ birth=yes }
+	1300.1.28={ death=yes }
+}
+1019930813={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="hahkfokpeob"
+	culture=galapan religion=caran_pagan
+	father=1019930809	#Atoc
+	1231.8.2={ birth=yes }
+	1292.7.15={ death=yes }
+}
+1019930814={
+	name=China
+	female=yes
+	dynasty=1009990275
+	dna="eifmjakemga"
+	culture=galapan religion=caran_pagan
+	father=1019930809	#Atoc
+	1237.1.2={ birth=yes }
+	1312.4.9={ death=yes }
+}
+1019930815={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="fgimbgkebgp"
+	culture=galapan religion=caran_pagan
+	father=1019930809	#Atoc
+	1243.2.15={ birth=yes }
+	1312.6.3={ death=yes }
+}
+1019930816={
+	name=Chia
+	female=yes
+	dynasty=1009990275
+	dna="fjiciakgkoh"
+	culture=galapan religion=caran_pagan
+	father=1019930812	#Usca
+	1252.9.26={ birth=yes }
+	1332.12.23={ death=yes }
+}
+1019930817={
+	name=Coyllas
+	dynasty=1009990275
+	dna="eenpmgkbjei"
+	culture=galapan religion=caran_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=4 learning=4
+	add_trait=flamboyant_schemer add_trait=envious add_trait=shy add_trait=charitable add_trait=gluttonous 
+	father=1019930812	#Usca
+	1258.4.21={ birth=yes }
+	1342.11.14={ death=yes }
+}
+1019930818={
+	name=Maiara
+	female=yes
+	dynasty=1009990275
+	dna="mmancipikel"
+	culture=galapan religion=caran_pagan
+	father=1019930812	#Usca
+	1261.1.16={ birth=yes }
+	1315.9.20={ death=yes }
+}
+1019930819={
+	name=Ninan
+	dynasty=1009990275
+	dna="epaejfkgjeh"
+	culture=galapan religion=caran_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=impaler add_trait=honest add_trait=content add_trait=lustful 
+	add_trait=gregarious add_trait=wounded add_trait=possessed add_trait=ugly 
+	father=1019930817	#Coyllas
+	1279.10.24={ birth=yes }
+	1340.2.16={ death=yes }
+}
+1019930820={
+	name=Surandaman
+	dynasty=1009990275
+	dna="eljmkpkmjep"
+	culture=galapan religion=caran_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=8 learning=8
+	add_trait=grey_eminence add_trait=impaler add_trait=zealous add_trait=slothful add_trait=paranoid 
+	father=1019930817	#Coyllas
+	1284.10.14={ birth=yes }
+	1353.9.25={ death=yes }
+}
+1019930821={
+	name=Axomamma
+	female=yes
+	dynasty=1009990275
+	dna="einamgcbjen"
+	culture=galapan religion=caran_pagan
+	father=1019930817	#Coyllas
+	1289.6.4={ birth=yes }
+	1351.1.2={ death=yes }
+}
+1019930822={
+	name=Guaritopa
+	dynasty=1009990275
+	dna="eklpdgkaemd"
+	culture=galapan religion=caran_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=temperate add_trait=ambitious add_trait=lustful  
+	add_trait=greedy 
+	father=1019930817	#Coyllas
+	1293.1.15={ birth=yes }
+	1363.9.18={ death=yes }
+}
+1019930823={
+	name=Axomamma
+	female=yes
+	dynasty=1009990275
+	dna="eeppmgnfjei"
+	culture=galapan religion=caran_pagan
+	father=1019930817	#Coyllas
+	1297.5.12={ birth=yes }
+	1367.10.2={ death=yes }
+}
+1019930824={
+	name=Pumi
+	dynasty=1009990275
+	dna="eenpmgkbjei"
+	culture=galapan religion=caran_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=5 learning=6
+	add_trait=skilled_tactician add_trait=gardener add_trait=humble add_trait=temperate 
+	add_trait=just add_trait=ill 
+	father=1019930817	#Coyllas
+	1302.9.23={ birth=yes }
+	1362.10.20={ death=yes }
+}
+1019930825={
+	name=Zopahua
+	dynasty=1009990275
+	dna="epfihfkejef"
+	culture=galapan religion=caran_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=7 learning=8
+	add_trait=misguided_warrior add_trait=diligent add_trait=craven add_trait=shy 
+	father=1019930819	#Ninan
+	1299.1.13={ birth=yes }
+	1371.7.4={ death=yes }
+}
+1019930826={
+	name=Umu
+	dynasty=1009990275
+	dna="epaijakfjga"
+	culture=galapan religion=caran_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=just add_trait=trusting add_trait=ambitious add_trait=diligent 
+	add_trait=craven 
+	father=1019930819	#Ninan
+	1303.1.22={ birth=yes }
+	1358.8.29={ death=yes }
+}
+1019930827={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="fpcejfmnone"
+	culture=galapan religion=caran_pagan
+	father=1019930819	#Ninan
+	1307.12.27={ birth=yes }
+	1362.8.23={ death=yes }
+}
+1019930828={
+	name=Chia
+	female=yes
+	dynasty=1009990275
+	dna="apfcbfooebh"
+	culture=galapan religion=caran_pagan
+	father=1019930819	#Ninan
+	1310.5.19={ birth=yes }
+	1393.9.26={ death=yes }
+}
+1019930829={
+	name=Marcavilca
+	dynasty=1009990275
+	dna="ekalgjkggph"
+	culture=galapan religion=caran_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=mystic add_trait=honest add_trait=patient add_trait=cynical 
+	add_trait=trusting add_trait=brave 
+	father=1019930819	#Ninan
+	1314.10.7={ birth=yes }
+	1383.3.25={ death=yes }
+}
+1019930830={
+	name=Atoc
+	dynasty=1009990275
+	dna="npfkgfnepeh"
+	culture=galapan religion=caran_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=poet add_trait=humble add_trait=greedy add_trait=gluttonous 
+	add_trait=envious 
+	father=1019930825	#Zopahua
+	1320.6.24={ birth=yes }
+	1397.7.4={ death=yes }
+}
+1019930831={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990275
+	dna="cafimfkeodo"
+	culture=galapan religion=caran_pagan
+	father=1019930825	#Zopahua
+	1323.2.4={ birth=yes }
+	1409.5.11={ death=yes }
+}
+1019930832={
+	name=Ninan
+	dynasty=1009990275
+	dna="edgjmfkejlj"
+	culture=galapan religion=caran_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=6 learning=8
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=gluttonous add_trait=chaste add_trait=just 
+	father=1019930825	#Zopahua
+	1326.11.23={ birth=yes }
+	1396.12.31={ death=yes }
+}
+1019930833={
+	name=Atoc
+	dynasty=1009990275
+	dna="epfibokajef"
+	culture=galapan religion=caran_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=hedonist add_trait=wroth  
+	add_trait=shy add_trait=ill 
+	father=1019930825	#Zopahua
+	1332.9.14={ birth=yes }
+	1412.3.14={ death=yes }
+}
+1019930834={
+	name=Maiara
+	female=yes
+	dynasty=1009990275
+	dna="ecpjgfkejem"
+	culture=galapan religion=caran_pagan
+	father=1019930825	#Zopahua
+	1336.4.14={ birth=yes }
+	1405.6.11={ death=yes }
+}
+1019930835={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="cpelhhkekbf"
+	culture=galapan religion=caran_pagan
+	father=1019930825	#Zopahua
+	1340.6.12={ birth=yes }
+	1421.5.6={ death=yes }
+}
+1019930836={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="epfihicijfj"
+	culture=galapan religion=caran_pagan
+	father=1019930825	#Zopahua
+	1345.10.4={ birth=yes }
+	1415.7.24={ death=yes }
+}
+1019930837={
+	name=Ana
+	female=yes
+	dynasty=1009990275
+	dna="nodkgfmegcp"
+	culture=galapan religion=caran_pagan
+	father=1019930830	#Atoc
+	1340.5.15={ birth=yes }
+	1427.2.20={ death=yes }
+}
+1019930838={
+	name=Topa
+	dynasty=1009990275
+	dna="nbfgefngoeh"
+	culture=galapan religion=caran_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=diligent add_trait=cynical add_trait=proud add_trait=just 
+	add_trait=gluttonous add_trait=wounded 
+	father=1019930830	#Atoc
+	1344.6.2={ birth=yes }
+	1415.4.1={ death=yes }
+}
+1019930839={
+	name=Surandaman
+	dynasty=1009990275
+	dna="nefhlebjlef"
+	culture=galapan religion=caran_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=gregarious add_trait=patient add_trait=lunatic 
+	father=1019930830	#Atoc
+	1346.3.15={ birth=yes }
+	1405.12.8={ death=yes }
+}
+1019930840={
+	name=Chia
+	female=yes
+	dynasty=1009990275
+	dna="npbkhbdapnh"
+	culture=galapan religion=caran_pagan
+	father=1019930830	#Atoc
+	1351.9.16={ birth=yes }
+	1411.12.17={ death=yes }
+}
+1019930841={
+	name=Zambiza
+	dynasty=1009990275
+	dna="fmikgkpfceh"
+	culture=galapan religion=caran_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=8 learning=8
+	add_trait=scholarly_theologian add_trait=mystic add_trait=brave add_trait=ambitious add_trait=proud 
+	add_trait=arbitrary  
+	father=1019930830	#Atoc
+	1356.5.13={ birth=yes }
+	1426.10.14={ death=yes }
+}
+1019930842={
+	name=Ana
+	female=yes
+	dynasty=1009990275
+	dna="nmfckfnebkh"
+	culture=galapan religion=caran_pagan
+	father=1019930838	#Topa
+	1370.5.4={ birth=yes }
+	1423.5.12={ death=yes }
+}
+1019930843={
+	name=Taraque
+	dynasty=1009990275
+	dna="nbfgefnidec"
+	culture=galapan religion=caran_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=6
+	add_trait=grey_eminence  add_trait=cynical 
+	father=1019930838	#Topa
+	1377.4.26={ birth=yes }
+	1435.2.27={ death=yes }
+}
+1019930844={
+	name=Pascac
+	dynasty=1009990275
+	dna="ffogjankoep"
+	culture=galapan religion=caran_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=deceitful add_trait=diligent add_trait=cynical add_trait=temperate 
+	add_trait=brave 
+	father=1019930838	#Topa
+	1383.9.22={ birth=yes }
+	1454.4.2={ death=yes }
+}
+1019930845={
+	name=Anquimarca
+	dynasty=1009990275
+	dna="cgfgpfnhfcm"
+	culture=galapan religion=caran_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=gluttonous add_trait=humble add_trait=trusting add_trait=brave 
+	father=1019930838	#Topa
+	1387.6.5={ birth=yes }
+	1446.5.25={ death=yes }
+}
+1019930846={
+	name=Pumi
+	dynasty=1009990275
+	dna="hljgghngaec"
+	culture=galapan religion=caran_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=impaler add_trait=slothful add_trait=craven add_trait=gluttonous 
+	add_trait=paranoid 
+	father=1019930843	#Taraque
+	1405.3.9={ birth=yes }
+	1474.4.9={ death=yes }
+}
+1019930847={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="nbogekhidgc"
+	culture=galapan religion=caran_pagan
+	father=1019930843	#Taraque
+	1409.9.7={ birth=yes }
+	1474.11.13={ death=yes }
+}
+1019930848={
+	name=Ana
+	female=yes
+	dynasty=1009990275
+	dna="nbfeeflgdec"
+	culture=galapan religion=caran_pagan
+	father=1019930843	#Taraque
+	1414.10.3={ birth=yes }
+	1467.12.29={ death=yes }
+}
+1019930849={
+	name=Titu
+	dynasty=1009990275
+	dna="mlcighkgajc"
+	culture=galapan religion=caran_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=4 learning=6
+	add_trait=intricate_webweaver add_trait=mystic add_trait=charitable add_trait=patient 
+	add_trait=shy add_trait=craven add_trait=stressed 
+	father=1019930846	#Pumi
+	1430.9.16={ birth=yes }
+	1508.5.7={ death=yes }
+}
+1019930850={
+	name=Tucuycuyche
+	dynasty=1009990275
+	dna="clngghngagc"
+	culture=galapan religion=caran_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=arbitrary add_trait=chaste add_trait=proud add_trait=patient 
+	father=1019930846	#Pumi
+	1435.10.23={ birth=yes }
+	1512.1.12={ death=yes }
+}
+1019930851={
+	name=Quispe
+	dynasty=1009990275
+	dna="hlhdhkdgnci"
+	culture=galapan religion=caran_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=7
+	add_trait=midas_touched add_trait=scholar add_trait=humble add_trait=deceitful 
+	father=1019930846	#Pumi
+	1439.10.10={ birth=yes }
+	1499.1.21={ death=yes }
+}
+1019930852={
+	name=Axomamma
+	female=yes
+	dynasty=1009990275
+	dna="hljonaclacc"
+	culture=galapan religion=caran_pagan
+	father=1019930846	#Pumi
+	1443.8.16={ birth=yes }
+	1512.1.11={ death=yes }
+}
+1019930853={
+	name=Zambiza
+	dynasty=1009990275
+	dna="dlpgbhngaec"
+	culture=galapan religion=caran_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=lustful add_trait=trusting add_trait=honest add_trait=charitable 
+	father=1019930846	#Pumi
+	1449.2.12={ birth=yes }
+	1511.12.18={ death=yes }
+}
+1019930854={
+	name=Pomaguala
+	dynasty=1009990275
+	dna="pjdighkcanc"
+	culture=galapan religion=caran_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=4
+	add_trait=elusive_shadow add_trait=charitable add_trait=patient add_trait=diligent add_trait=ambitious 
+	add_trait=proud add_trait=deceitful 
+	father=1019930849	#Titu
+	1451.6.11={ birth=yes }
+	1532.6.30={ death=yes }
+}
+1019930855={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="pjccghkgdlc"
+	culture=galapan religion=caran_pagan
+	father=1019930849	#Titu
+	1455.2.8={ birth=yes }
+	1536.4.3={ death=yes }
+}
+1019930856={
+	name=China
+	female=yes
+	dynasty=1009990275
+	dna="mllglhhmhcc"
+	culture=galapan religion=caran_pagan
+	father=1019930849	#Titu
+	1461.8.1={ birth=yes }
+	1536.11.22={ death=yes }
+}
+1019930857={
+	name=Quispe
+	dynasty=1009990275
+	dna="dhciipkfhmf"
+	culture=galapan religion=caran_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=chaste add_trait=diligent add_trait=envious add_trait=arbitrary 
+	add_trait=shy add_trait=possessed 
+	father=1019930849	#Titu
+	1464.2.21={ birth=yes }
+	1546.8.6={ death=yes }
+}
+1019930858={
+	name=Chia
+	female=yes
+	dynasty=1009990275
+	dna="mjdigljgajc"
+	culture=galapan religion=caran_pagan
+	father=1019930849	#Titu
+	1468.4.20={ birth=yes }
+	1540.7.20={ death=yes }
+}
+1019930859={
+	name=Kantuta
+	female=yes
+	dynasty=1009990275
+	dna="ojhfehkpcnc"
+	culture=galapan religion=caran_pagan
+	father=1019930854	#Pomaguala
+	1470.8.25={ birth=yes }
+	1541.9.18={ death=yes }
+}
+1019930860={
+	name=Cusichaca
+	dynasty=1009990275
+	dna="poboaekcppl"
+	culture=galapan religion=caran_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=mystic add_trait=arbitrary add_trait=wroth  
+	add_trait=chaste add_trait=shy add_trait=content 
+	father=1019930854	#Pomaguala
+	1475.5.5={ birth=yes }
+	1533.1.27={ death=yes }
+}
+1019930861={
+	name=China
+	female=yes
+	dynasty=1009990275
+	dna="hjdibhkpand"
+	culture=galapan religion=caran_pagan
+	father=1019930854	#Pomaguala
+	1480.3.7={ birth=yes }
+	1550.12.5={ death=yes }
+}
+1019930862={
+	name=Mayta
+	dynasty=1009990275
+	dna="lamoagkappl"
+	culture=galapan religion=caran_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=gardener add_trait=ambitious add_trait=humble 
+	add_trait=diligent 
+	father=1019930860	#Cusichaca
+	1501.9.4={ birth=yes }
+	1579.11.11={ death=yes }
+}
+1019930863={
+	name=Maiara
+	female=yes
+	dynasty=1009990275
+	dna="pobodekcpml"
+	culture=galapan religion=caran_pagan
+	father=1019930860	#Cusichaca
+	1505.11.23={ birth=yes }
+	1604.7.17={ death=yes }
+}
+1019930864={
+	name=Cayo
+	dynasty=1009990275
+	dna="pkloaefdppf"
+	culture=galapan religion=caran_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=6 learning=6
+	add_trait=martial_cleric add_trait=ambitious add_trait=craven 
+	father=1019930860	#Cusichaca
+	1511.4.19={ birth=yes }
+	1568.1.18={ death=yes }
+}
+1019930865={
+	name=Titu
+	dynasty=1009990275
+	dna="iamkjgahhla"
+	culture=galapan religion=caran_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=5 learning=7
+	add_trait=scholarly_theologian add_trait=greedy add_trait=proud add_trait=shy 
+	add_trait=gluttonous 
+	father=1019930862	#Mayta
+	1527.5.3={ birth=yes }
+	1604.3.2={ death=yes }
+}
+1019930866={
+	name=Nina
+	female=yes
+	dynasty=1009990275
+	dna="ljmjhgcegcg"
+	culture=galapan religion=caran_pagan
+	father=1019930862	#Mayta
+	1535.6.5={ birth=yes }
+	1612.12.25={ death=yes }
+}
+1019930867={
+	name=Huachuri
+	dynasty=1009990275
+	dna="ajmhagkfppl"
+	culture=galapan religion=caran_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=slothful add_trait=craven add_trait=ambitious add_trait=envious 
+	add_trait=proud 
+	father=1019930862	#Mayta
+	1537.3.3={ birth=yes }
+	1590.3.23={ death=yes }
+}
+1019930868={
+	name=Ruminavi
+	dynasty=1009990275
+	dna="lmkbaokaabl"
+	culture=galapan religion=caran_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	add_trait=charismatic_negotiator add_trait=greedy add_trait=just add_trait=ambitious 
+	father=1019930862	#Mayta
+	1540.4.27={ birth=yes }
+	1617.5.28={ death=yes }
+}

@@ -1,0 +1,3136 @@
+1019915964={
+	name=Askook
+	dynasty=1009990127
+	dna="iilppdjcjga"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	720.10.22={ birth=yes }
+	799.10.14={ death=yes }
+}
+1019915965={
+	name=Chogan
+	dynasty=1009990127
+	dna="dikipdjifja"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=5 learning=4
+	father=1019915964	#Askook
+	746.4.7={ birth=yes }
+	820.7.19={ death=yes }
+}
+1019915966={
+	name=Odina
+	female=yes
+	dynasty=1009990127
+	dna="plddpjpajcc"
+	culture=abenaki religion=algic_pagan
+	father=1019915964	#Askook
+	749.10.15={ birth=yes }
+	829.5.29={ death=yes }
+}
+1019915967={
+	name=Keme
+	dynasty=1009990127
+	dna="pnmipdapfga"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=7 learning=5 
+	father=1019915965	#Chogan
+	773.4.2={ birth=yes }
+	837.11.9={ death=yes }
+}
+1019915968={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990127
+	dna="lihkpdfbfga"
+	culture=abenaki religion=algic_pagan
+	father=1019915965	#Chogan
+	778.1.21={ birth=yes }
+	837.7.14={ death=yes }
+}
+1019915969={
+	name=Etlelooat
+	dynasty=1009990127
+	dna="jphipdjkmja"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=8 learning=4
+	father=1019915965	#Chogan
+	783.6.24={ birth=yes }
+	838.10.24={ death=yes }
+}
+1019915970={
+	name=lusilussit
+	dynasty=1009990127
+	dna="dinipniifcf"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=7 learning=7
+	father=1019915965	#Chogan
+	787.4.5={ birth=yes }
+	851.8.9={ death=yes }
+}
+1019915971={
+	name=Wikimak
+	female=yes
+	dynasty=1009990127
+	dna="dikloejiahe"
+	culture=abenaki religion=algic_pagan
+	father=1019915965	#Chogan
+	793.10.15={ birth=yes }
+	865.5.9={ death=yes }
+}
+1019915972={
+	name=Achak
+	dynasty=1009990127
+	dna="bilifdfoaca"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=6 learning=8
+	father=1019915965	#Chogan
+	798.8.25={ birth=yes }
+	866.6.8={ death=yes }
+}
+1019915973={
+	name=Sooleawa
+	female=yes
+	dynasty=1009990127
+	dna="dpampiieofa"
+	culture=abenaki religion=algic_pagan
+	father=1019915965	#Chogan
+	802.2.26={ birth=yes }
+	860.9.6={ death=yes }
+}
+1019915974={
+	name=Nadie
+	female=yes
+	dynasty=1009990127
+	dna="fnklcdamhmh"
+	culture=abenaki religion=algic_pagan
+	father=1019915967	#Keme
+	797.12.11={ birth=yes }
+	873.2.6={ death=yes }
+}
+1019915975={
+	name=Nootau
+	dynasty=1009990127
+	dna="pnfandapdng"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=7 learning=7
+	father=1019915967	#Keme
+	802.12.15={ birth=yes }
+	868.3.28={ death=yes }
+}
+1019915976={
+	name=Nijlon
+	female=yes
+	dynasty=1009990127
+	dna="jmgapdaefpa"
+	culture=abenaki religion=algic_pagan
+	father=1019915967	#Keme
+	806.10.7={ birth=yes }
+	891.9.12={ death=yes }
+}
+1019915977={
+	name=Keme
+	dynasty=1009990127
+	dna="pfepcoaadno"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=5 learning=4
+	father=1019915975	#Nootau
+	830.4.11={ birth=yes }
+	897.4.15={ death=yes }
+}
+1019915978={
+	name=Matunaaga
+	dynasty=1009990127
+	dna="ppdalnjccne"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	father=1019915975	#Nootau
+	835.6.27={ birth=yes }
+	907.12.2={ death=yes }
+}
+1019915979={
+	name=Pauwau
+	female=yes
+	dynasty=1009990127
+	dna="anfbniaphne"
+	culture=abenaki religion=algic_pagan
+	father=1019915975	#Nootau
+	842.12.25={ birth=yes }
+	913.7.5={ death=yes }
+}
+1019915980={
+	name=Sokw
+	female=yes
+	dynasty=1009990127
+	dna="hlfafaabdnh"
+	culture=abenaki religion=algic_pagan
+	father=1019915975	#Nootau
+	846.10.11={ birth=yes }
+	908.12.14={ death=yes }
+}
+1019915981={
+	name=Sooleawa
+	female=yes
+	dynasty=1009990127
+	dna="fgfeldapdno"
+	culture=abenaki religion=algic_pagan
+	father=1019915975	#Nootau
+	852.3.27={ birth=yes }
+	918.2.14={ death=yes }
+}
+1019915982={
+	name=Takhi
+	female=yes
+	dynasty=1009990127
+	dna="inoalfgkdfn"
+	culture=abenaki religion=algic_pagan
+	father=1019915975	#Nootau
+	857.12.27={ birth=yes }
+	931.9.15={ death=yes }
+}
+1019915983={
+	name=Nonosbawsut
+	dynasty=1009990127
+	dna="giaoghapphg"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=6 learning=6
+	father=1019915975	#Nootau
+	860.6.22={ birth=yes }
+	915.9.10={ death=yes }
+}
+1019915984={
+	name=Achak
+	dynasty=1009990127
+	dna="hhembiamine"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=6
+	father=1019915977	#Keme
+	853.9.24={ birth=yes }
+	911.5.31={ death=yes }
+}
+1019915985={
+	name=Melkedoodum
+	dynasty=1009990127
+	dna="mmebcodaenm"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	father=1019915977	#Keme
+	856.4.12={ birth=yes }
+	923.1.24={ death=yes }
+}
+1019915986={
+	name=Pules
+	female=yes
+	dynasty=1009990127
+	dna="mfecdeenann"
+	culture=abenaki religion=algic_pagan
+	father=1019915977	#Keme
+	861.12.2={ birth=yes }
+	918.9.17={ death=yes }
+}
+1019915987={
+	name=Wematin
+	dynasty=1009990127
+	dna="kfejmmdplnj"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=4
+	father=1019915977	#Keme
+	868.3.4={ birth=yes }
+	947.4.11={ death=yes }
+}
+1019915988={
+	name=Nootau
+	dynasty=1009990127
+	dna="cfeecfobdnd"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	father=1019915977	#Keme
+	872.3.5={ birth=yes }
+	941.12.23={ death=yes }
+}
+1019915989={
+	name=Chepi
+	female=yes
+	dynasty=1009990127
+	dna="hhembjiobpc"
+	culture=abenaki religion=algic_pagan
+	father=1019915984	#Achak
+	882.6.25={ birth=yes }
+	966.11.15={ death=yes }
+}
+1019915990={
+	name=Odina
+	female=yes
+	dynasty=1009990127
+	dna="aheigiapbne"
+	culture=abenaki religion=algic_pagan
+	father=1019915984	#Achak
+	886.4.22={ birth=yes }
+	941.9.2={ death=yes }
+}
+1019915991={
+	name=Kimi
+	female=yes
+	dynasty=1009990127
+	dna="jhemklanhhe"
+	culture=abenaki religion=algic_pagan
+	father=1019915984	#Achak
+	889.2.10={ birth=yes }
+	963.3.25={ death=yes }
+}
+1019915992={
+	name=Pauwau
+	female=yes
+	dynasty=1009990127
+	dna="boembknjiog"
+	culture=abenaki religion=algic_pagan
+	father=1019915984	#Achak
+	896.3.20={ birth=yes }
+	980.5.5={ death=yes }
+}
+1019915993={
+	name=Rowtag
+	dynasty=1009990127
+	dna="hhjdbfamije"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	father=1019915984	#Achak
+	900.8.13={ birth=yes }
+	985.5.18={ death=yes }
+}
+1019915994={
+	name=Keme
+	dynasty=1009990127
+	dna="hfedgicdinm"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=6 learning=5
+	father=1019915984	#Achak
+	904.12.4={ birth=yes }
+	979.3.16={ death=yes }
+}
+1019915995={
+	name=Hausisse
+	female=yes
+	dynasty=1009990127
+	dna="haemfifbpne"
+	culture=abenaki religion=algic_pagan
+	father=1019915984	#Achak
+	907.8.7={ birth=yes }
+	988.4.10={ death=yes }
+}
+1019915996={
+	name=Sooleawa
+	female=yes
+	dynasty=1009990127
+	dna="dhbdbdmoijl"
+	culture=abenaki religion=algic_pagan
+	father=1019915993	#Rowtag
+	930.7.9={ birth=yes }
+	1004.8.11={ death=yes }
+}
+1019915997={
+	name=Togquos
+	dynasty=1009990127
+	dna="hhodhfpnijp"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=6
+	father=1019915993	#Rowtag
+	934.12.14={ birth=yes }
+	1014.12.19={ death=yes }
+}
+1019915998={
+	name=Kanti
+	female=yes
+	dynasty=1009990127
+	dna="jhincfhmhae"
+	culture=abenaki religion=algic_pagan
+	father=1019915993	#Rowtag
+	939.2.13={ birth=yes }
+	1022.7.7={ death=yes }
+}
+1019915999={
+	name=Achak
+	dynasty=1009990127
+	dna="mhjdaeneice"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=6
+	father=1019915993	#Rowtag
+	945.11.24={ birth=yes }
+	1021.10.27={ death=yes }
+}
+1019916000={
+	name=Makkitotosimew
+	female=yes
+	dynasty=1009990127
+	dna="hhfdpaafije"
+	culture=abenaki religion=algic_pagan
+	father=1019915993	#Rowtag
+	951.4.4={ birth=yes }
+	1019.6.1={ death=yes }
+}
+1019916001={
+	name=Matchitisiw
+	dynasty=1009990127
+	dna="akcdcoahioo"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=8 learning=7
+	father=1019915993	#Rowtag
+	954.6.20={ birth=yes }
+	1011.4.13={ death=yes }
+}
+1019916002={
+	name=Sokw
+	female=yes
+	dynasty=1009990127
+	dna="bhiinfemide"
+	culture=abenaki religion=algic_pagan
+	father=1019915993	#Rowtag
+	958.11.22={ birth=yes }
+	1029.11.17={ death=yes }
+}
+1019916003={
+	name=Chogan
+	dynasty=1009990127
+	dna="hhobdfpnijp"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	father=1019915997	#Togquos
+	954.12.12={ birth=yes }
+	1036.10.16={ death=yes }
+}
+1019916004={
+	name=Aranck
+	dynasty=1009990127
+	dna="hhoaomfdigm"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	father=1019915997	#Togquos
+	962.10.10={ birth=yes }
+	1027.1.24={ death=yes }
+}
+1019916005={
+	name=Winona
+	female=yes
+	dynasty=1009990127
+	dna="hhobknocijp"
+	culture=abenaki religion=algic_pagan
+	father=1019915997	#Togquos
+	967.2.9={ birth=yes }
+	1021.7.14={ death=yes }
+}
+1019916006={
+	name=Hurit
+	female=yes
+	dynasty=1009990127
+	dna="hhebkbknajp"
+	culture=abenaki religion=algic_pagan
+	father=1019915997	#Togquos
+	974.5.10={ birth=yes }
+	1053.3.8={ death=yes }
+}
+1019916007={
+	name=Pauwau
+	female=yes
+	dynasty=1009990127
+	dna="hhigmbmniob"
+	culture=abenaki religion=algic_pagan
+	father=1019916003	#Chogan
+	981.2.22={ birth=yes }
+	1055.1.9={ death=yes }
+}
+1019916008={
+	name=Tihkoosue
+	dynasty=1009990127
+	dna="phobdfjnihp"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	father=1019916003	#Chogan
+	988.10.10={ birth=yes }
+	1067.6.8={ death=yes }
+}
+1019916009={
+	name=Wikimak
+	female=yes
+	dynasty=1009990127
+	dna="hgobdckjhjp"
+	culture=abenaki religion=algic_pagan
+	father=1019916003	#Chogan
+	990.1.18={ birth=yes }
+	1085.11.3={ death=yes }
+}
+1019916010={
+	name=Hausisse
+	female=yes
+	dynasty=1009990127
+	dna="hpagdfpnnjg"
+	culture=abenaki religion=algic_pagan
+	father=1019916003	#Chogan
+	995.5.26={ birth=yes }
+	1057.1.10={ death=yes }
+}
+1019916011={
+	name=Megedagik
+	dynasty=1009990127
+	dna="hmmjfoppijl"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=6 learning=7
+	father=1019916003	#Chogan
+	997.3.11={ birth=yes }
+	1074.12.5={ death=yes }
+}
+1019916012={
+	name=Achak
+	dynasty=1009990127
+	dna="ghlidfjnihp"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=5
+	father=1019916008	#Tihkoosue
+	1010.12.8={ birth=yes }
+	1070.8.11={ death=yes }
+}
+1019916013={
+	name=Nadie
+	female=yes
+	dynasty=1009990127
+	dna="nlpcddjmohp"
+	culture=abenaki religion=algic_pagan
+	father=1019916008	#Tihkoosue
+	1015.11.13={ birth=yes }
+	1077.6.30={ death=yes }
+}
+1019916014={
+	name=Makkitotosimew
+	female=yes
+	dynasty=1009990127
+	dna="hhomffenphm"
+	culture=abenaki religion=algic_pagan
+	father=1019916008	#Tihkoosue
+	1020.2.21={ birth=yes }
+	1073.2.21={ death=yes }
+}
+1019916015={
+	name=Nittawosew
+	female=yes
+	dynasty=1009990127
+	dna="pmaedfjnblp"
+	culture=abenaki religion=algic_pagan
+	father=1019916008	#Tihkoosue
+	1025.6.3={ birth=yes }
+	1093.2.4={ death=yes }
+}
+1019916016={
+	name=Sunukkuhkau
+	dynasty=1009990127
+	dna="ghlobekijap"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	father=1019916012	#Achak
+	1037.4.19={ birth=yes }
+	1090.4.17={ death=yes }
+}
+1019916017={
+	name=Makkitotosimew
+	female=yes
+	dynasty=1009990127
+	dna="gmlkdfjnmhp"
+	culture=abenaki religion=algic_pagan
+	father=1019916012	#Achak
+	1042.11.11={ birth=yes }
+	1096.5.15={ death=yes }
+}
+1019916018={
+	name=Aranck
+	dynasty=1009990127
+	dna="ohlidmgniep"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	father=1019916012	#Achak
+	1044.10.19={ birth=yes }
+	1109.7.11={ death=yes }
+}
+1019916019={
+	name=Demasduit
+	female=yes
+	dynasty=1009990127
+	dna="lclbdfjnide"
+	culture=abenaki religion=algic_pagan
+	father=1019916012	#Achak
+	1051.6.6={ birth=yes }
+	1144.3.13={ death=yes }
+}
+1019916020={
+	name=Matunaaga
+	dynasty=1009990127
+	dna="ghljmkkojfk"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=6 learning=8
+	father=1019916016	#Sunukkuhkau
+	1069.10.12={ birth=yes }
+	1156.8.27={ death=yes }
+}
+1019916021={
+	name=Dabun
+	female=yes
+	dynasty=1009990127
+	dna="ghplbalicmb"
+	culture=abenaki religion=algic_pagan
+	father=1019916016	#Sunukkuhkau
+	1076.2.24={ birth=yes }
+	1160.7.5={ death=yes }
+}
+1019916022={
+	name=Tihkoosue
+	dynasty=1009990127
+	dna="gjflmcdojfb"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=5
+	father=1019916020	#Matunaaga
+	1093.5.22={ birth=yes }
+	1151.11.3={ death=yes }
+}
+1019916023={
+	name=Sokw
+	female=yes
+	dynasty=1009990127
+	dna="ghelacapafe"
+	culture=abenaki religion=algic_pagan
+	father=1019916020	#Matunaaga
+	1097.9.25={ birth=yes }
+	1174.11.5={ death=yes }
+}
+1019916024={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990127
+	dna="ggljhdkjjgk"
+	culture=abenaki religion=algic_pagan
+	father=1019916020	#Matunaaga
+	1101.2.14={ birth=yes }
+	1149.12.16={ death=yes }
+}
+1019916025={
+	name=Huritt
+	dynasty=1009990127
+	dna="hhljmkpojfj"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	father=1019916020	#Matunaaga
+	1109.8.4={ birth=yes }
+	1187.3.27={ death=yes }
+}
+1019916026={
+	name=Matchitisiw
+	dynasty=1009990127
+	dna="bjilocdobfb"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=8 learning=6
+	father=1019916022	#Tihkoosue
+	1122.1.7={ birth=yes }
+	1223.3.12={ death=yes }
+}
+1019916027={
+	name=Takhi
+	female=yes
+	dynasty=1009990127
+	dna="cjllmgohjpb"
+	culture=abenaki religion=algic_pagan
+	father=1019916022	#Tihkoosue
+	1125.8.15={ birth=yes }
+	1206.7.26={ death=yes }
+}
+1019916028={
+	name=Noshi
+	dynasty=1009990127
+	dna="jcdlmcgkjfn"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=6 learning=8
+	father=1019916022	#Tihkoosue
+	1132.2.4={ birth=yes }
+	1201.11.7={ death=yes }
+}
+1019916029={
+	name=Wikimak
+	female=yes
+	dynasty=1009990127
+	dna="gpcodciojfb"
+	culture=abenaki religion=algic_pagan
+	father=1019916022	#Tihkoosue
+	1137.5.7={ birth=yes }
+	1222.5.7={ death=yes }
+}
+1019916030={
+	name=Enkoodabaoo
+	dynasty=1009990127
+	dna="gjbidcipnbi"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=6 learning=8
+	father=1019916022	#Tihkoosue
+	1141.5.11={ birth=yes }
+	1202.2.22={ death=yes }
+}
+1019916031={
+	name=Pauwau
+	female=yes
+	dynasty=1009990127
+	dna="bjicncdogfb"
+	culture=abenaki religion=algic_pagan
+	father=1019916026	#Matchitisiw
+	1149.12.14={ birth=yes }
+	1251.1.16={ death=yes }
+}
+1019916032={
+	name=Matunaaga
+	dynasty=1009990127
+	dna="bjipooogenk"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=6
+	father=1019916026	#Matchitisiw
+	1156.8.11={ birth=yes }
+	1235.3.2={ death=yes }
+}
+1019916033={
+	name=Oota
+	female=yes
+	dynasty=1009990127
+	dna="bicliceobno"
+	culture=abenaki religion=algic_pagan
+	father=1019916026	#Matchitisiw
+	1160.7.25={ birth=yes }
+	1232.3.5={ death=yes }
+}
+1019916034={
+	name=Segenam
+	dynasty=1009990127
+	dna="ejppoookepk"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=6
+	father=1019916032	#Matunaaga
+	1189.5.21={ birth=yes }
+	1263.11.17={ death=yes }
+}
+1019916035={
+	name=Kestejoo
+	dynasty=1009990127
+	dna="bjephoogenl"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=8 learning=7 
+	father=1019916032	#Matunaaga
+	1193.7.12={ birth=yes }
+	1284.9.3={ death=yes }
+}
+1019916036={
+	name=Dabun
+	female=yes
+	dynasty=1009990127
+	dna="bjllknojemm"
+	culture=abenaki religion=algic_pagan
+	father=1019916032	#Matunaaga
+	1198.8.1={ birth=yes }
+	1258.12.8={ death=yes }
+}
+1019916037={
+	name=Matwau
+	dynasty=1009990127
+	dna="bjlpomokdgg"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=8 learning=8
+	father=1019916032	#Matunaaga
+	1202.2.7={ birth=yes }
+	1277.5.31={ death=yes }
+}
+1019916038={
+	name=Ahanu
+	dynasty=1009990127
+	dna="knnobbokegk"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=4 learning=4
+	father=1019916034	#Segenam
+	1219.4.7={ birth=yes }
+	1289.6.19={ death=yes }
+}
+1019916039={
+	name=Matwau
+	dynasty=1009990127
+	dna="edgjmdokopc"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=8
+	father=1019916034	#Segenam
+	1224.2.4={ birth=yes }
+	1310.12.22={ death=yes }
+}
+1019916040={
+	name=Numees
+	female=yes
+	dynasty=1009990127
+	dna="jjmeohoijak"
+	culture=abenaki religion=algic_pagan
+	father=1019916034	#Segenam
+	1227.3.16={ birth=yes }
+	1297.9.7={ death=yes }
+}
+1019916041={
+	name=Sucki
+	dynasty=1009990127
+	dna="ejapoahkgpo"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	add_trait=greedy  
+	father=1019916034	#Segenam
+	1230.4.17={ birth=yes }
+	1333.11.25={ death=yes }
+}
+1019916042={
+	name=Nonosbawsut
+	dynasty=1009990127
+	dna="knnebdobjjk"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=6 learning=4
+	father=1019916038	#Ahanu
+	1240.4.15={ birth=yes }
+	1307.12.9={ death=yes }
+}
+1019916043={
+	name=Sokw
+	female=yes
+	dynasty=1009990127
+	dna="hanohaokefk"
+	culture=abenaki religion=algic_pagan
+	father=1019916038	#Ahanu
+	1245.8.16={ birth=yes }
+	1329.10.21={ death=yes }
+}
+1019916044={
+	name=Alawa
+	female=yes
+	dynasty=1009990127
+	dna="cenobbodbgk"
+	culture=abenaki religion=algic_pagan
+	father=1019916038	#Ahanu
+	1251.11.25={ birth=yes }
+	1328.4.13={ death=yes }
+}
+1019916045={
+	name=Wikimak
+	female=yes
+	dynasty=1009990127
+	dna="kdnnjmpnegk"
+	culture=abenaki religion=algic_pagan
+	father=1019916038	#Ahanu
+	1254.12.10={ birth=yes }
+	1311.10.10={ death=yes }
+}
+1019916046={
+	name=Enkoodabaoo
+	dynasty=1009990127
+	dna="mfnnbbohend"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	father=1019916038	#Ahanu
+	1259.10.24={ birth=yes }
+	1323.4.15={ death=yes }
+}
+1019916047={
+	name=Nootau
+	dynasty=1009990127
+	dna="naiecdpchhk"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	father=1019916042	#Nonosbawsut
+	1268.3.17={ birth=yes }
+	1327.9.18={ death=yes }
+}
+1019916048={
+	name=Wematin
+	dynasty=1009990127
+	dna="knngbdopfnk"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=4 learning=7
+	father=1019916042	#Nonosbawsut
+	1273.5.8={ birth=yes }
+	1326.11.16={ death=yes }
+}
+1019916049={
+	name=Pules
+	female=yes
+	dynasty=1009990127
+	dna="hnnbbdobjdk"
+	culture=abenaki religion=algic_pagan
+	father=1019916042	#Nonosbawsut
+	1277.7.17={ birth=yes }
+	1331.7.9={ death=yes }
+}
+1019916050={
+	name=Makkapitew
+	dynasty=1009990127
+	dna="komjbpocjjm"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	father=1019916042	#Nonosbawsut
+	1283.10.6={ birth=yes }
+	1346.6.27={ death=yes }
+}
+1019916051={
+	name=Wikimak
+	female=yes
+	dynasty=1009990127
+	dna="nabecdmfhkc"
+	culture=abenaki religion=algic_pagan
+	father=1019916047	#Nootau
+	1289.2.26={ birth=yes }
+	1357.6.19={ death=yes }
+}
+1019916052={
+	name=Huritt
+	dynasty=1009990127
+	dna="nninhdbcchh"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=4
+	father=1019916047	#Nootau
+	1297.3.14={ birth=yes }
+	1352.5.18={ death=yes }
+}
+1019916053={
+	name=Keme
+	dynasty=1009990127
+	dna="eahmcmachak"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	father=1019916047	#Nootau
+	1304.7.21={ birth=yes }
+	1379.9.20={ death=yes }
+}
+1019916054={
+	name=Chansomps
+	dynasty=1009990127
+	dna="naieckpchhf"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	father=1019916047	#Nootau
+	1309.5.12={ birth=yes }
+	1379.3.10={ death=yes }
+}
+1019916055={
+	name=Kimi
+	female=yes
+	dynasty=1009990127
+	dna="pnighpbccph"
+	culture=abenaki religion=algic_pagan
+	father=1019916052	#Huritt
+	1326.10.24={ birth=yes }
+	1399.7.22={ death=yes }
+}
+1019916056={
+	name=Hassun
+	dynasty=1009990127
+	dna="knikhfbochh"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=8
+	father=1019916052	#Huritt
+	1330.2.24={ birth=yes }
+	1384.9.19={ death=yes }
+}
+1019916057={
+	name=Alawa
+	female=yes
+	dynasty=1009990127
+	dna="onjnhboockh"
+	culture=abenaki religion=algic_pagan
+	father=1019916052	#Huritt
+	1334.2.16={ birth=yes }
+	1415.11.27={ death=yes }
+}
+1019916058={
+	name=Etlelooat
+	dynasty=1009990127
+	dna="nnanidbcchh"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=4 learning=6
+	father=1019916052	#Huritt
+	1340.3.7={ birth=yes }
+	1392.6.18={ death=yes }
+}
+1019916059={
+	name=Chepi
+	female=yes
+	dynasty=1009990127
+	dna="nnbehgcgcpi"
+	culture=abenaki religion=algic_pagan
+	father=1019916052	#Huritt
+	1346.6.26={ birth=yes }
+	1422.5.9={ death=yes }
+}
+1019916060={
+	name=Abukcheech
+	dynasty=1009990127
+	dna="kkjgmnhobih"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=4
+	father=1019916056	#Hassun
+	1351.2.5={ birth=yes }
+	1417.10.29={ death=yes }
+}
+1019916061={
+	name=Winona
+	female=yes
+	dynasty=1009990127
+	dna="bhigkjbbdhk"
+	culture=abenaki religion=algic_pagan
+	father=1019916056	#Hassun
+	1355.1.15={ birth=yes }
+	1411.12.22={ death=yes }
+}
+1019916062={
+	name=lusilussit
+	dynasty=1009990127
+	dna="fiikhfbdcjb"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	father=1019916056	#Hassun
+	1362.11.11={ birth=yes }
+	1447.2.28={ death=yes }
+}
+1019916063={
+	name=Keme
+	dynasty=1009990127
+	dna="kfjnmglfbih"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=7 learning=6
+	father=1019916060	#Abukcheech
+	1371.11.6={ birth=yes }
+	1461.4.5={ death=yes }
+}
+1019916064={
+	name=Kimi
+	female=yes
+	dynasty=1009990127
+	dna="ekjinaodlim"
+	culture=abenaki religion=algic_pagan
+	father=1019916060	#Abukcheech
+	1377.9.23={ birth=yes }
+	1455.2.21={ death=yes }
+}
+1019916065={
+	name=Abukcheech
+	dynasty=1009990127
+	dna="kcoimolebih"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=7
+	father=1019916063	#Keme
+	1400.12.25={ birth=yes }
+	1442.6.21={ death=yes }
+}
+1019916066={
+	name=Nonosbawsut
+	dynasty=1009990127
+	dna="kfjnmdmjaim"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=7
+	father=1019916063	#Keme
+	1407.6.11={ birth=yes }
+	1473.5.26={ death=yes }
+}
+1019916067={
+	name=Makkitotosimew
+	female=yes
+	dynasty=1009990127
+	dna="nfjnogafbph"
+	culture=abenaki religion=algic_pagan
+	father=1019916063	#Keme
+	1411.6.14={ birth=yes }
+	1474.2.6={ death=yes }
+}
+1019916068={
+	name=Askuwheteau
+	dynasty=1009990128
+	dna="niibkmhganp"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	720.9.1={ birth=yes }
+	792.7.11={ death=yes }
+}
+1019916069={
+	name=Machk
+	dynasty=1009990128
+	dna="gipfkmpdinp"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=7
+	father=1019916068	#Askuwheteau
+	744.2.9={ birth=yes }
+	820.11.28={ death=yes }
+}
+1019916070={
+	name=Mukki
+	dynasty=1009990128
+	dna="phoikmlpknl"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	father=1019916068	#Askuwheteau
+	751.2.22={ birth=yes }
+	821.11.24={ death=yes }
+}
+1019916071={
+	name=Winona
+	female=yes
+	dynasty=1009990128
+	dna="oidgimggknj"
+	culture=abenaki religion=algic_pagan
+	father=1019916068	#Askuwheteau
+	757.7.24={ birth=yes }
+	814.9.23={ death=yes }
+}
+1019916072={
+	name=Askook
+	dynasty=1009990128
+	dna="niilnmheonp"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=4 learning=5
+	father=1019916068	#Askuwheteau
+	761.6.1={ birth=yes }
+	830.3.9={ death=yes }
+}
+1019916073={
+	name=Nonosbawsut
+	dynasty=1009990128
+	dna="gmefkeojanh"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=5 learning=7
+	father=1019916069	#Machk
+	769.10.22={ birth=yes }
+	827.9.9={ death=yes }
+}
+1019916074={
+	name=Pannoowau
+	dynasty=1009990128
+	dna="acpncmpdpop"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=7 learning=4
+	father=1019916069	#Machk
+	774.7.10={ birth=yes }
+	858.5.29={ death=yes }
+}
+1019916075={
+	name=Chogan
+	dynasty=1009990128
+	dna="hinfbbpdbmc"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=5 learning=6
+	father=1019916069	#Machk
+	779.7.10={ birth=yes }
+	834.10.17={ death=yes }
+}
+1019916076={
+	name=Noshi
+	dynasty=1009990128
+	dna="gioalambena"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=5 learning=7
+	father=1019916069	#Machk
+	785.1.6={ birth=yes }
+	851.9.22={ death=yes }
+}
+1019916077={
+	name=Noshi
+	dynasty=1009990128
+	dna="gdefkiokaoi"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=5 learning=7
+	father=1019916073	#Nonosbawsut
+	791.11.16={ birth=yes }
+	895.1.13={ death=yes }
+}
+1019916078={
+	name=Mukki
+	dynasty=1009990128
+	dna="emefkeojejh"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	father=1019916073	#Nonosbawsut
+	795.8.26={ birth=yes }
+	857.3.14={ death=yes }
+}
+1019916079={
+	name=Machk
+	dynasty=1009990128
+	dna="gnfckiokabi"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=7 learning=4
+	father=1019916077	#Noshi
+	823.10.8={ birth=yes }
+	898.6.4={ death=yes }
+}
+1019916080={
+	name=Nittawosew
+	female=yes
+	dynasty=1009990128
+	dna="gdiakaoaiol"
+	culture=abenaki religion=algic_pagan
+	father=1019916077	#Noshi
+	828.10.17={ birth=yes }
+	899.2.14={ death=yes }
+}
+1019916081={
+	name=Sunukkuhkau
+	dynasty=1009990128
+	dna="gapchlffaoi"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=4 
+	father=1019916079	#Machk
+	851.12.12={ birth=yes }
+	912.8.14={ death=yes }
+}
+1019916082={
+	name=Machk
+	dynasty=1009990128
+	dna="infjkiokafg"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=5 learning=8
+	father=1019916079	#Machk
+	855.3.27={ birth=yes }
+	941.9.16={ death=yes }
+}
+1019916083={
+	name=Winona
+	female=yes
+	dynasty=1009990128
+	dna="onfhkiobmka"
+	culture=abenaki religion=algic_pagan
+	father=1019916079	#Machk
+	859.8.18={ birth=yes }
+	924.5.6={ death=yes }
+}
+1019916084={
+	name=Sokw
+	female=yes
+	dynasty=1009990128
+	dna="gpickiodabi"
+	culture=abenaki religion=algic_pagan
+	father=1019916079	#Machk
+	863.12.9={ birth=yes }
+	935.10.22={ death=yes }
+}
+1019916085={
+	name=Megedagik
+	dynasty=1009990128
+	dna="ijjikhoiabi"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=4
+	father=1019916079	#Machk
+	868.10.2={ birth=yes }
+	946.5.8={ death=yes }
+}
+1019916086={
+	name=Wikimak
+	female=yes
+	dynasty=1009990128
+	dna="gfociiocank"
+	culture=abenaki religion=algic_pagan
+	father=1019916079	#Machk
+	874.9.20={ birth=yes }
+	947.12.4={ death=yes }
+}
+1019916087={
+	name=Kimi
+	female=yes
+	dynasty=1009990128
+	dna="fnnbkiolabd"
+	culture=abenaki religion=algic_pagan
+	father=1019916079	#Machk
+	878.7.15={ birth=yes }
+	940.10.30={ death=yes }
+}
+1019916088={
+	name=Makkapitew
+	dynasty=1009990128
+	dna="kfilhlffopi"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	father=1019916081	#Sunukkuhkau
+	880.2.24={ birth=yes }
+	959.5.12={ death=yes }
+}
+1019916089={
+	name=Makkapitew
+	dynasty=1009990128
+	dna="camchedfabi"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=4
+	father=1019916081	#Sunukkuhkau
+	882.11.26={ birth=yes }
+	955.11.24={ death=yes }
+}
+1019916090={
+	name=Pajackok
+	dynasty=1009990128
+	dna="pmpbflgpaob"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=4 learning=8
+	father=1019916081	#Sunukkuhkau
+	888.10.24={ birth=yes }
+	944.3.24={ death=yes }
+}
+1019916091={
+	name=Wikimak
+	female=yes
+	dynasty=1009990128
+	dna="cfigoafncpj"
+	culture=abenaki religion=algic_pagan
+	father=1019916088	#Makkapitew
+	908.5.14={ birth=yes }
+	975.7.29={ death=yes }
+}
+1019916092={
+	name=Hausis
+	female=yes
+	dynasty=1009990128
+	dna="nabhhlhoopb"
+	culture=abenaki religion=algic_pagan
+	father=1019916088	#Makkapitew
+	912.8.16={ birth=yes }
+	980.11.2={ death=yes }
+}
+1019916093={
+	name=Askook
+	dynasty=1009990128
+	dna="kfilhlffjih"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	father=1019916088	#Makkapitew
+	918.1.21={ birth=yes }
+	999.3.21={ death=yes }
+}
+1019916094={
+	name=Nosh
+	dynasty=1009990128
+	dna="kleghlcmngm"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=4 learning=5
+	father=1019916088	#Makkapitew
+	922.4.25={ birth=yes }
+	974.10.7={ death=yes }
+}
+1019916095={
+	name=Kanti
+	female=yes
+	dynasty=1009990128
+	dna="kfimhkhmcni"
+	culture=abenaki religion=algic_pagan
+	father=1019916088	#Makkapitew
+	928.11.1={ birth=yes }
+	985.7.9={ death=yes }
+}
+1019916096={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990128
+	dna="hfhkhlicfbi"
+	culture=abenaki religion=algic_pagan
+	father=1019916088	#Makkapitew
+	931.9.10={ birth=yes }
+	1007.6.3={ death=yes }
+}
+1019916097={
+	name=Demasduit
+	female=yes
+	dynasty=1009990128
+	dna="jlgbhhffohe"
+	culture=abenaki religion=algic_pagan
+	father=1019916088	#Makkapitew
+	935.6.8={ birth=yes }
+	1031.2.10={ death=yes }
+}
+1019916098={
+	name=Machk
+	dynasty=1009990128
+	dna="emijbmifohh"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	father=1019916093	#Askook
+	945.8.3={ birth=yes }
+	1033.5.31={ death=yes }
+}
+1019916099={
+	name=Takhi
+	female=yes
+	dynasty=1009990128
+	dna="lhpnflideoj"
+	culture=abenaki religion=algic_pagan
+	father=1019916093	#Askook
+	952.8.9={ birth=yes }
+	1002.11.25={ death=yes }
+}
+1019916100={
+	name=Sucki
+	dynasty=1009990128
+	dna="igilblfdajn"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=8
+	father=1019916093	#Askook
+	957.6.26={ birth=yes }
+	1030.7.3={ death=yes }
+}
+1019916101={
+	name=Powwaw
+	dynasty=1009990128
+	dna="kmilhkffjim"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=4
+	father=1019916093	#Askook
+	964.1.9={ birth=yes }
+	1053.5.20={ death=yes }
+}
+1019916102={
+	name=Numees
+	female=yes
+	dynasty=1009990128
+	dna="enimfmifoje"
+	culture=abenaki religion=algic_pagan
+	father=1019916098	#Machk
+	970.10.27={ birth=yes }
+	1055.5.4={ death=yes }
+}
+1019916103={
+	name=Segenam
+	dynasty=1009990128
+	dna="kmljbhifnhh"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=7 learning=4
+	father=1019916098	#Machk
+	974.10.18={ birth=yes }
+	1033.4.12={ death=yes }
+}
+1019916104={
+	name=Nonosbawsut
+	dynasty=1009990128
+	dna="knljbhgmjhd"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=6 learning=7
+	father=1019916103	#Segenam
+	994.5.8={ birth=yes }
+	1051.6.30={ death=yes }
+}
+1019916105={
+	name=Kitchi
+	dynasty=1009990128
+	dna="mlljfekafhp"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	father=1019916103	#Segenam
+	999.6.6={ birth=yes }
+	1055.2.4={ death=yes }
+}
+1019916106={
+	name=Dabun
+	female=yes
+	dynasty=1009990128
+	dna="kmljbhieodk"
+	culture=abenaki religion=algic_pagan
+	father=1019916103	#Segenam
+	1002.10.14={ birth=yes }
+	1077.11.18={ death=yes }
+}
+1019916107={
+	name=Segenam
+	dynasty=1009990128
+	dna="kbbjphiaghh"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	father=1019916103	#Segenam
+	1008.1.19={ birth=yes }
+	1073.5.1={ death=yes }
+}
+1019916108={
+	name=Kitchi
+	dynasty=1009990128
+	dna="kflnjiaffih"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=5 learning=6
+	father=1019916103	#Segenam
+	1012.11.8={ birth=yes }
+	1094.12.5={ death=yes }
+}
+1019916109={
+	name=Chansomps
+	dynasty=1009990128
+	dna="kocjkekfjha"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	father=1019916103	#Segenam
+	1015.6.4={ birth=yes }
+	1086.9.6={ death=yes }
+}
+1019916110={
+	name=Abukcheech
+	dynasty=1009990128
+	dna="odleflifnhh"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	father=1019916103	#Segenam
+	1020.12.18={ birth=yes }
+	1106.2.8={ death=yes }
+}
+1019916111={
+	name=Matchitisiw
+	dynasty=1009990128
+	dna="kigjbhmmjhp"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=7 learning=8
+	father=1019916104	#Nonosbawsut
+	1017.2.15={ birth=yes }
+	1096.2.6={ death=yes }
+}
+1019916112={
+	name=Taregan
+	dynasty=1009990128
+	dna="knlbehamghd"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=5 learning=5
+	father=1019916104	#Nonosbawsut
+	1022.12.18={ birth=yes }
+	1083.7.26={ death=yes }
+}
+1019916113={
+	name=Matchitehew
+	dynasty=1009990128
+	dna="knnkbkhplhd"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	father=1019916104	#Nonosbawsut
+	1026.12.15={ birth=yes }
+	1095.6.25={ death=yes }
+}
+1019916114={
+	name=Askuwheteau
+	dynasty=1009990128
+	dna="fmhjbneachl"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=4 learning=5
+	father=1019916111	#Matchitisiw
+	1041.5.22={ birth=yes }
+	1100.2.24={ death=yes }
+}
+1019916115={
+	name=Kitchi
+	dynasty=1009990128
+	dna="kingbhdmjjp"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=6
+	father=1019916111	#Matchitisiw
+	1045.11.26={ birth=yes }
+	1121.2.28={ death=yes }
+}
+1019916116={
+	name=Sokw
+	female=yes
+	dynasty=1009990128
+	dna="logjbhmmjhp"
+	culture=abenaki religion=algic_pagan
+	father=1019916111	#Matchitisiw
+	1050.6.7={ birth=yes }
+	1120.11.6={ death=yes }
+}
+1019916117={
+	name=Pauwau
+	female=yes
+	dynasty=1009990128
+	dna="keggbhgmkhd"
+	culture=abenaki religion=algic_pagan
+	father=1019916111	#Matchitisiw
+	1054.9.27={ birth=yes }
+	1132.6.15={ death=yes }
+}
+1019916118={
+	name=Odina
+	female=yes
+	dynasty=1009990128
+	dna="gehdkkmnjnp"
+	culture=abenaki religion=algic_pagan
+	father=1019916111	#Matchitisiw
+	1061.3.11={ birth=yes }
+	1120.3.27={ death=yes }
+}
+1019916119={
+	name=Kestejoo
+	dynasty=1009990128
+	dna="emhnaaajjgl"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=7 learning=5
+	father=1019916114	#Askuwheteau
+	1073.12.13={ birth=yes }
+	1131.7.5={ death=yes }
+}
+1019916120={
+	name=Odina
+	female=yes
+	dynasty=1009990128
+	dna="lmpjnleicdi"
+	culture=abenaki religion=algic_pagan
+	father=1019916114	#Askuwheteau
+	1077.6.13={ birth=yes }
+	1137.2.25={ death=yes }
+}
+1019916121={
+	name=Pajackok
+	dynasty=1009990128
+	dna="fmhjhgbackl"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	father=1019916114	#Askuwheteau
+	1083.7.27={ birth=yes }
+	1159.5.16={ death=yes }
+}
+1019916122={
+	name=Pajackok
+	dynasty=1009990128
+	dna="hmajbnkacle"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=7
+	father=1019916114	#Askuwheteau
+	1089.3.15={ birth=yes }
+	1167.12.6={ death=yes }
+}
+1019916123={
+	name=Machk
+	dynasty=1009990128
+	dna="fmhjfniaohl"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=4 learning=5
+	father=1019916114	#Askuwheteau
+	1092.4.22={ birth=yes }
+	1179.6.20={ death=yes }
+}
+1019916124={
+	name=Nadie
+	female=yes
+	dynasty=1009990128
+	dna="emfannincdl"
+	culture=abenaki religion=algic_pagan
+	father=1019916114	#Askuwheteau
+	1095.10.14={ birth=yes }
+	1156.1.11={ death=yes }
+}
+1019916125={
+	name=Noshi
+	dynasty=1009990128
+	dna="nmhblkmannp"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	father=1019916114	#Askuwheteau
+	1099.4.18={ birth=yes }
+	1167.10.4={ death=yes }
+}
+1019916126={
+	name=Shanawdithit
+	female=yes
+	dynasty=1009990128
+	dna="emhglahfcgl"
+	culture=abenaki religion=algic_pagan
+	father=1019916119	#Kestejoo
+	1098.12.15={ birth=yes }
+	1167.3.1={ death=yes }
+}
+1019916127={
+	name=lusilussit
+	dynasty=1009990128
+	dna="ekjonahijgl"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=7
+	father=1019916119	#Kestejoo
+	1101.8.2={ birth=yes }
+	1143.6.29={ death=yes }
+}
+1019916128={
+	name=Nittawosew
+	female=yes
+	dynasty=1009990128
+	dna="bencaabjjgf"
+	culture=abenaki religion=algic_pagan
+	father=1019916119	#Kestejoo
+	1107.6.4={ birth=yes }
+	1207.12.10={ death=yes }
+}
+1019916129={
+	name=Huritt
+	dynasty=1009990128
+	dna="knhonaojjgo"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=6 learning=7
+	father=1019916119	#Kestejoo
+	1112.6.23={ birth=yes }
+	1166.5.18={ death=yes }
+}
+1019916130={
+	name=Sucki
+	dynasty=1009990128
+	dna="emcmmgmjjmf"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=7
+	father=1019916119	#Kestejoo
+	1117.2.18={ birth=yes }
+	1181.2.9={ death=yes }
+}
+1019916131={
+	name=lusilussit
+	dynasty=1009990128
+	dna="ddhnbidjjgf"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	father=1019916119	#Kestejoo
+	1121.8.25={ birth=yes }
+	1198.10.29={ death=yes }
+}
+1019916132={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990128
+	dna="fbhfndnjjoi"
+	culture=abenaki religion=algic_pagan
+	father=1019916119	#Kestejoo
+	1126.9.18={ birth=yes }
+	1171.6.6={ death=yes }
+}
+1019916133={
+	name=Megedagik
+	dynasty=1009990128
+	dna="pkjohanijkl"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=6 learning=7
+	father=1019916127	#lusilussit
+	1130.12.6={ birth=yes }
+	1185.6.27={ death=yes }
+}
+1019916134={
+	name=Pules
+	female=yes
+	dynasty=1009990128
+	dna="pgjjmehajkl"
+	culture=abenaki religion=algic_pagan
+	father=1019916127	#lusilussit
+	1134.11.15={ birth=yes }
+	1217.7.10={ death=yes }
+}
+1019916135={
+	name=Pauwau
+	female=yes
+	dynasty=1009990128
+	dna="emiojehijgl"
+	culture=abenaki religion=algic_pagan
+	father=1019916127	#lusilussit
+	1137.11.7={ birth=yes }
+	1207.5.3={ death=yes }
+}
+1019916136={
+	name=Hurit
+	female=yes
+	dynasty=1009990128
+	dna="kfcbophmlil"
+	culture=abenaki religion=algic_pagan
+	father=1019916127	#lusilussit
+	1140.5.20={ birth=yes }
+	1195.8.16={ death=yes }
+}
+1019916137={
+	name=Aranck
+	dynasty=1009990128
+	dna="ekjogdhngol"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=6 learning=8
+	father=1019916127	#lusilussit
+	1143.7.11={ birth=yes }
+	1229.7.15={ death=yes }
+}
+1019916138={
+	name=Enkoodabaoo
+	dynasty=1009990128
+	dna="balonahdfkl"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	father=1019916127	#lusilussit
+	1148.6.1={ birth=yes }
+	1199.5.2={ death=yes }
+}
+1019916139={
+	name=Chepi
+	female=yes
+	dynasty=1009990128
+	dna="pkaonahipgf"
+	culture=abenaki religion=algic_pagan
+	father=1019916127	#lusilussit
+	1153.1.27={ birth=yes }
+	1233.9.17={ death=yes }
+}
+1019916140={
+	name=Kestejoo
+	dynasty=1009990128
+	dna="pfjolfaijia"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=4 learning=6
+	father=1019916133	#Megedagik
+	1156.12.6={ birth=yes }
+	1214.8.8={ death=yes }
+}
+1019916141={
+	name=Kitchi
+	dynasty=1009990128
+	dna="pkjohhnnakl"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=8 learning=7
+	father=1019916133	#Megedagik
+	1162.7.13={ birth=yes }
+	1213.4.16={ death=yes }
+}
+1019916142={
+	name=Askook
+	dynasty=1009990128
+	dna="dkjnjalljpl"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=6 learning=8
+	father=1019916133	#Megedagik
+	1166.2.15={ birth=yes }
+	1252.11.30={ death=yes }
+}
+1019916143={
+	name=Segenam
+	dynasty=1009990128
+	dna="ikjamlnfokl"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=8
+	father=1019916133	#Megedagik
+	1171.5.11={ birth=yes }
+	1247.3.16={ death=yes }
+}
+1019916144={
+	name=Taregan
+	dynasty=1009990128
+	dna="hhjmalggjia"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	father=1019916140	#Kestejoo
+	1179.3.1={ birth=yes }
+	1239.12.6={ death=yes }
+}
+1019916145={
+	name=Alawa
+	female=yes
+	dynasty=1009990128
+	dna="pfjolkbkmia"
+	culture=abenaki religion=algic_pagan
+	father=1019916140	#Kestejoo
+	1185.2.5={ birth=yes }
+	1252.1.7={ death=yes }
+}
+1019916146={
+	name=Keme
+	dynasty=1009990128
+	dna="pafikfaegge"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=8
+	father=1019916140	#Kestejoo
+	1190.8.7={ birth=yes }
+	1275.2.11={ death=yes }
+}
+1019916147={
+	name=Shanawdithit
+	female=yes
+	dynasty=1009990128
+	dna="poignfalnic"
+	culture=abenaki religion=algic_pagan
+	father=1019916140	#Kestejoo
+	1194.9.10={ birth=yes }
+	1258.10.3={ death=yes }
+}
+1019916148={
+	name=Matchitisiw
+	dynasty=1009990128
+	dna="ebjllfaojmc"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	father=1019916140	#Kestejoo
+	1198.11.20={ birth=yes }
+	1260.6.12={ death=yes }
+}
+1019916149={
+	name=Togquos
+	dynasty=1009990128
+	dna="ghjmblbgjia"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	father=1019916144	#Taregan
+	1203.5.9={ birth=yes }
+	1298.11.13={ death=yes }
+}
+1019916150={
+	name=Matchitehew
+	dynasty=1009990128
+	dna="nhjgacgejma"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=5 learning=6
+	father=1019916144	#Taregan
+	1208.11.20={ birth=yes }
+	1293.2.27={ death=yes }
+}
+1019916151={
+	name=Hausis
+	female=yes
+	dynasty=1009990128
+	dna="dgdjccgcjie"
+	culture=abenaki religion=algic_pagan
+	father=1019916144	#Taregan
+	1211.6.4={ birth=yes }
+	1295.10.7={ death=yes }
+}
+1019916152={
+	name=Numees
+	female=yes
+	dynasty=1009990128
+	dna="mhhmkhbgjga"
+	culture=abenaki religion=algic_pagan
+	father=1019916149	#Togquos
+	1225.6.16={ birth=yes }
+	1282.8.26={ death=yes }
+}
+1019916153={
+	name=Sunukkuhkau
+	dynasty=1009990128
+	dna="eabnnojdjia"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=4 learning=4
+	father=1019916149	#Togquos
+	1231.9.5={ birth=yes }
+	1304.11.10={ death=yes }
+}
+1019916154={
+	name=lusilussit
+	dynasty=1009990128
+	dna="elndngjmbia"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=4
+	father=1019916153	#Sunukkuhkau
+	1258.2.14={ birth=yes }
+	1314.4.16={ death=yes }
+}
+1019916155={
+	name=Takhi
+	female=yes
+	dynasty=1009990128
+	dna="pabneoddpik"
+	culture=abenaki religion=algic_pagan
+	father=1019916153	#Sunukkuhkau
+	1264.6.12={ birth=yes }
+	1340.6.26={ death=yes }
+}
+1019916156={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990128
+	dna="elddicjpdag"
+	culture=abenaki religion=algic_pagan
+	father=1019916154	#lusilussit
+	1280.1.12={ birth=yes }
+	1363.12.31={ death=yes }
+}
+1019916157={
+	name=Huritt
+	dynasty=1009990128
+	dna="elndggjmbia"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=4 learning=8
+	father=1019916154	#lusilussit
+	1285.1.15={ birth=yes }
+	1346.2.12={ death=yes }
+}
+1019916158={
+	name=Alawa
+	female=yes
+	dynasty=1009990128
+	dna="ofndpajmpik"
+	culture=abenaki religion=algic_pagan
+	father=1019916154	#lusilussit
+	1290.5.19={ birth=yes }
+	1343.11.28={ death=yes }
+}
+1019916159={
+	name=Nadie
+	female=yes
+	dynasty=1009990128
+	dna="ehndifkmaio"
+	culture=abenaki religion=algic_pagan
+	father=1019916154	#lusilussit
+	1294.4.8={ birth=yes }
+	1359.2.23={ death=yes }
+}
+1019916160={
+	name=Megedagik
+	dynasty=1009990128
+	dna="epkdgojibjc"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=8 learning=8
+	father=1019916157	#Huritt
+	1310.1.14={ birth=yes }
+	1391.5.2={ death=yes }
+}
+1019916161={
+	name=Numees
+	female=yes
+	dynasty=1009990128
+	dna="elmkmgbdjma"
+	culture=abenaki religion=algic_pagan
+	father=1019916157	#Huritt
+	1316.2.15={ birth=yes }
+	1373.10.1={ death=yes }
+}
+1019916162={
+	name=Anna
+	female=yes
+	dynasty=1009990128
+	dna="ehibgphgdia"
+	culture=abenaki religion=algic_pagan
+	father=1019916157	#Huritt
+	1321.9.20={ birth=yes }
+	1370.9.19={ death=yes }
+}
+1019916163={
+	name=Megedagik
+	dynasty=1009990128
+	dna="epkdgoebbji"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=7 learning=6
+	father=1019916160	#Megedagik
+	1341.7.25={ birth=yes }
+	1405.11.28={ death=yes }
+}
+1019916164={
+	name=Chansomps
+	dynasty=1009990128
+	dna="npkfgojkbjp"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=4
+	father=1019916160	#Megedagik
+	1343.8.15={ birth=yes }
+	1399.4.24={ death=yes }
+}
+1019916165={
+	name=Hassun
+	dynasty=1009990128
+	dna="ophgeojihmj"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=7 learning=4
+	father=1019916160	#Megedagik
+	1349.8.6={ birth=yes }
+	1405.9.29={ death=yes }
+}
+1019916166={
+	name=Makkitotosimew
+	female=yes
+	dynasty=1009990128
+	dna="epkfajlibol"
+	culture=abenaki religion=algic_pagan
+	father=1019916160	#Megedagik
+	1355.8.21={ birth=yes }
+	1433.3.12={ death=yes }
+}
+1019916167={
+	name=Abukcheech
+	dynasty=1009990128
+	dna="epcdiljmahi"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=7 learning=6
+	father=1019916163	#Megedagik
+	1368.8.20={ birth=yes }
+	1456.8.8={ death=yes }
+}
+1019916168={
+	name=Demasduit
+	female=yes
+	dynasty=1009990128
+	dna="kckoloebbjk"
+	culture=abenaki religion=algic_pagan
+	father=1019916163	#Megedagik
+	1372.9.18={ birth=yes }
+	1436.6.28={ death=yes }
+}
+1019916169={
+	name=Tihkoosue
+	dynasty=1009990128
+	dna="eegdjmbbbao"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=4
+	father=1019916163	#Megedagik
+	1380.3.11={ birth=yes }
+	1464.12.6={ death=yes }
+}
+1019916170={
+	name=Tihkoosue
+	dynasty=1009990129
+	dna="knopboimcdd"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	719.1.26={ birth=yes }
+	786.4.4={ death=yes }
+}
+1019916171={
+	name=Askook
+	dynasty=1009990129
+	dna="jnopieimcma"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=4 learning=4
+	father=1019916170	#Tihkoosue
+	737.6.9={ birth=yes }
+	778.7.24={ death=yes }
+}
+1019916172={
+	name=Kimi
+	female=yes
+	dynasty=1009990129
+	dna="bnmdgoamjpk"
+	culture=abenaki religion=algic_pagan
+	father=1019916170	#Tihkoosue
+	741.6.10={ birth=yes }
+	826.7.15={ death=yes }
+}
+1019916173={
+	name=Matchitehew
+	dynasty=1009990129
+	dna="lcejmpbmcjd"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=7 learning=4
+	father=1019916170	#Tihkoosue
+	744.7.2={ birth=yes }
+	824.8.16={ death=yes }
+}
+1019916174={
+	name=Winona
+	female=yes
+	dynasty=1009990129
+	dna="nniahopmidd"
+	culture=abenaki religion=algic_pagan
+	father=1019916170	#Tihkoosue
+	748.4.7={ birth=yes }
+	819.11.11={ death=yes }
+}
+1019916175={
+	name=Oota
+	female=yes
+	dynasty=1009990129
+	dna="dnaklgmicdd"
+	culture=abenaki religion=algic_pagan
+	father=1019916170	#Tihkoosue
+	753.8.18={ birth=yes }
+	829.2.25={ death=yes }
+}
+1019916176={
+	name=Winona
+	female=yes
+	dynasty=1009990129
+	dna="kmlpjejoagm"
+	culture=abenaki religion=algic_pagan
+	father=1019916170	#Tihkoosue
+	757.11.11={ birth=yes }
+	844.1.24={ death=yes }
+}
+1019916177={
+	name=Matchitehew
+	dynasty=1009990129
+	dna="kpopkoifddd"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=6 learning=8
+	father=1019916170	#Tihkoosue
+	762.3.2={ birth=yes }
+	824.10.12={ death=yes }
+}
+1019916178={
+	name=Mukki
+	dynasty=1009990129
+	dna="coojimbejma"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=5 
+	father=1019916171	#Askook
+	759.8.19={ birth=yes }
+	831.1.22={ death=yes }
+}
+1019916179={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990129
+	dna="jnjkleiecml"
+	culture=abenaki religion=algic_pagan
+	father=1019916171	#Askook
+	763.12.11={ birth=yes }
+	832.5.12={ death=yes }
+}
+1019916180={
+	name=Huritt
+	dynasty=1009990129
+	dna="cajiemdajfa"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	father=1019916178	#Mukki
+	784.3.25={ birth=yes }
+	869.5.31={ death=yes }
+}
+1019916181={
+	name=Nijlon
+	female=yes
+	dynasty=1009990129
+	dna="coojgmoeama"
+	culture=abenaki religion=algic_pagan
+	father=1019916178	#Mukki
+	788.3.24={ birth=yes }
+	872.9.8={ death=yes }
+}
+1019916182={
+	name=Nosh
+	dynasty=1009990129
+	dna="iognkbbacfa"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=5
+	father=1019916178	#Mukki
+	795.3.22={ birth=yes }
+	873.5.14={ death=yes }
+}
+1019916183={
+	name=Aranck
+	dynasty=1009990129
+	dna="cmofifhpema"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	father=1019916178	#Mukki
+	800.2.17={ birth=yes }
+	863.1.27={ death=yes }
+}
+1019916184={
+	name=Aranck
+	dynasty=1009990129
+	dna="ndhkbmdlldc"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	father=1019916180	#Huritt
+	809.8.14={ birth=yes }
+	891.6.21={ death=yes }
+}
+1019916185={
+	name=Huritt
+	dynasty=1009990129
+	dna="hmjiemdafjo"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=4 learning=6
+	father=1019916180	#Huritt
+	813.6.13={ birth=yes }
+	899.5.26={ death=yes }
+}
+1019916186={
+	name=Pannoowau
+	dynasty=1009990129
+	dna="cappemoanga"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=7 learning=7
+	father=1019916180	#Huritt
+	820.7.19={ birth=yes }
+	881.2.4={ death=yes }
+}
+1019916187={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990129
+	dna="cijimcdchfa"
+	culture=abenaki religion=algic_pagan
+	father=1019916180	#Huritt
+	825.5.2={ birth=yes }
+	891.12.12={ death=yes }
+}
+1019916188={
+	name=Matchitehew
+	dynasty=1009990129
+	dna="kchkdmdllkc"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=4 learning=4
+	father=1019916184	#Aranck
+	833.8.10={ birth=yes }
+	917.5.14={ death=yes }
+}
+1019916189={
+	name=Kestejoo
+	dynasty=1009990129
+	dna="ndhklldhcdc"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=5 learning=6
+	father=1019916184	#Aranck
+	838.1.22={ birth=yes }
+	896.6.17={ death=yes }
+}
+1019916190={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990129
+	dna="ndkkbbdilkc"
+	culture=abenaki religion=algic_pagan
+	father=1019916184	#Aranck
+	843.12.24={ birth=yes }
+	914.12.15={ death=yes }
+}
+1019916191={
+	name=Nittawosew
+	female=yes
+	dynasty=1009990129
+	dna="kckkdpdmldk"
+	culture=abenaki religion=algic_pagan
+	father=1019916188	#Matchitehew
+	853.3.16={ birth=yes }
+	925.8.19={ death=yes }
+}
+1019916192={
+	name=Melkedoodum
+	dynasty=1009990129
+	dna="nchndjdmnjc"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	father=1019916188	#Matchitehew
+	855.5.19={ birth=yes }
+	926.5.27={ death=yes }
+}
+1019916193={
+	name=Aranck
+	dynasty=1009990129
+	dna="ihhkmmdllkc"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=8
+	father=1019916188	#Matchitehew
+	860.4.8={ birth=yes }
+	919.8.4={ death=yes }
+}
+1019916194={
+	name=Demasduit
+	female=yes
+	dynasty=1009990129
+	dna="kchpdmljlko"
+	culture=abenaki religion=algic_pagan
+	father=1019916188	#Matchitehew
+	864.7.2={ birth=yes }
+	944.10.24={ death=yes }
+}
+1019916195={
+	name=Sokw
+	female=yes
+	dynasty=1009990129
+	dna="hnhgkmollde"
+	culture=abenaki religion=algic_pagan
+	father=1019916188	#Matchitehew
+	867.12.7={ birth=yes }
+	945.5.23={ death=yes }
+}
+1019916196={
+	name=Aranck
+	dynasty=1009990129
+	dna="lbheoedlokc"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=4 learning=4
+	father=1019916188	#Matchitehew
+	870.5.24={ birth=yes }
+	947.6.25={ death=yes }
+}
+1019916197={
+	name=Askook
+	dynasty=1009990129
+	dna="achndjdnnia"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=7 learning=5
+	father=1019916192	#Melkedoodum
+	880.8.14={ birth=yes }
+	937.2.8={ death=yes }
+}
+1019916198={
+	name=Nijlon
+	female=yes
+	dynasty=1009990129
+	dna="nchndiimijc"
+	culture=abenaki religion=algic_pagan
+	father=1019916192	#Melkedoodum
+	883.7.12={ birth=yes }
+	939.9.3={ death=yes }
+}
+1019916199={
+	name=Huritt
+	dynasty=1009990129
+	dna="nckifeamnac"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=7
+	father=1019916192	#Melkedoodum
+	887.2.15={ birth=yes }
+	958.9.10={ death=yes }
+}
+1019916200={
+	name=Etlelooat
+	dynasty=1009990129
+	dna="pcmjajdhddh"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=4
+	father=1019916192	#Melkedoodum
+	890.1.7={ birth=yes }
+	955.1.6={ death=yes }
+}
+1019916201={
+	name=Matwau
+	dynasty=1009990129
+	dna="fchnddnmkic"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=8
+	father=1019916192	#Melkedoodum
+	894.2.18={ birth=yes }
+	964.7.9={ death=yes }
+}
+1019916202={
+	name=Askuwheteau
+	dynasty=1009990129
+	dna="njmnicimelc"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=8 
+	father=1019916192	#Melkedoodum
+	898.12.20={ birth=yes }
+	958.5.19={ death=yes }
+}
+1019916203={
+	name=Sokanon
+	female=yes
+	dynasty=1009990129
+	dna="lphdngdlgdl"
+	culture=abenaki religion=algic_pagan
+	father=1019916192	#Melkedoodum
+	904.10.27={ birth=yes }
+	983.11.13={ death=yes }
+}
+1019916204={
+	name=Nosh
+	dynasty=1009990129
+	dna="hchndjdgcio"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=6 learning=8
+	father=1019916197	#Askook
+	905.4.26={ birth=yes }
+	974.6.7={ death=yes }
+}
+1019916205={
+	name=Powwaw
+	dynasty=1009990129
+	dna="jchadpphnai"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=8
+	father=1019916197	#Askook
+	910.11.14={ birth=yes }
+	979.3.21={ death=yes }
+}
+1019916206={
+	name=Kestejoo
+	dynasty=1009990129
+	dna="nahfhjdnnii"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	add_trait=proud 
+	father=1019916197	#Askook
+	915.4.26={ birth=yes }
+	1007.2.25={ death=yes }
+}
+1019916207={
+	name=Chogan
+	dynasty=1009990129
+	dna="hcbnnjidjio"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	father=1019916204	#Nosh
+	933.7.7={ birth=yes }
+	995.12.1={ death=yes }
+}
+1019916208={
+	name=Mukki
+	dynasty=1009990129
+	dna="lcondhdambp"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=7 learning=5
+	father=1019916204	#Nosh
+	941.7.21={ birth=yes }
+	1023.2.13={ death=yes }
+}
+1019916209={
+	name=Pauwau
+	female=yes
+	dynasty=1009990129
+	dna="bhlidjidlco"
+	culture=abenaki religion=algic_pagan
+	father=1019916207	#Chogan
+	963.5.5={ birth=yes }
+	1034.7.25={ death=yes }
+}
+1019916210={
+	name=Sunukkuhkau
+	dynasty=1009990129
+	dna="hkbpcmnjjgd"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=7
+	father=1019916207	#Chogan
+	969.8.3={ birth=yes }
+	1028.3.23={ death=yes }
+}
+1019916211={
+	name=Ahanu
+	dynasty=1009990129
+	dna="lcbenoidngo"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=4 learning=6
+	add_trait=zealous 
+	father=1019916207	#Chogan
+	974.11.16={ birth=yes }
+	1029.1.11={ death=yes }
+}
+1019916212={
+	name=lusilussit
+	dynasty=1009990129
+	dna="kebanjiijip"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=8 learning=6
+	add_trait=gluttonous 
+	father=1019916207	#Chogan
+	978.2.2={ birth=yes }
+	1053.10.3={ death=yes }
+}
+1019916213={
+	name=Matwau
+	dynasty=1009990129
+	dna="cncpcingjbg"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=5
+	add_trait=lustful add_trait=humble 
+	father=1019916210	#Sunukkuhkau
+	1001.8.17={ birth=yes }
+	1084.10.31={ death=yes }
+}
+1019916214={
+	name=Chansomps
+	dynasty=1009990129
+	dna="hpopcmnjefd"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=6 learning=8
+	father=1019916210	#Sunukkuhkau
+	1007.12.23={ birth=yes }
+	1084.5.11={ death=yes }
+}
+1019916215={
+	name=Rowtag
+	dynasty=1009990129
+	dna="nkbbepndhgd"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=7
+	add_trait=honest add_trait=paranoid 
+	father=1019916210	#Sunukkuhkau
+	1011.3.15={ birth=yes }
+	1065.2.12={ death=yes }
+}
+1019916216={
+	name=Sokw
+	female=yes
+	dynasty=1009990129
+	dna="micppdngjmg"
+	culture=abenaki religion=algic_pagan
+	father=1019916213	#Matwau
+	1023.5.24={ birth=yes }
+	1089.7.8={ death=yes }
+}
+1019916217={
+	name=Nosh
+	dynasty=1009990129
+	dna="knbjciagjbm"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=5
+	father=1019916213	#Matwau
+	1026.4.27={ birth=yes }
+	1094.2.11={ death=yes }
+}
+1019916218={
+	name=Nootau
+	dynasty=1009990129
+	dna="cgfpmlpgjgg"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=5
+	add_trait=wounded 
+	father=1019916213	#Matwau
+	1033.8.25={ birth=yes }
+	1107.5.25={ death=yes }
+}
+1019916219={
+	name=Matchitehew
+	dynasty=1009990129
+	dna="cncplinplge"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	father=1019916213	#Matwau
+	1040.7.8={ birth=yes }
+	1127.1.23={ death=yes }
+}
+1019916220={
+	name=Etlelooat
+	dynasty=1009990129
+	dna="anfbinabjem"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=7 learning=6
+	add_trait=envious add_trait=proud 
+	father=1019916217	#Nosh
+	1056.10.10={ birth=yes }
+	1116.3.6={ death=yes }
+}
+1019916221={
+	name=Sooleawa
+	female=yes
+	dynasty=1009990129
+	dna="knkjlifgohm"
+	culture=abenaki religion=algic_pagan
+	father=1019916217	#Nosh
+	1060.6.8={ birth=yes }
+	1160.5.28={ death=yes }
+}
+1019916222={
+	name=Anna
+	female=yes
+	dynasty=1009990129
+	dna="gmbjccfgkmd"
+	culture=abenaki religion=algic_pagan
+	father=1019916217	#Nosh
+	1065.6.1={ birth=yes }
+	1130.8.22={ death=yes }
+}
+1019916223={
+	name=Machk
+	dynasty=1009990129
+	dna="dibjcilglim"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	father=1019916217	#Nosh
+	1067.6.27={ birth=yes }
+	1137.2.18={ death=yes }
+}
+1019916224={
+	name=Nootau
+	dynasty=1009990129
+	dna="knbjcgegjom"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=8 learning=5
+	father=1019916217	#Nosh
+	1072.8.6={ birth=yes }
+	1127.11.25={ death=yes }
+}
+1019916225={
+	name=Kanti
+	female=yes
+	dynasty=1009990129
+	dna="acfbmaeojcd"
+	culture=abenaki religion=algic_pagan
+	father=1019916220	#Etlelooat
+	1086.2.13={ birth=yes }
+	1164.1.3={ death=yes }
+}
+1019916226={
+	name=Hausisse
+	female=yes
+	dynasty=1009990129
+	dna="klhbibccoee"
+	culture=abenaki religion=algic_pagan
+	father=1019916220	#Etlelooat
+	1090.4.20={ birth=yes }
+	1156.11.7={ death=yes }
+}
+1019916227={
+	name=Rowtag
+	dynasty=1009990129
+	dna="aafbdncclej"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=4 learning=7
+	father=1019916220	#Etlelooat
+	1095.11.18={ birth=yes }
+	1165.6.2={ death=yes }
+}
+1019916228={
+	name=Makkitotosimew
+	female=yes
+	dynasty=1009990129
+	dna="bnfbincpjan"
+	culture=abenaki religion=algic_pagan
+	father=1019916220	#Etlelooat
+	1099.9.26={ birth=yes }
+	1159.5.28={ death=yes }
+}
+1019916229={
+	name=Hausis
+	female=yes
+	dynasty=1009990129
+	dna="apfbjhdgihe"
+	culture=abenaki religion=algic_pagan
+	father=1019916220	#Etlelooat
+	1105.11.25={ birth=yes }
+	1157.7.30={ death=yes }
+}
+1019916230={
+	name=Askuwheteau
+	dynasty=1009990129
+	dna="nnfognjnjkm"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=7
+	father=1019916220	#Etlelooat
+	1108.2.16={ birth=yes }
+	1177.12.22={ death=yes }
+}
+1019916231={
+	name=Megedagik
+	dynasty=1009990129
+	dna="eponmjmcbem"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=7 learning=8
+	father=1019916227	#Rowtag
+	1118.9.15={ birth=yes }
+	1198.10.30={ death=yes }
+}
+1019916232={
+	name=Noshi
+	dynasty=1009990129
+	dna="cmfamplcleh"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=4 learning=8
+	father=1019916227	#Rowtag
+	1124.3.24={ birth=yes }
+	1178.11.8={ death=yes }
+}
+1019916233={
+	name=Nosh
+	dynasty=1009990129
+	dna="kcjghncdmbj"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	father=1019916227	#Rowtag
+	1126.8.1={ birth=yes }
+	1179.8.26={ death=yes }
+}
+1019916234={
+	name=Wematin
+	dynasty=1009990129
+	dna="fnfbdnlcllg"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=7 learning=5
+	father=1019916227	#Rowtag
+	1132.6.4={ birth=yes }
+	1185.7.18={ death=yes }
+}
+1019916235={
+	name=Askook
+	dynasty=1009990129
+	dna="fagbnfclpej"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=6 learning=5
+	add_trait=patient 
+	father=1019916227	#Rowtag
+	1138.10.5={ birth=yes }
+	1217.6.17={ death=yes }
+}
+1019916236={
+	name=Keme
+	dynasty=1009990129
+	dna="fmfbkedpllj"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=7
+	father=1019916227	#Rowtag
+	1141.3.20={ birth=yes }
+	1204.5.13={ death=yes }
+}
+1019916237={
+	name=Enkoodabaoo
+	dynasty=1009990129
+	dna="eafbejcclab"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=7
+	father=1019916227	#Rowtag
+	1145.9.19={ birth=yes }
+	1230.11.9={ death=yes }
+}
+1019916238={
+	name=Machk
+	dynasty=1009990129
+	dna="epbkajmhden"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=4 learning=5
+	father=1019916231	#Megedagik
+	1140.9.26={ birth=yes }
+	1226.6.22={ death=yes }
+}
+1019916239={
+	name=Melkedoodum
+	dynasty=1009990129
+	dna="epgmclbcbel"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	father=1019916231	#Megedagik
+	1146.1.10={ birth=yes }
+	1200.7.3={ death=yes }
+}
+1019916240={
+	name=Pauwau
+	female=yes
+	dynasty=1009990129
+	dna="bpbpajmhdfn"
+	culture=abenaki religion=algic_pagan
+	father=1019916238	#Machk
+	1161.9.7={ birth=yes }
+	1239.12.4={ death=yes }
+}
+1019916241={
+	name=Numees
+	female=yes
+	dynasty=1009990129
+	dna="eabkfjoddkk"
+	culture=abenaki religion=algic_pagan
+	father=1019916238	#Machk
+	1168.8.5={ birth=yes }
+	1232.8.24={ death=yes }
+}
+1019916242={
+	name=Kestejoo
+	dynasty=1009990129
+	dna="nldgagimkon"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=5 learning=4
+	father=1019916238	#Machk
+	1175.5.25={ birth=yes }
+	1259.4.21={ death=yes }
+}
+1019916243={
+	name=Tihkoosue
+	dynasty=1009990129
+	dna="nmnfalkkbon"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=5
+	father=1019916242	#Kestejoo
+	1203.3.20={ birth=yes }
+	1253.1.19={ death=yes }
+}
+1019916244={
+	name=Oota
+	female=yes
+	dynasty=1009990129
+	dna="gemeaeamkoo"
+	culture=abenaki religion=algic_pagan
+	father=1019916242	#Kestejoo
+	1211.5.21={ birth=yes }
+	1277.1.27={ death=yes }
+}
+1019916245={
+	name=Pajackok
+	dynasty=1009990129
+	dna="lpdgfkfdeog"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	father=1019916242	#Kestejoo
+	1217.4.10={ birth=yes }
+	1276.6.20={ death=yes }
+}
+1019916246={
+	name=Matchitehew
+	dynasty=1009990129
+	dna="noagdojjbcn"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=7
+	father=1019916242	#Kestejoo
+	1222.12.7={ birth=yes }
+	1276.3.21={ death=yes }
+}
+1019916247={
+	name=Takhi
+	female=yes
+	dynasty=1009990129
+	dna="idnajlhakml"
+	culture=abenaki religion=algic_pagan
+	father=1019916243	#Tihkoosue
+	1228.9.25={ birth=yes }
+	1283.11.23={ death=yes }
+}
+1019916248={
+	name=Pauwau
+	female=yes
+	dynasty=1009990129
+	dna="nknfdfkkbin"
+	culture=abenaki religion=algic_pagan
+	father=1019916243	#Tihkoosue
+	1231.5.2={ birth=yes }
+	1308.10.25={ death=yes }
+}
+1019916249={
+	name=Matunaaga
+	dynasty=1009990129
+	dna="bmnfglkklhe"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=5
+	father=1019916243	#Tihkoosue
+	1235.12.27={ birth=yes }
+	1309.12.20={ death=yes }
+}
+1019916250={
+	name=Machk
+	dynasty=1009990129
+	dna="nmnfbljhbof"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=6 learning=6
+	father=1019916243	#Tihkoosue
+	1239.3.26={ birth=yes }
+	1323.1.12={ death=yes }
+}
+1019916251={
+	name=Kanti
+	female=yes
+	dynasty=1009990129
+	dna="amnfaikpboe"
+	culture=abenaki religion=algic_pagan
+	father=1019916243	#Tihkoosue
+	1244.5.15={ birth=yes }
+	1306.4.16={ death=yes }
+}
+1019916252={
+	name=Dabun
+	female=yes
+	dynasty=1009990129
+	dna="ndnahlkkboo"
+	culture=abenaki religion=algic_pagan
+	father=1019916243	#Tihkoosue
+	1249.10.20={ birth=yes }
+	1310.6.21={ death=yes }
+}
+1019916253={
+	name=Dabun
+	female=yes
+	dynasty=1009990129
+	dna="nmnfblkkhie"
+	culture=abenaki religion=algic_pagan
+	father=1019916243	#Tihkoosue
+	1255.12.1={ birth=yes }
+	1310.3.2={ death=yes }
+}
+1019916254={
+	name=Nosh
+	dynasty=1009990129
+	dna="bmnjgllhlfe"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=7 learning=7
+	father=1019916249	#Matunaaga
+	1264.8.13={ birth=yes }
+	1326.9.27={ death=yes }
+}
+1019916255={
+	name=Makkapitew
+	dynasty=1009990129
+	dna="dbnfgmffkhe"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=4 learning=5
+	father=1019916249	#Matunaaga
+	1267.8.16={ birth=yes }
+	1306.1.2={ death=yes }
+}
+1019916256={
+	name=Hausisse
+	female=yes
+	dynasty=1009990129
+	dna="bcnfglcdlhp"
+	culture=abenaki religion=algic_pagan
+	father=1019916249	#Matunaaga
+	1272.5.20={ birth=yes }
+	1361.7.15={ death=yes }
+}
+1019916257={
+	name=Sooleawa
+	female=yes
+	dynasty=1009990129
+	dna="gmgfgliklme"
+	culture=abenaki religion=algic_pagan
+	father=1019916249	#Matunaaga
+	1274.9.22={ birth=yes }
+	1360.1.28={ death=yes }
+}
+1019916258={
+	name=Dabun
+	female=yes
+	dynasty=1009990129
+	dna="ompadfkelpp"
+	culture=abenaki religion=algic_pagan
+	father=1019916249	#Matunaaga
+	1278.9.18={ birth=yes }
+	1347.3.21={ death=yes }
+}
+1019916259={
+	name=Nootau
+	dynasty=1009990129
+	dna="pmnfghnklje"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=7 learning=8
+	father=1019916249	#Matunaaga
+	1283.3.5={ birth=yes }
+	1331.11.22={ death=yes }
+}
+1019916260={
+	name=Nuttah
+	female=yes
+	dynasty=1009990129
+	dna="bnnjgolabfp"
+	culture=abenaki religion=algic_pagan
+	father=1019916254	#Nosh
+	1298.6.4={ birth=yes }
+	1396.5.17={ death=yes }
+}
+1019916261={
+	name=Segenam
+	dynasty=1009990129
+	dna="pglgggnnmfe"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=7
+	father=1019916254	#Nosh
+	1304.8.24={ birth=yes }
+	1387.8.20={ death=yes }
+}
+1019916262={
+	name=Demasduit
+	female=yes
+	dynasty=1009990129
+	dna="klnehmdiljg"
+	culture=abenaki religion=algic_pagan
+	father=1019916254	#Nosh
+	1311.9.17={ birth=yes }
+	1388.4.30={ death=yes }
+}
+1019916263={
+	name=Sooleawa
+	female=yes
+	dynasty=1009990129
+	dna="omnjojollgi"
+	culture=abenaki religion=algic_pagan
+	father=1019916254	#Nosh
+	1316.7.6={ birth=yes }
+	1402.3.13={ death=yes }
+}
+1019916264={
+	name=Pajackok
+	dynasty=1009990129
+	dna="hffkfpjmmfe"
+	culture=abenaki religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	father=1019916261	#Segenam
+	1329.5.3={ birth=yes }
+	1383.7.25={ death=yes }
+}
+1019916265={
+	name=Etchemin
+	dynasty=1009990129
+	dna="pllggpnnofo"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=8 learning=6
+	father=1019916261	#Segenam
+	1336.2.13={ birth=yes }
+	1414.3.10={ death=yes }
+}
+1019916266={
+	name=Matwau
+	dynasty=1009990129
+	dna="lbembnnnafe"
+	culture=abenaki religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=4 learning=8
+	father=1019916261	#Segenam
+	1341.9.7={ birth=yes }
+	1401.5.15={ death=yes }
+}
+1019916267={
+	name=Hassun
+	dynasty=1009990129
+	dna="pglgpcjnmfe"
+	culture=abenaki religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=4 learning=8
+	father=1019916261	#Segenam
+	1346.1.10={ birth=yes }
+	1423.12.19={ death=yes }
+}
+1019916268={
+	name=Segenam
+	dynasty=1009990129
+	dna="holjfdbmjfe"
+	culture=abenaki religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=5
+	father=1019916264	#Pajackok
+	1357.3.16={ birth=yes }
+	1418.2.17={ death=yes }
+}
+1019916269={
+	name=Hurit
+	female=yes
+	dynasty=1009990129
+	dna="afflajagdfp"
+	culture=abenaki religion=algic_pagan
+	father=1019916264	#Pajackok
+	1362.12.16={ birth=yes }
+	1418.11.4={ death=yes }
+}
+1019916270={
+	name=Takhi
+	female=yes
+	dynasty=1009990129
+	dna="lffefpndlie"
+	culture=abenaki religion=algic_pagan
+	father=1019916264	#Pajackok
+	1369.11.20={ birth=yes }
+	1427.9.18={ death=yes }
+}
+1019916271={
+	name=Chepi
+	female=yes
+	dynasty=1009990129
+	dna="hcigdpjmhfe"
+	culture=abenaki religion=algic_pagan
+	father=1019916264	#Pajackok
+	1374.2.5={ birth=yes }
+	1448.6.20={ death=yes }
+}
+1019916272={
+	name=Segenam
+	dynasty=1009990129
+	dna="fobeefbmjhe"
+	culture=abenaki religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=7 learning=4
+	father=1019916268	#Segenam
+	1379.4.21={ birth=yes }
+	1461.3.22={ death=yes }
+}
+1019916273={
+	name=Nittawosew
+	female=yes
+	dynasty=1009990129
+	dna="hokbodjkfce"
+	culture=abenaki religion=algic_pagan
+	father=1019916268	#Segenam
+	1383.6.19={ birth=yes }
+	1461.12.10={ death=yes }
+}
+1019916274={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990129
+	dna="ooddflkgdfe"
+	culture=abenaki religion=algic_pagan
+	father=1019916268	#Segenam
+	1387.5.23={ birth=yes }
+	1457.10.16={ death=yes }
+}
+1019916275={
+	name=Hausis
+	female=yes
+	dynasty=1009990129
+	dna="holjfdbfjnp"
+	culture=abenaki religion=algic_pagan
+	father=1019916268	#Segenam
+	1392.5.27={ birth=yes }
+	1470.6.17={ death=yes }
+}
+1019916276={
+	name=Oota
+	female=yes
+	dynasty=1009990129
+	dna="holniegplfn"
+	culture=abenaki religion=algic_pagan
+	father=1019916268	#Segenam
+	1398.6.8={ birth=yes }
+	1470.1.21={ death=yes }
+}

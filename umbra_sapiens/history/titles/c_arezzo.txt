@@ -1,0 +1,110 @@
+769.1.1 = {
+	holder = 259022
+	liege = k_italy
+}
+867.1.1 = {
+	holder = 259023
+	liege = d_toscana
+}
+936.1.1 = {
+	holder = 260623
+}
+1066.1.1 = {
+	holder = 259024
+}
+1095.1.1 = {
+	holder = 259025
+}
+1098.1.1 = {
+	holder = 259026
+}
+1139.1.1 = {
+	liege = e_hre
+}
+1164.1.1 ={
+	holder = 259027
+}
+1201.1.1 = {
+	holder = 259028
+}
+1241.1.1 = {
+	holder = 259029
+}
+1250.1.1 = {
+	liege = 0
+}
+1298.1.1 = {
+	holder = 259030
+}
+1321.1.1 = {
+	holder=380998 #Guido Tarlati
+}
+1327.10.21={
+	holder=380999 
+}
+1384.1.1={
+	holder=380957	#Maso degli Albizzi
+}
+1417.1.1 = {
+	holder=380956	#Niccolò da Uzzano
+}
+1433.1.1={
+	holder=380996	#Bernardo Guadagni
+}
+1434.10.6={
+	holder=371490	#Cosimo de' Medici
+}
+1464.8.1 = {
+	holder=371495	#Piero di Cosimo de' Medici
+}
+1469.12.2 = {
+	holder=371502	#Lorenzo de' Medici
+}
+1492.5.8 = {
+	holder=371509	#Piero di Lorenzo de' Medici
+}
+1494.11.1 = {
+	holder=380992	#Girolamo Savonarola
+	#theocracy
+}
+1498.3.18 = {
+	holder=380993	#Piero Soderini
+	#republic
+}
+1512.8.31 = {
+	holder=371509	#Giovanni di Lorenzo de' Medici
+}
+1513.3.9 = {
+	holder=371515	#Giuliano de' Medici, Duke of Nemours
+}
+1516.3.17 = {
+	holder=371519	#Lorenzo de' Medici, Duke of Urbino
+}
+1519.5.4 = {
+	holder=371506	#Pope Clement VII
+}
+1523.11.19 = {
+	holder=371516	#Ippolito de' Medici
+}
+1527.5.6 = {
+	holder=380994	#Francesco Ferruccio
+	#republic
+}
+1530.8.10={
+	holder=371536	#Alessandro de' Medici
+}
+1537.1.6 = {
+	holder=371627	#Cosimo I de' Medici
+}
+1574.4.21 = {
+	holder=371676	#Francesco I de' Medici
+}
+1587.10.19 = {
+	holder=371683	#Ferdinando I de' Medici
+}
+1609.1.17 = {
+	holder=372580	#Cosimo II de' Medici
+}
+1621.2.28 = {
+	holder=372613	#Ferdinando II de' Medici
+}

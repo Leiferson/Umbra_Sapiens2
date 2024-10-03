@@ -1,0 +1,27 @@
+# 2919 - Gabu
+
+# County Title
+title = c_gabu
+
+# Settlements
+max_settlements = 4
+b_gabu = tribal
+
+#b_yaresna = city
+#b_ghiyaru = temple
+#b_diouboye = castle
+#b_goundafal = castle
+#b_sankaran = castle
+#b_kiffa = castle
+
+# Misc
+culture = balanta
+religion = west_african_pagan
+
+# History
+1250.1.1 = { religion = sunni }
+1300.1.1 = {
+	b_gabu = castle
+	b_dayankara = city
+	b_dubaduhanda = temple
+}

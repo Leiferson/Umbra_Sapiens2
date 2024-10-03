@@ -1,0 +1,246 @@
+706.1.1 = {
+	liege="e_arabia"
+	holder=146014
+}
+735.1.1 = {
+	holder=146015
+}
+754.1.1 = {
+	holder=146016
+}
+783.1.1 = {
+	holder=146019
+}
+794.1.1 = {
+	holder=146021
+}
+860.1.1 = {
+	liege=0
+	holder=159737
+}
+880.1.1={
+	holder = 0
+}
+936.1.1 = {
+	liege = k_egypt
+}
+1099.7.15=
+{
+liege="k_jerusalem"
+#law = cognatic_succession
+#law = succ_primogeniture
+}
+1099.7.15=
+{
+	holder=338 #Raymond I
+}
+1105.2.28=
+{
+	holder=223673 #Alfons Jourdain
+}
+1109.1.1=
+{
+	holder=223671 #Bertrand
+}
+1112.1.1=
+{
+	holder=223670 #Pons
+}
+1137.3.1=
+{
+	holder=223660 #Raymond II
+}
+1152.1.1=
+{
+	holder=223650 #Raymond III
+}
+1187.9.1=
+{
+	holder=223651 #Raymond IV
+}
+1198.6.1=
+{
+	holder=223755 #Bohemond I
+}
+1201.3.20={
+	liege = 0 # to Antioch
+}
+1233.3.1=
+{
+	holder=31024 #Bohemond II
+}
+1252.1.1=
+{
+	holder=31031 #Bohemond III
+}
+1254.1.1=
+{
+	liege="k_armenia"
+}
+1268.1.1=
+{
+	liege=0
+}
+1275.1.1=
+{
+	holder=31034 #Bohemond IV
+}
+1287.10.19=
+{
+	holder=31036 #Lucia I
+}
+
+#conquered by Sultan Qalawun; Tortosa falls 1291
+1291.8.14=
+{
+	liege="k_egypt"
+}
+1291.8.14=
+{
+	holder=32936 #K_Egypt
+}
+1291.11.10={
+	holder=32937
+}
+1293.12.14={
+	holder=485000
+}
+1294.7.1={
+	holder=32938
+}
+1296.1.1={
+	holder=32939
+}
+1299.1.1={
+	holder=485000
+}
+1309.1.1={
+	holder=32940
+}
+1309.11.1={
+	holder=485000
+}
+1341.6.8={
+	holder=485002	#Sayf ad-Din Abu Bakr
+}
+1341.8.5={
+	holder=485003	#Al-Ashraf Kujuk
+}
+1342.1.21={
+	holder=485004	#Shihab ad-Din Ahmad
+}
+1342.6.27={
+	holder=485005	#Imad ad-Din Abu'l Fida Isma'il
+}
+1345.8.3={
+	holder=485006	#Sayf ad-Din Sha'ban
+}
+1346.9.18={
+	holder=485007	#Sayf ad-Din Hajji
+}
+1347.12.1={
+	holder=485008	#Badr ad-Din Hasan
+}
+1351.8.21={
+	holder=378994	#Salah ad-Din Salih
+}
+1354.10.20={
+	holder=485008	#Badr ad-Din Hasan 
+}
+1361.3.17={
+	holder=378994	#Salah ad-Din Salih
+}
+1363.5.29={
+	holder=378996	#Zayn ad-Din Sha'ban (Sha'ban II) 
+}
+1377.3.15={
+	holder=378997	#Ala'a ad-Din Ali
+}
+1381.5.19={
+	holder=378998	#Salah ad-Din Hajji
+}
+1382.11.26={
+	holder=378999	#Sayf ad-Din Barquq
+}
+1389.6.1={
+	holder=378998	#Salah ad-Din Hajji
+}
+1390.1.21={
+	holder=378999	#Sayf ad-Din Barquq
+}
+1399.6.20={
+	holder=379000	#Nasir ad-Din Faraj
+}
+1405.9.20={
+	holder=379001	#Izz ad-Din Abd al-Aziz
+}
+1405.11.1={
+	holder=379000 #Nasir ad-Din Faraj
+}
+1412.5.23={
+	holder=378937	#Al-Mustain Billah
+}
+1412.11.6={
+	holder=379002	#Shaykh al-Mahmudi
+}
+1421.1.13={
+	holder=379003	#Ahmad
+}
+1421.8.29={
+	holder=379004	#Sayf ad-Din Tatar
+}
+1421.11.30={
+	holder=379005	#An-Nasir ad-Din Muhammad
+}
+1422.4.1={
+	holder=379006	#Sayf ad-Din Barsbay
+}
+1438.6.7={
+	holder=379007	#Jamal ad-Din Abu al-Mahasin Yusuf
+}
+1438.9.9={
+	holder=378984	#Sayf ad-Din Jaqmaq
+}
+1453.2.1={
+	holder=379009	#Fakhr ad-Din Uthman
+}
+1453.3.15={
+	holder=379010	#Sayf ad-Din Inal
+}
+1461.2.26={
+	holder=379011	#Shihab ad-Din Ahmad
+}
+1461.6.28={
+	holder=379012	#Sayf ad-Din Khushqadam
+}
+1467.10.9={
+	holder=379013	#Sayf ad-Din Bilbay
+}
+1467.12.4={
+	holder=379014	#Timurbugha
+}
+1468.1.31={
+	holder=379015	#Sayf ad-Din Qaitbay
+}
+1496.8.7={
+	holder=379021	#Muhammad
+}
+1498.10.31={
+	holder=379016	#Abu Sa'id Qansuh
+}
+1500.6.30={
+	holder=379017	#Abu al-Nasir Janbalat
+}
+1501.1.25={
+	holder=379018	#Sayf ad-Din Tumanbay
+}
+1501.4.20={
+	holder=379019	#Qansuh al-Ghawri
+}
+1516.10.17={
+	holder=379020	#Tumanbay II
+}
+1517.4.15={
+	holder=0	#Ottoman Conquest
+}
+

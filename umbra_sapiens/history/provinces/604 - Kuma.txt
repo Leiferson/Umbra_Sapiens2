@@ -1,0 +1,21 @@
+# 604 - Kuma
+
+# County Title
+title = c_kuma
+
+# Settlements
+max_settlements = 3
+b_kelenshi = tribal
+
+#b_khatay-khabchak = city
+#b_alabugi = temple
+
+culture = khazar
+religion = tengri_pagan
+terrain = steppe 
+
+# History
+
+808.1.1 = { religion = jewish }
+1089.1.1 = { religion = sunni }
+1227.1.1 = { culture = mongol }

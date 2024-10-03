@@ -1,0 +1,2167 @@
+1019920343={
+	name=Xipilli
+	dynasty=101002210
+	dna="goghkagfcmp"
+	culture=otopamean religion=otomi_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=4 learning=7
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=temperate add_trait=humble 
+	720.3.20={ birth=yes }
+	801.6.20={ death=yes }
+}
+1019920344={
+	name=Tlalli
+	dynasty=101002210
+	dna="gangkokfcgp"
+	culture=otopamean religion=otomi_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=envious add_trait=diligent add_trait=patient add_trait=honest 
+	add_trait=zealous add_trait=content 
+	father=1019920343	#Xipilli
+	744.1.11={ birth=yes }
+	808.5.17={ death=yes }
+}
+1019920345={
+	name=Tlachinolli
+	female=yes
+	dynasty=101002210
+	dna="jolhoagfcmp"
+	culture=otopamean religion=otomi_pagan
+	father=1019920343	#Xipilli
+	747.6.19={ birth=yes }
+	851.11.10={ death=yes }
+}
+1019920346={
+	name=Ozomatli
+	dynasty=101002210
+	dna="jdobkamjhgp"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	add_trait=indulgent_wastrel add_trait=proud add_trait=just 
+	father=1019920343	#Xipilli
+	750.9.25={ birth=yes }
+	827.3.12={ death=yes }
+}
+1019920347={
+	name=Xochitl
+	female=yes
+	dynasty=101002210
+	dna="aoghjacfhmp"
+	culture=otopamean religion=otomi_pagan
+	father=1019920343	#Xipilli
+	756.1.7={ birth=yes }
+	824.1.3={ death=yes }
+}
+1019920348={
+	name=Ueman
+	dynasty=101002210
+	dna="jgggbjoecac"
+	culture=otopamean religion=otomi_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=7
+	add_trait=martial_cleric add_trait=gregarious add_trait=greedy add_trait=proud add_trait=envious 
+	add_trait=wroth 
+	father=1019920343	#Xipilli
+	759.4.27={ birth=yes }
+	821.6.18={ death=yes }
+}
+1019920349={
+	name=Xipilli
+	dynasty=101002210
+	dna="gaackofbcgp"
+	culture=otopamean religion=otomi_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	add_trait=thrifty_clerk add_trait=just add_trait=proud add_trait=patient add_trait=gregarious 
+	father=1019920344	#Tlalli
+	777.2.20={ birth=yes }
+	862.12.11={ death=yes }
+}
+1019920350={
+	name=Tizocic
+	dynasty=101002210
+	dna="jinbklkacgb"
+	culture=otopamean religion=otomi_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=5 learning=4
+	add_trait=martial_cleric add_trait=craven add_trait=diligent add_trait=content 
+	add_trait=deceitful 
+	father=1019920344	#Tlalli
+	782.9.27={ birth=yes }
+	856.4.6={ death=yes }
+}
+1019920351={
+	name=Yolotli
+	dynasty=101002210
+	dna="mpockofbmgp"
+	culture=otopamean religion=otomi_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	add_trait=intricate_webweaver add_trait=cynical add_trait=greedy add_trait=slothful add_trait=ill 
+	add_trait=possessed 
+	father=1019920349	#Xipilli
+	799.3.26={ birth=yes }
+	854.11.8={ death=yes }
+}
+1019920352={
+	name=Tlilpotonqui
+	dynasty=101002210
+	dna="hiahkdfmegp"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=6
+	add_trait=midas_touched add_trait=shy add_trait=patient 
+	father=1019920349	#Xipilli
+	804.5.22={ birth=yes }
+	857.8.14={ death=yes }
+}
+1019920353={
+	name=Xochitl
+	dynasty=101002210
+	dna="iaankmficgg"
+	culture=otopamean religion=otomi_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=7 learning=5
+	add_trait=intricate_webweaver add_trait=charitable add_trait=paranoid add_trait=chaste add_trait=arbitrary 
+	add_trait=content add_trait=humble add_trait=stressed 
+	father=1019920349	#Xipilli
+	809.3.2={ birth=yes }
+	875.8.18={ death=yes }
+}
+1019920354={
+	name=Zipactonal
+	dynasty=101002210
+	dna="ddfldiekmcc"
+	culture=otopamean religion=otomi_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=envious add_trait=proud add_trait=content 
+	father=1019920351	#Yolotli
+	831.3.21={ birth=yes }
+	891.8.14={ death=yes }
+}
+1019920355={
+	name=Tlahco
+	female=yes
+	dynasty=101002210
+	dna="moophojkhgl"
+	culture=otopamean religion=otomi_pagan
+	father=1019920351	#Yolotli
+	833.11.8={ birth=yes }
+	913.7.25={ death=yes }
+}
+1019920356={
+	name=Tezozomoc
+	female=yes
+	dynasty=101002210
+	dna="mbggdofbdgh"
+	culture=otopamean religion=otomi_pagan
+	father=1019920351	#Yolotli
+	840.2.1={ birth=yes }
+	898.7.9={ death=yes }
+}
+1019920357={
+	name=Yaretzi
+	female=yes
+	dynasty=101002210
+	dna="mjkmaikbmgc"
+	culture=otopamean religion=otomi_pagan
+	father=1019920351	#Yolotli
+	843.7.12={ birth=yes }
+	925.3.13={ death=yes }
+}
+1019920358={
+	name=Tlahcoehua
+	female=yes
+	dynasty=101002210
+	dna="ddfoaiekcdc"
+	culture=otopamean religion=otomi_pagan
+	father=1019920354	#Zipactonal
+	860.3.14={ birth=yes }
+	916.1.20={ death=yes }
+}
+1019920359={
+	name=Tlacaelel
+	dynasty=101002210
+	dna="dmfldaekncc"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=8 learning=7
+	add_trait=thrifty_clerk add_trait=charitable add_trait=arbitrary add_trait=patient 
+	add_trait=lustful 
+	father=1019920354	#Zipactonal
+	867.8.9={ birth=yes }
+	922.12.1={ death=yes }
+}
+1019920360={
+	name=Tzompantzin
+	dynasty=101002210
+	dna="dcondiakdnc"
+	culture=otopamean religion=otomi_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=poet add_trait=gregarious add_trait=trusting add_trait=charitable 
+	add_trait=chaste add_trait=drunkard add_trait=genius 
+	father=1019920354	#Zipactonal
+	873.11.13={ birth=yes }
+	947.4.23={ death=yes }
+}
+1019920361={
+	name=Yolotli
+	dynasty=101002210
+	dna="ldhldjnnkji"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	add_trait=indulgent_wastrel add_trait=brave add_trait=arbitrary add_trait=paranoid 
+	father=1019920354	#Zipactonal
+	876.6.24={ birth=yes }
+	950.8.8={ death=yes }
+}
+1019920362={
+	name=Tochtli
+	dynasty=101002210
+	dna="hfkljoenncc"
+	culture=otopamean religion=otomi_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=cynical add_trait=patient add_trait=diligent 
+	father=1019920359	#Tlacaelel
+	891.6.24={ birth=yes }
+	995.1.12={ death=yes }
+}
+1019920363={
+	name=Tzompantzin
+	dynasty=101002210
+	dna="dmfldbemdcc"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	add_trait=scholarly_theologian add_trait=zealous add_trait=shy add_trait=content 
+	add_trait=craven 
+	father=1019920359	#Tlacaelel
+	896.4.18={ birth=yes }
+	971.1.8={ death=yes }
+}
+1019920364={
+	name=Tlacaeleltzin
+	dynasty=101002210
+	dna="nfkljcainai"
+	culture=otopamean religion=otomi_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=7 learning=6
+	add_trait=charismatic_negotiator add_trait=envious add_trait=arbitrary add_trait=humble add_trait=lustful 
+	add_trait=wroth 
+	father=1019920362	#Tochtli
+	917.10.14={ birth=yes }
+	984.2.26={ death=yes }
+}
+1019920365={
+	name=Tlaco
+	female=yes
+	dynasty=101002210
+	dna="bfkiaoonncc"
+	culture=otopamean religion=otomi_pagan
+	father=1019920362	#Tochtli
+	921.11.13={ birth=yes }
+	1002.5.30={ death=yes }
+}
+1019920366={
+	name=Acacitlu
+	female=yes
+	dynasty=101002210
+	dna="hholpoeeacf"
+	culture=otopamean religion=otomi_pagan
+	father=1019920362	#Tochtli
+	926.10.22={ birth=yes }
+	979.5.17={ death=yes }
+}
+1019920367={
+	name=Ocuil
+	dynasty=101002210
+	dna="nfkpjjainaa"
+	culture=otopamean religion=otomi_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=hedonist add_trait=zealous add_trait=wroth 
+	add_trait=humble add_trait=gregarious 
+	father=1019920364	#Tlacaeleltzin
+	944.12.20={ birth=yes }
+	995.11.7={ death=yes }
+}
+1019920368={
+	name=Zeltzin
+	female=yes
+	dynasty=101002210
+	dna="nfldjcamagi"
+	culture=otopamean religion=otomi_pagan
+	father=1019920364	#Tlacaeleltzin
+	951.10.7={ birth=yes }
+	1032.8.17={ death=yes }
+}
+1019920369={
+	name=Tonalnan
+	female=yes
+	dynasty=101002210
+	dna="ncklmcalnam"
+	culture=otopamean religion=otomi_pagan
+	father=1019920364	#Tlacaeleltzin
+	954.1.5={ birth=yes }
+	1036.11.20={ death=yes }
+}
+1019920370={
+	name=Zeltzin
+	female=yes
+	dynasty=101002210
+	dna="cfkifmaiobe"
+	culture=otopamean religion=otomi_pagan
+	father=1019920364	#Tlacaeleltzin
+	960.3.27={ birth=yes }
+	1028.6.29={ death=yes }
+}
+1019920371={
+	name=Xochitl
+	female=yes
+	dynasty=101002210
+	dna="jakiojaigad"
+	culture=otopamean religion=otomi_pagan
+	father=1019920367	#Ocuil
+	968.11.1={ birth=yes }
+	1039.7.8={ death=yes }
+}
+1019920372={
+	name=Tlilpotonqui
+	dynasty=101002210
+	dna="lfpajkkahod"
+	culture=otopamean religion=otomi_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=5 learning=6
+	add_trait=tough_soldier add_trait=poet add_trait=zealous add_trait=content add_trait=trusting 
+	add_trait=gluttonous add_trait=diligent 
+	father=1019920367	#Ocuil
+	972.7.27={ birth=yes }
+	1040.8.15={ death=yes }
+}
+1019920373={
+	name=Tlalli
+	dynasty=101002210
+	dna="ncnfjlaimaa"
+	culture=otopamean religion=otomi_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=6
+	add_trait=elusive_shadow add_trait=cynical add_trait=patient add_trait=humble add_trait=content 
+	father=1019920367	#Ocuil
+	979.1.18={ birth=yes }
+	1039.7.22={ death=yes }
+}
+1019920374={
+	name=Sacnite
+	female=yes
+	dynasty=101002210
+	dna="njkcndaiknn"
+	culture=otopamean religion=otomi_pagan
+	father=1019920367	#Ocuil
+	982.8.18={ birth=yes }
+	1068.1.12={ death=yes }
+}
+1019920375={
+	name=Xihuitl
+	dynasty=101002210
+	dna="nfkbgikojba"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=8 learning=6
+	add_trait=flamboyant_schemer add_trait=cynical  add_trait=just 
+	add_trait=deceitful 
+	father=1019920367	#Ocuil
+	987.12.19={ birth=yes }
+	1055.9.26={ death=yes }
+}
+1019920376={
+	name=Tonalnan
+	female=yes
+	dynasty=101002210
+	dna="kfpajlnagog"
+	culture=otopamean religion=otomi_pagan
+	father=1019920372	#Tlilpotonqui
+	994.9.26={ birth=yes }
+	1064.4.30={ death=yes }
+}
+1019920377={
+	name=Tizoc
+	dynasty=101002210
+	dna="lfpajglahod"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=shy add_trait=craven add_trait=ambitious add_trait=diligent 
+	father=1019920372	#Tlilpotonqui
+	1002.3.24={ birth=yes }
+	1072.1.25={ death=yes }
+}
+1019920378={
+	name=Nochtli
+	female=yes
+	dynasty=101002210
+	dna="bfpaoikcead"
+	culture=otopamean religion=otomi_pagan
+	father=1019920372	#Tlilpotonqui
+	1008.1.1={ birth=yes }
+	1065.4.12={ death=yes }
+}
+1019920379={
+	name=Quauhtli
+	dynasty=101002210
+	dna="lilajdfahof"
+	culture=otopamean religion=otomi_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=envious add_trait=craven add_trait=proud add_trait=ugly 
+	father=1019920372	#Tlilpotonqui
+	1014.5.14={ birth=yes }
+	1072.11.6={ death=yes }
+}
+1019920380={
+	name=Tetlepanquetzaltzin
+	dynasty=101002210
+	dna="ejglalodiop"
+	culture=otopamean religion=otomi_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=wroth add_trait=gluttonous add_trait=craven add_trait=cynical 
+	add_trait=ill 
+	father=1019920377	#Tizoc
+	1030.8.8={ birth=yes }
+	1118.12.31={ death=yes }
+}
+1019920381={
+	name=Tlacaelel
+	dynasty=101002210
+	dna="efpaodlahfk"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=4 learning=4
+	add_trait=skilled_tactician add_trait=mystic add_trait=gregarious add_trait=paranoid add_trait=chaste 
+	add_trait=patient 
+	father=1019920377	#Tizoc
+	1035.2.13={ birth=yes }
+	1106.9.7={ death=yes }
+}
+1019920382={
+	name=Tlalli
+	dynasty=101002210
+	dna="lffkjblahod"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=8 learning=7
+	add_trait=thrifty_clerk add_trait=charitable add_trait=arbitrary 
+	father=1019920377	#Tizoc
+	1040.7.10={ birth=yes }
+	1100.11.26={ death=yes }
+}
+1019920383={
+	name=Sacnite
+	female=yes
+	dynasty=101002210
+	dna="jnpfjdjmpgd"
+	culture=otopamean religion=otomi_pagan
+	father=1019920377	#Tizoc
+	1046.9.2={ birth=yes }
+	1119.5.28={ death=yes }
+}
+1019920384={
+	name=Moztla
+	female=yes
+	dynasty=101002210
+	dna="lfpaffomehd"
+	culture=otopamean religion=otomi_pagan
+	father=1019920377	#Tizoc
+	1052.12.6={ birth=yes }
+	1113.6.3={ death=yes }
+}
+1019920385={
+	name=Tlazozomizqui
+	female=yes
+	dynasty=101002210
+	dna="lfbbfnhabii"
+	culture=otopamean religion=otomi_pagan
+	father=1019920377	#Tizoc
+	1054.10.23={ birth=yes }
+	1155.4.9={ death=yes }
+}
+1019920386={
+	name=Tezozomoc
+	dynasty=101002210
+	dna="lfpaogehcod"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=proud add_trait=arbitrary add_trait=cynical add_trait=greedy 
+	add_trait=lustful add_trait=possessed 
+	father=1019920377	#Tizoc
+	1058.3.13={ birth=yes }
+	1136.3.25={ death=yes }
+}
+1019920387={
+	name=Olli
+	dynasty=101002210
+	dna="ljgmhdodidp"
+	culture=otopamean religion=otomi_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=gardener add_trait=deceitful add_trait=proud add_trait=envious 
+	add_trait=brave add_trait=trusting add_trait=patient 
+	father=1019920380	#Tetlepanquetzaltzin
+	1053.9.15={ birth=yes }
+	1119.9.7={ death=yes }
+}
+1019920388={
+	name=Ocuil
+	dynasty=101002210
+	dna="eogljlhmioo"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=gardener add_trait=trusting add_trait=gregarious add_trait=content 
+	add_trait=greedy add_trait=brave 
+	father=1019920380	#Tetlepanquetzaltzin
+	1058.9.3={ birth=yes }
+	1141.6.2={ death=yes }
+}
+1019920389={
+	name=Nochtli
+	female=yes
+	dynasty=101002210
+	dna="ojgnaoddihp"
+	culture=otopamean religion=otomi_pagan
+	father=1019920380	#Tetlepanquetzaltzin
+	1063.12.10={ birth=yes }
+	1149.4.10={ death=yes }
+}
+1019920390={
+	name=Tlaloc
+	dynasty=101002210
+	dna="pcglklomjpp"
+	culture=otopamean religion=otomi_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=4 learning=4
+	add_trait=mastermind_theologian add_trait=zealous add_trait=greedy add_trait=craven 
+	add_trait=temperate add_trait=hunchback 
+	father=1019920380	#Tetlepanquetzaltzin
+	1068.10.16={ birth=yes }
+	1128.6.7={ death=yes }
+}
+1019920391={
+	name=Ilhuitl
+	female=yes
+	dynasty=101002210
+	dna="elgcffbdihp"
+	culture=otopamean religion=otomi_pagan
+	father=1019920380	#Tetlepanquetzaltzin
+	1072.3.15={ birth=yes }
+	1132.5.31={ death=yes }
+}
+1019920392={
+	name=Xihuitl
+	dynasty=101002210
+	dna="plglalodaok"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	add_trait=flamboyant_schemer add_trait=shy add_trait=humble add_trait=paranoid add_trait=greedy 
+	father=1019920380	#Tetlepanquetzaltzin
+	1074.12.17={ birth=yes }
+	1141.6.5={ death=yes }
+}
+1019920393={
+	name=Xipilli
+	dynasty=101002210
+	dna="lfpahjodndp"
+	culture=otopamean religion=otomi_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=shy add_trait=lustful add_trait=diligent 
+	father=1019920387	#Olli
+	1083.7.18={ birth=yes }
+	1137.7.19={ death=yes }
+}
+1019920394={
+	name=Zolin
+	dynasty=101002210
+	dna="ljndhddgial"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=intricate_webweaver add_trait=slothful add_trait=wroth add_trait=proud add_trait=stressed 
+	father=1019920387	#Olli
+	1087.2.18={ birth=yes }
+	1161.12.25={ death=yes }
+}
+1019920395={
+	name=Xiuhpilli
+	dynasty=101002210
+	dna="lbgachodidp"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=trusting add_trait=slothful 
+	father=1019920387	#Olli
+	1091.7.26={ birth=yes }
+	1169.8.30={ death=yes }
+}
+1019920396={
+	name=Quauhtli
+	dynasty=101002210
+	dna="kjglhjofkcj"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=4 learning=5
+	add_trait=charismatic_negotiator add_trait=hedonist add_trait=shy add_trait=humble add_trait=trusting 
+	add_trait=chaste add_trait=slothful add_trait=gluttonous 
+	father=1019920387	#Olli
+	1096.4.7={ birth=yes }
+	1167.9.29={ death=yes }
+}
+1019920397={
+	name=Tlazohtzin
+	female=yes
+	dynasty=101002210
+	dna="mgbmidodidd"
+	culture=otopamean religion=otomi_pagan
+	father=1019920387	#Olli
+	1102.9.11={ birth=yes }
+	1177.7.10={ death=yes }
+}
+1019920398={
+	name=Tototl
+	dynasty=101002210
+	dna="lhomihodikp"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=indulgent_wastrel add_trait=temperate add_trait=cynical add_trait=wroth add_trait=ill 
+	father=1019920387	#Olli
+	1105.10.7={ birth=yes }
+	1176.6.6={ death=yes }
+}
+1019920399={
+	name=Xicohtencatl
+	dynasty=101002210
+	dna="kfpagkodnjg"
+	culture=otopamean religion=otomi_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=8 learning=4
+	add_trait=misguided_warrior  add_trait=chaste add_trait=paranoid add_trait=shy 
+	add_trait=temperate 
+	father=1019920393	#Xipilli
+	1111.8.10={ birth=yes }
+	1158.9.4={ death=yes }
+}
+1019920400={
+	name=Xilonen
+	female=yes
+	dynasty=101002210
+	dna="lfpahjodndl"
+	culture=otopamean religion=otomi_pagan
+	father=1019920393	#Xipilli
+	1116.9.13={ birth=yes }
+	1217.3.13={ death=yes }
+}
+1019920401={
+	name=Tetlepanquetzaltzin
+	dynasty=101002210
+	dna="lcebkghdndh"
+	culture=otopamean religion=otomi_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=6 learning=4
+	add_trait=intricate_webweaver add_trait=impaler add_trait=ambitious add_trait=gregarious add_trait=just 
+	 
+	father=1019920393	#Xipilli
+	1121.3.27={ birth=yes }
+	1179.6.17={ death=yes }
+}
+1019920402={
+	name=Xocoh
+	female=yes
+	dynasty=101002210
+	dna="igpjgeoddjl"
+	culture=otopamean religion=otomi_pagan
+	father=1019920399	#Xicohtencatl
+	1131.1.27={ birth=yes }
+	1197.9.28={ death=yes }
+}
+1019920403={
+	name=Tecocoltzin
+	dynasty=101002210
+	dna="kfpdgfbpbmg"
+	culture=otopamean religion=otomi_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=4
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=just add_trait=proud add_trait=paranoid 
+	add_trait=deceitful add_trait=depressed 
+	father=1019920399	#Xicohtencatl
+	1135.3.1={ birth=yes }
+	1191.2.18={ death=yes }
+}
+1019920404={
+	name=Tochtli
+	dynasty=101002210
+	dna="nfnhgkmdngm"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=trusting add_trait=charitable add_trait=temperate add_trait=content 
+	father=1019920399	#Xicohtencatl
+	1139.7.4={ birth=yes }
+	1196.4.29={ death=yes }
+}
+1019920405={
+	name=Ocuil
+	dynasty=101002210
+	dna="pnpkmkgpnmg"
+	culture=otopamean religion=otomi_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	add_trait=martial_cleric add_trait=ambitious add_trait=diligent add_trait=envious 
+	father=1019920399	#Xicohtencatl
+	1145.12.24={ birth=yes }
+	1200.12.31={ death=yes }
+}
+1019920406={
+	name=Ocuil
+	dynasty=101002210
+	dna="flgoganpcmg"
+	culture=otopamean religion=otomi_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=charismatic_negotiator add_trait=gregarious add_trait=cynical add_trait=deceitful add_trait=wroth 
+	father=1019920403	#Tecocoltzin
+	1164.9.1={ birth=yes }
+	1251.9.17={ death=yes }
+}
+1019920407={
+	name=Papan
+	female=yes
+	dynasty=101002210
+	dna="kfpbkgbeboh"
+	culture=otopamean religion=otomi_pagan
+	father=1019920403	#Tecocoltzin
+	1167.2.9={ birth=yes }
+	1246.9.19={ death=yes }
+}
+1019920408={
+	name=Tlazohtzin
+	female=yes
+	dynasty=101002210
+	dna="kgpfgfbmmmj"
+	culture=otopamean religion=otomi_pagan
+	father=1019920403	#Tecocoltzin
+	1174.5.4={ birth=yes }
+	1260.10.4={ death=yes }
+}
+1019920409={
+	name=Tlacotl
+	female=yes
+	dynasty=101002210
+	dna="kaoogfcpimg"
+	culture=otopamean religion=otomi_pagan
+	father=1019920403	#Tecocoltzin
+	1178.3.14={ birth=yes }
+	1280.3.6={ death=yes }
+}
+1019920410={
+	name=Xipil
+	dynasty=101002210
+	dna="pbgogacccpa"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=gluttonous add_trait=shy add_trait=craven add_trait=arbitrary 
+	add_trait=wroth add_trait=diligent 
+	father=1019920406	#Ocuil
+	1188.4.20={ birth=yes }
+	1252.2.16={ death=yes }
+}
+1019920411={
+	name=Olli
+	dynasty=101002210
+	dna="llghijnpjmg"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=diligent add_trait=gluttonous add_trait=deceitful add_trait=humble 
+	add_trait=content add_trait=charitable add_trait=stutter 
+	father=1019920406	#Ocuil
+	1191.11.13={ birth=yes }
+	1259.11.21={ death=yes }
+}
+1019920412={
+	name=Ueman
+	dynasty=101002210
+	dna="fgdogmepapm"
+	culture=otopamean religion=otomi_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=ambitious add_trait=charitable add_trait=trusting 
+	add_trait=slothful add_trait=clubfooted 
+	father=1019920406	#Ocuil
+	1198.2.15={ birth=yes }
+	1260.3.21={ death=yes }
+}
+1019920413={
+	name=Xochitl
+	dynasty=101002210
+	dna="hljedapngmp"
+	culture=otopamean religion=otomi_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=4
+	add_trait=tough_soldier add_trait=greedy add_trait=content 
+	father=1019920406	#Ocuil
+	1203.12.5={ birth=yes }
+	1269.7.10={ death=yes }
+}
+1019920414={
+	name=Yayauhqui
+	dynasty=101002210
+	dna="fljohanacfg"
+	culture=otopamean religion=otomi_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=8
+	add_trait=elusive_shadow add_trait=ambitious add_trait=temperate add_trait=cynical add_trait=paranoid 
+	add_trait=lunatic 
+	father=1019920406	#Ocuil
+	1209.11.14={ birth=yes }
+	1293.9.24={ death=yes }
+}
+1019920415={
+	name=Xihuitl
+	dynasty=101002210
+	dna="pblogacccpa"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=scholar add_trait=just add_trait=gregarious add_trait=cynical 
+	father=1019920410	#Xipil
+	1218.1.9={ birth=yes }
+	1276.5.2={ death=yes }
+}
+1019920416={
+	name=Tlazohtzin
+	female=yes
+	dynasty=101002210
+	dna="ipbdgihgcfa"
+	culture=otopamean religion=otomi_pagan
+	father=1019920410	#Xipil
+	1224.3.21={ birth=yes }
+	1276.7.14={ death=yes }
+}
+1019920417={
+	name=Opochtli
+	dynasty=101002210
+	dna="pghopangcpk"
+	culture=otopamean religion=otomi_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=8 learning=5
+	add_trait=scholarly_theologian add_trait=celibate add_trait=shy add_trait=gluttonous add_trait=cynical 
+	add_trait=paranoid add_trait=depressed 
+	father=1019920415	#Xihuitl
+	1237.7.25={ birth=yes }
+	1322.1.18={ death=yes }
+}
+1019920418={
+	name=Topiltzin
+	dynasty=101002210
+	dna="mkiagabagla"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=brave add_trait=trusting 
+	father=1019920415	#Xihuitl
+	1244.9.6={ birth=yes }
+	1304.11.10={ death=yes }
+}
+1019920419={
+	name=Yolyamanitzin
+	dynasty=101002210
+	dna="pgfopmegcpk"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=8
+	add_trait=thrifty_clerk add_trait=gregarious add_trait=humble add_trait=envious add_trait=wounded 
+	father=1019920417	#Opochtli
+	1270.9.6={ birth=yes }
+	1336.7.8={ death=yes }
+}
+1019920420={
+	name=Xihuitl
+	female=yes
+	dynasty=101002210
+	dna="pgeofpdgcbl"
+	culture=otopamean religion=otomi_pagan
+	father=1019920417	#Opochtli
+	1275.1.11={ birth=yes }
+	1358.1.20={ death=yes }
+}
+1019920421={
+	name=Tlaco
+	female=yes
+	dynasty=101002210
+	dna="bgnfpdfgnnd"
+	culture=otopamean religion=otomi_pagan
+	father=1019920417	#Opochtli
+	1281.10.26={ birth=yes }
+	1361.9.25={ death=yes }
+}
+1019920422={
+	name=Techichpotzin
+	female=yes
+	dynasty=101002210
+	dna="eehopanilpk"
+	culture=otopamean religion=otomi_pagan
+	father=1019920417	#Opochtli
+	1289.8.4={ birth=yes }
+	1327.5.27={ death=yes }
+}
+1019920423={
+	name=Tizoc
+	dynasty=101002210
+	dna="ogfopmegcpl"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	add_trait=intricate_webweaver  add_trait=brave 
+	father=1019920419	#Yolyamanitzin
+	1300.4.14={ birth=yes }
+	1379.10.19={ death=yes }
+}
+1019920424={
+	name=Tonalnan
+	female=yes
+	dynasty=101002210
+	dna="mhgopiogcpk"
+	culture=otopamean religion=otomi_pagan
+	father=1019920419	#Yolyamanitzin
+	1306.12.5={ birth=yes }
+	1362.9.10={ death=yes }
+}
+1019920425={
+	name=Tezcatlan
+	female=yes
+	dynasty=101002210
+	dna="egfoomencdf"
+	culture=otopamean religion=otomi_pagan
+	father=1019920419	#Yolyamanitzin
+	1311.1.7={ birth=yes }
+	1388.3.28={ death=yes }
+}
+1019920426={
+	name=Quauhtli
+	dynasty=101002210
+	dna="plfkpoeocpk"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=trusting add_trait=proud add_trait=just 
+	add_trait=temperate 
+	father=1019920419	#Yolyamanitzin
+	1313.11.21={ birth=yes }
+	1380.2.28={ death=yes }
+}
+1019920427={
+	name=Teuicui
+	female=yes
+	dynasty=101002210
+	dna="pgnapkegcpk"
+	culture=otopamean religion=otomi_pagan
+	father=1019920419	#Yolyamanitzin
+	1320.6.27={ birth=yes }
+	1379.4.19={ death=yes }
+}
+1019920428={
+	name=Totoquihuaztli
+	dynasty=101002210
+	dna="ogiopmhgcgo"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=deceitful 
+	father=1019920423	#Tizoc
+	1322.10.15={ birth=yes }
+	1405.2.15={ death=yes }
+}
+1019920429={
+	name=Yaotl
+	dynasty=101002210
+	dna="kgfmbahpldn"
+	culture=otopamean religion=otomi_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=craven add_trait=trusting add_trait=ambitious 
+	father=1019920423	#Tizoc
+	1327.8.5={ birth=yes }
+	1395.11.11={ death=yes }
+}
+1019920430={
+	name=Tlaloc
+	dynasty=101002210
+	dna="cgigikhgcgk"
+	culture=otopamean religion=otomi_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=trusting add_trait=chaste add_trait=content 
+	 add_trait=ill 
+	father=1019920428	#Totoquihuaztli
+	1354.12.13={ birth=yes }
+	1435.7.27={ death=yes }
+}
+1019920431={
+	name=Tlacaelel
+	dynasty=101002210
+	dna="jgmppmdgcgo"
+	culture=otopamean religion=otomi_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=7 learning=7
+	add_trait=naive_appeaser add_trait=patient  
+	father=1019920428	#Totoquihuaztli
+	1358.7.10={ birth=yes }
+	1430.3.21={ death=yes }
+}
+1019920432={
+	name=Tecolotl
+	dynasty=101002210
+	dna="ogkogmhocgo"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=diligent add_trait=cynical  
+	father=1019920428	#Totoquihuaztli
+	1364.3.16={ birth=yes }
+	1448.4.14={ death=yes }
+}
+1019920433={
+	name=Yoltzin
+	female=yes
+	dynasty=101002210
+	dna="lgckpphjccj"
+	culture=otopamean religion=otomi_pagan
+	father=1019920428	#Totoquihuaztli
+	1368.10.10={ birth=yes }
+	1460.8.25={ death=yes }
+}
+1019920434={
+	name=Yaretzi
+	female=yes
+	dynasty=101002210
+	dna="jalmichgoak"
+	culture=otopamean religion=otomi_pagan
+	father=1019920430	#Tlaloc
+	1384.7.5={ birth=yes }
+	1471.3.26={ death=yes }
+}
+1019920435={
+	name=Citlamina
+	female=yes
+	dynasty=101002210
+	dna="hmigikicegk"
+	culture=otopamean religion=otomi_pagan
+	father=1019920430	#Tlaloc
+	1391.5.25={ birth=yes }
+	1445.7.19={ death=yes }
+}
+1019920436={
+	name=Tezozomoc
+	dynasty=101002210
+	dna="cncgkkhbafo"
+	culture=otopamean religion=otomi_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	add_trait=midas_touched add_trait=envious add_trait=ambitious add_trait=deceitful 
+	father=1019920430	#Tlaloc
+	1398.10.9={ birth=yes }
+	1480.6.18={ death=yes }
+}
+1019920437={
+	name=Xipilli
+	dynasty=101002210
+	dna="jdoefhogbpk"
+	culture=otopamean religion=otomi_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=hunter add_trait=content add_trait=temperate add_trait=deceitful 
+	father=1019920430	#Tlaloc
+	1405.5.1={ birth=yes }
+	1469.6.15={ death=yes }
+}
+1019920438={
+	name=Tochtli
+	dynasty=1009990172
+	dna="jdjeeilaeah"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	add_trait=misguided_warrior  add_trait=zealous add_trait=content add_trait=slothful 
+	add_trait=possessed 
+	720.12.20={ birth=yes }
+	805.9.16={ death=yes }
+}
+1019920439={
+	name=Tlazohtzin
+	female=yes
+	dynasty=1009990172
+	dna="jfkgnibaomi"
+	culture=guachichil religion=southwest_pagan
+	father=1019920438	#Tochtli
+	752.11.23={ birth=yes }
+	800.12.3={ death=yes }
+}
+1019920440={
+	name=Tecolotl
+	dynasty=1009990172
+	dna="jogecilaaah"
+	culture=guachichil religion=southwest_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=5 learning=7
+	add_trait=elusive_shadow add_trait=mystic add_trait=content add_trait=craven add_trait=patient 
+	add_trait=chaste add_trait=wounded 
+	father=1019920438	#Tochtli
+	759.8.26={ birth=yes }
+	816.4.3={ death=yes }
+}
+1019920441={
+	name=Ichtaca
+	female=yes
+	dynasty=1009990172
+	dna="jeoecidaaeh"
+	culture=guachichil religion=southwest_pagan
+	father=1019920440	#Tecolotl
+	777.1.18={ birth=yes }
+	855.5.30={ death=yes }
+}
+1019920442={
+	name=Yolotli
+	dynasty=1009990172
+	dna="jlgacilaaoh"
+	culture=guachichil religion=southwest_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=5 learning=4
+	add_trait=thrifty_clerk add_trait=zealous add_trait=ambitious add_trait=temperate  
+	add_trait=gregarious add_trait=greedy add_trait=drunkard 
+	father=1019920440	#Tecolotl
+	781.2.13={ birth=yes }
+	836.7.6={ death=yes }
+}
+1019920443={
+	name=Citali
+	female=yes
+	dynasty=1009990172
+	dna="kogekfnlaah"
+	culture=guachichil religion=southwest_pagan
+	father=1019920440	#Tecolotl
+	785.4.12={ birth=yes }
+	875.10.18={ death=yes }
+}
+1019920444={
+	name=Tlacaeleltzin
+	dynasty=1009990172
+	dna="joeecpkaanl"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	add_trait=martial_cleric add_trait=hunter add_trait=proud add_trait=temperate 
+	father=1019920440	#Tecolotl
+	790.5.10={ birth=yes }
+	866.3.29={ death=yes }
+}
+1019920445={
+	name=Toltecatl
+	female=yes
+	dynasty=1009990172
+	dna="jogjcilgoah"
+	culture=guachichil religion=southwest_pagan
+	father=1019920440	#Tecolotl
+	793.6.25={ birth=yes }
+	856.2.20={ death=yes }
+}
+1019920446={
+	name=Etapali
+	female=yes
+	dynasty=1009990172
+	dna="llaaciaaaoh"
+	culture=guachichil religion=southwest_pagan
+	father=1019920442	#Yolotli
+	805.9.15={ birth=yes }
+	870.2.5={ death=yes }
+}
+1019920447={
+	name=Xipil
+	dynasty=1009990172
+	dna="gloapieaakh"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=8 learning=5
+	add_trait=grey_eminence add_trait=gregarious add_trait=chaste add_trait=proud add_trait=just 
+	add_trait=greedy add_trait=temperate 
+	father=1019920442	#Yolotli
+	813.2.2={ birth=yes }
+	857.1.11={ death=yes }
+}
+1019920448={
+	name=Xochitl
+	female=yes
+	dynasty=1009990172
+	dna="flflcibaiom"
+	culture=guachichil religion=southwest_pagan
+	father=1019920442	#Yolotli
+	816.6.15={ birth=yes }
+	880.1.9={ death=yes }
+}
+1019920449={
+	name=Xochipilli
+	dynasty=1009990172
+	dna="jlgacilacoh"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=7
+	add_trait=charismatic_negotiator add_trait=hunter add_trait=content add_trait=wroth add_trait=greedy 
+	add_trait=diligent 
+	father=1019920442	#Yolotli
+	824.10.18={ birth=yes }
+	903.8.9={ death=yes }
+}
+1019920450={
+	name=Xihuitl
+	dynasty=1009990172
+	dna="jaomlbbhlkk"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=envious add_trait=brave add_trait=slothful add_trait=chaste 
+	add_trait=greedy add_trait=lunatic 
+	father=1019920447	#Xipil
+	837.11.2={ birth=yes }
+	914.7.3={ death=yes }
+}
+1019920451={
+	name=Topiltzin
+	dynasty=1009990172
+	dna="glfamihbajj"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=chaste add_trait=ambitious add_trait=honest add_trait=humble 
+	add_trait=charitable add_trait=gluttonous 
+	father=1019920447	#Xipil
+	841.12.9={ birth=yes }
+	914.1.11={ death=yes }
+}
+1019920452={
+	name=Tezozomoc
+	female=yes
+	dynasty=1009990172
+	dna="llofplookkh"
+	culture=guachichil religion=southwest_pagan
+	father=1019920447	#Xipil
+	848.6.21={ birth=yes }
+	914.6.4={ death=yes }
+}
+1019920453={
+	name=Xiloxoch
+	female=yes
+	dynasty=1009990172
+	dna="glbaanhaldj"
+	culture=guachichil religion=southwest_pagan
+	father=1019920447	#Xipil
+	852.7.15={ birth=yes }
+	918.5.31={ death=yes }
+}
+1019920454={
+	name=Tecolotl
+	dynasty=1009990172
+	dna="gloapieeakh"
+	culture=guachichil religion=southwest_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=patient add_trait=trusting add_trait=shy add_trait=brave 
+	father=1019920447	#Xipil
+	855.12.5={ birth=yes }
+	926.9.1={ death=yes }
+}
+1019920455={
+	name=Tizoc
+	dynasty=1009990172
+	dna="glkalflhdkh"
+	culture=guachichil religion=southwest_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=chaste  add_trait=diligent add_trait=greedy 
+	father=1019920447	#Xipil
+	860.7.23={ birth=yes }
+	929.3.11={ death=yes }
+}
+1019920456={
+	name=Xihuitl
+	dynasty=1009990172
+	dna="gjegdieankh"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=8
+	add_trait=detached_priest add_trait=trusting add_trait=gluttonous add_trait=slothful add_trait=just 
+	father=1019920447	#Xipil
+	863.3.1={ birth=yes }
+	921.4.15={ death=yes }
+}
+1019920457={
+	name=Xochipilli
+	dynasty=1009990172
+	dna="jmjgjbbhlmk"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=trusting add_trait=zealous add_trait=patient 
+	add_trait=drunkard 
+	father=1019920450	#Xihuitl
+	865.4.13={ birth=yes }
+	944.9.15={ death=yes }
+}
+1019920458={
+	name=Moyolehuani
+	female=yes
+	dynasty=1009990172
+	dna="kkimlmmllkk"
+	culture=guachichil religion=southwest_pagan
+	father=1019920450	#Xihuitl
+	868.1.2={ birth=yes }
+	928.11.25={ death=yes }
+}
+1019920459={
+	name=Papan
+	female=yes
+	dynasty=1009990172
+	dna="jlijabnhdne"
+	culture=guachichil religion=southwest_pagan
+	father=1019920450	#Xihuitl
+	874.11.19={ birth=yes }
+	942.11.20={ death=yes }
+}
+1019920460={
+	name=Tonatzin
+	female=yes
+	dynasty=1009990172
+	dna="heimibmmbep"
+	culture=guachichil religion=southwest_pagan
+	father=1019920450	#Xihuitl
+	877.12.13={ birth=yes }
+	960.10.17={ death=yes }
+}
+1019920461={
+	name=Zolin
+	dynasty=1009990172
+	dna="gaomljnbpcp"
+	culture=guachichil religion=southwest_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=5
+	add_trait=elusive_shadow add_trait=greedy add_trait=lustful 
+	father=1019920450	#Xihuitl
+	881.10.14={ birth=yes }
+	948.1.14={ death=yes }
+}
+1019920462={
+	name=Tlahco
+	female=yes
+	dynasty=1009990172
+	dna="macdlgbilhk"
+	culture=guachichil religion=southwest_pagan
+	father=1019920450	#Xihuitl
+	885.4.27={ birth=yes }
+	956.3.24={ death=yes }
+}
+1019920463={
+	name=Icnoyotl
+	female=yes
+	dynasty=1009990172
+	dna="gaooflbhlkc"
+	culture=guachichil religion=southwest_pagan
+	father=1019920450	#Xihuitl
+	888.2.19={ birth=yes }
+	973.10.18={ death=yes }
+}
+1019920464={
+	name=Citlamina
+	female=yes
+	dynasty=1009990172
+	dna="fkkgjbbhjmk"
+	culture=guachichil religion=southwest_pagan
+	father=1019920457	#Xochipilli
+	889.12.13={ birth=yes }
+	974.12.30={ death=yes }
+}
+1019920465={
+	name=Opochtli
+	dynasty=1009990172
+	dna="jmanebhhlmg"
+	culture=guachichil religion=southwest_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=4 learning=6
+	add_trait=misguided_warrior add_trait=lustful add_trait=craven add_trait=shy add_trait=slothful 
+	father=1019920457	#Xochipilli
+	891.10.21={ birth=yes }
+	968.2.13={ death=yes }
+}
+1019920466={
+	name=Teoxihuitl
+	female=yes
+	dynasty=1009990172
+	dna="fmcgjobclmk"
+	culture=guachichil religion=southwest_pagan
+	father=1019920457	#Xochipilli
+	897.4.9={ birth=yes }
+	994.1.20={ death=yes }
+}
+1019920467={
+	name=Tizoc
+	dynasty=1009990172
+	dna="jemhjlkhlmk"
+	culture=guachichil religion=southwest_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=gregarious add_trait=greedy add_trait=content 
+	father=1019920457	#Xochipilli
+	900.12.4={ birth=yes }
+	961.1.17={ death=yes }
+}
+1019920468={
+	name=Zyanya
+	female=yes
+	dynasty=1009990172
+	dna="ampgjbbhlek"
+	culture=guachichil religion=southwest_pagan
+	father=1019920457	#Xochipilli
+	904.3.15={ birth=yes }
+	974.8.6={ death=yes }
+}
+1019920469={
+	name=Tlahco
+	female=yes
+	dynasty=1009990172
+	dna="dnfkdjchlnh"
+	culture=guachichil religion=southwest_pagan
+	father=1019920457	#Xochipilli
+	910.2.23={ birth=yes }
+	977.11.15={ death=yes }
+}
+1019920470={
+	name=Tlaco
+	female=yes
+	dynasty=1009990172
+	dna="jmjkjkbhlmd"
+	culture=guachichil religion=southwest_pagan
+	father=1019920457	#Xochipilli
+	916.10.12={ birth=yes }
+	999.3.9={ death=yes }
+}
+1019920471={
+	name=Opochtli
+	dynasty=1009990172
+	dna="dbieebhhpeg"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=5
+	add_trait=grey_eminence add_trait=slothful add_trait=honest add_trait=proud add_trait=craven 
+	father=1019920465	#Opochtli
+	915.2.4={ birth=yes }
+	977.8.17={ death=yes }
+}
+1019920472={
+	name=Xocoh
+	female=yes
+	dynasty=1009990172
+	dna="pdafebhjlmg"
+	culture=guachichil religion=southwest_pagan
+	father=1019920465	#Opochtli
+	922.7.21={ birth=yes }
+	992.8.30={ death=yes }
+}
+1019920473={
+	name=Tlazozomizqui
+	female=yes
+	dynasty=1009990172
+	dna="dmbnebkhlmd"
+	culture=guachichil religion=southwest_pagan
+	father=1019920465	#Opochtli
+	925.4.11={ birth=yes }
+	1011.5.20={ death=yes }
+}
+1019920474={
+	name=Opochtli
+	dynasty=1009990172
+	dna="ommnebhcgmm"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=7
+	add_trait=skilled_tactician add_trait=slothful add_trait=envious add_trait=temperate 
+	father=1019920465	#Opochtli
+	929.12.4={ birth=yes }
+	1009.12.26={ death=yes }
+}
+1019920475={
+	name=Xochipilli
+	dynasty=1009990172
+	dna="genjnbdfkfn"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=8 learning=4
+	add_trait=martial_cleric add_trait=chaste add_trait=shy add_trait=ambitious add_trait=envious 
+	father=1019920471	#Opochtli
+	938.12.13={ birth=yes }
+	992.8.18={ death=yes }
+}
+1019920476={
+	name=Ocuil
+	dynasty=1009990172
+	dna="dbeeeekijea"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=6 learning=7
+	add_trait=elusive_shadow add_trait=brave add_trait=content add_trait=humble add_trait=envious 
+	add_trait=deceitful add_trait=slothful 
+	father=1019920471	#Opochtli
+	942.9.14={ birth=yes }
+	1019.8.18={ death=yes }
+}
+1019920477={
+	name=Citlamina
+	female=yes
+	dynasty=1009990172
+	dna="dbmejmpopeg"
+	culture=guachichil religion=southwest_pagan
+	father=1019920471	#Opochtli
+	947.4.19={ birth=yes }
+	1014.12.1={ death=yes }
+}
+1019920478={
+	name=Yaotl
+	dynasty=1009990172
+	dna="gbiemofaonc"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=8 learning=6
+	add_trait=skilled_tactician add_trait=slothful add_trait=humble add_trait=honest add_trait=arbitrary 
+	add_trait=envious 
+	father=1019920471	#Opochtli
+	954.12.1={ birth=yes }
+	1038.4.2={ death=yes }
+}
+1019920479={
+	name=Ozomatli
+	dynasty=1009990172
+	dna="dhjeemhhppg"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	add_trait=indulgent_wastrel add_trait=proud add_trait=charitable add_trait=just add_trait=brave 
+	add_trait=wroth 
+	father=1019920471	#Opochtli
+	959.3.17={ birth=yes }
+	1040.12.30={ death=yes }
+}
+1019920480={
+	name=Xipil
+	dynasty=1009990172
+	dna="jenjmblknfn"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=brave add_trait=diligent add_trait=trusting 
+	father=1019920475	#Xochipilli
+	964.5.9={ birth=yes }
+	1007.2.8={ death=yes }
+}
+1019920481={
+	name=Totoquihuaztli
+	dynasty=1009990172
+	dna="genencdgkfn"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=gardener add_trait=chaste add_trait=charitable add_trait=gregarious 
+	add_trait=arbitrary add_trait=patient add_trait=trusting 
+	father=1019920475	#Xochipilli
+	970.1.26={ birth=yes }
+	1022.12.31={ death=yes }
+}
+1019920482={
+	name=Tezozomoc
+	female=yes
+	dynasty=1009990172
+	dna="ghnmmbbckkf"
+	culture=guachichil religion=southwest_pagan
+	father=1019920475	#Xochipilli
+	977.8.10={ birth=yes }
+	1051.9.26={ death=yes }
+}
+1019920483={
+	name=Tlazozomizqui
+	female=yes
+	dynasty=1009990172
+	dna="gefjnjfhkli"
+	culture=guachichil religion=southwest_pagan
+	father=1019920475	#Xochipilli
+	982.3.1={ birth=yes }
+	1065.2.11={ death=yes }
+}
+1019920484={
+	name=Xihuitl
+	dynasty=1009990172
+	dna="aelambbkgfn"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=paranoid add_trait=envious 
+	father=1019920480	#Xipil
+	986.3.23={ birth=yes }
+	1058.9.23={ death=yes }
+}
+1019920485={
+	name=Tlazozomizqui
+	female=yes
+	dynasty=1009990172
+	dna="connallppli"
+	culture=guachichil religion=southwest_pagan
+	father=1019920480	#Xipil
+	988.2.3={ birth=yes }
+	1050.9.18={ death=yes }
+}
+1019920486={
+	name=Tapayaxi
+	dynasty=1009990172
+	dna="godljfdlnan"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=wroth add_trait=deceitful add_trait=temperate add_trait=diligent 
+	father=1019920480	#Xipil
+	993.3.9={ birth=yes }
+	1058.8.19={ death=yes }
+}
+1019920487={
+	name=Sacnite
+	female=yes
+	dynasty=1009990172
+	dna="jlnngbldmob"
+	culture=guachichil religion=southwest_pagan
+	father=1019920480	#Xipil
+	998.8.5={ birth=yes }
+	1060.3.10={ death=yes }
+}
+1019920488={
+	name=Yaotl
+	dynasty=1009990172
+	dna="jfnjibncpin"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=shy add_trait=slothful add_trait=wroth 
+	father=1019920480	#Xipil
+	1002.10.1={ birth=yes }
+	1063.6.13={ death=yes }
+}
+1019920489={
+	name=Tetlepanquetzaltzin
+	dynasty=1009990172
+	dna="hekalbjjgfn"
+	culture=guachichil religion=southwest_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=8 learning=6
+	add_trait=martial_cleric add_trait=trusting 
+	father=1019920484	#Xihuitl
+	1010.3.3={ birth=yes }
+	1083.4.13={ death=yes }
+}
+1019920490={
+	name=Tlexictli
+	female=yes
+	dynasty=1009990172
+	dna="apcpkbbkpmb"
+	culture=guachichil religion=southwest_pagan
+	father=1019920484	#Xihuitl
+	1016.4.14={ birth=yes }
+	1089.3.11={ death=yes }
+}
+1019920491={
+	name=Topiltzin
+	dynasty=1009990172
+	dna="appfmabkgfp"
+	culture=guachichil religion=southwest_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=7 learning=7
+	add_trait=misguided_warrior add_trait=brave  add_trait=ambitious 
+	add_trait=gluttonous 
+	father=1019920484	#Xihuitl
+	1020.11.4={ birth=yes }
+	1094.1.2={ death=yes }
+}
+1019920492={
+	name=Tizocic
+	dynasty=1009990172
+	dna="geklebmjgpb"
+	culture=guachichil religion=southwest_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=7 learning=8
+	add_trait=mastermind_theologian add_trait=hunter add_trait=just add_trait=patient add_trait=charitable 
+	add_trait=chaste 
+	father=1019920489	#Tetlepanquetzaltzin
+	1039.9.3={ birth=yes }
+	1097.8.8={ death=yes }
+}
+1019920493={
+	name=Ocuil
+	dynasty=1009990172
+	dna="hijaldcldfc"
+	culture=guachichil religion=southwest_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=8
+	add_trait=martial_cleric add_trait=paranoid add_trait=gluttonous 
+	father=1019920489	#Tetlepanquetzaltzin
+	1043.9.25={ birth=yes }
+	1127.3.2={ death=yes }
+}
+1019920494={
+	name=Yayauhqui
+	dynasty=1009990172
+	dna="hgdalbjjhfa"
+	culture=guachichil religion=southwest_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=ambitious add_trait=trusting add_trait=wroth 
+	father=1019920489	#Tetlepanquetzaltzin
+	1050.7.3={ birth=yes }
+	1114.3.19={ death=yes }
+}
+1019920495={
+	name=Icnoyotl
+	female=yes
+	dynasty=1009990172
+	dna="obgnlbeaglf"
+	culture=guachichil religion=southwest_pagan
+	father=1019920489	#Tetlepanquetzaltzin
+	1056.6.27={ birth=yes }
+	1122.8.12={ death=yes }
+}
+1019920496={
+	name=Zolin
+	dynasty=1009990172
+	dna="hlaalbjjefn"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=4 learning=4
+	add_trait=skilled_tactician add_trait=deceitful add_trait=arbitrary add_trait=cynical 
+	add_trait=humble 
+	father=1019920489	#Tetlepanquetzaltzin
+	1059.9.17={ birth=yes }
+	1121.12.21={ death=yes }
+}
+1019920497={
+	name=Tlacaeleltzin
+	dynasty=1009990172
+	dna="cadlebmbgpb"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=7 learning=5
+	add_trait=indulgent_wastrel add_trait=gluttonous add_trait=slothful add_trait=honest 
+	father=1019920492	#Tizocic
+	1069.10.2={ birth=yes }
+	1128.6.9={ death=yes }
+}
+1019920498={
+	name=Tlalli
+	female=yes
+	dynasty=1009990172
+	dna="ekkpligpgpb"
+	culture=guachichil religion=southwest_pagan
+	father=1019920492	#Tizocic
+	1073.7.19={ birth=yes }
+	1150.4.21={ death=yes }
+}
+1019920499={
+	name=Xiloxoch
+	female=yes
+	dynasty=1009990172
+	dna="cajdphgbgjb"
+	culture=guachichil religion=southwest_pagan
+	father=1019920497	#Tlacaeleltzin
+	1095.5.8={ birth=yes }
+	1168.5.23={ death=yes }
+}
+1019920500={
+	name=Tecocoltzin
+	dynasty=1009990172
+	dna="opdlkglbghm"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=7 learning=5
+	add_trait=grey_eminence add_trait=lustful add_trait=just add_trait=cynical add_trait=brave 
+	add_trait=paranoid add_trait=proud 
+	father=1019920497	#Tlacaeleltzin
+	1097.5.25={ birth=yes }
+	1158.8.19={ death=yes }
+}
+1019920501={
+	name=Tlacotl
+	female=yes
+	dynasty=1009990172
+	dna="ccdlpbpigpb"
+	culture=guachichil religion=southwest_pagan
+	father=1019920497	#Tlacaeleltzin
+	1102.7.27={ birth=yes }
+	1177.3.6={ death=yes }
+}
+1019920502={
+	name=Moyolehuani
+	female=yes
+	dynasty=1009990172
+	dna="dajnhimhhab"
+	culture=guachichil religion=southwest_pagan
+	father=1019920497	#Tlacaeleltzin
+	1104.10.11={ birth=yes }
+	1180.1.27={ death=yes }
+}
+1019920503={
+	name=Xipilli
+	dynasty=1009990172
+	dna="cadabballpd"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=lustful add_trait=honest add_trait=cynical 
+	add_trait=brave 
+	father=1019920497	#Tlacaeleltzin
+	1108.5.1={ birth=yes }
+	1162.12.28={ death=yes }
+}
+1019920504={
+	name=Yoltzin
+	female=yes
+	dynasty=1009990172
+	dna="padkkblbghc"
+	culture=guachichil religion=southwest_pagan
+	father=1019920500	#Tecocoltzin
+	1120.6.5={ birth=yes }
+	1176.3.28={ death=yes }
+}
+1019920505={
+	name=Xiloxoch
+	female=yes
+	dynasty=1009990172
+	dna="opoljgleggl"
+	culture=guachichil religion=southwest_pagan
+	father=1019920500	#Tecocoltzin
+	1126.4.4={ birth=yes }
+	1185.4.14={ death=yes }
+}
+1019920506={
+	name=Tizocic
+	dynasty=1009990172
+	dna="opelkfloohm"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=4 learning=6
+	add_trait=grey_eminence add_trait=chaste add_trait=zealous add_trait=shy add_trait=patient 
+	add_trait=humble 
+	father=1019920500	#Tecocoltzin
+	1129.8.23={ birth=yes }
+	1207.4.7={ death=yes }
+}
+1019920507={
+	name=Ichtaca
+	female=yes
+	dynasty=1009990172
+	dna="nedlegfbghm"
+	culture=guachichil religion=southwest_pagan
+	father=1019920500	#Tecocoltzin
+	1135.10.23={ birth=yes }
+	1208.12.10={ death=yes }
+}
+1019920508={
+	name=Tziquetzalpoztectzin
+	female=yes
+	dynasty=1009990172
+	dna="npellghblhl"
+	culture=guachichil religion=southwest_pagan
+	father=1019920500	#Tecocoltzin
+	1140.11.25={ birth=yes }
+	1212.10.11={ death=yes }
+}
+1019920509={
+	name=Zyanya
+	female=yes
+	dynasty=1009990172
+	dna="cpcnkdlcdhm"
+	culture=guachichil religion=southwest_pagan
+	father=1019920506	#Tizocic
+	1157.12.13={ birth=yes }
+	1237.6.27={ death=yes }
+}
+1019920510={
+	name=Tlaco
+	female=yes
+	dynasty=1009990172
+	dna="bkeccdfoehm"
+	culture=guachichil religion=southwest_pagan
+	father=1019920506	#Tizocic
+	1161.9.22={ birth=yes }
+	1209.1.5={ death=yes }
+}
+1019920511={
+	name=Yaotl
+	dynasty=1009990172
+	dna="opckafmjihl"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=6 learning=7
+	add_trait=detached_priest add_trait=content add_trait=brave add_trait=gregarious add_trait=arbitrary 
+	father=1019920506	#Tizocic
+	1164.12.22={ birth=yes }
+	1224.1.23={ death=yes }
+}
+1019920512={
+	name=Xihuitl
+	dynasty=1009990172
+	dna="oachaompiml"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=8 learning=6
+	add_trait=flamboyant_schemer add_trait=lustful add_trait=honest add_trait=arbitrary add_trait=envious 
+	add_trait=wounded 
+	father=1019920511	#Yaotl
+	1190.12.27={ birth=yes }
+	1254.12.24={ death=yes }
+}
+1019920513={
+	name=Xiuhpilli
+	dynasty=1009990172
+	dna="ohkkkfegijn"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	add_trait=detached_priest add_trait=shy add_trait=diligent add_trait=zealous 
+	add_trait=envious add_trait=wounded 
+	father=1019920511	#Yaotl
+	1195.4.27={ birth=yes }
+	1255.10.10={ death=yes }
+}
+1019920514={
+	name=Zyanya
+	female=yes
+	dynasty=1009990172
+	dna="gpbkkfppdml"
+	culture=guachichil religion=southwest_pagan
+	father=1019920511	#Yaotl
+	1200.4.10={ birth=yes }
+	1270.3.12={ death=yes }
+}
+1019920515={
+	name=Ozomatli
+	dynasty=1009990172
+	dna="hahmcobkihl"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=6
+	add_trait=tough_soldier add_trait=mystic add_trait=content add_trait=cynical add_trait=craven 
+	add_trait=diligent add_trait=gregarious add_trait=lunatic 
+	father=1019920512	#Xihuitl
+	1212.6.26={ birth=yes }
+	1278.4.10={ death=yes }
+}
+1019920516={
+	name=Moyolehuani
+	female=yes
+	dynasty=1009990172
+	dna="oajhaompicl"
+	culture=guachichil religion=southwest_pagan
+	father=1019920512	#Xihuitl
+	1215.10.10={ birth=yes }
+	1275.9.13={ death=yes }
+}
+1019920517={
+	name=Tlacaeleltzin
+	dynasty=1009990172
+	dna="olckdogpcml"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	add_trait=skilled_tactician add_trait=trusting add_trait=arbitrary add_trait=wroth add_trait=brave 
+	add_trait=proud 
+	father=1019920512	#Xihuitl
+	1221.9.12={ birth=yes }
+	1295.9.17={ death=yes }
+}
+1019920518={
+	name=Topiltzin
+	dynasty=1009990172
+	dna="oachaompimm"
+	culture=guachichil religion=southwest_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=duelist add_trait=zealous add_trait=lustful 
+	add_trait=wroth 
+	father=1019920512	#Xihuitl
+	1226.12.2={ birth=yes }
+	1309.3.20={ death=yes }
+}
+1019920519={
+	name=Tziquetzalpoztectzin
+	female=yes
+	dynasty=1009990172
+	dna="efpmilipcmm"
+	culture=guachichil religion=southwest_pagan
+	father=1019920512	#Xihuitl
+	1231.11.26={ birth=yes }
+	1294.9.6={ death=yes }
+}
+1019920520={
+	name=Tapayaxi
+	dynasty=1009990172
+	dna="gphmhobpimg"
+	culture=guachichil religion=southwest_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	add_trait=tough_soldier add_trait=gardener add_trait=envious add_trait=trusting add_trait=shy 
+	father=1019920515	#Ozomatli
+	1242.12.15={ birth=yes }
+	1295.5.29={ death=yes }
+}
+1019920521={
+	name=Xicohtencatl
+	dynasty=1009990172
+	dna="dkchhlbbdcl"
+	culture=guachichil religion=southwest_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	add_trait=naive_appeaser add_trait=proud add_trait=wroth add_trait=ambitious add_trait=wounded 
+	father=1019920515	#Ozomatli
+	1248.3.3={ birth=yes }
+	1321.10.3={ death=yes }
+}
+1019920522={
+	name=Xocoh
+	female=yes
+	dynasty=1009990172
+	dna="kdkgcobkhkf"
+	culture=guachichil religion=southwest_pagan
+	father=1019920515	#Ozomatli
+	1254.8.22={ birth=yes }
+	1311.11.17={ death=yes }
+}
+1019920523={
+	name=Macuilxochitl
+	female=yes
+	dynasty=1009990172
+	dna="hagmcfbkipd"
+	culture=guachichil religion=southwest_pagan
+	father=1019920515	#Ozomatli
+	1258.8.1={ birth=yes }
+	1340.1.3={ death=yes }
+}
+1019920524={
+	name=Tlachinolli
+	female=yes
+	dynasty=1009990172
+	dna="gbhmhpgdimn"
+	culture=guachichil religion=southwest_pagan
+	father=1019920520	#Tapayaxi
+	1265.7.2={ birth=yes }
+	1338.6.18={ death=yes }
+}
+1019920525={
+	name=Citali
+	female=yes
+	dynasty=1009990172
+	dna="lohapopaimg"
+	culture=guachichil religion=southwest_pagan
+	father=1019920520	#Tapayaxi
+	1270.1.21={ birth=yes }
+	1334.3.18={ death=yes }
+}
+1019920526={
+	name=Topiltzin
+	dynasty=1009990172
+	dna="oplehehpnmg"
+	culture=guachichil religion=southwest_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=zealous add_trait=craven add_trait=paranoid add_trait=charitable 
+	add_trait=possessed 
+	father=1019920520	#Tapayaxi
+	1275.2.8={ birth=yes }
+	1360.7.24={ death=yes }
+}
+1019920527={
+	name=Tonalnan
+	female=yes
+	dynasty=1009990172
+	dna="ghhalgbhamg"
+	culture=guachichil religion=southwest_pagan
+	father=1019920520	#Tapayaxi
+	1282.3.17={ birth=yes }
+	1357.11.12={ death=yes }
+}
+1019920528={
+	name=Zyanya
+	female=yes
+	dynasty=1009990172
+	dna="gkhciobjimh"
+	culture=guachichil religion=southwest_pagan
+	father=1019920520	#Tapayaxi
+	1285.10.25={ birth=yes }
+	1361.12.4={ death=yes }
+}
+1019920529={
+	name=Tlacaelel
+	dynasty=1009990172
+	dna="dpikhehgnmg"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	add_trait=midas_touched  add_trait=chaste add_trait=just 
+	add_trait=honest 
+	father=1019920526	#Topiltzin
+	1295.5.15={ birth=yes }
+	1364.5.24={ death=yes }
+}
+1019920530={
+	name=Tlahco
+	female=yes
+	dynasty=1009990172
+	dna="oplbkejpcba"
+	culture=guachichil religion=southwest_pagan
+	father=1019920526	#Topiltzin
+	1302.8.8={ birth=yes }
+	1384.9.30={ death=yes }
+}
+1019920531={
+	name=Tapayaxi
+	dynasty=1009990172
+	dna="apeehehpamg"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=gardener add_trait=craven add_trait=greedy add_trait=temperate 
+	add_trait=humble add_trait=lustful add_trait=possessed 
+	father=1019920526	#Topiltzin
+	1306.8.14={ birth=yes }
+	1390.5.29={ death=yes }
+}
+1019920532={
+	name=Tetlepanquetzaltzin
+	dynasty=1009990172
+	dna="dpikhehgnmn"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=diligent add_trait=gluttonous add_trait=patient add_trait=greedy 
+	add_trait=depressed 
+	father=1019920529	#Tlacaelel
+	1323.1.27={ birth=yes }
+	1377.12.23={ death=yes }
+}
+1019920533={
+	name=Zolin
+	dynasty=1009990172
+	dna="dpipnhkgnel"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=5 learning=5
+	add_trait=tough_soldier add_trait=gregarious add_trait=deceitful 
+	father=1019920529	#Tlacaelel
+	1327.4.21={ birth=yes }
+	1413.2.4={ death=yes }
+}
+1019920534={
+	name=Macuilxochitl
+	female=yes
+	dynasty=1009990172
+	dna="dppdnhhgnmg"
+	culture=guachichil religion=southwest_pagan
+	father=1019920529	#Tlacaelel
+	1332.8.18={ birth=yes }
+	1390.4.3={ death=yes }
+}
+1019920535={
+	name=Tlahco
+	female=yes
+	dynasty=1009990172
+	dna="opiihepbmmg"
+	culture=guachichil religion=southwest_pagan
+	father=1019920529	#Tlacaelel
+	1337.11.24={ birth=yes }
+	1402.12.20={ death=yes }
+}
+1019920536={
+	name=Zyanya
+	female=yes
+	dynasty=1009990172
+	dna="dpiknmhgbjk"
+	culture=guachichil religion=southwest_pagan
+	father=1019920529	#Tlacaelel
+	1343.4.16={ birth=yes }
+	1425.3.25={ death=yes }
+}
+1019920537={
+	name=Tezcatlan
+	female=yes
+	dynasty=1009990172
+	dna="epbkhedoleh"
+	culture=guachichil religion=southwest_pagan
+	father=1019920529	#Tlacaelel
+	1347.9.26={ birth=yes }
+	1411.3.6={ death=yes }
+}
+1019920538={
+	name=Topiltzin
+	dynasty=1009990172
+	dna="pfgfhenajme"
+	culture=guachichil religion=southwest_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=duelist  add_trait=paranoid add_trait=patient 
+	add_trait=shy add_trait=craven add_trait=temperate 
+	father=1019920532	#Tetlepanquetzaltzin
+	1345.11.3={ birth=yes }
+	1410.11.16={ death=yes }
+}
+1019920539={
+	name=Tlaco
+	female=yes
+	dynasty=1009990172
+	dna="kpconoonnon"
+	culture=guachichil religion=southwest_pagan
+	father=1019920532	#Tetlepanquetzaltzin
+	1348.12.15={ birth=yes }
+	1420.2.27={ death=yes }
+}
+1019920540={
+	name=Tototl
+	dynasty=1009990172
+	dna="dpikifhlfmg"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	add_trait=indulgent_wastrel add_trait=impaler add_trait=craven add_trait=honest add_trait=zealous 
+	add_trait=gluttonous add_trait=proud add_trait=stressed 
+	father=1019920532	#Tetlepanquetzaltzin
+	1351.11.11={ birth=yes }
+	1436.9.6={ death=yes }
+}
+1019920541={
+	name=Olli
+	dynasty=1009990172
+	dna="pfgnhcnajmc"
+	culture=guachichil religion=southwest_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=just add_trait=gregarious add_trait=chaste add_trait=wounded 
+	father=1019920538	#Topiltzin
+	1369.8.19={ birth=yes }
+	1442.3.4={ death=yes }
+}
+1019920542={
+	name=Moztla
+	female=yes
+	dynasty=1009990172
+	dna="pjcfhbbbbfl"
+	culture=guachichil religion=southwest_pagan
+	father=1019920538	#Topiltzin
+	1374.12.5={ birth=yes }
+	1471.7.14={ death=yes }
+}

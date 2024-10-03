@@ -1,0 +1,799 @@
+e_australia = {
+
+	capital = 3411 # Canberra
+
+	color={ 162 122 135 }
+	color2={ 255 255 255 }
+	allow={
+	is_colonial = no
+	}
+	k_western_australia = { #Liang
+
+		capital = 3400 # Perthh
+
+		color={ 54 69 135 }
+		color2={ 255 255 255 }		
+
+		d_geralkun = {
+
+			color={ 142 175 221 }
+			color2={ 255 255 255 }
+
+			capital = 3398 # Geraldton
+
+			c_geraldton = {
+
+				color={ 12 135 31 }
+				color2={ 255 255 255 }
+
+				b_geraldton = {
+				}
+				b_denham = {
+				}
+				b_derrelerenth = {
+				}
+			}
+			c_onslow = {
+
+				color={ 142 15 61 }
+				color2={ 255 255 255 }
+
+				b_onslow = {
+				}
+				b_muslearean = {
+				}
+				b_juyletcerk = {
+				}
+			}
+			c_kalbarri = {
+
+				color={ 122 165 141 }
+				color2={ 255 255 255 }
+
+				b_kalbarri = {
+				}
+				b_ferthperlen = {
+				}
+			}
+			c_paraburdoo = {
+
+				color={ 32 125 191 }
+				color2={ 255 255 255 }
+
+				b_paraburdoo = {
+				}
+				b_uthlemen = {
+				}
+				b_wvayradaman = {
+				}
+			}
+			c_wiluna = {
+
+				color={ 122 135 111 }
+				color2={ 255 255 255 }
+
+				b_wiluna = {
+				}
+				b_wurranlakapa = {
+				}
+				b_meunsterent = {
+				}
+			}
+			c_exmouth = {
+
+				color={ 12 65 138 }
+				color2={ 255 255 255 }
+
+				b_exmouth = {
+				}
+				b_huyepeksan = {
+				}
+				b_munpueraka = {
+				}
+			}
+		}
+		d_carnbro = {
+
+			color={ 64 64 244 }
+			color2={ 255 255 255 }
+
+			capital = 3490 # Derbyy
+
+			c_carnarvon = {
+
+				color={ 82 15 18 }
+				color2={ 255 255 255 }
+
+				b_carnarvon = {
+				}
+				b_feuploeopa = {
+				}
+				b_manjimup = {
+				}
+			}
+			c_derbyy = {
+
+				color={ 52 65 181 }
+				color2={ 255 255 255 }
+
+				b_derbyy = {
+				}
+				b_newman = {
+				}
+				b_ujalanthe = {
+				}
+			}
+			c_loungston = {
+
+				color={ 142 25 111 }
+				color2={ 255 255 255 }
+
+				b_loungston = {
+				}
+				b_wehlalerth = {
+				}
+				b_pturanmanthe = {
+				}
+			}
+			c_broome = {
+
+				color={ 32 35 171 }
+				color2={ 255 255 255 }
+
+				holy_site = dreamtime_religion
+				holy_site = dreamtime_religion_reformed
+
+				b_broome = {
+				}
+				b_heukkente = {
+				}
+				b_emequaelle = {
+				}
+			}
+			c_kununurra = {
+
+				color={ 142 15 101 }
+				color2={ 255 255 255 }
+
+				b_kununurra = {
+				}
+				b_halls_creek = {
+				}
+				b_bullocanpe = {
+				}
+			}
+		}
+		d_pernors = { #Guide
+
+			color={ 121 45 187 }
+			color2={ 255 255 255 }
+
+			capital = 3400
+
+			c_perthh = {
+
+				color={ 141 115 57 }
+				color2={ 255 255 255 }
+
+				holy_site = dreamtime_religion
+				holy_site = dreamtime_religion_reformed
+
+				b_perthh = {
+				}
+				b_northam = {
+				}
+				b_mandurah = {
+				}
+			}
+			c_bunbury = {
+
+				color={ 51 145 27 }
+				color2={ 255 255 255 }
+
+				b_bunbury = {
+				}
+				b_jurien_bay = {
+				}
+				b_humphesoroth = {
+				}
+				b_qyenmenra = {
+				}
+				b_geyulerenthe = {
+				}
+			}
+			c_norseman = {
+
+				color={ 21 35 17 }
+				color2={ 255 255 255 }
+
+				b_norseman = {
+				}
+				b_esperance = {
+				}
+				b_cape_arid = {
+				}
+			}
+			c_madura = {
+
+				color={ 151 135 127 }
+				color2={ 255 255 255 }
+
+				b_madura = {
+				}
+				b_huabanperent = {
+				}
+				b_zaklotere = {
+				}
+			}
+			c_ravensthorpe = {
+
+				color={ 71 15 77 }
+				color2={ 255 255 255 }
+
+				b_ravensthorpe = {
+				}
+				b_laverton = {
+				}
+				b_merredin = {
+				}
+			}
+			c_albany = {
+
+				color={ 141 55 97 }
+				color2={ 255 255 255 }
+
+				b_albany = {
+				}
+				b_quanpank = {
+				}
+				b_werrionlaph = {
+				}
+			}
+		}
+		d_winglath = { 
+
+			color={ 64 0 64 }
+			color2={ 255 255 255 }
+
+			capital = 3410 # Sydney
+
+			c_gladstone = {
+
+				color={ 226 178 27 }
+				color2={ 255 255 255 }
+
+				b_gladstone = {
+				}
+				b_mackay = {
+				}
+				b_ruhthmerkempi = {
+				}
+			}
+			c_rockhampton = {
+
+				color={ 17 128 77 }
+				color2={ 255 255 255 }
+
+				b_rockhampton = {
+				}
+				b_murreykenth = {
+				}
+				b_lucklaeamph = {
+				}
+			}
+			c_thargomindah = {
+
+				color={ 66 88 97 }
+				color2={ 255 255 255 }
+
+				b_thargomindah = {
+				}
+				b_feuropenketh= {
+				}
+				b_klampentenpe = {
+				}
+			}
+			c_winton = {
+
+				color={ 176 8 47 }
+				color2={ 255 255 255 }
+
+				b_winton = {
+				}
+				b_st_george = {
+				}
+				b_yekkampla = {
+				}
+			}
+			c_cbarcaldine = {
+
+				color={ 176 8 47 }
+				color2={ 255 255 255 }
+
+				b_cbarcaldine = {
+				}
+				b_luxlepeth = {
+				}
+				b_cullantere = {
+				}
+			}
+			c_sydney = {
+
+				color={ 66 68 97 }
+				color2={ 255 255 255 }
+
+				b_sydney = {
+				}
+				b_moree = {
+				}
+				b_walgett = {
+				}
+				b_coffs_harbour = {
+				}
+			}
+			c_tamworthh = {
+
+				color={ 156 38 37 }
+				color2={ 255 255 255 }
+
+				b_tamworthh = {
+				}
+				b_ballina = {
+				}
+				b_maitland = {
+				}
+			}
+		}
+		d_queensland = { 
+
+			color={ 186 188 47 }
+			color2={ 255 255 255 }
+
+			capital = 3585 # Bundaberg
+
+			c_charleville = {
+
+				color={ 16 18 27 }
+				color2={ 255 255 255 }
+
+				b_charleville = {
+				}
+				b_romaa = {
+				}
+				b_xeterpurph = {
+				}
+			}
+			c_brisbane = {
+
+				color={ 196 78 77 }
+				color2={ 255 255 255 }
+
+				b_brisbane = {
+				}
+				b_townsville = {
+				}
+				b_ayrr = {
+				}
+			}
+			c_cooktown = {
+
+				color={ 216 2 217 }
+				color2={ 255 255 255 }
+
+				b_cooktown = {
+				}
+				b_bamaga = {
+				}
+				b_innisfail = {
+				}
+			}
+			c_hughenden = {
+
+				color={ 36 42 57 }
+				color2={ 255 255 255 }
+
+				b_hughenden = {
+				}
+				b_aebemega = {
+				}
+				b_ruklyleppe = {
+				}
+			}
+			c_bundaberg = {
+
+				color={ 136 42 147 }
+				color2={ 255 255 255 }
+
+				b_bundaberg = {
+				}
+				b_pupupulurata = {
+				}
+				b_mannisturg = {
+				}
+			}
+			c_cairns = {
+
+				color={ 16 72 117 }
+				color2={ 255 255 255 }
+
+				holy_site = dreamtime_religion
+				holy_site = dreamtime_religion_reformed
+
+				b_cairns = {
+				}
+				b_coen = {
+				}
+				b_wluachemp = {
+				}
+			}
+			c_weipa = {
+
+				color={ 125 12 47 }
+				color2={ 255 255 255 }
+
+				b_weipa = {
+				}
+				b_adelenktha = {
+				}
+				b_juxlekemt = {
+				}
+			}
+		}
+		d_victoria = { 
+
+			color={ 140 139 101 }
+			color2={ 255 255 255 }
+
+			capital = 3411 # Zjang (was 1455 Njynh)
+
+			c_canberra = {
+
+				color={ 40 189 191 }
+				color2={ 255 255 255 }
+
+				holy_site = dreamtime_religion
+				holy_site = dreamtime_religion_reformed
+				holy_site = maori_religion
+				holy_site = maori_religion_reformed
+
+
+				b_canberra = {
+				}
+				b_orangee = {
+				}
+				b_dubbo = {
+				}
+			}
+			c_goulburn = {
+
+				color={ 155 129 111 }
+				color2={ 255 255 255 }
+
+				b_goulburn = {
+				}
+				b_vurklaper = {
+				}
+				b_quarentepalle = {
+				}
+			}
+			c_bourke = {
+
+				color={ 166 119 61 }
+				color2={ 255 255 255 }
+
+				b_bourke = {
+				}
+				b_bathurst = {
+				}
+				b_wollongong = {
+				}
+			}
+			c_gilgandra = {
+
+				color={ 36 159 21 }
+				color2={ 255 255 255 }
+
+				b_gilgandra = {
+				}
+				b_veunpuantapha = {
+				}
+				b_golotorosolon = {
+				}
+			}
+			c_melbourne = {
+
+				color={ 223 65 136 }
+				color2={ 255 255 255 }
+
+				b_melbourne = {
+				}
+				b_bendigo = {
+				}
+				b_ballarat = {
+				}
+				b_tibooburra = {
+				}
+			}
+			c_geelong = {
+
+				color={ 133 85 46 }
+				color2={ 255 255 255 }
+
+				b_geelong = {
+				}
+				b_portland = {
+				}
+				b_wilcannia = {
+				}
+			}
+			c_tasmania = {
+
+				color={ 20 139 171 }
+				color2={ 255 255 255 }
+
+				b_hobart = {
+				}
+				b_strathgordon = {
+				}
+				b_launcestonn = {
+				}
+				b_scottsdale = {
+				}
+				b_marrawah = {
+				}
+			}
+		}
+		d_southern_territory = {
+
+			color={ 218 25 114 }
+			color2={ 255 255 255 }
+
+			capital = 3494 # Cloncurry
+
+			c_cloncurry = {
+
+				color={ 18 210 104 }
+				color2={ 255 255 255 }
+
+				b_cloncurry = {
+				}
+				b_mount_isa = {
+				}
+				b_garonsuena = {
+				}
+			}
+			c_augustaa = {
+
+				color={ 168 230 24 }
+				color2={ 255 255 255 }
+
+				b_augustaa = {
+				}
+				b_cunkupusta = {
+				}
+				b_jeilandarhan = {
+				}
+			}
+			c_ewihsemport = {
+
+				color={ 43 140 54 }
+				color2={ 255 255 255 }
+
+				b_ewihsemport = {
+				}
+				b_tenypensah = {
+				}
+				b_zelithkech = {
+				}
+			}
+			c_petermann = {
+
+				color={ 48 160 127 }
+				color2={ 255 255 255 }
+
+				b_petermann = {
+				}
+				b_mount_woodroffe = {
+				}
+				b_tennant_creek = {
+				}
+			}
+			c_tennant = {
+
+				color={ 178 120 35 }
+				color2={ 255 255 255 }
+
+				b_tennant = {
+				}
+				b_woodroffe = {
+				}
+				b_tueannape = {
+				}
+			}
+			c_maria = {
+
+				color={ 88 65 187 }
+				color2={ 255 255 255 }
+
+				b_maria = {
+				}
+				b_marree = {
+				}
+				b_eloparenthe = {
+				}
+			}
+			c_elliston = {
+
+				color={ 18 175 137 }
+				color2={ 255 255 255 }
+
+				b_elliston = {
+				}
+				b_asulkanterre = {
+				}
+				b_luohakanra = {
+				}
+			}
+		}
+		d_northern_territory = { 
+
+			color={ 28 130 144 }
+			color2={ 255 255 255 }
+
+			capital = 3402 #
+
+			c_katherine = {
+
+				color={ 28 78 14 }
+				color2={ 255 255 255 }
+
+				b_katherine = {
+				}
+				b_sexinpropr = {
+				}
+				b_lexaxpiwe = {
+				}
+			}
+			c_davenport = {
+
+				color={ 168 30 164 }
+				color2={ 255 255 255 }
+
+				b_davenport = {
+				}
+				b_lekpenmente = {
+				}
+				b_quanepinai = {
+				}
+			}
+			c_darwin = {
+
+				color={ 118 120 34 }
+				color2={ 255 255 255 }
+
+				b_darwin = {
+				}
+				b_alexraprand = {
+				}
+				b_top_springs = {
+				}
+			}
+			c_hurelthport = {
+
+				color={ 38 60 194 }
+				color2={ 255 255 255 }
+
+				b_hurelthport = {
+				}
+				b_teyleppe = {
+				}
+				b_quarmeareo = {
+				}
+			}
+			c_alice_springs = {
+
+				color={ 48 80 54 }
+				color2={ 255 255 255 }
+
+				b_alice_springs = {
+				}
+				b_dusulkapanth = {
+				}
+				b_cazuperlaeon = {
+				}
+			}
+			c_klampeken = {
+
+				color={ 68 138 54 }
+				color2={ 255 255 255 }
+
+				b_klampeken = {
+				}
+				b_faheuplek = {
+				}
+				b_neneyelem = {
+				}
+			}
+		}
+		d_south_australia = { #
+
+			color={ 14 48 71 }
+			color2={ 255 255 255 }
+
+			capital = 3406 #
+
+			c_ceduna = {
+
+				color={ 234 138 61 }
+				color2={ 255 255 255 }
+
+				b_ceduna = {
+				}
+				b_coober_pedy = {
+				}
+				b_streaky_bay = {
+				}
+			}
+			c_woomera = {
+
+				color={ 34 128 21 }
+				color2={ 255 255 255 }
+
+				b_woomera = {
+				}
+				b_soulaperri = {
+				}
+				b_lernleseth = {
+				}
+			}
+			c_adelaiede = {
+
+				color={ 154 8 41 }
+				color2={ 255 255 255 }
+
+				b_adelaiede = {
+				}
+				b_port_lincoln = {
+				}
+				b_hlaplors = {
+				}
+                                          }
+			c_port_pirie = {
+
+				color={ 14 58 91 }
+				color2={ 255 255 255 }
+
+				b_port_pirie = {
+				}
+				b_port_augusta = {
+				}
+				b_coarkpyer = {
+				}
+			}
+			c_whyalla = {
+
+				color={ 64 88 141 }
+				color2={ 255 255 255 }
+
+				b_whyalla = {
+				}
+				b_hawker = {
+				}
+				b_heyweleper = {
+				}
+			}
+			c_renmark = {
+
+				color={ 84 148 111 }
+				color2={ 255 255 255 }
+
+				b_renmark = {
+				}
+				b_daodunpa = {
+				}
+				b_lorkeplea = {
+				}
+			}
+		}
+        }
+}

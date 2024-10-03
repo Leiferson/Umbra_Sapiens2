@@ -1,0 +1,231 @@
+761.1.1={
+	holder=200035 # Abdallah Aslamid
+	liege=d_beja
+}
+789.1.1={
+	holder=200034 # Jalid Aslamid
+}
+820.1.1={
+	holder=200033 # Hashim Aslamid
+}
+840.1.1={
+	holder=73968 # Abd al-Aziz Aslamid
+}
+870.1.1={
+	holder=73967 # Aslam Aslamid
+}
+930.1.1={
+	holder=3200 # Abd al-Rahman III Umayyad
+	liege=k_andalusia
+}
+936.1.1 = {
+	holder = 260605
+}
+961.10.15={
+	holder=3202 # al-Hakam II Umayyad
+}
+976.10.16={
+	holder=3204 # Hisham II Umayyad
+}
+1009.2.15={
+	holder=73671 # Muhammad II Umayyad
+}
+1009.11.1={
+	holder=73675 # Suleyman Umayyad
+}
+1010.5.10={
+	holder=73671 # Muhammad II Umayyad
+}
+1010.7.23={
+	holder=3204 # Hisham II Umayyad
+}
+1013.4.19={
+	holder=73675 # Suleyman Umayyad
+}
+1016.7.1={
+	holder=73687 # Ali Hammudid
+}
+1018.3.22={
+	holder=73678 # Abd al-Rahman IV Umayyad
+}
+1018.6.1={
+	holder=73689 # al-Qasim Hammudid
+}
+1021.1.1={
+	holder=73690 # Yahya Hammudid
+}
+1022.1.1={
+	holder=200220 # Abd al-Aziz Saqlabid
+	liege=0
+}
+1030.1.1={
+	holder=200221 # Abd al-Malik Saqlabid
+}
+1034.1.1={
+	holder=45007 # Abdallah Aftasid
+	liege=d_badajoz
+}
+1045.1.1={
+	holder=3900 # Abu Bakr Aftasid
+}
+1060.1.1={
+	holder=3901 # Yahya Aftasid
+}
+1079.1.1={
+	holder=3902 # Muhammad Aftasid
+}
+1080.1.1={
+	holder=45009 # Abbas Aftasid
+}
+1094.1.1={
+	holder=73205 # Yusuf Yusufid
+	liege=k_mauretania
+}
+1116.1.1={
+	holder=73207 # Ismai'l Ismailid
+}
+1142.1.1={
+	holder=73203 # Siddray Wazirid
+	liege=d_beja
+}
+1147.10.25={
+	holder=209503 # Afonso I de Bourgogne
+	liege=k_portugal_2
+}
+1185.12.6={
+	holder=209500 # Sancho I de Bourgogne
+	liege=k_portugal_3
+}
+1212.3.26={
+	holder=459560 # Afonso II de Bourgogne
+}
+1223.3.25={
+	holder=459562 # Sancho II de Bourgogne
+}
+1248.1.3={
+	holder=459520 # Afonso III de Bourgogne
+	liege=k_portugal_4
+}
+1279.4.18={
+	holder=459510 # Dinis Afonses de Bourgogne
+}
+1325.1.7={
+	holder=459500 # Afonso IV de Bourgogne
+}
+1357.1.1={
+	holder=370001 # Pedro I de Borgonha
+}
+1367.1.1={
+	holder=370008 # Fernando I de Borgonha
+}
+1383.10.22={
+	holder=370013 # John I de Borgonha
+	liege=k_portugal_5
+}
+1415.8.21={
+	liege=e_portugal_5
+}
+1433.1.1={
+	holder=370069 # Edward I de Borgonha
+}
+1438.9.9={
+	holder=370205 # Alphonse V de Borgonha
+}
+1477.11.11={
+	holder=370227 # John II de Borgonha
+}
+1485.1.1={
+	liege=e_portugal_6
+}
+1495.10.25={
+	holder=370292 # D.Manuel
+	liege=e_portugal_7
+}
+1521.12.13={
+	holder=370356 # D.João III
+	liege=e_portugal_8
+}
+1557.6.11={
+	holder=371944 # D.Sebastião
+	liege=e_portugal_9
+}
+1578.8.4={
+	holder=370362 # D.Henrique
+}
+1580.1.31={
+	holder=373146 # D. António, Prior do Crato
+}
+1581.4.16={
+	holder=379598	#Fernando Álvarez de Toledo
+	liege=e_espana_burgona
+}
+1582.12.11={
+	holder=370718	#Philip II
+}
+1583.2.11={
+	holder=371835	#Albert VII, Archduke of Austria
+}
+1593.7.5={
+	holder=379615	#Miguel de Castro, arzobispo de Lisboa
+}
+1598.1.1={
+	holder=379623	#Francisco Gómez de Sandoval y Rojas
+}
+1600.1.29={
+	holder=379645	#Cristóvão de Moura, primer marqués de Castel Rodrigo
+}
+1603.1.1={
+	holder=379646	#Afonso de Castelo Branco, obispo de Coímbra
+}
+1603.4.1={
+	holder=379645	#Cristóvão de Moura, primer marqués de Castel Rodrigo
+}
+1603.8.1={
+	holder=379646	#Afonso de Castelo Branco, obispo de Coímbra
+}
+1605.5.24={
+	holder=379647	#Pedro de Castilho, Bishop of Leiria
+}
+1608.2.1={
+	holder=379645	#Cristóvão de Moura
+}
+1612.1.1={
+	holder=379647	#Pedro de Castilho, obispo de Leiría (segunda vez)
+}
+1612.6.1={
+	holder=379662	#Aleixo de Meneses, obispo de Braga
+}
+1615.1.1={
+	holder=379615	#Miguel de Castro, arzobispo de Lisboa
+}
+1616.1.1={
+	liege=e_portugal_10
+}
+1619.1.1={
+	holder=379666	#Diego de Silva y Mendoza
+}
+1621.1.1={
+	holder=379667	#Martim Afonso Mexia, obispo de Coímbra
+}
+1623.8.30={
+	holder=379668	#Diogo de Castro, conde de Basto
+}
+1631.1.1={
+	holder=379671	#António de Ataíde, conde de Castanheira
+}
+1632.1.1={
+	holder=379672	#Nuno de Mendonça, conde de Vale de Reis
+}
+1633.1.1={
+	holder=379673	#João Manuel de Ataíde, arzobispo de Lisbona
+}
+1633.7.4={
+	holder=379668	#Diogo de Castro, conde de Basto
+}
+1634.1.1={
+	holder=375629	#Margarita de Saboya
+}
+1640.12.1={
+	holder=370381 # John IV de Braganza
+	liege=e_portugal_11
+}

@@ -1,0 +1,1414 @@
+#327000
+327000 = {
+	name = "Kitchi"
+	dynasty = 1010036030
+	religion = raven_tales
+	culture = yurok
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327001 = {
+	name = "Kajika"
+	dynasty = 1010036030
+	religion = raven_tales
+	culture = yurok
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327002 = {
+	name = "Beshiltheeni"
+	dynasty = 1010036030
+	religion = raven_tales
+	culture = yurok
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327003 = {
+	name = "Hassun"
+	dynasty = 1010036030
+	religion = raven_tales
+	culture = yurok
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327004 = {
+	name = "Delshay"
+	dynasty = 1010036030
+	religion = raven_tales
+	culture = yurok
+	father = 327003
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327005 = {
+	name = "Naana"
+	dynasty = 1010036030
+	religion = raven_tales
+	culture = yurok
+	father = 327004
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327006 = {
+	name = "Passaconaway"
+	dynasty = 1010036030
+	religion = raven_tales
+	culture = yurok
+	father = 327005
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327007 = {
+	name = "Askook"
+	dynasty = 1010036030
+	religion = raven_tales
+	culture = yurok
+	father = 327006
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#klamath
+327008 = {
+	name = "Wuxvsiwls"
+	dynasty = 1010036000
+	religion = raven_tales
+	culture = klamath
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327009 = {
+	name = "Nulis"
+	dynasty = 1010036000
+	religion = raven_tales
+	culture = klamath
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327010 = {
+	name = "Bigaqla"
+	dynasty = 1010036000
+	religion = raven_tales
+	culture = klamath
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327011 = {
+	name = "A'tuu"
+	dynasty = 1010036000
+	religion = raven_tales
+	culture = klamath
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327012 = {
+	name = "K'ayu"
+	dynasty = 1010036000
+	religion = raven_tales
+	culture = klamath
+	father = 327011
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327013 = {
+	name = "Qwinii"
+	dynasty = 1010036000
+	religion = raven_tales
+	culture = klamath
+	father = 327012
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327014 = {
+	name = "K'ayu"
+	dynasty = 1010036000
+	religion = raven_tales
+	culture = klamath
+	father = 327013
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327015 = {
+	name = "Tluunim"
+	dynasty = 1010036000
+	religion = raven_tales
+	culture = klamath
+	father = 327014
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#chinook
+327016 = {
+	name = "Hlahliyasila"
+	dynasty = 1010036044
+	religion = raven_tales
+	culture = chinook
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327017 = {
+	name = "Nulis"
+	dynasty = 1010036044
+	religion = raven_tales
+	culture = chinook
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327018 = {
+	name = "Lileplait"
+	dynasty = 1010036044
+	religion = raven_tales
+	culture = chinook
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327019 = {
+	name = "Mawak"
+	dynasty = 1010036044
+	religion = raven_tales
+	culture = chinook
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327020 = {
+	name = "Wusgmi"
+	dynasty = 1010036044
+	religion = raven_tales
+	culture = chinook
+	father = 327011
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327021 = {
+	name = "Mawak"
+	dynasty = 1010036044
+	religion = raven_tales
+	culture = chinook
+	father = 327012
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327022 = {
+	name = "Iihtuup"
+	dynasty = 1010036044
+	religion = raven_tales
+	culture = chinook
+	father = 327013
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327023 = {
+	name = "Kakawin"
+	dynasty = 1010036044
+	religion = raven_tales
+	culture = chinook
+	father = 327014
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#chinook2
+327024 = {
+	name = "Hlxinuxv"
+	dynasty = 1010036045
+	religion = raven_tales
+	culture = chinook
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327025 = {
+	name = "Laukvimas"
+	dynasty = 1010036045
+	religion = raven_tales
+	culture = chinook
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327026 = {
+	name = "Lileplait"
+	dynasty = 1010036045
+	religion = raven_tales
+	culture = chinook
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327027 = {
+	name = "Qait"
+	dynasty = 1010036045
+	religion = raven_tales
+	culture = chinook
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327028 = {
+	name = "Wusgmi"
+	dynasty = 1010036045
+	religion = raven_tales
+	culture = chinook
+	father = 327027
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327029 = {
+	name = "C'ixwatin"
+	dynasty = 1010036045
+	religion = raven_tales
+	culture = chinook
+	father = 327028
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327030 = {
+	name = "Zola"
+	dynasty = 1010036045
+	religion = raven_tales
+	culture = chinook
+	father = 327029
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327031 = {
+	name = "Naci"
+	dynasty = 1010036045
+	religion = raven_tales
+	culture = chinook
+	father = 327030
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#salish
+327032 = {
+	name = "Hasehdooan"
+	dynasty = 1010036133
+	religion = raven_tales
+	culture = salish
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327033 = {
+	name = "Kelkahltsoot"
+	dynasty = 1010036133
+	religion = raven_tales
+	culture = salish
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327034 = {
+	name = "Dzunukwa"
+	dynasty = 1010036133
+	religion = raven_tales
+	culture = salish
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327035 = {
+	name = "Quilala"
+	dynasty = 1010036133
+	religion = raven_tales
+	culture = salish
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327036 = {
+	name = "Patkanam"
+	dynasty = 1010036133
+	religion = raven_tales
+	culture = salish
+	father = 327035
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327037 = {
+	name = "Helmits"
+	dynasty = 1010036133
+	religion = raven_tales
+	culture = salish
+	father = 327036
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327038 = {
+	name = "Chtsimpt"
+	dynasty = 1010036133
+	religion = raven_tales
+	culture = salish
+	father = 327037
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327039 = {
+	name = "Xacuabs"
+	dynasty = 1010036133
+	religion = raven_tales
+	culture = salish
+	father = 327038
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#salish2
+327040 = {
+	name = "Anta"
+	dynasty = 1010036134
+	religion = raven_tales
+	culture = salish
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327041 = {
+	name = "U'melth"
+	dynasty = 1010036134
+	religion = raven_tales
+	culture = salish
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327042 = {
+	name = "Kiles"
+	dynasty = 1010036134
+	religion = raven_tales
+	culture = salish
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327043 = {
+	name = "Hehmahl"
+	dynasty = 1010036134
+	religion = raven_tales
+	culture = salish
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327044 = {
+	name = "Patkanam"
+	dynasty = 1010036134
+	religion = raven_tales
+	culture = salish
+	father = 327043
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327045 = {
+	name = "Edensaw"
+	dynasty = 1010036134
+	religion = raven_tales
+	culture = salish
+	father = 327044
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327046 = {
+	name = "Kumugwe"
+	dynasty = 1010036134
+	religion = raven_tales
+	culture = salish
+	father = 327045
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327047 = {
+	name = "Noohehoos"
+	dynasty = 1010036134
+	religion = raven_tales
+	culture = salish
+	father = 327046
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#shuswap
+327048 = {
+	name = "Anta"
+	dynasty = 1010038000
+	religion = plateau_pagan
+	culture = shuswap
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327049 = {
+	name = "U'melth"
+	dynasty = 1010038000
+	religion = plateau_pagan
+	culture = shuswap
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327050 = {
+	name = "Kiles"
+	dynasty = 1010038000
+	religion = plateau_pagan
+	culture = shuswap
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327051 = {
+	name = "Hehmahl"
+	dynasty = 1010038000
+	religion = plateau_pagan
+	culture = shuswap
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327052 = {
+	name = "Patkanam"
+	dynasty = 1010038000
+	religion = plateau_pagan
+	culture = shuswap
+	father = 327051
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327053 = {
+	name = "Edensaw"
+	dynasty = 1010038000
+	religion = plateau_pagan
+	culture = shuswap
+	father = 327052
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327054 = {
+	name = "Kumugwe"
+	dynasty = 1010038000
+	religion = plateau_pagan
+	culture = shuswap
+	father = 327053
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327055 = {
+	name = "Noohehoos"
+	dynasty = 1010038000
+	religion = plateau_pagan
+	culture = shuswap
+	father = 327054
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#shuswap2
+327056 = {
+	name = "Nessick"
+	dynasty = 1010038001
+	religion = plateau_pagan
+	culture = shuswap
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327057 = {
+	name = "Luchalkanam"
+	dynasty = 1010038001
+	religion = plateau_pagan
+	culture = shuswap
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327058 = {
+	name = "Kiles"
+	dynasty = 1010038001
+	religion = plateau_pagan
+	culture = shuswap
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327059 = {
+	name = "Etnama"
+	dynasty = 1010038001
+	religion = plateau_pagan
+	culture = shuswap
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327060 = {
+	name = "Nsskioos"
+	dynasty = 1010038001
+	religion = plateau_pagan
+	culture = shuswap
+	father = 327059
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327061 = {
+	name = "Quiaquatty"
+	dynasty = 1010038001
+	religion = plateau_pagan
+	culture = shuswap
+	father = 327060
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327062 = {
+	name = "Whailanhu"
+	dynasty = 1010038001
+	religion = plateau_pagan
+	culture = shuswap
+	father = 327061
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327063 = {
+	name = "Quiaquatty"
+	dynasty = 1010038001
+	religion = plateau_pagan
+	culture = shuswap
+	father = 327062
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#wakashan
+327064 = {
+	name = "Cumshewa"
+	dynasty = 1010036239
+	religion = raven_tales
+	culture = wakashan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327065 = {
+	name = "Txlkvs"
+	dynasty = 1010036239
+	religion = raven_tales
+	culture = wakashan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327066 = {
+	name = "W'ac"
+	dynasty = 1010036239
+	religion = raven_tales
+	culture = wakashan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327067 = {
+	name = "Hiiyii"
+	dynasty = 1010036239
+	religion = raven_tales
+	culture = wakashan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327068 = {
+	name = "Bigaqla"
+	dynasty = 1010036239
+	religion = raven_tales
+	culture = wakashan
+	father = 327067
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327069 = {
+	name = "Waa'it"
+	dynasty = 1010036239
+	religion = raven_tales
+	culture = wakashan
+	father = 327068
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327070 = {
+	name = "Whailanhu"
+	dynasty = 1010036239
+	religion = raven_tales
+	culture = wakashan
+	father = 327069
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327071 = {
+	name = "C'ixwatin"
+	dynasty = 1010036239
+	religion = raven_tales
+	culture = wakashan
+	father = 327070
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#wakashan2
+327072 = {
+	name = "Hazilba"
+	dynasty = 1010036240
+	religion = raven_tales
+	culture = wakashan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327073 = {
+	name = "Ts'ooda"
+	dynasty = 1010036240
+	religion = raven_tales
+	culture = wakashan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327074 = {
+	name = "'Aasic"
+	dynasty = 1010036240
+	religion = raven_tales
+	culture = wakashan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327075 = {
+	name = "Sala"
+	dynasty = 1010036240
+	religion = raven_tales
+	culture = wakashan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327076 = {
+	name = "Puu'i"
+	dynasty = 1010036240
+	religion = raven_tales
+	culture = wakashan
+	father = 327075
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327077 = {
+	name = "Kakawin"
+	dynasty = 1010036240
+	religion = raven_tales
+	culture = wakashan
+	father = 327076
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327078 = {
+	name = "Wuxvsiwls"
+	dynasty = 1010036240
+	religion = raven_tales
+	culture = wakashan
+	father = 327077
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327079 = {
+	name = "Saasin"
+	dynasty = 1010036240
+	religion = raven_tales
+	culture = wakashan
+	father = 327078
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#haida
+327080 = {
+	name = "Xuut"
+	dynasty = 1010036392
+	religion = raven_tales
+	culture = haida
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327081 = {
+	name = "Tahaygen"
+	dynasty = 1010036392
+	religion = raven_tales
+	culture = haida
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327082 = {
+	name = "Hiljuuwaas"
+	dynasty = 1010036392
+	religion = raven_tales
+	culture = haida
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327083 = {
+	name = "Yahl"
+	dynasty = 1010036392
+	religion = raven_tales
+	culture = haida
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327084 = {
+	name = "Skaay"
+	dynasty = 1010036392
+	religion = raven_tales
+	culture = haida
+	father = 327083
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327085 = {
+	name = "Koya"
+	dynasty = 1010036392
+	religion = raven_tales
+	culture = haida
+	father = 327084
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327086 = {
+	name = "Ihldiinii"
+	dynasty = 1010036392
+	religion = raven_tales
+	culture = haida
+	father = 327085
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327087 = {
+	name = "Wigaanad"
+	dynasty = 1010036392
+	religion = raven_tales
+	culture = haida
+	father = 327086
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#tsimshianic
+327088 = {
+	name = "K'andah"
+	dynasty = 1010036339
+	religion = raven_tales
+	culture = tsimshianic
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327089 = {
+	name = "Hloks Hoon"
+	dynasty = 1010036339
+	religion = raven_tales
+	culture = tsimshianic
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327090 = {
+	name = "Nisyok"
+	dynasty = 1010036339
+	religion = raven_tales
+	culture = tsimshianic
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327091 = {
+	name = "Uula"
+	dynasty = 1010036339
+	religion = raven_tales
+	culture = tsimshianic
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327092 = {
+	name = "Yugyetk"
+	dynasty = 1010036339
+	religion = raven_tales
+	culture = tsimshianic
+	father = 327091
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327093 = {
+	name = "Hoon"
+	dynasty = 1010036339
+	religion = raven_tales
+	culture = tsimshianic
+	father = 327092
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327094 = {
+	name = "Ihldiinii"
+	dynasty = 1010036339
+	religion = raven_tales
+	culture = tsimshianic
+	father = 327093
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327095 = {
+	name = "Txagaaxs"
+	dynasty = 1010036339
+	religion = raven_tales
+	culture = tsimshianic
+	father = 327094
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#tlingit
+327096 = {
+	name = "Káa Goox"
+	dynasty = 1010036416
+	religion = raven_tales
+	culture = tlingit
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327097 = {
+	name = "Shkeedlakáa"
+	dynasty = 1010036416
+	religion = raven_tales
+	culture = tlingit
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327098 = {
+	name = "Yeilgooxu"
+	dynasty = 1010036416
+	religion = raven_tales
+	culture = tlingit
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327099 = {
+	name = "Snóok"
+	dynasty = 1010036416
+	religion = raven_tales
+	culture = tlingit
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327100 = {
+	name = "Kha'jaq'tii"
+	dynasty = 1010036416
+	religion = raven_tales
+	culture = tlingit
+	father = 327099
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327101 = {
+	name = "Snóok"
+	dynasty = 1010036416
+	religion = raven_tales
+	culture = tlingit
+	father = 327100
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327102 = {
+	name = "Sasha"
+	dynasty = 1010036416
+	religion = raven_tales
+	culture = tlingit
+	father = 327101
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327103 = {
+	name = "Misha"
+	dynasty = 1010036416
+	religion = raven_tales
+	culture = tlingit
+	father = 327102
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#tlingit2
+327104 = {
+	name = "Shaadbaxhícht"
+	dynasty = 1010036417
+	religion = raven_tales
+	culture = tlingit
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+327105 = {
+	name = "Kaawishté"
+	dynasty = 1010036417
+	religion = raven_tales
+	culture = tlingit
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+327106 = {
+	name = "Sasha"
+	dynasty = 1010036417
+	religion = raven_tales
+	culture = tlingit
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+327107 = {
+	name = "Stoowukháa"
+	dynasty = 1010036417
+	religion = raven_tales
+	culture = tlingit
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+327108 = {
+	name = "Xetsuwu"
+	dynasty = 1010036417
+	religion = raven_tales
+	culture = tlingit
+	father = 327107
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+327109 = {
+	name = "Stoowukháa"
+	dynasty = 1010036417
+	religion = raven_tales
+	culture = tlingit
+	father = 327108
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+327110 = {
+	name = "K'uxshóo"
+	dynasty = 1010036417
+	religion = raven_tales
+	culture = tlingit
+	father = 327109
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+327111 = {
+	name = "Xetsuwu"
+	dynasty = 1010036417
+	religion = raven_tales
+	culture = tlingit
+	father = 327110
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}

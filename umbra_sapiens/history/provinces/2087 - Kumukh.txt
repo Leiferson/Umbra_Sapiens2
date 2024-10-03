@@ -1,0 +1,18 @@
+# 2087 - Kumukh
+
+# County Title
+title = c_kumukh
+
+# Settlements
+max_settlements = 3
+b_kumukh = castle
+b_khosrekh = city
+b_khuri = temple
+
+# Misc
+culture = dagestani
+religion = raism_pagan
+
+# History
+800.1.1 = { religion = sunni }
+

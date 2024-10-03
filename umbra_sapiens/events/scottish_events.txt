@@ -1,0 +1,64 @@
+namespace = scottishevents
+#Scottish colonies
+narrative_event = {
+	id = scottishevents.1
+	title = EVTNAMEscottishevents.1
+	desc = EVTDESCscottisheventsR.1
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1622
+		NOT = { has_global_flag = scotland_nova_scotia }
+		has_landed_title = k_scotland
+		religion_group = christian
+		controls = 43
+		d_akadie = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAscottishevents.1
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_akadie
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = scotland_nova_scotia
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = scottishevents.2
+	title = EVTNAMEscottishevents.2
+	desc = EVTDESCscottisheventsR.2
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1698
+		NOT = { has_global_flag = scotland_darian_scheme }
+		has_landed_title = k_scotland
+		religion_group = christian
+		controls = 43
+		d_panama = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAscottishevents.1
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_panama
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = scotland_darian_scheme
+		prestige = 100
+	}
+}

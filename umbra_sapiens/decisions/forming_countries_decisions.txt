@@ -1,0 +1,1517 @@
+decisions = {
+unite_great_britain = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			has_landed_title = k_scotland
+			OR = {
+			has_landed_title = e_britannia
+			has_landed_title = k_england
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_great_britain = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_britannia
+			}
+				show_scope_change = no
+				de_jure_liege = e_great_britain
+			}
+			destroy_landed_title = e_britannia
+			activate_title = {
+				title = e_britannia
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	unite_great_britain_ireland = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			has_landed_title = k_ireland
+			has_landed_title = e_great_britain
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_union_jack = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_great_britain
+			}
+				show_scope_change = no
+				de_jure_liege = e_union_jack
+			}
+			destroy_landed_title = e_great_britain
+			activate_title = {
+				title = e_great_britain
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	unite_all_russias = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1400
+			TIER = KING
+			OR = {
+			has_landed_title = k_rus
+			has_landed_title = k_vladimir
+			has_landed_title = k_chernigov
+			has_landed_title = k_ruthenia
+			has_landed_title = k_galicia-volhynia
+			has_landed_title = k_lithuania
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			num_of_king_titles >= 3
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			capital = c_moskva
+			575 = {
+			add_holding_slot = 2
+			}
+			e_russia_2 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_russia
+			}
+				show_scope_change = no
+				de_jure_liege = e_russia_2
+			}
+			destroy_landed_title = e_russia
+			activate_title = {
+				title = e_russia
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	secularize_prussia = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1521
+			has_landed_title=k_teutonic_state
+			NOT = { has_global_flag = secularized_prussia }
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			any_realm_province = { 
+			OR = {
+				religion = reformed
+				religion = anglican
+				religion = hussite
+				religion = lutheran
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+			}
+			}
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			set_global_flag = secularized_prussia
+			wealth = -100
+			prestige = 250
+			k_prussia = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			d_prussia = {
+				show_scope_change = no
+				de_jure_liege = k_prussia
+			}
+			d_samogitia = {
+				show_scope_change = no
+				de_jure_liege = k_prussia
+			}
+			destroy_landed_title = k_teutonic_state
+			activate_title = { title = k_teutonic_state status = no}
+			set_government_type = feudal_government
+			create_random_soldier = {
+			dynasty = none
+			random_traits = yes
+			religion = catholic
+									}
+			new_character = {
+			d_teutonic_order = {
+				grant_title = PREV
+				religion = catholic
+			}
+			set_defacto_liege = THIS
+			wealth = 600
+			set_government_type = order_government
+			}
+			create_random_soldier = {
+			dynasty = none
+			random_traits = yes
+			religion = catholic
+									}
+			new_character = {
+			d_livonian_order = {
+				grant_title = PREV
+				religion = catholic
+			}
+			set_defacto_liege = THIS
+			wealth = 600
+			set_government_type = order_government
+			}
+			any_vassal = {
+			limit = { de_jure_liege=e_hre } 
+			set_defacto_liege = d_teutonic_order
+			}
+			any_demesne_province = {
+			limit = { NOT = { de_jure_liege=k_prussia } } 
+			set_defacto_liege = d_livonian_order
+			}
+			religion = lutheran
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_spain_empire_2 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1492
+			has_landed_title = e_spain
+			
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_espana_burgona = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_spain
+			}
+				show_scope_change = no
+				de_jure_liege = e_espana_burgona
+			}
+			destroy_landed_title = e_spain
+			activate_title = {
+				title = e_spain
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	unite_kalmar = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOT = { is_title_active = e_kalmar }
+			has_landed_title = k_denmark
+			has_landed_title = k_sweden
+			has_landed_title = k_norway
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			year > 1397 
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_kalmar = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_scandinavia
+			}
+				show_scope_change = no
+				de_jure_liege = e_kalmar
+			}
+			destroy_landed_title = e_scandinavia
+			activate_title = {
+				title = e_scandinavia
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	unite_commonwealth = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			has_landed_title = k_poland
+			has_landed_title = k_lithuania
+			NOT = { has_landed_title = e_wendish_empire }
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			year > 1569 
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_commonwealth = {
+				show_scope_change = no
+				grant_title = ROOT
+				succession_w_cooldown = {
+				base_type = feudal_elective
+				voting_rules = feudal_elective
+				}
+			}
+			k_poland = {
+				show_scope_change = no
+				de_jure_liege = e_commonwealth
+				succession_w_cooldown = {
+				base_type = feudal_elective
+				voting_rules = feudal_elective
+										}
+			}
+			k_lithuania = {
+				show_scope_change = no
+				de_jure_liege = e_commonwealth
+				succession_w_cooldown = {
+				base_type = feudal_elective
+				voting_rules = feudal_elective
+										}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	unite_castille_and_leon = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_cas_and_leon }
+			has_landed_title = k_castille
+			has_landed_title = k_leon
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_cas_and_leon = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			OR = {
+			de_jure_liege = k_castille
+			de_jure_liege = k_leon
+			}
+			}
+				show_scope_change = no
+				de_jure_liege = k_cas_and_leon
+			}
+			k_cas_and_leon = { de_jure_liege = e_spain }
+			destroy_landed_title = k_castille
+			destroy_landed_title = k_leon
+			activate_title = {
+				title = k_castille
+				status = no
+							}
+			activate_title = {
+				title = k_leon
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_new_spain = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_new_spain }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			OR = {
+			completely_controls = k_yokotan
+			completely_controls = k_mixteca
+			completely_controls = k_tlaxcala
+			completely_controls = k_aztec
+			completely_controls = k_mazatlan
+			completely_controls = k_collimatl
+			completely_controls = k_jalisco
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_new_spain = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			OR = {
+			de_jure_liege = k_yokotan
+			de_jure_liege = k_mixteca
+			de_jure_liege = k_tlaxcala
+			de_jure_liege = k_aztec
+			de_jure_liege = k_mazatlan
+			de_jure_liege = k_collimatl
+			de_jure_liege = k_jalisco
+			}
+			}
+				show_scope_change = no
+				de_jure_liege = k_new_spain
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_new_spain = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_new_spain = { de_jure_liege = e_espana_burgona }
+			}
+			destroy_landed_title = k_yokotan
+			destroy_landed_title = k_mixteca
+			destroy_landed_title = k_tlaxcala
+			destroy_landed_title = k_aztec
+			destroy_landed_title = k_mazatlan
+			destroy_landed_title = k_collimatl
+			destroy_landed_title = k_jalisco
+			activate_title = {
+				title = k_yokotan
+				status = no
+							}
+			activate_title = {
+				title = k_mixteca
+				status = no
+							}
+			activate_title = {
+				title = k_tlaxcala
+				status = no
+							}
+			activate_title = {
+				title = k_aztec
+				status = no
+							}
+			activate_title = {
+				title = k_mazatlan
+				status = no
+							}
+			activate_title = {
+				title = k_collimatl
+				status = no
+							}
+			activate_title = {
+				title = k_jalisco
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_internal_provinces = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_internal_provinces }
+			OR = {
+			completely_controls = k_alamos
+			completely_controls = k_tejas
+			completely_controls = k_southwest_nation
+			completely_controls = k_cali
+			}
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 1000
+		}
+		effect = {
+			wealth = -1000
+			prestige = 250
+			k_internal_provinces = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			OR = {
+			de_jure_liege = k_alamos
+			de_jure_liege = k_tejas
+			de_jure_liege = k_southwest_nation
+			de_jure_liege = k_cali
+			}
+			}
+				show_scope_change = no
+				de_jure_liege = k_internal_provinces
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_internal_provinces = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_internal_provinces = { de_jure_liege = e_espana_burgona }
+			}
+			destroy_landed_title = k_alamos
+			destroy_landed_title = k_tejas
+			destroy_landed_title = k_southwest_nation
+			destroy_landed_title = k_cali
+			activate_title = {
+				title = k_alamos
+				status = no
+							}
+			activate_title = {
+				title = k_tejas
+				status = no
+							}
+			activate_title = {
+				title = k_southwest_nation
+				status = no
+							}
+			activate_title = {
+				title = k_cali
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_new_granada = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_new_granada }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			completely_controls = k_colombia
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 1000
+		}
+		effect = {
+			wealth = -1000
+			prestige = 250
+			k_new_granada = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_colombia
+			}
+				show_scope_change = no
+				de_jure_liege = k_new_granada
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_new_granada = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_new_granada = { de_jure_liege = e_espana_burgona }
+			}
+			destroy_landed_title = k_colombia
+			activate_title = {
+				title = k_colombia
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_venezuela = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_venezuela_2 }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			completely_controls = k_venezuela
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 1000
+		}
+		effect = {
+			wealth = -1000
+			prestige = 250
+			k_venezuela_2 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_venezuela
+			}
+				show_scope_change = no
+				de_jure_liege = k_venezuela_2
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_venezuela_2 = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_venezuela_2 = { de_jure_liege = e_espana_burgona }
+			}
+			destroy_landed_title = k_venezuela
+			activate_title = {
+				title = k_venezuela
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_peru_spanish = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_peru_spanish }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			OR = {
+			completely_controls = k_peru
+			completely_controls = k_upper_peru
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 1000
+		}
+		effect = {
+			wealth = -1000
+			prestige = 250
+			k_peru_spanish = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			OR = {
+			de_jure_liege = k_peru
+			de_jure_liege = k_upper_peru
+			}
+			}
+				show_scope_change = no
+				de_jure_liege = k_peru_spanish
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_peru_spanish = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_peru_spanish = { de_jure_liege = e_espana_burgona }
+			}
+			destroy_landed_title = k_peru
+			destroy_landed_title = k_upper_peru
+			activate_title = {
+				title = k_peru
+				status = no
+							}
+			activate_title = {
+				title = k_upper_peru
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_la_plata = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_la_plata }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			OR = {
+			completely_controls = k_argentina
+			completely_controls = k_paraguay
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 1000
+		}
+		effect = {
+			wealth = -1000
+			prestige = 250
+			k_la_plata = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			OR = {
+			de_jure_liege = k_argentina
+			de_jure_liege = k_paraguay
+			}
+			}
+				show_scope_change = no
+				de_jure_liege = k_la_plata
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_la_plata = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_la_plata = { de_jure_liege = e_espana_burgona }
+			}
+			destroy_landed_title = k_argentina
+			destroy_landed_title = k_paraguay
+			activate_title = {
+				title = k_argentina
+				status = no
+							}
+			activate_title = {
+				title = k_paraguay
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_puerto_rico = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_puerto_rico }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			completely_controls = d_antilles
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_puerto_rico = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			d_antilles = {
+				show_scope_change = no
+				de_jure_liege = k_puerto_rico
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_puerto_rico = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_puerto_rico = { de_jure_liege = e_espana_burgona }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_cuba = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_cuba_spanish }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			completely_controls = k_cuba
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_cuba_spanish = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_cuba
+			}
+				show_scope_change = no
+				de_jure_liege = k_cuba_spanish
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_cuba_spanish = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_cuba_spanish = { de_jure_liege = e_espana_burgona }
+			}
+			destroy_landed_title=k_cuba
+			activate_title = {
+				title = k_cuba
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_santo_domingo = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_santo_domingo }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			completely_controls = k_dominica
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_santo_domingo = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_dominica
+			}
+				show_scope_change = no
+				de_jure_liege = k_cuba_spanish
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_santo_domingo = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_santo_domingo = { de_jure_liege = e_espana_burgona }
+			}
+			destroy_landed_title=k_dominica
+			activate_title = {
+				title = k_dominica
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_philippines_spanish = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_philippines_spanish }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			completely_controls = k_ma_i
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 1000
+		}
+		effect = {
+			wealth = -1000
+			prestige = 250
+			k_philippines_spanish = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_ma_i
+			}
+				show_scope_change = no
+				de_jure_liege = k_philippines_spanish
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_philippines_spanish = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_philippines_spanish = { de_jure_liege = e_espana_burgona }
+			}
+			destroy_landed_title = k_ma_i
+			activate_title = {
+				title = k_ma_i
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+create_ottoman_empire = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = e_ottomans }
+			has_landed_title=k_ottoman
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			NOT = { has_global_flag = ottoman_second_phase }
+		}
+		allow = {
+			is_adult = yes
+			e_byzantium = { has_holder = no }
+			completely_controls = b_constantinople
+			independent = yes
+			is_landed = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_ottomans = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_byzantium
+			}
+				show_scope_change = no
+				de_jure_liege = e_ottomans
+			}
+			capital = c_byzantion
+			set_global_flag = ottoman_second_phase
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

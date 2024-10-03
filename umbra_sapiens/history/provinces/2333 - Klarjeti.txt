@@ -1,0 +1,20 @@
+# 2333 - Klarjeti
+
+# County Title
+title = c_klarjeti
+
+# Settlements
+max_settlements = 4
+b_artanuji = castle
+b_khupati = city
+b_doliskana = temple
+
+#b_parkhali = temple
+
+# Misc
+culture = georgian
+religion = miaphysite
+terrain = hills
+
+# History
+800.1.1 = { religion = orthodox }

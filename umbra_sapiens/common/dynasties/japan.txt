@@ -1,0 +1,1136 @@
+1000027000 = {
+	name="Yamato"
+	culture = japanese
+	used_for_random = no
+	coat_of_arms = {
+	template = 0
+		layer = {
+			texture = 7
+			texture_internal = 1
+			emblem = 0
+			color = 5
+			color = 1
+			color = 0
+		}
+	}
+}
+1000027001 = {
+	name="Fujiwara"
+	culture = japanese
+	used_for_random = no
+	coat_of_arms = {
+	template = 0
+		layer = {
+			texture = 7
+			texture_internal = 3
+			emblem = 0
+			color = 11
+			color = 1
+			color = 0
+		}
+	}
+}
+1000027002 = {
+	name="Minamoto"
+	culture = japanese
+	used_for_random = no
+	coat_of_arms = {
+	template = 0
+		layer = {
+			texture = 7
+			texture_internal = 2
+			emblem = 0
+			color = 5
+			color = 1
+			color = 0
+		}
+	}
+}
+1000027003 = {
+	name="Taira"
+	culture = japanese
+	used_for_random = no
+	coat_of_arms = {
+	template = 0
+		layer = {
+			texture = 7
+			texture_internal = 0
+			emblem = 0
+			color = 3
+			color = 1
+			color = 0
+		}
+	}
+}
+1000027004 = {
+	name="Tachibana"
+	culture = japanese
+	used_for_random=no
+	coat_of_arms = {
+	template = 0
+		layer = {
+			texture = 7
+			texture_internal = 4
+			emblem = 0
+			color = 7
+			color = 1
+			color = 0
+		}
+	}
+}
+1000027005 = {
+	name="Saga=Minamoto"
+	culture = japanese
+	used_for_random=no
+	coat_of_arms = {
+	template = 0
+		layer = {
+			texture = 7
+			texture_internal = 2
+			emblem = 0
+			color = 8
+			color = 1
+			color = 0
+		}
+	}
+}
+1000027006 = {
+	name="Seiwa-Minamoto"
+	culture = japanese
+	used_for_random=no
+	coat_of_arms = {
+	template = 0
+		layer = {
+			texture = 7
+			texture_internal = 2
+			emblem = 0
+			color = 2
+			color = 1
+			color = 0
+		}
+	}
+}
+1000027007 = {
+	name="Seiwa-Kiyohara"
+	used_for_random=no
+	culture = japanese
+}
+1000027008 = {
+	name="Kofukuji"
+	culture = japanese
+}
+1000027009 = {
+	name="Enryakuji"
+	culture = japanese
+}
+
+1000027010 = {
+	name="Oshmaushi"
+	culture = ainu
+}
+1000027011 = {
+	name="Ishkarun"
+	culture = ainu
+}
+1000027012 = {
+	name="Kushru"
+	culture = ainu
+}
+1000027013 = {
+	name="Karput"
+	culture = ainu
+}
+1000078073 = {
+	name="Kuye"
+	culture = ainu
+}
+
+1000027014 = {
+	name="Uchinaa"
+	culture = ryukyuan
+}
+1000027015 = {
+	name="Amamikiyo"
+	culture = ryukyuan
+}
+1000027016 = {
+	name="Sachishima"
+	culture = ryukyuan
+}
+1000078074 = {
+	name="Shunten"
+	culture = ryukyuan
+}
+1000078075 = {
+	name="Eiso"
+	culture = ryukyuan
+}
+
+1000028266 = {
+    name="Fujita"
+    culture= japanese
+}
+1000028267 = {
+    name="Matsumoto"
+    culture= japanese
+}
+1000028268 = {
+    name="Yamashita"
+    culture= japanese
+}
+1000028269 = {
+    name="Abe"
+    culture= japanese
+}
+1000028270 = {
+    name="Aya"
+    culture= japanese
+}
+1000028271 = {
+    name="Hashiji"
+    culture= japanese
+}
+1000028272 = {
+    name="Ki"
+    culture= japanese
+}
+1000028273 = {
+    name="Kusakabe"
+    culture= japanese
+}
+1000028274 = {
+    name="Mononobe"
+    culture= japanese
+}
+1000028275 = {
+    name="Nakatomi"
+}
+1000028276 = {
+    name="O"
+    culture= japanese
+}
+1000028277 = {
+    name="Ochi"
+    culture= japanese
+}
+1000028278 = {
+    name="Oe"
+    culture= japanese
+}
+1000028279 = {
+    name="Otomo"
+    culture= japanese
+}
+1000028280 = {
+    name="Soga"
+    culture= japanese
+}
+1000028281 = {
+    name="Sugawara"
+    culture= japanese
+}
+1000028282 = {
+    name="Takahashi"
+    culture= japanese
+}
+1000028283 = {
+    name="Adachi"
+    culture= japanese
+}
+1000028284 = {
+    name="Akamatsu"
+    culture= japanese
+}
+1000028285 = {
+    name="Akechi"
+    culture= japanese
+}
+1000028286 = {
+    name="Akita"
+    culture= japanese
+}
+1000028287 = {
+    name="Akiyama"
+    culture= japanese
+}
+1000028288 = {
+    name="Akizuki"
+    culture= japanese
+}
+1000028289 = {
+    name="Amago"
+    culture= japanese
+}
+1000028290 = {
+    name="Amakusa"
+    culture= japanese
+}
+1000028291 = {
+    name="Anayama"
+    culture= japanese
+}
+1000028292 = {
+    name="Ando"
+    culture= japanese
+}
+1000028293 = {
+    name="Asakura"
+    culture= japanese
+}
+1000028294 = {
+    name="Asano"
+    culture= japanese
+}
+1000028288 = {
+    name="Ashikaga"
+    culture= japanese
+}
+1000028295 = {
+    name="Ashina"
+    culture= japanese
+}
+1000028296 = {
+    name="Aso"
+    culture= japanese
+}
+1000028297 = {
+    name="Atagi"
+    culture= japanese
+}
+1000028298 = {
+    name="Azai"
+    culture= japanese
+}
+1000028299 = {
+    name="Bito"
+    culture= japanese
+}
+1000028300 = {
+    name="Chiba"
+    culture= japanese
+}
+1000028301 = {
+    name="Date"
+    culture= japanese
+}
+1000028302 = {
+    name="Doi"
+    culture= japanese
+}
+1000028288 = {
+    name="Fuji"
+    culture= japanese
+}
+1000028303 = {
+    name="Goto"
+    culture= japanese
+}
+1000028304 = {
+    name="Hachisuka"
+    culture= japanese
+}
+1000028305 = {
+    name="Haga"
+    culture= japanese
+}
+1000028306 = {
+    name="Hashiba"
+    culture= japanese
+}
+1000028307 = {
+    name="Hatakeyama"
+    culture= japanese
+}
+
+1000028308 = {
+    name="Hatano"
+    culture= japanese
+}
+
+1000028309 = {
+    name="Hayashi"
+    culture= japanese
+}
+
+1000028310 = {
+    name="Hiki"
+    culture= japanese
+}
+
+1000028311 = {
+    name="Hirano"
+    culture= japanese
+}
+
+1000028312 = {
+    name="Hisamatsu"
+    culture= japanese
+}
+
+1000028313 = {
+    name="Hitotsuyanagi"
+    culture= japanese
+}
+
+1000028314 = {
+    name="Hojo"
+    culture= japanese
+}
+
+1000028315 = {
+    name="Honma"
+    culture= japanese
+}
+
+1000028316 = {
+    name="Honda"
+    culture= japanese
+}
+
+1000028317 = {
+    name="Hosokawa"
+    culture= japanese
+}
+
+1000028318 = {
+    name="Hotta"
+    culture= japanese
+}
+
+1000028319 = {
+    name="Ichijo"
+    culture= japanese
+}
+
+1000028320 = {
+    name="Ide"
+    culture= japanese
+}
+
+1000028321 = {
+    name="Ii"
+    culture= japanese
+}
+
+1000028322 = {
+    name="Ikeda"
+    culture= japanese
+}
+
+1000028323 = {
+    name="Imagawa"
+    culture= japanese
+}
+
+1000028324 = {
+    name="Inaba"
+    culture= japanese
+}
+
+1000028325 = {
+    name="Inoue"
+    culture= japanese
+}
+
+1000028326 = {
+    name="Ishida"
+    culture= japanese
+}
+
+1000028327 = {
+    name="Ishikawa"
+    culture= japanese
+}
+
+1000028328 = {
+    name="Ishimaki"
+    culture= japanese
+}
+1000028329 = {
+    name="Ito"
+    culture= japanese
+}
+1000028330 = {
+    name="Kamiizumi"
+    culture= japanese
+}
+1000028331 = {
+    name="Kanamaru"
+    culture= japanese
+}
+1000028332 = {
+    name="Kagawa"
+    culture= japanese
+}
+1000028333 = {
+    name="Kikkawa"
+    culture= japanese
+}
+1000028334 = {
+    name="Kikuchi"
+    culture= japanese
+}
+1000028335 = {
+    name="Kira"
+    culture= japanese
+}
+1000028336 = {
+    name="Kiso"
+    culture= japanese
+}
+1000028337 = {
+    name="Kitabatake"
+    culture= japanese
+}
+1000028338 = {
+    name="Kitajo"
+    culture= japanese
+}
+1000028339 = {
+    name="Kiyowara"
+    culture= japanese
+}
+1000028340 = {
+    name="Kobayakawa"
+    culture= japanese
+}
+1000028341 = {
+    name="Kodama"
+    culture= japanese
+}
+1000028342 = {
+    name="Koga"
+    culture= japanese
+}
+1000028343 = {
+    name="Kono"
+    culture= japanese
+}
+1000028344 = {
+    name="Konoe"
+    culture= japanese
+}
+1000028345 = {
+    name="Kudo"
+    culture= japanese
+}
+1000028346 = {
+    name="Kujo"
+    culture= japanese
+}
+1000028347 = {
+    name="Kuzuyama"
+    culture= japanese
+}
+1000028348 = {
+    name="Kyōgoku"
+    culture= japanese
+}
+1000028349 = {
+    name="Maeda"
+    culture= japanese
+}
+1000028350 = {
+    name="Makino"
+    culture= japanese
+}
+1000028351 = {
+    name="Manabe"
+    culture= japanese
+}
+1000028352 = {
+    name="Matsuda"
+    culture= japanese
+}
+1000028353 = {
+    name="Matsudaira"
+    culture= japanese
+}
+1000028354 = {
+    name="Matsumae"
+    culture= japanese
+}
+1000028355 = {
+    name="Matsunaga"
+    culture= japanese
+}
+1000028356 = {
+    name="Matsuura"
+    culture= japanese
+}
+1000028357 = {
+    name="Miura"
+    culture= japanese
+}
+1000028358 = {
+    name="Mikumo"
+    culture= japanese
+}
+1000028359 = {
+    name="Miyahara"
+    culture= japanese
+}
+1000028360 = {
+    name="Miyoshi"
+    culture= japanese
+}
+1000028361 = {
+    name="Mizuryu"
+    culture= japanese
+}
+1000028362 = {
+    name="Mogami"
+    culture= japanese
+}
+1000028363 = {
+    name="Mori"
+    culture= japanese
+}
+1000028364 = {
+    name="Murakami"
+    culture= japanese
+}
+1000028365 = {
+    name="Nagao"
+    culture= japanese
+}
+1000028366 = {
+    name="Nabeshima"
+    culture= japanese
+}
+1000028367 = {
+    name="Niiro"
+    culture= japanese
+}
+1000028368 = {
+    name="Nakamura"
+    culture= japanese
+}
+1000028369 = {
+    name="Nanbu"
+    culture= japanese
+}
+1000028370 = {
+    name="Nijo"
+    culture= japanese
+}
+1000028371 = {
+    name="Nitta"
+    culture= japanese
+}
+1000028372 = {
+    name="Niwa"
+    culture= japanese
+}
+1000028373 = {
+    name="Oda"
+    culture= japanese
+}
+1000028374 = {
+    name="Oishi"
+    culture= japanese
+}
+1000028375 = {
+    name="Okochi"
+    culture= japanese
+}
+1000028376 = {
+    name="Ota"
+    culture= japanese
+}
+1000028377 = {
+    name="Ogasawara"
+    culture= japanese
+}
+1000028378 = {
+    name="Otomo"
+    culture= japanese
+}
+1000028379 = {
+    name="Ouchi"
+    culture= japanese
+}
+1000028380 = {
+    name="Rokkaku"
+    culture= japanese
+}
+1000028381 = {
+    name="Sagara"
+    culture= japanese
+}
+1000028382 = {
+    name="Akizuki"
+    culture= japanese
+}
+1000028383 = {
+    name="Saito"
+    culture= japanese
+}
+1000028384 = {
+    name="Sakai"
+    culture= japanese
+}
+1000028385 = {
+    name="Sakuma"
+    culture= japanese
+}
+1000028386 = {
+    name="Sanjo"
+    culture= japanese
+}
+1000028387 = {
+    name="Sasaki"
+    culture= japanese
+}
+1000028388 = {
+    name="Satake"
+    culture= japanese
+}
+1000028389 = {
+    name="Satomi"
+    culture= japanese
+}
+1000028390 = {
+    name="Shiba"
+    culture= japanese
+}
+1000028391 = {
+    name="Shimizu"
+    culture= japanese
+}
+1000028392 = {
+    name="Shimazu"
+    culture= japanese
+}
+1000028393 = {
+    name="Shinmen"
+    culture= japanese
+}
+1000028394 = {
+    name="Shoni"
+    culture= japanese
+}
+1000028395 = {
+    name="So"
+    culture= japanese
+}
+1000028396 = {
+    name="Sogo"
+    culture= japanese
+}
+1000028397 = {
+    name="Soma"
+    culture= japanese
+}
+1000028398 = {
+    name="Suda"
+    culture= japanese
+}
+1000028399 = {
+    name="Sue"
+    culture= japanese
+}
+1000028400 = {
+    name="Sugi"
+    culture= japanese
+}
+1000028401 = {
+    name="Suwa"
+    culture= japanese
+}
+1000028402 = {
+    name="Tachibana"
+    culture= japanese
+}
+1000028403 = {
+    name="Takanashi"
+    culture= japanese
+}
+1000028404 = {
+    name="Takaoka"
+    culture= japanese
+}
+1000028405 = {
+    name="Takatsuji"
+    culture= japanese
+}
+1000028406 = {
+    name="Takatsukasa"
+    culture= japanese
+}
+1000028407 = {
+    name="Takeda"
+    culture= japanese
+}
+1000028408 = {
+    name="Takenaka"
+    culture= japanese
+}
+1000028409 = {
+    name="Takigawa"
+    culture= japanese
+}
+1000028410 = {
+    name="Tanegashima"
+    culture= japanese
+}
+1000028411 = {
+    name="To"
+    culture= japanese
+}
+1000028412 = {
+    name="Toda"
+    culture= japanese
+}
+1000028413 = {
+    name="Todo"
+    culture= japanese
+}
+1000028414 = {
+    name="Toki"
+    culture= japanese
+}
+1000028415 = {
+    name="Tokugawa"
+    culture= japanese
+}
+1000028416 = {
+    name="Tomuro"
+    culture= japanese
+}
+1000028417 = {
+    name="Torii"
+    culture= japanese
+}
+1000028418 = {
+    name="Toyotomi"
+    culture= japanese
+}
+1000028419 = {
+    name="Tsugaru"
+    culture= japanese
+}
+1000028420 = {
+    name="Tsuru"
+    culture= japanese
+}
+1000028421 = {
+    name="Tsutsui"
+    culture= japanese
+}
+1000028422 = {
+    name="Uesugi"
+    culture= japanese
+}
+1000028423 = {
+    name="Ukita"
+    culture= japanese
+}
+1000028424 = {
+    name="Urakami"
+    culture= japanese
+}
+1000028425 = {
+    name="Utsunomiya"
+    culture= japanese
+}
+1000028426 = {
+    name="Wakiya"
+    culture= japanese
+}
+1000028427 = {
+    name="Watanabe"
+    culture= japanese
+}
+1000028428 = {
+    name="Yagyu"
+    culture= japanese
+}
+1000028429 = {
+    name="Yamana"
+    culture= japanese
+}
+1000028430 = {
+    name="Yamanouchi"
+    culture= japanese
+}
+1000028431 = {
+    name="Yanagisawa"
+    culture= japanese
+}
+1000028432 = {
+    name="Yonekura"
+    culture= japanese
+}
+1000028433 = {
+    name="Yuki"
+    culture= japanese
+}
+1000028434 = {
+    name="Kamo"
+    culture= japanese
+}
+1000028435 = {
+    name="Urabe"
+    culture= japanese
+}
+1000028436 = {
+    name="Asukabe"
+    culture= japanese
+}
+1000028437 = {
+    name="Fuha"
+    culture= japanese
+}
+1000028438 = {
+    name="Funa"
+    culture= japanese
+}
+1000028439 = {
+    name="Hirota"
+    culture= japanese
+}
+1000028440 = {
+    name="Ka"
+    culture= japanese
+}
+1000028441 = {
+    name="Kaguyama"
+    culture= japanese
+}
+1000028442 = {
+    name="Kazurai"
+    culture= japanese
+}
+1000028443 = {
+    name="Kinunui"
+    culture= japanese
+}
+1000028444 = {
+    name="Kudara"
+    culture= japanese
+}
+1000028445 = {
+    name="Sugano"
+    culture= japanese
+}
+1000028446 = {
+    name="Tsu"
+    culture= japanese
+}
+1000028447 = {
+    name="Kifumi"
+    culture= japanese
+}
+1000028448 = {
+    name="Koma"
+    culture= japanese
+}
+1000028449 = {
+    name="Kuwabara"
+    culture= japanese
+}
+1000028450 = {
+    name="Sena"
+    culture= japanese
+}
+1000028451 = {
+    name="Toyohara"
+    culture= japanese
+}
+1000028452 = {
+    name="Yasaka"
+    culture= japanese
+}
+1000028453 = {
+    name="Yahamara"
+    culture= japanese
+}
+1000028454 = {
+    name="Fushimaru"
+    culture= japanese
+}
+1000028455 = {
+    name="Hine"
+    culture= japanese
+}
+1000028456 = {
+    name="Itoi"
+    culture= japanese
+}
+1000028457 = {
+    name="Maki"
+    culture= japanese
+}
+1000028458 = {
+    name="Tachibanamori"
+    culture= japanese
+}
+1000028459 = {
+    name="Tajima"
+    culture= japanese
+}
+1000028460 = {
+    name="Unabara"
+    culture= japanese
+}
+1000028461 = {
+    name="Arara"
+    culture= japanese
+}
+1000028462 = {
+    name="Hirata"
+    culture= japanese
+}
+1000028463 = {
+    name="Karabito"
+    culture= japanese
+}
+1000028464 = {
+    name="Michita"
+    culture= japanese
+}
+1000028465 = {
+    name="Tatara"
+    culture= japanese
+}
+1000028466 = {
+    name="Toyotsu"
+    culture= japanese
+}
+1000028467 = {
+    name="Hata"
+    culture= japanese
+}
+1000028468 = {
+    name="Koremune"
+    culture= japanese
+}
+1000028469 = {
+    name="Takamuko"
+    culture= japanese
+}
+1000028470 = {
+    name="Choshi"
+    culture= japanese
+}
+1000028471 = {
+    name="Fujiki"
+    culture= japanese
+}
+1000028472 = {
+    name="Hakura"
+    culture= japanese
+}
+1000028473 = {
+    name="Hirata"
+    culture= japanese
+}
+1000028474 = {
+    name="Kada"
+    culture= japanese
+}
+1000028475 = {
+    name="Kawakatsu"
+    culture= japanese
+}
+1000028476 = {
+    name="Matsumuro"
+    culture= japanese
+}
+1000028477 = {
+    name="Matsuo"
+    culture= japanese
+}
+1000028478 = {
+    name="Matsushita"
+    culture= japanese
+}
+1000028479 = {
+    name="Mikami"
+    culture= japanese
+}
+1000028480 = {
+    name="Minami"
+    culture= japanese
+}
+1000028481 = {
+    name="Mokusei"
+    culture= japanese
+}
+1000028482 = {
+    name="Nishioji"
+    culture= japanese
+}
+1000028483 = {
+    name="Obata"
+    culture= japanese
+}
+1000028484 = {
+    name="Okura"
+    culture= japanese
+}
+1000028485 = {
+    name="Onishi"
+    culture= japanese
+}
+1000028486 = {
+    name="Seo"
+    culture= japanese
+}
+1000028487 = {
+    name="Togi"
+    culture= japanese
+}
+1000028488 = {
+    name="Tsuchiyama"
+    culture= japanese
+}
+1000028489 = {
+    name="Kawachi"
+    culture= japanese
+}
+1000028490 = {
+    name="Haruda"
+    culture= japanese
+}
+1000028491 = {
+    name="Sakanoue"
+    culture= japanese
+}
+1000028492 = {
+    name="Tamura"
+    culture= japanese
+}
+1000028493 = {
+    name="Tamura"
+    culture= japanese
+}
+1000028494 = {
+	name="Eiso"
+	culture = ryukyuan
+}
+1000028495 = {
+	name="Haniji"
+	culture = ryukyuan
+}
+1000028496 = {
+	name="Ozato"
+	culture = ryukyuan
+}
+1000028497 = {
+	name="Satto"
+	culture = ryukyuan
+}
+1000028498 = {
+	name="Sho"
+	culture = ryukyuan
+}
+1000028499 = {
+	name="Minshi Kameya"
+	culture = ryukyuan
+}
+1000028500 = {
+	name="Eiso"
+	culture = ryukyuan
+}

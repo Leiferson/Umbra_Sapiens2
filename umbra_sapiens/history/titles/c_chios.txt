@@ -1,0 +1,430 @@
+330.1.1={
+	liege="d_samos"
+}
+764.1.1={
+	holder=145833
+}
+865.1.1={
+	holder=145112
+	liege="d_aegean_islands"
+}
+936.1.1 = {
+	holder = 260816
+}
+1060.1.1={
+	holder=20518
+}
+1081.1.1={
+	liege="e_byzantium"
+}
+1090.1.1={
+	liege="d_samos"
+	holder=34262
+}
+1092.1.1={
+	holder=34264
+}
+1093.1.1={
+	liege="e_byzantium"
+	holder=20518
+}
+1095.1.1={
+	liege="d_samos"
+}
+1108.1.1={
+	holder=215509
+}
+1166.1.16={
+	holder=215526
+}
+1180.1.2={
+	holder=34276
+}
+1199.1.1={
+	holder=34277
+}
+1202.1.1={
+	holder=215000
+}
+1204.5.16={
+	liege="e_latin_empire"
+	holder=205523
+}
+1205.6.21={
+	holder=32120 
+}
+1225.1.1={
+	liege="d_samos"
+    holder=215000
+}
+1261.1.1={
+	holder=34283
+}
+1279.1.1={
+	holder=34286
+}
+1304.1.1={
+	liege="d_genoa"
+} 
+1304.1.1={
+	holder=31453
+}
+1307.1.1={
+	holder=31460
+}
+1314.1.1={
+	holder=31463
+}
+1329.1.1={
+	liege="e_byzantium"
+	holder=465500
+}
+1341.6.15={
+	holder=465510	#John V Palaiologos
+}
+1346.9.12={
+	holder=377816  #Giovanni I di Murta
+	liege=k_genoa
+}
+1350.1.9={
+	holder=377817  #Giovanni II Valente
+}
+1353.10.8={
+	#Milanese conquest
+	liege=d_lombardia
+	holder=463146	#Giovanni Visconti (archbishop of Milan)
+}
+1354.10.5={
+	holder=463150	#Matteo II Visconti
+}
+1356.11.15={
+	liege=k_genoa
+	holder=377815	#Simone Boccanegra
+}
+1363.3.30={
+	holder=377818	#Gabriele Adorno
+}
+1370.8.13={
+	holder=377819	#Domenico di Campofregoso
+}
+1378.6.13={
+	holder=377820	#Antoniotto I Adorno
+}
+1378.6.17={
+	holder=377821	#Nicolò Guarco
+}
+1383.4.7={
+	holder=377822	#Federico di Pagana
+}
+1383.4.8={
+	holder=377823	#Leonardo Montaldo
+}
+1384.6.14={
+	holder=377820	#Antoniotto I Adorno
+}
+1390.8.3={
+	holder=377824	#Giacomo Fregoso
+}
+1391.4.6={
+	holder=377820	#Antoniotto I Adorno
+}
+1392.6.16={
+	holder=377825	#Antoniotto di Montaldo
+}
+1393.7.15={
+	holder=381603	#Pietro di Campofregoso
+}
+1393.7.16={
+	holder=377827	#Clemente Promontorio
+}
+1393.7.17={
+	holder=377828	#Francesco Giustiniano di Garibaldo
+}
+1393.7.30={
+	holder=377825	#Antoniotto di Montaldo
+}
+1394.5.24={
+	holder=377829	#Niccolo Zoagli
+}
+1394.8.17={
+	holder=377830	#Antonio Guarco
+}
+1394.9.3={
+	holder=377820	#Antoniotto I Adorno
+}
+1396.11.27={
+	holder=370746 #Charles VI
+	liege=k_france
+}
+1413.3.27={
+	holder=377831	#Giorgio Adorno
+	liege=k_genoa
+}
+1415.3.29={
+	holder=377832	#Barnaba Guano
+}
+1415.7.3={
+	holder=377833	#Tomaso di Campofregoso
+}
+1421.11.23={
+	#milanese occupation
+	liege=d_lombardia
+	holder=370761	#Filippo Maria
+}
+1436.3.28={
+	holder=377834	#Isnardo Guarco
+	liege=k_genoa
+}
+1436.4.3={
+	holder=377833	#Tomaso di Campofregoso
+}
+1437.3.24={
+	holder=377835	#Battista Fregoso (1380–1442)
+}
+1437.3.25={
+	holder=377833	#Tomaso di Campofregoso
+}
+1442.12.18={
+	holder=377836	#Raffaele Adorno
+}
+1447.1.4={
+	holder=377837	#Barnaba Adorno
+}
+1447.1.30={
+	holder=377838	#Giano I di Campofregoso
+}
+1448.12.16={
+	holder=377839	#Lodovico di Campofregoso
+}
+1450.9.4={
+	holder=377840	#Pietro di Campofregoso
+}
+1458.1.1={
+	holder=370786 #Charles VII
+	liege=k_france
+}
+1461.3.12={
+	holder=377841	#Prospero Adorno
+	liege=k_genoa
+}
+1461.7.8={
+	holder=377842	#Spinetta Fregoso
+}
+1461.7.25={
+	holder=377839	#Lodovico di Campofregoso
+}
+1462.5.14={
+	holder=377843	#Paolo di Campofregoso
+}
+1462.5.31={
+	holder=377839	#Lodovico di Campofregoso
+}
+1463.1.8={
+	holder=377843	#Paolo di Campofregoso
+}
+1464.4.16={
+	#milanese conquest
+	liege=d_lombardia
+	holder=371595 #Francesco I Sforza
+}
+1466.3.8={
+	holder=371605 #Galeazzo Maria Sforza
+}
+1477.8.17={
+	holder=377841	#Prospero Adorno
+	liege=k_genoa
+}
+1478.11.26={
+	holder=377844	#Battista Fregoso (1452–1504)
+}
+1483.11.25={
+	holder=377843	#Paolo di Campofregoso
+}
+1488.1.6={
+	#milanese conquest
+	liege=d_lombardia
+	holder=371618 #Gian Galeazzo Sforza
+}
+1499.1.1={
+	holder=371092 #Louis XII
+	liege=k_france
+}
+1507.4.10={
+	holder=377845	#Paolo da Novi
+	liege=k_genoa
+}
+1507.4.27={
+	holder=371092 #Louis XII
+	liege=k_france
+}
+1512.6.29={
+	holder=377846	#Giano II di Campofregoso
+	liege=k_genoa
+}
+1513.5.25={
+	holder=377847	#Ottaviano Fregoso
+}
+1515.9.7={
+	holder=370977 #Francis I
+	liege=k_france
+}
+1522.5.31={
+	holder=377848	#Antoniotto II Adorno
+	liege=k_genoa
+}
+1527.8.1={
+	holder=370977 #Francis I
+	liege=k_france
+}
+1528.10.12={
+	holder=377849	#Oberto Cattaneo Lazzari
+	liege=k_genoa
+}
+1531.1.4={
+	holder=377850	#Battista Spinola
+}
+1533.1.4={
+	holder=377851	#Battista Lomellini
+}
+1535.1.4={
+	holder=377852	#Cristoforo Grimaldi Rosso
+}
+1537.1.4={
+	holder=377853	#Giovanni Battista Doria
+}
+1539.1.4={
+	holder=377854	#Giannandrea Giustiniani Longo
+}
+1541.1.4={
+	holder=377855	#Leonardo Cattaneo della Volta
+}
+1543.1.4={
+	holder=377856	#Andrea Centurione Pietrasanta
+}
+1545.1.4={
+	holder=377857	#Giovanni Battista De Fornari
+}
+1547.1.4={
+	holder=377858	#Benedetto Gentile Pevere
+}
+1549.1.4={
+	holder=377859	#Gaspare Grimaldi Bracelli
+}
+1551.1.4={
+	holder=377860	#Luca Spinola
+}
+1553.1.4={
+	holder=377861	#Giacomo Promontorio
+}
+1555.1.4={
+	holder=377862	#Agostino Pinelli Ardimenti
+}
+1557.1.4={
+	holder=377863	#Pietro Giovanni Chiavica Cibo
+}
+1558.12.3={
+	holder=377864	#Girolamo Vivaldi
+}
+1561.1.4={
+	holder=377865	#Paolo Battista Giudice Calvi
+}
+1561.9.27={
+	holder=377866	#Giovanni Battista Cicala Zoagli
+}
+1563.10.4={
+	holder=377867	#Giovanni Battista Lercari
+}
+1565.10.7={
+	holder=377868	#Ottavio Gentile Oderico
+}
+1566.4.1={
+	holder=379462	#Piyale Pasha
+	liege=e_ottomans
+}
+1567.1.1={
+	holder=379104	#Müezzinzade Ali Pasha
+}
+1571.10.7={
+	holder=378903	#Kılıç Ali Pasha
+}
+1587.6.25={
+	holder=379109	#Damat Ibrahim Pasha
+}
+1588.4.14={
+	holder=378696	#Venetian Hasan Pasha
+}
+1591.7.17={
+	holder=379445	#Yusuf Sinan Pasha
+}
+1595.6.26={
+	holder=379463	#Damat Halil Pasha 
+}
+1598.4.8={
+	holder=379445	#Yusuf Sinan Pasha
+}
+1605.1.24={
+	holder=379464	#Kayapashazade Kubad Mustafa Pasha 	
+}
+1606.1.18={
+	holder=379448	#Dervis Mehmed Pasha 
+}
+1606.5.21={
+	holder=379465	#Frank Cafer Pasha
+}
+1608.2.9={
+	holder=379072	#Hafiz Ahmed Pasha 
+}
+1609.2.1={
+	holder=379450	#Halil Pasha of Kayseri  
+}
+1611.12.1={
+	holder=379120	#Öküz Mehmed Pasha 
+}
+1613.11.24={
+	holder=379450	#Halil Pasha of Kayseri  
+}
+1616.11.17={
+	holder=379451	#Guzelce Ali Pasha (d. 1621)
+}
+1617.11.23={
+	holder=379400	#Kara Davut Pasha 
+}
+1618.1.2={
+	holder=379451	#Guzelce Ali Pasha (d. 1621)
+}
+1619.12.24={
+	holder=379450	#Halil Pasha of Kayseri  
+}
+1620.12.1={
+	holder=379079	#Niğdeli Mustafa Pasha 
+}
+1621.6.1={
+	holder=379450	#Halil Pasha of Kayseri  
+}
+1623.2.5={
+	holder=379458	#Topal Recep Pasha 
+}
+1626.7.26={
+	holder=379466	#Catalcali Hasan Pasha 
+}
+1630.10.20={
+	holder=379467	#Canbolatzade Mustafa Pasha 
+}
+1632.7.1={
+	holder=379468	#Bostancı Cafer Pasha
+}
+1634.6.30={
+	holder=379412	#Deli Huseyin Pasha
+}
+1635.10.21={
+	holder=379459	#Kemankes Kara Mustafa Pasha 
+}
+1638.12.24={
+	holder=379469	#Silahtar Mustafa Pasha 
+}
+1640.2.22={
+	holder=379412	#Deli Huseyin Pasha
+}
+1640.9.9={
+	holder=379412	#Siyavush Pasha 
+}

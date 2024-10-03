@@ -1,0 +1,149 @@
+1302.8.31={
+	holder=461710 #Charles II
+	pentarch=b_roma
+	effect={
+		insert_title_history=k_sicily
+	}
+}
+1309.5.5={
+	holder=461700 #Robert I
+}
+1343.1.20={
+	holder=461703 #Joanna I
+}
+1382.5.12={
+	holder=371112 #Charles III of Naples
+}
+1386.2.24={
+	holder=371121 #Ladislaus of Naples
+}
+1390.10.1={
+	holder=370836	#Louis II of Anjou 1392 Amalfi and Ravello 1392.9.1 Calabria
+	set_tribute_suzerain = {
+		who = k_france
+		type = permanent 
+	}
+}
+1399.7.10={
+	holder=371121 #Ladislaus of Naples
+	clear_tribute_suzerain = k_france
+}
+1414.8.6={
+	holder=371120 #Joanna II of Naples
+}
+1435.2.2={
+	holder=370838 #René of Anjou
+}
+1442.6.2={
+	holder=370182 #Alfonso V of Aragon
+}
+1458.6.27={
+	holder=370200 #Ferdinand I of Naples
+}
+1494.1.25={
+	holder=371762 #Alfonso II of Naples
+}
+1495.1.23={
+	holder=371796 #Ferdinand II of Naples
+}
+1496.9.7={
+	holder=371764 #Frederick of Naples
+}
+1501.8.2={
+	holder=371092 #Louis XII of France
+}
+1504.3.31={
+	holder=370199 #Ferdinand II of Aragon
+}
+1516.1.23={
+	holder=379674	#Ramón de Cardona
+	liege=e_espana_burgona
+	vice_royalty=yes
+}
+1522.1.1={
+	holder=379675	#Charles de Lannoy, 1st Prince of Sulmona
+}
+1523.1.1={
+	holder=379676	#Andrea Carafa
+}
+1526.1.1={
+	holder=379677	#Ludovico Montalto
+}
+1527.1.1={
+	holder=379678	#Hugo of Moncada
+}
+1528.5.28={
+	holder=376580	#Philibert of Châlon
+}
+1530.8.3={
+	holder=379679	#Pompeo Colonna
+}
+1532.6.28={
+	holder=371662	#Pedro Álvarez de Toledo
+}
+1553.2.21={
+	holder=371674	#Luis Álvarez de Toledo y Osorio
+}
+1553.5.1={
+	holder=379680	#Pedro Pacheco Ladrón de Guevara
+}
+1556.1.1={
+	holder=379598	#Fernando Álvarez de Toledo
+}
+1558.6.6={
+	holder=379681	#Juan Fernandez Manrique de Lara
+}
+1558.10.10={
+	holder=379682	#Pedro Afán de Ribera
+}
+1571.1.1={
+	holder=379683	#Antoine Perrenot de Granvelle
+}
+1575.1.1={
+	holder=379781	#Iñigo López de Mendoza y Mendoza
+}
+1579.1.1={
+	holder=379792	#Juan de Zúñiga y Requesens
+}
+1582.1.1={
+	holder=379947	#Pedro Téllez-Girón y de la Cueva, 1st Duke of Osuna
+}
+1586.1.1={
+	holder=379794	#Juan de Zúñiga, 1st Duke of Peñaranda
+}
+1595.1.1={
+	holder=379795	#Enrique de Guzmán, 2nd Count of Olivares
+}
+1599.1.1={
+	holder=379796	#Fernando Ruiz de Castro Andrade y Portugal
+}
+1601.9.20={
+	holder=379797	#Francisco Ruiz de Castro y de Sandoval-Rojas
+}
+1603.1.1={
+	holder=379798	#Juan Alonso Pimentel de Herrera
+}
+1610.1.1={
+	holder=379799	#Pedro Fernández de Castro, Count of Lemos
+}
+1616.1.1={
+	holder=379956	#Pedro Téllez-Girón, 3rd Duke of Osuna
+}
+1620.6.1={
+	holder=379810	#Gaspar de Borja y Velasco
+}
+1620.12.1={
+	holder=379811	#Antonio Zapata y Cisneros
+}
+1622.12.1={
+	holder=379609	#Antonio Álvarez de Toledo, 5th Duke of Alba
+}
+1629.1.1={
+	holder=379812	#Fernando Afán de Ribera, 3rd Duke of Alcalá de los Gazules
+}
+1631.1.1={
+	holder=379813	#Manuel de Acevedo y Zúñiga
+}
+1637.11.12={
+	holder=379814	#Ramiro Núñez de Guzmán
+}

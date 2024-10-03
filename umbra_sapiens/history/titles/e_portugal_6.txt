@@ -1,0 +1,15 @@
+20.1.1={
+	active = no
+}
+1485.1.1={
+	active = yes
+	holder=370227 # John II de Borgonha Changes the flag
+	law = succ_primogeniture
+	effect={
+		insert_title_history=e_portugal_5
+	}
+}
+1495.10.25={
+	holder=0
+	active = no
+}

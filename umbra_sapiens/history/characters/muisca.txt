@@ -1,0 +1,4036 @@
+1019923898={
+	name=Sagpipa
+	dynasty=1009990207
+	dna="nejdghbljfl"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=6
+	719.12.4={ birth=yes }
+	776.1.19={ death=yes }
+}
+1019923899={
+	name=Uzathama
+	dynasty=1009990207
+	dna="nfddghblppi"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	father=1019923898	#Sagpipa
+	749.4.19={ birth=yes }
+	820.11.19={ death=yes }
+}
+1019923900={
+	name=Sagpipa
+	dynasty=1009990207
+	dna="nlkeghflppf"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=8 learning=7
+	father=1019923898	#Sagpipa
+	754.5.16={ birth=yes }
+	815.4.9={ death=yes }
+}
+1019923901={
+	name=Chia
+	female=yes
+	dynasty=1009990207
+	dna="fiodggdljfl"
+	culture=muisca religion=muisca_pagan
+	father=1019923898	#Sagpipa
+	759.7.24={ birth=yes }
+	823.4.17={ death=yes }
+}
+1019923902={
+	name=Tutazúa
+	dynasty=1009990207
+	dna="lkbhcceljpl"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	father=1019923898	#Sagpipa
+	766.5.6={ birth=yes }
+	827.12.27={ death=yes }
+}
+1019923903={
+	name=Uzathama
+	dynasty=1009990207
+	dna="gfedlhhlppi"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=7 learning=8
+	father=1019923899	#Uzathama
+	776.6.8={ birth=yes }
+	840.4.16={ death=yes }
+}
+1019923904={
+	name=Nina
+	female=yes
+	dynasty=1009990207
+	dna="nfobgndlmpi"
+	culture=muisca religion=muisca_pagan
+	father=1019923899	#Uzathama
+	780.7.15={ birth=yes }
+	834.6.9={ death=yes }
+}
+1019923905={
+	name=Tisquesusa
+	dynasty=1009990207
+	dna="lfpkpbolppe"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=8
+	father=1019923899	#Uzathama
+	785.12.9={ birth=yes }
+	833.11.2={ death=yes }
+}
+1019923906={
+	name=Axomamma
+	female=yes
+	dynasty=1009990207
+	dna="negdjbnmapi"
+	culture=muisca religion=muisca_pagan
+	father=1019923899	#Uzathama
+	790.12.27={ birth=yes }
+	848.4.14={ death=yes }
+}
+1019923907={
+	name=Nina
+	female=yes
+	dynasty=1009990207
+	dna="bgkfggblppi"
+	culture=muisca religion=muisca_pagan
+	father=1019923899	#Uzathama
+	794.8.26={ birth=yes }
+	848.8.10={ death=yes }
+}
+1019923908={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990207
+	dna="neddedllmpe"
+	culture=muisca religion=muisca_pagan
+	father=1019923899	#Uzathama
+	800.10.8={ birth=yes }
+	868.4.23={ death=yes }
+}
+1019923909={
+	name=Ana
+	female=yes
+	dynasty=1009990207
+	dna="pfdaghofkhi"
+	culture=muisca religion=muisca_pagan
+	father=1019923899	#Uzathama
+	803.3.21={ birth=yes }
+	859.4.20={ death=yes }
+}
+1019923910={
+	name=Meicuchuca
+	dynasty=1009990207
+	dna="gfgllidlpie"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=7 learning=8
+	father=1019923903	#Uzathama
+	807.3.22={ birth=yes }
+	868.11.13={ death=yes }
+}
+1019923911={
+	name=Cuba
+	dynasty=1009990207
+	dna="efddliolfpg"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=8
+	father=1019923903	#Uzathama
+	813.5.17={ birth=yes }
+	867.6.9={ death=yes }
+}
+1019923912={
+	name=Tutazúa
+	dynasty=1009990207
+	dna="gfhnlhdlpml"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=6 learning=4
+	father=1019923910	#Meicuchuca
+	832.5.20={ birth=yes }
+	887.8.4={ death=yes }
+}
+1019923913={
+	name=Tomagata
+	dynasty=1009990207
+	dna="hdgliielpih"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=5 learning=8
+	father=1019923910	#Meicuchuca
+	837.5.19={ birth=yes }
+	896.7.23={ death=yes }
+}
+1019923914={
+	name=Chia
+	female=yes
+	dynasty=1009990207
+	dna="aohlgielmik"
+	culture=muisca religion=muisca_pagan
+	father=1019923910	#Meicuchuca
+	839.11.1={ birth=yes }
+	909.8.10={ death=yes }
+}
+1019923915={
+	name=Michua
+	dynasty=1009990207
+	dna="gfghdpdbpif"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=4 learning=7
+	father=1019923910	#Meicuchuca
+	843.11.2={ birth=yes }
+	915.4.30={ death=yes }
+}
+1019923916={
+	name=Quemuenchatocha
+	dynasty=1009990207
+	dna="hfmnlkdphie"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=5 learning=5
+	father=1019923910	#Meicuchuca
+	847.2.19={ birth=yes }
+	919.4.14={ death=yes }
+}
+1019923917={
+	name=Kantuta
+	female=yes
+	dynasty=1009990207
+	dna="bfhngdhlpmk"
+	culture=muisca religion=muisca_pagan
+	father=1019923912	#Tutazúa
+	858.5.27={ birth=yes }
+	930.11.21={ death=yes }
+}
+1019923918={
+	name=Can
+	dynasty=1009990207
+	dna="gfhnlcdppml"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=7 learning=7
+	father=1019923912	#Tutazúa
+	862.8.23={ birth=yes }
+	930.7.24={ death=yes }
+}
+1019923919={
+	name=Axomamma
+	female=yes
+	dynasty=1009990207
+	dna="iojochopppd"
+	culture=muisca religion=muisca_pagan
+	father=1019923912	#Tutazúa
+	867.6.10={ birth=yes }
+	904.11.2={ death=yes }
+}
+1019923920={
+	name=Axomamma
+	female=yes
+	dynasty=1009990207
+	dna="ffpniholpme"
+	culture=muisca religion=muisca_pagan
+	father=1019923912	#Tutazúa
+	872.12.11={ birth=yes }
+	928.10.24={ death=yes }
+}
+1019923921={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990207
+	dna="dfhbdhdlaei"
+	culture=muisca religion=muisca_pagan
+	father=1019923912	#Tutazúa
+	878.7.27={ birth=yes }
+	917.6.20={ death=yes }
+}
+1019923922={
+	name=Tomagata
+	dynasty=1009990207
+	dna="eflnkiplhfl"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=4 learning=6
+	father=1019923912	#Tutazúa
+	880.3.22={ birth=yes }
+	969.3.1={ death=yes }
+}
+1019923923={
+	name=Ana
+	female=yes
+	dynasty=1009990207
+	dna="gfinlhdlebm"
+	culture=muisca religion=muisca_pagan
+	father=1019923912	#Tutazúa
+	885.11.13={ birth=yes }
+	947.11.19={ death=yes }
+}
+1019923924={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990207
+	dna="ockcciihhdd"
+	culture=muisca religion=muisca_pagan
+	father=1019923918	#Can
+	892.10.15={ birth=yes }
+	952.8.19={ death=yes }
+}
+1019923925={
+	name=Tutazúa
+	dynasty=1009990207
+	dna="ffanfcdppgl"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=4 learning=7
+	father=1019923918	#Can
+	898.4.15={ birth=yes }
+	977.8.17={ death=yes }
+}
+1019923926={
+	name=China
+	female=yes
+	dynasty=1009990207
+	dna="pflnlpdglme"
+	culture=muisca religion=muisca_pagan
+	father=1019923918	#Can
+	904.10.2={ birth=yes }
+	977.3.3={ death=yes }
+}
+1019923927={
+	name=Mico-Chuco
+	dynasty=1009990207
+	dna="ffanakfepnl"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=4 learning=5
+	father=1019923925	#Tutazúa
+	925.5.14={ birth=yes }
+	1014.10.19={ death=yes }
+}
+1019923928={
+	name=Tutazúa
+	dynasty=1009990207
+	dna="ihbnjcdfpgl"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	father=1019923925	#Tutazúa
+	927.1.2={ birth=yes }
+	998.7.7={ death=yes }
+}
+1019923929={
+	name=Axomamma
+	female=yes
+	dynasty=1009990207
+	dna="foanccfaigl"
+	culture=muisca religion=muisca_pagan
+	father=1019923925	#Tutazúa
+	933.7.12={ birth=yes }
+	1011.8.16={ death=yes }
+}
+1019923930={
+	name=China
+	female=yes
+	dynasty=1009990207
+	dna="lfeifcdcnle"
+	culture=muisca religion=muisca_pagan
+	father=1019923925	#Tutazúa
+	936.2.18={ birth=yes }
+	997.3.4={ death=yes }
+}
+1019923931={
+	name=Tomagata
+	dynasty=1009990207
+	dna="afhcamfeadl"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=8 learning=5
+	father=1019923927	#Mico-Chuco
+	951.4.20={ birth=yes }
+	1012.3.28={ death=yes }
+}
+1019923932={
+	name=China
+	female=yes
+	dynasty=1009990207
+	dna="gfanabgjpcl"
+	culture=muisca religion=muisca_pagan
+	father=1019923927	#Mico-Chuco
+	957.8.11={ birth=yes }
+	1014.11.19={ death=yes }
+}
+1019923933={
+	name=China
+	female=yes
+	dynasty=1009990207
+	dna="ipanbhfhpnl"
+	culture=muisca religion=muisca_pagan
+	father=1019923927	#Mico-Chuco
+	962.9.22={ birth=yes }
+	1037.10.10={ death=yes }
+}
+1019923934={
+	name=Aquiminzaque
+	dynasty=1009990207
+	dna="oghbgmheadl"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	father=1019923931	#Tomagata
+	977.10.14={ birth=yes }
+	1031.9.25={ death=yes }
+}
+1019923935={
+	name=Uzathama
+	dynasty=1009990207
+	dna="hfhcenneadm"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=7 learning=5
+	father=1019923931	#Tomagata
+	981.1.2={ birth=yes }
+	1040.10.10={ death=yes }
+}
+1019923936={
+	name=Meicuchuca
+	dynasty=1009990207
+	dna="apdcamgeall"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=6 learning=7
+	father=1019923931	#Tomagata
+	983.6.5={ birth=yes }
+	1067.5.15={ death=yes }
+}
+1019923937={
+	name=Maiara
+	female=yes
+	dynasty=1009990207
+	dna="nfhllffepil"
+	culture=muisca religion=muisca_pagan
+	father=1019923931	#Tomagata
+	987.12.18={ birth=yes }
+	1070.9.6={ death=yes }
+}
+1019923938={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990207
+	dna="ahdbbhmaedl"
+	culture=muisca religion=muisca_pagan
+	father=1019923931	#Tomagata
+	993.9.26={ birth=yes }
+	1058.1.20={ death=yes }
+}
+1019923939={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990207
+	dna="jphbgmhpddk"
+	culture=muisca religion=muisca_pagan
+	father=1019923934	#Aquiminzaque
+	1003.8.26={ birth=yes }
+	1084.12.3={ death=yes }
+}
+1019923940={
+	name=Sagpipa
+	dynasty=1009990207
+	dna="bgkanapegbl"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=6
+	father=1019923934	#Aquiminzaque
+	1006.1.8={ birth=yes }
+	1083.1.17={ death=yes }
+}
+1019923941={
+	name=Quemuenchatocha
+	dynasty=1009990207
+	dna="cggdnhpegbl"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=7 learning=7
+	father=1019923940	#Sagpipa
+	1040.11.1={ birth=yes }
+	1134.8.19={ death=yes }
+}
+1019923942={
+	name=Axomamma
+	female=yes
+	dynasty=1009990207
+	dna="bfkajapegoa"
+	culture=muisca religion=muisca_pagan
+	father=1019923940	#Sagpipa
+	1045.7.10={ birth=yes }
+	1142.1.29={ death=yes }
+}
+1019923943={
+	name=Chia
+	female=yes
+	dynasty=1009990207
+	dna="bgkkfapegbl"
+	culture=muisca religion=muisca_pagan
+	father=1019923940	#Sagpipa
+	1052.9.4={ birth=yes }
+	1130.6.11={ death=yes }
+}
+1019923944={
+	name=Tutazúa
+	dynasty=1009990207
+	dna="cgghnpkjnnm"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	father=1019923941	#Quemuenchatocha
+	1067.4.10={ birth=yes }
+	1145.6.5={ death=yes }
+}
+1019923945={
+	name=Quemuenchatocha
+	dynasty=1009990207
+	dna="iacddhiegcl"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=8
+	father=1019923941	#Quemuenchatocha
+	1070.11.16={ birth=yes }
+	1126.11.22={ death=yes }
+}
+1019923946={
+	name=Ah
+	dynasty=1009990207
+	dna="cdgdifpegoe"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=5 learning=6
+	father=1019923941	#Quemuenchatocha
+	1073.5.14={ birth=yes }
+	1149.10.7={ death=yes }
+}
+1019923947={
+	name=Chia
+	female=yes
+	dynasty=1009990207
+	dna="cmdbnhpegbd"
+	culture=muisca religion=muisca_pagan
+	father=1019923941	#Quemuenchatocha
+	1079.8.19={ birth=yes }
+	1155.11.27={ death=yes }
+}
+1019923948={
+	name=Axomamma
+	female=yes
+	dynasty=1009990207
+	dna="chcllolkgbi"
+	culture=muisca religion=muisca_pagan
+	father=1019923941	#Quemuenchatocha
+	1084.1.8={ birth=yes }
+	1150.7.30={ death=yes }
+}
+1019923949={
+	name=Mico-Chuco
+	dynasty=1009990207
+	dna="bcghnpknnno"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=5 learning=8
+	father=1019923944	#Tutazúa
+	1089.5.17={ birth=yes }
+	1144.9.17={ death=yes }
+}
+1019923950={
+	name=China
+	female=yes
+	dynasty=1009990207
+	dna="hgginlkjjpm"
+	culture=muisca religion=muisca_pagan
+	father=1019923944	#Tutazúa
+	1094.10.6={ birth=yes }
+	1152.7.20={ death=yes }
+}
+1019923951={
+	name=Kantuta
+	female=yes
+	dynasty=1009990207
+	dna="aeehdekjefk"
+	culture=muisca religion=muisca_pagan
+	father=1019923944	#Tutazúa
+	1100.6.16={ birth=yes }
+	1179.1.14={ death=yes }
+}
+1019923952={
+	name=Axomamma
+	female=yes
+	dynasty=1009990207
+	dna="bcflnpkbnbo"
+	culture=muisca religion=muisca_pagan
+	father=1019923949	#Mico-Chuco
+	1111.11.16={ birth=yes }
+	1196.8.22={ death=yes }
+}
+1019923953={
+	name=Cuba
+	dynasty=1009990207
+	dna="ckcgnpkgnno"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	father=1019923949	#Mico-Chuco
+	1115.12.24={ birth=yes }
+	1169.4.4={ death=yes }
+}
+1019923954={
+	name=Guecha
+	dynasty=1009990207
+	dna="hngangbnick"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	father=1019923949	#Mico-Chuco
+	1119.7.25={ birth=yes }
+	1204.11.5={ death=yes }
+}
+1019923955={
+	name=Mico-Chuco
+	dynasty=1009990207
+	dna="neghgfgconb"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=6 learning=8
+	father=1019923949	#Mico-Chuco
+	1125.4.6={ birth=yes }
+	1184.1.13={ death=yes }
+}
+1019923956={
+	name=Ah
+	dynasty=1009990207
+	dna="lipogjognkh"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=8 learning=7
+	father=1019923953	#Cuba
+	1141.6.5={ birth=yes }
+	1224.12.1={ death=yes }
+}
+1019923957={
+	name=China
+	female=yes
+	dynasty=1009990207
+	dna="bicgoikdnoo"
+	culture=muisca religion=muisca_pagan
+	father=1019923953	#Cuba
+	1144.1.7={ birth=yes }
+	1204.4.15={ death=yes }
+}
+1019923958={
+	name=Kantuta
+	female=yes
+	dynasty=1009990207
+	dna="finldloghno"
+	culture=muisca religion=muisca_pagan
+	father=1019923953	#Cuba
+	1151.10.19={ birth=yes }
+	1209.1.26={ death=yes }
+}
+1019923959={
+	name=Kantuta
+	female=yes
+	dynasty=1009990207
+	dna="caffnpggnno"
+	culture=muisca religion=muisca_pagan
+	father=1019923953	#Cuba
+	1156.3.3={ birth=yes }
+	1203.10.17={ death=yes }
+}
+1019923960={
+	name=Cuxininegua
+	dynasty=1009990207
+	dna="nicomjohnkb"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=6 learning=6
+	father=1019923956	#Ah
+	1164.2.6={ birth=yes }
+	1242.4.22={ death=yes }
+}
+1019923961={
+	name=Maiara
+	female=yes
+	dynasty=1009990207
+	dna="lcpjepehnkh"
+	culture=muisca religion=muisca_pagan
+	father=1019923956	#Ah
+	1169.12.5={ birth=yes }
+	1237.1.26={ death=yes }
+}
+1019923962={
+	name=Cuba
+	dynasty=1009990207
+	dna="ncoojjmckkb"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=4 learning=8
+	father=1019923960	#Cuxininegua
+	1194.3.13={ birth=yes }
+	1269.6.1={ death=yes }
+}
+1019923963={
+	name=Tutazúa
+	dynasty=1009990207
+	dna="oiphdfomnbb"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	father=1019923960	#Cuxininegua
+	1198.10.18={ birth=yes }
+	1265.9.11={ death=yes }
+}
+1019923964={
+	name=Michua
+	dynasty=1009990207
+	dna="bgchmjhhnjl"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=5 learning=8
+	father=1019923960	#Cuxininegua
+	1206.9.20={ birth=yes }
+	1265.5.23={ death=yes }
+}
+1019923965={
+	name=Axomamma
+	female=yes
+	dynasty=1009990207
+	dna="ncifjjoikkd"
+	culture=muisca religion=muisca_pagan
+	father=1019923962	#Cuba
+	1223.9.17={ birth=yes }
+	1300.5.6={ death=yes }
+}
+1019923966={
+	name=Kantuta
+	female=yes
+	dynasty=1009990207
+	dna="dccfjjmenoj"
+	culture=muisca religion=muisca_pagan
+	father=1019923962	#Cuba
+	1227.9.11={ birth=yes }
+	1313.1.14={ death=yes }
+}
+1019923967={
+	name=Cuxininegua
+	dynasty=1009990207
+	dna="nceopjmkgbg"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=4 learning=8
+	father=1019923962	#Cuba
+	1235.1.22={ birth=yes }
+	1319.3.7={ death=yes }
+}
+1019923968={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990207
+	dna="nbeopnikgbb"
+	culture=muisca religion=muisca_pagan
+	father=1019923967	#Cuxininegua
+	1257.5.23={ birth=yes }
+	1352.12.20={ death=yes }
+}
+1019923969={
+	name=China
+	female=yes
+	dynasty=1009990207
+	dna="hciocgjkgec"
+	culture=muisca religion=muisca_pagan
+	father=1019923967	#Cuxininegua
+	1264.11.24={ birth=yes }
+	1348.6.21={ death=yes }
+}
+1019923970={
+	name=Cuxininegua
+	dynasty=1009990207
+	dna="njooljbkhbp"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	father=1019923967	#Cuxininegua
+	1271.6.3={ birth=yes }
+	1348.9.20={ death=yes }
+}
+1019923971={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990207
+	dna="ncedpfmonjp"
+	culture=muisca religion=muisca_pagan
+	father=1019923967	#Cuxininegua
+	1277.3.12={ birth=yes }
+	1351.10.8={ death=yes }
+}
+1019923972={
+	name=Can
+	dynasty=1009990207
+	dna="ahjnljbkhip"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	father=1019923970	#Cuxininegua
+	1294.3.21={ birth=yes }
+	1360.7.18={ death=yes }
+}
+1019923973={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990207
+	dna="oaoemeojhci"
+	culture=muisca religion=muisca_pagan
+	father=1019923970	#Cuxininegua
+	1299.1.21={ birth=yes }
+	1375.12.10={ death=yes }
+}
+1019923974={
+	name=Maiara
+	female=yes
+	dynasty=1009990207
+	dna="ndooliakhbm"
+	culture=muisca religion=muisca_pagan
+	father=1019923970	#Cuxininegua
+	1303.10.6={ birth=yes }
+	1360.12.18={ death=yes }
+}
+1019923975={
+	name=Axomamma
+	female=yes
+	dynasty=1009990207
+	dna="njbojibkhbh"
+	culture=muisca religion=muisca_pagan
+	father=1019923970	#Cuxininegua
+	1306.10.25={ birth=yes }
+	1386.12.31={ death=yes }
+}
+1019923976={
+	name=Michua
+	dynasty=1009990207
+	dna="ajfhljblhip"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=5 learning=4
+	father=1019923972	#Can
+	1325.3.7={ birth=yes }
+	1394.11.10={ death=yes }
+}
+1019923977={
+	name=Nina
+	female=yes
+	dynasty=1009990207
+	dna="ihjncjaknin"
+	culture=muisca religion=muisca_pagan
+	father=1019923972	#Can
+	1332.7.8={ birth=yes }
+	1390.5.2={ death=yes }
+}
+1019923978={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990207
+	dna="akfhhebfhip"
+	culture=muisca religion=muisca_pagan
+	father=1019923976	#Michua
+	1348.11.18={ birth=yes }
+	1410.6.17={ death=yes }
+}
+1019923979={
+	name=Cuxininegua
+	dynasty=1009990207
+	dna="oajclbflkep"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=5
+	father=1019923976	#Michua
+	1353.2.8={ birth=yes }
+	1414.8.4={ death=yes }
+}
+1019923980={
+	name=Meicuchuca
+	dynasty=1009990207
+	dna="njfflhbndpp"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	father=1019923976	#Michua
+	1355.1.2={ birth=yes }
+	1425.11.15={ death=yes }
+}
+1019923981={
+	name=Quemuenchatocha
+	dynasty=1009990207
+	dna="ajaalcbgjii"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=5 learning=6
+	father=1019923976	#Michua
+	1360.9.21={ birth=yes }
+	1434.10.23={ death=yes }
+}
+1019923982={
+	name=Mico-Chuco
+	dynasty=1009990207
+	dna="oajclbflked"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=6
+	father=1019923979	#Cuxininegua
+	1379.5.4={ birth=yes }
+	1447.8.20={ death=yes }
+}
+1019923983={
+	name=Guecha
+	dynasty=1009990207
+	dna="openlhgbkkh"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=4 learning=8
+	father=1019923979	#Cuxininegua
+	1387.2.16={ birth=yes }
+	1452.4.8={ death=yes }
+}
+1019923984={
+	name=Guecha
+	dynasty=1009990207
+	dna="amacllfkkeb"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=4 learning=7
+	father=1019923979	#Cuxininegua
+	1390.1.18={ birth=yes }
+	1450.5.6={ death=yes }
+}
+1019923985={
+	name=Kantuta
+	female=yes
+	dynasty=1009990207
+	dna="oafclbpjjld"
+	culture=muisca religion=muisca_pagan
+	father=1019923982	#Mico-Chuco
+	1408.8.27={ birth=yes }
+	1489.9.2={ death=yes }
+}
+1019923986={
+	name=Chia
+	female=yes
+	dynasty=1009990207
+	dna="oaechenjked"
+	culture=muisca religion=muisca_pagan
+	father=1019923982	#Mico-Chuco
+	1414.3.20={ birth=yes }
+	1457.10.21={ death=yes }
+}
+1019923987={
+	name=Ana
+	female=yes
+	dynasty=1009990207
+	dna="ojgcopfajgd"
+	culture=muisca religion=muisca_pagan
+	father=1019923982	#Mico-Chuco
+	1419.12.10={ birth=yes }
+	1491.10.22={ death=yes }
+}
+1019923988={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990207
+	dna="mojcpnflkgd"
+	culture=muisca religion=muisca_pagan
+	father=1019923982	#Mico-Chuco
+	1423.5.1={ birth=yes }
+	1493.10.20={ death=yes }
+}
+1019923989={
+	name=Nemequene
+	dynasty=1009990207
+	dna="fpgcllmmklk"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=4 learning=6
+	father=1019923982	#Mico-Chuco
+	1430.2.21={ birth=yes }
+	1516.3.29={ death=yes }
+}
+1019923990={
+	name=Michua
+	dynasty=1009990208
+	dna="jjkpildcmcf"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=5 learning=4
+	720.7.1={ birth=yes }
+	789.4.29={ death=yes }
+}
+1019923991={
+	name=Michua
+	dynasty=1009990208
+	dna="jiapiaiimcf"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	father=1019923990	#Michua
+	748.3.18={ birth=yes }
+	828.6.26={ death=yes }
+}
+1019923992={
+	name=Tomagata
+	dynasty=1009990208
+	dna="jjkpilicoch"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=7 learning=7
+	father=1019923990	#Michua
+	754.3.9={ birth=yes }
+	803.2.12={ death=yes }
+}
+1019923993={
+	name=Meicuchuca
+	dynasty=1009990208
+	dna="jikkiodcmcf"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=4 learning=5
+	father=1019923990	#Michua
+	760.6.27={ birth=yes }
+	836.10.10={ death=yes }
+}
+1019923994={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990208
+	dna="jjnliedhmib"
+	culture=muisca religion=muisca_pagan
+	father=1019923990	#Michua
+	766.8.15={ birth=yes }
+	841.10.7={ death=yes }
+}
+1019923995={
+	name=Axomamma
+	female=yes
+	dynasty=1009990208
+	dna="mibpcdcikof"
+	culture=muisca religion=muisca_pagan
+	father=1019923991	#Michua
+	771.6.20={ birth=yes }
+	829.5.4={ death=yes }
+}
+1019923996={
+	name=Tisquesusa
+	dynasty=1009990208
+	dna="fiogilikhci"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=7 learning=5
+	father=1019923991	#Michua
+	778.10.17={ birth=yes }
+	843.11.20={ death=yes }
+}
+1019923997={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990208
+	dna="piapkalmmcf"
+	culture=muisca religion=muisca_pagan
+	father=1019923991	#Michua
+	781.8.5={ birth=yes }
+	861.11.3={ death=yes }
+}
+1019923998={
+	name=Quemuenchatocha
+	dynasty=1009990208
+	dna="jmakkmiinhn"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=5 learning=6
+	father=1019923991	#Michua
+	787.5.20={ birth=yes }
+	859.11.30={ death=yes }
+}
+1019923999={
+	name=Kantuta
+	female=yes
+	dynasty=1009990208
+	dna="jgapiaiambm"
+	culture=muisca religion=muisca_pagan
+	father=1019923991	#Michua
+	790.2.5={ birth=yes }
+	877.6.26={ death=yes }
+}
+1019924000={
+	name=Chia
+	female=yes
+	dynasty=1009990208
+	dna="jiapiddnmcf"
+	culture=muisca religion=muisca_pagan
+	father=1019923991	#Michua
+	793.4.19={ birth=yes }
+	873.2.11={ death=yes }
+}
+1019924001={
+	name=Aquiminzaque
+	dynasty=1009990208
+	dna="hgopackgjfo"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=7 learning=5
+	father=1019923991	#Michua
+	797.10.17={ birth=yes }
+	864.7.28={ death=yes }
+}
+1019924002={
+	name=Cuba
+	dynasty=1009990208
+	dna="niohedlkhjl"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=7
+	father=1019923996	#Tisquesusa
+	808.2.5={ birth=yes }
+	863.1.12={ death=yes }
+}
+1019924003={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990208
+	dna="fgofilgbhhi"
+	culture=muisca religion=muisca_pagan
+	father=1019923996	#Tisquesusa
+	812.11.21={ birth=yes }
+	890.3.16={ death=yes }
+}
+1019924004={
+	name=Nina
+	female=yes
+	dynasty=1009990208
+	dna="gijgnniolcb"
+	culture=muisca religion=muisca_pagan
+	father=1019923996	#Tisquesusa
+	816.2.14={ birth=yes }
+	899.7.17={ death=yes }
+}
+1019924005={
+	name=Tibacuy
+	dynasty=1009990208
+	dna="giomnfooafn"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=6 learning=6
+	father=1019923996	#Tisquesusa
+	821.2.4={ birth=yes }
+	881.10.22={ death=yes }
+}
+1019924006={
+	name=Tomagata
+	dynasty=1009990208
+	dna="iiclmdlkail"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=5 learning=7
+	father=1019924002	#Cuba
+	839.5.27={ birth=yes }
+	910.1.28={ death=yes }
+}
+1019924007={
+	name=Chia
+	female=yes
+	dynasty=1009990208
+	dna="nboaedhnhad"
+	culture=muisca religion=muisca_pagan
+	father=1019924002	#Cuba
+	845.8.11={ birth=yes }
+	920.1.28={ death=yes }
+}
+1019924008={
+	name=Guecha
+	dynasty=1009990208
+	dna="difgeblknjl"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=8 learning=5
+	father=1019924002	#Cuba
+	850.1.1={ birth=yes }
+	911.1.25={ death=yes }
+}
+1019924009={
+	name=Quemuenchatocha
+	dynasty=1009990208
+	dna="fjofediehnl"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=8 learning=4
+	father=1019924002	#Cuba
+	856.12.23={ birth=yes }
+	933.2.5={ death=yes }
+}
+1019924010={
+	name=China
+	female=yes
+	dynasty=1009990208
+	dna="nioidlfdkjl"
+	culture=muisca religion=muisca_pagan
+	father=1019924002	#Cuba
+	863.2.26={ birth=yes }
+	942.7.10={ death=yes }
+}
+1019924011={
+	name=Cuba
+	dynasty=1009990208
+	dna="ndhhebohhjl"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=4 learning=6
+	father=1019924002	#Cuba
+	865.3.3={ birth=yes }
+	943.11.3={ death=yes }
+}
+1019924012={
+	name=Nina
+	female=yes
+	dynasty=1009990208
+	dna="omkhedlknjp"
+	culture=muisca religion=muisca_pagan
+	father=1019924002	#Cuba
+	871.7.2={ birth=yes }
+	957.2.18={ death=yes }
+}
+1019924013={
+	name=Tisquesusa
+	dynasty=1009990208
+	dna="ibmlmajdhcl"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=7
+	father=1019924006	#Tomagata
+	864.6.25={ birth=yes }
+	950.11.4={ death=yes }
+}
+1019924014={
+	name=Guecha
+	dynasty=1009990208
+	dna="minlbdfkmhb"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=8 learning=4
+	father=1019924006	#Tomagata
+	868.10.6={ birth=yes }
+	938.3.28={ death=yes }
+}
+1019924015={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990208
+	dna="idcllpckail"
+	culture=muisca religion=muisca_pagan
+	father=1019924006	#Tomagata
+	872.10.12={ birth=yes }
+	951.2.25={ death=yes }
+}
+1019924016={
+	name=Cuba
+	dynasty=1009990208
+	dna="iiclmddbaip"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=6
+	father=1019924006	#Tomagata
+	878.7.7={ birth=yes }
+	937.2.10={ death=yes }
+}
+1019924017={
+	name=Nina
+	female=yes
+	dynasty=1009990208
+	dna="iblbodlkbdl"
+	culture=muisca religion=muisca_pagan
+	father=1019924006	#Tomagata
+	882.3.23={ birth=yes }
+	957.3.20={ death=yes }
+}
+1019924018={
+	name=Kantuta
+	female=yes
+	dynasty=1009990208
+	dna="lgmfmiodoci"
+	culture=muisca religion=muisca_pagan
+	father=1019924013	#Tisquesusa
+	887.11.15={ birth=yes }
+	947.9.9={ death=yes }
+}
+1019924019={
+	name=Saguamanchica
+	dynasty=1009990208
+	dna="epjbdajdhjl"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	father=1019924013	#Tisquesusa
+	893.5.23={ birth=yes }
+	978.1.22={ death=yes }
+}
+1019924020={
+	name=Ana
+	female=yes
+	dynasty=1009990208
+	dna="ocolmjjohkl"
+	culture=muisca religion=muisca_pagan
+	father=1019924013	#Tisquesusa
+	899.1.21={ birth=yes }
+	986.5.29={ death=yes }
+}
+1019924021={
+	name=Kantuta
+	female=yes
+	dynasty=1009990208
+	dna="hbmlgaldhcl"
+	culture=muisca religion=muisca_pagan
+	father=1019924013	#Tisquesusa
+	905.5.18={ birth=yes }
+	970.1.13={ death=yes }
+}
+1019924022={
+	name=Chia
+	female=yes
+	dynasty=1009990208
+	dna="kpjbdajdhjc"
+	culture=muisca religion=muisca_pagan
+	father=1019924019	#Saguamanchica
+	912.9.14={ birth=yes }
+	1000.8.8={ death=yes }
+}
+1019924023={
+	name=Sagpipa
+	dynasty=1009990208
+	dna="bpjkdijdhbo"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=7 learning=4
+	father=1019924019	#Saguamanchica
+	916.8.19={ birth=yes }
+	989.1.11={ death=yes }
+}
+1019924024={
+	name=Nina
+	female=yes
+	dynasty=1009990208
+	dna="npjhagiomkl"
+	culture=muisca religion=muisca_pagan
+	father=1019924019	#Saguamanchica
+	921.12.13={ birth=yes }
+	997.8.22={ death=yes }
+}
+1019924025={
+	name=Uzathama
+	dynasty=1009990208
+	dna="eljbdajpljj"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=6 learning=7
+	father=1019924019	#Saguamanchica
+	928.3.22={ birth=yes }
+	986.10.17={ death=yes }
+}
+1019924026={
+	name=Uzathama
+	dynasty=1009990208
+	dna="bpccdijcibo"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=6
+	father=1019924023	#Sagpipa
+	939.2.25={ birth=yes }
+	998.1.19={ death=yes }
+}
+1019924027={
+	name=Ana
+	female=yes
+	dynasty=1009990208
+	dna="lojndihbhho"
+	culture=muisca religion=muisca_pagan
+	father=1019924023	#Sagpipa
+	943.5.24={ birth=yes }
+	1000.1.8={ death=yes }
+}
+1019924028={
+	name=Aquimin
+	dynasty=1009990208
+	dna="bifkdpjbdbo"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	father=1019924023	#Sagpipa
+	948.12.2={ birth=yes }
+	1035.4.21={ death=yes }
+}
+1019924029={
+	name=Meicuchuca
+	dynasty=1009990208
+	dna="bajddibohif"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	father=1019924023	#Sagpipa
+	952.6.13={ birth=yes }
+	1013.2.8={ death=yes }
+}
+1019924030={
+	name=Chia
+	female=yes
+	dynasty=1009990208
+	dna="bgjkdhidhmn"
+	culture=muisca religion=muisca_pagan
+	father=1019924023	#Sagpipa
+	956.3.11={ birth=yes }
+	1043.10.19={ death=yes }
+}
+1019924031={
+	name=Tibacuy
+	dynasty=1009990208
+	dna="bpjalgcdlbi"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	father=1019924023	#Sagpipa
+	961.5.2={ birth=yes }
+	1022.9.17={ death=yes }
+}
+1019924032={
+	name=Meicuchuca
+	dynasty=1009990208
+	dna="iohcnihmhbo"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=7
+	father=1019924023	#Sagpipa
+	967.4.2={ birth=yes }
+	1034.7.19={ death=yes }
+}
+1019924033={
+	name=Axomamma
+	female=yes
+	dynasty=1009990208
+	dna="blomikocipc"
+	culture=muisca religion=muisca_pagan
+	father=1019924026	#Uzathama
+	964.7.13={ birth=yes }
+	1045.10.16={ death=yes }
+}
+1019924034={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990208
+	dna="iaccdijeibo"
+	culture=muisca religion=muisca_pagan
+	father=1019924026	#Uzathama
+	971.7.3={ birth=yes }
+	1058.5.13={ death=yes }
+}
+1019924035={
+	name=Ah
+	dynasty=1009990208
+	dna="cpchdpjciia"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=7 learning=7
+	father=1019924026	#Uzathama
+	975.8.10={ birth=yes }
+	1034.1.1={ death=yes }
+}
+1019924036={
+	name=Aquiminzaque
+	dynasty=1009990208
+	dna="cdbhcaociia"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=4 learning=5
+	father=1019924035	#Ah
+	994.2.24={ birth=yes }
+	1075.12.27={ death=yes }
+}
+1019924037={
+	name=Tutazúa
+	dynasty=1009990208
+	dna="clchphkiofa"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	father=1019924035	#Ah
+	998.4.23={ birth=yes }
+	1065.3.12={ death=yes }
+}
+1019924038={
+	name=Tibacuy
+	dynasty=1009990208
+	dna="clcghpbnhpd"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=5 learning=4
+	father=1019924035	#Ah
+	1004.11.16={ birth=yes }
+	1074.2.22={ death=yes }
+}
+1019924039={
+	name=Nina
+	female=yes
+	dynasty=1009990208
+	dna="cjchhmpcagd"
+	culture=muisca religion=muisca_pagan
+	father=1019924035	#Ah
+	1007.5.19={ birth=yes }
+	1086.9.24={ death=yes }
+}
+1019924040={
+	name=Nina
+	female=yes
+	dynasty=1009990208
+	dna="ckjpfpjbpia"
+	culture=muisca religion=muisca_pagan
+	father=1019924035	#Ah
+	1013.11.8={ birth=yes }
+	1064.5.18={ death=yes }
+}
+1019924041={
+	name=Tutazúa
+	dynasty=1009990208
+	dna="gbijdpjcipo"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	father=1019924035	#Ah
+	1018.12.23={ birth=yes }
+	1097.12.29={ death=yes }
+}
+1019924042={
+	name=China
+	female=yes
+	dynasty=1009990208
+	dna="hpihdpbchip"
+	culture=muisca religion=muisca_pagan
+	father=1019924035	#Ah
+	1020.8.14={ birth=yes }
+	1058.12.11={ death=yes }
+}
+1019924043={
+	name=Aquiminzaque
+	dynasty=1009990208
+	dna="hdhnmkoeioa"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=4 learning=4
+	father=1019924036	#Aquiminzaque
+	1019.5.16={ birth=yes }
+	1083.2.1={ death=yes }
+}
+1019924044={
+	name=China
+	female=yes
+	dynasty=1009990208
+	dna="cdohcipjiie"
+	culture=muisca religion=muisca_pagan
+	father=1019924036	#Aquiminzaque
+	1024.8.24={ birth=yes }
+	1099.6.7={ death=yes }
+}
+1019924045={
+	name=Ana
+	female=yes
+	dynasty=1009990208
+	dna="jejfdabggjl"
+	culture=muisca religion=muisca_pagan
+	father=1019924036	#Aquiminzaque
+	1028.9.2={ birth=yes }
+	1083.8.21={ death=yes }
+}
+1019924046={
+	name=Meicuchuca
+	dynasty=1009990208
+	dna="cnnkielcioa"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=5
+	father=1019924036	#Aquiminzaque
+	1033.10.15={ birth=yes }
+	1100.2.2={ death=yes }
+}
+1019924047={
+	name=Can
+	dynasty=1009990208
+	dna="ndohcnofiia"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=8 learning=8
+	father=1019924036	#Aquiminzaque
+	1036.5.8={ birth=yes }
+	1114.7.11={ death=yes }
+}
+1019924048={
+	name=Guecha
+	dynasty=1009990208
+	dna="ndhdfjoeibo"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	father=1019924043	#Aquiminzaque
+	1046.4.18={ birth=yes }
+	1150.1.18={ death=yes }
+}
+1019924049={
+	name=Nina
+	female=yes
+	dynasty=1009990208
+	dna="hdbngkoeiob"
+	culture=muisca religion=muisca_pagan
+	father=1019924043	#Aquiminzaque
+	1051.4.14={ birth=yes }
+	1120.5.1={ death=yes }
+}
+1019924050={
+	name=Cuxininegua
+	dynasty=1009990208
+	dna="ipkeakoeaon"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=7 learning=6
+	father=1019924043	#Aquiminzaque
+	1053.4.23={ birth=yes }
+	1138.7.31={ death=yes }
+}
+1019924051={
+	name=Cuxininegua
+	dynasty=1009990208
+	dna="npaamjolnoc"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	father=1019924043	#Aquiminzaque
+	1059.7.4={ birth=yes }
+	1127.3.8={ death=yes }
+}
+1019924052={
+	name=Tomagata
+	dynasty=1009990208
+	dna="hmnngmaejoa"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=5
+	father=1019924043	#Aquiminzaque
+	1065.9.16={ birth=yes }
+	1141.1.21={ death=yes }
+}
+1019924053={
+	name=China
+	female=yes
+	dynasty=1009990208
+	dna="jdhnmcoeioo"
+	culture=muisca religion=muisca_pagan
+	father=1019924043	#Aquiminzaque
+	1070.3.13={ birth=yes }
+	1130.8.21={ death=yes }
+}
+1019924054={
+	name=Maiara
+	female=yes
+	dynasty=1009990208
+	dna="kdlpcfeeiod"
+	culture=muisca religion=muisca_pagan
+	father=1019924043	#Aquiminzaque
+	1074.7.6={ birth=yes }
+	1155.4.16={ death=yes }
+}
+1019924055={
+	name=Quemuenchatocha
+	dynasty=1009990208
+	dna="naejfjopibm"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=7 learning=7
+	father=1019924048	#Guecha
+	1075.6.21={ birth=yes }
+	1127.12.11={ death=yes }
+}
+1019924056={
+	name=Meicuchuca
+	dynasty=1009990208
+	dna="jihjkeojlmo"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=6 learning=4
+	father=1019924048	#Guecha
+	1079.10.7={ birth=yes }
+	1137.5.15={ death=yes }
+}
+1019924057={
+	name=Quemuenchatocha
+	dynasty=1009990208
+	dna="jcoimacpblb"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019924055	#Quemuenchatocha
+	1094.12.9={ birth=yes }
+	1150.8.28={ death=yes }
+}
+1019924058={
+	name=Maiara
+	female=yes
+	dynasty=1009990208
+	dna="djnjhlmfded"
+	culture=muisca religion=muisca_pagan
+	father=1019924055	#Quemuenchatocha
+	1102.5.5={ birth=yes }
+	1179.4.25={ death=yes }
+}
+1019924059={
+	name=Michua
+	dynasty=1009990208
+	dna="ngfjafopojm"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	father=1019924055	#Quemuenchatocha
+	1106.7.24={ birth=yes }
+	1164.7.29={ death=yes }
+}
+1019924060={
+	name=Chia
+	female=yes
+	dynasty=1009990208
+	dna="cpenefoppbm"
+	culture=muisca religion=muisca_pagan
+	father=1019924055	#Quemuenchatocha
+	1112.6.15={ birth=yes }
+	1186.9.3={ death=yes }
+}
+1019924061={
+	name=Guecha
+	dynasty=1009990208
+	dna="jccimampbdb"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=5
+	father=1019924057	#Quemuenchatocha
+	1124.7.11={ birth=yes }
+	1209.5.8={ death=yes }
+}
+1019924062={
+	name=Kantuta
+	female=yes
+	dynasty=1009990208
+	dna="hbmmdipoapb"
+	culture=muisca religion=muisca_pagan
+	father=1019924057	#Quemuenchatocha
+	1130.9.8={ birth=yes }
+	1200.6.30={ death=yes }
+}
+1019924063={
+	name=Uzathama
+	dynasty=1009990208
+	dna="nhonmajpdlb"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=7 learning=5
+	father=1019924057	#Quemuenchatocha
+	1136.4.1={ birth=yes }
+	1210.7.28={ death=yes }
+}
+1019924064={
+	name=China
+	female=yes
+	dynasty=1009990208
+	dna="jhomminnbjb"
+	culture=muisca religion=muisca_pagan
+	father=1019924057	#Quemuenchatocha
+	1142.3.17={ birth=yes }
+	1196.11.23={ death=yes }
+}
+1019924065={
+	name=Nina
+	female=yes
+	dynasty=1009990208
+	dna="jccimhcmgdi"
+	culture=muisca religion=muisca_pagan
+	father=1019924061	#Guecha
+	1154.4.23={ birth=yes }
+	1223.5.10={ death=yes }
+}
+1019924066={
+	name=Meicuchuca
+	dynasty=1009990208
+	dna="jcgimamghgi"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=7 learning=6
+	father=1019924061	#Guecha
+	1158.9.11={ birth=yes }
+	1222.5.21={ death=yes }
+}
+1019924067={
+	name=Ana
+	female=yes
+	dynasty=1009990208
+	dna="jmoialbpffg"
+	culture=muisca religion=muisca_pagan
+	father=1019924061	#Guecha
+	1162.12.8={ birth=yes }
+	1217.12.30={ death=yes }
+}
+1019924068={
+	name=Axomamma
+	female=yes
+	dynasty=1009990208
+	dna="afchpcipkdf"
+	culture=muisca religion=muisca_pagan
+	father=1019924061	#Guecha
+	1168.2.5={ birth=yes }
+	1249.6.12={ death=yes }
+}
+1019924069={
+	name=Kantuta
+	female=yes
+	dynasty=1009990208
+	dna="ecglbjjiced"
+	culture=muisca religion=muisca_pagan
+	father=1019924061	#Guecha
+	1171.4.21={ birth=yes }
+	1237.10.29={ death=yes }
+}
+1019924070={
+	name=Meicuchuca
+	dynasty=1009990208
+	dna="klgdmaeilci"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	father=1019924066	#Meicuchuca
+	1179.2.26={ birth=yes }
+	1239.5.13={ death=yes }
+}
+1019924071={
+	name=Saguamanchica
+	dynasty=1009990208
+	dna="ocmiidciifp"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=4
+	father=1019924066	#Meicuchuca
+	1187.5.13={ birth=yes }
+	1249.2.22={ death=yes }
+}
+1019924072={
+	name=Ana
+	female=yes
+	dynasty=1009990208
+	dna="mccnmoegdjk"
+	culture=muisca religion=muisca_pagan
+	father=1019924066	#Meicuchuca
+	1192.9.15={ birth=yes }
+	1254.5.19={ death=yes }
+}
+1019924073={
+	name=Axomamma
+	female=yes
+	dynasty=1009990208
+	dna="mladfaepkce"
+	culture=muisca religion=muisca_pagan
+	father=1019924070	#Meicuchuca
+	1204.3.25={ birth=yes }
+	1260.12.19={ death=yes }
+}
+1019924074={
+	name=Cuba
+	dynasty=1009990208
+	dna="edfimcahlci"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=4 learning=6
+	father=1019924070	#Meicuchuca
+	1209.2.6={ birth=yes }
+	1283.7.5={ death=yes }
+}
+1019924075={
+	name=Ana
+	female=yes
+	dynasty=1009990208
+	dna="blgdiaccflb"
+	culture=muisca religion=muisca_pagan
+	father=1019924070	#Meicuchuca
+	1215.1.16={ birth=yes }
+	1296.1.21={ death=yes }
+}
+1019924076={
+	name=Mico-Chuco
+	dynasty=1009990208
+	dna="klgmmaeilcb"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=8 learning=8
+	father=1019924070	#Meicuchuca
+	1220.10.16={ birth=yes }
+	1305.9.27={ death=yes }
+}
+1019924077={
+	name=Mico-Chuco
+	dynasty=1009990208
+	dna="hfiimhjoncl"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=7 learning=6
+	father=1019924074	#Cuba
+	1237.8.13={ birth=yes }
+	1297.11.4={ death=yes }
+}
+1019924078={
+	name=Tisquesusa
+	dynasty=1009990208
+	dna="edkhmfehfco"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=6 learning=6
+	father=1019924074	#Cuba
+	1241.7.21={ birth=yes }
+	1296.9.24={ death=yes }
+}
+1019924079={
+	name=Aquimin
+	dynasty=1009990208
+	dna="edcdbcahicn"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=4 learning=7
+	father=1019924074	#Cuba
+	1246.10.5={ birth=yes }
+	1287.10.11={ death=yes }
+}
+1019924080={
+	name=Ana
+	female=yes
+	dynasty=1009990208
+	dna="edfibbmelgd"
+	culture=muisca religion=muisca_pagan
+	father=1019924074	#Cuba
+	1249.2.21={ birth=yes }
+	1328.11.5={ death=yes }
+}
+1019924081={
+	name=China
+	female=yes
+	dynasty=1009990208
+	dna="edfjkcahkli"
+	culture=muisca religion=muisca_pagan
+	father=1019924074	#Cuba
+	1256.12.26={ birth=yes }
+	1342.1.4={ death=yes }
+}
+1019924082={
+	name=Meicuchuca
+	dynasty=1009990208
+	dna="mdfimcahlci"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=6 learning=8
+	father=1019924074	#Cuba
+	1261.1.18={ birth=yes }
+	1316.3.1={ death=yes }
+}
+1019924083={
+	name=Ah
+	dynasty=1009990208
+	dna="ehdijcellca"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=7 learning=8
+	father=1019924074	#Cuba
+	1266.10.8={ birth=yes }
+	1327.1.18={ death=yes }
+}
+1019924084={
+	name=Nemequene
+	dynasty=1009990208
+	dna="hhiiihjokcl"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=8 learning=8
+	father=1019924077	#Mico-Chuco
+	1271.7.9={ birth=yes }
+	1353.5.30={ death=yes }
+}
+1019924085={
+	name=Nina
+	female=yes
+	dynasty=1009990208
+	dna="hfinmhkoncl"
+	culture=muisca religion=muisca_pagan
+	father=1019924077	#Mico-Chuco
+	1275.12.1={ birth=yes }
+	1362.1.28={ death=yes }
+}
+1019924086={
+	name=Ana
+	female=yes
+	dynasty=1009990208
+	dna="hfiioajobcl"
+	culture=muisca religion=muisca_pagan
+	father=1019924077	#Mico-Chuco
+	1281.1.5={ birth=yes }
+	1373.7.28={ death=yes }
+}
+1019924087={
+	name=Tutazúa
+	dynasty=1009990208
+	dna="jadbihdkmlm"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=5 learning=8
+	father=1019924084	#Nemequene
+	1300.3.2={ birth=yes }
+	1378.8.12={ death=yes }
+}
+1019924088={
+	name=Maiara
+	female=yes
+	dynasty=1009990208
+	dna="hhjelaaokcl"
+	culture=muisca religion=muisca_pagan
+	father=1019924084	#Nemequene
+	1304.5.26={ birth=yes }
+	1374.9.8={ death=yes }
+}
+1019924089={
+	name=Nina
+	female=yes
+	dynasty=1009990208
+	dna="dhmfihjbeab"
+	culture=muisca religion=muisca_pagan
+	father=1019924084	#Nemequene
+	1309.4.11={ birth=yes }
+	1372.12.16={ death=yes }
+}
+1019924090={
+	name=Ah
+	dynasty=1009990208
+	dna="epeimcmcccg"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	father=1019924084	#Nemequene
+	1314.3.21={ birth=yes }
+	1401.4.29={ death=yes }
+}
+1019924091={
+	name=Chia
+	female=yes
+	dynasty=1009990208
+	dna="idojijjokcj"
+	culture=muisca religion=muisca_pagan
+	father=1019924084	#Nemequene
+	1320.12.24={ birth=yes }
+	1397.11.5={ death=yes }
+}
+1019924092={
+	name=Guecha
+	dynasty=1009990208
+	dna="dhioiojhkcm"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=7 learning=4
+	father=1019924084	#Nemequene
+	1324.3.20={ birth=yes }
+	1395.2.18={ death=yes }
+}
+1019924093={
+	name=Nina
+	female=yes
+	dynasty=1009990208
+	dna="hdlkijjokpc"
+	culture=muisca religion=muisca_pagan
+	father=1019924084	#Nemequene
+	1329.10.18={ birth=yes }
+	1372.11.27={ death=yes }
+}
+1019924094={
+	name=Kantuta
+	female=yes
+	dynasty=1009990208
+	dna="mogiiafkmme"
+	culture=muisca religion=muisca_pagan
+	father=1019924087	#Tutazúa
+	1323.11.8={ birth=yes }
+	1385.7.6={ death=yes }
+}
+1019924095={
+	name=Quemuenchatocha
+	dynasty=1009990208
+	dna="jadbbihfmlb"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	father=1019924087	#Tutazúa
+	1325.10.27={ birth=yes }
+	1396.12.5={ death=yes }
+}
+1019924096={
+	name=Uzathama
+	dynasty=1009990208
+	dna="kadbkhgemdm"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	father=1019924087	#Tutazúa
+	1331.3.11={ birth=yes }
+	1399.1.9={ death=yes }
+}
+1019924097={
+	name=Kantuta
+	female=yes
+	dynasty=1009990208
+	dna="jadkbnhakgb"
+	culture=muisca religion=muisca_pagan
+	father=1019924095	#Quemuenchatocha
+	1356.1.7={ birth=yes }
+	1418.4.11={ death=yes }
+}
+1019924098={
+	name=Cuba
+	dynasty=1009990208
+	dna="oadbkipfkng"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=4
+	father=1019924095	#Quemuenchatocha
+	1358.5.13={ birth=yes }
+	1425.8.25={ death=yes }
+}
+1019924099={
+	name=Maiara
+	female=yes
+	dynasty=1009990208
+	dna="jcfboihlmln"
+	culture=muisca religion=muisca_pagan
+	father=1019924095	#Quemuenchatocha
+	1362.2.18={ birth=yes }
+	1433.11.29={ death=yes }
+}
+1019924100={
+	name=Tomagata
+	dynasty=1009990208
+	dna="nadjdipfong"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=4 learning=6
+	father=1019924098	#Cuba
+	1383.11.15={ birth=yes }
+	1451.8.31={ death=yes }
+}
+1019924101={
+	name=Chia
+	female=yes
+	dynasty=1009990208
+	dna="nidbjiffpbg"
+	culture=muisca religion=muisca_pagan
+	father=1019924098	#Cuba
+	1389.9.26={ birth=yes }
+	1454.10.12={ death=yes }
+}
+1019924102={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990208
+	dna="oacakjkfkfk"
+	culture=muisca religion=muisca_pagan
+	father=1019924098	#Cuba
+	1394.10.20={ birth=yes }
+	1479.12.10={ death=yes }
+}
+1019924103={
+	name=Kantuta
+	female=yes
+	dynasty=1009990208
+	dna="ohjdekjaeng"
+	culture=muisca religion=muisca_pagan
+	father=1019924098	#Cuba
+	1398.7.22={ birth=yes }
+	1466.5.23={ death=yes }
+}
+1019924104={
+	name=Quemuenchatocha
+	dynasty=1009990208
+	dna="oaempnpfilg"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=6 learning=7
+	father=1019924098	#Cuba
+	1405.10.26={ birth=yes }
+	1454.1.29={ death=yes }
+}
+1019924105={
+	name=Ah
+	dynasty=1009990208
+	dna="iljbgbdfkng"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=4 learning=6
+	father=1019924098	#Cuba
+	1408.8.19={ birth=yes }
+	1480.10.11={ death=yes }
+}
+1019928397={
+	name=Cuxininegua
+	dynasty=1009990252
+	dna="lipmefpkicl"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	719.9.8={ birth=yes }
+	775.9.6={ death=yes }
+}
+1019928398={
+	name=Kantuta
+	female=yes
+	dynasty=1009990252
+	dna="omplbgpkecm"
+	culture=muisca religion=muisca_pagan
+	father=1019928397	#Cuxininegua
+	748.6.11={ birth=yes }
+	823.1.22={ death=yes }
+}
+1019928399={
+	name=Aquimin
+	dynasty=1009990252
+	dna="llpgngjligl"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=8 learning=4
+	father=1019928397	#Cuxininegua
+	754.6.18={ birth=yes }
+	819.5.16={ death=yes }
+}
+1019928400={
+	name=Kantuta
+	female=yes
+	dynasty=1009990252
+	dna="bdpbbfliici"
+	culture=muisca religion=muisca_pagan
+	father=1019928397	#Cuxininegua
+	759.12.12={ birth=yes }
+	816.8.27={ death=yes }
+}
+1019928401={
+	name=China
+	female=yes
+	dynasty=1009990252
+	dna="lipmeepkgcl"
+	culture=muisca religion=muisca_pagan
+	father=1019928397	#Cuxininegua
+	766.1.14={ birth=yes }
+	835.1.17={ death=yes }
+}
+1019928402={
+	name=Nemequene
+	dynasty=1009990252
+	dna="lipgngglihl"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=8 learning=4
+	father=1019928399	#Aquimin
+	781.6.7={ birth=yes }
+	875.4.30={ death=yes }
+}
+1019928403={
+	name=Maiara
+	female=yes
+	dynasty=1009990252
+	dna="llmgnpplicc"
+	culture=muisca religion=muisca_pagan
+	father=1019928399	#Aquimin
+	785.12.27={ birth=yes }
+	850.9.17={ death=yes }
+}
+1019928404={
+	name=Aquimin
+	dynasty=1009990252
+	dna="llckgdoliid"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=6
+	father=1019928399	#Aquimin
+	790.11.14={ birth=yes }
+	852.12.11={ death=yes }
+}
+1019928405={
+	name=Kantuta
+	female=yes
+	dynasty=1009990252
+	dna="lldjcbialgk"
+	culture=muisca religion=muisca_pagan
+	father=1019928399	#Aquimin
+	796.2.22={ birth=yes }
+	848.5.2={ death=yes }
+}
+1019928406={
+	name=Cuba
+	dynasty=1009990252
+	dna="mieongklche"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=6 learning=7
+	father=1019928402	#Nemequene
+	802.7.27={ birth=yes }
+	884.1.31={ death=yes }
+}
+1019928407={
+	name=Maiara
+	female=yes
+	dynasty=1009990252
+	dna="oiimemkdial"
+	culture=muisca religion=muisca_pagan
+	father=1019928402	#Nemequene
+	806.11.22={ birth=yes }
+	865.7.15={ death=yes }
+}
+1019928408={
+	name=Can
+	dynasty=1009990252
+	dna="dingoeggchi"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=4 learning=6
+	father=1019928402	#Nemequene
+	812.12.1={ birth=yes }
+	852.7.13={ death=yes }
+}
+1019928409={
+	name=China
+	female=yes
+	dynasty=1009990252
+	dna="jhpnfgglleg"
+	culture=muisca religion=muisca_pagan
+	father=1019928402	#Nemequene
+	819.9.12={ birth=yes }
+	868.12.26={ death=yes }
+}
+1019928410={
+	name=Saguamanchica
+	dynasty=1009990252
+	dna="mlecbjkoldi"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=6
+	father=1019928406	#Cuba
+	825.9.6={ birth=yes }
+	896.2.22={ death=yes }
+}
+1019928411={
+	name=Tisquesusa
+	dynasty=1009990252
+	dna="mieodgkemhe"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=7 learning=4
+	father=1019928406	#Cuba
+	830.11.18={ birth=yes }
+	891.11.15={ death=yes }
+}
+1019928412={
+	name=Kantuta
+	female=yes
+	dynasty=1009990252
+	dna="finombklmhe"
+	culture=muisca religion=muisca_pagan
+	father=1019928406	#Cuba
+	838.11.18={ birth=yes }
+	907.6.24={ death=yes }
+}
+1019928413={
+	name=Michua
+	dynasty=1009990252
+	dna="mlkfbjfoldi"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	father=1019928410	#Saguamanchica
+	855.3.6={ birth=yes }
+	932.11.9={ death=yes }
+}
+1019928414={
+	name=Uzathama
+	dynasty=1009990252
+	dna="jcnccjkbcda"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=4 learning=8
+	father=1019928410	#Saguamanchica
+	861.8.19={ birth=yes }
+	919.3.19={ death=yes }
+}
+1019928415={
+	name=Quemuenchatocha
+	dynasty=1009990252
+	dna="mfeibjaolhe"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=7
+	father=1019928410	#Saguamanchica
+	865.5.11={ birth=yes }
+	950.10.27={ death=yes }
+}
+1019928416={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990252
+	dna="miphgjloldi"
+	culture=muisca religion=muisca_pagan
+	father=1019928410	#Saguamanchica
+	868.11.26={ birth=yes }
+	921.9.16={ death=yes }
+}
+1019928417={
+	name=China
+	female=yes
+	dynasty=1009990252
+	dna="mdecbekonem"
+	culture=muisca religion=muisca_pagan
+	father=1019928410	#Saguamanchica
+	874.4.9={ birth=yes }
+	958.5.19={ death=yes }
+}
+1019928418={
+	name=Sagpipa
+	dynasty=1009990252
+	dna="dllobdfdfbi"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=5 learning=7
+	father=1019928413	#Michua
+	884.6.6={ birth=yes }
+	927.1.27={ death=yes }
+}
+1019928419={
+	name=Chia
+	female=yes
+	dynasty=1009990252
+	dna="mlkfbifofam"
+	culture=muisca religion=muisca_pagan
+	father=1019928413	#Michua
+	888.11.11={ birth=yes }
+	981.6.23={ death=yes }
+}
+1019928420={
+	name=Ana
+	female=yes
+	dynasty=1009990252
+	dna="menfbjhlcli"
+	culture=muisca religion=muisca_pagan
+	father=1019928413	#Michua
+	890.9.9={ birth=yes }
+	958.5.30={ death=yes }
+}
+1019928421={
+	name=Maiara
+	female=yes
+	dynasty=1009990252
+	dna="bldpbjfooij"
+	culture=muisca religion=muisca_pagan
+	father=1019928413	#Michua
+	896.8.9={ birth=yes }
+	977.3.28={ death=yes }
+}
+1019928422={
+	name=Chia
+	female=yes
+	dynasty=1009990252
+	dna="mlofbafkjpi"
+	culture=muisca religion=muisca_pagan
+	father=1019928413	#Michua
+	902.2.5={ birth=yes }
+	984.9.18={ death=yes }
+}
+1019928423={
+	name=Mico-Chuco
+	dynasty=1009990252
+	dna="bflobekdkbi"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=5 learning=7
+	father=1019928418	#Sagpipa
+	917.1.11={ birth=yes }
+	1011.9.17={ death=yes }
+}
+1019928424={
+	name=Ana
+	female=yes
+	dynasty=1009990252
+	dna="daoabhgffbi"
+	culture=muisca religion=muisca_pagan
+	father=1019928418	#Sagpipa
+	923.7.21={ birth=yes }
+	987.6.6={ death=yes }
+}
+1019928425={
+	name=Quemuenchatocha
+	dynasty=1009990252
+	dna="dalgbkffmai"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=8
+	father=1019928418	#Sagpipa
+	929.1.1={ birth=yes }
+	1006.6.5={ death=yes }
+}
+1019928426={
+	name=Maiara
+	female=yes
+	dynasty=1009990252
+	dna="dlloijdlfbe"
+	culture=muisca religion=muisca_pagan
+	father=1019928418	#Sagpipa
+	933.5.13={ birth=yes }
+	1005.7.11={ death=yes }
+}
+1019928427={
+	name=Tibacuy
+	dynasty=1009990252
+	dna="bflobekfbjn"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=5
+	father=1019928423	#Mico-Chuco
+	947.3.8={ birth=yes }
+	1020.5.31={ death=yes }
+}
+1019928428={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990252
+	dna="mmaabpkdkgp"
+	culture=muisca religion=muisca_pagan
+	father=1019928423	#Mico-Chuco
+	955.8.1={ birth=yes }
+	1024.1.1={ death=yes }
+}
+1019928429={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990252
+	dna="bflnbikdfbb"
+	culture=muisca religion=muisca_pagan
+	father=1019928423	#Mico-Chuco
+	959.10.7={ birth=yes }
+	995.1.3={ death=yes }
+}
+1019928430={
+	name=Maiara
+	female=yes
+	dynasty=1009990252
+	dna="ldfeaedfbkb"
+	culture=muisca religion=muisca_pagan
+	father=1019928427	#Tibacuy
+	970.10.13={ birth=yes }
+	1034.6.6={ death=yes }
+}
+1019928431={
+	name=Mico-Chuco
+	dynasty=1009990252
+	dna="bfcobejfcjn"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	father=1019928427	#Tibacuy
+	975.6.25={ birth=yes }
+	1068.6.28={ death=yes }
+}
+1019928432={
+	name=Ana
+	female=yes
+	dynasty=1009990252
+	dna="eapoiejfcpm"
+	culture=muisca religion=muisca_pagan
+	father=1019928431	#Mico-Chuco
+	1003.12.21={ birth=yes }
+	1082.1.1={ death=yes }
+}
+1019928433={
+	name=Ah
+	dynasty=1009990252
+	dna="cfbooejffjn"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=4 learning=8
+	father=1019928431	#Mico-Chuco
+	1008.2.4={ birth=yes }
+	1089.11.13={ death=yes }
+}
+1019928434={
+	name=Kantuta
+	female=yes
+	dynasty=1009990252
+	dna="iidmeecccjn"
+	culture=muisca religion=muisca_pagan
+	father=1019928431	#Mico-Chuco
+	1014.6.18={ birth=yes }
+	1060.12.6={ death=yes }
+}
+1019928435={
+	name=Nina
+	female=yes
+	dynasty=1009990252
+	dna="bijopejenjn"
+	culture=muisca religion=muisca_pagan
+	father=1019928431	#Mico-Chuco
+	1017.9.19={ birth=yes }
+	1070.11.4={ death=yes }
+}
+1019928436={
+	name=Tutazúa
+	dynasty=1009990252
+	dna="mfhoopofljd"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=4
+	father=1019928433	#Ah
+	1036.12.18={ birth=yes }
+	1119.2.16={ death=yes }
+}
+1019928437={
+	name=Ana
+	female=yes
+	dynasty=1009990252
+	dna="afbobnjfmbn"
+	culture=muisca religion=muisca_pagan
+	father=1019928433	#Ah
+	1038.1.2={ birth=yes }
+	1105.5.8={ death=yes }
+}
+1019928438={
+	name=Maiara
+	female=yes
+	dynasty=1009990252
+	dna="kcboceofpdp"
+	culture=muisca religion=muisca_pagan
+	father=1019928433	#Ah
+	1044.1.7={ birth=yes }
+	1091.7.24={ death=yes }
+}
+1019928439={
+	name=Sagpipa
+	dynasty=1009990252
+	dna="cfbloibffjn"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=6 learning=8
+	father=1019928433	#Ah
+	1051.10.13={ birth=yes }
+	1122.4.4={ death=yes }
+}
+1019928440={
+	name=Cuba
+	dynasty=1009990252
+	dna="mfgoabjjlhd"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=4 learning=8
+	father=1019928436	#Tutazúa
+	1061.6.24={ birth=yes }
+	1122.9.28={ death=yes }
+}
+1019928441={
+	name=Nemequene
+	dynasty=1009990252
+	dna="mfhooihfecd"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=8
+	father=1019928436	#Tutazúa
+	1066.2.19={ birth=yes }
+	1130.1.16={ death=yes }
+}
+1019928442={
+	name=Kantuta
+	female=yes
+	dynasty=1009990252
+	dna="mfffmpkfnbo"
+	culture=muisca religion=muisca_pagan
+	father=1019928436	#Tutazúa
+	1069.5.20={ birth=yes }
+	1125.12.24={ death=yes }
+}
+1019928443={
+	name=Nina
+	female=yes
+	dynasty=1009990252
+	dna="ofhooooflja"
+	culture=muisca religion=muisca_pagan
+	father=1019928436	#Tutazúa
+	1073.8.23={ birth=yes }
+	1141.1.6={ death=yes }
+}
+1019928444={
+	name=Mico-Chuco
+	dynasty=1009990252
+	dna="magiapjjajd"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=6
+	father=1019928440	#Cuba
+	1090.8.12={ birth=yes }
+	1181.2.28={ death=yes }
+}
+1019928445={
+	name=Maiara
+	female=yes
+	dynasty=1009990252
+	dna="mkglabjhlhb"
+	culture=muisca religion=muisca_pagan
+	father=1019928440	#Cuba
+	1096.5.9={ birth=yes }
+	1170.12.6={ death=yes }
+}
+1019928446={
+	name=Guecha
+	dynasty=1009990252
+	dna="mfppffjjlme"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	father=1019928440	#Cuba
+	1101.2.14={ birth=yes }
+	1156.11.22={ death=yes }
+}
+1019928447={
+	name=Tibacuy
+	dynasty=1009990252
+	dna="caojapibphd"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=5 learning=8
+	father=1019928444	#Mico-Chuco
+	1112.11.12={ birth=yes }
+	1179.9.1={ death=yes }
+}
+1019928448={
+	name=Nemequene
+	dynasty=1009990252
+	dna="leoiadjkajd"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=8
+	father=1019928444	#Mico-Chuco
+	1116.2.7={ birth=yes }
+	1184.2.20={ death=yes }
+}
+1019928449={
+	name=Ana
+	female=yes
+	dynasty=1009990252
+	dna="aafgcijjajp"
+	culture=muisca religion=muisca_pagan
+	father=1019928444	#Mico-Chuco
+	1119.2.14={ birth=yes }
+	1176.1.6={ death=yes }
+}
+1019928450={
+	name=Can
+	dynasty=1009990252
+	dna="cpojbphbpmd"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=4 learning=8
+	father=1019928447	#Tibacuy
+	1140.1.13={ birth=yes }
+	1240.8.19={ death=yes }
+}
+1019928451={
+	name=China
+	female=yes
+	dynasty=1009990252
+	dna="caignkidmda"
+	culture=muisca religion=muisca_pagan
+	father=1019928447	#Tibacuy
+	1145.4.2={ birth=yes }
+	1215.2.23={ death=yes }
+}
+1019928452={
+	name=Ana
+	female=yes
+	dynasty=1009990252
+	dna="cagjjligpkd"
+	culture=muisca religion=muisca_pagan
+	father=1019928447	#Tibacuy
+	1149.12.11={ birth=yes }
+	1210.9.5={ death=yes }
+}
+1019928453={
+	name=Cuxininegua
+	dynasty=1009990252
+	dna="npdjeemohni"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	father=1019928450	#Can
+	1168.1.25={ birth=yes }
+	1225.3.22={ death=yes }
+}
+1019928454={
+	name=Maiara
+	female=yes
+	dynasty=1009990252
+	dna="ciidbphjabd"
+	culture=muisca religion=muisca_pagan
+	father=1019928450	#Can
+	1174.6.3={ birth=yes }
+	1253.6.1={ death=yes }
+}
+1019928455={
+	name=Kantuta
+	female=yes
+	dynasty=1009990252
+	dna="opojlphbpld"
+	culture=muisca religion=muisca_pagan
+	father=1019928450	#Can
+	1178.6.11={ birth=yes }
+	1252.3.28={ death=yes }
+}
+1019928456={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990252
+	dna="apocbodbiod"
+	culture=muisca religion=muisca_pagan
+	father=1019928450	#Can
+	1185.4.17={ birth=yes }
+	1277.12.11={ death=yes }
+}
+1019928457={
+	name=Quemuenchatocha
+	dynasty=1009990252
+	dna="gnhbneiohno"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=8 learning=7
+	father=1019928453	#Cuxininegua
+	1201.5.26={ birth=yes }
+	1261.1.26={ death=yes }
+}
+1019928458={
+	name=Chia
+	female=yes
+	dynasty=1009990252
+	dna="npdjelholna"
+	culture=muisca religion=muisca_pagan
+	father=1019928453	#Cuxininegua
+	1207.5.19={ birth=yes }
+	1288.5.4={ death=yes }
+}
+1019928459={
+	name=Kantuta
+	female=yes
+	dynasty=1009990252
+	dna="nebjoehfoni"
+	culture=muisca religion=muisca_pagan
+	father=1019928453	#Cuxininegua
+	1210.7.21={ birth=yes }
+	1272.5.8={ death=yes }
+}
+1019928460={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990252
+	dna="nbkjefmfhni"
+	culture=muisca religion=muisca_pagan
+	father=1019928453	#Cuxininegua
+	1217.11.22={ birth=yes }
+	1295.5.31={ death=yes }
+}
+1019928461={
+	name=Tomagata
+	dynasty=1009990252
+	dna="gchmnelejpo"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=7 learning=6
+	father=1019928457	#Quemuenchatocha
+	1232.6.10={ birth=yes }
+	1306.12.29={ death=yes }
+}
+1019928462={
+	name=Uzathama
+	dynasty=1009990252
+	dna="ddhbnecihno"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=4
+	father=1019928457	#Quemuenchatocha
+	1238.10.26={ birth=yes }
+	1323.12.20={ death=yes }
+}
+1019928463={
+	name=Aquiminzaque
+	dynasty=1009990252
+	dna="mdimmelejgo"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=7 learning=5
+	father=1019928461	#Tomagata
+	1258.8.18={ birth=yes }
+	1346.2.21={ death=yes }
+}
+1019928464={
+	name=Tomagata
+	dynasty=1009990252
+	dna="gcknnemgjpo"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=4
+	father=1019928461	#Tomagata
+	1263.2.4={ birth=yes }
+	1338.7.8={ death=yes }
+}
+1019928465={
+	name=Kantuta
+	female=yes
+	dynasty=1009990252
+	dna="fikmnelehpb"
+	culture=muisca religion=muisca_pagan
+	father=1019928461	#Tomagata
+	1270.8.11={ birth=yes }
+	1323.1.2={ death=yes }
+}
+1019928466={
+	name=Kantuta
+	female=yes
+	dynasty=1009990252
+	dna="cchelmgedfj"
+	culture=muisca religion=muisca_pagan
+	father=1019928461	#Tomagata
+	1273.10.4={ birth=yes }
+	1330.7.27={ death=yes }
+}
+1019928467={
+	name=Tutazúa
+	dynasty=1009990252
+	dna="gahmpelempo"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=5 learning=7
+	father=1019928461	#Tomagata
+	1278.11.16={ birth=yes }
+	1352.10.9={ death=yes }
+}
+1019928468={
+	name=Mico-Chuco
+	dynasty=1009990252
+	dna="liikmhlljjo"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	father=1019928463	#Aquiminzaque
+	1290.11.24={ birth=yes }
+	1350.7.13={ death=yes }
+}
+1019928469={
+	name=Ana
+	female=yes
+	dynasty=1009990252
+	dna="mflmmeoejeo"
+	culture=muisca religion=muisca_pagan
+	father=1019928463	#Aquiminzaque
+	1295.6.9={ birth=yes }
+	1351.11.9={ death=yes }
+}
+1019928470={
+	name=Nina
+	female=yes
+	dynasty=1009990252
+	dna="moiamelflbo"
+	culture=muisca religion=muisca_pagan
+	father=1019928463	#Aquiminzaque
+	1297.7.5={ birth=yes }
+	1380.1.27={ death=yes }
+}
+1019928471={
+	name=Quemuenchatocha
+	dynasty=1009990252
+	dna="pjbomadihoo"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	father=1019928468	#Mico-Chuco
+	1314.6.10={ birth=yes }
+	1379.9.21={ death=yes }
+}
+1019928472={
+	name=China
+	female=yes
+	dynasty=1009990252
+	dna="iiikahjhfpo"
+	culture=muisca religion=muisca_pagan
+	father=1019928468	#Mico-Chuco
+	1319.2.11={ birth=yes }
+	1394.4.29={ death=yes }
+}
+1019928473={
+	name=Kantuta
+	female=yes
+	dynasty=1009990252
+	dna="llbkahlljjh"
+	culture=muisca religion=muisca_pagan
+	father=1019928468	#Mico-Chuco
+	1322.5.7={ birth=yes }
+	1402.11.26={ death=yes }
+}
+1019928474={
+	name=Saguamanchica
+	dynasty=1009990252
+	dna="llikkhpljjj"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	father=1019928468	#Mico-Chuco
+	1325.11.22={ birth=yes }
+	1379.12.13={ death=yes }
+}
+1019928475={
+	name=Tisquesusa
+	dynasty=1009990252
+	dna="ooikmhloaja"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=8 learning=4
+	father=1019928468	#Mico-Chuco
+	1329.8.3={ birth=yes }
+	1396.5.28={ death=yes }
+}
+1019928476={
+	name=Axomamma
+	female=yes
+	dynasty=1009990252
+	dna="bfgkmkldjig"
+	culture=muisca religion=muisca_pagan
+	father=1019928468	#Mico-Chuco
+	1334.9.14={ birth=yes }
+	1395.8.31={ death=yes }
+}
+1019928477={
+	name=Sagpipa
+	dynasty=1009990252
+	dna="lmepchleajo"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	father=1019928468	#Mico-Chuco
+	1337.9.16={ birth=yes }
+	1392.6.25={ death=yes }
+}
+1019928478={
+	name=Sagpipa
+	dynasty=1009990252
+	dna="pcbjjnddhdo"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=7 learning=6
+	father=1019928471	#Quemuenchatocha
+	1336.4.21={ birth=yes }
+	1404.9.11={ death=yes }
+}
+1019928479={
+	name=Sagpipa
+	dynasty=1009990252
+	dna="jjeoeamihoo"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=6 learning=6
+	father=1019928471	#Quemuenchatocha
+	1342.10.4={ birth=yes }
+	1399.8.26={ death=yes }
+}
+1019928480={
+	name=Cuxininegua
+	dynasty=1009990252
+	dna="hcmomedihmo"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	father=1019928471	#Quemuenchatocha
+	1347.11.7={ birth=yes }
+	1434.3.8={ death=yes }
+}
+1019928481={
+	name=Axomamma
+	female=yes
+	dynasty=1009990252
+	dna="eihomachodb"
+	culture=muisca religion=muisca_pagan
+	father=1019928471	#Quemuenchatocha
+	1354.1.22={ birth=yes }
+	1396.9.5={ death=yes }
+}
+1019928482={
+	name=China
+	female=yes
+	dynasty=1009990252
+	dna="libjjndghdp"
+	culture=muisca religion=muisca_pagan
+	father=1019928478	#Sagpipa
+	1358.9.8={ birth=yes }
+	1433.1.5={ death=yes }
+}
+1019928483={
+	name=Chia
+	female=yes
+	dynasty=1009990252
+	dna="pbhmjndchfo"
+	culture=muisca religion=muisca_pagan
+	father=1019928478	#Sagpipa
+	1362.6.9={ birth=yes }
+	1443.6.21={ death=yes }
+}
+1019928484={
+	name=Guecha
+	dynasty=1009990252
+	dna="ickbjagihio"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=6 learning=4
+	father=1019928478	#Sagpipa
+	1369.6.7={ birth=yes }
+	1431.6.22={ death=yes }
+}
+1019928485={
+	name=Aquimin
+	dynasty=1009990252
+	dna="ioebmplchio"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=6 learning=8
+	father=1019928484	#Guecha
+	1394.7.14={ birth=yes }
+	1488.6.17={ death=yes }
+}
+1019928486={
+	name=Tisquesusa
+	dynasty=1009990252
+	dna="ihaojagghmo"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=8 learning=7
+	father=1019928484	#Guecha
+	1397.2.4={ birth=yes }
+	1452.11.16={ death=yes }
+}
+1019928487={
+	name=Tibacuy
+	dynasty=1009990253
+	dna="kpengbheffg"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=7 learning=8
+	720.12.4={ birth=yes }
+	799.7.15={ death=yes }
+}
+1019928488={
+	name=Aquimin
+	dynasty=1009990253
+	dna="kplngbpefag"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	father=1019928487	#Tibacuy
+	753.7.3={ birth=yes }
+	832.5.1={ death=yes }
+}
+1019928489={
+	name=Kantuta
+	female=yes
+	dynasty=1009990253
+	dna="heedobhbalo"
+	culture=muisca religion=muisca_pagan
+	father=1019928487	#Tibacuy
+	760.1.23={ birth=yes }
+	845.6.26={ death=yes }
+}
+1019928490={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990253
+	dna="jhecgcdjjfp"
+	culture=muisca religion=muisca_pagan
+	father=1019928487	#Tibacuy
+	766.4.15={ birth=yes }
+	825.11.20={ death=yes }
+}
+1019928491={
+	name=China
+	female=yes
+	dynasty=1009990253
+	dna="dklngbphfcg"
+	culture=muisca religion=muisca_pagan
+	father=1019928488	#Aquimin
+	777.12.16={ birth=yes }
+	842.5.12={ death=yes }
+}
+1019928492={
+	name=Guecha
+	dynasty=1009990253
+	dna="kpnnhipefao"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=4 learning=4
+	father=1019928488	#Aquimin
+	783.2.17={ birth=yes }
+	859.4.20={ death=yes }
+}
+1019928493={
+	name=Aquiminzaque
+	dynasty=1009990253
+	dna="fpnnobkefae"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=8 learning=6
+	father=1019928488	#Aquimin
+	786.10.22={ birth=yes }
+	844.12.17={ death=yes }
+}
+1019928494={
+	name=Nina
+	female=yes
+	dynasty=1009990253
+	dna="mllhdmacfhg"
+	culture=muisca religion=muisca_pagan
+	father=1019928488	#Aquimin
+	791.7.20={ birth=yes }
+	865.12.6={ death=yes }
+}
+1019928495={
+	name=Tisquesusa
+	dynasty=1009990253
+	dna="mpjngbopfab"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=6
+	father=1019928488	#Aquimin
+	795.5.22={ birth=yes }
+	850.4.16={ death=yes }
+}
+1019928496={
+	name=Aquiminzaque
+	dynasty=1009990253
+	dna="kcnncipefao"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=6
+	father=1019928492	#Guecha
+	808.5.3={ birth=yes }
+	889.9.12={ death=yes }
+}
+1019928497={
+	name=Chia
+	female=yes
+	dynasty=1009990253
+	dna="kplmempgfpo"
+	culture=muisca religion=muisca_pagan
+	father=1019928492	#Guecha
+	814.12.25={ birth=yes }
+	872.7.6={ death=yes }
+}
+1019928498={
+	name=Nina
+	female=yes
+	dynasty=1009990253
+	dna="kplghnpgaag"
+	culture=muisca religion=muisca_pagan
+	father=1019928492	#Guecha
+	819.2.26={ birth=yes }
+	869.10.13={ death=yes }
+}
+1019928499={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990253
+	dna="kpmfiodjfnh"
+	culture=muisca religion=muisca_pagan
+	father=1019928492	#Guecha
+	822.3.10={ birth=yes }
+	925.5.19={ death=yes }
+}
+1019928500={
+	name=Meicuchuca
+	dynasty=1009990253
+	dna="knenphlkfao"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=8
+	father=1019928492	#Guecha
+	826.7.10={ birth=yes }
+	905.6.1={ death=yes }
+}
+1019928501={
+	name=Tibacuy
+	dynasty=1009990253
+	dna="mpnnbopecjo"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=8
+	father=1019928496	#Aquiminzaque
+	834.6.27={ birth=yes }
+	892.11.29={ death=yes }
+}
+1019928502={
+	name=Nina
+	female=yes
+	dynasty=1009990253
+	dna="pbnpcfpplaj"
+	culture=muisca religion=muisca_pagan
+	father=1019928496	#Aquiminzaque
+	836.2.15={ birth=yes }
+	895.4.5={ death=yes }
+}
+1019928503={
+	name=Maiara
+	female=yes
+	dynasty=1009990253
+	dna="pnbncimefco"
+	culture=muisca religion=muisca_pagan
+	father=1019928496	#Aquiminzaque
+	843.5.26={ birth=yes }
+	911.6.20={ death=yes }
+}
+1019928504={
+	name=Tutazúa
+	dynasty=1009990253
+	dna="oinnbhkofdo"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=7 learning=6
+	father=1019928501	#Tibacuy
+	857.10.3={ birth=yes }
+	919.12.25={ death=yes }
+}
+1019928505={
+	name=Quemuenchatocha
+	dynasty=1009990253
+	dna="afenbenpcjo"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	father=1019928501	#Tibacuy
+	862.10.25={ birth=yes }
+	918.2.17={ death=yes }
+}
+1019928506={
+	name=Maiara
+	female=yes
+	dynasty=1009990253
+	dna="iphncoiicjd"
+	culture=muisca religion=muisca_pagan
+	father=1019928501	#Tibacuy
+	867.1.6={ birth=yes }
+	940.2.28={ death=yes }
+}
+1019928507={
+	name=Chia
+	female=yes
+	dynasty=1009990253
+	dna="mppobbpkcjo"
+	culture=muisca religion=muisca_pagan
+	father=1019928501	#Tibacuy
+	871.7.25={ birth=yes }
+	946.4.17={ death=yes }
+}
+1019928508={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990253
+	dna="mmhhklpocjd"
+	culture=muisca religion=muisca_pagan
+	father=1019928501	#Tibacuy
+	877.6.24={ birth=yes }
+	946.10.11={ death=yes }
+}
+1019928509={
+	name=Nemequene
+	dynasty=1009990253
+	dna="oknnphkofdo"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	father=1019928504	#Tutazúa
+	881.11.6={ birth=yes }
+	953.4.29={ death=yes }
+}
+1019928510={
+	name=Tomagata
+	dynasty=1009990253
+	dna="oiecbdpollo"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=8
+	father=1019928504	#Tutazúa
+	886.1.20={ birth=yes }
+	944.1.7={ death=yes }
+}
+1019928511={
+	name=Ana
+	female=yes
+	dynasty=1009990253
+	dna="jonbpfkofdo"
+	culture=muisca religion=muisca_pagan
+	father=1019928504	#Tutazúa
+	890.12.21={ birth=yes }
+	958.11.2={ death=yes }
+}
+1019928512={
+	name=Tomagata
+	dynasty=1009990253
+	dna="abcnhhbofdk"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	father=1019928509	#Nemequene
+	908.5.16={ birth=yes }
+	970.10.22={ death=yes }
+}
+1019928513={
+	name=Aquimin
+	dynasty=1009990253
+	dna="kianahabbla"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	father=1019928509	#Nemequene
+	912.9.6={ birth=yes }
+	992.2.19={ death=yes }
+}
+1019928514={
+	name=Saguamanchica
+	dynasty=1009990253
+	dna="okggagkofdb"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=7 learning=7
+	father=1019928509	#Nemequene
+	917.8.12={ birth=yes }
+	995.1.21={ death=yes }
+}
+1019928515={
+	name=Mico-Chuco
+	dynasty=1009990253
+	dna="oljaphgofdo"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=7 learning=4
+	father=1019928509	#Nemequene
+	920.11.11={ birth=yes }
+	994.12.23={ death=yes }
+}
+1019928516={
+	name=Axomamma
+	female=yes
+	dynasty=1009990253
+	dna="okdfpakildh"
+	culture=muisca religion=muisca_pagan
+	father=1019928509	#Nemequene
+	927.6.27={ birth=yes }
+	1000.1.5={ death=yes }
+}
+1019928517={
+	name=Kantuta
+	female=yes
+	dynasty=1009990253
+	dna="jbbnhkboomd"
+	culture=muisca religion=muisca_pagan
+	father=1019928512	#Tomagata
+	933.4.22={ birth=yes }
+	981.1.20={ death=yes }
+}
+1019928518={
+	name=Tibacuy
+	dynasty=1009990253
+	dna="abgnkhbnkda"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	father=1019928512	#Tomagata
+	939.11.15={ birth=yes }
+	1010.1.19={ death=yes }
+}
+1019928519={
+	name=Kantuta
+	female=yes
+	dynasty=1009990253
+	dna="ibgnkhbfndp"
+	culture=muisca religion=muisca_pagan
+	father=1019928518	#Tibacuy
+	965.4.27={ birth=yes }
+	1047.7.8={ death=yes }
+}
+1019928520={
+	name=Meicuchuca
+	dynasty=1009990253
+	dna="lbgnkhhnolg"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	father=1019928518	#Tibacuy
+	969.3.2={ birth=yes }
+	1025.2.27={ death=yes }
+}
+1019928521={
+	name=Mico-Chuco
+	dynasty=1009990253
+	dna="lbnnaehnolg"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	father=1019928520	#Meicuchuca
+	993.1.23={ birth=yes }
+	1049.4.16={ death=yes }
+}
+1019928522={
+	name=Aquimin
+	dynasty=1009990253
+	dna="lbgkjihnoee"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=5 learning=5
+	father=1019928520	#Meicuchuca
+	999.6.15={ birth=yes }
+	1046.2.21={ death=yes }
+}
+1019928523={
+	name=Aquiminzaque
+	dynasty=1009990253
+	dna="ioggkjhnolp"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=5
+	father=1019928520	#Meicuchuca
+	1004.7.14={ birth=yes }
+	1072.7.4={ death=yes }
+}
+1019928524={
+	name=Sagpipa
+	dynasty=1009990253
+	dna="ojgojllnclm"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=5 learning=6
+	father=1019928520	#Meicuchuca
+	1010.5.13={ birth=yes }
+	1089.6.23={ death=yes }
+}
+1019928525={
+	name=Chia
+	female=yes
+	dynasty=1009990253
+	dna="fmglkmhnelh"
+	culture=muisca religion=muisca_pagan
+	father=1019928520	#Meicuchuca
+	1017.4.24={ birth=yes }
+	1079.2.20={ death=yes }
+}
+1019928526={
+	name=Cuxininegua
+	dynasty=1009990253
+	dna="gbnbaehnmfg"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=5
+	father=1019928521	#Mico-Chuco
+	1015.1.25={ birth=yes }
+	1090.12.14={ death=yes }
+}
+1019928527={
+	name=Sagpipa
+	dynasty=1009990253
+	dna="linnakenboi"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=5
+	father=1019928521	#Mico-Chuco
+	1019.3.25={ birth=yes }
+	1069.4.23={ death=yes }
+}
+1019928528={
+	name=Nemequene
+	dynasty=1009990253
+	dna="obnoaehhjjg"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=6
+	father=1019928521	#Mico-Chuco
+	1024.12.27={ birth=yes }
+	1128.5.19={ death=yes }
+}
+1019928529={
+	name=Cuba
+	dynasty=1009990253
+	dna="dfdfaeeneag"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	father=1019928521	#Mico-Chuco
+	1031.6.26={ birth=yes }
+	1091.7.4={ death=yes }
+}
+1019928530={
+	name=Nina
+	female=yes
+	dynasty=1009990253
+	dna="mhneiehnmnk"
+	culture=muisca religion=muisca_pagan
+	father=1019928526	#Cuxininegua
+	1046.7.9={ birth=yes }
+	1129.10.10={ death=yes }
+}
+1019928531={
+	name=Tibacuy
+	dynasty=1009990253
+	dna="lafkaohfcfg"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=7 learning=8
+	father=1019928526	#Cuxininegua
+	1051.6.12={ birth=yes }
+	1112.1.6={ death=yes }
+}
+1019928532={
+	name=Ah
+	dynasty=1009990253
+	dna="lafjioefcff"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=7 learning=7
+	father=1019928531	#Tibacuy
+	1078.5.27={ birth=yes }
+	1149.5.4={ death=yes }
+}
+1019928533={
+	name=Axomamma
+	female=yes
+	dynasty=1009990253
+	dna="lafkaohfmea"
+	culture=muisca religion=muisca_pagan
+	father=1019928531	#Tibacuy
+	1081.9.6={ birth=yes }
+	1146.1.12={ death=yes }
+}
+1019928534={
+	name=Maiara
+	female=yes
+	dynasty=1009990253
+	dna="cdckaohlcmm"
+	culture=muisca religion=muisca_pagan
+	father=1019928531	#Tibacuy
+	1086.2.1={ birth=yes }
+	1139.2.23={ death=yes }
+}
+1019928535={
+	name=Axomamma
+	female=yes
+	dynasty=1009990253
+	dna="aamknohnffg"
+	culture=muisca religion=muisca_pagan
+	father=1019928531	#Tibacuy
+	1091.8.1={ birth=yes }
+	1164.7.14={ death=yes }
+}
+1019928536={
+	name=Axomamma
+	female=yes
+	dynasty=1009990253
+	dna="ebdoaohfifg"
+	culture=muisca religion=muisca_pagan
+	father=1019928531	#Tibacuy
+	1095.7.5={ birth=yes }
+	1182.5.8={ death=yes }
+}
+1019928537={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990253
+	dna="ladeaocjcbe"
+	culture=muisca religion=muisca_pagan
+	father=1019928531	#Tibacuy
+	1099.2.14={ birth=yes }
+	1165.2.28={ death=yes }
+}
+1019928538={
+	name=Maiara
+	female=yes
+	dynasty=1009990253
+	dna="hpdkaohndfi"
+	culture=muisca religion=muisca_pagan
+	father=1019928531	#Tibacuy
+	1104.7.4={ birth=yes }
+	1161.10.10={ death=yes }
+}
+1019928539={
+	name=Guecha
+	dynasty=1009990253
+	dna="fcijiheakha"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=7 learning=4
+	father=1019928532	#Ah
+	1105.12.5={ birth=yes }
+	1191.1.25={ death=yes }
+}
+1019928540={
+	name=Ana
+	female=yes
+	dynasty=1009990253
+	dna="abajioefjfg"
+	culture=muisca religion=muisca_pagan
+	father=1019928532	#Ah
+	1110.6.4={ birth=yes }
+	1188.5.13={ death=yes }
+}
+1019928541={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990253
+	dna="kmkeihldkff"
+	culture=muisca religion=muisca_pagan
+	father=1019928532	#Ah
+	1117.6.24={ birth=yes }
+	1183.9.8={ death=yes }
+}
+1019928542={
+	name=Tomagata
+	dynasty=1009990253
+	dna="lgcjjoenfgc"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	father=1019928532	#Ah
+	1123.2.10={ birth=yes }
+	1208.10.7={ death=yes }
+}
+1019928543={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990253
+	dna="fcijhhmmkhp"
+	culture=muisca religion=muisca_pagan
+	father=1019928539	#Guecha
+	1133.7.27={ birth=yes }
+	1218.3.18={ death=yes }
+}
+1019928544={
+	name=Michua
+	dynasty=1009990253
+	dna="ncijahhakbg"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	father=1019928539	#Guecha
+	1139.1.17={ birth=yes }
+	1219.2.14={ death=yes }
+}
+1019928545={
+	name=Saguamanchica
+	dynasty=1009990253
+	dna="piiliheania"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=8
+	father=1019928539	#Guecha
+	1142.5.8={ birth=yes }
+	1198.12.29={ death=yes }
+}
+1019928546={
+	name=China
+	female=yes
+	dynasty=1009990253
+	dna="hcgoajhakbg"
+	culture=muisca religion=muisca_pagan
+	father=1019928544	#Michua
+	1171.12.10={ birth=yes }
+	1234.3.3={ death=yes }
+}
+1019928547={
+	name=Ana
+	female=yes
+	dynasty=1009990253
+	dna="gcgbamhnkdf"
+	culture=muisca religion=muisca_pagan
+	father=1019928544	#Michua
+	1174.12.25={ birth=yes }
+	1258.10.31={ death=yes }
+}
+1019928548={
+	name=Kantuta
+	female=yes
+	dynasty=1009990253
+	dna="nfijhhllkcg"
+	culture=muisca religion=muisca_pagan
+	father=1019928544	#Michua
+	1179.10.27={ birth=yes }
+	1257.1.21={ death=yes }
+}
+1019928549={
+	name=Ana
+	female=yes
+	dynasty=1009990253
+	dna="jcfkaofbkmd"
+	culture=muisca religion=muisca_pagan
+	father=1019928544	#Michua
+	1183.1.11={ birth=yes }
+	1240.7.15={ death=yes }
+}
+1019928550={
+	name=Kantuta
+	female=yes
+	dynasty=1009990253
+	dna="inpjakpabjk"
+	culture=muisca religion=muisca_pagan
+	father=1019928544	#Michua
+	1190.1.25={ birth=yes }
+	1254.9.1={ death=yes }
+}
+1019928551={
+	name=China
+	female=yes
+	dynasty=1009990253
+	dna="kcnachhakhj"
+	culture=muisca religion=muisca_pagan
+	father=1019928544	#Michua
+	1193.1.15={ birth=yes }
+	1263.5.28={ death=yes }
+}
+1019928552={
+	name=Meicuchuca
+	dynasty=1009990253
+	dna="ndijghhkkhb"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=4 learning=4
+	father=1019928544	#Michua
+	1198.2.16={ birth=yes }
+	1276.7.28={ death=yes }
+}
+1019928553={
+	name=Guecha
+	dynasty=1009990253
+	dna="nbbagaidkcg"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=6 learning=8
+	father=1019928552	#Meicuchuca
+	1232.2.16={ birth=yes }
+	1316.8.25={ death=yes }
+}
+1019928554={
+	name=Sagpipa
+	dynasty=1009990253
+	dna="hjdhicjkkhb"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	father=1019928552	#Meicuchuca
+	1236.3.25={ birth=yes }
+	1318.7.9={ death=yes }
+}
+1019928555={
+	name=Tutazúa
+	dynasty=1009990253
+	dna="idojbhdbibb"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=7
+	father=1019928552	#Meicuchuca
+	1241.8.14={ birth=yes }
+	1331.7.26={ death=yes }
+}
+1019928556={
+	name=Nina
+	female=yes
+	dynasty=1009990253
+	dna="mdijdlcfkal"
+	culture=muisca religion=muisca_pagan
+	father=1019928552	#Meicuchuca
+	1248.12.10={ birth=yes }
+	1317.11.24={ death=yes }
+}
+1019928557={
+	name=Cuba
+	dynasty=1009990253
+	dna="mjcflkabkcm"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=7
+	father=1019928553	#Guecha
+	1253.10.12={ birth=yes }
+	1322.7.5={ death=yes }
+}
+1019928558={
+	name=Tibacuy
+	dynasty=1009990253
+	dna="nbccboidkcg"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	father=1019928553	#Guecha
+	1258.8.25={ birth=yes }
+	1334.8.24={ death=yes }
+}
+1019928559={
+	name=Guecha
+	dynasty=1009990253
+	dna="niigpaidaod"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=6 learning=5
+	father=1019928553	#Guecha
+	1263.7.24={ birth=yes }
+	1337.1.5={ death=yes }
+}
+1019928560={
+	name=Aquiminzaque
+	dynasty=1009990253
+	dna="mjnfhelpabf"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=6 learning=8
+	father=1019928557	#Cuba
+	1283.6.23={ birth=yes }
+	1358.10.14={ death=yes }
+}
+1019928561={
+	name=Axomamma
+	female=yes
+	dynasty=1009990253
+	dna="jccglkabece"
+	culture=muisca religion=muisca_pagan
+	father=1019928557	#Cuba
+	1288.8.6={ birth=yes }
+	1362.5.19={ death=yes }
+}
+1019928562={
+	name=Maiara
+	female=yes
+	dynasty=1009990253
+	dna="ljcblkaojcm"
+	culture=muisca religion=muisca_pagan
+	father=1019928557	#Cuba
+	1294.7.11={ birth=yes }
+	1379.11.2={ death=yes }
+}
+1019928563={
+	name=Saguamanchica
+	dynasty=1009990253
+	dna="nhcfliabklg"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=4 learning=5
+	father=1019928557	#Cuba
+	1297.2.10={ birth=yes }
+	1378.9.9={ death=yes }
+}
+1019928564={
+	name=Maiara
+	female=yes
+	dynasty=1009990253
+	dna="ojlikkaband"
+	culture=muisca religion=muisca_pagan
+	father=1019928557	#Cuba
+	1301.11.7={ birth=yes }
+	1368.10.29={ death=yes }
+}
+1019928565={
+	name=Saguamanchica
+	dynasty=1009990253
+	dna="fjfmhelpmdf"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	father=1019928560	#Aquiminzaque
+	1304.11.5={ birth=yes }
+	1386.8.23={ death=yes }
+}
+1019928566={
+	name=Chia
+	female=yes
+	dynasty=1009990253
+	dna="jjnfhnhhkdo"
+	culture=muisca religion=muisca_pagan
+	father=1019928560	#Aquiminzaque
+	1309.3.20={ birth=yes }
+	1375.3.21={ death=yes }
+}
+1019928567={
+	name=Ana
+	female=yes
+	dynasty=1009990253
+	dna="pjlfhegpadf"
+	culture=muisca religion=muisca_pagan
+	father=1019928560	#Aquiminzaque
+	1312.2.14={ birth=yes }
+	1384.10.30={ death=yes }
+}
+1019928568={
+	name=Aquimin
+	dynasty=1009990253
+	dna="ojjnhfhpjmf"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=7 learning=6
+	father=1019928560	#Aquiminzaque
+	1317.4.11={ birth=yes }
+	1394.11.25={ death=yes }
+}
+1019928569={
+	name=Cuxininegua
+	dynasty=1009990253
+	dna="mjnfheepabp"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	father=1019928560	#Aquiminzaque
+	1321.9.13={ birth=yes }
+	1405.11.19={ death=yes }
+}
+1019928570={
+	name=China
+	female=yes
+	dynasty=1009990253
+	dna="mnihblapamf"
+	culture=muisca religion=muisca_pagan
+	father=1019928560	#Aquiminzaque
+	1327.5.20={ birth=yes }
+	1403.5.16={ death=yes }
+}
+1019928571={
+	name=Maiara
+	female=yes
+	dynasty=1009990253
+	dna="ajndhelphnf"
+	culture=muisca religion=muisca_pagan
+	father=1019928560	#Aquiminzaque
+	1331.7.3={ birth=yes }
+	1391.10.21={ death=yes }
+}
+1019928572={
+	name=Chia
+	female=yes
+	dynasty=1009990253
+	dna="efjmlmaplgf"
+	culture=muisca religion=muisca_pagan
+	father=1019928565	#Saguamanchica
+	1332.4.16={ birth=yes }
+	1421.6.9={ death=yes }
+}
+1019928573={
+	name=Tomagata
+	dynasty=1009990253
+	dna="ejfbhelpmph"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=6 learning=7
+	father=1019928565	#Saguamanchica
+	1337.12.12={ birth=yes }
+	1394.11.14={ death=yes }
+}
+1019928574={
+	name=Saguamanchica
+	dynasty=1009990253
+	dna="fjfjhjlcmog"
+	culture=muisca religion=muisca_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=6 learning=4
+	father=1019928565	#Saguamanchica
+	1344.3.23={ birth=yes }
+	1427.11.29={ death=yes }
+}
+1019928575={
+	name=China
+	female=yes
+	dynasty=1009990253
+	dna="fkjmnlblkim"
+	culture=muisca religion=muisca_pagan
+	father=1019928565	#Saguamanchica
+	1349.11.18={ birth=yes }
+	1414.11.16={ death=yes }
+}
+1019928576={
+	name=Quemuenchatocha
+	dynasty=1009990253
+	dna="ehcbhelpeoa"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=4 learning=8
+	father=1019928573	#Tomagata
+	1360.5.5={ birth=yes }
+	1416.5.6={ death=yes }
+}
+1019928577={
+	name=Mico-Chuco
+	dynasty=1009990253
+	dna="ejkphelpmph"
+	culture=muisca religion=muisca_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=4 learning=7
+	father=1019928573	#Tomagata
+	1363.4.1={ birth=yes }
+	1460.7.12={ death=yes }
+}
+1019928578={
+	name=Kantuta
+	female=yes
+	dynasty=1009990253
+	dna="ejlkaecpjpc"
+	culture=muisca religion=muisca_pagan
+	father=1019928573	#Tomagata
+	1366.4.21={ birth=yes }
+	1415.9.22={ death=yes }
+}
+1019928579={
+	name=China
+	female=yes
+	dynasty=1009990253
+	dna="bkfjhekpmmh"
+	culture=muisca religion=muisca_pagan
+	father=1019928573	#Tomagata
+	1371.3.15={ birth=yes }
+	1455.8.11={ death=yes }
+}
+1019928580={
+	name=Tibacuy
+	dynasty=1009990253
+	dna="hleojemfjpk"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=6 learning=6
+	father=1019928573	#Tomagata
+	1374.6.6={ birth=yes }
+	1443.2.7={ death=yes }
+}
+1019928581={
+	name=Michua
+	dynasty=1009990253
+	dna="ehabhelpeoa"
+	culture=muisca religion=muisca_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=6
+	father=1019928576	#Quemuenchatocha
+	1387.12.25={ birth=yes }
+	1446.7.7={ death=yes }
+}
+1019928582={
+	name=Nina
+	female=yes
+	dynasty=1009990253
+	dna="cpckabopknd"
+	culture=muisca religion=muisca_pagan
+	father=1019928576	#Quemuenchatocha
+	1393.8.3={ birth=yes }
+	1479.4.9={ death=yes }
+}
+1019928583={
+	name=Ana
+	female=yes
+	dynasty=1009990253
+	dna="jhcbhempkpa"
+	culture=muisca religion=muisca_pagan
+	father=1019928576	#Quemuenchatocha
+	1397.10.11={ birth=yes }
+	1454.7.4={ death=yes }
+}
+1019928584={
+	name=China
+	female=yes
+	dynasty=1009990253
+	dna="ehcihpkheoa"
+	culture=muisca religion=muisca_pagan
+	father=1019928576	#Quemuenchatocha
+	1402.4.14={ birth=yes }
+	1478.7.3={ death=yes }
+}
+1019928585={
+	name=Maiara
+	female=yes
+	dynasty=1009990253
+	dna="cocdgelpmep"
+	culture=muisca religion=muisca_pagan
+	father=1019928576	#Quemuenchatocha
+	1407.7.13={ birth=yes }
+	1474.2.11={ death=yes }
+}
+1019928586={
+	name=Tisquesusa
+	dynasty=1009990253
+	dna="ebpbhkfpkmf"
+	culture=muisca religion=muisca_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	father=1019928581	#Michua
+	1411.3.17={ birth=yes }
+	1495.9.14={ death=yes }
+}
+1019928587={
+	name=Aquimin
+	dynasty=1009990253
+	dna="lhablilpfoa"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	father=1019928581	#Michua
+	1414.5.13={ birth=yes }
+	1487.6.4={ death=yes }
+}
+1019928588={
+	name=Maiara
+	female=yes
+	dynasty=1009990253
+	dna="klcchgljela"
+	culture=muisca religion=muisca_pagan
+	father=1019928581	#Michua
+	1417.5.12={ birth=yes }
+	1504.1.22={ death=yes }
+}
+1019928589={
+	name=Ana
+	female=yes
+	dynasty=1009990253
+	dna="chdbbeggdoa"
+	culture=muisca religion=muisca_pagan
+	father=1019928581	#Michua
+	1422.2.20={ birth=yes }
+	1497.5.31={ death=yes }
+}
+1019928590={
+	name=Maiara
+	female=yes
+	dynasty=1009990253
+	dna="ohjbffnpeof"
+	culture=muisca religion=muisca_pagan
+	father=1019928581	#Michua
+	1428.5.27={ birth=yes }
+	1497.10.15={ death=yes }
+}
+1019928591={
+	name=Kantuta
+	female=yes
+	dynasty=1009990253
+	dna="khobbelpemg"
+	culture=muisca religion=muisca_pagan
+	father=1019928581	#Michua
+	1432.5.4={ birth=yes }
+	1495.6.4={ death=yes }
+}
+1019928592={
+	name=Aquimin
+	dynasty=1009990253
+	dna="edfedidpjia"
+	culture=muisca religion=muisca_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=8
+	father=1019928581	#Michua
+	1437.8.3={ birth=yes }
+	1514.1.15={ death=yes }
+}

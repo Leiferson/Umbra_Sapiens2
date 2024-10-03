@@ -1,0 +1,28 @@
+# 1225 - Puri
+
+# County Title
+title = c_puri
+
+# Settlements
+max_settlements = 4
+b_jaugada = castle
+b_puri = temple
+b_buguda = city
+#b_aska = city
+#b_ganjam = castle
+#b_taratarini = temple
+#b_gopalpur = city
+
+# Misc
+culture = oriya
+religion = buddhist
+
+# History
+1264.1.1 = {
+build_wonder = wonder_temple_hindu
+set_wonder_stage = 1
+set_wonder_name = KonarkSunTEMPLE
+set_wonder_description = KonarkSunTEMPLEDESC
+build_wonder_upgrade = upgrade_temple_complex
+build_wonder_upgrade = upgrade_mandapa
+}

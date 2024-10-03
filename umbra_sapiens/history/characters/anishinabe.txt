@@ -1,0 +1,3028 @@
+1019916879={
+	name=Fonegawne
+	dynasty=1009990136
+	dna="hpdapjnmbgk"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=5
+	720.2.24={ birth=yes }
+	805.12.18={ death=yes }
+}
+1019916880={
+	name=Paymusawtom
+	dynasty=1009990136
+	dna="fabepofofif"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=8
+	father=1019916879	#Fonegawne
+	742.1.11={ birth=yes }
+	827.5.4={ death=yes }
+}
+1019916881={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990136
+	dna="lpjlpknmegp"
+	culture=anishinabe religion=algic_pagan
+	father=1019916879	#Fonegawne
+	748.3.5={ birth=yes }
+	825.10.27={ death=yes }
+}
+1019916882={
+	name=Miigwaans
+	female=yes
+	dynasty=1009990136
+	dna="ahmaihpodgk"
+	culture=anishinabe religion=algic_pagan
+	father=1019916879	#Fonegawne
+	751.7.27={ birth=yes }
+	849.9.24={ death=yes }
+}
+1019916883={
+	name=Zaagaasage
+	female=yes
+	dynasty=1009990136
+	dna="mhbmmlngegf"
+	culture=anishinabe religion=algic_pagan
+	father=1019916879	#Fonegawne
+	757.5.19={ birth=yes }
+	830.12.26={ death=yes }
+}
+1019916884={
+	name=Mayto
+	dynasty=1009990136
+	dna="eabeaaiofif"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=slothful add_trait=gluttonous add_trait=content 
+	father=1019916880	#Paymusawtom
+	772.1.5={ birth=yes }
+	826.10.8={ death=yes }
+}
+1019916885={
+	name=Ayasha
+	female=yes
+	dynasty=1009990136
+	dna="gabefofolif"
+	culture=anishinabe religion=algic_pagan
+	father=1019916880	#Paymusawtom
+	777.11.22={ birth=yes }
+	844.9.16={ death=yes }
+}
+1019916886={
+	name=Meewayson
+	dynasty=1009990136
+	dna="fakkaofbgii"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=4 learning=5
+	father=1019916880	#Paymusawtom
+	782.5.1={ birth=yes }
+	851.4.21={ death=yes }
+}
+1019916887={
+	name=Kewageone
+	dynasty=1009990136
+	dna="fgbnpifefnn"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	father=1019916880	#Paymusawtom
+	790.2.9={ birth=yes }
+	846.12.14={ death=yes }
+}
+1019916888={
+	name=Pashkobwis
+	dynasty=1009990136
+	dna="ejbeahilkif"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=6 learning=7
+	father=1019916884	#Mayto
+	801.3.12={ birth=yes }
+	848.4.7={ death=yes }
+}
+1019916889={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990136
+	dna="gkmeaaihfmp"
+	culture=anishinabe religion=algic_pagan
+	father=1019916884	#Mayto
+	805.8.6={ birth=yes }
+	889.6.20={ death=yes }
+}
+1019916890={
+	name=Wepecumgegut
+	dynasty=1009990136
+	dna="ejbmaaicfkh"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	father=1019916884	#Mayto
+	808.12.27={ birth=yes }
+	892.6.2={ death=yes }
+}
+1019916891={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990136
+	dna="hapefmikfhk"
+	culture=anishinabe religion=algic_pagan
+	father=1019916884	#Mayto
+	812.4.27={ birth=yes }
+	893.4.25={ death=yes }
+}
+1019916892={
+	name=Okeemanpeenaysee
+	dynasty=1009990136
+	dna="daaelblooif"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=7 learning=6
+	father=1019916884	#Mayto
+	816.4.19={ birth=yes }
+	873.8.8={ death=yes }
+}
+1019916893={
+	name=Kogkakeshik
+	dynasty=1009990136
+	dna="ndgpaihlkii"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=6 learning=8
+	father=1019916888	#Pashkobwis
+	824.2.27={ birth=yes }
+	879.9.27={ death=yes }
+}
+1019916894={
+	name=Kamenna
+	female=yes
+	dynasty=1009990136
+	dna="ojkealigkif"
+	culture=anishinabe religion=algic_pagan
+	father=1019916888	#Pashkobwis
+	829.4.7={ birth=yes }
+	896.10.5={ death=yes }
+}
+1019916895={
+	name=Mitena
+	female=yes
+	dynasty=1009990136
+	dna="jhdcahiceib"
+	culture=anishinabe religion=algic_pagan
+	father=1019916888	#Pashkobwis
+	833.3.14={ birth=yes }
+	907.8.29={ death=yes }
+}
+1019916896={
+	name=Metewa
+	dynasty=1009990136
+	dna="fjleahiloih"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=4 learning=8
+	father=1019916888	#Pashkobwis
+	838.3.22={ birth=yes }
+	919.7.29={ death=yes }
+}
+1019916897={
+	name=Mitena
+	female=yes
+	dynasty=1009990136
+	dna="ajbeaoeikhf"
+	culture=anishinabe religion=algic_pagan
+	father=1019916888	#Pashkobwis
+	843.6.18={ birth=yes }
+	913.4.24={ death=yes }
+}
+1019916898={
+	name=Kamenna
+	female=yes
+	dynasty=1009990136
+	dna="ndgpomhlkii"
+	culture=anishinabe religion=algic_pagan
+	father=1019916893	#Kogkakeshik
+	848.3.9={ birth=yes }
+	921.8.7={ death=yes }
+}
+1019916899={
+	name=Misheneanonquet
+	dynasty=1009990136
+	dna="nhhcaknlbii"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	father=1019916893	#Kogkakeshik
+	855.8.15={ birth=yes }
+	910.2.9={ death=yes }
+}
+1019916900={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990136
+	dna="imfpabimkij"
+	culture=anishinabe religion=algic_pagan
+	father=1019916893	#Kogkakeshik
+	860.3.26={ birth=yes }
+	930.1.8={ death=yes }
+}
+1019916901={
+	name=Kamenna
+	female=yes
+	dynasty=1009990136
+	dna="negmaipmdij"
+	culture=anishinabe religion=algic_pagan
+	father=1019916893	#Kogkakeshik
+	863.3.5={ birth=yes }
+	948.3.24={ death=yes }
+}
+1019916902={
+	name=Mitena
+	female=yes
+	dynasty=1009990136
+	dna="hloeojdncil"
+	culture=anishinabe religion=algic_pagan
+	father=1019916899	#Misheneanonquet
+	887.6.8={ birth=yes }
+	947.12.30={ death=yes }
+}
+1019916903={
+	name=Nuwagon
+	dynasty=1009990136
+	dna="ehhclkbobii"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	father=1019916899	#Misheneanonquet
+	893.7.10={ birth=yes }
+	978.10.23={ death=yes }
+}
+1019916904={
+	name=Puckwash
+	dynasty=1009990136
+	dna="naciamaalii"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=5 learning=5
+	father=1019916899	#Misheneanonquet
+	897.1.3={ birth=yes }
+	965.8.4={ death=yes }
+}
+1019916905={
+	name=Zaagaasage
+	female=yes
+	dynasty=1009990136
+	dna="ehfnalnbbji"
+	culture=anishinabe religion=algic_pagan
+	father=1019916899	#Misheneanonquet
+	903.9.23={ birth=yes }
+	991.11.17={ death=yes }
+}
+1019916906={
+	name=Ogeebouinse
+	dynasty=1009990136
+	dna="nhhkhgjcbii"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=4 learning=8
+	father=1019916899	#Misheneanonquet
+	907.11.19={ birth=yes }
+	976.11.5={ death=yes }
+}
+1019916907={
+	name=Pashkeekou
+	dynasty=1009990136
+	dna="ehaklkkpbii"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	father=1019916903	#Nuwagon
+	919.4.21={ birth=yes }
+	994.12.22={ death=yes }
+}
+1019916908={
+	name=Aguagonabe
+	dynasty=1009990136
+	dna="ahhclkhciie"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=5 learning=6
+	father=1019916903	#Nuwagon
+	924.11.8={ birth=yes }
+	1005.11.12={ death=yes }
+}
+1019916909={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990136
+	dna="khmclaolbii"
+	culture=anishinabe religion=algic_pagan
+	father=1019916903	#Nuwagon
+	928.1.6={ birth=yes }
+	1005.4.29={ death=yes }
+}
+1019916910={
+	name=Neebeenaquin
+	dynasty=1009990136
+	dna="ihgilkcpohi"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=7 learning=7
+	father=1019916907	#Pashkeekou
+	939.5.13={ birth=yes }
+	995.8.19={ death=yes }
+}
+1019916911={
+	name=Mitena
+	female=yes
+	dynasty=1009990136
+	dna="ehhglhkpmci"
+	culture=anishinabe religion=algic_pagan
+	father=1019916907	#Pashkeekou
+	945.12.26={ birth=yes }
+	1007.6.1={ death=yes }
+}
+1019916912={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990136
+	dna="nhajleppbdi"
+	culture=anishinabe religion=algic_pagan
+	father=1019916907	#Pashkeekou
+	952.8.23={ birth=yes }
+	1016.12.17={ death=yes }
+}
+1019916913={
+	name=Ayasha
+	female=yes
+	dynasty=1009990136
+	dna="ehaklmkecdl"
+	culture=anishinabe religion=algic_pagan
+	father=1019916907	#Pashkeekou
+	956.1.22={ birth=yes }
+	1022.11.5={ death=yes }
+}
+1019916914={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990136
+	dna="lahildnpdhb"
+	culture=anishinabe religion=algic_pagan
+	father=1019916910	#Neebeenaquin
+	968.10.8={ birth=yes }
+	1050.3.2={ death=yes }
+}
+1019916915={
+	name=Ogeebouinse
+	dynasty=1009990136
+	dna="fhmiekiaoeo"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	father=1019916910	#Neebeenaquin
+	973.4.8={ birth=yes }
+	1046.5.21={ death=yes }
+}
+1019916916={
+	name=Okumanpinase
+	dynasty=1009990136
+	dna="hhbifdafoio"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=5 learning=4
+	father=1019916915	#Ogeebouinse
+	1000.3.18={ birth=yes }
+	1082.11.15={ death=yes }
+}
+1019916917={
+	name=Waubeekeenew
+	dynasty=1009990136
+	dna="fhmaelloold"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=8
+	father=1019916915	#Ogeebouinse
+	1004.9.19={ birth=yes }
+	1065.6.15={ death=yes }
+}
+1019916918={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990136
+	dna="fhdimjiaoen"
+	culture=anishinabe religion=algic_pagan
+	father=1019916915	#Ogeebouinse
+	1008.12.11={ birth=yes }
+	1102.10.7={ death=yes }
+}
+1019916919={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990136
+	dna="ehpfmkpeolf"
+	culture=anishinabe religion=algic_pagan
+	father=1019916915	#Ogeebouinse
+	1012.12.5={ birth=yes }
+	1115.1.28={ death=yes }
+}
+1019916920={
+	name=Singgok
+	dynasty=1009990136
+	dna="agmiakihodo"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=6 learning=5
+	father=1019916915	#Ogeebouinse
+	1016.2.24={ birth=yes }
+	1077.5.7={ death=yes }
+}
+1019916921={
+	name=Wawaubequak
+	dynasty=1009990136
+	dna="hpcikdiicic"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=7
+	father=1019916916	#Okumanpinase
+	1021.7.5={ birth=yes }
+	1123.6.2={ death=yes }
+}
+1019916922={
+	name=Kauguest
+	dynasty=1009990136
+	dna="hhcifdgfoeo"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	father=1019916916	#Okumanpinase
+	1027.10.20={ birth=yes }
+	1111.4.21={ death=yes }
+}
+1019916923={
+	name=Zaagaasage
+	female=yes
+	dynasty=1009990136
+	dna="hbkifdafoap"
+	culture=anishinabe religion=algic_pagan
+	father=1019916916	#Okumanpinase
+	1033.2.19={ birth=yes }
+	1102.6.23={ death=yes }
+}
+1019916924={
+	name=Sheemaugua
+	dynasty=1009990136
+	dna="hhbdfmcfdpo"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	father=1019916916	#Okumanpinase
+	1038.7.14={ birth=yes }
+	1121.6.16={ death=yes }
+}
+1019916925={
+	name=Keyacum
+	dynasty=1009990136
+	dna="jpcdkafnigc"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=6 learning=5
+	father=1019916921	#Wawaubequak
+	1046.5.3={ birth=yes }
+	1122.6.28={ death=yes }
+}
+1019916926={
+	name=Kawgeshequm
+	dynasty=1009990136
+	dna="gpcikdkcpdh"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=5 learning=4
+	father=1019916921	#Wawaubequak
+	1054.10.24={ birth=yes }
+	1099.2.28={ death=yes }
+}
+1019916927={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990136
+	dna="jpcdkafpigj"
+	culture=anishinabe religion=algic_pagan
+	father=1019916925	#Keyacum
+	1065.7.15={ birth=yes }
+	1118.3.6={ death=yes }
+}
+1019916928={
+	name=Markkenwuwbe
+	dynasty=1009990136
+	dna="jmcdjcfkijc"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	father=1019916925	#Keyacum
+	1072.1.12={ birth=yes }
+	1142.11.2={ death=yes }
+}
+1019916929={
+	name=Metewa
+	dynasty=1009990136
+	dna="lpgdknfbeec"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=4
+	father=1019916925	#Keyacum
+	1079.12.1={ birth=yes }
+	1150.8.11={ death=yes }
+}
+1019916930={
+	name=Mamawsecuta
+	dynasty=1009990136
+	dna="ipcmkafoigm"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=7
+	father=1019916925	#Keyacum
+	1084.3.24={ birth=yes }
+	1141.8.9={ death=yes }
+}
+1019916931={
+	name=Shashebak
+	dynasty=1009990136
+	dna="jmcbcpffieb"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=5
+	father=1019916928	#Markkenwuwbe
+	1105.4.18={ birth=yes }
+	1152.11.9={ death=yes }
+}
+1019916932={
+	name=Zaagaasage
+	female=yes
+	dynasty=1009990136
+	dna="jcidjffkijc"
+	culture=anishinabe religion=algic_pagan
+	father=1019916928	#Markkenwuwbe
+	1112.2.26={ birth=yes }
+	1192.9.5={ death=yes }
+}
+1019916933={
+	name=Paymusawtom
+	dynasty=1009990136
+	dna="gmdndjfoejc"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=7 learning=7
+	father=1019916928	#Markkenwuwbe
+	1114.1.3={ birth=yes }
+	1168.4.23={ death=yes }
+}
+1019916934={
+	name=Nowkeshuc
+	dynasty=1009990136
+	dna="klcdfkfbmjl"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=7 learning=7
+	father=1019916928	#Markkenwuwbe
+	1121.2.24={ birth=yes }
+	1182.4.24={ death=yes }
+}
+1019916935={
+	name=Kewaytinam
+	dynasty=1009990136
+	dna="pmoacpkfggb"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=6 learning=6
+	father=1019916931	#Shashebak
+	1134.6.26={ birth=yes }
+	1220.2.21={ death=yes }
+}
+1019916936={
+	name=Markkenwuwbe
+	dynasty=1009990136
+	dna="jmccppefieb"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	father=1019916931	#Shashebak
+	1142.7.27={ birth=yes }
+	1206.3.16={ death=yes }
+}
+1019916937={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990136
+	dna="jogecofmibg"
+	culture=anishinabe religion=algic_pagan
+	father=1019916931	#Shashebak
+	1148.4.9={ birth=yes }
+	1204.1.14={ death=yes }
+}
+1019916938={
+	name=Markkenwuwbe
+	dynasty=1009990136
+	dna="gmcbgpkfjkb"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=6 learning=8
+	father=1019916931	#Shashebak
+	1154.8.20={ birth=yes }
+	1238.6.17={ death=yes }
+}
+1019916939={
+	name=Shimnanaquette
+	dynasty=1009990136
+	dna="meogcokfggo"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=6 learning=6
+	father=1019916935	#Kewaytinam
+	1157.2.23={ birth=yes }
+	1241.12.28={ death=yes }
+}
+1019916940={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990136
+	dna="pmpacpbcbaf"
+	culture=anishinabe religion=algic_pagan
+	father=1019916935	#Kewaytinam
+	1164.2.3={ birth=yes }
+	1236.11.2={ death=yes }
+}
+1019916941={
+	name=Zaagaasage
+	female=yes
+	dynasty=1009990136
+	dna="bmoampkfgcb"
+	culture=anishinabe religion=algic_pagan
+	father=1019916935	#Kewaytinam
+	1169.11.10={ birth=yes }
+	1235.8.30={ death=yes }
+}
+1019916942={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990136
+	dna="ceobcnkflgo"
+	culture=anishinabe religion=algic_pagan
+	father=1019916939	#Shimnanaquette
+	1187.2.19={ birth=yes }
+	1239.12.12={ death=yes }
+}
+1019916943={
+	name=Minggeeseetay
+	dynasty=1009990136
+	dna="ikopcgnfpgm"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=5 learning=8
+	father=1019916939	#Shimnanaquette
+	1193.1.27={ birth=yes }
+	1255.9.26={ death=yes }
+}
+1019916944={
+	name=Ayasha
+	female=yes
+	dynasty=1009990136
+	dna="icopggnaogm"
+	culture=anishinabe religion=algic_pagan
+	father=1019916943	#Minggeeseetay
+	1218.12.22={ birth=yes }
+	1317.9.4={ death=yes }
+}
+1019916945={
+	name=Miigwaans
+	female=yes
+	dynasty=1009990136
+	dna="ifpmloippmm"
+	culture=anishinabe religion=algic_pagan
+	father=1019916943	#Minggeeseetay
+	1223.8.2={ birth=yes }
+	1301.6.25={ death=yes }
+}
+1019916946={
+	name=Peshquescum
+	dynasty=1009990136
+	dna="jjdpjanopgm"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=7 learning=7
+	father=1019916943	#Minggeeseetay
+	1230.10.5={ birth=yes }
+	1308.3.8={ death=yes }
+}
+1019916947={
+	name=Kennewobe
+	dynasty=1009990136
+	dna="jkoplgnfplo"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	father=1019916943	#Minggeeseetay
+	1238.4.2={ birth=yes }
+	1307.6.20={ death=yes }
+}
+1019916948={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990136
+	dna="bemplajepgi"
+	culture=anishinabe religion=algic_pagan
+	father=1019916946	#Peshquescum
+	1250.9.16={ birth=yes }
+	1327.8.30={ death=yes }
+}
+1019916949={
+	name=Shimnanaquette
+	dynasty=1009990136
+	dna="cjcpajflgbj"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	father=1019916946	#Peshquescum
+	1257.1.21={ birth=yes }
+	1336.12.11={ death=yes }
+}
+1019916950={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990136
+	dna="jfdpjangpgj"
+	culture=anishinabe religion=algic_pagan
+	father=1019916946	#Peshquescum
+	1261.11.2={ birth=yes }
+	1331.4.5={ death=yes }
+}
+1019916951={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990136
+	dna="bjomagblofj"
+	culture=anishinabe religion=algic_pagan
+	father=1019916949	#Shimnanaquette
+	1286.3.21={ birth=yes }
+	1371.3.12={ death=yes }
+}
+1019916952={
+	name=Endus
+	dynasty=1009990136
+	dna="cjcpdimloaj"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=8 learning=5
+	father=1019916949	#Shimnanaquette
+	1290.10.25={ birth=yes }
+	1380.11.25={ death=yes }
+}
+1019916953={
+	name=Waseneso
+	dynasty=1009990136
+	dna="mddhhjadaaj"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=7 learning=6
+	father=1019916949	#Shimnanaquette
+	1296.5.7={ birth=yes }
+	1363.6.28={ death=yes }
+}
+1019916954={
+	name=Sepewan
+	dynasty=1009990136
+	dna="hjbpachpgpj"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=8
+	father=1019916949	#Shimnanaquette
+	1301.7.14={ birth=yes }
+	1365.5.5={ death=yes }
+}
+1019916955={
+	name=Moksauba
+	dynasty=1009990136
+	dna="cjdplmflgfm"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	father=1019916949	#Shimnanaquette
+	1306.3.16={ birth=yes }
+	1395.4.12={ death=yes }
+}
+1019916956={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990136
+	dna="pjephjllgbc"
+	culture=anishinabe religion=algic_pagan
+	father=1019916949	#Shimnanaquette
+	1310.2.19={ birth=yes }
+	1391.7.30={ death=yes }
+}
+1019916957={
+	name=Mutchwetau
+	dynasty=1009990136
+	dna="ckcpeimcdfl"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=5
+	father=1019916952	#Endus
+	1313.2.26={ birth=yes }
+	1378.4.22={ death=yes }
+}
+1019916958={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990136
+	dna="jjbpnimalag"
+	culture=anishinabe religion=algic_pagan
+	father=1019916952	#Endus
+	1319.3.5={ birth=yes }
+	1392.10.9={ death=yes }
+}
+1019916959={
+	name=Kawgeshequm
+	dynasty=1009990136
+	dna="cplpcimloaj"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=5 learning=4
+	father=1019916952	#Endus
+	1324.12.13={ birth=yes }
+	1403.4.20={ death=yes }
+}
+1019916960={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990136
+	dna="cjbpgimlopj"
+	culture=anishinabe religion=algic_pagan
+	father=1019916952	#Endus
+	1327.12.18={ birth=yes }
+	1397.6.30={ death=yes }
+}
+1019916961={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990136
+	dna="cjoliiojfld"
+	culture=anishinabe religion=algic_pagan
+	father=1019916952	#Endus
+	1330.2.17={ birth=yes }
+	1396.6.7={ death=yes }
+}
+1019916962={
+	name=Puckwash
+	dynasty=1009990136
+	dna="nllbmnblojj"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=5 learning=6
+	father=1019916952	#Endus
+	1336.11.5={ birth=yes }
+	1419.3.30={ death=yes }
+}
+1019916963={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990136
+	dna="cpcpdejlood"
+	culture=anishinabe religion=algic_pagan
+	father=1019916952	#Endus
+	1339.2.21={ birth=yes }
+	1394.9.14={ death=yes }
+}
+1019916964={
+	name=Shaconk
+	dynasty=1009990136
+	dna="ckoheimcjea"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=7 learning=8
+	father=1019916957	#Mutchwetau
+	1341.12.16={ birth=yes }
+	1425.11.11={ death=yes }
+}
+1019916965={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990136
+	dna="pkcpapmcdol"
+	culture=anishinabe religion=algic_pagan
+	father=1019916957	#Mutchwetau
+	1348.3.14={ birth=yes }
+	1404.1.20={ death=yes }
+}
+1019916966={
+	name=Mayneeseno
+	dynasty=1009990136
+	dna="jiaahomgjaj"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	father=1019916957	#Mutchwetau
+	1351.6.27={ birth=yes }
+	1422.1.30={ death=yes }
+}
+1019916967={
+	name=Nemetetowwa
+	dynasty=1009990136
+	dna="chgeealcjma"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	father=1019916964	#Shaconk
+	1371.11.19={ birth=yes }
+	1433.3.23={ death=yes }
+}
+1019916968={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990136
+	dna="bgobbimfggg"
+	culture=anishinabe religion=algic_pagan
+	father=1019916964	#Shaconk
+	1375.12.14={ birth=yes }
+	1456.11.14={ death=yes }
+}
+1019916969={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990136
+	dna="cenhekfcgep"
+	culture=anishinabe religion=algic_pagan
+	father=1019916964	#Shaconk
+	1382.2.7={ birth=yes }
+	1455.10.19={ death=yes }
+}
+1019916970={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990136
+	dna="ccamealcpma"
+	culture=anishinabe religion=algic_pagan
+	father=1019916967	#Nemetetowwa
+	1396.11.8={ birth=yes }
+	1475.11.4={ death=yes }
+}
+1019916971={
+	name=Ogemaunkeketo
+	dynasty=1009990136
+	dna="chpeeabnjmi"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=6 learning=6
+	father=1019916967	#Nemetetowwa
+	1402.11.3={ birth=yes }
+	1464.6.26={ death=yes }
+}
+1019916972={
+	name=Mixabee
+	dynasty=1009990137
+	dna="ddldpmebpfe"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=5
+	719.2.24={ birth=yes }
+	807.7.10={ death=yes }
+}
+1019916973={
+	name=Mawmawkens
+	dynasty=1009990137
+	dna="oelileedpfe"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	father=1019916972	#Mixabee
+	742.10.12={ birth=yes }
+	799.6.11={ death=yes }
+}
+1019916974={
+	name=Kamenna
+	female=yes
+	dynasty=1009990137
+	dna="minmdmedpfn"
+	culture=anishinabe religion=algic_pagan
+	father=1019916972	#Mixabee
+	748.10.11={ birth=yes }
+	821.10.12={ death=yes }
+}
+1019916975={
+	name=Puckwash
+	dynasty=1009990137
+	dna="jdlndmgkafi"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=5
+	father=1019916972	#Mixabee
+	752.7.8={ birth=yes }
+	818.12.22={ death=yes }
+}
+1019916976={
+	name=Nowkeshuc
+	dynasty=1009990137
+	dna="jdidjlekpfc"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=4 learning=6
+	father=1019916972	#Mixabee
+	755.11.7={ birth=yes }
+	854.6.15={ death=yes }
+}
+1019916977={
+	name=Naynooautienishkoan
+	dynasty=1009990137
+	dna="oaldligdpfe"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	father=1019916973	#Mawmawkens
+	770.12.13={ birth=yes }
+	856.9.12={ death=yes }
+}
+1019916978={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990137
+	dna="oebileelpfe"
+	culture=anishinabe religion=algic_pagan
+	father=1019916973	#Mawmawkens
+	774.9.3={ birth=yes }
+	832.11.20={ death=yes }
+}
+1019916979={
+	name=Miigwaans
+	female=yes
+	dynasty=1009990137
+	dna="ojllkeekkje"
+	culture=anishinabe religion=algic_pagan
+	father=1019916973	#Mawmawkens
+	780.12.19={ birth=yes }
+	834.5.23={ death=yes }
+}
+1019916980={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990137
+	dna="onlibbgdide"
+	culture=anishinabe religion=algic_pagan
+	father=1019916973	#Mawmawkens
+	787.11.1={ birth=yes }
+	849.10.19={ death=yes }
+}
+1019916981={
+	name=Ogeebouinse
+	dynasty=1009990137
+	dna="oelonoedkee"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=4 learning=7
+	father=1019916973	#Mawmawkens
+	793.3.7={ birth=yes }
+	861.5.6={ death=yes }
+}
+1019916982={
+	name=Pemaw
+	dynasty=1009990137
+	dna="cdljnaickjd"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	father=1019916977	#Naynooautienishkoan
+	801.8.23={ birth=yes }
+	889.4.15={ death=yes }
+}
+1019916983={
+	name=Mitena
+	female=yes
+	dynasty=1009990137
+	dna="olldcighffa"
+	culture=anishinabe religion=algic_pagan
+	father=1019916977	#Naynooautienishkoan
+	805.12.11={ birth=yes }
+	860.6.27={ death=yes }
+}
+1019916984={
+	name=Peshquescum
+	dynasty=1009990137
+	dna="oalnhigdife"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=6
+	father=1019916977	#Naynooautienishkoan
+	812.9.19={ birth=yes }
+	890.10.20={ death=yes }
+}
+1019916985={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990137
+	dna="oaejlegdlfj"
+	culture=anishinabe religion=algic_pagan
+	father=1019916977	#Naynooautienishkoan
+	818.8.2={ birth=yes }
+	885.10.3={ death=yes }
+}
+1019916986={
+	name=Okumanpinase
+	dynasty=1009990137
+	dna="ckfjhcifdjf"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=8 learning=4
+	father=1019916982	#Pemaw
+	829.8.1={ birth=yes }
+	907.9.20={ death=yes }
+}
+1019916987={
+	name=Wausaquanai
+	dynasty=1009990137
+	dna="elljcaglkjd"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	father=1019916982	#Pemaw
+	835.4.8={ birth=yes }
+	894.6.21={ death=yes }
+}
+1019916988={
+	name=Nawgonisee
+	dynasty=1009990137
+	dna="cgligjcjojd"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=8 learning=6
+	father=1019916982	#Pemaw
+	840.5.1={ birth=yes }
+	895.12.10={ death=yes }
+}
+1019916989={
+	name=Pashkobwis
+	dynasty=1009990137
+	dna="ddlaneichgf"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	father=1019916982	#Pemaw
+	847.3.8={ birth=yes }
+	904.8.30={ death=yes }
+}
+1019916990={
+	name=Mixabee
+	dynasty=1009990137
+	dna="jkhhhcifgme"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	father=1019916986	#Okumanpinase
+	849.11.15={ birth=yes }
+	919.9.9={ death=yes }
+}
+1019916991={
+	name=Pemaw
+	dynasty=1009990137
+	dna="cdhjhbcfkjf"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=4 learning=4
+	father=1019916986	#Okumanpinase
+	855.4.5={ birth=yes }
+	918.7.4={ death=yes }
+}
+1019916992={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990137
+	dna="ghpdcceodjo"
+	culture=anishinabe religion=algic_pagan
+	father=1019916986	#Okumanpinase
+	859.6.2={ birth=yes }
+	944.2.19={ death=yes }
+}
+1019916993={
+	name=Zaagaasage
+	female=yes
+	dynasty=1009990137
+	dna="cjhlhcofmhf"
+	culture=anishinabe religion=algic_pagan
+	father=1019916986	#Okumanpinase
+	865.12.7={ birth=yes }
+	954.12.30={ death=yes }
+}
+1019916994={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990137
+	dna="cefkceiadjf"
+	culture=anishinabe religion=algic_pagan
+	father=1019916986	#Okumanpinase
+	871.1.6={ birth=yes }
+	925.2.1={ death=yes }
+}
+1019916995={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990137
+	dna="lkjeahdfdji"
+	culture=anishinabe religion=algic_pagan
+	father=1019916986	#Okumanpinase
+	875.12.11={ birth=yes }
+	953.4.9={ death=yes }
+}
+1019916996={
+	name=Kamenna
+	female=yes
+	dynasty=1009990137
+	dna="dihhhpffgme"
+	culture=anishinabe religion=algic_pagan
+	father=1019916990	#Mixabee
+	879.10.26={ birth=yes }
+	950.11.30={ death=yes }
+}
+1019916997={
+	name=Minggeeseetay
+	dynasty=1009990137
+	dna="ckhihnifgme"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=7 learning=4
+	father=1019916990	#Mixabee
+	884.7.22={ birth=yes }
+	926.11.2={ death=yes }
+}
+1019916998={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990137
+	dna="jkhhecifjhe"
+	culture=anishinabe religion=algic_pagan
+	father=1019916990	#Mixabee
+	887.5.6={ birth=yes }
+	982.9.14={ death=yes }
+}
+1019916999={
+	name=Kitchmokooman
+	dynasty=1009990137
+	dna="jfihhclajmi"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=8 learning=5
+	father=1019916990	#Mixabee
+	891.11.16={ birth=yes }
+	963.7.22={ death=yes }
+}
+1019917000={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990137
+	dna="jkjhhokfgah"
+	culture=anishinabe religion=algic_pagan
+	father=1019916990	#Mixabee
+	898.1.25={ birth=yes }
+	961.9.7={ death=yes }
+}
+1019917001={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990137
+	dna="fmklicifaem"
+	culture=anishinabe religion=algic_pagan
+	father=1019916990	#Mixabee
+	900.4.7={ birth=yes }
+	965.4.29={ death=yes }
+}
+1019917002={
+	name=Kogkakeshik
+	dynasty=1009990137
+	dna="ckhfhjiagmi"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=7 learning=7
+	father=1019916997	#Minggeeseetay
+	911.3.25={ birth=yes }
+	999.2.23={ death=yes }
+}
+1019917003={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990137
+	dna="kkhijnhelje"
+	culture=anishinabe religion=algic_pagan
+	father=1019916997	#Minggeeseetay
+	917.2.27={ birth=yes }
+	999.5.31={ death=yes }
+}
+1019917004={
+	name=Reaume
+	dynasty=1009990137
+	dna="ckoihdiogmk"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	father=1019916997	#Minggeeseetay
+	921.1.2={ birth=yes }
+	983.3.23={ death=yes }
+}
+1019917005={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990137
+	dna="hdhjheiabjo"
+	culture=anishinabe religion=algic_pagan
+	father=1019917002	#Kogkakeshik
+	933.10.14={ birth=yes }
+	995.8.11={ death=yes }
+}
+1019917006={
+	name=Kauguest
+	dynasty=1009990137
+	dna="cgbfdjiaggc"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=4
+	father=1019917002	#Kogkakeshik
+	937.1.17={ birth=yes }
+	1005.10.10={ death=yes }
+}
+1019917007={
+	name=Waseneso
+	dynasty=1009990137
+	dna="ckcfajnaodd"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=6 learning=6
+	father=1019917006	#Kauguest
+	970.3.14={ birth=yes }
+	1040.11.14={ death=yes }
+}
+1019917008={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990137
+	dna="aemfkjihggf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917006	#Kauguest
+	974.7.9={ birth=yes }
+	1030.11.28={ death=yes }
+}
+1019917009={
+	name=Nemekas
+	dynasty=1009990137
+	dna="jgbfohiaokc"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=7 learning=8
+	father=1019917006	#Kauguest
+	977.11.5={ birth=yes }
+	1064.5.11={ death=yes }
+}
+1019917010={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990137
+	dna="mgcofpmagdf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917006	#Kauguest
+	982.7.20={ birth=yes }
+	1044.7.26={ death=yes }
+}
+1019917011={
+	name=Penaysewaykesek
+	dynasty=1009990137
+	dna="gglfehocepc"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=6 learning=7
+	father=1019917006	#Kauguest
+	987.4.6={ birth=yes }
+	1042.10.10={ death=yes }
+}
+1019917012={
+	name=Pemaw
+	dynasty=1009990137
+	dna="mglldjiaggp"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=5 learning=4
+	father=1019917006	#Kauguest
+	993.6.6={ birth=yes }
+	1065.5.16={ death=yes }
+}
+1019917013={
+	name=owenisham
+	dynasty=1009990137
+	dna="cgbfaaiajpc"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=4
+	father=1019917006	#Kauguest
+	1000.8.20={ birth=yes }
+	1086.10.6={ death=yes }
+}
+1019917014={
+	name=Kewaytinam
+	dynasty=1009990137
+	dna="ckcfajbggdl"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=8
+	father=1019917007	#Waseneso
+	994.1.7={ birth=yes }
+	1063.12.21={ death=yes }
+}
+1019917015={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990137
+	dna="cbofbmckidf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917007	#Waseneso
+	997.11.24={ birth=yes }
+	1075.1.5={ death=yes }
+}
+1019917016={
+	name=Kamenna
+	female=yes
+	dynasty=1009990137
+	dna="cnciajgaodd"
+	culture=anishinabe religion=algic_pagan
+	father=1019917007	#Waseneso
+	1002.8.4={ birth=yes }
+	1054.1.16={ death=yes }
+}
+1019917017={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990137
+	dna="hmaibjdaodd"
+	culture=anishinabe religion=algic_pagan
+	father=1019917007	#Waseneso
+	1006.10.1={ birth=yes }
+	1089.10.10={ death=yes }
+}
+1019917018={
+	name=Ogeebouinse
+	dynasty=1009990137
+	dna="nccjjgnolme"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019917007	#Waseneso
+	1009.9.15={ birth=yes }
+	1096.11.28={ death=yes }
+}
+1019917019={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990137
+	dna="ckcfijhaodd"
+	culture=anishinabe religion=algic_pagan
+	father=1019917007	#Waseneso
+	1016.9.22={ birth=yes }
+	1061.4.27={ death=yes }
+}
+1019917020={
+	name=Zaagaasage
+	female=yes
+	dynasty=1009990137
+	dna="nabgajpaodd"
+	culture=anishinabe religion=algic_pagan
+	father=1019917007	#Waseneso
+	1021.10.8={ birth=yes }
+	1086.7.2={ death=yes }
+}
+1019917021={
+	name=Wawapenishik
+	dynasty=1009990137
+	dna="ckmffjoggml"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=4
+	father=1019917014	#Kewaytinam
+	1015.8.25={ birth=yes }
+	1079.6.4={ death=yes }
+}
+1019917022={
+	name=Mixmunitou
+	dynasty=1009990137
+	dna="fkcbajbkgdl"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=6
+	father=1019917014	#Kewaytinam
+	1019.10.23={ birth=yes }
+	1066.3.11={ death=yes }
+}
+1019917023={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990137
+	dna="fpcfaalbgkp"
+	culture=anishinabe religion=algic_pagan
+	father=1019917014	#Kewaytinam
+	1023.6.26={ birth=yes }
+	1082.5.31={ death=yes }
+}
+1019917024={
+	name=Maneleugobwawaa
+	dynasty=1009990137
+	dna="ckcmfdnggmm"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	father=1019917021	#Wawapenishik
+	1037.8.3={ birth=yes }
+	1098.7.13={ death=yes }
+}
+1019917025={
+	name=Keyacum
+	dynasty=1009990137
+	dna="ckmhfeogaml"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=5
+	father=1019917021	#Wawapenishik
+	1043.6.1={ birth=yes }
+	1107.10.5={ death=yes }
+}
+1019917026={
+	name=Endus
+	dynasty=1009990137
+	dna="ckbffjhggji"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=6 learning=7
+	father=1019917021	#Wawapenishik
+	1050.1.24={ birth=yes }
+	1108.11.29={ death=yes }
+}
+1019917027={
+	name=Zaagaasage
+	female=yes
+	dynasty=1009990137
+	dna="cknpinegljl"
+	culture=anishinabe religion=algic_pagan
+	father=1019917021	#Wawapenishik
+	1055.4.11={ birth=yes }
+	1139.9.1={ death=yes }
+}
+1019917028={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990137
+	dna="kpmfbhogige"
+	culture=anishinabe religion=algic_pagan
+	father=1019917021	#Wawapenishik
+	1058.9.9={ birth=yes }
+	1144.11.5={ death=yes }
+}
+1019917029={
+	name=Miigwaans
+	female=yes
+	dynasty=1009990137
+	dna="ckmnfjoofmf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917021	#Wawapenishik
+	1062.11.3={ birth=yes }
+	1123.3.20={ death=yes }
+}
+1019917030={
+	name=Ayasha
+	female=yes
+	dynasty=1009990137
+	dna="ckmffclgeem"
+	culture=anishinabe religion=algic_pagan
+	father=1019917021	#Wawapenishik
+	1068.3.7={ birth=yes }
+	1142.3.21={ death=yes }
+}
+1019917031={
+	name=Wausaquanai
+	dynasty=1009990137
+	dna="cpdofigggmm"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=5 learning=6
+	father=1019917024	#Maneleugobwawaa
+	1057.8.1={ birth=yes }
+	1141.1.1={ death=yes }
+}
+1019917032={
+	name=Ayasha
+	female=yes
+	dynasty=1009990137
+	dna="okhmidgngmh"
+	culture=anishinabe religion=algic_pagan
+	father=1019917024	#Maneleugobwawaa
+	1062.4.5={ birth=yes }
+	1118.10.23={ death=yes }
+}
+1019917033={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990137
+	dna="bkcmfknagmm"
+	culture=anishinabe religion=algic_pagan
+	father=1019917024	#Maneleugobwawaa
+	1065.8.6={ birth=yes }
+	1139.9.22={ death=yes }
+}
+1019917034={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990137
+	dna="ggcmfcjpgpm"
+	culture=anishinabe religion=algic_pagan
+	father=1019917024	#Maneleugobwawaa
+	1072.5.5={ birth=yes }
+	1137.6.8={ death=yes }
+}
+1019917035={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990137
+	dna="ckdmfaiklpm"
+	culture=anishinabe religion=algic_pagan
+	father=1019917024	#Maneleugobwawaa
+	1076.12.13={ birth=yes }
+	1146.8.20={ death=yes }
+}
+1019917036={
+	name=Penaysewaykesek
+	dynasty=1009990137
+	dna="cnoofjhgomh"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=6 learning=4
+	father=1019917031	#Wausaquanai
+	1080.9.8={ birth=yes }
+	1162.4.4={ death=yes }
+}
+1019917037={
+	name=Nawgonisee
+	dynasty=1009990137
+	dna="mpfofigagdm"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=4 learning=8
+	father=1019917031	#Wausaquanai
+	1083.7.8={ birth=yes }
+	1156.3.17={ death=yes }
+}
+1019917038={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990137
+	dna="gpnofdkifio"
+	culture=anishinabe religion=algic_pagan
+	father=1019917031	#Wausaquanai
+	1086.11.5={ birth=yes }
+	1142.10.7={ death=yes }
+}
+1019917039={
+	name=Aushetayawnekusa
+	dynasty=1009990137
+	dna="cpdolajahcm"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=7 learning=8
+	father=1019917031	#Wausaquanai
+	1094.1.16={ birth=yes }
+	1148.3.3={ death=yes }
+}
+1019917040={
+	name=Miigwaans
+	female=yes
+	dynasty=1009990137
+	dna="cnhonbjccio"
+	culture=anishinabe religion=algic_pagan
+	father=1019917036	#Penaysewaykesek
+	1102.9.20={ birth=yes }
+	1183.10.7={ death=yes }
+}
+1019917041={
+	name=Paupemiskobe
+	dynasty=1009990137
+	dna="bnoifdhcbmh"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=4 learning=7
+	father=1019917036	#Penaysewaykesek
+	1106.4.15={ birth=yes }
+	1168.1.9={ death=yes }
+}
+1019917042={
+	name=Anueemaycounbeeme
+	dynasty=1009990137
+	dna="coddbdnjbmh"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=7 learning=6
+	father=1019917036	#Penaysewaykesek
+	1111.5.27={ birth=yes }
+	1171.4.7={ death=yes }
+}
+1019917043={
+	name=Kamenna
+	female=yes
+	dynasty=1009990137
+	dna="cnoonjhlodh"
+	culture=anishinabe religion=algic_pagan
+	father=1019917036	#Penaysewaykesek
+	1117.12.13={ birth=yes }
+	1166.2.22={ death=yes }
+}
+1019917044={
+	name=Pakenosega
+	dynasty=1009990137
+	dna="cklcfdmpnmi"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=4 learning=7
+	father=1019917041	#Paupemiskobe
+	1132.5.2={ birth=yes }
+	1188.11.20={ death=yes }
+}
+1019917045={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990137
+	dna="bnoibdhcbmh"
+	culture=anishinabe religion=algic_pagan
+	father=1019917041	#Paupemiskobe
+	1138.9.27={ birth=yes }
+	1206.10.10={ death=yes }
+}
+1019917046={
+	name=Kaujagonaygee
+	dynasty=1009990137
+	dna="onjonpbpbbg"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=6 learning=7
+	father=1019917044	#Pakenosega
+	1157.10.12={ birth=yes }
+	1245.3.16={ death=yes }
+}
+1019917047={
+	name=Mixmunitou
+	dynasty=1009990137
+	dna="dglclgkonnk"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	father=1019917044	#Pakenosega
+	1162.7.6={ birth=yes }
+	1219.1.15={ death=yes }
+}
+1019917048={
+	name=Kitcheenoting
+	dynasty=1009990137
+	dna="dknjfdkpoei"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	father=1019917044	#Pakenosega
+	1168.11.13={ birth=yes }
+	1234.7.14={ death=yes }
+}
+1019917049={
+	name=Mitena
+	female=yes
+	dynasty=1009990137
+	dna="kkiafdmpomo"
+	culture=anishinabe religion=algic_pagan
+	father=1019917044	#Pakenosega
+	1171.5.26={ birth=yes }
+	1249.6.9={ death=yes }
+}
+1019917050={
+	name=Kawotoktame
+	dynasty=1009990137
+	dna="cofcfdlenme"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=5 learning=7
+	father=1019917044	#Pakenosega
+	1173.10.18={ birth=yes }
+	1267.5.28={ death=yes }
+}
+1019917051={
+	name=Kennewobe
+	dynasty=1009990137
+	dna="dnkoppbpgmg"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=6
+	father=1019917046	#Kaujagonaygee
+	1190.8.2={ birth=yes }
+	1265.6.27={ death=yes }
+}
+1019917052={
+	name=Minequet
+	dynasty=1009990137
+	dna="hnjjhpfpbbm"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=6 learning=7
+	father=1019917046	#Kaujagonaygee
+	1195.8.15={ birth=yes }
+	1281.5.20={ death=yes }
+}
+1019917053={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990137
+	dna="knkcpjbmphg"
+	culture=anishinabe religion=algic_pagan
+	father=1019917051	#Kennewobe
+	1208.10.2={ birth=yes }
+	1261.7.6={ death=yes }
+}
+1019917054={
+	name=Kamenna
+	female=yes
+	dynasty=1009990137
+	dna="dkkopgbpomg"
+	culture=anishinabe religion=algic_pagan
+	father=1019917051	#Kennewobe
+	1213.12.14={ birth=yes }
+	1288.12.20={ death=yes }
+}
+1019917055={
+	name=Saguhosh
+	dynasty=1009990137
+	dna="fnkjcpgplag"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=7 learning=5
+	father=1019917051	#Kennewobe
+	1217.3.12={ birth=yes }
+	1301.3.24={ death=yes }
+}
+1019917056={
+	name=Amickoneena
+	dynasty=1009990137
+	dna="gbkoppbpckj"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=7 learning=5
+	father=1019917051	#Kennewobe
+	1222.9.20={ birth=yes }
+	1296.12.26={ death=yes }
+}
+1019917057={
+	name=Chimokemow
+	dynasty=1009990137
+	dna="dnedpbbpjok"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=5 learning=6
+	father=1019917051	#Kennewobe
+	1226.5.27={ birth=yes }
+	1297.11.12={ death=yes }
+}
+1019917058={
+	name=Mitena
+	female=yes
+	dynasty=1009990137
+	dna="fpkjcmoogea"
+	culture=anishinabe religion=algic_pagan
+	father=1019917055	#Saguhosh
+	1246.5.3={ birth=yes }
+	1311.6.20={ death=yes }
+}
+1019917059={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990137
+	dna="kokhccgcmmg"
+	culture=anishinabe religion=algic_pagan
+	father=1019917055	#Saguhosh
+	1253.7.21={ birth=yes }
+	1357.11.28={ death=yes }
+}
+1019917060={
+	name=Miigwaans
+	female=yes
+	dynasty=1009990137
+	dna="jgljcpddnag"
+	culture=anishinabe religion=algic_pagan
+	father=1019917055	#Saguhosh
+	1259.11.19={ birth=yes }
+	1345.4.4={ death=yes }
+}
+1019917061={
+	name=Markkenwuwbe
+	dynasty=1009990137
+	dna="oncjcpbpckg"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=4 learning=7
+	father=1019917055	#Saguhosh
+	1264.4.19={ birth=yes }
+	1332.2.20={ death=yes }
+}
+1019917062={
+	name=Muckcumcinau
+	dynasty=1009990137
+	dna="pbljigcjcjg"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=8
+	father=1019917061	#Markkenwuwbe
+	1292.10.3={ birth=yes }
+	1364.12.2={ death=yes }
+}
+1019917063={
+	name=Miigwaans
+	female=yes
+	dynasty=1009990137
+	dna="odhjcaohcod"
+	culture=anishinabe religion=algic_pagan
+	father=1019917061	#Markkenwuwbe
+	1296.6.21={ birth=yes }
+	1368.7.15={ death=yes }
+}
+1019917064={
+	name=Mitena
+	female=yes
+	dynasty=1009990137
+	dna="odelcpepokg"
+	culture=anishinabe religion=algic_pagan
+	father=1019917061	#Markkenwuwbe
+	1301.2.25={ birth=yes }
+	1355.1.29={ death=yes }
+}
+1019917065={
+	name=Kokoosh
+	dynasty=1009990137
+	dna="onljciadakg"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=5
+	father=1019917061	#Markkenwuwbe
+	1303.5.7={ birth=yes }
+	1369.4.17={ death=yes }
+}
+1019917066={
+	name=Sabo
+	dynasty=1009990137
+	dna="chcjclfdckg"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=4 learning=6
+	father=1019917061	#Markkenwuwbe
+	1308.7.23={ birth=yes }
+	1370.5.30={ death=yes }
+}
+1019917067={
+	name=Keneobe
+	dynasty=1009990137
+	dna="onpfcmaikhd"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	father=1019917061	#Markkenwuwbe
+	1314.4.21={ birth=yes }
+	1391.2.18={ death=yes }
+}
+1019917068={
+	name=Penaysewaykesek
+	dynasty=1009990137
+	dna="mnmmcpblcnm"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=5 learning=7
+	father=1019917061	#Markkenwuwbe
+	1316.10.11={ birth=yes }
+	1381.11.7={ death=yes }
+}
+1019917069={
+	name=Onewequa
+	dynasty=1009990137
+	dna="ccllegcocjg"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=4
+	father=1019917062	#Muckcumcinau
+	1324.12.14={ birth=yes }
+	1379.5.20={ death=yes }
+}
+1019917070={
+	name=Macquettequet
+	dynasty=1009990137
+	dna="kbldbgcjchg"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=4
+	father=1019917062	#Muckcumcinau
+	1327.9.16={ birth=yes }
+	1382.2.17={ death=yes }
+}
+1019917071={
+	name=Kamenna
+	female=yes
+	dynasty=1009990137
+	dna="imlbnkclcja"
+	culture=anishinabe religion=algic_pagan
+	father=1019917062	#Muckcumcinau
+	1332.4.12={ birth=yes }
+	1393.2.19={ death=yes }
+}
+1019917072={
+	name=Mooksonga
+	dynasty=1009990137
+	dna="pnleigcjgoa"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=8 learning=4
+	father=1019917062	#Muckcumcinau
+	1335.4.14={ birth=yes }
+	1418.10.17={ death=yes }
+}
+1019917073={
+	name=Autowaynabee
+	dynasty=1009990137
+	dna="ebnmimcjljj"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=6
+	father=1019917062	#Muckcumcinau
+	1341.3.13={ birth=yes }
+	1405.1.24={ death=yes }
+}
+1019917074={
+	name=Shimnanaquette
+	dynasty=1009990137
+	dna="ehnmegcogbg"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=5 learning=8
+	father=1019917069	#Onewequa
+	1347.6.20={ birth=yes }
+	1400.12.23={ death=yes }
+}
+1019917075={
+	name=Puckanese
+	dynasty=1009990137
+	dna="kcdldpcoedg"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=8 learning=7
+	father=1019917069	#Onewequa
+	1354.2.3={ birth=yes }
+	1437.9.5={ death=yes }
+}
+1019917076={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990137
+	dna="acllclcobjc"
+	culture=anishinabe religion=algic_pagan
+	father=1019917069	#Onewequa
+	1359.10.7={ birth=yes }
+	1396.6.22={ death=yes }
+}
+1019917077={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990137
+	dna="cclpebdlcmg"
+	culture=anishinabe religion=algic_pagan
+	father=1019917069	#Onewequa
+	1366.7.25={ birth=yes }
+	1447.9.5={ death=yes }
+}
+1019917078={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990137
+	dna="eaamegcbgma"
+	culture=anishinabe religion=algic_pagan
+	father=1019917074	#Shimnanaquette
+	1372.12.3={ birth=yes }
+	1433.7.31={ death=yes }
+}
+1019917079={
+	name=Ayasha
+	female=yes
+	dynasty=1009990137
+	dna="ehnmenchmeg"
+	culture=anishinabe religion=algic_pagan
+	father=1019917074	#Shimnanaquette
+	1379.12.21={ birth=yes }
+	1436.6.16={ death=yes }
+}
+1019917080={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990137
+	dna="emlmegcogkg"
+	culture=anishinabe religion=algic_pagan
+	father=1019917074	#Shimnanaquette
+	1384.3.20={ birth=yes }
+	1439.12.4={ death=yes }
+}
+1019917081={
+	name=Shashebak
+	dynasty=1009990137
+	dna="epjmelejgbg"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=7 learning=6
+	father=1019917074	#Shimnanaquette
+	1387.1.1={ birth=yes }
+	1442.3.22={ death=yes }
+}
+1019917082={
+	name=Kakagouryan
+	dynasty=1009990138
+	dna="hgdocicedin"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=4 learning=5
+	719.9.27={ birth=yes }
+	808.6.13={ death=yes }
+}
+1019917083={
+	name=Shingwalk
+	dynasty=1009990138
+	dna="epikaabjnin"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=5 learning=4
+	father=1019917082	#Kakagouryan
+	747.5.19={ birth=yes }
+	805.6.7={ death=yes }
+}
+1019917084={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990138
+	dna="hgddcegleic"
+	culture=anishinabe religion=algic_pagan
+	father=1019917082	#Kakagouryan
+	752.5.12={ birth=yes }
+	848.10.10={ death=yes }
+}
+1019917085={
+	name=Mitena
+	female=yes
+	dynasty=1009990138
+	dna="hjioclcedic"
+	culture=anishinabe religion=algic_pagan
+	father=1019917082	#Kakagouryan
+	758.4.6={ birth=yes }
+	827.5.21={ death=yes }
+}
+1019917086={
+	name=Zaagaasage
+	female=yes
+	dynasty=1009990138
+	dna="hghncacecik"
+	culture=anishinabe religion=algic_pagan
+	father=1019917082	#Kakagouryan
+	764.8.19={ birth=yes }
+	819.1.6={ death=yes }
+}
+1019917087={
+	name=Mixmunitou
+	dynasty=1009990138
+	dna="jocoafbnjjn"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=5 learning=7
+	father=1019917083	#Shingwalk
+	773.3.11={ birth=yes }
+	831.12.26={ death=yes }
+}
+1019917088={
+	name=Mesnakrea
+	dynasty=1009990138
+	dna="bpiaajcmjen"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=4
+	father=1019917083	#Shingwalk
+	776.2.17={ birth=yes }
+	848.7.25={ death=yes }
+}
+1019917089={
+	name=Kamenna
+	female=yes
+	dynasty=1009990138
+	dna="epieaabinim"
+	culture=anishinabe religion=algic_pagan
+	father=1019917083	#Shingwalk
+	780.8.14={ birth=yes }
+	840.10.13={ death=yes }
+}
+1019917090={
+	name=Kekenutchega
+	dynasty=1009990138
+	dna="eiamefbjnig"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=8 learning=5
+	father=1019917083	#Shingwalk
+	783.9.27={ birth=yes }
+	831.7.25={ death=yes }
+}
+1019917091={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990138
+	dna="aciaalbjnog"
+	culture=anishinabe religion=algic_pagan
+	father=1019917083	#Shingwalk
+	786.12.20={ birth=yes }
+	842.9.10={ death=yes }
+}
+1019917092={
+	name=Okemans
+	dynasty=1009990138
+	dna="bogogfgbjjp"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=8
+	father=1019917087	#Mixmunitou
+	806.6.15={ birth=yes }
+	875.12.8={ death=yes }
+}
+1019917093={
+	name=Neebeenaquin
+	dynasty=1009990138
+	dna="pocoapbadjn"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=6 learning=5
+	father=1019917087	#Mixmunitou
+	809.11.13={ birth=yes }
+	871.9.3={ death=yes }
+}
+1019917094={
+	name=Miigwaans
+	female=yes
+	dynasty=1009990138
+	dna="ddloanmmjjn"
+	culture=anishinabe religion=algic_pagan
+	father=1019917087	#Mixmunitou
+	816.8.15={ birth=yes }
+	891.8.20={ death=yes }
+}
+1019917095={
+	name=Minggeeseetay
+	dynasty=1009990138
+	dna="bocokfbndjk"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=4 learning=8
+	father=1019917087	#Mixmunitou
+	820.7.15={ birth=yes }
+	905.2.6={ death=yes }
+}
+1019917096={
+	name=Omikou
+	dynasty=1009990138
+	dna="nphogfgnfjp"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=5 learning=6
+	father=1019917092	#Okemans
+	833.4.23={ birth=yes }
+	898.4.1={ death=yes }
+}
+1019917097={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990138
+	dna="nogodddajjh"
+	culture=anishinabe religion=algic_pagan
+	father=1019917092	#Okemans
+	840.12.15={ birth=yes }
+	912.5.3={ death=yes }
+}
+1019917098={
+	name=Kitcheonundeeyo
+	dynasty=1009990138
+	dna="bdfogfgbjkd"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=5
+	father=1019917092	#Okemans
+	844.2.6={ birth=yes }
+	930.10.15={ death=yes }
+}
+1019917099={
+	name=Mayneeseno
+	dynasty=1009990138
+	dna="khgjgfdfmhf"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=8 learning=5
+	father=1019917092	#Okemans
+	848.7.15={ birth=yes }
+	903.6.12={ death=yes }
+}
+1019917100={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990138
+	dna="gllogoggfjp"
+	culture=anishinabe religion=algic_pagan
+	father=1019917096	#Omikou
+	860.7.23={ birth=yes }
+	931.4.25={ death=yes }
+}
+1019917101={
+	name=Shimnanaquette
+	dynasty=1009990138
+	dna="adhgdfgpfjp"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=6
+	father=1019917096	#Omikou
+	866.12.24={ birth=yes }
+	945.7.30={ death=yes }
+}
+1019917102={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990138
+	dna="nmipifgnfjp"
+	culture=anishinabe religion=algic_pagan
+	father=1019917096	#Omikou
+	871.1.14={ birth=yes }
+	938.4.10={ death=yes }
+}
+1019917103={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990138
+	dna="jphbgckniop"
+	culture=anishinabe religion=algic_pagan
+	father=1019917096	#Omikou
+	873.3.12={ birth=yes }
+	953.7.23={ death=yes }
+}
+1019917104={
+	name=Kekenutchega
+	dynasty=1009990138
+	dna="oppogfmdfjc"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	father=1019917096	#Omikou
+	879.2.14={ birth=yes }
+	934.7.13={ death=yes }
+}
+1019917105={
+	name=Macquettequet
+	dynasty=1009990138
+	dna="djeadmjpfjf"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=5 learning=8
+	father=1019917101	#Shimnanaquette
+	896.9.1={ birth=yes }
+	978.4.16={ death=yes }
+}
+1019917106={
+	name=Moksauba
+	dynasty=1009990138
+	dna="ahlmnfldljc"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=8
+	father=1019917101	#Shimnanaquette
+	900.5.8={ birth=yes }
+	1003.10.6={ death=yes }
+}
+1019917107={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990138
+	dna="adcenfgpfhb"
+	culture=anishinabe religion=algic_pagan
+	father=1019917101	#Shimnanaquette
+	902.7.22={ birth=yes }
+	969.7.23={ death=yes }
+}
+1019917108={
+	name=Kekenutchegun
+	dynasty=1009990138
+	dna="mjemddcpkjp"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=7 learning=4
+	father=1019917105	#Macquettequet
+	926.4.3={ birth=yes }
+	1011.4.25={ death=yes }
+}
+1019917109={
+	name=Shaconk
+	dynasty=1009990138
+	dna="hjedegjpfcg"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=5 learning=7
+	father=1019917105	#Macquettequet
+	932.11.24={ birth=yes }
+	997.7.22={ death=yes }
+}
+1019917110={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990138
+	dna="dbeapmnffgf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917105	#Macquettequet
+	937.4.8={ birth=yes }
+	1014.2.28={ death=yes }
+}
+1019917111={
+	name=Shashebak
+	dynasty=1009990138
+	dna="mjehddgpeap"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=8 learning=7
+	father=1019917108	#Kekenutchegun
+	944.9.1={ birth=yes }
+	1038.9.24={ death=yes }
+}
+1019917112={
+	name=Macquettequet
+	dynasty=1009990138
+	dna="mkemgnpkkkp"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	father=1019917108	#Kekenutchegun
+	949.8.23={ birth=yes }
+	1014.11.23={ death=yes }
+}
+1019917113={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990138
+	dna="pjemhdadkjp"
+	culture=anishinabe religion=algic_pagan
+	father=1019917108	#Kekenutchegun
+	954.1.10={ birth=yes }
+	1018.10.17={ death=yes }
+}
+1019917114={
+	name=Ayasha
+	female=yes
+	dynasty=1009990138
+	dna="fjhglecloll"
+	culture=anishinabe religion=algic_pagan
+	father=1019917108	#Kekenutchegun
+	957.9.3={ birth=yes }
+	1033.6.22={ death=yes }
+}
+1019917115={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990138
+	dna="pfeoiffpkja"
+	culture=anishinabe religion=algic_pagan
+	father=1019917108	#Kekenutchegun
+	963.9.12={ birth=yes }
+	1034.8.7={ death=yes }
+}
+1019917116={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990138
+	dna="mjdkddgpenl"
+	culture=anishinabe religion=algic_pagan
+	father=1019917111	#Shashebak
+	968.9.2={ birth=yes }
+	1027.8.4={ death=yes }
+}
+1019917117={
+	name=Waubishcan
+	dynasty=1009990138
+	dna="eepbdehpaap"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	father=1019917111	#Shashebak
+	973.10.3={ birth=yes }
+	1059.12.26={ death=yes }
+}
+1019917118={
+	name=Shashebak
+	dynasty=1009990138
+	dna="pjhhodmpfap"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=7 learning=5
+	father=1019917111	#Shashebak
+	978.1.1={ birth=yes }
+	1035.9.9={ death=yes }
+}
+1019917119={
+	name=Ayasha
+	female=yes
+	dynasty=1009990138
+	dna="kjehdcgabap"
+	culture=anishinabe religion=algic_pagan
+	father=1019917111	#Shashebak
+	985.2.26={ birth=yes }
+	1066.6.29={ death=yes }
+}
+1019917120={
+	name=Wepecumgegut
+	dynasty=1009990138
+	dna="eejbdehpndp"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=7
+	father=1019917117	#Waubishcan
+	1000.2.7={ birth=yes }
+	1065.7.7={ death=yes }
+}
+1019917121={
+	name=Otauson
+	dynasty=1009990138
+	dna="befbdehnaap"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=7
+	father=1019917117	#Waubishcan
+	1005.2.18={ birth=yes }
+	1093.1.15={ death=yes }
+}
+1019917122={
+	name=Kamenna
+	female=yes
+	dynasty=1009990138
+	dna="feogheipcap"
+	culture=anishinabe religion=algic_pagan
+	father=1019917117	#Waubishcan
+	1010.8.5={ birth=yes }
+	1081.1.8={ death=yes }
+}
+1019917123={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990138
+	dna="eepodejpaab"
+	culture=anishinabe religion=algic_pagan
+	father=1019917117	#Waubishcan
+	1015.7.2={ birth=yes }
+	1101.3.19={ death=yes }
+}
+1019917124={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990138
+	dna="cojeljhpnll"
+	culture=anishinabe religion=algic_pagan
+	father=1019917120	#Wepecumgegut
+	1027.8.10={ birth=yes }
+	1094.4.11={ death=yes }
+}
+1019917125={
+	name=Puckwash
+	dynasty=1009990138
+	dna="eeaodehmnnp"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=8 learning=7
+	father=1019917120	#Wepecumgegut
+	1031.10.5={ birth=yes }
+	1095.2.14={ death=yes }
+}
+1019917126={
+	name=Kamenna
+	female=yes
+	dynasty=1009990138
+	dna="nejfdefanog"
+	culture=anishinabe religion=algic_pagan
+	father=1019917120	#Wepecumgegut
+	1036.8.5={ birth=yes }
+	1117.12.17={ death=yes }
+}
+1019917127={
+	name=Mitena
+	female=yes
+	dynasty=1009990138
+	dna="eopahdjgndh"
+	culture=anishinabe religion=algic_pagan
+	father=1019917120	#Wepecumgegut
+	1039.10.14={ birth=yes }
+	1101.11.4={ death=yes }
+}
+1019917128={
+	name=Kishkaukou
+	dynasty=1009990138
+	dna="edkkdehpmdp"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=8 learning=6
+	father=1019917120	#Wepecumgegut
+	1043.3.1={ birth=yes }
+	1110.9.20={ death=yes }
+}
+1019917129={
+	name=Wepecumgegut
+	dynasty=1009990138
+	dna="ebaenfhcfjp"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	father=1019917125	#Puckwash
+	1054.12.14={ birth=yes }
+	1133.4.17={ death=yes }
+}
+1019917130={
+	name=Kamenna
+	female=yes
+	dynasty=1009990138
+	dna="goeidelmmnp"
+	culture=anishinabe religion=algic_pagan
+	father=1019917125	#Puckwash
+	1058.8.4={ birth=yes }
+	1117.11.20={ death=yes }
+}
+1019917131={
+	name=Miigwaans
+	female=yes
+	dynasty=1009990138
+	dna="eeanoeafcnp"
+	culture=anishinabe religion=algic_pagan
+	father=1019917125	#Puckwash
+	1065.12.3={ birth=yes }
+	1127.7.12={ death=yes }
+}
+1019917132={
+	name=Minequet
+	dynasty=1009990138
+	dna="pbgekfbcfje"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=4 learning=8
+	father=1019917129	#Wepecumgegut
+	1084.3.19={ birth=yes }
+	1166.9.12={ death=yes }
+}
+1019917133={
+	name=Kamenna
+	female=yes
+	dynasty=1009990138
+	dna="npaaniechjd"
+	culture=anishinabe religion=algic_pagan
+	father=1019917129	#Wepecumgegut
+	1091.2.13={ birth=yes }
+	1156.4.16={ death=yes }
+}
+1019917134={
+	name=Mawmawkens
+	dynasty=1009990138
+	dna="nclehfjjfjf"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=5 learning=4
+	father=1019917129	#Wepecumgegut
+	1099.10.11={ birth=yes }
+	1173.4.17={ death=yes }
+}
+1019917135={
+	name=Ogeebouinse
+	dynasty=1009990138
+	dna="plgfkfknmje"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=8 learning=6
+	father=1019917132	#Minequet
+	1114.11.2={ birth=yes }
+	1193.5.11={ death=yes }
+}
+1019917136={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990138
+	dna="gbpokhncile"
+	culture=anishinabe religion=algic_pagan
+	father=1019917132	#Minequet
+	1120.8.13={ birth=yes }
+	1176.7.18={ death=yes }
+}
+1019917137={
+	name=Miigwaans
+	female=yes
+	dynasty=1009990138
+	dna="olgeffbaflf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917132	#Minequet
+	1124.1.14={ birth=yes }
+	1209.2.15={ death=yes }
+}
+1019917138={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990138
+	dna="lbnjkfngfje"
+	culture=anishinabe religion=algic_pagan
+	father=1019917132	#Minequet
+	1130.12.4={ birth=yes }
+	1188.2.9={ death=yes }
+}
+1019917139={
+	name=Ayasha
+	female=yes
+	dynasty=1009990138
+	dna="ibgjgdkcfje"
+	culture=anishinabe religion=algic_pagan
+	father=1019917132	#Minequet
+	1134.9.9={ birth=yes }
+	1220.3.6={ death=yes }
+}
+1019917140={
+	name=Kakagouryan
+	dynasty=1009990138
+	dna="oiopgngimje"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=6 learning=8
+	father=1019917135	#Ogeebouinse
+	1142.2.2={ birth=yes }
+	1200.10.23={ death=yes }
+}
+1019917141={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990138
+	dna="pbiflgliaje"
+	culture=anishinabe religion=algic_pagan
+	father=1019917135	#Ogeebouinse
+	1147.12.10={ birth=yes }
+	1224.4.4={ death=yes }
+}
+1019917142={
+	name=Tussegua
+	dynasty=1009990138
+	dna="pjgmkmhnpje"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=5 learning=5
+	father=1019917135	#Ogeebouinse
+	1154.9.15={ birth=yes }
+	1226.10.26={ death=yes }
+}
+1019917143={
+	name=Aguagonabe
+	dynasty=1009990138
+	dna="eiopcngimje"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=8 learning=7
+	father=1019917140	#Kakagouryan
+	1167.5.22={ birth=yes }
+	1253.6.19={ death=yes }
+}
+1019917144={
+	name=Nawgonisee
+	dynasty=1009990138
+	dna="onapgbpdmje"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=4 learning=6
+	father=1019917140	#Kakagouryan
+	1171.10.4={ birth=yes }
+	1246.12.5={ death=yes }
+}
+1019917145={
+	name=Zaagaasage
+	female=yes
+	dynasty=1009990138
+	dna="lmommnjaljf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917140	#Kakagouryan
+	1175.7.23={ birth=yes }
+	1247.6.20={ death=yes }
+}
+1019917146={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990138
+	dna="edopbnggmje"
+	culture=anishinabe religion=algic_pagan
+	father=1019917143	#Aguagonabe
+	1194.10.13={ birth=yes }
+	1268.5.17={ death=yes }
+}
+1019917147={
+	name=Minequet
+	dynasty=1009990138
+	dna="edobimmcmpp"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	father=1019917143	#Aguagonabe
+	1198.6.2={ birth=yes }
+	1277.4.14={ death=yes }
+}
+1019917148={
+	name=Shimnanaquette
+	dynasty=1009990138
+	dna="edaaimmelpf"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=5 learning=8
+	father=1019917147	#Minequet
+	1229.7.9={ birth=yes }
+	1302.9.10={ death=yes }
+}
+1019917149={
+	name=Onewequa
+	dynasty=1009990138
+	dna="biokijpemkp"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=8
+	father=1019917147	#Minequet
+	1233.6.5={ birth=yes }
+	1312.6.30={ death=yes }
+}
+1019917150={
+	name=Waubishcan
+	dynasty=1009990138
+	dna="edibifpnigp"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=4 learning=6
+	father=1019917147	#Minequet
+	1238.4.15={ birth=yes }
+	1301.7.8={ death=yes }
+}
+1019917151={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990138
+	dna="jdobbmapogp"
+	culture=anishinabe religion=algic_pagan
+	father=1019917147	#Minequet
+	1241.9.20={ birth=yes }
+	1325.1.18={ death=yes }
+}
+1019917152={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990138
+	dna="edohcmmcmpo"
+	culture=anishinabe religion=algic_pagan
+	father=1019917147	#Minequet
+	1246.9.1={ birth=yes }
+	1300.3.27={ death=yes }
+}
+1019917153={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990138
+	dna="edobimicpdj"
+	culture=anishinabe religion=algic_pagan
+	father=1019917147	#Minequet
+	1250.11.3={ birth=yes }
+	1317.8.31={ death=yes }
+}
+1019917154={
+	name=Nemetetowwa
+	dynasty=1009990138
+	dna="eccbilmbmme"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	father=1019917147	#Minequet
+	1252.4.26={ birth=yes }
+	1336.6.17={ death=yes }
+}
+1019917155={
+	name=Sigonak
+	dynasty=1009990138
+	dna="dfaniihebff"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	father=1019917148	#Shimnanaquette
+	1256.6.24={ birth=yes }
+	1331.6.21={ death=yes }
+}
+1019917156={
+	name=Kitchewawashen
+	dynasty=1009990138
+	dna="eddahhlelph"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=7 learning=7
+	father=1019917148	#Shimnanaquette
+	1261.5.14={ birth=yes }
+	1338.9.7={ death=yes }
+}
+1019917157={
+	name=Kekenutchegun
+	dynasty=1009990138
+	dna="edlliimeang"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=4
+	father=1019917148	#Shimnanaquette
+	1264.12.15={ birth=yes }
+	1348.2.20={ death=yes }
+}
+1019917158={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990138
+	dna="dlankmmoldf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917148	#Shimnanaquette
+	1267.6.14={ birth=yes }
+	1332.10.24={ death=yes }
+}
+1019917159={
+	name=Mitena
+	female=yes
+	dynasty=1009990138
+	dna="bmlhhlbhipf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917148	#Shimnanaquette
+	1271.4.1={ birth=yes }
+	1340.7.14={ death=yes }
+}
+1019917160={
+	name=Ayasha
+	female=yes
+	dynasty=1009990138
+	dna="edapcegicpf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917148	#Shimnanaquette
+	1275.7.1={ birth=yes }
+	1338.9.14={ death=yes }
+}
+1019917161={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990138
+	dna="eedaikmilmf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917148	#Shimnanaquette
+	1278.5.22={ birth=yes }
+	1365.3.7={ death=yes }
+}
+1019917162={
+	name=Kogkakeshik
+	dynasty=1009990138
+	dna="dfaniamedff"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	father=1019917155	#Sigonak
+	1282.11.5={ birth=yes }
+	1362.3.31={ death=yes }
+}
+1019917163={
+	name=Misheneanonquet
+	dynasty=1009990138
+	dna="dfanfidekoc"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	father=1019917155	#Sigonak
+	1285.1.14={ birth=yes }
+	1345.8.23={ death=yes }
+}
+1019917164={
+	name=Neebeenaquin
+	dynasty=1009990138
+	dna="dfkniinekfd"
+	culture=anishinabe religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=8
+	father=1019917155	#Sigonak
+	1289.1.26={ birth=yes }
+	1351.2.23={ death=yes }
+}
+1019917165={
+	name=Kamenna
+	female=yes
+	dynasty=1009990138
+	dna="dpapechbedf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917155	#Sigonak
+	1296.3.14={ birth=yes }
+	1355.12.27={ death=yes }
+}
+1019917166={
+	name=Metewa
+	dynasty=1009990138
+	dna="ofapljmbiff"
+	culture=anishinabe religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	father=1019917162	#Kogkakeshik
+	1304.10.2={ birth=yes }
+	1383.7.20={ death=yes }
+}
+1019917167={
+	name=Wiingashk
+	female=yes
+	dynasty=1009990138
+	dna="djbnejmedff"
+	culture=anishinabe religion=algic_pagan
+	father=1019917162	#Kogkakeshik
+	1310.4.18={ birth=yes }
+	1369.1.30={ death=yes }
+}
+1019917168={
+	name=Walkcaykeejugo
+	dynasty=1009990138
+	dna="pfapgjahidf"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=8 learning=8
+	father=1019917166	#Metewa
+	1325.5.13={ birth=yes }
+	1389.1.15={ death=yes }
+}
+1019917169={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990138
+	dna="afgfjlmhgfo"
+	culture=anishinabe religion=algic_pagan
+	father=1019917166	#Metewa
+	1329.8.14={ birth=yes }
+	1395.9.3={ death=yes }
+}
+1019917170={
+	name=Kamenna
+	female=yes
+	dynasty=1009990138
+	dna="fcapmbmbbff"
+	culture=anishinabe religion=algic_pagan
+	father=1019917166	#Metewa
+	1334.10.2={ birth=yes }
+	1395.2.13={ death=yes }
+}
+1019917171={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990138
+	dna="ogpnhjmddei"
+	culture=anishinabe religion=algic_pagan
+	father=1019917166	#Metewa
+	1338.8.15={ birth=yes }
+	1391.9.5={ death=yes }
+}
+1019917172={
+	name=Aazhawiggizhigokwe
+	female=yes
+	dynasty=1009990138
+	dna="ofjpbjjbifn"
+	culture=anishinabe religion=algic_pagan
+	father=1019917166	#Metewa
+	1341.8.5={ birth=yes }
+	1424.3.25={ death=yes }
+}
+1019917173={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990138
+	dna="ocfpljlfkff"
+	culture=anishinabe religion=algic_pagan
+	father=1019917166	#Metewa
+	1345.8.1={ birth=yes }
+	1396.10.5={ death=yes }
+}
+1019917174={
+	name=Nawgonisee
+	dynasty=1009990138
+	dna="iodpfhmbidf"
+	culture=anishinabe religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=5 learning=4
+	father=1019917166	#Metewa
+	1351.4.25={ birth=yes }
+	1430.10.27={ death=yes }
+}
+1019917175={
+	name=Shimnanaquette
+	dynasty=1009990138
+	dna="pnopeoahidf"
+	culture=anishinabe religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	father=1019917168	#Walkcaykeejugo
+	1354.3.20={ birth=yes }
+	1429.2.21={ death=yes }
+}
+1019917176={
+	name=Shingwalk
+	dynasty=1009990138
+	dna="mnapgjfhidf"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=8 learning=4
+	father=1019917168	#Walkcaykeejugo
+	1357.11.7={ birth=yes }
+	1412.4.5={ death=yes }
+}
+1019917177={
+	name=Miigwaans
+	female=yes
+	dynasty=1009990138
+	dna="nbapdjomcdf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917168	#Walkcaykeejugo
+	1362.12.14={ birth=yes }
+	1427.5.2={ death=yes }
+}
+1019917178={
+	name=Kiiwedin
+	female=yes
+	dynasty=1009990138
+	dna="pcgpdhahehf"
+	culture=anishinabe religion=algic_pagan
+	father=1019917168	#Walkcaykeejugo
+	1368.10.10={ birth=yes }
+	1467.1.10={ death=yes }
+}
+1019917179={
+	name=Waawaaskwane
+	female=yes
+	dynasty=1009990138
+	dna="pcahejfibje"
+	culture=anishinabe religion=algic_pagan
+	father=1019917168	#Walkcaykeejugo
+	1373.12.13={ birth=yes }
+	1426.12.16={ death=yes }
+}
+1019917180={
+	name=Keezheekoni
+	female=yes
+	dynasty=1009990138
+	dna="knolfoamijj"
+	culture=anishinabe religion=algic_pagan
+	father=1019917175	#Shimnanaquette
+	1374.4.16={ birth=yes }
+	1437.7.24={ death=yes }
+}
+1019917181={
+	name=Kitsheematush
+	dynasty=1009990138
+	dna="lnojgbahidb"
+	culture=anishinabe religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=6 learning=7
+	father=1019917175	#Shimnanaquette
+	1377.12.22={ birth=yes }
+	1464.11.26={ death=yes }
+}

@@ -1,0 +1,21 @@
+# 1587 - Khundzia
+
+# County Title
+title = c_khundzia
+
+# Settlements
+max_settlements = 4
+b_khunzakh = castle
+b_tanusi = city
+b_andi = temple
+#b_chokh
+#b_tsurib
+#b_siukh
+
+# Misc
+culture = dagestani
+religion = raism_pagan
+
+# History
+1315.1.1 = { religion = sunni }
+

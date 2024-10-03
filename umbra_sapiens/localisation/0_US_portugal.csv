@@ -1,0 +1,556 @@
+EVTNAMEportugalevents.1;The Portuguese Reconquista over!;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.1;At long last we have finnished reclaiming what is rightfully ours! Despite conflicting interests with our christian brothers and fierce resistance offered by the muslim hosts we have prevailed.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.1;Arraial! Arraial in the name of the King of Portugal!;;;;;;;;;;;;;x
+pinhal_de_leiria;Pinhal de Leiria;;;;;;;;;;;;;x
+pinhal_de_leiria_desc;Inicially a bullwark against the desertification of the litoral the Pinhal de Leiria or Pine Forest of Leiria became the main source of wood for the vessels that departed towards the unknown for hundreds of years to follow. This artificial forest has sadly partly burnt down in recent years do to frequent fires.;;;;;;;;;;;;;x
+tordesilhas_portugal;Colonial Conquest;;;;;;;;;;;;;x
+tordesilhas_spain;Colonial Conquest;;;;;;;;;;;;;x
+CB_NAME_TORDESILHASPT;Colonial Conquest of [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_TORDESILHASPT;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Colonial Conquest of [Title.GetBaseName];;;;;;;;;;;;;x
+tordesilhas_portugal_desc;In accordance with the Treaty of Tordesilhas we have the right and holy duty to subdue these heathens in the name of Jesus Christ for the dilation of the Catholic Church and redemption of mankind.;;;;;;;;;;;;;x
+CB_NAME_TORDESILHASSP;Colonial Conquest of [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_TORDESILHASSP;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Colonial Conquest of [Title.GetBaseName];;;;;;;;;;;;;x
+tordesilhas_spain_desc;In accordance with the Treaty of Tordesilhas we have the right and holy duty to subdue these heathens in the name of Jesus Christ for the dilation of the Catholic Church and redemption of mankind.;;;;;;;;;;;;;x
+CB_NAME_COLONIAL;Colonial Conquest of [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_COLONIAL;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Colonial Conquest of [Title.GetBaseName];;;;;;;;;;;;;x
+colonial_desc;Paradise lays open for the taking it is up to us to carve out our own slice.;;;;;;;;;;;;;x
+organize_university_coimbra;Organize the University of Coimbra;;;;;;;;;;;;;x
+organize_university_coimbra_desc;If we are to aspire to spreading the light of civilization across the world and project power over the world then we should start by establishing a center of learning capable of preparing portuguese intelectuals for the endeavour to come.;;;;;;;;;;;;;x
+stealing_colonies;That's a nice colony you got going there. It would be a shame if something happened to it...;;;;;;;;;;;;;x
+CB_NAME_STEALING;Colonial Invasion of [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_STEALING;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Invasion of [Title.GetBaseName];;;;;;;;;;;;;x
+wonder_coimbra;University of Coimbra;;;;;;;;;;;;;x
+wonder_coimbra_desc;One of the oldest universities in Europe it was founded by King Dinis the Farmer and played an instrumental role in the education of the portuguese speaking world for centuries.;;;;;;;;;;;;;x
+EVTNAMEportugalevents.2;Settlement of the Islands of Madeira and Porto Santo;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.2;The Islands of Madeira and Porto Santo have been settled. There is reason to believe that the islands might have been known before but more substantial than idle speculation is the promisse of vast high quality sugar yields.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.2;Maybe one day we can grow really small bananas ferment terrible wine there;;;;;;;;;;;;;x
+EVTNAMEportugalevents.3;Settlement of the Islands of Cape Verde;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.3;The islands of Cape Verde are arid and desolate but with proper efforts we could turn them into productive sugar cane plantations. Besides they have an excelent position to control the slave trade and provide safe haven to our ships.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.3;Navegar, navegar;;;;;;;;;;;;;x
+EVTNAMEportugalevents.4;Settlement of the Islands of the Azores;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.4;An optimal stop on the way to the Codfish fishing areas the Azores boast vulcanic stone, vast fields for grazing cattle and warm water springs.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.4;Maybe one day there will be more cows than people;;;;;;;;;;;;;x
+EVTNAMEportugalevents.5;Settlement of the Islands of São Tomé, Prince and Fernando Pó;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.5;These Islands' soil is second to none for sugar cane production, plus manpower from the african mainland can be easily procured all while being easy to defend from the natives.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.5;I bet India is just around the next cape;;;;;;;;;;;;;x
+EVTNAMEportugalevents.6;Settlement of the Islands of Cape Verde;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.6;The islands of Cape Verde are arid and desolate but with proper efforts we could turn them into productive sugar cane plantations. Besides they have an excelent position to control the slave trade and provide safe haven to our ships.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.6;Navegar, navegar;;;;;;;;;;;;;x
+EVTNAMEportugalevents.7;Settlement of the Island of Mozambique;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.7;A fortified position has been established on the island of Mozambique from which to expand into the rich hearthlands and search for the source of Gold.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.7;There are a awful lot of muslims here;;;;;;;;;;;;;x
+EVTNAMEportugalevents.8;The Conquest of Oman;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.8;The Vice-King of the Indies has subdued the heathens of Oman in an attempt to halt the flow of spice throw Egypt thus raising the prices in Venice.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.8;The spice must flow to Lisboa;;;;;;;;;;;;;x
+EVTNAMEportugalevents.9;The Conquest of Goa;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.9;At the request of hindu allies the Vice-King of India has undergone the conquest of Goa. The name of Portugal and the ruf of its canonry echoes all over Asia.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.9;Another defeat for heathenry;;;;;;;;;;;;;x
+EVTNAMEportugalevents.10;The Conquest of Diu;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.10;The island of Diu was finally overtaken by Portuguese forces. Efforts to build an imposing fortress are underway.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.10;Portugal grows larger...;;;;;;;;;;;;;x
+EVTNAMEportugalevents.11;Daman was offered to Portugal;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.11;The city of Daman has been offered to Portugal by the King of Gujarat, who would seak protection from islamic forces.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.11;He Protec but He Also Attac;;;;;;;;;;;;;x
+EVTNAMEportugalevents.12;The Conquest of Malaca;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.12;Famous and coveted for its decisive position on the strait, Malaca is now firmly in the hands of the Vice-King of the Indies.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.12;Malaca Malaca, a guerra é a guerra;;;;;;;;;;;;;x
+EVTNAMEportugalevents.13;Conquest of the Island of Hormuz;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.13;Recent efforts have proven sucessfull in wrestling control over the Island of Hormuz from the islamic forces.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.13;All for the spice;;;;;;;;;;;;;x
+EVTNAMEportugalevents.14;Settlement of Ceylon;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.14;Ceylon is a populous island and might be a difficult target for conquest, however it offers huge proffits in cinnamon trade.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.14;Tastes like Christmas;;;;;;;;;;;;;x
+EVTNAMEportugalevents.15;The city of Macau was ceded to Portugal;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.15;The celestial emperor has ceded the city of Macau to the Vice-King of the Indies in order to facilitate trade with the west.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.15;I wonder if they have more of this black dust;;;;;;;;;;;;;x
+EVTNAMEportugalevents.16;Portuguese fort on the Molucas;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.16;The general location of the origin of cloves has been common knownledge for a while but it is only now that the Portuguese have built a fortress on the clove rich island of Ternate.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.16;Thats rich...;;;;;;;;;;;;;x
+EVTNAMEportugalevents.17;The settling of Timor;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.17;Timor has been settled by Portuguese colonists, not much is know about the origions of this colony but we do know that they are rich in cloves and would prove fiercly portuguese against all invaders.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.17;Rai timor lorosae;;;;;;;;;;;;;x
+EVTNAMEportugalevents.18;Settlement of Luanda;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.18;Luanda has been choosen has the place to start the first Portuguese settlement in the lands of Angola.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.18;Angola is ours;;;;;;;;;;;;;x
+EVTNAMEportugalevents.19;The colonization of Brazil;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.19;The coasts of Brazil have been for some time now target of treecuting developments. Now is the time to divide the land in capitancies like we are now used to do and turn it into a constituent part of our empire.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.19;I have heard they are very ... welcoming to sailors;;;;;;;;;;;;;x
+EVTNAMEportugalevents.20;Discovery of Fernando de Noronha;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.20;The small island of Fernando de Noronha, named after the man who likely discovered it, might not be a very profitable venture but maybe we should prevent it from falling into the wrong hands?;;;;;;;;;;;;;x
+EVTOPTAportugalevents.20;I am sure we can turn it into a vacation spot for rich folks in the future;;;;;;;;;;;;;x
+EVTNAMEportugalevents.21;Factory of Nagazaki;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.21;A portuguese factory has been established in the hermit kingdom of Japan.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.21;The end of the earth;;;;;;;;;;;;;x
+EVTNAMEportugalevents.22;Bissau Settled;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.22;The land of Bissau has been settled by the Portuguese in their search for slaves, gold and ivory;;;;;;;;;;;;;x
+EVTOPTAportugalevents.22;The geography might prove difficult to defend in the distant future;;;;;;;;;;;;;x
+EVTNAMEportugalevents.23;Bombay ceded to Portugal;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.23;Bombay has been ceded to the Kingdom of Portugal through treaty with the local government;;;;;;;;;;;;;x
+EVTOPTAportugalevents.23;Spicy;;;;;;;;;;;;;x
+EVTNAMEportugalevents.24;Founding of Forcados;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.24;Forcados was one of the greatest slave wharfs in all of Africa and served as the center of portuguese-warri contact.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.24;I am sure this will not look bad in history books;;;;;;;;;;;;;x
+EVTNAMEportugalevents.25;Fort of Saint John the Baptist of Ajuda;;;;;;;;;;;;;x
+EVTDESCportugaleventsR.25;Looks tiny. Hopefully the fort is not forgotten in modernity.;;;;;;;;;;;;;x
+EVTOPTAportugalevents.25;The more you own the better;;;;;;;;;;;;;x
+EVTNAMEdanishevents.1;Danish Tranquebar;;;;;;;;;;;;;x
+EVTDESCdanisheventsR.1;The Danish have established dominion over their portion of India;;;;;;;;;;;;;x
+EVTOPTAdanishevents.1;Spicy;;;;;;;;;;;;;x
+EVTNAMEdanishevents.2;Danish Africa;;;;;;;;;;;;;x
+EVTDESCdanisheventsR.2;The Danish are as capable of enslaving africans as any of the major powers!;;;;;;;;;;;;;x
+EVTOPTAdanishevents.2;Competition is good for the market;;;;;;;;;;;;;x
+EVTNAMEhrecolonialevents.1;Klein-Venedig;;;;;;;;;;;;;x
+EVTDESChrecolonialeventsR.1;The german free cities of Nurnberg and Augsburg were granted the right to colonize Venezuela by the Spanish emperor in his attempt to become emperor.;;;;;;;;;;;;;x
+EVTOPTAhrecolonialevents.1;In Honolulu...;;;;;;;;;;;;;x
+EVTNAMEitalianevents.1;Thornton expedition;;;;;;;;;;;;;x
+EVTDESCitalianeventsR.1;Captain Robert Thornton was charged by the Tuscan prince to set sail to America and claim his own piece for the Italian state;;;;;;;;;;;;;x
+EVTOPTAitalianevents.1;Faccetta Negra, bella guyana;;;;;;;;;;;;;x
+EVTNAMEcourlandevents.1;Curonian Africa;;;;;;;;;;;;;x
+EVTDESCcourlandeventsR.1;The curonians have built a settlement in the western coast of Africa;;;;;;;;;;;;;x
+EVTOPTAcourlandevents.1;Sounds plausible;;;;;;;;;;;;;x
+EVTNAMEspainevents.1;Expedition reaches Hispaniola;;;;;;;;;;;;;x
+EVTDESCspaineventsR.1;Hispaniola has been reached by Cristopher Columbus and his magestic fleet. The settlers desimbark by the hundreds and make themselves at home.;;;;;;;;;;;;;x
+EVTOPTAspainevents.1;I heard some of them are quite literaly losing their heads;;;;;;;;;;;;;x
+EVTNAMEspainevents.2;Settlement of Puerto Rico;;;;;;;;;;;;;x
+EVTDESCspaineventsR.2;Another island has been claimed by the Catholic Kings, it seems their colony is triving.;;;;;;;;;;;;;x
+EVTOPTAspainevents.2;Rumour has it has the shape of a square;;;;;;;;;;;;;x
+EVTNAMEspainevents.3;Conquest of Cuba;;;;;;;;;;;;;x
+EVTDESCspaineventsR.3;The island of Cuba has been conquered by force from the natives who offered some resistance. It would seem like nothing can stand in the way of the search for Gold and free labour.;;;;;;;;;;;;;x
+EVTOPTAspainevents.3;God's work is being done;;;;;;;;;;;;;x
+EVTNAMEspainevents.4;Settlement of Jamaica;;;;;;;;;;;;;x
+EVTDESCspaineventsR.4;The island of Jamaica is now part of the Spanish Empire. The pioners move in search of more handy natives.;;;;;;;;;;;;;x
+EVTOPTAspainevents.4;Wa gwaan;;;;;;;;;;;;;x
+EVTNAMEspainevents.5;Conquest of the Philippines;;;;;;;;;;;;;x
+EVTDESCspaineventsR.5;The Spanish crown has had ambitions on the spice islands since the origin of the cloves was found to be there. The time to settle the lands discovered by Magellan has come.;;;;;;;;;;;;;x
+EVTOPTAspainevents.5;Off to the spice islands;;;;;;;;;;;;;x
+EVTNAMEspainevents.6;Strangers from across the great sea;;;;;;;;;;;;;x
+EVTDESCspaineventsR.6;Men of strange complexion have como to you seaking audiance and promissing friendship. They tell of a powerfull King of Spain that could prove a great ally and of a saviour that died on the Cross for the sins of mankind.;;;;;;;;;;;;;x
+EVTOPTAspainevents.6;They seem like friendly people!;;;;;;;;;;;;;x
+EVTOPTBspainevents.6;The strangers must leave;;;;;;;;;;;;;x
+EVTNAMEspainevents.7;The conquest of [ROOT.GetBaseName];;;;;;;;;;;;;x
+EVTDESCspaineventsR.7;A Spanish Conquistador as instaled himself as the ruler of a newly discovered civilization in the New World vouching fidelity to the King of Spain;;;;;;;;;;;;;x
+EVTOPTAspainevents.7;How do you define civilization?;;;;;;;;;;;;;x
+EVTNAMEspainevents.8;Expedition Lost;;;;;;;;;;;;;x
+EVTDESCspaineventsR.8;Our expedition was lost somewhere in the wilderness, they might have been eaten by cannibals or sacrificed to pagan gods. What we can be sure of is, they are not coming back.;;;;;;;;;;;;;x
+EVTOPTAspainevents.8;A terrible fate;;;;;;;;;;;;;x
+EVTNAMEspainevents.9;Settlement of Florida;;;;;;;;;;;;;x
+EVTDESCspaineventsR.9;The peninsula of Florida has been settled by the spanish crown;;;;;;;;;;;;;x
+EVTOPTAspainevents.9;Hurricanes, alligators, hostile natives... Sounds great;;;;;;;;;;;;;x
+EVTNAMEspainevents.10;Spanish Equatorial Africa;;;;;;;;;;;;;x
+EVTDESCspaineventsR.10;Portugal ceded the right to colonize Africa to Spain in an attempt to settle diplomaticly the border conflicts betwen Argentina and Brazil.;;;;;;;;;;;;;x
+EVTOPTAspainevents.10;Ivory, Gold and Slaves in echange for Mate. Sounds sane.;;;;;;;;;;;;;x
+send_conquistador;Send a Conquistador;;;;;;;;;;;;;x
+send_conquistador_desc;Sending a Conquistador to these lands in search of the fabled El Dorado bring us great fortune;;;;;;;;;;;;;x
+EVTNAMEscottishevents.1;Nova Scotia Founded;;;;;;;;;;;;;x
+EVTDESCscottisheventsR.1;The scots have decided to get on the colonial game by settling the lands of Akadia.;;;;;;;;;;;;;x
+EVTOPTAscottishevents.1;Aye aye matey;;;;;;;;;;;;;x
+EVTNAMEscottishevents.2;Darian Scheme;;;;;;;;;;;;;x
+EVTDESCscottisheventsR.2;The scotish government has decided to finance a new venture over in Panama.;;;;;;;;;;;;;x
+EVTOPTAscottishevents.2;Can't possibly go wrong;;;;;;;;;;;;;x
+EVTNAMEniederlanderevents.1;New Netherland;;;;;;;;;;;;;x
+EVTDESCniederlandereventsR.1;The Dutch have founded a hamlet called New Amsterdam on the shores of America.;;;;;;;;;;;;;x
+EVTOPTAniederlanderevents.1;Why did New Amsterdam get the works? That's nobody's business but...;;;;;;;;;;;;;x
+EVTNAMEniederlanderevents.2;The Ducth open shop on the Guyana;;;;;;;;;;;;;x
+EVTDESCniederlandereventsR.2;Looking to cash in on the south american fertile grounds the Dutch settled the Guyanas.;;;;;;;;;;;;;x
+EVTOPTAniederlanderevents.2;More peppers;;;;;;;;;;;;;x
+EVTNAMEniederlanderevents.3;Island of Tortola;;;;;;;;;;;;;x
+EVTDESCniederlandereventsR.3;The Island of Tortola is now property of the Batavian government;;;;;;;;;;;;;x
+EVTOPTAniederlanderevents.3;Water must be pretty warm there;;;;;;;;;;;;;x
+EVTNAMEniederlanderevents.4;Dutch expand operations in the Guyana;;;;;;;;;;;;;x
+EVTDESCniederlandereventsR.4;The Dutch operation in the Guyana seems to be growing.;;;;;;;;;;;;;x
+EVTOPTAniederlanderevents.4;More peppers;;;;;;;;;;;;;x
+EVTNAMEniederlanderevents.5;Island of Curacao;;;;;;;;;;;;;x
+EVTDESCniederlandereventsR.5;The island of Curacao has been used as a sort of refuge and cure spot by distressed seafares for a while, but now it has been claimed by the Dutch.;;;;;;;;;;;;;x
+EVTOPTAniederlanderevents.5;I should go on a healing vacation;;;;;;;;;;;;;x
+EVTNAMEniederlanderevents.6;South Africa;;;;;;;;;;;;;x
+EVTDESCniederlandereventsR.6;What started has a purely economic venture has turned into a fast growing colony of the Batavians.;;;;;;;;;;;;;x
+EVTOPTAniederlanderevents.6;Interesting development;;;;;;;;;;;;;x
+EVTNAMEniederlanderevents.7;Island of Mauritius;;;;;;;;;;;;;x
+EVTDESCniederlandereventsR.7;The Dutch have settled the island of Mauritus on the Indian ocean.;;;;;;;;;;;;;x
+EVTOPTAniederlanderevents.7;Very creative name;;;;;;;;;;;;;x
+EVTNAMEniederlanderevents.8;Island of St Martin;;;;;;;;;;;;;x
+EVTDESCniederlandereventsR.8;St Martin is now a Dutch colonial possession;;;;;;;;;;;;;x
+EVTOPTAniederlanderevents.8;I want to own my own Island too;;;;;;;;;;;;;x
+EVTNAMEniederlanderevents.9;Dutch Guinae;;;;;;;;;;;;;x
+EVTDESCniederlandereventsR.9;The Batavia republic wants a piece of the slave trade and has ensured this by building a fortress in the Guineas;;;;;;;;;;;;;x
+EVTOPTAniederlanderevents.9;More competition in the market;;;;;;;;;;;;;x
+EVTNAMEbriishevents.1;The founding of Jamestown;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.1;The first british colony on american shores was founded with the city of Jamestown.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.1;Maybe they can grow their tea there...;;;;;;;;;;;;;x
+EVTNAMEbriishevents.2;The founding of Plymouth;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.2;The second british colony on american shores was founded on Plymouth as a refuge for puritan exiles.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.2;I wonder what will become of them;;;;;;;;;;;;;x
+EVTNAMEbriishevents.3;The founding of Maryland;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.3;The third british colony on american shores was founded on Maryland by Catholics fleeing Britain.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.3;I wonder what will become of them;;;;;;;;;;;;;x
+EVTNAMEbriishevents.4;The founding of Rhode Island;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.4;The fourth british colony on american shores was founded on Rhode Island under the premise of religious liberty.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.4;I wonder what will become of them;;;;;;;;;;;;;x
+EVTNAMEbriishevents.5;The founding of Connecticut;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.5;The fifth british colony on american shores was founded on Connecticut by Reformed exiles.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.5;I wonder what will become of them;;;;;;;;;;;;;x
+EVTNAMEbriishevents.6;The Island of St Kitts;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.6;The grip of Britain in the caribic is increasing as the Island of St Kitts has become another jewell of the crown.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.6;Saint who?;;;;;;;;;;;;;x
+EVTNAMEbriishevents.7;The Island of Barbados;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.7;Barbados has been taken over by the British empire.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.7;One less haven for piracy;;;;;;;;;;;;;x
+EVTNAMEbriishevents.8;The Island of Montserrat;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.8;Montserrat has been taken over by the British empire.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.8;One less haven for piracy;;;;;;;;;;;;;x
+EVTNAMEbriishevents.9;The colonization of Carolina;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.9;As the Spanish fail to defend their territorial claims the british have managed to sucessfully establish a colony in Carolina.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.9;I guess the weather is better than what they are used to;;;;;;;;;;;;;x
+EVTNAMEbriishevents.10;The Island of Anguilla;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.10;Anguilla has been taken over by the British empire.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.10;One less haven for piracy;;;;;;;;;;;;;x
+EVTNAMEbriishevents.11;The Island of Antigua;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.11;Antigua has been taken over by the British empire.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.11;One less haven for piracy;;;;;;;;;;;;;x
+EVTNAMEbriishevents.12;The Island of Bermuda;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.12;Bermuda has been taken over by the British empire.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.12;One less haven for piracy;;;;;;;;;;;;;x
+EVTNAMEbriishevents.13;The Island of St. Helena;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.13;St Helena has been taken over by the British empire.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.13;One less haven for piracy;;;;;;;;;;;;;x
+EVTNAMEbriishevents.14;Erection of Fort St. George;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.14;The very first British fortress has been erected in India;;;;;;;;;;;;;x
+EVTOPTAbriishevents.14;Spicy;;;;;;;;;;;;;x
+EVTNAMEbriishevents.15;Kolkuta has been seized;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.15;The important city of Kolkuta has been seized by the british empire;;;;;;;;;;;;;x
+EVTOPTAbriishevents.15;Spicy;;;;;;;;;;;;;x
+EVTNAMEbriishevents.16;Colonization of Australia;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.16;Sydney, the first Australian city, has been built by the british empire as a penal colony.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.16;Aright, cunt;;;;;;;;;;;;;x
+EVTNAMEbriishevents.17;Colonization of New Zealand;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.17;New Zealand has been claimed by the british empire. Through clever diplomacy and superior firepower no doupt it will quickly become a model colony.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.18;Alright, cunt;;;;;;;;;;;;;x
+EVTNAMEbriishevents.18;Settlement of Avalon;;;;;;;;;;;;;x
+EVTDESCbriisheventsR.18;A settlement has been established in the newly baptized province of Avalon. This area has been a point of interest for fishermen from Europe over in search of codfish.;;;;;;;;;;;;;x
+EVTOPTAbriishevents.18;Sounds fishy to me;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.1;Acadia settled;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.1;The french have managed to get a town going up in Acadia;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.1;Furry;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.2;Quebec;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.2;The town of Quebec has been founded in New France;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.2;One day they will be told they don't speak real french;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.3;Three Towers;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.3;The town of Three Towers has been founded in New France;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.3;Good for them;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.4;Montreal;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.4;The town of Montreal has been founded in New France;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.4;They really got it going;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.5;Newfoundland settled;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.5;Newfoundland has become a stop worth metioning on the way to New France;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.5;Puff, the vikings got there first;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.6;Louisiana settled;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.6;Louisiana is now integrated into New France.;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.6;What was that you said about Cajun food?;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.7;The French enter the Guyanas;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.7;Cayenne is now being exploited by the French looking to get into the sugar market.;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.7;The more the merrier;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.8;The French set up shop in Senegal;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.8;The Senegal is now under the jurisdiction of the French Empire.;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.8;Every country should be free to get into the slave trade;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.9;France enters Madagascar;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.9;The French have built a fortification on the southern shores of the Island of Madagascar.;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.9;I have seen that movie;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.10;The Island of Martinique;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.10;Martinique has been taken over by the French Empire.;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.10;One less haven for piracy;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.11;The Island of Guadeloupe;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.11;Guadeloupe has been taken over by the French Empire.;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.11;One less haven for piracy;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.12;The Island of St Lucia;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.12;St Lucia has been taken over by the French Empire.;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.12;One less haven for piracy;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.13;The Island of Grenada;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.13;Grenada has been taken over by the French Empire.;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.13;One less haven for piracy;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.14;The Island of Dominica;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.14;Dominica has been taken over by the French Empire.;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.14;One less haven for piracy;;;;;;;;;;;;;x
+EVTNAMEfrenchevents.15;The Island of St Vincent;;;;;;;;;;;;;x
+EVTDESCfrencheventsR.15;St Vincent has been taken over by the French Empire.;;;;;;;;;;;;;x
+EVTOPTAfrenchevents.15;One less haven for piracy;;;;;;;;;;;;;x
+colonial_dispute;Foreign colonial entities border us overseas offering competition and hurting our profits. If we were to seize their colonies we could both help ourselves and hurt them greatly.;;;;;;;;;;;;;x
+colonial_dispute_desc;Foreign colonial entities border us overseas offering competition and hurting our profits. If we were to seize their colonies we could both help ourselves and hurt them greatly.;;;;;;;;;;;;;x
+CB_NAME_COLONIAL_DISPUTE;Colonial Dispute over [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_COLONIAL_DISPUTE;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Great Colonial Invasion over [Title.GetBaseName];;;;;;;;;;;;;x
+great_colonial_dispute;Foreign colonial entities border us overseas offering competition and hurting our profits. If we were to seize their colonies we could both help ourselves and hurt them greatly.;;;;;;;;;;;;;x
+great_colonial_dispute_desc;Foreign colonial entities border us overseas offering competition and hurting our profits. If we were to seize their colonies we could both help ourselves and hurt them greatly.;;;;;;;;;;;;;x
+CB_NAME_GREAT_COLONIAL_DISPUTE;Great Colonial Dispute over [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_GREAT_COLONIAL_DISPUTE;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Great Colonial Invasion over [Title.GetBaseName];;;;;;;;;;;;;x
+sent_conquistador_mod;Sent off a Conquistador Recently;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.2;Income from the Gold Coast;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.2;The Gold Coast is where the most profitable trade in all of Africa is to be found. Not only does the region boast acess to seemingly unendless supplies of Gold, but the locals are very happy to provide our merchants with slaves. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.2;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.3;Income from the West Indies;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.3;The West Indies are fertile and provide perfect soil to plant Sugar and other new world vegetables. This might seem like an unimportant import but they are actually amongst the most profitable ventures as far as colonies go. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.3;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.4;Income from Central America;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.4;Central America is not only fertile but also rich in native manpower to exploit as well as gold and crafts. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.4;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.5;Income from America;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.5;America is full of natural resources and empty land, however it is not as fertile or populated has other parts of the continent. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.5;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.6;Income from South America;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.6;South America is mostly deserts, jungles, mountains and the population is sparse. There are opportunities for developing sugar platations and exploiting tropical wood. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.6;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.7;Income from the Far North;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.7;The Far North is not very hospitable, but there is abundance of costly furs. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.7;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.8;Income from India;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.8;From India we bring over most rare spices namely cumin, coriander, clove, cinnamon, turmeric, fenugreek and cardamom. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.8;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.9;Income from Indo-China;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.9;Indo-China is an important stop for the silk road merchants and there are many desired commodities found. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.9;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.10;Income from the East Indies;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.10;The East Indies are the only source of the rarest spices such as cloves and nutmeg. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.10;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.11;Income from the Far East;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.11;The Far East is where chinaware and opium come from, as well as an entire world of precious treasures. This might seem like an unimportant import but they are actually amongst the most profitable ventures as far as colonies go. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.11;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.12;Income from South Africa;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.12;South Africa is not very populous, the vastness of the land make it hard to move goods. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.12;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.13;Income from East Africa;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.13;East Africa is very rich in gold, plus the region boast already developed islamic and indian trade networks. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.13;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.14;Income from Australia;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.14;Australia provides valuable seal skins and whale oil. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.14;Caching!;;;;;;;;;;;;;x
+colonialevents.15;Methodist Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.15;Methodist Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.15;Good;;;;;;;;;;;;;x
+colonialevents.16;Arminian Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.16;Arminian Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.16;Good;;;;;;;;;;;;;x
+colonialevents.17;Baptist Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.17;Baptist Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.17;Good;;;;;;;;;;;;;x
+colonialevents.18;Unitarian Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.18;Unitarian Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.18;Good;;;;;;;;;;;;;x
+colonialevents.19;Anabaptist Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.19;Anabaptist Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.19;Good;;;;;;;;;;;;;x
+colonialevents.20;Reformed Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.20;Reformed Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.20;Good;;;;;;;;;;;;;x
+colonialevents.21;Hussite Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.21;Hussite Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.21;Good;;;;;;;;;;;;;x
+colonialevents.22;Lutheran Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.22;Lutheran Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.22;Good;;;;;;;;;;;;;x
+colonialevents.23;Catholic Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.23;Catholic Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.23;Good;;;;;;;;;;;;;x
+colonialevents.24;Anglican Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.24;Anglican Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.24;Good;;;;;;;;;;;;;x
+colonialevents.51;Catholic Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.51;Catholic Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.51;Good;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.25;Cape Bojador;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.25;Captain Gil Eanes has crossed the fabled Cape Bojador a little further afoot from the Canaries. Since ancient times ships that crossed this natural feature have been deemed lost for ever. Now we know it can be surmounted, the real question is how far we have to sail see anything other than sand.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.25;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.25;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.26;Rio do Ouro;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.26;Captain Antao Gonçalves has found the Rio de Ouro and was able to conduct trade with the locals. The land is rich in gold dust and slaves.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.26;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.26;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.27;Cape Branco;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.27;Captain Nuno Tristao found yet another cape along the African coast. In this venture he was able to make the most important bouty of slaves and gold yet.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.27;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.27;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.28;Cabo de Santa Catarina;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.28;Captain Fernao Gomes made it past the Cabo de Santa Catarina expanding further the known world.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.28;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.28;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.29;Terra Nova;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.29;Captain Joao Vaz Corte-Real discovered Terra Nova, or Newfoundland, which is supposed to be rich in exquisite Codfish.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.29;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.29;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.30;Cape Lopes;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.30;Captain Lopo Gonçalves has crossed the equatorial line and gone beyond the cape he named after himself.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.30;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.30;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.31;Cape of Torments;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.31;Captain Bartolomeu Dias crossed the final and most dangerous African cape. After he made it through he baptized it Cape of Good Hope.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.31;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.31;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.32;Sea way to India;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.32;Captain Vasco da Gama together with his brother Paulo da Gama were in charge of the expedition that found the sea way to India. Of the two brothers only Vasco made it back alive, most of the crew also met their due to malnutrition, deseases and conflicts with natives.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.32;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.32;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.33;Discovery of Brazil;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.33;On his way to India Captain Pedro Álvares went off course and found what he believed at the time to be the island of Brazil.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.33;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.33;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.34;Discovery of China;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.34;Captain Jorge Álvares reaches the coast of the chinese empire.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.34;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.34;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.35;Discovery of Japan;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.35;A ship captained by Francisco Zeimoto, António da Mota and António Peixoto made anchor in Japan. The japanse showed particular interest on European muskets and quickly learned to replicate them. The christian religion also cativated many, but as it grew to challenge the Buddhist elite it was persecuted and supressed by the Shogun.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.35;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.35;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.36;Discovery of America;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.36;Captain Cristopher Columbus attempted to reach India by sailing west. Instead he found an entirely new continent, while living he never admited he had, in fact not found the way to India.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.36;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.36;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.37;The Circumnavigation of the Globe;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.37;Captain Ferdinand Magellan, a destinguished portuguese navigator, insulted by the lack of recognition he had met from the Portuguese crown, offered his services to the king of Spain. He believed that by sailing across the Pacific ocean he would be able to reach the source of the cloves on the Maluku islands. He grossly underestimated the size of the Pacific and ended up losing most of his crew trying to cross it, lastly he died fighting natives in the Philippines not becoming, like is commonly believed, the first man sailing around the world.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.37;We sail where no christian soul has been before;;;;;;;;;;;;;x
+EVTOPTBcolonialevents.37;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+recently_changed_colonial_visibility;Recently Changed Visibility of Colonial Reports;;;;;;;;;;;;;x
+recently_changed_colonial_visibility_desc;Recently Changed Visibility of Colonial Reports;;;;;;;;;;;;;x
+hide_colonial_messages;Hide Colonial Reports;;;;;;;;;;;;;x
+hide_colonial_messages_desc;Hide Colonial Reports;;;;;;;;;;;;;x
+show_colonial_messages;Show Colonial Reports;;;;;;;;;;;;;x
+show_colonial_messages_desc;Show Colonial Reports;;;;;;;;;;;;;x
+create_united_states;Create the United States;;;;;;;;;;;;;x
+create_united_states_desc;For to long have Americans been subjects to foreign dominion. Now that we have liberated ourselves we should proclaim these United States.;;;;;;;;;;;;;x
+colonial_liberation_war;We must repell the european opressors from the shores of America and bring freedom and justice to all.;;;;;;;;;;;;;x
+colonial_liberation_war_desc;We must repell the european opressors from the shores of America and bring freedom and justice to all.;;;;;;;;;;;;;x
+CB_NAME_COLONIAL_LIBERATION_WAR;Colonial Liberation War over [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_COLONIAL_LIBERATION_WAR_desc;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Colonial Liberation War over [Title.GetBaseName];;;;;;;;;;;;;x
+colonial_manifest_destiny;We must bring the light of civilization and progress to all corners of the American continent.;;;;;;;;;;;;;x
+colonial_manifest_destiny_desc;We must bring the light of civilization and progress to all corners of the American continent.;;;;;;;;;;;;;x
+CB_NAME_COLONIAL_MANIFEST_DESTINY;Manifest Destiny War over [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_COLONIAL_MANIFEST_DESTINY;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Manifest Destiny War over [Title.GetBaseName];;;;;;;;;;;;;x
+d_knights_christ;Knights of Christ;;;;;;;;;;;;;x
+d_knights_christ_adj;Templar;;;;;;;;;;;;;x
+d_knights_avis;Knights of Avis;;;;;;;;;;;;;x
+d_knights_avis_adj;Avis;;;;;;;;;;;;;x
+MASTER;Master;;;;;;;;;;;;;x
+MASTER_FOA;Your Excellency;Votre Excellence;Eure Exzellenz;;Su Excelencia;;;;;;;;;x
+create_avis_order;Create Order of Avis;;;;;;;;;;;;;x
+create_avis_order_desc;To counter the reliance on foreign religious orders with dubious loyalties, we can back the independence of our own order.;;;;;;;;;;;;;x
+create_christ_order;Create Order of Christ;;;;;;;;;;;;;x
+create_christ_order_desc;The Pope and the King of France conjured to usurp the possessions of the Templar Order. We however respect the historical contribution of this order to our nation, and see much advantage in rebranding the order.;;;;;;;;;;;;;x
+vassalize_knights_of_avis;Vassalize the [d_knights_avis.GetName];Vassaliser le [d_knights_avis.GetName];[d_knights_avis.GetName] vasallisieren;;Hacer de la [d_knights_avis.GetName] un vasallo;;;;;x
+vassalize_knights_of_avis_desc;It is time for the [d_knights_avis.GetName] to bow down before me, and become my vassals. They will be valuable assets in keeping Iberia safe.;Il est temps pour le [d_knights_avis.GetName] de devenir mon vassal. Ce sera un atout précieux pour assurer la sécurité de la péninsule ibérique.;Es ist Zeit, dass [d_knights_avis.GetName] sich vor mir verneigt und zu meinem Vasallen wird. Sie werden ein wertvolles Mittel sein, um Iberien sicher zu halten.;;Es hora de que la [d_knights_avis.GetName] se incline ante mí y se convierta en vasallo mío. Será vital para mantener la península ibérica segura.;;;;;x
+vassalize_knights_of_christ;Vassalize the [d_knights_christ.GetName];Vassaliser le [d_knights_christ.GetName];[d_knights_christ.GetName] vasallisieren;;Hacer de la [d_knights_christ.GetName] un vasallo;;;;;x
+vassalize_knights_of_christ_desc;It is time for the [d_knights_christ.GetName] to bow down before me, and become my vassals. They will be valuable assets in keeping Iberia safe.;Il est temps pour le [d_knights_christ.GetName] de devenir mon vassal. Ce sera un atout précieux pour assurer la sécurité de la péninsule ibérique.;Es ist Zeit, dass [d_knights_christ.GetName] sich vor mir verneigt und zu meinem Vasallen wird. Sie werden ein wertvolles Mittel sein, um Iberien sicher zu halten.;;Es hora de que la [d_knights_christ.GetName] se incline ante mí y se convierta en vasallo mío. Será vital para mantener la península ibérica segura.;;;;;x
+vassalize_knights_avis_opinion_TT;§Y[d_knights_avis.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;[d_knights_avis.Holder.Get_Le_TitledNameJ] a au moins une opinion de §G25§! envers §Y[Root.GetTitledName]§!;§Y[d_knights_avis.Holder.GetTitledName]§! haben eine Meinung von §G25§! oder höher über §Y[Root.GetTitledName]§!;;§Y[d_knights_avis.Holder.GetTitledName]§! tienen una opinión de §G25§! o mayor de §Y[Root.GetTitledName]§!;;;;;x
+vassalize_knights_christ_opinion_TT;§Y[d_knights_christ.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;[d_knights_christ.Holder.Get_Le_TitledNameJ] a au moins une opinion de §G25§! envers §Y[Root.GetTitledName]§!;§Y[d_knights_christ.Holder.GetTitledName]§! haben eine Meinung von §G25§! oder höher über §Y[Root.GetTitledName]§!;;§Y[d_knights_christ.Holder.GetTitledName]§! tienen una opinión de §G25§! o mayor de §Y[Root.GetTitledName]§!;;;;;x
+siberian_conquest;Conquest of Siberia;;;;;;;;;;;;;x
+siberian_conquest_desc;The vast open expanses of Siberia lay open to conquest. On our way to immortal glory stand only nomands and disperse raindeer herders.;;;;;;;;;;;;;x
+CB_NAME_SIBERIAN;Siberian Conquest over [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_SIBERIAN;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Siberian Conquest over [Title.GetBaseName];;;;;;;;;;;;;x
+russian_subjugation;Russian Unification;;;;;;;;;;;;;x
+russian_subjugation_desc;Russia can't stand against the tartars divided. We must unite all Russias in order to secure our place in the world.;;;;;;;;;;;;;x
+romani_group;Roma;;;;;;;;;;;;;x
+romani;Roma;;;;;;;;;;;;;x
+gave_out_credit_mod;Recently gave out Credit;;;;;;;;;;;;;x
+gave_out_debit_mod;Recently gave out Debit;;;;;;;;;;;;;x
+EVTNAMEbancoevents.1;Savings account;;;;;;;;;;;;;x
+EVTDESCbancoevents.1;The benefic Banco di San Giorgio is prepared to offer us a variety of savings accounts that will value at 4% per anum over the course of two years.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.1;We may deposit 100 gold;;;;;;;;;;;;;x
+EVTOPTBbancoevents.1;We may deposit 500 gold;;;;;;;;;;;;;x
+EVTOPTCbancoevents.1;We may deposit 1000 gold;;;;;;;;;;;;;x
+EVTOPTDbancoevents.1;We may deposit 1500 gold;;;;;;;;;;;;;x
+EVTOPTEbancoevents.1;We may deposit 2000 gold;;;;;;;;;;;;;x
+EVTOPTFbancoevents.1;We may deposit 2500 gold;;;;;;;;;;;;;x
+EVTOPTGbancoevents.1;We may deposit 3000 gold;;;;;;;;;;;;;x
+EVTOPTHbancoevents.1;We may deposit 3500 gold;;;;;;;;;;;;;x
+EVTOPTIbancoevents.1;We may deposit 4000 gold;;;;;;;;;;;;;x
+EVTOPTJbancoevents.1;We may deposit 4500 gold;;;;;;;;;;;;;x
+EVTOPTLbancoevents.1;We may deposit 5000 gold;;;;;;;;;;;;;x
+EVTNAMEbancoevents.2;Interest is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.2;From our cleverly deposited funds we have reveiced 8 gold in interest.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.2;You reap what you sow;;;;;;;;;;;;;x
+EVTNAMEbancoevents.3;Interest is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.3;From our cleverly deposited funds we have reveiced 40 gold in interest.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.3;You reap what you sow;;;;;;;;;;;;;x
+EVTNAMEbancoevents.4;Interest is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.4;From our cleverly deposited funds we have reveiced 80 gold in interest.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.4;You reap what you sow;;;;;;;;;;;;;x
+EVTNAMEbancoevents.5;Interest is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.5;From our cleverly deposited funds we have reveiced 120 gold in interest.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.5;You reap what you sow;;;;;;;;;;;;;x
+EVTNAMEbancoevents.6;Interest is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.6;From our cleverly deposited funds we have reveiced 160 gold in interest.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.6;You reap what you sow;;;;;;;;;;;;;x
+EVTNAMEbancoevents.7;Interest is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.7;From our cleverly deposited funds we have reveiced 200 gold in interest.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.7;You reap what you sow;;;;;;;;;;;;;x
+EVTNAMEbancoevents.8;Interest is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.8;From our cleverly deposited funds we have reveiced 240 gold in interest.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.8;You reap what you sow;;;;;;;;;;;;;x
+EVTNAMEbancoevents.9;Interest is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.9;From our cleverly deposited funds we have reveiced 280 gold in interest.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.9;You reap what you sow;;;;;;;;;;;;;x
+EVTNAMEbancoevents.10;Interest is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.10;From our cleverly deposited funds we have reveiced 320 gold in interest.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.10;You reap what you sow;;;;;;;;;;;;;x
+EVTNAMEbancoevents.11;Interest is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.11;From our cleverly deposited funds we have reveiced 360 gold in interest.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.11;You reap what you sow;;;;;;;;;;;;;x
+EVTNAMEbancoevents.12;Interest is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.12;From our cleverly deposited funds we have reveiced 400 gold in interest.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.12;You reap what you sow;;;;;;;;;;;;;x
+EVTNAMEbancoevents.13;Small Loans;;;;;;;;;;;;;x
+EVTDESCbancoevents.13;The benefic Banco di San Giorgio is prepared to offer us a variety of loans befiting of our condition.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.13;The bank is offering us 100 gold to pe paid in full plus 20% of the value after a duration of 2 years;;;;;;;;;;;;;x
+EVTOPTBbancoevents.13;The bank is offering us 300 gold to pe paid in full plus 20% of the value after a duration of 2 years;;;;;;;;;;;;;x
+EVTOPTCbancoevents.13;The bank is offering us 500 gold to pe paid in full plus 20% of the value after a duration of 2 years;;;;;;;;;;;;;x
+EVTOPTDbancoevents.13;That would be most disavantegeous at this junction;;;;;;;;;;;;;x
+EVTNAMEbancoevents.14;Debt is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.14;It is due time to pay our dept. Two years ago we asked for 100 gold by the benefic Banco di San Giorgio and now we must pay 120 in return.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.14;My purse is lighter;;;;;;;;;;;;;x
+EVTNAMEbancoevents.15;Debt is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.15;It is due time to pay our dept. Two years ago we were generously given 300 gold by the benefic Banco di San Giorgio and now we must pay 360 in return.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.15;My purse is lighter;;;;;;;;;;;;;x
+EVTNAMEbancoevents.16;Debt is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.16;It is due time to pay our dept. Two years ago we were generously given 500 gold by the benefic Banco di San Giorgio and now we must pay 600 in return.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.16;My purse is lighter;;;;;;;;;;;;;x
+EVTNAMEbancoevents.17;Medium Loans;;;;;;;;;;;;;x
+EVTDESCbancoevents.17;The benefic Banco di San Giorgio is prepared to offer us a variety of loans befiting of our condition.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.17;The bank is offering us 1000 gold to pe paid in full plus 20% of the value after a duration of 2 years;;;;;;;;;;;;;x
+EVTOPTBbancoevents.17;The bank is offering us 1500 gold to pe paid in full plus 20% of the value after a duration of 2 years;;;;;;;;;;;;;x
+EVTOPTCbancoevents.17;The bank is offering us 2000 gold to pe paid in full plus 20% of the value after a duration of 2 years;;;;;;;;;;;;;x
+EVTOPTDbancoevents.17;That would be most disavantegeous at this junction;;;;;;;;;;;;;x
+EVTNAMEbancoevents.18;Debt is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.18;It is due time to pay our dept. Two years ago we were generously given 1000 gold by the benefic Banco di San Giorgio and now we must pay 600 in return.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.18;My purse is lighter;;;;;;;;;;;;;x
+EVTNAMEbancoevents.19;Debt is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.19;It is due time to pay our dept. Two years ago we were generously given 1500 gold by the benefic Banco di San Giorgio and now we must pay 600 in return.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.19;My purse is lighter;;;;;;;;;;;;;x
+EVTNAMEbancoevents.20;Debt is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.20;It is due time to pay our dept. Two years ago we were generously given 2000 gold by the benefic Banco di San Giorgio and now we must pay 600 in return.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.20;My purse is lighter;;;;;;;;;;;;;x
+EVTNAMEbancoevents.21;Debt is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.21;It is due time to pay our dept. Two years ago we were generously given 3000 gold by the benefic Banco di San Giorgio and now we must pay 600 in return.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.21;My purse is lighter;;;;;;;;;;;;;x
+EVTNAMEbancoevents.22;Debt is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.22;It is due time to pay our dept. Two years ago we were generously given 2500 gold by the benefic Banco di San Giorgio and now we must pay 600 in return.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.22;My purse is lighter;;;;;;;;;;;;;x
+EVTNAMEbancoevents.23;Debt is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.23;It is due time to pay our dept. Two years ago we were generously given 5000 gold by the benefic Banco di San Giorgio and now we must pay 600 in return.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.23;My purse is lighter;;;;;;;;;;;;;x
+EVTNAMEbancoevents.24;Debt is Due;;;;;;;;;;;;;x
+EVTDESCbancoevents.24;It is due time to pay our dept. Two years ago we were generously given 10000 gold by the benefic Banco di San Giorgio and now we must pay 600 in return.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.24;My purse is lighter;;;;;;;;;;;;;x
+EVTNAMEbancoevents.25;Loan size;;;;;;;;;;;;;x
+EVTDESCbancoevents.25;We may choose between several loan sizes depending on our needs;;;;;;;;;;;;;x
+EVTOPTAbancoevents.25;A small loan will sufice;;;;;;;;;;;;;x
+EVTOPTBbancoevents.25;A medium loan will be enough;;;;;;;;;;;;;x
+EVTOPTCbancoevents.25;We require a big loan;;;;;;;;;;;;;x
+EVTOPTDbancoevents.25;That would be most disavantegeous at this junction;;;;;;;;;;;;;x
+EVTNAMEbancoevents.26;Big Loans;;;;;;;;;;;;;x
+EVTOPTAbancoevents.26;My purse is lighter;;;;;;;;;;;;;x
+EVTDESCbancoevents.26;The benefic Banco di San Giorgio is prepared to offer us a variety of loans befiting of our condition.;;;;;;;;;;;;;x
+EVTOPTAbancoevents.26;The bank is offering us 2500 gold to pe paid in full plus 20% of the value after a duration of 2 years;;;;;;;;;;;;;x
+EVTOPTBbancoevents.26;The bank is offering us 5000 gold to pe paid in full plus 20% of the value after a duration of 2 years;;;;;;;;;;;;;x
+EVTOPTCbancoevents.26;The bank is offering us 10000 gold to pe paid in full plus 20% of the value after a duration of 2 years;;;;;;;;;;;;;x
+EVTOPTDbancoevents.26;That would be most disavantegeous at this junction;;;;;;;;;;;;;x
+custom_siberia;The Russias;;;;;;;;;;;;;x
+ask_for_credit;Ask for a credit;;;;;;;;;;;;;x
+ask_for_credit_desc;We make take a credit from the Banco di San Giorgio at cheap rates;;;;;;;;;;;;;x
+deposit_money;Deposit Money;;;;;;;;;;;;;x
+deposit_money_desc;We make deposit our money at the Banco di San Giorgio for interest;;;;;;;;;;;;;x

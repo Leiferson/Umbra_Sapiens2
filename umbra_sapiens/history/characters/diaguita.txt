@@ -1,0 +1,3118 @@
+1019929838={
+	name=Fama
+	dynasty=1009990266
+	dna="gmglnljocpi"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=6
+	add_trait=grey_eminence  add_trait=humble add_trait=content add_trait=arbitrary 
+	719.8.5={ birth=yes }
+	774.3.25={ death=yes }
+}
+1019929839={
+	name=Huanchicay
+	dynasty=1009990266
+	dna="jafnioahcdi"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	add_trait=midas_touched add_trait=gregarious add_trait=deceitful add_trait=arbitrary 
+	father=1019929838	#Fama
+	743.11.24={ birth=yes }
+	808.9.2={ death=yes }
+}
+1019929840={
+	name=Axomamma
+	female=yes
+	dynasty=1009990266
+	dna="gmglnjjhcpi"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929838	#Fama
+	748.8.11={ birth=yes }
+	802.4.15={ death=yes }
+}
+1019929841={
+	name=Ana
+	female=yes
+	dynasty=1009990266
+	dna="fgfniochadg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929839	#Huanchicay
+	774.6.4={ birth=yes }
+	835.9.13={ death=yes }
+}
+1019929842={
+	name=Ficpam
+	dynasty=1009990266
+	dna="ajmniomicld"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=5 learning=7
+	add_trait=detached_priest add_trait=hunter add_trait=diligent add_trait=lustful 
+	add_trait=humble add_trait=depressed 
+	father=1019929839	#Huanchicay
+	777.9.26={ birth=yes }
+	855.1.8={ death=yes }
+}
+1019929843={
+	name=Anto
+	dynasty=1009990266
+	dna="joiniomljig"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	add_trait=mastermind_theologian add_trait=gluttonous add_trait=shy add_trait=lustful 
+	add_trait=slothful 
+	father=1019929842	#Ficpam
+	804.4.3={ birth=yes }
+	881.10.26={ death=yes }
+}
+1019929844={
+	name=Tancol
+	dynasty=1009990266
+	dna="aocfgjmdnld"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=6 learning=4
+	add_trait=grey_eminence add_trait=proud add_trait=honest  add_trait=shy 
+	
+	father=1019929842	#Ficpam
+	809.2.15={ birth=yes }
+	860.2.16={ death=yes }
+}
+1019929845={
+	name=Tucuma
+	dynasty=1009990266
+	dna="apmifemlcld"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=proud add_trait=zealous add_trait=paranoid add_trait=slothful 
+	add_trait=content 
+	father=1019929842	#Ficpam
+	813.11.23={ birth=yes }
+	895.4.17={ death=yes }
+}
+1019929846={
+	name=Viltipoco
+	dynasty=1009990266
+	dna="adendmjidlf"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=4
+	add_trait=grey_eminence add_trait=temperate add_trait=proud add_trait=deceitful add_trait=diligent 
+	add_trait=chaste add_trait=strong 
+	father=1019929842	#Ficpam
+	820.7.14={ birth=yes }
+	905.5.21={ death=yes }
+}
+1019929847={
+	name=Anco
+	dynasty=1009990266
+	dna="apalmnjicla"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=7 learning=5
+	add_trait=naive_appeaser add_trait=duelist add_trait=temperate add_trait=chaste 
+	add_trait=cynical 
+	father=1019929842	#Ficpam
+	824.5.11={ birth=yes }
+	901.9.10={ death=yes }
+}
+1019929848={
+	name=Anco
+	dynasty=1009990266
+	dna="oglnioallig"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=8 learning=8
+	add_trait=elusive_shadow add_trait=envious add_trait=shy add_trait=gluttonous add_trait=wroth 
+	father=1019929843	#Anto
+	824.3.15={ birth=yes }
+	898.10.13={ death=yes }
+}
+1019929849={
+	name=Anto
+	dynasty=1009990266
+	dna="pmihiijljig"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=4
+	add_trait=grey_eminence add_trait=wroth add_trait=shy add_trait=just add_trait=slothful 
+	father=1019929843	#Anto
+	829.1.23={ birth=yes }
+	912.12.2={ death=yes }
+}
+1019929850={
+	name=Kantuta
+	female=yes
+	dynasty=1009990266
+	dna="joenaloljig"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929843	#Anto
+	835.12.27={ birth=yes }
+	925.1.11={ death=yes }
+}
+1019929851={
+	name=Nina
+	female=yes
+	dynasty=1009990266
+	dna="jhpnmnclain"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929843	#Anto
+	838.9.20={ birth=yes }
+	910.9.3={ death=yes }
+}
+1019929852={
+	name=Cafa
+	dynasty=1009990266
+	dna="kgniigcljih"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	add_trait=tough_soldier add_trait=trusting add_trait=deceitful add_trait=craven add_trait=arbitrary 
+	add_trait=gregarious 
+	father=1019929848	#Anco
+	850.1.7={ birth=yes }
+	921.8.21={ death=yes }
+}
+1019929853={
+	name=Fama
+	dynasty=1009990266
+	dna="fdcpejmabif"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=cynical add_trait=proud add_trait=brave add_trait=gregarious 
+	add_trait=possessed 
+	father=1019929848	#Anco
+	852.5.7={ birth=yes }
+	905.1.23={ death=yes }
+}
+1019929854={
+	name=Chamijo
+	dynasty=1009990266
+	dna="oejioobclhn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=honest add_trait=patient add_trait=trusting add_trait=temperate 
+	add_trait=lunatic add_trait=harelip 
+	father=1019929848	#Anco
+	860.9.27={ birth=yes }
+	925.9.11={ death=yes }
+}
+1019929855={
+	name=Anto
+	dynasty=1009990266
+	dna="nglfngchjbl"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=4 learning=5
+	add_trait=midas_touched add_trait=duelist add_trait=gregarious add_trait=proud add_trait=charitable 
+	add_trait=just add_trait=trusting add_trait=temperate 
+	father=1019929852	#Cafa
+	875.11.26={ birth=yes }
+	933.7.7={ death=yes }
+}
+1019929856={
+	name=Huilla
+	dynasty=1009990266
+	dna="kgnklliljig"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=6
+	add_trait=midas_touched add_trait=impaler add_trait=trusting add_trait=humble add_trait=drunkard 
+	add_trait=slow 
+	father=1019929852	#Cafa
+	879.3.14={ birth=yes }
+	956.8.13={ death=yes }
+}
+1019929857={
+	name=Ficpam
+	dynasty=1009990266
+	dna="fgniieclkid"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=4
+	add_trait=grey_eminence add_trait=temperate add_trait=charitable add_trait=gregarious add_trait=craven 
+	add_trait=ambitious 
+	father=1019929852	#Cafa
+	884.12.14={ birth=yes }
+	935.11.10={ death=yes }
+}
+1019929858={
+	name=Huanchicay
+	dynasty=1009990266
+	dna="kfpeiaclpih"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=lustful add_trait=greedy add_trait=shy add_trait=arbitrary 
+	add_trait=stressed 
+	father=1019929852	#Cafa
+	888.1.5={ birth=yes }
+	944.9.19={ death=yes }
+}
+1019929859={
+	name=Tucuma
+	dynasty=1009990266
+	dna="kgnidgaljil"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=7
+	add_trait=flamboyant_schemer add_trait=paranoid  add_trait=greedy add_trait=diligent 
+	add_trait=drunkard 
+	father=1019929852	#Cafa
+	892.7.22={ birth=yes }
+	953.10.19={ death=yes }
+}
+1019929860={
+	name=Viltipoco
+	dynasty=1009990266
+	dna="npifngnhjcj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=slothful add_trait=ambitious add_trait=gregarious add_trait=charitable 
+	add_trait=wroth add_trait=fair 
+	father=1019929855	#Anto
+	908.8.22={ birth=yes }
+	994.12.28={ death=yes }
+}
+1019929861={
+	name=Axomamma
+	female=yes
+	dynasty=1009990266
+	dna="nelnnghjfde"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929855	#Anto
+	913.9.19={ birth=yes }
+	998.2.16={ death=yes }
+}
+1019929862={
+	name=Tino
+	dynasty=1009990266
+	dna="nemfcgndfcj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=6 learning=8
+	add_trait=scholarly_theologian add_trait=just add_trait=temperate add_trait=greedy add_trait=ambitious 
+	add_trait=ill 
+	father=1019929860	#Viltipoco
+	934.3.7={ birth=yes }
+	1006.5.13={ death=yes }
+}
+1019929863={
+	name=Cafa
+	dynasty=1009990266
+	dna="ndlfngnhdpb"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	add_trait=tough_soldier add_trait=charitable add_trait=ambitious 
+	father=1019929860	#Viltipoco
+	938.3.4={ birth=yes }
+	1012.6.4={ death=yes }
+}
+1019929864={
+	name=Ana
+	female=yes
+	dynasty=1009990266
+	dna="deifahphojn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929860	#Viltipoco
+	941.11.24={ birth=yes }
+	1039.4.20={ death=yes }
+}
+1019929865={
+	name=Kantuta
+	female=yes
+	dynasty=1009990266
+	dna="npiomcngkcj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929860	#Viltipoco
+	946.9.1={ birth=yes }
+	1007.10.26={ death=yes }
+}
+1019929866={
+	name=Anto
+	dynasty=1009990266
+	dna="npifnfmmcch"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=shy add_trait=greedy add_trait=honest 
+	father=1019929860	#Viltipoco
+	951.3.17={ birth=yes }
+	1006.10.3={ death=yes }
+}
+1019929867={
+	name=Tino
+	dynasty=1009990266
+	dna="amijagdhjbl"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=chaste add_trait=proud add_trait=patient add_trait=ill 
+	father=1019929860	#Viltipoco
+	955.4.2={ birth=yes }
+	1053.2.9={ death=yes }
+}
+1019929868={
+	name=Aman
+	dynasty=1009990266
+	dna="nimmagnnfcj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	add_trait=charismatic_negotiator add_trait=paranoid add_trait=gluttonous add_trait=cynical add_trait=shy 
+	father=1019929862	#Tino
+	957.11.3={ birth=yes }
+	1038.10.26={ death=yes }
+}
+1019929869={
+	name=Axomamma
+	female=yes
+	dynasty=1009990266
+	dna="nemabonlfcd"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929862	#Tino
+	962.8.13={ birth=yes }
+	1039.10.20={ death=yes }
+}
+1019929870={
+	name=Tancol
+	dynasty=1009990266
+	dna="niamanenibh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=4 learning=5
+	add_trait=mastermind_theologian add_trait=wroth add_trait=craven add_trait=humble add_trait=gluttonous 
+	father=1019929868	#Aman
+	980.8.1={ birth=yes }
+	1049.3.19={ death=yes }
+}
+1019929871={
+	name=Ana
+	female=yes
+	dynasty=1009990266
+	dna="pifnamonfhj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929868	#Aman
+	984.11.1={ birth=yes }
+	1070.2.23={ death=yes }
+}
+1019929872={
+	name=Viltipoco
+	dynasty=1009990266
+	dna="giamahgdehi"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=patient add_trait=gluttonous add_trait=cynical 
+	father=1019929870	#Tancol
+	1010.11.22={ birth=yes }
+	1079.8.11={ death=yes }
+}
+1019929873={
+	name=Kantuta
+	female=yes
+	dynasty=1009990266
+	dna="niajaahfica"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929870	#Tancol
+	1016.2.21={ birth=yes }
+	1073.5.16={ death=yes }
+}
+1019929874={
+	name=Maiara
+	female=yes
+	dynasty=1009990266
+	dna="nmgeafhdibm"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929870	#Tancol
+	1020.4.23={ birth=yes }
+	1101.2.3={ death=yes }
+}
+1019929875={
+	name=Nina
+	female=yes
+	dynasty=1009990266
+	dna="nichmhgfabh"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929870	#Tancol
+	1022.4.15={ birth=yes }
+	1088.7.28={ death=yes }
+}
+1019929876={
+	name=Cafa
+	dynasty=1009990266
+	dna="ciamahgceoe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=celibate add_trait=brave add_trait=charitable add_trait=wroth 
+	add_trait=lustful 
+	father=1019929872	#Viltipoco
+	1035.11.27={ birth=yes }
+	1095.11.23={ death=yes }
+}
+1019929877={
+	name=Ana
+	female=yes
+	dynasty=1009990266
+	dna="nfkmafcaehi"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929872	#Viltipoco
+	1040.12.19={ birth=yes }
+	1118.10.26={ death=yes }
+}
+1019929878={
+	name=Payo
+	dynasty=1009990266
+	dna="gibnbhgbeni"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=4
+	add_trait=grey_eminence add_trait=scholar add_trait=honest add_trait=arbitrary add_trait=paranoid 
+	add_trait=greedy add_trait=lustful add_trait=shy 
+	father=1019929872	#Viltipoco
+	1044.6.9={ birth=yes }
+	1088.4.11={ death=yes }
+}
+1019929879={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990266
+	dna="jialaedlehk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929872	#Viltipoco
+	1049.12.10={ birth=yes }
+	1135.10.7={ death=yes }
+}
+1019929880={
+	name=Chamijo
+	dynasty=1009990266
+	dna="ggcmacadeck"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=8 learning=6
+	add_trait=misguided_warrior add_trait=chaste  add_trait=wroth 
+	add_trait=trusting add_trait=humble 
+	father=1019929872	#Viltipoco
+	1054.2.17={ birth=yes }
+	1111.3.27={ death=yes }
+}
+1019929881={
+	name=Huanchicay
+	dynasty=1009990266
+	dna="gbmmkmbdghk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=scholar add_trait=deceitful add_trait=zealous add_trait=lustful 
+	add_trait=proud 
+	father=1019929872	#Viltipoco
+	1058.6.21={ birth=yes }
+	1115.2.26={ death=yes }
+}
+1019929882={
+	name=Maiara
+	female=yes
+	dynasty=1009990266
+	dna="gipenhgdoci"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929872	#Viltipoco
+	1064.10.5={ birth=yes }
+	1123.4.19={ death=yes }
+}
+1019929883={
+	name=Huilla
+	dynasty=1009990266
+	dna="diaoapgcpoe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	add_trait=indulgent_wastrel add_trait=impaler  add_trait=zealous 
+	add_trait=slothful 
+	father=1019929876	#Cafa
+	1066.12.6={ birth=yes }
+	1153.6.4={ death=yes }
+}
+1019929884={
+	name=Ana
+	female=yes
+	dynasty=1009990266
+	dna="cbamdphmooe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929876	#Cafa
+	1071.12.21={ birth=yes }
+	1126.6.25={ death=yes }
+}
+1019929885={
+	name=Tino
+	dynasty=1009990266
+	dna="dfcocpgcpke"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=4 learning=6
+	add_trait=midas_touched add_trait=gardener add_trait=craven add_trait=lustful add_trait=greedy 
+	 add_trait=shy 
+	father=1019929883	#Huilla
+	1094.6.8={ birth=yes }
+	1166.12.6={ death=yes }
+}
+1019929886={
+	name=Ana
+	female=yes
+	dynasty=1009990266
+	dna="diadppjcaoe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929883	#Huilla
+	1099.6.18={ birth=yes }
+	1161.4.6={ death=yes }
+}
+1019929887={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990266
+	dna="dnaofhmogoe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929883	#Huilla
+	1104.2.24={ birth=yes }
+	1166.2.25={ death=yes }
+}
+1019929888={
+	name=Ana
+	female=yes
+	dynasty=1009990266
+	dna="ohaakmjckoe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929883	#Huilla
+	1109.3.4={ birth=yes }
+	1186.1.14={ death=yes }
+}
+1019929889={
+	name=Ficpam
+	dynasty=1009990266
+	dna="dblmceichie"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=charitable add_trait=wroth 
+	father=1019929883	#Huilla
+	1112.5.21={ birth=yes }
+	1197.11.15={ death=yes }
+}
+1019929890={
+	name=Fama
+	dynasty=1009990266
+	dna="fjlocpocdoe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	add_trait=misguided_warrior add_trait=brave  add_trait=lustful 
+	father=1019929885	#Tino
+	1119.8.17={ birth=yes }
+	1184.2.20={ death=yes }
+}
+1019929891={
+	name=Kantuta
+	female=yes
+	dynasty=1009990266
+	dna="dfeocbbbpke"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929885	#Tino
+	1122.3.12={ birth=yes }
+	1196.6.23={ death=yes }
+}
+1019929892={
+	name=Maiara
+	female=yes
+	dynasty=1009990266
+	dna="ofcocpiclmd"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929885	#Tino
+	1128.3.2={ birth=yes }
+	1197.1.10={ death=yes }
+}
+1019929893={
+	name=Kantuta
+	female=yes
+	dynasty=1009990266
+	dna="delonolcklp"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929885	#Tino
+	1131.10.23={ birth=yes }
+	1198.5.28={ death=yes }
+}
+1019929894={
+	name=Ismi
+	dynasty=1009990266
+	dna="ffmojpobdhg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=mystic add_trait=envious add_trait=chaste add_trait=gluttonous 
+	add_trait=ambitious 
+	father=1019929890	#Fama
+	1144.4.13={ birth=yes }
+	1217.12.18={ death=yes }
+}
+1019929895={
+	name=Ficpam
+	dynasty=1009990266
+	dna="fjgnkcpgdkm"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=8
+	add_trait=grey_eminence add_trait=diligent add_trait=chaste add_trait=brave 
+	father=1019929890	#Fama
+	1149.10.6={ birth=yes }
+	1232.5.16={ death=yes }
+}
+1019929896={
+	name=Hualpa
+	dynasty=1009990266
+	dna="gfjpecobcnj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=patient add_trait=humble add_trait=just add_trait=greedy 
+	father=1019929894	#Ismi
+	1167.12.16={ birth=yes }
+	1250.6.4={ death=yes }
+}
+1019929897={
+	name=Nina
+	female=yes
+	dynasty=1009990266
+	dna="ifmojpobocg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929894	#Ismi
+	1172.8.7={ birth=yes }
+	1211.10.20={ death=yes }
+}
+1019929898={
+	name=Tucuma
+	dynasty=1009990266
+	dna="lfmdjhcbdlg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=ambitious add_trait=wroth add_trait=honest add_trait=greedy 
+	add_trait=just 
+	father=1019929894	#Ismi
+	1178.12.24={ birth=yes }
+	1282.1.24={ death=yes }
+}
+1019929899={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990266
+	dna="ffhcejnbehe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929894	#Ismi
+	1181.6.4={ birth=yes }
+	1240.8.8={ death=yes }
+}
+1019929900={
+	name=Huanchicay
+	dynasty=1009990266
+	dna="gbemhdefjnj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=4
+	add_trait=martial_cleric add_trait=wroth add_trait=greedy add_trait=envious add_trait=slothful 
+	father=1019929896	#Hualpa
+	1190.1.16={ birth=yes }
+	1253.3.14={ death=yes }
+}
+1019929901={
+	name=Kantuta
+	female=yes
+	dynasty=1009990266
+	dna="chkpgcobcnj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929896	#Hualpa
+	1197.4.4={ birth=yes }
+	1234.5.5={ death=yes }
+}
+1019929902={
+	name=Ficpam
+	dynasty=1009990266
+	dna="gfjpngnblnd"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=4
+	add_trait=midas_touched add_trait=hedonist  add_trait=diligent 
+	add_trait=ill 
+	father=1019929896	#Hualpa
+	1202.2.18={ birth=yes }
+	1279.4.5={ death=yes }
+}
+1019929903={
+	name=Hualpa
+	dynasty=1009990266
+	dna="biemhnogjnn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=charitable add_trait=honest add_trait=cynical add_trait=craven 
+	father=1019929900	#Huanchicay
+	1222.9.21={ birth=yes }
+	1318.12.1={ death=yes }
+}
+1019929904={
+	name=Kantuta
+	female=yes
+	dynasty=1009990266
+	dna="bbegldiloaj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929900	#Huanchicay
+	1225.3.3={ birth=yes }
+	1296.3.1={ death=yes }
+}
+1019929905={
+	name=Tino
+	dynasty=1009990266
+	dna="gjechdegmbl"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=paranoid add_trait=diligent 
+	father=1019929900	#Huanchicay
+	1230.9.23={ birth=yes }
+	1302.9.30={ death=yes }
+}
+1019929906={
+	name=Aman
+	dynasty=1009990266
+	dna="gkefkoeglhj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=chaste add_trait=zealous add_trait=paranoid add_trait=honest 
+	add_trait=arbitrary add_trait=proud add_trait=ill 
+	father=1019929900	#Huanchicay
+	1233.6.7={ birth=yes }
+	1308.9.4={ death=yes }
+}
+1019929907={
+	name=Cafa
+	dynasty=1009990266
+	dna="gbpoadmljnj"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=craven add_trait=chaste add_trait=slothful 
+	add_trait=just add_trait=shy 
+	father=1019929900	#Huanchicay
+	1237.10.11={ birth=yes }
+	1295.8.11={ death=yes }
+}
+1019929908={
+	name=Tancol
+	dynasty=1009990266
+	dna="kiemnnoognn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=humble add_trait=craven 
+	father=1019929903	#Hualpa
+	1254.3.7={ birth=yes }
+	1321.5.4={ death=yes }
+}
+1019929909={
+	name=Kantuta
+	female=yes
+	dynasty=1009990266
+	dna="eilfhfogbkn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929903	#Hualpa
+	1257.9.24={ birth=yes }
+	1356.5.2={ death=yes }
+}
+1019929910={
+	name=Viltipoco
+	dynasty=1009990266
+	dna="dkdmhnooana"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=4 learning=8
+	add_trait=detached_priest add_trait=envious add_trait=content add_trait=honest 
+	father=1019929903	#Hualpa
+	1263.2.13={ birth=yes }
+	1336.2.18={ death=yes }
+}
+1019929911={
+	name=Chamijo
+	dynasty=1009990266
+	dna="bdeahpogdbe"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=8
+	add_trait=martial_cleric add_trait=poet add_trait=gluttonous add_trait=honest add_trait=patient 
+	add_trait=proud add_trait=charitable add_trait=clubfooted 
+	father=1019929903	#Hualpa
+	1268.11.16={ birth=yes }
+	1343.8.19={ death=yes }
+}
+1019929912={
+	name=Nina
+	female=yes
+	dynasty=1009990266
+	dna="kkeminnompn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929908	#Tancol
+	1283.1.9={ birth=yes }
+	1369.12.4={ death=yes }
+}
+1019929913={
+	name=Hualpa
+	dynasty=1009990266
+	dna="kdehnnooleg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	add_trait=tough_soldier add_trait=gluttonous add_trait=arbitrary add_trait=deceitful add_trait=humble 
+	add_trait=gregarious add_trait=zealous 
+	father=1019929908	#Tancol
+	1290.3.2={ birth=yes }
+	1371.12.24={ death=yes }
+}
+1019929914={
+	name=Kantuta
+	female=yes
+	dynasty=1009990266
+	dna="aimmnnoognf"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929908	#Tancol
+	1298.11.5={ birth=yes }
+	1359.6.10={ death=yes }
+}
+1019929915={
+	name=Anco
+	dynasty=1009990266
+	dna="iiekbkopnin"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=8 learning=6
+	add_trait=flamboyant_schemer add_trait=lustful add_trait=craven add_trait=gregarious add_trait=content 
+	 
+	father=1019929908	#Tancol
+	1303.6.27={ birth=yes }
+	1379.4.28={ death=yes }
+}
+1019929916={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990266
+	dna="keefnfoflog"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929913	#Hualpa
+	1313.6.10={ birth=yes }
+	1383.9.29={ death=yes }
+}
+1019929917={
+	name=Huilla
+	dynasty=1009990266
+	dna="kfehkhpaifn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	add_trait=flamboyant_schemer add_trait=gregarious add_trait=craven  add_trait=clubfooted 
+	father=1019929913	#Hualpa
+	1317.1.8={ birth=yes }
+	1388.11.11={ death=yes }
+}
+1019929918={
+	name=Ana
+	female=yes
+	dynasty=1009990266
+	dna="faehcnkooej"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929913	#Hualpa
+	1322.10.2={ birth=yes }
+	1404.3.2={ death=yes }
+}
+1019929919={
+	name=Maiara
+	female=yes
+	dynasty=1009990266
+	dna="jdeanihhleg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929913	#Hualpa
+	1326.6.10={ birth=yes }
+	1400.1.30={ death=yes }
+}
+1019929920={
+	name=Ana
+	female=yes
+	dynasty=1009990266
+	dna="idmacncplen"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929913	#Hualpa
+	1330.6.2={ birth=yes }
+	1394.4.7={ death=yes }
+}
+1019929921={
+	name=Axomamma
+	female=yes
+	dynasty=1009990266
+	dna="kcehnboellg"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929913	#Hualpa
+	1333.5.26={ birth=yes }
+	1408.4.4={ death=yes }
+}
+1019929922={
+	name=Anco
+	dynasty=1009990266
+	dna="fmehkhpejde"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=6
+	add_trait=detached_priest add_trait=arbitrary add_trait=wroth 
+	father=1019929917	#Huilla
+	1340.8.3={ birth=yes }
+	1420.3.20={ death=yes }
+}
+1019929923={
+	name=Ficpam
+	dynasty=1009990266
+	dna="njehihpamfc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=gardener add_trait=greedy add_trait=gregarious add_trait=humble 
+	father=1019929917	#Huilla
+	1347.11.12={ birth=yes }
+	1428.4.14={ death=yes }
+}
+1019929924={
+	name=Nina
+	female=yes
+	dynasty=1009990266
+	dna="kolbnhdanfn"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929917	#Huilla
+	1352.5.24={ birth=yes }
+	1396.12.15={ death=yes }
+}
+1019929925={
+	name=Tino
+	dynasty=1009990266
+	dna="kmeidkmejdk"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=scholar add_trait=deceitful add_trait=craven add_trait=content 
+	add_trait=slothful  
+	father=1019929922	#Anco
+	1363.8.1={ birth=yes }
+	1433.4.14={ death=yes }
+}
+1019929926={
+	name=Maiara
+	female=yes
+	dynasty=1009990266
+	dna="lfhjpcpeldc"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929922	#Anco
+	1366.12.24={ birth=yes }
+	1423.2.22={ death=yes }
+}
+1019929927={
+	name=Ficpam
+	dynasty=1009990266
+	dna="fmkhkhpejde"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=8 learning=5
+	add_trait=naive_appeaser  add_trait=wroth add_trait=trusting add_trait=charitable 
+	add_trait=ambitious add_trait=chaste add_trait=depressed 
+	father=1019929922	#Anco
+	1371.9.25={ birth=yes }
+	1425.11.9={ death=yes }
+}
+1019929928={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990266
+	dna="omehkhppidp"
+	culture=tiwanakan religion=tiwanakan_pagan
+	father=1019929922	#Anco
+	1373.4.9={ birth=yes }
+	1433.11.2={ death=yes }
+}
+1019929929={
+	name=Hualpa
+	dynasty=1009990266
+	dna="flehnegmjde"
+	culture=tiwanakan religion=tiwanakan_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=4 learning=8
+	add_trait=tough_soldier add_trait=ambitious add_trait=envious add_trait=craven add_trait=gregarious 
+	
+	father=1019929922	#Anco
+	1376.5.27={ birth=yes }
+	1421.7.23={ death=yes }
+}
+1019929930={
+	name=Aman
+	dynasty=1009990267
+	dna="mjnommajcln"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=just add_trait=slothful add_trait=honest 
+	719.1.18={ birth=yes }
+	784.6.16={ death=yes }
+}
+1019929931={
+	name=Aman
+	dynasty=1009990267
+	dna="djnohbajgln"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	add_trait=misguided_warrior add_trait=diligent add_trait=temperate add_trait=ambitious add_trait=trusting 
+	add_trait=stressed 
+	father=1019929930	#Aman
+	740.12.8={ birth=yes }
+	803.10.25={ death=yes }
+}
+1019929932={
+	name=Nina
+	female=yes
+	dynasty=1009990267
+	dna="ajkfmeaocln"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929930	#Aman
+	746.1.27={ birth=yes }
+	806.12.12={ death=yes }
+}
+1019929933={
+	name=Ana
+	female=yes
+	dynasty=1009990267
+	dna="njkofeajajg"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929930	#Aman
+	749.10.3={ birth=yes }
+	837.1.26={ death=yes }
+}
+1019929934={
+	name=Kantuta
+	female=yes
+	dynasty=1009990267
+	dna="gaiopdamjll"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929930	#Aman
+	754.1.21={ birth=yes }
+	840.3.13={ death=yes }
+}
+1019929935={
+	name=Hualpa
+	dynasty=1009990267
+	dna="egnommajcln"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	add_trait=indulgent_wastrel add_trait=arbitrary add_trait=slothful  add_trait=ambitious 
+	add_trait=greedy add_trait=lisp 
+	father=1019929930	#Aman
+	757.8.8={ birth=yes }
+	843.8.30={ death=yes }
+}
+1019929936={
+	name=Kantuta
+	female=yes
+	dynasty=1009990267
+	dna="mjbimjadcbn"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929930	#Aman
+	761.4.7={ birth=yes }
+	833.12.5={ death=yes }
+}
+1019929937={
+	name=Ana
+	female=yes
+	dynasty=1009990267
+	dna="djkpdoabdbg"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929931	#Aman
+	769.7.17={ birth=yes }
+	841.9.25={ death=yes }
+}
+1019929938={
+	name=Aman
+	dynasty=1009990267
+	dna="cgnmgbgjgon"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=gluttonous add_trait=wroth add_trait=envious add_trait=arbitrary 
+	father=1019929931	#Aman
+	773.8.5={ birth=yes }
+	835.6.15={ death=yes }
+}
+1019929939={
+	name=Fama
+	dynasty=1009990267
+	dna="dcooimejgnn"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=gregarious add_trait=temperate add_trait=lustful add_trait=envious 
+	add_trait=patient 
+	father=1019929931	#Aman
+	778.3.6={ birth=yes }
+	858.5.18={ death=yes }
+}
+1019929940={
+	name=Ficpam
+	dynasty=1009990267
+	dna="djnphbmjdln"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=5 learning=8
+	add_trait=martial_cleric add_trait=lustful add_trait=diligent 
+	father=1019929931	#Aman
+	781.10.6={ birth=yes }
+	846.1.22={ death=yes }
+}
+1019929941={
+	name=Hualpa
+	dynasty=1009990267
+	dna="djnojbajglk"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=honest add_trait=zealous add_trait=chaste add_trait=possessed 
+	father=1019929931	#Aman
+	785.11.8={ birth=yes }
+	842.5.3={ death=yes }
+}
+1019929942={
+	name=Kantuta
+	female=yes
+	dynasty=1009990267
+	dna="bgeohbajgmn"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929931	#Aman
+	792.11.24={ birth=yes }
+	867.4.27={ death=yes }
+}
+1019929943={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990267
+	dna="djoodpbbgbn"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929931	#Aman
+	795.11.21={ birth=yes }
+	857.3.8={ death=yes }
+}
+1019929944={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990267
+	dna="jikegcdgdpn"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929938	#Aman
+	801.6.20={ birth=yes }
+	861.12.6={ death=yes }
+}
+1019929945={
+	name=Aman
+	dynasty=1009990267
+	dna="pgncnpgigog"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=brave add_trait=lustful add_trait=wounded 
+	father=1019929938	#Aman
+	806.6.27={ birth=yes }
+	894.4.6={ death=yes }
+}
+1019929946={
+	name=Kantuta
+	female=yes
+	dynasty=1009990267
+	dna="cjnmhnajghn"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929938	#Aman
+	812.10.5={ birth=yes }
+	911.11.9={ death=yes }
+}
+1019929947={
+	name=Maiara
+	female=yes
+	dynasty=1009990267
+	dna="cdgegigjhon"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929938	#Aman
+	817.2.11={ birth=yes }
+	904.8.21={ death=yes }
+}
+1019929948={
+	name=Tino
+	dynasty=1009990267
+	dna="pgncmpjidoo"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=misguided_warrior add_trait=temperate add_trait=ambitious add_trait=greedy 
+	father=1019929945	#Aman
+	837.12.7={ birth=yes }
+	917.12.16={ death=yes }
+}
+1019929949={
+	name=Kantuta
+	female=yes
+	dynasty=1009990267
+	dna="phcfepgigmg"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929945	#Aman
+	842.12.17={ birth=yes }
+	891.4.28={ death=yes }
+}
+1019929950={
+	name=Tucuma
+	dynasty=1009990267
+	dna="pgncnagibog"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	add_trait=scholarly_theologian add_trait=deceitful add_trait=greedy add_trait=paranoid  
+	add_trait=depressed 
+	father=1019929945	#Aman
+	847.7.13={ birth=yes }
+	910.7.21={ death=yes }
+}
+1019929951={
+	name=Chamijo
+	dynasty=1009990267
+	dna="bgepnabigpg"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=duelist add_trait=patient add_trait=honest add_trait=trusting 
+	add_trait=zealous 
+	father=1019929945	#Aman
+	850.4.2={ birth=yes }
+	918.4.4={ death=yes }
+}
+1019929952={
+	name=Kantuta
+	female=yes
+	dynasty=1009990267
+	dna="achmmpjfmio"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929948	#Tino
+	866.2.15={ birth=yes }
+	921.12.29={ death=yes }
+}
+1019929953={
+	name=Hualpa
+	dynasty=1009990267
+	dna="aggclfindoo"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=trusting add_trait=zealous 
+	father=1019929948	#Tino
+	871.6.25={ birth=yes }
+	932.4.22={ death=yes }
+}
+1019929954={
+	name=Ismi
+	dynasty=1009990267
+	dna="hincmlcidho"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	add_trait=mastermind_theologian add_trait=chaste add_trait=envious add_trait=shy 
+	father=1019929948	#Tino
+	875.7.23={ birth=yes }
+	942.4.18={ death=yes }
+}
+1019929955={
+	name=Tucuma
+	dynasty=1009990267
+	dna="cgdcmdjgbaj"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=patient add_trait=zealous 
+	father=1019929948	#Tino
+	880.3.18={ birth=yes }
+	936.8.5={ death=yes }
+}
+1019929956={
+	name=Anco
+	dynasty=1009990267
+	dna="aggcjnonbdo"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=arbitrary add_trait=temperate 
+	father=1019929953	#Hualpa
+	901.12.19={ birth=yes }
+	986.4.27={ death=yes }
+}
+1019929957={
+	name=Tancol
+	dynasty=1009990267
+	dna="acjnlmpndak"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	add_trait=indulgent_wastrel add_trait=charitable add_trait=honest add_trait=possessed 
+	father=1019929953	#Hualpa
+	905.10.7={ birth=yes }
+	964.3.13={ death=yes }
+}
+1019929958={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990267
+	dna="nggplfcndoo"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929953	#Hualpa
+	911.10.13={ birth=yes }
+	996.8.24={ death=yes }
+}
+1019929959={
+	name=Kantuta
+	female=yes
+	dynasty=1009990267
+	dna="nggcjklnbai"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929956	#Anco
+	931.3.10={ birth=yes }
+	1002.1.15={ death=yes }
+}
+1019929960={
+	name=Huilla
+	dynasty=1009990267
+	dna="ceecjdonenk"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=8 learning=8
+	add_trait=elusive_shadow add_trait=impaler add_trait=charitable add_trait=brave add_trait=wroth 
+	father=1019929956	#Anco
+	935.7.5={ birth=yes }
+	990.11.23={ death=yes }
+}
+1019929961={
+	name=Anto
+	dynasty=1009990267
+	dna="ofenjdohepd"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=trusting add_trait=diligent add_trait=envious add_trait=gregarious 
+	father=1019929960	#Huilla
+	957.8.12={ birth=yes }
+	1048.8.22={ death=yes }
+}
+1019929962={
+	name=Axomamma
+	female=yes
+	dynasty=1009990267
+	dna="klecipodkni"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929960	#Huilla
+	962.7.24={ birth=yes }
+	1034.2.24={ death=yes }
+}
+1019929963={
+	name=Anto
+	dynasty=1009990267
+	dna="ofenhfdhepg"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=gluttonous add_trait=zealous add_trait=quick 
+	father=1019929961	#Anto
+	980.1.5={ birth=yes }
+	1049.8.19={ death=yes }
+}
+1019929964={
+	name=Anto
+	dynasty=1009990267
+	dna="bfemegohhpd"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=7 learning=6
+	add_trait=indulgent_wastrel add_trait=zealous add_trait=chaste add_trait=charitable add_trait=just 
+	father=1019929961	#Anto
+	985.4.13={ birth=yes }
+	1021.7.4={ death=yes }
+}
+1019929965={
+	name=Fama
+	dynasty=1009990267
+	dna="ojempfdlhpg"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=4 learning=7
+	add_trait=elusive_shadow add_trait=lustful add_trait=gluttonous add_trait=arbitrary add_trait=greedy 
+	add_trait=content 
+	father=1019929963	#Anto
+	1002.6.10={ birth=yes }
+	1084.9.1={ death=yes }
+}
+1019929966={
+	name=Kantuta
+	female=yes
+	dynasty=1009990267
+	dna="oboimfhhepb"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929963	#Anto
+	1008.10.9={ birth=yes }
+	1104.5.1={ death=yes }
+}
+1019929967={
+	name=Ismi
+	dynasty=1009990267
+	dna="ofmnhbdhefg"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=8
+	add_trait=grey_eminence add_trait=brave add_trait=zealous add_trait=lustful add_trait=trusting 
+	add_trait=just add_trait=diligent 
+	father=1019929963	#Anto
+	1010.3.23={ birth=yes }
+	1083.8.9={ death=yes }
+}
+1019929968={
+	name=Viltipoco
+	dynasty=1009990267
+	dna="aaebpfohipg"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=intricate_webweaver add_trait=celibate add_trait=humble 
+	father=1019929965	#Fama
+	1027.6.3={ birth=yes }
+	1092.9.24={ death=yes }
+}
+1019929969={
+	name=Cafa
+	dynasty=1009990267
+	dna="jjagpfkkchg"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=6 learning=4
+	add_trait=intricate_webweaver add_trait=slothful add_trait=greedy add_trait=brave add_trait=ill 
+	father=1019929965	#Fama
+	1035.3.19={ birth=yes }
+	1099.5.11={ death=yes }
+}
+1019929970={
+	name=Axomamma
+	female=yes
+	dynasty=1009990267
+	dna="ojempfhlepb"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929965	#Fama
+	1039.4.13={ birth=yes }
+	1118.2.21={ death=yes }
+}
+1019929971={
+	name=Ficpam
+	dynasty=1009990267
+	dna="acmmpfghpag"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	add_trait=grey_eminence add_trait=humble add_trait=gluttonous add_trait=brave 
+	add_trait=stressed 
+	father=1019929968	#Viltipoco
+	1053.6.11={ birth=yes }
+	1123.7.1={ death=yes }
+}
+1019929972={
+	name=Nina
+	female=yes
+	dynasty=1009990267
+	dna="gadbploiipp"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929968	#Viltipoco
+	1058.4.11={ birth=yes }
+	1135.3.13={ death=yes }
+}
+1019929973={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990267
+	dna="kaebefknkng"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929968	#Viltipoco
+	1063.8.26={ birth=yes }
+	1122.6.13={ death=yes }
+}
+1019929974={
+	name=Tucuma
+	dynasty=1009990267
+	dna="ahebnfmhnpg"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=8
+	add_trait=misguided_warrior add_trait=brave add_trait=diligent add_trait=temperate add_trait=cynical 
+	add_trait=patient add_trait=wounded 
+	father=1019929968	#Viltipoco
+	1067.1.12={ birth=yes }
+	1145.7.7={ death=yes }
+}
+1019929975={
+	name=Anco
+	dynasty=1009990267
+	dna="ogmepfahpag"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=zealous add_trait=diligent add_trait=deceitful add_trait=chaste 
+	father=1019929971	#Ficpam
+	1083.6.24={ birth=yes }
+	1152.4.12={ death=yes }
+}
+1019929976={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990267
+	dna="pcjainjhkaj"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929971	#Ficpam
+	1087.11.5={ birth=yes }
+	1172.10.17={ death=yes }
+}
+1019929977={
+	name=Maiara
+	female=yes
+	dynasty=1009990267
+	dna="accmeggdkag"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929971	#Ficpam
+	1091.6.25={ birth=yes }
+	1155.11.1={ death=yes }
+}
+1019929978={
+	name=Kantuta
+	female=yes
+	dynasty=1009990267
+	dna="ogddpkpjpaj"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929975	#Anco
+	1103.11.21={ birth=yes }
+	1139.3.21={ death=yes }
+}
+1019929979={
+	name=Huanchicay
+	dynasty=1009990267
+	dna="efmcpiahlag"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=4
+	add_trait=elusive_shadow add_trait=paranoid add_trait=brave add_trait=gregarious 
+	father=1019929975	#Anco
+	1107.9.15={ birth=yes }
+	1200.8.19={ death=yes }
+}
+1019929980={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990267
+	dna="bbdhnfpeaao"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929975	#Anco
+	1109.10.12={ birth=yes }
+	1171.10.27={ death=yes }
+}
+1019929981={
+	name=Huanchicay
+	dynasty=1009990267
+	dna="ogmjpoampag"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=4
+	add_trait=grey_eminence add_trait=diligent add_trait=proud add_trait=greedy add_trait=just 
+	add_trait=ugly 
+	father=1019929975	#Anco
+	1113.11.23={ birth=yes }
+	1175.7.29={ death=yes }
+}
+1019929982={
+	name=Huilla
+	dynasty=1009990267
+	dna="hhmhpgchpaa"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	add_trait=grey_eminence add_trait=slothful add_trait=shy add_trait=wroth 
+	father=1019929979	#Huanchicay
+	1135.4.16={ birth=yes }
+	1223.2.1={ death=yes }
+}
+1019929983={
+	name=Viltipoco
+	dynasty=1009990267
+	dna="eimcpjlhdig"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=7
+	add_trait=intricate_webweaver add_trait=content add_trait=arbitrary add_trait=lustful add_trait=quick 
+	father=1019929979	#Huanchicay
+	1140.2.18={ birth=yes }
+	1228.8.22={ death=yes }
+}
+1019929984={
+	name=Anto
+	dynasty=1009990267
+	dna="phhcpkndljn"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=content add_trait=patient add_trait=humble add_trait=gregarious 
+	add_trait=arbitrary 
+	father=1019929979	#Huanchicay
+	1143.8.24={ birth=yes }
+	1201.9.21={ death=yes }
+}
+1019929985={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990267
+	dna="edmcllahlbc"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929979	#Huanchicay
+	1148.5.19={ birth=yes }
+	1212.3.9={ death=yes }
+}
+1019929986={
+	name=Fama
+	dynasty=1009990267
+	dna="afecpnchhfg"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=temperate add_trait=zealous add_trait=gregarious 
+	father=1019929979	#Huanchicay
+	1155.3.17={ birth=yes }
+	1229.3.25={ death=yes }
+}
+1019929987={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990267
+	dna="flhcpnjkhaj"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929979	#Huanchicay
+	1157.4.16={ birth=yes }
+	1197.9.13={ death=yes }
+}
+1019929988={
+	name=Nina
+	female=yes
+	dynasty=1009990267
+	dna="efmcpedelag"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929979	#Huanchicay
+	1160.2.26={ birth=yes }
+	1242.11.23={ death=yes }
+}
+1019929989={
+	name=Payo
+	dynasty=1009990267
+	dna="aimhpgcepab"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=trusting add_trait=shy add_trait=humble 
+	add_trait=possessed 
+	father=1019929982	#Huilla
+	1158.5.19={ birth=yes }
+	1230.10.15={ death=yes }
+}
+1019929990={
+	name=Axomamma
+	female=yes
+	dynasty=1009990267
+	dna="hhbbfgihled"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929982	#Huilla
+	1162.12.9={ birth=yes }
+	1222.8.3={ death=yes }
+}
+1019929991={
+	name=Maiara
+	female=yes
+	dynasty=1009990267
+	dna="hamhpgchpaa"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929982	#Huilla
+	1165.1.22={ birth=yes }
+	1248.3.30={ death=yes }
+}
+1019929992={
+	name=Anto
+	dynasty=1009990267
+	dna="kfmhpeclcac"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=celibate add_trait=proud add_trait=patient 
+	add_trait=lustful add_trait=possessed 
+	father=1019929982	#Huilla
+	1170.9.1={ birth=yes }
+	1229.8.7={ death=yes }
+}
+1019929993={
+	name=Kantuta
+	female=yes
+	dynasty=1009990267
+	dna="hhmppgddfaa"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929982	#Huilla
+	1173.6.3={ birth=yes }
+	1240.3.2={ death=yes }
+}
+1019929994={
+	name=Tino
+	dynasty=1009990267
+	dna="fhmhhnmhgaa"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=gardener add_trait=paranoid add_trait=lustful 
+	father=1019929982	#Huilla
+	1177.4.23={ birth=yes }
+	1234.7.4={ death=yes }
+}
+1019929995={
+	name=Viltipoco
+	dynasty=1009990267
+	dna="hhllpghhpbe"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=6 learning=5
+	add_trait=flamboyant_schemer  add_trait=patient add_trait=ambitious add_trait=greedy 
+	father=1019929982	#Huilla
+	1182.11.23={ birth=yes }
+	1251.2.28={ death=yes }
+}
+1019929996={
+	name=Hualpa
+	dynasty=1009990267
+	dna="apcbpgcjfoi"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	add_trait=indulgent_wastrel add_trait=trusting add_trait=gregarious add_trait=arbitrary 
+	father=1019929989	#Payo
+	1184.5.6={ birth=yes }
+	1261.1.16={ death=yes }
+}
+1019929997={
+	name=Axomamma
+	female=yes
+	dynasty=1009990267
+	dna="fbfmkgceeah"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929989	#Payo
+	1187.3.10={ birth=yes }
+	1268.2.15={ death=yes }
+}
+1019929998={
+	name=Ana
+	female=yes
+	dynasty=1009990267
+	dna="mimpphfekaj"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929989	#Payo
+	1191.1.4={ birth=yes }
+	1244.4.26={ death=yes }
+}
+1019929999={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990267
+	dna="ncibbnchfoo"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929996	#Hualpa
+	1211.12.21={ birth=yes }
+	1280.10.14={ death=yes }
+}
+1019930000={
+	name=Aman
+	dynasty=1009990267
+	dna="dpcbcgckeoi"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=8 learning=8
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=ambitious add_trait=gregarious add_trait=gluttonous 
+	add_trait=arbitrary add_trait=chaste add_trait=proud 
+	father=1019929996	#Hualpa
+	1217.4.27={ birth=yes }
+	1285.6.20={ death=yes }
+}
+1019930001={
+	name=Kantuta
+	female=yes
+	dynasty=1009990267
+	dna="kicbpgajfho"
+	culture=diaguita religion=mapuche_pagan
+	father=1019929996	#Hualpa
+	1223.12.14={ birth=yes }
+	1297.4.1={ death=yes }
+}
+1019930002={
+	name=Hualpa
+	dynasty=1009990267
+	dna="dpcjpacjfoi"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=brave add_trait=just add_trait=gluttonous add_trait=ambitious 
+	add_trait=proud add_trait=patient 
+	father=1019929996	#Hualpa
+	1228.9.7={ birth=yes }
+	1289.1.29={ death=yes }
+}
+1019930003={
+	name=Huilla
+	dynasty=1009990267
+	dna="dncgbmckeki"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	add_trait=misguided_warrior add_trait=content add_trait=greedy 
+	father=1019930000	#Aman
+	1244.9.26={ birth=yes }
+	1292.10.11={ death=yes }
+}
+1019930004={
+	name=Nina
+	female=yes
+	dynasty=1009990267
+	dna="apcdcgclgnf"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930000	#Aman
+	1249.5.17={ birth=yes }
+	1310.10.2={ death=yes }
+}
+1019930005={
+	name=Tino
+	dynasty=1009990267
+	dna="dpibdacfpec"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	add_trait=thrifty_clerk add_trait=trusting add_trait=greedy  add_trait=arbitrary 
+	add_trait=zealous add_trait=honest 
+	father=1019930000	#Aman
+	1253.7.5={ birth=yes }
+	1316.7.19={ death=yes }
+}
+1019930006={
+	name=Cafa
+	dynasty=1009990267
+	dna="annpjdjkegi"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=brave add_trait=gluttonous add_trait=just 
+	father=1019930003	#Huilla
+	1276.10.14={ birth=yes }
+	1346.9.30={ death=yes }
+}
+1019930007={
+	name=Fama
+	dynasty=1009990267
+	dna="dnllcfaofgi"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	add_trait=intricate_webweaver add_trait=diligent add_trait=lustful add_trait=cynical add_trait=ill 
+	father=1019930003	#Huilla
+	1282.2.26={ birth=yes }
+	1366.11.2={ death=yes }
+}
+1019930008={
+	name=Anco
+	dynasty=1009990267
+	dna="mnckjfjkega"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=arbitrary add_trait=charitable 
+	father=1019930006	#Cafa
+	1304.4.26={ birth=yes }
+	1380.7.12={ death=yes }
+}
+1019930009={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990267
+	dna="eohkhkjkenm"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930006	#Cafa
+	1310.7.6={ birth=yes }
+	1365.7.25={ death=yes }
+}
+1019930010={
+	name=Ismi
+	dynasty=1009990267
+	dna="njppjdjmdkk"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=7 learning=8
+	add_trait=charismatic_negotiator add_trait=charitable  add_trait=shy add_trait=cynical 
+	add_trait=paranoid add_trait=deceitful 
+	father=1019930006	#Cafa
+	1318.12.27={ birth=yes }
+	1397.11.19={ death=yes }
+}
+1019930011={
+	name=Huanchicay
+	dynasty=1009990267
+	dna="mndkjkjkeia"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=ambitious add_trait=temperate 
+	father=1019930008	#Anco
+	1325.11.7={ birth=yes }
+	1398.10.18={ death=yes }
+}
+1019930012={
+	name=Tucuma
+	dynasty=1009990267
+	dna="cpnjjejgefd"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=cynical add_trait=deceitful add_trait=just add_trait=content 
+	father=1019930008	#Anco
+	1330.5.16={ birth=yes }
+	1416.10.29={ death=yes }
+}
+1019930013={
+	name=Nina
+	female=yes
+	dynasty=1009990267
+	dna="enckjaefega"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930008	#Anco
+	1334.8.13={ birth=yes }
+	1407.11.5={ death=yes }
+}
+1019930014={
+	name=Maiara
+	female=yes
+	dynasty=1009990267
+	dna="mnckjbjgela"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930008	#Anco
+	1339.3.21={ birth=yes }
+	1398.12.27={ death=yes }
+}
+1019930015={
+	name=Viltipoco
+	dynasty=1009990267
+	dna="neoojfokmgc"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=greedy add_trait=deceitful add_trait=brave 
+	add_trait=temperate add_trait=slothful 
+	father=1019930008	#Anco
+	1342.8.10={ birth=yes }
+	1424.4.24={ death=yes }
+}
+1019930016={
+	name=Huilla
+	dynasty=1009990267
+	dna="mnmkakgfgco"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=6
+	add_trait=tough_soldier add_trait=content add_trait=arbitrary add_trait=wounded 
+	father=1019930011	#Huanchicay
+	1352.3.1={ birth=yes }
+	1414.11.18={ death=yes }
+}
+1019930017={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990267
+	dna="hedkddoknaf"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930011	#Huanchicay
+	1359.6.18={ birth=yes }
+	1436.12.27={ death=yes }
+}
+1019930018={
+	name=Nina
+	female=yes
+	dynasty=1009990267
+	dna="mgodjjgbenf"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930011	#Huanchicay
+	1367.7.5={ birth=yes }
+	1446.1.16={ death=yes }
+}
+1019930019={
+	name=Maiara
+	female=yes
+	dynasty=1009990267
+	dna="mndkjgljeha"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930011	#Huanchicay
+	1373.6.25={ birth=yes }
+	1443.12.30={ death=yes }
+}
+1019930020={
+	name=Aman
+	dynasty=1009990267
+	dna="hnmkamgpgkd"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=7
+	add_trait=martial_cleric add_trait=zealous add_trait=patient add_trait=just add_trait=ambitious 
+	
+	father=1019930016	#Huilla
+	1376.4.13={ birth=yes }
+	1430.5.2={ death=yes }
+}
+1019930021={
+	name=Maiara
+	female=yes
+	dynasty=1009990267
+	dna="mcmkikjogfh"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930016	#Huilla
+	1382.5.1={ birth=yes }
+	1467.4.25={ death=yes }
+}
+1019930022={
+	name=Chamijo
+	dynasty=1009990267
+	dna="dakbikgffoo"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	add_trait=intricate_webweaver add_trait=proud add_trait=charitable add_trait=wroth add_trait=slothful 
+	add_trait=gregarious 
+	father=1019930016	#Huilla
+	1386.5.26={ birth=yes }
+	1444.8.25={ death=yes }
+}
+1019930023={
+	name=Anto
+	dynasty=1009990267
+	dna="anfkhdgogco"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=greedy add_trait=ambitious  add_trait=just 
+	add_trait=slothful 
+	father=1019930016	#Huilla
+	1392.3.2={ birth=yes }
+	1448.3.16={ death=yes }
+}
+1019930024={
+	name=Viltipoco
+	dynasty=1009990268
+	dna="ioghpfjcnkl"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=scholar add_trait=proud 
+	720.10.25={ birth=yes }
+	798.8.27={ death=yes }
+}
+1019930025={
+	name=Viltipoco
+	dynasty=1009990268
+	dna="iiaepnccnpm"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=8
+	add_trait=tough_soldier add_trait=craven add_trait=content add_trait=shy 
+	add_trait=just add_trait=depressed 
+	father=1019930024	#Viltipoco
+	744.10.20={ birth=yes }
+	830.1.30={ death=yes }
+}
+1019930026={
+	name=Ana
+	female=yes
+	dynasty=1009990268
+	dna="iohhpoaonkm"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930024	#Viltipoco
+	751.6.6={ birth=yes }
+	836.12.31={ death=yes }
+}
+1019930027={
+	name=Ismi
+	dynasty=1009990268
+	dna="jogepjpjnol"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=4 learning=5
+	add_trait=tough_soldier add_trait=temperate add_trait=ambitious add_trait=zealous 
+	father=1019930024	#Viltipoco
+	755.6.14={ birth=yes }
+	833.12.8={ death=yes }
+}
+1019930028={
+	name=Hualpa
+	dynasty=1009990268
+	dna="nieepodhnie"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=8 learning=4
+	add_trait=misguided_warrior add_trait=ambitious add_trait=craven add_trait=deceitful 
+	father=1019930025	#Viltipoco
+	765.5.1={ birth=yes }
+	854.2.6={ death=yes }
+}
+1019930029={
+	name=Ana
+	female=yes
+	dynasty=1009990268
+	dna="mihehncjfpe"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930025	#Viltipoco
+	770.4.10={ birth=yes }
+	826.9.13={ death=yes }
+}
+1019930030={
+	name=Ismi
+	dynasty=1009990268
+	dna="kgaeoncmjpk"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=6 learning=8
+	add_trait=detached_priest add_trait=scholar add_trait=charitable add_trait=honest 
+	add_trait=diligent add_trait=arbitrary 
+	father=1019930025	#Viltipoco
+	774.3.3={ birth=yes }
+	837.10.14={ death=yes }
+}
+1019930031={
+	name=Kantuta
+	female=yes
+	dynasty=1009990268
+	dna="iiaefecbjgm"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930025	#Viltipoco
+	777.5.18={ birth=yes }
+	842.6.16={ death=yes }
+}
+1019930032={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990268
+	dna="lmogpdefppm"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930025	#Viltipoco
+	782.6.18={ birth=yes }
+	868.8.4={ death=yes }
+}
+1019930033={
+	name=Kantuta
+	female=yes
+	dynasty=1009990268
+	dna="aieeinjcnje"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930028	#Hualpa
+	797.9.4={ birth=yes }
+	856.7.1={ death=yes }
+}
+1019930034={
+	name=Cafa
+	dynasty=1009990268
+	dna="nieepoofnie"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=patient add_trait=brave add_trait=honest 
+	father=1019930028	#Hualpa
+	799.6.7={ birth=yes }
+	879.8.26={ death=yes }
+}
+1019930035={
+	name=Aman
+	dynasty=1009990268
+	dna="njemdhjnnkb"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=scholar add_trait=charitable add_trait=slothful add_trait=wroth 
+	add_trait=gluttonous add_trait=chaste 
+	father=1019930028	#Hualpa
+	804.6.19={ birth=yes }
+	885.7.5={ death=yes }
+}
+1019930036={
+	name=Maiara
+	female=yes
+	dynasty=1009990268
+	dna="nieeppofnoa"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930034	#Cafa
+	827.2.1={ birth=yes }
+	891.10.11={ death=yes }
+}
+1019930037={
+	name=Payo
+	dynasty=1009990268
+	dna="nneodgdjide"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	add_trait=elusive_shadow add_trait=paranoid add_trait=honest add_trait=wroth add_trait=shy 
+	add_trait=content add_trait=temperate add_trait=slow 
+	father=1019930034	#Cafa
+	831.11.11={ birth=yes }
+	908.11.19={ death=yes }
+}
+1019930038={
+	name=Nina
+	female=yes
+	dynasty=1009990268
+	dna="iieepoonngn"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930034	#Cafa
+	838.12.17={ birth=yes }
+	898.9.29={ death=yes }
+}
+1019930039={
+	name=Huilla
+	dynasty=1009990268
+	dna="lieenboebia"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=7
+	add_trait=intricate_webweaver add_trait=shy add_trait=just add_trait=lustful add_trait=ambitious 
+	father=1019930034	#Cafa
+	845.2.8={ birth=yes }
+	917.8.27={ death=yes }
+}
+1019930040={
+	name=Anco
+	dynasty=1009990268
+	dna="ncgbdgojjdh"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=8 learning=4
+	add_trait=grey_eminence add_trait=hunter add_trait=envious add_trait=gluttonous add_trait=content 
+	add_trait=lustful add_trait=arbitrary 
+	father=1019930037	#Payo
+	854.3.12={ birth=yes }
+	923.8.22={ death=yes }
+}
+1019930041={
+	name=Axomamma
+	female=yes
+	dynasty=1009990268
+	dna="pojododjode"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930037	#Payo
+	862.7.6={ birth=yes }
+	923.1.7={ death=yes }
+}
+1019930042={
+	name=Ana
+	female=yes
+	dynasty=1009990268
+	dna="ehjcdgofaeh"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930040	#Anco
+	887.9.17={ birth=yes }
+	960.6.22={ death=yes }
+}
+1019930043={
+	name=Tancol
+	dynasty=1009990268
+	dna="njmbdgmhfdb"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=poet add_trait=charitable add_trait=paranoid 
+	father=1019930040	#Anco
+	895.8.19={ birth=yes }
+	965.4.6={ death=yes }
+}
+1019930044={
+	name=Ficpam
+	dynasty=1009990268
+	dna="ibbcdgoekcc"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=8
+	add_trait=tough_soldier add_trait=lustful add_trait=charitable 
+	father=1019930040	#Anco
+	901.3.27={ birth=yes }
+	982.11.30={ death=yes }
+}
+1019930045={
+	name=Nina
+	female=yes
+	dynasty=1009990268
+	dna="bcgmejdjedp"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930040	#Anco
+	907.12.18={ birth=yes }
+	994.10.24={ death=yes }
+}
+1019930046={
+	name=Tucuma
+	dynasty=1009990268
+	dna="fjhbdgmcfbp"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=mystic add_trait=deceitful add_trait=content add_trait=just 
+	add_trait=craven add_trait=wroth 
+	father=1019930043	#Tancol
+	922.8.18={ birth=yes }
+	986.6.29={ death=yes }
+}
+1019930047={
+	name=Axomamma
+	female=yes
+	dynasty=1009990268
+	dna="nnmldgcbfmb"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930043	#Tancol
+	927.12.23={ birth=yes }
+	1005.11.8={ death=yes }
+}
+1019930048={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990268
+	dna="nbobckmpfdb"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930043	#Tancol
+	934.6.3={ birth=yes }
+	1025.10.26={ death=yes }
+}
+1019930049={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990268
+	dna="nhmpagmljfo"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930043	#Tancol
+	940.2.26={ birth=yes }
+	1026.7.5={ death=yes }
+}
+1019930050={
+	name=Anto
+	dynasty=1009990268
+	dna="gihbppmfnbc"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=hunter add_trait=greedy add_trait=slothful 
+	add_trait=envious 
+	father=1019930046	#Tucuma
+	947.10.27={ birth=yes }
+	1013.12.5={ death=yes }
+}
+1019930051={
+	name=Maiara
+	female=yes
+	dynasty=1009990268
+	dna="fjlodgmchho"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930046	#Tucuma
+	954.7.8={ birth=yes }
+	1020.9.29={ death=yes }
+}
+1019930052={
+	name=Tancol
+	dynasty=1009990268
+	dna="djhcngmlfmp"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	add_trait=midas_touched add_trait=craven add_trait=envious add_trait=wounded 
+	father=1019930046	#Tucuma
+	957.11.25={ birth=yes }
+	1059.9.20={ death=yes }
+}
+1019930053={
+	name=Aman
+	dynasty=1009990268
+	dna="fpkbgkmcfal"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=temperate add_trait=deceitful add_trait=wroth add_trait=brave 
+	add_trait=paranoid add_trait=depressed 
+	father=1019930046	#Tucuma
+	962.8.2={ birth=yes }
+	1017.3.20={ death=yes }
+}
+1019930054={
+	name=Anto
+	dynasty=1009990268
+	dna="fjhbalpomip"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=honest add_trait=craven add_trait=wroth add_trait=lustful 
+	father=1019930046	#Tucuma
+	966.5.25={ birth=yes }
+	1051.7.17={ death=yes }
+}
+1019930055={
+	name=Nina
+	female=yes
+	dynasty=1009990268
+	dna="fbhlfglcfjp"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930046	#Tucuma
+	969.7.11={ birth=yes }
+	1041.10.5={ death=yes }
+}
+1019930056={
+	name=Ana
+	female=yes
+	dynasty=1009990268
+	dna="fjdedgmcadj"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930046	#Tucuma
+	974.7.24={ birth=yes }
+	1073.4.2={ death=yes }
+}
+1019930057={
+	name=Nina
+	female=yes
+	dynasty=1009990268
+	dna="afhbflmffbc"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930050	#Anto
+	976.6.19={ birth=yes }
+	1080.8.28={ death=yes }
+}
+1019930058={
+	name=Tucuma
+	dynasty=1009990268
+	dna="mikbpfmmgoj"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=just add_trait=proud add_trait=ambitious add_trait=craven 
+	father=1019930050	#Anto
+	983.7.26={ birth=yes }
+	1069.7.20={ death=yes }
+}
+1019930059={
+	name=Anto
+	dynasty=1009990268
+	dna="mikdpbbeaoj"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=6 learning=8
+	add_trait=skilled_tactician add_trait=craven add_trait=envious add_trait=diligent 
+	father=1019930058	#Tucuma
+	1011.2.1={ birth=yes }
+	1097.6.18={ death=yes }
+}
+1019930060={
+	name=Huilla
+	dynasty=1009990268
+	dna="ldkhpfmhnkm"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=lustful add_trait=brave add_trait=paranoid 
+	father=1019930058	#Tucuma
+	1015.8.16={ birth=yes }
+	1082.10.31={ death=yes }
+}
+1019930061={
+	name=Axomamma
+	female=yes
+	dynasty=1009990268
+	dna="fhkbpfbmiob"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930058	#Tucuma
+	1020.10.8={ birth=yes }
+	1081.12.14={ death=yes }
+}
+1019930062={
+	name=Huanchicay
+	dynasty=1009990268
+	dna="micdhbegfml"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=scholar add_trait=slothful add_trait=trusting add_trait=honest 
+	add_trait=proud 
+	father=1019930059	#Anto
+	1038.8.21={ birth=yes }
+	1132.9.21={ death=yes }
+}
+1019930063={
+	name=Ana
+	female=yes
+	dynasty=1009990268
+	dna="fmkdgebeaoi"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930059	#Anto
+	1042.10.6={ birth=yes }
+	1113.6.3={ death=yes }
+}
+1019930064={
+	name=Kantuta
+	female=yes
+	dynasty=1009990268
+	dna="jdfdnaeniol"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930059	#Anto
+	1050.6.4={ birth=yes }
+	1129.11.1={ death=yes }
+}
+1019930065={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990268
+	dna="cikpncheiob"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930059	#Anto
+	1056.11.15={ birth=yes }
+	1160.2.22={ death=yes }
+}
+1019930066={
+	name=Fama
+	dynasty=1009990268
+	dna="enjdabbglml"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=5 learning=5
+	add_trait=elusive_shadow add_trait=honest add_trait=chaste add_trait=zealous 
+	father=1019930062	#Huanchicay
+	1058.11.1={ birth=yes }
+	1139.8.3={ death=yes }
+}
+1019930067={
+	name=Ana
+	female=yes
+	dynasty=1009990268
+	dna="miokhbggfml"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930062	#Huanchicay
+	1063.6.17={ birth=yes }
+	1125.5.23={ death=yes }
+}
+1019930068={
+	name=Tancol
+	dynasty=1009990268
+	dna="mmcdhbegcph"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=humble add_trait=slothful add_trait=brave add_trait=greedy 
+	father=1019930062	#Huanchicay
+	1069.11.2={ birth=yes }
+	1132.3.2={ death=yes }
+}
+1019930069={
+	name=Anto
+	dynasty=1009990268
+	dna="diajhbfofje"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	add_trait=scholarly_theologian add_trait=patient add_trait=diligent add_trait=craven add_trait=wounded 
+	add_trait=ugly 
+	father=1019930062	#Huanchicay
+	1074.5.24={ birth=yes }
+	1143.4.25={ death=yes }
+}
+1019930070={
+	name=Cafa
+	dynasty=1009990268
+	dna="bicghbfgijm"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=slothful add_trait=brave add_trait=lustful 
+	father=1019930062	#Huanchicay
+	1078.11.11={ birth=yes }
+	1143.11.17={ death=yes }
+}
+1019930071={
+	name=Chamijo
+	dynasty=1009990268
+	dna="gnjaabbmlgn"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=7 learning=5
+	add_trait=indulgent_wastrel add_trait=diligent add_trait=temperate add_trait=honest add_trait=arbitrary 
+	father=1019930066	#Fama
+	1084.10.21={ birth=yes }
+	1155.8.25={ death=yes }
+}
+1019930072={
+	name=Axomamma
+	female=yes
+	dynasty=1009990268
+	dna="anefalbglld"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930066	#Fama
+	1092.5.1={ birth=yes }
+	1147.2.22={ death=yes }
+}
+1019930073={
+	name=Ismi
+	dynasty=1009990268
+	dna="eodglcbjmml"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=misguided_warrior add_trait=brave 
+	father=1019930066	#Fama
+	1097.3.10={ birth=yes }
+	1177.5.28={ death=yes }
+}
+1019930074={
+	name=Chamijo
+	dynasty=1009990268
+	dna="gloaakmcndg"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	add_trait=scholarly_theologian add_trait=celibate add_trait=paranoid add_trait=arbitrary add_trait=diligent 
+	add_trait=lustful 
+	father=1019930071	#Chamijo
+	1113.4.13={ birth=yes }
+	1181.5.18={ death=yes }
+}
+1019930075={
+	name=Ismi
+	dynasty=1009990268
+	dna="pmoaajpmlfn"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=8 learning=4
+	add_trait=scholarly_theologian add_trait=gluttonous add_trait=envious add_trait=paranoid add_trait=lustful 
+	add_trait=cynical add_trait=shy add_trait=drunkard 
+	father=1019930071	#Chamijo
+	1116.11.26={ birth=yes }
+	1178.7.31={ death=yes }
+}
+1019930076={
+	name=Kantuta
+	female=yes
+	dynasty=1009990268
+	dna="cejaofbglgh"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930071	#Chamijo
+	1121.3.13={ birth=yes }
+	1179.9.1={ death=yes }
+}
+1019930077={
+	name=Chamijo
+	dynasty=1009990268
+	dna="gcjmjafmlgn"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=brave 
+	father=1019930071	#Chamijo
+	1124.3.11={ birth=yes }
+	1212.1.21={ death=yes }
+}
+1019930078={
+	name=Axomamma
+	female=yes
+	dynasty=1009990268
+	dna="anbaabbmlpn"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930071	#Chamijo
+	1130.8.5={ birth=yes }
+	1215.9.2={ death=yes }
+}
+1019930079={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990268
+	dna="beomnkocnbn"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930074	#Chamijo
+	1142.1.21={ birth=yes }
+	1204.6.18={ death=yes }
+}
+1019930080={
+	name=Fama
+	dynasty=1009990268
+	dna="lbolckaconm"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=hunter add_trait=craven add_trait=chaste add_trait=humble 
+	father=1019930074	#Chamijo
+	1146.4.19={ birth=yes }
+	1203.12.12={ death=yes }
+}
+1019930081={
+	name=Ana
+	female=yes
+	dynasty=1009990268
+	dna="pidgapmnncj"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930074	#Chamijo
+	1149.10.10={ birth=yes }
+	1243.2.10={ death=yes }
+}
+1019930082={
+	name=Huilla
+	dynasty=1009990268
+	dna="pbolmegcojg"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=4 learning=5
+	add_trait=charismatic_negotiator add_trait=lustful add_trait=honest add_trait=brave add_trait=diligent 
+	add_trait=stressed 
+	father=1019930080	#Fama
+	1173.12.21={ birth=yes }
+	1253.1.11={ death=yes }
+}
+1019930083={
+	name=Huanchicay
+	dynasty=1009990268
+	dna="gjhdlcaconf"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=humble add_trait=slothful add_trait=envious add_trait=greedy 
+	add_trait=trusting 
+	father=1019930080	#Fama
+	1177.9.22={ birth=yes }
+	1232.3.9={ death=yes }
+}
+1019930084={
+	name=Ficpam
+	dynasty=1009990268
+	dna="lbokdkkaknm"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=impaler add_trait=zealous add_trait=charitable add_trait=just 
+	add_trait=paranoid add_trait=chaste 
+	father=1019930080	#Fama
+	1181.12.6={ birth=yes }
+	1248.3.26={ death=yes }
+}
+1019930085={
+	name=Huilla
+	dynasty=1009990268
+	dna="kfilfelcbka"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	add_trait=martial_cleric add_trait=hedonist add_trait=shy add_trait=envious add_trait=gluttonous 
+	add_trait=humble 
+	father=1019930080	#Fama
+	1184.1.6={ birth=yes }
+	1257.7.24={ death=yes }
+}
+1019930086={
+	name=Payo
+	dynasty=1009990268
+	dna="lbjljjhckae"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=duelist add_trait=brave add_trait=chaste 
+	add_trait=proud add_trait=cynical add_trait=gluttonous 
+	father=1019930080	#Fama
+	1188.12.9={ birth=yes }
+	1292.2.16={ death=yes }
+}
+1019930087={
+	name=Aman
+	dynasty=1009990268
+	dna="pbopmegccpg"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	add_trait=tough_soldier add_trait=gluttonous add_trait=shy add_trait=humble 
+	father=1019930082	#Huilla
+	1200.9.20={ birth=yes }
+	1303.5.17={ death=yes }
+}
+1019930088={
+	name=Maiara
+	female=yes
+	dynasty=1009990268
+	dna="obolcplcelg"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930082	#Huilla
+	1205.10.15={ birth=yes }
+	1292.3.29={ death=yes }
+}
+1019930089={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990268
+	dna="pfokddgpojo"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930082	#Huilla
+	1209.1.8={ birth=yes }
+	1289.1.6={ death=yes }
+}
+1019930090={
+	name=Ana
+	female=yes
+	dynasty=1009990268
+	dna="denlleggojg"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930082	#Huilla
+	1211.4.3={ birth=yes }
+	1290.2.21={ death=yes }
+}
+1019930091={
+	name=Ismi
+	dynasty=1009990268
+	dna="pboeledckbm"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=honest add_trait=ambitious add_trait=arbitrary add_trait=drunkard 
+	add_trait=possessed 
+	father=1019930082	#Huilla
+	1216.11.26={ birth=yes }
+	1270.12.16={ death=yes }
+}
+1019930092={
+	name=Fama
+	dynasty=1009990268
+	dna="hbgpmegkedg"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	add_trait=mastermind_theologian add_trait=wroth add_trait=gregarious add_trait=temperate 
+	father=1019930087	#Aman
+	1226.6.19={ birth=yes }
+	1280.4.20={ death=yes }
+}
+1019930093={
+	name=Ficpam
+	dynasty=1009990268
+	dna="paopoegcplm"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=4
+	add_trait=tough_soldier add_trait=duelist add_trait=proud add_trait=envious add_trait=honest 
+	add_trait=possessed 
+	father=1019930087	#Aman
+	1232.10.13={ birth=yes }
+	1296.7.23={ death=yes }
+}
+1019930094={
+	name=Cafa
+	dynasty=1009990268
+	dna="pjjfmdggopp"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=gardener add_trait=brave add_trait=arbitrary add_trait=charitable 
+	father=1019930087	#Aman
+	1234.7.27={ birth=yes }
+	1304.5.7={ death=yes }
+}
+1019930095={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990268
+	dna="hkfpmegmbdg"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930092	#Fama
+	1255.7.8={ birth=yes }
+	1309.1.24={ death=yes }
+}
+1019930096={
+	name=Hualpa
+	dynasty=1009990268
+	dna="mbgpmegkeal"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=8 learning=6
+	add_trait=intricate_webweaver add_trait=trusting add_trait=arbitrary add_trait=chaste  
+	father=1019930092	#Fama
+	1261.10.13={ birth=yes }
+	1319.8.22={ death=yes }
+}
+1019930097={
+	name=Maiara
+	female=yes
+	dynasty=1009990268
+	dna="lcgpmegknoc"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930092	#Fama
+	1266.6.23={ birth=yes }
+	1335.9.30={ death=yes }
+}
+1019930098={
+	name=Payo
+	dynasty=1009990268
+	dna="bhgkmbgaidn"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=greedy add_trait=envious add_trait=lustful add_trait=deceitful 
+	add_trait=gregarious add_trait=ambitious 
+	father=1019930092	#Fama
+	1269.7.8={ birth=yes }
+	1354.1.27={ death=yes }
+}
+1019930099={
+	name=Ficpam
+	dynasty=1009990268
+	dna="hjgccagcadg"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=7 learning=8
+	add_trait=thrifty_clerk add_trait=paranoid add_trait=gregarious add_trait=lustful 
+	add_trait=gluttonous add_trait=humble add_trait=drunkard 
+	father=1019930092	#Fama
+	1273.8.20={ birth=yes }
+	1331.10.4={ death=yes }
+}
+1019930100={
+	name=Cafa
+	dynasty=1009990268
+	dna="fbgpmiakkde"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=4 learning=6
+	add_trait=charismatic_negotiator add_trait=envious add_trait=arbitrary add_trait=patient add_trait=humble 
+	father=1019930092	#Fama
+	1278.9.23={ birth=yes }
+	1347.3.14={ death=yes }
+}
+1019930101={
+	name=Chamijo
+	dynasty=1009990268
+	dna="mbgamdjkgal"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=8 learning=8
+	add_trait=midas_touched add_trait=patient add_trait=arbitrary add_trait=brave add_trait=gluttonous 
+	add_trait=greedy 
+	father=1019930096	#Hualpa
+	1285.4.21={ birth=yes }
+	1354.9.7={ death=yes }
+}
+1019930102={
+	name=Tancol
+	dynasty=1009990268
+	dna="mbbhligacac"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=5 learning=6
+	add_trait=indulgent_wastrel add_trait=brave add_trait=lustful add_trait=arbitrary add_trait=stressed 
+	father=1019930096	#Hualpa
+	1288.11.22={ birth=yes }
+	1367.11.18={ death=yes }
+}
+1019930103={
+	name=Ficpam
+	dynasty=1009990268
+	dna="mbgpeeioiak"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=duelist add_trait=charitable add_trait=just add_trait=deceitful 
+	add_trait=drunkard 
+	father=1019930096	#Hualpa
+	1295.3.22={ birth=yes }
+	1356.5.15={ death=yes }
+}
+1019930104={
+	name=Anto
+	dynasty=1009990268
+	dna="mpgofigiefo"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=8
+	add_trait=mastermind_theologian add_trait=temperate add_trait=greedy add_trait=diligent 
+	father=1019930096	#Hualpa
+	1298.1.24={ birth=yes }
+	1355.10.25={ death=yes }
+}
+1019930105={
+	name=Hualpa
+	dynasty=1009990268
+	dna="oappdgghjna"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=craven add_trait=chaste add_trait=humble  
+	father=1019930096	#Hualpa
+	1304.8.5={ birth=yes }
+	1382.9.7={ death=yes }
+}
+1019930106={
+	name=Hualpa
+	dynasty=1009990268
+	dna="bmjpdkgkdal"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=impaler  add_trait=wroth add_trait=chaste 
+	father=1019930096	#Hualpa
+	1308.4.23={ birth=yes }
+	1370.7.31={ death=yes }
+}
+1019930107={
+	name=Anco
+	dynasty=1009990268
+	dna="mboelonhcpl"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=celibate add_trait=just add_trait=lustful add_trait=envious 
+	
+	father=1019930096	#Hualpa
+	1313.12.11={ birth=yes }
+	1399.6.21={ death=yes }
+}
+1019930108={
+	name=Kantuta
+	female=yes
+	dynasty=1009990268
+	dna="cbmgmkjnoal"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930101	#Chamijo
+	1312.6.16={ birth=yes }
+	1407.5.27={ death=yes }
+}
+1019930109={
+	name=Payo
+	dynasty=1009990268
+	dna="mobdbdjhlmh"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=8 learning=4
+	add_trait=martial_cleric add_trait=content add_trait=charitable add_trait=lustful add_trait=cynical 
+	 add_trait=proud add_trait=ill 
+	father=1019930101	#Chamijo
+	1317.12.6={ birth=yes }
+	1372.6.1={ death=yes }
+}
+1019930110={
+	name=Ismi
+	dynasty=1009990268
+	dna="hgpamdmkiam"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=5 learning=4
+	add_trait=intricate_webweaver add_trait=trusting  add_trait=diligent 
+	father=1019930101	#Chamijo
+	1320.12.15={ birth=yes }
+	1396.2.16={ death=yes }
+}
+1019930111={
+	name=Anto
+	dynasty=1009990268
+	dna="dgcdpdinkel"
+	culture=diaguita religion=mapuche_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=paranoid add_trait=humble add_trait=wroth add_trait=shy 
+	father=1019930109	#Payo
+	1349.11.12={ birth=yes }
+	1432.7.16={ death=yes }
+}
+1019930112={
+	name=Anto
+	dynasty=1009990268
+	dna="oobchgjhlma"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=4 learning=6
+	add_trait=skilled_tactician add_trait=patient add_trait=trusting add_trait=diligent  
+	add_trait=deceitful 
+	father=1019930109	#Payo
+	1354.7.11={ birth=yes }
+	1427.6.17={ death=yes }
+}
+1019930113={
+	name=Ismi
+	dynasty=1009990268
+	dna="mjbdkdjacmh"
+	culture=diaguita religion=mapuche_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=cynical add_trait=humble 
+	father=1019930109	#Payo
+	1359.12.14={ birth=yes }
+	1414.1.23={ death=yes }
+}
+1019930114={
+	name=Aman
+	dynasty=1009990268
+	dna="idbdbdhalme"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=shy add_trait=ambitious 
+	father=1019930109	#Payo
+	1365.12.3={ birth=yes }
+	1450.10.19={ death=yes }
+}
+1019930115={
+	name=Ficpam
+	dynasty=1009990268
+	dna="mogmpdjllfh"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=8 learning=4
+	add_trait=scholarly_theologian add_trait=deceitful add_trait=charitable  add_trait=humble 
+	add_trait=wounded 
+	father=1019930109	#Payo
+	1371.6.3={ birth=yes }
+	1426.1.6={ death=yes }
+}
+1019930116={
+	name=Anto
+	dynasty=1009990268
+	dna="oohdbnlhlmh"
+	culture=diaguita religion=mapuche_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=4 learning=5
+	add_trait=grey_eminence add_trait=craven add_trait=content add_trait=shy add_trait=envious 
+	father=1019930109	#Payo
+	1376.2.6={ birth=yes }
+	1459.12.31={ death=yes }
+}
+1019930117={
+	name=Ana
+	female=yes
+	dynasty=1009990268
+	dna="gobdbjjenah"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930109	#Payo
+	1379.3.24={ birth=yes }
+	1454.9.30={ death=yes }
+}
+1019930118={
+	name=Nina
+	female=yes
+	dynasty=1009990268
+	dna="ilomkdinhel"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930111	#Anto
+	1375.2.14={ birth=yes }
+	1458.8.18={ death=yes }
+}
+1019930119={
+	name=Nina
+	female=yes
+	dynasty=1009990268
+	dna="cgbdpdamgjh"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930111	#Anto
+	1377.8.11={ birth=yes }
+	1479.4.4={ death=yes }
+}
+1019930120={
+	name=Huanchicay
+	dynasty=1009990268
+	dna="dcjlpkcdeml"
+	culture=diaguita religion=mapuche_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=7 learning=6
+	add_trait=indulgent_wastrel add_trait=shy add_trait=brave add_trait=lustful 
+	father=1019930111	#Anto
+	1383.7.2={ birth=yes }
+	1456.8.7={ death=yes }
+}
+1019930121={
+	name=Huilla
+	dynasty=1009990268
+	dna="djjlehpiefl"
+	culture=diaguita religion=mapuche_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	add_trait=martial_cleric add_trait=envious add_trait=charitable add_trait=proud add_trait=cynical 
+	father=1019930120	#Huanchicay
+	1409.6.3={ birth=yes }
+	1486.12.16={ death=yes }
+}
+1019930122={
+	name=Ana
+	female=yes
+	dynasty=1009990268
+	dna="dmcolkcecml"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930120	#Huanchicay
+	1412.9.7={ birth=yes }
+	1498.1.19={ death=yes }
+}
+1019930123={
+	name=Kantuta
+	female=yes
+	dynasty=1009990268
+	dna="cfjjhbcdpdc"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930120	#Huanchicay
+	1416.3.13={ birth=yes }
+	1498.11.3={ death=yes }
+}
+1019930124={
+	name=Axomamma
+	female=yes
+	dynasty=1009990268
+	dna="dihlpkccimc"
+	culture=diaguita religion=mapuche_pagan
+	father=1019930120	#Huanchicay
+	1420.11.13={ birth=yes }
+	1485.2.3={ death=yes }
+}

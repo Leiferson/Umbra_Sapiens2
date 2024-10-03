@@ -1,0 +1,140 @@
+#Rhegin
+458.1.1={
+	holder = 252164 # Riothamus
+}
+
+730.1.1 = {
+	liege="k_france"
+	holder=91470 #Chiemgaud, historical placeholder
+}
+851.1.1={
+	liege="d_brittany"
+	holder = 159696 # Gurvand of Rennes
+}
+857.1.1={
+	holder = 163105
+}
+867.1.1={
+	holder = 159696 # Gurvand of Rennes
+}
+877.1.1={
+	holder=91246 # Iudicael
+}
+888.1.1={
+	holder = 50008 # Alain the Great
+}
+907.1.1={
+	liege=0
+}
+#House of Rennes
+936.1.1={
+	liege=d_brittany
+	holder = 91248
+}
+958.1.1={
+	holder=340 #Conan I
+}
+992.6.27={
+	holder=342 #Geoffroy I Béranger
+}
+1008.11.20={
+	holder=344 #Alain III
+}
+1040.10.1={
+	holder=348 #Conan II
+}
+
+#House of Cornouaille
+1066.12.11={
+	holder=178 #Hoël II
+}
+1084.04.13={
+	holder=180 #Alain IV Fergent
+}
+1112.1.8={
+	holder=91159 #Conan III le Gros
+}
+1148.9.17={
+	holder=205825 #Berthe
+}
+
+#House of Penthièvre
+1156.1.1={
+	holder=205741 #Conan IV le Petit
+}
+1166.1.1={
+	holder=205740 #Constance
+}
+
+#Plantagenêt dynasty
+1194.1.1={
+	holder=204505 #Arthur I
+}
+1203.4.3={
+	holder=91139 #Alix
+}
+1220.1.1 = {
+	holder = 7620
+}
+
+#Capetian house of Dreux
+1221.10.21={
+	holder=7621 #Jean I le Roux
+}
+1286.10.8={
+	holder=455789 #Jean II
+}
+1305.11.18={
+	holder=455751 #Arthur II
+}
+1312.8.27={
+	holder=455750 #Jean III le Bon
+}
+1331.3.27={
+	holder=455753 #Jeanne de Penthièvre
+}
+1365.4.12 = {
+	holder=370725	#John IV, Duke of Brittany
+}
+1399.11.1 = {
+	holder=370729	#John V, Duke of Brittany
+}
+1442.8.29 = {
+	holder=370792	#Francis I, Duke of Brittany
+}
+1450.7.17 = {
+	holder=370794	#Peter II, Duke of Brittany
+}
+1457.9.22 = {
+	holder=370732	#Arthur III, Duke of Brittany
+}
+1458.12.26 = {
+	holder=370797	#Francis II, Duke of Brittany
+}
+1488.9.9 = {
+	holder=371047	#Anne de Bretagne
+}
+1514.1.9 = {
+	holder=371094	#Claude de France (1499-1524)
+}
+1524.7.20 = {
+	holder=371099	#François de France (1518-1536)
+}
+1536.8.10 = {
+	holder=371100	#Henry II of France
+}
+1559.7.10={
+	holder=375095 #Francis II
+}
+1560.12.5={
+	holder=371693 #Charles IX
+}
+1574.5.30={
+	holder=371694 #Henry III
+}
+1589.8.2={
+	holder=371464 #Henry IV the Great
+}
+1610.5.14={
+	holder=371859 #Louis XIII the Just
+}

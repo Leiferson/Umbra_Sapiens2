@@ -1,0 +1,27 @@
+20.1.1={
+	active = no
+}
+1557.6.11={
+	active = yes
+	holder=371944 # D.Sebastião
+	law = succ_primogeniture
+	effect={
+		insert_title_history=e_portugal_8
+	}
+}
+1578.8.4={
+	holder=370362 # D.Henrique
+}
+1580.1.31={
+	holder=373146 # D. António, Prior do Crato
+}
+1581.4.16={
+	holder=370718 # Filipe I de Portugal
+}
+1598.9.13={
+	holder=371850 # Filipe II de Portugal
+}
+1616.1.1={
+	holder=0
+	active = no
+}

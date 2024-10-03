@@ -1,0 +1,278 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_zombaxxaccessories"
+		texturefile = "gfx\\characters\\zombaxxaccessories.dds"
+		noOfFrames = 9
+		norefcount = yes
+		can_be_lowres = yes
+	}
+
+	portraitType = {
+		effectFile = "gfx/FX/portrait.lua"
+		name = "PORTRAIT_americanheadresses"
+		
+		weight = {
+			additive_modifier = {
+				value = 10000
+				portrait_age > child
+				portrait_clothing = yes
+				OR = {
+					portrait_religion = plains_pagan
+					portrait_religion = plains_pagan_reformed
+					portrait_religion = algic_pagan
+					portrait_religion = algic_pagan_reformed
+				}
+				OR = {
+					portrait_has_trait = ambitious
+					portrait_has_trait = zealous
+					portrait_has_trait = lunatic
+					portrait_has_trait = brave
+					portrait_has_trait = just
+					portrait_has_trait = hunter
+					portrait_has_trait = patient
+					portrait_has_trait = cruel
+					portrait_has_trait = impaler
+				}
+			}
+		}
+		
+		layer = { 
+			"GFX_zombaxxaccessories:c5"
+			"GFX_empty:c1"
+			"GFX_empty:c3"
+			
+		}
+		allow_property_values = {
+			5 = {
+				0 = {
+					portrait_in_command = no
+				}
+				1 = {
+					OR = {
+						portrait_has_trait = ambitious
+						portrait_has_trait = zealous
+						portrait_has_trait = lunatic
+					}
+				}
+				2 = {
+					OR = {
+						portrait_has_trait = brave
+						portrait_has_trait = just
+						portrait_has_trait = hunter
+					}
+				}
+				3 = {
+					OR = {
+						portrait_has_trait = patient
+						portrait_has_trait = cruel
+						portrait_has_trait = gregarious
+					}
+				}
+			}
+		}		
+	}
+	portraitType = {
+		effectFile = "gfx/FX/portrait.lua"
+		name = "PORTRAIT_gridiron"
+		
+		weight = {
+			additive_modifier = {
+				value = 10000
+				portrait_age > child
+				portrait_clothing = yes
+				OR = {
+					portrait_religion = inuit_pagan
+					portrait_religion = inuit_pagan_reformed
+				}
+				NOR = {
+					portrait_has_trait = cynical
+					portrait_has_trait = possessed
+					portrait_has_trait = lunatic
+				}
+			}
+		}
+		
+		layer = { 
+			"GFX_zombaxxaccessories:c5"
+			"GFX_empty:c1"
+			"GFX_empty:c3"
+			
+		}
+		allow_property_values = {
+			5 = {
+				0 = {
+					portrait_in_command = no
+				}
+				1 = {
+					always = no
+				}
+				2 = {
+					always = no
+				}
+				3 = {
+					always = no
+				}
+				4 = {
+					NOR = {
+						portrait_has_trait = cynical
+						portrait_has_trait = possessed
+						portrait_has_trait = lunatic
+					}
+				}
+			}
+		}		
+	}
+	portraitType = {
+		effectFile = "gfx/FX/portrait.lua"
+		name = "PORTRAIT_harmonicsaccessories"
+		
+		weight = {
+			additive_modifier = {
+				value = 10000
+				portrait_age > child
+				portrait_clothing = yes
+				OR = {
+					portrait_religion = california_pagan_reformed
+					portrait_religion = california_pagan
+					portrait_religion = basin_pagan_reformed
+					portrait_religion = basin_pagan
+					portrait_religion = southwest_pagan_reformed
+					portrait_religion = southwest_pagan
+					portrait_religion = raven_tales
+					portrait_religion = raven_tales_reformed
+				}
+				OR = {
+					portrait_has_trait = ambitious
+					portrait_has_trait = brilliant_strategist
+					portrait_has_trait = skilled_tactician
+					portrait_has_trait = midas_touched
+					portrait_has_trait = fortune_builder
+					portrait_has_trait = gregarious
+					portrait_has_trait = mastermind_theologian
+					portrait_has_trait = scholarly_theologian
+					portrait_has_trait = grey_eminence
+					portrait_has_trait = charismatic_negotiator
+					portrait_has_trait = mystic
+					portrait_has_trait = lunatic
+					portrait_has_trait = possessed
+					portrait_has_trait = elusive_shadow
+					portrait_has_trait = intricate_webweaver
+				}
+			}
+		}
+		
+		layer = { 
+			"GFX_zombaxxaccessories:c5"
+			
+		}
+		allow_property_values = {
+			5 = {
+				0 = {
+					portrait_in_command = no
+				}
+				1 = {
+					always = no
+				}
+				2 = {
+					always = no
+				}
+				3 = {
+					always = no
+				}
+				4 = {
+					always = no
+				}
+				5 = {
+					OR = {
+						portrait_has_trait = gregarious
+						portrait_has_trait = mastermind_theologian
+						portrait_has_trait = scholarly_theologian
+						portrait_has_trait = grey_eminence
+						portrait_has_trait = charismatic_negotiator
+					}	
+				}
+				6 = {
+					OR = {
+						portrait_has_trait = ambitious
+						portrait_has_trait = brilliant_strategist
+						portrait_has_trait = skilled_tactician
+						portrait_has_trait = midas_touched
+						portrait_has_trait = fortune_builder
+					}
+				}
+				7 = {
+					OR = {
+						portrait_has_trait = mystic
+						portrait_has_trait = lunatic
+						portrait_has_trait = possessed
+						portrait_has_trait = elusive_shadow
+						portrait_has_trait = intricate_webweaver
+					}
+				}
+			}
+		}		
+	}
+	portraitType = {
+		effectFile = "gfx/FX/portrait.lua"
+		name = "PORTRAIT_gibborimmask"
+		
+		weight = {
+			additive_modifier = {
+				value = 10000
+				portrait_age > child
+				portrait_clothing = yes
+				OR = {						
+					portrait_religion = raven_tales
+					portrait_religion = raven_tales_reformed
+				}
+				portrait_has_trait = giant
+				OR = {
+					portrait_has_trait = mystic
+					portrait_has_trait = lunatic
+					portrait_has_trait = possessed
+				}
+			}
+		}
+		
+		layer = { 
+			"GFX_zombaxxaccessories:c4"
+			
+		}
+		allow_property_values = {
+			3 = {
+				0 = {
+					always = no
+				}
+				1 = {
+					always = no
+				}
+				2 = {
+					always = no
+				}
+				3 = {
+					always = no
+				}
+				4 = {
+					always = no
+				}
+				5 = {
+					always = no
+				}
+				6 = {
+					always = no
+				}
+				7 = {
+					always = no
+				}
+				8 = {
+					OR = {
+						portrait_has_trait = mystic
+						portrait_has_trait = lunatic
+						portrait_has_trait = possessed
+					}
+				}
+			}
+		}		
+	}
+}

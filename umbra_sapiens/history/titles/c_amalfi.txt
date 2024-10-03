@@ -1,0 +1,347 @@
+536.1.1={
+	liege = "e_byzantium"
+	de_jure_liege = d_amalfi
+}
+751.1.1=
+{
+	liege=d_amalfi
+	holder=145889 #Leon Amalfinos
+}
+793.1.1=
+{
+	holder=145894 #Menas Manginos
+}
+800.1.1=
+{
+	holder=145898 #Aristeides Kanakares
+}
+806.1.1=
+{
+	holder=145896 #Tryphon Manginos
+}
+807.1.1=
+{
+	holder=145890 #Timoleon Amalfinos
+}
+812.1.1=
+{
+	holder=145900 #Timotheos Kanakares
+}
+814.1.1=
+{
+	holder=145891 #Kaisarios Amalfinos
+}
+818.1.1=
+{
+	holder=145904 #Gregorio Sorrenti
+}
+830.1.1=
+{
+	holder=145907 #Marco Ravelli
+}
+839.1.1=
+{
+	holder=6881 #Marinos I
+}
+860.1.1=
+{
+	holder=168373 #Sergios I
+}
+862.1.1=
+{
+	holder=168480 #Mauro I
+}
+866.1.1=
+{
+	holder=6881 #Marinos I (again)
+}
+870.1.1=
+{
+	holder=168399 #Polkarios I
+}
+879.9.1=
+{
+	holder=168415 #Stefanos I
+}
+898.1.1=
+{
+	holder=168418 #Mansone I
+}
+914.1.1=
+{
+	holder=168419 #Mastalo I
+}
+930.1.1=
+{
+	holder=168421 #Leone I
+}
+931.6.25=
+{
+	holder=168422 #Giovanni I
+}
+947.7.26=
+{
+	holder=168419 #Mastalo I (again)
+}
+954.6.29=
+{
+	holder=168423 #Mastalo II
+}
+958.1.1=
+{
+	holder=168439 #Sergio II
+}
+966.11.20=
+{
+	holder=168440 #Mansone I
+}
+984.1.1=
+{
+	holder=168442 #Adelferio I
+}
+985.1.1=
+{
+	holder=168440 #Mansone I (again)
+}
+1004.1.1=
+{
+	holder=168448 #Giovanni II
+}
+1006.6.1=
+{
+	holder=168454 #Sergio III
+}
+1028.1.1=
+{
+	holder=168467 #Mansone II 
+}
+1029.1.1=
+{
+	holder=168466 #Giovanni III
+}
+1034.1.1=
+{
+	holder=168467 #Mansone II (again)
+}
+1038.1.1=
+{
+	holder=168466 #Giovanni III (again)
+}
+1039.1.1=
+{
+	holder=168467 #Mansone II (again)
+}
+1051.1.1=
+{
+	holder=168474 #Guamario II
+}
+1052.1.1=
+{
+	holder=168466 #Giovanni III (again)
+	de_jure_liege = d_salerno
+}
+1069.1.1=
+{
+	holder=168475 #Sergio IV
+}
+1072.1.1=
+{
+	holder=168476 #Giovanni IV
+}
+
+1076.12.13={
+	liege=d_apulia
+	holder=1128 #Robert Guiscard
+}
+1085.7.17={
+	holder=41732 #Guy de Hauteville, duke of Amalfi
+}
+1099.1.1={
+	holder=30881 #William de Hauteville
+}
+1128.1.1={
+	holder=30879 #Nicolas de Hauteville
+}
+1130.12.25={
+	liege=k_sicily
+}
+1141.1.1={
+	holder=30880 #William de Hauteville
+}
+1160.1.1={
+	holder=211501 #William de Hauteville
+}
+1166.5.7={
+	holder=211500
+}
+1189.11.11={
+	holder=211509
+}
+1194.2.20={
+	holder=211512
+}
+1194.10.1={
+	holder=212507
+}
+1197.9.28={
+	liege=d_salerno
+	holder=32549
+}
+1241.1.1 = {
+	holder = 32545
+}
+1250.12.13={
+	holder=30760
+}
+1254.5.21={
+	holder=30785
+}
+1258.1.1={
+	holder=7636
+}
+1266.2.26={
+	holder=455406
+}
+1282.8.30={
+	liege=k_naples
+}
+1285.1.7={
+	holder=461710
+}
+1309.5.5={
+	holder=461700
+}
+1343.1.20={
+	holder=461703 #Joanna I
+}
+1382.5.12={
+	holder=371112 #Charles III of Naples
+}
+1386.2.24={
+	holder=371121 #Ladislaus of Naples
+}
+1390.10.1={
+	holder=370836	#Louis II of Anjou 1392 Amalfi and Ravello 1392.9.1 Calabria
+}
+1399.7.10={
+	holder=371121 #Ladislaus of Naples
+}
+1414.8.6={
+	holder=371120 #Joanna II of Naples
+}
+1435.2.2={
+	holder=370838 #René of Anjou
+}
+1442.6.2={
+	holder=370182 #Alfonso V of Aragon
+}
+1458.6.27={
+	holder=370200 #Ferdinand I of Naples
+}
+1494.1.25={
+	holder=371762 #Alfonso II of Naples
+}
+1495.1.23={
+	holder=371796 #Ferdinand II of Naples
+}
+1496.9.7={
+	holder=371764 #Frederick of Naples
+}
+1501.8.2={
+	holder=371092 #Louis XII of France
+}
+1504.1.32={
+	holder=370199 #Ferdinand II of Aragon
+}
+1516.1.23={
+	holder=379674	#Ramón de Cardona
+	liege=e_espana_burgona
+	vice_royalty=yes
+}
+1522.1.1={
+	holder=379675	#Charles de Lannoy, 1st Prince of Sulmona
+}
+1523.1.1={
+	holder=379676	#Andrea Carafa
+}
+1526.1.1={
+	holder=379677	#Ludovico Montalto
+}
+1527.1.1={
+	holder=379678	#Hugo of Moncada
+}
+1528.5.28={
+	holder=376580	#Philibert of Châlon
+}
+1530.8.3={
+	holder=379679	#Pompeo Colonna
+}
+1532.6.28={
+	holder=371662	#Pedro Álvarez de Toledo
+}
+1553.2.21={
+	holder=371674	#Luis Álvarez de Toledo y Osorio
+}
+1553.5.1={
+	holder=379680	#Pedro Pacheco Ladrón de Guevara
+}
+1556.1.1={
+	holder=379598	#Fernando Álvarez de Toledo
+}
+1558.6.6={
+	holder=379681	#Juan Fernandez Manrique de Lara
+}
+1558.10.10={
+	holder=379682	#Pedro Afán de Ribera
+}
+1571.1.1={
+	holder=379683	#Antoine Perrenot de Granvelle
+}
+1575.1.1={
+	holder=379781	#Iñigo López de Mendoza y Mendoza
+}
+1579.1.1={
+	holder=379792	#Juan de Zúñiga y Requesens
+}
+1582.1.1={
+	holder=379947	#Pedro Téllez-Girón y de la Cueva, 1st Duke of Osuna
+}
+1586.1.1={
+	holder=379794	#Juan de Zúñiga, 1st Duke of Peñaranda
+}
+1595.1.1={
+	holder=379795	#Enrique de Guzmán, 2nd Count of Olivares
+}
+1599.1.1={
+	holder=379796	#Fernando Ruiz de Castro Andrade y Portugal
+}
+1601.9.20={
+	holder=379797	#Francisco Ruiz de Castro y de Sandoval-Rojas
+}
+1603.1.1={
+	holder=379798	#Juan Alonso Pimentel de Herrera
+}
+1610.1.1={
+	holder=379799	#Pedro Fernández de Castro, Count of Lemos
+}
+1616.1.1={
+	holder=379956	#Pedro Téllez-Girón, 3rd Duke of Osuna
+}
+1620.6.1={
+	holder=379810	#Gaspar de Borja y Velasco
+}
+1620.12.1={
+	holder=379811	#Antonio Zapata y Cisneros
+}
+1622.12.1={
+	holder=379609	#Antonio Álvarez de Toledo, 5th Duke of Alba
+}
+1629.1.1={
+	holder=379812	#Fernando Afán de Ribera, 3rd Duke of Alcalá de los Gazules
+}
+1631.1.1={
+	holder=379813	#Manuel de Acevedo y Zúñiga
+}
+1637.11.12={
+	holder=379814	#Ramiro Núñez de Guzmán
+}

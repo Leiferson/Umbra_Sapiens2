@@ -1,0 +1,20 @@
+# 676 - Kakheti
+
+# County Title
+title = c_kakheti
+
+# Settlements
+max_settlements = 4
+b_zedazeni = castle
+b_telavi = city
+b_davidgareja = temple
+
+#b_tianeti = castle
+
+# Misc
+culture = georgian
+religion = orthodox
+terrain = hills
+
+# History
+

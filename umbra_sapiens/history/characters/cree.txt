@@ -1,0 +1,8083 @@
+1019914363={
+	name=Hassun
+	dynasty=1009990111
+	dna="fbepbioleom"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=7 learning=5
+	720.4.21={ birth=yes }
+	775.11.30={ death=yes }
+}
+1019914364={
+	name=Matunaagd
+	dynasty=1009990111
+	dna="nbdpbaclnoo"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	father=1019914363	#Hassun
+	740.6.20={ birth=yes }
+	803.3.17={ death=yes }
+}
+1019914365={
+	name=Samoset
+	dynasty=1009990111
+	dna="nbejbibiooi"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=5
+	father=1019914363	#Hassun
+	742.5.16={ birth=yes }
+	810.5.13={ death=yes }
+}
+1019914366={
+	name=Nuttah
+	female=yes
+	dynasty=1009990111
+	dna="fkepbieojkm"
+	culture=cree religion=subartic_pagan
+	father=1019914363	#Hassun
+	745.2.18={ birth=yes }
+	806.11.23={ death=yes }
+}
+1019914367={
+	name=Pannoowau
+	dynasty=1009990111
+	dna="fbehpmojedb"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=5 learning=6
+	father=1019914363	#Hassun
+	750.3.26={ birth=yes }
+	817.9.10={ death=yes }
+}
+1019914368={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990111
+	dna="fmceomklgge"
+	culture=cree religion=subartic_pagan
+	father=1019914363	#Hassun
+	754.3.23={ birth=yes }
+	822.1.16={ death=yes }
+}
+1019914369={
+	name=Sunukkuhkau
+	dynasty=1009990111
+	dna="mbdamaehhlm"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	father=1019914364	#Matunaagd
+	767.3.11={ birth=yes }
+	840.11.15={ death=yes }
+}
+1019914370={
+	name=Nijlon
+	female=yes
+	dynasty=1009990111
+	dna="abdpdakifoo"
+	culture=cree religion=subartic_pagan
+	father=1019914364	#Matunaagd
+	771.8.13={ birth=yes }
+	823.3.23={ death=yes }
+}
+1019914371={
+	name=Keme
+	dynasty=1009990111
+	dna="ibfpnadlklo"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	father=1019914364	#Matunaagd
+	773.4.10={ birth=yes }
+	822.1.12={ death=yes }
+}
+1019914372={
+	name=Achachak
+	dynasty=1009990111
+	dna="bbolbaenool"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=5 learning=5
+	father=1019914364	#Matunaagd
+	776.1.6={ birth=yes }
+	816.6.8={ death=yes }
+}
+1019914373={
+	name=Machk
+	dynasty=1009990111
+	dna="eadpbmclnob"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=7 learning=5
+	father=1019914364	#Matunaagd
+	781.12.1={ birth=yes }
+	828.6.9={ death=yes }
+}
+1019914374={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990111
+	dna="nmipiacnnoo"
+	culture=cree religion=subartic_pagan
+	father=1019914364	#Matunaagd
+	782.4.3={ birth=yes }
+	853.3.20={ death=yes }
+}
+1019914375={
+	name=Askook
+	dynasty=1009990111
+	dna="kbmboaekpao"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	father=1019914364	#Matunaagd
+	784.9.24={ birth=yes }
+	865.12.6={ death=yes }
+}
+1019914376={
+	name=Abooksigun
+	dynasty=1009990111
+	dna="mhbomjehhlc"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	father=1019914369	#Sunukkuhkau
+	793.2.14={ birth=yes }
+	858.7.29={ death=yes }
+}
+1019914377={
+	name=Sunukkuhkau
+	dynasty=1009990111
+	dna="mbdkgfglhgm"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=6 learning=6
+	father=1019914369	#Sunukkuhkau
+	798.1.10={ birth=yes }
+	882.2.22={ death=yes }
+}
+1019914378={
+	name=Alawa
+	female=yes
+	dynasty=1009990111
+	dna="nbbjbbehhpk"
+	culture=cree religion=subartic_pagan
+	father=1019914369	#Sunukkuhkau
+	801.9.17={ birth=yes }
+	866.8.22={ death=yes }
+}
+1019914379={
+	name=Pules
+	female=yes
+	dynasty=1009990111
+	dna="pedadbogalm"
+	culture=cree religion=subartic_pagan
+	father=1019914369	#Sunukkuhkau
+	804.8.4={ birth=yes }
+	869.1.14={ death=yes }
+}
+1019914380={
+	name=Kitchi
+	dynasty=1009990111
+	dna="jbgcmabnjio"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	father=1019914369	#Sunukkuhkau
+	808.2.16={ birth=yes }
+	859.11.2={ death=yes }
+}
+1019914381={
+	name=Wematin
+	dynasty=1009990111
+	dna="ehpfhhaijdc"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	father=1019914376	#Abooksigun
+	820.2.7={ birth=yes }
+	878.1.17={ death=yes }
+}
+1019914382={
+	name=Anakausuen
+	dynasty=1009990111
+	dna="maijipggglp"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=7 learning=8
+	father=1019914376	#Abooksigun
+	824.7.20={ birth=yes }
+	878.10.27={ death=yes }
+}
+1019914383={
+	name=Aranck
+	dynasty=1009990111
+	dna="nhinihofhlc"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=5
+	father=1019914376	#Abooksigun
+	829.11.3={ birth=yes }
+	895.9.25={ death=yes }
+}
+1019914384={
+	name=Numees
+	female=yes
+	dynasty=1009990111
+	dna="bhaommnclcl"
+	culture=cree religion=subartic_pagan
+	father=1019914376	#Abooksigun
+	835.6.27={ birth=yes }
+	886.11.14={ death=yes }
+}
+1019914385={
+	name=Tihkoosue
+	dynasty=1009990111
+	dna="jjhfhhaijcc"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	father=1019914381	#Wematin
+	848.3.27={ birth=yes }
+	908.11.22={ death=yes }
+}
+1019914386={
+	name=Nixkamich
+	dynasty=1009990111
+	dna="hhakccadkda"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019914381	#Wematin
+	851.2.24={ birth=yes }
+	913.3.30={ death=yes }
+}
+1019914387={
+	name=Keme
+	dynasty=1009990111
+	dna="ehofhpbiecc"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	father=1019914381	#Wematin
+	855.6.16={ birth=yes }
+	919.1.18={ death=yes }
+}
+1019914388={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990111
+	dna="dlpkbhaiedc"
+	culture=cree religion=subartic_pagan
+	father=1019914381	#Wematin
+	857.8.12={ birth=yes }
+	908.10.13={ death=yes }
+}
+1019914389={
+	name=Kanti
+	female=yes
+	dynasty=1009990111
+	dna="ejhfhiaipao"
+	culture=cree religion=subartic_pagan
+	father=1019914385	#Tihkoosue
+	871.2.24={ birth=yes }
+	921.6.7={ death=yes }
+}
+1019914390={
+	name=Abooksigun
+	dynasty=1009990111
+	dna="jkhfhpabpcg"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=6
+	father=1019914385	#Tihkoosue
+	876.12.2={ birth=yes }
+	924.9.6={ death=yes }
+}
+1019914391={
+	name=Alawa
+	female=yes
+	dynasty=1009990111
+	dna="jmhfhcacpdg"
+	culture=cree religion=subartic_pagan
+	father=1019914390	#Abooksigun
+	899.10.13={ birth=yes }
+	963.11.5={ death=yes }
+}
+1019914392={
+	name=Matchitehew
+	dynasty=1009990111
+	dna="nknjhoabebg"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	father=1019914390	#Abooksigun
+	902.11.14={ birth=yes }
+	965.11.24={ death=yes }
+}
+1019914393={
+	name=Mekledoodum
+	dynasty=1009990111
+	dna="jnkbippbpik"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	father=1019914390	#Abooksigun
+	906.1.22={ birth=yes }
+	954.2.12={ death=yes }
+}
+1019914394={
+	name=Pules
+	female=yes
+	dynasty=1009990111
+	dna="jmhahpabpmp"
+	culture=cree religion=subartic_pagan
+	father=1019914390	#Abooksigun
+	907.8.8={ birth=yes }
+	963.5.27={ death=yes }
+}
+1019914395={
+	name=Sunukkuhkau
+	dynasty=1009990111
+	dna="cdaihanbebf"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=8 learning=6
+	father=1019914392	#Matchitehew
+	923.11.11={ birth=yes }
+	983.10.24={ death=yes }
+}
+1019914396={
+	name=Kanti
+	female=yes
+	dynasty=1009990111
+	dna="ncjjmnndebi"
+	culture=cree religion=subartic_pagan
+	father=1019914392	#Matchitehew
+	925.12.6={ birth=yes }
+	985.10.9={ death=yes }
+}
+1019914397={
+	name=Sokw
+	female=yes
+	dynasty=1009990111
+	dna="ndnpfbmbfdm"
+	culture=cree religion=subartic_pagan
+	father=1019914392	#Matchitehew
+	929.12.11={ birth=yes }
+	998.12.13={ death=yes }
+}
+1019914398={
+	name=Matunaagd
+	dynasty=1009990111
+	dna="alcjmgaiebg"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=7
+	father=1019914392	#Matchitehew
+	934.8.1={ birth=yes }
+	984.6.23={ death=yes }
+}
+1019914399={
+	name=Achachak
+	dynasty=1009990111
+	dna="nanphofieeo"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	father=1019914392	#Matchitehew
+	936.12.14={ birth=yes }
+	1010.9.18={ death=yes }
+}
+1019914400={
+	name=Mekledoodum
+	dynasty=1009990111
+	dna="njnahpablhg"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	father=1019914392	#Matchitehew
+	939.11.20={ birth=yes }
+	987.2.26={ death=yes }
+}
+1019914401={
+	name=Tihkoosue
+	dynasty=1009990111
+	dna="nkejfoabfbg"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=7
+	father=1019914392	#Matchitehew
+	944.2.3={ birth=yes }
+	1018.1.4={ death=yes }
+}
+1019914402={
+	name=Hausis
+	female=yes
+	dynasty=1009990111
+	dna="jdpihajidbo"
+	culture=cree religion=subartic_pagan
+	father=1019914395	#Sunukkuhkau
+	950.6.21={ birth=yes }
+	1012.8.30={ death=yes }
+}
+1019914403={
+	name=Machk
+	dynasty=1009990111
+	dna="mcnihapcnpf"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=5
+	father=1019914395	#Sunukkuhkau
+	954.2.7={ birth=yes }
+	1016.2.13={ death=yes }
+}
+1019914404={
+	name=Ahanu
+	dynasty=1009990111
+	dna="cdjifahbbbd"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	father=1019914395	#Sunukkuhkau
+	957.12.4={ birth=yes }
+	1027.5.3={ death=yes }
+}
+1019914405={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990111
+	dna="ghalhpieebf"
+	culture=cree religion=subartic_pagan
+	father=1019914395	#Sunukkuhkau
+	959.7.25={ birth=yes }
+	1026.12.16={ death=yes }
+}
+1019914406={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990111
+	dna="cdgmhandaki"
+	culture=cree religion=subartic_pagan
+	father=1019914395	#Sunukkuhkau
+	963.3.9={ birth=yes }
+	1011.4.4={ death=yes }
+}
+1019914407={
+	name=Nuttah
+	female=yes
+	dynasty=1009990111
+	dna="flnjhamhjph"
+	culture=cree religion=subartic_pagan
+	father=1019914403	#Machk
+	980.11.7={ birth=yes }
+	1041.9.29={ death=yes }
+}
+1019914408={
+	name=Enkoodabaoo
+	dynasty=1009990111
+	dna="gdnibahjngk"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=6 learning=4
+	father=1019914403	#Machk
+	984.4.26={ birth=yes }
+	1053.12.30={ death=yes }
+}
+1019914409={
+	name=Sokanon
+	female=yes
+	dynasty=1009990111
+	dna="fdpakpijngk"
+	culture=cree religion=subartic_pagan
+	father=1019914408	#Enkoodabaoo
+	1012.10.6={ birth=yes }
+	1071.7.21={ death=yes }
+}
+1019914410={
+	name=Wematin
+	dynasty=1009990111
+	dna="cjhdbdhjagk"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=7 learning=7
+	father=1019914408	#Enkoodabaoo
+	1015.12.20={ birth=yes }
+	1064.8.18={ death=yes }
+}
+1019914411={
+	name=Etlelooaat
+	dynasty=1009990111
+	dna="oincbohfngl"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	father=1019914408	#Enkoodabaoo
+	1017.6.15={ birth=yes }
+	1082.2.16={ death=yes }
+}
+1019914412={
+	name=Askook
+	dynasty=1009990111
+	dna="khcbjopongk"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=6 learning=5
+	father=1019914408	#Enkoodabaoo
+	1021.11.19={ birth=yes }
+	1089.5.21={ death=yes }
+}
+1019914413={
+	name=Wapun
+	female=yes
+	dynasty=1009990111
+	dna="gpnidehdagk"
+	culture=cree religion=subartic_pagan
+	father=1019914408	#Enkoodabaoo
+	1023.1.9={ birth=yes }
+	1069.10.21={ death=yes }
+}
+1019914414={
+	name=Samoset
+	dynasty=1009990111
+	dna="adbkbkhjnhk"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	father=1019914408	#Enkoodabaoo
+	1026.2.23={ birth=yes }
+	1111.12.19={ death=yes }
+}
+1019914415={
+	name=Sokw
+	female=yes
+	dynasty=1009990111
+	dna="ggpibamondf"
+	culture=cree religion=subartic_pagan
+	father=1019914408	#Enkoodabaoo
+	1029.12.24={ birth=yes }
+	1077.3.30={ death=yes }
+}
+1019914416={
+	name=Kimi
+	female=yes
+	dynasty=1009990111
+	dna="ejhmbjlbnmk"
+	culture=cree religion=subartic_pagan
+	father=1019914410	#Wematin
+	1040.9.3={ birth=yes }
+	1095.6.1={ death=yes }
+}
+1019914417={
+	name=Matunaagd
+	dynasty=1009990111
+	dna="cbhipghjagk"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	father=1019914410	#Wematin
+	1042.12.8={ birth=yes }
+	1093.12.12={ death=yes }
+}
+1019914418={
+	name=Nuna
+	female=yes
+	dynasty=1009990111
+	dna="cjhjbdcffgi"
+	culture=cree religion=subartic_pagan
+	father=1019914410	#Wematin
+	1045.3.22={ birth=yes }
+	1113.11.5={ death=yes }
+}
+1019914419={
+	name=Pules
+	female=yes
+	dynasty=1009990111
+	dna="achcndnjaok"
+	culture=cree religion=subartic_pagan
+	father=1019914410	#Wematin
+	1046.2.23={ birth=yes }
+	1088.12.16={ death=yes }
+}
+1019914420={
+	name=Matchitehew
+	dynasty=1009990111
+	dna="bbhdboajfgk"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=5
+	father=1019914410	#Wematin
+	1051.7.27={ birth=yes }
+	1104.1.19={ death=yes }
+}
+1019914421={
+	name=Huritt
+	dynasty=1009990111
+	dna="ljhnbdjjfdm"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=7 learning=5
+	father=1019914410	#Wematin
+	1054.11.13={ birth=yes }
+	1127.6.22={ death=yes }
+}
+1019914422={
+	name=Hurit
+	female=yes
+	dynasty=1009990111
+	dna="cjhdodkfngh"
+	culture=cree religion=subartic_pagan
+	father=1019914410	#Wematin
+	1058.6.19={ birth=yes }
+	1129.6.26={ death=yes }
+}
+1019914423={
+	name=Tihkoosue
+	dynasty=1009990111
+	dna="cbihpfhnajd"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=7 learning=4
+	father=1019914417	#Matunaagd
+	1065.10.8={ birth=yes }
+	1127.8.2={ death=yes }
+}
+1019914424={
+	name=Nijlon
+	female=yes
+	dynasty=1009990111
+	dna="nbhbpjjdggm"
+	culture=cree religion=subartic_pagan
+	father=1019914417	#Matunaagd
+	1069.9.7={ birth=yes }
+	1136.6.3={ death=yes }
+}
+1019914425={
+	name=Wapun
+	female=yes
+	dynasty=1009990111
+	dna="ammiedhjlgd"
+	culture=cree religion=subartic_pagan
+	father=1019914417	#Matunaagd
+	1072.10.5={ birth=yes }
+	1142.1.13={ death=yes }
+}
+1019914426={
+	name=Askook
+	dynasty=1009990111
+	dna="ccihnnddeco"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=5
+	father=1019914423	#Tihkoosue
+	1091.6.24={ birth=yes }
+	1141.12.28={ death=yes }
+}
+1019914427={
+	name=Nijlon
+	female=yes
+	dynasty=1009990111
+	dna="cbmijhhnagj"
+	culture=cree religion=subartic_pagan
+	father=1019914423	#Tihkoosue
+	1094.9.8={ birth=yes }
+	1150.11.26={ death=yes }
+}
+1019914428={
+	name=Nadie
+	female=yes
+	dynasty=1009990111
+	dna="ciiknfoenjg"
+	culture=cree religion=subartic_pagan
+	father=1019914423	#Tihkoosue
+	1098.7.6={ birth=yes }
+	1146.4.17={ death=yes }
+}
+1019914429={
+	name=Alawa
+	female=yes
+	dynasty=1009990111
+	dna="ccmlggimfmd"
+	culture=cree religion=subartic_pagan
+	father=1019914423	#Tihkoosue
+	1103.5.13={ birth=yes }
+	1155.3.10={ death=yes }
+}
+1019914430={
+	name=Enkoodabaoo
+	dynasty=1009990111
+	dna="ofifphhnimd"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	father=1019914423	#Tihkoosue
+	1106.7.1={ birth=yes }
+	1163.10.5={ death=yes }
+}
+1019914431={
+	name=Keme
+	dynasty=1009990111
+	dna="cclhchkdepo"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=5 learning=5
+	father=1019914426	#Askook
+	1114.1.8={ birth=yes }
+	1167.5.28={ death=yes }
+}
+1019914432={
+	name=Numees
+	female=yes
+	dynasty=1009990111
+	dna="mcipnndnece"
+	culture=cree religion=subartic_pagan
+	father=1019914426	#Askook
+	1116.11.22={ birth=yes }
+	1170.4.4={ death=yes }
+}
+1019914433={
+	name=Wawetseka
+	female=yes
+	dynasty=1009990111
+	dna="ccplnnjoeco"
+	culture=cree religion=subartic_pagan
+	father=1019914426	#Askook
+	1118.8.18={ birth=yes }
+	1165.9.14={ death=yes }
+}
+1019914434={
+	name=Hausis
+	female=yes
+	dynasty=1009990111
+	dna="pnidhnpkede"
+	culture=cree religion=subartic_pagan
+	father=1019914426	#Askook
+	1121.5.13={ birth=yes }
+	1186.1.5={ death=yes }
+}
+1019914435={
+	name=Hassun
+	dynasty=1009990111
+	dna="ccikonmdlmo"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=5 learning=8
+	father=1019914426	#Askook
+	1125.9.13={ birth=yes }
+	1198.8.27={ death=yes }
+}
+1019914436={
+	name=Wawetseka
+	female=yes
+	dynasty=1009990111
+	dna="clihnbgdeje"
+	culture=cree religion=subartic_pagan
+	father=1019914426	#Askook
+	1127.12.21={ birth=yes }
+	1194.9.25={ death=yes }
+}
+1019914437={
+	name=Tihkoosue
+	dynasty=1009990111
+	dna="fclhaddoeil"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=4 learning=4
+	father=1019914431	#Keme
+	1135.10.2={ birth=yes }
+	1199.12.4={ death=yes }
+}
+1019914438={
+	name=Wematin
+	dynasty=1009990111
+	dna="iclhhhkdeoo"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=5 learning=4
+	father=1019914431	#Keme
+	1139.1.21={ birth=yes }
+	1176.7.8={ death=yes }
+}
+1019914439={
+	name=Pules
+	female=yes
+	dynasty=1009990111
+	dna="jeceihgdapd"
+	culture=cree religion=subartic_pagan
+	father=1019914431	#Keme
+	1142.4.26={ birth=yes }
+	1214.4.20={ death=yes }
+}
+1019914440={
+	name=Kanti
+	female=yes
+	dynasty=1009990111
+	dna="bclhcbeoeno"
+	culture=cree religion=subartic_pagan
+	father=1019914431	#Keme
+	1145.7.17={ birth=yes }
+	1203.12.21={ death=yes }
+}
+1019914441={
+	name=Huritt
+	dynasty=1009990111
+	dna="ccllfhkkdno"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=7 learning=7
+	father=1019914431	#Keme
+	1148.12.24={ birth=yes }
+	1211.4.29={ death=yes }
+}
+1019914442={
+	name=Mingan
+	dynasty=1009990111
+	dna="jclmchgfepn"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=7 learning=4
+	father=1019914431	#Keme
+	1151.9.26={ birth=yes }
+	1215.9.18={ death=yes }
+}
+1019914443={
+	name=Pannoowau
+	dynasty=1009990111
+	dna="coleglllcdo"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	father=1019914431	#Keme
+	1154.8.27={ birth=yes }
+	1212.2.15={ death=yes }
+}
+1019914444={
+	name=Ahanu
+	dynasty=1009990111
+	dna="nmljgcjbeil"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=4
+	father=1019914437	#Tihkoosue
+	1159.5.14={ birth=yes }
+	1215.7.12={ death=yes }
+}
+1019914445={
+	name=Abukcheech
+	dynasty=1009990111
+	dna="fclnpbnhpil"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=7 learning=6
+	father=1019914437	#Tihkoosue
+	1162.9.8={ birth=yes }
+	1211.3.12={ death=yes }
+}
+1019914446={
+	name=Matunaagd
+	dynasty=1009990111
+	dna="fodhjdboehh"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	father=1019914437	#Tihkoosue
+	1165.5.19={ birth=yes }
+	1211.7.3={ death=yes }
+}
+1019914447={
+	name=Hurit
+	female=yes
+	dynasty=1009990111
+	dna="jmlhamdogil"
+	culture=cree religion=subartic_pagan
+	father=1019914437	#Tihkoosue
+	1167.12.27={ birth=yes }
+	1233.8.20={ death=yes }
+}
+1019914448={
+	name=Wawetseka
+	female=yes
+	dynasty=1009990111
+	dna="fcehjddoemm"
+	culture=cree religion=subartic_pagan
+	father=1019914437	#Tihkoosue
+	1171.7.20={ birth=yes }
+	1204.11.11={ death=yes }
+}
+1019914449={
+	name=Abukcheech
+	dynasty=1009990111
+	dna="afljgedpeii"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=5 learning=8
+	father=1019914444	#Ahanu
+	1186.3.7={ birth=yes }
+	1246.5.3={ death=yes }
+}
+1019914450={
+	name=Samoset
+	dynasty=1009990111
+	dna="dmljgclhaaa"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=7
+	father=1019914444	#Ahanu
+	1190.9.11={ birth=yes }
+	1235.8.28={ death=yes }
+}
+1019914451={
+	name=Abukcheech
+	dynasty=1009990111
+	dna="fmcjeckbddl"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=7 learning=6
+	father=1019914444	#Ahanu
+	1192.4.20={ birth=yes }
+	1241.10.18={ death=yes }
+}
+1019914452={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990111
+	dna="diljfgjneil"
+	culture=cree religion=subartic_pagan
+	father=1019914444	#Ahanu
+	1195.7.16={ birth=yes }
+	1246.5.18={ death=yes }
+}
+1019914453={
+	name=Kanti
+	female=yes
+	dynasty=1009990111
+	dna="gmajfkjenmh"
+	culture=cree religion=subartic_pagan
+	father=1019914444	#Ahanu
+	1198.12.7={ birth=yes }
+	1248.9.7={ death=yes }
+}
+1019914454={
+	name=Matchitehew
+	dynasty=1009990111
+	dna="nlpdgedpeii"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	father=1019914449	#Abukcheech
+	1206.8.18={ birth=yes }
+	1262.9.18={ death=yes }
+}
+1019914455={
+	name=Matwau
+	dynasty=1009990111
+	dna="cfljgpajgof"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	father=1019914449	#Abukcheech
+	1209.5.16={ birth=yes }
+	1281.10.27={ death=yes }
+}
+1019914456={
+	name=Chogan
+	dynasty=1009990111
+	dna="kflgbakneca"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=4 learning=6
+	father=1019914449	#Abukcheech
+	1212.4.12={ birth=yes }
+	1258.10.17={ death=yes }
+}
+1019914457={
+	name=Etlelooaat
+	dynasty=1009990111
+	dna="nbmdgpfpeii"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	father=1019914454	#Matchitehew
+	1228.11.14={ birth=yes }
+	1297.6.8={ death=yes }
+}
+1019914458={
+	name=Nuna
+	female=yes
+	dynasty=1009990111
+	dna="khmbgeopiji"
+	culture=cree religion=subartic_pagan
+	father=1019914454	#Matchitehew
+	1232.7.13={ birth=yes }
+	1305.9.5={ death=yes }
+}
+1019914459={
+	name=Sokanon
+	female=yes
+	dynasty=1009990111
+	dna="mplfjphflii"
+	culture=cree religion=subartic_pagan
+	father=1019914454	#Matchitehew
+	1235.9.13={ birth=yes }
+	1289.12.30={ death=yes }
+}
+1019914460={
+	name=Wematin
+	dynasty=1009990111
+	dna="gejffafkeic"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=8 learning=5
+	father=1019914457	#Etlelooaat
+	1254.5.20={ birth=yes }
+	1321.12.29={ death=yes }
+}
+1019914461={
+	name=Kitchi
+	dynasty=1009990111
+	dna="nbfjgikeopj"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=5 learning=8
+	father=1019914457	#Etlelooaat
+	1256.10.10={ birth=yes }
+	1306.7.3={ death=yes }
+}
+1019914462={
+	name=Pules
+	female=yes
+	dynasty=1009990111
+	dna="nbmjhpfjefb"
+	culture=cree religion=subartic_pagan
+	father=1019914457	#Etlelooaat
+	1259.4.22={ birth=yes }
+	1323.8.6={ death=yes }
+}
+1019914463={
+	name=Alawa
+	female=yes
+	dynasty=1009990111
+	dna="ngfpgpfpeii"
+	culture=cree religion=subartic_pagan
+	father=1019914457	#Etlelooaat
+	1264.3.2={ birth=yes }
+	1326.1.2={ death=yes }
+}
+1019914464={
+	name=Powaw
+	dynasty=1009990111
+	dna="hemcafdbeic"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=4
+	father=1019914460	#Wematin
+	1277.5.4={ birth=yes }
+	1351.2.21={ death=yes }
+}
+1019914465={
+	name=Machk
+	dynasty=1009990111
+	dna="gjhhfajkkia"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=5
+	father=1019914460	#Wematin
+	1281.8.22={ birth=yes }
+	1331.12.9={ death=yes }
+}
+1019914466={
+	name=Hausis
+	female=yes
+	dynasty=1009990111
+	dna="dhjcgbmkebm"
+	culture=cree religion=subartic_pagan
+	father=1019914460	#Wematin
+	1285.4.26={ birth=yes }
+	1350.12.7={ death=yes }
+}
+1019914467={
+	name=Kanti
+	female=yes
+	dynasty=1009990111
+	dna="hfmhmfdfgic"
+	culture=cree religion=subartic_pagan
+	father=1019914464	#Powaw
+	1300.8.4={ birth=yes }
+	1351.6.8={ death=yes }
+}
+1019914468={
+	name=Tahki
+	female=yes
+	dynasty=1009990111
+	dna="heffafobeih"
+	culture=cree religion=subartic_pagan
+	father=1019914464	#Powaw
+	1306.12.10={ birth=yes }
+	1354.3.12={ death=yes }
+}
+1019914469={
+	name=Hassun
+	dynasty=1009990111
+	dna="hemaafdblic"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=6 learning=8
+	father=1019914464	#Powaw
+	1309.1.18={ birth=yes }
+	1396.11.16={ death=yes }
+}
+1019914470={
+	name=Nuna
+	female=yes
+	dynasty=1009990111
+	dna="hemcagebheo"
+	culture=cree religion=subartic_pagan
+	father=1019914464	#Powaw
+	1312.9.2={ birth=yes }
+	1359.10.25={ death=yes }
+}
+1019914471={
+	name=Megedagik
+	dynasty=1009990111
+	dna="hkmapdcblih"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	father=1019914469	#Hassun
+	1336.10.19={ birth=yes }
+	1389.6.4={ death=yes }
+}
+1019914472={
+	name=Kanti
+	female=yes
+	dynasty=1009990111
+	dna="hehlfjidlfc"
+	culture=cree religion=subartic_pagan
+	father=1019914469	#Hassun
+	1339.2.10={ birth=yes }
+	1408.4.24={ death=yes }
+}
+1019914473={
+	name=Wapun
+	female=yes
+	dynasty=1009990111
+	dna="hiiaafdblic"
+	culture=cree religion=subartic_pagan
+	father=1019914469	#Hassun
+	1343.5.5={ birth=yes }
+	1396.12.25={ death=yes }
+}
+1019914474={
+	name=Wapun
+	female=yes
+	dynasty=1009990111
+	dna="homaiibbloa"
+	culture=cree religion=subartic_pagan
+	father=1019914469	#Hassun
+	1347.1.22={ birth=yes }
+	1406.7.30={ death=yes }
+}
+1019914475={
+	name=Mukki
+	dynasty=1009990111
+	dna="hhmaamlamam"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=4
+	father=1019914469	#Hassun
+	1349.10.10={ birth=yes }
+	1420.1.19={ death=yes }
+}
+1019914476={
+	name=Huritt
+	dynasty=1009990112
+	dna="femgbpnoojb"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=7 learning=8
+	720.5.25={ birth=yes }
+	785.8.19={ death=yes }
+}
+1019914477={
+	name=Numees
+	female=yes
+	dynasty=1009990112
+	dna="fopghpcoogp"
+	culture=cree religion=subartic_pagan
+	father=1019914476	#Huritt
+	740.10.8={ birth=yes }
+	786.8.2={ death=yes }
+}
+1019914478={
+	name=Anakausuen
+	dynasty=1009990112
+	dna="gnljbffofjl"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	father=1019914476	#Huritt
+	742.9.1={ birth=yes }
+	798.3.27={ death=yes }
+}
+1019914479={
+	name=Matwau
+	dynasty=1009990112
+	dna="aklmbncilnl"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=8 learning=8
+	father=1019914478	#Anakausuen
+	768.2.4={ birth=yes }
+	821.4.29={ death=yes }
+}
+1019914480={
+	name=Hausis
+	female=yes
+	dynasty=1009990112
+	dna="gnlojglikll"
+	culture=cree religion=subartic_pagan
+	father=1019914478	#Anakausuen
+	773.5.26={ birth=yes }
+	841.11.7={ death=yes }
+}
+1019914481={
+	name=Enkoodabaoo
+	dynasty=1009990112
+	dna="gnojbfkgkhg"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	father=1019914478	#Anakausuen
+	776.6.24={ birth=yes }
+	827.8.7={ death=yes }
+}
+1019914482={
+	name=Kimi
+	female=yes
+	dynasty=1009990112
+	dna="hajgbicopjl"
+	culture=cree religion=subartic_pagan
+	father=1019914478	#Anakausuen
+	779.7.15={ birth=yes }
+	825.5.21={ death=yes }
+}
+1019914483={
+	name=Tihkoosue
+	dynasty=1009990112
+	dna="ghljblaoofl"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=7 learning=6
+	father=1019914478	#Anakausuen
+	782.7.12={ birth=yes }
+	834.8.11={ death=yes }
+}
+1019914484={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990112
+	dna="gflmcfddcjl"
+	culture=cree religion=subartic_pagan
+	father=1019914478	#Anakausuen
+	785.11.24={ birth=yes }
+	843.2.11={ death=yes }
+}
+1019914485={
+	name=Kimi
+	female=yes
+	dynasty=1009990112
+	dna="fdknlffmflg"
+	culture=cree religion=subartic_pagan
+	father=1019914478	#Anakausuen
+	789.4.17={ birth=yes }
+	862.4.10={ death=yes }
+}
+1019914486={
+	name=Tihkoosue
+	dynasty=1009990112
+	dna="akejaociegl"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	father=1019914479	#Matwau
+	791.2.3={ birth=yes }
+	848.12.8={ death=yes }
+}
+1019914487={
+	name=Nuna
+	female=yes
+	dynasty=1009990112
+	dna="oalmbnpjfnl"
+	culture=cree religion=subartic_pagan
+	father=1019914479	#Matwau
+	794.1.20={ birth=yes }
+	853.4.26={ death=yes }
+}
+1019914488={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990112
+	dna="konhoncilnj"
+	culture=cree religion=subartic_pagan
+	father=1019914479	#Matwau
+	797.3.1={ birth=yes }
+	845.5.10={ death=yes }
+}
+1019914489={
+	name=Matchitehew
+	dynasty=1009990112
+	dna="akdbbmcbmnl"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=8 learning=5
+	father=1019914479	#Matwau
+	801.12.8={ birth=yes }
+	855.1.12={ death=yes }
+}
+1019914490={
+	name=Sucki
+	dynasty=1009990112
+	dna="kjeceocfobl"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	father=1019914486	#Tihkoosue
+	815.2.4={ birth=yes }
+	863.2.18={ death=yes }
+}
+1019914491={
+	name=Wematin
+	dynasty=1009990112
+	dna="akphoocbegh"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=5 learning=6
+	father=1019914486	#Tihkoosue
+	819.7.20={ birth=yes }
+	868.11.15={ death=yes }
+}
+1019914492={
+	name=Etlelooaat
+	dynasty=1009990112
+	dna="apkjaolimel"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	father=1019914486	#Tihkoosue
+	823.11.23={ birth=yes }
+	878.12.3={ death=yes }
+}
+1019914493={
+	name=Abukcheech
+	dynasty=1009990112
+	dna="khefeocfmdh"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=5
+	father=1019914490	#Sucki
+	844.12.7={ birth=yes }
+	927.5.25={ death=yes }
+}
+1019914494={
+	name=Pannoowau
+	dynasty=1009990112
+	dna="cjecmnmnfml"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=6
+	father=1019914490	#Sucki
+	849.7.19={ birth=yes }
+	927.10.24={ death=yes }
+}
+1019914495={
+	name=Tahki
+	female=yes
+	dynasty=1009990112
+	dna="lokgkafbkba"
+	culture=cree religion=subartic_pagan
+	father=1019914490	#Sucki
+	854.7.9={ birth=yes }
+	913.4.23={ death=yes }
+}
+1019914496={
+	name=Askuwheteau
+	dynasty=1009990112
+	dna="kbocebmfplg"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=4
+	father=1019914490	#Sucki
+	856.2.7={ birth=yes }
+	910.7.31={ death=yes }
+}
+1019914497={
+	name=Chogan
+	dynasty=1009990112
+	dna="khffeoknldn"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	father=1019914493	#Abukcheech
+	867.2.3={ birth=yes }
+	939.4.25={ death=yes }
+}
+1019914498={
+	name=Mingan
+	dynasty=1009990112
+	dna="kgeecocgiph"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=7 learning=8
+	father=1019914493	#Abukcheech
+	870.11.26={ birth=yes }
+	942.7.23={ death=yes }
+}
+1019914499={
+	name=Chogan
+	dynasty=1009990112
+	dna="dfffjicfmah"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	father=1019914493	#Abukcheech
+	873.10.2={ birth=yes }
+	919.7.13={ death=yes }
+}
+1019914500={
+	name=Askook
+	dynasty=1009990112
+	dna="khibeopeecb"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	father=1019914493	#Abukcheech
+	876.2.7={ birth=yes }
+	926.1.16={ death=yes }
+}
+1019914501={
+	name=Mingan
+	dynasty=1009990112
+	dna="ipofeichkja"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=4 learning=4
+	father=1019914493	#Abukcheech
+	880.5.11={ birth=yes }
+	929.3.2={ death=yes }
+}
+1019914502={
+	name=Hurit
+	female=yes
+	dynasty=1009990112
+	dna="khfakcmnidn"
+	culture=cree religion=subartic_pagan
+	father=1019914497	#Chogan
+	893.11.16={ birth=yes }
+	959.9.1={ death=yes }
+}
+1019914503={
+	name=Segenam
+	dynasty=1009990112
+	dna="mafaojknlmn"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=5 learning=8
+	father=1019914497	#Chogan
+	897.7.8={ birth=yes }
+	949.11.10={ death=yes }
+}
+1019914504={
+	name=Mingan
+	dynasty=1009990112
+	dna="khkfeockcdj"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=8 learning=8
+	father=1019914497	#Chogan
+	901.3.4={ birth=yes }
+	957.5.26={ death=yes }
+}
+1019914505={
+	name=Chogan
+	dynasty=1009990112
+	dna="kjfffoanldi"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=4 learning=6
+	father=1019914497	#Chogan
+	906.12.20={ birth=yes }
+	974.8.31={ death=yes }
+}
+1019914506={
+	name=Keme
+	dynasty=1009990112
+	dna="mafadhpndld"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	father=1019914503	#Segenam
+	923.2.24={ birth=yes }
+	995.11.17={ death=yes }
+}
+1019914507={
+	name=Chogan
+	dynasty=1009990112
+	dna="mabahjgclmd"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=7 learning=8
+	father=1019914503	#Segenam
+	925.6.21={ birth=yes }
+	1000.2.8={ death=yes }
+}
+1019914508={
+	name=Chogan
+	dynasty=1009990112
+	dna="gklaojonlli"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	father=1019914503	#Segenam
+	928.7.27={ birth=yes }
+	982.9.23={ death=yes }
+}
+1019914509={
+	name=Hassun
+	dynasty=1009990112
+	dna="mahiajknlnf"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=4 learning=6
+	father=1019914503	#Segenam
+	930.7.15={ birth=yes }
+	984.11.22={ death=yes }
+}
+1019914510={
+	name=Alawa
+	female=yes
+	dynasty=1009990112
+	dna="dagiekpldlk"
+	culture=cree religion=subartic_pagan
+	father=1019914506	#Keme
+	945.5.9={ birth=yes }
+	1018.3.21={ death=yes }
+}
+1019914511={
+	name=Enkoodabaoo
+	dynasty=1009990112
+	dna="mafagajnifo"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	father=1019914506	#Keme
+	949.10.8={ birth=yes }
+	996.2.1={ death=yes }
+}
+1019914512={
+	name=Askook
+	dynasty=1009990112
+	dna="ealaghpndld"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=6
+	father=1019914506	#Keme
+	952.11.21={ birth=yes }
+	1014.8.7={ death=yes }
+}
+1019914513={
+	name=Nootau
+	dynasty=1009990112
+	dna="maoddhpnald"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=5 learning=7
+	father=1019914506	#Keme
+	955.9.5={ birth=yes }
+	1010.8.23={ death=yes }
+}
+1019914514={
+	name=Alawa
+	female=yes
+	dynasty=1009990112
+	dna="lafngajoifa"
+	culture=cree religion=subartic_pagan
+	father=1019914511	#Enkoodabaoo
+	973.2.18={ birth=yes }
+	1021.12.31={ death=yes }
+}
+1019914515={
+	name=Anakausuen
+	dynasty=1009990112
+	dna="mmfkjacnilo"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=6
+	father=1019914511	#Enkoodabaoo
+	977.8.9={ birth=yes }
+	1024.5.8={ death=yes }
+}
+1019914516={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990112
+	dna="maalgpjndfh"
+	culture=cree religion=subartic_pagan
+	father=1019914511	#Enkoodabaoo
+	980.1.14={ birth=yes }
+	1047.2.24={ death=yes }
+}
+1019914517={
+	name=Kimi
+	female=yes
+	dynasty=1009990112
+	dna="mafagaddibo"
+	culture=cree religion=subartic_pagan
+	father=1019914511	#Enkoodabaoo
+	984.6.8={ birth=yes }
+	1042.2.24={ death=yes }
+}
+1019914518={
+	name=Mekledoodum
+	dynasty=1009990112
+	dna="mcfkmncjcdd"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	father=1019914515	#Anakausuen
+	1007.3.12={ birth=yes }
+	1075.4.13={ death=yes }
+}
+1019914519={
+	name=Nixkamich
+	dynasty=1009990112
+	dna="amfmjeccjll"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=7 learning=5
+	father=1019914515	#Anakausuen
+	1010.5.25={ birth=yes }
+	1076.5.27={ death=yes }
+}
+1019914520={
+	name=Mukki
+	dynasty=1009990112
+	dna="pffbcacnioo"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=7 learning=8
+	father=1019914515	#Anakausuen
+	1016.3.17={ birth=yes }
+	1088.3.19={ death=yes }
+}
+1019914521={
+	name=Nootau
+	dynasty=1009990112
+	dna="mgfkmpljcgj"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=5 learning=7
+	father=1019914518	#Mekledoodum
+	1030.2.25={ birth=yes }
+	1072.11.14={ death=yes }
+}
+1019914522={
+	name=Nijlon
+	female=yes
+	dynasty=1009990112
+	dna="mcfgmncjefd"
+	culture=cree religion=subartic_pagan
+	father=1019914518	#Mekledoodum
+	1035.8.16={ birth=yes }
+	1087.9.16={ death=yes }
+}
+1019914523={
+	name=Abooksigun
+	dynasty=1009990112
+	dna="lhaeaplgooj"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=6
+	father=1019914521	#Nootau
+	1053.7.14={ birth=yes }
+	1113.1.12={ death=yes }
+}
+1019914524={
+	name=Mukki
+	dynasty=1009990112
+	dna="ihfkmpkjcgn"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=5 learning=4
+	father=1019914521	#Nootau
+	1055.1.16={ birth=yes }
+	1114.1.22={ death=yes }
+}
+1019914525={
+	name=Matunaagd
+	dynasty=1009990112
+	dna="fmfkmplfbgj"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	father=1019914521	#Nootau
+	1060.11.15={ birth=yes }
+	1120.12.7={ death=yes }
+}
+1019914526={
+	name=Etchemin
+	dynasty=1009990112
+	dna="mgikmdljclk"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=8 learning=6
+	father=1019914521	#Nootau
+	1063.6.11={ birth=yes }
+	1127.6.12={ death=yes }
+}
+1019914527={
+	name=Askuwheteau
+	dynasty=1009990112
+	dna="nkaiapigooj"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	father=1019914523	#Abooksigun
+	1076.1.17={ birth=yes }
+	1148.7.2={ death=yes }
+}
+1019914528={
+	name=Wawetseka
+	female=yes
+	dynasty=1009990112
+	dna="obaedpmgooj"
+	culture=cree religion=subartic_pagan
+	father=1019914523	#Abooksigun
+	1081.8.6={ birth=yes }
+	1164.10.20={ death=yes }
+}
+1019914529={
+	name=Wikimak
+	female=yes
+	dynasty=1009990112
+	dna="efkeiilnolj"
+	culture=cree religion=subartic_pagan
+	father=1019914523	#Abooksigun
+	1084.8.8={ birth=yes }
+	1151.5.12={ death=yes }
+}
+1019914530={
+	name=Powaw
+	dynasty=1009990112
+	dna="nkaiapigffj"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=5 learning=6
+	father=1019914527	#Askuwheteau
+	1102.11.7={ birth=yes }
+	1175.7.12={ death=yes }
+}
+1019914531={
+	name=Anakausuen
+	dynasty=1009990112
+	dna="nkajppijohp"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=7 learning=4
+	father=1019914527	#Askuwheteau
+	1104.9.16={ birth=yes }
+	1163.9.24={ death=yes }
+}
+1019914532={
+	name=Numees
+	female=yes
+	dynasty=1009990112
+	dna="nkaidcigoon"
+	culture=cree religion=subartic_pagan
+	father=1019914527	#Askuwheteau
+	1107.6.14={ birth=yes }
+	1165.11.25={ death=yes }
+}
+1019914533={
+	name=Wapun
+	female=yes
+	dynasty=1009990112
+	dna="nkclhpihnon"
+	culture=cree religion=subartic_pagan
+	father=1019914527	#Askuwheteau
+	1111.7.22={ birth=yes }
+	1178.3.28={ death=yes }
+}
+1019914534={
+	name=Nadie
+	female=yes
+	dynasty=1009990112
+	dna="neaiapigfec"
+	culture=cree religion=subartic_pagan
+	father=1019914530	#Powaw
+	1130.6.15={ birth=yes }
+	1197.8.15={ death=yes }
+}
+1019914535={
+	name=Sucki
+	dynasty=1009990112
+	dna="cnhiapiiifj"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=7
+	father=1019914530	#Powaw
+	1132.9.6={ birth=yes }
+	1204.8.13={ death=yes }
+}
+1019914536={
+	name=Kimi
+	female=yes
+	dynasty=1009990112
+	dna="nppiajfjflp"
+	culture=cree religion=subartic_pagan
+	father=1019914530	#Powaw
+	1136.8.10={ birth=yes }
+	1184.12.2={ death=yes }
+}
+1019914537={
+	name=Chogan
+	dynasty=1009990112
+	dna="cncnabnlifj"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=5
+	father=1019914535	#Sucki
+	1155.1.2={ birth=yes }
+	1221.3.16={ death=yes }
+}
+1019914538={
+	name=Wikimak
+	female=yes
+	dynasty=1009990112
+	dna="jnhiagoinfj"
+	culture=cree religion=subartic_pagan
+	father=1019914535	#Sucki
+	1160.12.22={ birth=yes }
+	1246.10.19={ death=yes }
+}
+1019914539={
+	name=Kitchi
+	dynasty=1009990112
+	dna="cjhkmpdiifb"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=6
+	father=1019914535	#Sucki
+	1163.2.11={ birth=yes }
+	1226.7.4={ death=yes }
+}
+1019914540={
+	name=Etlelooaat
+	dynasty=1009990112
+	dna="dkhfapiiifi"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=8
+	father=1019914535	#Sucki
+	1165.7.3={ birth=yes }
+	1227.9.22={ death=yes }
+}
+1019914541={
+	name=Keme
+	dynasty=1009990112
+	dna="pnhiloidhfj"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=4
+	father=1019914535	#Sucki
+	1168.4.20={ birth=yes }
+	1219.8.23={ death=yes }
+}
+1019914542={
+	name=Powaw
+	dynasty=1009990112
+	dna="ebhofojiihi"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=8 learning=6
+	father=1019914535	#Sucki
+	1172.4.9={ birth=yes }
+	1237.3.3={ death=yes }
+}
+1019914543={
+	name=Enkoodabaoo
+	dynasty=1009990112
+	dna="pkcblbnmifb"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	father=1019914537	#Chogan
+	1183.12.25={ birth=yes }
+	1264.12.9={ death=yes }
+}
+1019914544={
+	name=Tahki
+	female=yes
+	dynasty=1009990112
+	dna="cplcalgbime"
+	culture=cree religion=subartic_pagan
+	father=1019914537	#Chogan
+	1189.10.16={ birth=yes }
+	1257.11.15={ death=yes }
+}
+1019914545={
+	name=Hausis
+	female=yes
+	dynasty=1009990112
+	dna="copnabgmiek"
+	culture=cree religion=subartic_pagan
+	father=1019914537	#Chogan
+	1191.9.22={ birth=yes }
+	1256.10.16={ death=yes }
+}
+1019914546={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990112
+	dna="cnhpabnoapc"
+	culture=cree religion=subartic_pagan
+	father=1019914537	#Chogan
+	1196.1.25={ birth=yes }
+	1261.5.27={ death=yes }
+}
+1019914547={
+	name=Samoset
+	dynasty=1009990112
+	dna="pbcbjbepifb"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=7
+	father=1019914543	#Enkoodabaoo
+	1207.6.16={ birth=yes }
+	1258.7.10={ death=yes }
+}
+1019914548={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990112
+	dna="kkcblbneidb"
+	culture=cree religion=subartic_pagan
+	father=1019914543	#Enkoodabaoo
+	1213.12.27={ birth=yes }
+	1262.6.16={ death=yes }
+}
+1019914549={
+	name=Enkoodabaoo
+	dynasty=1009990112
+	dna="pciocbepmfp"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=4 learning=8
+	father=1019914547	#Samoset
+	1233.12.8={ birth=yes }
+	1294.5.25={ death=yes }
+}
+1019914550={
+	name=Abooksigun
+	dynasty=1009990112
+	dna="kbcbnmipheb"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=8
+	father=1019914547	#Samoset
+	1235.8.11={ birth=yes }
+	1301.6.5={ death=yes }
+}
+1019914551={
+	name=Abooksigun
+	dynasty=1009990112
+	dna="mgcbjbepiac"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=8
+	father=1019914547	#Samoset
+	1240.10.4={ birth=yes }
+	1301.3.30={ death=yes }
+}
+1019914552={
+	name=Enkoodabaoo
+	dynasty=1009990112
+	dna="pbebebepibm"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	father=1019914547	#Samoset
+	1245.10.6={ birth=yes }
+	1294.6.23={ death=yes }
+}
+1019914553={
+	name=Machk
+	dynasty=1009990112
+	dna="ppibkmepoip"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=8
+	father=1019914549	#Enkoodabaoo
+	1259.1.21={ birth=yes }
+	1317.6.14={ death=yes }
+}
+1019914554={
+	name=Tahki
+	female=yes
+	dynasty=1009990112
+	dna="hdiocbepefe"
+	culture=cree religion=subartic_pagan
+	father=1019914549	#Enkoodabaoo
+	1262.5.13={ birth=yes }
+	1331.7.24={ death=yes }
+}
+1019914555={
+	name=Hurit
+	female=yes
+	dynasty=1009990112
+	dna="mcjolbefkfp"
+	culture=cree religion=subartic_pagan
+	father=1019914549	#Enkoodabaoo
+	1267.4.16={ birth=yes }
+	1322.6.16={ death=yes }
+}
+1019914556={
+	name=Wikimak
+	female=yes
+	dynasty=1009990112
+	dna="ppibkmeeoip"
+	culture=cree religion=subartic_pagan
+	father=1019914553	#Machk
+	1281.1.25={ birth=yes }
+	1354.1.27={ death=yes }
+}
+1019914557={
+	name=Tihkoosue
+	dynasty=1009990112
+	dna="mpidkmgboln"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=8 learning=4
+	father=1019914553	#Machk
+	1284.3.25={ birth=yes }
+	1342.1.13={ death=yes }
+}
+1019914558={
+	name=Wapun
+	female=yes
+	dynasty=1009990112
+	dna="ppaldfdpocp"
+	culture=cree religion=subartic_pagan
+	father=1019914553	#Machk
+	1286.1.22={ birth=yes }
+	1352.3.2={ death=yes }
+}
+1019914559={
+	name=Ahanu
+	dynasty=1009990112
+	dna="ppidkiehdip"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=5
+	father=1019914553	#Machk
+	1291.1.4={ birth=yes }
+	1344.11.13={ death=yes }
+}
+1019914560={
+	name=Alawa
+	female=yes
+	dynasty=1009990112
+	dna="klidpmjboll"
+	culture=cree religion=subartic_pagan
+	father=1019914557	#Tihkoosue
+	1306.4.21={ birth=yes }
+	1377.1.27={ death=yes }
+}
+1019914561={
+	name=Megedagik
+	dynasty=1009990112
+	dna="mpidhcgbhlh"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	add_trait=intricate_webweaver add_trait=gregarious add_trait=cynical add_trait=arbitrary 
+	father=1019914557	#Tihkoosue
+	1308.5.2={ birth=yes }
+	1363.6.11={ death=yes }
+}
+1019914562={
+	name=Askook
+	dynasty=1009990112
+	dna="ffidngkbkhn"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=5 learning=4
+	father=1019914557	#Tihkoosue
+	1310.7.5={ birth=yes }
+	1371.3.20={ death=yes }
+}
+1019914563={
+	name=Samoset
+	dynasty=1009990112
+	dna="mckmkmgmopm"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=5 learning=4
+	father=1019914557	#Tihkoosue
+	1316.9.23={ birth=yes }
+	1374.10.27={ death=yes }
+}
+1019914564={
+	name=Wapun
+	female=yes
+	dynasty=1009990112
+	dna="kpihhimbhlh"
+	culture=cree religion=subartic_pagan
+	father=1019914561	#Megedagik
+	1331.12.12={ birth=yes }
+	1383.7.11={ death=yes }
+}
+1019914565={
+	name=Pannoowau
+	dynasty=1009990112
+	dna="haiddgnfklp"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=8
+	father=1019914561	#Megedagik
+	1335.4.15={ birth=yes }
+	1406.11.5={ death=yes }
+}
+1019914566={
+	name=Nuttah
+	female=yes
+	dynasty=1009990112
+	dna="faanfdgbhlm"
+	culture=cree religion=subartic_pagan
+	father=1019914561	#Megedagik
+	1340.9.20={ birth=yes }
+	1403.5.13={ death=yes }
+}
+1019914567={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990112
+	dna="npldhngbhll"
+	culture=cree religion=subartic_pagan
+	father=1019914561	#Megedagik
+	1343.6.1={ birth=yes }
+	1395.5.4={ death=yes }
+}
+1019914568={
+	name=Ahanu
+	dynasty=1009990113
+	dna="kkobgbopooe"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	719.7.8={ birth=yes }
+	765.7.14={ death=yes }
+}
+1019914569={
+	name=Askuwheteau
+	dynasty=1009990113
+	dna="eeojmbopoop"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	father=1019914568	#Ahanu
+	743.1.10={ birth=yes }
+	804.7.21={ death=yes }
+}
+1019914570={
+	name=Mekledoodum
+	dynasty=1009990113
+	dna="nkhbhoopoji"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	father=1019914568	#Ahanu
+	747.8.11={ birth=yes }
+	819.10.28={ death=yes }
+}
+1019914571={
+	name=Segenam
+	dynasty=1009990113
+	dna="lhobflkpooe"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=6
+	father=1019914568	#Ahanu
+	750.9.18={ birth=yes }
+	809.9.29={ death=yes }
+}
+1019914572={
+	name=Tihkoosue
+	dynasty=1009990113
+	dna="kkomapdpcgo"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=7 learning=8
+	father=1019914568	#Ahanu
+	753.4.18={ birth=yes }
+	808.11.23={ death=yes }
+}
+1019914573={
+	name=Etchemin
+	dynasty=1009990113
+	dna="eiojmpopokj"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=4 learning=4
+	father=1019914569	#Askuwheteau
+	770.7.4={ birth=yes }
+	829.5.9={ death=yes }
+}
+1019914574={
+	name=Chogan
+	dynasty=1009990113
+	dna="ecojapiebom"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	father=1019914569	#Askuwheteau
+	775.3.8={ birth=yes }
+	825.12.9={ death=yes }
+}
+1019914575={
+	name=Chansomps
+	dynasty=1009990113
+	dna="egljmkooobb"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=5 learning=4
+	father=1019914573	#Etchemin
+	795.2.5={ birth=yes }
+	859.10.5={ death=yes }
+}
+1019914576={
+	name=Nijlon
+	female=yes
+	dynasty=1009990113
+	dna="cekpmploekj"
+	culture=cree religion=subartic_pagan
+	father=1019914573	#Etchemin
+	796.3.7={ birth=yes }
+	847.7.17={ death=yes }
+}
+1019914577={
+	name=Nuttah
+	female=yes
+	dynasty=1009990113
+	dna="effjhpjpgof"
+	culture=cree religion=subartic_pagan
+	father=1019914573	#Etchemin
+	799.10.1={ birth=yes }
+	848.6.23={ death=yes }
+}
+1019914578={
+	name=Sokw
+	female=yes
+	dynasty=1009990113
+	dna="goojeplpokg"
+	culture=cree religion=subartic_pagan
+	father=1019914573	#Etchemin
+	802.12.4={ birth=yes }
+	843.7.26={ death=yes }
+}
+1019914579={
+	name=Sucki
+	dynasty=1009990113
+	dna="mjolmoohckj"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	father=1019914573	#Etchemin
+	804.4.11={ birth=yes }
+	868.7.24={ death=yes }
+}
+1019914580={
+	name=Chansomps
+	dynasty=1009990113
+	dna="edodiblaobj"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	father=1019914575	#Chansomps
+	821.12.3={ birth=yes }
+	892.10.20={ death=yes }
+}
+1019914581={
+	name=Pules
+	female=yes
+	dynasty=1009990113
+	dna="cgijmkandkb"
+	culture=cree religion=subartic_pagan
+	father=1019914575	#Chansomps
+	824.12.21={ birth=yes }
+	897.1.8={ death=yes }
+}
+1019914582={
+	name=Nuna
+	female=yes
+	dynasty=1009990113
+	dna="eiljahgogdj"
+	culture=cree religion=subartic_pagan
+	father=1019914575	#Chansomps
+	828.1.24={ birth=yes }
+	893.3.16={ death=yes }
+}
+1019914583={
+	name=Sokanon
+	female=yes
+	dynasty=1009990113
+	dna="egljlkhohbh"
+	culture=cree religion=subartic_pagan
+	father=1019914575	#Chansomps
+	831.5.27={ birth=yes }
+	886.5.4={ death=yes }
+}
+1019914584={
+	name=Kanti
+	female=yes
+	dynasty=1009990113
+	dna="mmljhkiffbm"
+	culture=cree religion=subartic_pagan
+	father=1019914575	#Chansomps
+	833.2.19={ birth=yes }
+	904.8.2={ death=yes }
+}
+1019914585={
+	name=Wematin
+	dynasty=1009990113
+	dna="cpodioehefa"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	father=1019914580	#Chansomps
+	847.8.1={ birth=yes }
+	900.2.16={ death=yes }
+}
+1019914586={
+	name=Powaw
+	dynasty=1009990113
+	dna="edodiinijdj"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=7 learning=4
+	father=1019914580	#Chansomps
+	851.8.25={ birth=yes }
+	917.4.6={ death=yes }
+}
+1019914587={
+	name=Wapun
+	female=yes
+	dynasty=1009990113
+	dna="dcodiplacbn"
+	culture=cree religion=subartic_pagan
+	father=1019914580	#Chansomps
+	854.9.1={ birth=yes }
+	914.6.27={ death=yes }
+}
+1019914588={
+	name=Sucki
+	dynasty=1009990113
+	dna="hpadeieohkc"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=5
+	father=1019914585	#Wematin
+	868.10.23={ birth=yes }
+	928.4.5={ death=yes }
+}
+1019914589={
+	name=Matchitehew
+	dynasty=1009990113
+	dna="gpldimieega"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=7 learning=4
+	father=1019914585	#Wematin
+	871.8.27={ birth=yes }
+	930.11.21={ death=yes }
+}
+1019914590={
+	name=Mukki
+	dynasty=1009990113
+	dna="clfdimoacfa"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	father=1019914585	#Wematin
+	875.11.18={ birth=yes }
+	942.3.10={ death=yes }
+}
+1019914591={
+	name=Hausis
+	female=yes
+	dynasty=1009990113
+	dna="dlobigfhebi"
+	culture=cree religion=subartic_pagan
+	father=1019914585	#Wematin
+	878.7.3={ birth=yes }
+	915.3.9={ death=yes }
+}
+1019914592={
+	name=Etchemin
+	dynasty=1009990113
+	dna="bmjlbogbeca"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=7 learning=5
+	father=1019914585	#Wematin
+	881.4.11={ birth=yes }
+	929.9.9={ death=yes }
+}
+1019914593={
+	name=Matwau
+	dynasty=1009990113
+	dna="hpaapiebikc"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=7 learning=5
+	father=1019914588	#Sucki
+	892.10.6={ birth=yes }
+	943.2.22={ death=yes }
+}
+1019914594={
+	name=Wematin
+	dynasty=1009990113
+	dna="hcaojdeohnc"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	father=1019914588	#Sucki
+	897.9.24={ birth=yes }
+	958.2.24={ death=yes }
+}
+1019914595={
+	name=Mingan
+	dynasty=1009990113
+	dna="oelapieeiba"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	father=1019914593	#Matwau
+	916.5.14={ birth=yes }
+	980.1.21={ death=yes }
+}
+1019914596={
+	name=Etlelooaat
+	dynasty=1009990113
+	dna="hpabjmedida"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=7 learning=5
+	father=1019914593	#Matwau
+	921.7.22={ birth=yes }
+	972.7.25={ death=yes }
+}
+1019914597={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990113
+	dna="hpgapingiah"
+	culture=cree religion=subartic_pagan
+	father=1019914593	#Matwau
+	923.3.24={ birth=yes }
+	993.2.21={ death=yes }
+}
+1019914598={
+	name=Nijlon
+	female=yes
+	dynasty=1009990113
+	dna="hpafgcagakc"
+	culture=cree religion=subartic_pagan
+	father=1019914593	#Matwau
+	927.9.14={ birth=yes }
+	986.6.10={ death=yes }
+}
+1019914599={
+	name=Aranck
+	dynasty=1009990113
+	dna="hecgfiebikc"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019914593	#Matwau
+	929.11.18={ birth=yes }
+	979.10.5={ death=yes }
+}
+1019914600={
+	name=Etchemin
+	dynasty=1009990113
+	dna="mkfaoheeida"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=7 learning=7
+	father=1019914595	#Mingan
+	941.11.19={ birth=yes }
+	1015.1.12={ death=yes }
+}
+1019914601={
+	name=Nadie
+	female=yes
+	dynasty=1009990113
+	dna="hoknpipegdb"
+	culture=cree religion=subartic_pagan
+	father=1019914595	#Mingan
+	943.2.19={ birth=yes }
+	993.7.2={ death=yes }
+}
+1019914602={
+	name=Huritt
+	dynasty=1009990113
+	dna="oelplclcjjo"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=7
+	father=1019914595	#Mingan
+	947.12.1={ birth=yes }
+	1026.2.22={ death=yes }
+}
+1019914603={
+	name=Anakausuen
+	dynasty=1009990113
+	dna="kblafieebdj"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=6 learning=7
+	father=1019914595	#Mingan
+	949.6.5={ birth=yes }
+	1000.7.13={ death=yes }
+}
+1019914604={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990113
+	dna="ieeahileibn"
+	culture=cree religion=subartic_pagan
+	father=1019914595	#Mingan
+	952.6.14={ birth=yes }
+	1006.8.23={ death=yes }
+}
+1019914605={
+	name=Askuwheteau
+	dynasty=1009990113
+	dna="oplaidefibi"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=5 learning=6
+	father=1019914595	#Mingan
+	955.3.14={ birth=yes }
+	998.1.2={ death=yes }
+}
+1019914606={
+	name=Aranck
+	dynasty=1009990113
+	dna="nafdpaneiba"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=4 learning=8
+	father=1019914595	#Mingan
+	957.12.16={ birth=yes }
+	1005.1.11={ death=yes }
+}
+1019914607={
+	name=Kitchi
+	dynasty=1009990113
+	dna="jkfaogegidf"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=4 learning=4
+	father=1019914600	#Etchemin
+	962.3.24={ birth=yes }
+	1031.1.22={ death=yes }
+}
+1019914608={
+	name=Sokanon
+	female=yes
+	dynasty=1009990113
+	dna="mjfmmgekifa"
+	culture=cree religion=subartic_pagan
+	father=1019914600	#Etchemin
+	966.2.7={ birth=yes }
+	1014.11.5={ death=yes }
+}
+1019914609={
+	name=Wapun
+	female=yes
+	dynasty=1009990113
+	dna="lfomohenlci"
+	culture=cree religion=subartic_pagan
+	father=1019914600	#Etchemin
+	969.4.19={ birth=yes }
+	1025.6.8={ death=yes }
+}
+1019914610={
+	name=Megedagik
+	dynasty=1009990113
+	dna="hhnaocagijm"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	father=1019914607	#Kitchi
+	985.5.17={ birth=yes }
+	1043.4.2={ death=yes }
+}
+1019914611={
+	name=Pannoowau
+	dynasty=1009990113
+	dna="ckcaogcpbkc"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	father=1019914607	#Kitchi
+	990.3.1={ birth=yes }
+	1059.9.15={ death=yes }
+}
+1019914612={
+	name=Sokanon
+	female=yes
+	dynasty=1009990113
+	dna="jkbboddpidf"
+	culture=cree religion=subartic_pagan
+	father=1019914607	#Kitchi
+	992.4.5={ birth=yes }
+	1048.2.1={ death=yes }
+}
+1019914613={
+	name=Kanti
+	female=yes
+	dynasty=1009990113
+	dna="jkfaogegdam"
+	culture=cree religion=subartic_pagan
+	father=1019914607	#Kitchi
+	995.5.13={ birth=yes }
+	1067.10.29={ death=yes }
+}
+1019914614={
+	name=Abooksigun
+	dynasty=1009990113
+	dna="jgfaogejida"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=4 learning=8
+	father=1019914607	#Kitchi
+	999.4.19={ birth=yes }
+	1060.11.25={ death=yes }
+}
+1019914615={
+	name=Nadie
+	female=yes
+	dynasty=1009990113
+	dna="ahhijjdlpgg"
+	culture=cree religion=subartic_pagan
+	father=1019914610	#Megedagik
+	1007.11.25={ birth=yes }
+	1085.7.19={ death=yes }
+}
+1019914616={
+	name=Chogan
+	dynasty=1009990113
+	dna="hinaacogejm"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=7 learning=8
+	father=1019914610	#Megedagik
+	1011.1.5={ birth=yes }
+	1070.11.26={ death=yes }
+}
+1019914617={
+	name=Etchemin
+	dynasty=1009990113
+	dna="hhnaogkgjhn"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=5 learning=5
+	father=1019914610	#Megedagik
+	1014.12.9={ birth=yes }
+	1069.11.7={ death=yes }
+}
+1019914618={
+	name=Wapun
+	female=yes
+	dynasty=1009990113
+	dna="hinjacigehm"
+	culture=cree religion=subartic_pagan
+	father=1019914616	#Chogan
+	1033.9.7={ birth=yes }
+	1120.7.11={ death=yes }
+}
+1019914619={
+	name=Askuwheteau
+	dynasty=1009990113
+	dna="ehndonogdom"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=7 learning=5
+	father=1019914616	#Chogan
+	1036.2.23={ birth=yes }
+	1094.8.21={ death=yes }
+}
+1019914620={
+	name=Hausis
+	female=yes
+	dynasty=1009990113
+	dna="biphacohafk"
+	culture=cree religion=subartic_pagan
+	father=1019914616	#Chogan
+	1040.3.27={ birth=yes }
+	1106.11.22={ death=yes }
+}
+1019914621={
+	name=Anakausuen
+	dynasty=1009990113
+	dna="hinjceooehh"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	father=1019914616	#Chogan
+	1041.6.16={ birth=yes }
+	1087.9.24={ death=yes }
+}
+1019914622={
+	name=Nootau
+	dynasty=1009990113
+	dna="hpndnelgllm"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=7
+	father=1019914616	#Chogan
+	1045.9.19={ birth=yes }
+	1102.10.17={ death=yes }
+}
+1019914623={
+	name=Pules
+	female=yes
+	dynasty=1009990113
+	dna="hnnaaoopmgm"
+	culture=cree religion=subartic_pagan
+	father=1019914616	#Chogan
+	1049.4.7={ birth=yes }
+	1117.11.17={ death=yes }
+}
+1019914624={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990113
+	dna="gindacecfjo"
+	culture=cree religion=subartic_pagan
+	father=1019914616	#Chogan
+	1052.6.21={ birth=yes }
+	1083.7.17={ death=yes }
+}
+1019914625={
+	name=Megedagik
+	dynasty=1009990113
+	dna="jannoakfeoe"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=7 learning=7
+	father=1019914619	#Askuwheteau
+	1056.3.27={ birth=yes }
+	1129.12.31={ death=yes }
+}
+1019914626={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990113
+	dna="ghndkoonool"
+	culture=cree religion=subartic_pagan
+	father=1019914619	#Askuwheteau
+	1059.11.10={ birth=yes }
+	1108.9.4={ death=yes }
+}
+1019914627={
+	name=Pules
+	female=yes
+	dynasty=1009990113
+	dna="ehnhoocghom"
+	culture=cree religion=subartic_pagan
+	father=1019914619	#Askuwheteau
+	1062.7.25={ birth=yes }
+	1130.4.13={ death=yes }
+}
+1019914628={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990113
+	dna="bbodonggcge"
+	culture=cree religion=subartic_pagan
+	father=1019914619	#Askuwheteau
+	1066.1.10={ birth=yes }
+	1132.4.9={ death=yes }
+}
+1019914629={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990113
+	dna="ehndinegpop"
+	culture=cree religion=subartic_pagan
+	father=1019914619	#Askuwheteau
+	1069.9.15={ birth=yes }
+	1124.9.10={ death=yes }
+}
+1019914630={
+	name=Nijlon
+	female=yes
+	dynasty=1009990113
+	dna="ehafenlhdhd"
+	culture=cree religion=subartic_pagan
+	father=1019914619	#Askuwheteau
+	1072.10.9={ birth=yes }
+	1136.4.6={ death=yes }
+}
+1019914631={
+	name=Hassun
+	dynasty=1009990113
+	dna="lmnebnogiok"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	father=1019914619	#Askuwheteau
+	1075.10.17={ birth=yes }
+	1137.4.7={ death=yes }
+}
+1019914632={
+	name=Ahanu
+	dynasty=1009990113
+	dna="finnhakfnge"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	father=1019914625	#Megedagik
+	1080.10.26={ birth=yes }
+	1148.5.6={ death=yes }
+}
+1019914633={
+	name=Wikimak
+	female=yes
+	dynasty=1009990113
+	dna="knkgbfcfdoj"
+	culture=cree religion=subartic_pagan
+	father=1019914625	#Megedagik
+	1082.9.23={ birth=yes }
+	1133.1.24={ death=yes }
+}
+1019914634={
+	name=Pules
+	female=yes
+	dynasty=1009990113
+	dna="bfnadimfeok"
+	culture=cree religion=subartic_pagan
+	father=1019914625	#Megedagik
+	1084.11.8={ birth=yes }
+	1132.1.23={ death=yes }
+}
+1019914635={
+	name=Matunaagd
+	dynasty=1009990113
+	dna="nadfodehaek"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	father=1019914625	#Megedagik
+	1087.10.17={ birth=yes }
+	1155.8.13={ death=yes }
+}
+1019914636={
+	name=Kanti
+	female=yes
+	dynasty=1009990113
+	dna="jainoekgene"
+	culture=cree religion=subartic_pagan
+	father=1019914625	#Megedagik
+	1089.9.11={ birth=yes }
+	1134.4.4={ death=yes }
+}
+1019914637={
+	name=Ahanu
+	dynasty=1009990113
+	dna="jannlpggdee"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=7
+	father=1019914625	#Megedagik
+	1093.12.21={ birth=yes }
+	1154.6.26={ death=yes }
+}
+1019914638={
+	name=Chansomps
+	dynasty=1009990113
+	dna="fafajdkfmoe"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=5 learning=4
+	father=1019914625	#Megedagik
+	1094.12.17={ birth=yes }
+	1164.10.4={ death=yes }
+}
+1019914639={
+	name=Machk
+	dynasty=1009990113
+	dna="oiallaphpbe"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=6 learning=4
+	father=1019914632	#Ahanu
+	1102.9.19={ birth=yes }
+	1146.12.27={ death=yes }
+}
+1019914640={
+	name=Wikimak
+	female=yes
+	dynasty=1009990113
+	dna="fgolhgkfeae"
+	culture=cree religion=subartic_pagan
+	father=1019914632	#Ahanu
+	1104.2.20={ birth=yes }
+	1160.5.12={ death=yes }
+}
+1019914641={
+	name=Numees
+	female=yes
+	dynasty=1009990113
+	dna="gcbonanknge"
+	culture=cree religion=subartic_pagan
+	father=1019914632	#Ahanu
+	1108.4.9={ birth=yes }
+	1162.5.6={ death=yes }
+}
+1019914642={
+	name=Sucki
+	dynasty=1009990113
+	dna="fioahjgfnge"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=6 learning=4
+	father=1019914632	#Ahanu
+	1112.3.9={ birth=yes }
+	1200.4.6={ death=yes }
+}
+1019914643={
+	name=Wawetseka
+	female=yes
+	dynasty=1009990113
+	dna="fnnnmfffnge"
+	culture=cree religion=subartic_pagan
+	father=1019914632	#Ahanu
+	1115.7.12={ birth=yes }
+	1169.5.25={ death=yes }
+}
+1019914644={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990113
+	dna="finnoabfkge"
+	culture=cree religion=subartic_pagan
+	father=1019914632	#Ahanu
+	1118.8.9={ birth=yes }
+	1202.3.3={ death=yes }
+}
+1019914645={
+	name=Kimi
+	female=yes
+	dynasty=1009990113
+	dna="dhnnhijfcfe"
+	culture=cree religion=subartic_pagan
+	father=1019914632	#Ahanu
+	1122.12.26={ birth=yes }
+	1167.12.9={ death=yes }
+}
+1019914646={
+	name=Sokanon
+	female=yes
+	dynasty=1009990113
+	dna="jignncpfmkl"
+	culture=cree religion=subartic_pagan
+	father=1019914639	#Machk
+	1124.3.2={ birth=yes }
+	1183.11.4={ death=yes }
+}
+1019914647={
+	name=Powaw
+	dynasty=1009990113
+	dna="ofmhjlnhpbe"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	father=1019914639	#Machk
+	1126.9.8={ birth=yes }
+	1173.8.19={ death=yes }
+}
+1019914648={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990113
+	dna="namhjldbkgf"
+	culture=cree religion=subartic_pagan
+	father=1019914647	#Powaw
+	1154.6.20={ birth=yes }
+	1233.4.19={ death=yes }
+}
+1019914649={
+	name=Abooksigun
+	dynasty=1009990113
+	dna="ofmhjdghlbk"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	father=1019914647	#Powaw
+	1158.2.18={ birth=yes }
+	1208.11.14={ death=yes }
+}
+1019914650={
+	name=Nootau
+	dynasty=1009990113
+	dna="nhmhjliddbe"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=6
+	father=1019914647	#Powaw
+	1162.6.4={ birth=yes }
+	1226.7.25={ death=yes }
+}
+1019914651={
+	name=Nijlon
+	female=yes
+	dynasty=1009990113
+	dna="ffkhjccdhbe"
+	culture=cree religion=subartic_pagan
+	father=1019914647	#Powaw
+	1166.3.26={ birth=yes }
+	1238.7.2={ death=yes }
+}
+1019914652={
+	name=Samoset
+	dynasty=1009990113
+	dna="ojmhedncnbk"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=8 learning=4
+	father=1019914649	#Abooksigun
+	1179.10.15={ birth=yes }
+	1251.9.7={ death=yes }
+}
+1019914653={
+	name=Kanti
+	female=yes
+	dynasty=1009990113
+	dna="gfmcjdgnlbl"
+	culture=cree religion=subartic_pagan
+	father=1019914649	#Abooksigun
+	1182.10.9={ birth=yes }
+	1233.11.11={ death=yes }
+}
+1019914654={
+	name=Achachak
+	dynasty=1009990113
+	dna="hfmhjdghlhd"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=4 learning=4
+	father=1019914649	#Abooksigun
+	1186.10.7={ birth=yes }
+	1236.7.27={ death=yes }
+}
+1019914655={
+	name=Chogan
+	dynasty=1009990113
+	dna="bpmpkdacnck"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=4
+	father=1019914652	#Samoset
+	1205.1.18={ birth=yes }
+	1255.8.22={ death=yes }
+}
+1019914656={
+	name=Tahki
+	female=yes
+	dynasty=1009990113
+	dna="bjhhedmenbk"
+	culture=cree religion=subartic_pagan
+	father=1019914652	#Samoset
+	1208.6.27={ birth=yes }
+	1281.7.8={ death=yes }
+}
+1019914657={
+	name=Tahki
+	female=yes
+	dynasty=1009990113
+	dna="jpdhahecpfo"
+	culture=cree religion=subartic_pagan
+	father=1019914652	#Samoset
+	1212.9.1={ birth=yes }
+	1278.8.21={ death=yes }
+}
+1019914658={
+	name=Nuttah
+	female=yes
+	dynasty=1009990113
+	dna="dempddocnbi"
+	culture=cree religion=subartic_pagan
+	father=1019914652	#Samoset
+	1214.5.14={ birth=yes }
+	1283.3.20={ death=yes }
+}
+1019914659={
+	name=Etchemin
+	dynasty=1009990113
+	dna="hpmdckncobk"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=8
+	father=1019914652	#Samoset
+	1219.5.19={ birth=yes }
+	1261.1.21={ death=yes }
+}
+1019914660={
+	name=Tihkoosue
+	dynasty=1009990113
+	dna="gjgamjncnmk"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=6 learning=7
+	father=1019914652	#Samoset
+	1222.3.13={ birth=yes }
+	1271.8.18={ death=yes }
+}
+1019914661={
+	name=Powaw
+	dynasty=1009990113
+	dna="ojchegndpbc"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	father=1019914652	#Samoset
+	1223.4.20={ birth=yes }
+	1272.12.9={ death=yes }
+}
+1019914662={
+	name=Tahki
+	female=yes
+	dynasty=1009990113
+	dna="bgmpkhagncn"
+	culture=cree religion=subartic_pagan
+	father=1019914655	#Chogan
+	1227.1.18={ birth=yes }
+	1292.8.31={ death=yes }
+}
+1019914663={
+	name=Askuwheteau
+	dynasty=1009990113
+	dna="bpdpkcfkfjk"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=5 learning=8
+	father=1019914655	#Chogan
+	1230.2.26={ birth=yes }
+	1279.12.9={ death=yes }
+}
+1019914664={
+	name=Sokanon
+	female=yes
+	dynasty=1009990113
+	dna="bgmaphajohn"
+	culture=cree religion=subartic_pagan
+	father=1019914655	#Chogan
+	1232.2.26={ birth=yes }
+	1278.4.11={ death=yes }
+}
+1019914665={
+	name=Machk
+	dynasty=1009990113
+	dna="bidpkfeggjk"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=4
+	father=1019914663	#Askuwheteau
+	1251.6.16={ birth=yes }
+	1325.6.16={ death=yes }
+}
+1019914666={
+	name=Wapun
+	female=yes
+	dynasty=1009990113
+	dna="bpdpkekafok"
+	culture=cree religion=subartic_pagan
+	father=1019914663	#Askuwheteau
+	1257.9.4={ birth=yes }
+	1327.11.25={ death=yes }
+}
+1019914667={
+	name=Megedagik
+	dynasty=1009990113
+	dna="mdpnlghjfjk"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=4
+	father=1019914663	#Askuwheteau
+	1260.6.24={ birth=yes }
+	1310.6.15={ death=yes }
+}
+1019914668={
+	name=Nixkamich
+	dynasty=1009990113
+	dna="gjdlklfifjk"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=6
+	father=1019914663	#Askuwheteau
+	1263.10.10={ birth=yes }
+	1324.12.9={ death=yes }
+}
+1019914669={
+	name=Matchitehew
+	dynasty=1009990113
+	dna="gidpcmkjkjk"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=8
+	father=1019914665	#Machk
+	1279.1.16={ birth=yes }
+	1341.12.3={ death=yes }
+}
+1019914670={
+	name=Wikimak
+	female=yes
+	dynasty=1009990113
+	dna="nkmikffgjgp"
+	culture=cree religion=subartic_pagan
+	father=1019914665	#Machk
+	1280.10.25={ birth=yes }
+	1337.6.19={ death=yes }
+}
+1019914671={
+	name=Abooksigun
+	dynasty=1009990113
+	dna="anaadhggbjk"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=4
+	father=1019914665	#Machk
+	1283.5.15={ birth=yes }
+	1329.11.21={ death=yes }
+}
+1019914672={
+	name=Hurit
+	female=yes
+	dynasty=1009990113
+	dna="bigojhkkfgk"
+	culture=cree religion=subartic_pagan
+	father=1019914665	#Machk
+	1286.3.11={ birth=yes }
+	1355.11.17={ death=yes }
+}
+1019914673={
+	name=Mingan
+	dynasty=1009990113
+	dna="jidimfebjjk"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=6 learning=5
+	father=1019914665	#Machk
+	1289.12.11={ birth=yes }
+	1359.8.28={ death=yes }
+}
+1019914674={
+	name=Kimi
+	female=yes
+	dynasty=1009990113
+	dna="bidpkmeggdl"
+	culture=cree religion=subartic_pagan
+	father=1019914665	#Machk
+	1290.3.18={ birth=yes }
+	1347.8.30={ death=yes }
+}
+1019914675={
+	name=Kanti
+	female=yes
+	dynasty=1009990113
+	dna="bidfgfgggjm"
+	culture=cree religion=subartic_pagan
+	father=1019914665	#Machk
+	1294.6.5={ birth=yes }
+	1366.12.29={ death=yes }
+}
+1019914676={
+	name=Samoset
+	dynasty=1009990113
+	dna="jogpimhekkn"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=5
+	father=1019914669	#Matchitehew
+	1303.3.15={ birth=yes }
+	1389.4.28={ death=yes }
+}
+1019914677={
+	name=Nijlon
+	female=yes
+	dynasty=1009990113
+	dna="kiffcoenlac"
+	culture=cree religion=subartic_pagan
+	father=1019914669	#Matchitehew
+	1307.2.21={ birth=yes }
+	1361.8.4={ death=yes }
+}
+1019914678={
+	name=Nadie
+	female=yes
+	dynasty=1009990113
+	dna="onicgfkjkjg"
+	culture=cree religion=subartic_pagan
+	father=1019914669	#Matchitehew
+	1312.11.20={ birth=yes }
+	1371.4.16={ death=yes }
+}
+1019914679={
+	name=Powaw
+	dynasty=1009990113
+	dna="pmdpcjdbkch"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=6 learning=8
+	father=1019914669	#Matchitehew
+	1317.7.19={ birth=yes }
+	1354.1.30={ death=yes }
+}
+1019914680={
+	name=Sucki
+	dynasty=1009990114
+	dna="gofdfihknki"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	719.4.20={ birth=yes }
+	778.9.27={ death=yes }
+}
+1019914681={
+	name=Samoset
+	dynasty=1009990114
+	dna="adfdfiebnke"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=6
+	father=1019914680	#Sucki
+	742.4.2={ birth=yes }
+	806.10.13={ death=yes }
+}
+1019914682={
+	name=Hausis
+	female=yes
+	dynasty=1009990114
+	dna="gofpddhknhp"
+	culture=cree religion=subartic_pagan
+	father=1019914680	#Sucki
+	745.3.9={ birth=yes }
+	817.4.29={ death=yes }
+}
+1019914683={
+	name=Tahki
+	female=yes
+	dynasty=1009990114
+	dna="adgnlcaekhe"
+	culture=cree religion=subartic_pagan
+	father=1019914681	#Samoset
+	768.4.1={ birth=yes }
+	835.5.16={ death=yes }
+}
+1019914684={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990114
+	dna="gdpdfheinmk"
+	culture=cree religion=subartic_pagan
+	father=1019914681	#Samoset
+	771.4.19={ birth=yes }
+	839.3.28={ death=yes }
+}
+1019914685={
+	name=Etlelooaat
+	dynasty=1009990114
+	dna="adndiiebdme"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=8
+	father=1019914681	#Samoset
+	774.8.7={ birth=yes }
+	847.6.25={ death=yes }
+}
+1019914686={
+	name=Anakausuen
+	dynasty=1009990114
+	dna="ldikfkeomke"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=4
+	father=1019914681	#Samoset
+	778.2.22={ birth=yes }
+	828.8.22={ death=yes }
+}
+1019914687={
+	name=Alawa
+	female=yes
+	dynasty=1009990114
+	dna="gofafiefnke"
+	culture=cree religion=subartic_pagan
+	father=1019914681	#Samoset
+	782.5.5={ birth=yes }
+	849.12.8={ death=yes }
+}
+1019914688={
+	name=Matwau
+	dynasty=1009990114
+	dna="adfpgobfdkj"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=4 learning=4
+	father=1019914685	#Etlelooaat
+	800.7.27={ birth=yes }
+	861.2.12={ death=yes }
+}
+1019914689={
+	name=Sunukkuhkau
+	dynasty=1009990114
+	dna="mdmhaplbbme"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	father=1019914685	#Etlelooaat
+	803.3.1={ birth=yes }
+	849.6.19={ death=yes }
+}
+1019914690={
+	name=Megedagik
+	dynasty=1009990114
+	dna="koneidaodmi"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	father=1019914685	#Etlelooaat
+	806.11.19={ birth=yes }
+	877.8.9={ death=yes }
+}
+1019914691={
+	name=Pules
+	female=yes
+	dynasty=1009990114
+	dna="adnpicapdme"
+	culture=cree religion=subartic_pagan
+	father=1019914685	#Etlelooaat
+	808.3.8={ birth=yes }
+	883.8.9={ death=yes }
+}
+1019914692={
+	name=Askook
+	dynasty=1009990114
+	dna="mhekiifcdoe"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=7
+	father=1019914685	#Etlelooaat
+	812.2.8={ birth=yes }
+	860.5.10={ death=yes }
+}
+1019914693={
+	name=Matwau
+	dynasty=1009990114
+	dna="acgpgobfilo"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=6 learning=6
+	father=1019914688	#Matwau
+	823.11.17={ birth=yes }
+	872.11.5={ death=yes }
+}
+1019914694={
+	name=Pules
+	female=yes
+	dynasty=1009990114
+	dna="anfpenblgci"
+	culture=cree religion=subartic_pagan
+	father=1019914688	#Matwau
+	826.8.11={ birth=yes }
+	897.2.22={ death=yes }
+}
+1019914695={
+	name=Hassun
+	dynasty=1009990114
+	dna="hnfpaoogdpj"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=7
+	father=1019914688	#Matwau
+	828.6.26={ birth=yes }
+	884.12.23={ death=yes }
+}
+1019914696={
+	name=Askook
+	dynasty=1009990114
+	dna="mdkpgohfdee"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=8 learning=8
+	father=1019914688	#Matwau
+	832.9.9={ birth=yes }
+	907.2.23={ death=yes }
+}
+1019914697={
+	name=Mingan
+	dynasty=1009990114
+	dna="acapgoililc"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=4 learning=6
+	father=1019914693	#Matwau
+	845.11.22={ birth=yes }
+	916.2.28={ death=yes }
+}
+1019914698={
+	name=Pannoowau
+	dynasty=1009990114
+	dna="dcgpgobonlf"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=4
+	father=1019914693	#Matwau
+	847.6.22={ birth=yes }
+	907.11.13={ death=yes }
+}
+1019914699={
+	name=Segenam
+	dynasty=1009990114
+	dna="pdgomiililc"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	father=1019914697	#Mingan
+	870.9.6={ birth=yes }
+	941.10.6={ death=yes }
+}
+1019914700={
+	name=Wikimak
+	female=yes
+	dynasty=1009990114
+	dna="acapghalilc"
+	culture=cree religion=subartic_pagan
+	father=1019914697	#Mingan
+	872.6.6={ birth=yes }
+	925.1.30={ death=yes }
+}
+1019914701={
+	name=Pannoowau
+	dynasty=1009990114
+	dna="apafgncfccc"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=4
+	father=1019914697	#Mingan
+	874.5.2={ birth=yes }
+	909.4.22={ death=yes }
+}
+1019914702={
+	name=Alawa
+	female=yes
+	dynasty=1009990114
+	dna="jbbmcoibifg"
+	culture=cree religion=subartic_pagan
+	father=1019914697	#Mingan
+	878.1.27={ birth=yes }
+	950.1.22={ death=yes }
+}
+1019914703={
+	name=Wikimak
+	female=yes
+	dynasty=1009990114
+	dna="fifhaoplcfc"
+	culture=cree religion=subartic_pagan
+	father=1019914697	#Mingan
+	883.10.15={ birth=yes }
+	952.7.23={ death=yes }
+}
+1019914704={
+	name=Nuttah
+	female=yes
+	dynasty=1009990114
+	dna="acaogoilkdg"
+	culture=cree religion=subartic_pagan
+	father=1019914697	#Mingan
+	886.7.3={ birth=yes }
+	967.1.23={ death=yes }
+}
+1019914705={
+	name=Nixkamich
+	dynasty=1009990114
+	dna="ocakagloilk"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=7 learning=8
+	father=1019914697	#Mingan
+	889.2.7={ birth=yes }
+	953.12.19={ death=yes }
+}
+1019914706={
+	name=Enkoodabaoo
+	dynasty=1009990114
+	dna="ldgpmlhlibc"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019914699	#Segenam
+	893.7.8={ birth=yes }
+	960.6.16={ death=yes }
+}
+1019914707={
+	name=Hausis
+	female=yes
+	dynasty=1009990114
+	dna="pdeoliidelc"
+	culture=cree religion=subartic_pagan
+	father=1019914699	#Segenam
+	897.2.9={ birth=yes }
+	956.8.13={ death=yes }
+}
+1019914708={
+	name=Nuna
+	female=yes
+	dynasty=1009990114
+	dna="eakomollilc"
+	culture=cree religion=subartic_pagan
+	father=1019914699	#Segenam
+	901.6.26={ birth=yes }
+	974.3.31={ death=yes }
+}
+1019914709={
+	name=Sokanon
+	female=yes
+	dynasty=1009990114
+	dna="pjoomaeoalg"
+	culture=cree religion=subartic_pagan
+	father=1019914699	#Segenam
+	905.4.5={ birth=yes }
+	975.5.8={ death=yes }
+}
+1019914710={
+	name=Nuttah
+	female=yes
+	dynasty=1009990114
+	dna="llepmbhlkbc"
+	culture=cree religion=subartic_pagan
+	father=1019914706	#Enkoodabaoo
+	919.8.18={ birth=yes }
+	964.9.30={ death=yes }
+}
+1019914711={
+	name=Matunaagd
+	dynasty=1009990114
+	dna="edgpkaejljk"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=6
+	father=1019914706	#Enkoodabaoo
+	922.1.11={ birth=yes }
+	982.9.19={ death=yes }
+}
+1019914712={
+	name=Abooksigun
+	dynasty=1009990114
+	dna="mdgpmnmefbe"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=4 learning=4
+	father=1019914706	#Enkoodabaoo
+	925.11.2={ birth=yes }
+	974.7.17={ death=yes }
+}
+1019914713={
+	name=Achachak
+	dynasty=1009990114
+	dna="afgooeejbjk"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=8
+	father=1019914711	#Matunaagd
+	946.6.26={ birth=yes }
+	997.3.5={ death=yes }
+}
+1019914714={
+	name=Hausis
+	female=yes
+	dynasty=1009990114
+	dna="ekdpgdejlfa"
+	culture=cree religion=subartic_pagan
+	father=1019914711	#Matunaagd
+	947.7.20={ birth=yes }
+	1012.7.26={ death=yes }
+}
+1019914715={
+	name=Ahanu
+	dynasty=1009990114
+	dna="eogpoljjlji"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=7 learning=5
+	father=1019914711	#Matunaagd
+	951.12.13={ birth=yes }
+	1026.10.25={ death=yes }
+}
+1019914716={
+	name=Numees
+	female=yes
+	dynasty=1009990114
+	dna="ddipkhkmlgk"
+	culture=cree religion=subartic_pagan
+	father=1019914711	#Matunaagd
+	954.3.1={ birth=yes }
+	1001.9.7={ death=yes }
+}
+1019914717={
+	name=Hassun
+	dynasty=1009990114
+	dna="bfgoheehdgk"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=4 learning=8
+	father=1019914713	#Achachak
+	969.11.5={ birth=yes }
+	1015.9.22={ death=yes }
+}
+1019914718={
+	name=Askuwheteau
+	dynasty=1009990114
+	dna="afgkegejofm"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=6
+	father=1019914713	#Achachak
+	970.12.20={ birth=yes }
+	1039.8.19={ death=yes }
+}
+1019914719={
+	name=Hausis
+	female=yes
+	dynasty=1009990114
+	dna="afkojlgofjk"
+	culture=cree religion=subartic_pagan
+	father=1019914713	#Achachak
+	974.9.18={ birth=yes }
+	1030.1.28={ death=yes }
+}
+1019914720={
+	name=Etchemin
+	dynasty=1009990114
+	dna="dfjooneenfd"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=7 learning=8
+	father=1019914713	#Achachak
+	976.2.16={ birth=yes }
+	1042.4.1={ death=yes }
+}
+1019914721={
+	name=Wematin
+	dynasty=1009990114
+	dna="afcooekgioa"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=7 learning=6
+	father=1019914713	#Achachak
+	978.8.4={ birth=yes }
+	1046.4.27={ death=yes }
+}
+1019914722={
+	name=Pannoowau
+	dynasty=1009990114
+	dna="dfkeicehdgn"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=6 learning=4
+	father=1019914717	#Hassun
+	990.2.16={ birth=yes }
+	1050.4.3={ death=yes }
+}
+1019914723={
+	name=Tahki
+	female=yes
+	dynasty=1009990114
+	dna="bellhefcagj"
+	culture=cree religion=subartic_pagan
+	father=1019914717	#Hassun
+	995.4.14={ birth=yes }
+	1053.12.26={ death=yes }
+}
+1019914724={
+	name=Sunukkuhkau
+	dynasty=1009990114
+	dna="bfgocekhpek"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	father=1019914717	#Hassun
+	996.5.15={ birth=yes }
+	1045.11.2={ death=yes }
+}
+1019914725={
+	name=Tihkoosue
+	dynasty=1009990114
+	dna="gfgcicehdgc"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	father=1019914722	#Pannoowau
+	1011.3.16={ birth=yes }
+	1073.7.24={ death=yes }
+}
+1019914726={
+	name=Wapun
+	female=yes
+	dynasty=1009990114
+	dna="hlmeimbhbbb"
+	culture=cree religion=subartic_pagan
+	father=1019914722	#Pannoowau
+	1014.10.27={ birth=yes }
+	1062.9.7={ death=yes }
+}
+1019914727={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990114
+	dna="djkeiehhded"
+	culture=cree religion=subartic_pagan
+	father=1019914722	#Pannoowau
+	1019.4.24={ birth=yes }
+	1078.8.26={ death=yes }
+}
+1019914728={
+	name=Hurit
+	female=yes
+	dynasty=1009990114
+	dna="afbkckeecgp"
+	culture=cree religion=subartic_pagan
+	father=1019914725	#Tihkoosue
+	1040.4.23={ birth=yes }
+	1104.4.24={ death=yes }
+}
+1019914729={
+	name=Numees
+	female=yes
+	dynasty=1009990114
+	dna="gbpklcnhdnc"
+	culture=cree religion=subartic_pagan
+	father=1019914725	#Tihkoosue
+	1044.3.18={ birth=yes }
+	1107.9.18={ death=yes }
+}
+1019914730={
+	name=Matunaagd
+	dynasty=1009990114
+	dna="ompjiceohgk"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=8
+	father=1019914725	#Tihkoosue
+	1046.7.12={ birth=yes }
+	1116.12.13={ death=yes }
+}
+1019914731={
+	name=Hurit
+	female=yes
+	dynasty=1009990114
+	dna="gfghikplfga"
+	culture=cree religion=subartic_pagan
+	father=1019914725	#Tihkoosue
+	1048.12.9={ birth=yes }
+	1136.10.20={ death=yes }
+}
+1019914732={
+	name=Nixkamich
+	dynasty=1009990114
+	dna="kbgciceidgc"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=4
+	father=1019914725	#Tihkoosue
+	1051.6.7={ birth=yes }
+	1115.9.25={ death=yes }
+}
+1019914733={
+	name=Aranck
+	dynasty=1009990114
+	dna="obfjicaccgk"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	father=1019914730	#Matunaagd
+	1068.9.19={ birth=yes }
+	1131.4.4={ death=yes }
+}
+1019914734={
+	name=Mingan
+	dynasty=1009990114
+	dna="omajcbpmhjk"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=6 learning=5
+	father=1019914730	#Matunaagd
+	1072.5.3={ birth=yes }
+	1132.5.1={ death=yes }
+}
+1019914735={
+	name=Etchemin
+	dynasty=1009990114
+	dna="igpjlaeohml"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=7 learning=6
+	father=1019914730	#Matunaagd
+	1075.8.27={ birth=yes }
+	1135.1.2={ death=yes }
+}
+1019914736={
+	name=Huritt
+	dynasty=1009990114
+	dna="omcjgkeohbe"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=5 learning=5
+	father=1019914730	#Matunaagd
+	1076.8.13={ birth=yes }
+	1145.4.29={ death=yes }
+}
+1019914737={
+	name=Keme
+	dynasty=1009990114
+	dna="lgfjpmaccgk"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=6 learning=6
+	father=1019914733	#Aranck
+	1094.1.2={ birth=yes }
+	1139.7.24={ death=yes }
+}
+1019914738={
+	name=Wikimak
+	female=yes
+	dynasty=1009990114
+	dna="angjicdceeg"
+	culture=cree religion=subartic_pagan
+	father=1019914733	#Aranck
+	1099.6.8={ birth=yes }
+	1161.2.6={ death=yes }
+}
+1019914739={
+	name=Abooksigun
+	dynasty=1009990114
+	dna="lgajondfign"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=5 learning=7
+	father=1019914737	#Keme
+	1119.11.23={ birth=yes }
+	1190.1.6={ death=yes }
+}
+1019914740={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990114
+	dna="hnfjfjaccga"
+	culture=cree religion=subartic_pagan
+	father=1019914737	#Keme
+	1123.8.22={ birth=yes }
+	1193.3.9={ death=yes }
+}
+1019914741={
+	name=Pules
+	female=yes
+	dynasty=1009990114
+	dna="ljgjfhacjgn"
+	culture=cree religion=subartic_pagan
+	father=1019914737	#Keme
+	1127.12.22={ birth=yes }
+	1178.9.5={ death=yes }
+}
+1019914742={
+	name=Mingan
+	dynasty=1009990114
+	dna="lgfjmmiciek"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=4 learning=5
+	father=1019914737	#Keme
+	1132.1.2={ birth=yes }
+	1172.7.4={ death=yes }
+}
+1019914743={
+	name=Powaw
+	dynasty=1009990114
+	dna="egaeoofmpda"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=8 learning=8
+	father=1019914739	#Abooksigun
+	1144.4.23={ birth=yes }
+	1203.5.25={ death=yes }
+}
+1019914744={
+	name=Hassun
+	dynasty=1009990114
+	dna="ifacogdpiin"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=7 learning=8
+	father=1019914739	#Abooksigun
+	1147.12.8={ birth=yes }
+	1200.6.18={ death=yes }
+}
+1019914745={
+	name=Chogan
+	dynasty=1009990114
+	dna="aocagndekgg"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=5
+	father=1019914739	#Abooksigun
+	1152.3.7={ birth=yes }
+	1220.7.9={ death=yes }
+}
+1019914746={
+	name=Segenam
+	dynasty=1009990114
+	dna="fgdjcnklimn"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=6
+	father=1019914739	#Abooksigun
+	1156.7.14={ birth=yes }
+	1234.8.22={ death=yes }
+}
+1019914747={
+	name=Nixkamich
+	dynasty=1009990114
+	dna="egjfhjemhda"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	father=1019914743	#Powaw
+	1171.2.1={ birth=yes }
+	1243.3.22={ death=yes }
+}
+1019914748={
+	name=Nixkamich
+	dynasty=1009990114
+	dna="egfejjmmpdh"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=7 learning=6
+	father=1019914743	#Powaw
+	1172.3.16={ birth=yes }
+	1207.6.25={ death=yes }
+}
+1019914749={
+	name=Matwau
+	dynasty=1009990114
+	dna="kgmedofjfdd"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=4 learning=4
+	father=1019914743	#Powaw
+	1176.2.2={ birth=yes }
+	1233.8.8={ death=yes }
+}
+1019914750={
+	name=Abooksigun
+	dynasty=1009990114
+	dna="ehbgodemldd"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	father=1019914743	#Powaw
+	1181.12.14={ birth=yes }
+	1242.7.20={ death=yes }
+}
+1019914751={
+	name=Nadie
+	female=yes
+	dynasty=1009990114
+	dna="nmjfhoddhpa"
+	culture=cree religion=subartic_pagan
+	father=1019914747	#Nixkamich
+	1199.5.1={ birth=yes }
+	1264.2.29={ death=yes }
+}
+1019914752={
+	name=Matchitehew
+	dynasty=1009990114
+	dna="kijfjdnioda"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=7 learning=4
+	father=1019914747	#Nixkamich
+	1203.11.11={ birth=yes }
+	1265.2.24={ death=yes }
+}
+1019914753={
+	name=Askuwheteau
+	dynasty=1009990114
+	dna="hgpdhjelhda"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=4 learning=4
+	father=1019914747	#Nixkamich
+	1208.11.27={ birth=yes }
+	1256.1.13={ death=yes }
+}
+1019914754={
+	name=Matunaagd
+	dynasty=1009990114
+	dna="eojfpjpbhla"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=7 learning=6
+	father=1019914747	#Nixkamich
+	1210.8.10={ birth=yes }
+	1266.4.27={ death=yes }
+}
+1019914755={
+	name=Huritt
+	dynasty=1009990114
+	dna="mibfjdfioga"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=8
+	father=1019914752	#Matchitehew
+	1228.11.4={ birth=yes }
+	1311.6.19={ death=yes }
+}
+1019914756={
+	name=Askuwheteau
+	dynasty=1009990114
+	dna="kijcjeaioka"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=7
+	father=1019914752	#Matchitehew
+	1232.6.26={ birth=yes }
+	1299.2.9={ death=yes }
+}
+1019914757={
+	name=Kimi
+	female=yes
+	dynasty=1009990114
+	dna="gjjfjdnledl"
+	culture=cree religion=subartic_pagan
+	father=1019914752	#Matchitehew
+	1237.9.17={ birth=yes }
+	1287.11.3={ death=yes }
+}
+1019914758={
+	name=Kitchi
+	dynasty=1009990114
+	dna="mgffjdpalgb"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	father=1019914755	#Huritt
+	1254.12.9={ birth=yes }
+	1313.7.12={ death=yes }
+}
+1019914759={
+	name=Hassun
+	dynasty=1009990114
+	dna="kmofjdffopj"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	father=1019914755	#Huritt
+	1258.11.25={ birth=yes }
+	1326.3.13={ death=yes }
+}
+1019914760={
+	name=Nadie
+	female=yes
+	dynasty=1009990114
+	dna="diepajfbogn"
+	culture=cree religion=subartic_pagan
+	father=1019914755	#Huritt
+	1260.8.7={ birth=yes }
+	1319.12.13={ death=yes }
+}
+1019914761={
+	name=Matwau
+	dynasty=1009990114
+	dna="fiffjjfifgk"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=8 learning=7
+	father=1019914755	#Huritt
+	1262.10.2={ birth=yes }
+	1328.6.4={ death=yes }
+}
+1019914762={
+	name=Nixkamich
+	dynasty=1009990114
+	dna="mibhjikaoga"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=4 learning=6
+	father=1019914755	#Huritt
+	1266.3.19={ birth=yes }
+	1330.9.7={ death=yes }
+}
+1019914763={
+	name=Kanti
+	female=yes
+	dynasty=1009990114
+	dna="cijojppiogg"
+	culture=cree religion=subartic_pagan
+	father=1019914755	#Huritt
+	1268.10.2={ birth=yes }
+	1323.2.22={ death=yes }
+}
+1019914764={
+	name=Hurit
+	female=yes
+	dynasty=1009990114
+	dna="mibafdcioao"
+	culture=cree religion=subartic_pagan
+	father=1019914755	#Huritt
+	1271.8.8={ birth=yes }
+	1337.8.23={ death=yes }
+}
+1019914765={
+	name=Nootau
+	dynasty=1009990114
+	dna="mefnjjkalgb"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	father=1019914758	#Kitchi
+	1277.10.10={ birth=yes }
+	1330.10.6={ death=yes }
+}
+1019914766={
+	name=Achachak
+	dynasty=1009990114
+	dna="mglfjkijbgb"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=5 learning=8
+	father=1019914758	#Kitchi
+	1280.7.14={ birth=yes }
+	1344.7.16={ death=yes }
+}
+1019914767={
+	name=Abukcheech
+	dynasty=1009990114
+	dna="mgfpgabalgc"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	father=1019914758	#Kitchi
+	1283.10.9={ birth=yes }
+	1323.1.8={ death=yes }
+}
+1019914768={
+	name=Anakausuen
+	dynasty=1009990114
+	dna="hbdpjfbalgi"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=8 learning=6
+	father=1019914765	#Nootau
+	1298.8.17={ birth=yes }
+	1368.12.7={ death=yes }
+}
+1019914769={
+	name=Hassun
+	dynasty=1009990114
+	dna="eefnjolilgj"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=4 learning=8
+	father=1019914765	#Nootau
+	1302.4.24={ birth=yes }
+	1384.11.13={ death=yes }
+}
+1019914770={
+	name=Numees
+	female=yes
+	dynasty=1009990114
+	dna="jefnbjkalgk"
+	culture=cree religion=subartic_pagan
+	father=1019914765	#Nootau
+	1307.9.2={ birth=yes }
+	1376.3.11={ death=yes }
+}
+1019914771={
+	name=Tahki
+	female=yes
+	dynasty=1009990114
+	dna="bednnjjallb"
+	culture=cree religion=subartic_pagan
+	father=1019914765	#Nootau
+	1311.11.19={ birth=yes }
+	1377.6.30={ death=yes }
+}
+1019914772={
+	name=Matwau
+	dynasty=1009990114
+	dna="hbhpjdpflec"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	father=1019914768	#Anakausuen
+	1321.12.15={ birth=yes }
+	1381.12.11={ death=yes }
+}
+1019914773={
+	name=Huritt
+	dynasty=1009990114
+	dna="bbdpafbelgi"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=7
+	father=1019914768	#Anakausuen
+	1323.10.23={ birth=yes }
+	1395.12.29={ death=yes }
+}
+1019914774={
+	name=Nuttah
+	female=yes
+	dynasty=1009990114
+	dna="fhdjjmbalgi"
+	culture=cree religion=subartic_pagan
+	father=1019914768	#Anakausuen
+	1328.12.21={ birth=yes }
+	1382.1.11={ death=yes }
+}
+1019914775={
+	name=Etlelooaat
+	dynasty=1009990115
+	dna="ihpakonenme"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=6 learning=7
+	719.2.18={ birth=yes }
+	770.5.26={ death=yes }
+}
+1019914776={
+	name=Ahanu
+	dynasty=1009990115
+	dna="pnpakoneflo"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=5 learning=6
+	father=1019914775	#Etlelooaat
+	746.4.21={ birth=yes }
+	818.10.14={ death=yes }
+}
+1019914777={
+	name=Chansomps
+	dynasty=1009990115
+	dna="hhgaclnekod"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=4 learning=7
+	father=1019914775	#Etlelooaat
+	749.5.23={ birth=yes }
+	798.11.28={ death=yes }
+}
+1019914778={
+	name=Pannoowau
+	dynasty=1009990115
+	dna="ibpcpipfngb"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=5 learning=7
+	father=1019914775	#Etlelooaat
+	752.7.26={ birth=yes }
+	809.3.5={ death=yes }
+}
+1019914779={
+	name=Nadie
+	female=yes
+	dynasty=1009990115
+	dna="ihhakkjejme"
+	culture=cree religion=subartic_pagan
+	father=1019914775	#Etlelooaat
+	755.7.1={ birth=yes }
+	800.8.21={ death=yes }
+}
+1019914780={
+	name=Etlelooaat
+	dynasty=1009990115
+	dna="pepadoeeflo"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=8
+	father=1019914776	#Ahanu
+	770.7.18={ birth=yes }
+	828.10.9={ death=yes }
+}
+1019914781={
+	name=Sokanon
+	female=yes
+	dynasty=1009990115
+	dna="pikakonefoo"
+	culture=cree religion=subartic_pagan
+	father=1019914776	#Ahanu
+	773.12.6={ birth=yes }
+	825.4.27={ death=yes }
+}
+1019914782={
+	name=Tihkoosue
+	dynasty=1009990115
+	dna="pnpaodjeflo"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=8 learning=8
+	father=1019914776	#Ahanu
+	777.5.19={ birth=yes }
+	846.10.10={ death=yes }
+}
+1019914783={
+	name=Sokw
+	female=yes
+	dynasty=1009990115
+	dna="bndpkoneile"
+	culture=cree religion=subartic_pagan
+	father=1019914776	#Ahanu
+	779.2.7={ birth=yes }
+	833.8.11={ death=yes }
+}
+1019914784={
+	name=Matchitehew
+	dynasty=1009990115
+	dna="kadamhoeopo"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	father=1019914776	#Ahanu
+	782.7.23={ birth=yes }
+	830.10.29={ death=yes }
+}
+1019914785={
+	name=Numees
+	female=yes
+	dynasty=1009990115
+	dna="dnpaconfmke"
+	culture=cree religion=subartic_pagan
+	father=1019914776	#Ahanu
+	787.1.16={ birth=yes }
+	836.1.27={ death=yes }
+}
+1019914786={
+	name=Kimi
+	female=yes
+	dynasty=1009990115
+	dna="enfjkjnnflf"
+	culture=cree religion=subartic_pagan
+	father=1019914776	#Ahanu
+	790.9.18={ birth=yes }
+	857.7.23={ death=yes }
+}
+1019914787={
+	name=Segenam
+	dynasty=1009990115
+	dna="pebadcpeflo"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=7
+	father=1019914780	#Etlelooaat
+	793.3.4={ birth=yes }
+	849.9.15={ death=yes }
+}
+1019914788={
+	name=Chogan
+	dynasty=1009990115
+	dna="plphdomhhlg"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=8 learning=4
+	father=1019914780	#Etlelooaat
+	795.2.26={ birth=yes }
+	869.9.11={ death=yes }
+}
+1019914789={
+	name=Tihkoosue
+	dynasty=1009990115
+	dna="gepadamefok"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=7 learning=7
+	father=1019914780	#Etlelooaat
+	798.10.4={ birth=yes }
+	854.8.30={ death=yes }
+}
+1019914790={
+	name=Etlelooaat
+	dynasty=1009990115
+	dna="plpeddoeplo"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=6 learning=6
+	father=1019914780	#Etlelooaat
+	801.6.19={ birth=yes }
+	873.12.13={ death=yes }
+}
+1019914791={
+	name=Megedagik
+	dynasty=1009990115
+	dna="aeenicpoidi"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=5
+	father=1019914787	#Segenam
+	819.6.4={ birth=yes }
+	889.8.9={ death=yes }
+}
+1019914792={
+	name=Nuttah
+	female=yes
+	dynasty=1009990115
+	dna="pebadmhmmlo"
+	culture=cree religion=subartic_pagan
+	father=1019914787	#Segenam
+	821.10.21={ birth=yes }
+	893.7.30={ death=yes }
+}
+1019914793={
+	name=Nijlon
+	female=yes
+	dynasty=1009990115
+	dna="nfmeaceeeho"
+	culture=cree religion=subartic_pagan
+	father=1019914787	#Segenam
+	822.2.8={ birth=yes }
+	882.9.17={ death=yes }
+}
+1019914794={
+	name=Nadie
+	female=yes
+	dynasty=1009990115
+	dna="pelldcpijpb"
+	culture=cree religion=subartic_pagan
+	father=1019914787	#Segenam
+	825.7.19={ birth=yes }
+	886.9.28={ death=yes }
+}
+1019914795={
+	name=Machk
+	dynasty=1009990115
+	dna="pebafjpafbo"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	father=1019914787	#Segenam
+	828.8.3={ birth=yes }
+	900.1.13={ death=yes }
+}
+1019914796={
+	name=Sucki
+	dynasty=1009990115
+	dna="mkjddfpehlo"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	father=1019914787	#Segenam
+	831.3.1={ birth=yes }
+	888.7.11={ death=yes }
+}
+1019914797={
+	name=Nuna
+	female=yes
+	dynasty=1009990115
+	dna="pgfndleeffj"
+	culture=cree religion=subartic_pagan
+	father=1019914787	#Segenam
+	834.11.4={ birth=yes }
+	906.3.23={ death=yes }
+}
+1019914798={
+	name=Pules
+	female=yes
+	dynasty=1009990115
+	dna="lgenocblfak"
+	culture=cree religion=subartic_pagan
+	father=1019914791	#Megedagik
+	841.10.2={ birth=yes }
+	911.1.3={ death=yes }
+}
+1019914799={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990115
+	dna="adkjippfeni"
+	culture=cree religion=subartic_pagan
+	father=1019914791	#Megedagik
+	844.8.7={ birth=yes }
+	895.5.14={ death=yes }
+}
+1019914800={
+	name=Matunaagd
+	dynasty=1009990115
+	dna="abeoinpohao"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=5 learning=8
+	father=1019914791	#Megedagik
+	847.6.12={ birth=yes }
+	906.7.23={ death=yes }
+}
+1019914801={
+	name=Nijlon
+	female=yes
+	dynasty=1009990115
+	dna="jeehbopfgdi"
+	culture=cree religion=subartic_pagan
+	father=1019914791	#Megedagik
+	851.7.20={ birth=yes }
+	918.1.9={ death=yes }
+}
+1019914802={
+	name=Etlelooaat
+	dynasty=1009990115
+	dna="abnoinbihec"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=7 learning=7
+	father=1019914800	#Matunaagd
+	871.1.23={ birth=yes }
+	939.2.27={ death=yes }
+}
+1019914803={
+	name=Hausis
+	female=yes
+	dynasty=1009990115
+	dna="akeojdphhpm"
+	culture=cree religion=subartic_pagan
+	father=1019914800	#Matunaagd
+	873.6.14={ birth=yes }
+	932.6.6={ death=yes }
+}
+1019914804={
+	name=Kimi
+	female=yes
+	dynasty=1009990115
+	dna="aaehjdoohek"
+	culture=cree religion=subartic_pagan
+	father=1019914800	#Matunaagd
+	876.9.18={ birth=yes }
+	927.3.8={ death=yes }
+}
+1019914805={
+	name=Sokw
+	female=yes
+	dynasty=1009990115
+	dna="aknoidlihmc"
+	culture=cree religion=subartic_pagan
+	father=1019914802	#Etlelooaat
+	899.7.9={ birth=yes }
+	945.12.11={ death=yes }
+}
+1019914806={
+	name=Powaw
+	dynasty=1009990115
+	dna="bnnbiabimef"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	father=1019914802	#Etlelooaat
+	901.1.24={ birth=yes }
+	971.2.12={ death=yes }
+}
+1019914807={
+	name=Mukki
+	dynasty=1009990115
+	dna="gbhliiplgec"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	father=1019914802	#Etlelooaat
+	905.7.11={ birth=yes }
+	955.3.16={ death=yes }
+}
+1019914808={
+	name=Wikimak
+	female=yes
+	dynasty=1009990115
+	dna="ajpopobgmeg"
+	culture=cree religion=subartic_pagan
+	father=1019914802	#Etlelooaat
+	908.7.16={ birth=yes }
+	972.4.13={ death=yes }
+}
+1019914809={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990115
+	dna="aboiinbihcc"
+	culture=cree religion=subartic_pagan
+	father=1019914802	#Etlelooaat
+	911.4.25={ birth=yes }
+	962.9.29={ death=yes }
+}
+1019914810={
+	name=Abukcheech
+	dynasty=1009990115
+	dna="bnnplkbiapl"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=7 learning=8
+	father=1019914806	#Powaw
+	921.10.5={ birth=yes }
+	978.4.17={ death=yes }
+}
+1019914811={
+	name=Kanti
+	female=yes
+	dynasty=1009990115
+	dna="fnohoabimdp"
+	culture=cree religion=subartic_pagan
+	father=1019914806	#Powaw
+	925.3.18={ birth=yes }
+	986.3.28={ death=yes }
+}
+1019914812={
+	name=Hurit
+	female=yes
+	dynasty=1009990115
+	dna="gnbbgabimed"
+	culture=cree religion=subartic_pagan
+	father=1019914806	#Powaw
+	928.6.18={ birth=yes }
+	977.1.23={ death=yes }
+}
+1019914813={
+	name=Nixkamich
+	dynasty=1009990115
+	dna="djkbgcpimff"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	father=1019914806	#Powaw
+	932.11.6={ birth=yes }
+	994.2.2={ death=yes }
+}
+1019914814={
+	name=Wikimak
+	female=yes
+	dynasty=1009990115
+	dna="annghgnfief"
+	culture=cree religion=subartic_pagan
+	father=1019914806	#Powaw
+	934.6.11={ birth=yes }
+	985.4.8={ death=yes }
+}
+1019914815={
+	name=Chogan
+	dynasty=1009990115
+	dna="odgalahimpf"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	father=1019914806	#Powaw
+	939.2.11={ birth=yes }
+	1004.4.14={ death=yes }
+}
+1019914816={
+	name=Samoset
+	dynasty=1009990115
+	dna="bdnblabimaj"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	father=1019914806	#Powaw
+	942.1.9={ birth=yes }
+	1015.11.22={ death=yes }
+}
+1019914817={
+	name=Sunukkuhkau
+	dynasty=1009990115
+	dna="enkflkjjaac"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	father=1019914810	#Abukcheech
+	948.6.9={ birth=yes }
+	998.11.23={ death=yes }
+}
+1019914818={
+	name=Ahanu
+	dynasty=1009990115
+	dna="lnnplkbbbpi"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=6 learning=5
+	father=1019914810	#Abukcheech
+	950.7.27={ birth=yes }
+	1008.8.5={ death=yes }
+}
+1019914819={
+	name=Sokanon
+	female=yes
+	dynasty=1009990115
+	dna="gnapliboall"
+	culture=cree religion=subartic_pagan
+	father=1019914810	#Abukcheech
+	953.11.2={ birth=yes }
+	1037.7.20={ death=yes }
+}
+1019914820={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990115
+	dna="dnnpkpbimpl"
+	culture=cree religion=subartic_pagan
+	father=1019914810	#Abukcheech
+	954.5.25={ birth=yes }
+	1020.8.4={ death=yes }
+}
+1019914821={
+	name=Megedagik
+	dynasty=1009990115
+	dna="enbolkinoac"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=5 learning=6
+	father=1019914817	#Sunukkuhkau
+	977.7.13={ birth=yes }
+	1043.5.24={ death=yes }
+}
+1019914822={
+	name=Pules
+	female=yes
+	dynasty=1009990115
+	dna="ennfljjpnjc"
+	culture=cree religion=subartic_pagan
+	father=1019914817	#Sunukkuhkau
+	979.4.10={ birth=yes }
+	1043.5.17={ death=yes }
+}
+1019914823={
+	name=Enkoodabaoo
+	dynasty=1009990115
+	dna="klbggkidoap"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=5
+	father=1019914821	#Megedagik
+	999.12.1={ birth=yes }
+	1056.9.22={ death=yes }
+}
+1019914824={
+	name=Nuttah
+	female=yes
+	dynasty=1009990115
+	dna="moeopnicfdc"
+	culture=cree religion=subartic_pagan
+	father=1019914821	#Megedagik
+	1004.10.27={ birth=yes }
+	1043.9.1={ death=yes }
+}
+1019914825={
+	name=Kanti
+	female=yes
+	dynasty=1009990115
+	dna="kjhgmniddap"
+	culture=cree religion=subartic_pagan
+	father=1019914823	#Enkoodabaoo
+	1029.1.3={ birth=yes }
+	1093.4.3={ death=yes }
+}
+1019914826={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990115
+	dna="klohldnkobd"
+	culture=cree religion=subartic_pagan
+	father=1019914823	#Enkoodabaoo
+	1033.7.23={ birth=yes }
+	1098.3.13={ death=yes }
+}
+1019914827={
+	name=Chogan
+	dynasty=1009990115
+	dna="jlpggkckjmp"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=6
+	father=1019914823	#Enkoodabaoo
+	1037.5.25={ birth=yes }
+	1085.9.13={ death=yes }
+}
+1019914828={
+	name=Mukki
+	dynasty=1009990115
+	dna="najggknljdj"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=4 learning=5
+	father=1019914827	#Chogan
+	1060.3.22={ birth=yes }
+	1124.2.8={ death=yes }
+}
+1019914829={
+	name=Hausis
+	female=yes
+	dynasty=1009990115
+	dna="jlpcalcojmb"
+	culture=cree religion=subartic_pagan
+	father=1019914827	#Chogan
+	1063.11.4={ birth=yes }
+	1128.4.20={ death=yes }
+}
+1019914830={
+	name=Tihkoosue
+	dynasty=1009990115
+	dna="jlglgbokjlp"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=6 learning=7
+	father=1019914827	#Chogan
+	1066.10.7={ birth=yes }
+	1121.11.1={ death=yes }
+}
+1019914831={
+	name=Aranck
+	dynasty=1009990115
+	dna="dakggkgkiee"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=8 learning=5
+	father=1019914828	#Mukki
+	1082.1.10={ birth=yes }
+	1147.8.16={ death=yes }
+}
+1019914832={
+	name=Numees
+	female=yes
+	dynasty=1009990115
+	dna="nmjgbkhlldg"
+	culture=cree religion=subartic_pagan
+	father=1019914828	#Mukki
+	1084.4.3={ birth=yes }
+	1153.10.27={ death=yes }
+}
+1019914833={
+	name=Nuna
+	female=yes
+	dynasty=1009990115
+	dna="najegneledi"
+	culture=cree religion=subartic_pagan
+	father=1019914828	#Mukki
+	1088.4.6={ birth=yes }
+	1161.11.19={ death=yes }
+}
+1019914834={
+	name=Nuna
+	female=yes
+	dynasty=1009990115
+	dna="naiplmneggj"
+	culture=cree religion=subartic_pagan
+	father=1019914828	#Mukki
+	1090.11.10={ birth=yes }
+	1152.3.8={ death=yes }
+}
+1019914835={
+	name=Matchitehew
+	dynasty=1009990115
+	dna="jacgfdgeiek"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=5 learning=7
+	father=1019914831	#Aranck
+	1109.5.20={ birth=yes }
+	1158.8.24={ death=yes }
+}
+1019914836={
+	name=Abooksigun
+	dynasty=1009990115
+	dna="daflabgkiee"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=7 learning=5
+	father=1019914831	#Aranck
+	1110.6.24={ birth=yes }
+	1170.7.22={ death=yes }
+}
+1019914837={
+	name=Nuttah
+	female=yes
+	dynasty=1009990115
+	dna="gangggnccje"
+	culture=cree religion=subartic_pagan
+	father=1019914831	#Aranck
+	1116.3.22={ birth=yes }
+	1161.11.10={ death=yes }
+}
+1019914838={
+	name=Kimi
+	female=yes
+	dynasty=1009990115
+	dna="ogkggggjcee"
+	culture=cree religion=subartic_pagan
+	father=1019914831	#Aranck
+	1118.5.10={ birth=yes }
+	1182.4.12={ death=yes }
+}
+1019914839={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990115
+	dna="jcfgleglgnk"
+	culture=cree religion=subartic_pagan
+	father=1019914835	#Matchitehew
+	1133.2.15={ birth=yes }
+	1216.5.6={ death=yes }
+}
+1019914840={
+	name=Hausis
+	female=yes
+	dynasty=1009990115
+	dna="fpagfjohiln"
+	culture=cree religion=subartic_pagan
+	father=1019914835	#Matchitehew
+	1137.1.23={ birth=yes }
+	1192.7.17={ death=yes }
+}
+1019914841={
+	name=Wematin
+	dynasty=1009990115
+	dna="kplgddjnibk"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=7 learning=6
+	father=1019914835	#Matchitehew
+	1142.1.24={ birth=yes }
+	1198.8.1={ death=yes }
+}
+1019914842={
+	name=Nuttah
+	female=yes
+	dynasty=1009990115
+	dna="iacchggpiok"
+	culture=cree religion=subartic_pagan
+	father=1019914835	#Matchitehew
+	1144.4.16={ birth=yes }
+	1207.11.3={ death=yes }
+}
+1019914843={
+	name=Askuwheteau
+	dynasty=1009990115
+	dna="negnfgbpcek"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	father=1019914835	#Matchitehew
+	1147.9.27={ birth=yes }
+	1184.8.21={ death=yes }
+}
+1019914844={
+	name=Wematin
+	dynasty=1009990115
+	dna="gjbiddonibf"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	father=1019914841	#Wematin
+	1168.5.4={ birth=yes }
+	1237.5.6={ death=yes }
+}
+1019914845={
+	name=Megedagik
+	dynasty=1009990115
+	dna="lpegodbblcm"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=6 learning=6
+	father=1019914841	#Wematin
+	1172.12.15={ birth=yes }
+	1227.1.20={ death=yes }
+}
+1019914846={
+	name=Pules
+	female=yes
+	dynasty=1009990115
+	dna="kpcgddjnlhn"
+	culture=cree religion=subartic_pagan
+	father=1019914841	#Wematin
+	1176.4.24={ birth=yes }
+	1248.10.13={ death=yes }
+}
+1019914847={
+	name=Kanti
+	female=yes
+	dynasty=1009990115
+	dna="iabigdonabm"
+	culture=cree religion=subartic_pagan
+	father=1019914844	#Wematin
+	1189.1.8={ birth=yes }
+	1251.1.9={ death=yes }
+}
+1019914848={
+	name=Sucki
+	dynasty=1009990115
+	dna="gjojddioidk"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=8 learning=5
+	father=1019914844	#Wematin
+	1195.10.9={ birth=yes }
+	1252.10.21={ death=yes }
+}
+1019914849={
+	name=Powaw
+	dynasty=1009990115
+	dna="gcejdhappai"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	father=1019914848	#Sucki
+	1221.8.26={ birth=yes }
+	1285.1.16={ death=yes }
+}
+1019914850={
+	name=Powaw
+	dynasty=1009990115
+	dna="hjopddhhiik"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=8 learning=4
+	father=1019914848	#Sucki
+	1224.9.15={ birth=yes }
+	1271.4.1={ death=yes }
+}
+1019914851={
+	name=Nuna
+	female=yes
+	dynasty=1009990115
+	dna="chnmfeididk"
+	culture=cree religion=subartic_pagan
+	father=1019914848	#Sucki
+	1226.3.7={ birth=yes }
+	1282.2.6={ death=yes }
+}
+1019914852={
+	name=Alawa
+	female=yes
+	dynasty=1009990115
+	dna="gfejdhkpeei"
+	culture=cree religion=subartic_pagan
+	father=1019914849	#Powaw
+	1247.6.14={ birth=yes }
+	1305.2.6={ death=yes }
+}
+1019914853={
+	name=Sunukkuhkau
+	dynasty=1009990115
+	dna="gcjkdcoppme"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=6 learning=7
+	father=1019914849	#Powaw
+	1251.1.8={ birth=yes }
+	1305.5.31={ death=yes }
+}
+1019914854={
+	name=Powaw
+	dynasty=1009990115
+	dna="gbjjlhcppad"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=8 learning=6
+	father=1019914849	#Powaw
+	1254.11.11={ birth=yes }
+	1300.6.3={ death=yes }
+}
+1019914855={
+	name=Samoset
+	dynasty=1009990115
+	dna="hpfjghchdni"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=4 learning=6
+	father=1019914849	#Powaw
+	1256.8.3={ birth=yes }
+	1309.9.14={ death=yes }
+}
+1019914856={
+	name=Abukcheech
+	dynasty=1009990115
+	dna="jcfkdcolpkl"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=6
+	father=1019914853	#Sunukkuhkau
+	1274.7.21={ birth=yes }
+	1334.12.4={ death=yes }
+}
+1019914857={
+	name=Hausis
+	female=yes
+	dynasty=1009990115
+	dna="gcjkdifgfme"
+	culture=cree religion=subartic_pagan
+	father=1019914853	#Sunukkuhkau
+	1278.8.6={ birth=yes }
+	1332.5.4={ death=yes }
+}
+1019914858={
+	name=Nadie
+	female=yes
+	dynasty=1009990115
+	dna="gcakdcenjhk"
+	culture=cree religion=subartic_pagan
+	father=1019914853	#Sunukkuhkau
+	1283.9.24={ birth=yes }
+	1357.9.3={ death=yes }
+}
+1019914859={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990115
+	dna="gpjnbhgpcbl"
+	culture=cree religion=subartic_pagan
+	father=1019914853	#Sunukkuhkau
+	1285.1.20={ birth=yes }
+	1372.12.28={ death=yes }
+}
+1019914860={
+	name=Askook
+	dynasty=1009990115
+	dna="jcmlhbobdlk"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=8 learning=4
+	father=1019914856	#Abukcheech
+	1303.6.15={ birth=yes }
+	1371.9.16={ death=yes }
+}
+1019914861={
+	name=Enkoodabaoo
+	dynasty=1009990115
+	dna="jpgkdcalpke"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=7 learning=5
+	father=1019914856	#Abukcheech
+	1305.3.21={ birth=yes }
+	1354.5.11={ death=yes }
+}
+1019914862={
+	name=Matchitehew
+	dynasty=1009990115
+	dna="ccfamoklpna"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	father=1019914856	#Abukcheech
+	1308.1.13={ birth=yes }
+	1348.8.24={ death=yes }
+}
+1019914863={
+	name=Pules
+	female=yes
+	dynasty=1009990115
+	dna="jcihhbfbkle"
+	culture=cree religion=subartic_pagan
+	father=1019914860	#Askook
+	1331.7.2={ birth=yes }
+	1375.7.30={ death=yes }
+}
+1019914864={
+	name=Abukcheech
+	dynasty=1009990115
+	dna="gecljbjnhli"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	father=1019914860	#Askook
+	1335.6.6={ birth=yes }
+	1397.7.7={ death=yes }
+}
+1019914865={
+	name=Aranck
+	dynasty=1009990115
+	dna="olflhpdiekk"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=7 learning=6
+	father=1019914860	#Askook
+	1338.3.4={ birth=yes }
+	1391.11.6={ death=yes }
+}
+1019914866={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990115
+	dna="jhlmhbomdhk"
+	culture=cree religion=subartic_pagan
+	father=1019914860	#Askook
+	1343.12.18={ birth=yes }
+	1374.9.27={ death=yes }
+}
+1019914867={
+	name=Matwau
+	dynasty=1009990115
+	dna="jhackbmbidh"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=5 learning=6
+	father=1019914860	#Askook
+	1346.8.7={ birth=yes }
+	1408.11.29={ death=yes }
+}
+1019914868={
+	name=Hassun
+	dynasty=1009990115
+	dna="pdpllbjihli"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=8
+	father=1019914864	#Abukcheech
+	1362.3.20={ birth=yes }
+	1417.2.10={ death=yes }
+}
+1019914869={
+	name=Kimi
+	female=yes
+	dynasty=1009990115
+	dna="gecllojnhli"
+	culture=cree religion=subartic_pagan
+	father=1019914864	#Abukcheech
+	1364.11.18={ birth=yes }
+	1428.10.22={ death=yes }
+}
+1019917182={
+	name=Huritt
+	dynasty=1009990139
+	dna="boplfgfbofa"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	720.6.26={ birth=yes }
+	795.7.23={ death=yes }
+}
+1019917183={
+	name=Sunukkuhkau
+	dynasty=1009990139
+	dna="oapldjinooa"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	father=1019917182	#Huritt
+	743.2.19={ birth=yes }
+	818.10.29={ death=yes }
+}
+1019917184={
+	name=Nixkamich
+	dynasty=1009990139
+	dna="akpifglbofa"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=6 learning=7
+	father=1019917182	#Huritt
+	750.1.5={ birth=yes }
+	836.6.11={ death=yes }
+}
+1019917185={
+	name=Ahanu
+	dynasty=1009990139
+	dna="focfjgpjofa"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=7
+	father=1019917182	#Huritt
+	754.10.26={ birth=yes }
+	834.2.9={ death=yes }
+}
+1019917186={
+	name=Sunukkuhkau
+	dynasty=1009990139
+	dna="eabgjcifooa"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	father=1019917183	#Sunukkuhkau
+	770.6.27={ birth=yes }
+	852.5.14={ death=yes }
+}
+1019917187={
+	name=Mingan
+	dynasty=1009990139
+	dna="onplgmjnboa"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=5 learning=7
+	father=1019917183	#Sunukkuhkau
+	775.3.11={ birth=yes }
+	810.6.14={ death=yes }
+}
+1019917188={
+	name=Wapun
+	female=yes
+	dynasty=1009990139
+	dna="baplcbcnloo"
+	culture=cree religion=subartic_pagan
+	father=1019917183	#Sunukkuhkau
+	781.10.13={ birth=yes }
+	843.7.12={ death=yes }
+}
+1019917189={
+	name=Abukcheech
+	dynasty=1009990139
+	dna="dapldjiepfc"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=8
+	father=1019917183	#Sunukkuhkau
+	787.3.3={ birth=yes }
+	871.7.18={ death=yes }
+}
+1019917190={
+	name=Samoset
+	dynasty=1009990139
+	dna="icbibpgfool"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=7
+	father=1019917186	#Sunukkuhkau
+	789.2.7={ birth=yes }
+	841.7.7={ death=yes }
+}
+1019917191={
+	name=Pules
+	female=yes
+	dynasty=1009990139
+	dna="eahgjcicjlj"
+	culture=cree religion=subartic_pagan
+	father=1019917186	#Sunukkuhkau
+	796.3.11={ birth=yes }
+	877.10.29={ death=yes }
+}
+1019917192={
+	name=Tahki
+	female=yes
+	dynasty=1009990139
+	dna="eacnjpinmga"
+	culture=cree religion=subartic_pagan
+	father=1019917186	#Sunukkuhkau
+	799.1.17={ birth=yes }
+	881.5.30={ death=yes }
+}
+1019917193={
+	name=Alawa
+	female=yes
+	dynasty=1009990139
+	dna="pfbagkieonm"
+	culture=cree religion=subartic_pagan
+	father=1019917186	#Sunukkuhkau
+	805.3.24={ birth=yes }
+	888.1.4={ death=yes }
+}
+1019917194={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990139
+	dna="hkblagifejp"
+	culture=cree religion=subartic_pagan
+	father=1019917186	#Sunukkuhkau
+	808.12.3={ birth=yes }
+	875.9.16={ death=yes }
+}
+1019917195={
+	name=Kimi
+	female=yes
+	dynasty=1009990139
+	dna="imenlbgigol"
+	culture=cree religion=subartic_pagan
+	father=1019917190	#Samoset
+	819.4.16={ birth=yes }
+	883.2.21={ death=yes }
+}
+1019917196={
+	name=Hassun
+	dynasty=1009990139
+	dna="ncmcgkjfoof"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	father=1019917190	#Samoset
+	823.7.19={ birth=yes }
+	924.8.27={ death=yes }
+}
+1019917197={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990139
+	dna="ialhbjgiona"
+	culture=cree religion=subartic_pagan
+	father=1019917190	#Samoset
+	828.11.26={ birth=yes }
+	882.11.13={ death=yes }
+}
+1019917198={
+	name=Megedagik
+	dynasty=1009990139
+	dna="ihbnlcjfokh"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=4 learning=6
+	father=1019917190	#Samoset
+	832.6.1={ birth=yes }
+	889.10.6={ death=yes }
+}
+1019917199={
+	name=Nixkamich
+	dynasty=1009990139
+	dna="ncmcikpfooi"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=6 learning=7
+	father=1019917196	#Hassun
+	847.1.2={ birth=yes }
+	907.4.1={ death=yes }
+}
+1019917200={
+	name=Nadie
+	female=yes
+	dynasty=1009990139
+	dna="ecmchkjeoof"
+	culture=cree religion=subartic_pagan
+	father=1019917196	#Hassun
+	851.10.5={ birth=yes }
+	907.12.24={ death=yes }
+}
+1019917201={
+	name=Samoset
+	dynasty=1009990139
+	dna="ecdpgejfoig"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	father=1019917196	#Hassun
+	854.8.2={ birth=yes }
+	910.3.17={ death=yes }
+}
+1019917202={
+	name=Mukki
+	dynasty=1009990139
+	dna="ncpcincioco"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=4 learning=5
+	father=1019917196	#Hassun
+	861.8.24={ birth=yes }
+	946.3.24={ death=yes }
+}
+1019917203={
+	name=Abooksigun
+	dynasty=1009990139
+	dna="bbmfekpbooi"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	father=1019917199	#Nixkamich
+	868.10.18={ birth=yes }
+	934.7.29={ death=yes }
+}
+1019917204={
+	name=Aranck
+	dynasty=1009990139
+	dna="ncmcidpfpie"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	father=1019917199	#Nixkamich
+	874.12.11={ birth=yes }
+	954.3.12={ death=yes }
+}
+1019917205={
+	name=Etlelooaat
+	dynasty=1009990139
+	dna="ngniikblioi"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=7 learning=5
+	father=1019917199	#Nixkamich
+	880.5.9={ birth=yes }
+	949.1.19={ death=yes }
+}
+1019917206={
+	name=Tahki
+	female=yes
+	dynasty=1009990139
+	dna="nemdikponik"
+	culture=cree religion=subartic_pagan
+	father=1019917199	#Nixkamich
+	884.2.3={ birth=yes }
+	959.11.5={ death=yes }
+}
+1019917207={
+	name=Etchemin
+	dynasty=1009990139
+	dna="blmkejflcnn"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	father=1019917203	#Abooksigun
+	892.10.16={ birth=yes }
+	972.7.25={ death=yes }
+}
+1019917208={
+	name=Sokanon
+	female=yes
+	dynasty=1009990139
+	dna="lgniekkbook"
+	culture=cree religion=subartic_pagan
+	father=1019917203	#Abooksigun
+	898.1.27={ birth=yes }
+	952.6.2={ death=yes }
+}
+1019917209={
+	name=Mekledoodum
+	dynasty=1009990139
+	dna="flnjehpgfoi"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	father=1019917203	#Abooksigun
+	902.5.10={ birth=yes }
+	975.8.2={ death=yes }
+}
+1019917210={
+	name=Nixkamich
+	dynasty=1009990139
+	dna="hbdieopbool"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=5 learning=4
+	father=1019917203	#Abooksigun
+	905.3.4={ birth=yes }
+	991.12.26={ death=yes }
+}
+1019917211={
+	name=Tihkoosue
+	dynasty=1009990139
+	dna="bnmmejalcbi"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	father=1019917207	#Etchemin
+	920.11.23={ birth=yes }
+	994.9.3={ death=yes }
+}
+1019917212={
+	name=Askuwheteau
+	dynasty=1009990139
+	dna="bimjejplpnj"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=8
+	father=1019917207	#Etchemin
+	926.6.2={ birth=yes }
+	1006.5.17={ death=yes }
+}
+1019917213={
+	name=Askook
+	dynasty=1009990139
+	dna="dlmbejflcpn"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=8 learning=7
+	father=1019917207	#Etchemin
+	931.2.2={ birth=yes }
+	997.3.4={ death=yes }
+}
+1019917214={
+	name=Sucki
+	dynasty=1009990139
+	dna="bhjlnlplpnc"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=8
+	father=1019917207	#Etchemin
+	936.11.2={ birth=yes }
+	1006.7.1={ death=yes }
+}
+1019917215={
+	name=Mukki
+	dynasty=1009990139
+	dna="llkhejileln"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=4
+	father=1019917207	#Etchemin
+	939.8.12={ birth=yes }
+	993.10.16={ death=yes }
+}
+1019917216={
+	name=Kimi
+	female=yes
+	dynasty=1009990139
+	dna="fnmbemfbckb"
+	culture=cree religion=subartic_pagan
+	father=1019917211	#Tihkoosue
+	945.10.19={ birth=yes }
+	1020.1.20={ death=yes }
+}
+1019917217={
+	name=Ahanu
+	dynasty=1009990139
+	dna="kgmoejdlcbd"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=8 learning=8
+	father=1019917211	#Tihkoosue
+	948.8.23={ birth=yes }
+	1018.11.18={ death=yes }
+}
+1019917218={
+	name=Megedagik
+	dynasty=1009990139
+	dna="lfcfnodndgl"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=4 learning=6
+	father=1019917211	#Tihkoosue
+	956.11.2={ birth=yes }
+	1028.1.19={ death=yes }
+}
+1019917219={
+	name=Machk
+	dynasty=1009990139
+	dna="blmikjplfeb"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=6 learning=5
+	father=1019917211	#Tihkoosue
+	963.12.2={ birth=yes }
+	1028.6.24={ death=yes }
+}
+1019917220={
+	name=Askook
+	dynasty=1009990139
+	dna="keooahdlfbm"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=6 learning=5
+	father=1019917217	#Ahanu
+	970.12.3={ birth=yes }
+	1037.7.6={ death=yes }
+}
+1019917221={
+	name=Hurit
+	female=yes
+	dynasty=1009990139
+	dna="okklejhhjld"
+	culture=cree religion=subartic_pagan
+	father=1019917217	#Ahanu
+	973.5.1={ birth=yes }
+	1035.1.5={ death=yes }
+}
+1019917222={
+	name=Hausis
+	female=yes
+	dynasty=1009990139
+	dna="kgjoepdlcbd"
+	culture=cree religion=subartic_pagan
+	father=1019917217	#Ahanu
+	976.4.5={ birth=yes }
+	1030.7.29={ death=yes }
+}
+1019917223={
+	name=Askuwheteau
+	dynasty=1009990139
+	dna="egmoejdgcba"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=7 learning=7
+	father=1019917217	#Ahanu
+	982.11.13={ birth=yes }
+	1040.10.9={ death=yes }
+}
+1019917224={
+	name=Hassun
+	dynasty=1009990139
+	dna="kgaoajdjabk"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=8 learning=6
+	father=1019917217	#Ahanu
+	985.2.11={ birth=yes }
+	1045.12.30={ death=yes }
+}
+1019917225={
+	name=Hausis
+	female=yes
+	dynasty=1009990139
+	dna="jenenedlebm"
+	culture=cree religion=subartic_pagan
+	father=1019917220	#Askook
+	1001.8.13={ birth=yes }
+	1063.4.13={ death=yes }
+}
+1019917226={
+	name=Chansomps
+	dynasty=1009990139
+	dna="bdoiadollbj"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=6
+	father=1019917220	#Askook
+	1005.9.7={ birth=yes }
+	1087.3.30={ death=yes }
+}
+1019917227={
+	name=Mingan
+	dynasty=1009990139
+	dna="khdohhdfpbm"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	father=1019917220	#Askook
+	1010.8.20={ birth=yes }
+	1093.5.3={ death=yes }
+}
+1019917228={
+	name=Etlelooaat
+	dynasty=1009990139
+	dna="kaoogbdlbbm"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	father=1019917220	#Askook
+	1014.8.4={ birth=yes }
+	1077.1.19={ death=yes }
+}
+1019917229={
+	name=Mukki
+	dynasty=1009990139
+	dna="keflahdhpfc"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	father=1019917220	#Askook
+	1018.6.26={ birth=yes }
+	1102.9.30={ death=yes }
+}
+1019917230={
+	name=Ahanu
+	dynasty=1009990139
+	dna="bjoicdnllbj"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=4 learning=6
+	father=1019917226	#Chansomps
+	1030.8.22={ birth=yes }
+	1101.12.10={ death=yes }
+}
+1019917231={
+	name=Chogan
+	dynasty=1009990139
+	dna="kdoiidinlfj"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	father=1019917226	#Chansomps
+	1035.4.27={ birth=yes }
+	1108.2.11={ death=yes }
+}
+1019917232={
+	name=Enkoodabaoo
+	dynasty=1009990139
+	dna="bdoiedollil"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=6 learning=4
+	father=1019917226	#Chansomps
+	1038.2.12={ birth=yes }
+	1091.4.1={ death=yes }
+}
+1019917233={
+	name=Sucki
+	dynasty=1009990139
+	dna="bjchmamofap"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=5
+	father=1019917226	#Chansomps
+	1043.7.23={ birth=yes }
+	1138.12.7={ death=yes }
+}
+1019917234={
+	name=Alawa
+	female=yes
+	dynasty=1009990139
+	dna="ojokaiimlgj"
+	culture=cree religion=subartic_pagan
+	father=1019917226	#Chansomps
+	1045.10.16={ birth=yes }
+	1107.1.24={ death=yes }
+}
+1019917235={
+	name=Sokw
+	female=yes
+	dynasty=1009990139
+	dna="bdofgdogdij"
+	culture=cree religion=subartic_pagan
+	father=1019917226	#Chansomps
+	1050.9.10={ birth=yes }
+	1104.3.10={ death=yes }
+}
+1019917236={
+	name=Aranck
+	dynasty=1009990139
+	dna="ciooadlmlbe"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=8 learning=8
+	father=1019917226	#Chansomps
+	1055.6.8={ birth=yes }
+	1110.2.12={ death=yes }
+}
+1019917237={
+	name=Abooksigun
+	dynasty=1009990139
+	dna="bjbicdnkloj"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=4
+	father=1019917230	#Ahanu
+	1056.9.3={ birth=yes }
+	1136.3.16={ death=yes }
+}
+1019917238={
+	name=Nijlon
+	female=yes
+	dynasty=1009990139
+	dna="bmonklnlibe"
+	culture=cree religion=subartic_pagan
+	father=1019917230	#Ahanu
+	1061.5.17={ birth=yes }
+	1116.12.20={ death=yes }
+}
+1019917239={
+	name=Anakausuen
+	dynasty=1009990139
+	dna="ikbickgklof"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=7
+	father=1019917237	#Abooksigun
+	1079.10.14={ birth=yes }
+	1148.11.14={ death=yes }
+}
+1019917240={
+	name=Sucki
+	dynasty=1009990139
+	dna="hjbicnnklcj"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=8 learning=8
+	father=1019917237	#Abooksigun
+	1083.12.16={ birth=yes }
+	1174.1.13={ death=yes }
+}
+1019917241={
+	name=Alawa
+	female=yes
+	dynasty=1009990139
+	dna="bbagbdpmmmj"
+	culture=cree religion=subartic_pagan
+	father=1019917237	#Abooksigun
+	1087.5.4={ birth=yes }
+	1150.1.10={ death=yes }
+}
+1019917242={
+	name=Tahki
+	female=yes
+	dynasty=1009990139
+	dna="haoajanbldj"
+	culture=cree religion=subartic_pagan
+	father=1019917237	#Abooksigun
+	1092.10.8={ birth=yes }
+	1171.9.29={ death=yes }
+}
+1019917243={
+	name=Abukcheech
+	dynasty=1009990139
+	dna="bjkijcoplop"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=5
+	father=1019917237	#Abooksigun
+	1098.6.14={ birth=yes }
+	1151.1.23={ death=yes }
+}
+1019917244={
+	name=Powaw
+	dynasty=1009990139
+	dna="bbbiadnlbol"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=4 learning=8
+	father=1019917237	#Abooksigun
+	1102.8.9={ birth=yes }
+	1170.12.31={ death=yes }
+}
+1019917245={
+	name=Tihkoosue
+	dynasty=1009990139
+	dna="bnbfcgckdik"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=5
+	father=1019917237	#Abooksigun
+	1106.9.24={ birth=yes }
+	1183.3.31={ death=yes }
+}
+1019917246={
+	name=Matunaagd
+	dynasty=1009990139
+	dna="iibhckgnlpf"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	father=1019917239	#Anakausuen
+	1100.8.26={ birth=yes }
+	1181.7.12={ death=yes }
+}
+1019917247={
+	name=Machk
+	dynasty=1009990139
+	dna="imbioigkkaf"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=8 learning=6
+	father=1019917239	#Anakausuen
+	1104.12.1={ birth=yes }
+	1170.11.13={ death=yes }
+}
+1019917248={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990139
+	dna="dkaicngkddg"
+	culture=cree religion=subartic_pagan
+	father=1019917239	#Anakausuen
+	1109.6.26={ birth=yes }
+	1190.9.5={ death=yes }
+}
+1019917249={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990139
+	dna="oknihkgkekg"
+	culture=cree religion=subartic_pagan
+	father=1019917239	#Anakausuen
+	1115.1.25={ birth=yes }
+	1188.9.15={ death=yes }
+}
+1019917250={
+	name=Keme
+	dynasty=1009990139
+	dna="iibpjkgiknf"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=5 learning=4
+	father=1019917246	#Matunaagd
+	1128.1.17={ birth=yes }
+	1186.5.26={ death=yes }
+}
+1019917251={
+	name=Abooksigun
+	dynasty=1009990139
+	dna="kibplcnhlff"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=7 learning=6
+	father=1019917246	#Matunaagd
+	1132.1.19={ birth=yes }
+	1186.10.8={ death=yes }
+}
+1019917252={
+	name=Abooksigun
+	dynasty=1009990139
+	dna="iijhckpnmpl"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	father=1019917246	#Matunaagd
+	1137.4.4={ birth=yes }
+	1216.9.6={ death=yes }
+}
+1019917253={
+	name=Wapun
+	female=yes
+	dynasty=1009990139
+	dna="bibccpknlpf"
+	culture=cree religion=subartic_pagan
+	father=1019917246	#Matunaagd
+	1141.7.16={ birth=yes }
+	1221.7.12={ death=yes }
+}
+1019917254={
+	name=Matchitehew
+	dynasty=1009990139
+	dna="paehckdnlpf"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=4 learning=6
+	father=1019917246	#Matunaagd
+	1143.5.22={ birth=yes }
+	1244.10.29={ death=yes }
+}
+1019917255={
+	name=Sucki
+	dynasty=1009990139
+	dna="blbpjoginnn"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=4
+	father=1019917250	#Keme
+	1147.8.21={ birth=yes }
+	1206.7.13={ death=yes }
+}
+1019917256={
+	name=Machk
+	dynasty=1009990139
+	dna="iibalknjfen"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=6 learning=7
+	father=1019917250	#Keme
+	1154.9.6={ birth=yes }
+	1208.12.25={ death=yes }
+}
+1019917257={
+	name=Nijlon
+	female=yes
+	dynasty=1009990139
+	dna="dbbpjhgikkg"
+	culture=cree religion=subartic_pagan
+	father=1019917250	#Keme
+	1159.6.19={ birth=yes }
+	1250.1.15={ death=yes }
+}
+1019917258={
+	name=Kitchi
+	dynasty=1009990139
+	dna="iibnjkgionf"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=6 learning=7
+	father=1019917250	#Keme
+	1162.8.8={ birth=yes }
+	1241.3.6={ death=yes }
+}
+1019917259={
+	name=Chogan
+	dynasty=1009990139
+	dna="bnppeoginnj"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=7
+	father=1019917255	#Sucki
+	1176.7.7={ birth=yes }
+	1261.8.8={ death=yes }
+}
+1019917260={
+	name=Wikimak
+	female=yes
+	dynasty=1009990139
+	dna="ilponodelbn"
+	culture=cree religion=subartic_pagan
+	father=1019917255	#Sucki
+	1183.9.7={ birth=yes }
+	1249.3.22={ death=yes }
+}
+1019917261={
+	name=Tahki
+	female=yes
+	dynasty=1009990139
+	dna="llbapdpfnbc"
+	culture=cree religion=subartic_pagan
+	father=1019917255	#Sucki
+	1189.6.27={ birth=yes }
+	1266.6.16={ death=yes }
+}
+1019917262={
+	name=Sucki
+	dynasty=1009990139
+	dna="eldkjobionn"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=5 learning=6
+	father=1019917255	#Sucki
+	1193.5.24={ birth=yes }
+	1260.8.30={ death=yes }
+}
+1019917263={
+	name=Nootau
+	dynasty=1009990139
+	dna="jaileokinmj"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=8
+	father=1019917259	#Chogan
+	1208.12.19={ birth=yes }
+	1269.8.8={ death=yes }
+}
+1019917264={
+	name=Ahanu
+	dynasty=1009990139
+	dna="bnppeokinnj"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	father=1019917259	#Chogan
+	1215.5.14={ birth=yes }
+	1277.2.2={ death=yes }
+}
+1019917265={
+	name=Samoset
+	dynasty=1009990139
+	dna="babchdnccnj"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=5 learning=8
+	father=1019917259	#Chogan
+	1222.8.10={ birth=yes }
+	1293.4.9={ death=yes }
+}
+1019917266={
+	name=Wapun
+	female=yes
+	dynasty=1009990139
+	dna="bmppeoeknnj"
+	culture=cree religion=subartic_pagan
+	father=1019917259	#Chogan
+	1225.9.12={ birth=yes }
+	1267.1.3={ death=yes }
+}
+1019917267={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990139
+	dna="eoinepknnmj"
+	culture=cree religion=subartic_pagan
+	father=1019917263	#Nootau
+	1231.10.13={ birth=yes }
+	1285.10.2={ death=yes }
+}
+1019917268={
+	name=Nootau
+	dynasty=1009990139
+	dna="jdodejidnmn"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	father=1019917263	#Nootau
+	1237.12.6={ birth=yes }
+	1321.8.9={ death=yes }
+}
+1019917269={
+	name=Enkoodabaoo
+	dynasty=1009990139
+	dna="geijmokinfd"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=8
+	father=1019917263	#Nootau
+	1242.4.13={ birth=yes }
+	1318.3.9={ death=yes }
+}
+1019917270={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990139
+	dna="jablmckdemj"
+	culture=cree religion=subartic_pagan
+	father=1019917263	#Nootau
+	1246.4.23={ birth=yes }
+	1301.9.9={ death=yes }
+}
+1019917271={
+	name=Nixkamich
+	dynasty=1009990139
+	dna="aoodejfdndi"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=5 learning=4
+	father=1019917268	#Nootau
+	1269.10.10={ birth=yes }
+	1344.11.5={ death=yes }
+}
+1019917272={
+	name=Wematin
+	dynasty=1009990139
+	dna="jdodefifcmn"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=8
+	father=1019917268	#Nootau
+	1277.1.1={ birth=yes }
+	1361.6.20={ death=yes }
+}
+1019917273={
+	name=Kimi
+	female=yes
+	dynasty=1009990139
+	dna="jdedejfdimn"
+	culture=cree religion=subartic_pagan
+	father=1019917268	#Nootau
+	1283.12.3={ birth=yes }
+	1337.3.16={ death=yes }
+}
+1019917274={
+	name=Hausis
+	female=yes
+	dynasty=1009990139
+	dna="cddajjiglmn"
+	culture=cree religion=subartic_pagan
+	father=1019917268	#Nootau
+	1287.1.27={ birth=yes }
+	1348.2.21={ death=yes }
+}
+1019917275={
+	name=Matchitehew
+	dynasty=1009990139
+	dna="jbjkljfdndm"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=5
+	father=1019917271	#Nixkamich
+	1298.12.7={ birth=yes }
+	1358.5.24={ death=yes }
+}
+1019917276={
+	name=Nadie
+	female=yes
+	dynasty=1009990139
+	dna="aoadejfddjo"
+	culture=cree religion=subartic_pagan
+	father=1019917271	#Nixkamich
+	1303.9.21={ birth=yes }
+	1363.5.13={ death=yes }
+}
+1019917277={
+	name=Kanti
+	female=yes
+	dynasty=1009990139
+	dna="eooieefanof"
+	culture=cree religion=subartic_pagan
+	father=1019917271	#Nixkamich
+	1308.11.11={ birth=yes }
+	1363.2.1={ death=yes }
+}
+1019917278={
+	name=Powaw
+	dynasty=1009990139
+	dna="jbjkgkdlnic"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	father=1019917275	#Matchitehew
+	1324.5.12={ birth=yes }
+	1411.1.12={ death=yes }
+}
+1019917279={
+	name=Sunukkuhkau
+	dynasty=1009990139
+	dna="dodhakfihdg"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019917275	#Matchitehew
+	1329.12.9={ birth=yes }
+	1402.3.25={ death=yes }
+}
+1019917280={
+	name=Nuttah
+	female=yes
+	dynasty=1009990139
+	dna="mimklmfdnpp"
+	culture=cree religion=subartic_pagan
+	father=1019917275	#Matchitehew
+	1334.6.2={ birth=yes }
+	1398.11.20={ death=yes }
+}
+1019917281={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990139
+	dna="jfkkghfdndm"
+	culture=cree religion=subartic_pagan
+	father=1019917275	#Matchitehew
+	1341.4.13={ birth=yes }
+	1403.12.27={ death=yes }
+}
+1019917282={
+	name=Hurit
+	female=yes
+	dynasty=1009990139
+	dna="noejajfjkln"
+	culture=cree religion=subartic_pagan
+	father=1019917275	#Matchitehew
+	1344.6.5={ birth=yes }
+	1398.5.2={ death=yes }
+}
+1019917283={
+	name=Etlelooaat
+	dynasty=1009990139
+	dna="fbibbgdjndc"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=7 learning=8
+	father=1019917278	#Powaw
+	1349.1.18={ birth=yes }
+	1443.12.4={ death=yes }
+}
+1019917284={
+	name=Etlelooaat
+	dynasty=1009990139
+	dna="jljmdkobcic"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=5
+	father=1019917278	#Powaw
+	1355.4.6={ birth=yes }
+	1429.2.9={ death=yes }
+}
+1019917285={
+	name=Pules
+	female=yes
+	dynasty=1009990139
+	dna="mekacddiilh"
+	culture=cree religion=subartic_pagan
+	father=1019917278	#Powaw
+	1359.5.6={ birth=yes }
+	1414.4.29={ death=yes }
+}
+1019917286={
+	name=Askook
+	dynasty=1009990140
+	dna="oblpegngmgl"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	720.5.14={ birth=yes }
+	791.11.20={ death=yes }
+}
+1019917287={
+	name=Powaw
+	dynasty=1009990140
+	dna="ibpdggdmiml"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	father=1019917286	#Askook
+	746.4.2={ birth=yes }
+	815.1.2={ death=yes }
+}
+1019917288={
+	name=Abooksigun
+	dynasty=1009990140
+	dna="idepgfnmmfc"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	father=1019917286	#Askook
+	748.1.23={ birth=yes }
+	813.7.1={ death=yes }
+}
+1019917289={
+	name=Hurit
+	female=yes
+	dynasty=1009990140
+	dna="ohlcecngfgb"
+	culture=cree religion=subartic_pagan
+	father=1019917286	#Askook
+	752.4.2={ birth=yes }
+	831.11.11={ death=yes }
+}
+1019917290={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990140
+	dna="ndapcgjimel"
+	culture=cree religion=subartic_pagan
+	father=1019917286	#Askook
+	759.2.6={ birth=yes }
+	836.11.12={ death=yes }
+}
+1019917291={
+	name=Powaw
+	dynasty=1009990140
+	dna="odgfegdjkgl"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=7 learning=6
+	father=1019917286	#Askook
+	761.5.5={ birth=yes }
+	815.6.27={ death=yes }
+}
+1019917292={
+	name=Numees
+	female=yes
+	dynasty=1009990140
+	dna="ojchjfngnpl"
+	culture=cree religion=subartic_pagan
+	father=1019917286	#Askook
+	764.2.27={ birth=yes }
+	847.7.28={ death=yes }
+}
+1019917293={
+	name=Matunaagd
+	dynasty=1009990140
+	dna="jbnpfkogmgl"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=8
+	father=1019917286	#Askook
+	768.11.11={ birth=yes }
+	831.12.5={ death=yes }
+}
+1019917294={
+	name=Sokanon
+	female=yes
+	dynasty=1009990140
+	dna="hbljgddmamd"
+	culture=cree religion=subartic_pagan
+	father=1019917287	#Powaw
+	768.10.19={ birth=yes }
+	839.3.19={ death=yes }
+}
+1019917295={
+	name=Matchitehew
+	dynasty=1009990140
+	dna="obldggdmkca"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=6 learning=8
+	father=1019917287	#Powaw
+	771.1.12={ birth=yes }
+	846.7.30={ death=yes }
+}
+1019917296={
+	name=Chansomps
+	dynasty=1009990140
+	dna="mmjogcnmclg"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=7 learning=4
+	father=1019917287	#Powaw
+	776.1.4={ birth=yes }
+	838.3.12={ death=yes }
+}
+1019917297={
+	name=Chansomps
+	dynasty=1009990140
+	dna="fdplgkdphml"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	father=1019917287	#Powaw
+	781.1.7={ birth=yes }
+	858.6.13={ death=yes }
+}
+1019917298={
+	name=Alawa
+	female=yes
+	dynasty=1009990140
+	dna="ejjdegdmimc"
+	culture=cree religion=subartic_pagan
+	father=1019917287	#Powaw
+	785.1.8={ birth=yes }
+	838.2.19={ death=yes }
+}
+1019917299={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990140
+	dna="obldchmmhcd"
+	culture=cree religion=subartic_pagan
+	father=1019917295	#Matchitehew
+	799.11.20={ birth=yes }
+	863.8.14={ death=yes }
+}
+1019917300={
+	name=Kanti
+	female=yes
+	dynasty=1009990140
+	dna="obfceggmkkm"
+	culture=cree religion=subartic_pagan
+	father=1019917295	#Matchitehew
+	803.5.17={ birth=yes }
+	855.6.14={ death=yes }
+}
+1019917301={
+	name=Nuttah
+	female=yes
+	dynasty=1009990140
+	dna="obpdghcmkcb"
+	culture=cree religion=subartic_pagan
+	father=1019917295	#Matchitehew
+	807.9.26={ birth=yes }
+	865.1.25={ death=yes }
+}
+1019917302={
+	name=Hassun
+	dynasty=1009990140
+	dna="pbmhgggmkck"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=5
+	father=1019917295	#Matchitehew
+	811.11.22={ birth=yes }
+	877.12.1={ death=yes }
+}
+1019917303={
+	name=Alawa
+	female=yes
+	dynasty=1009990140
+	dna="bbmcgiohgkg"
+	culture=cree religion=subartic_pagan
+	father=1019917302	#Hassun
+	837.9.20={ birth=yes }
+	892.6.25={ death=yes }
+}
+1019917304={
+	name=Ahanu
+	dynasty=1009990140
+	dna="kbmhglamkck"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	father=1019917302	#Hassun
+	844.1.27={ birth=yes }
+	926.2.20={ death=yes }
+}
+1019917305={
+	name=Samoset
+	dynasty=1009990140
+	dna="gbmmgagbkbk"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=8
+	father=1019917302	#Hassun
+	848.5.3={ birth=yes }
+	927.12.18={ death=yes }
+}
+1019917306={
+	name=Pules
+	female=yes
+	dynasty=1009990140
+	dna="pcmhkggbnid"
+	culture=cree religion=subartic_pagan
+	father=1019917302	#Hassun
+	853.8.24={ birth=yes }
+	931.8.4={ death=yes }
+}
+1019917307={
+	name=Askook
+	dynasty=1009990140
+	dna="lkhhemapkli"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=6 learning=8
+	father=1019917304	#Ahanu
+	875.10.8={ birth=yes }
+	948.7.24={ death=yes }
+}
+1019917308={
+	name=Anakausuen
+	dynasty=1009990140
+	dna="agmjfiamkca"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=4 learning=4
+	father=1019917304	#Ahanu
+	883.10.6={ birth=yes }
+	947.7.2={ death=yes }
+}
+1019917309={
+	name=Nuttah
+	female=yes
+	dynasty=1009990140
+	dna="dkdhemannla"
+	culture=cree religion=subartic_pagan
+	father=1019917307	#Askook
+	899.6.4={ birth=yes }
+	968.4.11={ death=yes }
+}
+1019917310={
+	name=Wematin
+	dynasty=1009990140
+	dna="eohaeoaliki"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=8 learning=5
+	father=1019917307	#Askook
+	904.12.26={ birth=yes }
+	969.1.2={ death=yes }
+}
+1019917311={
+	name=Abukcheech
+	dynasty=1009990140
+	dna="bkghepajaki"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	father=1019917307	#Askook
+	908.12.4={ birth=yes }
+	995.7.4={ death=yes }
+}
+1019917312={
+	name=Nadie
+	female=yes
+	dynasty=1009990140
+	dna="pkhhpmkphmi"
+	culture=cree religion=subartic_pagan
+	father=1019917307	#Askook
+	910.6.9={ birth=yes }
+	959.12.15={ death=yes }
+}
+1019917313={
+	name=Hassun
+	dynasty=1009990140
+	dna="dbhhekakafb"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	father=1019917307	#Askook
+	916.6.20={ birth=yes }
+	968.1.19={ death=yes }
+}
+1019917314={
+	name=Tahki
+	female=yes
+	dynasty=1009990140
+	dna="lhchemhpmli"
+	culture=cree religion=subartic_pagan
+	father=1019917307	#Askook
+	921.6.3={ birth=yes }
+	1008.1.18={ death=yes }
+}
+1019917315={
+	name=Segenam
+	dynasty=1009990140
+	dna="pchjnoflckn"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	father=1019917310	#Wematin
+	934.6.7={ birth=yes }
+	1014.4.27={ death=yes }
+}
+1019917316={
+	name=Pules
+	female=yes
+	dynasty=1009990140
+	dna="bohoboalipi"
+	culture=cree religion=subartic_pagan
+	father=1019917310	#Wematin
+	939.11.26={ birth=yes }
+	1005.2.4={ death=yes }
+}
+1019917317={
+	name=Kanti
+	female=yes
+	dynasty=1009990140
+	dna="dojaemaliii"
+	culture=cree religion=subartic_pagan
+	father=1019917310	#Wematin
+	944.10.10={ birth=yes }
+	996.8.21={ death=yes }
+}
+1019917318={
+	name=Alawa
+	female=yes
+	dynasty=1009990140
+	dna="achinoflcln"
+	culture=cree religion=subartic_pagan
+	father=1019917315	#Segenam
+	959.7.4={ birth=yes }
+	1025.10.15={ death=yes }
+}
+1019917319={
+	name=Askook
+	dynasty=1009990140
+	dna="pcajhofljke"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	father=1019917315	#Segenam
+	963.8.16={ birth=yes }
+	1058.11.11={ death=yes }
+}
+1019917320={
+	name=Sokw
+	female=yes
+	dynasty=1009990140
+	dna="pjmknlfjckg"
+	culture=cree religion=subartic_pagan
+	father=1019917315	#Segenam
+	967.9.14={ birth=yes }
+	1046.10.2={ death=yes }
+}
+1019917321={
+	name=Askook
+	dynasty=1009990140
+	dna="inhmnofkikn"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=6 learning=4
+	father=1019917315	#Segenam
+	974.9.4={ birth=yes }
+	1060.3.15={ death=yes }
+}
+1019917322={
+	name=Mukki
+	dynasty=1009990140
+	dna="pbajjlfdjbe"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=7 learning=8
+	father=1019917319	#Askook
+	986.3.4={ birth=yes }
+	1061.7.23={ death=yes }
+}
+1019917323={
+	name=Sucki
+	dynasty=1009990140
+	dna="plaibofljke"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=7
+	father=1019917319	#Askook
+	991.7.13={ birth=yes }
+	1073.7.4={ death=yes }
+}
+1019917324={
+	name=Matwau
+	dynasty=1009990140
+	dna="bcopkeflpne"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=7 learning=8
+	father=1019917319	#Askook
+	996.11.3={ birth=yes }
+	1083.6.10={ death=yes }
+}
+1019917325={
+	name=Powaw
+	dynasty=1009990140
+	dna="pcijhofcjke"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=7 learning=8
+	father=1019917319	#Askook
+	999.2.16={ birth=yes }
+	1080.7.15={ death=yes }
+}
+1019917326={
+	name=Hausis
+	female=yes
+	dynasty=1009990140
+	dna="kjafhoeljie"
+	culture=cree religion=subartic_pagan
+	father=1019917319	#Askook
+	1005.1.9={ birth=yes }
+	1077.11.26={ death=yes }
+}
+1019917327={
+	name=Sunukkuhkau
+	dynasty=1009990140
+	dna="mbmgenfdepe"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019917322	#Mukki
+	1008.12.24={ birth=yes }
+	1062.8.30={ death=yes }
+}
+1019917328={
+	name=Pannoowau
+	dynasty=1009990140
+	dna="dclmnlfkjbe"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	father=1019917322	#Mukki
+	1015.2.11={ birth=yes }
+	1081.4.8={ death=yes }
+}
+1019917329={
+	name=Enkoodabaoo
+	dynasty=1009990140
+	dna="fnhnjlfijbe"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=5 learning=7
+	father=1019917322	#Mukki
+	1019.2.19={ birth=yes }
+	1074.3.16={ death=yes }
+}
+1019917330={
+	name=Nijlon
+	female=yes
+	dynasty=1009990140
+	dna="abajjlhdgpe"
+	culture=cree religion=subartic_pagan
+	father=1019917322	#Mukki
+	1026.10.26={ birth=yes }
+	1109.1.25={ death=yes }
+}
+1019917331={
+	name=Wapun
+	female=yes
+	dynasty=1009990140
+	dna="mbkgenaddpg"
+	culture=cree religion=subartic_pagan
+	father=1019917327	#Sunukkuhkau
+	1033.2.6={ birth=yes }
+	1106.7.22={ death=yes }
+}
+1019917332={
+	name=Machk
+	dynasty=1009990140
+	dna="mlmkinpampb"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=7
+	father=1019917327	#Sunukkuhkau
+	1041.1.21={ birth=yes }
+	1082.7.25={ death=yes }
+}
+1019917333={
+	name=Nuttah
+	female=yes
+	dynasty=1009990140
+	dna="mbaeeeliepe"
+	culture=cree religion=subartic_pagan
+	father=1019917327	#Sunukkuhkau
+	1045.3.12={ birth=yes }
+	1101.1.13={ death=yes }
+}
+1019917334={
+	name=Wematin
+	dynasty=1009990140
+	dna="klikmpnhipp"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=7 learning=5
+	father=1019917332	#Machk
+	1071.12.24={ birth=yes }
+	1132.5.15={ death=yes }
+}
+1019917335={
+	name=Huritt
+	dynasty=1009990140
+	dna="mllnindkmmk"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=4
+	father=1019917332	#Machk
+	1078.2.12={ birth=yes }
+	1115.10.7={ death=yes }
+}
+1019917336={
+	name=Alawa
+	female=yes
+	dynasty=1009990140
+	dna="maeaadedfpb"
+	culture=cree religion=subartic_pagan
+	father=1019917332	#Machk
+	1083.11.17={ birth=yes }
+	1167.1.24={ death=yes }
+}
+1019917337={
+	name=Powaw
+	dynasty=1009990140
+	dna="klkbipnghcp"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=7
+	father=1019917334	#Wematin
+	1100.9.23={ birth=yes }
+	1196.11.13={ death=yes }
+}
+1019917338={
+	name=Kanti
+	female=yes
+	dynasty=1009990140
+	dna="blkcfpegjmo"
+	culture=cree religion=subartic_pagan
+	father=1019917334	#Wematin
+	1105.10.27={ birth=yes }
+	1191.3.30={ death=yes }
+}
+1019917339={
+	name=Matwau
+	dynasty=1009990140
+	dna="kledglhhipg"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	father=1019917334	#Wematin
+	1109.4.22={ birth=yes }
+	1172.3.3={ death=yes }
+}
+1019917340={
+	name=Kanti
+	female=yes
+	dynasty=1009990140
+	dna="kojimpkjpai"
+	culture=cree religion=subartic_pagan
+	father=1019917334	#Wematin
+	1114.5.22={ birth=yes }
+	1170.5.5={ death=yes }
+}
+1019917341={
+	name=Kitchi
+	dynasty=1009990140
+	dna="ibpbbnnahfe"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=5 learning=8
+	father=1019917337	#Powaw
+	1131.3.17={ birth=yes }
+	1211.3.8={ death=yes }
+}
+1019917342={
+	name=Kanti
+	female=yes
+	dynasty=1009990140
+	dna="kgkbipngpcp"
+	culture=cree religion=subartic_pagan
+	father=1019917337	#Powaw
+	1138.11.19={ birth=yes }
+	1221.6.24={ death=yes }
+}
+1019917343={
+	name=Sokw
+	female=yes
+	dynasty=1009990140
+	dna="dlkbngeghcp"
+	culture=cree religion=subartic_pagan
+	father=1019917337	#Powaw
+	1146.1.17={ birth=yes }
+	1247.4.7={ death=yes }
+}
+1019917344={
+	name=Nixkamich
+	dynasty=1009990140
+	dna="ibljbnnfhfc"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=7 learning=7
+	father=1019917341	#Kitchi
+	1154.8.3={ birth=yes }
+	1240.8.19={ death=yes }
+}
+1019917345={
+	name=Achachak
+	dynasty=1009990140
+	dna="mbppfnnahje"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=5
+	father=1019917341	#Kitchi
+	1158.8.19={ birth=yes }
+	1219.12.26={ death=yes }
+}
+1019917346={
+	name=Machk
+	dynasty=1009990140
+	dna="dmlabejfhff"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=8
+	father=1019917344	#Nixkamich
+	1183.8.24={ birth=yes }
+	1265.5.10={ death=yes }
+}
+1019917347={
+	name=Etchemin
+	dynasty=1009990140
+	dna="ibejjnnghec"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=5 learning=7
+	father=1019917344	#Nixkamich
+	1188.12.1={ birth=yes }
+	1275.1.24={ death=yes }
+}
+1019917348={
+	name=Powaw
+	dynasty=1009990140
+	dna="ebljegdmcpc"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=6
+	father=1019917344	#Nixkamich
+	1193.12.14={ birth=yes }
+	1267.8.13={ death=yes }
+}
+1019917349={
+	name=Alawa
+	female=yes
+	dynasty=1009990140
+	dna="lhcbinpilfc"
+	culture=cree religion=subartic_pagan
+	father=1019917344	#Nixkamich
+	1200.10.22={ birth=yes }
+	1286.6.8={ death=yes }
+}
+1019917350={
+	name=Askook
+	dynasty=1009990140
+	dna="dmlibebfmbf"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	father=1019917346	#Machk
+	1210.8.8={ birth=yes }
+	1310.12.12={ death=yes }
+}
+1019917351={
+	name=Nixkamich
+	dynasty=1009990140
+	dna="dmlgbdjahmc"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=5 learning=8
+	father=1019917346	#Machk
+	1217.10.14={ birth=yes }
+	1274.12.17={ death=yes }
+}
+1019917352={
+	name=Ahanu
+	dynasty=1009990140
+	dna="hmpaajjffpd"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=7 learning=6
+	father=1019917346	#Machk
+	1222.7.20={ birth=yes }
+	1277.4.21={ death=yes }
+}
+1019917353={
+	name=Hurit
+	female=yes
+	dynasty=1009990140
+	dna="dmhaheifllb"
+	culture=cree religion=subartic_pagan
+	father=1019917346	#Machk
+	1230.4.26={ birth=yes }
+	1310.10.22={ death=yes }
+}
+1019917354={
+	name=Pules
+	female=yes
+	dynasty=1009990140
+	dna="dmlibgbfmja"
+	culture=cree religion=subartic_pagan
+	father=1019917350	#Askook
+	1238.4.7={ birth=yes }
+	1306.3.19={ death=yes }
+}
+1019917355={
+	name=Etlelooaat
+	dynasty=1009990140
+	dna="jmliielfmjf"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=5
+	father=1019917350	#Askook
+	1243.5.20={ birth=yes }
+	1314.8.22={ death=yes }
+}
+1019917356={
+	name=Kimi
+	female=yes
+	dynasty=1009990140
+	dna="dmfipebfhja"
+	culture=cree religion=subartic_pagan
+	father=1019917350	#Askook
+	1249.3.14={ birth=yes }
+	1311.10.28={ death=yes }
+}
+1019917357={
+	name=Achachak
+	dynasty=1009990140
+	dna="aclihlbcjcf"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	father=1019917350	#Askook
+	1255.10.16={ birth=yes }
+	1336.9.17={ death=yes }
+}
+1019917358={
+	name=Mingan
+	dynasty=1009990140
+	dna="dcpeiekklhh"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	father=1019917350	#Askook
+	1259.10.20={ birth=yes }
+	1344.9.21={ death=yes }
+}
+1019917359={
+	name=Hurit
+	female=yes
+	dynasty=1009990140
+	dna="emgnhkjfmld"
+	culture=cree religion=subartic_pagan
+	father=1019917355	#Etlelooaat
+	1267.10.11={ birth=yes }
+	1335.5.4={ death=yes }
+}
+1019917360={
+	name=Askuwheteau
+	dynasty=1009990140
+	dna="jmcigllfmgk"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=5
+	father=1019917355	#Etlelooaat
+	1274.11.15={ birth=yes }
+	1329.9.19={ death=yes }
+}
+1019917361={
+	name=Wapun
+	female=yes
+	dynasty=1009990140
+	dna="jmhimelfojb"
+	culture=cree religion=subartic_pagan
+	father=1019917355	#Etlelooaat
+	1278.5.6={ birth=yes }
+	1356.7.29={ death=yes }
+}
+1019917362={
+	name=Nootau
+	dynasty=1009990140
+	dna="dmlagecfpif"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=6
+	father=1019917355	#Etlelooaat
+	1283.4.7={ birth=yes }
+	1349.6.17={ death=yes }
+}
+1019917363={
+	name=Abukcheech
+	dynasty=1009990140
+	dna="hmoiieffmjf"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=7
+	father=1019917355	#Etlelooaat
+	1288.3.27={ birth=yes }
+	1372.9.9={ death=yes }
+}
+1019917364={
+	name=Wawetseka
+	female=yes
+	dynasty=1009990140
+	dna="jjliiimfmjf"
+	culture=cree religion=subartic_pagan
+	father=1019917355	#Etlelooaat
+	1292.8.6={ birth=yes }
+	1375.7.4={ death=yes }
+}
+1019917365={
+	name=Abooksigun
+	dynasty=1009990140
+	dna="jmciggfhmmk"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=7
+	father=1019917360	#Askuwheteau
+	1296.3.26={ birth=yes }
+	1342.2.21={ death=yes }
+}
+1019917366={
+	name=Nuna
+	female=yes
+	dynasty=1009990140
+	dna="jmcigliamgk"
+	culture=cree religion=subartic_pagan
+	father=1019917360	#Askuwheteau
+	1301.2.4={ birth=yes }
+	1378.1.19={ death=yes }
+}
+1019917367={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990140
+	dna="jmcmgalfmgl"
+	culture=cree religion=subartic_pagan
+	father=1019917360	#Askuwheteau
+	1307.11.3={ birth=yes }
+	1405.3.25={ death=yes }
+}
+1019917368={
+	name=Chansomps
+	dynasty=1009990140
+	dna="jbbhgblfdbd"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	father=1019917360	#Askuwheteau
+	1313.10.19={ birth=yes }
+	1382.5.31={ death=yes }
+}
+1019917369={
+	name=Pules
+	female=yes
+	dynasty=1009990140
+	dna="jmphcfeflmk"
+	culture=cree religion=subartic_pagan
+	father=1019917360	#Askuwheteau
+	1315.11.24={ birth=yes }
+	1385.6.16={ death=yes }
+}
+1019917370={
+	name=Mukki
+	dynasty=1009990140
+	dna="oonaggckajb"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=6 learning=4
+	father=1019917365	#Abooksigun
+	1326.5.3={ birth=yes }
+	1404.4.20={ death=yes }
+}
+1019917371={
+	name=Sokw
+	female=yes
+	dynasty=1009990140
+	dna="hmlabkihkmo"
+	culture=cree religion=subartic_pagan
+	father=1019917365	#Abooksigun
+	1330.1.27={ birth=yes }
+	1391.6.14={ death=yes }
+}
+1019917372={
+	name=Powaw
+	dynasty=1009990140
+	dna="jldhmnfenbk"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	father=1019917365	#Abooksigun
+	1335.9.9={ birth=yes }
+	1398.2.24={ death=yes }
+}
+1019917373={
+	name=Sunukkuhkau
+	dynasty=1009990140
+	dna="jekepclolhk"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=7 learning=8
+	father=1019917365	#Abooksigun
+	1339.12.5={ birth=yes }
+	1375.10.26={ death=yes }
+}
+1019917374={
+	name=Etchemin
+	dynasty=1009990140
+	dna="dmffcgnhmmk"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=7 learning=4
+	father=1019917365	#Abooksigun
+	1344.6.17={ birth=yes }
+	1417.8.23={ death=yes }
+}
+1019917375={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990140
+	dna="jhdmggfgmmf"
+	culture=cree religion=subartic_pagan
+	father=1019917365	#Abooksigun
+	1348.6.22={ birth=yes }
+	1387.8.5={ death=yes }
+}
+1019917376={
+	name=Sucki
+	dynasty=1009990140
+	dna="pmcnagahmmp"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=8
+	father=1019917365	#Abooksigun
+	1353.4.24={ birth=yes }
+	1411.6.8={ death=yes }
+}
+1019917377={
+	name=Wematin
+	dynasty=1009990140
+	dna="oonajlnkaee"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=6
+	father=1019917370	#Mukki
+	1356.2.1={ birth=yes }
+	1414.8.16={ death=yes }
+}
+1019917378={
+	name=Kanti
+	female=yes
+	dynasty=1009990140
+	dna="oonbngckkjg"
+	culture=cree religion=subartic_pagan
+	father=1019917370	#Mukki
+	1360.2.11={ birth=yes }
+	1424.5.18={ death=yes }
+}
+1019917379={
+	name=Oota-dabun
+	female=yes
+	dynasty=1009990140
+	dna="dhnpgggkcjm"
+	culture=cree religion=subartic_pagan
+	father=1019917370	#Mukki
+	1367.7.1={ birth=yes }
+	1436.5.4={ death=yes }
+}
+1019917380={
+	name=Tihkoosue
+	dynasty=1009990140
+	dna="oonjggmkalb"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=6 learning=8
+	father=1019917370	#Mukki
+	1371.12.9={ birth=yes }
+	1460.11.18={ death=yes }
+}
+1019917381={
+	name=Sucki
+	dynasty=1009990140
+	dna="nonacbnojee"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=4 learning=4
+	father=1019917377	#Wematin
+	1383.8.4={ birth=yes }
+	1444.3.26={ death=yes }
+}
+1019917382={
+	name=Mingan
+	dynasty=1009990140
+	dna="okdkjdnkaee"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=6 learning=6
+	father=1019917377	#Wematin
+	1387.4.4={ birth=yes }
+	1438.3.28={ death=yes }
+}
+1019917383={
+	name=Nixkamich
+	dynasty=1009990140
+	dna="hjnijlnhcel"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	father=1019917377	#Wematin
+	1391.8.25={ birth=yes }
+	1459.3.27={ death=yes }
+}
+1019917384={
+	name=Megedagik
+	dynasty=1009990140
+	dna="nandhcaonen"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=6
+	father=1019917381	#Sucki
+	1404.11.25={ birth=yes }
+	1492.9.12={ death=yes }
+}
+1019917385={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990140
+	dna="febcmknoohl"
+	culture=cree religion=subartic_pagan
+	father=1019917381	#Sucki
+	1408.2.4={ birth=yes }
+	1471.7.22={ death=yes }
+}
+1019917386={
+	name=Chansomps
+	dynasty=1009990140
+	dna="daijebnojde"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=5 learning=5
+	father=1019917381	#Sucki
+	1412.1.26={ birth=yes }
+	1486.3.8={ death=yes }
+}
+1019917387={
+	name=Pules
+	female=yes
+	dynasty=1009990140
+	dna="polagemojee"
+	culture=cree religion=subartic_pagan
+	father=1019917381	#Sucki
+	1417.10.6={ birth=yes }
+	1503.12.2={ death=yes }
+}
+1019917388={
+	name=Matchitehew
+	dynasty=1009990140
+	dna="plnapbnpohl"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=4 learning=5
+	father=1019917381	#Sucki
+	1423.9.1={ birth=yes }
+	1492.8.11={ death=yes }
+}
+1019917389={
+	name=Keme
+	dynasty=1009990141
+	dna="afbkihonakb"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=5
+	719.8.7={ birth=yes }
+	781.2.9={ death=yes }
+}
+1019917390={
+	name=Machk
+	dynasty=1009990141
+	dna="efpnieleakh"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	father=1019917389	#Keme
+	746.11.24={ birth=yes }
+	812.1.22={ death=yes }
+}
+1019917391={
+	name=Keegsquaw
+	female=yes
+	dynasty=1009990141
+	dna="kfccdfbidbl"
+	culture=cree religion=subartic_pagan
+	father=1019917389	#Keme
+	751.7.7={ birth=yes }
+	813.1.7={ death=yes }
+}
+1019917392={
+	name=Etchemin
+	dynasty=1009990141
+	dna="ffbodkonakb"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=8 learning=6
+	father=1019917389	#Keme
+	757.1.9={ birth=yes }
+	821.9.10={ death=yes }
+}
+1019917393={
+	name=Sucki
+	dynasty=1009990141
+	dna="afiamhbnaki"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	father=1019917389	#Keme
+	763.6.23={ birth=yes }
+	822.1.10={ death=yes }
+}
+1019917394={
+	name=Nadie
+	female=yes
+	dynasty=1009990141
+	dna="efpbilleajh"
+	culture=cree religion=subartic_pagan
+	father=1019917390	#Machk
+	772.2.21={ birth=yes }
+	844.6.13={ death=yes }
+}
+1019917395={
+	name=Matchitehew
+	dynasty=1009990141
+	dna="clhikjoebih"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019917390	#Machk
+	778.8.12={ birth=yes }
+	862.12.19={ death=yes }
+}
+1019917396={
+	name=Wapun
+	female=yes
+	dynasty=1009990141
+	dna="efphiipmkfh"
+	culture=cree religion=subartic_pagan
+	father=1019917390	#Machk
+	782.8.1={ birth=yes }
+	868.2.5={ death=yes }
+}
+1019917397={
+	name=Samoset
+	dynasty=1009990141
+	dna="pbpopflaafb"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	father=1019917390	#Machk
+	787.11.15={ birth=yes }
+	867.10.14={ death=yes }
+}
+1019917398={
+	name=Powaw
+	dynasty=1009990141
+	dna="clhjjpoebap"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=7 learning=6
+	father=1019917395	#Matchitehew
+	807.2.14={ birth=yes }
+	886.9.25={ death=yes }
+}
+1019917399={
+	name=Pules
+	female=yes
+	dynasty=1009990141
+	dna="cdacijbojip"
+	culture=cree religion=subartic_pagan
+	father=1019917395	#Matchitehew
+	813.6.20={ birth=yes }
+	899.12.19={ death=yes }
+}
+1019917400={
+	name=Sucki
+	dynasty=1009990141
+	dna="cjckiahelip"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=8 learning=4
+	father=1019917398	#Powaw
+	835.4.14={ birth=yes }
+	891.8.27={ death=yes }
+}
+1019917401={
+	name=Pules
+	female=yes
+	dynasty=1009990141
+	dna="flojjpoeaaa"
+	culture=cree religion=subartic_pagan
+	father=1019917398	#Powaw
+	838.2.10={ birth=yes }
+	906.7.9={ death=yes }
+}
+1019917402={
+	name=Askuwheteau
+	dynasty=1009990141
+	dna="mlnjfpdeban"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	father=1019917398	#Powaw
+	843.5.25={ birth=yes }
+	940.5.2={ death=yes }
+}
+1019917403={
+	name=Abooksigun
+	dynasty=1009990141
+	dna="fdnmjpiejkp"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	father=1019917398	#Powaw
+	849.4.10={ birth=yes }
+	934.4.11={ death=yes }
+}
+1019917404={
+	name=Tihkoosue
+	dynasty=1009990141
+	dna="gdmjimhelih"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=6 learning=8
+	father=1019917400	#Sucki
+	864.9.25={ birth=yes }
+	931.5.7={ death=yes }
+}
+1019917405={
+	name=Kanti
+	female=yes
+	dynasty=1009990141
+	dna="iglpokhlhin"
+	culture=cree religion=subartic_pagan
+	father=1019917400	#Sucki
+	870.11.16={ birth=yes }
+	956.7.9={ death=yes }
+}
+1019917406={
+	name=Mekledoodum
+	dynasty=1009990141
+	dna="cjnlidjegip"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	father=1019917400	#Sucki
+	878.7.1={ birth=yes }
+	958.12.1={ death=yes }
+}
+1019917407={
+	name=Matunaagd
+	dynasty=1009990141
+	dna="ldmjimhkaig"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	father=1019917404	#Tihkoosue
+	891.7.8={ birth=yes }
+	947.8.5={ death=yes }
+}
+1019917408={
+	name=Sokw
+	female=yes
+	dynasty=1009990141
+	dna="olmbaghelih"
+	culture=cree religion=subartic_pagan
+	father=1019917404	#Tihkoosue
+	896.7.14={ birth=yes }
+	954.6.26={ death=yes }
+}
+1019917409={
+	name=Chogan
+	dynasty=1009990141
+	dna="odmbfmpecih"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	father=1019917404	#Tihkoosue
+	903.3.9={ birth=yes }
+	972.10.10={ death=yes }
+}
+1019917410={
+	name=Sunukkuhkau
+	dynasty=1009990141
+	dna="campimheleh"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=6 learning=4
+	father=1019917404	#Tihkoosue
+	906.10.7={ birth=yes }
+	990.4.19={ death=yes }
+}
+1019917411={
+	name=Matchitehew
+	dynasty=1009990141
+	dna="lhaobmhgfip"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	father=1019917407	#Matunaagd
+	912.7.25={ birth=yes }
+	995.5.25={ death=yes }
+}
+1019917412={
+	name=Etlelooaat
+	dynasty=1009990141
+	dna="kkhjiggbgig"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=8 learning=5
+	father=1019917407	#Matunaagd
+	917.8.20={ birth=yes }
+	997.12.16={ death=yes }
+}
+1019917413={
+	name=Segenam
+	dynasty=1009990141
+	dna="iddoicbhaei"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=4
+	father=1019917407	#Matunaagd
+	922.1.6={ birth=yes }
+	992.10.15={ death=yes }
+}
+1019917414={
+	name=Hassun
+	dynasty=1009990141
+	dna="admjomgkaib"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=7 learning=7
+	father=1019917407	#Matunaagd
+	927.3.5={ birth=yes }
+	997.7.29={ death=yes }
+}
+1019917415={
+	name=Sokw
+	female=yes
+	dynasty=1009990141
+	dna="kjelbhkfflp"
+	culture=cree religion=subartic_pagan
+	father=1019917411	#Matchitehew
+	944.12.16={ birth=yes }
+	1003.11.4={ death=yes }
+}
+1019917416={
+	name=Achachak
+	dynasty=1009990141
+	dna="lhconmfgghf"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	father=1019917411	#Matchitehew
+	950.7.21={ birth=yes }
+	1025.11.18={ death=yes }
+}
+1019917417={
+	name=Megedagik
+	dynasty=1009990141
+	dna="lheobmegcip"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=6 learning=5
+	father=1019917411	#Matchitehew
+	955.11.27={ birth=yes }
+	1022.11.12={ death=yes }
+}
+1019917418={
+	name=Achachak
+	dynasty=1009990141
+	dna="ehaodmhggip"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	father=1019917411	#Matchitehew
+	959.10.5={ birth=yes }
+	1041.3.14={ death=yes }
+}
+1019917419={
+	name=Etchemin
+	dynasty=1009990141
+	dna="hialddhgfho"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=4
+	father=1019917411	#Matchitehew
+	964.8.10={ birth=yes }
+	1017.10.11={ death=yes }
+}
+1019917420={
+	name=Anakausuen
+	dynasty=1009990141
+	dna="lhanemjioib"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	father=1019917411	#Matchitehew
+	969.4.8={ birth=yes }
+	1071.3.24={ death=yes }
+}
+1019917421={
+	name=Nixkamich
+	dynasty=1009990141
+	dna="cnknnmfghpc"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=8 learning=4
+	father=1019917416	#Achachak
+	980.4.5={ birth=yes }
+	1050.1.2={ death=yes }
+}
+1019917422={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990141
+	dna="dogoomhgohf"
+	culture=cree religion=subartic_pagan
+	father=1019917416	#Achachak
+	985.10.14={ birth=yes }
+	1044.5.1={ death=yes }
+}
+1019917423={
+	name=Chogan
+	dynasty=1009990141
+	dna="eoconjoljhf"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=8 learning=7
+	father=1019917416	#Achachak
+	988.9.3={ birth=yes }
+	1046.7.18={ death=yes }
+}
+1019917424={
+	name=Alsoomse
+	female=yes
+	dynasty=1009990141
+	dna="lhoekmfgnhp"
+	culture=cree religion=subartic_pagan
+	father=1019917416	#Achachak
+	994.5.7={ birth=yes }
+	1066.1.28={ death=yes }
+}
+1019917425={
+	name=Sokw
+	female=yes
+	dynasty=1009990141
+	dna="cjcmnmfjcho"
+	culture=cree religion=subartic_pagan
+	father=1019917416	#Achachak
+	998.8.22={ birth=yes }
+	1058.9.22={ death=yes }
+}
+1019917426={
+	name=Anakausuen
+	dynasty=1009990141
+	dna="cnkknjogegc"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=7 learning=5
+	father=1019917421	#Nixkamich
+	1008.3.23={ birth=yes }
+	1060.10.26={ death=yes }
+}
+1019917427={
+	name=Huritt
+	dynasty=1009990141
+	dna="cnejimadhkc"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=6 learning=7
+	father=1019917421	#Nixkamich
+	1014.8.8={ birth=yes }
+	1070.4.25={ death=yes }
+}
+1019917428={
+	name=Numees
+	female=yes
+	dynasty=1009990141
+	dna="glonambahoc"
+	culture=cree religion=subartic_pagan
+	father=1019917421	#Nixkamich
+	1021.4.18={ birth=yes }
+	1087.4.10={ death=yes }
+}
+1019917429={
+	name=Samoset
+	dynasty=1009990141
+	dna="hghmnjglmgc"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=7 learning=4
+	father=1019917426	#Anakausuen
+	1036.9.27={ birth=yes }
+	1086.2.14={ death=yes }
+}
+1019917430={
+	name=Pules
+	female=yes
+	dynasty=1009990141
+	dna="codingogepc"
+	culture=cree religion=subartic_pagan
+	father=1019917426	#Anakausuen
+	1042.7.12={ birth=yes }
+	1119.11.4={ death=yes }
+}
+1019917431={
+	name=Kitchi
+	dynasty=1009990141
+	dna="cgjlnjdiagd"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=8
+	father=1019917429	#Samoset
+	1064.2.20={ birth=yes }
+	1147.6.21={ death=yes }
+}
+1019917432={
+	name=Tihkoosue
+	dynasty=1009990141
+	dna="ngpmagolcpc"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	father=1019917429	#Samoset
+	1071.4.17={ birth=yes }
+	1150.2.9={ death=yes }
+}
+1019917433={
+	name=Ahanu
+	dynasty=1009990141
+	dna="cdjlfnnifom"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=5 learning=4
+	father=1019917431	#Kitchi
+	1092.8.24={ birth=yes }
+	1153.12.10={ death=yes }
+}
+1019917434={
+	name=Achachak
+	dynasty=1009990141
+	dna="cdaedjdcagc"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	father=1019917431	#Kitchi
+	1096.8.27={ birth=yes }
+	1139.4.26={ death=yes }
+}
+1019917435={
+	name=Nuttah
+	female=yes
+	dynasty=1009990141
+	dna="cgjnomdpmjc"
+	culture=cree religion=subartic_pagan
+	father=1019917431	#Kitchi
+	1100.1.17={ birth=yes }
+	1155.8.26={ death=yes }
+}
+1019917436={
+	name=Keme
+	dynasty=1009990141
+	dna="ogblnbdikge"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	father=1019917431	#Kitchi
+	1105.3.14={ birth=yes }
+	1206.5.19={ death=yes }
+}
+1019917437={
+	name=Chogan
+	dynasty=1009990141
+	dna="cdghffnpfpm"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=6
+	father=1019917433	#Ahanu
+	1119.12.5={ birth=yes }
+	1183.2.8={ death=yes }
+}
+1019917438={
+	name=Nadie
+	female=yes
+	dynasty=1009990141
+	dna="ddjlfinkdof"
+	culture=cree religion=subartic_pagan
+	father=1019917433	#Ahanu
+	1125.3.7={ birth=yes }
+	1198.2.25={ death=yes }
+}
+1019917439={
+	name=Kitchi
+	dynasty=1009990141
+	dna="jdohgfnpdpm"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=5 learning=8
+	father=1019917437	#Chogan
+	1148.7.3={ birth=yes }
+	1227.7.12={ death=yes }
+}
+1019917440={
+	name=Hurit
+	female=yes
+	dynasty=1009990141
+	dna="cjghefmpfpm"
+	culture=cree religion=subartic_pagan
+	father=1019917437	#Chogan
+	1155.1.26={ birth=yes }
+	1213.7.8={ death=yes }
+}
+1019917441={
+	name=Nuna
+	female=yes
+	dynasty=1009990141
+	dna="cbghffnfnpa"
+	culture=cree religion=subartic_pagan
+	father=1019917437	#Chogan
+	1160.3.13={ birth=yes }
+	1259.10.20={ death=yes }
+}
+1019917442={
+	name=Askuwheteau
+	dynasty=1009990141
+	dna="odgmbokjdem"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	father=1019917437	#Chogan
+	1166.4.2={ birth=yes }
+	1233.9.17={ death=yes }
+}
+1019917443={
+	name=Machk
+	dynasty=1009990141
+	dna="fdahgfbgdpi"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=8
+	father=1019917439	#Kitchi
+	1171.1.19={ birth=yes }
+	1227.8.7={ death=yes }
+}
+1019917444={
+	name=Aranck
+	dynasty=1009990141
+	dna="jdohgfnpdac"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	father=1019917439	#Kitchi
+	1175.7.19={ birth=yes }
+	1262.10.29={ death=yes }
+}
+1019917445={
+	name=Pannoowau
+	dynasty=1009990141
+	dna="egimaldpopm"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	father=1019917439	#Kitchi
+	1180.1.23={ birth=yes }
+	1240.6.14={ death=yes }
+}
+1019917446={
+	name=Etchemin
+	dynasty=1009990141
+	dna="giombfnhgaf"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=5 learning=4
+	father=1019917439	#Kitchi
+	1184.10.8={ birth=yes }
+	1271.4.28={ death=yes }
+}
+1019917447={
+	name=Nadie
+	female=yes
+	dynasty=1009990141
+	dna="hdfaciljddj"
+	culture=cree religion=subartic_pagan
+	father=1019917439	#Kitchi
+	1188.4.17={ birth=yes }
+	1255.10.8={ death=yes }
+}
+1019917448={
+	name=Matchitehew
+	dynasty=1009990141
+	dna="fdahgmfpdej"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=7 learning=5
+	father=1019917443	#Machk
+	1195.5.15={ birth=yes }
+	1273.1.27={ death=yes }
+}
+1019917449={
+	name=Achachak
+	dynasty=1009990141
+	dna="adbaafijmpi"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	father=1019917443	#Machk
+	1201.1.3={ birth=yes }
+	1274.8.27={ death=yes }
+}
+1019917450={
+	name=Matwau
+	dynasty=1009990141
+	dna="fdmhhlbgkec"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=6 learning=4
+	father=1019917443	#Machk
+	1206.5.6={ birth=yes }
+	1272.3.29={ death=yes }
+}
+1019917451={
+	name=Nuna
+	female=yes
+	dynasty=1009990141
+	dna="jdahgmfpdpn"
+	culture=cree religion=subartic_pagan
+	father=1019917448	#Matchitehew
+	1226.3.17={ birth=yes }
+	1289.4.25={ death=yes }
+}
+1019917452={
+	name=Sunukkuhkau
+	dynasty=1009990141
+	dna="fgamgmfpnmj"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=5 learning=5
+	father=1019917448	#Matchitehew
+	1230.4.11={ birth=yes }
+	1314.3.9={ death=yes }
+}
+1019917453={
+	name=Wikimak
+	female=yes
+	dynasty=1009990141
+	dna="fdahopgpjej"
+	culture=cree religion=subartic_pagan
+	father=1019917448	#Matchitehew
+	1234.11.27={ birth=yes }
+	1292.2.29={ death=yes }
+}
+1019917454={
+	name=Wawetseka
+	female=yes
+	dynasty=1009990141
+	dna="fgkdiofpdjm"
+	culture=cree religion=subartic_pagan
+	father=1019917448	#Matchitehew
+	1237.1.5={ birth=yes }
+	1293.7.4={ death=yes }
+}
+1019917455={
+	name=Matwau
+	dynasty=1009990141
+	dna="fdaoibfddej"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	father=1019917448	#Matchitehew
+	1243.2.5={ birth=yes }
+	1306.3.23={ death=yes }
+}
+1019917456={
+	name=Pannoowau
+	dynasty=1009990141
+	dna="fknemmfjcij"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=8 learning=4
+	father=1019917448	#Matchitehew
+	1246.2.19={ birth=yes }
+	1331.12.16={ death=yes }
+}
+1019917457={
+	name=Tahki
+	female=yes
+	dynasty=1009990141
+	dna="fdcngcfpaej"
+	culture=cree religion=subartic_pagan
+	father=1019917448	#Matchitehew
+	1250.12.3={ birth=yes }
+	1303.10.13={ death=yes }
+}
+1019917458={
+	name=Chogan
+	dynasty=1009990141
+	dna="fgnmamfpnem"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	father=1019917452	#Sunukkuhkau
+	1261.6.8={ birth=yes }
+	1363.5.30={ death=yes }
+}
+1019917459={
+	name=Nijlon
+	female=yes
+	dynasty=1009990141
+	dna="fgaoikfknmj"
+	culture=cree religion=subartic_pagan
+	father=1019917452	#Sunukkuhkau
+	1265.10.22={ birth=yes }
+	1324.9.14={ death=yes }
+}
+1019917460={
+	name=Tahki
+	female=yes
+	dynasty=1009990141
+	dna="fgamfmaanmg"
+	culture=cree religion=subartic_pagan
+	father=1019917452	#Sunukkuhkau
+	1269.8.7={ birth=yes }
+	1325.1.27={ death=yes }
+}
+1019917461={
+	name=Powaw
+	dynasty=1009990141
+	dna="fbadamlpnmj"
+	culture=cree religion=subartic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=7
+	father=1019917452	#Sunukkuhkau
+	1276.9.23={ birth=yes }
+	1330.11.8={ death=yes }
+}
+1019917462={
+	name=Numees
+	female=yes
+	dynasty=1009990141
+	dna="onaagmhhkjf"
+	culture=cree religion=subartic_pagan
+	father=1019917452	#Sunukkuhkau
+	1281.12.15={ birth=yes }
+	1355.1.10={ death=yes }
+}
+1019917463={
+	name=Achachak
+	dynasty=1009990141
+	dna="fnaggnijnmj"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	father=1019917452	#Sunukkuhkau
+	1285.11.2={ birth=yes }
+	1342.8.2={ death=yes }
+}
+1019917464={
+	name=Ahanu
+	dynasty=1009990141
+	dna="ggclkhfpnjh"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	father=1019917452	#Sunukkuhkau
+	1291.11.23={ birth=yes }
+	1378.8.9={ death=yes }
+}
+1019917465={
+	name=Wematin
+	dynasty=1009990141
+	dna="ogndalkdncn"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=8 learning=6
+	father=1019917458	#Chogan
+	1279.4.17={ birth=yes }
+	1340.5.20={ death=yes }
+}
+1019917466={
+	name=Wawetseka
+	female=yes
+	dynasty=1009990141
+	dna="opnmhmhpnei"
+	culture=cree religion=subartic_pagan
+	father=1019917458	#Chogan
+	1283.1.24={ birth=yes }
+	1326.8.27={ death=yes }
+}
+1019917467={
+	name=Segenam
+	dynasty=1009990141
+	dna="hgnnhmfpnhn"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	father=1019917458	#Chogan
+	1289.9.5={ birth=yes }
+	1351.11.21={ death=yes }
+}
+1019917468={
+	name=Wapun
+	female=yes
+	dynasty=1009990141
+	dna="fgcmlnfpnam"
+	culture=cree religion=subartic_pagan
+	father=1019917458	#Chogan
+	1294.2.15={ birth=yes }
+	1355.2.10={ death=yes }
+}
+1019917469={
+	name=Ahanu
+	dynasty=1009990141
+	dna="dnfmacadknb"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=7 learning=5
+	father=1019917458	#Chogan
+	1298.2.27={ birth=yes }
+	1372.6.21={ death=yes }
+}
+1019917470={
+	name=Alawa
+	female=yes
+	dynasty=1009990141
+	dna="fgpmamfpnei"
+	culture=cree religion=subartic_pagan
+	father=1019917458	#Chogan
+	1303.9.22={ birth=yes }
+	1356.6.21={ death=yes }
+}
+1019917471={
+	name=Kitchi
+	dynasty=1009990141
+	dna="bgnoalepnpj"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=6
+	father=1019917458	#Chogan
+	1307.5.17={ birth=yes }
+	1396.5.17={ death=yes }
+}
+1019917472={
+	name=Mingan
+	dynasty=1009990141
+	dna="ggndbdddncj"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=7 learning=6
+	father=1019917465	#Wematin
+	1307.8.27={ birth=yes }
+	1377.7.7={ death=yes }
+}
+1019917473={
+	name=Askook
+	dynasty=1009990141
+	dna="ngnimmndncn"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=7
+	father=1019917465	#Wematin
+	1312.6.7={ birth=yes }
+	1387.7.24={ death=yes }
+}
+1019917474={
+	name=Abukcheech
+	dynasty=1009990141
+	dna="iandaiodncm"
+	culture=cree religion=subartic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	father=1019917465	#Wematin
+	1318.1.13={ birth=yes }
+	1399.6.8={ death=yes }
+}
+1019917475={
+	name=Kitchi
+	dynasty=1009990141
+	dna="mapdbbindfd"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=7 learning=8
+	father=1019917472	#Mingan
+	1331.2.3={ birth=yes }
+	1388.1.20={ death=yes }
+}
+1019917476={
+	name=Sunukkuhkau
+	dynasty=1009990141
+	dna="dmldmhgpncj"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=8
+	father=1019917472	#Mingan
+	1338.6.17={ birth=yes }
+	1389.12.12={ death=yes }
+}
+1019917477={
+	name=Numees
+	female=yes
+	dynasty=1009990141
+	dna="baplamfnbbd"
+	culture=cree religion=subartic_pagan
+	father=1019917475	#Kitchi
+	1354.10.11={ birth=yes }
+	1440.2.27={ death=yes }
+}
+1019917478={
+	name=Aranck
+	dynasty=1009990141
+	dna="napfbbindfd"
+	culture=cree religion=subartic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=6
+	father=1019917475	#Kitchi
+	1361.7.25={ birth=yes }
+	1405.7.3={ death=yes }
+}
+1019917479={
+	name=Megedagik
+	dynasty=1009990141
+	dna="nmpgebkdope"
+	culture=cree religion=subartic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=8
+	father=1019917478	#Aranck
+	1390.12.8={ birth=yes }
+	1455.5.19={ death=yes }
+}
+1019917480={
+	name=Aranck
+	dynasty=1009990141
+	dna="pacfbiendmj"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=5 learning=7
+	father=1019917478	#Aranck
+	1394.2.2={ birth=yes }
+	1448.9.13={ death=yes }
+}
+1019917481={
+	name=Sokanon
+	female=yes
+	dynasty=1009990141
+	dna="nhpffhmndfi"
+	culture=cree religion=subartic_pagan
+	father=1019917478	#Aranck
+	1398.2.8={ birth=yes }
+	1453.4.4={ death=yes }
+}
+1019917482={
+	name=Tahki
+	female=yes
+	dynasty=1009990141
+	dna="nephmldddpd"
+	culture=cree religion=subartic_pagan
+	father=1019917478	#Aranck
+	1401.5.17={ birth=yes }
+	1460.2.25={ death=yes }
+}
+1019917483={
+	name=Matchitehew
+	dynasty=1009990141
+	dna="nepmibjnafc"
+	culture=cree religion=subartic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=4 learning=6
+	father=1019917478	#Aranck
+	1406.3.25={ birth=yes }
+	1474.9.22={ death=yes }
+}

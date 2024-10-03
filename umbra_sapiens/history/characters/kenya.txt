@@ -1,0 +1,1465 @@
+#Netulamela Dynasty (Placeholders) of Tulamela
+
+1005000001 = {
+	name="Abasi"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1005000002 = {
+	name="Abiona"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000001
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1005000003 = {
+	name="Nobanzi"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000002
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1005000004 = {
+	name="Najub"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000003
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1005000005 = {
+	name="Ezenachi"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000004
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1005000006 = {
+	name="Eze"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000005
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1005000007 = {
+	name="Judhar"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000006
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1005000008 = {
+	name="Mtundu"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000007
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1005000009 = {
+	name="Mwasham"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000008
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1005000010 = {
+	name="Muombwa"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000009
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1005000011 = {
+	name="Zera"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000010
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1005000012 = {
+	name="Zalika"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000011
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1005000013 = {
+	name="Buseje"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000012
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1005000014 = {
+	name="Bitisururu"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000013
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1005000015 = {
+	name="Quaashie"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000014
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1005000016 = {
+	name="Sokkusha"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000015
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1005000017 = {
+	name="Damisi"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000016
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1005000018 = {
+	name="Dalila"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000017
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1005000019 = {
+	name="Chiku"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000018
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1005000020 = {
+	name="Chuma"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000019
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1005000021 = {
+	name="Hamadi"
+	dynasty=1009990014 #Netulamela
+	religion="west_african_pagan"
+	culture="kenya"
+	father=1005000020
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1005000022 = {
+	name="Habimana"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1005000023 = {
+	name="Fumo"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000022
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1005000024 = {
+	name="Adnan"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000023
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1005000025 = {
+	name="Dalili"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000024
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1005000026 = {
+	name="Dada"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000025
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1005000027 = {
+	name="Imaan"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000026
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1005000028 = {
+	name="Idriis"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000027
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1005000029 = {
+	name="Watende"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000028
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1005000030 = {
+	name="Wanyanga"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000029
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1005000031 = {
+	name="Wokabi"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000030
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1005000032 = {
+	name="Pepukayi"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000031
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1005000033 = {
+	name="Popo"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000032
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1005000034 = {
+	name="Pandu"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000033
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1005000035 = {
+	name="Garai"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000034
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1005000036 = {
+	name="Gathee"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000035
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1005000037 = {
+	name="Gichinga"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000036
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1005000038 = {
+	name="Zesiro"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000037
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1005000039 = {
+	name="Kianyandaarwa"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000038
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1005000040 = {
+	name="Kareem"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000039
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1005000041 = {
+	name="Kibwe"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000040
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1005000042 = {
+	name="Kagunda"
+	dynasty=1009990015 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000041
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+1005000043 = {
+	name="Kwende"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1005000044 = {
+	name="Yooku"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000043
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1005000045 = {
+	name="Yakubu"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000044
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1005000046 = {
+	name="Yawo"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000045
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1005000047 = {
+	name="Yafeu"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000046
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1005000048 = {
+	name="Usaama"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000047
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1005000049 = {
+	name="Utni"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000048
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1005000050 = {
+	name="Umar"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000049
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1005000051 = {
+	name="Ufanisi"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000050
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1005000052 = {
+	name="Vuai"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000051
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1005000053 = {
+	name="Chimsima"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000052
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1005000054 = {
+	name="Chabwera"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000053
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1005000055 = {
+	name="Cheja"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000054
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1005000056 = {
+	name="Chiumbo"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000055
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1005000057 = {
+	name="Liyongo"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000056
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1005000058 = {
+	name="Lukongolo"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000057
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1005000059 = {
+	name="Lisimba"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000058
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1005000060 = {
+	name="Lali"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000059
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1005000061 = {
+	name="Shangobunni"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000060
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1005000062 = {
+	name="Sowande"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000061
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1005000063 = {
+	name="Saburi"
+	dynasty=1009990016 #Netulamela
+	religion="west_african_pagan"
+	culture="acholi"
+	father=1005000062
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1005000064 = {
+	name="Okello"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1005000065 = {
+	name="Ojore"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000064
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1005000066 = {
+	name="Olaniyan"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000065
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1005000067 = {
+	name="Okonkwo"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000066
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1005000068 = {
+	name="Azikiwe"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000067
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1005000069 = {
+	name="Ajayi"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000068
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1005000070 = {
+	name="Abidugun"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000069
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1005000071 = {
+	name="Akiki"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000070
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1005000072 = {
+	name="Adeyemi"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000071
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1005000073 = {
+	name="Ebo"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000072
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1005000074 = {
+	name="Elewa"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000073
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1005000075 = {
+	name="Osaze"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000074
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1005000076 = {
+	name="Oluyemi"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000075
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1005000077 = {
+	name="Okeyo"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000076
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1005000078 = {
+	name="Oba"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000077
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1005000079 = {
+	name="Kumbufu"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000078
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1005000080 = {
+	name="Kigongo"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000079
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1005000081 = {
+	name="Kame"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000080
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1005000082 = {
+	name="Khalafu"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000081
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1005000083 = {
+	name="Mapute"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000082
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1005000084 = {
+	name="Mutemi"
+	dynasty=1009990017 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000083
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1005000085 = {
+	name="Makalani"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1005000086 = {
+	name="Mensah"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000085
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1005000087 = {
+	name="Matari"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000086
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1005000088 = {
+	name="Mapute"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000087
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1005000089 = {
+	name="Njururi"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000088
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1005000090 = {
+	name="Nangila"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000089
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1005000091 = {
+	name="Ndwiga"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000090
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1005000092 = {
+	name="Ngumo"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000091
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1005000093 = {
+	name="Simba"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=11005000092
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1005000094 = {
+	name="Sokoro"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000093
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1005000095 = {
+	name="Salehe"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000094
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1005000096 = {
+	name="Shibisha"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000095
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1005000097 = {
+	name="Tabari"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000096
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1005000098 = {
+	name="Thaabiti"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000097
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1005000099 = {
+	name="Takata"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000098
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1005000100 = {
+	name="Takatifu"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000099
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1005000101 = {
+	name="Fenyang"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000100
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1005000102 = {
+	name="Feisal"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000101
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1005000103 = {
+	name="Fifi"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000102
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1005000104 = {
+	name="Hali"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000103
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1005000105 = {
+	name="Hodari"
+	dynasty=1009990018 #Netulamela
+	religion="west_african_pagan"
+	culture="turkana"
+	father=1005000104
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

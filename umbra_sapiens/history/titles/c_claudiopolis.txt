@@ -1,0 +1,378 @@
+330.1.1={
+	liege="d_bucellarian"
+}
+753.1.1={
+	holder=145839
+}
+855.1.1={
+	holder=145115
+}
+936.1.1 = {
+	holder = 250805
+}
+1060.1.1=
+{
+	holder=1742
+}
+#Seljuks
+1077.1.1=
+{
+	holder=3046
+}
+1086.1.1=
+{
+	holder=41701
+}
+#First Crusade
+1097.6.19=
+{
+	holder=1742
+}
+1118.8.15=
+{
+	holder=223023
+}
+1143.4.8=
+{
+	holder=215530
+}
+1180.9.24=
+{
+	holder=215531
+}
+1183.9.24=
+{
+	holder=215529
+}
+1185.9.12=
+{
+	holder=215500
+}
+1195.6.1=
+{
+	holder=215503
+}
+1203.7.18=
+{
+	holder=215507
+}
+1204.1.28=
+{
+	holder=125710
+}
+#4th crusade
+1204.5.16=
+{
+	liege="k_rum" 
+	holder=34187
+}
+1205.1.1=
+{
+	holder=225002
+}
+1211.1.1=
+{
+	holder=34188
+}
+1214.1.1=
+{
+	liege="d_paphlagonia"	
+} 
+1214.1.1=
+{
+	holder=34189
+}
+1220.1.1 = {
+	holder = 71861
+}
+1237.1.1=
+{
+	holder=34190
+}
+1246.1.1=
+{
+	holder=34191
+}
+1248.1.1=
+{
+	holder=34192
+}
+1249.1.1=
+{
+	holder=34193
+}
+1257.1.1=
+{
+	holder=34192
+}
+1265.1.1=
+{
+	holder=34194
+}
+1284.1.1=
+{
+	holder=34195
+}
+1296.1.1=
+{
+	holder=34196
+}
+1302.1.1=
+{
+	holder=476501
+	liege="k_ottoman"
+}
+1321.1.1=
+{
+	liege="d_paphlagonia"
+}
+1324.1.1=
+{
+	holder=476500
+}
+1362.3.1=
+{
+	holder=476502	#Murad I
+}
+1389.6.15=
+{
+	holder=377939	#Bayezid I
+}
+1403.3.8={
+	holder=377952	#Isa Celebi 
+}
+1403.5.1={
+	holder=377954	#Mehmed I
+}
+1421.5.26={
+	holder=377966	#Murad II
+}
+1444.8.1={
+	holder=377984	#Mehmed II
+}
+1446.9.1={
+	holder=377966	#Murad II
+}
+1451.2.3={
+	holder=377984	#Mehmed II
+}
+1453.5.29={
+	holder=379357	#İshak Pasha 
+	liege=e_ottomans
+}
+1472.1.1={
+	holder=379358	#Gedik Ahmet Pasha 
+}
+1473.1.1={
+	holder=379359	#Davut Pasha
+}
+1478.1.1={
+	holder=379360	#Süleyman Pasha
+}
+1479.1.1={
+	holder=379361	#Mehmet Pasha 
+}
+1481.1.1={
+	holder=379362	#Sinan Pasha 
+}
+1481.1.6={
+	holder=379363	#Hersekzade Ahmed Pasha 
+}
+1483.1.1={
+	holder=379359	#Davut Pasha
+}
+1484.1.1={
+	holder=379363	#Hersekzade Ahmed Pasha 
+}
+1486.1.1={
+	holder=379362	#Sinan Pasha 
+}
+1486.6.1={
+	holder=379363	#Hersekzade Ahmed Pasha 
+}
+1497.1.1={
+	holder=379362	#Sinan Pasha 
+}
+1498.1.1={
+	holder=379363	#Hersekzade Ahmed Pasha
+}
+1501.1.1={
+	holder=379362	#Sinan Pasha 
+}
+1502.1.1={
+	holder=379364	#Yahya Pasha 
+}
+1503.1.1={
+	holder=379365	#Hasan Pasha 
+}
+1505.1.1={
+	holder=379366	#Karagöz Ahmed Pasha
+}
+1511.1.1={
+	holder=379191	#Yunus Pasha
+}
+1514.1.1={
+	holder=379367	#Mustafa Pasha
+}
+1514.8.23={
+	holder=379368	#Hadim Sinan Pasha March
+}
+1514.11.1={
+	holder=379369	#Zeynel Pasha
+}
+1516.11.1={
+	holder=379370	#Mustafa Pasha
+}
+1517.1.1={
+	holder=379371	#Ferhat Pasha
+}
+1517.6.1={
+	holder=379372	#Ishakpasazade Sadi Pasha
+}
+1520.1.1={
+	holder=379022	#Ayas Mehmed Pasha (1521–1522)
+}
+1520.6.1={
+	holder=379094	#Güzelce Kasım Pasha 
+}
+1523.1.1={
+	holder=379373	#Behram Pasha : He became governor in 1523
+}
+1528.1.1={
+	holder=379374	#Bali Pasha : He became governor in 1528. 
+}
+1529.1.1={
+	holder=379375	#Yakup Pasha: He became governor in 1529. 
+}
+1532.1.1={
+	holder=379376	#Hadim Ibrahim Pasha : He became governor in 1532
+}
+1534.1.1={
+	holder=379377	#Mustafa Pasha: He became the governor of Rumelia in July 1535
+}
+1535.1.1={
+	holder=379096	#Hadım Süleyman Pasha
+}
+1536.1.1={
+	holder=379378	#Mehmed Pasha
+}
+1538.7.1={
+	holder=379379	#Damat Rustem Pasha : He became governor in July 1538
+}
+1539.1.1={
+	holder=379380	#Suleyman Pasha : He became governor in 1539.
+}
+1541.1.1={
+	holder=379381	#Yahyapasazade Mehmet Bey : He became governor in 1541 and retired the same year
+}
+1541.6.1={
+	holder=379382	#Ibrahim Pasha: He became governor in 1541
+}
+1542.1.1={
+	holder=379383	#Cenabi Ahmed Pasha : He served as beylerbeyi for 20 years until his death in 1562
+}
+1562.1.1={
+	holder=379384	#Suleyman Pasha: He became governor in 1565
+}
+1565.1.1={
+	holder=379385	#Iskender Pasha: He became governor in 1565
+}
+1566.1.1={
+	holder=379386	#Zal Mahmud Pasha : He became governor in 1566
+}
+1566.9.6={
+	holder=379387	#Lala Hüseyin Pasha : After Prince Selim became Sultan in 1566
+}
+1569.1.1={
+	holder=379388	#Iskender Pasha: He became governor in 1569
+}
+1571.1.1={
+	holder=379389	#Hasan Pasha: He became governor in 1571
+}
+1579.1.1={
+	holder=379390	#Cafer Pasha : He became governor in 1579
+}
+1582.1.1={
+	holder=379391	#Ridvan Pasha : He became governor in 1582 and died in Kutahya
+}
+1585.1.1={
+	holder=379392	#Hasan Pasha: He became governor in 1585. in 1586 He was transferred to Rumelia Province
+}
+1586.1.1={
+	holder=379393	#Sokolluzade Hasan Pasha : He became governor in 1589
+}
+1587.1.1={
+	holder=379390	#Cafer Pasha : He became governor in 1579
+}
+1590.1.1={
+	holder=379394	#Sokolluzade Lala Mehmed Pasha : He became governor in 1590 Shahinoglu
+}
+1592.1.1={
+	holder=379395	#Satirci Mehmed Pasha
+}
+1594.1.1={
+	holder=379394	#Lala Mehmed Pasha 
+}
+1598.1.1={
+	holder=379396	#Sofu Sinan Pasha : He became governor in 1598
+}
+1600.1.1={
+	holder=379397	# Nuh Pasha He became governor in 1600
+}
+1603.1.1={
+	holder=379398	#Destari Mustafa Pasha : He became governor in 1603
+}
+1604.1.1={
+	holder=379399	#Kejdehan Ali Pasha : He became the governor of Anatolia in 1604
+}
+1605.1.1={
+	holder=379400	#Kara Davut Pasha : He was the governor of Anatolia in 1605
+}
+1606.1.1={
+	holder=379401	#Dislenk Hüseyin Pasha : Became governor of Anatolia in 1606 (1st time)
+}
+1607.1.1={
+	holder=379402	#Maryol Huseyin Pasha : He became governor in 1607
+}
+1620.1.1={
+	holder=379403	#Rizeli Hasan Pasha : He became governor in 1620
+}
+1621.1.1={
+	holder=379404		# Topal Mehmet Pasha : He became governor in 1621
+}
+1623.1.1={
+	holder=379405		#Haci Ilyas Pasha : He became governor in 1623
+}
+1626.1.1={
+	holder=379402	#Maryol Huseyin Pasha : He became governor in 1607
+}
+1627.1.1={
+	holder=379406		#Zor Pasha  He became governor in 1627
+}
+1631.1.1={
+	holder=379407		#Gurcu Mehmet Pasha : Became governor in 1631 (1st time)
+}
+1632.1.1={
+	holder=379408		#Tayyar Mehmed Pasha He became governor in 1632
+}
+1632.6.1={
+	holder=379409		#Küçük Ahmet Pasha : He became governor in 1632
+}
+1633.1.1={
+	holder=379410		#Dilaver Pasha He became governor in 1633 and was transferred to Varna a year later
+}
+1637.1.1={
+	holder=379411		#Varvar Ali Pasha : Became governor in 1637 (1st time)
+}
+1638.1.1={
+	holder=379412		#Deli Hüseyin Pasha : Became governor in 1638
+}
+1638.6.1={
+	holder=379407		#Gurcu Mehmet Pasha : Became governor in 1631 (1st time)
+}
+1639.1.1={
+	holder=379413		#Mirahor Hasan Pasha : Became governor in 1639
+}
+1639.6.1={
+	holder=379414		#Biyikli Mustafa Pasha : Became governor in 1639 
+}

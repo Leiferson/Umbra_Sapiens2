@@ -1,0 +1,1467 @@
+#Netulamela Dynasty (Placeholders) of Tulamela
+
+1019900001 = {
+	name="Mmanua"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1019900002 = {
+	name="Kekung"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900001
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1019900003 = {
+	name="Mononutu"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900002
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1019900004 = {
+	name="Nangon"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900003
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1019900005 = {
+	name="Rolangon"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900004
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1019900006 = {
+	name="Lontaan"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900005
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1019900007 = {
+	name="Undap"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900006
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1019900008 = {
+	name="Wowor"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900007
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1019900009 = {
+	name="Egam"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900008
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1019900010 = {
+	name="Gosal"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900009
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1019900011 = {
+	name="Manarisip"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900010
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1019900012 = {
+	name="Paat"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900011
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1019900013 = {
+	name="Manus"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900012
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1019900014 = {
+	name="Lowai"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900013
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1019900015 = {
+	name="Lumi"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900014
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1019900016 = {
+	name="Kalesaran"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900015
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1019900017 = {
+	name=" Kalici"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900016
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1019900018 = {
+	name="Pinantik"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900017
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1019900019 = {
+	name="Tooi"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900018
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1019900020 = {
+	name="Tular"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900019
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1019900021 = {
+	name="Runturambi"
+	dynasty=1009990062 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900020
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1019900022 = {
+	name="Mononimbar"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1019900023 = {
+	name="Semeke"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900022
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1019900024 = {
+	name="Naray"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900023
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1019900025 = {
+	name="Lontoh"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900024
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1019900026 = {
+	name="Batas"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900025
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1019900027 = {
+	name="Lompoliu"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900026
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1019900028 = {
+	name="Mamusung"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900027
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1019900029 = {
+	name="Mamusung"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900028
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1019900030 = {
+	name="Mait"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900029
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1019900031 = {
+	name="Mamarimbing"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900030
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1019900032 = {
+	name="Angkouw"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900031
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1019900033 = {
+	name="Dusaw"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900032
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1019900034 = {
+	name="Gumalag"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900033
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1019900035 = {
+	name="Porayouw"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900034
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1019900036 = {
+	name="Posumah"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900035
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1019900037 = {
+	name="Pantonuwu"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900036
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1019900038 = {
+	name="Paseki"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900037
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1019900039 = {
+	name="Korouw"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900038
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1019900040 = {
+	name="Tumuyu"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900039
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1019900041 = {
+	name="Sumendap"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900040
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1019900042 = {
+	name="Parengkuan"
+	dynasty=1009990063 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900041
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+1019900043 = {
+	name="Lumunon"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1019900044 = {
+	name="Pelengkahu"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900043
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1019900045 = {
+	name="Tairas"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900044
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1019900046 = {
+	name="Taroreh"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900045
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1019900047 = {
+	name="Manebu"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900046
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1019900048 = {
+	name="Boyoh"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900047
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1019900049 = {
+	name="Mogot"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900048
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1019900050 = {
+	name="Opit"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900049
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1019900051 = {
+	name="Supit"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900050
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1019900052 = {
+	name="Wotulo"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900051
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1019900053 = {
+	name="Tumondo"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900052
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1019900054 = {
+	name="Pinantik"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900053
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1019900055 = {
+	name="Towo"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900054
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1019900056 = {
+	name="Tuegeh"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900055
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1019900057 = {
+	name="Kusoi"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900056
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1019900058 = {
+	name="Kaloh"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900057
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1019900059 = {
+	name="Korua"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900058
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1019900060 = {
+	name="Kaes"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900059
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1019900061 = {
+	name="Gigir"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900060
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1019900062 = {
+	name="Damopoli"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900061
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1019900063 = {
+	name="Datu"
+	dynasty=1009990064 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900062
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1019900064 = {
+	name="Todar"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1019900065 = {
+	name="Porayouw"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900064
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1019900066 = {
+	name="Palar"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900065
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1019900067 = {
+	name="Lewu"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900066
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1019900068 = {
+	name="Makaoron"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900067
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1019900069 = {
+	name="Katopo"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900068
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1019900070 = {
+	name="Mmanua"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900069
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1019900071 = {
+	name="Losung"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900070
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1019900072 = {
+	name="Nangon"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900071
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1019900073 = {
+	name="Gumansing"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900072
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1019900074 = {
+	name="Tandayu"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900073
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1019900075 = {
+	name="Sondakh"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900074
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1019900076 = {
+	name="Soputan"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900075
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1019900077 = {
+	name="Pepah"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900076
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1019900078 = {
+	name="Ngala"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900077
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1019900079 = {
+	name="Lompoliu"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900078
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1019900080 = {
+	name="Kepel"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900079
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1019900081 = {
+	name="Tamon"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900080
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1019900082 = {
+	name="Ogot"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900081
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1019900083 = {
+	name="Ogotan"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900082
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1019900084 = {
+	name="Pai"
+	dynasty=1009990065 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900083
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+########
+
+1019900085 = {
+	name="Yuma"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1019900086 = {
+	name="Yakir"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900085
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1019900087 = {
+	name="Hany"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900086
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1019900088 = {
+	name="Mako"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900087
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1019900089 = {
+	name="Manar"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900088
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1019900090 = {
+	name="Zaim"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900089
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1019900091 = {
+	name="Dwy"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900090
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1019900092 = {
+	name="Dahl"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900091
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1019900093 = {
+	name="Daen"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=11019900092
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1019900094 = {
+	name="Pauel"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900093
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1019900095 = {
+	name="Bahij"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900094
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1019900096 = {
+	name="Tani"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900095
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1019900097 = {
+	name="Gow"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900096
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1019900098 = {
+	name="Brok"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900097
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1019900099 = {
+	name="Bader"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900098
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1019900100 = {
+	name="Pere"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900099
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1019900101 = {
+	name="Zaine"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900100
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1019900102 = {
+	name="Quirinus"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900101
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1019900103 = {
+	name="Fabio"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900102
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1019900104 = {
+	name="Fitim"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900103
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1019900105 = {
+	name="Elijah"
+	dynasty=1009990066 #Netulamela
+	religion="dreamtime_religion"
+	culture="australian"
+	father=1019900104
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

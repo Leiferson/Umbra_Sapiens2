@@ -1,0 +1,18 @@
+# 2097 - Malkhicho
+
+# County Title
+title = c_malkhicho
+
+# Settlements
+max_settlements = 3
+b_zhabo-kala = castle
+b_el-jurtu = city
+b_shoana = temple
+
+# Misc
+culture = nakh
+religion = nakh_pagan
+
+# History
+860.1.1 = { religion = orthodox } 
+1238.1.1= { culture=circassian }

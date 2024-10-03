@@ -1,0 +1,25 @@
+# 668 - Shirvan
+
+# County Title
+title = c_shirvan
+
+# Settlements
+max_settlements = 5
+b_baku = castle
+b_salyan = city
+b_ateshgah = temple
+#b_mardakan = castle
+#b_nardaran = castle 
+#b_mashgada = temple
+#b_khila = temple
+#b_siyan = city
+#b_stalvats = city
+
+# Misc
+culture = dagestani
+religion = zoroastrian
+
+# History
+865.1.1 = { religion = sunni }
+865.1.1 = { culture = persian }
+1320.1.1 = { religion = shiite }

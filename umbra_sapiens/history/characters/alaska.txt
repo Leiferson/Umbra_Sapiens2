@@ -1,0 +1,2020 @@
+#328000
+328000 = {
+	name = "Makpigat"
+	dynasty = 1010041119
+	religion = inuit_pagan
+	culture = yupik
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328001 = {
+	name = "Tipvigut"
+	dynasty = 1010041119
+	religion = inuit_pagan
+	culture = yupik
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328002 = {
+	name = "Mauja"
+	dynasty = 1010041119
+	religion = inuit_pagan
+	culture = yupik
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328003 = {
+	name = "Mumk"
+	dynasty = 1010041119
+	religion = inuit_pagan
+	culture = yupik
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328004 = {
+	name = "Aguta"
+	dynasty = 1010041119
+	religion = inuit_pagan
+	culture = yupik
+	father = 328003
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328005 = {
+	name = "Masaaraq"
+	dynasty = 1010041119
+	religion = inuit_pagan
+	culture = yupik
+	father = 328004
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328006 = {
+	name = "Tikivik"
+	dynasty = 1010041119
+	religion = inuit_pagan
+	culture = yupik
+	father = 328005
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328007 = {
+	name = "Akrittok"
+	dynasty = 1010041119
+	religion = inuit_pagan
+	culture = yupik
+	father = 328006
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#second line
+328008 = {
+	name = "Massak"
+	dynasty = 1010041118
+	religion = inuit_pagan
+	culture = yupik
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328009 = {
+	name = "Mauja"
+	dynasty = 1010041118
+	religion = inuit_pagan
+	culture = yupik
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328010 = {
+	name = "Alornerk"
+	dynasty = 1010041118
+	religion = inuit_pagan
+	culture = yupik
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328011 = {
+	name = "Mumk"
+	dynasty = 1010041118
+	religion = inuit_pagan
+	culture = yupik
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328012 = {
+	name = "Tonrar"
+	dynasty = 1010041118
+	religion = inuit_pagan
+	culture = yupik
+	father = 328011
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328013 = {
+	name = "Maniitok"
+	dynasty = 1010041118
+	religion = inuit_pagan
+	culture = yupik
+	father = 328012
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328014 = {
+	name = "Pattangayok"
+	dynasty = 1010041118
+	religion = inuit_pagan
+	culture = yupik
+	father = 328013
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328015 = {
+	name = "Iglopuk"
+	dynasty = 1010041118
+	religion = inuit_pagan
+	culture = yupik
+	father = 328014
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#anotherone
+328016 = {
+	name = "Koko"
+	dynasty = 1010041117
+	religion = inuit_pagan
+	culture = yupik
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328017 = {
+	name = "Kilaun"
+	dynasty = 1010041117
+	religion = inuit_pagan
+	culture = yupik
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328018 = {
+	name = "Shesh"
+	dynasty = 1010041117
+	religion = inuit_pagan
+	culture = yupik
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328019 = {
+	name = "Shtiya"
+	dynasty = 1010041117
+	religion = inuit_pagan
+	culture = yupik
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328020 = {
+	name = "Tullik"
+	dynasty = 1010041117
+	religion = inuit_pagan
+	culture = yupik
+	father = 328019
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328021 = {
+	name = "Aput"
+	dynasty = 1010041117
+	religion = inuit_pagan
+	culture = yupik
+	father = 328020
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328022 = {
+	name = "Kaya"
+	dynasty = 1010041117
+	religion = inuit_pagan
+	culture = yupik
+	father = 328021
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328023 = {
+	name = "Akluitok"
+	dynasty = 1010041117
+	religion = inuit_pagan
+	culture = yupik
+	father = 328022
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#anotheryet
+328024 = {
+	name = "Aga"
+	dynasty = 1010041116
+	religion = inuit_pagan
+	culture = yupik
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328025 = {
+	name = "Sinniktok"
+	dynasty = 1010041116
+	religion = inuit_pagan
+	culture = yupik
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328026 = {
+	name = "Qatqain"
+	dynasty = 1010041116
+	religion = inuit_pagan
+	culture = yupik
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328027 = {
+	name = "Tiilaqiia"
+	dynasty = 1010041116
+	religion = inuit_pagan
+	culture = yupik
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328028 = {
+	name = "Miki"
+	dynasty = 1010041116
+	religion = inuit_pagan
+	culture = yupik
+	father = 328027
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328029 = {
+	name = "Kirima"
+	dynasty = 1010041116
+	religion = inuit_pagan
+	culture = yupik
+	father = 328028
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328030 = {
+	name = "Pakak"
+	dynasty = 1010041116
+	religion = inuit_pagan
+	culture = yupik
+	father = 328029
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328031 = {
+	name = "Akkilokipok"
+	dynasty = 1010041116
+	religion = inuit_pagan
+	culture = yupik
+	father = 328030
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#nother
+328032 = {
+	name = "Kassuq"
+	dynasty = 1010041115
+	religion = inuit_pagan
+	culture = yupik
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328033 = {
+	name = "Siku"
+	dynasty = 1010041115
+	religion = inuit_pagan
+	culture = yupik
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328034 = {
+	name = "Negiliq"
+	dynasty = 1010041115
+	religion = inuit_pagan
+	culture = yupik
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328035 = {
+	name = "Piktaungitok"
+	dynasty = 1010041115
+	religion = inuit_pagan
+	culture = yupik
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328036 = {
+	name = "Miki"
+	dynasty = 1010041115
+	religion = inuit_pagan
+	culture = yupik
+	father = 328035
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328037 = {
+	name = "Saghani"
+	dynasty = 1010041115
+	religion = inuit_pagan
+	culture = yupik
+	father = 328036
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328038 = {
+	name = "Pakak"
+	dynasty = 1010041115
+	religion = inuit_pagan
+	culture = yupik
+	father = 328037
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328039 = {
+	name = "Ublureak"
+	dynasty = 1010041115
+	religion = inuit_pagan
+	culture = yupik
+	father = 328038
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#aleut1
+328040 = {
+	name = "Qopuk"
+	dynasty = 1010039070
+	religion = inuit_pagan
+	culture = aleut
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328041 = {
+	name = "Iluq"
+	dynasty = 1010039070
+	religion = inuit_pagan
+	culture = aleut
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328042 = {
+	name = "Miki"
+	dynasty = 1010039070
+	religion = inuit_pagan
+	culture = aleut
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328043 = {
+	name = "Biisaiyowaq"
+	dynasty = 1010039070
+	religion = inuit_pagan
+	culture = aleut
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328044 = {
+	name = "Massalerauvok"
+	dynasty = 1010039070
+	religion = inuit_pagan
+	culture = aleut
+	father = 328043
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328045 = {
+	name = "Koko"
+	dynasty = 1010039070
+	religion = inuit_pagan
+	culture = aleut
+	father = 328044
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328046 = {
+	name = "Sakari"
+	dynasty = 1010039070
+	religion = inuit_pagan
+	culture = aleut
+	father = 328045
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328047 = {
+	name = "Poallu"
+	dynasty = 1010039070
+	religion = inuit_pagan
+	culture = aleut
+	father = 328046
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#aleut1
+328048 = {
+	name = "Sinniktok"
+	dynasty = 1010039069
+	religion = inuit_pagan
+	culture = aleut
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328049 = {
+	name = "Nauja"
+	dynasty = 1010039069
+	religion = inuit_pagan
+	culture = aleut
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328050 = {
+	name = "Sitiyok"
+	dynasty = 1010039069
+	religion = inuit_pagan
+	culture = aleut
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328051 = {
+	name = "Tavrani"
+	dynasty = 1010039069
+	religion = inuit_pagan
+	culture = aleut
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328052 = {
+	name = "Miki"
+	dynasty = 1010039069
+	religion = inuit_pagan
+	culture = aleut
+	father = 328051
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328053 = {
+	name = "Saghani"
+	dynasty = 1010039069
+	religion = inuit_pagan
+	culture = aleut
+	father = 328052
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328054 = {
+	name = "Pakak"
+	dynasty = 1010039069
+	religion = inuit_pagan
+	culture = aleut
+	father = 328053
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328055 = {
+	name = "Ublureak"
+	dynasty = 1010039069
+	religion = inuit_pagan
+	culture = aleut
+	father = 328054
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#yupiksagain
+328056 = {
+	name = "Kaskae"
+	dynasty = 1010041114
+	religion = inuit_pagan
+	culture = yupik
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328057 = {
+	name = "Nertornartok"
+	dynasty = 1010041114
+	religion = inuit_pagan
+	culture = yupik
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328058 = {
+	name = "Qimugkauyar"
+	dynasty = 1010041114
+	religion = inuit_pagan
+	culture = yupik
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328059 = {
+	name = "Naga"
+	dynasty = 1010041114
+	religion = inuit_pagan
+	culture = yupik
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328060 = {
+	name = "Tartok"
+	dynasty = 1010041114
+	religion = inuit_pagan
+	culture = yupik
+	father = 328059
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328061 = {
+	name = "Tulukaruk"
+	dynasty = 1010041114
+	religion = inuit_pagan
+	culture = yupik
+	father = 328060
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328062 = {
+	name = "Nerromiktok"
+	dynasty = 1010041114
+	religion = inuit_pagan
+	culture = yupik
+	father = 328061
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328063 = {
+	name = "Tatkret"
+	dynasty = 1010041114
+	religion = inuit_pagan
+	culture = yupik
+	father = 328062
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#yupiknew
+328064 = {
+	name = "Nagojut"
+	dynasty = 1010041113
+	religion = inuit_pagan
+	culture = yupik
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328065 = {
+	name = "Pamiiyok"
+	dynasty = 1010041113
+	religion = inuit_pagan
+	culture = yupik
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328066 = {
+	name = "Irdlirvirisissong"
+	dynasty = 1010041113
+	religion = inuit_pagan
+	culture = yupik
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328067 = {
+	name = "Kussuyok"
+	dynasty = 1010041113
+	religion = inuit_pagan
+	culture = yupik
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328068 = {
+	name = "Miksa"
+	dynasty = 1010041113
+	religion = inuit_pagan
+	culture = yupik
+	father = 328067
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328069 = {
+	name = "Qimugkauyar"
+	dynasty = 1010041113
+	religion = inuit_pagan
+	culture = yupik
+	father = 328068
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328070 = {
+	name = "Iluak"
+	dynasty = 1010041113
+	religion = inuit_pagan
+	culture = yupik
+	father = 328069
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328071 = {
+	name = "Sos"
+	dynasty = 1010041113
+	religion = inuit_pagan
+	culture = yupik
+	father = 328070
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#yupiknewnew
+328072 = {
+	name = "Kappianartok"
+	dynasty = 1010041112
+	religion = inuit_pagan
+	culture = yupik
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328073 = {
+	name = "Aningan"
+	dynasty = 1010041112
+	religion = inuit_pagan
+	culture = yupik
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328074 = {
+	name = "Tlate"
+	dynasty = 1010041112
+	religion = inuit_pagan
+	culture = yupik
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328075 = {
+	name = "Kussuyok"
+	dynasty = 1010041112
+	religion = inuit_pagan
+	culture = yupik
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328076 = {
+	name = "Qeorvik"
+	dynasty = 1010041112
+	religion = inuit_pagan
+	culture = yupik
+	father = 328075
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328077 = {
+	name = "Olikpok"
+	dynasty = 1010041112
+	religion = inuit_pagan
+	culture = yupik
+	father = 328076
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328078 = {
+	name = "Mequssuk"
+	dynasty = 1010041112
+	religion = inuit_pagan
+	culture = yupik
+	father = 328077
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328079 = {
+	name = "Cikuq"
+	dynasty = 1010041112
+	religion = inuit_pagan
+	culture = yupik
+	father = 328078
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#lastyupik
+328080 = {
+	name = "Kinguyakkii"
+	dynasty = 1010041111
+	religion = inuit_pagan
+	culture = yupik
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328081 = {
+	name = "Piaktok"
+	dynasty = 1010041111
+	religion = inuit_pagan
+	culture = yupik
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328082 = {
+	name = "Kulitak"
+	dynasty = 1010041111
+	religion = inuit_pagan
+	culture = yupik
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328083 = {
+	name = "Biisaiyowaq"
+	dynasty = 1010041111
+	religion = inuit_pagan
+	culture = yupik
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328084 = {
+	name = "Imnek"
+	dynasty = 1010041111
+	religion = inuit_pagan
+	culture = yupik
+	father = 328083
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328085 = {
+	name = "Kaya"
+	dynasty = 1010041111
+	religion = inuit_pagan
+	culture = yupik
+	father = 328084
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328086 = {
+	name = "Kuvageegai"
+	dynasty = 1010041111
+	religion = inuit_pagan
+	culture = yupik
+	father = 328085
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328087 = {
+	name = "Akna"
+	dynasty = 1010041111
+	religion = inuit_pagan
+	culture = yupik
+	father = 328086
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#inuit
+328088 = {
+	name = "Pitsiark"
+	dynasty = 1010042002
+	religion = inuit_pagan
+	culture = inuit
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328089 = {
+	name = "Iluak"
+	dynasty = 1010042002
+	religion = inuit_pagan
+	culture = inuit
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328090 = {
+	name = "Manirak"
+	dynasty = 1010042002
+	religion = inuit_pagan
+	culture = inuit
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328091 = {
+	name = "Oogrooq"
+	dynasty = 1010042002
+	religion = inuit_pagan
+	culture = inuit
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328092 = {
+	name = "Pukiq"
+	dynasty = 1010042002
+	religion = inuit_pagan
+	culture = inuit
+	father = 328091
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328093 = {
+	name = "Kaya"
+	dynasty = 1010042002
+	religion = inuit_pagan
+	culture = inuit
+	father = 328092
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328094 = {
+	name = "Ikiaq"
+	dynasty = 1010042002
+	religion = inuit_pagan
+	culture = inuit
+	father = 328093
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328095 = {
+	name = "Makoktok"
+	dynasty = 1010042002
+	religion = inuit_pagan
+	culture = inuit
+	father = 328094
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#inuit2
+328096 = {
+	name = "Nukka"
+	dynasty = 1010042120
+	religion = inuit_pagan
+	culture = inuit
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328097 = {
+	name = "Sadluyok"
+	dynasty = 1010042120
+	religion = inuit_pagan
+	culture = inuit
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328098 = {
+	name = "Qimugkauyar"
+	dynasty = 1010042120
+	religion = inuit_pagan
+	culture = inuit
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328099 = {
+	name = "Kinaktok"
+	dynasty = 1010042120
+	religion = inuit_pagan
+	culture = inuit
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328100 = {
+	name = "Maguyuk"
+	dynasty = 1010042120
+	religion = inuit_pagan
+	culture = inuit
+	father = 328099
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328101 = {
+	name = "Ataneq"
+	dynasty = 1010042120
+	religion = inuit_pagan
+	culture = inuit
+	father = 328100
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328102 = {
+	name = "Unalaq"
+	dynasty = 1010042120
+	religion = inuit_pagan
+	culture = inuit
+	father = 328101
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328103 = {
+	name = "Akluitok"
+	dynasty = 1010042120
+	religion = inuit_pagan
+	culture = inuit
+	father = 328102
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#inuit3
+328104 = {
+	name = "Kirima"
+	dynasty = 1010042103
+	religion = inuit_pagan
+	culture = inuit
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328105 = {
+	name = "Salaksartok"
+	dynasty = 1010042103
+	religion = inuit_pagan
+	culture = inuit
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328106 = {
+	name = "Tlate"
+	dynasty = 1010042103
+	religion = inuit_pagan
+	culture = inuit
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328107 = {
+	name = "Yuralria"
+	dynasty = 1010042103
+	religion = inuit_pagan
+	culture = inuit
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328108 = {
+	name = "Kussuyok"
+	dynasty = 1010042103
+	religion = inuit_pagan
+	culture = inuit
+	father = 328107
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328109 = {
+	name = "Kaya"
+	dynasty = 1010042103
+	religion = inuit_pagan
+	culture = inuit
+	father = 328108
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328110 = {
+	name = "Kinalik"
+	dynasty = 1010042103
+	religion = inuit_pagan
+	culture = inuit
+	father = 328109
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328111 = {
+	name = "Tekkeitsertok"
+	dynasty = 1010042103
+	religion = inuit_pagan
+	culture = inuit
+	father = 328110
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#inuit4
+328112 = {
+	name = "Suluk"
+	dynasty = 1010042107
+	religion = inuit_pagan
+	culture = inuit
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328113 = {
+	name = "Qaniit"
+	dynasty = 1010042107
+	religion = inuit_pagan
+	culture = inuit
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328114 = {
+	name = "Cupun"
+	dynasty = 1010042107
+	religion = inuit_pagan
+	culture = inuit
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328115 = {
+	name = "Ahnah"
+	dynasty = 1010042107
+	religion = inuit_pagan
+	culture = inuit
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328116 = {
+	name = "Naga"
+	dynasty = 1010042107
+	religion = inuit_pagan
+	culture = inuit
+	father = 328115
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328117 = {
+	name = "Pukulria"
+	dynasty = 1010042107
+	religion = inuit_pagan
+	culture = inuit
+	father = 328116
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328118 = {
+	name = "Nerromiktok"
+	dynasty = 1010042107
+	religion = inuit_pagan
+	culture = inuit
+	father = 328117
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328119 = {
+	name = "Keelut"
+	dynasty = 1010042107
+	religion = inuit_pagan
+	culture = inuit
+	father = 328118
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#inuitislands
+328120 = {
+	name = "Noatak"
+	dynasty = 1010042025
+	religion = inuit_pagan
+	culture = inuit
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328121 = {
+	name = "Annakpok"
+	dynasty = 1010042025
+	religion = inuit_pagan
+	culture = inuit
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328122 = {
+	name = "Cupun"
+	dynasty = 1010042025
+	religion = inuit_pagan
+	culture = inuit
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328123 = {
+	name = "Taqukaq"
+	dynasty = 1010042025
+	religion = inuit_pagan
+	culture = inuit
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328124 = {
+	name = "Keruguq"
+	dynasty = 1010042025
+	religion = inuit_pagan
+	culture = inuit
+	father = 328123
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328125 = {
+	name = "Qigiq"
+	dynasty = 1010042025
+	religion = inuit_pagan
+	culture = inuit
+	father = 328124
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328126 = {
+	name = "Sinaaq"
+	dynasty = 1010042025
+	religion = inuit_pagan
+	culture = inuit
+	father = 328125
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328127 = {
+	name = "Aituserk"
+	dynasty = 1010042025
+	religion = inuit_pagan
+	culture = inuit
+	father = 328126
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#loadsofinuits
+328128 = {
+	name = "Shesh"
+	dynasty = 1010042017
+	religion = inuit_pagan
+	culture = inuit
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328129 = {
+	name = "Tiglikte"
+	dynasty = 1010042017
+	religion = inuit_pagan
+	culture = inuit
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328130 = {
+	name = "Chulyin"
+	dynasty = 1010042017
+	religion = inuit_pagan
+	culture = inuit
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328131 = {
+	name = "Quvianuq"
+	dynasty = 1010042017
+	religion = inuit_pagan
+	culture = inuit
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328132 = {
+	name = "Deniigi"
+	dynasty = 1010042017
+	religion = inuit_pagan
+	culture = inuit
+	father = 328131
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328133 = {
+	name = "Kakrayok"
+	dynasty = 1010042017
+	religion = inuit_pagan
+	culture = inuit
+	father = 328132
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328134 = {
+	name = "Qatiichii"
+	dynasty = 1010042017
+	religion = inuit_pagan
+	culture = inuit
+	father = 328133
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328135 = {
+	name = "Makpigat"
+	dynasty = 1010042017
+	religion = inuit_pagan
+	culture = inuit
+	father = 328134
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#yetainuitline
+328136 = {
+	name = "Shesh"
+	dynasty = 1010042006
+	religion = inuit_pagan
+	culture = inuit
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328137 = {
+	name = "Tiglikte"
+	dynasty = 1010042006
+	religion = inuit_pagan
+	culture = inuit
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328138 = {
+	name = "Chulyin"
+	dynasty = 1010042006
+	religion = inuit_pagan
+	culture = inuit
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328139 = {
+	name = "Quvianuq"
+	dynasty = 1010042006
+	religion = inuit_pagan
+	culture = inuit
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328140 = {
+	name = "Deniigi"
+	dynasty = 1010042006
+	religion = inuit_pagan
+	culture = inuit
+	father = 328139
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328141 = {
+	name = "Kakrayok"
+	dynasty = 1010042006
+	religion = inuit_pagan
+	culture = inuit
+	father = 328140
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328142 = {
+	name = "Qatiichii"
+	dynasty = 1010042006
+	religion = inuit_pagan
+	culture = inuit
+	father = 328141
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328143 = {
+	name = "Makpigat"
+	dynasty = 1010042006
+	religion = inuit_pagan
+	culture = inuit
+	father = 328142
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#inuitlastcontinental
+328144 = {
+	name = "Ataciara"
+	dynasty = 1010042042
+	religion = inuit_pagan
+	culture = inuit
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328145 = {
+	name = "Tuaq"
+	dynasty = 1010042042
+	religion = inuit_pagan
+	culture = inuit
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328146 = {
+	name = "Silatuyok"
+	dynasty = 1010042042
+	religion = inuit_pagan
+	culture = inuit
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328147 = {
+	name = "Tunerk"
+	dynasty = 1010042042
+	religion = inuit_pagan
+	culture = inuit
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328148 = {
+	name = "Nukka"
+	dynasty = 1010042042
+	religion = inuit_pagan
+	culture = inuit
+	father = 328139
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328149 = {
+	name = "Kappianartok"
+	dynasty = 1010042042
+	religion = inuit_pagan
+	culture = inuit
+	father = 328140
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328150 = {
+	name = "Sura"
+	dynasty = 1010042042
+	religion = inuit_pagan
+	culture = inuit
+	father = 328141
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328151 = {
+	name = "Tingenek"
+	dynasty = 1010042042
+	religion = inuit_pagan
+	culture = inuit
+	father = 328142
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#lastinuitsofall
+328152 = {
+	name = "Ataciara"
+	dynasty = 1010042066
+	religion = inuit_pagan
+	culture = inuit
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+328153 = {
+	name = "Tuaq"
+	dynasty = 1010042066
+	religion = inuit_pagan
+	culture = inuit
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+328154 = {
+	name = "Silatuyok"
+	dynasty = 1010042066
+	religion = inuit_pagan
+	culture = inuit
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+328155 = {
+	name = "Tunerk"
+	dynasty = 1010042066
+	religion = inuit_pagan
+	culture = inuit
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+328156 = {
+	name = "Nukka"
+	dynasty = 1010042066
+	religion = inuit_pagan
+	culture = inuit
+	father = 328155
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+328157 = {
+	name = "Kappianartok"
+	dynasty = 1010042066
+	religion = inuit_pagan
+	culture = inuit
+	father = 328156
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+328158 = {
+	name = "Sura"
+	dynasty = 1010042066
+	religion = inuit_pagan
+	culture = inuit
+	father = 328157
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+328159 = {
+	name = "Tingenek"
+	dynasty = 1010042066
+	religion = inuit_pagan
+	culture = inuit
+	father = 328158
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}

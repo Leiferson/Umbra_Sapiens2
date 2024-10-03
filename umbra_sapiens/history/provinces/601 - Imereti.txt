@@ -1,0 +1,18 @@
+# 601 - Imereti
+
+# County Title
+title = c_imereti
+
+# Settlements
+max_settlements = 4
+b_geguti = castle
+b_kutaisi = city
+b_bagrati = temple
+
+#b_khoni = castle
+
+# Misc
+culture = georgian
+religion = orthodox
+
+# History

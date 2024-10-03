@@ -1,0 +1,128 @@
+760.1.1={
+	liege="k_france"
+	holder = 91486 #HERMENELD, historical placeholder
+}
+862.1.1={
+	liege = k_france
+	holder = 168183 #Rudolf Unruochinger
+}
+877.10.6={
+	liege="d_flanders"
+	holder = 90109 #Boudewijn I
+}
+879.1.1={
+	holder = 90108 #Boudewijn II
+}
+918.9.10={
+	holder = 358 #Arnulf I
+}
+933.11.13={
+	holder = 10069
+}
+950.1.1=
+{
+holder=41234 #Sigurd de Guines
+}
+965.1.1=
+{
+holder=41233 #Ardolf
+}
+1000.1.1=
+{
+holder=41232 #Raoul I
+}
+1036.1.1=
+{
+holder=41230 #Eustache
+}
+1065.1.1=
+{
+holder=40900 #Baudouin I
+}
+1091.1.1=
+{
+holder=32137 #Manasses
+}
+1137.1.1=
+{
+holder=32151 #Henri de Bourbourg
+}
+1138.1.1=
+{
+holder=32152 #Beatrice de Bourbourg
+}
+1146.1.1=
+{
+holder=232011 #Arnould I de Guines
+}
+1169.1.1=
+{
+holder=32155 #Baudouin II
+}
+1187.1.1=
+{
+liege="k_france"
+}
+1205.1.2=
+{
+holder=32160 #Arnould II
+}
+1220.1.1=
+{
+holder=32168 #Baudouin III
+}
+1244.1.1=
+{
+holder=454994 #Arnould III
+}
+1282.2.1=
+{
+holder=32175 #Baudouin IV
+}
+1293.1.1=
+{
+holder=461746 #Jean I de Brienne
+}
+1302.7.11=
+{
+holder=455850 #Raoul II
+}
+1345.1.19 = {
+	holder=455852 #Raoul II of Brienne, Count of Eu
+}
+1350.11.19 = {
+	holder=455520 #John of Artois, Count of Eu
+}
+1387.4.6 = {
+	holder=373006	#Robert IV of Artois, Count of Eu
+}
+1387.7.20 = {
+	holder=373007	#Philip of Artois, Count of Eu
+}
+1397.6.16 = {
+	holder=373011	#Charles of Artois, Count of Eu
+}
+1360.5.8=
+{
+liege="k_england"
+holder=454500
+}
+1558.1.8={
+	holder=371100 #Henry II
+	liege=k_france
+}
+1559.7.10={
+	holder=375095 #Francis II
+}
+1560.12.5={
+	holder=371693 #Charles IX
+}
+1574.5.30={
+	holder=371694 #Henry III
+}
+1589.8.2={
+	holder=371464 #Henry IV the Great
+}
+1610.5.14={
+	holder=371859 #Louis XIII the Just
+}

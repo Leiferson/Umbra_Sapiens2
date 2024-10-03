@@ -1,0 +1,36 @@
+# 1477 - Ghung
+
+# County Title
+title = c_ghung
+
+# Settlements
+max_settlements = 5
+b_nomchjang = castle
+b_sinkianh = city
+b_cinhghen = city
+b_phiungzjeng = city
+#b_zjengan =
+#b_byungxsin =
+#b_myoxneng =
+#b_pyonneng =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+960.1.1 = {
+build_wonder = wonder_temple_taoist
+set_wonder_stage = 1
+set_wonder_name = SHANGQINGTEMPLE
+set_wonder_description = SHANGQINGTEMPLEDESC
+build_wonder_upgrade = upgrade_custodian_of_temple
+build_wonder_upgrade = upgrade_temple_precinct
+}
+960.1.1 = {
+set_wonder_stage = 3
+}
+1271.1.1 = {
+set_wonder_stage = 4
+}

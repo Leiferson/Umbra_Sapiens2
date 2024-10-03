@@ -1,0 +1,2173 @@
+1019921624={
+	name=Iyahhoutubbe
+	dynasty=1009990184
+	dna="fcbbgaacndo"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=ambitious add_trait=envious add_trait=slothful 
+	add_trait=stressed 
+	720.11.20={ birth=yes }
+	785.5.4={ death=yes }
+}
+1019921625={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990184
+	dna="fceighbcedo"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921624	#Iyahhoutubbe
+	740.1.4={ birth=yes }
+	800.11.22={ death=yes }
+}
+1019921626={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990184
+	dna="ocphgchcjdd"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921624	#Iyahhoutubbe
+	744.11.27={ birth=yes }
+	817.1.8={ death=yes }
+}
+1019921627={
+	name=Inkahyea
+	dynasty=1009990184
+	dna="kbnbjpacnih"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=5 learning=7
+	add_trait=intricate_webweaver add_trait=hedonist add_trait=brave add_trait=slothful 
+	add_trait=cynical 
+	father=1019921624	#Iyahhoutubbe
+	750.1.23={ birth=yes }
+	852.8.27={ death=yes }
+}
+1019921628={
+	name=Untemiahtubbe
+	dynasty=1009990184
+	dna="ghbgdjnccda"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=8 learning=4
+	add_trait=indulgent_wastrel add_trait=greedy add_trait=arbitrary add_trait=content 
+	father=1019921624	#Iyahhoutubbe
+	753.12.26={ birth=yes }
+	823.11.23={ death=yes }
+}
+1019921629={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="kfnfdhncnid"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921627	#Inkahyea
+	779.7.13={ birth=yes }
+	850.11.17={ death=yes }
+}
+1019921630={
+	name=Nuckshopubbe
+	dynasty=1009990184
+	dna="nknnnpainah"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=8 learning=4
+	add_trait=indulgent_wastrel add_trait=cynical  add_trait=content add_trait=proud 
+	add_trait=diligent add_trait=brave 
+	father=1019921627	#Inkahyea
+	783.12.4={ birth=yes }
+	839.9.10={ death=yes }
+}
+1019921631={
+	name=Phalishta
+	female=yes
+	dynasty=1009990184
+	dna="kidbmpaajdo"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921627	#Inkahyea
+	788.12.24={ birth=yes }
+	865.3.19={ death=yes }
+}
+1019921632={
+	name=Fahlahmotubbe
+	dynasty=1009990184
+	dna="kbnijamjpih"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=just add_trait=lustful add_trait=diligent 
+	father=1019921627	#Inkahyea
+	795.3.9={ birth=yes }
+	862.11.22={ death=yes }
+}
+1019921633={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990184
+	dna="nkbnopaonkh"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921630	#Nuckshopubbe
+	809.12.26={ birth=yes }
+	865.1.8={ death=yes }
+}
+1019921634={
+	name=Chewutaha
+	dynasty=1009990184
+	dna="gknndpooenf"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=gluttonous add_trait=trusting add_trait=ambitious add_trait=brave 
+	add_trait=honest 
+	father=1019921630	#Nuckshopubbe
+	814.11.3={ birth=yes }
+	894.6.10={ death=yes }
+}
+1019921635={
+	name=Iyahhoutubbe
+	dynasty=1009990184
+	dna="nennppfmpai"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	add_trait=indulgent_wastrel add_trait=patient add_trait=arbitrary add_trait=cynical 
+	father=1019921630	#Nuckshopubbe
+	820.10.15={ birth=yes }
+	903.12.15={ death=yes }
+}
+1019921636={
+	name=Untihakahtubbe
+	dynasty=1009990184
+	dna="nknbapldnjh"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=impaler add_trait=arbitrary add_trait=greedy add_trait=lustful 
+	father=1019921630	#Nuckshopubbe
+	823.3.15={ birth=yes }
+	894.12.28={ death=yes }
+}
+1019921637={
+	name=Ashalatubbi
+	dynasty=1009990184
+	dna="gknejpbflhd"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=ambitious add_trait=cynical 
+	father=1019921634	#Chewutaha
+	840.7.5={ birth=yes }
+	921.5.29={ death=yes }
+}
+1019921638={
+	name=Ahshacubbe
+	dynasty=1009990184
+	dna="gppedpigedf"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	add_trait=naive_appeaser add_trait=zealous add_trait=just add_trait=chaste add_trait=craven 
+	add_trait=stressed 
+	father=1019921634	#Chewutaha
+	847.2.12={ birth=yes }
+	911.10.17={ death=yes }
+}
+1019921639={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990184
+	dna="gpbgdppccnf"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921634	#Chewutaha
+	854.1.16={ birth=yes }
+	917.3.7={ death=yes }
+}
+1019921640={
+	name=Okelahshapia
+	dynasty=1009990184
+	dna="geimjpbelpc"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=6 learning=7
+	add_trait=tough_soldier add_trait=scholar add_trait=ambitious add_trait=greedy add_trait=wounded 
+	father=1019921637	#Ashalatubbi
+	860.8.14={ birth=yes }
+	959.8.7={ death=yes }
+}
+1019921641={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="gfeedpnilha"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921637	#Ashalatubbi
+	866.2.19={ birth=yes }
+	934.1.1={ death=yes }
+}
+1019921642={
+	name=Eiochetubbe
+	dynasty=1009990184
+	dna="gooehpbfhhj"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=6
+	add_trait=intricate_webweaver add_trait=craven add_trait=arbitrary add_trait=humble add_trait=charitable 
+	add_trait=diligent 
+	father=1019921637	#Ashalatubbi
+	870.5.15={ birth=yes }
+	927.5.27={ death=yes }
+}
+1019921643={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="bmfnjpbflkp"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921637	#Ashalatubbi
+	875.10.14={ birth=yes }
+	961.6.14={ death=yes }
+}
+1019921644={
+	name=Phalishta
+	female=yes
+	dynasty=1009990184
+	dna="kknohphflhj"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921637	#Ashalatubbi
+	881.12.5={ birth=yes }
+	947.5.6={ death=yes }
+}
+1019921645={
+	name=Phalishta
+	female=yes
+	dynasty=1009990184
+	dna="gkcehpbflho"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921637	#Ashalatubbi
+	886.4.23={ birth=yes }
+	946.2.14={ death=yes }
+}
+1019921646={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="nlnnjpbnlhd"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921637	#Ashalatubbi
+	893.4.16={ birth=yes }
+	950.6.10={ death=yes }
+}
+1019921647={
+	name=Inkahyea
+	dynasty=1009990184
+	dna="geimeabblpc"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	add_trait=intricate_webweaver add_trait=diligent add_trait=envious add_trait=gluttonous add_trait=wroth 
+	add_trait=brave add_trait=honest 
+	father=1019921640	#Okelahshapia
+	885.12.11={ birth=yes }
+	945.11.28={ death=yes }
+}
+1019921648={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990184
+	dna="gkimjpmflpp"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921640	#Okelahshapia
+	891.5.9={ birth=yes }
+	983.7.11={ death=yes }
+}
+1019921649={
+	name=Emubby
+	dynasty=1009990184
+	dna="jeiaepjjpnp"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=duelist add_trait=greedy add_trait=chaste add_trait=envious 
+	father=1019921640	#Okelahshapia
+	895.4.2={ birth=yes }
+	968.8.2={ death=yes }
+}
+1019921650={
+	name=Tahhacubbe
+	dynasty=1009990184
+	dna="ghimedgblaf"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=grey_eminence add_trait=zealous add_trait=gluttonous add_trait=gregarious add_trait=craven 
+	add_trait=possessed 
+	father=1019921647	#Inkahyea
+	904.5.1={ birth=yes }
+	981.1.27={ death=yes }
+}
+1019921651={
+	name=Foluttachah
+	dynasty=1009990184
+	dna="gehjehbjlpc"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	add_trait=grey_eminence add_trait=gluttonous add_trait=honest add_trait=proud add_trait=wounded 
+	father=1019921647	#Inkahyea
+	910.9.6={ birth=yes }
+	977.9.10={ death=yes }
+}
+1019921652={
+	name=Cochubbe
+	dynasty=1009990184
+	dna="eepdpapbcol"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=5 learning=8
+	add_trait=misguided_warrior add_trait=temperate add_trait=deceitful add_trait=craven add_trait=charitable 
+	add_trait=trusting add_trait=ill 
+	father=1019921647	#Inkahyea
+	916.10.12={ birth=yes }
+	999.6.10={ death=yes }
+}
+1019921653={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="ieciiphaldc"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921647	#Inkahyea
+	922.6.9={ birth=yes }
+	983.11.11={ death=yes }
+}
+1019921654={
+	name=Yummotubbe
+	dynasty=1009990184
+	dna="pljdednjknf"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=lustful add_trait=zealous add_trait=content add_trait=temperate 
+	father=1019921650	#Tahhacubbe
+	929.5.1={ birth=yes }
+	996.11.5={ death=yes }
+}
+1019921655={
+	name=Topulkah
+	dynasty=1009990184
+	dna="chileeghlaf"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=5 learning=8
+	add_trait=tough_soldier add_trait=temperate add_trait=content 
+	father=1019921650	#Tahhacubbe
+	933.2.25={ birth=yes }
+	1005.11.7={ death=yes }
+}
+1019921656={
+	name=Ahfahmah
+	dynasty=1009990184
+	dna="hlldmdnjkeo"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=envious add_trait=temperate add_trait=deceitful 
+	add_trait=proud 
+	father=1019921654	#Yummotubbe
+	962.10.14={ birth=yes }
+	1047.1.3={ death=yes }
+}
+1019921657={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990184
+	dna="naljedkjkph"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921654	#Yummotubbe
+	969.5.18={ birth=yes }
+	1045.4.1={ death=yes }
+}
+1019921658={
+	name=Iyahhoutubbe
+	dynasty=1009990184
+	dna="gbjcgdejknn"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=8 learning=6
+	add_trait=intricate_webweaver add_trait=paranoid add_trait=brave add_trait=gluttonous add_trait=patient 
+	father=1019921654	#Yummotubbe
+	975.9.10={ birth=yes }
+	1039.6.22={ death=yes }
+}
+1019921659={
+	name=Bahmahahtubbe
+	dynasty=1009990184
+	dna="pljheeloknn"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=content add_trait=proud add_trait=gluttonous add_trait=gregarious 
+	father=1019921654	#Yummotubbe
+	978.8.22={ birth=yes }
+	1029.3.22={ death=yes }
+}
+1019921660={
+	name=Phalishta
+	female=yes
+	dynasty=1009990184
+	dna="hlldmhnckea"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921656	#Ahfahmah
+	989.8.15={ birth=yes }
+	1061.12.14={ death=yes }
+}
+1019921661={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="hlldjdnjeah"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921656	#Ahfahmah
+	993.11.20={ birth=yes }
+	1073.2.2={ death=yes }
+}
+1019921662={
+	name=Inkahyea
+	dynasty=1009990184
+	dna="hlldmdnoofl"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=humble add_trait=shy add_trait=gluttonous 
+	father=1019921656	#Ahfahmah
+	999.7.15={ birth=yes }
+	1062.7.31={ death=yes }
+}
+1019921663={
+	name=Phalishta
+	female=yes
+	dynasty=1009990184
+	dna="hbdnebnjkeo"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921656	#Ahfahmah
+	1003.3.25={ birth=yes }
+	1101.5.16={ death=yes }
+}
+1019921664={
+	name=Yummotubbe
+	dynasty=1009990184
+	dna="eohkpdbakai"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	add_trait=elusive_shadow add_trait=cynical add_trait=charitable  
+	add_trait=arbitrary add_trait=wounded 
+	father=1019921656	#Ahfahmah
+	1007.4.14={ birth=yes }
+	1068.6.17={ death=yes }
+}
+1019921665={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990184
+	dna="hlldpdpfknp"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921656	#Ahfahmah
+	1011.9.13={ birth=yes }
+	1097.9.23={ death=yes }
+}
+1019921666={
+	name=Bahhakahtubbe
+	dynasty=1009990184
+	dna="oiljkhejkjb"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=4 learning=6
+	add_trait=elusive_shadow add_trait=charitable add_trait=content add_trait=paranoid add_trait=shy 
+	add_trait=cynical 
+	father=1019921656	#Ahfahmah
+	1015.3.25={ birth=yes }
+	1104.11.15={ death=yes }
+}
+1019921667={
+	name=Okelahshapia
+	dynasty=1009990184
+	dna="hlldkdnogal"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=paranoid add_trait=charitable add_trait=diligent add_trait=brave 
+	add_trait=wroth 
+	father=1019921662	#Inkahyea
+	1026.9.26={ birth=yes }
+	1086.12.30={ death=yes }
+}
+1019921668={
+	name=Wininapa
+	dynasty=1009990184
+	dna="hllgcdcoofl"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=scholar add_trait=trusting add_trait=just 
+	father=1019921662	#Inkahyea
+	1033.1.8={ birth=yes }
+	1128.8.24={ death=yes }
+}
+1019921669={
+	name=Phalishta
+	female=yes
+	dynasty=1009990184
+	dna="hlggmdfnbfg"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921662	#Inkahyea
+	1039.11.6={ birth=yes }
+	1109.3.14={ death=yes }
+}
+1019921670={
+	name=Tishomingo
+	dynasty=1009990184
+	dna="kladadnnagl"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=7
+	add_trait=misguided_warrior add_trait=impaler add_trait=diligent add_trait=chaste 
+	add_trait=patient add_trait=gregarious 
+	father=1019921667	#Okelahshapia
+	1046.11.26={ birth=yes }
+	1122.8.13={ death=yes }
+}
+1019921671={
+	name=Bahhakahtubbe
+	dynasty=1009990184
+	dna="mcfbkaoogoh"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=8 learning=7
+	add_trait=naive_appeaser add_trait=envious add_trait=arbitrary add_trait=lustful 
+	add_trait=wroth 
+	father=1019921667	#Okelahshapia
+	1049.1.3={ birth=yes }
+	1150.4.29={ death=yes }
+}
+1019921672={
+	name=Ishteahtubbe
+	dynasty=1009990184
+	dna="hjbdkmplcal"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=7 learning=7
+	add_trait=scholarly_theologian add_trait=greedy add_trait=gluttonous add_trait=shy 
+	father=1019921667	#Okelahshapia
+	1054.8.14={ birth=yes }
+	1111.6.18={ death=yes }
+}
+1019921673={
+	name=Shoppowme
+	dynasty=1009990184
+	dna="lkldddnjgkl"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=6 learning=7
+	add_trait=naive_appeaser add_trait=diligent add_trait=cynical add_trait=shy add_trait=proud 
+	father=1019921667	#Okelahshapia
+	1058.6.26={ birth=yes }
+	1128.8.28={ death=yes }
+}
+1019921674={
+	name=Immahhoolotubbe
+	dynasty=1009990184
+	dna="hllbkdbogap"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=7 learning=7
+	add_trait=elusive_shadow add_trait=craven add_trait=cynical 
+	father=1019921667	#Okelahshapia
+	1062.2.11={ birth=yes }
+	1125.6.27={ death=yes }
+}
+1019921675={
+	name=Emubby
+	dynasty=1009990184
+	dna="mlfhmdnolal"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=4 learning=7
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=proud add_trait=chaste add_trait=gregarious 
+	father=1019921667	#Okelahshapia
+	1067.9.21={ birth=yes }
+	1120.8.5={ death=yes }
+}
+1019921676={
+	name=Okelahnahnubbe
+	dynasty=1009990184
+	dna="klaffdjnacc"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=8 learning=8
+	add_trait=tough_soldier add_trait=content 
+	father=1019921670	#Tishomingo
+	1077.3.24={ birth=yes }
+	1141.5.17={ death=yes }
+}
+1019921677={
+	name=Okelahshapia
+	dynasty=1009990184
+	dna="nhkgnhbpagl"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	add_trait=midas_touched add_trait=gregarious add_trait=trusting add_trait=wroth 
+	father=1019921670	#Tishomingo
+	1083.11.5={ birth=yes }
+	1145.3.4={ death=yes }
+}
+1019921678={
+	name=Mintahoye
+	female=yes
+	dynasty=1009990184
+	dna="kladadeddgl"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921670	#Tishomingo
+	1088.9.1={ birth=yes }
+	1149.9.7={ death=yes }
+}
+1019921679={
+	name=Phalishta
+	female=yes
+	dynasty=1009990184
+	dna="bbmdignmefl"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921670	#Tishomingo
+	1091.7.27={ birth=yes }
+	1177.10.11={ death=yes }
+}
+1019921680={
+	name=Mintahoye
+	female=yes
+	dynasty=1009990184
+	dna="alcgkdoladl"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921670	#Tishomingo
+	1095.2.3={ birth=yes }
+	1185.8.30={ death=yes }
+}
+1019921681={
+	name=Okelahshahcubbe
+	dynasty=1009990184
+	dna="klakoddgfml"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=7
+	add_trait=martial_cleric add_trait=humble add_trait=just add_trait=deceitful 
+	add_trait=ambitious 
+	father=1019921670	#Tishomingo
+	1101.2.23={ birth=yes }
+	1184.6.14={ death=yes }
+}
+1019921682={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990184
+	dna="kgakjonhajl"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921670	#Tishomingo
+	1105.8.25={ birth=yes }
+	1188.1.27={ death=yes }
+}
+1019921683={
+	name=Topulkah
+	dynasty=1009990184
+	dna="gonphpcnahc"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=7 learning=6
+	add_trait=grey_eminence add_trait=gluttonous add_trait=craven add_trait=paranoid add_trait=gregarious 
+	father=1019921676	#Okelahnahnubbe
+	1099.9.10={ birth=yes }
+	1176.5.20={ death=yes }
+}
+1019921684={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="klaffkjnacp"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921676	#Okelahnahnubbe
+	1105.12.6={ birth=yes }
+	1142.8.18={ death=yes }
+}
+1019921685={
+	name=Pistahlahtubee
+	dynasty=1009990184
+	dna="ohneamjhacc"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=8
+	add_trait=scholarly_theologian add_trait=honest add_trait=paranoid add_trait=brave add_trait=diligent 
+	add_trait=chaste add_trait=arbitrary 
+	father=1019921676	#Okelahnahnubbe
+	1108.8.21={ birth=yes }
+	1162.4.6={ death=yes }
+}
+1019921686={
+	name=Ahtakintubbe
+	dynasty=1009990184
+	dna="pcdfcdecafl"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=4 learning=4
+	add_trait=intricate_webweaver add_trait=deceitful add_trait=content add_trait=craven add_trait=greedy 
+	add_trait=gregarious add_trait=diligent 
+	father=1019921676	#Okelahnahnubbe
+	1111.11.27={ birth=yes }
+	1184.2.2={ death=yes }
+}
+1019921687={
+	name=Tootemastubbe
+	dynasty=1009990184
+	dna="pjmphnbmahc"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=zealous add_trait=brave 
+	father=1019921683	#Topulkah
+	1126.11.24={ birth=yes }
+	1191.1.28={ death=yes }
+}
+1019921688={
+	name=Emubby
+	dynasty=1009990184
+	dna="gplghpcaahi"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=5 learning=4
+	add_trait=martial_cleric add_trait=brave add_trait=wroth add_trait=content add_trait=shy 
+	add_trait=charitable add_trait=diligent add_trait=wounded 
+	father=1019921683	#Topulkah
+	1131.11.1={ birth=yes }
+	1196.7.16={ death=yes }
+}
+1019921689={
+	name=Bahmehubbe
+	dynasty=1009990184
+	dna="mkbpkmnnafc"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=mystic add_trait=gregarious add_trait=lustful add_trait=trusting 
+	add_trait=brave 
+	father=1019921683	#Topulkah
+	1135.3.25={ birth=yes }
+	1193.10.5={ death=yes }
+}
+1019921690={
+	name=Mintahoye
+	female=yes
+	dynasty=1009990184
+	dna="ghnpgfcnahp"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921683	#Topulkah
+	1138.4.14={ birth=yes }
+	1223.4.23={ death=yes }
+}
+1019921691={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990184
+	dna="njdapnhhfca"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921687	#Tootemastubbe
+	1151.8.7={ birth=yes }
+	1225.8.28={ death=yes }
+}
+1019921692={
+	name=Untemiahtubbe
+	dynasty=1009990184
+	dna="ljmphngmnap"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=5 learning=6
+	add_trait=midas_touched add_trait=temperate add_trait=trusting add_trait=just 
+	father=1019921687	#Tootemastubbe
+	1156.12.25={ birth=yes }
+	1242.1.7={ death=yes }
+}
+1019921693={
+	name=Latopoia
+	dynasty=1009990184
+	dna="bjmohlfmchc"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=envious add_trait=slothful 
+	father=1019921687	#Tootemastubbe
+	1162.12.9={ birth=yes }
+	1225.4.13={ death=yes }
+}
+1019921694={
+	name=Iyahhoutubbe
+	dynasty=1009990184
+	dna="bjmphpglnjj"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=envious add_trait=arbitrary add_trait=slothful add_trait=chaste 
+	add_trait=drunkard 
+	father=1019921692	#Untemiahtubbe
+	1188.4.8={ birth=yes }
+	1266.8.18={ death=yes }
+}
+1019921695={
+	name=Mintahoye
+	female=yes
+	dynasty=1009990184
+	dna="lhmppnjmnap"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921692	#Untemiahtubbe
+	1194.7.6={ birth=yes }
+	1264.7.8={ death=yes }
+}
+1019921696={
+	name=Okelahhinlubbe
+	dynasty=1009990184
+	dna="edmpocemljj"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	add_trait=flamboyant_schemer add_trait=zealous add_trait=brave add_trait=trusting 
+	add_trait=envious add_trait=chaste 
+	father=1019921694	#Iyahhoutubbe
+	1212.7.4={ birth=yes }
+	1274.10.31={ death=yes }
+}
+1019921697={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990184
+	dna="abmphpppnkj"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921694	#Iyahhoutubbe
+	1218.2.18={ birth=yes }
+	1319.9.21={ death=yes }
+}
+1019921698={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="bjjfhpgnnjj"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921694	#Iyahhoutubbe
+	1225.11.16={ birth=yes }
+	1300.3.4={ death=yes }
+}
+1019921699={
+	name=Chickahshananubbe
+	dynasty=1009990184
+	dna="njmphpplnje"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	add_trait=intricate_webweaver add_trait=poet add_trait=envious add_trait=ambitious 
+	father=1019921694	#Iyahhoutubbe
+	1228.9.18={ birth=yes }
+	1278.1.8={ death=yes }
+}
+1019921700={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="aomfmpglnjg"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921694	#Iyahhoutubbe
+	1234.12.13={ birth=yes }
+	1309.1.15={ death=yes }
+}
+1019921701={
+	name=Conmushkaishkah
+	dynasty=1009990184
+	dna="bddgogbmlpf"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	add_trait=elusive_shadow add_trait=scholar add_trait=cynical add_trait=charitable 
+	add_trait=wounded 
+	father=1019921696	#Okelahhinlubbe
+	1243.10.24={ birth=yes }
+	1288.7.5={ death=yes }
+}
+1019921702={
+	name=Conmushkaishkah
+	dynasty=1009990184
+	dna="edapocgmcbg"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=content add_trait=arbitrary add_trait=slothful add_trait=deceitful 
+	add_trait=drunkard 
+	father=1019921696	#Okelahhinlubbe
+	1248.2.10={ birth=yes }
+	1330.12.9={ death=yes }
+}
+1019921703={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="ednjocpmlne"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921696	#Okelahhinlubbe
+	1251.6.7={ birth=yes }
+	1307.2.18={ death=yes }
+}
+1019921704={
+	name=Illuppahhumba
+	dynasty=1009990184
+	dna="ediokpeoecj"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=5
+	add_trait=charismatic_negotiator add_trait=mystic add_trait=gregarious add_trait=paranoid 
+	father=1019921696	#Okelahhinlubbe
+	1255.9.12={ birth=yes }
+	1333.10.19={ death=yes }
+}
+1019921705={
+	name=Ohhacubbe
+	dynasty=1009990184
+	dna="pdbapcemjjj"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=8 learning=8
+	add_trait=mastermind_theologian add_trait=celibate add_trait=arbitrary add_trait=cynical add_trait=trusting 
+	add_trait=slow 
+	father=1019921696	#Okelahhinlubbe
+	1258.5.26={ birth=yes }
+	1322.8.31={ death=yes }
+}
+1019921706={
+	name=Okelahnahnubbe
+	dynasty=1009990184
+	dna="hidgahchgpf"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	add_trait=grey_eminence add_trait=slothful add_trait=trusting add_trait=lunatic 
+	father=1019921701	#Conmushkaishkah
+	1270.1.24={ birth=yes }
+	1337.6.6={ death=yes }
+}
+1019921707={
+	name=Mintahoye
+	female=yes
+	dynasty=1009990184
+	dna="bkdgngnmjff"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921701	#Conmushkaishkah
+	1273.9.14={ birth=yes }
+	1344.9.30={ death=yes }
+}
+1019921708={
+	name=Untemiahtubbe
+	dynasty=1009990184
+	dna="plhgkgeallg"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=humble add_trait=cynical add_trait=lustful add_trait=ambitious 
+	add_trait=charitable add_trait=wounded 
+	father=1019921701	#Conmushkaishkah
+	1277.6.9={ birth=yes }
+	1344.4.23={ death=yes }
+}
+1019921709={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990184
+	dna="bdlkgmpmlap"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921701	#Conmushkaishkah
+	1283.1.16={ birth=yes }
+	1372.1.20={ death=yes }
+}
+1019921710={
+	name=Inkahyea
+	dynasty=1009990184
+	dna="dddnogdmapd"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=7 learning=8
+	add_trait=charismatic_negotiator add_trait=lustful add_trait=gluttonous add_trait=content 
+	father=1019921701	#Conmushkaishkah
+	1289.1.18={ birth=yes }
+	1352.4.5={ death=yes }
+}
+1019921711={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990184
+	dna="maoeajehgdf"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921706	#Okelahnahnubbe
+	1297.10.6={ birth=yes }
+	1373.8.22={ death=yes }
+}
+1019921712={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990184
+	dna="efgkahchgpf"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921706	#Okelahnahnubbe
+	1300.3.18={ birth=yes }
+	1358.1.4={ death=yes }
+}
+1019921713={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990184
+	dna="hidgaohhnmf"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921706	#Okelahnahnubbe
+	1305.3.27={ birth=yes }
+	1365.3.11={ death=yes }
+}
+1019921714={
+	name=Mintahoye
+	female=yes
+	dynasty=1009990184
+	dna="nidgahohicl"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921706	#Okelahnahnubbe
+	1312.8.9={ birth=yes }
+	1376.2.13={ death=yes }
+}
+1019921715={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="hiijnckohdb"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921706	#Okelahnahnubbe
+	1314.6.6={ birth=yes }
+	1369.7.1={ death=yes }
+}
+1019921716={
+	name=Piomingo
+	dynasty=1009990184
+	dna="hadgklfhpef"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=7 learning=6
+	add_trait=thrifty_clerk add_trait=lustful add_trait=patient add_trait=craven 
+	add_trait=just add_trait=depressed 
+	father=1019921706	#Okelahnahnubbe
+	1318.7.10={ birth=yes }
+	1383.4.13={ death=yes }
+}
+1019921717={
+	name=Illuppahhumba
+	dynasty=1009990184
+	dna="ggionlchphm"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=wroth add_trait=arbitrary add_trait=craven 
+	father=1019921716	#Piomingo
+	1348.5.19={ birth=yes }
+	1426.7.24={ death=yes }
+}
+1019921718={
+	name=Immohhobah
+	dynasty=1009990184
+	dna="fkigbllhpeb"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=tough_soldier add_trait=patient add_trait=craven add_trait=paranoid add_trait=chaste 
+	add_trait=greedy 
+	father=1019921716	#Piomingo
+	1353.2.27={ birth=yes }
+	1428.4.27={ death=yes }
+}
+1019921719={
+	name=Ishteahtubbe
+	dynasty=1009990184
+	dna="badgklohjlb"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=8 learning=4
+	add_trait=thrifty_clerk add_trait=arbitrary add_trait=slothful add_trait=temperate 
+	father=1019921716	#Piomingo
+	1357.7.5={ birth=yes }
+	1438.4.6={ death=yes }
+}
+1019921720={
+	name=Iyahhoutubbe
+	dynasty=1009990184
+	dna="hadejcchalk"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=paranoid add_trait=chaste add_trait=envious add_trait=diligent 
+	father=1019921716	#Piomingo
+	1362.2.13={ birth=yes }
+	1426.4.13={ death=yes }
+}
+1019921721={
+	name=Latopoia
+	dynasty=1009990184
+	dna="kcmonbcbpfh"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=intricate_webweaver add_trait=hedonist add_trait=brave add_trait=chaste add_trait=gregarious 
+	father=1019921717	#Illuppahhumba
+	1376.5.6={ birth=yes }
+	1464.3.1={ death=yes }
+}
+1019921722={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990184
+	dna="ieiofodbbfj"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921717	#Illuppahhumba
+	1380.2.10={ birth=yes }
+	1462.8.17={ death=yes }
+}
+1019921723={
+	name=Fitchahpla
+	dynasty=1009990184
+	dna="mldbllndphm"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=8 learning=5
+	add_trait=indulgent_wastrel add_trait=wroth add_trait=humble add_trait=envious add_trait=just 
+	add_trait=chaste 
+	father=1019921717	#Illuppahhumba
+	1388.6.15={ birth=yes }
+	1463.2.26={ death=yes }
+}
+1019921724={
+	name=Bahhakahtubbe
+	dynasty=1009990184
+	dna="kccokhfbakh"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	add_trait=skilled_tactician add_trait=paranoid add_trait=proud add_trait=just 
+	father=1019921721	#Latopoia
+	1398.6.9={ birth=yes }
+	1459.1.29={ death=yes }
+}
+1019921725={
+	name=Immetubbe
+	dynasty=1009990184
+	dna="cmoogjabbfh"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=7 learning=5
+	add_trait=grey_eminence  add_trait=shy add_trait=zealous add_trait=trusting 
+	add_trait=chaste add_trait=lunatic add_trait=fair 
+	father=1019921721	#Latopoia
+	1403.3.7={ birth=yes }
+	1482.9.25={ death=yes }
+}
+1019921726={
+	name=Phalishta
+	female=yes
+	dynasty=1009990184
+	dna="nemongmbcnb"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921721	#Latopoia
+	1408.6.17={ birth=yes }
+	1485.8.12={ death=yes }
+}
+1019921727={
+	name=Mintahoye
+	female=yes
+	dynasty=1009990184
+	dna="kpmfmclbohh"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921721	#Latopoia
+	1416.6.13={ birth=yes }
+	1483.5.22={ death=yes }
+}
+1019921728={
+	name=Hushtahtahubbe
+	dynasty=1009990185
+	dna="pkgkeabfhmb"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	add_trait=grey_eminence add_trait=mystic add_trait=ambitious add_trait=greedy add_trait=just 
+	720.4.4={ birth=yes }
+	775.7.6={ death=yes }
+}
+1019921729={
+	name=Ahtokowah
+	dynasty=1009990185
+	dna="pjgoegbfhmb"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=cynical add_trait=gluttonous add_trait=patient add_trait=content 
+	add_trait=depressed 
+	father=1019921728	#Hushtahtahubbe
+	745.10.21={ birth=yes }
+	831.10.3={ death=yes }
+}
+1019921730={
+	name=Taskietoka
+	dynasty=1009990185
+	dna="akgkhplfemj"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=lustful add_trait=gregarious add_trait=temperate add_trait=proud 
+	add_trait=trusting add_trait=drunkard 
+	father=1019921728	#Hushtahtahubbe
+	749.11.22={ birth=yes }
+	807.3.13={ death=yes }
+}
+1019921731={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990185
+	dna="pjmmcgcifmc"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921729	#Ahtokowah
+	769.12.27={ birth=yes }
+	830.7.18={ death=yes }
+}
+1019921732={
+	name=Okelahshahcubbe
+	dynasty=1009990185
+	dna="hpbofdbbmod"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=hedonist add_trait=paranoid add_trait=content add_trait=zealous 
+	add_trait=charitable 
+	father=1019921729	#Ahtokowah
+	776.11.7={ birth=yes }
+	881.8.27={ death=yes }
+}
+1019921733={
+	name=Ishteahtubbe
+	dynasty=1009990185
+	dna="pegkkgkfhfg"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=mastermind_theologian add_trait=wroth add_trait=greedy add_trait=arbitrary add_trait=shy 
+	father=1019921729	#Ahtokowah
+	782.4.4={ birth=yes }
+	860.4.22={ death=yes }
+}
+1019921734={
+	name=Taskietoka
+	dynasty=1009990185
+	dna="cpbefdbbjog"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	add_trait=tough_soldier add_trait=greedy add_trait=wroth  
+	father=1019921732	#Okelahshahcubbe
+	799.2.18={ birth=yes }
+	856.5.7={ death=yes }
+}
+1019921735={
+	name=Bahmehubbe
+	dynasty=1009990185
+	dna="hpgohebbbke"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=7 learning=5
+	add_trait=intricate_webweaver add_trait=shy add_trait=just add_trait=zealous add_trait=humble 
+	add_trait=envious 
+	father=1019921732	#Okelahshahcubbe
+	806.5.24={ birth=yes }
+	884.9.26={ death=yes }
+}
+1019921736={
+	name=Phalishta
+	female=yes
+	dynasty=1009990185
+	dna="fboofdbbmnn"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921732	#Okelahshahcubbe
+	812.1.7={ birth=yes }
+	867.2.28={ death=yes }
+}
+1019921737={
+	name=Ohhacubbe
+	dynasty=1009990185
+	dna="hpboedkbmed"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=envious add_trait=patient add_trait=arbitrary add_trait=trusting 
+	add_trait=stressed 
+	father=1019921732	#Okelahshahcubbe
+	818.10.9={ birth=yes }
+	899.9.29={ death=yes }
+}
+1019921738={
+	name=Phalishta
+	female=yes
+	dynasty=1009990185
+	dna="mpkefcndkof"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921734	#Taskietoka
+	828.1.10={ birth=yes }
+	892.4.25={ death=yes }
+}
+1019921739={
+	name=Tahhacubbe
+	dynasty=1009990185
+	dna="cpheccbgjog"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=5 learning=4
+	add_trait=thrifty_clerk add_trait=content add_trait=envious add_trait=trusting add_trait=depressed 
+	father=1019921734	#Taskietoka
+	832.3.22={ birth=yes }
+	903.2.20={ death=yes }
+}
+1019921740={
+	name=Ahfahmah
+	dynasty=1009990185
+	dna="cpbbfdfljoa"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=deceitful  add_trait=humble 
+	father=1019921734	#Taskietoka
+	837.2.26={ birth=yes }
+	889.7.10={ death=yes }
+}
+1019921741={
+	name=Ashalatubbi
+	dynasty=1009990185
+	dna="cgbefpbedbi"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=7
+	add_trait=charismatic_negotiator add_trait=brave add_trait=deceitful  add_trait=trusting 
+	add_trait=proud 
+	father=1019921734	#Taskietoka
+	840.3.16={ birth=yes }
+	907.3.2={ death=yes }
+}
+1019921742={
+	name=Immetubbe
+	dynasty=1009990185
+	dna="pfilednbpom"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=cynical add_trait=craven add_trait=arbitrary add_trait=chaste 
+	father=1019921734	#Taskietoka
+	847.8.6={ birth=yes }
+	924.8.26={ death=yes }
+}
+1019921743={
+	name=Untihakahtubbe
+	dynasty=1009990185
+	dna="mjkdccpglom"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=temperate add_trait=zealous add_trait=chaste add_trait=craven 
+	
+	father=1019921739	#Tahhacubbe
+	857.6.9={ birth=yes }
+	924.10.27={ death=yes }
+}
+1019921744={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990185
+	dna="cpheclpcjdg"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921739	#Tahhacubbe
+	862.3.6={ birth=yes }
+	958.3.20={ death=yes }
+}
+1019921745={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990185
+	dna="chhgifigkkg"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921739	#Tahhacubbe
+	864.10.24={ birth=yes }
+	945.11.20={ death=yes }
+}
+1019921746={
+	name=Ahfahmah
+	dynasty=1009990185
+	dna="epieccjicme"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=8 learning=5
+	add_trait=mastermind_theologian add_trait=celibate add_trait=honest add_trait=charitable add_trait=ambitious 
+	 
+	father=1019921739	#Tahhacubbe
+	871.3.1={ birth=yes }
+	931.10.24={ death=yes }
+}
+1019921747={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990185
+	dna="bihekcbgpoe"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921739	#Tahhacubbe
+	873.8.19={ birth=yes }
+	950.11.6={ death=yes }
+}
+1019921748={
+	name=Ahfahmah
+	dynasty=1009990185
+	dna="kjolecpgdkk"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=8 learning=8
+	add_trait=grey_eminence add_trait=poet add_trait=diligent add_trait=zealous add_trait=craven 
+	add_trait=trusting add_trait=deceitful 
+	father=1019921743	#Untihakahtubbe
+	888.9.12={ birth=yes }
+	963.3.17={ death=yes }
+}
+1019921749={
+	name=Fitchahpla
+	dynasty=1009990185
+	dna="apkdhcpppom"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=7 learning=6
+	add_trait=detached_priest add_trait=gardener add_trait=chaste add_trait=honest add_trait=diligent 
+	add_trait=craven 
+	father=1019921743	#Untihakahtubbe
+	892.3.11={ birth=yes }
+	975.8.5={ death=yes }
+}
+1019921750={
+	name=Phalishta
+	female=yes
+	dynasty=1009990185
+	dna="mjkdcgpgkol"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921743	#Untihakahtubbe
+	898.11.23={ birth=yes }
+	973.4.24={ death=yes }
+}
+1019921751={
+	name=Cochubbe
+	dynasty=1009990185
+	dna="mdhdclfglok"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=6
+	add_trait=martial_cleric add_trait=ambitious add_trait=proud add_trait=deceitful add_trait=craven 
+	father=1019921743	#Untihakahtubbe
+	901.12.27={ birth=yes }
+	958.12.21={ death=yes }
+}
+1019921752={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990185
+	dna="kokdccpmloe"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921743	#Untihakahtubbe
+	905.6.5={ birth=yes }
+	944.1.10={ death=yes }
+}
+1019921753={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990185
+	dna="coodcfhkloj"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921743	#Untihakahtubbe
+	910.3.3={ birth=yes }
+	972.10.15={ death=yes }
+}
+1019921754={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990185
+	dna="kjohccpajpg"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921748	#Ahfahmah
+	913.6.1={ birth=yes }
+	987.8.8={ death=yes }
+}
+1019921755={
+	name=Ninuckahumba
+	dynasty=1009990185
+	dna="kgmlhcpffie"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=craven add_trait=paranoid add_trait=just 
+	father=1019921748	#Ahfahmah
+	917.12.22={ birth=yes }
+	1006.12.27={ death=yes }
+}
+1019921756={
+	name=Ishtimolutka
+	dynasty=1009990185
+	dna="hgofccccjei"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=impaler add_trait=content add_trait=wroth  
+	father=1019921748	#Ahfahmah
+	921.12.21={ birth=yes }
+	987.4.12={ death=yes }
+}
+1019921757={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990185
+	dna="kjolecagdkk"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921748	#Ahfahmah
+	927.3.16={ birth=yes }
+	988.9.9={ death=yes }
+}
+1019921758={
+	name=Tishomingo
+	dynasty=1009990185
+	dna="klmfhbhdfic"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=7 learning=8
+	add_trait=thrifty_clerk add_trait=trusting add_trait=arbitrary  add_trait=honest 
+	father=1019921755	#Ninuckahumba
+	945.4.19={ birth=yes }
+	1011.1.5={ death=yes }
+}
+1019921759={
+	name=Foluttachah
+	dynasty=1009990185
+	dna="ckmlheplhpe"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	add_trait=mastermind_theologian add_trait=wroth add_trait=temperate add_trait=just 
+	add_trait=trusting add_trait=drunkard 
+	father=1019921755	#Ninuckahumba
+	951.10.7={ birth=yes }
+	1034.12.28={ death=yes }
+}
+1019921760={
+	name=Okelahshahcubbe
+	dynasty=1009990185
+	dna="kgphljplfbj"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=4 learning=5
+	add_trait=flamboyant_schemer  add_trait=patient add_trait=trusting add_trait=possessed 
+	father=1019921755	#Ninuckahumba
+	955.11.7={ birth=yes }
+	1015.5.17={ death=yes }
+}
+1019921761={
+	name=Wininapa
+	dynasty=1009990185
+	dna="kllnndckfic"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=4
+	add_trait=midas_touched add_trait=craven add_trait=content add_trait=zealous add_trait=gluttonous 
+	add_trait=possessed 
+	father=1019921758	#Tishomingo
+	970.10.25={ birth=yes }
+	1049.11.3={ death=yes }
+}
+1019921762={
+	name=Phalishta
+	female=yes
+	dynasty=1009990185
+	dna="mlmfhbedpic"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921758	#Tishomingo
+	977.6.24={ birth=yes }
+	1056.5.28={ death=yes }
+}
+1019921763={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990185
+	dna="flkbhfhdecf"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921758	#Tishomingo
+	981.8.27={ birth=yes }
+	1041.3.14={ death=yes }
+}
+1019921764={
+	name=Mintahoye
+	female=yes
+	dynasty=1009990185
+	dna="kfmlgbhdcig"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921758	#Tishomingo
+	983.12.13={ birth=yes }
+	1040.12.3={ death=yes }
+}
+1019921765={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990185
+	dna="pgnggbfdnpc"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921758	#Tishomingo
+	987.5.22={ birth=yes }
+	1055.9.24={ death=yes }
+}
+1019921766={
+	name=Mingatuska
+	dynasty=1009990185
+	dna="hmbnmghggoc"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=gluttonous add_trait=zealous add_trait=just 
+	add_trait=depressed 
+	father=1019921758	#Tishomingo
+	994.8.18={ birth=yes }
+	1082.3.2={ death=yes }
+}
+1019921767={
+	name=Mingatuska
+	dynasty=1009990185
+	dna="klmfcbhdcif"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=humble add_trait=craven add_trait=deceitful add_trait=paranoid 
+	father=1019921758	#Tishomingo
+	999.12.20={ birth=yes }
+	1036.3.24={ death=yes }
+}
+1019921768={
+	name=Immohhobah
+	dynasty=1009990185
+	dna="elpjndcofia"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=4 learning=5
+	add_trait=flamboyant_schemer add_trait=proud add_trait=chaste add_trait=honest 
+	father=1019921761	#Wininapa
+	995.3.14={ birth=yes }
+	1060.10.20={ death=yes }
+}
+1019921769={
+	name=Ashalatubbi
+	dynasty=1009990185
+	dna="beljncckfic"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	add_trait=grey_eminence add_trait=charitable add_trait=arbitrary 
+	father=1019921761	#Wininapa
+	1000.2.15={ birth=yes }
+	1064.9.19={ death=yes }
+}
+1019921770={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990185
+	dna="kllnnlckfjc"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921761	#Wininapa
+	1006.5.3={ birth=yes }
+	1059.10.22={ death=yes }
+}
+1019921771={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990185
+	dna="kclecdckfnm"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921761	#Wininapa
+	1009.2.7={ birth=yes }
+	1093.6.16={ death=yes }
+}
+1019921772={
+	name=Untihakahtubbe
+	dynasty=1009990185
+	dna="eieemgckgip"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	add_trait=misguided_warrior add_trait=proud  add_trait=chaste 
+	father=1019921768	#Immohhobah
+	1024.12.5={ birth=yes }
+	1096.4.4={ death=yes }
+}
+1019921773={
+	name=Okelahshahcubbe
+	dynasty=1009990185
+	dna="elpmjdoofik"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=5 learning=8
+	add_trait=grey_eminence add_trait=shy add_trait=zealous add_trait=honest add_trait=slothful 
+	father=1019921768	#Immohhobah
+	1029.1.7={ birth=yes }
+	1084.4.29={ death=yes }
+}
+1019921774={
+	name=Phalishta
+	female=yes
+	dynasty=1009990185
+	dna="apjjdbcolia"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921768	#Immohhobah
+	1034.4.1={ birth=yes }
+	1120.10.1={ death=yes }
+}
+1019921775={
+	name=Phalishta
+	female=yes
+	dynasty=1009990185
+	dna="gleajidkijn"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921768	#Immohhobah
+	1040.3.6={ birth=yes }
+	1103.1.23={ death=yes }
+}
+1019921776={
+	name=Immohhobah
+	dynasty=1009990185
+	dna="nleennfofia"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=6 learning=8
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=gregarious add_trait=greedy 
+	add_trait=content add_trait=stressed 
+	father=1019921768	#Immohhobah
+	1045.8.27={ birth=yes }
+	1104.2.21={ death=yes }
+}
+1019921777={
+	name=Phalishta
+	female=yes
+	dynasty=1009990185
+	dna="eieepgcmnij"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921772	#Untihakahtubbe
+	1053.11.16={ birth=yes }
+	1154.10.9={ death=yes }
+}
+1019921778={
+	name=Foluttachah
+	dynasty=1009990185
+	dna="cifemgcngij"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	add_trait=martial_cleric add_trait=ambitious add_trait=trusting add_trait=zealous 
+	father=1019921772	#Untihakahtubbe
+	1057.10.3={ birth=yes }
+	1119.3.6={ death=yes }
+}
+1019921779={
+	name=Untemiahtubbe
+	dynasty=1009990185
+	dna="lmebhdokdnp"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	add_trait=misguided_warrior add_trait=honest add_trait=envious add_trait=ambitious 
+	father=1019921772	#Untihakahtubbe
+	1061.4.19={ birth=yes }
+	1143.4.23={ death=yes }
+}
+1019921780={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990185
+	dna="jilemgckgib"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921772	#Untihakahtubbe
+	1066.5.4={ birth=yes }
+	1110.1.5={ death=yes }
+}
+1019921781={
+	name=Chewutaha
+	dynasty=1009990185
+	dna="jieemgcoklp"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=4 learning=8
+	add_trait=flamboyant_schemer add_trait=impaler add_trait=humble add_trait=envious add_trait=depressed 
+	father=1019921772	#Untihakahtubbe
+	1069.8.1={ birth=yes }
+	1139.10.4={ death=yes }
+}
+1019921782={
+	name=Nuckshopubbe
+	dynasty=1009990185
+	dna="dfiemdfkgjb"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=slothful add_trait=gluttonous add_trait=brave add_trait=humble 
+	add_trait=deceitful 
+	father=1019921772	#Untihakahtubbe
+	1075.10.8={ birth=yes }
+	1135.3.17={ death=yes }
+}
+1019921783={
+	name=Tokholthlachah
+	dynasty=1009990185
+	dna="eiemmhcdpkm"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=7 learning=8
+	add_trait=martial_cleric add_trait=scholar add_trait=brave add_trait=slothful 
+	add_trait=zealous add_trait=possessed 
+	father=1019921772	#Untihakahtubbe
+	1077.5.4={ birth=yes }
+	1129.8.25={ death=yes }
+}
+1019921784={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990185
+	dna="gkkejgfegij"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921778	#Foluttachah
+	1077.9.24={ birth=yes }
+	1137.5.13={ death=yes }
+}
+1019921785={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990185
+	dna="ciefagcmoip"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921778	#Foluttachah
+	1082.12.16={ birth=yes }
+	1167.4.23={ death=yes }
+}
+1019921786={
+	name=Ishteahtubbe
+	dynasty=1009990185
+	dna="pifamncngpl"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=4 learning=8
+	add_trait=grey_eminence add_trait=envious add_trait=paranoid add_trait=chaste add_trait=content 
+	father=1019921778	#Foluttachah
+	1088.6.27={ birth=yes }
+	1161.1.30={ death=yes }
+}
+1019921787={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990185
+	dna="hnfemgcndip"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921778	#Foluttachah
+	1092.12.2={ birth=yes }
+	1165.11.8={ death=yes }
+}
+1019921788={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990185
+	dna="difemahnlij"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921778	#Foluttachah
+	1094.4.12={ birth=yes }
+	1168.11.10={ death=yes }
+}
+1019921789={
+	name=Piomingo
+	dynasty=1009990185
+	dna="pijamndagmm"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=patient add_trait=honest add_trait=envious add_trait=diligent 
+	add_trait=drunkard 
+	father=1019921786	#Ishteahtubbe
+	1109.2.25={ birth=yes }
+	1190.9.10={ death=yes }
+}
+1019921790={
+	name=Pistahlahtubee
+	dynasty=1009990185
+	dna="pinahpgnkfo"
+	culture=chickasaw religion=southeast_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=diligent add_trait=trusting add_trait=deceitful add_trait=chaste 
+	 add_trait=ill 
+	father=1019921786	#Ishteahtubbe
+	1115.2.11={ birth=yes }
+	1156.11.4={ death=yes }
+}
+1019921791={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990185
+	dna="jifdkhddgpl"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921786	#Ishteahtubbe
+	1121.5.13={ birth=yes }
+	1174.12.16={ death=yes }
+}
+1019921792={
+	name=Bahhakahtubbe
+	dynasty=1009990185
+	dna="dagfanlphpl"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=deceitful add_trait=chaste add_trait=humble add_trait=greedy 
+	add_trait=zealous 
+	father=1019921786	#Ishteahtubbe
+	1126.2.15={ birth=yes }
+	1203.10.17={ death=yes }
+}
+1019921793={
+	name=Phalishta
+	female=yes
+	dynasty=1009990185
+	dna="nijjmnaigmm"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921789	#Piomingo
+	1141.5.23={ birth=yes }
+	1209.10.9={ death=yes }
+}
+1019921794={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990185
+	dna="fhjalncadmm"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921789	#Piomingo
+	1144.9.10={ birth=yes }
+	1211.11.9={ death=yes }
+}
+1019921795={
+	name=Mingatuska
+	dynasty=1009990185
+	dna="emdaaldagnk"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	add_trait=misguided_warrior add_trait=shy add_trait=humble 
+	father=1019921789	#Piomingo
+	1148.2.27={ birth=yes }
+	1228.6.30={ death=yes }
+}
+1019921796={
+	name=Ashalatubbi
+	dynasty=1009990185
+	dna="elfoaldagbf"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=6 learning=7
+	add_trait=flamboyant_schemer add_trait=hedonist add_trait=honest add_trait=gregarious add_trait=brave 
+	add_trait=greedy add_trait=gluttonous add_trait=depressed 
+	father=1019921795	#Mingatuska
+	1176.8.19={ birth=yes }
+	1263.1.7={ death=yes }
+}
+1019921797={
+	name=Phalishta
+	female=yes
+	dynasty=1009990185
+	dna="epfhdlnaepe"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921795	#Mingatuska
+	1180.8.7={ birth=yes }
+	1261.11.16={ death=yes }
+}
+1019921798={
+	name=Taskietoka
+	dynasty=1009990185
+	dna="hnfoaldaglb"
+	culture=chickasaw religion=southeast_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=7 learning=5
+	add_trait=scholarly_theologian add_trait=ambitious add_trait=greedy add_trait=just 
+	father=1019921796	#Ashalatubbi
+	1205.6.14={ birth=yes }
+	1270.10.25={ death=yes }
+}
+1019921799={
+	name=Mintahoye
+	female=yes
+	dynasty=1009990185
+	dna="nbfeafngcbh"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921796	#Ashalatubbi
+	1209.10.25={ birth=yes }
+	1260.9.10={ death=yes }
+}
+1019921800={
+	name=Topulkah
+	dynasty=1009990185
+	dna="dojopldegni"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	add_trait=charismatic_negotiator add_trait=hunter add_trait=honest add_trait=diligent add_trait=zealous 
+	father=1019921798	#Taskietoka
+	1232.7.4={ birth=yes }
+	1290.8.11={ death=yes }
+}
+1019921801={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990185
+	dna="hlfealdanlb"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921798	#Taskietoka
+	1235.6.15={ birth=yes }
+	1312.4.1={ death=yes }
+}
+1019921802={
+	name=Kinhoicha
+	dynasty=1009990185
+	dna="hnfongmadcb"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=7
+	add_trait=detached_priest add_trait=ambitious add_trait=honest 
+	father=1019921798	#Taskietoka
+	1238.3.24={ birth=yes }
+	1302.12.23={ death=yes }
+}
+1019921803={
+	name=Phalishta
+	female=yes
+	dynasty=1009990185
+	dna="empimhaaahl"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921798	#Taskietoka
+	1245.10.20={ birth=yes }
+	1315.2.9={ death=yes }
+}
+1019921804={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990185
+	dna="dcempkdeggi"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921800	#Topulkah
+	1261.5.22={ birth=yes }
+	1321.12.4={ death=yes }
+}
+1019921805={
+	name=Bahmehubbe
+	dynasty=1009990185
+	dna="daicefdagnp"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=deceitful add_trait=proud add_trait=chaste add_trait=charitable 
+	father=1019921800	#Topulkah
+	1266.2.11={ birth=yes }
+	1317.10.13={ death=yes }
+}
+1019921806={
+	name=Ohhacubbe
+	dynasty=1009990185
+	dna="aoapaljiopi"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	add_trait=skilled_tactician add_trait=hedonist add_trait=paranoid add_trait=wroth add_trait=chaste 
+	add_trait=content 
+	father=1019921800	#Topulkah
+	1273.9.6={ birth=yes }
+	1338.12.13={ death=yes }
+}
+1019921807={
+	name=Piomingo
+	dynasty=1009990185
+	dna="dinoebdflnp"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=hedonist add_trait=greedy add_trait=zealous 
+	add_trait=arbitrary 
+	father=1019921805	#Bahmehubbe
+	1293.10.10={ birth=yes }
+	1346.12.22={ death=yes }
+}
+1019921808={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990185
+	dna="daicefdpgbp"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921805	#Bahmehubbe
+	1297.12.17={ birth=yes }
+	1358.11.18={ death=yes }
+}
+1019921809={
+	name=Illuppahhumba
+	dynasty=1009990185
+	dna="dhnoebfpine"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=poet add_trait=craven add_trait=lustful 
+	add_trait=proud add_trait=ill 
+	father=1019921807	#Piomingo
+	1325.8.5={ birth=yes }
+	1404.4.27={ death=yes }
+}
+1019921810={
+	name=Illuppahhumba
+	dynasty=1009990185
+	dna="dmcgkoajnnp"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=cynical add_trait=diligent add_trait=charitable add_trait=chaste 
+	father=1019921807	#Piomingo
+	1330.3.13={ birth=yes }
+	1404.7.31={ death=yes }
+}
+1019921811={
+	name=Ishtehotopa
+	dynasty=1009990185
+	dna="eiijgodflnp"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=wroth add_trait=greedy add_trait=zealous add_trait=content 
+	add_trait=ugly 
+	father=1019921807	#Piomingo
+	1335.11.20={ birth=yes }
+	1378.9.25={ death=yes }
+}
+1019921812={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990185
+	dna="mhaleblpine"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921809	#Illuppahhumba
+	1352.8.18={ birth=yes }
+	1427.9.24={ death=yes }
+}
+1019921813={
+	name=Okelahnahnubbe
+	dynasty=1009990185
+	dna="dpnminfnone"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=8
+	add_trait=grey_eminence add_trait=ambitious add_trait=just add_trait=proud add_trait=possessed 
+	father=1019921809	#Illuppahhumba
+	1355.6.1={ birth=yes }
+	1451.3.8={ death=yes }
+}
+1019921814={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990185
+	dna="dflopefjike"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921809	#Illuppahhumba
+	1359.7.1={ birth=yes }
+	1443.12.30={ death=yes }
+}
+1019921815={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990185
+	dna="ninjgdfljnp"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921809	#Illuppahhumba
+	1362.9.22={ birth=yes }
+	1446.7.13={ death=yes }
+}
+1019921816={
+	name=Mintahoyo
+	female=yes
+	dynasty=1009990185
+	dna="dpnmokjnope"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921813	#Okelahnahnubbe
+	1385.4.18={ birth=yes }
+	1448.11.3={ death=yes }
+}
+1019921817={
+	name=Ishtehotopa
+	dynasty=1009990185
+	dna="ddkmdfbenfp"
+	culture=chickasaw religion=southeast_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	add_trait=charismatic_negotiator add_trait=content add_trait=shy  add_trait=humble 
+	father=1019921813	#Okelahnahnubbe
+	1388.9.3={ birth=yes }
+	1460.12.18={ death=yes }
+}
+1019921818={
+	name=Temusharhoctay
+	female=yes
+	dynasty=1009990185
+	dna="dpomilfddne"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921813	#Okelahnahnubbe
+	1396.8.5={ birth=yes }
+	1457.7.30={ death=yes }
+}
+1019921819={
+	name=Tootemastubbe
+	dynasty=1009990185
+	dna="opneknfcogo"
+	culture=chickasaw religion=southeast_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	add_trait=misguided_warrior add_trait=arbitrary add_trait=humble add_trait=shy 
+	add_trait=patient add_trait=lunatic 
+	father=1019921813	#Okelahnahnubbe
+	1402.5.2={ birth=yes }
+	1485.5.10={ death=yes }
+}
+1019921820={
+	name=Chewutaha
+	dynasty=1009990185
+	dna="dlimkfbenfp"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=zealous add_trait=just add_trait=ambitious add_trait=craven 
+	add_trait=ill 
+	father=1019921817	#Ishtehotopa
+	1411.6.1={ birth=yes }
+	1486.10.16={ death=yes }
+}
+1019921821={
+	name=Mintahoye
+	female=yes
+	dynasty=1009990185
+	dna="jppjdfbpckh"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921817	#Ishtehotopa
+	1417.6.25={ birth=yes }
+	1479.1.31={ death=yes }
+}
+1019921822={
+	name=Ishtimmarharlechar
+	female=yes
+	dynasty=1009990185
+	dna="dfdedabenfd"
+	culture=chickasaw religion=southeast_pagan
+	father=1019921817	#Ishtehotopa
+	1420.7.3={ birth=yes }
+	1505.4.9={ death=yes }
+}
+1019921823={
+	name=Itawamba
+	dynasty=1009990185
+	dna="hmecinnhclp"
+	culture=chickasaw religion=southeast_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=7 learning=8
+	add_trait=midas_touched add_trait=honest  add_trait=slothful 
+	add_trait=patient add_trait=chaste 
+	father=1019921817	#Ishtehotopa
+	1427.1.15={ birth=yes }
+	1506.12.31={ death=yes }
+}

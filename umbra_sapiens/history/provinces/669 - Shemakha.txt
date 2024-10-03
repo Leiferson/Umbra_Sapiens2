@@ -1,0 +1,21 @@
+# 669 - Shemakha
+
+# County Title
+title = c_shemakha
+
+# Settlements
+max_settlements = 3
+b_shemakha = castle
+b_laizan = city
+b_maraza = temple
+
+# Misc
+culture = dagestani
+religion = miaphysite
+terrain = hills
+
+# History
+865.1.1 = { religion = sunni }
+1066.1.1 = { culture = persian }
+1320.1.1 = { religion = shiite }
+

@@ -1,0 +1,140 @@
+######################################
+# Scripted Triggers for Africa content
+######################################
+
+trans_saharan_trade_post_trigger = {
+	custom_tooltip = {
+		text = trans_saharan_province_desc
+		hidden_tooltip = {
+			OR = {
+				province_id = 811	# Trade post
+				province_id = 840	# Trade post
+				province_id = 843	# Trade post
+				province_id = 911	# Cloth production
+				province_id = 912	# Salt mine
+				province_id = 916	# Salt mine
+				province_id = 926	# Gold mine
+				province_id = 1739	# Trade post
+				province_id = 1746	# Trade post
+				province_id = 1761	# Gold mine
+				province_id = 3334
+				#New Trade posts
+			province_id = 3342
+			province_id = 3345
+			province_id = 1735
+			province_id = 808
+			province_id = 1735
+			province_id = 1770
+			province_id = 1772
+			province_id = 1343
+			province_id = 882
+			province_id = 883
+			province_id = 872
+			province_id = 880
+			province_id = 795
+			province_id = 1344
+			province_id = 3356
+			province_id = 3371
+			province_id = 3372
+			province_id = 3457
+			province_id = 3375
+			province_id = 2352
+			province_id = 2349
+			province_id = 2368
+			province_id = 2312
+			province_id = 2482
+			province_id = 3460
+			province_id = 3351
+			province_id = 3370
+			province_id = 2375
+			province_id = 2365
+			province_id = 2346
+			province_id = 2362
+			province_id = 3482
+			province_id = 3312
+			province_id = 3333
+			province_id = 3336
+			province_id = 914
+			province_id = 1743
+			province_id = 1755
+			province_id = 3341
+			province_id = 2372
+			}
+		}
+	}
+}
+
+trans_saharan_trade_post_market_trigger = {
+	OR = {
+		province_id = 811
+		province_id = 840
+		province_id = 843
+		province_id = 911
+		province_id = 1739
+		province_id = 1746
+		#New Trade posts
+		province_id = 3334
+			province_id = 3342
+			province_id = 3345
+			province_id = 1735
+			province_id = 808
+			province_id = 1735
+			province_id = 1770
+			province_id = 1772
+			province_id = 1343
+			province_id = 882
+			province_id = 883
+			province_id = 872
+			province_id = 880
+			province_id = 795
+			province_id = 1344
+			province_id = 3356
+			province_id = 3371
+			province_id = 3372
+			province_id = 3457
+			province_id = 3375
+			province_id = 2352
+			province_id = 2349
+			province_id = 2368
+			province_id = 2312
+			province_id = 2482
+			province_id = 3460
+			province_id = 3351
+			province_id = 3370
+			province_id = 2375
+			province_id = 2365
+			province_id = 2346
+			province_id = 2362
+			province_id = 3482
+			province_id = 3312
+			province_id = 3333
+			province_id = 3336
+			province_id = 914
+			province_id = 1743
+			province_id = 1755
+			province_id = 3341
+			province_id = 2372
+	}
+}
+
+trans_saharan_trade_post_gold_mine_trigger = {
+	OR = {
+		province_id = 926
+		province_id = 1761
+	}
+}
+
+trans_saharan_trade_post_salt_mine_trigger = {
+	OR = {
+		province_id = 912
+		province_id = 916
+	}
+}
+
+has_trans_saharan_gold_mine = {
+	OR = {
+		trade_post_has_building = tr_gold_mine_1
+		trade_post_has_building = tr_gold_mine_2
+		trade_post_has_building = tr_gold_mine_3
+	}
+}

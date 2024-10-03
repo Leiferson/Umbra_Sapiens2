@@ -1,0 +1,299 @@
+decisions = {
+repress_buddhists = {
+		is_high_prio = yes
+		ai_check_interval = 60
+		potential = {
+			NOT = { has_global_flag = persecuting_buddhism }
+			government = chinese_imperial_government 
+			has_landed_title = e_china
+			is_adult = yes
+			prisoner = no
+			is_incapable = no
+			NOR = {
+			trait = nichiren_buddhist
+			trait = nanzenji_buddhist
+			trait = jodoshinshu_buddhist
+			trait = koyasan_buddhist
+			trait = enryakuji_buddhist
+			trait = todaiji_buddhist
+			trait = seon_buddhist
+			trait = wonyung_buddhist
+			trait = yeolban_buddhist
+			trait = gyeyul_buddhist
+			trait = beopsang_buddhist
+			trait = beopseong_buddhist
+			trait = huayan_buddhist
+			
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+			religion = buddhist
+			religion = nihon_shinto
+			religion = shingyo
+			}
+		}
+		allow = {
+			piety = 1000
+			is_adult = yes
+			prisoner = no
+			is_incapable = no
+			}
+		effect = {
+		wealth = 1000
+		piety = -1000
+		set_global_flag = persecuting_buddhism 
+		set_character_flag = persecuted_buddhism 
+		banish_religion = buddhist
+		any_courtier = {
+		limit = {
+		OR= {
+		trait = nichiren_buddhist
+			trait = nanzenji_buddhist
+			trait = jodoshinshu_buddhist
+			trait = koyasan_buddhist
+			trait = enryakuji_buddhist
+			trait = todaiji_buddhist
+			trait = seon_buddhist
+			trait = wonyung_buddhist
+			trait = yeolban_buddhist
+			trait = gyeyul_buddhist
+			trait = beopsang_buddhist
+			trait = beopseong_buddhist
+			trait = huayan_buddhist
+			
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+			religion = buddhist
+			religion = shingyo
+			religion = nihon_shinto
+			}
+		}
+		banish = yes
+		}
+		any_player = {
+		limit = { 
+		capital_scope = {
+		NOR = { 
+		region = world_europe
+			region = world_africa		
+		region = world_america 
+		}
+		}
+		}
+		character_event = {
+		id = chinaevents.6
+		days = 1
+		}
+		}
+	}
+	ai_will_do = {
+    factor = 1
+			modifier = {
+				factor = 0.5
+				always = yes
+			}
+			modifier = {
+				factor = -1000
+				OR = {
+			religion = shingyo
+			religion = nihon_shinto
+			religion = buddhist
+			trait = nichiren_buddhist
+			trait = nanzenji_buddhist
+			trait = jodoshinshu_buddhist
+			trait = koyasan_buddhist
+			trait = enryakuji_buddhist
+			trait = todaiji_buddhist
+			trait = seon_buddhist
+			trait = wonyung_buddhist
+			trait = yeolban_buddhist
+			trait = gyeyul_buddhist
+			trait = beopsang_buddhist
+			trait = beopseong_buddhist
+			trait = huayan_buddhist
+			
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+				}
+			}
+			
+  }
+	}
+	unrepress_buddhists = {
+		is_high_prio = yes
+		ai_check_interval = 60
+		potential = {
+			has_global_flag = persecuting_buddhism
+			NOT = { has_character_flag = persecuted_buddhism }
+			government = chinese_imperial_government 
+			has_landed_title = e_china
+			is_adult = yes
+			prisoner = no
+			is_incapable = no
+		}
+		allow = {
+			is_incapable = no
+			is_adult = yes
+			prisoner = no
+			}
+		effect = {
+		piety = 250
+		clr_global_flag = persecuting_buddhism 
+		}
+		ai_will_do = {
+    factor = 1
+			modifier = {
+				factor = 0.5
+				always = yes
+			}
+			modifier = {
+				factor = 1000
+				OR = {
+			religion = shingyo
+			religion = nihon_shinto
+			religion = buddhist
+			trait = nichiren_buddhist
+			trait = nanzenji_buddhist
+			trait = jodoshinshu_buddhist
+			trait = koyasan_buddhist
+			trait = enryakuji_buddhist
+			trait = todaiji_buddhist
+			trait = seon_buddhist
+			trait = wonyung_buddhist
+			trait = yeolban_buddhist
+			trait = gyeyul_buddhist
+			trait = beopsang_buddhist
+			trait = beopseong_buddhist
+			trait = huayan_buddhist
+			
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+				}
+			}
+			
+  }
+	}
+	#persue higher education
+	persue_higher_education = {
+		is_high_prio = yes
+		ai_check_interval = 1
+		potential = {
+		month == 0
+		age >= 14
+		is_female = no
+		OR = {
+		NOR = {
+			trait = tongsheng
+		    trait = shengyuan
+			trait = juren
+			trait = gongshi
+			trait = military_juren
+			trait = military_gongshi
+		}
+		OR = {
+			trait = tongsheng
+			trait = shengyuan
+			trait = juren
+			trait = gongshi
+			trait = military_juren
+			trait = military_gongshi
+			}
+		}
+		NOT = { has_character_flag = persue_high_education }
+		OR = {
+			religion = thangiao
+			religion = ua_dab
+			religion = nugyauq
+			religion = benzhujiao
+			religion = taoist
+			religion = shingyo
+			AND = {
+				religion = nihon_shinto
+				trait = kuge
+				}
+			culture_group = chinese_group
+			}
+		}
+		allow = {
+			OR = {
+			NAND = {
+			trait = tongsheng
+			trait = shengyuan
+			trait = juren
+			trait = gongshi
+			trait = military_juren
+			trait = military_gongshi
+			}
+			AND = {
+			trait  = tongsheng
+			wealth = 1
+			}
+			AND = {
+			trait = shengyuan
+			wealth = 2
+			}
+			AND = {
+			trait = juren
+			wealth = 5
+			}
+			AND = {
+			trait = gongshi
+			wealth = 10
+			}
+			AND = {
+			trait = military_juren
+			wealth = 5
+			}
+			AND = {
+			trait = military_gongshi
+			wealth = 10
+			}
+			}	
+			is_incapable = no
+			age >= 14
+			prisoner = no
+			}
+		effect = {
+		set_character_flag = persue_high_education	
+		character_event = { id = chinaevents.9 days = 15 }	
+		if = {
+				limit = {
+				trait  = tongsheng
+				}
+				wealth = -1
+				}
+		if = {
+				limit = {
+				trait  = shengyuan
+				}
+				wealth = -2
+				}
+		if = {
+				limit = {
+				trait  = juren
+				}
+				wealth = -5
+				}
+		if = {
+				limit = {
+				trait  = gongshi
+				}
+				wealth = -10
+				}
+		if = {
+				limit = {
+				trait  = military_juren
+				}
+				wealth = -5
+				}
+		if = {
+				limit = {
+				trait  = military_gongshi
+				}
+				wealth = -10
+				}
+		}
+		ai_will_do = {
+    factor = 1
+	}
+	}
+	}

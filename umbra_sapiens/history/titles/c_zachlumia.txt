@@ -1,0 +1,171 @@
+757.1.1={
+	liege="d_croatia"
+	holder=146008
+}
+792.1.1={
+	holder=146007
+}
+818.1.1={
+	holder=146006
+}
+845.1.1={
+	holder=167855
+}
+864.1.1={
+	holder=167857
+}
+936.1.1 = {
+	liege = d_dalmatia
+	holder = 262700
+}
+1066.1.1=
+{
+holder=8622
+}
+1075.1.1={
+holder=8628
+}
+1089.1.1={
+holder=8626
+}
+1090.1.1={
+holder=475
+}
+1091.1.1={
+holder=474
+}
+1093.1.1={
+holder=20381
+}
+1097.1.1={
+holder=480
+}
+1100.1.1=
+{
+holder=32593
+}
+1102.1.1=
+{
+holder=32594
+}
+1162.1.1=
+{
+	holder=34075
+}
+1192.1.1=
+{
+	holder=34077
+}
+1196.1.1=
+{
+	holder=219502
+}
+1198.1.1=
+{
+		holder=34079
+}
+1216.1.1= #Data lacking here; Stefan Radoslav *may* have taken over, but the account is an unsourced 17th century work.
+{
+	holder=34080
+}
+1254.1.1=
+{
+	holder=34083
+	liege=0
+	set_tribute_suzerain = { #Attested as a Hungarian vassal, seen to be at war with Serbia in defence of Ragusa.
+		who = k_hungary
+		type = permanent 
+	}
+}
+1254.5.22=
+{
+	holder=34088 #And right back into Serbia it goes.
+	clear_tribute_suzerain = k_hungary
+}
+1276.1.1=
+{
+	holder=34117
+}
+1278.1.1=
+{
+	holder=470001
+}
+1312.1.1=
+{
+	holder=32625
+}
+1322.1.1={
+	liege="d_bosnia"
+	holder=260478
+}
+1326.1.1={
+	holder=260479 #Pavao
+}
+1332.1.1={
+	holder=379594	#Grgur
+}
+1357.1.1={
+	holder=260480	#Vukac Hrvatinic
+}
+1378.4.10={
+	holder=379557	#Hrvoje Vukcic Hrvatinic 
+}
+1416.1.1={
+	holder=379596	#Jelena Nelipic
+}
+1422.1.1={
+	holder=374202	#Stephen Tvrtko II
+}
+1443.11.1={
+	holder=377344 #Stephen Thomas
+}
+1461.7.10={
+	holder=377350 #Stephen Tomashevic
+}
+1463.6.5={
+	holder=377353
+	liege=e_ottomans
+}
+1471.1.1={
+	holder=379570	#Matija Vojsalic
+}
+1476.1.1={
+	holder=377984	#Mehmed II
+	liege=e_ottomans
+}
+1481.5.3={
+	holder=377993	#Bayezid II
+}
+1512.6.10={
+	holder=378008	#Selim I
+}
+1520.9.22={
+	holder=378056	#Suleiman I
+}
+1566.9.6={
+	holder=378068	#Selim II
+}
+1574.12.15={
+	holder=378092	#Murad III
+}
+1595.1.2={
+	holder=378103	#Mehmed III 
+}
+1603.12.22={
+	holder=378139	#Ahmed I
+}
+1617.11.22={
+	holder=378143	#Mustafa I
+}
+1618.2.26={
+	holder=378145	#Osman II
+}
+1622.5.20={
+	holder=378143	#Mustafa I
+}
+1623.9.10={
+	holder=378148	#Murad IV
+}
+1640.2.8={
+	holder=378154	#Ibrahim
+}

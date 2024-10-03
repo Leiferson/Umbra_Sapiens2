@@ -1,0 +1,523 @@
+661.2.28={
+	liege = "e_arabia"
+	holder = 163029
+}
+680.5.6={
+	holder = 163030
+}
+683.1.1={
+	holder = 163031
+}
+684.6.1={
+	holder = 163003
+}
+685.5.7={
+	holder = 163002
+}
+705.1.1={
+	holder = 163032
+}
+715.1.1={
+	holder = 163033
+}
+717.10.1={
+	holder = 163035
+}
+720.2.10={
+	holder = 163036
+}
+724.1.1={
+	holder = 163001
+}
+743.2.6={
+	holder = 163037
+}
+744.4.15={
+	holder = 163038
+}
+744.10.3={
+	holder = 163039
+}
+744.11.3={
+	holder = 163041
+}
+750.1.1={
+	holder=146061
+}
+754.1.1={
+	holder=146060
+}
+754.6.1={
+	holder=146127
+}
+766.1.1={
+	holder=146062
+}
+775.1.1={
+	holder=146063
+}
+783.1.1={
+	holder=34005
+}
+786.1.1={
+	holder=146063
+}
+793.1.1={
+	holder=188647
+}
+794.1.1={
+	holder=146064
+}
+797.1.1={
+	holder=188646
+}
+803.1.1={
+	holder=188653
+}
+809.1.1={
+	holder=146064
+}
+866.1.1={
+	holder = 33920
+}
+936.1.1={
+	liege="k_egypt"
+	holder = 260838
+}
+1066.1.1=
+{
+	holder=20768
+}
+1067.1.1=
+{
+	holder=93430
+}
+1069.1.1=
+{
+	holder=93431
+}
+1071.1.1=
+{
+	holder=93432
+}
+1076.1.1=
+{
+	liege = "k_persia"
+}
+1076.1.1=
+{
+	holder=93433
+}
+#Seljuk
+1079.1.1=
+{
+	holder = 3044
+}
+
+1095.1.1=
+{
+	holder = 144023
+}
+1098.1.1=
+{
+	liege = 0
+}
+1104.6.1=
+{
+	holder = 144024
+}
+#Burid
+1105.1.1=
+{
+	holder = 93435
+}
+1128.2.12=
+{
+	holder = 93436
+}
+1132.6.6=
+{
+	holder = 93437
+}
+1135.1.1=
+{
+	holder = 93438
+}
+1139.1.1=
+{
+	holder = 93439
+}
+1140.1.1=
+{
+	holder = 93440
+}
+#Zengid
+1154.4.8=
+{
+	holder = 144031
+}
+1174.4.15=
+{
+	holder = 144033
+}
+#Ayyubid
+1175.1.1=
+{
+	liege="k_egypt"
+}
+1175.1.1=
+{
+	holder = 226000
+}
+1176.1.1=
+{
+	holder = 32914
+}
+1178.1.1=
+{
+	holder = 226000
+}
+1186.1.1=
+{
+	holder = 226051
+}
+1196.1.1=
+{
+	holder = 226052
+}
+1218.1.1=
+{
+	holder = 144077
+}
+1227.1.1=
+{
+	holder = 144078
+}
+1229.1.1=
+{
+	holder = 144079
+}
+1237.8.27=
+{
+	holder = 144080
+}
+1245.1.1=
+{
+	holder = 144082
+}
+1260.1.1=
+{
+	holder = 34990
+}
+1280.1.1=
+{
+	holder = 32939
+}
+1296.1.1=
+{
+	holder = 34991
+}
+1297.1.1=
+{
+	holder = 34992
+}
+1312.1.1=
+{
+	holder = 34993
+}
+1340.1.1=
+{
+	holder = 379193	#Yilbugha an-Nasiri (1340–1350)		
+}
+1350.1.1=
+{
+	holder = 379194	#Sayf ad-Din Manjak (1350)
+}
+1380.1.1=
+{
+	holder = 379195	#Tash Timur 1380
+}
+1385.1.1=
+{
+	holder = 379193	#Yilbugha an-Nasiri (1340–1350)		
+}
+1393.1.1=
+{
+	holder = 379196	#Sayf ad-Din Tanibak (1393–1399)
+}
+1399.1.1=
+{
+	holder = 379197	#Sudun (1399–1400)
+}
+1400.1.1=
+{
+	holder = 379198	#Taghribirdi az-Zahiri (1401–?)
+}
+1418.1.1=
+{
+	holder = 379198	#Sayf ad-Din Jaqmaq (1418–1420)
+}
+1420.1.1=
+{
+	holder = 379199	#Kijmas (c. 1470s)
+}
+1470.1.1=
+{
+	holder = 379200	#Ghazali Arab (c. 16th century)
+}
+1491.1.1=
+{
+	holder = 379201	#Sibai (c. 16th century)[3]
+}
+1516.1.1=
+{
+	holder = 379202	#Shihab ad-Din Ahmad (1516–1517)
+}
+1516.8.24={
+	holder=379191	#Yunus Pasha (c. 1516)
+	liege=e_ottomans
+}
+1517.9.13 = {
+	holder=378983	#Janbirdi al-Ghazali (1517–1521)
+}
+1521.2.1={
+	holder=379022	#Ayas Mehmed Pasha (1521–1522)
+}
+1522.1.1={
+	holder=379023	#Ferhad Pasha (1522–1523)
+}
+1523.1.1={
+	holder=379024	#Hurram Pasha (1523–1525)
+}
+1525.1.1={
+	holder=379025	#Sulayman Pasha al-Tawashi (1525–1526)
+}
+1526.1.1={
+	holder=379026	#Lutf Pasha (1526–1528) 
+}
+1528.1.1={
+	holder=379027	#Isa Bey Pasha Chenderli (1528–1531)
+}
+1531.1.1={
+	holder=379028	#Mustafa Ablaq Pasha (1531–1534)
+}
+1534.1.1={
+	holder=379026	#Lutf Pasha (1534–1535)
+}
+1535.1.1={
+	holder=379027	#Isa Bey Pasha Chenderli (1535)
+}
+1536.1.1={
+	holder=379029	#Muhammad Kuzal Pasha (1536–1537)
+}
+1537.1.1={
+	holder=379030	#Topal Sulayman Pasha (1537–1538)
+}
+1538.1.1={
+	holder=379031	#Ahmed Pasha I (1538–1539)
+}
+1539.1.1={
+	holder=379032	#Qese Husrau Pasha (1539–1541)
+}
+1539.1.1={
+	holder=379033	#Isa Pasha (1541–1543)
+}
+1543.1.1={
+	holder=379034	#Piri Pasha (1543–1545)
+}
+1545.1.1={
+	holder=379035	#Sinan Pasha al-Tuwashi (1545–1548)
+}
+1550.1.1={
+	holder=379034	#Piri Pasha (1550–1551)
+}
+1551.1.1={
+	holder=379036	#Muhammad Pasha Bartaki (1551–1552)
+}
+1552.1.1={
+	holder=379037	#Semsi Pasha (1552–1555)
+}
+1555.1.1={
+	holder=379038	#Hizr Pasha (1555–1561)
+}
+1561.1.1={
+	holder=379039	#Ali Pasha Lankun (1561–1563)
+}
+1563.1.1={
+	holder=379040	#Khusrau Pasha I (1563)
+}
+1563.6.1={
+	holder=379041	#Lala Mustafa Pasha (1563–1569)
+}
+1569.1.1={
+	holder=379042	#Murad Pasha Shaitan (1569)
+}
+1569.1.1={
+	holder=379039	#Ali Pasha Lankun (1569–1570)
+}
+1570.1.1={
+	holder=379043	#Haji Ahmed Pasha (1570–1571)
+}
+1571.1.1={
+	holder=379044	#Darwish Pasha (1571–1574)
+}
+1574.1.1={
+	holder=379045	#Lala Jafar Pasha (1574–1575)
+}
+1575.1.1={
+	holder=379046	#Murad Pasha (1575–1577)
+}
+1577.1.1={
+	holder=379048	#Sokulluzade Hasan Pasha (1577–1581)
+}
+1581.1.1={
+	holder=379049	#Bahram Pasha (1581–1582)
+}
+1582.1.1={
+	holder=379050	#Hüseyin Pasha Boljanic (1582–1583)
+}
+1583.1.1={
+	holder=379051	#Sokulluzade Hasan Pasha (1583)
+}
+1584.1.1={
+	holder=379052	#Qubad Sulayman Pasha (1584)
+}
+1584.6.1={
+	holder=379053	#Üveys Pasha (1584–1585)
+}
+1585.10.1={
+	holder=379054	#Elvendoglu Ali Pasha (October 1585–1586)
+}
+1586.1.1={
+	holder=379053	#Üveys Pasha (1586–1587)
+}
+1587.1.1={
+	holder=379055	#Muhammad Pasha Farhad (1587–1588)
+}
+1588.1.1={
+	holder=379053	#Üveys Pasha (1588–1589)
+}
+1589.1.1={
+	holder=379056	#Elwanzade Ali Pasha (1589–1590)
+}
+1590.1.1={
+	holder=379035	#Koca Sinan Pasha (1590)
+}
+1590.6.1={
+	holder=379051	#Sokulluzade Hasan Pasha (1590–1591)
+}
+1591.1.1={
+	holder=379057	#Mustafa Pasha I (1591–1592)
+}
+1592.1.1={
+	holder=379058	#Khalil Pasha (1592–1593)
+}
+1593.1.1={
+	holder=379059	#Qachirji Mohammad Pasha (1593–1594)
+}
+1594.1.1={
+	holder=379051	#Sokulluzade Hasan Pasha (1594)
+}
+1594.6.1={
+	holder=379060	#Kuyucu Murad Pasha (1594–1595)
+}
+1595.1.1={
+	holder=379061	#Khusrau Pasha II (1595–1596)
+}
+1596.1.1={
+	holder=379062	#Razia Hutunzade Mustafa Pasha (1596–1597)
+}
+1597.1.1={
+	holder=379063	#Yusuf Sinan Pasha (1597–1598)
+}
+1598.1.1={
+	holder=379064	#Ahmed Pasha II (1598)
+}
+1598.6.1={
+	holder=379065	#Ahmed Pasha II (1598)
+}
+1598.1.1={
+	holder=379061	#Khusrau Pasha II (1599)
+}
+1599.1.1={
+	holder=379066	#Emir Mehmed Pasha (1599–1600)
+}
+1601.1.1={
+	holder=379067	#Osman Pasha (1601–1603)
+}
+1603.1.1={
+	holder=379068	#Farhad Pasha Bustanji (1603–1604)
+}
+1604.1.1={
+	holder=379069	#Mustafa Pasha II (1604–1607)
+}
+1607.1.1={
+	holder=379070	#Mahmud Pasha (1607–1608)
+}
+1608.1.1={
+	holder=379071	#Sufi Sinan Pasha (1608–1609)
+}
+1609.1.1={
+	holder=379072	#Ahmad al-Hafiz (1609–1615)
+}
+1615.1.1={
+	holder=379073	#Silihdar Mehmed Pasha (1615–1618)
+}
+1618.1.1={
+	holder=379072	#Ahmad al-Hafiz (1618–1619)
+}
+1619.1.1={
+	holder=379074	#Mustafa Pasha III (1619–1620)
+}
+1620.1.1={
+	holder=379075	#Sulayman Pasha I (1620–1621)
+}
+1621.1.1={
+	holder=379076	#Murtaza Pasha Bustanji (1621–1622)
+}
+1622.1.1={
+	holder=379077	#Mehmed Pasha Rushand (1622–1623)
+}
+1623.1.1={
+	holder=379078	#Mustafa Pasha al-Hannaq (1623–1624)
+}
+1624.1.1={
+	holder=379079	#Nigdeli Mustafa Pasha (1624–1625)
+}
+1625.1.1={
+	holder=379080	#Gurju Mehmed Pasha I (1625–1626)
+}
+1626.1.1={
+	holder=379081	#Tayar Oglu Mehmed Pasha (1626–1628)
+}
+1628.1.1={
+	holder=379082	#Küçük Ahmed Pasha (1628–1629)
+}
+1629.1.1={
+	holder=379083	#Mustafa Pasha IV (1629–1630)
+}
+1630.1.1={
+	holder=379084	#Nawaya Mehmed Pasha (1630–1631)
+}
+1632.1.1={
+	holder=379085	#Ilyas Pasha (1632–1633)
+}
+1633.1.1={
+	holder=379086	#Deli Yusuf Pasha (1633–1635)
+}
+1635.1.1={
+	holder=379082	#Küçük Ahmed Pasha (1635–1636)
+}
+1636.1.1={
+	holder=379087	#Dervish Mehmed Pasha (1636–1638)
+}
+1638.1.1={
+	holder=379088	#Mustafa Pasha IV (1638–1639)
+}
+1639.1.1={
+	holder=379089	#Chifteli Othman Pasha (1639–1640)
+}
+1640.1.1={
+	holder=379090	#Mehmed Pasha I (1640–1641)
+}
+

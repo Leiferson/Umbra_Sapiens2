@@ -1,0 +1,401 @@
+namespace = spainevents
+#Spanish colonies
+narrative_event = {
+	id = spainevents.1
+	title = EVTNAMEspainevents.1
+	desc = EVTDESCspaineventsR.1
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1493
+		NOT = { has_global_flag = spain_hispaniola }
+		OR = {
+			has_landed_title = k_cas_and_leon
+			has_landed_title = k_castille
+			has_landed_title = e_spain
+			has_landed_title = e_espana_burgona
+			}
+		religion_group = christian
+		
+		OR = {
+		d_haiti = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+		d_dominica = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+		}
+	}
+	option = {
+		name = EVTOPTAspainevents.1
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_dominica
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_haiti
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = spain_hispaniola
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = spainevents.2
+	title = EVTNAMEspainevents.2
+	desc = EVTDESCspaineventsR.2
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1493
+		NOT = { has_global_flag = spain_puerto_rico }
+		OR = {
+			has_landed_title = k_cas_and_leon
+			has_landed_title = k_castille
+			has_landed_title = e_spain
+			has_landed_title = e_espana_burgona
+			}
+		religion_group = christian
+		
+		c_puerto_rico = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAspainevents.2
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_puerto_rico
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = spain_puerto_rico
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = spainevents.3
+	title = EVTNAMEspainevents.3
+	desc = EVTDESCspaineventsR.3
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1607
+		NOT = { has_global_flag = spain_cuba }
+		OR = {
+			has_landed_title = k_cas_and_leon
+			has_landed_title = k_castille
+			has_landed_title = e_spain
+			has_landed_title = e_espana_burgona
+			}
+		religion_group = christian
+		
+		OR = {
+		d_east_cuba = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+		d_west_cuba = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+		}
+	}
+	option = {
+		name = EVTOPTAspainevents.3
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_east_cuba
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_west_cuba
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = spain_cuba
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = spainevents.4
+	title = EVTNAMEspainevents.4
+	desc = EVTDESCspaineventsR.4
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1607
+		NOT = { has_global_flag = spain_jamaica }
+		OR = {
+			has_landed_title = k_cas_and_leon
+			has_landed_title = k_castille
+			has_landed_title = e_spain
+			has_landed_title = e_espana_burgona
+			}
+		religion_group = christian
+		
+		c_jamaica = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAspainevents.4
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_jamaica
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = spain_jamaica
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = spainevents.5
+	title = EVTNAMEspainevents.5
+	desc = EVTDESCspaineventsR.5
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1564
+		NOT = { has_global_flag = spain_philippines }
+		OR = {
+			has_landed_title = k_cas_and_leon
+			has_landed_title = k_castille
+			has_landed_title = e_spain
+			has_landed_title = e_espana_burgona
+			}
+		religion_group = christian
+		
+		d_visayas = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAspainevents.5
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_visayas
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = spain_philippines
+		prestige = 100
+	}
+}
+character_event = {
+	id = spainevents.6
+	title = EVTNAMEspainevents.6
+	desc = EVTDESCspaineventsR.6
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAspainevents.6
+		character_event = { id = spainevents.7 
+		days = 1
+		}
+		
+		ai_chance = {
+		factor = 10
+		modifier = {
+		factor = 1000
+		trait = trusting
+					}
+					}
+	}
+	option = {
+		name = EVTOPTBspainevents.6
+		FROM = { character_event = { id = spainevents.8 
+		days = 15
+		random = 60
+		} }
+		ai_chance = {
+		factor = 0.1
+		modifier = {
+		factor = 10000
+		trait = paranoid
+					}
+					}
+}
+}
+narrative_event = {
+	id = spainevents.7
+	title = EVTNAMEspainevents.7
+	desc = EVTDESCspaineventsR.7
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAspainevents.7
+		create_character = {
+		religion = catholic
+		culture = castillan
+		female = no
+		age = 25
+		add_trait = zealous
+		martial = 20
+		}
+		any_demesne_title = {
+		new_character = { usurp_title = PREV }
+		}
+		if = { 
+		limit = {
+		e_spain = { has_holder = yes }
+		}
+		new_character = { set_defacto_liege = e_spain }
+		}
+		if = { 
+		limit = {
+		e_espana_burgona = { has_holder = yes }
+		}
+		new_character = { set_defacto_liege = e_espana_burgona }
+		}
+		imprison = FROM
+		
+	}
+}
+character_event = {
+	id = spainevents.8
+	title = EVTNAMEspainevents.8
+	desc = EVTDESCspaineventsR.8
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAspainevents.8
+		
+	}
+}
+narrative_event = {
+	id = spainevents.9
+	title = EVTNAMEspainevents.9
+	desc = EVTDESCspaineventsR.9
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1565
+		NOT = { has_global_flag = spain_florida }
+		OR = {
+			has_landed_title = k_cas_and_leon
+			has_landed_title = k_castille
+			has_landed_title = e_spain
+			has_landed_title = e_espana_burgona
+			}
+		religion_group = christian
+		
+		c_timucua = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAspainevents.9
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_timucua
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = spain_florida
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = spainevents.10
+	title = EVTNAMEspainevents.10
+	desc = EVTDESCspaineventsR.10
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1778
+		NOT = { has_global_flag = spain_equatorial }
+		OR = {
+			has_landed_title = k_cas_and_leon
+			has_landed_title = k_castille
+			has_landed_title = e_spain
+			has_landed_title = e_espana_burgona
+			}
+		religion_group = christian
+		
+		c_doula = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAspainevents.10
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_doula
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = spain_equatorial
+		prestige = 100
+	}
+}
+character_event = {
+	id = spainevents.11
+	is_triggered_only = yes
+	hide_window = yes
+	trigger = {
+		ai =yes
+		is_alternate_start = no
+		year = 1492
+		OR = { 
+			e_portugal = { has_holder = yes }
+			e_portugal_2 = { has_holder = yes }
+			e_portugal_3 = { has_holder = yes }
+			e_portugal_4 = { has_holder = yes }
+			e_portugal_5 = { has_holder = yes }
+			e_portugal_6 = { has_holder = yes }
+			e_portugal_7 = { has_holder = yes }
+			e_portugal_8 = { has_holder = yes }
+			e_portugal_9 = { has_holder = yes }
+			e_portugal_10 = { has_holder = yes }
+			e_portugal_11 = { has_holder = yes }
+			e_portugal_12 = { has_holder = yes }
+			e_portugal_13 = { has_holder = yes }
+			e_portugal_14 = { has_holder = yes }
+			e_portugal_15 = { has_holder = yes }
+			e_portugal_16 = { has_holder = yes }
+			}
+		NOT = { has_global_flag = force_spain_spawn }
+		NOT = { has_landed_title = e_spain }
+		NOT = { has_landed_title = e_espana_burgona }
+		OR = {
+			has_landed_title = k_cas_and_leon
+			has_landed_title = k_castille
+			}
+		religion_group = christian
+	}
+	immediate = {
+	gain_title = e_spain
+	set_global_flag = force_spain_spawn
+	}
+}

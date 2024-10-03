@@ -1,0 +1,153 @@
+687.1.1={
+	holder = 131720
+}
+714.1.17={
+	holder = 144988
+}
+762.1.1={
+	liege="k_france"
+	holder = 144987
+}
+786.1.1={
+	holder = 144986
+}
+796.1.1={
+	holder = 144985
+}
+827.1.1={
+	holder = 144984
+}
+879.1.1={
+	holder = 144981
+}
+893.1.28={
+	holder = 144980
+}
+915.1.1={	
+	holder = 40398 # Raoul I
+}
+926.1.1={	
+	holder = 40399 # Raoul II
+}
+943.1.1={	
+	holder = 40400 # Gautier I
+}
+992.1.1={
+	holder = 40402 # Gautier II
+}
+1024.1.1={
+	holder = 40416 # Dreux
+}
+1035.7.2 = {
+	holder = 40404 # Gautier III
+}
+1063.1.1={
+	holder = 40406 # Raoul
+}
+1074.1.1={
+	holder=90150 #Simon
+}
+
+1077.1.1={
+	holder = 144235
+}
+1116.1.1={
+	holder = 204990
+}
+1130.1.1={
+	holder = 205502 
+}
+1137.8.1={
+	holder = 205500 
+}
+1146.1.1=
+{
+	holder = 144236
+}
+1191.6.19 =
+{
+	holder = 161394
+}
+1235.1.4=
+{
+	holder = 161397
+}
+1270.4.1=
+{
+	holder = 161399
+}
+1286.10.8=
+{
+	holder = 161405
+}
+1302.5.1=
+{
+	holder = 161406
+}
+1306.2.1=
+{
+	holder = 161408
+}
+1344.1.1={
+	holder = 91193
+}
+1350.12.31 = {
+	holder = 381456
+}
+1360.5.8=
+{
+liege="k_england"
+holder=454500
+}
+1370.1.1 = {
+	holder = 381456
+	liege=k_france
+}
+1397.12.22 = {
+	holder = 373000
+}
+1397.2.18 = {
+	holder = 371365
+}
+1405.3.3 = {
+	holder = 370748	#Louis I, Duke of Orléans
+}
+1407.11.23 = {
+	holder = 370764	#Charles, Duke of Orléans
+}
+1412.1.1 = {
+	holder=371366	#Robert of Bar, Count of Marle
+}
+1415.10.25 = {
+	holder=371368	#Jeanne de Marle
+}
+1435.9.20={
+	liege="d_burgundy"
+}
+1462.1.1 = {
+	holder=371369	#Jean de Luxembourg-Soissons
+}
+1476.6.22 = {
+	holder=371370	#Peter II, Count of Saint-Pol
+}
+1482.10.25 = {
+	holder=371384	#Marie de Luxembourg (1472-1547)
+}
+1493.5.23 = {
+	liege=k_france
+}
+1547.4.1 = {
+	holder=371460	#John, Count of Soissons and Enghien
+}
+1557.8.15 = {
+	holder=371461	#Louis I, Prince of Condé
+}
+1569.3.13 = {
+	holder=375929	#Charles, Count of Soissons
+}
+1612.11.1 = {
+	holder=375933	#Louis, Count of Soissons
+}
+1641.7.6 = {
+	holder=375935	#Marie de Bourbon (1606-1692)
+}

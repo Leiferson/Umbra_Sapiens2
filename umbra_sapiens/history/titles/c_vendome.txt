@@ -1,0 +1,146 @@
+750.1.1={
+	liege="k_france"
+	holder = 91478 #BAUGULF, historical count as placeholder
+}
+853.1.1={
+	liege="d_anjou"
+	holder = 6440 #Robert le fort
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+#Bouchardides
+866.7.2=
+{
+	holder = 168011
+}
+905.1.1=
+{
+	holder = 168012
+	liege = d_valois
+}
+955.1.1=
+{
+	holder = 168013
+	liege = d_anjou
+}
+1007.1.9=
+{
+	holder = 168014
+}
+#House of Nevers
+
+1016.1.6={
+	liege="d_anjou"
+	holder=40372 #Bodon
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+
+1023.1.1={
+	holder=91259 #Bouchard II le Chauve
+}
+
+1028.1.1={
+	holder=40374 #Foulques l'Oison
+}
+
+#House of Anjou
+
+1032.1.1={
+	holder = 376 #Geoffroy I Martel, count of Anjou
+}
+
+#House of Nevers
+
+1056.1.1={
+	holder=40374 #Foulques l'Oison
+}
+
+1066.1.1={
+	holder=40905 #Bouchard III le jeune
+}
+
+
+#House of Preuilly
+
+1085.1.1={
+	holder = 91305 #Geoffroy II Jourdain
+}
+
+1102.1.1={
+	holder = 91308 #Geoffroy III Grisegonnelle
+}
+
+1137.1.1={
+	holder=205761 #Jean I
+}
+
+1180.1.1={
+	holder=205970 #Bouchard IV
+}
+
+1202.1.1={
+	holder=205977 #Jean II
+}
+
+
+#House of Montoire
+
+1217.1.1={
+	holder=205976 #Jean IV de Vendôme
+}
+
+1230.1.1={
+	holder=91322 #Pierre de Vendôme
+}
+
+1249.1.1={
+	holder=91323 #Bouchard V de Vendôme
+}
+
+1271.1.1 = {
+	holder = 455009 #Jean V de Vendôme
+}
+
+1315.1.1={
+	holder=455006 #Bouchard VI de Vendôme
+}
+1353.2.26 = {
+	holder=455012 #Jean VI of Vendome
+}
+1364.1.1 = {
+	holder=370908 #Bouchard VII, Count of Vendôme
+}
+1371.1.1 = {
+	holder=370910 #Jeanne, Countess of Vendôme
+}
+1372.1.1 = {
+	holder=370909 #Catherine, Countess of Vendôme
+}
+1393.1.1 = {
+	holder=370913 #Louis, Count of Vendôme
+}
+1435.2.2={
+	liege=k_naples
+}
+1442.6.2={
+	liege=d_anjou
+}
+1446.12.21 = {
+	holder=371350 #John VIII, Count of Vendôme
+}
+1478.1.6 = {
+	holder=371359 #Francis, Count of Vendôme
+}
+1495.10.30 = {
+	holder=371386 #Charles IV de Bourbon
+}
+1537.3.25 = {
+	holder=371453	#King Antoine of Navarre
+}
+1562.11.17 = {
+	holder=371464	#Henry IV of France
+}
+1598.1.1 = { 
+	holder=376948	#César, Duke of Vendôme
+}

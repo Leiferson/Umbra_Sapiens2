@@ -1,0 +1,513 @@
+namespace = frenchevents
+#French colonies
+narrative_event = {
+	id = frenchevents.1
+	title = EVTNAMEfrenchevents.1
+	desc = EVTDESCfrencheventsR.1
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1604
+		NOT = { has_global_flag = france_akadie }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_kespukwitk = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.1
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_kespukwitk
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_akadie
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.2
+	title = EVTNAMEfrenchevents.2
+	desc = EVTDESCfrencheventsR.2
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1608
+		NOT = { has_global_flag = france_canada2 }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_stadacona = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.2
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_stadacona
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_canada2
+		prestige = 100
+	}
+}
+#three towers
+narrative_event = {
+	id = frenchevents.3
+	title = EVTNAMEfrenchevents.3
+	desc = EVTDESCfrencheventsR.3
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1634
+		NOT = { has_global_flag = france_canada2 }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_maisouna = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.3
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_maisouna
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_canada2
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.4
+	title = EVTNAMEfrenchevents.4
+	desc = EVTDESCfrencheventsR.4
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1642
+		NOT = { has_global_flag = france_canada3 }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_loup = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.4
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_loup
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_canada3
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.5
+	title = EVTNAMEfrenchevents.5
+	desc = EVTDESCfrencheventsR.5
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1655 
+		NOT = { has_global_flag = france_newfindland }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_wabana = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.5
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_wabana
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_newfindland
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.6
+	title = EVTNAMEfrenchevents.6
+	desc = EVTDESCfrencheventsR.6
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1699 
+		NOT = { has_global_flag = france_lousiana }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		d_louisiana = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.6
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_louisiana
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_lousiana
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.7
+	title = EVTNAMEfrenchevents.7
+	desc = EVTDESCfrencheventsR.7
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1699 
+		NOT = { has_global_flag = france_cayenne }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_cayenne = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.7
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_cayenne
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_cayenne
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.8
+	title = EVTNAMEfrenchevents.8
+	desc = EVTDESCfrencheventsR.8
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1659 
+		NOT = { has_global_flag = france_senegal }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_gabu = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.8
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_gabu
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_senegal
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.9
+	title = EVTNAMEfrenchevents.9
+	desc = EVTDESCfrencheventsR.9
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1659 
+		NOT = { has_global_flag = france_madagascar }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_androy = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.9
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_androy
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_madagascar
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.10
+	title = EVTNAMEfrenchevents.10
+	desc = EVTDESCfrencheventsR.10
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1635 
+		NOT = { has_global_flag = france_martinique }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_martinique = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.10
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_martinique
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_martinique
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.11
+	title = EVTNAMEfrenchevents.11
+	desc = EVTDESCfrencheventsR.11
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1635 
+		NOT = { has_global_flag = france_guadeloupe }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_guadeloupe = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.11
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_guadeloupe
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_guadeloupe
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.12
+	title = EVTNAMEfrenchevents.12
+	desc = EVTDESCfrencheventsR.12
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1643 
+		NOT = { has_global_flag = france_st_lucia }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_st_lucia = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.12
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_st_lucia
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_st_lucia
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.13
+	title = EVTNAMEfrenchevents.13
+	desc = EVTDESCfrencheventsR.13
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1649 
+		NOT = { has_global_flag = france_grenada }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_grenada = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.13
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_grenada
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_grenada
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.14
+	title = EVTNAMEfrenchevents.14
+	desc = EVTDESCfrencheventsR.14
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1715 
+		NOT = { has_global_flag = france_dominica }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_dominica = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.14
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_dominica
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_dominica
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = frenchevents.15
+	title = EVTNAMEfrenchevents.15
+	desc = EVTDESCfrencheventsR.15
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1719 
+		NOT = { has_global_flag = france_st_vincent }
+		OR = {
+		has_landed_title = k_france
+		has_landed_title = e_france
+		}
+		religion_group = christian
+		
+		c_st_vincent = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAfrenchevents.15
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_st_vincent
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = france_st_vincent
+		prestige = 100
+	}
+}

@@ -1,0 +1,4441 @@
+1019916277={
+	name=Shateyyaronyah
+	dynasty=1009990130
+	dna="fledldphddm"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=6
+	add_trait=skilled_tactician add_trait=paranoid add_trait=slothful add_trait=ambitious 
+	719.11.26={ birth=yes }
+	817.5.18={ death=yes }
+}
+1019916278={
+	name=Ahatsistari
+	dynasty=1009990130
+	dna="obgdjdphnpd"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=8 learning=8
+	add_trait=elusive_shadow add_trait=diligent add_trait=gregarious add_trait=wroth add_trait=stressed 
+	father=1019916277	#Shateyyaronyah
+	740.2.5={ birth=yes }
+	825.10.2={ death=yes }
+}
+1019916279={
+	name=Neshota
+	female=yes
+	dynasty=1009990130
+	dna="flndlgppddm"
+	culture=huron religion=algic_pagan
+	father=1019916277	#Shateyyaronyah
+	746.6.14={ birth=yes }
+	807.11.11={ death=yes }
+}
+1019916280={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990130
+	dna="fldmanphdhd"
+	culture=huron religion=algic_pagan
+	father=1019916277	#Shateyyaronyah
+	749.5.19={ birth=yes }
+	846.5.1={ death=yes }
+}
+1019916281={
+	name=Doueyenteat
+	dynasty=1009990130
+	dna="nbgdjdfknpd"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=cynical add_trait=humble add_trait=content 
+	father=1019916278	#Ahatsistari
+	765.6.19={ birth=yes }
+	840.5.22={ death=yes }
+}
+1019916282={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990130
+	dna="fhgajghhked"
+	culture=huron religion=algic_pagan
+	father=1019916278	#Ahatsistari
+	772.7.4={ birth=yes }
+	841.7.31={ death=yes }
+}
+1019916283={
+	name=Quouqua
+	dynasty=1009990130
+	dna="fdidjohhnbf"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=6
+	add_trait=charismatic_negotiator add_trait=mystic  add_trait=honest add_trait=patient 
+	add_trait=content 
+	father=1019916278	#Ahatsistari
+	776.6.14={ birth=yes }
+	828.7.16={ death=yes }
+}
+1019916284={
+	name=Dunquat
+	dynasty=1009990130
+	dna="ldodjcdklod"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=8 learning=6
+	add_trait=mastermind_theologian add_trait=lustful add_trait=humble add_trait=honest 
+	father=1019916281	#Doueyenteat
+	788.11.8={ birth=yes }
+	857.4.22={ death=yes }
+}
+1019916285={
+	name=Neshota
+	female=yes
+	dynasty=1009990130
+	dna="bhgljciimpd"
+	culture=huron religion=algic_pagan
+	father=1019916281	#Doueyenteat
+	793.11.7={ birth=yes }
+	852.12.13={ death=yes }
+}
+1019916286={
+	name=Shateyyaronyah
+	dynasty=1009990130
+	dna="hfgljddkbpo"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=6 learning=6
+	add_trait=scholarly_theologian add_trait=patient add_trait=slothful add_trait=trusting add_trait=charitable 
+	 
+	father=1019916281	#Doueyenteat
+	796.11.21={ birth=yes }
+	859.3.21={ death=yes }
+}
+1019916287={
+	name=Namachewana
+	female=yes
+	dynasty=1009990130
+	dna="naggjdffeod"
+	culture=huron religion=algic_pagan
+	father=1019916281	#Doueyenteat
+	800.5.15={ birth=yes }
+	860.3.29={ death=yes }
+}
+1019916288={
+	name=Shateyyaronyah
+	dynasty=1009990130
+	dna="cdmdjcodlod"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=7 learning=7
+	add_trait=charismatic_negotiator add_trait=arbitrary add_trait=slothful add_trait=charitable  
+	father=1019916284	#Dunquat
+	812.10.15={ birth=yes }
+	866.5.23={ death=yes }
+}
+1019916289={
+	name=Rontondu
+	dynasty=1009990130
+	dna="cdodjodihod"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=4 learning=8
+	add_trait=flamboyant_schemer add_trait=arbitrary add_trait=zealous add_trait=charitable  
+	father=1019916284	#Dunquat
+	815.4.6={ birth=yes }
+	893.11.27={ death=yes }
+}
+1019916290={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990130
+	dna="lacdichgkdk"
+	culture=huron religion=algic_pagan
+	father=1019916284	#Dunquat
+	819.6.3={ birth=yes }
+	904.6.20={ death=yes }
+}
+1019916291={
+	name=Stayetah
+	dynasty=1009990130
+	dna="onndjdoddec"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=5
+	add_trait=elusive_shadow add_trait=brave  add_trait=temperate 
+	father=1019916288	#Shateyyaronyah
+	836.2.7={ birth=yes }
+	913.9.10={ death=yes }
+}
+1019916292={
+	name=Thateyyanayoh
+	dynasty=1009990130
+	dna="cdfdlkpiaop"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=7 learning=7
+	add_trait=charismatic_negotiator  add_trait=wroth add_trait=slothful add_trait=shy 
+	add_trait=possessed 
+	father=1019916288	#Shateyyaronyah
+	840.12.8={ birth=yes }
+	894.12.29={ death=yes }
+}
+1019916293={
+	name=Chekaqua
+	female=yes
+	dynasty=1009990130
+	dna="gdmdeobmlon"
+	culture=huron religion=algic_pagan
+	father=1019916288	#Shateyyaronyah
+	844.5.27={ birth=yes }
+	930.9.8={ death=yes }
+}
+1019916294={
+	name=Tarhe
+	dynasty=1009990130
+	dna="ocdhldfddpc"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=8 learning=6
+	add_trait=martial_cleric add_trait=envious add_trait=shy add_trait=temperate  
+	father=1019916291	#Stayetah
+	856.1.27={ birth=yes }
+	932.2.8={ death=yes }
+}
+1019916295={
+	name=Taimah
+	female=yes
+	dynasty=1009990130
+	dna="oindjdocdep"
+	culture=huron religion=algic_pagan
+	father=1019916291	#Stayetah
+	859.9.21={ birth=yes }
+	934.4.15={ death=yes }
+}
+1019916296={
+	name=Kataka
+	female=yes
+	dynasty=1009990130
+	dna="kjkdjoodlee"
+	culture=huron religion=algic_pagan
+	father=1019916291	#Stayetah
+	864.11.2={ birth=yes }
+	942.3.12={ death=yes }
+}
+1019916297={
+	name=Ahatsistari
+	dynasty=1009990130
+	dna="lifdjbodcec"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=indulgent_wastrel add_trait=celibate add_trait=patient add_trait=content  
+	add_trait=ill 
+	father=1019916291	#Stayetah
+	868.4.10={ birth=yes }
+	942.1.30={ death=yes }
+}
+1019916298={
+	name=Teoudetosso
+	dynasty=1009990130
+	dna="mhnjjnaddea"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=envious add_trait=slothful add_trait=humble 
+	father=1019916291	#Stayetah
+	874.8.18={ birth=yes }
+	926.2.1={ death=yes }
+}
+1019916299={
+	name=Pecama
+	female=yes
+	dynasty=1009990130
+	dna="cncdamodogc"
+	culture=huron religion=algic_pagan
+	father=1019916291	#Stayetah
+	878.3.26={ birth=yes }
+	943.6.18={ death=yes }
+}
+1019916300={
+	name=Taima
+	female=yes
+	dynasty=1009990130
+	dna="gpnjbdojdac"
+	culture=huron religion=algic_pagan
+	father=1019916291	#Stayetah
+	882.5.4={ birth=yes }
+	959.4.25={ death=yes }
+}
+1019916301={
+	name=Haroenyou
+	dynasty=1009990130
+	dna="mcdhiafddgc"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=6
+	add_trait=misguided_warrior add_trait=temperate add_trait=charitable add_trait=honest add_trait=trusting 
+	 add_trait=drunkard add_trait=slow 
+	father=1019916294	#Tarhe
+	886.11.9={ birth=yes }
+	964.9.2={ death=yes }
+}
+1019916302={
+	name=Skotous
+	dynasty=1009990130
+	dna="acfhidfddhc"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	add_trait=indulgent_wastrel  add_trait=shy add_trait=chaste add_trait=zealous 
+	add_trait=paranoid 
+	father=1019916294	#Tarhe
+	890.12.12={ birth=yes }
+	957.1.15={ death=yes }
+}
+1019916303={
+	name=Stayetah
+	dynasty=1009990130
+	dna="ocfogdddbdc"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	add_trait=naive_appeaser add_trait=gregarious  add_trait=honest add_trait=cynical 
+	add_trait=slothful 
+	father=1019916294	#Tarhe
+	896.5.2={ birth=yes }
+	959.7.22={ death=yes }
+}
+1019916304={
+	name=Namachewana
+	female=yes
+	dynasty=1009990130
+	dna="onfhlpfdpac"
+	culture=huron religion=algic_pagan
+	father=1019916294	#Tarhe
+	900.11.16={ birth=yes }
+	960.12.14={ death=yes }
+}
+1019916305={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990130
+	dna="omchgdcndgc"
+	culture=huron religion=algic_pagan
+	father=1019916294	#Tarhe
+	904.10.26={ birth=yes }
+	981.2.26={ death=yes }
+}
+1019916306={
+	name=Tahunehawttee
+	dynasty=1009990130
+	dna="memhifomdgc"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=ambitious add_trait=charitable  add_trait=gluttonous 
+	add_trait=honest add_trait=shy 
+	father=1019916301	#Haroenyou
+	912.2.1={ birth=yes }
+	984.4.13={ death=yes }
+}
+1019916307={
+	name=Maudoronk
+	dynasty=1009990130
+	dna="ojdpiailkjo"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=6 learning=6
+	add_trait=scholarly_theologian add_trait=chaste add_trait=zealous 
+	father=1019916301	#Haroenyou
+	919.11.21={ birth=yes }
+	982.11.16={ death=yes }
+}
+1019916308={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990130
+	dna="ocdhpnedddc"
+	culture=huron religion=algic_pagan
+	father=1019916301	#Haroenyou
+	927.11.6={ birth=yes }
+	1000.6.17={ death=yes }
+}
+1019916309={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990130
+	dna="modhinfodgb"
+	culture=huron religion=algic_pagan
+	father=1019916301	#Haroenyou
+	931.1.7={ birth=yes }
+	1018.12.21={ death=yes }
+}
+1019916310={
+	name=Skotous
+	dynasty=1009990130
+	dna="mdmdifcadgc"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=5 learning=8
+	add_trait=grey_eminence  add_trait=content add_trait=zealous add_trait=envious 
+	add_trait=wroth 
+	father=1019916306	#Tahunehawttee
+	942.6.15={ birth=yes }
+	992.10.2={ death=yes }
+}
+1019916311={
+	name=Tehaawtorens
+	dynasty=1009990130
+	dna="hpmgciadjdc"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=lustful add_trait=slothful add_trait=gluttonous add_trait=arbitrary 
+	add_trait=trusting 
+	father=1019916306	#Tahunehawttee
+	945.5.9={ birth=yes }
+	1012.11.2={ death=yes }
+}
+1019916312={
+	name=Stayetah
+	dynasty=1009990130
+	dna="ahmeifdalgc"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=8 learning=6
+	add_trait=thrifty_clerk add_trait=mystic add_trait=cynical  add_trait=deceitful 
+	add_trait=temperate add_trait=patient add_trait=arbitrary 
+	father=1019916310	#Skotous
+	965.9.2={ birth=yes }
+	1025.8.7={ death=yes }
+}
+1019916313={
+	name=Tuayaurontoyou
+	dynasty=1009990130
+	dna="mfgdkfcedgc"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=7 learning=8
+	add_trait=elusive_shadow add_trait=lustful  add_trait=gregarious add_trait=just 
+	add_trait=paranoid add_trait=cynical add_trait=wounded add_trait=lunatic 
+	father=1019916310	#Skotous
+	968.12.20={ birth=yes }
+	1030.8.27={ death=yes }
+}
+1019916314={
+	name=Cheyawe
+	dynasty=1009990130
+	dna="mdonelcdjkc"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	add_trait=naive_appeaser add_trait=cynical add_trait=patient add_trait=lustful add_trait=slothful 
+	add_trait=charitable 
+	father=1019916310	#Skotous
+	971.3.27={ birth=yes }
+	1039.5.24={ death=yes }
+}
+1019916315={
+	name=Awmeyeeray
+	dynasty=1009990130
+	dna="bhmedfdcllc"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	add_trait=grey_eminence add_trait=zealous add_trait=temperate add_trait=chaste add_trait=craven 
+	add_trait=humble 
+	father=1019916312	#Stayetah
+	998.9.17={ birth=yes }
+	1072.10.3={ death=yes }
+}
+1019916316={
+	name=Taimah
+	female=yes
+	dynasty=1009990130
+	dna="jheeikfekpc"
+	culture=huron religion=algic_pagan
+	father=1019916312	#Stayetah
+	1003.9.26={ birth=yes }
+	1056.10.8={ death=yes }
+}
+1019916317={
+	name=Datasay
+	dynasty=1009990130
+	dna="ahmeifoghlc"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=6 learning=8
+	add_trait=scholarly_theologian add_trait=hedonist add_trait=temperate add_trait=just add_trait=lustful 
+	add_trait=diligent add_trait=content add_trait=stressed 
+	father=1019916312	#Stayetah
+	1005.11.16={ birth=yes }
+	1059.10.19={ death=yes }
+}
+1019916318={
+	name=Chagasort
+	female=yes
+	dynasty=1009990130
+	dna="akmaimhaljl"
+	culture=huron religion=algic_pagan
+	father=1019916312	#Stayetah
+	1009.11.7={ birth=yes }
+	1077.1.11={ death=yes }
+}
+1019916319={
+	name=Rontondu
+	dynasty=1009990130
+	dna="bhlekgdloli"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	add_trait=misguided_warrior add_trait=gardener add_trait=zealous add_trait=shy add_trait=arbitrary 
+	add_trait=honest add_trait=weak 
+	father=1019916315	#Awmeyeeray
+	1019.6.26={ birth=yes }
+	1074.8.22={ death=yes }
+}
+1019916320={
+	name=Kataka
+	female=yes
+	dynasty=1009990130
+	dna="bhmadmdflfc"
+	culture=huron religion=algic_pagan
+	father=1019916315	#Awmeyeeray
+	1024.11.22={ birth=yes }
+	1097.5.17={ death=yes }
+}
+1019916321={
+	name=Ahatsistari
+	dynasty=1009990130
+	dna="dhkedlhillc"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=ambitious add_trait=honest add_trait=gluttonous add_trait=stressed 
+	father=1019916315	#Awmeyeeray
+	1031.8.2={ birth=yes }
+	1087.9.15={ death=yes }
+}
+1019916322={
+	name=Adario
+	dynasty=1009990130
+	dna="bgeeagdcllg"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=6 learning=8
+	add_trait=grey_eminence add_trait=temperate add_trait=gregarious add_trait=trusting add_trait=hunchback 
+	father=1019916315	#Awmeyeeray
+	1036.5.18={ birth=yes }
+	1091.5.29={ death=yes }
+}
+1019916323={
+	name=Shateyyaronyah
+	dynasty=1009990130
+	dna="bkiiigdlbei"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=4 learning=6
+	add_trait=skilled_tactician add_trait=slothful add_trait=ambitious  add_trait=wroth 
+	father=1019916319	#Rontondu
+	1047.5.5={ birth=yes }
+	1115.6.30={ death=yes }
+}
+1019916324={
+	name=Thateyyanayoh
+	dynasty=1009990130
+	dna="bkmegjilili"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=poet  add_trait=paranoid add_trait=chaste 
+	add_trait=craven add_trait=wroth 
+	father=1019916319	#Rontondu
+	1053.1.17={ birth=yes }
+	1115.10.16={ death=yes }
+}
+1019916325={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990130
+	dna="mhphkodlilf"
+	culture=huron religion=algic_pagan
+	father=1019916319	#Rontondu
+	1058.9.27={ birth=yes }
+	1125.4.15={ death=yes }
+}
+1019916326={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990130
+	dna="bhlekgdpdhi"
+	culture=huron religion=algic_pagan
+	father=1019916319	#Rontondu
+	1062.8.2={ birth=yes }
+	1134.12.8={ death=yes }
+}
+1019916327={
+	name=Chagasort
+	female=yes
+	dynasty=1009990130
+	dna="chlihgjlilb"
+	culture=huron religion=algic_pagan
+	father=1019916319	#Rontondu
+	1065.3.1={ birth=yes }
+	1122.11.11={ death=yes }
+}
+1019916328={
+	name=Teoudetosso
+	dynasty=1009990130
+	dna="mjloegadben"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=6
+	add_trait=tough_soldier add_trait=honest add_trait=just  
+	father=1019916323	#Shateyyaronyah
+	1070.2.15={ birth=yes }
+	1137.9.24={ death=yes }
+}
+1019916329={
+	name=Skahomat
+	dynasty=1009990130
+	dna="bkikigmmbhk"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=trusting add_trait=gregarious add_trait=slothful add_trait=deceitful 
+	add_trait=greedy 
+	father=1019916323	#Shateyyaronyah
+	1076.5.23={ birth=yes }
+	1137.12.25={ death=yes }
+}
+1019916330={
+	name=Neshota
+	female=yes
+	dynasty=1009990130
+	dna="hkbblgahbji"
+	culture=huron religion=algic_pagan
+	father=1019916323	#Shateyyaronyah
+	1082.9.13={ birth=yes }
+	1153.3.18={ death=yes }
+}
+1019916331={
+	name=Haroenyou
+	dynasty=1009990130
+	dna="mjlodoldoea"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	add_trait=naive_appeaser add_trait=zealous add_trait=chaste add_trait=gluttonous  
+	father=1019916328	#Teoudetosso
+	1101.1.27={ birth=yes }
+	1163.5.2={ death=yes }
+}
+1019916332={
+	name=Haroenyou
+	dynasty=1009990130
+	dna="djlonlfaien"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=6 learning=8
+	add_trait=elusive_shadow add_trait=gluttonous add_trait=lustful add_trait=humble  
+	add_trait=charitable 
+	father=1019916328	#Teoudetosso
+	1105.11.18={ birth=yes }
+	1171.8.9={ death=yes }
+}
+1019916333={
+	name=Skahomat
+	dynasty=1009990130
+	dna="cjnpehadeli"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=4 learning=5
+	add_trait=flamboyant_schemer  add_trait=patient add_trait=cynical add_trait=chaste 
+	father=1019916328	#Teoudetosso
+	1112.5.24={ birth=yes }
+	1185.12.20={ death=yes }
+}
+1019916334={
+	name=Chagasort
+	female=yes
+	dynasty=1009990130
+	dna="pjpbigcbbeb"
+	culture=huron religion=algic_pagan
+	father=1019916328	#Teoudetosso
+	1118.7.19={ birth=yes }
+	1187.1.21={ death=yes }
+}
+1019916335={
+	name=Datasay
+	dynasty=1009990130
+	dna="magbboldgni"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=7 learning=5
+	add_trait=tough_soldier add_trait=arbitrary add_trait=gluttonous add_trait=trusting add_trait=proud 
+	father=1019916331	#Haroenyou
+	1128.4.12={ birth=yes }
+	1207.5.11={ death=yes }
+}
+1019916336={
+	name=Chagasort
+	female=yes
+	dynasty=1009990130
+	dna="jjpodoldpea"
+	culture=huron religion=algic_pagan
+	father=1019916331	#Haroenyou
+	1133.5.22={ birth=yes }
+	1222.7.27={ death=yes }
+}
+1019916337={
+	name=Pecama
+	female=yes
+	dynasty=1009990130
+	dna="aonpjaknaka"
+	culture=huron religion=algic_pagan
+	father=1019916331	#Haroenyou
+	1138.7.4={ birth=yes }
+	1216.2.27={ death=yes }
+}
+1019916338={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990130
+	dna="mhpokgcdogi"
+	culture=huron religion=algic_pagan
+	father=1019916331	#Haroenyou
+	1141.5.23={ birth=yes }
+	1221.12.17={ death=yes }
+}
+1019916339={
+	name=Cheyawe
+	dynasty=1009990130
+	dna="mhbodofdoea"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=4 learning=7
+	add_trait=martial_cleric add_trait=arbitrary add_trait=honest add_trait=craven  
+	add_trait=diligent 
+	father=1019916331	#Haroenyou
+	1146.11.10={ birth=yes }
+	1197.7.4={ death=yes }
+}
+1019916340={
+	name=Kataka
+	female=yes
+	dynasty=1009990130
+	dna="mjlobolfoma"
+	culture=huron religion=algic_pagan
+	father=1019916331	#Haroenyou
+	1150.12.21={ birth=yes }
+	1203.10.16={ death=yes }
+}
+1019916341={
+	name=Pecama
+	female=yes
+	dynasty=1009990130
+	dna="ocbodpldoba"
+	culture=huron religion=algic_pagan
+	father=1019916331	#Haroenyou
+	1154.7.17={ birth=yes }
+	1207.1.12={ death=yes }
+}
+1019916342={
+	name=Shaawrunthe
+	dynasty=1009990130
+	dna="dacbmclcgdi"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	add_trait=flamboyant_schemer  add_trait=paranoid add_trait=just add_trait=ambitious 
+	father=1019916335	#Datasay
+	1148.6.6={ birth=yes }
+	1219.8.27={ death=yes }
+}
+1019916343={
+	name=Shawrunthie
+	dynasty=1009990130
+	dna="jaicbolkgee"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=7
+	add_trait=charismatic_negotiator add_trait=temperate add_trait=deceitful add_trait=just 
+	father=1019916335	#Datasay
+	1150.4.21={ birth=yes }
+	1226.11.24={ death=yes }
+}
+1019916344={
+	name=Shaawrunthe
+	dynasty=1009990130
+	dna="mflbmolfmni"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	add_trait=grey_eminence add_trait=deceitful add_trait=temperate add_trait=lunatic 
+	father=1019916335	#Datasay
+	1155.5.6={ birth=yes }
+	1208.6.18={ death=yes }
+}
+1019916345={
+	name=Horonu
+	dynasty=1009990130
+	dna="magjbnfcaci"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=8 learning=8
+	add_trait=skilled_tactician add_trait=diligent add_trait=arbitrary 
+	father=1019916335	#Datasay
+	1158.7.22={ birth=yes }
+	1226.9.3={ death=yes }
+}
+1019916346={
+	name=Taima
+	female=yes
+	dynasty=1009990130
+	dna="jagbboagcgk"
+	culture=huron religion=algic_pagan
+	father=1019916335	#Datasay
+	1161.10.16={ birth=yes }
+	1236.7.5={ death=yes }
+}
+1019916347={
+	name=Dauatout
+	dynasty=1009990130
+	dna="oacemclhkdi"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=duelist add_trait=chaste add_trait=brave add_trait=cynical 
+	add_trait=temperate add_trait=depressed 
+	father=1019916342	#Shaawrunthe
+	1178.9.20={ birth=yes }
+	1252.8.18={ death=yes }
+}
+1019916348={
+	name=Shawrunthie
+	dynasty=1009990130
+	dna="pmlbkmlcgji"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=patient add_trait=gregarious add_trait=paranoid add_trait=honest 
+	add_trait=lustful 
+	father=1019916342	#Shaawrunthe
+	1182.1.13={ birth=yes }
+	1238.1.8={ death=yes }
+}
+1019916349={
+	name=Taimah
+	female=yes
+	dynasty=1009990130
+	dna="facmddbjgni"
+	culture=huron religion=algic_pagan
+	father=1019916342	#Shaawrunthe
+	1186.9.26={ birth=yes }
+	1262.9.20={ death=yes }
+}
+1019916350={
+	name=Doueyenteat
+	dynasty=1009990130
+	dna="hicemclhkni"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=proud  add_trait=gregarious add_trait=temperate 
+	father=1019916347	#Dauatout
+	1204.12.1={ birth=yes }
+	1268.5.31={ death=yes }
+}
+1019916351={
+	name=Shateyyaronyah
+	dynasty=1009990130
+	dna="oajemcbaodi"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=7 learning=8
+	add_trait=thrifty_clerk add_trait=zealous add_trait=charitable  
+	father=1019916347	#Dauatout
+	1211.12.22={ birth=yes }
+	1284.8.13={ death=yes }
+}
+1019916352={
+	name=Namachewana
+	female=yes
+	dynasty=1009990130
+	dna="pacekclbkdi"
+	culture=huron religion=algic_pagan
+	father=1019916347	#Dauatout
+	1219.8.1={ birth=yes }
+	1287.3.24={ death=yes }
+}
+1019916353={
+	name=Chagasort
+	female=yes
+	dynasty=1009990130
+	dna="ibcempcggdi"
+	culture=huron religion=algic_pagan
+	father=1019916347	#Dauatout
+	1222.9.19={ birth=yes }
+	1287.9.14={ death=yes }
+}
+1019916354={
+	name=Chagasort
+	female=yes
+	dynasty=1009990130
+	dna="ehhemjohnmf"
+	culture=huron religion=algic_pagan
+	father=1019916350	#Doueyenteat
+	1223.8.25={ birth=yes }
+	1297.8.12={ death=yes }
+}
+1019916355={
+	name=Tuayaurontoyou
+	dynasty=1009990130
+	dna="oanniclaknf"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=gluttonous  add_trait=charitable add_trait=wroth 
+	father=1019916350	#Doueyenteat
+	1228.7.19={ birth=yes }
+	1299.9.25={ death=yes }
+}
+1019916356={
+	name=Terhataw
+	dynasty=1009990130
+	dna="bhkbmcnhogb"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=trusting add_trait=slothful add_trait=lustful add_trait=wroth 
+	add_trait=temperate 
+	father=1019916350	#Doueyenteat
+	1232.9.7={ birth=yes }
+	1309.9.21={ death=yes }
+}
+1019916357={
+	name=Chagasort
+	female=yes
+	dynasty=1009990130
+	dna="hoaeaklhknl"
+	culture=huron religion=algic_pagan
+	father=1019916350	#Doueyenteat
+	1237.5.27={ birth=yes }
+	1290.11.17={ death=yes }
+}
+1019916358={
+	name=Neshota
+	female=yes
+	dynasty=1009990130
+	dna="hicemhbbjmg"
+	culture=huron religion=algic_pagan
+	father=1019916350	#Doueyenteat
+	1241.4.6={ birth=yes }
+	1310.3.28={ death=yes }
+}
+1019916359={
+	name=Thateyyanayoh
+	dynasty=1009990130
+	dna="babnigcaknd"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=5 learning=6
+	add_trait=mastermind_theologian add_trait=impaler add_trait=greedy add_trait=arbitrary add_trait=gluttonous 
+	father=1019916355	#Tuayaurontoyou
+	1258.5.10={ birth=yes }
+	1332.12.29={ death=yes }
+}
+1019916360={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990130
+	dna="mcnnicdgngf"
+	culture=huron religion=algic_pagan
+	father=1019916355	#Tuayaurontoyou
+	1263.7.8={ birth=yes }
+	1334.6.17={ death=yes }
+}
+1019916361={
+	name=Taimah
+	female=yes
+	dynasty=1009990130
+	dna="pbnaicbfgnk"
+	culture=huron religion=algic_pagan
+	father=1019916355	#Tuayaurontoyou
+	1267.8.2={ birth=yes }
+	1358.8.19={ death=yes }
+}
+1019916362={
+	name=Daughshuttayah
+	dynasty=1009990130
+	dna="namnckgakgf"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=4 learning=7
+	add_trait=flamboyant_schemer add_trait=scholar add_trait=zealous add_trait=greedy add_trait=arbitrary 
+	add_trait=chaste 
+	father=1019916355	#Tuayaurontoyou
+	1272.2.22={ birth=yes }
+	1357.10.6={ death=yes }
+}
+1019916363={
+	name=Daughshuttayah
+	dynasty=1009990130
+	dna="bejnegclkng"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	add_trait=charismatic_negotiator add_trait=proud  add_trait=charitable 
+	father=1019916359	#Thateyyanayoh
+	1290.8.4={ birth=yes }
+	1356.9.17={ death=yes }
+}
+1019916364={
+	name=Kataka
+	female=yes
+	dynasty=1009990130
+	dna="cagpianapdd"
+	culture=huron religion=algic_pagan
+	father=1019916359	#Thateyyanayoh
+	1294.8.22={ birth=yes }
+	1347.9.23={ death=yes }
+}
+1019916365={
+	name=Chagasort
+	female=yes
+	dynasty=1009990130
+	dna="labieeofenp"
+	culture=huron religion=algic_pagan
+	father=1019916359	#Thateyyanayoh
+	1299.6.7={ birth=yes }
+	1365.7.22={ death=yes }
+}
+1019916366={
+	name=Cheyawe
+	dynasty=1009990130
+	dna="bbmdhgegfed"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=proud add_trait=deceitful add_trait=chaste add_trait=gregarious 
+	add_trait=lunatic add_trait=harelip 
+	father=1019916359	#Thateyyanayoh
+	1303.12.4={ birth=yes }
+	1350.4.26={ death=yes }
+}
+1019916367={
+	name=Thateyyanayoh
+	dynasty=1009990130
+	dna="bmcniccaklf"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=gregarious add_trait=greedy add_trait=craven add_trait=arbitrary 
+	add_trait=zealous add_trait=deceitful 
+	father=1019916359	#Thateyyanayoh
+	1306.2.7={ birth=yes }
+	1374.5.22={ death=yes }
+}
+1019916368={
+	name=Taimah
+	female=yes
+	dynasty=1009990130
+	dna="mmbiikcnond"
+	culture=huron religion=algic_pagan
+	father=1019916359	#Thateyyanayoh
+	1310.2.24={ birth=yes }
+	1372.7.1={ death=yes }
+}
+1019916369={
+	name=Shateyyaronyah
+	dynasty=1009990130
+	dna="babbicafkin"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=just add_trait=gluttonous  add_trait=wroth 
+	add_trait=deceitful add_trait=wounded 
+	father=1019916359	#Thateyyanayoh
+	1314.12.4={ birth=yes }
+	1372.11.19={ death=yes }
+}
+1019916370={
+	name=Ahatsistari
+	dynasty=1009990130
+	dna="ibjhekflkig"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=7
+	add_trait=indulgent_wastrel add_trait=cynical add_trait=brave add_trait=ambitious add_trait=gluttonous 
+	father=1019916363	#Daughshuttayah
+	1313.6.4={ birth=yes }
+	1416.4.22={ death=yes }
+}
+1019916371={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990130
+	dna="bbjnegclkng"
+	culture=huron religion=algic_pagan
+	father=1019916363	#Daughshuttayah
+	1319.10.23={ birth=yes }
+	1393.8.14={ death=yes }
+}
+1019916372={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990130
+	dna="cgmcijflkin"
+	culture=huron religion=algic_pagan
+	father=1019916370	#Ahatsistari
+	1337.2.5={ birth=yes }
+	1409.6.13={ death=yes }
+}
+1019916373={
+	name=Horonu
+	dynasty=1009990130
+	dna="bbkhcbflijf"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=arbitrary add_trait=trusting add_trait=deceitful add_trait=craven 
+	add_trait=patient add_trait=lustful 
+	father=1019916370	#Ahatsistari
+	1342.8.1={ birth=yes }
+	1401.12.10={ death=yes }
+}
+1019916374={
+	name=Teyyaghtwa
+	dynasty=1009990130
+	dna="mcohidlfdig"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=paranoid add_trait=patient add_trait=diligent  
+	father=1019916370	#Ahatsistari
+	1346.6.13={ birth=yes }
+	1425.11.10={ death=yes }
+}
+1019916375={
+	name=Namachewana
+	female=yes
+	dynasty=1009990130
+	dna="objhejfakng"
+	culture=huron religion=algic_pagan
+	father=1019916370	#Ahatsistari
+	1353.12.23={ birth=yes }
+	1424.2.7={ death=yes }
+}
+1019916376={
+	name=Quouqua
+	dynasty=1009990131
+	dna="dhogimokcno"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=elusive_shadow add_trait=lustful add_trait=cynical add_trait=humble add_trait=just 
+	719.11.23={ birth=yes }
+	805.8.1={ death=yes }
+}
+1019916377={
+	name=Taimah
+	female=yes
+	dynasty=1009990131
+	dna="doebimoojgl"
+	culture=huron religion=algic_pagan
+	father=1019916376	#Quouqua
+	744.12.25={ birth=yes }
+	806.1.14={ death=yes }
+}
+1019916378={
+	name=Tuayaurontoyou
+	dynasty=1009990131
+	dna="dnogpaofcng"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=gluttonous add_trait=patient add_trait=charitable add_trait=humble 
+	add_trait=depressed 
+	father=1019916376	#Quouqua
+	748.10.4={ birth=yes }
+	820.5.30={ death=yes }
+}
+1019916379={
+	name=Ahatsistari
+	dynasty=1009990131
+	dna="dnognmhdcio"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=envious add_trait=diligent add_trait=ambitious add_trait=brave 
+	add_trait=deceitful 
+	father=1019916376	#Quouqua
+	751.11.19={ birth=yes }
+	818.3.11={ death=yes }
+}
+1019916380={
+	name=Chagasort
+	female=yes
+	dynasty=1009990131
+	dna="dhoglpondnn"
+	culture=huron religion=algic_pagan
+	father=1019916376	#Quouqua
+	754.9.8={ birth=yes }
+	846.6.5={ death=yes }
+}
+1019916381={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990131
+	dna="ficlieggcnf"
+	culture=huron religion=algic_pagan
+	father=1019916376	#Quouqua
+	760.4.10={ birth=yes }
+	814.2.23={ death=yes }
+}
+1019916382={
+	name=Miere
+	dynasty=1009990131
+	dna="phogomoccld"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=6 learning=5
+	add_trait=intricate_webweaver add_trait=hunter add_trait=honest add_trait=paranoid add_trait=charitable 
+	 add_trait=chaste 
+	father=1019916376	#Quouqua
+	763.5.13={ birth=yes }
+	832.2.28={ death=yes }
+}
+1019916383={
+	name=Tarhe
+	dynasty=1009990131
+	dna="ggkeignkclk"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=5 learning=6
+	add_trait=misguided_warrior add_trait=craven add_trait=slothful add_trait=trusting  
+	add_trait=honest add_trait=lunatic 
+	father=1019916376	#Quouqua
+	768.9.20={ birth=yes }
+	852.5.10={ death=yes }
+}
+1019916384={
+	name=Cheyawe
+	dynasty=1009990131
+	dna="noackaoejnk"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	add_trait=scholarly_theologian add_trait=lustful add_trait=patient add_trait=brave add_trait=paranoid 
+	add_trait=drunkard add_trait=fair 
+	father=1019916378	#Tuayaurontoyou
+	776.9.3={ birth=yes }
+	861.3.15={ death=yes }
+}
+1019916385={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990131
+	dna="dnogpaofcfg"
+	culture=huron religion=algic_pagan
+	father=1019916378	#Tuayaurontoyou
+	782.2.15={ birth=yes }
+	855.4.17={ death=yes }
+}
+1019916386={
+	name=Hawdoro
+	dynasty=1009990131
+	dna="dnngaalfcnj"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=poet add_trait=cynical add_trait=charitable  
+	add_trait=gluttonous add_trait=arbitrary add_trait=shy 
+	father=1019916378	#Tuayaurontoyou
+	787.6.6={ birth=yes }
+	867.7.20={ death=yes }
+}
+1019916387={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990131
+	dna="dnbgpdkciff"
+	culture=huron religion=algic_pagan
+	father=1019916378	#Tuayaurontoyou
+	790.1.23={ birth=yes }
+	868.5.28={ death=yes }
+}
+1019916388={
+	name=Kataka
+	female=yes
+	dynasty=1009990131
+	dna="pdngpkofcno"
+	culture=huron religion=algic_pagan
+	father=1019916378	#Tuayaurontoyou
+	796.6.12={ birth=yes }
+	889.3.6={ death=yes }
+}
+1019916389={
+	name=Cheyawe
+	dynasty=1009990131
+	dna="docphaoejmk"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=lustful add_trait=honest add_trait=greedy add_trait=depressed 
+	father=1019916384	#Cheyawe
+	799.2.14={ birth=yes }
+	875.3.20={ death=yes }
+}
+1019916390={
+	name=Pecama
+	female=yes
+	dynasty=1009990131
+	dna="cokndaaejgk"
+	culture=huron religion=algic_pagan
+	father=1019916384	#Cheyawe
+	806.1.4={ birth=yes }
+	859.10.5={ death=yes }
+}
+1019916391={
+	name=Pecama
+	female=yes
+	dynasty=1009990131
+	dna="noicifplknk"
+	culture=huron religion=algic_pagan
+	father=1019916384	#Cheyawe
+	809.8.15={ birth=yes }
+	897.2.27={ death=yes }
+}
+1019916392={
+	name=Neshota
+	female=yes
+	dynasty=1009990131
+	dna="naackalpbkc"
+	culture=huron religion=algic_pagan
+	father=1019916384	#Cheyawe
+	816.2.19={ birth=yes }
+	902.6.1={ death=yes }
+}
+1019916393={
+	name=Thateyyanayoh
+	dynasty=1009990131
+	dna="fhnbplonbfc"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=5 learning=5
+	add_trait=scholarly_theologian add_trait=content  add_trait=greedy  
+	add_trait=paranoid 
+	father=1019916389	#Cheyawe
+	825.8.27={ birth=yes }
+	907.7.8={ death=yes }
+}
+1019916394={
+	name=Maudoronk
+	dynasty=1009990131
+	dna="docbcaolahk"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=just add_trait=proud add_trait=craven add_trait=gregarious 
+	father=1019916389	#Cheyawe
+	829.2.12={ birth=yes }
+	885.6.2={ death=yes }
+}
+1019916395={
+	name=Quouqua
+	dynasty=1009990131
+	dna="iocaoamemmn"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=6 learning=7
+	add_trait=intricate_webweaver add_trait=diligent add_trait=charitable add_trait=ambitious add_trait=shy 
+	add_trait=chaste add_trait=zealous 
+	father=1019916389	#Cheyawe
+	832.1.26={ birth=yes }
+	894.11.17={ death=yes }
+}
+1019916396={
+	name=Maudoronk
+	dynasty=1009990131
+	dna="dacphahihhd"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=greedy add_trait=lustful  add_trait=slothful 
+	add_trait=humble add_trait=cynical 
+	father=1019916389	#Cheyawe
+	837.12.6={ birth=yes }
+	908.1.15={ death=yes }
+}
+1019916397={
+	name=Rontondu
+	dynasty=1009990131
+	dna="doapdaokpmk"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=proud  
+	father=1019916389	#Cheyawe
+	840.3.14={ birth=yes }
+	905.4.3={ death=yes }
+}
+1019916398={
+	name=Cheyawe
+	dynasty=1009990131
+	dna="poghpaoeijk"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=8 learning=5
+	add_trait=intricate_webweaver add_trait=cynical add_trait=chaste  
+	father=1019916389	#Cheyawe
+	843.3.5={ birth=yes }
+	911.7.19={ death=yes }
+}
+1019916399={
+	name=Tahunehawttee
+	dynasty=1009990131
+	dna="doldhadjjmk"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=7 learning=4
+	add_trait=tough_soldier add_trait=greedy  add_trait=cynical add_trait=gluttonous 
+	father=1019916389	#Cheyawe
+	849.3.15={ birth=yes }
+	907.11.26={ death=yes }
+}
+1019916400={
+	name=Taimah
+	female=yes
+	dynasty=1009990131
+	dna="fanlioonbfc"
+	culture=huron religion=algic_pagan
+	father=1019916393	#Thateyyanayoh
+	852.5.14={ birth=yes }
+	919.8.11={ death=yes }
+}
+1019916401={
+	name=Teyyaghtwa
+	dynasty=1009990131
+	dna="fjpleaocbfo"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=8
+	add_trait=mastermind_theologian add_trait=honest add_trait=humble  add_trait=genius 
+	father=1019916393	#Thateyyanayoh
+	858.8.15={ birth=yes }
+	915.6.16={ death=yes }
+}
+1019916402={
+	name=Chagasort
+	female=yes
+	dynasty=1009990131
+	dna="fhnfplonlal"
+	culture=huron religion=algic_pagan
+	father=1019916393	#Thateyyanayoh
+	861.1.27={ birth=yes }
+	926.7.3={ death=yes }
+}
+1019916403={
+	name=Maudoronk
+	dynasty=1009990131
+	dna="fhejiloadoc"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=scholar add_trait=shy add_trait=trusting 
+	father=1019916393	#Thateyyanayoh
+	867.10.8={ birth=yes }
+	920.6.30={ death=yes }
+}
+1019916404={
+	name=Tschauendah
+	dynasty=1009990131
+	dna="meppkhkcbfa"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=greedy add_trait=humble add_trait=gluttonous add_trait=gregarious 
+	add_trait=hunchback 
+	father=1019916401	#Teyyaghtwa
+	883.7.19={ birth=yes }
+	938.12.22={ death=yes }
+}
+1019916405={
+	name=Horonu
+	dynasty=1009990131
+	dna="fipleaocbio"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=4 learning=6
+	add_trait=elusive_shadow add_trait=arbitrary add_trait=greedy add_trait=ambitious 
+	father=1019916401	#Teyyaghtwa
+	889.10.26={ birth=yes }
+	979.8.18={ death=yes }
+}
+1019916406={
+	name=Tarhe
+	dynasty=1009990131
+	dna="fjpajnodhfn"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	add_trait=tough_soldier add_trait=gluttonous add_trait=ambitious add_trait=paranoid 
+	father=1019916401	#Teyyaghtwa
+	893.2.20={ birth=yes }
+	962.11.28={ death=yes }
+}
+1019916407={
+	name=Shaawrunthe
+	dynasty=1009990131
+	dna="fjpfekocbfo"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	add_trait=intricate_webweaver  add_trait=content add_trait=gregarious add_trait=humble 
+	father=1019916401	#Teyyaghtwa
+	900.11.10={ birth=yes }
+	965.11.3={ death=yes }
+}
+1019916408={
+	name=Taima
+	female=yes
+	dynasty=1009990131
+	dna="fjljaaolkfo"
+	culture=huron religion=algic_pagan
+	father=1019916401	#Teyyaghtwa
+	904.7.20={ birth=yes }
+	972.10.19={ death=yes }
+}
+1019916409={
+	name=Tschauendah
+	dynasty=1009990131
+	dna="ejileaocblo"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=chaste add_trait=content add_trait=brave 
+	father=1019916401	#Teyyaghtwa
+	909.9.5={ birth=yes }
+	992.3.13={ death=yes }
+}
+1019916410={
+	name=Taima
+	female=yes
+	dynasty=1009990131
+	dna="nbphegibdfo"
+	culture=huron religion=algic_pagan
+	father=1019916401	#Teyyaghtwa
+	915.6.25={ birth=yes }
+	979.6.16={ death=yes }
+}
+1019916411={
+	name=Pecama
+	female=yes
+	dynasty=1009990131
+	dna="mamhoikclba"
+	culture=huron religion=algic_pagan
+	father=1019916404	#Tschauendah
+	912.11.12={ birth=yes }
+	983.6.8={ death=yes }
+}
+1019916412={
+	name=Namachewana
+	female=yes
+	dynasty=1009990131
+	dna="pecikekobfl"
+	culture=huron religion=algic_pagan
+	father=1019916404	#Tschauendah
+	918.7.20={ birth=yes }
+	987.10.24={ death=yes }
+}
+1019916413={
+	name=Stayetah
+	dynasty=1009990131
+	dna="mefpdhkcbfi"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=6 learning=8
+	add_trait=tough_soldier add_trait=zealous add_trait=deceitful add_trait=greedy  
+	add_trait=wroth add_trait=possessed 
+	father=1019916404	#Tschauendah
+	922.5.25={ birth=yes }
+	964.1.28={ death=yes }
+}
+1019916414={
+	name=Skahomat
+	dynasty=1009990131
+	dna="fanphkgdbgi"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=6 learning=8
+	add_trait=tough_soldier add_trait=honest add_trait=chaste add_trait=cynical  
+	father=1019916413	#Stayetah
+	946.4.8={ birth=yes }
+	1016.4.16={ death=yes }
+}
+1019916415={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990131
+	dna="cffpdikoadi"
+	culture=huron religion=algic_pagan
+	father=1019916413	#Stayetah
+	952.11.2={ birth=yes }
+	1038.9.7={ death=yes }
+}
+1019916416={
+	name=Shawrunthie
+	dynasty=1009990131
+	dna="neaddokjbek"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=cynical add_trait=gluttonous add_trait=wroth add_trait=arbitrary 
+	add_trait=ambitious 
+	father=1019916413	#Stayetah
+	960.3.17={ birth=yes }
+	1036.1.29={ death=yes }
+}
+1019916417={
+	name=Stayetah
+	dynasty=1009990131
+	dna="kgkphgpfbgi"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=intricate_webweaver add_trait=humble add_trait=zealous add_trait=honest add_trait=just 
+	add_trait=possessed 
+	father=1019916414	#Skahomat
+	971.8.6={ birth=yes }
+	1049.8.15={ death=yes }
+}
+1019916418={
+	name=Taima
+	female=yes
+	dynasty=1009990131
+	dna="fpalhkjfdhl"
+	culture=huron religion=algic_pagan
+	father=1019916414	#Skahomat
+	976.12.16={ birth=yes }
+	1041.4.5={ death=yes }
+}
+1019916419={
+	name=Teoudetosso
+	dynasty=1009990131
+	dna="iaabhkdkhfk"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=hedonist add_trait=wroth add_trait=cynical add_trait=charitable 
+	add_trait=content 
+	father=1019916414	#Skahomat
+	981.2.26={ birth=yes }
+	1051.5.13={ death=yes }
+}
+1019916420={
+	name=Dunquat
+	dynasty=1009990131
+	dna="klbphbbofgp"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=gluttonous add_trait=paranoid add_trait=ambitious add_trait=greedy 
+	add_trait=zealous 
+	father=1019916414	#Skahomat
+	984.10.19={ birth=yes }
+	1056.10.3={ death=yes }
+}
+1019916421={
+	name=Datasay
+	dynasty=1009990131
+	dna="agkpogpfmgm"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=zealous add_trait=paranoid add_trait=shy add_trait=proud 
+	add_trait=gluttonous 
+	father=1019916417	#Stayetah
+	996.1.2={ birth=yes }
+	1062.5.21={ death=yes }
+}
+1019916422={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990131
+	dna="aokphgpcbga"
+	culture=huron religion=algic_pagan
+	father=1019916417	#Stayetah
+	1000.7.11={ birth=yes }
+	1074.1.9={ death=yes }
+}
+1019916423={
+	name=Datasay
+	dynasty=1009990131
+	dna="kcklhgiaagi"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	add_trait=midas_touched add_trait=ambitious add_trait=patient add_trait=drunkard 
+	father=1019916417	#Stayetah
+	1006.6.7={ birth=yes }
+	1068.11.24={ death=yes }
+}
+1019916424={
+	name=Ahatsistari
+	dynasty=1009990131
+	dna="kgckngpfbli"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=poet add_trait=temperate add_trait=content  
+	add_trait=greedy add_trait=proud 
+	father=1019916417	#Stayetah
+	1011.3.15={ birth=yes }
+	1050.12.22={ death=yes }
+}
+1019916425={
+	name=Chagasort
+	female=yes
+	dynasty=1009990131
+	dna="agopfgoabgi"
+	culture=huron religion=algic_pagan
+	father=1019916417	#Stayetah
+	1014.12.2={ birth=yes }
+	1093.4.28={ death=yes }
+}
+1019916426={
+	name=Chagasort
+	female=yes
+	dynasty=1009990131
+	dna="cmkbfgmfpgi"
+	culture=huron religion=algic_pagan
+	father=1019916417	#Stayetah
+	1017.6.22={ birth=yes }
+	1085.5.1={ death=yes }
+}
+1019916427={
+	name=Tehaawtorens
+	dynasty=1009990131
+	dna="khkeggpdaji"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=zealous add_trait=charitable add_trait=paranoid 
+	father=1019916417	#Stayetah
+	1024.11.5={ birth=yes }
+	1081.2.9={ death=yes }
+}
+1019916428={
+	name=Shaawrunthe
+	dynasty=1009990131
+	dna="adkplpcfmgm"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=deceitful add_trait=cynical add_trait=temperate 
+	father=1019916421	#Datasay
+	1020.3.23={ birth=yes }
+	1099.5.22={ death=yes }
+}
+1019916429={
+	name=Teyyaghtwa
+	dynasty=1009990131
+	dna="agkphppcmgp"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=craven add_trait=charitable add_trait=shy 
+	father=1019916421	#Datasay
+	1023.9.4={ birth=yes }
+	1095.1.26={ death=yes }
+}
+1019916430={
+	name=Haroenyou
+	dynasty=1009990131
+	dna="nhhpcgdfmmm"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=4 learning=6
+	add_trait=midas_touched add_trait=chaste add_trait=envious 
+	father=1019916421	#Datasay
+	1028.9.23={ birth=yes }
+	1105.12.10={ death=yes }
+}
+1019916431={
+	name=Taima
+	female=yes
+	dynasty=1009990131
+	dna="ppkpfgpfieh"
+	culture=huron religion=algic_pagan
+	father=1019916421	#Datasay
+	1033.11.13={ birth=yes }
+	1091.11.27={ death=yes }
+}
+1019916432={
+	name=Tuayaurontoyou
+	dynasty=1009990131
+	dna="ggkpogppkgm"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=4 learning=4
+	add_trait=flamboyant_schemer add_trait=gluttonous add_trait=content 
+	father=1019916421	#Datasay
+	1038.2.5={ birth=yes }
+	1121.10.14={ death=yes }
+}
+1019916433={
+	name=Datasay
+	dynasty=1009990131
+	dna="agkmegifman"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=7 learning=5
+	add_trait=indulgent_wastrel add_trait=deceitful add_trait=diligent add_trait=greedy add_trait=stressed 
+	father=1019916421	#Datasay
+	1041.1.9={ birth=yes }
+	1117.1.1={ death=yes }
+}
+1019916434={
+	name=Neshota
+	female=yes
+	dynasty=1009990131
+	dna="admhldcinim"
+	culture=huron religion=algic_pagan
+	father=1019916428	#Shaawrunthe
+	1044.1.23={ birth=yes }
+	1098.6.26={ death=yes }
+}
+1019916435={
+	name=Daughshuttayah
+	dynasty=1009990131
+	dna="hkkplhcfggm"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=4
+	add_trait=thrifty_clerk add_trait=impaler add_trait=paranoid add_trait=gregarious 
+	father=1019916428	#Shaawrunthe
+	1048.8.2={ birth=yes }
+	1120.6.14={ death=yes }
+}
+1019916436={
+	name=Tuayaurontoyou
+	dynasty=1009990131
+	dna="lcnjlgcfmom"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=7 learning=5
+	add_trait=elusive_shadow add_trait=arbitrary add_trait=craven 
+	father=1019916428	#Shaawrunthe
+	1054.10.11={ birth=yes }
+	1135.7.3={ death=yes }
+}
+1019916437={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990131
+	dna="adkplpcdccc"
+	culture=huron religion=algic_pagan
+	father=1019916428	#Shaawrunthe
+	1058.2.20={ birth=yes }
+	1115.9.25={ death=yes }
+}
+1019916438={
+	name=Thateyyanayoh
+	dynasty=1009990131
+	dna="nkkplbcdade"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=8 learning=4
+	add_trait=indulgent_wastrel add_trait=zealous add_trait=proud 
+	father=1019916435	#Daughshuttayah
+	1070.2.19={ birth=yes }
+	1170.8.28={ death=yes }
+}
+1019916439={
+	name=Shateyyaronyah
+	dynasty=1009990131
+	dna="hkkcldefgim"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=honest add_trait=diligent add_trait=zealous 
+	father=1019916435	#Daughshuttayah
+	1075.7.8={ birth=yes }
+	1144.2.9={ death=yes }
+}
+1019916440={
+	name=Pecama
+	female=yes
+	dynasty=1009990131
+	dna="hdoplfcfgam"
+	culture=huron religion=algic_pagan
+	father=1019916435	#Daughshuttayah
+	1079.7.26={ birth=yes }
+	1167.1.11={ death=yes }
+}
+1019916441={
+	name=Miere
+	dynasty=1009990131
+	dna="hkbjlhjdigg"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	add_trait=flamboyant_schemer add_trait=patient  add_trait=honest 
+	father=1019916435	#Daughshuttayah
+	1082.3.27={ birth=yes }
+	1151.11.19={ death=yes }
+}
+1019916442={
+	name=Neshota
+	female=yes
+	dynasty=1009990131
+	dna="hifhkknffgm"
+	culture=huron religion=algic_pagan
+	father=1019916435	#Daughshuttayah
+	1087.6.12={ birth=yes }
+	1139.10.18={ death=yes }
+}
+1019916443={
+	name=Taimah
+	female=yes
+	dynasty=1009990131
+	dna="cbmilhplfgm"
+	culture=huron religion=algic_pagan
+	father=1019916435	#Daughshuttayah
+	1091.3.26={ birth=yes }
+	1170.6.3={ death=yes }
+}
+1019916444={
+	name=Adario
+	dynasty=1009990131
+	dna="hinilackgfo"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=patient add_trait=chaste add_trait=honest 
+	father=1019916435	#Daughshuttayah
+	1098.7.13={ birth=yes }
+	1158.11.4={ death=yes }
+}
+1019916445={
+	name=Maudoronk
+	dynasty=1009990131
+	dna="ekkalbcgabh"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=gluttonous add_trait=shy add_trait=honest 
+	father=1019916438	#Thateyyanayoh
+	1098.10.10={ birth=yes }
+	1163.3.11={ death=yes }
+}
+1019916446={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990131
+	dna="jlkalojgade"
+	culture=huron religion=algic_pagan
+	father=1019916438	#Thateyyanayoh
+	1105.1.12={ birth=yes }
+	1173.6.30={ death=yes }
+}
+1019916447={
+	name=Horonu
+	dynasty=1009990131
+	dna="kkopldcdkdi"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=4 learning=6
+	add_trait=indulgent_wastrel add_trait=poet add_trait=arbitrary  add_trait=humble 
+	add_trait=wroth add_trait=craven 
+	father=1019916438	#Thateyyanayoh
+	1109.8.26={ birth=yes }
+	1188.1.18={ death=yes }
+}
+1019916448={
+	name=Teyyaghtwa
+	dynasty=1009990131
+	dna="edddhajiafh"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=7
+	add_trait=skilled_tactician  add_trait=charitable 
+	father=1019916445	#Maudoronk
+	1118.4.7={ birth=yes }
+	1194.10.3={ death=yes }
+}
+1019916449={
+	name=Tschauendah
+	dynasty=1009990131
+	dna="ekkalbljfbe"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=cynical add_trait=proud add_trait=craven 
+	father=1019916445	#Maudoronk
+	1122.10.1={ birth=yes }
+	1210.4.2={ death=yes }
+}
+1019916450={
+	name=Shaawrunthe
+	dynasty=1009990131
+	dna="eppommcjajh"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=7 learning=8
+	add_trait=midas_touched add_trait=arbitrary add_trait=gluttonous  add_trait=greedy 
+	add_trait=stressed 
+	father=1019916445	#Maudoronk
+	1128.6.2={ birth=yes }
+	1189.9.6={ death=yes }
+}
+1019916451={
+	name=Namachewana
+	female=yes
+	dynasty=1009990131
+	dna="lkkalbpoakh"
+	culture=huron religion=algic_pagan
+	father=1019916445	#Maudoronk
+	1132.11.10={ birth=yes }
+	1190.7.18={ death=yes }
+}
+1019916452={
+	name=Kataka
+	female=yes
+	dynasty=1009990131
+	dna="ekhadjcgaah"
+	culture=huron religion=algic_pagan
+	father=1019916445	#Maudoronk
+	1137.6.1={ birth=yes }
+	1211.10.25={ death=yes }
+}
+1019916453={
+	name=Rontondu
+	dynasty=1009990131
+	dna="eckcfmccigd"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=4 learning=4
+	add_trait=skilled_tactician add_trait=cynical add_trait=arbitrary add_trait=temperate add_trait=wroth 
+	father=1019916445	#Maudoronk
+	1140.5.15={ birth=yes }
+	1222.2.9={ death=yes }
+}
+1019916454={
+	name=Horonu
+	dynasty=1009990131
+	dna="hbhbkbcgaoh"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	add_trait=misguided_warrior add_trait=shy add_trait=honest add_trait=patient add_trait=arbitrary 
+	add_trait=trusting 
+	father=1019916445	#Maudoronk
+	1144.10.9={ birth=yes }
+	1225.2.27={ death=yes }
+}
+1019916455={
+	name=Teyyaghtwa
+	dynasty=1009990131
+	dna="cdgdoakiahj"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=proud add_trait=arbitrary add_trait=deceitful 
+	add_trait=envious 
+	father=1019916448	#Teyyaghtwa
+	1144.10.20={ birth=yes }
+	1205.9.22={ death=yes }
+}
+1019916456={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990131
+	dna="idodhkjiefl"
+	culture=huron religion=algic_pagan
+	father=1019916448	#Teyyaghtwa
+	1149.11.17={ birth=yes }
+	1230.10.7={ death=yes }
+}
+1019916457={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990131
+	dna="cdjdgaeokah"
+	culture=huron religion=algic_pagan
+	father=1019916448	#Teyyaghtwa
+	1154.10.1={ birth=yes }
+	1230.7.20={ death=yes }
+}
+1019916458={
+	name=Adario
+	dynasty=1009990131
+	dna="jeddhgmiekh"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=honest   add_trait=paranoid 
+	add_trait=lustful add_trait=charitable 
+	father=1019916448	#Teyyaghtwa
+	1160.3.2={ birth=yes }
+	1252.11.17={ death=yes }
+}
+1019916459={
+	name=Kataka
+	female=yes
+	dynasty=1009990131
+	dna="cognojkiahj"
+	culture=huron religion=algic_pagan
+	father=1019916455	#Teyyaghtwa
+	1165.6.11={ birth=yes }
+	1228.7.9={ death=yes }
+}
+1019916460={
+	name=Teyyaghtwa
+	dynasty=1009990131
+	dna="cngdoaebfej"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=envious add_trait=cynical add_trait=gluttonous add_trait=stressed 
+	father=1019916455	#Teyyaghtwa
+	1170.5.12={ birth=yes }
+	1222.9.18={ death=yes }
+}
+1019916461={
+	name=Dauatout
+	dynasty=1009990131
+	dna="chlbfakggag"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=mystic  add_trait=gluttonous add_trait=brave 
+	add_trait=deceitful add_trait=slothful 
+	father=1019916455	#Teyyaghtwa
+	1175.5.5={ birth=yes }
+	1251.9.10={ death=yes }
+}
+1019916462={
+	name=Neshota
+	female=yes
+	dynasty=1009990131
+	dna="fkpiaaajffj"
+	culture=huron religion=algic_pagan
+	father=1019916460	#Teyyaghtwa
+	1195.1.11={ birth=yes }
+	1248.7.26={ death=yes }
+}
+1019916463={
+	name=Quouqua
+	dynasty=1009990131
+	dna="bnldjfmbfej"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=proud add_trait=slothful add_trait=chaste add_trait=just 
+	father=1019916460	#Teyyaghtwa
+	1198.7.26={ birth=yes }
+	1264.5.9={ death=yes }
+}
+1019916464={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990131
+	dna="dngjofebpea"
+	culture=huron religion=algic_pagan
+	father=1019916460	#Teyyaghtwa
+	1202.4.18={ birth=yes }
+	1246.7.9={ death=yes }
+}
+1019916465={
+	name=Adario
+	dynasty=1009990131
+	dna="cndddiepceo"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=temperate add_trait=arbitrary  add_trait=deceitful 
+	add_trait=patient add_trait=ambitious add_trait=lunatic 
+	father=1019916460	#Teyyaghtwa
+	1206.11.23={ birth=yes }
+	1273.3.5={ death=yes }
+}
+1019916466={
+	name=Doueyenteat
+	dynasty=1009990131
+	dna="cniboajafem"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=7
+	add_trait=flamboyant_schemer add_trait=patient add_trait=arbitrary 
+	father=1019916460	#Teyyaghtwa
+	1210.9.17={ birth=yes }
+	1278.5.27={ death=yes }
+}
+1019916467={
+	name=Terhataw
+	dynasty=1009990131
+	dna="lobdbmemimj"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=7 learning=5
+	add_trait=flamboyant_schemer  add_trait=gluttonous add_trait=gregarious add_trait=craven 
+	add_trait=honest add_trait=ill 
+	father=1019916460	#Teyyaghtwa
+	1214.5.11={ birth=yes }
+	1274.3.16={ death=yes }
+}
+1019916468={
+	name=Kataka
+	female=yes
+	dynasty=1009990131
+	dna="cbgdfnennej"
+	culture=huron religion=algic_pagan
+	father=1019916460	#Teyyaghtwa
+	1218.3.24={ birth=yes }
+	1274.9.26={ death=yes }
+}
+1019916469={
+	name=Doueyenteat
+	dynasty=1009990131
+	dna="bnlkjfobfef"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=just add_trait=content add_trait=gluttonous add_trait=craven 
+	add_trait=paranoid add_trait=envious 
+	father=1019916463	#Quouqua
+	1221.9.27={ birth=yes }
+	1284.6.14={ death=yes }
+}
+1019916470={
+	name=Dunquat
+	dynasty=1009990131
+	dna="bkbdgcmbfhj"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=7
+	add_trait=scholarly_theologian add_trait=gardener add_trait=humble add_trait=craven add_trait=honest 
+	add_trait=greedy 
+	father=1019916463	#Quouqua
+	1225.11.8={ birth=yes }
+	1328.12.2={ death=yes }
+}
+1019916471={
+	name=Namachewana
+	female=yes
+	dynasty=1009990131
+	dna="bnlchfmbjeh"
+	culture=huron religion=algic_pagan
+	father=1019916463	#Quouqua
+	1229.4.20={ birth=yes }
+	1293.10.20={ death=yes }
+}
+1019916472={
+	name=Shateyyaronyah
+	dynasty=1009990131
+	dna="bnecjhmlpnj"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=6 learning=8
+	add_trait=intricate_webweaver add_trait=scholar add_trait=just add_trait=slothful  
+	add_trait=ambitious add_trait=honest add_trait=envious 
+	father=1019916463	#Quouqua
+	1234.1.8={ birth=yes }
+	1305.1.17={ death=yes }
+}
+1019916473={
+	name=Namachewana
+	female=yes
+	dynasty=1009990131
+	dna="bkloahebfab"
+	culture=huron religion=algic_pagan
+	father=1019916463	#Quouqua
+	1238.6.18={ birth=yes }
+	1297.3.28={ death=yes }
+}
+1019916474={
+	name=Pecama
+	female=yes
+	dynasty=1009990131
+	dna="lncdlfhmfmk"
+	culture=huron religion=algic_pagan
+	father=1019916463	#Quouqua
+	1244.11.20={ birth=yes }
+	1302.9.16={ death=yes }
+}
+1019916475={
+	name=Namachewana
+	female=yes
+	dynasty=1009990131
+	dna="pdldifmbfbp"
+	culture=huron religion=algic_pagan
+	father=1019916463	#Quouqua
+	1248.11.2={ birth=yes }
+	1325.2.4={ death=yes }
+}
+1019916476={
+	name=Tarhe
+	dynasty=1009990131
+	dna="bndkmdabfef"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	add_trait=elusive_shadow add_trait=honest add_trait=patient add_trait=proud add_trait=just 
+	add_trait=gregarious 
+	father=1019916469	#Doueyenteat
+	1251.10.25={ birth=yes }
+	1322.4.1={ death=yes }
+}
+1019916477={
+	name=Shawrunthie
+	dynasty=1009990131
+	dna="ioljjfnbdmf"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=5 learning=8
+	add_trait=misguided_warrior add_trait=trusting  add_trait=content add_trait=greedy 
+	add_trait=slothful add_trait=zealous 
+	father=1019916469	#Doueyenteat
+	1257.4.10={ birth=yes }
+	1322.11.4={ death=yes }
+}
+1019916478={
+	name=Hawdoro
+	dynasty=1009990131
+	dna="bnldjiecefp"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=8 learning=7
+	add_trait=grey_eminence add_trait=brave add_trait=wroth add_trait=slothful add_trait=paranoid 
+	add_trait=envious add_trait=greedy 
+	father=1019916469	#Doueyenteat
+	1260.11.4={ birth=yes }
+	1308.11.16={ death=yes }
+}
+1019916479={
+	name=Haroenyou
+	dynasty=1009990131
+	dna="bjdpieoapap"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=7 learning=5
+	add_trait=tough_soldier add_trait=deceitful add_trait=greedy add_trait=gluttonous 
+	father=1019916469	#Doueyenteat
+	1263.5.18={ birth=yes }
+	1345.2.10={ death=yes }
+}
+1019916480={
+	name=Chekaqua
+	female=yes
+	dynasty=1009990131
+	dna="pdlnoeahmfk"
+	culture=huron religion=algic_pagan
+	father=1019916469	#Doueyenteat
+	1267.9.21={ birth=yes }
+	1335.8.13={ death=yes }
+}
+1019916481={
+	name=Namachewana
+	female=yes
+	dynasty=1009990131
+	dna="bfdkcokbfef"
+	culture=huron religion=algic_pagan
+	father=1019916476	#Tarhe
+	1281.6.8={ birth=yes }
+	1361.5.2={ death=yes }
+}
+1019916482={
+	name=Tuayaurontoyou
+	dynasty=1009990131
+	dna="dnikldfbajf"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=greedy add_trait=just add_trait=wroth add_trait=cynical 
+	father=1019916476	#Tarhe
+	1284.6.1={ birth=yes }
+	1342.12.13={ death=yes }
+}
+1019916483={
+	name=Shateyyaronyah
+	dynasty=1009990131
+	dna="bndkcnibcko"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	add_trait=skilled_tactician add_trait=gregarious add_trait=diligent add_trait=just add_trait=chaste 
+	 add_trait=drunkard 
+	father=1019916476	#Tarhe
+	1289.11.12={ birth=yes }
+	1376.2.24={ death=yes }
+}
+1019916484={
+	name=Terhataw
+	dynasty=1009990131
+	dna="bnckkhajfec"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=6
+	add_trait=flamboyant_schemer  add_trait=craven add_trait=proud add_trait=greedy 
+	add_trait=slothful 
+	father=1019916476	#Tarhe
+	1296.1.3={ birth=yes }
+	1353.9.3={ death=yes }
+}
+1019916485={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990131
+	dna="bcdklgebaje"
+	culture=huron religion=algic_pagan
+	father=1019916482	#Tuayaurontoyou
+	1308.3.20={ birth=yes }
+	1363.4.3={ death=yes }
+}
+1019916486={
+	name=Neshota
+	female=yes
+	dynasty=1009990131
+	dna="aniijefbimf"
+	culture=huron religion=algic_pagan
+	father=1019916482	#Tuayaurontoyou
+	1312.6.26={ birth=yes }
+	1376.8.4={ death=yes }
+}
+1019916487={
+	name=Hawdoro
+	dynasty=1009990131
+	dna="onlcnpadnjf"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=7 learning=7
+	add_trait=thrifty_clerk add_trait=charitable add_trait=chaste 
+	father=1019916482	#Tuayaurontoyou
+	1318.12.24={ birth=yes }
+	1402.4.29={ death=yes }
+}
+1019916488={
+	name=Terhataw
+	dynasty=1009990131
+	dna="kapcnoadpjf"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=8
+	add_trait=intricate_webweaver add_trait=chaste add_trait=ambitious add_trait=zealous add_trait=honest 
+	add_trait=arbitrary add_trait=slothful 
+	father=1019916487	#Hawdoro
+	1343.10.25={ birth=yes }
+	1407.1.17={ death=yes }
+}
+1019916489={
+	name=Shateyyaronyah
+	dynasty=1009990131
+	dna="onpdnpahnnf"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	add_trait=mastermind_theologian add_trait=humble add_trait=arbitrary add_trait=content add_trait=greedy 
+	father=1019916487	#Hawdoro
+	1345.3.24={ birth=yes }
+	1409.8.4={ death=yes }
+}
+1019916490={
+	name=Pecama
+	female=yes
+	dynasty=1009990131
+	dna="onlanpednbf"
+	culture=huron religion=algic_pagan
+	father=1019916487	#Hawdoro
+	1349.10.16={ birth=yes }
+	1414.4.18={ death=yes }
+}
+1019916491={
+	name=Namachewana
+	female=yes
+	dynasty=1009990131
+	dna="holcndadnll"
+	culture=huron religion=algic_pagan
+	father=1019916487	#Hawdoro
+	1353.6.26={ birth=yes }
+	1421.5.19={ death=yes }
+}
+1019916492={
+	name=Ahatsistari
+	dynasty=1009990131
+	dna="lndcfbadeif"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	add_trait=tough_soldier add_trait=ambitious add_trait=proud add_trait=depressed 
+	father=1019916487	#Hawdoro
+	1356.12.27={ birth=yes }
+	1421.5.4={ death=yes }
+}
+1019916493={
+	name=Tarhe
+	dynasty=1009990131
+	dna="dfpchmadpbf"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=diligent add_trait=wroth add_trait=shy  
+	 
+	father=1019916488	#Terhataw
+	1364.9.22={ birth=yes }
+	1425.8.23={ death=yes }
+}
+1019916494={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990131
+	dna="kapcnoodpic"
+	culture=huron religion=algic_pagan
+	father=1019916488	#Terhataw
+	1369.4.10={ birth=yes }
+	1430.6.17={ death=yes }
+}
+1019916495={
+	name=Kataka
+	female=yes
+	dynasty=1009990131
+	dna="elpcnoakpkp"
+	culture=huron religion=algic_pagan
+	father=1019916488	#Terhataw
+	1376.3.17={ birth=yes }
+	1450.6.29={ death=yes }
+}
+1019916496={
+	name=Taimah
+	female=yes
+	dynasty=1009990131
+	dna="klpcaakdbji"
+	culture=huron religion=algic_pagan
+	father=1019916488	#Terhataw
+	1381.6.27={ birth=yes }
+	1450.5.7={ death=yes }
+}
+1019916497={
+	name=Chekaqua
+	female=yes
+	dynasty=1009990131
+	dna="kabdboalpdf"
+	culture=huron religion=algic_pagan
+	father=1019916488	#Terhataw
+	1386.10.15={ birth=yes }
+	1489.3.9={ death=yes }
+}
+1019916498={
+	name=Horonu
+	dynasty=1009990132
+	dna="fgdacecjaoe"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	add_trait=mastermind_theologian add_trait=temperate add_trait=gregarious add_trait=wroth add_trait=greedy 
+	add_trait=proud 
+	719.6.15={ birth=yes }
+	792.1.4={ death=yes }
+}
+1019916499={
+	name=Terhataw
+	dynasty=1009990132
+	dna="dihjagcigoh"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=7 learning=7
+	add_trait=grey_eminence add_trait=greedy add_trait=content 
+	father=1019916498	#Horonu
+	747.1.6={ birth=yes }
+	806.2.20={ death=yes }
+}
+1019916500={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990132
+	dna="fgjmcecmaok"
+	culture=huron religion=algic_pagan
+	father=1019916498	#Horonu
+	753.1.1={ birth=yes }
+	801.1.14={ death=yes }
+}
+1019916501={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990132
+	dna="hbdabepjooe"
+	culture=huron religion=algic_pagan
+	father=1019916498	#Horonu
+	757.10.6={ birth=yes }
+	841.9.24={ death=yes }
+}
+1019916502={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990132
+	dna="fgfmdecbdoe"
+	culture=huron religion=algic_pagan
+	father=1019916498	#Horonu
+	764.6.21={ birth=yes }
+	802.4.30={ death=yes }
+}
+1019916503={
+	name=Kataka
+	female=yes
+	dynasty=1009990132
+	dna="idpmdhcjadp"
+	culture=huron religion=algic_pagan
+	father=1019916498	#Horonu
+	766.11.20={ birth=yes }
+	850.3.5={ death=yes }
+}
+1019916504={
+	name=Skahomat
+	dynasty=1009990132
+	dna="ckhjamakglh"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=diligent  add_trait=craven add_trait=gregarious 
+	add_trait=paranoid 
+	father=1019916499	#Terhataw
+	767.4.8={ birth=yes }
+	819.9.7={ death=yes }
+}
+1019916505={
+	name=Tehaawtorens
+	dynasty=1009990132
+	dna="fobjgccckoh"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=content add_trait=honest add_trait=craven 
+	father=1019916499	#Terhataw
+	772.5.8={ birth=yes }
+	848.11.26={ death=yes }
+}
+1019916506={
+	name=Skahomat
+	dynasty=1009990132
+	dna="diajaacijop"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=arbitrary  add_trait=paranoid  
+	add_trait=brave add_trait=lunatic 
+	father=1019916499	#Terhataw
+	777.3.19={ birth=yes }
+	851.12.6={ death=yes }
+}
+1019916507={
+	name=Tuayaurontoyou
+	dynasty=1009990132
+	dna="ckhjicmcglh"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=poet add_trait=just add_trait=wroth add_trait=gregarious 
+	father=1019916504	#Skahomat
+	795.7.23={ birth=yes }
+	853.8.25={ death=yes }
+}
+1019916508={
+	name=Kataka
+	female=yes
+	dynasty=1009990132
+	dna="lobjogmkfli"
+	culture=huron religion=algic_pagan
+	father=1019916504	#Skahomat
+	802.6.19={ birth=yes }
+	854.8.13={ death=yes }
+}
+1019916509={
+	name=Miere
+	dynasty=1009990132
+	dna="hkhjanocljh"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=7 learning=8
+	add_trait=midas_touched add_trait=wroth add_trait=deceitful add_trait=greedy add_trait=proud 
+	father=1019916504	#Skahomat
+	807.1.3={ birth=yes }
+	893.9.20={ death=yes }
+}
+1019916510={
+	name=Datasay
+	dynasty=1009990132
+	dna="pglmejmpdlg"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=lustful add_trait=slothful add_trait=trusting add_trait=honest 
+	add_trait=possessed 
+	father=1019916507	#Tuayaurontoyou
+	819.2.12={ birth=yes }
+	876.7.16={ death=yes }
+}
+1019916511={
+	name=Daughshuttayah
+	dynasty=1009990132
+	dna="leojinlggfh"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=gregarious add_trait=charitable add_trait=craven add_trait=just 
+	father=1019916507	#Tuayaurontoyou
+	823.11.20={ birth=yes }
+	880.12.15={ death=yes }
+}
+1019916512={
+	name=Dauatout
+	dynasty=1009990132
+	dna="pghgejbmpkk"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=7
+	add_trait=charismatic_negotiator add_trait=honest add_trait=shy  add_trait=trusting 
+	 
+	father=1019916510	#Datasay
+	847.12.21={ birth=yes }
+	908.10.20={ death=yes }
+}
+1019916513={
+	name=Taimah
+	female=yes
+	dynasty=1009990132
+	dna="egfdhhmpklf"
+	culture=huron religion=algic_pagan
+	father=1019916510	#Datasay
+	850.3.3={ birth=yes }
+	932.6.7={ death=yes }
+}
+1019916514={
+	name=Chagasort
+	female=yes
+	dynasty=1009990132
+	dna="kglmejnpdlg"
+	culture=huron religion=algic_pagan
+	father=1019916510	#Datasay
+	855.4.26={ birth=yes }
+	924.8.22={ death=yes }
+}
+1019916515={
+	name=Tarhe
+	dynasty=1009990132
+	dna="hglmejmpdlg"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=8 learning=6
+	add_trait=misguided_warrior add_trait=slothful add_trait=gregarious  add_trait=paranoid 
+	father=1019916510	#Datasay
+	859.9.23={ birth=yes }
+	935.5.18={ death=yes }
+}
+1019916516={
+	name=Daughshuttayah
+	dynasty=1009990132
+	dna="oglmenmpdlg"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=8
+	add_trait=flamboyant_schemer add_trait=poet  add_trait=deceitful add_trait=temperate 
+	add_trait=charitable add_trait=wounded 
+	father=1019916510	#Datasay
+	865.11.15={ birth=yes }
+	964.8.20={ death=yes }
+}
+1019916517={
+	name=Chekaqua
+	female=yes
+	dynasty=1009990132
+	dna="nflmejmmglh"
+	culture=huron religion=algic_pagan
+	father=1019916510	#Datasay
+	869.5.4={ birth=yes }
+	947.2.16={ death=yes }
+}
+1019916518={
+	name=Taima
+	female=yes
+	dynasty=1009990132
+	dna="pibmcjmpdgg"
+	culture=huron religion=algic_pagan
+	father=1019916510	#Datasay
+	875.5.20={ birth=yes }
+	951.11.18={ death=yes }
+}
+1019916519={
+	name=Teoudetosso
+	dynasty=1009990132
+	dna="pghaejbhpkk"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=shy add_trait=charitable add_trait=envious add_trait=patient 
+	father=1019916512	#Dauatout
+	873.6.14={ birth=yes }
+	957.10.21={ death=yes }
+}
+1019916520={
+	name=Namachewana
+	female=yes
+	dynasty=1009990132
+	dna="pnhdenbmlck"
+	culture=huron religion=algic_pagan
+	father=1019916512	#Dauatout
+	879.4.3={ birth=yes }
+	964.10.24={ death=yes }
+}
+1019916521={
+	name=Shaawrunthe
+	dynasty=1009990132
+	dna="eghpekmoppb"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=4 learning=6
+	add_trait=intricate_webweaver add_trait=charitable add_trait=proud add_trait=lustful add_trait=temperate 
+	add_trait=weak 
+	father=1019916519	#Teoudetosso
+	898.11.12={ birth=yes }
+	962.12.31={ death=yes }
+}
+1019916522={
+	name=Quouqua
+	dynasty=1009990132
+	dna="cmjaiabhcka"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=4 learning=8
+	add_trait=midas_touched  add_trait=content add_trait=arbitrary add_trait=zealous 
+	add_trait=greedy 
+	father=1019916519	#Teoudetosso
+	906.8.26={ birth=yes }
+	972.4.14={ death=yes }
+}
+1019916523={
+	name=Doueyenteat
+	dynasty=1009990132
+	dna="bgmcolmohdb"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=just add_trait=proud 
+	father=1019916521	#Shaawrunthe
+	927.11.22={ birth=yes }
+	1004.10.21={ death=yes }
+}
+1019916524={
+	name=Quouqua
+	dynasty=1009990132
+	dna="eglpjklofpd"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=8
+	add_trait=intricate_webweaver add_trait=arbitrary add_trait=brave  add_trait=lustful 
+	add_trait=possessed 
+	father=1019916521	#Shaawrunthe
+	931.3.10={ birth=yes }
+	1033.10.7={ death=yes }
+}
+1019916525={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990132
+	dna="hgkpnlmoppb"
+	culture=huron religion=algic_pagan
+	father=1019916521	#Shaawrunthe
+	938.9.3={ birth=yes }
+	1009.9.30={ death=yes }
+}
+1019916526={
+	name=Chagasort
+	female=yes
+	dynasty=1009990132
+	dna="eifjngljnhb"
+	culture=huron religion=algic_pagan
+	father=1019916521	#Shaawrunthe
+	943.12.4={ birth=yes }
+	1019.11.6={ death=yes }
+}
+1019916527={
+	name=Chekaqua
+	female=yes
+	dynasty=1009990132
+	dna="eghfekmddpb"
+	culture=huron religion=algic_pagan
+	father=1019916521	#Shaawrunthe
+	947.4.6={ birth=yes }
+	1001.4.1={ death=yes }
+}
+1019916528={
+	name=Ahatsistari
+	dynasty=1009990132
+	dna="bmccopjahdf"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=5 learning=7
+	add_trait=skilled_tactician add_trait=scholar add_trait=cynical add_trait=chaste add_trait=ambitious 
+	 add_trait=envious add_trait=temperate 
+	father=1019916523	#Doueyenteat
+	961.10.26={ birth=yes }
+	1020.11.11={ death=yes }
+}
+1019916529={
+	name=Haroenyou
+	dynasty=1009990132
+	dna="pdacolcohhb"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=diligent add_trait=patient add_trait=trusting add_trait=shy 
+	add_trait=just add_trait=deceitful 
+	father=1019916523	#Doueyenteat
+	966.4.19={ birth=yes }
+	1046.8.17={ death=yes }
+}
+1019916530={
+	name=Teyyaghtwa
+	dynasty=1009990132
+	dna="bmlcopkehif"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=4 learning=4
+	add_trait=intricate_webweaver add_trait=charitable add_trait=trusting add_trait=content  
+	add_trait=shy  
+	father=1019916528	#Ahatsistari
+	988.12.10={ birth=yes }
+	1067.10.5={ death=yes }
+}
+1019916531={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990132
+	dna="mmccolnabno"
+	culture=huron religion=algic_pagan
+	father=1019916528	#Ahatsistari
+	992.8.23={ birth=yes }
+	1073.7.19={ death=yes }
+}
+1019916532={
+	name=Cheyawe
+	dynasty=1009990132
+	dna="bmecopjcadk"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=envious add_trait=zealous add_trait=gregarious add_trait=trusting 
+	father=1019916528	#Ahatsistari
+	997.8.13={ birth=yes }
+	1080.2.2={ death=yes }
+}
+1019916533={
+	name=Namachewana
+	female=yes
+	dynasty=1009990132
+	dna="bmlmonhpmak"
+	culture=huron religion=algic_pagan
+	father=1019916528	#Ahatsistari
+	1000.5.27={ birth=yes }
+	1062.6.20={ death=yes }
+}
+1019916534={
+	name=Chagasort
+	female=yes
+	dynasty=1009990132
+	dna="dmbcnpkegbf"
+	culture=huron religion=algic_pagan
+	father=1019916530	#Teyyaghtwa
+	1016.11.23={ birth=yes }
+	1085.9.2={ death=yes }
+}
+1019916535={
+	name=Terhataw
+	dynasty=1009990132
+	dna="fmlcgclhkio"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	add_trait=elusive_shadow add_trait=craven add_trait=temperate add_trait=humble add_trait=ambitious 
+	add_trait=lustful 
+	father=1019916530	#Teyyaghtwa
+	1023.1.24={ birth=yes }
+	1076.2.22={ death=yes }
+}
+1019916536={
+	name=Tahunehawttee
+	dynasty=1009990132
+	dna="kmpcopeehol"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=4
+	add_trait=midas_touched add_trait=trusting add_trait=craven add_trait=shy 
+	father=1019916530	#Teyyaghtwa
+	1029.3.8={ birth=yes }
+	1087.6.15={ death=yes }
+}
+1019916537={
+	name=Teyyaghtwa
+	dynasty=1009990132
+	dna="hmgibhkehif"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	add_trait=martial_cleric add_trait=craven add_trait=proud add_trait=content add_trait=cynical 
+	add_trait=honest add_trait=drunkard 
+	father=1019916530	#Teyyaghtwa
+	1034.11.16={ birth=yes }
+	1087.12.8={ death=yes }
+}
+1019916538={
+	name=Adario
+	dynasty=1009990132
+	dna="fmlcgblhkdo"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=6 learning=8
+	add_trait=detached_priest  add_trait=cynical add_trait=brave add_trait=paranoid 
+	father=1019916535	#Terhataw
+	1052.4.4={ birth=yes }
+	1125.4.8={ death=yes }
+}
+1019916539={
+	name=Awmeyeeray
+	dynasty=1009990132
+	dna="fcgagnkhkio"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=6 learning=8
+	add_trait=detached_priest add_trait=zealous add_trait=envious add_trait=diligent add_trait=temperate 
+	add_trait=trusting 
+	father=1019916535	#Terhataw
+	1057.6.3={ birth=yes }
+	1122.4.23={ death=yes }
+}
+1019916540={
+	name=Tehaawtorens
+	dynasty=1009990132
+	dna="kmlcgblkmdo"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	add_trait=indulgent_wastrel add_trait=zealous add_trait=temperate 
+	father=1019916538	#Adario
+	1079.6.17={ birth=yes }
+	1132.7.23={ death=yes }
+}
+1019916541={
+	name=Teyandatontec
+	dynasty=1009990132
+	dna="ffncgbkelpn"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	add_trait=flamboyant_schemer add_trait=patient  
+	father=1019916538	#Adario
+	1083.6.17={ birth=yes }
+	1157.9.15={ death=yes }
+}
+1019916542={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990132
+	dna="fmlcgplhmdg"
+	culture=huron religion=algic_pagan
+	father=1019916538	#Adario
+	1088.6.3={ birth=yes }
+	1146.9.3={ death=yes }
+}
+1019916543={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990132
+	dna="flmcfcddidi"
+	culture=huron religion=algic_pagan
+	father=1019916538	#Adario
+	1091.7.21={ birth=yes }
+	1163.10.27={ death=yes }
+}
+1019916544={
+	name=Skahomat
+	dynasty=1009990132
+	dna="fmlcgblhgdl"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=6
+	add_trait=martial_cleric add_trait=chaste  add_trait=deceitful add_trait=humble 
+	add_trait=temperate add_trait=stressed 
+	father=1019916538	#Adario
+	1095.5.18={ birth=yes }
+	1180.12.23={ death=yes }
+}
+1019916545={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990132
+	dna="kmlcpehkgjl"
+	culture=huron religion=algic_pagan
+	father=1019916540	#Tehaawtorens
+	1101.4.14={ birth=yes }
+	1185.12.18={ death=yes }
+}
+1019916546={
+	name=Namachewana
+	female=yes
+	dynasty=1009990132
+	dna="pdjdpbckmdl"
+	culture=huron religion=algic_pagan
+	father=1019916540	#Tehaawtorens
+	1104.8.2={ birth=yes }
+	1188.4.22={ death=yes }
+}
+1019916547={
+	name=Taimah
+	female=yes
+	dynasty=1009990132
+	dna="cjmljdpkfbo"
+	culture=huron religion=algic_pagan
+	father=1019916540	#Tehaawtorens
+	1107.11.24={ birth=yes }
+	1169.6.12={ death=yes }
+}
+1019916548={
+	name=Skotous
+	dynasty=1009990132
+	dna="kmpclbkkbdb"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=brave add_trait=greedy add_trait=proud add_trait=lunatic 
+	father=1019916540	#Tehaawtorens
+	1110.12.12={ birth=yes }
+	1186.3.3={ death=yes }
+}
+1019916549={
+	name=Dunquat
+	dynasty=1009990132
+	dna="kmlccbmmmjk"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=7
+	add_trait=elusive_shadow add_trait=celibate add_trait=paranoid add_trait=gluttonous add_trait=chaste 
+	father=1019916540	#Tehaawtorens
+	1113.12.17={ birth=yes }
+	1179.10.29={ death=yes }
+}
+1019916550={
+	name=Awmeyeeray
+	dynasty=1009990132
+	dna="kmgcgjlpedh"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	add_trait=intricate_webweaver add_trait=content add_trait=just   
+	add_trait=humble 
+	father=1019916540	#Tehaawtorens
+	1117.3.12={ birth=yes }
+	1189.8.7={ death=yes }
+}
+1019916551={
+	name=Shaawrunthe
+	dynasty=1009990132
+	dna="kjpohajkfdb"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=8
+	add_trait=elusive_shadow add_trait=temperate add_trait=arbitrary add_trait=gregarious 
+	father=1019916548	#Skotous
+	1142.5.8={ birth=yes }
+	1208.1.8={ death=yes }
+}
+1019916552={
+	name=Adario
+	dynasty=1009990132
+	dna="hakminikgdb"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=4 learning=8
+	add_trait=grey_eminence add_trait=scholar add_trait=ambitious  add_trait=deceitful 
+	add_trait=greedy add_trait=gregarious 
+	father=1019916548	#Skotous
+	1150.11.22={ birth=yes }
+	1212.1.15={ death=yes }
+}
+1019916553={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990132
+	dna="ompblbckbbb"
+	culture=huron religion=algic_pagan
+	father=1019916548	#Skotous
+	1155.3.4={ birth=yes }
+	1236.9.24={ death=yes }
+}
+1019916554={
+	name=Chekaqua
+	female=yes
+	dynasty=1009990132
+	dna="popcdbikhdb"
+	culture=huron religion=algic_pagan
+	father=1019916548	#Skotous
+	1158.7.24={ birth=yes }
+	1232.10.8={ death=yes }
+}
+1019916555={
+	name=Dunquat
+	dynasty=1009990132
+	dna="iflohgjfkdb"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=slothful add_trait=shy add_trait=proud  
+	add_trait=arbitrary 
+	father=1019916551	#Shaawrunthe
+	1162.3.7={ birth=yes }
+	1210.12.29={ death=yes }
+}
+1019916556={
+	name=Taimah
+	female=yes
+	dynasty=1009990132
+	dna="kokoigjkfdj"
+	culture=huron religion=algic_pagan
+	father=1019916551	#Shaawrunthe
+	1169.2.16={ birth=yes }
+	1207.5.1={ death=yes }
+}
+1019916557={
+	name=Taima
+	female=yes
+	dynasty=1009990132
+	dna="kfpokaefndb"
+	culture=huron religion=algic_pagan
+	father=1019916551	#Shaawrunthe
+	1174.12.27={ birth=yes }
+	1238.8.4={ death=yes }
+}
+1019916558={
+	name=Hawdoro
+	dynasty=1009990132
+	dna="mfblhglfcdb"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=proud add_trait=wroth add_trait=envious add_trait=greedy 
+	father=1019916555	#Dunquat
+	1189.7.25={ birth=yes }
+	1266.1.28={ death=yes }
+}
+1019916559={
+	name=Tschauendah
+	dynasty=1009990132
+	dna="ifoahfkhkno"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=greedy add_trait=chaste add_trait=slothful add_trait=temperate 
+	father=1019916555	#Dunquat
+	1192.5.12={ birth=yes }
+	1259.8.15={ death=yes }
+}
+1019916560={
+	name=Taima
+	female=yes
+	dynasty=1009990132
+	dna="epdimnofkjf"
+	culture=huron religion=algic_pagan
+	father=1019916555	#Dunquat
+	1197.3.4={ birth=yes }
+	1254.7.30={ death=yes }
+}
+1019916561={
+	name=Teyyaghtwa
+	dynasty=1009990132
+	dna="iphohggffdb"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=8 learning=8
+	add_trait=elusive_shadow add_trait=hunter add_trait=greedy add_trait=gluttonous 
+	father=1019916555	#Dunquat
+	1201.1.5={ birth=yes }
+	1295.5.15={ death=yes }
+}
+1019916562={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990132
+	dna="ifakgnjnldb"
+	culture=huron religion=algic_pagan
+	father=1019916555	#Dunquat
+	1207.5.24={ birth=yes }
+	1270.8.1={ death=yes }
+}
+1019916563={
+	name=Shateyyaronyah
+	dynasty=1009990132
+	dna="mahlffamcib"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=7 learning=7
+	add_trait=misguided_warrior add_trait=deceitful add_trait=cynical add_trait=humble add_trait=stressed 
+	father=1019916558	#Hawdoro
+	1217.5.1={ birth=yes }
+	1288.9.24={ death=yes }
+}
+1019916564={
+	name=Taimah
+	female=yes
+	dynasty=1009990132
+	dna="mknidglfcoc"
+	culture=huron religion=algic_pagan
+	father=1019916558	#Hawdoro
+	1224.9.11={ birth=yes }
+	1264.9.13={ death=yes }
+}
+1019916565={
+	name=Taima
+	female=yes
+	dynasty=1009990132
+	dna="mkmamgaoaab"
+	culture=huron religion=algic_pagan
+	father=1019916558	#Hawdoro
+	1230.7.23={ birth=yes }
+	1290.1.24={ death=yes }
+}
+1019916566={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990132
+	dna="nfgekklefmb"
+	culture=huron religion=algic_pagan
+	father=1019916558	#Hawdoro
+	1237.6.1={ birth=yes }
+	1308.5.5={ death=yes }
+}
+1019916567={
+	name=Kataka
+	female=yes
+	dynasty=1009990132
+	dna="mailfdhmclb"
+	culture=huron religion=algic_pagan
+	father=1019916563	#Shateyyaronyah
+	1240.8.27={ birth=yes }
+	1323.10.4={ death=yes }
+}
+1019916568={
+	name=Teyyaghtwa
+	dynasty=1009990132
+	dna="cahfncancjh"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=4 learning=7
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=arbitrary add_trait=craven add_trait=proud 
+	add_trait=lunatic 
+	father=1019916563	#Shateyyaronyah
+	1246.8.15={ birth=yes }
+	1323.5.3={ death=yes }
+}
+1019916569={
+	name=Tehaawtorens
+	dynasty=1009990132
+	dna="maklofgkcbb"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=8 learning=8
+	add_trait=charismatic_negotiator  add_trait=cynical 
+	father=1019916563	#Shateyyaronyah
+	1253.7.16={ birth=yes }
+	1318.2.19={ death=yes }
+}
+1019916570={
+	name=Neshota
+	female=yes
+	dynasty=1009990132
+	dna="mmfmfjfocbh"
+	culture=huron religion=algic_pagan
+	father=1019916563	#Shateyyaronyah
+	1259.10.8={ birth=yes }
+	1333.3.28={ death=yes }
+}
+1019916571={
+	name=Teyandatontec
+	dynasty=1009990132
+	dna="cgmfnbencfo"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	add_trait=elusive_shadow add_trait=zealous add_trait=gluttonous add_trait=envious add_trait=content 
+	father=1019916568	#Teyyaghtwa
+	1274.2.24={ birth=yes }
+	1340.2.6={ death=yes }
+}
+1019916572={
+	name=Adario
+	dynasty=1009990132
+	dna="pmhchmenchc"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=6 learning=6
+	add_trait=thrifty_clerk add_trait=mystic add_trait=paranoid add_trait=wroth add_trait=chaste 
+	father=1019916568	#Teyyaghtwa
+	1280.5.4={ birth=yes }
+	1346.3.8={ death=yes }
+}
+1019916573={
+	name=Tuayaurontoyou
+	dynasty=1009990132
+	dna="clannglbcod"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	add_trait=flamboyant_schemer add_trait=lustful  
+	father=1019916568	#Teyyaghtwa
+	1285.3.1={ birth=yes }
+	1370.1.22={ death=yes }
+}
+1019916574={
+	name=Cheyawe
+	dynasty=1009990132
+	dna="agpindancfn"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=hunter add_trait=trusting add_trait=content  
+	add_trait=shy 
+	father=1019916571	#Teyandatontec
+	1303.11.14={ birth=yes }
+	1378.6.26={ death=yes }
+}
+1019916575={
+	name=Taima
+	female=yes
+	dynasty=1009990132
+	dna="cgdffneiefd"
+	culture=huron religion=algic_pagan
+	father=1019916571	#Teyandatontec
+	1310.7.16={ birth=yes }
+	1388.1.23={ death=yes }
+}
+1019916576={
+	name=Namachewana
+	female=yes
+	dynasty=1009990132
+	dna="cgmlebeilfp"
+	culture=huron religion=algic_pagan
+	father=1019916571	#Teyandatontec
+	1315.6.26={ birth=yes }
+	1379.12.16={ death=yes }
+}
+1019916577={
+	name=Horonu
+	dynasty=1009990132
+	dna="mbbfnbeoclo"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	add_trait=elusive_shadow add_trait=ambitious add_trait=trusting add_trait=proud add_trait=wroth 
+	father=1019916571	#Teyandatontec
+	1320.3.7={ birth=yes }
+	1393.3.26={ death=yes }
+}
+1019916578={
+	name=Tarhe
+	dynasty=1009990132
+	dna="aeofndmnccl"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=7 learning=5
+	add_trait=naive_appeaser add_trait=hedonist add_trait=arbitrary add_trait=charitable add_trait=shy 
+	father=1019916574	#Cheyawe
+	1324.10.15={ birth=yes }
+	1385.3.21={ death=yes }
+}
+1019916579={
+	name=Skotous
+	dynasty=1009990132
+	dna="igpkbdpjcen"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=7 learning=7
+	add_trait=misguided_warrior add_trait=arbitrary add_trait=gluttonous add_trait=honest add_trait=patient 
+	father=1019916574	#Cheyawe
+	1328.4.9={ birth=yes }
+	1424.3.23={ death=yes }
+}
+1019916580={
+	name=Shawrunthie
+	dynasty=1009990132
+	dna="agkinmincpn"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=6 learning=4
+	add_trait=mastermind_theologian add_trait=gardener add_trait=chaste  
+	father=1019916574	#Cheyawe
+	1336.3.12={ birth=yes }
+	1418.6.10={ death=yes }
+}
+1019916581={
+	name=Dunquat
+	dynasty=1009990132
+	dna="afiindajmfm"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=6 learning=8
+	add_trait=martial_cleric add_trait=hedonist add_trait=chaste add_trait=envious add_trait=just 
+	add_trait=proud add_trait=trusting 
+	father=1019916574	#Cheyawe
+	1339.12.23={ birth=yes }
+	1423.12.4={ death=yes }
+}
+1019916582={
+	name=Haroenyou
+	dynasty=1009990132
+	dna="aeokghbncgf"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=4
+	add_trait=elusive_shadow add_trait=gluttonous add_trait=craven add_trait=wroth add_trait=just 
+	father=1019916578	#Tarhe
+	1345.1.25={ birth=yes }
+	1431.12.14={ death=yes }
+}
+1019916583={
+	name=Kataka
+	female=yes
+	dynasty=1009990132
+	dna="ajogcbeagij"
+	culture=huron religion=algic_pagan
+	father=1019916578	#Tarhe
+	1350.4.16={ birth=yes }
+	1417.3.11={ death=yes }
+}
+1019916584={
+	name=Teoudetosso
+	dynasty=1009990132
+	dna="feekmpbncgk"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=6 learning=8
+	add_trait=elusive_shadow add_trait=humble add_trait=gluttonous add_trait=trusting 
+	father=1019916582	#Haroenyou
+	1368.2.17={ birth=yes }
+	1433.8.11={ death=yes }
+}
+1019916585={
+	name=Taimah
+	female=yes
+	dynasty=1009990132
+	dna="aepgghbhdgf"
+	culture=huron religion=algic_pagan
+	father=1019916582	#Haroenyou
+	1371.10.12={ birth=yes }
+	1457.12.25={ death=yes }
+}
+1019916586={
+	name=Shawrunthie
+	dynasty=1009990132
+	dna="kjmdahgnelj"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	add_trait=misguided_warrior add_trait=hunter add_trait=proud add_trait=brave add_trait=envious 
+	add_trait=honest 
+	father=1019916582	#Haroenyou
+	1375.3.1={ birth=yes }
+	1454.9.15={ death=yes }
+}
+1019916587={
+	name=Taima
+	female=yes
+	dynasty=1009990132
+	dna="iogkghccadk"
+	culture=huron religion=algic_pagan
+	father=1019916582	#Haroenyou
+	1381.11.9={ birth=yes }
+	1442.12.25={ death=yes }
+}
+1019916588={
+	name=Terhataw
+	dynasty=1009990132
+	dna="amokghinpgb"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=gluttonous add_trait=envious add_trait=paranoid add_trait=wroth 
+	father=1019916582	#Haroenyou
+	1383.12.15={ birth=yes }
+	1458.11.8={ death=yes }
+}
+1019916589={
+	name=Tschauendah
+	dynasty=1009990132
+	dna="iilhmhpncgf"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=gluttonous add_trait=diligent add_trait=envious add_trait=trusting 
+	add_trait=depressed 
+	father=1019916582	#Haroenyou
+	1387.8.27={ birth=yes }
+	1488.3.19={ death=yes }
+}
+1019916782={
+	name=Miere
+	dynasty=1009990135
+	dna="gmpmgnngebp"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=4 learning=5
+	add_trait=grey_eminence add_trait=shy add_trait=diligent 
+	719.10.5={ birth=yes }
+	761.3.18={ death=yes }
+}
+1019916783={
+	name=Pecama
+	female=yes
+	dynasty=1009990135
+	dna="gmpmgnngecf"
+	culture=huron religion=algic_pagan
+	father=1019916782	#Miere
+	740.12.6={ birth=yes }
+	815.11.24={ death=yes }
+}
+1019916784={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990135
+	dna="gmlcbndggbk"
+	culture=huron religion=algic_pagan
+	father=1019916782	#Miere
+	747.3.16={ birth=yes }
+	832.6.13={ death=yes }
+}
+1019916785={
+	name=Thateyyanayoh
+	dynasty=1009990135
+	dna="gbbdflfdnmb"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=proud  add_trait=cynical add_trait=paranoid 
+	father=1019916782	#Miere
+	755.8.3={ birth=yes }
+	812.6.25={ death=yes }
+}
+1019916786={
+	name=Thateyyanayoh
+	dynasty=1009990135
+	dna="gkjmbifdneb"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=8 learning=8
+	add_trait=intricate_webweaver add_trait=greedy add_trait=humble add_trait=envious add_trait=brave 
+	add_trait=paranoid 
+	father=1019916785	#Thateyyanayoh
+	781.2.22={ birth=yes }
+	866.6.14={ death=yes }
+}
+1019916787={
+	name=Dauatout
+	dynasty=1009990135
+	dna="mnbdfllbokb"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=5
+	add_trait=intricate_webweaver add_trait=paranoid add_trait=envious add_trait=shy add_trait=humble 
+	father=1019916785	#Thateyyanayoh
+	788.6.18={ birth=yes }
+	849.7.27={ death=yes }
+}
+1019916788={
+	name=Doueyenteat
+	dynasty=1009990135
+	dna="cdbcfhfdnfk"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=5
+	add_trait=grey_eminence add_trait=poet add_trait=wroth add_trait=diligent add_trait=deceitful 
+	add_trait=lustful add_trait=possessed 
+	father=1019916785	#Thateyyanayoh
+	794.5.11={ birth=yes }
+	868.10.7={ death=yes }
+}
+1019916789={
+	name=Hawdoro
+	dynasty=1009990135
+	dna="kkjanifdieb"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=ambitious add_trait=humble add_trait=wroth add_trait=gregarious 
+	add_trait=temperate 
+	father=1019916786	#Thateyyanayoh
+	803.7.6={ birth=yes }
+	887.9.23={ death=yes }
+}
+1019916790={
+	name=Cheyawe
+	dynasty=1009990135
+	dna="fmapiafgfhm"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=5 learning=5
+	add_trait=scholarly_theologian add_trait=duelist add_trait=diligent add_trait=trusting add_trait=zealous 
+	 
+	father=1019916786	#Thateyyanayoh
+	808.3.25={ birth=yes }
+	888.4.8={ death=yes }
+}
+1019916791={
+	name=Tschauendah
+	dynasty=1009990135
+	dna="dkgmmigneed"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=4 learning=5
+	add_trait=elusive_shadow add_trait=scholar add_trait=diligent add_trait=brave add_trait=paranoid 
+	add_trait=cynical add_trait=content add_trait=charitable 
+	father=1019916786	#Thateyyanayoh
+	812.3.7={ birth=yes }
+	887.7.31={ death=yes }
+}
+1019916792={
+	name=Dauatout
+	dynasty=1009990135
+	dna="gkjnabedddb"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=6
+	add_trait=misguided_warrior add_trait=shy add_trait=content add_trait=temperate add_trait=fair 
+	father=1019916786	#Thateyyanayoh
+	816.2.20={ birth=yes }
+	864.2.28={ death=yes }
+}
+1019916793={
+	name=Taimah
+	female=yes
+	dynasty=1009990135
+	dna="gkjlamfeonb"
+	culture=huron religion=algic_pagan
+	father=1019916786	#Thateyyanayoh
+	820.1.3={ birth=yes }
+	902.4.12={ death=yes }
+}
+1019916794={
+	name=Teyyaghtwa
+	dynasty=1009990135
+	dna="gkjmbilkheb"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=impaler add_trait=chaste add_trait=trusting add_trait=temperate 
+	father=1019916786	#Thateyyanayoh
+	826.5.7={ birth=yes }
+	884.7.20={ death=yes }
+}
+1019916795={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990135
+	dna="gpjmkofdnfb"
+	culture=huron religion=algic_pagan
+	father=1019916786	#Thateyyanayoh
+	831.7.14={ birth=yes }
+	909.4.22={ death=yes }
+}
+1019916796={
+	name=Awmeyeeray
+	dynasty=1009990135
+	dna="kkjanigcceh"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=4
+	add_trait=elusive_shadow add_trait=honest add_trait=ambitious 
+	father=1019916789	#Hawdoro
+	831.9.1={ birth=yes }
+	895.2.16={ death=yes }
+}
+1019916797={
+	name=Taima
+	female=yes
+	dynasty=1009990135
+	dna="dkiknifiiab"
+	culture=huron religion=algic_pagan
+	father=1019916789	#Hawdoro
+	836.11.24={ birth=yes }
+	899.6.16={ death=yes }
+}
+1019916798={
+	name=Dunquat
+	dynasty=1009990135
+	dna="kknfnhacieb"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=5 learning=7
+	add_trait=martial_cleric add_trait=greedy add_trait=cynical add_trait=just add_trait=slothful 
+	add_trait=depressed 
+	father=1019916789	#Hawdoro
+	839.5.17={ birth=yes }
+	906.11.17={ death=yes }
+}
+1019916799={
+	name=Tschauendah
+	dynasty=1009990135
+	dna="gmjamifiiei"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=5 learning=6
+	add_trait=scholarly_theologian add_trait=deceitful add_trait=brave add_trait=paranoid add_trait=temperate 
+	father=1019916789	#Hawdoro
+	844.2.22={ birth=yes }
+	904.8.10={ death=yes }
+}
+1019916800={
+	name=Neshota
+	female=yes
+	dynasty=1009990135
+	dna="nkboaefdieb"
+	culture=huron religion=algic_pagan
+	father=1019916789	#Hawdoro
+	846.7.8={ birth=yes }
+	903.4.17={ death=yes }
+}
+1019916801={
+	name=Teyyaghtwa
+	dynasty=1009990135
+	dna="kkjageoccef"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=detached_priest add_trait=shy add_trait=humble 
+	father=1019916796	#Awmeyeeray
+	858.11.20={ birth=yes }
+	916.4.18={ death=yes }
+}
+1019916802={
+	name=Namachewana
+	female=yes
+	dynasty=1009990135
+	dna="kkpajigfgeh"
+	culture=huron religion=algic_pagan
+	father=1019916796	#Awmeyeeray
+	865.6.9={ birth=yes }
+	947.1.17={ death=yes }
+}
+1019916803={
+	name=Stayetah
+	dynasty=1009990135
+	dna="gkfpbkochmf"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=wroth add_trait=deceitful add_trait=gluttonous add_trait=stressed 
+	father=1019916801	#Teyyaghtwa
+	882.4.6={ birth=yes }
+	942.6.18={ death=yes }
+}
+1019916804={
+	name=Neshota
+	female=yes
+	dynasty=1009990135
+	dna="gidagnocbef"
+	culture=huron religion=algic_pagan
+	father=1019916801	#Teyyaghtwa
+	888.6.14={ birth=yes }
+	953.2.3={ death=yes }
+}
+1019916805={
+	name=Datasay
+	dynasty=1009990135
+	dna="kkjgjidfcnf"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=6 learning=8
+	add_trait=misguided_warrior add_trait=craven add_trait=diligent add_trait=gluttonous 
+	father=1019916801	#Teyyaghtwa
+	894.11.2={ birth=yes }
+	993.6.30={ death=yes }
+}
+1019916806={
+	name=Daughshuttayah
+	dynasty=1009990135
+	dna="gcfoikpccfl"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=slothful add_trait=content 
+	father=1019916803	#Stayetah
+	910.11.15={ birth=yes }
+	982.2.18={ death=yes }
+}
+1019916807={
+	name=Kataka
+	female=yes
+	dynasty=1009990135
+	dna="gkfbbokojmm"
+	culture=huron religion=algic_pagan
+	father=1019916803	#Stayetah
+	914.8.16={ birth=yes }
+	964.2.21={ death=yes }
+}
+1019916808={
+	name=Namachewana
+	female=yes
+	dynasty=1009990135
+	dna="dkfpikechmk"
+	culture=huron religion=algic_pagan
+	father=1019916803	#Stayetah
+	922.6.3={ birth=yes }
+	980.12.10={ death=yes }
+}
+1019916809={
+	name=Namachewana
+	female=yes
+	dynasty=1009990135
+	dna="jffpekihhmg"
+	culture=huron religion=algic_pagan
+	father=1019916803	#Stayetah
+	925.6.17={ birth=yes }
+	1002.5.17={ death=yes }
+}
+1019916810={
+	name=Dauatout
+	dynasty=1009990135
+	dna="gjkopnieofl"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=8 learning=8
+	add_trait=indulgent_wastrel add_trait=chaste add_trait=wroth add_trait=just add_trait=honest 
+	father=1019916806	#Daughshuttayah
+	940.5.4={ birth=yes }
+	1022.9.26={ death=yes }
+}
+1019916811={
+	name=Cheyawe
+	dynasty=1009990135
+	dna="caghmknphao"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	add_trait=misguided_warrior add_trait=wroth add_trait=paranoid add_trait=diligent 
+	father=1019916806	#Daughshuttayah
+	943.8.15={ birth=yes }
+	1013.10.22={ death=yes }
+}
+1019916812={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990135
+	dna="lpkmpnieofl"
+	culture=huron religion=algic_pagan
+	father=1019916810	#Dauatout
+	968.3.16={ birth=yes }
+	1056.1.4={ death=yes }
+}
+1019916813={
+	name=Miere
+	dynasty=1009990135
+	dna="gjnfpfieofp"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=humble add_trait=cynical add_trait=arbitrary add_trait=paranoid 
+	father=1019916810	#Dauatout
+	974.3.21={ birth=yes }
+	1015.9.2={ death=yes }
+}
+1019916814={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990135
+	dna="gdboneaebfl"
+	culture=huron religion=algic_pagan
+	father=1019916810	#Dauatout
+	976.2.18={ birth=yes }
+	1046.10.21={ death=yes }
+}
+1019916815={
+	name=Kataka
+	female=yes
+	dynasty=1009990135
+	dna="djkopnieecl"
+	culture=huron religion=algic_pagan
+	father=1019916810	#Dauatout
+	982.11.18={ birth=yes }
+	1055.8.6={ death=yes }
+}
+1019916816={
+	name=Teyandatontec
+	dynasty=1009990135
+	dna="gjakjaioohi"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	add_trait=scholarly_theologian add_trait=humble add_trait=chaste add_trait=slothful  
+	father=1019916813	#Miere
+	997.2.13={ birth=yes }
+	1053.8.8={ death=yes }
+}
+1019916817={
+	name=Taima
+	female=yes
+	dynasty=1009990135
+	dna="bjlfefjebkp"
+	culture=huron religion=algic_pagan
+	father=1019916813	#Miere
+	1001.10.27={ birth=yes }
+	1098.8.8={ death=yes }
+}
+1019916818={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990135
+	dna="gcigiiigofp"
+	culture=huron religion=algic_pagan
+	father=1019916813	#Miere
+	1007.10.1={ birth=yes }
+	1066.10.22={ death=yes }
+}
+1019916819={
+	name=Shateyyaronyah
+	dynasty=1009990135
+	dna="ajamjaioofi"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=4
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=paranoid add_trait=honest add_trait=content 
+	father=1019916816	#Teyandatontec
+	1022.6.22={ birth=yes }
+	1110.10.3={ death=yes }
+}
+1019916820={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990135
+	dna="dljkkafodhi"
+	culture=huron religion=algic_pagan
+	father=1019916816	#Teyandatontec
+	1028.5.12={ birth=yes }
+	1105.7.21={ death=yes }
+}
+1019916821={
+	name=Shaawrunthe
+	dynasty=1009990135
+	dna="kkakeaioehi"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=6
+	add_trait=elusive_shadow add_trait=wroth add_trait=honest add_trait=slothful add_trait=harelip 
+	father=1019916816	#Teyandatontec
+	1031.10.6={ birth=yes }
+	1116.4.9={ death=yes }
+}
+1019916822={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990135
+	dna="njlkjinomdb"
+	culture=huron religion=algic_pagan
+	father=1019916816	#Teyandatontec
+	1035.11.9={ birth=yes }
+	1118.1.12={ death=yes }
+}
+1019916823={
+	name=Hawdoro
+	dynasty=1009990135
+	dna="giamfdioooj"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=4 learning=8
+	add_trait=detached_priest add_trait=chaste add_trait=honest add_trait=craven add_trait=slothful 
+	father=1019916816	#Teyandatontec
+	1040.4.5={ birth=yes }
+	1133.5.12={ death=yes }
+}
+1019916824={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990135
+	dna="mddjjecfohj"
+	culture=huron religion=algic_pagan
+	father=1019916816	#Teyandatontec
+	1046.3.1={ birth=yes }
+	1105.7.12={ death=yes }
+}
+1019916825={
+	name=Neshota
+	female=yes
+	dynasty=1009990135
+	dna="ajamkjinofo"
+	culture=huron religion=algic_pagan
+	father=1019916819	#Shateyyaronyah
+	1049.12.18={ birth=yes }
+	1135.5.1={ death=yes }
+}
+1019916826={
+	name=Stayetah
+	dynasty=1009990135
+	dna="ajfgejiopea"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=8
+	add_trait=mastermind_theologian add_trait=scholar add_trait=zealous add_trait=slothful add_trait=proud 
+	add_trait=wroth 
+	father=1019916819	#Shateyyaronyah
+	1053.6.13={ birth=yes }
+	1104.6.9={ death=yes }
+}
+1019916827={
+	name=Chagasort
+	female=yes
+	dynasty=1009990135
+	dna="ljgmjpfkbfi"
+	culture=huron religion=algic_pagan
+	father=1019916819	#Shateyyaronyah
+	1058.1.13={ birth=yes }
+	1117.1.15={ death=yes }
+}
+1019916828={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990135
+	dna="ajomehindpo"
+	culture=huron religion=algic_pagan
+	father=1019916819	#Shateyyaronyah
+	1062.10.12={ birth=yes }
+	1108.9.28={ death=yes }
+}
+1019916829={
+	name=Hawdoro
+	dynasty=1009990135
+	dna="amaojeioifo"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=deceitful add_trait=diligent 
+	father=1019916819	#Shateyyaronyah
+	1067.5.18={ birth=yes }
+	1140.9.30={ death=yes }
+}
+1019916830={
+	name=Quouqua
+	dynasty=1009990135
+	dna="ohhkeepeieg"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=4 learning=8
+	add_trait=elusive_shadow add_trait=patient add_trait=greedy add_trait=lustful 
+	father=1019916826	#Stayetah
+	1081.9.25={ birth=yes }
+	1140.4.7={ death=yes }
+}
+1019916831={
+	name=Pecama
+	female=yes
+	dynasty=1009990135
+	dna="apbieoidpck"
+	culture=huron religion=algic_pagan
+	father=1019916826	#Stayetah
+	1089.1.10={ birth=yes }
+	1168.12.9={ death=yes }
+}
+1019916832={
+	name=Tuayaurontoyou
+	dynasty=1009990135
+	dna="ncadbepdidk"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=ambitious  
+	father=1019916830	#Quouqua
+	1109.5.10={ birth=yes }
+	1190.3.30={ death=yes }
+}
+1019916833={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990135
+	dna="ohhkicpeibf"
+	culture=huron religion=algic_pagan
+	father=1019916830	#Quouqua
+	1117.11.10={ birth=yes }
+	1164.1.21={ death=yes }
+}
+1019916834={
+	name=Chekaqua
+	female=yes
+	dynasty=1009990135
+	dna="oldkeeclkeg"
+	culture=huron religion=algic_pagan
+	father=1019916830	#Quouqua
+	1122.4.22={ birth=yes }
+	1176.3.23={ death=yes }
+}
+1019916835={
+	name=Taima
+	female=yes
+	dynasty=1009990135
+	dna="fgkkeepeeeg"
+	culture=huron religion=algic_pagan
+	father=1019916830	#Quouqua
+	1128.1.14={ birth=yes }
+	1214.12.29={ death=yes }
+}
+1019916836={
+	name=Stayetah
+	dynasty=1009990135
+	dna="nmidcepookg"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	add_trait=indulgent_wastrel  add_trait=greedy add_trait=temperate 
+	father=1019916832	#Tuayaurontoyou
+	1135.1.14={ birth=yes }
+	1200.10.24={ death=yes }
+}
+1019916837={
+	name=Haroenyou
+	dynasty=1009990135
+	dna="ncifpcpecda"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=patient add_trait=envious add_trait=charitable add_trait=strong 
+	father=1019916832	#Tuayaurontoyou
+	1141.3.15={ birth=yes }
+	1184.12.30={ death=yes }
+}
+1019916838={
+	name=Chagasort
+	female=yes
+	dynasty=1009990135
+	dna="bchabmolidm"
+	culture=huron religion=algic_pagan
+	father=1019916832	#Tuayaurontoyou
+	1143.8.25={ birth=yes }
+	1210.2.20={ death=yes }
+}
+1019916839={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990135
+	dna="ncafbefpidk"
+	culture=huron religion=algic_pagan
+	father=1019916832	#Tuayaurontoyou
+	1148.2.2={ birth=yes }
+	1208.12.10={ death=yes }
+}
+1019916840={
+	name=Rontondu
+	dynasty=1009990135
+	dna="gmifdepjpjc"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=zealous add_trait=chaste add_trait=diligent 
+	father=1019916836	#Stayetah
+	1158.1.21={ birth=yes }
+	1210.3.9={ death=yes }
+}
+1019916841={
+	name=Taima
+	female=yes
+	dynasty=1009990135
+	dna="nmkdpepoocl"
+	culture=huron religion=algic_pagan
+	father=1019916836	#Stayetah
+	1161.2.2={ birth=yes }
+	1242.5.18={ death=yes }
+}
+1019916842={
+	name=Pecama
+	female=yes
+	dynasty=1009990135
+	dna="ndldcfaoekg"
+	culture=huron religion=algic_pagan
+	father=1019916836	#Stayetah
+	1167.3.17={ birth=yes }
+	1235.1.10={ death=yes }
+}
+1019916843={
+	name=Awmeyeeray
+	dynasty=1009990135
+	dna="gfijcepgokg"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=4
+	add_trait=misguided_warrior add_trait=paranoid add_trait=ambitious 
+	father=1019916836	#Stayetah
+	1172.12.11={ birth=yes }
+	1234.10.14={ death=yes }
+}
+1019916844={
+	name=Dauatout
+	dynasty=1009990135
+	dna="dmahiepgpni"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=7
+	add_trait=detached_priest add_trait=hunter  add_trait=arbitrary add_trait=diligent 
+	father=1019916840	#Rontondu
+	1178.1.3={ birth=yes }
+	1233.8.4={ death=yes }
+}
+1019916845={
+	name=Terhataw
+	dynasty=1009990135
+	dna="mhifeeljpci"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=8 learning=5
+	add_trait=intricate_webweaver add_trait=wroth add_trait=gluttonous add_trait=greedy add_trait=trusting 
+	add_trait=ambitious 
+	father=1019916840	#Rontondu
+	1185.6.14={ birth=yes }
+	1281.7.22={ death=yes }
+}
+1019916846={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990135
+	dna="pgifoeigplc"
+	culture=huron religion=algic_pagan
+	father=1019916840	#Rontondu
+	1191.1.17={ birth=yes }
+	1258.6.27={ death=yes }
+}
+1019916847={
+	name=Daughshuttayah
+	dynasty=1009990135
+	dna="igndiepepii"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=8 learning=7
+	add_trait=elusive_shadow add_trait=lustful add_trait=envious add_trait=brave add_trait=honest 
+	add_trait=zealous add_trait=lunatic 
+	father=1019916844	#Dauatout
+	1201.9.16={ birth=yes }
+	1263.10.3={ death=yes }
+}
+1019916848={
+	name=Chekaqua
+	female=yes
+	dynasty=1009990135
+	dna="dmndiejipni"
+	culture=huron religion=algic_pagan
+	father=1019916844	#Dauatout
+	1204.10.12={ birth=yes }
+	1290.12.27={ death=yes }
+}
+1019916849={
+	name=Tehaawtorens
+	dynasty=1009990135
+	dna="mgndiepeein"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=6 learning=7
+	add_trait=charismatic_negotiator add_trait=hedonist add_trait=paranoid add_trait=deceitful  
+	add_trait=zealous add_trait=diligent add_trait=strong 
+	father=1019916847	#Daughshuttayah
+	1222.11.12={ birth=yes }
+	1299.8.7={ death=yes }
+}
+1019916850={
+	name=Pecama
+	female=yes
+	dynasty=1009990135
+	dna="ggndmehbofp"
+	culture=huron religion=algic_pagan
+	father=1019916847	#Daughshuttayah
+	1229.11.25={ birth=yes }
+	1307.9.6={ death=yes }
+}
+1019916851={
+	name=Taimah
+	female=yes
+	dynasty=1009990135
+	dna="dgndiephpli"
+	culture=huron religion=algic_pagan
+	father=1019916847	#Daughshuttayah
+	1232.2.4={ birth=yes }
+	1316.10.29={ death=yes }
+}
+1019916852={
+	name=Daughshuttayah
+	dynasty=1009990135
+	dna="ognadepfiia"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=wroth add_trait=zealous add_trait=deceitful add_trait=ill 
+	add_trait=weak 
+	father=1019916847	#Daughshuttayah
+	1238.4.10={ birth=yes }
+	1323.9.13={ death=yes }
+}
+1019916853={
+	name=Skahomat
+	dynasty=1009990135
+	dna="hjhiibpeboi"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	add_trait=grey_eminence add_trait=envious add_trait=patient  add_trait=brave 
+	father=1019916847	#Daughshuttayah
+	1242.11.12={ birth=yes }
+	1303.1.21={ death=yes }
+}
+1019916854={
+	name=Adario
+	dynasty=1009990135
+	dna="ddmonaokbfi"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=6 learning=6
+	add_trait=grey_eminence add_trait=wroth add_trait=diligent  add_trait=envious 
+	father=1019916847	#Daughshuttayah
+	1247.4.5={ birth=yes }
+	1325.12.31={ death=yes }
+}
+1019916855={
+	name=Thateyyanayoh
+	dynasty=1009990135
+	dna="ppndhgkeean"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=trusting add_trait=humble add_trait=gluttonous add_trait=gregarious 
+	add_trait=clubfooted 
+	father=1019916849	#Tehaawtorens
+	1251.4.20={ birth=yes }
+	1333.9.5={ death=yes }
+}
+1019916856={
+	name=Horonu
+	dynasty=1009990135
+	dna="ngnjeeheegl"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=5 learning=4
+	add_trait=indulgent_wastrel  add_trait=ambitious 
+	father=1019916849	#Tehaawtorens
+	1254.4.25={ birth=yes }
+	1344.1.2={ death=yes }
+}
+1019916857={
+	name=Taima
+	female=yes
+	dynasty=1009990135
+	dna="mgnkedpkein"
+	culture=huron religion=algic_pagan
+	father=1019916849	#Tehaawtorens
+	1260.5.21={ birth=yes }
+	1313.9.3={ death=yes }
+}
+1019916858={
+	name=Taima
+	female=yes
+	dynasty=1009990135
+	dna="mdmheeppein"
+	culture=huron religion=algic_pagan
+	father=1019916849	#Tehaawtorens
+	1262.6.8={ birth=yes }
+	1361.4.7={ death=yes }
+}
+1019916859={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990135
+	dna="pacfneemein"
+	culture=huron religion=algic_pagan
+	father=1019916849	#Tehaawtorens
+	1266.12.2={ birth=yes }
+	1364.7.25={ death=yes }
+}
+1019916860={
+	name=Cheyawe
+	dynasty=1009990135
+	dna="omndhjkmaan"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=6
+	add_trait=tough_soldier add_trait=envious add_trait=deceitful add_trait=shy 
+	father=1019916855	#Thateyyanayoh
+	1277.9.1={ birth=yes }
+	1340.6.25={ death=yes }
+}
+1019916861={
+	name=Shateyyaronyah
+	dynasty=1009990135
+	dna="knbehgpgeme"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=5 learning=7
+	add_trait=martial_cleric add_trait=just add_trait=gluttonous add_trait=gregarious 
+	father=1019916855	#Thateyyanayoh
+	1283.6.2={ birth=yes }
+	1366.3.28={ death=yes }
+}
+1019916862={
+	name=Pecama
+	female=yes
+	dynasty=1009990135
+	dna="penbhonneab"
+	culture=huron religion=algic_pagan
+	father=1019916855	#Thateyyanayoh
+	1289.10.10={ birth=yes }
+	1362.11.23={ death=yes }
+}
+1019916863={
+	name=Tarhe
+	dynasty=1009990135
+	dna="gpjmigkolin"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=arbitrary add_trait=temperate 
+	father=1019916855	#Thateyyanayoh
+	1292.2.27={ birth=yes }
+	1381.11.24={ death=yes }
+}
+1019916864={
+	name=Miere
+	dynasty=1009990135
+	dna="mmidajkmakn"
+	culture=huron religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=7
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=gregarious add_trait=ambitious  
+	add_trait=wroth 
+	father=1019916860	#Cheyawe
+	1299.12.23={ birth=yes }
+	1375.7.29={ death=yes }
+}
+1019916865={
+	name=Nanochaatasa
+	female=yes
+	dynasty=1009990135
+	dna="acgbljkmgfn"
+	culture=huron religion=algic_pagan
+	father=1019916860	#Cheyawe
+	1302.4.19={ birth=yes }
+	1362.4.23={ death=yes }
+}
+1019916866={
+	name=Datasay
+	dynasty=1009990135
+	dna="mmgdfjoeaan"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	add_trait=grey_eminence  add_trait=shy add_trait=cynical add_trait=greedy 
+	add_trait=ill 
+	father=1019916860	#Cheyawe
+	1306.6.11={ birth=yes }
+	1367.10.9={ death=yes }
+}
+1019916867={
+	name=Datasay
+	dynasty=1009990135
+	dna="dgnfbjemaan"
+	culture=huron religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=scholar add_trait=shy add_trait=cynical add_trait=lustful 
+	add_trait=arbitrary 
+	father=1019916860	#Cheyawe
+	1312.10.4={ birth=yes }
+	1397.9.25={ death=yes }
+}
+1019916868={
+	name=Haroenyou
+	dynasty=1009990135
+	dna="emndhjbmian"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=4 learning=8
+	add_trait=martial_cleric add_trait=honest add_trait=trusting add_trait=just  
+	add_trait=wounded 
+	father=1019916860	#Cheyawe
+	1315.3.10={ birth=yes }
+	1386.4.2={ death=yes }
+}
+1019916869={
+	name=Mecaitch
+	female=yes
+	dynasty=1009990135
+	dna="omkdfjbhaae"
+	culture=huron religion=algic_pagan
+	father=1019916860	#Cheyawe
+	1320.2.12={ birth=yes }
+	1388.9.8={ death=yes }
+}
+1019916870={
+	name=Chekaqua
+	female=yes
+	dynasty=1009990135
+	dna="ijkbkaamaon"
+	culture=huron religion=algic_pagan
+	father=1019916860	#Cheyawe
+	1326.7.14={ birth=yes }
+	1397.7.7={ death=yes }
+}
+1019916871={
+	name=Catchemackeseo
+	female=yes
+	dynasty=1009990135
+	dna="omkgkjogpkn"
+	culture=huron religion=algic_pagan
+	father=1019916864	#Miere
+	1328.4.13={ birth=yes }
+	1391.7.13={ death=yes }
+}
+1019916872={
+	name=Shateyyaronyah
+	dynasty=1009990135
+	dna="fnfbajpmjkg"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=6
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=greedy add_trait=diligent 
+	father=1019916864	#Miere
+	1334.11.21={ birth=yes }
+	1419.4.9={ death=yes }
+}
+1019916873={
+	name=Skotous
+	dynasty=1009990135
+	dna="imhkhjjmabi"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	add_trait=intricate_webweaver add_trait=scholar add_trait=honest add_trait=brave  
+	add_trait=ambitious 
+	father=1019916864	#Miere
+	1337.2.7={ birth=yes }
+	1423.6.27={ death=yes }
+}
+1019916874={
+	name=Doueyenteat
+	dynasty=1009990135
+	dna="mgnaajbmakn"
+	culture=huron religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=just add_trait=craven add_trait=patient  
+	add_trait=depressed 
+	father=1019916864	#Miere
+	1343.2.2={ birth=yes }
+	1423.2.2={ death=yes }
+}
+1019916875={
+	name=Datasay
+	dynasty=1009990135
+	dna="eeakejjmaln"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	add_trait=elusive_shadow add_trait=duelist add_trait=lustful add_trait=just add_trait=deceitful 
+	father=1019916864	#Miere
+	1348.12.16={ birth=yes }
+	1436.7.10={ death=yes }
+}
+1019916876={
+	name=Miere
+	dynasty=1009990135
+	dna="nablcjjnjkg"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=6 learning=5
+	add_trait=flamboyant_schemer add_trait=scholar add_trait=brave add_trait=gluttonous add_trait=humble 
+	father=1019916872	#Shateyyaronyah
+	1361.8.23={ birth=yes }
+	1440.7.12={ death=yes }
+}
+1019916877={
+	name=Tschauendah
+	dynasty=1009990135
+	dna="mnpbfjpjpkn"
+	culture=huron religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=greedy add_trait=envious add_trait=depressed 
+	father=1019916872	#Shateyyaronyah
+	1364.7.21={ birth=yes }
+	1408.4.14={ death=yes }
+}
+1019916878={
+	name=Miere
+	dynasty=1009990135
+	dna="hefeakgbckj"
+	culture=huron religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=5 learning=4
+	add_trait=martial_cleric add_trait=trusting add_trait=brave add_trait=just add_trait=lustful 
+	add_trait=wounded 
+	father=1019916872	#Shateyyaronyah
+	1369.9.27={ birth=yes }
+	1424.5.20={ death=yes }
+}

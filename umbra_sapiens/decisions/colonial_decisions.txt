@@ -1,0 +1,142 @@
+decisions = {
+hide_colonial_messages = {
+		only_independent = yes
+		is_high_prio = yes
+		ai = no	
+		potential = {
+		NOT = { has_character_flag = hide_colonial_messages_flag }
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		OR = {
+		region = world_indochina	
+		region = world_ausnew
+		region = world_east_african_coast
+		region = world_zimbabwe
+		region = world_kentanmoz
+		region = world_kongo
+		region = world_far_east
+		region = world_tenem_lamit 
+		region = world_malaysia 
+		region = world_java 
+		region = world_indonesia
+		region = world_india
+		region = world_artic_america
+		region = world_south_america
+		region = world_west_america
+		region = world_east_america
+		region = world_artic_america	
+		region = world_south_north_america
+		region = world_plains_america
+		region = world_meso
+		region = world_desert_america
+		region = world_west_isles
+		region = world_africa_west
+		region = world_africa_se
+		region = world_africa_central
+		}
+		}
+		NOT = { has_character_modifier = recently_changed_colonial_visibility }
+		}
+		effect = {
+			set_character_flag = hide_colonial_messages_flag
+			add_character_modifier = {
+			name = recently_changed_colonial_visibility
+			months = 12
+									}
+		}
+	}
+show_colonial_messages = {
+		only_independent = yes
+		is_high_prio = yes
+		ai = no	
+		potential = {
+		has_character_flag = hide_colonial_messages_flag
+		capital_scope = { region = world_europe}
+		any_realm_province = {
+		OR = {
+		region = world_indochina	
+		region = world_ausnew
+		region = world_east_african_coast
+		region = world_zimbabwe
+		region = world_kentanmoz
+		region = world_kongo
+		region = world_far_east
+		region = world_tenem_lamit 
+		region = world_malaysia 
+		region = world_java 
+		region = world_indonesia
+		region = world_india
+		region = world_artic_america
+		region = world_south_america
+		region = world_west_america
+		region = world_east_america
+		region = world_artic_america	
+		region = world_south_north_america
+		region = world_plains_america
+		region = world_meso
+		region = world_desert_america
+		region = world_west_isles
+		region = world_africa_west
+		region = world_africa_se
+		region = world_africa_central
+		}
+		}
+		NOT = { has_character_modifier = recently_changed_colonial_visibility }
+		}
+		effect = {
+			clr_character_flag = hide_colonial_messages_flag
+			add_character_modifier = {
+			name = recently_changed_colonial_visibility
+			months = 12
+									}
+		}
+	}
+turn_tribals_to_cities = {
+		only_playable = yes
+		ai = yes
+		potential = {
+		religion_group = christian
+		capital_scope = {
+		holding_type = tribal
+		OR = {
+		region = world_west_america
+		region = world_east_america
+		region = world_artic_america	
+		region = world_south_north_america
+		region = world_plains_america
+		region = world_desert_america
+		}
+		}
+		}
+		effect = {
+			set_government_type = republic_government
+			capital_holding = { convert_to = city }
+		}
+		ai_will_do = {
+		factor = 1
+					}
+	}
+	create_united_states = {
+		only_independent = yes
+		potential = {
+		e_united_states = { has_holder = no }
+		religion_group = christian
+		capital_scope = {
+		region = world_east_america
+		}
+		real_tier = KING 
+		}
+		allow = {
+		wealth = 250
+		realm_size >= 180	
+		}
+		effect = {
+			gain_title = e_united_states
+			prestige = 1000
+			wealth = -250
+		}
+		ai_will_do = {
+		factor = 1
+					}
+	}
+}

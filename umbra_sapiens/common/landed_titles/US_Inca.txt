@@ -1,0 +1,951 @@
+e_inca = {
+
+	color={ 50 230 230 }
+	color2={ 220 220 220 }
+
+	capital = 3936 # Qusqu
+	allow={
+	is_colonial = no
+	}
+	k_peru = {
+
+		color={ 40 95 135 }
+		color2={ 220 220 220 }
+
+		capital = 3936 # Qusqu
+
+		d_kuntisuyu = {
+
+			color={ 35 204 41 }
+			color2={ 220 220 220 }
+			
+			capital = 3936 # Qusqu
+			
+			c_qusqu = {
+
+				color={ 85 194 89 }
+				color2={ 220 220 220 }
+				holy_site=chachapoyan_pagan
+				holy_site=chachapoyan_pagan_reformed
+				holy_site=inti
+				holy_site=inti_reformed
+				holy_site=chimuan_pagan
+				holy_site=chimuan_pagan_reformed
+				holy_site=chavin_pagan
+				holy_site=chavin_pagan_reformed
+				holy_site=tiwanakan_pagan
+				holy_site=tiwanakan_pagan_reformed
+				holy_site=caran_pagan
+				holy_site=caran_pagan_reformed
+				b_qusqu = {
+				}
+				b_qusqu-ii = {
+				}
+				b_qusqu-iii = {
+				}
+				b_qusqu-iv = {
+				}
+				b_qusqu-v = {
+				}
+				b_qusqu-vi = {
+				}
+			}
+			c_ayawiri = {
+
+				color={ 115 197 113 }
+				color2={ 220 220 220 }
+				
+				b_ayawiri = {
+				}
+				b_ayawiri-ii = {
+				}
+				b_ayawiri-iii = {
+				}
+			}
+			c_awankay = {
+
+				color={ 25 124 28 }
+				color2={ 220 220 220 }
+				
+				b_awankay = {
+				}
+				b_awankay-ii = {
+				}
+				b_awankay-iii = {
+				}
+				b_awankay-iv = {
+				}
+				b_awankay-v = {
+				}
+				b_awankay-vi = {
+				}
+				b_awankay-vii = {
+				}
+			}
+
+		}
+		d_guayaquil = {
+
+			color={ 200 48 62 }
+			color2={ 220 220 220 }
+
+			capital = 3919 # Kitu
+			
+			c_guayaquil = {
+
+				color={ 41 97 49 }
+				color2={ 220 220 220 }
+				
+				b_guayaquil = {
+				}
+				b_guayaquil-ii = {
+				}
+				b_guayaquil-iii = {
+				}
+				b_guayaquil-iv = {
+				}
+				b_guayaquil-v = {
+				}
+				b_guayaquil-vi = {
+				}
+			}
+		}
+		d_quito = {
+
+			color={ 157 43 52 }
+			color2={ 220 220 220 }
+
+			capital = 3918 # Kitu
+			
+			c_kitu = {
+
+				color={ 75 19 75 }
+				color2={ 220 220 220 }
+				holy_site=chachapoyan_pagan
+				holy_site=chachapoyan_pagan_reformed
+				holy_site=inti
+				holy_site=inti_reformed
+				holy_site=chimuan_pagan
+				holy_site=chimuan_pagan_reformed
+				holy_site=chavin_pagan
+				holy_site=chavin_pagan_reformed
+				holy_site=tiwanakan_pagan
+				holy_site=tiwanakan_pagan_reformed
+				holy_site=caran_pagan
+				holy_site=caran_pagan_reformed
+				holy_site=muisca_pagan
+				holy_site=muisca_pagan_reformed
+				b_kitu = {
+				}
+				b_kitu-ii = {
+				}
+				b_kitu-iii = {
+				}
+				b_kitu-iv = {
+				}
+				b_kitu-v = {
+				}
+				b_kitu-vi = {
+				}
+				b_kitu-vii = {
+				}
+			}
+			c_canari = {
+
+				color={ 55 184 59 }
+				color2={ 220 220 220 }
+				
+				b_canari = {
+				}
+				b_canari-ii = {
+				}
+				b_canari-iii = {
+				}
+			}
+			c_esmeraldas = {
+
+				color={ 175 32 179 }
+				color2={ 220 220 220 }
+				
+				b_esmeraldas = {
+				}
+				b_esmeraldas-ii = {
+				}
+				b_esmeraldas-iii = {
+				}
+			}
+			c_galapagos = {
+
+				color={ 87 72 129 }
+				color2={ 220 220 220 }
+				
+				b_galapagos = {
+				}
+				b_galapagos-ii = {
+				}
+				b_galapagos-iii = {
+				}
+			}
+		}
+		d_cajamarca = {
+
+			color={ 187 93 181 }
+			color2={ 220 220 220 }
+
+			capital = 3925 # Qasamarka
+			
+			c_qasamarka = {
+
+				color={ 45 49 175 }
+				color2={ 220 220 220 }
+
+				holy_site=inti
+				holy_site=inti_reformed
+				
+				b_qasamarka = {
+				}
+				b_qasamarka-ii = {
+				}
+				b_qasamarka-iii = {
+				}
+				b_qasamarka-iv = {
+				}
+			}
+			c_pisqupampa = {
+
+				color={ 75 74 149 }
+				color2={ 220 220 220 }
+				
+				b_pisqupampa = {
+				}
+				b_pisqupampa-ii = {
+				}
+				b_pisqupampa-iii = {
+				}
+			}
+			c_chachapuyas = {
+
+				color={ 193 47 49 }
+				color2={ 220 220 220 }
+				holy_site=chachapoyan_pagan
+				holy_site=chachapoyan_pagan_reformed
+				b_chachapuyas = {
+				}
+				b_chachapuyas-ii = {
+				}
+				b_chachapuyas-iii = {
+				}
+				b_chachapuyas-iv = {
+				}
+				b_chachapuyas-v = {
+				}
+				b_chachapuyas-vi = {
+				}
+				b_chachapuyas-vii = {
+				}
+			}
+			c_wankapampa = {
+
+				color={ 75 144 79 }
+				color2={ 220 220 220 }
+				
+				b_wankapampa = {
+				}
+				b_wankapampa-ii = {
+				}
+				b_wankapampa-iii = {
+				}
+			}
+			c_muyupampa = {
+
+				color={ 35 125 35 }
+				color2={ 220 220 220 }
+				
+				b_muyupampa = {
+				}
+				b_muyupampa-ii = {
+				}
+				b_muyupampa-iii = {
+				}
+			}
+		}
+		d_chimor = {
+
+			color={ 77 78 138 }
+			color2={ 220 220 220 }
+			
+			capital = 3921 # Tumpis
+			
+			c_tumpis = {
+
+				color={ 65 67 150 }
+				color2={ 220 220 220 }	
+	
+				b_tumpis  = {
+				}
+				b_tumpis-ii = {
+				}
+				b_tumpis-iii = {
+				}
+				b_tumpis-iv = {
+				}
+			}
+			c_chimputi = {
+
+				color={ 135 138 199 }
+				color2={ 220 220 220 }
+				
+				b_chimputi = {
+				}
+				b_chimputi-ii = {
+				}
+				b_chimputi-iii = {
+				}
+			}
+			c_chanchan = {
+
+				color={ 115 114 212 }
+				color2={ 220 220 220 }
+				holy_site=chimuan_pagan
+				holy_site=chimuan_pagan_reformed
+				holy_site=chavin_pagan
+				holy_site=chavin_pagan_reformed
+				holy_site=tiwanakan_pagan
+				holy_site=tiwanakan_pagan_reformed
+				holy_site=caran_pagan
+				holy_site=caran_pagan_reformed
+				b_chanchan = {
+				}
+				b_chanchan-ii = {
+				}
+				b_chanchan-iii = {
+				}
+				b_chanchan-iv = {
+				}
+				b_chanchan-v = {
+				}
+				b_chanchan-vi = {
+				}
+				b_chanchan-vii = {
+				}
+			}
+			c_tukumi = {
+
+				color={ 65 64 141 }
+				color2={ 220 220 220 }
+				
+				b_tukumi  = {
+				}
+				b_tukumi-ii = {
+				}
+				b_tukumi-iii = {
+				}
+			}
+			c_piwra = {
+
+				color={ 138 134 211 }
+				color2={ 220 220 220 }
+				
+				b_piwra = {
+				}
+				b_piwra-ii = {
+				}
+				b_piwra-iii = {
+				}
+			}
+		}
+		d_huanuco = {
+
+			color={ 149 162 206 }
+			color2={ 220 220 220 }
+			
+			capital = 3933 # Limaq
+			
+			c_limaq = {
+
+				color={ 68 67 31 }
+				color2={ 220 220 220 }
+				
+				b_limaq = {
+				}
+				b_limaq-ii = {
+				}
+				b_limaq-iii = {
+				}
+				b_limaq-iv = {
+				}
+			}
+			c_wankawillka = {
+
+				color={ 125 189 163 }
+				color2={ 220 220 220 }
+				
+				b_wankawillka = {
+				}
+				b_wankawillka-ii = {
+				}
+				b_wankawillka-iii = {
+				}
+			}
+			c_shawsha = {
+
+				color={ 179 188 19 }
+				color2={ 220 220 220 }
+				
+				b_shawsha = {
+				}
+				b_shawsha-ii = {
+				}
+				b_shawsha-iii = {
+				}
+			}
+			c_wanuku = {
+
+				color={ 159 58 79 }
+				color2={ 220 220 220 }
+				
+				b_wanuku = {
+				}
+				b_wanuku-ii = {
+				}
+				b_wanuku-iii = {
+				}
+			}
+			c_waraq = {
+
+				color={ 18 14 92 }
+				color2={ 220 220 220 }
+				
+				b_waraqq  = {
+				}
+				b_waraq-ii = {
+			              }
+				b_waraq-iii = {
+				}
+			}
+		}
+		d_kamana = {
+
+			color={ 164 66 4 }
+			color2={ 220 220 220 }
+			
+			capital = 3941 # Kamana
+			
+			c_kamana = {
+
+				color={ 108 7 175 }
+				color2={ 220 220 220 }
+				
+				b_kamana = {
+				}
+				b_kamana-ii = {
+				}
+				b_kamana-iii = {
+				}
+				b_kamana-iv = {
+				}
+			}
+			c_ariqipa = {
+
+				color={ 115 119 45 }
+				color2={ 220 220 220 }
+				
+				b_ariqipa = {
+				}
+				b_ariqipa-ii = {
+				}
+				b_ariqipa-iii = {
+				}
+			}
+			c_naska = {
+
+				color={ 79 98 189 }
+				color2={ 220 220 220 }
+				b_naska = {
+				}
+				b_naska-ii = {
+				}
+				b_naska-iii = {
+				}
+			}
+		}
+		d_antisuyu = {
+
+			color={ 159 202 59 }
+			color2={ 220 220 220 }
+			
+			capital = 3943 # Punu
+			
+			c_punu = {
+
+				color={ 122 127 64 }
+				color2={ 220 220 220 }
+				
+				b_punu = {
+				}
+				b_punu-ii = {
+				}
+				b_punu-iii = {
+				}
+				b_punu-iv = {
+				}
+			}
+			c_tiahuanaco = {
+
+				color={ 99 194 41 }
+				color2={ 220 220 220 }
+				holy_site=chimuan_pagan
+				holy_site=chimuan_pagan_reformed
+				holy_site=chavin_pagan
+				holy_site=chavin_pagan_reformed
+				holy_site=tiwanakan_pagan
+				holy_site=tiwanakan_pagan_reformed
+				holy_site=caran_pagan
+				holy_site=caran_pagan_reformed
+				b_tiahuanaco = {
+				}
+				b_tiahuanaco-ii = {
+				}
+				b_tiahuanaco-iii = {
+				}
+				b_tiahuanaco-iv = {
+				}
+				b_tiahuanaco-v = {
+				}
+				b_tiahuanaco-vi = {
+				}
+				b_tiahuanaco-vii = {
+				}
+			}
+			c_chuqiyapu = {
+
+				color={ 39 34 149 }
+				color2={ 220 220 220 }
+				
+				b_chuqiyapu = {
+				}
+				b_chuqiyapu-ii = {
+			              }
+				b_chuqiyapu-iii = {
+				}
+			}
+			c_macaya = {
+
+				color={ 149 54 97 }
+				color2={ 220 220 220 }
+				
+				b_macaya = {
+				}
+				b_macaya-ii = {
+				}
+				b_macaya-iii = {
+				}
+			}
+		}
+    }
+
+	k_upper_peru = {
+
+		color={ 30 50 125 }
+		color2={ 220 220 220 }
+
+		capital = 3949 # Choquechaca
+		d_upper_peru = {
+
+			color={ 55 198 159 }
+			color2={ 220 220 220 }
+			
+			capital = 3949 # Choquechaca
+			
+			c_choquechaca = {
+
+				color={ 87 84 171 }
+				color2={ 220 220 220 }
+
+				holy_site=inti
+				holy_site=inti_reformed
+				
+				b_choquechaca = {
+				}
+				b_choquechaca-ii = {
+				}
+				b_choquechaca-iii = {
+				}
+				b_choquechaca-iv = {
+				}
+				b_choquechaca-v = {
+				}
+				b_choquechaca-vi = {
+				}
+			}
+			c_charcas = {
+
+				color={ 65 71 176 }
+				color2={ 220 220 220 }
+				
+				b_charcas = {
+				}
+				b_charcas-ii = {
+				}
+				b_charcas-iii = {
+				}
+			}
+			c_chuqichaka = {
+
+				color={ 15 19 53 }
+				color2={ 220 220 220 }
+				
+				b_chuqichaka = {
+				}
+				b_chuqichaka-ii = {
+			              }
+				b_chuqichaka-iii = {
+				}
+			}
+			c_tarija = {
+
+				color={ 115 114 182 }
+				color2={ 220 220 220 }
+				
+				b_tarija = {
+				}
+				b_tarija-ii = {
+				}
+				b_tarija-iii = {
+				}
+			}
+		}
+		d_potosi = {
+
+			color={ 135 42 27 }
+			color2={ 220 220 220 }
+			
+			capital = 3950 # Putusi
+			
+			c_putusi = {
+
+				color={ 197 67 86 }
+				color2={ 220 220 220 }
+				
+				b_putusi = {
+				}
+				b_putusi-ii = {
+				}
+				b_putusi-iii = {
+				}
+				b_putusi-iv = {
+				}
+			}
+			c_killaqa = {
+
+				color={ 155 115 76 }
+				color2={ 220 220 220 }
+				
+				b_killaqa = {
+				}
+				b_killaqa-ii = {
+				}
+				b_killaqa-iii = {
+				}
+			}
+			c_uru_uru = {
+
+				color={ 38 64 98 }
+				color2={ 220 220 220 }
+				
+				b_uru_uru = {
+				}
+				b_uru_uru-ii = {
+			              }
+				b_uru_uru-iii = {
+				}
+			}
+			c_chichas = {
+
+				color={ 58 154 159 }
+				color2={ 220 220 220 }
+				
+				b_chichas = {
+				}
+				b_chichas-ii = {
+			              }
+				b_chichas-iii = {
+				}
+			}
+		}
+		d_quelion = {
+
+			color={ 132 192 194 }
+			color2={ 220 220 220 }
+			
+			capital = 4126 #Quelion
+			
+			c_caleta = {
+
+				color={ 49 19 39 }
+				color2={ 220 220 220 }
+				
+				b_caletanew = {
+				}
+				b_caleta-ii = {
+				}
+				b_caleta-iii = {
+				}
+				b_caleta-iv = {
+				}
+				b_caleta-v = {
+				}
+				b_caleta-vi = {
+				}
+			}
+			c_chaiten = {
+
+				color={ 14 100 209 }
+				color2={ 220 220 220 }
+				
+				b_chaiten = {
+				}
+				b_chaiten-ii = {
+				}
+				b_chaiten-iii = {
+				}
+				b_chaiten-iv = {
+				}
+				b_chaiten-v = {
+				}
+				b_chaiten-vi = {
+				}
+			}
+			
+			c_temuco = {
+
+				color={ 122 133 49 }
+				color2={ 220 220 220 }
+				
+				b_temuco = {
+				}
+				b_temuco-ii = {
+				}
+				b_temuco-iii = {
+				}
+				b_temuco-iv = {
+				}
+				b_temuco-v = {
+				}
+				b_temuco-vi = {
+				}
+			}
+			
+			c_montt = {
+
+				color={ 90 190 90 }
+				color2={ 220 220 220 }
+				holy_site=mapuche_pagan
+				holy_site=mapuche_pagan_reformed
+				b_montt = {
+				}
+				b_montt-ii = {
+				}
+				b_montt-iii = {
+				}
+				b_montt-iv = {
+				}
+				b_montt-v = {
+				}
+				b_montt-vi = {
+				}
+			}
+			
+			c_quelion = {
+
+				color={ 178 78 133 }
+				color2={ 220 220 220 }
+				
+				b_quelion = {
+				}
+				b_quelion-ii = {
+				}
+				b_quelion-iii = {
+				}
+				b_quelion-iv = {
+				}
+				b_quelion-v = {
+				}
+				b_quelion-vi = {
+				}
+			}
+		}
+		d_tucuman = {
+
+			color={ 165 61 82 }
+			color2={ 220 220 220 }
+			
+			capital = 3960 # Tucuman
+			
+			c_tucuman = {
+
+				color={ 15 147 76 }
+				color2={ 220 220 220 }
+				
+				b_tucuman = {
+				}
+				b_tucuman-ii = {
+				}
+				b_tucuman-iii = {
+				}
+				b_tucuman-iv = {
+				}
+			}
+			c_qhatamarka = {
+
+				color={ 96 91 159 }
+				color2={ 220 220 220 }
+				
+				b_qhatamarka = {
+				}
+				b_qhatamarka-ii = {
+				}
+				b_qhatamarka-iii = {
+				}
+			}
+			c_jujuy = {
+
+				color={ 41 81 126 }
+				color2={ 220 220 220 }
+				
+				b_jujuy = {
+				}
+				b_jujuy-ii = {
+				}
+				b_jujuy-iii = {
+				}
+			}
+			c_salta = {
+
+				color={ 218 161 154 }
+				color2={ 220 220 220 }
+				
+				b_salta = {
+				}
+				b_salta-ii = {
+			              }
+				b_salta-iii = {
+				}
+			}
+			c_capayan = {
+
+				color={ 58 185 128 }
+				color2={ 220 220 220 }
+				
+				b_capayan = {
+				}
+				b_capayan-ii = {
+			              }
+				b_capayan-iii = {
+				}
+			}
+		}
+		d_antofagasta = {
+
+			color={ 165 182 137 }
+			color2={ 220 220 220 }
+			
+			capital = 3959 # Antofagasta
+			
+			c_antofagasta = {
+
+				color={ 97 67 46 }
+				color2={ 220 220 220 }
+
+				holy_site=inti
+				holy_site=inti_reformed
+				
+				b_antofagasta = {
+				}
+				b_antofagasta-ii = {
+				}
+				b_antofagasta-iii = {
+				}
+				b_antofagasta-iv = {
+				}
+			}
+			c_arika = {
+
+				color={ 155 75 6 }
+				color2={ 220 220 220 }
+				
+				b_arika = {
+				}
+				b_arika-ii = {
+				}
+				b_arika-iii = {
+				}
+			}
+			c_iquique = {
+
+				color={ 78 44 148 }
+				color2={ 220 220 220 }
+				
+				b_iquique = {
+				}
+				b_iquique-ii = {
+			              }
+				b_iquique-iii = {
+				}
+			}
+			c_calama = {
+
+				color={ 58 194 161 }
+				color2={ 220 220 220 }
+				holy_site=chaco_pagan
+				holy_site=chaco_pagan_reformed
+				holy_site=pampas_pagan
+				holy_site=pampas_pagan_reformed
+				holy_site=mapuche_pagan
+				holy_site=mapuche_pagan_reformed
+				b_calama = {
+				}
+				b_calama-ii = {
+			              }
+				b_calama-iii = {
+				}
+			}
+			c_qhupiyapu = {
+
+				color={ 158 174 71 }
+				color2={ 220 220 220 }
+				
+				b_qhupiyapu = {
+				}
+				b_qhupiyapu-ii = {
+			              }
+				b_qhupiyapu-iii = {
+				}
+			}
+			c_kukimpu = {
+
+				color={ 48 224 141 }
+				color2={ 220 220 220 }
+				
+				b_kukimpu = {
+				}
+				b_kukimpu-ii = {
+			              }
+				b_kukimpu-iii = {
+				}
+			}
+			c_picunche = {
+
+				color={ 68 94 171 }
+				color2={ 220 220 220 }
+				
+				b_picunche = {
+				}
+				b_picunche-ii = {
+			              }
+				b_picunche-iii = {
+				}
+			}
+		}
+	}
+}

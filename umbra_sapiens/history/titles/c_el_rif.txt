@@ -1,0 +1,258 @@
+710.1.1={
+	holder = 168254
+}
+749.1.1={
+	holder = 168255
+}
+755.1.1={
+	holder = 168256
+}
+760.1.1={
+	holder = 168257
+}
+
+788.1.1={
+	liege="k_mauretania"
+}
+803.1.1={
+	holder = 168258
+}
+864.1.1={
+	holder = 168259
+}
+866.1.1={
+	liege="d_fes"
+}
+
+916.1.1={
+	holder = 168260
+}
+927.1.1={
+	holder = 168261
+}
+929.1.1={
+	holder = 168264
+}
+935.1.1={
+	holder = 168268
+	liege = d_tangiers
+}
+940.1.1={
+	holder = 168271
+	liege = d_fes
+}
+947.1.1={
+	holder = 168274
+}
+
+
+1015.1.1=
+{
+holder=155001
+}
+1039.1.1=
+{
+holder=155002
+}
+1066.1.1=
+{
+holder=155003
+}
+1070.3.18=
+{
+liege=0
+}
+1075.1.1=
+{
+liege="d_fes" #under Almoravid
+}
+1075.1.1=
+{
+holder=155033
+}
+1092.1.1=
+{
+holder=155083
+}
+1106.12.6=
+{
+holder=155075
+}
+1115.1.1=
+{
+holder=155083
+}
+1152.1.1=
+{
+holder=155088
+}
+1163.1.1=
+{
+holder=155085
+}
+1191.1.1=
+{
+holder=32983
+}
+1212.7.16=
+{
+liege="k_mauretania"
+}
+1212.7.16=
+{
+holder=32993
+}
+1217.1.1=
+{
+holder=32994
+}
+1240.1.1=
+{
+holder=32995
+}
+1244.1.1=
+{
+liege=0
+}
+1244.1.1=
+{
+holder=32996
+}
+1248.1.1=
+{
+liege="d_fes"
+}
+1258.1.1=
+{
+holder=32997
+} 
+1286.3.20=
+{
+holder=32998
+}
+1307.5.13=
+{
+holder=33000
+}
+1308.7.28=
+{
+holder=33001
+}
+1310.11.23=
+{
+holder=33004
+}
+1348.1.1 = {
+	holder=33007	#Abu Inan Faris
+}
+1358.1.10 = {
+	holder=378571	#Abu Bakr ibn Faris
+}
+1359.1.1 = {
+	holder=33009	#Ibrahim ibn Ali
+}
+1361.1.1 = {
+	holder=33010	#Tashfin ibn Ali
+}
+1362.1.1 = {
+	holder=378575	#Muhammad II ibn Faris
+}
+1366.1.1 = {
+	holder=378570	#Abu Faris Abd al-Aziz I
+}
+1372.1.1 = {
+	holder=378572	#Muhammad III ibn Abd al-Aziz
+}
+1374.1.1 = {
+	holder=378573	#Abu al-Abbas Ahmad al-Mustansir
+}
+1384.1.1 = {
+	holder=378574	#Musa ibn Faris al-Mutawakkil
+}
+1386.1.1 = {
+	holder=33008	#Muhammad ibn Ahmad al-Wathiq
+}
+1387.1.1 = {
+	holder=378573	#Abu al-Abbas Ahmad al-Mustansir
+} 
+1393.1.1 = {
+	holder=378577	#Abd al-Aziz II ibn Ahmad II
+}
+1396.1.1 = {
+	holder=378576 #Abdallah ibn Ahmad II
+}
+1398.3.19 = {
+	holder=378578 #Abu Said Uthman III
+}
+1420.10.1= {
+	holder=378579	#Abd al-Haqq II
+}
+1465.1.11= {
+	holder=378580	#Muhammad ibn Ali Idrisi-Joutey
+}
+1471.1.1={
+	holder=378582	#Abu Abd Allah al-Sheikh Muhammad ibn Yahya
+}
+1504.1.1={
+	holder=378583	#Abu Abd Allah al-Burtuqali Muhammad ibn Muhammad
+}
+1526.1.1= {
+	holder=378584 #Abu al-Abbas Ahmad ibn Muhammad
+}
+1545.1.1= {
+	holder=378587	#Nasir ad-Din al-Qasri Muhammad ibn Ahmad
+}
+1547.1.1= {
+	holder=378584 #Abu al-Abbas Ahmad ibn Muhammad
+}
+1549.1.1= {
+	holder=378618 #Ali Abu Hassun
+}
+1549.6.1= {
+	holder=378590 #Mohammed al-Shaykh
+}
+1554.1.1= {
+	holder=378618 #Ali Abu Hassun
+	liege=0
+}
+1554.9.1= {
+	holder=378590 #Mohammed al-Shaykh
+}
+1557.10.23={
+	holder=378591	#Abdallah al-Ghalib
+}
+1574.1.22= {
+	holder=378594 #Abu Abdallah Mohammed II Saadi
+}
+1576.3.18={
+	holder=378592	#Abu Marwan Abd al-Malik I
+}
+1578.8.4={
+	holder=378593	#Ahmad al-Mansur
+}
+1603.8.25={
+	holder=378595	#Zidan Abu Maali
+	liege=0
+}
+1604.1.1={
+	holder=378597	#Mohammed esh Sheikh el Mamun
+}
+1613.1.1={
+	holder=378598 #Abdallah al-Ghalib II
+} 
+1623.1.1={
+	holder=378603 #Abd al-Malik ibn Abdallah
+}
+1627.9.1={
+	holder=378595 #Zidan Abu Maali
+}
+1631.3.10={
+	holder=378601	#Al Walid bin Zidan
+}
+1636.2.21={
+	holder=378602	#Mohammed esh-Sheikh es-Seghir
+}
+1637.1.1={
+	holder=378609	#Mohammed al-Hajj
+	liege=0
+}

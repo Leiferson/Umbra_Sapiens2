@@ -1,0 +1,156 @@
+765.1.1={
+	liege=k_italy
+}
+765.1.1={
+	holder = 190326 #Taso
+}
+846.1.1={
+	liege="d_toscana"
+}
+846.1.1={
+	holder = 167900
+}
+936.1.1 = {
+	holder = 260625
+}
+1027.1.1={
+	holder=7756
+}
+1052.5.6={
+	holder=7758
+}
+1055.7.1={
+	holder=7757
+}
+1115.7.24={
+	holder=7901
+}
+1120.1.1={
+	holder=33466
+}
+1127.1.1={
+	holder=30219
+}
+1135.1.1={
+	holder=212996
+}
+1137.1.1={
+	holder=212602
+}
+1139.10.20={
+	holder=73405
+}
+1152.1.1={
+	holder=7595
+}
+1160.1.1={
+	holder=7596
+}
+1167.9.12={
+	holder=7595
+}
+1173.1.1={
+	holder=212501
+}
+1186.1.11={
+	holder=20321
+}
+1197.9.28={
+	liege=e_hre
+}
+1199.1.1={
+	holder=213017
+}
+1221.1.1={
+	holder=73436
+}
+1238.1.1={
+	holder=73437
+}
+1255.1.1={
+	liege=0
+}
+1261.1.1={
+	holder=73438
+}
+1281.1.1={
+	holder=70852
+}
+1282.1.1={
+	holder=73439
+}
+1290.1.1={
+	holder=73440
+}
+1315.1.1={
+	holder=73441
+}
+1326.1.1={
+	holder=461701
+	liege=d_calabria
+}
+1328.11.9={
+	holder=413017
+	liege=0
+}
+1348.1.1 = {
+	holder=381000
+}
+1399.1.1={
+	holder=370753	#Gian Galeazzo Visconti
+}
+1402.9.3={
+	holder=370760	#Giovanni Maria Visconti
+}
+1404.1.1={
+	holder=381001
+}
+1430.1.1={
+	holder=381002
+}
+1463.1.1={
+	holder=381003
+}
+1487.1.1={
+	holder=381004	#Pandolfo Petrucci
+}
+1512.5.21={
+	holder=381008	#Borghese Petrucci
+}
+1515.1.1={
+	holder=381013	#Raffaello Petrucci
+}
+1522.12.11={
+	holder=381011	#Fabio Petrucci
+}
+1524.1.1={
+	holder=381015	#republic again
+}
+1529.1.1={
+	holder=381014 #Alfonso II Piccolomini
+	liege=e_espana_burgona
+	vice_royalty=yes
+}
+1547.1.1={
+	holder=379768	#Diego Hurtado de Mendoza (poet and diplomat)		
+}
+1552.1.1={
+	holder=371567 #sienese revolt Piero Strozzi
+	liege=0
+	vice_royalty=no
+}
+1555.4.17={
+	holder=371627	#Cosimo I de' Medici
+}
+1574.4.21 = {
+	holder=371676	#Francesco I de' Medici
+}
+1587.10.19 = {
+	holder=371683	#Ferdinando I de' Medici
+}
+1609.1.17 = {
+	holder=372580	#Cosimo II de' Medici
+}
+1621.2.28 = {
+	holder=372613	#Ferdinando II de' Medici
+}

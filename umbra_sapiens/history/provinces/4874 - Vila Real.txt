@@ -1,0 +1,18 @@
+# County Title
+title = c_vila_real
+
+# Settlements
+max_settlements = 5
+b_vila_real = castle
+b_vila_real-ii = temple
+#b_vila_real-iii = city
+#b_vila_real-iv = castle
+#b_vila_real-v = temple
+# Misc
+culture = suebi
+religion = catholic
+
+# History
+926.1.1={
+	culture = portuguese
+}

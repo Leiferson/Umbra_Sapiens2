@@ -1,0 +1,1100 @@
+1019918942={
+	name=Moytoy
+	dynasty=1009990156
+	dna="higjpahjflg"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=kind add_trait=craven add_trait=cynical add_trait=humble 
+	add_trait=gluttonous add_trait=paranoid 
+	719.11.18={ birth=yes }
+	793.7.23={ death=yes }
+}
+1019918943={
+	name=Unsuokanail
+	dynasty=1009990156
+	dna="hikceahjfcg"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=8 learning=7
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=gluttonous add_trait=zealous add_trait=greedy 
+	add_trait=possessed 
+	father=1019918942	#Moytoy
+	751.4.8={ birth=yes }
+	809.5.1={ death=yes }
+}
+1019918944={
+	name=Ama
+	female=yes
+	dynasty=1009990156
+	dna="ncgjnaheplf"
+	culture=cherokee religion=algic_pagan
+	father=1019918942	#Moytoy
+	757.1.21={ birth=yes }
+	832.6.23={ death=yes }
+}
+1019918945={
+	name=Sequoyah
+	dynasty=1009990156
+	dna="hipceahofeh"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=envious add_trait=charitable add_trait=honest add_trait=content 
+	add_trait=trusting add_trait=wroth 
+	father=1019918943	#Unsuokanail
+	776.6.18={ birth=yes }
+	839.9.28={ death=yes }
+}
+1019918946={
+	name=Guwisguwi
+	dynasty=1009990156
+	dna="nikceahjdcg"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=poet add_trait=cynical add_trait=just add_trait=slothful 
+	add_trait=temperate 
+	father=1019918943	#Unsuokanail
+	781.9.5={ birth=yes }
+	845.7.13={ death=yes }
+}
+1019918947={
+	name=Oolah
+	dynasty=1009990156
+	dna="aiocdkpjhig"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=charitable 
+	father=1019918943	#Unsuokanail
+	786.1.19={ birth=yes }
+	843.8.7={ death=yes }
+}
+1019918948={
+	name=Tunksalenee
+	dynasty=1009990156
+	dna="hhpchanobec"
+	culture=cherokee religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=8 learning=8
+	add_trait=grey_eminence add_trait=zealous add_trait=proud 
+	father=1019918945	#Sequoyah
+	803.12.18={ birth=yes }
+	868.7.15={ death=yes }
+}
+1019918949={
+	name=Akooh
+	dynasty=1009990156
+	dna="hianijhebbl"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=gardener add_trait=patient add_trait=arbitrary add_trait=greedy 
+	add_trait=zealous 
+	father=1019918945	#Sequoyah
+	807.12.11={ birth=yes }
+	874.2.3={ death=yes }
+}
+1019918950={
+	name=Nanyehi
+	female=yes
+	dynasty=1009990156
+	dna="hipchahoeap"
+	culture=cherokee religion=algic_pagan
+	father=1019918945	#Sequoyah
+	814.7.25={ birth=yes }
+	872.12.1={ death=yes }
+}
+1019918951={
+	name=Sequoyah
+	dynasty=1009990156
+	dna="iidceagieji"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=5 learning=6
+	add_trait=indulgent_wastrel add_trait=humble add_trait=brave add_trait=lustful add_trait=drunkard 
+	father=1019918945	#Sequoyah
+	818.7.4={ birth=yes }
+	874.5.16={ death=yes }
+}
+1019918952={
+	name=Oorkullaukee
+	dynasty=1009990156
+	dna="hipcenocddh"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=hunter add_trait=shy add_trait=cynical 
+	father=1019918945	#Sequoyah
+	822.5.2={ birth=yes }
+	880.8.31={ death=yes }
+}
+1019918953={
+	name=Keenahkunnah
+	dynasty=1009990156
+	dna="hipchahofej"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=7
+	add_trait=detached_priest add_trait=kind add_trait=arbitrary add_trait=brave add_trait=lisp 
+	father=1019918945	#Sequoyah
+	825.4.14={ birth=yes }
+	908.1.13={ death=yes }
+}
+1019918954={
+	name=Galilani
+	female=yes
+	dynasty=1009990156
+	dna="hipcdadofjh"
+	culture=cherokee religion=algic_pagan
+	father=1019918945	#Sequoyah
+	830.9.13={ birth=yes }
+	893.12.12={ death=yes }
+}
+1019918955={
+	name=Wyuka
+	dynasty=1009990156
+	dna="fhphhanobec"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=brave add_trait=shy add_trait=honest add_trait=slothful 
+	add_trait=zealous 
+	father=1019918948	#Tunksalenee
+	828.5.8={ birth=yes }
+	883.11.5={ death=yes }
+}
+1019918956={
+	name=Tulco
+	dynasty=1009990156
+	dna="hcfcjkbobec"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=slothful add_trait=paranoid add_trait=proud add_trait=gluttonous 
+	add_trait=wroth 
+	father=1019918948	#Tunksalenee
+	833.3.19={ birth=yes }
+	891.3.31={ death=yes }
+}
+1019918957={
+	name=Immookalee
+	female=yes
+	dynasty=1009990156
+	dna="bdemiacdbic"
+	culture=cherokee religion=algic_pagan
+	father=1019918948	#Tunksalenee
+	840.4.1={ birth=yes }
+	902.4.16={ death=yes }
+}
+1019918958={
+	name=Tallotuskee
+	dynasty=1009990156
+	dna="ahjcfanfbec"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=5 learning=6
+	add_trait=elusive_shadow add_trait=poet add_trait=zealous add_trait=deceitful 
+	father=1019918948	#Tunksalenee
+	845.1.24={ birth=yes }
+	918.12.19={ death=yes }
+}
+1019918959={
+	name=Umatooetha
+	dynasty=1009990156
+	dna="ahjkjdnobei"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=8 learning=6
+	add_trait=tough_soldier add_trait=zealous add_trait=proud add_trait=gregarious add_trait=gluttonous 
+	add_trait=charitable add_trait=drunkard 
+	father=1019918955	#Wyuka
+	858.3.24={ birth=yes }
+	915.8.14={ death=yes }
+}
+1019918960={
+	name=Kowetatahee
+	dynasty=1009990156
+	dna="fhphhaoobec"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=wroth add_trait=cynical add_trait=lustful add_trait=cruel 
+	add_trait=temperate 
+	father=1019918955	#Wyuka
+	864.3.19={ birth=yes }
+	940.2.4={ death=yes }
+}
+1019918961={
+	name=Usdi
+	female=yes
+	dynasty=1009990156
+	dna="fhphhaofefb"
+	culture=cherokee religion=algic_pagan
+	father=1019918955	#Wyuka
+	869.2.7={ birth=yes }
+	923.6.25={ death=yes }
+}
+1019918962={
+	name=Immookalee
+	female=yes
+	dynasty=1009990156
+	dna="phpgninobed"
+	culture=cherokee religion=algic_pagan
+	father=1019918955	#Wyuka
+	873.12.16={ birth=yes }
+	938.10.21={ death=yes }
+}
+1019918963={
+	name=Kowetatahee
+	dynasty=1009990156
+	dna="fhphhgnonkc"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=6 learning=7
+	add_trait=detached_priest add_trait=gardener add_trait=cruel add_trait=charitable add_trait=gluttonous 
+	add_trait=ambitious 
+	father=1019918955	#Wyuka
+	876.4.19={ birth=yes }
+	938.12.22={ death=yes }
+}
+1019918964={
+	name=Kolakusta
+	dynasty=1009990156
+	dna="lajbidnokei"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=wroth add_trait=honest add_trait=zealous 
+	father=1019918959	#Umatooetha
+	879.12.13={ birth=yes }
+	951.1.29={ death=yes }
+}
+1019918965={
+	name=Amokontakona
+	dynasty=1009990156
+	dna="ghcmjnnopem"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=8
+	add_trait=skilled_tactician add_trait=gardener add_trait=just add_trait=cruel add_trait=greedy 
+	add_trait=gluttonous add_trait=cynical add_trait=brave 
+	father=1019918959	#Umatooetha
+	883.5.21={ birth=yes }
+	973.6.29={ death=yes }
+}
+1019918966={
+	name=Chellokee
+	dynasty=1009990156
+	dna="chnojlfgcgj"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=7 learning=4
+	add_trait=elusive_shadow add_trait=craven add_trait=temperate add_trait=honest add_trait=arbitrary 
+	add_trait=proud 
+	father=1019918959	#Umatooetha
+	887.12.23={ birth=yes }
+	943.4.1={ death=yes }
+}
+1019918967={
+	name=Awinita
+	female=yes
+	dynasty=1009990156
+	dna="acjkfnocbni"
+	culture=cherokee religion=algic_pagan
+	father=1019918959	#Umatooetha
+	892.10.16={ birth=yes }
+	967.8.4={ death=yes }
+}
+1019918968={
+	name=Tsiyu
+	dynasty=1009990156
+	dna="lapoidmfkei"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=4 learning=6
+	add_trait=charismatic_negotiator add_trait=humble add_trait=honest add_trait=kind add_trait=arbitrary 
+	father=1019918964	#Kolakusta
+	900.11.2={ birth=yes }
+	958.3.14={ death=yes }
+}
+1019918969={
+	name=Ayita
+	female=yes
+	dynasty=1009990156
+	dna="cadgpinckij"
+	culture=cherokee religion=algic_pagan
+	father=1019918964	#Kolakusta
+	906.3.22={ birth=yes }
+	984.7.21={ death=yes }
+}
+1019918970={
+	name=Tsistunagiska
+	female=yes
+	dynasty=1009990156
+	dna="babganlenei"
+	culture=cherokee religion=algic_pagan
+	father=1019918968	#Tsiyu
+	927.2.1={ birth=yes }
+	990.8.10={ death=yes }
+}
+1019918971={
+	name=Nemetuah
+	dynasty=1009990156
+	dna="faahidmmkji"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=5 learning=7
+	add_trait=elusive_shadow add_trait=duelist add_trait=ambitious add_trait=just add_trait=cynical 
+	add_trait=cruel 
+	father=1019918968	#Tsiyu
+	930.5.11={ birth=yes }
+	1004.5.8={ death=yes }
+}
+1019918972={
+	name=Sequoia
+	female=yes
+	dynasty=1009990156
+	dna="lafooepfkbi"
+	culture=cherokee religion=algic_pagan
+	father=1019918968	#Tsiyu
+	935.4.17={ birth=yes }
+	1006.11.3={ death=yes }
+}
+1019918973={
+	name=Amadahy
+	female=yes
+	dynasty=1009990156
+	dna="loleedmflob"
+	culture=cherokee religion=algic_pagan
+	father=1019918968	#Tsiyu
+	940.2.10={ birth=yes }
+	1008.3.31={ death=yes }
+}
+1019918974={
+	name=Knasgowa
+	female=yes
+	dynasty=1009990156
+	dna="mhpoodmjcep"
+	culture=cherokee religion=algic_pagan
+	father=1019918968	#Tsiyu
+	944.4.4={ birth=yes }
+	1000.1.5={ death=yes }
+}
+1019918975={
+	name=Kolakusta
+	dynasty=1009990156
+	dna="faahadmmkoi"
+	culture=cherokee religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=scholar add_trait=proud add_trait=just 
+	father=1019918971	#Nemetuah
+	953.3.14={ birth=yes }
+	1040.4.11={ death=yes }
+}
+1019918976={
+	name=Lach'n
+	dynasty=1009990156
+	dna="lkhhidlkkji"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=patient add_trait=honest add_trait=content add_trait=gluttonous 
+	add_trait=charitable add_trait=slothful 
+	father=1019918971	#Nemetuah
+	958.2.21={ birth=yes }
+	1022.9.1={ death=yes }
+}
+1019918977={
+	name=Sequoia
+	female=yes
+	dynasty=1009990156
+	dna="eaocfdjjkjn"
+	culture=cherokee religion=algic_pagan
+	father=1019918971	#Nemetuah
+	962.5.1={ birth=yes }
+	1051.3.10={ death=yes }
+}
+1019918978={
+	name=Kumamah
+	dynasty=1009990156
+	dna="foaiidemgpi"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=6 learning=7
+	add_trait=flamboyant_schemer add_trait=poet add_trait=kind add_trait=paranoid add_trait=diligent 
+	add_trait=chaste add_trait=zealous 
+	father=1019918971	#Nemetuah
+	964.4.2={ birth=yes }
+	1035.10.20={ death=yes }
+}
+1019918979={
+	name=Adsila
+	female=yes
+	dynasty=1009990156
+	dna="jaahidamojb"
+	culture=cherokee religion=algic_pagan
+	father=1019918971	#Nemetuah
+	969.6.12={ birth=yes }
+	1039.11.22={ death=yes }
+}
+1019918980={
+	name=Usdi
+	female=yes
+	dynasty=1009990156
+	dna="clagidcnkjf"
+	culture=cherokee religion=algic_pagan
+	father=1019918971	#Nemetuah
+	974.5.15={ birth=yes }
+	1061.2.15={ death=yes }
+}
+1019918981={
+	name=Kanitta
+	dynasty=1009990156
+	dna="faahfimmkji"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=4 learning=6
+	add_trait=detached_priest add_trait=charitable add_trait=cruel add_trait=just add_trait=patient 
+	add_trait=paranoid add_trait=zealous add_trait=ill add_trait=hunchback 
+	father=1019918971	#Nemetuah
+	978.6.15={ birth=yes }
+	1063.2.26={ death=yes }
+}
+1019918982={
+	name=Neekaanneah
+	dynasty=1009990156
+	dna="flkhadjmkac"
+	culture=cherokee religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=5 learning=5
+	add_trait=elusive_shadow add_trait=hunter add_trait=cruel add_trait=greedy add_trait=lustful 
+	add_trait=gregarious 
+	father=1019918975	#Kolakusta
+	979.12.24={ birth=yes }
+	1034.7.19={ death=yes }
+}
+1019918983={
+	name=Salali
+	female=yes
+	dynasty=1009990156
+	dna="kaebblmmkel"
+	culture=cherokee religion=algic_pagan
+	father=1019918975	#Kolakusta
+	984.4.17={ birth=yes }
+	1065.10.21={ death=yes }
+}
+1019918984={
+	name=Boudinot
+	dynasty=1009990156
+	dna="jaahadcmkie"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=4
+	add_trait=intricate_webweaver add_trait=arbitrary add_trait=lustful add_trait=shy add_trait=diligent 
+	add_trait=cynical 
+	father=1019918975	#Kolakusta
+	988.11.11={ birth=yes }
+	1068.9.1={ death=yes }
+}
+1019918985={
+	name=Ama
+	female=yes
+	dynasty=1009990156
+	dna="hbofapmlnni"
+	culture=cherokee religion=algic_pagan
+	father=1019918975	#Kolakusta
+	991.12.8={ birth=yes }
+	1051.7.19={ death=yes }
+}
+1019918986={
+	name=Kolakusta
+	dynasty=1009990156
+	dna="glmhgdnmkca"
+	culture=cherokee religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=7 learning=8
+	add_trait=detached_priest add_trait=shy add_trait=lustful add_trait=zealous add_trait=brave 
+	father=1019918982	#Neekaanneah
+	1003.3.19={ birth=yes }
+	1086.4.2={ death=yes }
+}
+1019918987={
+	name=Necatee
+	dynasty=1009990156
+	dna="jljhapabkac"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=wroth add_trait=zealous add_trait=gluttonous add_trait=cruel 
+	father=1019918982	#Neekaanneah
+	1008.6.4={ birth=yes }
+	1091.4.2={ death=yes }
+}
+1019918988={
+	name=Kowetatahee
+	dynasty=1009990156
+	dna="fokoipopaac"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=paranoid add_trait=brave add_trait=cruel add_trait=humble 
+	add_trait=temperate add_trait=content 
+	father=1019918982	#Neekaanneah
+	1013.4.15={ birth=yes }
+	1087.9.21={ death=yes }
+}
+1019918989={
+	name=Asmita
+	female=yes
+	dynasty=1009990156
+	dna="glpegnjmibb"
+	culture=cherokee religion=algic_pagan
+	father=1019918986	#Kolakusta
+	1032.3.5={ birth=yes }
+	1090.12.5={ death=yes }
+}
+1019918990={
+	name=Tuskegatahu
+	dynasty=1009990156
+	dna="dlbpghdgeid"
+	culture=cherokee religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=gluttonous add_trait=envious add_trait=cruel 
+	father=1019918986	#Kolakusta
+	1038.4.14={ birth=yes }
+	1092.8.21={ death=yes }
+}
+1019918991={
+	name=Immokalee
+	female=yes
+	dynasty=1009990156
+	dna="ahbpkioneha"
+	culture=cherokee religion=algic_pagan
+	father=1019918990	#Tuskegatahu
+	1070.10.12={ birth=yes }
+	1138.12.14={ death=yes }
+}
+1019918992={
+	name=Kanitta
+	dynasty=1009990156
+	dna="dlceiefgeld"
+	culture=cherokee religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=gregarious add_trait=content add_trait=proud add_trait=patient 
+	add_trait=craven 
+	father=1019918990	#Tuskegatahu
+	1077.10.20={ birth=yes }
+	1150.5.2={ death=yes }
+}
+1019918993={
+	name=Kulsateehee
+	dynasty=1009990156
+	dna="dfbjgdbgoic"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=content add_trait=kind add_trait=charitable 
+	father=1019918990	#Tuskegatahu
+	1081.1.7={ birth=yes }
+	1140.12.30={ death=yes }
+}
+1019918994={
+	name=Sketaloska
+	dynasty=1009990156
+	dna="dlcenejglid"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=paranoid add_trait=arbitrary add_trait=patient add_trait=cruel 
+	father=1019918992	#Kanitta
+	1107.5.20={ birth=yes }
+	1175.3.2={ death=yes }
+}
+1019918995={
+	name=Salali
+	female=yes
+	dynasty=1009990156
+	dna="dlceiifgegd"
+	culture=cherokee religion=algic_pagan
+	father=1019918992	#Kanitta
+	1114.2.1={ birth=yes }
+	1195.10.2={ death=yes }
+}
+1019918996={
+	name=Nanye-hi
+	female=yes
+	dynasty=1009990156
+	dna="dhcglpnoeld"
+	culture=cherokee religion=algic_pagan
+	father=1019918992	#Kanitta
+	1119.4.27={ birth=yes }
+	1185.4.30={ death=yes }
+}
+1019918997={
+	name=Tauuotihee
+	dynasty=1009990156
+	dna="dkgemeknemd"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=5 learning=8
+	add_trait=martial_cleric add_trait=craven add_trait=chaste add_trait=deceitful add_trait=ill 
+	father=1019918992	#Kanitta
+	1125.8.23={ birth=yes }
+	1226.12.29={ death=yes }
+}
+1019918998={
+	name=Asmita
+	female=yes
+	dynasty=1009990156
+	dna="dlcegejgdki"
+	culture=cherokee religion=algic_pagan
+	father=1019918994	#Sketaloska
+	1132.12.19={ birth=yes }
+	1207.5.23={ death=yes }
+}
+1019918999={
+	name=Ama
+	female=yes
+	dynasty=1009990156
+	dna="ddoeeemkdld"
+	culture=cherokee religion=algic_pagan
+	father=1019918994	#Sketaloska
+	1138.3.9={ birth=yes }
+	1217.10.31={ death=yes }
+}
+1019919000={
+	name=Neekaanneah
+	dynasty=1009990156
+	dna="djcdnpkhlik"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=8 learning=4
+	add_trait=tough_soldier add_trait=zealous add_trait=brave 
+	father=1019918994	#Sketaloska
+	1144.7.27={ birth=yes }
+	1225.5.9={ death=yes }
+}
+1019919001={
+	name=Keenahkunnah
+	dynasty=1009990156
+	dna="dleeefgmlfa"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	add_trait=scholarly_theologian add_trait=diligent add_trait=chaste add_trait=envious add_trait=cynical 
+	add_trait=deceitful add_trait=depressed 
+	father=1019918994	#Sketaloska
+	1147.6.25={ birth=yes }
+	1224.6.1={ death=yes }
+}
+1019919002={
+	name=Galilahi
+	female=yes
+	dynasty=1009990156
+	dna="okaenehdlid"
+	culture=cherokee religion=algic_pagan
+	father=1019918994	#Sketaloska
+	1152.2.4={ birth=yes }
+	1242.10.27={ death=yes }
+}
+1019919003={
+	name=Moytoy
+	dynasty=1009990156
+	dna="gjcalpkjlik"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	add_trait=misguided_warrior add_trait=deceitful add_trait=craven add_trait=lustful add_trait=zealous 
+	add_trait=stressed 
+	father=1019919000	#Neekaanneah
+	1170.1.24={ birth=yes }
+	1245.7.11={ death=yes }
+}
+1019919004={
+	name=Hiawassee
+	female=yes
+	dynasty=1009990156
+	dna="lchdnpfhfop"
+	culture=cherokee religion=algic_pagan
+	father=1019919000	#Neekaanneah
+	1174.12.18={ birth=yes }
+	1235.11.18={ death=yes }
+}
+1019919005={
+	name=Koatohee
+	dynasty=1009990156
+	dna="pcchnpkainj"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=4 learning=8
+	add_trait=scholarly_theologian add_trait=content add_trait=shy add_trait=cruel add_trait=zealous 
+	father=1019919000	#Neekaanneah
+	1177.4.23={ birth=yes }
+	1251.12.28={ death=yes }
+}
+1019919006={
+	name=Adsila
+	female=yes
+	dynasty=1009990156
+	dna="djcclpkjaip"
+	culture=cherokee religion=algic_pagan
+	father=1019919000	#Neekaanneah
+	1180.10.7={ birth=yes }
+	1232.5.20={ death=yes }
+}
+1019919007={
+	name=Oorkullaukee
+	dynasty=1009990156
+	dna="mpcmlfkjldk"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=wroth add_trait=proud add_trait=arbitrary add_trait=kind 
+	add_trait=honest 
+	father=1019919003	#Moytoy
+	1202.2.9={ birth=yes }
+	1268.8.14={ death=yes }
+}
+1019919008={
+	name=Kumamah
+	dynasty=1009990156
+	dna="djfaipkjlfl"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=4
+	add_trait=indulgent_wastrel add_trait=brave add_trait=cruel 
+	father=1019919003	#Moytoy
+	1206.12.10={ birth=yes }
+	1289.4.8={ death=yes }
+}
+1019919009={
+	name=Chellokee
+	dynasty=1009990156
+	dna="gbcfnefbcik"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=cynical add_trait=proud add_trait=temperate add_trait=arbitrary 
+	add_trait=cruel 
+	father=1019919003	#Moytoy
+	1212.6.11={ birth=yes }
+	1275.3.18={ death=yes }
+}
+1019919010={
+	name=Salali
+	female=yes
+	dynasty=1009990156
+	dna="njcilpnjdik"
+	culture=cherokee religion=algic_pagan
+	father=1019919003	#Moytoy
+	1218.7.14={ birth=yes }
+	1297.6.17={ death=yes }
+}
+1019919011={
+	name=Umatooetha
+	dynasty=1009990156
+	dna="mpcmhjnjldk"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=6
+	add_trait=indulgent_wastrel add_trait=diligent add_trait=honest add_trait=cynical add_trait=cruel 
+	add_trait=ambitious 
+	father=1019919007	#Oorkullaukee
+	1231.9.3={ birth=yes }
+	1289.1.29={ death=yes }
+}
+1019919012={
+	name=Akonoluchta
+	dynasty=1009990156
+	dna="mghgkobjkak"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	add_trait=martial_cleric add_trait=scholar add_trait=deceitful add_trait=charitable add_trait=proud 
+	add_trait=gregarious 
+	father=1019919007	#Oorkullaukee
+	1238.5.12={ birth=yes }
+	1316.11.21={ death=yes }
+}
+1019919013={
+	name=Chokasatahe
+	dynasty=1009990156
+	dna="emmmkfkjldg"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=scholarly_theologian add_trait=gluttonous add_trait=wroth add_trait=charitable add_trait=slothful 
+	add_trait=kind add_trait=harelip 
+	father=1019919007	#Oorkullaukee
+	1241.4.8={ birth=yes }
+	1296.9.8={ death=yes }
+}
+1019919014={
+	name=Utturah
+	dynasty=1009990156
+	dna="micdhbkjkdp"
+	culture=cherokee religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	add_trait=mastermind_theologian add_trait=hedonist add_trait=brave add_trait=patient add_trait=cruel 
+	father=1019919007	#Oorkullaukee
+	1246.1.27={ birth=yes }
+	1301.12.9={ death=yes }
+}
+1019919015={
+	name=Chesetoa
+	dynasty=1009990156
+	dna="nplmhjfflpi"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=ambitious add_trait=wroth add_trait=chaste add_trait=trusting 
+	add_trait=diligent add_trait=honest 
+	father=1019919011	#Umatooetha
+	1257.10.4={ birth=yes }
+	1321.2.11={ death=yes }
+}
+1019919016={
+	name=Neekaanneah
+	dynasty=1009990156
+	dna="epcegjnpidk"
+	culture=cherokee religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=lustful add_trait=gregarious add_trait=temperate add_trait=craven 
+	add_trait=trusting 
+	father=1019919011	#Umatooetha
+	1262.6.1={ birth=yes }
+	1325.10.19={ death=yes }
+}
+1019919017={
+	name=Adsila
+	female=yes
+	dynasty=1009990156
+	dna="hpcbhgnjlhk"
+	culture=cherokee religion=algic_pagan
+	father=1019919011	#Umatooetha
+	1268.7.18={ birth=yes }
+	1350.12.13={ death=yes }
+}
+1019919018={
+	name=Chesetoa
+	dynasty=1009990156
+	dna="ppceijoelnk"
+	culture=cherokee religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=cruel add_trait=honest add_trait=charitable add_trait=envious 
+	add_trait=proud 
+	father=1019919011	#Umatooetha
+	1271.8.20={ birth=yes }
+	1326.10.25={ death=yes }
+}
+1019919019={
+	name=Tayanita
+	female=yes
+	dynasty=1009990156
+	dna="ihajhjnjldk"
+	culture=cherokee religion=algic_pagan
+	father=1019919011	#Umatooetha
+	1277.11.11={ birth=yes }
+	1339.9.23={ death=yes }
+}
+1019919020={
+	name=Tayanita
+	female=yes
+	dynasty=1009990156
+	dna="npjbjjeclpp"
+	culture=cherokee religion=algic_pagan
+	father=1019919015	#Chesetoa
+	1285.1.17={ birth=yes }
+	1357.12.11={ death=yes }
+}
+1019919021={
+	name=Ookoseta
+	dynasty=1009990156
+	dna="nphkhhffbjh"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=6
+	add_trait=misguided_warrior add_trait=scholar add_trait=wroth add_trait=deceitful add_trait=shy 
+	add_trait=charitable 
+	father=1019919015	#Chesetoa
+	1289.4.24={ birth=yes }
+	1351.12.1={ death=yes }
+}
+1019919022={
+	name=Keetakeuskah
+	dynasty=1009990156
+	dna="eplmlhfhpki"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=4 learning=8
+	add_trait=skilled_tactician add_trait=hedonist add_trait=greedy add_trait=envious add_trait=slothful 
+	add_trait=temperate 
+	father=1019919015	#Chesetoa
+	1293.11.20={ birth=yes }
+	1371.2.13={ death=yes }
+}
+1019919023={
+	name=Galilani
+	female=yes
+	dynasty=1009990156
+	dna="bplmnfafegb"
+	culture=cherokee religion=algic_pagan
+	father=1019919015	#Chesetoa
+	1298.3.17={ birth=yes }
+	1358.7.2={ death=yes }
+}
+1019919024={
+	name=Tsistunagiska
+	female=yes
+	dynasty=1009990156
+	dna="lphmdbjmmph"
+	culture=cherokee religion=algic_pagan
+	father=1019919015	#Chesetoa
+	1301.6.24={ birth=yes }
+	1371.5.5={ death=yes }
+}
+1019919025={
+	name=Ostaiah
+	dynasty=1009990156
+	dna="nppbljbcgpi"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=arbitrary add_trait=cynical add_trait=wroth add_trait=cruel 
+	add_trait=envious add_trait=gluttonous add_trait=stressed 
+	father=1019919015	#Chesetoa
+	1305.10.8={ birth=yes }
+	1364.11.12={ death=yes }
+}
+1019919026={
+	name=Sequoya
+	female=yes
+	dynasty=1009990156
+	dna="hieghjgfjpi"
+	culture=cherokee religion=algic_pagan
+	father=1019919015	#Chesetoa
+	1310.6.5={ birth=yes }
+	1382.12.21={ death=yes }
+}
+1019919027={
+	name=Moytoy
+	dynasty=1009990156
+	dna="nlfknbfabng"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=greedy add_trait=craven add_trait=honest add_trait=envious 
+	add_trait=wroth 
+	father=1019919021	#Ookoseta
+	1320.12.8={ birth=yes }
+	1388.7.5={ death=yes }
+}
+1019919028={
+	name=Tallotuskee
+	dynasty=1009990156
+	dna="npiohhffblo"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=8
+	add_trait=indulgent_wastrel add_trait=greedy add_trait=deceitful add_trait=gluttonous add_trait=cynical 
+	add_trait=wroth add_trait=kind add_trait=ill 
+	father=1019919021	#Ookoseta
+	1326.10.5={ birth=yes }
+	1401.10.17={ death=yes }
+}
+1019919029={
+	name=Chesetoa
+	dynasty=1009990156
+	dna="pphopgmfkam"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=7 learning=4
+	add_trait=flamboyant_schemer add_trait=gregarious add_trait=envious add_trait=charitable add_trait=stressed 
+	father=1019919021	#Ookoseta
+	1330.5.26={ birth=yes }
+	1397.9.6={ death=yes }
+}
+1019919030={
+	name=Kunnateelah
+	dynasty=1009990156
+	dna="nkfdaobejnn"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=5 learning=5
+	add_trait=misguided_warrior add_trait=poet add_trait=cruel add_trait=brave add_trait=content 
+	add_trait=charitable add_trait=zealous add_trait=drunkard 
+	father=1019919027	#Moytoy
+	1349.5.8={ birth=yes }
+	1420.1.14={ death=yes }
+}
+1019919031={
+	name=Ghigau
+	female=yes
+	dynasty=1009990156
+	dna="elffnpgabgg"
+	culture=cherokee religion=algic_pagan
+	father=1019919027	#Moytoy
+	1357.8.4={ birth=yes }
+	1421.8.25={ death=yes }
+}
+1019919032={
+	name=Asmita
+	female=yes
+	dynasty=1009990156
+	dna="cfgkakfabnf"
+	culture=cherokee religion=algic_pagan
+	father=1019919027	#Moytoy
+	1364.10.14={ birth=yes }
+	1402.6.13={ death=yes }
+}
+1019919033={
+	name=Koatohee
+	dynasty=1009990156
+	dna="aifknmfabng"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=cynical add_trait=content add_trait=slothful add_trait=brave 
+	add_trait=deceitful 
+	father=1019919027	#Moytoy
+	1369.10.1={ birth=yes }
+	1433.5.21={ death=yes }
+}
+1019919034={
+	name=Galilani
+	female=yes
+	dynasty=1009990156
+	dna="pmfdalbekoo"
+	culture=cherokee religion=algic_pagan
+	father=1019919030	#Kunnateelah
+	1375.1.7={ birth=yes }
+	1439.12.2={ death=yes }
+}
+1019919035={
+	name=Sequoya
+	female=yes
+	dynasty=1009990156
+	dna="nmgmalmecnn"
+	culture=cherokee religion=algic_pagan
+	father=1019919030	#Kunnateelah
+	1378.10.15={ birth=yes }
+	1439.10.22={ death=yes }
+}
+1019919036={
+	name=Tauuotihee
+	dynasty=1009990156
+	dna="lkfgaobejne"
+	culture=cherokee religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=8
+	add_trait=midas_touched add_trait=chaste add_trait=temperate add_trait=envious add_trait=paranoid 
+	add_trait=quick 
+	father=1019919030	#Kunnateelah
+	1384.1.6={ birth=yes }
+	1436.12.16={ death=yes }
+}
+1019919037={
+	name=Immokalee
+	female=yes
+	dynasty=1009990156
+	dna="lkfpaoiekni"
+	culture=cherokee religion=algic_pagan
+	father=1019919036	#Tauuotihee
+	1416.5.23={ birth=yes }
+	1500.1.24={ death=yes }
+}
+1019919038={
+	name=Sketaloska
+	dynasty=1009990156
+	dna="lmhjaokcjpe"
+	culture=cherokee religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=poet add_trait=craven add_trait=shy add_trait=chaste 
+	add_trait=diligent add_trait=arbitrary add_trait=gluttonous add_trait=ill 
+	father=1019919036	#Tauuotihee
+	1418.9.26={ birth=yes }
+	1483.10.21={ death=yes }
+}
+1019919039={
+	name=It
+	dynasty=1009990156
+	dna="fkigaobgjnf"
+	culture=cherokee religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=4 learning=8
+	add_trait=skilled_tactician add_trait=cynical add_trait=honest add_trait=proud add_trait=shy 
+	add_trait=charitable add_trait=chaste 
+	father=1019919036	#Tauuotihee
+	1422.1.17={ birth=yes }
+	1484.10.3={ death=yes }
+}
+1019919040={
+	name=Awinita
+	female=yes
+	dynasty=1009990156
+	dna="nkiaaobejnc"
+	culture=cherokee religion=algic_pagan
+	father=1019919036	#Tauuotihee
+	1426.9.11={ birth=yes }
+	1500.12.14={ death=yes }
+}
+1019919041={
+	name=Yonahequah
+	dynasty=1009990156
+	dna="lkfmloomjnd"
+	culture=cherokee religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	add_trait=flamboyant_schemer add_trait=envious add_trait=slothful add_trait=content add_trait=wroth 
+	father=1019919036	#Tauuotihee
+	1431.10.27={ birth=yes }
+	1495.6.27={ death=yes }
+}

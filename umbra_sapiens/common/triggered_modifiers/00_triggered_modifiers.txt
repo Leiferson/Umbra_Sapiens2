@@ -1,0 +1,124 @@
+##################################################
+#
+# STRATEGIC EFFECTS - A.K.A. "TRIGGERED MODIFIERS"
+#
+##################################################
+
+# Bankruptcy
+negative_money = {
+	potential = {
+		is_ruler = yes
+	}
+	
+	trigger = {
+		NOT = { wealth = 0 }
+	}
+	
+	icon = 24
+	
+	land_morale = -0.25
+	
+	active = no
+}
+
+# Loss of mandate
+mandate_of_heaven_refuted_bankrupt = {
+	potential = {
+		is_ruler = yes
+	}
+	
+	trigger = {
+	AND = {
+		has_landed_title = e_china
+		government = chinese_imperial_government
+		}
+		NOT = { wealth = 0 }
+	}
+	
+	icon = 96
+	vassal_opinion = -33
+	land_morale = -0.05
+	global_revolt_risk = 0.025
+}
+# Loss of mandate
+mandate_of_heaven_refuted_desease = {
+	potential = {
+		is_ruler = yes
+	}
+	
+	trigger = {
+	AND = {
+		has_landed_title = e_china
+		government = chinese_imperial_government
+		}
+		any_realm_province={
+		has_epidemic = yes
+		}
+	}
+	
+	icon = 96
+	vassal_opinion = -33
+	land_morale = -0.05
+	global_revolt_risk = 0.025
+}
+# Loss of mandate
+mandate_of_heaven_refuted_pretender = {
+	potential = {
+		is_ruler = yes
+	}
+	
+	trigger = {
+	AND = {
+		has_landed_title = e_china
+		government = chinese_imperial_government
+		}
+		e_china={
+		is_contested = yes
+		}
+	}
+	
+	icon = 96
+	vassal_opinion = -33
+	land_morale = -0.05
+	global_revolt_risk = 0.025
+}
+mandate_of_heaven = {
+	potential = {
+	is_ruler = yes
+	}
+	
+	trigger = {
+	AND = {
+		has_landed_title = e_china
+		government = chinese_imperial_government
+		}
+	NOR ={
+		NOT = { wealth = 0 }
+		e_china={
+		is_contested = yes
+		}
+		any_realm_province={
+		has_epidemic = yes
+		}
+		}
+	}
+	
+	icon = 95
+	vassal_opinion = 100
+	land_morale = 0.25
+	global_revolt_risk = -0.025
+}
+buddhists_persecuted = {
+	potential = {
+	is_ruler = yes
+	}
+	trigger = {
+		has_global_flag = persecuting_buddhism
+		has_landed_title = e_china
+		government = chinese_imperial_government
+	}
+	icon = 110
+	buddhist_opinion = -100
+	shingyo_opinion = -100
+	nihon_shinto_opinion = -100
+}

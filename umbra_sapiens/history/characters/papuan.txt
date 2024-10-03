@@ -1,0 +1,1177 @@
+#Atururi Dynasty (Placeholders for County of Jenggi)
+
+1000205101 = {
+	name="Dakrebon"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205102 = {
+	name="Gumion"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000205101
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205103 = {
+	name="Limbat"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000205102
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000201712 = {
+	name="Abutan"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000205103
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000201713 = {
+	name="Losung"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201712
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000201714 = {
+	name="Tongkeles"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201713
+	867.1.1={
+		birth="867.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000201715 = {
+	name="Kupon"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201714
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000201716 = {
+	name="Kaawoan"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201715
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000201717 = {
+	name="Gigir"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201716
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000201718 = {
+	name="Damongilala"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201717
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076150 = {
+	name="Suak"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201718
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000201719 = {
+	name="Talumewo"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000076150
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000201720 = {
+	name="Politon"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201719
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000201721 = {
+	name="Opit"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201720
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000201722 = {
+	name="Seke"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201721
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000201723 = {
+	name="Weol"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201722
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000201724 = {
+	name="Purukan"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201723
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000201725 = {
+	name="Makarawung"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201724
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000201726 = {
+	name="Makarawis"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201725
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000201727 = {
+	name="Kowaas"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201726
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000201728 = {
+	name="Pinaria"
+	dynasty=1000028264 #Atururi
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201727
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Suebu Dynasty (Placeholders for County of Huangmachu)
+
+1000205104 = {
+	name="Dakrebon"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205105 = {
+	name="Gumion"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000205104
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205106 = {
+	name="Limbat"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000205105
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000201729 = {
+	name="Cabeza"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000205106
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000201730 = {
+	name="Tangkere"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201729
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000201731 = {
+	name="Sumakul"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201730
+	867.1.1={
+		birth="867.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000201732 = {
+	name="Tuyuwale"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201731
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000201733 = {
+	name="Rengkung"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201732
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000201734 = {
+	name="Retor"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201733
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000201735 = {
+	name="Robot"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201734
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076151 = {
+	name="Nuril"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201735
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000201736 = {
+	name="Manese"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000076151
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000201737 = {
+	name="Mamahit"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201736
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000201738 = {
+	name="Limpele"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201737
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000201739 = {
+	name="Waani"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201738
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000201740 = {
+	name="Wagiu"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201739
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000201741 = {
+	name="Makaliwe"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201740
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000201742 = {
+	name="Manimporok"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201741
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000201743 = {
+	name="Mondigir"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201742
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000201744 = {
+	name="Korbah"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201743
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000201745 = {
+	name="Tiwow"
+	dynasty=1000028265 #Suebu
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1000201744
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Netulamela Dynasty (Placeholders) of Tulamela
+
+1018000001 = {
+	name="Kalumata"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1018000002 = {
+	name="Kupon"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000001
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1018000003 = {
+	name="Rondonuwu"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000002
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1018000004 = {
+	name="Lintang"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000003
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1018000005 = {
+	name="Maengkom"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000004
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1018000006 = {
+	name="Suatan"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000005
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1018000007 = {
+	name="Wowor"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000006
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1018000008 = {
+	name="Rondo"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000007
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1018000009 = {
+	name="Punuh"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000008
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1018000010 = {
+	name="Lumanau"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000009
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1018000011 = {
+	name="Dumbi"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000010
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1018000012 = {
+	name="Kalitow"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000011
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1018000013 = {
+	name="Kawilarang"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000012
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1018000014 = {
+	name="Boyoh"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000013
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1018000015 = {
+	name="Imbar"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000014
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1018000016 = {
+	name="Luminuut"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000015
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1018000017 = {
+	name="Kawulusan"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000016
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1018000018 = {
+	name="Moninca"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000017
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1018000019 = {
+	name="Palit"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000018
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1018000020 = {
+	name="Kumaat"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000019
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1018000021 = {
+	name="Katuuk"
+	dynasty=1009990049 #Netulamela
+	religion="melanesian_religion"
+	culture="papuan"
+	father=1018000020
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1018000022 = {
+	name="Dungus"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1018000023 = {
+	name="Pinantik"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000022
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1018000024 = {
+	name="Pinontoan"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000023
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1018000025 = {
+	name="Dondokambei"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000024
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1018000026 = {
+	name="Amoi"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000025
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1018000027 = {
+	name="Abutan"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000026
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1018000028 = {
+	name="Goniwala"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000027
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1018000029 = {
+	name="Pomantouw"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000028
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1018000030 = {
+	name="Suwu"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000029
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1018000031 = {
+	name="Rumbay"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000030
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1018000032 = {
+	name="Palangiten"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000031
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1018000033 = {
+	name="Tumbelaka"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000032
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1018000034 = {
+	name="Ulaan"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000033
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1018000035 = {
+	name="Sumesei"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000034
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1018000036 = {
+	name="Podung"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000035
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1018000037 = {
+	name="Panambunan"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000036
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1018000038 = {
+	name="Mangundap"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000037
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1018000039 = {
+	name="Makangares"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000038
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1018000040 = {
+	name="Longdong"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000039
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1018000041 = {
+	name="Lompoliu"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000040
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1018000042 = {
+	name="Egam"
+	dynasty=1009990050 #Netulamela
+	religion="maori_religion"
+	culture="zealander"
+	father=1018000041
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

@@ -1,0 +1,2204 @@
+1019930125={
+	name=Aiyotechapun
+	dynasty=1009990269
+	dna="fpnmdidkjff"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	719.3.25={ birth=yes }
+	788.7.14={ death=yes }
+}
+1019930126={
+	name=Muhton
+	dynasty=1009990269
+	dna="fonmnijkjnf"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=6
+	father=1019930125	#Aiyotechapun
+	739.2.8={ birth=yes }
+	792.8.9={ death=yes }
+}
+1019930127={
+	name=Caja
+	dynasty=1009990269
+	dna="fpnmnjdcmaf"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=temperate add_trait=brave add_trait=slothful 
+	father=1019930125	#Aiyotechapun
+	745.9.4={ birth=yes }
+	823.6.21={ death=yes }
+}
+1019930128={
+	name=Pico
+	dynasty=1009990269
+	dna="fhnmmiokjff"
+	culture=chimuan religion=chimuan_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=4
+	father=1019930125	#Aiyotechapun
+	750.9.12={ birth=yes }
+	807.3.21={ death=yes }
+}
+1019930129={
+	name=Cuyuchi
+	dynasty=1009990269
+	dna="finmdgdkeoh"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=8
+	father=1019930125	#Aiyotechapun
+	755.2.16={ birth=yes }
+	842.7.4={ death=yes }
+}
+1019930130={
+	name=Coyuch
+	dynasty=1009990269
+	dna="fcnmnpjnonf"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=7 learning=7
+	father=1019930126	#Muhton
+	763.2.15={ birth=yes }
+	830.3.12={ death=yes }
+}
+1019930131={
+	name=Maiara
+	female=yes
+	dynasty=1009990269
+	dna="bocelimmfpo"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930126	#Muhton
+	767.5.9={ birth=yes }
+	843.12.28={ death=yes }
+}
+1019930132={
+	name=Nehuametepun
+	dynasty=1009990269
+	dna="mokcjijjjef"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=5 learning=4
+	father=1019930126	#Muhton
+	772.1.25={ birth=yes }
+	826.9.25={ death=yes }
+}
+1019930133={
+	name=Ana
+	female=yes
+	dynasty=1009990269
+	dna="icemlojfggj"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930126	#Muhton
+	775.2.7={ birth=yes }
+	833.1.2={ death=yes }
+}
+1019930134={
+	name=Maiara
+	female=yes
+	dynasty=1009990269
+	dna="lobmjidlhif"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930126	#Muhton
+	780.4.22={ birth=yes }
+	867.2.9={ death=yes }
+}
+1019930135={
+	name=Jotiantikaka
+	dynasty=1009990269
+	dna="mlnnnijkdnj"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=8 learning=6
+	father=1019930126	#Muhton
+	783.11.19={ birth=yes }
+	839.2.24={ death=yes }
+}
+1019930136={
+	name=Nina
+	female=yes
+	dynasty=1009990269
+	dna="fondhbdkjnj"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930126	#Muhton
+	787.4.22={ birth=yes }
+	842.9.16={ death=yes }
+}
+1019930137={
+	name=Nancen
+	dynasty=1009990269
+	dna="acainnjkonf"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=8 learning=6
+	father=1019930130	#Coyuch
+	792.11.19={ birth=yes }
+	880.11.12={ death=yes }
+}
+1019930138={
+	name=Nina
+	female=yes
+	dynasty=1009990269
+	dna="fcbgnplnoaf"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930130	#Coyuch
+	798.2.19={ birth=yes }
+	885.11.15={ death=yes }
+}
+1019930139={
+	name=Katitika
+	dynasty=1009990269
+	dna="lcamhpjnobf"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=5 learning=4
+	father=1019930130	#Coyuch
+	805.6.6={ birth=yes }
+	890.9.30={ death=yes }
+}
+1019930140={
+	name=Axomamma
+	female=yes
+	dynasty=1009990269
+	dna="fcjpjjjffjf"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930130	#Coyuch
+	811.2.27={ birth=yes }
+	871.12.26={ death=yes }
+}
+1019930141={
+	name=Maiara
+	female=yes
+	dynasty=1009990269
+	dna="mcmpheokonf"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930137	#Nancen
+	815.1.4={ birth=yes }
+	894.11.30={ death=yes }
+}
+1019930142={
+	name=Kantuta
+	female=yes
+	dynasty=1009990269
+	dna="aiainbjkmnb"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930137	#Nancen
+	822.2.17={ birth=yes }
+	898.12.11={ death=yes }
+}
+1019930143={
+	name=Nina
+	female=yes
+	dynasty=1009990269
+	dna="gciiondghne"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930137	#Nancen
+	829.7.12={ birth=yes }
+	892.11.30={ death=yes }
+}
+1019930144={
+	name=Apac
+	dynasty=1009990269
+	dna="acnigijkonn"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=7
+	father=1019930137	#Nancen
+	834.12.15={ birth=yes }
+	895.9.20={ death=yes }
+}
+1019930145={
+	name=Urtyantemu
+	dynasty=1009990269
+	dna="padciijomnj"
+	culture=chimuan religion=chimuan_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=6 learning=5
+	father=1019930144	#Apac
+	859.2.4={ birth=yes }
+	902.8.2={ death=yes }
+}
+1019930146={
+	name=Ana
+	female=yes
+	dynasty=1009990269
+	dna="ecnigijiini"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930144	#Apac
+	864.11.10={ birth=yes }
+	916.11.21={ death=yes }
+}
+1019930147={
+	name=Ana
+	female=yes
+	dynasty=1009990269
+	dna="mcmadimkion"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930144	#Apac
+	868.10.5={ birth=yes }
+	951.9.3={ death=yes }
+}
+1019930148={
+	name=Troynuremo
+	dynasty=1009990269
+	dna="pfegnijomep"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=8 learning=4
+	father=1019930145	#Urtyantemu
+	888.11.20={ birth=yes }
+	955.9.29={ death=yes }
+}
+1019930149={
+	name=Apac
+	dynasty=1009990269
+	dna="hhdcfepknnj"
+	culture=chimuan religion=chimuan_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=4 learning=7
+	father=1019930145	#Urtyantemu
+	896.8.14={ birth=yes }
+	972.2.3={ death=yes }
+}
+1019930150={
+	name=Maiara
+	female=yes
+	dynasty=1009990269
+	dna="paikibaomnh"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930145	#Urtyantemu
+	902.10.1={ birth=yes }
+	989.3.10={ death=yes }
+}
+1019930151={
+	name=Cápac
+	dynasty=1009990269
+	dna="pflmnmjomnc"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=8 learning=4
+	father=1019930148	#Troynuremo
+	917.1.16={ birth=yes }
+	1000.9.5={ death=yes }
+}
+1019930152={
+	name=Belan
+	dynasty=1009990269
+	dna="lkgmamjlmep"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=7 learning=5
+	father=1019930148	#Troynuremo
+	921.10.3={ birth=yes }
+	980.9.14={ death=yes }
+}
+1019930153={
+	name=Kantuta
+	female=yes
+	dynasty=1009990269
+	dna="gbogeijomep"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930148	#Troynuremo
+	926.3.21={ birth=yes }
+	996.6.24={ death=yes }
+}
+1019930154={
+	name=Bergu
+	dynasty=1009990269
+	dna="ffelnipoghi"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=5 learning=8
+	father=1019930148	#Troynuremo
+	930.12.3={ birth=yes }
+	985.1.2={ death=yes }
+}
+1019930155={
+	name=Tacaynamo
+	dynasty=1009990269
+	dna="pfegnljgmgo"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=8 learning=4
+	father=1019930148	#Troynuremo
+	935.10.18={ birth=yes }
+	1011.11.8={ death=yes }
+}
+1019930156={
+	name=Maiara
+	female=yes
+	dynasty=1009990269
+	dna="lblfngnocac"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930151	#Cápac
+	947.7.21={ birth=yes }
+	1029.10.15={ death=yes }
+}
+1019930157={
+	name=Gusmango
+	dynasty=1009990269
+	dna="cjlmnojomnc"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=6 learning=7
+	father=1019930151	#Cápac
+	952.7.5={ birth=yes }
+	1021.12.19={ death=yes }
+}
+1019930158={
+	name=Draytonamu
+	dynasty=1009990269
+	dna="pllingklmnm"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=5
+	father=1019930151	#Cápac
+	959.7.15={ birth=yes }
+	1019.12.18={ death=yes }
+}
+1019930159={
+	name=Vetsalynun
+	dynasty=1009990269
+	dna="pfmmnlcoann"
+	culture=chimuan religion=chimuan_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=8 learning=7
+	father=1019930151	#Cápac
+	963.3.1={ birth=yes }
+	1044.4.7={ death=yes }
+}
+1019930160={
+	name=Guari
+	dynasty=1009990269
+	dna="ffhmamjcknc"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=8 learning=8
+	father=1019930151	#Cápac
+	967.5.6={ birth=yes }
+	1040.7.19={ death=yes }
+}
+1019930161={
+	name=Chumu
+	dynasty=1009990269
+	dna="jjkjnkjaena"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=7 learning=5
+	father=1019930157	#Gusmango
+	975.11.20={ birth=yes }
+	1020.1.26={ death=yes }
+}
+1019930162={
+	name=Michan
+	dynasty=1009990269
+	dna="hjimnofmlcc"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=5
+	add_trait=grey_eminence add_trait=zealous add_trait=chaste add_trait=content 
+	father=1019930157	#Gusmango
+	980.7.25={ birth=yes }
+	1015.12.17={ death=yes }
+}
+1019930163={
+	name=Nina
+	female=yes
+	dynasty=1009990269
+	dna="iklpngaefne"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930157	#Gusmango
+	983.6.9={ birth=yes }
+	1058.1.4={ death=yes }
+}
+1019930164={
+	name=Draytonamu
+	dynasty=1009990269
+	dna="cjgngejimci"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=6 learning=8
+	add_trait=charismatic_negotiator add_trait=gardener add_trait=temperate add_trait=just add_trait=humble 
+	add_trait=content add_trait=brave add_trait=stressed 
+	father=1019930157	#Gusmango
+	989.12.8={ birth=yes }
+	1055.12.8={ death=yes }
+}
+1019930165={
+	name=Guaman
+	dynasty=1009990269
+	dna="akeinojomno"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=7 learning=5
+	add_trait=indulgent_wastrel add_trait=craven add_trait=envious add_trait=wroth add_trait=content 
+	add_trait=slothful add_trait=wounded 
+	father=1019930157	#Gusmango
+	991.1.27={ birth=yes }
+	1067.8.24={ death=yes }
+}
+1019930166={
+	name=Cur
+	dynasty=1009990269
+	dna="njobfojabda"
+	culture=chimuan religion=chimuan_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=7 learning=5
+	add_trait=indulgent_wastrel add_trait=content add_trait=slothful add_trait=charitable 
+	father=1019930161	#Chumu
+	997.6.7={ birth=yes }
+	1058.4.2={ death=yes }
+}
+1019930167={
+	name=Cápac
+	dynasty=1009990269
+	dna="jgmdpmjheac"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=celibate add_trait=humble add_trait=craven add_trait=gregarious 
+	add_trait=gluttonous 
+	father=1019930161	#Chumu
+	1003.1.5={ birth=yes }
+	1080.7.11={ death=yes }
+}
+1019930168={
+	name=Felan
+	dynasty=1009990269
+	dna="jjpnfbmaeki"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=gluttonous add_trait=proud add_trait=cynical 
+	father=1019930161	#Chumu
+	1007.6.4={ birth=yes }
+	1091.9.14={ death=yes }
+}
+1019930169={
+	name=Ana
+	female=yes
+	dynasty=1009990269
+	dna="jjclnknaena"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930161	#Chumu
+	1009.8.7={ birth=yes }
+	1083.1.2={ death=yes }
+}
+1019930170={
+	name=Ana
+	female=yes
+	dynasty=1009990269
+	dna="jbbdekjbeaa"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930161	#Chumu
+	1013.4.10={ birth=yes }
+	1057.11.14={ death=yes }
+}
+1019930171={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990269
+	dna="npfbfacabop"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930166	#Cur
+	1024.8.12={ birth=yes }
+	1084.1.19={ death=yes }
+}
+1019930172={
+	name=Opolcynamun
+	dynasty=1009990269
+	dna="pioblojabdl"
+	culture=chimuan religion=chimuan_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=mystic add_trait=arbitrary add_trait=wroth 
+	add_trait=temperate add_trait=diligent add_trait=drunkard 
+	father=1019930166	#Cur
+	1032.7.4={ birth=yes }
+	1097.9.15={ death=yes }
+}
+1019930173={
+	name=Maiara
+	female=yes
+	dynasty=1009990269
+	dna="booefobcbfa"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930166	#Cur
+	1034.11.4={ birth=yes }
+	1099.1.5={ death=yes }
+}
+1019930174={
+	name=Nina
+	female=yes
+	dynasty=1009990269
+	dna="ddokodjoddh"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930172	#Opolcynamun
+	1057.5.7={ birth=yes }
+	1123.9.10={ death=yes }
+}
+1019930175={
+	name=Draytonamu
+	dynasty=1009990269
+	dna="piobnjiabdh"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=7
+	add_trait=detached_priest add_trait=celibate add_trait=cynical add_trait=paranoid 
+	add_trait=possessed 
+	father=1019930172	#Opolcynamun
+	1064.6.27={ birth=yes }
+	1125.6.16={ death=yes }
+}
+1019930176={
+	name=Nehuametepun
+	dynasty=1009990269
+	dna="jfmbhijabcl"
+	culture=chimuan religion=chimuan_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=duelist add_trait=brave add_trait=ambitious add_trait=envious 
+	add_trait=just 
+	father=1019930172	#Opolcynamun
+	1070.11.6={ birth=yes }
+	1151.6.12={ death=yes }
+}
+1019930177={
+	name=Coyuch
+	dynasty=1009990269
+	dna="biobllkabol"
+	culture=chimuan religion=chimuan_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=4
+	add_trait=misguided_warrior add_trait=chaste add_trait=wroth add_trait=arbitrary add_trait=temperate 
+	add_trait=gregarious add_trait=stressed 
+	father=1019930172	#Opolcynamun
+	1073.8.5={ birth=yes }
+	1154.2.17={ death=yes }
+}
+1019930178={
+	name=Yetuniamu
+	dynasty=1009990269
+	dna="pigaaohaada"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=4 learning=5
+	add_trait=midas_touched  add_trait=gregarious add_trait=paranoid 
+	add_trait=drunkard 
+	father=1019930175	#Draytonamu
+	1086.3.16={ birth=yes }
+	1149.11.22={ death=yes }
+}
+1019930179={
+	name=Axomamma
+	female=yes
+	dynasty=1009990269
+	dna="piojgjjabde"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930175	#Draytonamu
+	1091.11.7={ birth=yes }
+	1175.7.25={ death=yes }
+}
+1019930180={
+	name=Buvaovamu
+	dynasty=1009990269
+	dna="pimgjjjaldo"
+	culture=chimuan religion=chimuan_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=6 learning=7
+	add_trait=intricate_webweaver add_trait=charitable add_trait=craven add_trait=paranoid add_trait=gluttonous 
+	add_trait=drunkard 
+	father=1019930175	#Draytonamu
+	1096.10.25={ birth=yes }
+	1176.6.13={ death=yes }
+}
+1019930181={
+	name=Caman
+	dynasty=1009990269
+	dna="ojobbjiabfh"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	add_trait=skilled_tactician add_trait=diligent add_trait=temperate add_trait=brave add_trait=chaste 
+	add_trait=content 
+	father=1019930175	#Draytonamu
+	1100.5.26={ birth=yes }
+	1154.3.1={ death=yes }
+}
+1019930182={
+	name=Ana
+	female=yes
+	dynasty=1009990269
+	dna="bpfaaphaala"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930178	#Yetuniamu
+	1111.4.9={ birth=yes }
+	1170.11.9={ death=yes }
+}
+1019930183={
+	name=Anco
+	dynasty=1009990269
+	dna="pilaaopepha"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=gardener add_trait=zealous add_trait=brave add_trait=charitable 
+	add_trait=drunkard add_trait=ugly 
+	father=1019930178	#Yetuniamu
+	1114.4.21={ birth=yes }
+	1193.4.19={ death=yes }
+}
+1019930184={
+	name=Opolcynamun
+	dynasty=1009990269
+	dna="kiaaafjhpga"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=7 learning=7
+	add_trait=misguided_warrior add_trait=scholar add_trait=proud add_trait=just add_trait=shy 
+	add_trait=zealous add_trait=temperate add_trait=greedy 
+	father=1019930183	#Anco
+	1135.10.10={ birth=yes }
+	1213.11.3={ death=yes }
+}
+1019930185={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990269
+	dna="pjlcaomeoda"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930183	#Anco
+	1143.5.17={ birth=yes }
+	1198.3.17={ death=yes }
+}
+1019930186={
+	name=Troynuremo
+	dynasty=1009990269
+	dna="pcmaaobdpbm"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=hedonist add_trait=greedy add_trait=patient add_trait=trusting 
+	add_trait=craven add_trait=arbitrary add_trait=cynical 
+	father=1019930183	#Anco
+	1148.6.22={ birth=yes }
+	1234.6.11={ death=yes }
+}
+1019930187={
+	name=Nina
+	female=yes
+	dynasty=1009990269
+	dna="cimaadploga"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930183	#Anco
+	1152.1.10={ birth=yes }
+	1221.10.14={ death=yes }
+}
+1019930188={
+	name=Nina
+	female=yes
+	dynasty=1009990269
+	dna="kiacafjfpjc"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930184	#Opolcynamun
+	1162.3.13={ birth=yes }
+	1239.9.13={ death=yes }
+}
+1019930189={
+	name=Tamuc
+	dynasty=1009990269
+	dna="afoaafbhdpa"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=thrifty_clerk add_trait=gardener add_trait=content add_trait=lustful add_trait=craven 
+	father=1019930184	#Opolcynamun
+	1164.9.22={ birth=yes }
+	1242.6.9={ death=yes }
+}
+1019930190={
+	name=Bergu
+	dynasty=1009990269
+	dna="apoaalaghpa"
+	culture=chimuan religion=chimuan_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=5 learning=6
+	add_trait=flamboyant_schemer add_trait=scholar add_trait=brave add_trait=shy add_trait=paranoid 
+	father=1019930189	#Tamuc
+	1187.1.20={ birth=yes }
+	1269.7.12={ death=yes }
+}
+1019930191={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990269
+	dna="emlanbbiiij"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930189	#Tamuc
+	1193.11.21={ birth=yes }
+	1247.1.8={ death=yes }
+}
+1019930192={
+	name=Ana
+	female=yes
+	dynasty=1009990269
+	dna="afjbaffhppa"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930189	#Tamuc
+	1197.8.11={ birth=yes }
+	1261.7.4={ death=yes }
+}
+1019930193={
+	name=Felan
+	dynasty=1009990269
+	dna="gflaggbhopp"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	add_trait=grey_eminence add_trait=deceitful add_trait=cynical add_trait=diligent add_trait=arbitrary 
+	father=1019930189	#Tamuc
+	1201.9.5={ birth=yes }
+	1294.9.27={ death=yes }
+}
+1019930194={
+	name=Ana
+	female=yes
+	dynasty=1009990269
+	dna="afmiafblkpa"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930189	#Tamuc
+	1207.8.2={ birth=yes }
+	1269.5.30={ death=yes }
+}
+1019930195={
+	name=Yetuniamu
+	dynasty=1009990269
+	dna="lpoaalaghna"
+	culture=chimuan religion=chimuan_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=4 learning=4
+	add_trait=elusive_shadow add_trait=ambitious add_trait=wroth add_trait=paranoid add_trait=gregarious 
+	father=1019930190	#Bergu
+	1216.8.13={ birth=yes }
+	1268.10.10={ death=yes }
+}
+1019930196={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990269
+	dna="epcigaaphpm"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930190	#Bergu
+	1219.3.21={ birth=yes }
+	1303.9.9={ death=yes }
+}
+1019930197={
+	name=Kantuta
+	female=yes
+	dynasty=1009990269
+	dna="cpoaalnmkfa"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930190	#Bergu
+	1224.6.7={ birth=yes }
+	1290.10.24={ death=yes }
+}
+1019930198={
+	name=Axomamma
+	female=yes
+	dynasty=1009990269
+	dna="apoaelaclpa"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930190	#Bergu
+	1231.10.4={ birth=yes }
+	1308.1.21={ death=yes }
+}
+1019930199={
+	name=Anco
+	dynasty=1009990269
+	dna="laoabmeghnm"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=4 learning=6
+	add_trait=skilled_tactician  add_trait=cynical add_trait=arbitrary 
+	father=1019930195	#Yetuniamu
+	1243.3.13={ birth=yes }
+	1307.12.31={ death=yes }
+}
+1019930200={
+	name=Seran
+	dynasty=1009990269
+	dna="lpjchcggaah"
+	culture=chimuan religion=chimuan_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=7 learning=8
+	add_trait=misguided_warrior add_trait=diligent add_trait=humble add_trait=gluttonous add_trait=arbitrary 
+	add_trait=trusting 
+	father=1019930195	#Yetuniamu
+	1248.6.6={ birth=yes }
+	1326.2.23={ death=yes }
+}
+1019930201={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990269
+	dna="hojaaabganj"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930195	#Yetuniamu
+	1253.7.1={ birth=yes }
+	1309.7.2={ death=yes }
+}
+1019930202={
+	name=Buvaovamu
+	dynasty=1009990269
+	dna="lpoaalbpdnd"
+	culture=chimuan religion=chimuan_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=5 learning=4
+	add_trait=midas_touched add_trait=hunter add_trait=deceitful 
+	father=1019930195	#Yetuniamu
+	1259.3.23={ birth=yes }
+	1360.11.10={ death=yes }
+}
+1019930203={
+	name=Axomamma
+	female=yes
+	dynasty=1009990269
+	dna="gcoabdiehjf"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930199	#Anco
+	1267.9.23={ birth=yes }
+	1351.7.17={ death=yes }
+}
+1019930204={
+	name=Jotiantikaka
+	dynasty=1009990269
+	dna="paoffmlphnn"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=deceitful add_trait=humble 
+	add_trait=charitable add_trait=wroth 
+	father=1019930199	#Anco
+	1270.5.13={ birth=yes }
+	1354.8.12={ death=yes }
+}
+1019930205={
+	name=Bergu
+	dynasty=1009990269
+	dna="faofppnphnc"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=patient add_trait=lustful 
+	father=1019930204	#Jotiantikaka
+	1294.6.1={ birth=yes }
+	1353.8.11={ death=yes }
+}
+1019930206={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990269
+	dna="paofdglghna"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930204	#Jotiantikaka
+	1297.5.19={ birth=yes }
+	1383.4.22={ death=yes }
+}
+1019930207={
+	name=Zergoetanu
+	dynasty=1009990269
+	dna="fleflmdphgn"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	add_trait=thrifty_clerk  add_trait=chaste add_trait=diligent 
+	father=1019930204	#Jotiantikaka
+	1302.1.15={ birth=yes }
+	1371.6.24={ death=yes }
+}
+1019930208={
+	name=Cápac
+	dynasty=1009990269
+	dna="fnpfppnjddl"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=4
+	add_trait=tough_soldier add_trait=patient add_trait=envious add_trait=greedy add_trait=arbitrary 
+	add_trait=deceitful 
+	father=1019930205	#Bergu
+	1320.9.10={ birth=yes }
+	1394.12.23={ death=yes }
+}
+1019930209={
+	name=Melantonan
+	dynasty=1009990269
+	dna="nagfppnpdec"
+	culture=chimuan religion=chimuan_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=proud add_trait=lustful add_trait=greedy add_trait=slothful 
+	add_trait=stressed 
+	father=1019930205	#Bergu
+	1325.8.11={ birth=yes }
+	1408.11.16={ death=yes }
+}
+1019930210={
+	name=Ana
+	female=yes
+	dynasty=1009990269
+	dna="ljnfjphphio"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930205	#Bergu
+	1331.7.26={ birth=yes }
+	1408.12.10={ death=yes }
+}
+1019930211={
+	name=Tacaynamo
+	dynasty=1009990269
+	dna="baoecpjphpk"
+	culture=chimuan religion=chimuan_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=greedy add_trait=craven add_trait=content 
+	 
+	father=1019930205	#Bergu
+	1335.11.22={ birth=yes }
+	1388.8.5={ death=yes }
+}
+1019930212={
+	name=Jotiantikaka
+	dynasty=1009990269
+	dna="fdffppcphho"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	add_trait=scholarly_theologian add_trait=brave add_trait=trusting add_trait=temperate 
+	 
+	father=1019930205	#Bergu
+	1341.7.17={ birth=yes }
+	1408.1.4={ death=yes }
+}
+1019930213={
+	name=Litun
+	dynasty=1009990269
+	dna="dgifpgcpelc"
+	culture=chimuan religion=chimuan_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=8 learning=6
+	add_trait=intricate_webweaver add_trait=gluttonous add_trait=charitable 
+	father=1019930205	#Bergu
+	1344.4.4={ birth=yes }
+	1413.6.1={ death=yes }
+}
+1019930214={
+	name=Nancen
+	dynasty=1009990269
+	dna="ecoecpnghfn"
+	culture=chimuan religion=chimuan_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=cynical add_trait=diligent 
+	father=1019930205	#Bergu
+	1349.8.14={ birth=yes }
+	1418.8.3={ death=yes }
+}
+1019930215={
+	name=Maiara
+	female=yes
+	dynasty=1009990269
+	dna="mokajpnmddl"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930208	#Cápac
+	1350.3.4={ birth=yes }
+	1438.1.9={ death=yes }
+}
+1019930216={
+	name=Axomamma
+	female=yes
+	dynasty=1009990269
+	dna="ankfpljjdpb"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930208	#Cápac
+	1353.4.10={ birth=yes }
+	1421.8.23={ death=yes }
+}
+1019930217={
+	name=Puznaymun
+	dynasty=1009990269
+	dna="fdpfpclddkc"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=8
+	add_trait=intricate_webweaver  add_trait=temperate add_trait=charitable add_trait=ambitious 
+	add_trait=deceitful 
+	father=1019930208	#Cápac
+	1358.8.23={ birth=yes }
+	1428.6.13={ death=yes }
+}
+1019930218={
+	name=Tacaynamo
+	dynasty=1009990269
+	dna="ihnopdnjmgk"
+	culture=chimuan religion=chimuan_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	add_trait=elusive_shadow add_trait=paranoid add_trait=humble  
+	father=1019930208	#Cápac
+	1362.8.25={ birth=yes }
+	1424.10.28={ death=yes }
+}
+1019930219={
+	name=Kantuta
+	female=yes
+	dynasty=1009990269
+	dna="akgnknnaddo"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930208	#Cápac
+	1369.9.27={ birth=yes }
+	1467.2.28={ death=yes }
+}
+1019930220={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990269
+	dna="hnpfpkkjjdl"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930208	#Cápac
+	1374.2.15={ birth=yes }
+	1426.5.25={ death=yes }
+}
+1019930221={
+	name=Nina
+	female=yes
+	dynasty=1009990269
+	dna="phcgppljiah"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930208	#Cápac
+	1377.10.15={ birth=yes }
+	1456.10.24={ death=yes }
+}
+1019930222={
+	name=Felan
+	dynasty=1009990269
+	dna="odampchdgoo"
+	culture=chimuan religion=chimuan_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=patient add_trait=depressed 
+	father=1019930217	#Puznaymun
+	1383.9.3={ birth=yes }
+	1446.11.18={ death=yes }
+}
+1019930223={
+	name=Axomamma
+	female=yes
+	dynasty=1009990269
+	dna="noidpcandkk"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930217	#Puznaymun
+	1387.1.7={ birth=yes }
+	1467.7.26={ death=yes }
+}
+1019930224={
+	name=Maiara
+	female=yes
+	dynasty=1009990269
+	dna="eddffaaddac"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930217	#Puznaymun
+	1391.8.2={ birth=yes }
+	1450.12.12={ death=yes }
+}
+1019930225={
+	name=Nina
+	female=yes
+	dynasty=1009990269
+	dna="fmpfoaadkkc"
+	culture=chimuan religion=chimuan_pagan
+	father=1019930217	#Puznaymun
+	1397.3.3={ birth=yes }
+	1476.9.26={ death=yes }
+}
+1019930226={
+	name=Michan
+	dynasty=1009990269
+	dna="ejpfpclhdkp"
+	culture=chimuan religion=chimuan_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=duelist add_trait=craven add_trait=greedy add_trait=diligent 
+	add_trait=gregarious 
+	father=1019930217	#Puznaymun
+	1400.12.4={ birth=yes }
+	1484.1.20={ death=yes }
+}
+1019930227={
+	name=Caman
+	dynasty=1009990269
+	dna="fkaffllkdko"
+	culture=chimuan religion=chimuan_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=just add_trait=temperate add_trait=gregarious add_trait=fair 
+	father=1019930217	#Puznaymun
+	1407.10.20={ birth=yes }
+	1463.10.15={ death=yes }
+}
+1019930228={
+	name=Tamuc
+	dynasty=1009990269
+	dna="fdpfnkjagki"
+	culture=chimuan religion=chimuan_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=temperate add_trait=gregarious add_trait=patient 
+	father=1019930217	#Puznaymun
+	1412.1.13={ birth=yes }
+	1486.10.14={ death=yes }
+}
+1019930229={
+	name=Katitika
+	dynasty=1009990270
+	dna="jddbklnkpmf"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=brave add_trait=paranoid add_trait=honest 
+	719.6.14={ birth=yes }
+	799.6.2={ death=yes }
+}
+1019930230={
+	name=Cuyuchi
+	dynasty=1009990270
+	dna="ndjekcadpjn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=envious add_trait=wroth 
+	father=1019930229	#Katitika
+	737.1.9={ birth=yes }
+	819.5.2={ death=yes }
+}
+1019930231={
+	name=Anco
+	dynasty=1009990270
+	dna="jkgpbemepml"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=flamboyant_schemer add_trait=diligent add_trait=just add_trait=brave 
+	add_trait=drunkard 
+	father=1019930229	#Katitika
+	744.12.27={ birth=yes }
+	816.2.26={ death=yes }
+}
+1019930232={
+	name=Melantonan
+	dynasty=1009990270
+	dna="modbflgdmmf"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=honest add_trait=brave add_trait=diligent add_trait=zealous 
+	
+	father=1019930229	#Katitika
+	751.5.17={ birth=yes }
+	818.3.16={ death=yes }
+}
+1019930233={
+	name=Puznaymun
+	dynasty=1009990270
+	dna="bkibkdicpmf"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=scholar add_trait=gluttonous  add_trait=shy 
+	father=1019930229	#Katitika
+	756.6.24={ birth=yes }
+	830.3.18={ death=yes }
+}
+1019930234={
+	name=Kantuta
+	female=yes
+	dynasty=1009990270
+	dna="cdjekociljn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930230	#Cuyuchi
+	758.10.6={ birth=yes }
+	836.9.17={ death=yes }
+}
+1019930235={
+	name=Cur
+	dynasty=1009990270
+	dna="njkekcakpjn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=scholar add_trait=paranoid add_trait=charitable add_trait=deceitful 
+	add_trait=arbitrary add_trait=gluttonous add_trait=lunatic 
+	father=1019930230	#Cuyuchi
+	764.7.23={ birth=yes }
+	824.8.25={ death=yes }
+}
+1019930236={
+	name=Katitika
+	dynasty=1009990270
+	dna="kcoekljlpin"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=8 learning=5
+	add_trait=mastermind_theologian add_trait=ambitious add_trait=trusting add_trait=lunatic 
+	father=1019930235	#Cur
+	787.12.27={ birth=yes }
+	875.12.14={ death=yes }
+}
+1019930237={
+	name=Zergoetanu
+	dynasty=1009990270
+	dna="njjbegjkpme"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=greedy add_trait=wroth add_trait=paranoid 
+	father=1019930235	#Cur
+	793.10.24={ birth=yes }
+	880.9.25={ death=yes }
+}
+1019930238={
+	name=Axomamma
+	female=yes
+	dynasty=1009990270
+	dna="ellijfaeijn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930235	#Cur
+	797.9.15={ birth=yes }
+	850.11.28={ death=yes }
+}
+1019930239={
+	name=Axomamma
+	female=yes
+	dynasty=1009990270
+	dna="njkeoenejjl"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930235	#Cur
+	802.7.17={ birth=yes }
+	889.7.1={ death=yes }
+}
+1019930240={
+	name=Axomamma
+	female=yes
+	dynasty=1009990270
+	dna="njkeapalpjc"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930235	#Cur
+	807.12.7={ birth=yes }
+	877.4.7={ death=yes }
+}
+1019930241={
+	name=Ana
+	female=yes
+	dynasty=1009990270
+	dna="ngleghfbajn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930235	#Cur
+	810.5.19={ birth=yes }
+	885.12.11={ death=yes }
+}
+1019930242={
+	name=Nina
+	female=yes
+	dynasty=1009990270
+	dna="njkdhopbkjk"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930235	#Cur
+	814.3.13={ birth=yes }
+	869.1.26={ death=yes }
+}
+1019930243={
+	name=Puznaymun
+	dynasty=1009990270
+	dna="globmjjdpia"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=ambitious add_trait=zealous add_trait=ill 
+	father=1019930236	#Katitika
+	814.9.20={ birth=yes }
+	883.12.26={ death=yes }
+}
+1019930244={
+	name=Katitika
+	dynasty=1009990270
+	dna="acoeklilcij"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=humble add_trait=gluttonous add_trait=depressed 
+	father=1019930236	#Katitika
+	819.11.22={ birth=yes }
+	883.3.6={ death=yes }
+}
+1019930245={
+	name=Michan
+	dynasty=1009990270
+	dna="kcogmlmfpii"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	add_trait=scholarly_theologian add_trait=diligent add_trait=chaste add_trait=content 
+	father=1019930236	#Katitika
+	826.3.4={ birth=yes }
+	907.11.2={ death=yes }
+}
+1019930246={
+	name=Nina
+	female=yes
+	dynasty=1009990270
+	dna="kcoekleklik"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930236	#Katitika
+	832.9.23={ birth=yes }
+	925.4.7={ death=yes }
+}
+1019930247={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990270
+	dna="gloahnogpia"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930243	#Puznaymun
+	833.9.8={ birth=yes }
+	897.6.28={ death=yes }
+}
+1019930248={
+	name=Ana
+	female=yes
+	dynasty=1009990270
+	dna="mlnbodjgpae"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930243	#Puznaymun
+	841.11.18={ birth=yes }
+	916.1.7={ death=yes }
+}
+1019930249={
+	name=Chumun
+	dynasty=1009990270
+	dna="gclbmcjdpmh"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=patient add_trait=chaste add_trait=brave add_trait=diligent 
+	add_trait=paranoid 
+	father=1019930243	#Puznaymun
+	846.12.1={ birth=yes }
+	903.3.1={ death=yes }
+}
+1019930250={
+	name=Draytonamu
+	dynasty=1009990270
+	dna="kcoincjdpmg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=lustful add_trait=trusting add_trait=greedy add_trait=gregarious 
+	father=1019930249	#Chumun
+	873.2.17={ birth=yes }
+	936.5.19={ death=yes }
+}
+1019930251={
+	name=Nehuametepun
+	dynasty=1009990270
+	dna="coffncjfcdp"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	add_trait=misguided_warrior add_trait=cynical add_trait=shy add_trait=deceitful add_trait=wroth 
+	father=1019930249	#Chumun
+	878.6.8={ birth=yes }
+	946.12.30={ death=yes }
+}
+1019930252={
+	name=Cur
+	dynasty=1009990270
+	dna="gcljncjdpke"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=gregarious add_trait=brave add_trait=wroth add_trait=ambitious 
+	father=1019930249	#Chumun
+	884.1.1={ birth=yes }
+	960.6.30={ death=yes }
+}
+1019930253={
+	name=Ana
+	female=yes
+	dynasty=1009990270
+	dna="gclbmciodmh"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930249	#Chumun
+	892.5.7={ birth=yes }
+	956.10.13={ death=yes }
+}
+1019930254={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990270
+	dna="kcgipccdpmp"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930250	#Draytonamu
+	901.10.16={ birth=yes }
+	982.5.21={ death=yes }
+}
+1019930255={
+	name=Ana
+	female=yes
+	dynasty=1009990270
+	dna="kgonaojdpmg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930250	#Draytonamu
+	905.2.9={ birth=yes }
+	960.5.14={ death=yes }
+}
+1019930256={
+	name=Nehuametepun
+	dynasty=1009990270
+	dna="kgpincfcfmg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=4
+	add_trait=mastermind_theologian add_trait=shy add_trait=trusting add_trait=patient add_trait=charitable 
+	add_trait=honest 
+	father=1019930250	#Draytonamu
+	910.10.27={ birth=yes }
+	994.1.20={ death=yes }
+}
+1019930257={
+	name=Ana
+	female=yes
+	dynasty=1009990270
+	dna="aconnmjicma"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930250	#Draytonamu
+	912.4.20={ birth=yes }
+	997.10.26={ death=yes }
+}
+1019930258={
+	name=Nina
+	female=yes
+	dynasty=1009990270
+	dna="cchinclapmg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930250	#Draytonamu
+	917.7.27={ birth=yes }
+	985.3.3={ death=yes }
+}
+1019930259={
+	name=Ana
+	female=yes
+	dynasty=1009990270
+	dna="kgpancbjagg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930256	#Nehuametepun
+	937.2.24={ birth=yes }
+	1001.4.2={ death=yes }
+}
+1019930260={
+	name=Tugun
+	dynasty=1009990270
+	dna="hgpchcfcffg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=7 learning=6
+	add_trait=skilled_tactician add_trait=wroth add_trait=just add_trait=deceitful add_trait=temperate 
+	father=1019930256	#Nehuametepun
+	940.10.2={ birth=yes }
+	1009.10.11={ death=yes }
+}
+1019930261={
+	name=Maiara
+	female=yes
+	dynasty=1009990270
+	dna="bgnbgmaofmk"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930256	#Nehuametepun
+	946.1.15={ birth=yes }
+	1024.3.27={ death=yes }
+}
+1019930262={
+	name=Chimor
+	dynasty=1009990270
+	dna="gccjhpbkffg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=gardener add_trait=paranoid add_trait=temperate 
+	father=1019930260	#Tugun
+	963.4.8={ birth=yes }
+	1048.4.23={ death=yes }
+}
+1019930263={
+	name=Axomamma
+	female=yes
+	dynasty=1009990270
+	dna="ofpphcdkcfd"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930260	#Tugun
+	969.11.23={ birth=yes }
+	1045.7.20={ death=yes }
+}
+1019930264={
+	name=Nina
+	female=yes
+	dynasty=1009990270
+	dna="ngpkabfcafo"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930260	#Tugun
+	972.12.6={ birth=yes }
+	1040.6.23={ death=yes }
+}
+1019930265={
+	name=Bergu
+	dynasty=1009990270
+	dna="hppchhfionm"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=temperate add_trait=just add_trait=lustful add_trait=craven 
+	add_trait=patient add_trait=diligent 
+	father=1019930260	#Tugun
+	976.7.25={ birth=yes }
+	1049.11.7={ death=yes }
+}
+1019930266={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990270
+	dna="hghckcjcfjc"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930260	#Tugun
+	981.10.27={ birth=yes }
+	1054.7.9={ death=yes }
+}
+1019930267={
+	name=Aiyotechapun
+	dynasty=1009990270
+	dna="kmkcpdfbfig"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=shy add_trait=gluttonous add_trait=wroth 
+	add_trait=paranoid add_trait=stressed 
+	father=1019930260	#Tugun
+	984.7.23={ birth=yes }
+	1033.12.2={ death=yes }
+}
+1019930268={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990270
+	dna="hgpgbofpfcg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930260	#Tugun
+	988.4.10={ birth=yes }
+	1051.9.19={ death=yes }
+}
+1019930269={
+	name=Kantuta
+	female=yes
+	dynasty=1009990270
+	dna="gccfhkoiffg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930262	#Chimor
+	985.12.7={ birth=yes }
+	1049.3.27={ death=yes }
+}
+1019930270={
+	name=Cama
+	dynasty=1009990270
+	dna="lnfchnbkffg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=7 learning=4
+	add_trait=elusive_shadow add_trait=lustful add_trait=gluttonous add_trait=craven 
+	add_trait=deceitful add_trait=cynical 
+	father=1019930262	#Chimor
+	990.9.25={ birth=yes }
+	1061.6.6={ death=yes }
+}
+1019930271={
+	name=Felan
+	dynasty=1009990270
+	dna="accjnmbkffg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=humble add_trait=craven add_trait=charitable 
+	father=1019930262	#Chimor
+	994.1.5={ birth=yes }
+	1071.9.7={ death=yes }
+}
+1019930272={
+	name=Anco
+	dynasty=1009990270
+	dna="jnfnippjefa"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	add_trait=intricate_webweaver add_trait=patient add_trait=craven add_trait=diligent add_trait=stressed 
+	father=1019930270	#Cama
+	1020.7.7={ birth=yes }
+	1088.3.8={ death=yes }
+}
+1019930273={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990270
+	dna="gdiepnbkkkg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930270	#Cama
+	1023.4.8={ birth=yes }
+	1102.2.22={ death=yes }
+}
+1019930274={
+	name=Nina
+	female=yes
+	dynasty=1009990270
+	dna="lbfchnlcabe"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930270	#Cama
+	1030.3.13={ birth=yes }
+	1109.11.22={ death=yes }
+}
+1019930275={
+	name=Relyen
+	dynasty=1009990270
+	dna="knachnincfc"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=gregarious add_trait=arbitrary add_trait=diligent add_trait=craven 
+	add_trait=strong 
+	father=1019930270	#Cama
+	1036.6.4={ birth=yes }
+	1117.8.25={ death=yes }
+}
+1019930276={
+	name=Seran
+	dynasty=1009990270
+	dna="jjnnipcjgca"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=just add_trait=cynical add_trait=gluttonous add_trait=content 
+	add_trait=ill 
+	father=1019930272	#Anco
+	1045.10.6={ birth=yes }
+	1085.1.30={ death=yes }
+}
+1019930277={
+	name=Nancen
+	dynasty=1009990270
+	dna="hpbnippjeif"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	add_trait=detached_priest add_trait=impaler add_trait=content add_trait=cynical add_trait=proud 
+	add_trait=possessed 
+	father=1019930272	#Anco
+	1050.2.5={ birth=yes }
+	1132.10.4={ death=yes }
+}
+1019930278={
+	name=Apac
+	dynasty=1009990270
+	dna="jkfmibpjjfh"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=6
+	add_trait=elusive_shadow add_trait=charitable add_trait=lustful add_trait=craven 
+	father=1019930272	#Anco
+	1055.7.11={ birth=yes }
+	1145.7.15={ death=yes }
+}
+1019930279={
+	name=Ana
+	female=yes
+	dynasty=1009990270
+	dna="nnjniopjcdn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930272	#Anco
+	1059.8.13={ birth=yes }
+	1143.11.23={ death=yes }
+}
+1019930280={
+	name=Orco
+	dynasty=1009990270
+	dna="ajnmigcngda"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=5 learning=8
+	add_trait=elusive_shadow add_trait=zealous add_trait=brave add_trait=chaste 
+	father=1019930276	#Seran
+	1073.11.11={ birth=yes }
+	1127.9.15={ death=yes }
+}
+1019930281={
+	name=Guaman
+	dynasty=1009990270
+	dna="jnndlpcjgfb"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=4 learning=5
+	add_trait=tough_soldier add_trait=poet add_trait=paranoid add_trait=craven add_trait=just 
+	add_trait=zealous add_trait=wounded 
+	father=1019930276	#Seran
+	1079.7.4={ birth=yes }
+	1133.12.10={ death=yes }
+}
+1019930282={
+	name=Jotiantikaka
+	dynasty=1009990270
+	dna="phpnilcjgcl"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=shy add_trait=proud add_trait=zealous 
+	add_trait=greedy 
+	father=1019930276	#Seran
+	1082.12.18={ birth=yes }
+	1152.3.5={ death=yes }
+}
+1019930283={
+	name=Caja
+	dynasty=1009990270
+	dna="pjnaikajpch"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=8 learning=4
+	add_trait=midas_touched add_trait=greedy add_trait=humble add_trait=arbitrary 
+	father=1019930276	#Seran
+	1087.1.15={ birth=yes }
+	1152.9.7={ death=yes }
+}
+1019930284={
+	name=Kantuta
+	female=yes
+	dynasty=1009990270
+	dna="jjgeiaajlmm"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930276	#Seran
+	1091.2.17={ birth=yes }
+	1144.8.10={ death=yes }
+}
+1019930285={
+	name=Belan
+	dynasty=1009990270
+	dna="ajnmngengea"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=7
+	add_trait=tough_soldier  add_trait=greedy add_trait=honest add_trait=humble 
+	add_trait=drunkard 
+	father=1019930280	#Orco
+	1098.12.19={ birth=yes }
+	1159.5.9={ death=yes }
+}
+1019930286={
+	name=Pico
+	dynasty=1009990270
+	dna="ajoibdcdgda"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=6 learning=6
+	add_trait=indulgent_wastrel add_trait=hedonist add_trait=greedy add_trait=brave 
+	father=1019930280	#Orco
+	1105.7.10={ birth=yes }
+	1168.10.11={ death=yes }
+}
+1019930287={
+	name=Maiara
+	female=yes
+	dynasty=1009990270
+	dna="agdjigoocea"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930280	#Orco
+	1111.8.15={ birth=yes }
+	1190.12.12={ death=yes }
+}
+1019930288={
+	name=Vetsalynun
+	dynasty=1009990270
+	dna="ojnobmebiea"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=craven add_trait=humble add_trait=charitable add_trait=gregarious 
+	add_trait=wroth add_trait=possessed 
+	father=1019930285	#Belan
+	1129.9.18={ birth=yes }
+	1208.9.8={ death=yes }
+}
+1019930289={
+	name=Guaman
+	dynasty=1009990270
+	dna="aanmngnbglj"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=5
+	add_trait=thrifty_clerk add_trait=gregarious add_trait=proud add_trait=charitable 
+	father=1019930285	#Belan
+	1135.5.7={ birth=yes }
+	1201.6.25={ death=yes }
+}
+1019930290={
+	name=Pacatmamu
+	dynasty=1009990270
+	dna="ajnmhgeigea"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=6 learning=8
+	add_trait=indulgent_wastrel add_trait=trusting  add_trait=brave add_trait=gregarious 
+	father=1019930285	#Belan
+	1139.11.15={ birth=yes }
+	1226.3.16={ death=yes }
+}
+1019930291={
+	name=Draytonamu
+	dynasty=1009990270
+	dna="ojamngajgea"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=scholar add_trait=honest  add_trait=zealous 
+	add_trait=craven add_trait=content add_trait=hunchback 
+	father=1019930285	#Belan
+	1143.1.13={ birth=yes }
+	1200.12.17={ death=yes }
+}
+1019930292={
+	name=Taracun
+	dynasty=1009990270
+	dna="admjogingea"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	add_trait=scholarly_theologian add_trait=ambitious  add_trait=brave add_trait=greedy 
+	add_trait=slothful add_trait=patient 
+	father=1019930285	#Belan
+	1148.12.14={ birth=yes }
+	1226.2.22={ death=yes }
+}
+1019930293={
+	name=Cápac
+	dynasty=1009990270
+	dna="fjnjdmjbiaa"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=envious add_trait=deceitful add_trait=wroth add_trait=trusting 
+	add_trait=just 
+	father=1019930288	#Vetsalynun
+	1152.4.4={ birth=yes }
+	1229.6.16={ death=yes }
+}
+1019930294={
+	name=Pacatmamu
+	dynasty=1009990270
+	dna="mjnoemeddka"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=gardener add_trait=chaste add_trait=temperate add_trait=cynical 
+	 add_trait=trusting 
+	father=1019930288	#Vetsalynun
+	1157.8.16={ birth=yes }
+	1243.5.7={ death=yes }
+}
+1019930295={
+	name=Axomamma
+	female=yes
+	dynasty=1009990270
+	dna="onnobmejlel"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930288	#Vetsalynun
+	1163.8.9={ birth=yes }
+	1228.11.27={ death=yes }
+}
+1019930296={
+	name=Kantuta
+	female=yes
+	dynasty=1009990270
+	dna="dlnokheoaea"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930288	#Vetsalynun
+	1169.12.20={ birth=yes }
+	1225.7.12={ death=yes }
+}
+1019930297={
+	name=Ehenymacu
+	dynasty=1009990270
+	dna="cjnnddjbdhn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	add_trait=elusive_shadow add_trait=lustful add_trait=brave add_trait=content add_trait=possessed 
+	father=1019930293	#Cápac
+	1178.8.12={ birth=yes }
+	1240.1.24={ death=yes }
+}
+1019930298={
+	name=Maiara
+	female=yes
+	dynasty=1009990270
+	dna="fpehmmgbigb"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930293	#Cápac
+	1184.12.8={ birth=yes }
+	1248.9.20={ death=yes }
+}
+1019930299={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990270
+	dna="eannicjbinp"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930297	#Ehenymacu
+	1206.4.19={ birth=yes }
+	1260.12.7={ death=yes }
+}
+1019930300={
+	name=Relyen
+	dynasty=1009990270
+	dna="djnndhjidhn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=7 learning=7
+	add_trait=detached_priest add_trait=wroth add_trait=trusting add_trait=shy 
+	father=1019930297	#Ehenymacu
+	1210.8.13={ birth=yes }
+	1289.5.22={ death=yes }
+}
+1019930301={
+	name=Axomamma
+	female=yes
+	dynasty=1009990270
+	dna="einbddnfbid"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930297	#Ehenymacu
+	1213.11.13={ birth=yes }
+	1298.10.27={ death=yes }
+}
+1019930302={
+	name=Buvaovamu
+	dynasty=1009990270
+	dna="njnnhhjidmn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=4 learning=8
+	add_trait=indulgent_wastrel add_trait=shy add_trait=proud add_trait=arbitrary add_trait=patient 
+	add_trait=zealous 
+	father=1019930300	#Relyen
+	1232.6.25={ birth=yes }
+	1315.9.22={ death=yes }
+}
+1019930303={
+	name=Ana
+	female=yes
+	dynasty=1009990270
+	dna="dlnkdpjiopn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930300	#Relyen
+	1237.1.20={ birth=yes }
+	1291.9.15={ death=yes }
+}
+1019930304={
+	name=Ana
+	female=yes
+	dynasty=1009990270
+	dna="dfnkhndidfe"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930300	#Relyen
+	1243.4.21={ birth=yes }
+	1315.8.13={ death=yes }
+}
+1019930305={
+	name=Chumun
+	dynasty=1009990270
+	dna="fjnndihidjh"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=6
+	add_trait=indulgent_wastrel add_trait=slothful add_trait=shy add_trait=ambitious  
+	father=1019930300	#Relyen
+	1247.12.15={ birth=yes }
+	1315.2.17={ death=yes }
+}
+1019930306={
+	name=Caman
+	dynasty=1009990270
+	dna="mjnndjeidhn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=diligent add_trait=lustful add_trait=humble 
+	father=1019930300	#Relyen
+	1250.2.27={ birth=yes }
+	1342.2.28={ death=yes }
+}
+1019930307={
+	name=Yetuniamu
+	dynasty=1009990270
+	dna="kaaljhgidmn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=5 learning=4
+	add_trait=flamboyant_schemer add_trait=craven add_trait=gluttonous add_trait=honest 
+	father=1019930302	#Buvaovamu
+	1259.10.5={ birth=yes }
+	1318.9.4={ death=yes }
+}
+1019930308={
+	name=Nina
+	female=yes
+	dynasty=1009990270
+	dna="nafdlhjadmn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930302	#Buvaovamu
+	1263.10.20={ birth=yes }
+	1314.7.9={ death=yes }
+}
+1019930309={
+	name=Seton
+	dynasty=1009990270
+	dna="ojdnihfipjm"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=4 learning=5
+	add_trait=detached_priest add_trait=temperate add_trait=arbitrary add_trait=zealous add_trait=slothful 
+	add_trait=possessed 
+	father=1019930302	#Buvaovamu
+	1267.2.8={ birth=yes }
+	1353.3.13={ death=yes }
+}
+1019930310={
+	name=Kantuta
+	female=yes
+	dynasty=1009990270
+	dna="njfllhjeamn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930302	#Buvaovamu
+	1271.11.24={ birth=yes }
+	1326.10.20={ death=yes }
+}
+1019930311={
+	name=Troynuremo
+	dynasty=1009990270
+	dna="jjnnohjbdbk"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=chaste add_trait=trusting add_trait=shy add_trait=envious 
+	add_trait=proud add_trait=drunkard 
+	father=1019930302	#Buvaovamu
+	1274.2.23={ birth=yes }
+	1356.6.9={ death=yes }
+}
+1019930312={
+	name=Pico
+	dynasty=1009990270
+	dna="nafhjhjgfca"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=zealous add_trait=wroth add_trait=arbitrary add_trait=brave 
+	add_trait=possessed 
+	father=1019930307	#Yetuniamu
+	1281.7.26={ birth=yes }
+	1365.12.5={ death=yes }
+}
+1019930313={
+	name=Axomamma
+	female=yes
+	dynasty=1009990270
+	dna="nbeljagpddp"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930307	#Yetuniamu
+	1284.7.21={ birth=yes }
+	1368.11.18={ death=yes }
+}
+1019930314={
+	name=Anco
+	dynasty=1009990270
+	dna="kegdnhenkmg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=4 learning=8
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=trusting add_trait=humble 
+	add_trait=charitable 
+	father=1019930307	#Yetuniamu
+	1289.2.14={ birth=yes }
+	1363.1.5={ death=yes }
+}
+1019930315={
+	name=Maiara
+	female=yes
+	dynasty=1009990270
+	dna="pmabjhgkhmb"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930307	#Yetuniamu
+	1293.7.16={ birth=yes }
+	1353.6.29={ death=yes }
+}
+1019930316={
+	name=Maiara
+	female=yes
+	dynasty=1009990270
+	dna="iialejeiddn"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930307	#Yetuniamu
+	1296.11.21={ birth=yes }
+	1383.9.6={ death=yes }
+}
+1019930317={
+	name=Kantuta
+	female=yes
+	dynasty=1009990270
+	dna="camlahhihad"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930307	#Yetuniamu
+	1300.2.5={ birth=yes }
+	1358.12.9={ death=yes }
+}
+1019930318={
+	name=Michan
+	dynasty=1009990270
+	dna="njfpjjcgfcb"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=8 learning=8
+	add_trait=skilled_tactician add_trait=humble add_trait=greedy add_trait=brave add_trait=deceitful 
+	father=1019930312	#Pico
+	1301.10.4={ birth=yes }
+	1391.6.3={ death=yes }
+}
+1019930319={
+	name=Coyuch
+	dynasty=1009990270
+	dna="nafhaodgacd"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=craven add_trait=slothful add_trait=gluttonous add_trait=patient 
+	add_trait=wounded 
+	father=1019930312	#Pico
+	1306.8.17={ birth=yes }
+	1373.11.27={ death=yes }
+}
+1019930320={
+	name=Chumu
+	dynasty=1009990270
+	dna="nmfhjjaofhb"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=6
+	add_trait=detached_priest add_trait=diligent add_trait=charitable add_trait=trusting add_trait=honest 
+	add_trait=humble add_trait=temperate 
+	father=1019930318	#Michan
+	1329.8.6={ birth=yes }
+	1389.3.7={ death=yes }
+}
+1019930321={
+	name=Axomamma
+	female=yes
+	dynasty=1009990270
+	dna="hdfpagebfcl"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930318	#Michan
+	1335.11.13={ birth=yes }
+	1416.5.12={ death=yes }
+}
+1019930322={
+	name=Muhton
+	dynasty=1009990270
+	dna="hjhpnjhgmcg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=paranoid add_trait=shy add_trait=charitable add_trait=just 
+	add_trait=zealous add_trait=honest 
+	father=1019930318	#Michan
+	1341.12.17={ birth=yes }
+	1416.9.19={ death=yes }
+}
+1019930323={
+	name=Maiara
+	female=yes
+	dynasty=1009990270
+	dna="hnfgjlbgmab"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930318	#Michan
+	1345.12.1={ birth=yes }
+	1406.11.29={ death=yes }
+}
+1019930324={
+	name=Felan
+	dynasty=1009990270
+	dna="nhehjjcajif"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=4
+	add_trait=tough_soldier add_trait=paranoid  add_trait=deceitful 
+	father=1019930318	#Michan
+	1348.10.17={ birth=yes }
+	1416.5.28={ death=yes }
+}
+1019930325={
+	name=Ana
+	female=yes
+	dynasty=1009990270
+	dna="djnhbjcgfcb"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930318	#Michan
+	1352.4.23={ birth=yes }
+	1410.11.18={ death=yes }
+}
+1019930326={
+	name=Zergoetanu
+	dynasty=1009990270
+	dna="pibepjhgfhd"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=8
+	add_trait=naive_appeaser add_trait=paranoid add_trait=craven add_trait=just add_trait=genius 
+	father=1019930320	#Chumu
+	1352.10.17={ birth=yes }
+	1420.6.4={ death=yes }
+}
+1019930327={
+	name=Tacaynamo
+	dynasty=1009990270
+	dna="kpfdfiaojmb"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=5 learning=8
+	add_trait=tough_soldier add_trait=gardener add_trait=zealous add_trait=slothful add_trait=temperate 
+	add_trait=craven 
+	father=1019930320	#Chumu
+	1356.11.15={ birth=yes }
+	1426.10.10={ death=yes }
+}
+1019930328={
+	name=Ana
+	female=yes
+	dynasty=1009990270
+	dna="nmbhcjgomkg"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930320	#Chumu
+	1362.2.16={ birth=yes }
+	1437.4.26={ death=yes }
+}
+1019930329={
+	name=Aiyotechapun
+	dynasty=1009990270
+	dna="nmajjjaofhb"
+	culture=chachapoyan religion=chachapoyan_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=charitable add_trait=zealous add_trait=just add_trait=temperate 
+	father=1019930320	#Chumu
+	1366.9.5={ birth=yes }
+	1435.9.12={ death=yes }
+}
+1019930330={
+	name=Nina
+	female=yes
+	dynasty=1009990270
+	dna="dafhddaofgj"
+	culture=chachapoyan religion=chachapoyan_pagan
+	father=1019930320	#Chumu
+	1371.9.8={ birth=yes }
+	1433.8.11={ death=yes }
+}

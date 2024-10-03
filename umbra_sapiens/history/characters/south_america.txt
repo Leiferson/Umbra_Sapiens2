@@ -1,0 +1,2122 @@
+#324000
+#Zaparoan
+324001 = {
+	name = "Jakaira"
+	dynasty = 1010010191
+	religion = caribic_pagan
+	culture = zaparoan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324002 = {
+	name = "Maitei"
+	dynasty = 1010010191
+	religion = caribic_pagan
+	culture = zaparoan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324003 = {
+	name = "Karai"
+	dynasty = 1010010191
+	religion = caribic_pagan
+	culture = zaparoan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324004 = {
+	name = "Maitei"
+	dynasty = 1010010191
+	religion = caribic_pagan
+	culture = zaparoan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324005 = {
+	name = "Marangatu"
+	dynasty = 1010010191
+	religion = caribic_pagan
+	culture = zaparoan
+	father = 324004
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324006 = {
+	name = "Tatajyva"
+	dynasty = 1010010191
+	religion = caribic_pagan
+	culture = zaparoan
+	father = 324005
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324007 = {
+	name = "Iberê"
+	dynasty = 1010010191
+	religion = caribic_pagan
+	culture = zaparoan
+	father = 324006
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324008 = {
+	name = "Tatajyva"
+	dynasty = 1010010191
+	religion = caribic_pagan
+	culture = zaparoan
+	father = 324007
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#witoto
+324009 = {
+	name = "Kuarahyrese"
+	dynasty = 1010010166
+	religion = caribic_pagan
+	culture = witoto
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324010 = {
+	name = "Kuarahyrese"
+	dynasty = 1010010166
+	religion = caribic_pagan
+	culture = witoto
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324011 = {
+	name = "Chavuku"
+	dynasty = 1010010166
+	religion = caribic_pagan
+	culture = witoto
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324012 = {
+	name = "Yamandu"
+	dynasty = 1010010166
+	religion = caribic_pagan
+	culture = witoto
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324013 = {
+	name = "Karai"
+	dynasty = 1010010166
+	religion = caribic_pagan
+	culture = witoto
+	father = 324012
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324014 = {
+	name = "Yamandu"
+	dynasty = 1010010166
+	religion = caribic_pagan
+	culture = witoto
+	father = 324013
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324015 = {
+	name = "Goiás"
+	dynasty = 1010010166
+	religion = caribic_pagan
+	culture = witoto
+	father = 324014
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324016 = {
+	name = "Araresa"
+	dynasty = 1010010166
+	religion = caribic_pagan
+	culture = witoto
+	father = 324015
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#tucanoan
+324017 = {
+	name = "Bishnud"
+	dynasty = 1010010002
+	religion = caribic_pagan
+	culture = panoan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324018 = {
+	name = "Guaracy"
+	dynasty = 1010010002
+	religion = caribic_pagan
+	culture = panoan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324019 = {
+	name = "Arasunu"
+	dynasty = 1010010002
+	religion = caribic_pagan
+	culture = panoan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324020 = {
+	name = "Guaracy"
+	dynasty = 1010010002
+	religion = caribic_pagan
+	culture = panoan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324021 = {
+	name = "Karai"
+	dynasty = 1010010002
+	religion = caribic_pagan
+	culture = panoan
+	father = 324020
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324022 = {
+	name = "Moacyr"
+	dynasty = 1010010002
+	religion = caribic_pagan
+	culture = panoan
+	father = 324021
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324023 = {
+	name = "Ygary"
+	dynasty = 1010010002
+	religion = caribic_pagan
+	culture = panoan
+	father = 324022
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324024 = {
+	name = "Tatarendy"
+	dynasty = 1010010002
+	religion = caribic_pagan
+	culture = panoan
+	father = 324007
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#panoan
+324025 = {
+	name = "Katupyry"
+	dynasty = 1010010021
+	religion = caribic_pagan
+	culture = panoan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324026 = {
+	name = "Kauã"
+	dynasty = 1010010021
+	religion = caribic_pagan
+	culture = panoan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324027 = {
+	name = "Katupyry"
+	dynasty = 1010010021
+	religion = caribic_pagan
+	culture = panoan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324028 = {
+	name = "Arandu"
+	dynasty = 1010010021
+	religion = caribic_pagan
+	culture = panoan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324029 = {
+	name = "Tuvicha"
+	dynasty = 1010010021
+	religion = caribic_pagan
+	culture = panoan
+	father = 324028
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324030 = {
+	name = "Maanape"
+	dynasty = 1010010021
+	religion = caribic_pagan
+	culture = panoan
+	father = 324029
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324031 = {
+	name = "Arandu"
+	dynasty = 1010010021
+	religion = caribic_pagan
+	culture = panoan
+	father = 324030
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324032 = {
+	name = "Maanape"
+	dynasty = 1010010021
+	religion = caribic_pagan
+	culture = panoan
+	father = 324031
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Zamucoan
+324033 = {
+	name = "Tiririca"
+	dynasty = 1010011000
+	religion = chaco_pagan
+	culture = zamucoan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324034 = {
+	name = "Nhamandu"
+	dynasty = 1010011000
+	religion = chaco_pagan
+	culture = zamucoan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324035 = {
+	name = "Kawahib"
+	dynasty = 1010011000
+	religion = chaco_pagan
+	culture = zamucoan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324036 = {
+	name = "Mba'evera"
+	dynasty = 1010011000
+	religion = chaco_pagan
+	culture = zamucoan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324037 = {
+	name = "Kawahib"
+	dynasty = 1010011000
+	religion = chaco_pagan
+	culture = zamucoan
+	father = 324036
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324038 = {
+	name = "Maanape"
+	dynasty = 1010011000
+	religion = chaco_pagan
+	culture = zamucoan
+	father = 324037
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324039 = {
+	name = "Nheengatu"
+	dynasty = 1010011000
+	religion = chaco_pagan
+	culture = zamucoan
+	father = 324038
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324040 = {
+	name = "Rudá"
+	dynasty = 1010011000
+	religion = chaco_pagan
+	culture = zamucoan
+	father = 324039
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Waicuruan
+324041 = {
+	name = "Maanape"
+	dynasty = 1010018000
+	religion = chaco_pagan
+	culture = waikuruan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324042 = {
+	name = "Potiguaçu"
+	dynasty = 1010018000
+	religion = chaco_pagan
+	culture = waikuruan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324043 = {
+	name = "Maanape"
+	dynasty = 1010018000
+	religion = chaco_pagan
+	culture = waikuruan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324044 = {
+	name = "Mba'evera"
+	dynasty = 1010018000
+	religion = chaco_pagan
+	culture = waikuruan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324045 = {
+	name = "Cauê"
+	dynasty = 1010018000
+	religion = chaco_pagan
+	culture = waikuruan
+	father = 324036
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324046 = {
+	name = "Amapytu"
+	dynasty = 1010018000
+	religion = chaco_pagan
+	culture = waikuruan
+	father = 324037
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324047 = {
+	name = "Ygary"
+	dynasty = 1010018000
+	religion = chaco_pagan
+	culture = waikuruan
+	father = 324038
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324048 = {
+	name = "Jacy"
+	dynasty = 1010018000
+	religion = chaco_pagan
+	culture = waikuruan
+	father = 324039
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#mataco
+324049 = {
+	name = "Mbarakapu"
+	dynasty = 1010019000
+	religion = chaco_pagan
+	culture = mataco
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324050 = {
+	name = "Jakaira"
+	dynasty = 1010019000
+	religion = chaco_pagan
+	culture = mataco
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324051 = {
+	name = "Mbarakapu"
+	dynasty = 1010019000
+	religion = chaco_pagan
+	culture = mataco
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324052 = {
+	name = "Jakaira"
+	dynasty = 1010019000
+	religion = chaco_pagan
+	culture = mataco
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324053 = {
+	name = "Yopana"
+	dynasty = 1010019000
+	religion = chaco_pagan
+	culture = mataco
+	father = 324052
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324054 = {
+	name = "Kuarahyrese"
+	dynasty = 1010019000
+	religion = chaco_pagan
+	culture = mataco
+	father = 324053
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324055 = {
+	name = "Aratiri"
+	dynasty = 1010019000
+	religion = chaco_pagan
+	culture = mataco
+	father = 324054
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324056 = {
+	name = "Kuarahyrese"
+	dynasty = 1010019000
+	religion = chaco_pagan
+	culture = mataco
+	father = 324055
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#kanamari
+324057 = {
+	name = "Camocim"
+	dynasty = 1010020000
+	religion = caribic_pagan
+	culture = kanamari
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324058 = {
+	name = "Ceci"
+	dynasty = 1010020000
+	religion = caribic_pagan
+	culture = kanamari
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324059 = {
+	name = "Camocim"
+	dynasty = 1010020000
+	religion = caribic_pagan
+	culture = kanamari
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324060 = {
+	name = "Inaiá"
+	dynasty = 1010020000
+	religion = caribic_pagan
+	culture = kanamari
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324061 = {
+	name = "Jougousa"
+	dynasty = 1010020000
+	religion = caribic_pagan
+	culture = kanamari
+	father = 324052
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324062 = {
+	name = "Bartira"
+	dynasty = 1010020000
+	religion = caribic_pagan
+	culture = kanamari
+	father = 324053
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324063 = {
+	name = "Jougousa"
+	dynasty = 1010020000
+	religion = caribic_pagan
+	culture = kanamari
+	father = 324054
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324064 = {
+	name = "Bartira"
+	dynasty = 1010020000
+	religion = caribic_pagan
+	culture = kanamari
+	father = 324055
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Yanomamam
+324065 = {
+	name = "Kaakupe"
+	dynasty = 1010009042
+	religion = caribic_pagan
+	culture = yanomaman
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324066 = {
+	name = "Maitei"
+	dynasty = 1010009042
+	religion = caribic_pagan
+	culture = yanomaman
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324067 = {
+	name = "Kaakupe"
+	dynasty = 1010009042
+	religion = caribic_pagan
+	culture = yanomaman
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324068 = {
+	name = "Nheengatu"
+	dynasty = 1010009042
+	religion = caribic_pagan
+	culture = yanomaman
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324069 = {
+	name = "Tainã-Kan"
+	dynasty = 1010009042
+	religion = caribic_pagan
+	culture = yanomaman
+	father = 324068
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324070 = {
+	name = "Yopanã"
+	dynasty = 1010009042
+	religion = caribic_pagan
+	culture = yanomaman
+	father = 324069
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324071 = {
+	name = "Tainã-Kan"
+	dynasty = 1010009042
+	religion = caribic_pagan
+	culture = yanomaman
+	father = 324070
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324072 = {
+	name = "Amangy"
+	dynasty = 1010009042
+	religion = caribic_pagan
+	culture = yanomaman
+	father = 324071
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#alacufe
+324073 = {
+	name = "Pilan"
+	dynasty = 1010017011
+	religion = pampas_pagan
+	culture = alacalufe
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324074 = {
+	name = "Millaray"
+	dynasty = 1010017011
+	religion = pampas_pagan
+	culture = alacalufe
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324075 = {
+	name = "Tayul"
+	dynasty = 1010017011
+	religion = pampas_pagan
+	culture = alacalufe
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324076 = {
+	name = "Nahuel"
+	dynasty = 1010017011
+	religion = pampas_pagan
+	culture = alacalufe
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324077 = {
+	name = "Kintuillang"
+	dynasty = 1010017011
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324076
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324078 = {
+	name = "Lihuén"
+	dynasty = 1010017011
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324077
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324079 = {
+	name = "Kintuillang"
+	dynasty = 1010017011
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324078
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324080 = {
+	name = "Aucaman"
+	dynasty = 1010017011
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324079
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#falklands
+324081 = {
+	name = "Lautaro"
+	dynasty = 1010017007
+	religion = pampas_pagan
+	culture = alacalufe
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324082 = {
+	name = "Tayul"
+	dynasty = 1010017007
+	religion = pampas_pagan
+	culture = alacalufe
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324083 = {
+	name = "Kallfurungi"
+	dynasty = 1010017007
+	religion = pampas_pagan
+	culture = alacalufe
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324084 = {
+	name = "Tayul"
+	dynasty = 1010017007
+	religion = pampas_pagan
+	culture = alacalufe
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324085 = {
+	name = "Alihuén"
+	dynasty = 1010017007
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324084
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324086 = {
+	name = "Lihuén"
+	dynasty = 1010017007
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324085
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324087 = {
+	name = "Kintuillang"
+	dynasty = 1010017007
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324086
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324088 = {
+	name = "Kallfu"
+	dynasty = 1010017007
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324087
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#sandwich
+324089 = {
+	name = "Kallfurungi"
+	dynasty = 1010017008
+	religion = pampas_pagan
+	culture = alacalufe
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324090 = {
+	name = "Lautaro"
+	dynasty = 1010017008
+	religion = pampas_pagan
+	culture = alacalufe
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324091 = {
+	name = "Millaray"
+	dynasty = 1010017008
+	religion = pampas_pagan
+	culture = alacalufe
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324092 = {
+	name = "Lautaro"
+	dynasty = 1010017008
+	religion = pampas_pagan
+	culture = alacalufe
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324093 = {
+	name = "Eluney"
+	dynasty = 1010017008
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324092
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324094 = {
+	name = "Antinanco"
+	dynasty = 1010017008
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324093
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324095 = {
+	name = "Ayun"
+	dynasty = 1010017008
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324094
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324096 = {
+	name = "Wenu"
+	dynasty = 1010017008
+	religion = pampas_pagan
+	culture = alacalufe
+	father = 324095
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#huarpe
+324097 = {
+	name = "Wenu"
+	dynasty = 1010014000
+	religion = mapuche_pagan
+	culture = huarpean
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324098 = {
+	name = "Nahuel"
+	dynasty = 1010014000
+	religion = mapuche_pagan
+	culture = huarpean
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324099 = {
+	name = "Mañke"
+	dynasty = 1010014000
+	religion = mapuche_pagan
+	culture = huarpean
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324100 = {
+	name = "Lautaro"
+	dynasty = 1010014000
+	religion = mapuche_pagan
+	culture = huarpean
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324101 = {
+	name = "Pichulonko"
+	dynasty = 1010014000
+	religion = mapuche_pagan
+	culture = huarpean
+	father = 324100
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324102 = {
+	name = "Antinanco"
+	dynasty = 1010014000
+	religion = mapuche_pagan
+	culture = huarpean
+	father = 324101
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324103 = {
+	name = "Relmu"
+	dynasty = 1010014000
+	religion = mapuche_pagan
+	culture = huarpean
+	father = 324102
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324104 = {
+	name = "Antinanco"
+	dynasty = 1010014000
+	religion = mapuche_pagan
+	culture = huarpean
+	father = 324103
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#charrua
+324105 = {
+	name = "Pytuna"
+	dynasty = 1010015004
+	religion = pampas_pagan
+	culture = charruan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324106 = {
+	name = "Nehuén"
+	dynasty = 1010015004
+	religion = pampas_pagan
+	culture = charruan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324107 = {
+	name = "Kallfu"
+	dynasty = 1010015004
+	religion = pampas_pagan
+	culture = charruan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324108 = {
+	name = "Pire"
+	dynasty = 1010015004
+	religion = pampas_pagan
+	culture = charruan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324109 = {
+	name = "Piwke"
+	dynasty = 1010015004
+	religion = pampas_pagan
+	culture = charruan
+	father = 324108
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324110 = {
+	name = "Pire"
+	dynasty = 1010015004
+	religion = pampas_pagan
+	culture = charruan
+	father = 324109
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324111 = {
+	name = "Pichulonko"
+	dynasty = 1010015004
+	religion = pampas_pagan
+	culture = charruan
+	father = 324110
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324112 = {
+	name = "Antu"
+	dynasty = 1010015004
+	religion = pampas_pagan
+	culture = charruan
+	father = 324111
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#het
+324113 = {
+	name = "Araresa"
+	dynasty = 1010016026
+	religion = pampas_pagan
+	culture = het
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324114 = {
+	name = "Kuarahyrese"
+	dynasty = 1010016026
+	religion = pampas_pagan
+	culture = het
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324115 = {
+	name = "Antinanco"
+	dynasty = 1010016026
+	religion = pampas_pagan
+	culture = het
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324116 = {
+	name = "Lautaro"
+	dynasty = 1010016026
+	religion = pampas_pagan
+	culture = het
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324117 = {
+	name = "Macunaima"
+	dynasty = 1010016026
+	religion = pampas_pagan
+	culture = het
+	father = 324116
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324118 = {
+	name = "Antinanco"
+	dynasty = 1010016026
+	religion = pampas_pagan
+	culture = het
+	father = 324117
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324119 = {
+	name = "Pichulonko"
+	dynasty = 1010016026
+	religion = pampas_pagan
+	culture = het
+	father = 324118
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324120 = {
+	name = "Yakecan"
+	dynasty = 1010016026
+	religion = pampas_pagan
+	culture = het
+	father = 324119
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#new line
+324121 = {
+	name = "Quidel"
+	dynasty = 1010016016
+	religion = pampas_pagan
+	culture = het
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324122 = {
+	name = "Aucaman"
+	dynasty = 1010016016
+	religion = pampas_pagan
+	culture = het
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324123 = {
+	name = "Aucaman"
+	dynasty = 1010016016
+	religion = pampas_pagan
+	culture = het
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324124 = {
+	name = "Pilan"
+	dynasty = 1010016016
+	religion = pampas_pagan
+	culture = het
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324125 = {
+	name = "Nehuén"
+	dynasty = 1010016016
+	religion = pampas_pagan
+	culture = het
+	father = 324124
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324126 = {
+	name = "Aukan"
+	dynasty = 1010016016
+	religion = pampas_pagan
+	culture = het
+	father = 324125
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324127 = {
+	name = "Kallfukura"
+	dynasty = 1010016016
+	religion = pampas_pagan
+	culture = het
+	father = 324126
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324128 = {
+	name = "Aukan"
+	dynasty = 1010016016
+	religion = pampas_pagan
+	culture = het
+	father = 324127
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#last het
+324129 = {
+	name = "Alihuén"
+	dynasty = 1010016013
+	religion = pampas_pagan
+	culture = het
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324130 = {
+	name = "Antu"
+	dynasty = 1010016013
+	religion = pampas_pagan
+	culture = het
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324131 = {
+	name = "Alihuén"
+	dynasty = 1010016013
+	religion = pampas_pagan
+	culture = het
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324132 = {
+	name = "Kallfurungi"
+	dynasty = 1010016013
+	religion = pampas_pagan
+	culture = het
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324133 = {
+	name = "Mañke"
+	dynasty = 1010016013
+	religion = pampas_pagan
+	culture = het
+	father = 324132
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324134 = {
+	name = "Kallfurungi"
+	dynasty = 1010016013
+	religion = pampas_pagan
+	culture = het
+	father = 324133
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324135 = {
+	name = "Lautaro"
+	dynasty = 1010016013
+	religion = pampas_pagan
+	culture = het
+	father = 324134
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324136 = {
+	name = "Payne"
+	dynasty = 1010016013
+	religion = pampas_pagan
+	culture = het
+	father = 324135
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#pulche
+324137 = {
+	name = "Aukan"
+	dynasty = 1010016022
+	religion = pampas_pagan
+	culture = puelche
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324138 = {
+	name = "Kallfu"
+	dynasty = 1010016022
+	religion = pampas_pagan
+	culture = puelche
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324139 = {
+	name = "Aukan"
+	dynasty = 1010016022
+	religion = pampas_pagan
+	culture = puelche
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324140 = {
+	name = "Lihuén"
+	dynasty = 1010016022
+	religion = pampas_pagan
+	culture = puelche
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324141 = {
+	name = "Pilan"
+	dynasty = 1010016022
+	religion = pampas_pagan
+	culture = puelche
+	father = 324140
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324142 = {
+	name = "Lihuén"
+	dynasty = 1010016022
+	religion = pampas_pagan
+	culture = puelche
+	father = 324141
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324143 = {
+	name = "Nehuén"
+	dynasty = 1010016022
+	religion = pampas_pagan
+	culture = puelche
+	father = 324142
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324144 = {
+	name = "Pichulonko"
+	dynasty = 1010016022
+	religion = pampas_pagan
+	culture = puelche
+	father = 324143
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#chon
+324145 = {
+	name = "Nahuel"
+	dynasty = 1010016024
+	religion = pampas_pagan
+	culture = chon
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324146 = {
+	name = "Eluney"
+	dynasty = 1010016024
+	religion = pampas_pagan
+	culture = chon
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324147 = {
+	name = "Alhué"
+	dynasty = 1010016024
+	religion = pampas_pagan
+	culture = chon
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324148 = {
+	name = "Eluney"
+	dynasty = 1010016024
+	religion = pampas_pagan
+	culture = chon
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324149 = {
+	name = "Mañke"
+	dynasty = 1010016024
+	religion = pampas_pagan
+	culture = chon
+	father = 324148
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324150 = {
+	name = "Nahuel"
+	dynasty = 1010016024
+	religion = pampas_pagan
+	culture = chon
+	father = 324149
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324151 = {
+	name = "Pilan"
+	dynasty = 1010016024
+	religion = pampas_pagan
+	culture = chon
+	father = 324150
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324152 = {
+	name = "Antinanco"
+	dynasty = 1010016024
+	religion = pampas_pagan
+	culture = chon
+	father = 324151
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#segunda linha
+324153 = {
+	name = "Pilan"
+	dynasty = 1010016011
+	religion = pampas_pagan
+	culture = chon
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324154 = {
+	name = "Tayul"
+	dynasty = 1010016011
+	religion = pampas_pagan
+	culture = chon
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324155 = {
+	name = "Kallfukura"
+	dynasty = 1010016011
+	religion = pampas_pagan
+	culture = chon
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324156 = {
+	name = "Tayul"
+	dynasty = 1010016011
+	religion = pampas_pagan
+	culture = chon
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324157 = {
+	name = "Aucaman"
+	dynasty = 1010016011
+	religion = pampas_pagan
+	culture = chon
+	father = 324156
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324158 = {
+	name = "Quidel"
+	dynasty = 1010016011
+	religion = pampas_pagan
+	culture = chon
+	father = 324157
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324159 = {
+	name = "Aucaman"
+	dynasty = 1010016011
+	religion = pampas_pagan
+	culture = chon
+	father = 324158
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324160 = {
+	name = "Kallfukura"
+	dynasty = 1010016011
+	religion = pampas_pagan
+	culture = chon
+	father = 324159
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#last but not least
+324161 = {
+	name = "Kallfukura"
+	dynasty = 1010016009
+	religion = pampas_pagan
+	culture = chon
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+324162 = {
+	name = "Pire"
+	dynasty = 1010016009
+	religion = pampas_pagan
+	culture = chon
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+324163 = {
+	name = "Millaray"
+	dynasty = 1010016009
+	religion = pampas_pagan
+	culture = chon
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+324164 = {
+	name = "Antiman"
+	dynasty = 1010016009
+	religion = pampas_pagan
+	culture = chon
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+324165 = {
+	name = "Kallfukura"
+	dynasty = 1010016009
+	religion = pampas_pagan
+	culture = chon
+	father = 324164
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+324166 = {
+	name = "Nahuel"
+	dynasty = 1010016009
+	religion = pampas_pagan
+	culture = chon
+	father = 324165
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+324167 = {
+	name = "Piwke"
+	dynasty = 1010016009
+	religion = pampas_pagan
+	culture = chon
+	father = 324166
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+324168 = {
+	name = "Nahuel"
+	dynasty = 1010016009
+	religion = pampas_pagan
+	culture = chon
+	father = 324167
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}

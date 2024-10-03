@@ -1,0 +1,28 @@
+# 1444 - Si
+
+# County Title
+title = c_si
+
+# Settlements
+max_settlements = 7
+b_lakjang = castle
+b_ghanom = city
+b_ianxsrii = city
+b_yengxansi = city
+b_triungngruk = temple
+b_sjeuhlim = temple #buddhist
+#b_kyungx =
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+25.1.1 = {
+build_wonder = wonder_university
+set_wonder_stage = 1
+set_wonder_name = GUOZIJIANUNIVERSITY
+set_wonder_description = GUOZIJIANUNIVERSITYDESC
+build_wonder_upgrade = upgrade_great_seminars
+build_wonder_upgrade = upgrade_wing_of_stewardship
+}

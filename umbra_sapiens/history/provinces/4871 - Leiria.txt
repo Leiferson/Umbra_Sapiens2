@@ -1,0 +1,24 @@
+# County Title
+title = c_leiria
+
+# Settlements
+max_settlements = 5
+b_leiria = castle
+b_leiria-ii = temple
+#b_leiria-iii = city
+#b_leiria-iv = castle
+#b_leiria-v = temple
+# Misc
+culture = visigothic
+religion = catholic
+terrain = forest
+# History
+
+944.1.1 = {
+	culture = andalusian_arabic
+	religion = sunni
+}
+1135.1.1 = {
+	culture = portuguese
+	religion = catholic
+}

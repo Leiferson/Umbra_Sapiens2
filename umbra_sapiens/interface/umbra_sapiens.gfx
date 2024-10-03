@@ -1,0 +1,130 @@
+spriteTypes = {
+spriteType = {
+  name = "GFX_trait_nanzenji_buddhist"
+  texturefile = "gfx/traits/zen.tga"
+}
+spriteType = {
+  name = "GFX_trait_enryakuji_buddhist"
+  texturefile = "gfx/traits/enryaku-ji_buddhist.tga"
+}
+spriteType = {
+  name = "GFX_trait_koyasan_buddhist"
+  texturefile = "gfx/traits/shingon.tga"
+}
+spriteType = {
+  name = "GFX_trait_nichiren_buddhist"
+  texturefile = "gfx/traits/nichiren_buddhist.tga"
+}
+spriteType = {
+  name = "GFX_trait_todaiji_buddhist"
+  texturefile = "gfx/traits/todai-ji_buddhist.tga"
+}
+spriteType = {
+  name = "GFX_trait_jodoshinshu_buddhist"
+  texturefile = "gfx/traits/amida.tga"
+}
+spriteType = {
+  name = "GFX_trait_beopseong_buddhist"
+  texturefile = "gfx/traits/beopseong.tga"
+}
+spriteType = {
+  name = "GFX_trait_beopsang_buddhist"
+  texturefile = "gfx/traits/beopsang.tga"
+}
+spriteType = {
+  name = "GFX_trait_gyeyul_buddhist"
+  texturefile = "gfx/traits/gyeyul.tga"
+}
+spriteType = {
+  name = "GFX_trait_seon_buddhist"
+  texturefile = "gfx/traits/seon.tga"
+}
+spriteType = {
+  name = "GFX_trait_yeolban_buddhist"
+  texturefile = "gfx/traits/yeolban.tga"
+}
+spriteType = {
+  name = "GFX_trait_wonyung_buddhist"
+  texturefile = "gfx/traits/wonyung.tga"
+}
+spriteType = {
+  name = "GFX_trait_neo_confucian"
+  texturefile = "gfx/traits/confucian.tga"
+}
+spriteType = {
+  name = "GFX_trait_zhengyi_taoist"
+  texturefile = "gfx/traits/zhengyi.tga"
+}
+spriteType = {
+  name = "GFX_trait_quanzhen_taoist"
+  texturefile = "gfx/traits/quanzhen.tga"
+}
+spriteType = {
+  name = "GFX_trait_shanqing_taoist"
+  texturefile = "gfx/traits/shanqing.tga"
+}
+spriteType = {
+  name = "GFX_trait_tiantai_buddhist"
+  texturefile = "gfx/traits/tiantai.tga"
+}
+spriteType = {
+  name = "GFX_trait_huayan_buddhist"
+  texturefile = "gfx/traits/huayan.tga"
+}
+spriteType = {
+  name = "GFX_trait_jingtuzong_buddhist"
+  texturefile = "gfx/traits/jingtuzong.tga"
+}
+spriteType = {
+  name = "GFX_trait_chan_buddhist"
+  texturefile = "gfx/traits/chan.tga"
+}
+spriteType = {
+  name = "GFX_trait_ronin"
+  texturefile = "gfx/traits/ronin.tga"
+}
+spriteType = {
+  name = "GFX_trait_kuge"
+  texturefile = "gfx/traits/kuge.tga"
+}
+spriteType = {
+		name = "GFX_repress_buddhists"
+		texturefile = "gfx\\interface\\decision_icon_school_tao.dds"
+}
+spriteType = {
+		name = "GFX_unrepress_buddhists"
+		texturefile = "gfx\\interface\\decision_icon_school_tao.dds"
+}
+spriteType = {
+  name = "GFX_trait_tongsheng"
+  texturefile = "gfx/traits/tongsheng.tga"
+}
+spriteType = {
+  name = "GFX_trait_shengyuan"
+  texturefile = "gfx/traits/shengyuan.tga"
+}
+spriteType = {
+  name = "GFX_trait_juren"
+  texturefile = "gfx/traits/juren.tga"
+}
+spriteType = {
+  name = "GFX_trait_gongshi"
+  texturefile = "gfx/traits/gongshi.tga"
+}
+spriteType = {
+  name = "GFX_trait_jinshi"
+  texturefile = "gfx/traits/jinshi.tga"
+}
+spriteType = {
+  name = "GFX_trait_military_juren"
+  texturefile = "gfx/traits/military_juren.tga"
+}
+spriteType = {
+  name = "GFX_trait_military_gongshi"
+  texturefile = "gfx/traits/military_gongshi.tga"
+}
+spriteType = {
+  name = "GFX_trait_military_jinshi"
+  texturefile = "gfx/traits/military_jinshi.tga"
+}
+}

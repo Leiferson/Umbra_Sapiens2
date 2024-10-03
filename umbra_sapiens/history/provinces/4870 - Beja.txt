@@ -1,0 +1,31 @@
+# County Title
+title = c_beja
+
+# Settlements
+max_settlements = 6
+b_beja = castle
+b_beja-ii = temple
+b_beja-iii = city
+#b_beja-iv = castle
+#b_beja-v = temple
+#b_beja-vi = castle
+# Misc
+culture = portuguese
+religion = catholic
+
+# History
+# Misc
+culture = visigothic
+religion = catholic
+
+# History
+
+939.1.1 = {
+	culture = andalusian_arabic
+	religion = sunni
+}
+
+1162.1.1 = {
+	culture = portuguese
+	religion = catholic
+}

@@ -1,0 +1,29 @@
+# 1192 - Prambanan
+
+# County Title
+title = c_prambanan
+
+# Settlements
+max_settlements = 6
+b_ratu_boko = castle
+b_prambanan = city
+b_mataram = temple
+b_banguntapan = castle
+#b_depok =
+#b_pleret =
+#b_piyungan =
+#b_berbah =
+
+# Misc
+culture = javanese
+religion = java_religion
+
+# History
+850.1.1 = {
+build_wonder = wonder_temple_hindu
+set_wonder_stage = 1
+set_wonder_name = PrambananTEMPLE
+set_wonder_description = PrambananTEMPLEDESC
+build_wonder_upgrade = upgrade_temple_complex
+build_wonder_upgrade = upgrade_mandapa
+}

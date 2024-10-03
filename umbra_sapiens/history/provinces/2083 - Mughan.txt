@@ -1,0 +1,18 @@
+# 1583 - Mughan
+
+# County Title
+title = c_mughan
+
+# Settlements
+max_settlements = 3
+b_germi = castle
+b_lankaran = city
+b_masally = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History
+789.1.1 = { religion = sunni }
+1259.1.1 = { religion = shiite }

@@ -1,0 +1,542 @@
+e_poly = {
+	color= { 175 25 25 }
+	color2= { 0 0 0  }
+	color={ 135 94 99 }
+	color2={ 220 220 220 }
+	allow={
+	is_colonial = no
+	}
+	k_hawaii = {
+		color={ 32 34 220 }
+		color2={ 0 0 0 }
+		
+		capital = 4067 #Hawaii
+		#creation_requires_capital = no
+		
+		
+		d_hawaii = {
+
+			color={ 200 140 115 }
+			color2={ 220 220 220 }
+			
+			capital = 4067 #Hawaii
+			
+			c_hawaii = {
+
+				color={ 85 21 147 }
+				color2={ 220 220 220 }
+				
+				b_hawaii = {
+				}
+				b_hawaii-ii = {
+				}
+				b_hawaii-iii = {
+				}
+			}
+			
+			c_maui = {
+
+				color={ 85 21 147 }
+				color2={ 220 220 220 }
+				
+				b_maui = {
+				}
+				b_maui-ii = {
+				}
+				b_maui-iii = {
+				}
+			}
+			
+			c_kalawao = {
+
+				color={ 120 44 188 }
+				color2={ 220 220 220 }
+				
+				b_kalawao = {
+				}
+				b_kalawao-ii = {
+				}
+				b_kalawao-iii = {
+				}
+			}
+		}
+		d_polynisea = {
+
+			color={ 9 160 138 }
+			color2={ 2 4 99 }
+			
+			capital = 4787 #papeete
+			
+			c_leeward = {
+
+				color={ 192 8 37 }
+				color2={ 220 220 220 }
+				
+				b_tahaa = {
+				}
+				b_maupiti = {
+				}
+				b_bora_bora = {
+				}
+			}
+			   c_kiribati = {
+				color= { 172 57 167 }
+				color2= { 0 0 0  }
+				b_kiribati = {}
+						} 
+			c_hanga_roa = {
+
+				color={ 195 3 102 }
+				color2={ 220 220 220 }
+				
+				b_hanga_roa = {
+				}
+				}
+				c_pitcairn = {
+
+				color={ 195 3 102 }
+				color2={ 220 220 220 }
+				
+				b_pitcairn = {
+				}
+				b_henderson = {
+				}
+				b_oeno = {
+					}
+				}
+				c_marquesas = {
+
+				color={ 195 3 102 }
+				color2={ 220 220 220 }
+				
+				b_hiva_oa = {
+				}
+				b_fatu_hiva = {
+				}
+				b_nuku_hiva = {
+					}
+				}
+				c_papeete = {
+
+				color={ 195 3 102 }
+				color2={ 220 220 220 }
+				
+				b_papeete = {
+				}
+				b_taiarapu = {
+				}
+				b_moorea = {
+					}
+				b_maiao = {
+					}	
+				}
+			}
+		d_honolulu = {
+
+			color={ 9 160 138 }
+			color2={ 2 4 99 }
+			
+			capital = 4067 #Hawaii
+			
+			c_honolulu = {
+
+				color={ 192 8 37 }
+				color2={ 220 220 220 }
+				
+				b_honolulu = {
+				}
+				b_honolulu-ii = {
+				}
+				b_honolulu-iii = {
+				}
+			}
+			
+			c_kaua'i = {
+
+				color={ 195 3 102 }
+				color2={ 220 220 220 }
+				
+				b_kaua'i = {
+				}
+				b_kaua'i-ii = {
+				}
+				b_kaua'i-iii = {
+					}
+				}
+			}
+}
+	k_new_zealand = { #
+
+		color={ 14 53 191 }
+		color2={ 255 255 255 }
+
+		capital = 3416 #
+
+		d_chridun = { #
+
+			color={ 203 23 97 }
+			color2={ 255 255 255 }
+
+			capital = 3415 # Piuk
+
+			c_dunedin = {
+
+				color={ 143 33 17 }
+				color2={ 255 255 255 }
+
+				b_dunedin = {
+				}
+				b_waikiwi = {
+				}
+				b_mataura = {
+				}
+			}
+			c_motumaha = {
+
+				color={ 4 60 40 }
+				color2={ 255 255 255 }
+
+				b_motumaha = {
+				}
+			}
+			c_poteniferi = {
+
+				color={ 53 93 137 }
+				color2={ 255 255 255 }
+
+				b_poteniferi = {
+				}
+				b_dujangereph = {
+				}
+				b_wasmaroph = {
+				}
+			}
+			c_oamaru = {
+
+				color={ 63 13 147 }
+				color2={ 255 255 255 }
+
+				b_oamaru = {
+				}
+				b_mossburn = {
+				}
+				b_kingston = {
+				}
+				b_mosgiek = {
+				}
+			}
+			c_christchurch = {
+
+				color={ 183 33 67 }
+				color2={ 255 255 255 }
+
+				b_christchurch = {
+				}
+				b_timaru = {
+				}
+				b_greymouth = {
+				}
+				b_blenheimm = {
+				}
+			}
+			c_twizel = {
+
+				color={ 13 213 167 }
+				color2={ 255 255 255 }
+
+				holy_site = maori_religion
+				holy_site = maori_religion_reformed
+
+				b_twizel = {
+				}
+				b_collingwood = {
+				}
+				b_blenheim = {
+				}
+				b_reefton = {
+				}
+			}
+			c_ashburton = {
+
+				color={ 53 76 193 }
+				color2={ 255 255 255 }
+
+				b_ashburton = {
+				}
+				b_weprawsen = {
+				}
+				b_jairoptan = {
+				}
+			}
+		}
+		d_wellauck = { 
+
+			color={ 214 134 146 }
+			color2={ 255 255 255 }
+
+			capital = 3416 
+
+			c_wellington = {
+
+				color={ 36 176 133 }
+				color2={ 255 255 255 }
+
+				holy_site = dreamtime_religion
+				holy_site = dreamtime_religion_reformed
+				holy_site = maori_religion
+				holy_site = maori_religion_reformed
+
+				b_wellington = {
+				}
+				b_lower_hutt = {
+				}
+				b_upper_hutt = {
+				}
+				b_masterton = {
+				}
+			}
+			c_wanganui = {
+
+				color={ 226 36 183 }
+				color2={ 255 255 255 }
+
+				b_wanganui = {
+				}
+				b_levin = {
+				}
+				b_feilding = {
+				}
+				b_new_plymouth = {
+				}
+			}
+			c_auckland = {
+
+				color={ 43 49 179 }
+				color2={ 255 255 255 }
+
+				b_aucklandd = {
+				}
+				b_manukau = {
+				}
+				b_hamilton = {
+				}
+				b_tauranga = {
+				}
+			}
+			c_napier = {
+
+				color={ 143 19 124 }
+				color2={ 255 255 255 }
+
+				b_napier = {
+				}
+				b_wakatane = {
+				}
+				b_gisborne = {
+				}
+			}
+			c_whangarei = {
+
+				color={ 255 224 112 }
+				color2={ 255 255 255 }
+
+				b_whangarei = {
+				}
+				b_whangarei-ii = {
+				}
+				b_whangarei-iii = {
+				}
+			}
+			c_rekohu = {
+
+				color={ 143 79 56 }
+				color2={ 255 255 255 }
+
+				b_rekohu = {
+				}
+				b_rekohu-ii = {
+				}
+				b_rekohu-iii = {
+				}
+			}
+		}
+	}
+	k_poly = {
+	color= { 165 35 35 }
+	color2= { 0 0 0  }
+	  d_micronesia = {
+	  color= { 60 40 30 }
+	  color2= { 0 0 0  }
+	  c_palau = {
+	  color= { 172	42	37 }
+	  color2= { 0 0 0  }
+	  b_melekeok = {}
+	  b_koror = {}
+	  b_sonsoral = {}
+	  b_merir = {}
+	  }
+	  c_micronesia = {
+	  color= { 4 45	165 }
+	  color2= { 0 0 0  }
+	  b_micronesia = {}
+	  b_mokil = {}
+	  b_pingelap = {}
+	  b_ettal = {}
+	  }
+	  c_nauru = {
+	  color= { 88 51 166 }
+	  color2= { 0 0 0  }
+	  b_nauru = {}
+	  }
+	  c_marshall = {
+	  color= { 46 48 38 }
+	  color2= { 0 0 0  }
+	  b_ailinglaplap = {}
+	  b_namu = {}
+	  b_wotje = {}
+	  b_molealap = {}
+	  }
+	  c_tokelau = {
+	  color= { 130 54 39 }
+	  color2= { 0 0 0  }
+	  b_tokelau = {}
+	  }
+		c_guam = {
+	  color= { 130 39 164 }
+	  color2= { 0 0 0  }
+	  b_guam = {}
+	  b_sinapalu = {}
+	  b_saipan = {}
+	  b_tinian = {}
+	  } 	  
+	  }
+	d_rabara = {
+
+   			color= { 169 35 42 }
+    			color2= { 0 0 0  }
+
+			capital = 3396 #Tidore
+
+			c_rabaul = {
+
+   				color= { 59 165 30 }
+    				color2= { 0 0 0  }
+
+				holy_site = maori_religion
+				holy_site = maori_religion_reformed
+
+				b_rabaul = {
+				}
+				b_talasea = {
+				}
+				b_wasum = {
+				}
+				b_kandrian = {
+				}
+				b_nukuhu = {
+				}
+				b_gloucesterr = {
+				}
+				b_gasmata = {
+				}
+				b_kerawat = {
+				}
+			}
+			c_arawa = {
+
+   				color= { 149 115 60 }
+    				color2= { 0 0 0  }
+
+				b_arawa = {
+				}
+				b_kavieng = {
+				}
+				b_konos = {
+				}
+				b_namatanal = {
+				}
+				b_kieta = {
+				}
+				b_buin = {
+				}
+				b_sahano = {
+				}
+				b_torokina = {
+				}
+			}
+		}
+		d_vasucasatu = {
+
+   			color= { 139 50 40 }
+    			color2= { 0 0 0  }
+
+			capital = 3569 #Ternate
+
+			c_vanuatu = {
+
+   				color= { 59 130 210 }
+    				color2= { 0 0 0  }
+					
+				b_vanuatu = {
+				}
+				b_loarappa = {
+				}
+			}
+			c_suvaa = {
+
+   				color= { 19 70 180 }
+    				color2= { 0 0 0  }
+
+				b_suvaa = {
+				}
+				b_zeiolala = {
+				}
+				b_resontaila = {
+				}
+			}
+			c_caledonia = {
+
+   				color= { 119 40 190 }
+    				color2= { 0 0 0  }
+
+				b_caledonia = {
+				}
+				b_cunponta = {
+				}
+			}
+			c_samoa = {
+
+   				color= { 89 190 30 }
+    				color2= { 0 0 0  }
+
+				holy_site = maori_religion
+				holy_site = maori_religion_reformed
+					
+				b_samoa = {
+				}
+				b_eromlarp = {
+				}
+			}
+			c_tuvalu = {
+
+   				color= { 169 10 130 }
+    				color2= { 0 0 0  }
+
+				b_tuvalu = {
+				}
+				b_utuyunapam = {
+				}
+			}
+			c_tonga = {
+
+   				color= { 29 40 80 }
+    				color2= { 0 0 0  }
+
+				b_tonga = {
+				}
+				b_vuvandapala = {
+				}
+			}
+		}
+	}
+	}

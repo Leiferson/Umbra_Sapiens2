@@ -1,0 +1,5346 @@
+1019931245={
+	name=Jaona
+	dynasty=1009990279
+	dna="ohpceaclbak"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	add_trait=martial_cleric add_trait=craven add_trait=paranoid add_trait=patient add_trait=gregarious 
+	640.1.22={ birth=yes }
+	702.3.17={ death=yes }
+}
+1019931246={
+	name=Andrianjaka
+	dynasty=1009990279
+	dna="ahpcgalgpai"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=4
+	add_trait=martial_cleric add_trait=impaler add_trait=just add_trait=gluttonous add_trait=cynical 
+	add_trait=ill add_trait=possessed 
+	father=1019931245	#Jaona
+	661.9.23={ birth=yes }
+	714.12.27={ death=yes }
+}
+1019931247={
+	name=Rasoherina
+	female=yes
+	dynasty=1009990279
+	dna="obiceaclbmk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931245	#Jaona
+	669.9.6={ birth=yes }
+	744.3.23={ death=yes }
+}
+1019931248={
+	name=Norovelomampionona
+	female=yes
+	dynasty=1009990279
+	dna="ahmcekodbbk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931245	#Jaona
+	673.2.15={ birth=yes }
+	730.5.8={ death=yes }
+}
+1019931249={
+	name=Faneva
+	dynasty=1009990279
+	dna="adpcgolppai"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=8
+	add_trait=scholarly_theologian add_trait=deceitful add_trait=patient add_trait=craven add_trait=slothful 
+	father=1019931246	#Andrianjaka
+	692.6.5={ birth=yes }
+	778.8.10={ death=yes }
+}
+1019931250={
+	name=Arisoa
+	female=yes
+	dynasty=1009990279
+	dna="jkplgadghai"
+	culture=vazimba religion=west_african_pagan
+	father=1019931246	#Andrianjaka
+	698.7.6={ birth=yes }
+	780.1.17={ death=yes }
+}
+1019931251={
+	name=Andriamasinavalona
+	dynasty=1009990279
+	dna="omapaalgpai"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=8 learning=6
+	add_trait=flamboyant_schemer add_trait=chaste add_trait=patient add_trait=greedy 
+	father=1019931246	#Andrianjaka
+	704.8.27={ birth=yes }
+	792.4.9={ death=yes }
+}
+1019931252={
+	name=Naina
+	female=yes
+	dynasty=1009990279
+	dna="ahpcedlcpji"
+	culture=vazimba religion=west_african_pagan
+	father=1019931246	#Andrianjaka
+	708.2.7={ birth=yes }
+	761.8.3={ death=yes }
+}
+1019931253={
+	name=Tombovelo
+	dynasty=1009990279
+	dna="nbpciojpeao"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=zealous add_trait=just add_trait=humble add_trait=honest 
+	add_trait=ambitious 
+	father=1019931249	#Faneva
+	720.12.15={ birth=yes }
+	776.10.21={ death=yes }
+}
+1019931254={
+	name=Rano
+	dynasty=1009990279
+	dna="addogneapai"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=8 learning=6
+	add_trait=tough_soldier add_trait=lustful add_trait=paranoid add_trait=proud add_trait=gluttonous 
+	father=1019931249	#Faneva
+	725.10.3={ birth=yes }
+	774.2.25={ death=yes }
+}
+1019931255={
+	name=Lalao
+	female=yes
+	dynasty=1009990279
+	dna="ckpcpillhab"
+	culture=vazimba religion=west_african_pagan
+	father=1019931249	#Faneva
+	729.10.2={ birth=yes }
+	786.5.16={ death=yes }
+}
+1019931256={
+	name=Volana
+	female=yes
+	dynasty=1009990279
+	dna="adbbnoleppo"
+	culture=vazimba religion=west_african_pagan
+	father=1019931249	#Faneva
+	734.8.4={ birth=yes }
+	788.3.5={ death=yes }
+}
+1019931257={
+	name=Andrianary
+	dynasty=1009990279
+	dna="lagcgdmmpki"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	add_trait=flamboyant_schemer add_trait=ambitious add_trait=trusting  add_trait=charitable 
+	add_trait=stressed 
+	father=1019931249	#Faneva
+	739.11.12={ birth=yes }
+	812.7.18={ death=yes }
+}
+1019931258={
+	name=Andrianampoinimerina
+	dynasty=1009990279
+	dna="idmllofppac"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=5
+	add_trait=naive_appeaser add_trait=trusting add_trait=lustful add_trait=temperate add_trait=wounded 
+	father=1019931249	#Faneva
+	742.10.1={ birth=yes }
+	795.10.11={ death=yes }
+}
+1019931259={
+	name=Andriantsimitoviaminandriandehibe
+	dynasty=1009990279
+	dna="ngpicggcdao"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=6
+	add_trait=midas_touched add_trait=patient add_trait=honest 
+	father=1019931253	#Tombovelo
+	745.6.7={ birth=yes }
+	805.4.17={ death=yes }
+}
+1019931260={
+	name=Tsiky
+	female=yes
+	dynasty=1009990279
+	dna="kbiciiipboh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931253	#Tombovelo
+	752.6.20={ birth=yes }
+	834.8.9={ death=yes }
+}
+1019931261={
+	name=Naina
+	female=yes
+	dynasty=1009990279
+	dna="gepcgoclpag"
+	culture=vazimba religion=west_african_pagan
+	father=1019931253	#Tombovelo
+	756.8.15={ birth=yes }
+	846.1.1={ death=yes }
+}
+1019931262={
+	name=Tsilavohery
+	dynasty=1009990279
+	dna="ilbpkompman"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=5 learning=6
+	add_trait=naive_appeaser add_trait=ambitious add_trait=diligent add_trait=envious 
+	add_trait=gregarious 
+	father=1019931253	#Tombovelo
+	760.6.26={ birth=yes }
+	816.2.10={ death=yes }
+}
+1019931263={
+	name=Jaona
+	dynasty=1009990279
+	dna="ngpndjecemh"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=6 learning=8
+	add_trait=charismatic_negotiator add_trait=patient add_trait=gluttonous add_trait=cynical add_trait=gregarious 
+	add_trait=proud 
+	father=1019931259	#Andriantsimitoviaminandriandehibe
+	773.10.19={ birth=yes }
+	860.2.26={ death=yes }
+}
+1019931264={
+	name=Andriamanelo
+	dynasty=1009990279
+	dna="jefgcgkcddh"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	add_trait=flamboyant_schemer add_trait=humble add_trait=honest add_trait=craven 
+	father=1019931259	#Andriantsimitoviaminandriandehibe
+	781.1.6={ birth=yes }
+	862.3.5={ death=yes }
+}
+1019931265={
+	name=Tombovelo
+	dynasty=1009990279
+	dna="ncpndjpegdg"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=honest add_trait=cynical 
+	father=1019931263	#Jaona
+	803.5.4={ birth=yes }
+	865.7.10={ death=yes }
+}
+1019931266={
+	name=Andrianasy
+	dynasty=1009990279
+	dna="ngpfdnejjoh"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=7 learning=7
+	add_trait=misguided_warrior add_trait=slothful add_trait=greedy add_trait=gluttonous add_trait=cynical 
+	father=1019931263	#Jaona
+	806.3.13={ birth=yes }
+	880.10.27={ death=yes }
+}
+1019931267={
+	name=Andrianjafynandriamanitra
+	dynasty=1009990279
+	dna="hgigdkipech"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=brave add_trait=charitable add_trait=chaste add_trait=honest 
+	add_trait=shy add_trait=zealous add_trait=drunkard 
+	father=1019931263	#Jaona
+	810.5.23={ birth=yes }
+	913.9.8={ death=yes }
+}
+1019931268={
+	name=Andriambelomasina
+	dynasty=1009990279
+	dna="ecepdjkegdg"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=7
+	add_trait=mastermind_theologian add_trait=slothful add_trait=trusting add_trait=wroth add_trait=shy 
+	add_trait=honest 
+	father=1019931265	#Tombovelo
+	830.9.10={ birth=yes }
+	902.2.9={ death=yes }
+}
+1019931269={
+	name=Rafohy
+	female=yes
+	dynasty=1009990279
+	dna="gkpadgdgcdb"
+	culture=vazimba religion=west_african_pagan
+	father=1019931265	#Tombovelo
+	834.7.13={ birth=yes }
+	898.2.11={ death=yes }
+}
+1019931270={
+	name=Niaina
+	dynasty=1009990279
+	dna="nchnhkpjgla"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	add_trait=tough_soldier  add_trait=shy add_trait=greedy 
+	father=1019931265	#Tombovelo
+	842.8.4={ birth=yes }
+	906.2.18={ death=yes }
+}
+1019931271={
+	name=Nambinintsoa
+	female=yes
+	dynasty=1009990279
+	dna="ncmkdophndh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931265	#Tombovelo
+	848.3.1={ birth=yes }
+	904.5.22={ death=yes }
+}
+1019931272={
+	name=Andriantsimitoviaminandriana
+	dynasty=1009990279
+	dna="ojhammkeddg"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=7 learning=8
+	add_trait=charismatic_negotiator add_trait=celibate add_trait=charitable add_trait=slothful add_trait=gregarious 
+	add_trait=arbitrary add_trait=proud 
+	father=1019931268	#Andriambelomasina
+	860.7.3={ birth=yes }
+	929.7.3={ death=yes }
+}
+1019931273={
+	name=Andriamanelo
+	dynasty=1009990279
+	dna="lpephakbgdg"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=6
+	add_trait=charismatic_negotiator add_trait=honest add_trait=content 
+	father=1019931268	#Andriambelomasina
+	863.7.10={ birth=yes }
+	929.4.30={ death=yes }
+}
+1019931274={
+	name=Tsiory
+	dynasty=1009990279
+	dna="aipldbbnlpg"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=4
+	add_trait=midas_touched add_trait=brave add_trait=zealous add_trait=deceitful add_trait=patient 
+	add_trait=paranoid add_trait=lustful add_trait=harelip 
+	father=1019931268	#Andriambelomasina
+	868.1.3={ birth=yes }
+	931.7.3={ death=yes }
+}
+1019931275={
+	name=Nantenaina
+	female=yes
+	dynasty=1009990279
+	dna="bgehcfkagdg"
+	culture=vazimba religion=west_african_pagan
+	father=1019931268	#Andriambelomasina
+	871.12.10={ birth=yes }
+	936.2.12={ death=yes }
+}
+1019931276={
+	name=Nyantsa
+	female=yes
+	dynasty=1009990279
+	dna="lebpojbabgg"
+	culture=vazimba religion=west_african_pagan
+	father=1019931268	#Andriambelomasina
+	875.10.22={ birth=yes }
+	954.6.17={ death=yes }
+}
+1019931277={
+	name=Andriantsimitoviaminandriandehibe
+	dynasty=1009990279
+	dna="efegnpkeidh"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	add_trait=misguided_warrior add_trait=temperate add_trait=greedy 
+	father=1019931268	#Andriambelomasina
+	880.1.22={ birth=yes }
+	951.11.13={ death=yes }
+}
+1019931278={
+	name=Mbolatiana
+	female=yes
+	dynasty=1009990279
+	dna="acaadaekgai"
+	culture=vazimba religion=west_african_pagan
+	father=1019931268	#Andriambelomasina
+	884.10.20={ birth=yes }
+	948.1.9={ death=yes }
+}
+1019931279={
+	name=Razafitiana
+	dynasty=1009990279
+	dna="oehbikjcddg"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=gregarious add_trait=zealous add_trait=charitable 
+	add_trait=chaste 
+	father=1019931272	#Andriantsimitoviaminandriana
+	883.1.21={ birth=yes }
+	962.2.23={ death=yes }
+}
+1019931280={
+	name=Ralambo
+	dynasty=1009990279
+	dna="ljkdimffdbp"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=humble add_trait=chaste 
+	father=1019931272	#Andriantsimitoviaminandriana
+	888.9.1={ birth=yes }
+	969.11.3={ death=yes }
+}
+1019931281={
+	name=Toavina
+	dynasty=1009990279
+	dna="djhafmnaddg"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=4 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=content add_trait=brave add_trait=wroth 
+	add_trait=honest add_trait=paranoid 
+	father=1019931272	#Andriantsimitoviaminandriana
+	896.9.21={ birth=yes }
+	971.11.5={ death=yes }
+}
+1019931282={
+	name=Nandrianina
+	female=yes
+	dynasty=1009990279
+	dna="pcjelmhdddn"
+	culture=vazimba religion=west_african_pagan
+	father=1019931272	#Andriantsimitoviaminandriana
+	903.10.5={ birth=yes }
+	980.2.13={ death=yes }
+}
+1019931283={
+	name=Jaona
+	dynasty=1009990279
+	dna="ojhaidjomli"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=trusting add_trait=zealous add_trait=gregarious add_trait=charitable 
+	father=1019931279	#Razafitiana
+	903.12.5={ birth=yes }
+	980.4.9={ death=yes }
+}
+1019931284={
+	name=Hanta
+	female=yes
+	dynasty=1009990279
+	dna="oghbiajcdhg"
+	culture=vazimba religion=west_african_pagan
+	father=1019931279	#Razafitiana
+	908.10.10={ birth=yes }
+	964.3.24={ death=yes }
+}
+1019931285={
+	name=Maeva
+	female=yes
+	dynasty=1009990279
+	dna="phpoikjccdc"
+	culture=vazimba religion=west_african_pagan
+	father=1019931279	#Razafitiana
+	914.9.13={ birth=yes }
+	996.7.24={ death=yes }
+}
+1019931286={
+	name=Riantsoa
+	female=yes
+	dynasty=1009990279
+	dna="jjjlihfohpm"
+	culture=vazimba religion=west_african_pagan
+	father=1019931283	#Jaona
+	930.4.14={ birth=yes }
+	986.4.8={ death=yes }
+}
+1019931287={
+	name=Andrianary
+	dynasty=1009990279
+	dna="djbjibpomll"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=zealous  add_trait=content add_trait=trusting 
+	add_trait=greedy add_trait=chaste add_trait=wounded 
+	father=1019931283	#Jaona
+	938.11.8={ birth=yes }
+	995.3.30={ death=yes }
+}
+1019931288={
+	name=Andrianasy
+	dynasty=1009990279
+	dna="oahjjkdocai"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=5
+	add_trait=midas_touched add_trait=gluttonous add_trait=craven add_trait=honest  
+	add_trait=chaste 
+	father=1019931283	#Jaona
+	943.1.6={ birth=yes }
+	999.9.30={ death=yes }
+}
+1019931289={
+	name=Rano
+	dynasty=1009990279
+	dna="ojpeedjmagm"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=content add_trait=proud add_trait=charitable add_trait=zealous 
+	add_trait=diligent add_trait=stressed 
+	father=1019931283	#Jaona
+	950.11.3={ birth=yes }
+	1007.12.16={ death=yes }
+}
+1019931290={
+	name=Narisoa
+	dynasty=1009990279
+	dna="djbjhbcdjam"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=greedy add_trait=just add_trait=trusting add_trait=gluttonous 
+	add_trait=slothful add_trait=humble 
+	father=1019931287	#Andrianary
+	965.12.12={ birth=yes }
+	1038.6.18={ death=yes }
+}
+1019931291={
+	name=Mbolatiana
+	female=yes
+	dynasty=1009990279
+	dna="aimjibpodll"
+	culture=vazimba religion=west_african_pagan
+	father=1019931287	#Andrianary
+	969.4.13={ birth=yes }
+	1052.12.8={ death=yes }
+}
+1019931292={
+	name=Mbolatiana
+	female=yes
+	dynasty=1009990279
+	dna="kjbjcipamol"
+	culture=vazimba religion=west_african_pagan
+	father=1019931287	#Andrianary
+	975.1.13={ birth=yes }
+	1043.10.15={ death=yes }
+}
+1019931293={
+	name=Sedera
+	dynasty=1009990279
+	dna="kjnjibkgjcj"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	add_trait=skilled_tactician add_trait=honest add_trait=gregarious add_trait=content add_trait=craven 
+	father=1019931287	#Andrianary
+	981.3.22={ birth=yes }
+	1043.3.12={ death=yes }
+}
+1019931294={
+	name=Andriantsimitoviaminandriandehibe
+	dynasty=1009990279
+	dna="ejgjhbidfhe"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=temperate add_trait=proud add_trait=slothful add_trait=chaste 
+	add_trait=envious add_trait=zealous 
+	father=1019931290	#Narisoa
+	994.11.4={ birth=yes }
+	1047.4.14={ death=yes }
+}
+1019931295={
+	name=Zafiamiarina
+	dynasty=1009990279
+	dna="daojabilfmo"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=7
+	add_trait=intricate_webweaver add_trait=wroth add_trait=slothful add_trait=humble add_trait=temperate 
+	father=1019931290	#Narisoa
+	997.9.21={ birth=yes }
+	1078.1.23={ death=yes }
+}
+1019931296={
+	name=Vorona
+	female=yes
+	dynasty=1009990279
+	dna="plnlhiddjnm"
+	culture=vazimba religion=west_african_pagan
+	father=1019931290	#Narisoa
+	1003.3.19={ birth=yes }
+	1078.1.20={ death=yes }
+}
+1019931297={
+	name=Maeva
+	female=yes
+	dynasty=1009990279
+	dna="daojlbddmam"
+	culture=vazimba religion=west_african_pagan
+	father=1019931290	#Narisoa
+	1007.6.11={ birth=yes }
+	1088.8.26={ death=yes }
+}
+1019931298={
+	name=Ony
+	female=yes
+	dynasty=1009990279
+	dna="ilbegcoajai"
+	culture=vazimba religion=west_african_pagan
+	father=1019931290	#Narisoa
+	1010.1.23={ birth=yes }
+	1064.7.11={ death=yes }
+}
+1019931299={
+	name=Andrianantoandro
+	dynasty=1009990279
+	dna="mnojhbddfhe"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=zealous add_trait=patient add_trait=content add_trait=honest 
+	add_trait=envious 
+	father=1019931294	#Andriantsimitoviaminandriandehibe
+	1015.4.22={ birth=yes }
+	1098.12.20={ death=yes }
+}
+1019931300={
+	name=Maeva
+	female=yes
+	dynasty=1009990279
+	dna="mjgjdbidplm"
+	culture=vazimba religion=west_african_pagan
+	father=1019931294	#Andriantsimitoviaminandriandehibe
+	1018.5.3={ birth=yes }
+	1099.6.4={ death=yes }
+}
+1019931301={
+	name=Andrianasy
+	dynasty=1009990279
+	dna="nkiphaehppg"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=cynical add_trait=brave add_trait=wroth 
+	father=1019931294	#Andriantsimitoviaminandriandehibe
+	1024.2.24={ birth=yes }
+	1088.12.3={ death=yes }
+}
+1019931302={
+	name=Jaona
+	dynasty=1009990279
+	dna="fdlchbadnne"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=8 learning=7
+	add_trait=grey_eminence add_trait=scholar add_trait=shy add_trait=greedy 
+	father=1019931294	#Andriantsimitoviaminandriandehibe
+	1029.1.8={ birth=yes }
+	1091.1.2={ death=yes }
+}
+1019931303={
+	name=Razafitiana
+	dynasty=1009990279
+	dna="clijjjndgbe"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=8 learning=4
+	add_trait=grey_eminence add_trait=content add_trait=patient add_trait=humble add_trait=arbitrary 
+	add_trait=chaste add_trait=wounded 
+	father=1019931294	#Andriantsimitoviaminandriandehibe
+	1033.3.17={ birth=yes }
+	1103.5.3={ death=yes }
+}
+1019931304={
+	name=Ahitra
+	female=yes
+	dynasty=1009990279
+	dna="edmpkldlhmh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931299	#Andrianantoandro
+	1048.10.15={ birth=yes }
+	1124.8.23={ death=yes }
+}
+1019931305={
+	name=Mamisoa
+	dynasty=1009990279
+	dna="knchnlddfhe"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=zealous add_trait=envious add_trait=charitable add_trait=humble 
+	father=1019931299	#Andrianantoandro
+	1053.12.4={ birth=yes }
+	1123.1.20={ death=yes }
+}
+1019931306={
+	name=Zazaharivelo
+	dynasty=1009990279
+	dna="lnojmiddfje"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=proud add_trait=charitable add_trait=gluttonous  
+	add_trait=craven 
+	father=1019931299	#Andrianantoandro
+	1059.11.25={ birth=yes }
+	1110.12.15={ death=yes }
+}
+1019931307={
+	name=Tombovelo
+	dynasty=1009990279
+	dna="macggbddanf"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	add_trait=misguided_warrior add_trait=honest add_trait=humble add_trait=greedy 
+	father=1019931299	#Andrianantoandro
+	1066.6.2={ birth=yes }
+	1128.1.11={ death=yes }
+}
+1019931308={
+	name=Nambinintsoa
+	female=yes
+	dynasty=1009990279
+	dna="ffkiklhdjaf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931305	#Mamisoa
+	1082.12.24={ birth=yes }
+	1160.5.30={ death=yes }
+}
+1019931309={
+	name=Arisoa
+	female=yes
+	dynasty=1009990279
+	dna="ancfnlbdpdf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931305	#Mamisoa
+	1085.11.6={ birth=yes }
+	1160.8.7={ death=yes }
+}
+1019931310={
+	name=Andrianjafynandriamanitra
+	dynasty=1009990279
+	dna="endhnmmofhj"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=detached_priest add_trait=gluttonous add_trait=zealous  
+	add_trait=patient add_trait=charitable 
+	father=1019931305	#Mamisoa
+	1090.3.14={ birth=yes }
+	1147.6.18={ death=yes }
+}
+1019931311={
+	name=Rangita
+	female=yes
+	dynasty=1009990279
+	dna="kjcbnhkflbb"
+	culture=vazimba religion=west_african_pagan
+	father=1019931305	#Mamisoa
+	1094.6.3={ birth=yes }
+	1170.5.20={ death=yes }
+}
+1019931312={
+	name=Maeva
+	female=yes
+	dynasty=1009990279
+	dna="knhhgbmnclg"
+	culture=vazimba religion=west_african_pagan
+	father=1019931310	#Andrianjafynandriamanitra
+	1119.11.11={ birth=yes }
+	1206.9.27={ death=yes }
+}
+1019931313={
+	name=Rasoherina
+	female=yes
+	dynasty=1009990279
+	dna="dnkjnlgofnj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931310	#Andrianjafynandriamanitra
+	1125.7.13={ birth=yes }
+	1188.11.1={ death=yes }
+}
+1019931314={
+	name=Rasoherina
+	female=yes
+	dynasty=1009990279
+	dna="fnnfgpmonhg"
+	culture=vazimba religion=west_african_pagan
+	father=1019931310	#Andrianjafynandriamanitra
+	1132.3.7={ birth=yes }
+	1208.8.8={ death=yes }
+}
+1019931315={
+	name=Mamisoa
+	dynasty=1009990279
+	dna="onmonibochj"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	add_trait=grey_eminence add_trait=envious add_trait=charitable add_trait=slothful add_trait=wroth 
+	add_trait=cynical 
+	father=1019931310	#Andrianjafynandriamanitra
+	1139.3.11={ birth=yes }
+	1214.11.5={ death=yes }
+}
+1019931316={
+	name=Oly
+	female=yes
+	dynasty=1009990279
+	dna="onmocimocbf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931315	#Mamisoa
+	1160.4.12={ birth=yes }
+	1216.1.11={ death=yes }
+}
+1019931317={
+	name=Ahitra
+	female=yes
+	dynasty=1009990279
+	dna="dphkpdbdcjj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931315	#Mamisoa
+	1165.8.2={ birth=yes }
+	1233.5.17={ death=yes }
+}
+1019931318={
+	name=Andriantsimitoviaminandriana
+	dynasty=1009990279
+	dna="onmenpbohjj"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=8 learning=7
+	add_trait=intricate_webweaver add_trait=diligent add_trait=greedy add_trait=gregarious add_trait=chaste 
+	add_trait=brave 
+	father=1019931315	#Mamisoa
+	1168.12.15={ birth=yes }
+	1228.8.20={ death=yes }
+}
+1019931319={
+	name=Ahitra
+	female=yes
+	dynasty=1009990279
+	dna="jnmofebochj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931315	#Mamisoa
+	1172.2.15={ birth=yes }
+	1228.6.28={ death=yes }
+}
+1019931320={
+	name=Anziza
+	female=yes
+	dynasty=1009990279
+	dna="dalleibccho"
+	culture=vazimba religion=west_african_pagan
+	father=1019931315	#Mamisoa
+	1175.7.22={ birth=yes }
+	1235.1.26={ death=yes }
+}
+1019931321={
+	name=Lalao
+	female=yes
+	dynasty=1009990279
+	dna="ojlhncbochj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931315	#Mamisoa
+	1180.3.1={ birth=yes }
+	1251.9.11={ death=yes }
+}
+1019931322={
+	name=Riantsoa
+	female=yes
+	dynasty=1009990279
+	dna="ojmonhcfcij"
+	culture=vazimba religion=west_african_pagan
+	father=1019931315	#Mamisoa
+	1185.4.5={ birth=yes }
+	1261.3.1={ death=yes }
+}
+1019931323={
+	name=Raharimampionona
+	female=yes
+	dynasty=1009990279
+	dna="ohnenpbhhja"
+	culture=vazimba religion=west_african_pagan
+	father=1019931318	#Andriantsimitoviaminandriana
+	1188.7.11={ birth=yes }
+	1249.4.21={ death=yes }
+}
+1019931324={
+	name=Andriantsimitoviaminandriandehibe
+	dynasty=1009990279
+	dna="jnemipbohdf"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=7 learning=7
+	add_trait=indulgent_wastrel add_trait=diligent add_trait=envious add_trait=humble add_trait=cynical 
+	add_trait=lunatic 
+	father=1019931318	#Andriantsimitoviaminandriana
+	1192.1.11={ birth=yes }
+	1254.4.15={ death=yes }
+}
+1019931325={
+	name=Radama
+	dynasty=1009990279
+	dna="pnemeiboohf"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=8 learning=6
+	add_trait=martial_cleric add_trait=celibate add_trait=slothful add_trait=brave add_trait=envious 
+	add_trait=shy 
+	father=1019931324	#Andriantsimitoviaminandriandehibe
+	1223.10.5={ birth=yes }
+	1306.4.10={ death=yes }
+}
+1019931326={
+	name=Neny
+	female=yes
+	dynasty=1009990279
+	dna="jlmmipbohdi"
+	culture=vazimba religion=west_african_pagan
+	father=1019931324	#Andriantsimitoviaminandriandehibe
+	1231.12.21={ birth=yes }
+	1301.12.21={ death=yes }
+}
+1019931327={
+	name=Andriantsitakatrandriana
+	dynasty=1009990279
+	dna="bpemiobocml"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=7 learning=7
+	add_trait=detached_priest add_trait=paranoid add_trait=lustful add_trait=humble add_trait=shy 
+	add_trait=slothful add_trait=arbitrary 
+	father=1019931324	#Andriantsimitoviaminandriandehibe
+	1233.12.22={ birth=yes }
+	1304.7.8={ death=yes }
+}
+1019931328={
+	name=Tahiry
+	female=yes
+	dynasty=1009990279
+	dna="jnodipbmjkf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931324	#Andriantsimitoviaminandriandehibe
+	1237.7.5={ birth=yes }
+	1315.10.23={ death=yes }
+}
+1019931329={
+	name=Niaina
+	dynasty=1009990279
+	dna="dlamegbjghd"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	add_trait=misguided_warrior add_trait=shy add_trait=diligent add_trait=humble add_trait=deceitful 
+	 
+	father=1019931325	#Radama
+	1251.7.8={ birth=yes }
+	1304.10.2={ death=yes }
+}
+1019931330={
+	name=Lova
+	dynasty=1009990279
+	dna="bpmmeionaeb"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=5 learning=4
+	add_trait=elusive_shadow add_trait=wroth 
+	father=1019931325	#Radama
+	1255.8.4={ birth=yes }
+	1336.12.2={ death=yes }
+}
+1019931331={
+	name=Hamada
+	dynasty=1009990279
+	dna="ibfgcekendh"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=humble add_trait=trusting add_trait=diligent add_trait=honest 
+	add_trait=craven add_trait=ill 
+	father=1019931325	#Radama
+	1258.11.5={ birth=yes }
+	1314.1.2={ death=yes }
+}
+1019931332={
+	name=Riantsoa
+	female=yes
+	dynasty=1009990279
+	dna="padmekbfohf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931325	#Radama
+	1262.2.15={ birth=yes }
+	1335.7.23={ death=yes }
+}
+1019931333={
+	name=Zafiamiarina
+	dynasty=1009990279
+	dna="icpcenbofkf"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=craven add_trait=humble add_trait=charitable 
+	add_trait=content add_trait=arbitrary 
+	father=1019931325	#Radama
+	1266.9.25={ birth=yes }
+	1330.2.20={ death=yes }
+}
+1019931334={
+	name=Vorona
+	female=yes
+	dynasty=1009990279
+	dna="hhecegboohm"
+	culture=vazimba religion=west_african_pagan
+	father=1019931325	#Radama
+	1269.9.10={ birth=yes }
+	1344.7.12={ death=yes }
+}
+1019931335={
+	name=Mirantsoa
+	female=yes
+	dynasty=1009990279
+	dna="dkjmenbobng"
+	culture=vazimba religion=west_african_pagan
+	father=1019931325	#Radama
+	1274.12.10={ birth=yes }
+	1328.1.17={ death=yes }
+}
+1019931336={
+	name=Jaona
+	dynasty=1009990279
+	dna="kdhmegndhed"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=trusting add_trait=charitable add_trait=proud add_trait=diligent 
+	add_trait=envious add_trait=wroth 
+	father=1019931329	#Niaina
+	1273.10.12={ birth=yes }
+	1351.2.10={ death=yes }
+}
+1019931337={
+	name=Andrianantoandro
+	dynasty=1009990279
+	dna="dfalegmcghe"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=shy add_trait=proud add_trait=honest 
+	father=1019931329	#Niaina
+	1278.11.4={ birth=yes }
+	1350.3.6={ death=yes }
+}
+1019931338={
+	name=Tovohery
+	dynasty=1009990279
+	dna="iklmfgplhhd"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=6 learning=5
+	add_trait=martial_cleric add_trait=humble add_trait=diligent add_trait=content add_trait=just 
+	add_trait=paranoid 
+	father=1019931336	#Jaona
+	1304.7.5={ birth=yes }
+	1381.11.24={ death=yes }
+}
+1019931339={
+	name=Andriantsimitoviaminandriana
+	dynasty=1009990279
+	dna="kdhaigndhed"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=7 learning=7
+	add_trait=charismatic_negotiator add_trait=gardener add_trait=temperate add_trait=slothful add_trait=just 
+	father=1019931336	#Jaona
+	1310.10.17={ birth=yes }
+	1372.6.17={ death=yes }
+}
+1019931340={
+	name=Andrianary
+	dynasty=1009990279
+	dna="cclefhbmfhl"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=craven add_trait=zealous add_trait=deceitful 
+	father=1019931338	#Tovohery
+	1327.11.25={ birth=yes }
+	1388.8.12={ death=yes }
+}
+1019931341={
+	name=Andrianjaka
+	dynasty=1009990279
+	dna="lklefbpjahd"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	add_trait=grey_eminence add_trait=wroth add_trait=diligent add_trait=temperate add_trait=deceitful 
+	add_trait=paranoid add_trait=wounded 
+	father=1019931338	#Tovohery
+	1332.7.21={ birth=yes }
+	1415.8.26={ death=yes }
+}
+1019931342={
+	name=Ralambo
+	dynasty=1009990279
+	dna="iclmfhnijci"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=gluttonous add_trait=cynical add_trait=paranoid add_trait=proud 
+	add_trait=honest 
+	father=1019931338	#Tovohery
+	1340.10.7={ birth=yes }
+	1414.7.8={ death=yes }
+}
+1019931343={
+	name=Lanitra
+	female=yes
+	dynasty=1009990279
+	dna="cclehhkkfhl"
+	culture=vazimba religion=west_african_pagan
+	father=1019931340	#Andrianary
+	1356.5.19={ birth=yes }
+	1410.4.5={ death=yes }
+}
+1019931344={
+	name=Ranavalona
+	female=yes
+	dynasty=1009990279
+	dna="bmllfhamdhl"
+	culture=vazimba religion=west_african_pagan
+	father=1019931340	#Andrianary
+	1360.1.25={ birth=yes }
+	1416.11.25={ death=yes }
+}
+1019931345={
+	name=Hamada
+	dynasty=1009990279
+	dna="cjaedgimfhf"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=zealous add_trait=just add_trait=slothful 
+	father=1019931340	#Andrianary
+	1367.8.27={ birth=yes }
+	1446.6.3={ death=yes }
+}
+1019931346={
+	name=Razafitiana
+	dynasty=1009990279
+	dna="cclgfhbgjhl"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=lustful add_trait=craven add_trait=patient 
+	father=1019931340	#Andrianary
+	1371.9.23={ birth=yes }
+	1430.6.23={ death=yes }
+}
+1019931347={
+	name=Mbolatiana
+	female=yes
+	dynasty=1009990279
+	dna="iclpehfbfmb"
+	culture=vazimba religion=west_african_pagan
+	father=1019931340	#Andrianary
+	1375.3.7={ birth=yes }
+	1422.8.16={ death=yes }
+}
+1019931348={
+	name=Norovelomampionona
+	female=yes
+	dynasty=1009990279
+	dna="cjaedgimhhf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931345	#Hamada
+	1398.10.14={ birth=yes }
+	1472.9.2={ death=yes }
+}
+1019931349={
+	name=Tandra
+	female=yes
+	dynasty=1009990279
+	dna="ljaedcimfog"
+	culture=vazimba religion=west_african_pagan
+	father=1019931345	#Hamada
+	1405.4.20={ birth=yes }
+	1481.6.10={ death=yes }
+}
+1019931350={
+	name=Mandresy
+	dynasty=1009990279
+	dna="gjgckgocbhf"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=duelist add_trait=just add_trait=deceitful 
+	add_trait=brave add_trait=charitable  
+	father=1019931345	#Hamada
+	1412.6.14={ birth=yes }
+	1482.1.15={ death=yes }
+}
+1019931351={
+	name=Lalao
+	female=yes
+	dynasty=1009990279
+	dna="cjaedgchkhf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931345	#Hamada
+	1419.5.11={ birth=yes }
+	1500.6.9={ death=yes }
+}
+1019931352={
+	name=Lova
+	dynasty=1009990279
+	dna="ljkceficccf"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=greedy add_trait=gregarious  add_trait=paranoid 
+	add_trait=deceitful 
+	father=1019931350	#Mandresy
+	1435.8.26={ birth=yes }
+	1506.2.14={ death=yes }
+}
+1019931353={
+	name=Anziza
+	female=yes
+	dynasty=1009990279
+	dna="himjkghabhn"
+	culture=vazimba religion=west_african_pagan
+	father=1019931350	#Mandresy
+	1441.5.7={ birth=yes }
+	1527.3.31={ death=yes }
+}
+1019931354={
+	name=Andrianjaka
+	dynasty=1009990279
+	dna="fjmcagepbhp"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=hunter add_trait=craven add_trait=proud add_trait=deceitful 
+	add_trait=just 
+	father=1019931350	#Mandresy
+	1447.1.7={ birth=yes }
+	1547.5.20={ death=yes }
+}
+1019931355={
+	name=Tovohery
+	dynasty=1009990279
+	dna="gblkkgeopdf"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=7 learning=6
+	add_trait=naive_appeaser add_trait=lustful add_trait=greedy 
+	father=1019931350	#Mandresy
+	1450.6.26={ birth=yes }
+	1541.4.1={ death=yes }
+}
+1019931356={
+	name=Tovohery
+	dynasty=1009990279
+	dna="gjmcpchibcc"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=6 learning=4
+	add_trait=thrifty_clerk add_trait=mystic add_trait=cynical add_trait=temperate 
+	father=1019931350	#Mandresy
+	1454.10.25={ birth=yes }
+	1525.11.23={ death=yes }
+}
+1019931357={
+	name=Zafiamiarina
+	dynasty=1009990279
+	dna="ajjcegieeca"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=6 learning=8
+	add_trait=intricate_webweaver add_trait=duelist add_trait=gluttonous add_trait=content add_trait=charitable 
+	add_trait=gregarious 
+	father=1019931352	#Lova
+	1459.10.19={ birth=yes }
+	1532.3.5={ death=yes }
+}
+1019931358={
+	name=Harijesy
+	female=yes
+	dynasty=1009990279
+	dna="ljfcbfihckf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931352	#Lova
+	1463.7.3={ birth=yes }
+	1520.11.19={ death=yes }
+}
+1019931359={
+	name=Tsilavohery
+	dynasty=1009990279
+	dna="ljaeeflcjck"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=brave add_trait=charitable add_trait=arbitrary 
+	father=1019931352	#Lova
+	1469.5.11={ birth=yes }
+	1522.6.30={ death=yes }
+}
+1019931360={
+	name=Tsimisotry
+	dynasty=1009990279
+	dna="lfkcefdcgck"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	add_trait=indulgent_wastrel add_trait=charitable add_trait=slothful add_trait=envious 
+	father=1019931352	#Lova
+	1475.7.24={ birth=yes }
+	1544.10.22={ death=yes }
+}
+1019931361={
+	name=Andriamanelo
+	dynasty=1009990279
+	dna="bbakefieeog"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=gregarious add_trait=envious add_trait=craven add_trait=drunkard 
+	father=1019931357	#Zafiamiarina
+	1491.11.2={ birth=yes }
+	1549.10.5={ death=yes }
+}
+1019931362={
+	name=Tsilavohery
+	dynasty=1009990279
+	dna="iolkpliolcj"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=7
+	add_trait=indulgent_wastrel add_trait=hedonist add_trait=chaste add_trait=deceitful add_trait=greedy 
+	add_trait=wroth add_trait=paranoid 
+	father=1019931357	#Zafiamiarina
+	1494.5.2={ birth=yes }
+	1554.11.6={ death=yes }
+}
+1019931363={
+	name=Oly
+	female=yes
+	dynasty=1009990279
+	dna="ajjcekepeha"
+	culture=vazimba religion=west_african_pagan
+	father=1019931357	#Zafiamiarina
+	1499.5.9={ birth=yes }
+	1568.1.11={ death=yes }
+}
+1019931364={
+	name=Lanitra
+	female=yes
+	dynasty=1009990279
+	dna="ojedemikbca"
+	culture=vazimba religion=west_african_pagan
+	father=1019931357	#Zafiamiarina
+	1504.1.27={ birth=yes }
+	1580.12.15={ death=yes }
+}
+1019931365={
+	name=Mbolatiana
+	female=yes
+	dynasty=1009990279
+	dna="ajleihmeoia"
+	culture=vazimba religion=west_african_pagan
+	father=1019931357	#Zafiamiarina
+	1510.2.27={ birth=yes }
+	1588.11.19={ death=yes }
+}
+1019931366={
+	name=Tombovelo
+	dynasty=1009990279
+	dna="dbdkefopekh"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=gluttonous add_trait=humble add_trait=diligent add_trait=zealous 
+	 
+	father=1019931361	#Andriamanelo
+	1518.7.14={ birth=yes }
+	1591.9.2={ death=yes }
+}
+1019931367={
+	name=Radama
+	dynasty=1009990279
+	dna="jooaefiaeog"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=6
+	add_trait=grey_eminence add_trait=zealous add_trait=humble add_trait=trusting add_trait=drunkard 
+	father=1019931361	#Andriamanelo
+	1524.4.13={ birth=yes }
+	1604.7.31={ death=yes }
+}
+1019931368={
+	name=Nambinintsoa
+	female=yes
+	dynasty=1009990279
+	dna="fgakljbafog"
+	culture=vazimba religion=west_african_pagan
+	father=1019931361	#Andriamanelo
+	1531.3.15={ birth=yes }
+	1604.9.30={ death=yes }
+}
+1019931369={
+	name=Zazaharivelo
+	dynasty=1009990279
+	dna="bdgoeiiephg"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=6 learning=4
+	add_trait=thrifty_clerk add_trait=zealous add_trait=lustful add_trait=charitable add_trait=depressed 
+	father=1019931361	#Andriamanelo
+	1537.3.20={ birth=yes }
+	1609.7.5={ death=yes }
+}
+1019931370={
+	name=Haja
+	dynasty=1009990280
+	dna="jkjknffjmfp"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=diligent add_trait=greedy add_trait=stressed 
+	639.1.2={ birth=yes }
+	708.3.22={ death=yes }
+}
+1019931371={
+	name=Andrianjaka
+	dynasty=1009990280
+	dna="jkjhnfgjpjd"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=gluttonous add_trait=wroth add_trait=possessed 
+	father=1019931370	#Haja
+	662.11.27={ birth=yes }
+	746.6.19={ death=yes }
+}
+1019931372={
+	name=Anja
+	dynasty=1009990280
+	dna="jljknjcbhfb"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=4 learning=8
+	add_trait=scholarly_theologian add_trait=humble add_trait=chaste add_trait=shy 
+	father=1019931370	#Haja
+	665.1.15={ birth=yes }
+	737.4.19={ death=yes }
+}
+1019931373={
+	name=Tsiory
+	dynasty=1009990280
+	dna="akdhdffjmfp"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=gardener add_trait=cynical add_trait=chaste 
+	add_trait=greedy 
+	father=1019931370	#Haja
+	671.1.5={ birth=yes }
+	749.1.11={ death=yes }
+}
+1019931374={
+	name=Naina
+	female=yes
+	dynasty=1009990280
+	dna="jkjinffjlfp"
+	culture=vazimba religion=west_african_pagan
+	father=1019931370	#Haja
+	675.2.16={ birth=yes }
+	742.12.30={ death=yes }
+}
+1019931375={
+	name=Faneva
+	dynasty=1009990280
+	dna="jkcanlffmfi"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=slothful add_trait=greedy add_trait=lustful add_trait=envious 
+	father=1019931370	#Haja
+	681.12.8={ birth=yes }
+	771.9.1={ death=yes }
+}
+1019931376={
+	name=Tsiky
+	female=yes
+	dynasty=1009990280
+	dna="ohpkkffpmmd"
+	culture=vazimba religion=west_african_pagan
+	father=1019931370	#Haja
+	683.11.7={ birth=yes }
+	750.2.21={ death=yes }
+}
+1019931377={
+	name=Oly
+	female=yes
+	dynasty=1009990280
+	dna="fkjmnfkjmkp"
+	culture=vazimba religion=west_african_pagan
+	father=1019931370	#Haja
+	689.5.8={ birth=yes }
+	753.4.17={ death=yes }
+}
+1019931378={
+	name=Andrianary
+	dynasty=1009990280
+	dna="lmjhofgjpbj"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=5 learning=6
+	add_trait=martial_cleric add_trait=ambitious add_trait=wroth add_trait=temperate 
+	father=1019931371	#Andrianjaka
+	687.9.24={ birth=yes }
+	767.10.15={ death=yes }
+}
+1019931379={
+	name=Andriamasinavalona
+	dynasty=1009990280
+	dna="jkjjghhhpjd"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=4 learning=7
+	add_trait=intricate_webweaver  add_trait=honest add_trait=temperate 
+	father=1019931371	#Andrianjaka
+	695.8.12={ birth=yes }
+	778.6.13={ death=yes }
+}
+1019931380={
+	name=Hanta
+	female=yes
+	dynasty=1009990280
+	dna="jmjhjnhjfal"
+	culture=vazimba religion=west_african_pagan
+	father=1019931371	#Andrianjaka
+	701.10.24={ birth=yes }
+	737.6.9={ death=yes }
+}
+1019931381={
+	name=Ony
+	female=yes
+	dynasty=1009990280
+	dna="jkjhnfjjpjf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931371	#Andrianjaka
+	705.10.18={ birth=yes }
+	784.4.7={ death=yes }
+}
+1019931382={
+	name=Niaina
+	dynasty=1009990280
+	dna="lnjllfogcbl"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=5
+	add_trait=martial_cleric add_trait=shy add_trait=craven add_trait=just 
+	father=1019931378	#Andrianary
+	718.6.21={ birth=yes }
+	799.1.6={ death=yes }
+}
+1019931383={
+	name=Maeva
+	female=yes
+	dynasty=1009990280
+	dna="jmkkojcikbn"
+	culture=vazimba religion=west_african_pagan
+	father=1019931378	#Andrianary
+	724.4.15={ birth=yes }
+	779.6.8={ death=yes }
+}
+1019931384={
+	name=Henintsoa
+	female=yes
+	dynasty=1009990280
+	dna="nokhjfklpbp"
+	culture=vazimba religion=west_african_pagan
+	father=1019931378	#Andrianary
+	729.7.3={ birth=yes }
+	808.3.17={ death=yes }
+}
+1019931385={
+	name=Neny
+	female=yes
+	dynasty=1009990280
+	dna="lngleaagclg"
+	culture=vazimba religion=west_african_pagan
+	father=1019931382	#Niaina
+	744.2.15={ birth=yes }
+	809.3.9={ death=yes }
+}
+1019931386={
+	name=Sedera
+	dynasty=1009990280
+	dna="jnjclbjagml"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=slothful add_trait=brave add_trait=cynical add_trait=chaste 
+	add_trait=wounded 
+	father=1019931382	#Niaina
+	749.10.20={ birth=yes }
+	802.5.18={ death=yes }
+}
+1019931387={
+	name=Tandra
+	female=yes
+	dynasty=1009990280
+	dna="lnjllfoicbf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931382	#Niaina
+	756.8.17={ birth=yes }
+	815.2.21={ death=yes }
+}
+1019931388={
+	name=Radama
+	dynasty=1009990280
+	dna="injdopfedbp"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=duelist add_trait=charitable add_trait=humble add_trait=gluttonous 
+	add_trait=arbitrary 
+	father=1019931382	#Niaina
+	759.2.3={ birth=yes }
+	802.11.20={ death=yes }
+}
+1019931389={
+	name=Mamisoa
+	dynasty=1009990280
+	dna="jnjllljagmk"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=envious add_trait=charitable add_trait=shy add_trait=zealous 
+	add_trait=humble add_trait=chaste add_trait=lunatic 
+	father=1019931386	#Sedera
+	771.1.11={ birth=yes }
+	854.8.20={ death=yes }
+}
+1019931390={
+	name=Hanta
+	female=yes
+	dynasty=1009990280
+	dna="jnjclijadbl"
+	culture=vazimba religion=west_african_pagan
+	father=1019931386	#Sedera
+	776.4.23={ birth=yes }
+	844.10.29={ death=yes }
+}
+1019931391={
+	name=Manantena
+	female=yes
+	dynasty=1009990280
+	dna="ohjaggjagil"
+	culture=vazimba religion=west_african_pagan
+	father=1019931386	#Sedera
+	780.10.11={ birth=yes }
+	862.5.22={ death=yes }
+}
+1019931392={
+	name=Manantena
+	female=yes
+	dynasty=1009990280
+	dna="onellpmadel"
+	culture=vazimba religion=west_african_pagan
+	father=1019931386	#Sedera
+	786.2.22={ birth=yes }
+	854.2.16={ death=yes }
+}
+1019931393={
+	name=Lova
+	dynasty=1009990280
+	dna="jljillnagmi"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=gregarious add_trait=greedy add_trait=diligent add_trait=just 
+	father=1019931389	#Mamisoa
+	790.4.6={ birth=yes }
+	867.9.8={ death=yes }
+}
+1019931394={
+	name=Ralambo
+	dynasty=1009990280
+	dna="mninglfagpk"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=7 learning=4
+	add_trait=tough_soldier add_trait=temperate add_trait=honest add_trait=trusting add_trait=ambitious 
+	father=1019931389	#Mamisoa
+	796.11.10={ birth=yes }
+	869.7.16={ death=yes }
+}
+1019931395={
+	name=Andriantsitakatrandriana
+	dynasty=1009990280
+	dna="hnjgpndakhk"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=5
+	add_trait=scholarly_theologian add_trait=arbitrary add_trait=patient add_trait=gregarious add_trait=content 
+	add_trait=chaste 
+	father=1019931389	#Mamisoa
+	800.12.23={ birth=yes }
+	876.5.25={ death=yes }
+}
+1019931396={
+	name=Zafiamiarina
+	dynasty=1009990280
+	dna="dphllbjagne"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=8
+	add_trait=midas_touched add_trait=celibate add_trait=diligent add_trait=proud add_trait=cynical 
+	father=1019931389	#Mamisoa
+	806.9.27={ birth=yes }
+	877.2.23={ death=yes }
+}
+1019931397={
+	name=Vaohangy
+	female=yes
+	dynasty=1009990280
+	dna="jnjmdfjngka"
+	culture=vazimba religion=west_african_pagan
+	father=1019931389	#Mamisoa
+	810.3.20={ birth=yes }
+	867.10.14={ death=yes }
+}
+1019931398={
+	name=Andrianasy
+	dynasty=1009990280
+	dna="jliingkackf"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	add_trait=detached_priest add_trait=brave add_trait=deceitful 
+	father=1019931393	#Lova
+	822.3.24={ birth=yes }
+	881.8.19={ death=yes }
+}
+1019931399={
+	name=Toavina
+	dynasty=1009990280
+	dna="jfgijghaglc"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=brave add_trait=gregarious add_trait=arbitrary add_trait=proud 
+	add_trait=wroth 
+	father=1019931393	#Lova
+	827.6.14={ birth=yes }
+	887.2.27={ death=yes }
+}
+1019931400={
+	name=Masina
+	female=yes
+	dynasty=1009990280
+	dna="aljpimcagmi"
+	culture=vazimba religion=west_african_pagan
+	father=1019931393	#Lova
+	832.7.21={ birth=yes }
+	897.6.24={ death=yes }
+}
+1019931401={
+	name=Zafiamiarina
+	dynasty=1009990280
+	dna="bljilmngead"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=grey_eminence add_trait=celibate add_trait=craven add_trait=chaste 
+	add_trait=arbitrary 
+	father=1019931393	#Lova
+	836.7.23={ birth=yes }
+	929.4.26={ death=yes }
+}
+1019931402={
+	name=Nambinintsoa
+	female=yes
+	dynasty=1009990280
+	dna="jgjillnaemc"
+	culture=vazimba religion=west_african_pagan
+	father=1019931393	#Lova
+	842.12.5={ birth=yes }
+	928.9.17={ death=yes }
+}
+1019931403={
+	name=Haja
+	dynasty=1009990280
+	dna="jpbpnmkmokm"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=8
+	add_trait=scholarly_theologian add_trait=impaler add_trait=trusting add_trait=zealous 
+	add_trait=honest 
+	father=1019931398	#Andrianasy
+	844.8.12={ birth=yes }
+	929.4.14={ death=yes }
+}
+1019931404={
+	name=Andrianasy
+	dynasty=1009990280
+	dna="hiiicgkacij"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=gluttonous add_trait=charitable add_trait=brave add_trait=gregarious 
+	father=1019931398	#Andrianasy
+	847.5.26={ birth=yes }
+	924.10.1={ death=yes }
+}
+1019931405={
+	name=Neny
+	female=yes
+	dynasty=1009990280
+	dna="jliinciacjf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931398	#Andrianasy
+	853.8.21={ birth=yes }
+	937.2.16={ death=yes }
+}
+1019931406={
+	name=Rano
+	dynasty=1009990280
+	dna="jlfingkacmg"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=7 learning=4
+	add_trait=indulgent_wastrel add_trait=patient add_trait=gluttonous add_trait=envious add_trait=gregarious 
+	
+	father=1019931398	#Andrianasy
+	857.11.21={ birth=yes }
+	950.9.30={ death=yes }
+}
+1019931407={
+	name=Tovohery
+	dynasty=1009990280
+	dna="ebbnombhokm"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	add_trait=intricate_webweaver add_trait=impaler add_trait=gregarious add_trait=brave add_trait=deceitful 
+	add_trait=temperate 
+	father=1019931403	#Haja
+	875.3.11={ birth=yes }
+	945.12.22={ death=yes }
+}
+1019931408={
+	name=Naina
+	female=yes
+	dynasty=1009990280
+	dna="jfhpjmkmgmj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931403	#Haja
+	879.6.16={ birth=yes }
+	954.8.10={ death=yes }
+}
+1019931409={
+	name=Zafiamiarina
+	dynasty=1009990280
+	dna="jlbpiffmokm"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=8
+	add_trait=scholarly_theologian add_trait=greedy add_trait=temperate add_trait=shy 
+	add_trait=craven add_trait=just 
+	father=1019931403	#Haja
+	886.9.24={ birth=yes }
+	945.9.24={ death=yes }
+}
+1019931410={
+	name=Ahitra
+	female=yes
+	dynasty=1009990280
+	dna="epopnokbflm"
+	culture=vazimba religion=west_african_pagan
+	father=1019931403	#Haja
+	891.5.17={ birth=yes }
+	966.9.3={ death=yes }
+}
+1019931411={
+	name=Andrianjafynandriamanitra
+	dynasty=1009990280
+	dna="ebboodbaokb"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=6 learning=8
+	add_trait=scholarly_theologian add_trait=wroth add_trait=brave add_trait=chaste 
+	add_trait=zealous add_trait=deceitful 
+	father=1019931407	#Tovohery
+	895.11.26={ birth=yes }
+	965.4.13={ death=yes }
+}
+1019931412={
+	name=Andriantsitakatrandriana
+	dynasty=1009990280
+	dna="eebnimbpokf"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=4 learning=6
+	add_trait=detached_priest add_trait=patient add_trait=just add_trait=chaste add_trait=brave 
+	add_trait=depressed 
+	father=1019931407	#Tovohery
+	900.4.5={ birth=yes }
+	956.7.29={ death=yes }
+}
+1019931413={
+	name=Norovelomampionona
+	female=yes
+	dynasty=1009990280
+	dna="jbbnomfookl"
+	culture=vazimba religion=west_african_pagan
+	father=1019931407	#Tovohery
+	904.5.4={ birth=yes }
+	977.5.9={ death=yes }
+}
+1019931414={
+	name=Nyantsa
+	female=yes
+	dynasty=1009990280
+	dna="ebbnommhofh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931407	#Tovohery
+	907.7.23={ birth=yes }
+	953.6.26={ death=yes }
+}
+1019931415={
+	name=Rasoherina
+	female=yes
+	dynasty=1009990280
+	dna="jhbkombhokm"
+	culture=vazimba religion=west_african_pagan
+	father=1019931407	#Tovohery
+	910.9.3={ birth=yes }
+	975.11.14={ death=yes }
+}
+1019931416={
+	name=Hamada
+	dynasty=1009990280
+	dna="edbjpibaokb"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	add_trait=detached_priest add_trait=content add_trait=shy add_trait=paranoid add_trait=honest 
+	father=1019931411	#Andrianjafynandriamanitra
+	923.9.20={ birth=yes }
+	988.3.30={ death=yes }
+}
+1019931417={
+	name=Ahitra
+	female=yes
+	dynasty=1009990280
+	dna="gbbokdbajkk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931411	#Andrianjafynandriamanitra
+	926.6.8={ birth=yes }
+	1000.9.25={ death=yes }
+}
+1019931418={
+	name=Mamisoa
+	dynasty=1009990280
+	dna="ebeoffnmokp"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	add_trait=scholarly_theologian add_trait=trusting add_trait=slothful add_trait=charitable add_trait=ambitious 
+	add_trait=craven add_trait=patient add_trait=drunkard 
+	father=1019931411	#Andrianjafynandriamanitra
+	932.10.17={ birth=yes }
+	996.11.16={ death=yes }
+}
+1019931419={
+	name=Ony
+	female=yes
+	dynasty=1009990280
+	dna="ebbnohjpokb"
+	culture=vazimba religion=west_african_pagan
+	father=1019931411	#Andrianjafynandriamanitra
+	936.5.4={ birth=yes }
+	1021.9.2={ death=yes }
+}
+1019931420={
+	name=Andrianary
+	dynasty=1009990280
+	dna="bbboadmjohb"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=gregarious add_trait=envious add_trait=possessed 
+	father=1019931411	#Andrianjafynandriamanitra
+	941.4.8={ birth=yes }
+	1006.1.18={ death=yes }
+}
+1019931421={
+	name=Nambinintsoa
+	female=yes
+	dynasty=1009990280
+	dna="jlpcceoaild"
+	culture=vazimba religion=west_african_pagan
+	father=1019931411	#Andrianjafynandriamanitra
+	944.4.7={ birth=yes }
+	1003.2.22={ death=yes }
+}
+1019931422={
+	name=Narisoa
+	dynasty=1009990280
+	dna="bmfcoobljcb"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=8
+	add_trait=mastermind_theologian add_trait=content add_trait=lustful add_trait=gregarious 
+	add_trait=diligent add_trait=possessed 
+	father=1019931411	#Andrianjafynandriamanitra
+	948.12.7={ birth=yes }
+	1028.1.19={ death=yes }
+}
+1019931423={
+	name=Mandresy
+	dynasty=1009990280
+	dna="edfjpbnabkh"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=8 learning=4
+	add_trait=intricate_webweaver add_trait=honest add_trait=trusting 
+	father=1019931416	#Hamada
+	948.6.9={ birth=yes }
+	1007.2.2={ death=yes }
+}
+1019931424={
+	name=Ahitra
+	female=yes
+	dynasty=1009990280
+	dna="ekbfaibaokb"
+	culture=vazimba religion=west_african_pagan
+	father=1019931416	#Hamada
+	952.12.3={ birth=yes }
+	1012.6.8={ death=yes }
+}
+1019931425={
+	name=Toavina
+	dynasty=1009990280
+	dna="ddnnpmbaohb"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=6 learning=6
+	add_trait=mastermind_theologian add_trait=temperate add_trait=honest add_trait=trusting 
+	father=1019931416	#Hamada
+	956.7.13={ birth=yes }
+	1019.5.10={ death=yes }
+}
+1019931426={
+	name=Andrianantoandro
+	dynasty=1009990280
+	dna="iibjgabapkf"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=poet add_trait=brave add_trait=honest add_trait=shy 
+	 add_trait=zealous add_trait=wounded add_trait=possessed 
+	father=1019931416	#Hamada
+	961.7.24={ birth=yes }
+	1045.3.4={ death=yes }
+}
+1019931427={
+	name=Andriantsitakatrandriana
+	dynasty=1009990280
+	dna="kgbomaanbkh"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=charitable add_trait=envious add_trait=patient 
+	add_trait=ill 
+	father=1019931416	#Hamada
+	964.2.7={ birth=yes }
+	1048.3.22={ death=yes }
+}
+1019931428={
+	name=Tsiory
+	dynasty=1009990280
+	dna="lcfjphnabcn"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=hunter add_trait=proud  
+	add_trait=arbitrary add_trait=cynical add_trait=lunatic add_trait=stutter 
+	father=1019931423	#Mandresy
+	978.8.20={ birth=yes }
+	1034.11.6={ death=yes }
+}
+1019931429={
+	name=Anziza
+	female=yes
+	dynasty=1009990280
+	dna="elfplbmgkkh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931423	#Mandresy
+	985.7.1={ birth=yes }
+	1068.6.27={ death=yes }
+}
+1019931430={
+	name=Vorona
+	female=yes
+	dynasty=1009990280
+	dna="idbhibmabkh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931423	#Mandresy
+	989.5.16={ birth=yes }
+	1075.6.12={ death=yes }
+}
+1019931431={
+	name=Zazaharivelo
+	dynasty=1009990280
+	dna="adfppmnbbnh"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=honest add_trait=zealous  add_trait=gluttonous 
+	add_trait=lustful 
+	father=1019931423	#Mandresy
+	993.12.17={ birth=yes }
+	1074.11.19={ death=yes }
+}
+1019931432={
+	name=Ahitra
+	female=yes
+	dynasty=1009990280
+	dna="edejpabaekj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931423	#Mandresy
+	998.5.11={ birth=yes }
+	1061.5.28={ death=yes }
+}
+1019931433={
+	name=Tsiory
+	dynasty=1009990280
+	dna="haocpgnaboi"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=honest add_trait=craven add_trait=chaste 
+	father=1019931428	#Tsiory
+	1008.2.5={ birth=yes }
+	1088.7.5={ death=yes }
+}
+1019931434={
+	name=Anziza
+	female=yes
+	dynasty=1009990280
+	dna="lnhglhlgbem"
+	culture=vazimba religion=west_african_pagan
+	father=1019931428	#Tsiory
+	1013.11.23={ birth=yes }
+	1069.10.27={ death=yes }
+}
+1019931435={
+	name=Lanitra
+	female=yes
+	dynasty=1009990280
+	dna="kppmjhnhncf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931428	#Tsiory
+	1017.6.26={ birth=yes }
+	1101.5.13={ death=yes }
+}
+1019931436={
+	name=Andrianasy
+	dynasty=1009990280
+	dna="ldajpcnebfn"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=4 learning=6
+	add_trait=intricate_webweaver add_trait=arbitrary add_trait=content add_trait=shy add_trait=humble 
+	add_trait=wounded 
+	father=1019931428	#Tsiory
+	1025.10.25={ birth=yes }
+	1109.10.9={ death=yes }
+}
+1019931437={
+	name=Ony
+	female=yes
+	dynasty=1009990280
+	dna="hpocpdndfdf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931433	#Tsiory
+	1037.5.8={ birth=yes }
+	1096.1.6={ death=yes }
+}
+1019931438={
+	name=Sedera
+	dynasty=1009990280
+	dna="elofiknlboi"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=5
+	add_trait=martial_cleric add_trait=patient add_trait=humble add_trait=gregarious 
+	father=1019931433	#Tsiory
+	1045.4.1={ birth=yes }
+	1102.2.14={ death=yes }
+}
+1019931439={
+	name=Lalao
+	female=yes
+	dynasty=1009990280
+	dna="ajocmgiajki"
+	culture=vazimba religion=west_african_pagan
+	father=1019931433	#Tsiory
+	1051.12.8={ birth=yes }
+	1130.3.24={ death=yes }
+}
+1019931440={
+	name=Mampihao
+	dynasty=1009990280
+	dna="dmofakdhbnd"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=arbitrary add_trait=shy add_trait=patient 
+	father=1019931438	#Sedera
+	1070.7.12={ birth=yes }
+	1132.11.26={ death=yes }
+}
+1019931441={
+	name=Tsiky
+	female=yes
+	dynasty=1009990280
+	dna="nbofgfjljii"
+	culture=vazimba religion=west_african_pagan
+	father=1019931438	#Sedera
+	1077.5.11={ birth=yes }
+	1138.3.5={ death=yes }
+}
+1019931442={
+	name=Andrianantoandro
+	dynasty=1009990280
+	dna="bmobokahbnp"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=6 learning=5
+	add_trait=scholarly_theologian add_trait=duelist add_trait=cynical add_trait=paranoid 
+	father=1019931440	#Mampihao
+	1101.4.23={ birth=yes }
+	1166.6.8={ death=yes }
+}
+1019931443={
+	name=Zafiamiarina
+	dynasty=1009990280
+	dna="maafikpdiad"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=diligent add_trait=charitable 
+	father=1019931440	#Mampihao
+	1105.8.2={ birth=yes }
+	1173.10.23={ death=yes }
+}
+1019931444={
+	name=Andrianjaka
+	dynasty=1009990280
+	dna="fmgefckebbb"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=6
+	add_trait=charismatic_negotiator add_trait=brave add_trait=zealous add_trait=content add_trait=chaste 
+	father=1019931442	#Andrianantoandro
+	1135.3.25={ birth=yes }
+	1207.4.13={ death=yes }
+}
+1019931445={
+	name=Zazaharivelo
+	dynasty=1009990280
+	dna="bmobommhjnp"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=4 learning=5
+	add_trait=thrifty_clerk add_trait=patient add_trait=gluttonous add_trait=honest add_trait=diligent 
+	add_trait=paranoid 
+	father=1019931442	#Andrianantoandro
+	1139.5.18={ birth=yes }
+	1198.10.13={ death=yes }
+}
+1019931446={
+	name=Lova
+	dynasty=1009990280
+	dna="amgcbkanbnp"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=deceitful add_trait=arbitrary add_trait=brave add_trait=chaste 
+	add_trait=trusting add_trait=shy 
+	father=1019931442	#Andrianantoandro
+	1146.11.20={ birth=yes }
+	1203.5.28={ death=yes }
+}
+1019931447={
+	name=Rasoherina
+	female=yes
+	dynasty=1009990280
+	dna="bmoookahgnc"
+	culture=vazimba religion=west_african_pagan
+	father=1019931442	#Andrianantoandro
+	1151.3.17={ birth=yes }
+	1236.4.6={ death=yes }
+}
+1019931448={
+	name=Andrianjafynandriamanitra
+	dynasty=1009990280
+	dna="imbklkeebcp"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=temperate add_trait=shy add_trait=cynical 
+	father=1019931444	#Andrianjaka
+	1159.7.24={ birth=yes }
+	1244.11.19={ death=yes }
+}
+1019931449={
+	name=Riantsoa
+	female=yes
+	dynasty=1009990280
+	dna="nmgebmakbgb"
+	culture=vazimba religion=west_african_pagan
+	father=1019931444	#Andrianjaka
+	1164.5.7={ birth=yes }
+	1225.9.3={ death=yes }
+}
+1019931450={
+	name=Razafitiana
+	dynasty=1009990280
+	dna="ccgpfckebbb"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=7
+	add_trait=scholarly_theologian add_trait=trusting add_trait=greedy  add_trait=chaste 
+	add_trait=patient 
+	father=1019931444	#Andrianjaka
+	1169.10.16={ birth=yes }
+	1222.2.24={ death=yes }
+}
+1019931451={
+	name=Lanitra
+	female=yes
+	dynasty=1009990280
+	dna="fagiockajbb"
+	culture=vazimba religion=west_african_pagan
+	father=1019931444	#Andrianjaka
+	1174.3.16={ birth=yes }
+	1229.8.1={ death=yes }
+}
+1019931452={
+	name=Mbolatiana
+	female=yes
+	dynasty=1009990280
+	dna="dbgefckebib"
+	culture=vazimba religion=west_african_pagan
+	father=1019931444	#Andrianjaka
+	1179.12.9={ birth=yes }
+	1237.6.24={ death=yes }
+}
+1019931453={
+	name=Andriantsitakatrandriana
+	dynasty=1009990280
+	dna="ekgnmckebfp"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=8
+	add_trait=detached_priest add_trait=mystic add_trait=lustful add_trait=humble add_trait=envious 
+	add_trait=slothful 
+	father=1019931444	#Andrianjaka
+	1184.8.11={ birth=yes }
+	1253.10.14={ death=yes }
+}
+1019931454={
+	name=Raharimampionona
+	female=yes
+	dynasty=1009990280
+	dna="fggefckeobd"
+	culture=vazimba religion=west_african_pagan
+	father=1019931444	#Andrianjaka
+	1189.3.20={ birth=yes }
+	1268.3.4={ death=yes }
+}
+1019931455={
+	name=Hanta
+	female=yes
+	dynasty=1009990280
+	dna="fdfklkdelcp"
+	culture=vazimba religion=west_african_pagan
+	father=1019931448	#Andrianjafynandriamanitra
+	1182.12.8={ birth=yes }
+	1254.4.23={ death=yes }
+}
+1019931456={
+	name=Mamisoa
+	dynasty=1009990280
+	dna="ombhfkiemcp"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=6 learning=7
+	add_trait=naive_appeaser add_trait=patient add_trait=proud add_trait=arbitrary add_trait=trusting 
+	add_trait=content 
+	father=1019931448	#Andrianjafynandriamanitra
+	1186.7.14={ birth=yes }
+	1274.5.24={ death=yes }
+}
+1019931457={
+	name=Jaona
+	dynasty=1009990280
+	dna="onbklkedgcp"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=ambitious add_trait=honest add_trait=envious 
+	add_trait=harelip 
+	father=1019931448	#Andrianjafynandriamanitra
+	1194.9.14={ birth=yes }
+	1261.2.16={ death=yes }
+}
+1019931458={
+	name=Oly
+	female=yes
+	dynasty=1009990280
+	dna="imbkcieebcp"
+	culture=vazimba religion=west_african_pagan
+	father=1019931448	#Andrianjafynandriamanitra
+	1196.7.17={ birth=yes }
+	1255.6.7={ death=yes }
+}
+1019931459={
+	name=Tovohery
+	dynasty=1009990280
+	dna="ombdhpihgcp"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=patient add_trait=proud 
+	father=1019931456	#Mamisoa
+	1208.2.9={ birth=yes }
+	1276.4.24={ death=yes }
+}
+1019931460={
+	name=Tsimisotry
+	dynasty=1009990280
+	dna="omblfknemin"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=charitable add_trait=brave add_trait=paranoid 
+	add_trait=gregarious 
+	father=1019931456	#Mamisoa
+	1212.9.14={ birth=yes }
+	1267.11.27={ death=yes }
+}
+1019931461={
+	name=Andriambelomasina
+	dynasty=1009990280
+	dna="eabhfkielcp"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=4 learning=4
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=envious add_trait=ill 
+	father=1019931456	#Mamisoa
+	1217.10.15={ birth=yes }
+	1254.8.15={ death=yes }
+}
+1019931462={
+	name=Andrianjaka
+	dynasty=1009990280
+	dna="onchfkbeicp"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	add_trait=mastermind_theologian add_trait=slothful add_trait=cynical add_trait=envious add_trait=shy 
+	father=1019931456	#Mamisoa
+	1223.12.6={ birth=yes }
+	1297.7.15={ death=yes }
+}
+1019931463={
+	name=Andrianary
+	dynasty=1009990280
+	dna="ojdjfeiekmp"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=5 learning=7
+	add_trait=naive_appeaser add_trait=chaste add_trait=charitable  
+	father=1019931456	#Mamisoa
+	1228.4.5={ birth=yes }
+	1314.8.22={ death=yes }
+}
+1019931464={
+	name=Narisoa
+	dynasty=1009990280
+	dna="lnpdhpidgop"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=gregarious add_trait=diligent add_trait=ambitious 
+	add_trait=charitable add_trait=chaste 
+	father=1019931459	#Tovohery
+	1232.12.17={ birth=yes }
+	1304.5.7={ death=yes }
+}
+1019931465={
+	name=Faneva
+	dynasty=1009990280
+	dna="jbeilailkod"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=5 learning=6
+	add_trait=indulgent_wastrel add_trait=paranoid add_trait=envious add_trait=zealous add_trait=proud 
+	add_trait=possessed 
+	father=1019931459	#Tovohery
+	1236.2.16={ birth=yes }
+	1295.1.14={ death=yes }
+}
+1019931466={
+	name=Ranavalona
+	female=yes
+	dynasty=1009990280
+	dna="kmblcpihgcp"
+	culture=vazimba religion=west_african_pagan
+	father=1019931459	#Tovohery
+	1242.8.27={ birth=yes }
+	1304.6.9={ death=yes }
+}
+1019931467={
+	name=Andrianavalona
+	dynasty=1009990280
+	dna="opbkdpmllpp"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	add_trait=flamboyant_schemer add_trait=trusting add_trait=brave add_trait=chaste add_trait=patient 
+	add_trait=zealous 
+	father=1019931459	#Tovohery
+	1246.3.14={ birth=yes }
+	1310.6.5={ death=yes }
+}
+1019931468={
+	name=Tombovelo
+	dynasty=1009990280
+	dna="lnfdjpidaad"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=diligent add_trait=content add_trait=chaste 
+	father=1019931464	#Narisoa
+	1253.9.21={ birth=yes }
+	1332.9.8={ death=yes }
+}
+1019931469={
+	name=Mandresy
+	dynasty=1009990280
+	dna="lnidhpibkef"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=shy add_trait=gluttonous  add_trait=lustful 
+	add_trait=paranoid add_trait=weak 
+	father=1019931464	#Narisoa
+	1260.1.27={ birth=yes }
+	1344.5.27={ death=yes }
+}
+1019931470={
+	name=Neny
+	female=yes
+	dynasty=1009990280
+	dna="ldmdipndcip"
+	culture=vazimba religion=west_african_pagan
+	father=1019931464	#Narisoa
+	1265.7.7={ birth=yes }
+	1324.7.28={ death=yes }
+}
+1019931471={
+	name=Andrianasy
+	dynasty=1009990280
+	dna="nnabhhifbop"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=5
+	add_trait=grey_eminence add_trait=brave add_trait=diligent add_trait=envious add_trait=wroth 
+	add_trait=trusting 
+	father=1019931464	#Narisoa
+	1269.8.6={ birth=yes }
+	1344.10.21={ death=yes }
+}
+1019931472={
+	name=Maeva
+	female=yes
+	dynasty=1009990280
+	dna="cnbpocidfop"
+	culture=vazimba religion=west_african_pagan
+	father=1019931464	#Narisoa
+	1274.1.4={ birth=yes }
+	1340.11.2={ death=yes }
+}
+1019931473={
+	name=Zafiamiarina
+	dynasty=1009990280
+	dna="jacdjpidafd"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=4 learning=6
+	add_trait=skilled_tactician add_trait=ambitious add_trait=slothful add_trait=arbitrary add_trait=envious 
+	add_trait=lustful add_trait=proud add_trait=possessed 
+	father=1019931468	#Tombovelo
+	1274.12.1={ birth=yes }
+	1340.12.25={ death=yes }
+}
+1019931474={
+	name=Volana
+	female=yes
+	dynasty=1009990280
+	dna="lnfemnmdihf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931468	#Tombovelo
+	1278.10.1={ birth=yes }
+	1342.9.20={ death=yes }
+}
+1019931475={
+	name=Mirantsoa
+	female=yes
+	dynasty=1009990280
+	dna="gafegpjlhfl"
+	culture=vazimba religion=west_african_pagan
+	father=1019931473	#Zafiamiarina
+	1300.12.20={ birth=yes }
+	1380.3.31={ death=yes }
+}
+1019931476={
+	name=Solofo
+	dynasty=1009990280
+	dna="jfcddhddkfn"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=paranoid add_trait=wroth add_trait=charitable add_trait=gregarious 
+	add_trait=wounded 
+	father=1019931473	#Zafiamiarina
+	1306.6.11={ birth=yes }
+	1372.6.28={ death=yes }
+}
+1019931477={
+	name=Nyantsa
+	female=yes
+	dynasty=1009990280
+	dna="glojcpofcfl"
+	culture=vazimba religion=west_african_pagan
+	father=1019931473	#Zafiamiarina
+	1310.1.8={ birth=yes }
+	1356.6.29={ death=yes }
+}
+1019931478={
+	name=Anja
+	dynasty=1009990280
+	dna="eajmppidafd"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=5
+	add_trait=misguided_warrior add_trait=gardener add_trait=trusting add_trait=greedy add_trait=humble 
+	add_trait=wroth add_trait=deceitful add_trait=lunatic add_trait=slow 
+	father=1019931473	#Zafiamiarina
+	1314.1.26={ birth=yes }
+	1373.3.7={ death=yes }
+}
+1019931479={
+	name=Andrianjaka
+	dynasty=1009990280
+	dna="joodjpigaid"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=5 learning=5
+	add_trait=grey_eminence  add_trait=zealous add_trait=trusting 
+	father=1019931473	#Zafiamiarina
+	1320.6.14={ birth=yes }
+	1404.2.17={ death=yes }
+}
+1019931480={
+	name=Mirantsoa
+	female=yes
+	dynasty=1009990280
+	dna="afchdenddfn"
+	culture=vazimba religion=west_african_pagan
+	father=1019931476	#Solofo
+	1336.8.8={ birth=yes }
+	1398.9.17={ death=yes }
+}
+1019931481={
+	name=Hamada
+	dynasty=1009990280
+	dna="ocdnohddkfl"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=6
+	add_trait=naive_appeaser add_trait=celibate add_trait=zealous add_trait=patient add_trait=paranoid 
+	add_trait=quick 
+	father=1019931476	#Solofo
+	1340.7.23={ birth=yes }
+	1398.5.16={ death=yes }
+}
+1019931482={
+	name=Andriantsitakatrandriana
+	dynasty=1009990280
+	dna="jfmdebgogfm"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=celibate add_trait=paranoid add_trait=just 
+	add_trait=cynical add_trait=envious add_trait=depressed 
+	father=1019931476	#Solofo
+	1344.8.21={ birth=yes }
+	1418.12.5={ death=yes }
+}
+1019931483={
+	name=Neny
+	female=yes
+	dynasty=1009990280
+	dna="mbcddhmdbck"
+	culture=vazimba religion=west_african_pagan
+	father=1019931476	#Solofo
+	1348.1.27={ birth=yes }
+	1435.11.12={ death=yes }
+}
+1019931484={
+	name=Volana
+	female=yes
+	dynasty=1009990280
+	dna="egpddkilkjj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931476	#Solofo
+	1353.12.18={ birth=yes }
+	1410.10.7={ death=yes }
+}
+1019931485={
+	name=Andrianampoinimerina
+	dynasty=1009990280
+	dna="hcdnacdmkfl"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=8 learning=4
+	add_trait=skilled_tactician add_trait=lustful  add_trait=arbitrary add_trait=wroth 
+	add_trait=proud 
+	father=1019931481	#Hamada
+	1371.8.24={ birth=yes }
+	1427.5.12={ death=yes }
+}
+1019931486={
+	name=Masina
+	female=yes
+	dynasty=1009990280
+	dna="ocdnokpjmfl"
+	culture=vazimba religion=west_african_pagan
+	father=1019931481	#Hamada
+	1375.3.19={ birth=yes }
+	1449.2.24={ death=yes }
+}
+1019931487={
+	name=Arisoa
+	female=yes
+	dynasty=1009990280
+	dna="obddooddfni"
+	culture=vazimba religion=west_african_pagan
+	father=1019931481	#Hamada
+	1381.1.7={ birth=yes }
+	1454.3.24={ death=yes }
+}
+1019931488={
+	name=Tandra
+	female=yes
+	dynasty=1009990280
+	dna="pbakbgdkkil"
+	culture=vazimba religion=west_african_pagan
+	father=1019931481	#Hamada
+	1387.6.4={ birth=yes }
+	1440.12.12={ death=yes }
+}
+1019931489={
+	name=Mampihao
+	dynasty=1009990280
+	dna="ocblohidgfg"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=cynical add_trait=lustful 
+	father=1019931481	#Hamada
+	1390.9.24={ birth=yes }
+	1474.6.12={ death=yes }
+}
+1019931490={
+	name=Tsimisotry
+	dynasty=1009990280
+	dna="ininacnmgll"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=charitable add_trait=humble add_trait=chaste add_trait=ill 
+	father=1019931485	#Andrianampoinimerina
+	1399.2.23={ birth=yes }
+	1451.10.22={ death=yes }
+}
+1019931491={
+	name=Anja
+	dynasty=1009990280
+	dna="hokammdckel"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=scholar add_trait=wroth add_trait=paranoid 
+	add_trait=greedy 
+	father=1019931485	#Andrianampoinimerina
+	1405.5.15={ birth=yes }
+	1492.3.16={ death=yes }
+}
+1019931492={
+	name=Nantenaina
+	female=yes
+	dynasty=1009990280
+	dna="hcljjcapefj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931485	#Andrianampoinimerina
+	1411.4.7={ birth=yes }
+	1483.11.26={ death=yes }
+}
+1019931493={
+	name=Zazaharivelo
+	dynasty=1009990280
+	dna="ininaccmgho"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=deceitful add_trait=cynical add_trait=slothful 
+	father=1019931490	#Tsimisotry
+	1421.11.2={ birth=yes }
+	1504.5.23={ death=yes }
+}
+1019931494={
+	name=Lalao
+	female=yes
+	dynasty=1009990280
+	dna="ininacnmglk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931490	#Tsimisotry
+	1428.3.24={ birth=yes }
+	1505.8.21={ death=yes }
+}
+1019931495={
+	name=Mbolatiana
+	female=yes
+	dynasty=1009990280
+	dna="keenfhnmgla"
+	culture=vazimba religion=west_african_pagan
+	father=1019931490	#Tsimisotry
+	1434.5.6={ birth=yes }
+	1504.3.12={ death=yes }
+}
+1019931496={
+	name=Andrianavalona
+	dynasty=1009990280
+	dna="inimaecicjo"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=6 learning=8
+	add_trait=grey_eminence add_trait=temperate  add_trait=shy add_trait=content 
+	add_trait=just add_trait=trusting 
+	father=1019931493	#Zazaharivelo
+	1445.1.9={ birth=yes }
+	1513.12.26={ death=yes }
+}
+1019931497={
+	name=Riantsoa
+	female=yes
+	dynasty=1009990280
+	dna="ipdnapkfgho"
+	culture=vazimba religion=west_african_pagan
+	father=1019931493	#Zazaharivelo
+	1451.7.17={ birth=yes }
+	1535.11.10={ death=yes }
+}
+1019931498={
+	name=Mandresy
+	dynasty=1009990280
+	dna="inlcacobghe"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=paranoid add_trait=envious add_trait=zealous 
+	add_trait=chaste add_trait=proud 
+	father=1019931493	#Zazaharivelo
+	1457.5.26={ birth=yes }
+	1521.12.20={ death=yes }
+}
+1019931499={
+	name=Andriamanelo
+	dynasty=1009990280
+	dna="bnimgfcmgho"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=content add_trait=trusting add_trait=chaste 
+	father=1019931493	#Zazaharivelo
+	1465.7.23={ birth=yes }
+	1531.1.31={ death=yes }
+}
+1019931500={
+	name=Tombovelo
+	dynasty=1009990281
+	dna="fhpnfnhccij"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=7
+	add_trait=grey_eminence add_trait=diligent add_trait=patient add_trait=zealous add_trait=charitable 
+	add_trait=temperate 
+	640.12.26={ birth=yes }
+	710.9.25={ death=yes }
+}
+1019931501={
+	name=Tombovelo
+	dynasty=1009990281
+	dna="fhpgfnhbail"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=5 learning=6
+	add_trait=martial_cleric add_trait=patient add_trait=brave add_trait=envious add_trait=humble 
+	add_trait=diligent 
+	father=1019931500	#Tombovelo
+	667.5.17={ birth=yes }
+	728.10.19={ death=yes }
+}
+1019931502={
+	name=Rangita
+	female=yes
+	dynasty=1009990281
+	dna="faepmfpmcip"
+	culture=vazimba religion=west_african_pagan
+	father=1019931500	#Tombovelo
+	672.8.10={ birth=yes }
+	757.9.13={ death=yes }
+}
+1019931503={
+	name=Jaona
+	dynasty=1009990281
+	dna="fhmcfnhmnik"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=7 learning=6
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=lustful add_trait=arbitrary add_trait=greedy 
+	add_trait=depressed 
+	father=1019931501	#Tombovelo
+	690.8.14={ birth=yes }
+	752.3.7={ death=yes }
+}
+1019931504={
+	name=Mampihao
+	dynasty=1009990281
+	dna="fbkcfmbagml"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=trusting add_trait=chaste add_trait=humble add_trait=deceitful 
+	add_trait=ill 
+	father=1019931501	#Tombovelo
+	696.10.12={ birth=yes }
+	764.2.3={ death=yes }
+}
+1019931505={
+	name=Hamada
+	dynasty=1009990281
+	dna="ghhjfnhmlik"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=slothful add_trait=envious add_trait=honest add_trait=temperate 
+	add_trait=ambitious 
+	father=1019931503	#Jaona
+	709.11.26={ birth=yes }
+	768.1.30={ death=yes }
+}
+1019931506={
+	name=Hanta
+	female=yes
+	dynasty=1009990281
+	dna="hhhebfhmngk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931503	#Jaona
+	717.2.7={ birth=yes }
+	793.2.9={ death=yes }
+}
+1019931507={
+	name=Andrianary
+	dynasty=1009990281
+	dna="laljknhmllk"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	add_trait=misguided_warrior  add_trait=humble add_trait=trusting add_trait=content 
+	father=1019931505	#Hamada
+	735.1.10={ birth=yes }
+	792.3.30={ death=yes }
+}
+1019931508={
+	name=Lanitra
+	female=yes
+	dynasty=1009990281
+	dna="chhjfjhclpk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931505	#Hamada
+	740.3.2={ birth=yes }
+	817.9.8={ death=yes }
+}
+1019931509={
+	name=Tahiry
+	female=yes
+	dynasty=1009990281
+	dna="gihianhmlin"
+	culture=vazimba religion=west_african_pagan
+	father=1019931505	#Hamada
+	744.3.23={ birth=yes }
+	804.12.13={ death=yes }
+}
+1019931510={
+	name=Nyantsa
+	female=yes
+	dynasty=1009990281
+	dna="mjhcfnhmlof"
+	culture=vazimba religion=west_african_pagan
+	father=1019931505	#Hamada
+	747.8.26={ birth=yes }
+	813.10.27={ death=yes }
+}
+1019931511={
+	name=Rasoherina
+	female=yes
+	dynasty=1009990281
+	dna="lmlpjnpalbk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931507	#Andrianary
+	761.5.25={ birth=yes }
+	818.5.19={ death=yes }
+}
+1019931512={
+	name=Solofo
+	dynasty=1009990281
+	dna="jacjaigfllf"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	add_trait=thrifty_clerk add_trait=diligent add_trait=paranoid add_trait=ambitious add_trait=wroth 
+	add_trait=temperate 
+	father=1019931507	#Andrianary
+	765.10.17={ birth=yes }
+	835.5.24={ death=yes }
+}
+1019931513={
+	name=Norovelomampionona
+	female=yes
+	dynasty=1009990281
+	dna="lofjkphplkk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931507	#Andrianary
+	772.9.1={ birth=yes }
+	855.11.8={ death=yes }
+}
+1019931514={
+	name=Ahitra
+	female=yes
+	dynasty=1009990281
+	dna="nalkkepfllo"
+	culture=vazimba religion=west_african_pagan
+	father=1019931507	#Andrianary
+	776.7.14={ birth=yes }
+	857.6.18={ death=yes }
+}
+1019931515={
+	name=Rangita
+	female=yes
+	dynasty=1009990281
+	dna="piboaigflmg"
+	culture=vazimba religion=west_african_pagan
+	father=1019931512	#Solofo
+	786.12.15={ birth=yes }
+	852.9.21={ death=yes }
+}
+1019931516={
+	name=Haja
+	dynasty=1009990281
+	dna="jabjliofbld"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=lustful add_trait=trusting add_trait=just add_trait=ambitious 
+	add_trait=craven 
+	father=1019931512	#Solofo
+	790.8.25={ birth=yes }
+	846.3.15={ death=yes }
+}
+1019931517={
+	name=Faneva
+	dynasty=1009990281
+	dna="iamdkdafbld"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	add_trait=flamboyant_schemer add_trait=slothful add_trait=envious add_trait=chaste 
+	add_trait=wounded 
+	father=1019931512	#Solofo
+	794.10.27={ birth=yes }
+	874.12.15={ death=yes }
+}
+1019931518={
+	name=Nyantsa
+	female=yes
+	dynasty=1009990281
+	dna="jaclaigfnbo"
+	culture=vazimba religion=west_african_pagan
+	father=1019931512	#Solofo
+	800.8.8={ birth=yes }
+	844.12.1={ death=yes }
+}
+1019931519={
+	name=Tovohery
+	dynasty=1009990281
+	dna="faadaimhllf"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	add_trait=naive_appeaser add_trait=patient add_trait=zealous add_trait=charitable add_trait=paranoid 
+	father=1019931512	#Solofo
+	805.5.15={ birth=yes }
+	879.5.30={ death=yes }
+}
+1019931520={
+	name=Raharimampionona
+	female=yes
+	dynasty=1009990281
+	dna="jadgipgflfe"
+	culture=vazimba religion=west_african_pagan
+	father=1019931512	#Solofo
+	810.7.5={ birth=yes }
+	885.4.19={ death=yes }
+}
+1019931521={
+	name=Henintsoa
+	female=yes
+	dynasty=1009990281
+	dna="jacheigplhf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931512	#Solofo
+	813.1.17={ birth=yes }
+	885.3.30={ death=yes }
+}
+1019931522={
+	name=Andriamasinavalona
+	dynasty=1009990281
+	dna="jabjlhofllo"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=4 learning=8
+	add_trait=detached_priest add_trait=greedy add_trait=just 
+	father=1019931516	#Haja
+	813.6.20={ birth=yes }
+	881.9.22={ death=yes }
+}
+1019931523={
+	name=Jaona
+	dynasty=1009990281
+	dna="nabfbjoigod"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=8 learning=5
+	add_trait=misguided_warrior add_trait=trusting add_trait=temperate add_trait=just add_trait=lustful 
+	add_trait=clubfooted 
+	father=1019931516	#Haja
+	817.12.27={ birth=yes }
+	879.7.23={ death=yes }
+}
+1019931524={
+	name=Rano
+	dynasty=1009990281
+	dna="jabmlhhpalj"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=gardener add_trait=patient add_trait=gregarious 
+	father=1019931522	#Andriamasinavalona
+	844.9.16={ birth=yes }
+	910.10.30={ death=yes }
+}
+1019931525={
+	name=Andrianasy
+	dynasty=1009990281
+	dna="imjjlgnhlmo"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=patient add_trait=lustful add_trait=shy 
+	add_trait=humble 
+	father=1019931522	#Andriamasinavalona
+	850.9.12={ birth=yes }
+	911.3.11={ death=yes }
+}
+1019931526={
+	name=Zazaharivelo
+	dynasty=1009990281
+	dna="ambmlhhpccj"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=just add_trait=greedy 
+	father=1019931524	#Rano
+	867.11.20={ birth=yes }
+	915.8.26={ death=yes }
+}
+1019931527={
+	name=Anja
+	dynasty=1009990281
+	dna="cailiihpnlp"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=7 learning=5
+	add_trait=naive_appeaser add_trait=poet add_trait=ambitious add_trait=humble add_trait=cynical 
+	add_trait=slothful add_trait=brave 
+	father=1019931524	#Rano
+	872.1.24={ birth=yes }
+	953.1.14={ death=yes }
+}
+1019931528={
+	name=Tombovelo
+	dynasty=1009990281
+	dna="ikghehhaahj"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=4
+	add_trait=midas_touched  add_trait=proud add_trait=paranoid add_trait=greedy 
+	add_trait=shy 
+	father=1019931524	#Rano
+	875.12.2={ birth=yes }
+	929.10.18={ death=yes }
+}
+1019931529={
+	name=Lalao
+	female=yes
+	dynasty=1009990281
+	dna="nibihpheajj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931524	#Rano
+	883.2.18={ birth=yes }
+	958.8.21={ death=yes }
+}
+1019931530={
+	name=Andrianasy
+	dynasty=1009990281
+	dna="amkkllkipcj"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=just add_trait=envious add_trait=charitable 
+	father=1019931526	#Zazaharivelo
+	894.4.25={ birth=yes }
+	970.2.9={ death=yes }
+}
+1019931531={
+	name=Razia
+	female=yes
+	dynasty=1009990281
+	dna="agdmllhpcck"
+	culture=vazimba religion=west_african_pagan
+	father=1019931526	#Zazaharivelo
+	900.5.2={ birth=yes }
+	952.10.29={ death=yes }
+}
+1019931532={
+	name=Nandrianina
+	female=yes
+	dynasty=1009990281
+	dna="cmbmndhpclj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931526	#Zazaharivelo
+	905.2.21={ birth=yes }
+	960.4.12={ death=yes }
+}
+1019931533={
+	name=Tahiry
+	female=yes
+	dynasty=1009990281
+	dna="kmiklfkefcm"
+	culture=vazimba religion=west_african_pagan
+	father=1019931530	#Andrianasy
+	926.9.27={ birth=yes }
+	993.3.18={ death=yes }
+}
+1019931534={
+	name=Tovohery
+	dynasty=1009990281
+	dna="amkmalkipcj"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=5 learning=5
+	add_trait=scholarly_theologian add_trait=impaler add_trait=slothful add_trait=cynical add_trait=charitable 
+	add_trait=humble add_trait=arbitrary add_trait=gluttonous 
+	father=1019931530	#Andrianasy
+	932.3.5={ birth=yes }
+	986.9.29={ death=yes }
+}
+1019931535={
+	name=Masina
+	female=yes
+	dynasty=1009990281
+	dna="egkkllcipaj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931530	#Andrianasy
+	936.6.27={ birth=yes }
+	1021.6.20={ death=yes }
+}
+1019931536={
+	name=Rafohy
+	female=yes
+	dynasty=1009990281
+	dna="cmkmpckppcg"
+	culture=vazimba religion=west_african_pagan
+	father=1019931534	#Tovohery
+	954.6.27={ birth=yes }
+	1016.9.24={ death=yes }
+}
+1019931537={
+	name=Faneva
+	dynasty=1009990281
+	dna="jmddjaoipjj"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=8
+	add_trait=detached_priest add_trait=zealous  add_trait=paranoid add_trait=gluttonous 
+	add_trait=shy 
+	father=1019931534	#Tovohery
+	961.10.19={ birth=yes }
+	1033.6.10={ death=yes }
+}
+1019931538={
+	name=Tsiky
+	female=yes
+	dynasty=1009990281
+	dna="ajkcalaipcj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931534	#Tovohery
+	968.10.23={ birth=yes }
+	1033.10.2={ death=yes }
+}
+1019931539={
+	name=Manantena
+	female=yes
+	dynasty=1009990281
+	dna="cmkmaefcagp"
+	culture=vazimba religion=west_african_pagan
+	father=1019931534	#Tovohery
+	974.3.19={ birth=yes }
+	1055.10.15={ death=yes }
+}
+1019931540={
+	name=Razafitiana
+	dynasty=1009990281
+	dna="pkldeaocpjj"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=humble add_trait=trusting add_trait=slothful 
+	add_trait=deceitful 
+	father=1019931537	#Faneva
+	990.12.7={ birth=yes }
+	1056.3.6={ death=yes }
+}
+1019931541={
+	name=Raharimampionona
+	female=yes
+	dynasty=1009990281
+	dna="jbpijeciemj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931537	#Faneva
+	996.12.3={ birth=yes }
+	1055.11.19={ death=yes }
+}
+1019931542={
+	name=Nantenaina
+	female=yes
+	dynasty=1009990281
+	dna="jicdllpiojh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931537	#Faneva
+	1002.4.5={ birth=yes }
+	1070.4.6={ death=yes }
+}
+1019931543={
+	name=Tovohery
+	dynasty=1009990281
+	dna="lmdkhaoiafj"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=humble add_trait=honest add_trait=envious add_trait=gregarious 
+	add_trait=depressed 
+	father=1019931537	#Faneva
+	1008.7.8={ birth=yes }
+	1075.9.19={ death=yes }
+}
+1019931544={
+	name=Tsiory
+	dynasty=1009990281
+	dna="pkldpajcpaj"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=5
+	add_trait=skilled_tactician add_trait=honest add_trait=proud add_trait=envious add_trait=chaste 
+	add_trait=trusting 
+	father=1019931540	#Razafitiana
+	1015.2.16={ birth=yes }
+	1077.6.17={ death=yes }
+}
+1019931545={
+	name=Riantsoa
+	female=yes
+	dynasty=1009990281
+	dna="feloeaoepcl"
+	culture=vazimba religion=west_african_pagan
+	father=1019931540	#Razafitiana
+	1023.11.8={ birth=yes }
+	1090.7.5={ death=yes }
+}
+1019931546={
+	name=Raharimampionona
+	female=yes
+	dynasty=1009990281
+	dna="pkaajakmpnj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931540	#Razafitiana
+	1030.10.24={ birth=yes }
+	1099.10.30={ death=yes }
+}
+1019931547={
+	name=Nyantsa
+	female=yes
+	dynasty=1009990281
+	dna="cmmkdajcdaj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931544	#Tsiory
+	1042.1.18={ birth=yes }
+	1119.4.18={ death=yes }
+}
+1019931548={
+	name=Andrianjafynandriamanitra
+	dynasty=1009990281
+	dna="hkknpjjbnnn"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=6
+	add_trait=midas_touched add_trait=envious add_trait=lustful add_trait=proud add_trait=deceitful 
+	add_trait=temperate 
+	father=1019931544	#Tsiory
+	1047.2.6={ birth=yes }
+	1114.3.9={ death=yes }
+}
+1019931549={
+	name=Ranavalona
+	female=yes
+	dynasty=1009990281
+	dna="ikndlajclkj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931544	#Tsiory
+	1050.10.18={ birth=yes }
+	1125.11.8={ death=yes }
+}
+1019931550={
+	name=Hanta
+	female=yes
+	dynasty=1009990281
+	dna="pdlkpejcoaj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931544	#Tsiory
+	1056.10.27={ birth=yes }
+	1129.6.13={ death=yes }
+}
+1019931551={
+	name=Tsilavohery
+	dynasty=1009990281
+	dna="pfnhpajmpgj"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=8
+	add_trait=scholarly_theologian add_trait=hedonist  add_trait=ambitious 
+	add_trait=temperate add_trait=slothful add_trait=gregarious 
+	father=1019931544	#Tsiory
+	1061.8.25={ birth=yes }
+	1135.2.19={ death=yes }
+}
+1019931552={
+	name=Tombovelo
+	dynasty=1009990281
+	dna="hkfnpailnmn"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	add_trait=scholarly_theologian add_trait=gluttonous add_trait=wroth add_trait=content add_trait=gregarious 
+	add_trait=stressed 
+	father=1019931548	#Andrianjafynandriamanitra
+	1079.1.17={ birth=yes }
+	1141.12.28={ death=yes }
+}
+1019931553={
+	name=Andriantsitakatrandriana
+	dynasty=1009990281
+	dna="lckcpnabinn"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=6 learning=7
+	add_trait=midas_touched add_trait=zealous add_trait=envious 
+	father=1019931548	#Andrianjafynandriamanitra
+	1084.2.21={ birth=yes }
+	1169.9.12={ death=yes }
+}
+1019931554={
+	name=Andrianavalona
+	dynasty=1009990281
+	dna="pefgngilmkn"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=6 learning=7
+	add_trait=mastermind_theologian add_trait=diligent add_trait=gluttonous add_trait=humble add_trait=brave 
+	father=1019931552	#Tombovelo
+	1103.7.27={ birth=yes }
+	1166.10.5={ death=yes }
+}
+1019931555={
+	name=Andrianjafynandriamanitra
+	dynasty=1009990281
+	dna="ekfnpnilemo"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=patient add_trait=deceitful add_trait=greedy add_trait=paranoid 
+	father=1019931552	#Tombovelo
+	1109.11.9={ birth=yes }
+	1188.9.20={ death=yes }
+}
+1019931556={
+	name=Mandresy
+	dynasty=1009990281
+	dna="lkfkjamehmn"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=zealous add_trait=temperate add_trait=paranoid add_trait=greedy 
+	 
+	father=1019931552	#Tombovelo
+	1116.7.13={ birth=yes }
+	1157.11.29={ death=yes }
+}
+1019931557={
+	name=Naina
+	female=yes
+	dynasty=1009990281
+	dna="hkplpainemn"
+	culture=vazimba religion=west_african_pagan
+	father=1019931552	#Tombovelo
+	1120.8.8={ birth=yes }
+	1160.12.9={ death=yes }
+}
+1019931558={
+	name=Tsiory
+	dynasty=1009990281
+	dna="pefddgilmpn"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=7
+	add_trait=elusive_shadow add_trait=just add_trait=brave add_trait=humble add_trait=clubfooted 
+	father=1019931554	#Andrianavalona
+	1125.4.11={ birth=yes }
+	1195.12.8={ death=yes }
+}
+1019931559={
+	name=Andrianjafynandriamanitra
+	dynasty=1009990281
+	dna="jpofngejmki"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=humble add_trait=depressed 
+	father=1019931554	#Andrianavalona
+	1129.2.15={ birth=yes }
+	1194.3.8={ death=yes }
+}
+1019931560={
+	name=Zafiamiarina
+	dynasty=1009990281
+	dna="pefglgilmkn"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=greedy  add_trait=patient 
+	add_trait=wounded 
+	father=1019931554	#Andrianavalona
+	1134.5.3={ birth=yes }
+	1212.11.8={ death=yes }
+}
+1019931561={
+	name=Faniry
+	female=yes
+	dynasty=1009990281
+	dna="nnfgjgilfao"
+	culture=vazimba religion=west_african_pagan
+	father=1019931554	#Andrianavalona
+	1138.4.27={ birth=yes }
+	1179.6.25={ death=yes }
+}
+1019931562={
+	name=Mandresy
+	dynasty=1009990281
+	dna="hefgbmihdkn"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=paranoid add_trait=greedy add_trait=deceitful add_trait=gluttonous 
+	add_trait=wounded 
+	father=1019931554	#Andrianavalona
+	1142.10.13={ birth=yes }
+	1217.3.11={ death=yes }
+}
+1019931563={
+	name=Raharimampionona
+	female=yes
+	dynasty=1009990281
+	dna="pepgnmiigkn"
+	culture=vazimba religion=west_african_pagan
+	father=1019931554	#Andrianavalona
+	1146.4.7={ birth=yes }
+	1232.2.17={ death=yes }
+}
+1019931564={
+	name=Mbolatiana
+	female=yes
+	dynasty=1009990281
+	dna="pafengcfmof"
+	culture=vazimba religion=west_african_pagan
+	father=1019931554	#Andrianavalona
+	1151.3.13={ birth=yes }
+	1218.1.20={ death=yes }
+}
+1019931565={
+	name=Mirantsoa
+	female=yes
+	dynasty=1009990281
+	dna="pllddcibjib"
+	culture=vazimba religion=west_african_pagan
+	father=1019931558	#Tsiory
+	1148.11.10={ birth=yes }
+	1234.6.22={ death=yes }
+}
+1019931566={
+	name=Zafiamiarina
+	dynasty=1009990281
+	dna="idfdogigfjn"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=7
+	add_trait=scholarly_theologian add_trait=scholar add_trait=brave add_trait=charitable 
+	add_trait=cynical add_trait=just add_trait=quick 
+	father=1019931558	#Tsiory
+	1151.12.27={ birth=yes }
+	1236.12.17={ death=yes }
+}
+1019931567={
+	name=Sedera
+	dynasty=1009990281
+	dna="pefdfejlfef"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=hunter add_trait=lustful 
+	father=1019931558	#Tsiory
+	1155.11.5={ birth=yes }
+	1246.3.6={ death=yes }
+}
+1019931568={
+	name=Rangita
+	female=yes
+	dynasty=1009990281
+	dna="ghfdmghampn"
+	culture=vazimba religion=west_african_pagan
+	father=1019931558	#Tsiory
+	1158.1.18={ birth=yes }
+	1224.2.7={ death=yes }
+}
+1019931569={
+	name=Mandresy
+	dynasty=1009990281
+	dna="cgedfaipkjb"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=4
+	add_trait=thrifty_clerk add_trait=deceitful add_trait=diligent add_trait=arbitrary add_trait=gluttonous 
+	father=1019931566	#Zafiamiarina
+	1180.1.12={ birth=yes }
+	1247.8.7={ death=yes }
+}
+1019931570={
+	name=Tsiory
+	dynasty=1009990281
+	dna="jdfbjgbgpfb"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	add_trait=elusive_shadow add_trait=paranoid add_trait=patient add_trait=greedy add_trait=slothful 
+	father=1019931566	#Zafiamiarina
+	1185.11.6={ birth=yes }
+	1267.4.28={ death=yes }
+}
+1019931571={
+	name=Andrianasy
+	dynasty=1009990281
+	dna="ipfdbgimfnn"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	add_trait=intricate_webweaver add_trait=craven  add_trait=humble 
+	father=1019931566	#Zafiamiarina
+	1190.5.23={ birth=yes }
+	1276.6.2={ death=yes }
+}
+1019931572={
+	name=Andriantsimitoviaminandriana
+	dynasty=1009990281
+	dna="fdedoglmfhn"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=patient add_trait=trusting add_trait=gregarious 
+	father=1019931566	#Zafiamiarina
+	1194.11.3={ birth=yes }
+	1278.9.21={ death=yes }
+}
+1019931573={
+	name=Andriambelomasina
+	dynasty=1009990281
+	dna="ihodogiofjn"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=martial_cleric add_trait=envious add_trait=trusting add_trait=craven 
+	father=1019931566	#Zafiamiarina
+	1199.11.1={ birth=yes }
+	1285.12.28={ death=yes }
+}
+1019931574={
+	name=Raharimampionona
+	female=yes
+	dynasty=1009990281
+	dna="pindogidoce"
+	culture=vazimba religion=west_african_pagan
+	father=1019931566	#Zafiamiarina
+	1204.4.10={ birth=yes }
+	1276.1.25={ death=yes }
+}
+1019931575={
+	name=Mandresy
+	dynasty=1009990281
+	dna="ndhlogpcaji"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=6
+	add_trait=naive_appeaser add_trait=ambitious add_trait=slothful add_trait=stutter 
+	father=1019931566	#Zafiamiarina
+	1208.9.11={ birth=yes }
+	1287.9.5={ death=yes }
+}
+1019931576={
+	name=Neny
+	female=yes
+	dynasty=1009990281
+	dna="cdkdffepfjk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931569	#Mandresy
+	1203.8.15={ birth=yes }
+	1288.5.11={ death=yes }
+}
+1019931577={
+	name=Andriamanelo
+	dynasty=1009990281
+	dna="lgcafaipefb"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=zealous add_trait=gluttonous add_trait=wroth add_trait=proud 
+	add_trait=honest 
+	father=1019931569	#Mandresy
+	1209.8.16={ birth=yes }
+	1288.11.13={ death=yes }
+}
+1019931578={
+	name=Riantsoa
+	female=yes
+	dynasty=1009990281
+	dna="bgldflipkjn"
+	culture=vazimba religion=west_african_pagan
+	father=1019931569	#Mandresy
+	1212.4.22={ birth=yes }
+	1274.10.13={ death=yes }
+}
+1019931579={
+	name=Haja
+	dynasty=1009990281
+	dna="caeehaipkjp"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=5 learning=4
+	add_trait=skilled_tactician add_trait=lustful add_trait=proud add_trait=just add_trait=slothful 
+	add_trait=gregarious add_trait=charitable add_trait=fair 
+	father=1019931569	#Mandresy
+	1218.2.21={ birth=yes }
+	1288.1.25={ death=yes }
+}
+1019931580={
+	name=Arisoa
+	female=yes
+	dynasty=1009990281
+	dna="cgcahihkmfe"
+	culture=vazimba religion=west_african_pagan
+	father=1019931577	#Andriamanelo
+	1240.10.26={ birth=yes }
+	1310.10.9={ death=yes }
+}
+1019931581={
+	name=Zazaharivelo
+	dynasty=1009990281
+	dna="gbcaffcpeod"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=martial_cleric  add_trait=temperate add_trait=shy 
+	add_trait=chaste 
+	father=1019931577	#Andriamanelo
+	1246.5.9={ birth=yes }
+	1309.11.18={ death=yes }
+}
+1019931582={
+	name=Andriantsimitoviaminandriandehibe
+	dynasty=1009990281
+	dna="gjjnfjalefg"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	add_trait=intricate_webweaver add_trait=chaste add_trait=proud add_trait=cynical 
+	father=1019931577	#Andriamanelo
+	1252.10.23={ birth=yes }
+	1319.10.17={ death=yes }
+}
+1019931583={
+	name=Riantsoa
+	female=yes
+	dynasty=1009990281
+	dna="lgcmfahnefb"
+	culture=vazimba religion=west_african_pagan
+	father=1019931577	#Andriamanelo
+	1256.5.21={ birth=yes }
+	1334.9.11={ death=yes }
+}
+1019931584={
+	name=Niaina
+	dynasty=1009990281
+	dna="gaaaefbceel"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=wroth add_trait=honest 
+	father=1019931581	#Zazaharivelo
+	1271.9.22={ birth=yes }
+	1334.1.4={ death=yes }
+}
+1019931585={
+	name=Andrianasy
+	dynasty=1009990281
+	dna="hbcifhjpndo"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	add_trait=intricate_webweaver  add_trait=deceitful add_trait=shy 
+	add_trait=arbitrary add_trait=weak 
+	father=1019931581	#Zazaharivelo
+	1274.9.23={ birth=yes }
+	1348.6.23={ death=yes }
+}
+1019931586={
+	name=Haja
+	dynasty=1009990281
+	dna="gbgafmgmeon"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	add_trait=scholarly_theologian add_trait=scholar  add_trait=temperate 
+	add_trait=diligent 
+	father=1019931581	#Zazaharivelo
+	1277.1.19={ birth=yes }
+	1362.2.16={ death=yes }
+}
+1019931587={
+	name=Tsimisotry
+	dynasty=1009990281
+	dna="lbcdnaoceod"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=slothful add_trait=gluttonous 
+	father=1019931581	#Zazaharivelo
+	1280.6.26={ birth=yes }
+	1359.1.10={ death=yes }
+}
+1019931588={
+	name=Andriantsimitoviaminandriandehibe
+	dynasty=1009990281
+	dna="ecaadahcjed"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=4 learning=6
+	add_trait=indulgent_wastrel add_trait=hunter add_trait=wroth add_trait=deceitful add_trait=brave 
+	add_trait=paranoid add_trait=envious add_trait=slothful 
+	father=1019931584	#Niaina
+	1292.9.16={ birth=yes }
+	1362.11.8={ death=yes }
+}
+1019931589={
+	name=Riantsoa
+	female=yes
+	dynasty=1009990281
+	dna="haacpffaecd"
+	culture=vazimba religion=west_african_pagan
+	father=1019931584	#Niaina
+	1296.7.17={ birth=yes }
+	1359.4.11={ death=yes }
+}
+1019931590={
+	name=Rano
+	dynasty=1009990281
+	dna="gnaaifjoeom"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=flamboyant_schemer add_trait=impaler add_trait=gregarious add_trait=patient add_trait=paranoid 
+	add_trait=deceitful 
+	father=1019931584	#Niaina
+	1300.11.27={ birth=yes }
+	1402.12.21={ death=yes }
+}
+1019931591={
+	name=Riantsoa
+	female=yes
+	dynasty=1009990281
+	dna="gkakedecedo"
+	culture=vazimba religion=west_african_pagan
+	father=1019931584	#Niaina
+	1303.6.4={ birth=yes }
+	1364.6.14={ death=yes }
+}
+1019931592={
+	name=Tandra
+	female=yes
+	dynasty=1009990281
+	dna="gaaeefbfecd"
+	culture=vazimba religion=west_african_pagan
+	father=1019931584	#Niaina
+	1308.10.23={ birth=yes }
+	1394.2.12={ death=yes }
+}
+1019931593={
+	name=Haja
+	dynasty=1009990281
+	dna="ehaoapdlged"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=ambitious add_trait=proud add_trait=chaste add_trait=honest 
+	add_trait=ill 
+	father=1019931588	#Andriantsimitoviaminandriandehibe
+	1325.5.19={ birth=yes }
+	1428.11.17={ death=yes }
+}
+1019931594={
+	name=Zafiamiarina
+	dynasty=1009990281
+	dna="eapodajcjjd"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	add_trait=thrifty_clerk add_trait=gluttonous add_trait=just add_trait=craven add_trait=wroth 
+	 add_trait=shy add_trait=lunatic 
+	father=1019931588	#Andriantsimitoviaminandriandehibe
+	1329.8.13={ birth=yes }
+	1396.10.23={ death=yes }
+}
+1019931595={
+	name=Narisoa
+	dynasty=1009990281
+	dna="efajdkhcpid"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=chaste add_trait=ambitious add_trait=cynical add_trait=deceitful 
+	add_trait=humble 
+	father=1019931588	#Andriantsimitoviaminandriandehibe
+	1335.2.1={ birth=yes }
+	1396.8.1={ death=yes }
+}
+1019931596={
+	name=Solofo
+	dynasty=1009990281
+	dna="naaoapdlgfa"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=trusting add_trait=humble add_trait=zealous 
+	father=1019931593	#Haja
+	1352.2.7={ birth=yes }
+	1413.2.11={ death=yes }
+}
+1019931597={
+	name=Narisoa
+	dynasty=1009990281
+	dna="ehpoapjhgnd"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=7
+	add_trait=detached_priest add_trait=brave add_trait=slothful add_trait=humble 
+	father=1019931593	#Haja
+	1359.12.8={ birth=yes }
+	1430.5.3={ death=yes }
+}
+1019931598={
+	name=Andrianary
+	dynasty=1009990281
+	dna="nacgapdmgfa"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=4 learning=8
+	add_trait=detached_priest add_trait=chaste add_trait=humble add_trait=temperate 
+	father=1019931596	#Solofo
+	1376.7.11={ birth=yes }
+	1439.2.18={ death=yes }
+}
+1019931599={
+	name=Lanitra
+	female=yes
+	dynasty=1009990281
+	dna="oakocpdeofc"
+	culture=vazimba religion=west_african_pagan
+	father=1019931596	#Solofo
+	1383.6.8={ birth=yes }
+	1440.3.20={ death=yes }
+}
+1019931600={
+	name=Toavina
+	dynasty=1009990281
+	dna="nahfafdlmfm"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=7 learning=8
+	add_trait=misguided_warrior add_trait=brave add_trait=humble 
+	father=1019931596	#Solofo
+	1388.7.17={ birth=yes }
+	1461.3.5={ death=yes }
+}
+1019931601={
+	name=Andrianjaka
+	dynasty=1009990281
+	dna="loipacdlmof"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=7 learning=8
+	add_trait=grey_eminence add_trait=mystic add_trait=lustful add_trait=greedy add_trait=ambitious 
+	father=1019931596	#Solofo
+	1391.7.8={ birth=yes }
+	1473.8.13={ death=yes }
+}
+1019931602={
+	name=Andrianasy
+	dynasty=1009990281
+	dna="jacgaliigha"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=scholar add_trait=patient add_trait=ambitious add_trait=humble 
+	add_trait=just  
+	father=1019931598	#Andrianary
+	1398.1.25={ birth=yes }
+	1452.6.4={ death=yes }
+}
+1019931603={
+	name=Andrianasy
+	dynasty=1009990281
+	dna="gncchpimgbf"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	add_trait=elusive_shadow add_trait=humble add_trait=shy add_trait=diligent 
+	add_trait=ill 
+	father=1019931598	#Andrianary
+	1403.7.26={ birth=yes }
+	1474.11.11={ death=yes }
+}
+1019931604={
+	name=Masina
+	female=yes
+	dynasty=1009990281
+	dna="ndcgapdngfa"
+	culture=vazimba religion=west_african_pagan
+	father=1019931598	#Andrianary
+	1407.5.7={ birth=yes }
+	1488.10.4={ death=yes }
+}
+1019931605={
+	name=Andriantsimitoviaminandriandehibe
+	dynasty=1009990281
+	dna="hagmppdmgfg"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=chaste add_trait=trusting add_trait=honest add_trait=slothful 
+	add_trait=content add_trait=zealous 
+	father=1019931598	#Andrianary
+	1413.9.18={ birth=yes }
+	1489.2.1={ death=yes }
+}
+1019931606={
+	name=Fitiavana
+	female=yes
+	dynasty=1009990281
+	dna="clbgapdmfog"
+	culture=vazimba religion=west_african_pagan
+	father=1019931598	#Andrianary
+	1417.12.25={ birth=yes }
+	1490.2.20={ death=yes }
+}
+1019931607={
+	name=Volana
+	female=yes
+	dynasty=1009990281
+	dna="iacbakbmpch"
+	culture=vazimba religion=west_african_pagan
+	father=1019931598	#Andrianary
+	1420.1.13={ birth=yes }
+	1504.6.27={ death=yes }
+}
+1019931608={
+	name=Sedera
+	dynasty=1009990281
+	dna="jacgflofgnd"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=5 learning=6
+	add_trait=thrifty_clerk add_trait=scholar add_trait=just add_trait=diligent add_trait=chaste 
+	add_trait=zealous add_trait=stutter 
+	father=1019931602	#Andrianasy
+	1418.10.22={ birth=yes }
+	1501.10.9={ death=yes }
+}
+1019931609={
+	name=Maeva
+	female=yes
+	dynasty=1009990281
+	dna="mecbagibgea"
+	culture=vazimba religion=west_african_pagan
+	father=1019931602	#Andrianasy
+	1424.2.21={ birth=yes }
+	1478.8.21={ death=yes }
+}
+1019931610={
+	name=Henintsoa
+	female=yes
+	dynasty=1009990281
+	dna="kppnaiipghh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931602	#Andrianasy
+	1430.2.26={ birth=yes }
+	1500.2.21={ death=yes }
+}
+1019931611={
+	name=Razia
+	female=yes
+	dynasty=1009990281
+	dna="ilcgcojigfe"
+	culture=vazimba religion=west_african_pagan
+	father=1019931602	#Andrianasy
+	1436.12.4={ birth=yes }
+	1505.12.2={ death=yes }
+}
+1019931612={
+	name=Narisoa
+	dynasty=1009990281
+	dna="nocgblnfmnd"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=8 learning=6
+	add_trait=scholarly_theologian add_trait=chaste add_trait=zealous add_trait=ambitious 
+	add_trait=depressed add_trait=weak 
+	father=1019931608	#Sedera
+	1443.2.10={ birth=yes }
+	1526.7.9={ death=yes }
+}
+1019931613={
+	name=Andriamanelo
+	dynasty=1009990281
+	dna="oacjcllbgad"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=misguided_warrior add_trait=trusting add_trait=slothful add_trait=zealous add_trait=depressed 
+	father=1019931608	#Sedera
+	1447.9.23={ birth=yes }
+	1514.10.19={ death=yes }
+}
+1019931614={
+	name=Lalao
+	female=yes
+	dynasty=1009990281
+	dna="lnfifehkgnk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931608	#Sedera
+	1452.4.2={ birth=yes }
+	1538.11.20={ death=yes }
+}
+1019931615={
+	name=Ony
+	female=yes
+	dynasty=1009990281
+	dna="dicgdiofgdk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931608	#Sedera
+	1457.12.19={ birth=yes }
+	1513.8.26={ death=yes }
+}
+1019931616={
+	name=Nyantsa
+	female=yes
+	dynasty=1009990281
+	dna="ipceipofhnd"
+	culture=vazimba religion=west_african_pagan
+	father=1019931608	#Sedera
+	1462.6.23={ birth=yes }
+	1506.3.25={ death=yes }
+}
+1019931617={
+	name=Niaina
+	dynasty=1009990282
+	dna="nifpelhdgkj"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=trusting add_trait=proud 
+	640.4.5={ birth=yes }
+	714.4.26={ death=yes }
+}
+1019931618={
+	name=Odon
+	dynasty=1009990282
+	dna="nnepelhdpkj"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=5 learning=4
+	add_trait=naive_appeaser add_trait=paranoid add_trait=shy add_trait=just 
+	father=1019931617	#Niaina
+	671.10.24={ birth=yes }
+	733.2.16={ death=yes }
+}
+1019931619={
+	name=Arisoa
+	female=yes
+	dynasty=1009990282
+	dna="mndjalldhma"
+	culture=vazimba religion=west_african_pagan
+	father=1019931617	#Niaina
+	678.4.8={ birth=yes }
+	749.7.5={ death=yes }
+}
+1019931620={
+	name=Mampihao
+	dynasty=1009990282
+	dna="nibcebmhnej"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=7 learning=7
+	add_trait=indulgent_wastrel add_trait=humble add_trait=trusting add_trait=honest add_trait=lustful 
+	father=1019931617	#Niaina
+	682.8.11={ birth=yes }
+	758.8.13={ death=yes }
+}
+1019931621={
+	name=Andriantsimitoviaminandriana
+	dynasty=1009990282
+	dna="nnnillhgpij"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=8 learning=7
+	add_trait=scholarly_theologian add_trait=charitable add_trait=craven add_trait=just add_trait=deceitful 
+	father=1019931618	#Odon
+	693.1.12={ birth=yes }
+	747.5.28={ death=yes }
+}
+1019931622={
+	name=Andrianavalona
+	dynasty=1009990282
+	dna="bnehecmickj"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=impaler add_trait=gregarious add_trait=lustful add_trait=paranoid 
+	add_trait=deceitful add_trait=patient add_trait=drunkard 
+	father=1019931618	#Odon
+	698.6.23={ birth=yes }
+	757.8.12={ death=yes }
+}
+1019931623={
+	name=Ony
+	female=yes
+	dynasty=1009990282
+	dna="nnepeliiplj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931618	#Odon
+	704.8.11={ birth=yes }
+	784.11.6={ death=yes }
+}
+1019931624={
+	name=Solofo
+	dynasty=1009990282
+	dna="nnhicgpgeij"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=scholar add_trait=content add_trait=greedy add_trait=diligent 
+	add_trait=deceitful add_trait=gluttonous add_trait=gregarious 
+	father=1019931621	#Andriantsimitoviaminandriana
+	716.3.22={ birth=yes }
+	769.7.16={ death=yes }
+}
+1019931625={
+	name=Razafitiana
+	dynasty=1009990282
+	dna="ndnellcgpgj"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=cynical add_trait=humble add_trait=deceitful 
+	father=1019931621	#Andriantsimitoviaminandriana
+	722.4.25={ birth=yes }
+	782.1.9={ death=yes }
+}
+1019931626={
+	name=Andriantsitakatrandriana
+	dynasty=1009990282
+	dna="mcniglhgpkk"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=6 learning=6
+	add_trait=misguided_warrior add_trait=zealous add_trait=temperate add_trait=proud add_trait=shy 
+	
+	father=1019931621	#Andriantsimitoviaminandriana
+	727.5.11={ birth=yes }
+	788.1.8={ death=yes }
+}
+1019931627={
+	name=Odon
+	dynasty=1009990282
+	dna="nnnilllnpap"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=6
+	add_trait=naive_appeaser add_trait=deceitful add_trait=gluttonous add_trait=lustful 
+	add_trait=charitable 
+	father=1019931621	#Andriantsimitoviaminandriana
+	733.6.3={ birth=yes }
+	812.4.23={ death=yes }
+}
+1019931628={
+	name=Tsilavohery
+	dynasty=1009990282
+	dna="fnkjknpbpgd"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=gardener add_trait=zealous add_trait=trusting 
+	add_trait=wounded 
+	father=1019931621	#Andriantsimitoviaminandriana
+	737.3.2={ birth=yes }
+	792.9.13={ death=yes }
+}
+1019931629={
+	name=Ralambo
+	dynasty=1009990282
+	dna="nkbilapophj"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=4 learning=7
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=greedy add_trait=ambitious 
+	add_trait=paranoid 
+	father=1019931621	#Andriantsimitoviaminandriana
+	742.11.21={ birth=yes }
+	818.1.1={ death=yes }
+}
+1019931630={
+	name=Sedera
+	dynasty=1009990282
+	dna="gplkeldgdcj"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=7 learning=8
+	add_trait=indulgent_wastrel  add_trait=arbitrary 
+	father=1019931621	#Andriantsimitoviaminandriana
+	747.4.10={ birth=yes }
+	829.9.24={ death=yes }
+}
+1019931631={
+	name=Tsiory
+	dynasty=1009990282
+	dna="anhjggpgeij"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=brave add_trait=cynical add_trait=deceitful 
+	add_trait=wroth 
+	father=1019931624	#Solofo
+	745.5.10={ birth=yes }
+	831.6.1={ death=yes }
+}
+1019931632={
+	name=Nantenaina
+	female=yes
+	dynasty=1009990282
+	dna="mmdaegpoeaj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931624	#Solofo
+	748.5.9={ birth=yes }
+	803.6.8={ death=yes }
+}
+1019931633={
+	name=Tovohery
+	dynasty=1009990282
+	dna="nohicgpdeij"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=patient add_trait=shy add_trait=brave add_trait=chaste 
+	add_trait=ambitious 
+	father=1019931624	#Solofo
+	752.4.26={ birth=yes }
+	810.5.1={ death=yes }
+}
+1019931634={
+	name=Hamada
+	dynasty=1009990282
+	dna="nngihgcgkfj"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=6 learning=7
+	add_trait=charismatic_negotiator add_trait=diligent add_trait=ambitious add_trait=zealous add_trait=charitable 
+	father=1019931624	#Solofo
+	759.10.18={ birth=yes }
+	851.5.14={ death=yes }
+}
+1019931635={
+	name=Andriantsitakatrandriana
+	dynasty=1009990282
+	dna="anfhglpgeij"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=8 learning=8
+	add_trait=grey_eminence add_trait=wroth add_trait=slothful add_trait=clubfooted 
+	father=1019931631	#Tsiory
+	771.12.1={ birth=yes }
+	836.12.13={ death=yes }
+}
+1019931636={
+	name=Rangita
+	female=yes
+	dynasty=1009990282
+	dna="lcnjggfgeia"
+	culture=vazimba religion=west_african_pagan
+	father=1019931631	#Tsiory
+	774.9.10={ birth=yes }
+	848.9.29={ death=yes }
+}
+1019931637={
+	name=Ralambo
+	dynasty=1009990282
+	dna="alndmghneda"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=poet add_trait=content add_trait=brave 
+	add_trait=slothful 
+	father=1019931631	#Tsiory
+	778.3.23={ birth=yes }
+	834.2.11={ death=yes }
+}
+1019931638={
+	name=Ahitra
+	female=yes
+	dynasty=1009990282
+	dna="anajfgpaoej"
+	culture=vazimba religion=west_african_pagan
+	father=1019931631	#Tsiory
+	781.11.6={ birth=yes }
+	868.10.31={ death=yes }
+}
+1019931639={
+	name=Arisoa
+	female=yes
+	dynasty=1009990282
+	dna="anjfpgpkepl"
+	culture=vazimba religion=west_african_pagan
+	father=1019931635	#Andriantsitakatrandriana
+	799.11.24={ birth=yes }
+	868.12.5={ death=yes }
+}
+1019931640={
+	name=Sedera
+	dynasty=1009990282
+	dna="ajdfgnpjegd"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=greedy add_trait=paranoid add_trait=brave add_trait=diligent 
+	add_trait=gluttonous 
+	father=1019931635	#Andriantsitakatrandriana
+	803.12.13={ birth=yes }
+	890.8.14={ death=yes }
+}
+1019931641={
+	name=Haja
+	dynasty=1009990282
+	dna="cnokglpgece"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=4 learning=4
+	add_trait=intricate_webweaver add_trait=cynical add_trait=humble add_trait=diligent add_trait=temperate 
+	add_trait=paranoid add_trait=stutter 
+	father=1019931635	#Andriantsitakatrandriana
+	810.4.21={ birth=yes }
+	882.2.4={ death=yes }
+}
+1019931642={
+	name=Anja
+	dynasty=1009990282
+	dna="bnpdllpgalj"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	add_trait=tough_soldier add_trait=charitable add_trait=lustful add_trait=craven 
+	father=1019931635	#Andriantsitakatrandriana
+	814.3.5={ birth=yes }
+	884.10.7={ death=yes }
+}
+1019931643={
+	name=Tandra
+	female=yes
+	dynasty=1009990282
+	dna="ajdfgndjegk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931640	#Sedera
+	826.5.8={ birth=yes }
+	901.8.15={ death=yes }
+}
+1019931644={
+	name=Nandrianina
+	female=yes
+	dynasty=1009990282
+	dna="jjgfkccoepc"
+	culture=vazimba religion=west_african_pagan
+	father=1019931640	#Sedera
+	830.3.11={ birth=yes }
+	888.2.29={ death=yes }
+}
+1019931645={
+	name=Ony
+	female=yes
+	dynasty=1009990282
+	dna="haifmnpjpgd"
+	culture=vazimba religion=west_african_pagan
+	father=1019931640	#Sedera
+	835.11.22={ birth=yes }
+	905.12.28={ death=yes }
+}
+1019931646={
+	name=Andrianasy
+	dynasty=1009990282
+	dna="ajdmgjpjegn"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=honest add_trait=greedy add_trait=diligent add_trait=gregarious 
+	add_trait=envious 
+	father=1019931640	#Sedera
+	841.2.27={ birth=yes }
+	900.1.25={ death=yes }
+}
+1019931647={
+	name=Andriamanelo
+	dynasty=1009990282
+	dna="gmdlgopjegf"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=brave add_trait=wroth 
+	father=1019931646	#Andrianasy
+	861.3.12={ birth=yes }
+	920.10.10={ death=yes }
+}
+1019931648={
+	name=Arisoa
+	female=yes
+	dynasty=1009990282
+	dna="aodigjfjegn"
+	culture=vazimba religion=west_african_pagan
+	father=1019931646	#Andrianasy
+	864.8.16={ birth=yes }
+	934.8.3={ death=yes }
+}
+1019931649={
+	name=Fitiavana
+	female=yes
+	dynasty=1009990282
+	dna="pjpjglejebh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931646	#Andrianasy
+	871.10.19={ birth=yes }
+	958.10.29={ death=yes }
+}
+1019931650={
+	name=Naina
+	female=yes
+	dynasty=1009990282
+	dna="medmgjapeom"
+	culture=vazimba religion=west_african_pagan
+	father=1019931646	#Andrianasy
+	874.10.21={ birth=yes }
+	956.6.11={ death=yes }
+}
+1019931651={
+	name=Norovelomampionona
+	female=yes
+	dynasty=1009990282
+	dna="mmffbopmbmf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931647	#Andriamanelo
+	890.11.12={ birth=yes }
+	948.4.24={ death=yes }
+}
+1019931652={
+	name=Henintsoa
+	female=yes
+	dynasty=1009990282
+	dna="gmaciopbenf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931647	#Andriamanelo
+	895.12.24={ birth=yes }
+	966.1.7={ death=yes }
+}
+1019931653={
+	name=Anja
+	dynasty=1009990282
+	dna="gjdlonndpgj"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=6 learning=8
+	add_trait=misguided_warrior add_trait=patient add_trait=gluttonous add_trait=diligent 
+	father=1019931647	#Andriamanelo
+	899.1.19={ birth=yes }
+	944.7.5={ death=yes }
+}
+1019931654={
+	name=Anziza
+	female=yes
+	dynasty=1009990282
+	dna="fjblinndpgf"
+	culture=vazimba religion=west_african_pagan
+	father=1019931653	#Anja
+	926.12.18={ birth=yes }
+	1004.1.21={ death=yes }
+}
+1019931655={
+	name=Tsilavohery
+	dynasty=1009990282
+	dna="gkjhoamdpcn"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=6
+	add_trait=charismatic_negotiator add_trait=mystic add_trait=ambitious add_trait=paranoid add_trait=honest 
+	add_trait=humble add_trait=envious add_trait=drunkard 
+	father=1019931653	#Anja
+	932.1.4={ birth=yes }
+	1011.7.8={ death=yes }
+}
+1019931656={
+	name=Andrianjaka
+	dynasty=1009990282
+	dna="gkgeodddpgj"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=8 learning=6
+	add_trait=indulgent_wastrel add_trait=honest  add_trait=craven add_trait=charitable 
+	add_trait=just 
+	father=1019931653	#Anja
+	937.3.27={ birth=yes }
+	1015.8.6={ death=yes }
+}
+1019931657={
+	name=Vaohangy
+	female=yes
+	dynasty=1009990282
+	dna="gjhmobhjpgi"
+	culture=vazimba religion=west_african_pagan
+	father=1019931653	#Anja
+	942.1.1={ birth=yes }
+	998.8.6={ death=yes }
+}
+1019931658={
+	name=Mandresy
+	dynasty=1009990282
+	dna="edobodhmpcc"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=8 learning=8
+	add_trait=intricate_webweaver add_trait=greedy add_trait=zealous add_trait=craven add_trait=drunkard 
+	father=1019931655	#Tsilavohery
+	954.1.20={ birth=yes }
+	999.6.19={ death=yes }
+}
+1019931659={
+	name=Maeva
+	female=yes
+	dynasty=1009990282
+	dna="pkjhoamjpmn"
+	culture=vazimba religion=west_african_pagan
+	father=1019931655	#Tsilavohery
+	962.4.10={ birth=yes }
+	1041.11.28={ death=yes }
+}
+1019931660={
+	name=Solofo
+	dynasty=1009990282
+	dna="gkghpgodbck"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=paranoid add_trait=envious 
+	father=1019931655	#Tsilavohery
+	964.12.3={ birth=yes }
+	1030.1.20={ death=yes }
+}
+1019931661={
+	name=Henintsoa
+	female=yes
+	dynasty=1009990282
+	dna="dgapoaelpca"
+	culture=vazimba religion=west_african_pagan
+	father=1019931655	#Tsilavohery
+	969.10.11={ birth=yes }
+	1023.9.27={ death=yes }
+}
+1019931662={
+	name=Haja
+	dynasty=1009990282
+	dna="ehnbodfdffh"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=6
+	add_trait=elusive_shadow add_trait=content add_trait=zealous 
+	father=1019931658	#Mandresy
+	974.9.24={ birth=yes }
+	1037.5.28={ death=yes }
+}
+1019931663={
+	name=Ralambo
+	dynasty=1009990282
+	dna="apcbldjdpio"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=patient add_trait=honest add_trait=cynical 
+	father=1019931658	#Mandresy
+	980.1.25={ birth=yes }
+	1038.2.15={ death=yes }
+}
+1019931664={
+	name=Tsilavohery
+	dynasty=1009990282
+	dna="edbbophopca"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=celibate add_trait=brave add_trait=cynical 
+	father=1019931658	#Mandresy
+	984.12.23={ birth=yes }
+	1046.9.5={ death=yes }
+}
+1019931665={
+	name=Odon
+	dynasty=1009990282
+	dna="ebolodfmicl"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=diligent add_trait=arbitrary add_trait=zealous add_trait=gregarious 
+	add_trait=trusting add_trait=depressed 
+	father=1019931658	#Mandresy
+	988.9.7={ birth=yes }
+	1049.1.12={ death=yes }
+}
+1019931666={
+	name=Andrianavalona
+	dynasty=1009990282
+	dna="efobodilncc"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=5
+	add_trait=scholarly_theologian add_trait=scholar add_trait=diligent add_trait=gregarious add_trait=wroth 
+	father=1019931658	#Mandresy
+	992.10.4={ birth=yes }
+	1056.3.20={ death=yes }
+}
+1019931667={
+	name=Niaina
+	dynasty=1009990282
+	dna="jkoebeomnfc"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=proud add_trait=diligent add_trait=gregarious add_trait=envious 
+	father=1019931658	#Mandresy
+	996.12.10={ birth=yes }
+	1071.4.25={ death=yes }
+}
+1019931668={
+	name=Haja
+	dynasty=1009990282
+	dna="egegodflfji"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=8 learning=8
+	add_trait=skilled_tactician add_trait=scholar add_trait=just add_trait=temperate add_trait=shy 
+	add_trait=envious 
+	father=1019931662	#Haja
+	998.7.19={ birth=yes }
+	1081.10.30={ death=yes }
+}
+1019931669={
+	name=Andriambelomasina
+	dynasty=1009990282
+	dna="ednbodfdjfg"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=proud add_trait=craven add_trait=paranoid 
+	father=1019931662	#Haja
+	1003.7.19={ birth=yes }
+	1077.7.2={ death=yes }
+}
+1019931670={
+	name=Manantena
+	female=yes
+	dynasty=1009990282
+	dna="epnjodgdkol"
+	culture=vazimba religion=west_african_pagan
+	father=1019931662	#Haja
+	1007.7.7={ birth=yes }
+	1079.4.19={ death=yes }
+}
+1019931671={
+	name=Oly
+	female=yes
+	dynasty=1009990282
+	dna="bjnmkiflffh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931662	#Haja
+	1012.2.12={ birth=yes }
+	1099.5.8={ death=yes }
+}
+1019931672={
+	name=Henintsoa
+	female=yes
+	dynasty=1009990282
+	dna="lcencdfnaac"
+	culture=vazimba religion=west_african_pagan
+	father=1019931668	#Haja
+	1023.12.9={ birth=yes }
+	1099.10.25={ death=yes }
+}
+1019931673={
+	name=Ranavalona
+	female=yes
+	dynasty=1009990282
+	dna="ilpoegllfie"
+	culture=vazimba religion=west_african_pagan
+	father=1019931668	#Haja
+	1028.4.4={ birth=yes }
+	1114.8.3={ death=yes }
+}
+1019931674={
+	name=Tombovelo
+	dynasty=1009990282
+	dna="egjgopflfep"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=humble add_trait=trusting add_trait=cynical 
+	add_trait=patient 
+	father=1019931668	#Haja
+	1033.1.26={ birth=yes }
+	1103.2.4={ death=yes }
+}
+1019931675={
+	name=Lanitra
+	female=yes
+	dynasty=1009990282
+	dna="egegadbofjb"
+	culture=vazimba religion=west_african_pagan
+	father=1019931668	#Haja
+	1039.4.12={ birth=yes }
+	1092.5.6={ death=yes }
+}
+1019931676={
+	name=Rano
+	dynasty=1009990282
+	dna="kaogopfamep"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=zealous add_trait=arbitrary add_trait=gregarious 
+	add_trait=trusting 
+	father=1019931674	#Tombovelo
+	1058.8.10={ birth=yes }
+	1123.2.12={ death=yes }
+}
+1019931677={
+	name=Zafiamiarina
+	dynasty=1009990282
+	dna="egjfopglhee"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=impaler add_trait=humble add_trait=deceitful add_trait=diligent 
+	add_trait=possessed add_trait=hunchback 
+	father=1019931674	#Tombovelo
+	1063.12.8={ birth=yes }
+	1138.9.16={ death=yes }
+}
+1019931678={
+	name=Nambinintsoa
+	female=yes
+	dynasty=1009990282
+	dna="egegohfmfhp"
+	culture=vazimba religion=west_african_pagan
+	father=1019931674	#Tombovelo
+	1068.12.3={ birth=yes }
+	1151.11.16={ death=yes }
+}
+1019931679={
+	name=Andrianjafynandriamanitra
+	dynasty=1009990282
+	dna="egjogmckfep"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=charitable add_trait=deceitful add_trait=diligent 
+	add_trait=gregarious 
+	father=1019931674	#Tombovelo
+	1074.11.9={ birth=yes }
+	1126.8.10={ death=yes }
+}
+1019931680={
+	name=Andrianary
+	dynasty=1009990282
+	dna="kacglefjmep"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=4 learning=7
+	add_trait=martial_cleric add_trait=hedonist add_trait=gluttonous add_trait=honest add_trait=just 
+	add_trait=patient add_trait=trusting 
+	father=1019931676	#Rano
+	1088.12.11={ birth=yes }
+	1165.2.17={ death=yes }
+}
+1019931681={
+	name=Andriantsimitoviaminandriana
+	dynasty=1009990282
+	dna="pdolopfamep"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=4 learning=6
+	add_trait=charismatic_negotiator add_trait=cynical add_trait=proud add_trait=stressed 
+	father=1019931676	#Rano
+	1093.9.5={ birth=yes }
+	1152.3.8={ death=yes }
+}
+1019931682={
+	name=Riantsoa
+	female=yes
+	dynasty=1009990282
+	dna="kaganefaced"
+	culture=vazimba religion=west_african_pagan
+	father=1019931676	#Rano
+	1097.12.12={ birth=yes }
+	1160.6.16={ death=yes }
+}
+1019931683={
+	name=Andriambelomasina
+	dynasty=1009990282
+	dna="kanakjaknpp"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	add_trait=misguided_warrior add_trait=duelist add_trait=chaste add_trait=temperate add_trait=deceitful 
+	father=1019931676	#Rano
+	1101.10.11={ birth=yes }
+	1188.1.24={ death=yes }
+}
+1019931684={
+	name=Andriantsimitoviaminandriana
+	dynasty=1009990282
+	dna="kjcplemjbeb"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=flamboyant_schemer add_trait=wroth add_trait=greedy add_trait=lustful add_trait=arbitrary 
+	 add_trait=wounded 
+	father=1019931680	#Andrianary
+	1121.7.21={ birth=yes }
+	1187.2.27={ death=yes }
+}
+1019931685={
+	name=Hanta
+	female=yes
+	dynasty=1009990282
+	dna="keknkdejjno"
+	culture=vazimba religion=west_african_pagan
+	father=1019931680	#Andrianary
+	1124.2.19={ birth=yes }
+	1208.9.13={ death=yes }
+}
+1019931686={
+	name=Andriamasinavalona
+	dynasty=1009990282
+	dna="kbcbmemgaec"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=craven add_trait=proud add_trait=deceitful 
+	father=1019931684	#Andriantsimitoviaminandriana
+	1149.10.9={ birth=yes }
+	1223.6.9={ death=yes }
+}
+1019931687={
+	name=Jaona
+	dynasty=1009990282
+	dna="kocibeejkeb"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=7 learning=7
+	add_trait=intricate_webweaver add_trait=just add_trait=trusting add_trait=wroth add_trait=diligent 
+	add_trait=envious add_trait=stressed 
+	father=1019931684	#Andriantsimitoviaminandriana
+	1152.5.3={ birth=yes }
+	1236.11.8={ death=yes }
+}
+1019931688={
+	name=Zafiamiarina
+	dynasty=1009990282
+	dna="pjckhemjbgf"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=4 learning=5
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=slothful add_trait=paranoid add_trait=craven 
+	father=1019931684	#Andriantsimitoviaminandriana
+	1160.6.4={ birth=yes }
+	1229.2.20={ death=yes }
+}
+1019931689={
+	name=Vorona
+	female=yes
+	dynasty=1009990282
+	dna="kjcmecmgafc"
+	culture=vazimba religion=west_african_pagan
+	father=1019931686	#Andriamasinavalona
+	1172.6.17={ birth=yes }
+	1247.10.20={ death=yes }
+}
+1019931690={
+	name=Hanta
+	female=yes
+	dynasty=1009990282
+	dna="mdcbapmdljn"
+	culture=vazimba religion=west_african_pagan
+	father=1019931686	#Andriamasinavalona
+	1178.4.24={ birth=yes }
+	1250.10.27={ death=yes }
+}
+1019931691={
+	name=Zazaharivelo
+	dynasty=1009990282
+	dna="gbobmeimnfc"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=honest add_trait=slothful add_trait=greedy add_trait=patient 
+	add_trait=temperate 
+	father=1019931686	#Andriamasinavalona
+	1184.10.24={ birth=yes }
+	1258.11.14={ death=yes }
+}
+1019931692={
+	name=Arisoa
+	female=yes
+	dynasty=1009990282
+	dna="nbofmekmomb"
+	culture=vazimba religion=west_african_pagan
+	father=1019931691	#Zazaharivelo
+	1209.2.21={ birth=yes }
+	1261.9.21={ death=yes }
+}
+1019931693={
+	name=Andriantsitakatrandriana
+	dynasty=1009990282
+	dna="goofmhimnfk"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=6 learning=8
+	add_trait=scholarly_theologian add_trait=humble add_trait=ambitious add_trait=diligent 
+	add_trait=wroth add_trait=lustful 
+	father=1019931691	#Zazaharivelo
+	1215.5.2={ birth=yes }
+	1272.5.14={ death=yes }
+}
+1019931694={
+	name=Arisoa
+	female=yes
+	dynasty=1009990282
+	dna="kbopnpkbnfj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931691	#Zazaharivelo
+	1219.8.14={ birth=yes }
+	1297.2.21={ death=yes }
+}
+1019931695={
+	name=Andriantsimitoviaminandriana
+	dynasty=1009990282
+	dna="aaobmmkdkje"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	add_trait=elusive_shadow add_trait=gardener add_trait=content add_trait=paranoid add_trait=brave 
+	add_trait=envious 
+	father=1019931691	#Zazaharivelo
+	1226.4.7={ birth=yes }
+	1292.7.2={ death=yes }
+}
+1019931696={
+	name=Odon
+	dynasty=1009990282
+	dna="alohmdhknph"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=paranoid add_trait=just add_trait=gregarious 
+	father=1019931693	#Andriantsitakatrandriana
+	1240.7.22={ birth=yes }
+	1324.6.6={ death=yes }
+}
+1019931697={
+	name=Andrianavalona
+	dynasty=1009990282
+	dna="giolmhianfk"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=5 learning=4
+	add_trait=scholarly_theologian add_trait=proud add_trait=lustful add_trait=charitable 
+	add_trait=slothful add_trait=possessed 
+	father=1019931693	#Andriantsitakatrandriana
+	1244.5.22={ birth=yes }
+	1328.6.8={ death=yes }
+}
+1019931698={
+	name=Andriantsimitoviaminandriandehibe
+	dynasty=1009990282
+	dna="gijkmkimnen"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=gregarious add_trait=temperate add_trait=wroth add_trait=diligent 
+	add_trait=hunchback 
+	father=1019931693	#Andriantsitakatrandriana
+	1248.5.19={ birth=yes }
+	1306.2.16={ death=yes }
+}
+1019931699={
+	name=Tombovelo
+	dynasty=1009990282
+	dna="fopfbnmmofk"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=humble add_trait=content 
+	father=1019931693	#Andriantsitakatrandriana
+	1251.5.21={ birth=yes }
+	1317.10.12={ death=yes }
+}
+1019931700={
+	name=Ranavalona
+	female=yes
+	dynasty=1009990282
+	dna="aldhdclknph"
+	culture=vazimba religion=west_african_pagan
+	father=1019931696	#Odon
+	1271.1.10={ birth=yes }
+	1351.7.8={ death=yes }
+}
+1019931701={
+	name=Andriamanelo
+	dynasty=1009990282
+	dna="ajohgfhkmhh"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=duelist add_trait=chaste add_trait=patient add_trait=humble 
+	add_trait=greedy 
+	father=1019931696	#Odon
+	1277.3.11={ birth=yes }
+	1334.3.22={ death=yes }
+}
+1019931702={
+	name=Andriantsimitoviaminandriana
+	dynasty=1009990282
+	dna="boopmdhgaph"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=5 learning=6
+	add_trait=indulgent_wastrel add_trait=gardener add_trait=cynical add_trait=greedy add_trait=humble 
+	add_trait=paranoid 
+	father=1019931696	#Odon
+	1283.1.21={ birth=yes }
+	1339.8.17={ death=yes }
+}
+1019931703={
+	name=Razafitiana
+	dynasty=1009990282
+	dna="abohmfhgmhh"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=7 learning=4
+	add_trait=scholarly_theologian add_trait=humble add_trait=shy add_trait=lustful add_trait=diligent 
+	father=1019931701	#Andriamanelo
+	1302.12.1={ birth=yes }
+	1346.9.23={ death=yes }
+}
+1019931704={
+	name=Andrianjaka
+	dynasty=1009990282
+	dna="adohgfhkjhh"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=arbitrary add_trait=zealous add_trait=chaste  
+	
+	father=1019931701	#Andriamanelo
+	1307.4.2={ birth=yes }
+	1367.8.28={ death=yes }
+}
+1019931705={
+	name=Faneva
+	dynasty=1009990282
+	dna="ajmjgmaonch"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=arbitrary add_trait=wroth add_trait=brave add_trait=deceitful 
+	father=1019931701	#Andriamanelo
+	1311.3.15={ birth=yes }
+	1388.5.9={ death=yes }
+}
+1019931706={
+	name=Tsimisotry
+	dynasty=1009990282
+	dna="ijghlfnkeji"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=hunter add_trait=diligent add_trait=chaste 
+	father=1019931701	#Andriamanelo
+	1315.12.9={ birth=yes }
+	1368.5.8={ death=yes }
+}
+1019931707={
+	name=Tombovelo
+	dynasty=1009990282
+	dna="ihibgfekmnh"
+	culture=vazimba religion=west_african_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=7 learning=5
+	add_trait=elusive_shadow add_trait=envious add_trait=content add_trait=craven add_trait=arbitrary 
+	add_trait=gregarious add_trait=diligent add_trait=wounded 
+	father=1019931701	#Andriamanelo
+	1321.2.6={ birth=yes }
+	1388.12.7={ death=yes }
+}
+1019931708={
+	name=Radama
+	dynasty=1009990282
+	dna="abfhiihfcjh"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	add_trait=indulgent_wastrel add_trait=scholar add_trait=envious add_trait=charitable 
+	add_trait=slothful 
+	father=1019931703	#Razafitiana
+	1334.1.13={ birth=yes }
+	1395.11.4={ death=yes }
+}
+1019931709={
+	name=Tahiry
+	female=yes
+	dynasty=1009990282
+	dna="epobphhgdah"
+	culture=vazimba religion=west_african_pagan
+	father=1019931703	#Razafitiana
+	1338.5.27={ birth=yes }
+	1418.2.20={ death=yes }
+}
+1019931710={
+	name=Henintsoa
+	female=yes
+	dynasty=1009990282
+	dna="dbmhgihfkjh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931708	#Radama
+	1357.12.18={ birth=yes }
+	1435.9.5={ death=yes }
+}
+1019931711={
+	name=Tsiory
+	dynasty=1009990282
+	dna="phlgglfncfh"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=5 learning=4
+	add_trait=martial_cleric add_trait=charitable add_trait=temperate add_trait=wroth add_trait=zealous 
+	 
+	father=1019931708	#Radama
+	1362.9.8={ birth=yes }
+	1447.5.12={ death=yes }
+}
+1019931712={
+	name=Manantena
+	female=yes
+	dynasty=1009990282
+	dna="abfhomkfmjk"
+	culture=vazimba religion=west_african_pagan
+	father=1019931708	#Radama
+	1369.9.12={ birth=yes }
+	1435.4.2={ death=yes }
+}
+1019931713={
+	name=Raharimampionona
+	female=yes
+	dynasty=1009990282
+	dna="phijblfncgh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931711	#Tsiory
+	1390.9.6={ birth=yes }
+	1448.8.4={ death=yes }
+}
+1019931714={
+	name=Henintsoa
+	female=yes
+	dynasty=1009990282
+	dna="pciedllacfh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931711	#Tsiory
+	1396.7.25={ birth=yes }
+	1473.7.3={ death=yes }
+}
+1019931715={
+	name=Hamada
+	dynasty=1009990282
+	dna="pbapgfcmcfh"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=shy add_trait=wroth add_trait=lustful add_trait=humble 
+	add_trait=envious 
+	father=1019931711	#Tsiory
+	1402.10.23={ birth=yes }
+	1474.6.20={ death=yes }
+}
+1019931716={
+	name=Tandra
+	female=yes
+	dynasty=1009990282
+	dna="dgjgalglafe"
+	culture=vazimba religion=west_african_pagan
+	father=1019931711	#Tsiory
+	1407.3.16={ birth=yes }
+	1468.1.1={ death=yes }
+}
+1019931717={
+	name=Haja
+	dynasty=1009990282
+	dna="chmgimincdh"
+	culture=vazimba religion=west_african_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=hunter add_trait=proud add_trait=diligent add_trait=trusting 
+	add_trait=temperate 
+	father=1019931711	#Tsiory
+	1409.3.9={ birth=yes }
+	1492.7.11={ death=yes }
+}
+1019931718={
+	name=Andrianary
+	dynasty=1009990282
+	dna="pifekcimcfh"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	add_trait=intricate_webweaver add_trait=mystic add_trait=lustful add_trait=slothful add_trait=arbitrary 
+	father=1019931715	#Hamada
+	1428.6.27={ birth=yes }
+	1492.3.12={ death=yes }
+}
+1019931719={
+	name=Lanitra
+	female=yes
+	dynasty=1009990282
+	dna="pbaaafcmkao"
+	culture=vazimba religion=west_african_pagan
+	father=1019931715	#Hamada
+	1433.6.16={ birth=yes }
+	1498.12.14={ death=yes }
+}
+1019931720={
+	name=Tandra
+	female=yes
+	dynasty=1009990282
+	dna="fbapgmgmchp"
+	culture=vazimba religion=west_african_pagan
+	father=1019931715	#Hamada
+	1439.11.19={ birth=yes }
+	1521.12.17={ death=yes }
+}
+1019931721={
+	name=Nambinintsoa
+	female=yes
+	dynasty=1009990282
+	dna="bogigacfnfh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931715	#Hamada
+	1445.4.20={ birth=yes }
+	1519.12.23={ death=yes }
+}
+1019931722={
+	name=Volana
+	female=yes
+	dynasty=1009990282
+	dna="ppflpmiccop"
+	culture=vazimba religion=west_african_pagan
+	father=1019931718	#Andrianary
+	1461.10.2={ birth=yes }
+	1540.7.4={ death=yes }
+}
+1019931723={
+	name=Lova
+	dynasty=1009990282
+	dna="pifeelemcoh"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=cynical add_trait=paranoid add_trait=envious add_trait=patient 
+	add_trait=brave 
+	father=1019931718	#Andrianary
+	1466.7.7={ birth=yes }
+	1525.11.9={ death=yes }
+}
+1019931724={
+	name=Tombovelo
+	dynasty=1009990282
+	dna="fhfjklimifh"
+	culture=vazimba religion=west_african_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=6
+	add_trait=tough_soldier add_trait=chaste add_trait=deceitful add_trait=temperate  
+	add_trait=wroth 
+	father=1019931718	#Andrianary
+	1470.2.5={ birth=yes }
+	1531.6.3={ death=yes }
+}
+1019931725={
+	name=Lalao
+	female=yes
+	dynasty=1009990282
+	dna="pcbgapimccj"
+	culture=vazimba religion=west_african_pagan
+	father=1019931718	#Andrianary
+	1475.4.9={ birth=yes }
+	1550.12.29={ death=yes }
+}
+1019931726={
+	name=Naina
+	female=yes
+	dynasty=1009990282
+	dna="pggekhemcfh"
+	culture=vazimba religion=west_african_pagan
+	father=1019931718	#Andrianary
+	1478.12.19={ birth=yes }
+	1518.12.28={ death=yes }
+}
+1019931727={
+	name=Anja
+	dynasty=1009990282
+	dna="fbfhalebnhh"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=honest add_trait=patient 
+	add_trait=gluttonous 
+	father=1019931723	#Lova
+	1491.2.23={ birth=yes }
+	1564.4.24={ death=yes }
+}
+1019931728={
+	name=Mirantsoa
+	female=yes
+	dynasty=1009990282
+	dna="eifeoohmcom"
+	culture=vazimba religion=west_african_pagan
+	father=1019931723	#Lova
+	1494.11.17={ birth=yes }
+	1560.7.21={ death=yes }
+}
+1019931729={
+	name=Anja
+	dynasty=1009990282
+	dna="mijeclejcoh"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=8
+	add_trait=skilled_tactician add_trait=humble add_trait=slothful 
+	father=1019931723	#Lova
+	1500.7.13={ birth=yes }
+	1568.8.30={ death=yes }
+}
+1019931730={
+	name=Henintsoa
+	female=yes
+	dynasty=1009990282
+	dna="elhealaojon"
+	culture=vazimba religion=west_african_pagan
+	father=1019931723	#Lova
+	1505.12.14={ birth=yes }
+	1593.7.22={ death=yes }
+}
+1019931731={
+	name=Razafitiana
+	dynasty=1009990282
+	dna="fbfegkpbefb"
+	culture=vazimba religion=west_african_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=5 learning=7
+	add_trait=detached_priest add_trait=charitable add_trait=paranoid add_trait=gregarious 
+	add_trait=slow 
+	father=1019931727	#Anja
+	1518.12.9={ birth=yes }
+	1578.4.10={ death=yes }
+}
+1019931732={
+	name=Harijesy
+	female=yes
+	dynasty=1009990282
+	dna="lbppidhblhe"
+	culture=vazimba religion=west_african_pagan
+	father=1019931727	#Anja
+	1524.10.19={ birth=yes }
+	1598.2.15={ death=yes }
+}
+1019931733={
+	name=Nambinintsoa
+	female=yes
+	dynasty=1009990282
+	dna="bbffjllgnfl"
+	culture=vazimba religion=west_african_pagan
+	father=1019931727	#Anja
+	1527.2.2={ birth=yes }
+	1606.5.4={ death=yes }
+}
+1019931734={
+	name=Radama
+	dynasty=1009990282
+	dna="fbfdoklcncl"
+	culture=vazimba religion=west_african_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=proud add_trait=arbitrary add_trait=depressed 
+	father=1019931727	#Anja
+	1532.5.7={ birth=yes }
+	1598.7.19={ death=yes }
+}
+1019931735={
+	name=Maeva
+	female=yes
+	dynasty=1009990282
+	dna="fcfhomiockp"
+	culture=vazimba religion=west_african_pagan
+	father=1019931727	#Anja
+	1537.12.25={ birth=yes }
+	1630.2.6={ death=yes }
+}

@@ -1,0 +1,67 @@
+330.1.1={
+	liege = "e_byzantium"
+	vice_royalty = yes
+}
+767.1.1={
+	holder=145823
+}
+845.1.1={
+	holder=145144
+}
+936.1.1 = {
+	holder = 145160
+}
+1066.1.1=
+{
+	holder=20534
+}
+1067.1.1=
+{
+	holder=20536
+}
+1071.8.26=
+{
+	liege=0
+	vice_royalty = no
+	holder=34220
+}
+1074.1.1=
+{
+	liege="e_byzantium"
+	vice_royalty = yes
+	holder=1742
+}
+1077.1.1=
+{
+	holder = 0
+	vice_royalty = no
+}
+1336.1.1=
+{
+	liege=k_eretnid
+	holder=71864
+}
+1352.1.1={
+holder=71865	#Ghiyath al-Din Muhammad
+}
+1354.1.1={
+holder=379290	#Izz al-Din Jafar
+}
+1355.1.1={
+holder=71865	#Ghiyath al-Din Muhammad
+}
+1365.1.1={
+holder=379292	#Ali of Eretna
+}
+1380.8.1={
+holder=379295	#Muhammad II Chelebi
+}
+1381.1.1={
+holder=379473	#Burhaneddin
+}
+1398.1.1={
+holder=379474	#Zayn al-Abidin
+}
+1399.1.1={
+holder=0	#End of Eretnids
+}

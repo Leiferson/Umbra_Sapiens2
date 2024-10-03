@@ -1,0 +1,1717 @@
+#323201 --- 323400
+323201 = {
+	name = "Aleleke"
+	dynasty = 1010004000
+	religion = chukchi_pantheism
+	culture = chukchi
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323202 = {
+	name = "Ropt-yna"
+	dynasty = 1010004000
+	religion = chukchi_pantheism
+	culture = chukchi
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323203 = {
+	name = "Aleleke"
+	dynasty = 1010004000
+	religion = chukchi_pantheism
+	culture = chukchi
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323204 = {
+	name = "Rytgev"
+	dynasty = 1010004000
+	religion = chukchi_pantheism
+	culture = chukchi
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323205 = {
+	name = "Giv-ynkeev"
+	dynasty = 1010004000
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323204
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323206 = {
+	name = "Tyna-gyrgyn"
+	dynasty = 1010004000
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323205
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323207 = {
+	name = "Umky"
+	dynasty = 1010004000
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323206
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323208 = {
+	name = "Tenevil"
+	dynasty = 1010004000
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323207
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#second
+323209 = {
+	name = "Kmol"
+	dynasty = 1010004001
+	religion = chukchi_pantheism
+	culture = chukchi
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323210 = {
+	name = "Vykvan"
+	dynasty = 1010004001
+	religion = chukchi_pantheism
+	culture = chukchi
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323211 = {
+	name = "Kmol"
+	dynasty = 1010004001
+	religion = chukchi_pantheism
+	culture = chukchi
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323212 = {
+	name = "Omryn"
+	dynasty = 1010004001
+	religion = chukchi_pantheism
+	culture = chukchi
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323213 = {
+	name = "Nute-nli"
+	dynasty = 1010004001
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323212
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323214 = {
+	name = "Igiklav"
+	dynasty = 1010004001
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323213
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323215 = {
+	name = "Kaynyn"
+	dynasty = 1010004001
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323214
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323216 = {
+	name = "Memyl"
+	dynasty = 1010004001
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323215
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#third
+323217 = {
+	name = "Memyl"
+	dynasty = 1010004002
+	religion = chukchi_pantheism
+	culture = chukchi
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323218 = {
+	name = "Kamak"
+	dynasty = 1010004002
+	religion = chukchi_pantheism
+	culture = chukchi
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323219 = {
+	name = "Memyl"
+	dynasty = 1010004002
+	religion = chukchi_pantheism
+	culture = chukchi
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323220 = {
+	name = "Kamak"
+	dynasty = 1010004002
+	religion = chukchi_pantheism
+	culture = chukchi
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323221 = {
+	name = "Igiklav"
+	dynasty = 1010004002
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323220
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323222 = {
+	name = "Keli"
+	dynasty = 1010004002
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323221
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323223 = {
+	name = "Tyna-gyrgyn"
+	dynasty = 1010004002
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323222
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323224 = {
+	name = "Tenevil"
+	dynasty = 1010004002
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323223
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#fourth
+323225 = {
+	name = "Tygrynkeev"
+	dynasty = 1010004003
+	religion = chukchi_pantheism
+	culture = chukchi
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323226 = {
+	name = "Korave"
+	dynasty = 1010004003
+	religion = chukchi_pantheism
+	culture = chukchi
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323227 = {
+	name = "Lelekay"
+	dynasty = 1010004003
+	religion = chukchi_pantheism
+	culture = chukchi
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323228 = {
+	name = "Atch-ytagyn"
+	dynasty = 1010004003
+	religion = chukchi_pantheism
+	culture = chukchi
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323229 = {
+	name = "Lelekay"
+	dynasty = 1010004003
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323228
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323230 = {
+	name = "Ropt-yna"
+	dynasty = 1010004003
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323229
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323231 = {
+	name = "Vyrgyrgylele"
+	dynasty = 1010004003
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323230
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323232 = {
+	name = "Kaynyn"
+	dynasty = 1010004003
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323231
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#fifth
+323233 = {
+	name = "Igiklav"
+	dynasty = 1010004004
+	religion = chukchi_pantheism
+	culture = chukchi
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323234 = {
+	name = "Bakat-gyrgyn"
+	dynasty = 1010004004
+	religion = chukchi_pantheism
+	culture = chukchi
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323235 = {
+	name = "Atch-ytagyn"
+	dynasty = 1010004004
+	religion = chukchi_pantheism
+	culture = chukchi
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323236 = {
+	name = "Leletke"
+	dynasty = 1010004004
+	religion = chukchi_pantheism
+	culture = chukchi
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323237 = {
+	name = "Omr-ytagyn"
+	dynasty = 1010004004
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323236
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323238 = {
+	name = "Ropt-yn"
+	dynasty = 1010004004
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323237
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323239 = {
+	name = "Tygrynkeev"
+	dynasty = 1010004004
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323238
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323240 = {
+	name = "Ropt-yn"
+	dynasty = 1010004004
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323239
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#sixth
+323241 = {
+	name = "Cheyv-ynkev"
+	dynasty = 1010004005
+	religion = chukchi_pantheism
+	culture = chukchi
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323242 = {
+	name = "Tygrynkeev"
+	dynasty = 1010004005
+	religion = chukchi_pantheism
+	culture = chukchi
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323243 = {
+	name = "Cheyv-ynkev"
+	dynasty = 1010004005
+	religion = chukchi_pantheism
+	culture = chukchi
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323244 = {
+	name = "Keli"
+	dynasty = 1010004005
+	religion = chukchi_pantheism
+	culture = chukchi
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323245 = {
+	name = "Tyne-nkey"
+	dynasty = 1010004005
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323244
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323246 = {
+	name = "Rytgev"
+	dynasty = 1010004005
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323245
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323247 = {
+	name = "Kmol"
+	dynasty = 1010004005
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323246
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323248 = {
+	name = "Ropt-yn"
+	dynasty = 1010004005
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323247
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#seventh
+323249 = {
+	name = "Kamak"
+	dynasty = 1010004006
+	religion = chukchi_pantheism
+	culture = chukchi
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323250 = {
+	name = "Rytkheu"
+	dynasty = 1010004006
+	religion = chukchi_pantheism
+	culture = chukchi
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323251 = {
+	name = "Ropt-yn"
+	dynasty = 1010004006
+	religion = chukchi_pantheism
+	culture = chukchi
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323252 = {
+	name = "Tyne-nkey"
+	dynasty = 1010004006
+	religion = chukchi_pantheism
+	culture = chukchi
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323253 = {
+	name = "Ropt-yn"
+	dynasty = 1010004006
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323252
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323254 = {
+	name = "Vykvan"
+	dynasty = 1010004006
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323253
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323255 = {
+	name = "Ropt-yn"
+	dynasty = 1010004006
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323254
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323256 = {
+	name = "Vyrgyrgylele"
+	dynasty = 1010004006
+	religion = chukchi_pantheism
+	culture = chukchi
+	father = 323255
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#eight
+323257 = {
+	name = "Leletke"
+	dynasty = 1010004007
+	religion = chukchi_pantheism
+	culture = koryak
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323258 = {
+	name = "Vykvan"
+	dynasty = 1010004007
+	religion = chukchi_pantheism
+	culture = koryak
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323259 = {
+	name = "Leletke"
+	dynasty = 1010004007
+	religion = chukchi_pantheism
+	culture = koryak
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323260 = {
+	name = "Kamak"
+	dynasty = 1010004007
+	religion = chukchi_pantheism
+	culture = koryak
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323261 = {
+	name = "Rytgev"
+	dynasty = 1010004007
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323260
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323262 = {
+	name = "Bakat-gyrgyn"
+	dynasty = 1010004007
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323261
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323263 = {
+	name = "Tenevil"
+	dynasty = 1010004007
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323262
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323264 = {
+	name = "Atch-ytagyn"
+	dynasty = 1010004007
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323263
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#nine
+323265 = {
+	name = "Tyne-nkey"
+	dynasty = 1010004008
+	religion = chukchi_pantheism
+	culture = koryak
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323266 = {
+	name = "Igiklav"
+	dynasty = 1010004008
+	religion = chukchi_pantheism
+	culture = koryak
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323267 = {
+	name = "Giv-ynkeev"
+	dynasty = 1010004008
+	religion = chukchi_pantheism
+	culture = koryak
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323268 = {
+	name = "Umky"
+	dynasty = 1010004008
+	religion = chukchi_pantheism
+	culture = koryak
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323269 = {
+	name = "Giv-ynkeev"
+	dynasty = 1010004008
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323268
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323270 = {
+	name = "Omr-ytagyn"
+	dynasty = 1010004008
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323269
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323271 = {
+	name = "Alyapenryn"
+	dynasty = 1010004008
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323270
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323272 = {
+	name = "Tyne-nkey"
+	dynasty = 1010004008
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323271
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#tenth
+323273 = {
+	name = "Ropt-yna"
+	dynasty = 1010004009
+	religion = chukchi_pantheism
+	culture = itelmen
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323274 = {
+	name = "Rultk-ynkev"
+	dynasty = 1010004009
+	religion = chukchi_pantheism
+	culture = itelmen
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323275 = {
+	name = "Ropt-yna"
+	dynasty = 1010004009
+	religion = chukchi_pantheism
+	culture = itelmen
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323276 = {
+	name = "Gyrgol-gyrgyn"
+	dynasty = 1010004009
+	religion = chukchi_pantheism
+	culture = itelmen
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323277 = {
+	name = "Vykvan"
+	dynasty = 1010004009
+	religion = chukchi_pantheism
+	culture = itelmen
+	father = 323260
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323278 = {
+	name = "Korav'ye"
+	dynasty = 1010004009
+	religion = chukchi_pantheism
+	culture = itelmen
+	father = 323277
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323279 = {
+	name = "Vyrgyrgylele"
+	dynasty = 1010004009
+	religion = chukchi_pantheism
+	culture = itelmen
+	father = 323278
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323280 = {
+	name = "Vykvan"
+	dynasty = 1010004009
+	religion = chukchi_pantheism
+	culture = itelmen
+	father = 323279
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#eleventh
+323281 = {
+	name = "Keli"
+	dynasty = 1010004011
+	religion = chukchi_pantheism
+	culture = itelmen
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323282 = {
+	name = "Tygrynkeev"
+	dynasty = 1010004011
+	religion = chukchi_pantheism
+	culture = itelmen
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323283 = {
+	name = "Keli"
+	dynasty = 1010004011
+	religion = chukchi_pantheism
+	culture = itelmen
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323284 = {
+	name = "Tygrynkeev"
+	dynasty = 1010004011
+	religion = chukchi_pantheism
+	culture = itelmen
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323285 = {
+	name = "Ropt-yna"
+	dynasty = 1010004011
+	religion = chukchi_pantheism
+	culture = itelmen
+	father = 323284
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323286 = {
+	name = "Alyapenryn"
+	dynasty = 1010004011
+	religion = chukchi_pantheism
+	culture = itelmen
+	father = 323285
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323287 = {
+	name = "Vyrgyrgylele"
+	dynasty = 1010004011
+	religion = chukchi_pantheism
+	culture = itelmen
+	father = 323286
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323288 = {
+	name = "Memyl"
+	dynasty = 1010004011
+	religion = chukchi_pantheism
+	culture = itelmen
+	father = 323287
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#twelfth
+323289 = {
+	name = "Keli"
+	dynasty = 1010004010
+	religion = chukchi_pantheism
+	culture = koryak
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323290 = {
+	name = "Tygrynkeev"
+	dynasty = 1010004010
+	religion = chukchi_pantheism
+	culture = koryak
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323291 = {
+	name = "Keli"
+	dynasty = 1010004010
+	religion = chukchi_pantheism
+	culture = koryak
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323292 = {
+	name = "Tygrynkeev"
+	dynasty = 1010004010
+	religion = chukchi_pantheism
+	culture = koryak
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323293 = {
+	name = "Ropt-yna"
+	dynasty = 1010004010
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323292
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323294 = {
+	name = "Alyapenryn"
+	dynasty = 1010004010
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323293
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323295 = {
+	name = "Vyrgyrgylele"
+	dynasty = 1010004010
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323294
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323296 = {
+	name = "Memyl"
+	dynasty = 1010004010
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323295
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#new wave of koryaks
+323297 = {
+	name = "Kmol"
+	dynasty = 1010004014
+	religion = chukchi_pantheism
+	culture = koryak
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323298 = {
+	name = "Tenevil"
+	dynasty = 1010004014
+	religion = chukchi_pantheism
+	culture = koryak
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323299 = {
+	name = "Tygrynkeev"
+	dynasty = 1010004014
+	religion = chukchi_pantheism
+	culture = koryak
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323300 = {
+	name = "Tenevil"
+	dynasty = 1010004014
+	religion = chukchi_pantheism
+	culture = koryak
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323301 = {
+	name = "Ropt-yna"
+	dynasty = 1010004014
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323300
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323302 = {
+	name = "Vyrgyrgylele"
+	dynasty = 1010004014
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323301
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323303 = {
+	name = "Cheyv-ynkev"
+	dynasty = 1010004014
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323302
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323304 = {
+	name = "Igiklav"
+	dynasty = 1010004014
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323303
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#more to come
+323305 = {
+	name = "Igiklav"
+	dynasty = 1010004012
+	religion = chukchi_pantheism
+	culture = koryak
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323306 = {
+	name = "Omr-ytagyn"
+	dynasty = 1010004012
+	religion = chukchi_pantheism
+	culture = koryak
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323307 = {
+	name = "Igiklav"
+	dynasty = 1010004012
+	religion = chukchi_pantheism
+	culture = koryak
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323308 = {
+	name = "Tygrynkeev"
+	dynasty = 1010004012
+	religion = chukchi_pantheism
+	culture = koryak
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323309 = {
+	name = "Korave"
+	dynasty = 1010004012
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323308
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323310 = {
+	name = "Lelekay"
+	dynasty = 1010004012
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323309
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323311 = {
+	name = "Ropt-yn"
+	dynasty = 1010004012
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323310
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323312 = {
+	name = "Keli"
+	dynasty = 1010004012
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323311
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#last one
+323313 = {
+	name = "Keli"
+	dynasty = 1010004013
+	religion = chukchi_pantheism
+	culture = koryak
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323314 = {
+	name = "Vykvan"
+	dynasty = 1010004013
+	religion = chukchi_pantheism
+	culture = koryak
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323315 = {
+	name = "Kaynyn"
+	dynasty = 1010004013
+	religion = chukchi_pantheism
+	culture = koryak
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323316 = {
+	name = "Kaynyn"
+	dynasty = 1010004013
+	religion = chukchi_pantheism
+	culture = koryak
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323317 = {
+	name = "Nute-nli"
+	dynasty = 1010004013
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323316
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323318 = {
+	name = "Gyrgol-gyrgyn"
+	dynasty = 1010004013
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323317
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323319 = {
+	name = "Tygrynkeev"
+	dynasty = 1010004013
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323318
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323320 = {
+	name = "Giv-ynkeev"
+	dynasty = 1010004013
+	religion = chukchi_pantheism
+	culture = koryak
+	father = 323319
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+###Yukaghir placeholders
+323321 = {
+	name = "Khaidu"
+	dynasty = 1010006000
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323322 = {
+	name = "Bodonchar"
+	dynasty = 1010006000
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323323 = {
+	name = "Bukha"
+	dynasty = 1010006000
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323324 = {
+	name = "Bodonchar"
+	dynasty = 1010006000
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323325 = {
+	name = "Khadagh"
+	dynasty = 1010006000
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	father = 323324
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323326 = {
+	name = "Gughlug"
+	dynasty = 1010006000
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	father = 323325
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323327 = {
+	name = "Bulughan"
+	dynasty = 1010006000
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	father = 323326
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323328 = {
+	name = "Toghoril"
+	dynasty = 1010006000
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	father = 323327
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#last but not least
+323329 = {
+	name = "Khachi"
+	dynasty = 1010006001
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323330 = {
+	name = "Dayir"
+	dynasty = 1010006001
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323331 = {
+	name = "Khachi"
+	dynasty = 1010006001
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323332 = {
+	name = "Khal"
+	dynasty = 1010006001
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323333 = {
+	name = "Uighurtai"
+	dynasty = 1010006001
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	father = 323332
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323334 = {
+	name = "Yedi"
+	dynasty = 1010006001
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	father = 323333
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323335 = {
+	name = "Yeke"
+	dynasty = 1010006001
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	father = 323334
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323336 = {
+	name = "Guchu"
+	dynasty = 1010006001
+	religion = yukaghir_pantheism
+	culture = yukaghir
+	father = 323335
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}

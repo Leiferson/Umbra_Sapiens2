@@ -1,0 +1,67 @@
+prepend = "gfx/models/animation"
+
+animation = {
+	name = "samurai_katana2_attack_animation"
+	file = "samurai_katana2_attack.anim"
+	
+}
+
+animation = {
+	name = "samurai_katana2_idle_animation"
+	file = "samurai_katana2_idle.anim"
+	
+}
+
+animation = {
+	name = "samurai_katana2_move_animation"
+	file = "samurai_katana2_move.anim"
+	
+}
+
+animation = {
+	name = "ainu_katana2_idle_animation"
+	file = "ainu_katana2_idle.anim"
+	
+}
+
+animation = {
+	name = "ainu_katana2_move_animation"
+	file = "ainu_katana2_move.anim"
+	
+}
+
+animation = {
+	name = "japanese_spymaster_animation"
+	file = "japanese_spymaster.anim"
+	
+}
+
+animation = {
+	name = "japanese_chancellor_animation"
+	file = "japanese_chancellor.anim"
+	
+}
+
+animation = {
+	name = "japanese_marshal_animation"
+	file = "japanese_marshal.anim"
+	
+}
+
+animation = {
+	name = "japanese_treasurer_animation"
+	file = "japanese_treasurer.anim"
+	
+}
+
+animation = {
+	name = "ainu_spymaster_animation"
+	file = "ainu_spymaster.anim"
+	
+}
+
+animation = {
+	name = "ainu_marshal_animation"
+	file = "ainu_marshal.anim"
+	
+}

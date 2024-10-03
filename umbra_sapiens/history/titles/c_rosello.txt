@@ -1,0 +1,236 @@
+767.1.1={
+	holder=200154 # Roderic de Ruscino
+}
+769.1.1={
+	liege=d_toulouse
+}
+790.1.1={
+	holder=168130 # Guillaume Gellones
+}
+806.1.1={
+	holder=168079 # Beggo Chatenois
+}
+812.1.1={
+	holder=200152 # Gaucelm Gellones
+	liege=d_barcelona
+}
+832.1.1={
+	holder=163063 # Bernard I Gellones
+}
+844.5.1={
+	holder=200153 # Sunyer, Count of Ampurias
+}
+848.1.1={
+	holder=73784 # Guillaume I Gellones
+}
+850.1.1={
+	holder=200142 # Aleran Geroldonen
+}
+851.1.1={
+	holder=200144 # Isembard, Count of Barcelona
+}
+852.1.1={
+	holder=200145 # Odelric von Argengau
+}
+857.1.1={
+	holder=200148 # Hunifred Unruochinger
+}
+863.1.1={
+	holder=127019 # Bernard II Gellones
+}
+878.1.1={
+	holder=73996 # Miró de Barcelona
+}
+896.1.1={
+	holder=74101 # Sunyer d'Empuries
+}
+916.1.1={
+	holder=74103 # Gausbert d'Empuries
+}
+931.1.1={
+	holder=110600 # Gausfred I d'Empuries
+	law = agnatic_succession
+}
+991.1.1={
+	holder=110620 # Guislabert I d'Empuries
+}
+1013.1.1={
+	holder=110610 # Gausfred II d'Empuries
+}
+1074.1.1={
+	holder=110612 # Guislabert I d'Empuries
+}
+1102.1.1={
+	holder=110614 # Gerard I d'Empuries
+}
+1113.1.1={
+	holder=72120 # Gausfred III d'Empuries
+}
+1163.2.24={
+	holder=72121 # Gerard II d'Empuries
+}
+1164.1.1={
+	liege=k_aragon
+}
+1172.1.1={
+	holder=210500 # Alfons II de Barcelona
+}
+1185.1.1={
+	holder=210514 # Sanç Ramon de Barcelona
+}
+1223.1.1={
+	holder=210516 # Nunó Sanç de Barcelona
+}
+1242.1.1={
+	holder=460600 # Jaume I de Barcelona
+}
+1276.7.27={
+	holder=460602 # Jaume II de Barcelona-Mallorca
+	liege=d_mallorca
+	law = cognatic_succession
+}
+1311.5.29={
+	holder=460604 # Sanç Jaume de Barcelona-Mallorca
+}
+1324.9.4={
+	holder=460620 # Jaume III de Barcelona-Mallorca
+}
+1344.1.1={
+	holder=460500 # Pere IV d'Aragó
+}
+1387.1.5={
+	holder=370079	#John I
+}
+1396.5.19={
+	holder=370080	#Marti I
+}
+1410.5.31={
+	holder=370170	#Ferdinand I the Honest
+}
+1416.4.2={
+	holder=370182	#Alfonso V the Magnanimous
+}
+1458.6.27={
+	holder=370184	#John II the Great
+}
+1479.1.19={
+	holder=380247	#Enrique de Aragón
+	liege=k_aragon
+}
+1493.1.1={
+	holder=380681	#Juan de Lanuza y Garabito
+}
+1495.1.1={ 
+	holder=380682	#Juan Fernández de Heredia
+}
+1496.1.1={ 
+	holder=380226	#Juan de Aragón, Conde de Ribagorza
+}
+1501.1.1={ 
+	holder=380683	#Jaime de Luna
+}
+1514.1.1={ 
+	holder=370350	#Alonso de Aragón, Archbishop of Zaragoza
+}
+1516.1.23={
+	liege=e_espana_burgona
+}
+1521.1.1={ 
+	holder=380684	#Pere Folc de Cardona, Archbishop of Tarragona
+}
+1523.1.1={ 
+	holder=380698	#Antonio de Zúñiga, Prior of Castile, Order of Saint John of Jerusalem
+}
+1525.1.1={ 
+	holder=380702	#Fadrique de Portugal y Noroña, Bishop of Sigüenza
+}
+1539.1.1={ 
+	holder=375393	#Saint Francis Borgia, 4th Duke of Gandia, 3rd General Father of the Jesuit Order
+}
+1543.1.1={ 
+	holder=379681	#Juan Fernández Manrique de Lara, Marqués de Aguilar de Campoo
+}
+1554.1.1={ 
+	holder=379682	#Pedro Afán de Ribera, Duque de Alcalá
+}
+1558.1.1={ 
+	holder=371669	#García Álvarez de Toledo, 4th Marquis of Villafranca del Bierzo
+}
+1564.1.1={ 
+	holder=379758	#Diego Hurtado de Mendoza y de la Cerda
+}
+1571.1.1={ 
+	holder=379608	#Fernando de Toledo
+}
+1580.1.1={
+	holder=380281 	#Francisco de Moncada y Folc de Cardona, Marqués de Aytona
+}
+1581.1.1={
+	holder=379820	#Carlo d'Aragona Tagliavia
+}
+1583.1.1={ 
+	holder=379794	#Juan de Zúñiga y Avellaneda, Conde de Miranda del Castañar
+}
+1586.1.1={	
+	holder=380707	#Manrique de Lara y Girón, Conde de Valencia de Don Juan
+}
+1590.1.1={ 
+	holder=380708	#Pedro Luis Galcerán de Borja y de Castro-Pinós
+}
+1592.1.1={
+	holder=379828	#Bernardino de Cárdenas y Portugal, Duque de Maqueda
+}
+1596.1.1={
+	holder=379830	#Lorenzo Suárez de Figueroa y Córdoba, Duque de Feria
+}
+1602.1.1={ 
+	holder=380709 #Joan Terès i Borrull, Archbishop of Tarragona
+}
+1603.7.10={ 
+	holder=380710 #Héctor de Pignatelli y Colonna, Duque de Monteleón
+}
+1611.1.1={ 
+	holder=380711 #Pedro Manrique, Bishop of Tortosa
+}
+1611.6.1={ 
+	holder=380489	#Francisco Hurtado de Mendoza, Marqués de Almazán
+}
+1615.1.1={ 
+	holder=380569	#Francisco Fernández de la Cueva, 7th Duke of Alburquerque
+}
+1619.1.1={
+	holder=379812	#Fernando Afán de Ribera y Téllez-Girón, 3rd Duke of Alcalá de los Gazules
+}
+1622.1.1={ 
+	holder=380713	#Juan Sentís, Bishop of Barcelona
+}
+1626.1.1={
+	holder=380714	#Luis Díez de Aux y Armendáriz, Bishop of Urgel
+}
+1627.1.1={ 
+	holder=380715	#Miguel Santos de San Pedro, Bishop of Solsona
+}
+1629.1.1={
+	holder=380285	#Gómez Suárez de Figueroa, 3rd Duke of Feria
+}
+1630.1.1={
+	holder=380730	#Enrique de Aragón Folc de Cardona y Córdoba
+}
+1632.1.1={
+	holder=372609	#Cardinal-Infante Fernando de Austria
+}
+1633.1.1={
+	holder=380730	#Enrique de Aragón Folc de Cardona y Córdoba (2nd time)
+}
+1638.1.1={ 
+	holder=380742	#Dalmau de Queralt, Count of Santa Coloma
+}
+1640.1.1={
+	holder=380730	#Enrique de Aragón Folc de Cardona y Córdoba (3rd time)
+}
+1640.7.22={ 
+	holder=380743	#García Gil Manrique, Bishop of Barcelona
+}
+1640.10.1={ 
+	holder=380289	#Pedro Fajardo Requesens y Zúñiga, Marqués de los Vélez
+}

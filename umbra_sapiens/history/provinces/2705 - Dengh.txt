@@ -1,0 +1,30 @@
+# 1672 - Dengh
+
+# County Title
+title = c_dengh
+
+# Settlements
+max_settlements = 4
+b_anhix = castle
+b_sinlak = city
+b_pokngrukmieuh = temple
+#b_myogik =
+#b_khyukjang =
+#b_pokbjen =
+#b_dang =
+#b_myanghto =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+1306.1.1 = {
+build_wonder = wonder_university
+set_wonder_stage = 1
+set_wonder_name = GUOZIJIANUNIVERSITY
+set_wonder_description = GUOZIJIANUNIVERSITYDESC
+build_wonder_upgrade = upgrade_great_seminars
+build_wonder_upgrade = upgrade_wing_of_stewardship
+}

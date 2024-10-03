@@ -1,0 +1,75 @@
+654.1.1={
+	liege="k_khazaria"
+	holder=74004
+}
+682.1.1={
+	holder=74007
+}
+715.1.1={
+	holder=74008
+}
+731.1.1={
+	holder=74009
+}
+
+# Mod specific characters start here.  All details made up pending historical info ------------------------
+# 769 START -----------------------------------------------------------------------------------------------
+741.1.1 = {
+	liege = 0
+	set_tribute_suzerain = { who = k_khazaria }
+	holder = 555101
+}
+768.1.1={
+	holder=555102
+}
+
+# 867 START -----------------------------------------------------------------------------------------------
+853.1.1={
+	holder=555104
+}
+901.1.1={
+	holder=555105
+}
+919.1.1={
+	holder=555106
+}
+978.1.1={
+	holder=555107
+}
+1010.1.1={
+	set_tribute_suzerain = { who = d_tmutarakan }
+	holder=555108
+}
+
+# 1066 START -----------------------------------------------------------------------------------------------
+1065.1.1={
+	holder=555109
+}
+1114.1.1={
+	clear_tribute_suzerain = d_tmutarakan
+	holder=555110
+}
+1124.4.18={
+	set_tribute_suzerain = { who = k_georgia }
+}
+1171.1.1={
+	holder=555111
+}
+1203.1.1={
+	holder=555112
+}
+1230.1.1={
+	clear_tribute_suzerain = k_georgia
+}
+1258.1.1={
+	holder=555113
+}
+1301.1.1={
+	holder=555114
+}
+1303.1.1={
+	holder=555115
+}
+1329.1.1={
+	holder=555116
+}

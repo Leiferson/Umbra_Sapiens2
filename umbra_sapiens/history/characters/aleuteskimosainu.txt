@@ -1,0 +1,606 @@
+#323000 --- 323200
+323000 = {
+	name = "Ainurakkur"
+	dynasty = 1010002000
+	religion = ainu_pantheism
+	culture = ainu
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323001 = {
+	name = "Shiukeri"
+	dynasty = 1010002000
+	religion = ainu_pantheism
+	culture = ainu
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323002 = {
+	name = "Tarikona"
+	dynasty = 1010002000
+	religion = ainu_pantheism
+	culture = ainu
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323003 = {
+	name = "Bufushi"
+	dynasty = 1010002000
+	religion = ainu_pantheism
+	culture = ainu
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323004 = {
+	name = "Kushiyunte"
+	dynasty = 1010002000
+	religion = ainu_pantheism
+	culture = ainu
+	father = 323003
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323005 = {
+	name = "Tomikano"
+	dynasty = 1010002000
+	religion = ainu_pantheism
+	culture = ainu
+	father = 323004
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323006 = {
+	name = "Kushiyunte"
+	dynasty = 1010002000
+	religion = ainu_pantheism
+	culture = ainu
+	father = 323005
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323007 = {
+	name = "Hecaranke"
+	dynasty = 1010002000
+	religion = ainu_pantheism
+	culture = ainu
+	father = 323006
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Another Line
+323008 = {
+	name = "Ainurakkur"
+	dynasty = 1010002001
+	religion = ainu_pantheism
+	culture = ainu
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323009 = {
+	name = "Shiukeri"
+	dynasty = 1010002001
+	religion = ainu_pantheism
+	culture = ainu
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323010 = {
+	name = "Tarikona"
+	dynasty = 1010002001
+	religion = ainu_pantheism
+	culture = ainu
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323011 = {
+	name = "Bufushi"
+	dynasty = 1010002001
+	religion = ainu_pantheism
+	culture = ainu
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323012 = {
+	name = "Kushiyunte"
+	dynasty = 1010002001
+	religion = ainu_pantheism
+	culture = ainu
+	father = 323011
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323013 = {
+	name = "Tomikano"
+	dynasty = 1010002001
+	religion = ainu_pantheism
+	culture = ainu
+	father = 323012
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323014 = {
+	name = "Kushiyunte"
+	dynasty = 1010002001
+	religion = ainu_pantheism
+	culture = ainu
+	father = 323013
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323015 = {
+	name = "Hecaranke"
+	dynasty = 1010002001
+	religion = ainu_pantheism
+	culture = ainu
+	father = 323014
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+###Eskimos
+323016 = {
+	name = "Masaaraq"
+	dynasty = 1010004000
+	religion = inuit_pagan
+	culture = tuniq
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323017 = {
+	name = "Tomkin"
+	dynasty = 1010004000
+	religion = inuit_pagan
+	culture = tuniq
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323018 = {
+	name = "Makpigat"
+	dynasty = 1010004000
+	religion = inuit_pagan
+	culture = tuniq
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323019 = {
+	name = "Tomkin"
+	dynasty = 1010004000
+	religion = inuit_pagan
+	culture = tuniq
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323020 = {
+	name = "Massalerauvok"
+	dynasty = 1010004000
+	religion = inuit_pagan
+	culture = tuniq
+	father = 323019
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323021 = {
+	name = "Tornuaq"
+	dynasty = 1010004000
+	religion = inuit_pagan
+	culture = tuniq
+	father = 323020
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323022 = {
+	name = "Akiak"
+	dynasty = 1010004000
+	religion = inuit_pagan
+	culture = tuniq
+	father = 323021
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323023 = {
+	name = "Oogrooq"
+	dynasty = 1010004000
+	religion = inuit_pagan
+	culture = tuniq
+	father = 323022
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#another line
+323024 = {
+	name = "Yuralria"
+	dynasty = 1010004001
+	religion = inuit_pagan
+	culture = tuniq
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323025 = {
+	name = "Nutaralak"
+	dynasty = 1010004001
+	religion = inuit_pagan
+	culture = tuniq
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323026 = {
+	name = "Pamiiruq"
+	dynasty = 1010004001
+	religion = inuit_pagan
+	culture = tuniq
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323027 = {
+	name = "Buniq"
+	dynasty = 1010004001
+	religion = inuit_pagan
+	culture = tuniq
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323028 = {
+	name = "Pamiiruq"
+	dynasty = 1010004001
+	religion = inuit_pagan
+	culture = tuniq
+	father = 323027
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323029 = {
+	name = "Onartok"
+	dynasty = 1010004001
+	religion = inuit_pagan
+	culture = tuniq
+	father = 323028
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323030 = {
+	name = "Chulyin"
+	dynasty = 1010004001
+	religion = inuit_pagan
+	culture = tuniq
+	father = 323029
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323031 = {
+	name = "Onartok"
+	dynasty = 1010004001
+	religion = inuit_pagan
+	culture = tuniq
+	father = 323030
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+###The Aleuts
+323032 = {
+	name = "Torngasak"
+	dynasty = 1010004002
+	religion = inuit_pagan
+	culture = aleut
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323033 = {
+	name = "Nutaralak"
+	dynasty = 1010004002
+	religion = inuit_pagan
+	culture = aleut
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323034 = {
+	name = "Aguta"
+	dynasty = 1010004002
+	religion = inuit_pagan
+	culture = aleut
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323035 = {
+	name = "Mauja"
+	dynasty = 1010004002
+	religion = inuit_pagan
+	culture = aleut
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323036 = {
+	name = "Aguta"
+	dynasty = 1010004002
+	religion = inuit_pagan
+	culture = aleut
+	father = 323035
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323037 = {
+	name = "Tuaq"
+	dynasty = 1010004002
+	religion = inuit_pagan
+	culture = aleut
+	father = 323036
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323038 = {
+	name = "Akkituyok"
+	dynasty = 1010004002
+	religion = inuit_pagan
+	culture = aleut
+	father = 323037
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323039 = {
+	name = "Makittuq"
+	dynasty = 1010004002
+	religion = inuit_pagan
+	culture = aleut
+	father = 323038
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#last boyz
+323040 = {
+	name = "Manirak"
+	dynasty = 1010004003
+	religion = inuit_pagan
+	culture = aleut
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+323041 = {
+	name = "Tlate"
+	dynasty = 1010004003
+	religion = inuit_pagan
+	culture = aleut
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+323042 = {
+	name = "Manirak"
+	dynasty = 1010004003
+	religion = inuit_pagan
+	culture = aleut
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+323043 = {
+	name = "Tlate"
+	dynasty = 1010004003
+	religion = inuit_pagan
+	culture = aleut
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+323044 = {
+	name = "Tootega"
+	dynasty = 1010004003
+	religion = inuit_pagan
+	culture = aleut
+	father = 323043
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+323045 = {
+	name = "Miki"
+	dynasty = 1010004003
+	religion = inuit_pagan
+	culture = aleut
+	father = 323044
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+323046 = {
+	name = "Tingenek"
+	dynasty = 1010004003
+	religion = inuit_pagan
+	culture = aleut
+	father = 323045
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+323047 = {
+	name = "Aga"
+	dynasty = 1010004003
+	religion = inuit_pagan
+	culture = aleut
+	father = 323046
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}

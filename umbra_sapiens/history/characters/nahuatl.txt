@@ -1,0 +1,1152 @@
+1019919255={
+	name=Xochipepe
+	dynasty=101002250
+	dna="nngghnhogko"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=envious add_trait=honest add_trait=cynical add_trait=paranoid 
+	add_trait=temperate 
+	719.3.11={ birth=yes }
+	770.12.9={ death=yes }
+}
+1019919256={
+	name=Tochtli
+	dynasty=101002250
+	dna="keopmnhkgof"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=tough_soldier add_trait=hunter add_trait=slothful add_trait=arbitrary add_trait=chaste 
+	add_trait=wounded 
+	father=1019919255	#Xochipepe
+	744.1.9={ birth=yes }
+	800.12.29={ death=yes }
+}
+1019919257={
+	name=Chipahua
+	female=yes
+	dynasty=101002250
+	dna="bngffnhnhkl"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919255	#Xochipepe
+	750.6.1={ birth=yes }
+	845.11.3={ death=yes }
+}
+1019919258={
+	name=Aculnahuacatl
+	dynasty=101002250
+	dna="nigghmhohno"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=4 learning=7
+	add_trait=skilled_tactician add_trait=trusting add_trait=charitable add_trait=humble 
+	father=1019919255	#Xochipepe
+	756.3.15={ birth=yes }
+	820.2.5={ death=yes }
+}
+1019919259={
+	name=Citlalmina
+	female=yes
+	dynasty=101002250
+	dna="kbgbcnhbgof"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919255	#Xochipepe
+	761.1.12={ birth=yes }
+	827.6.9={ death=yes }
+}
+1019919260={
+	name=Ozomatli
+	dynasty=101002250
+	dna="nngglnhodmn"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=proud add_trait=gregarious add_trait=envious 
+	father=1019919255	#Xochipepe
+	767.3.1={ birth=yes }
+	847.3.29={ death=yes }
+}
+1019919261={
+	name=Teicuih
+	female=yes
+	dynasty=101002250
+	dna="nbgahmngikg"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919255	#Xochipepe
+	772.1.3={ birth=yes }
+	825.2.25={ death=yes }
+}
+1019919262={
+	name=Xochipepe
+	dynasty=101002250
+	dna="nlgghfceglo"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=4 learning=5
+	add_trait=naive_appeaser add_trait=impaler add_trait=ambitious add_trait=craven 
+	add_trait=possessed 
+	father=1019919255	#Xochipepe
+	778.9.14={ birth=yes }
+	863.12.3={ death=yes }
+}
+1019919263={
+	name=Malinalxochitl
+	female=yes
+	dynasty=101002250
+	dna="keoppahhgof"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919256	#Tochtli
+	775.2.6={ birth=yes }
+	847.8.21={ death=yes }
+}
+1019919264={
+	name=Zipactonal
+	dynasty=101002250
+	dna="keopmnhnhdf"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	add_trait=grey_eminence add_trait=envious add_trait=honest 
+	father=1019919256	#Tochtli
+	782.9.11={ birth=yes }
+	864.2.23={ death=yes }
+}
+1019919265={
+	name=Matlalatzin
+	female=yes
+	dynasty=101002250
+	dna="llojkphkhpf"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919256	#Tochtli
+	787.7.16={ birth=yes }
+	862.4.22={ death=yes }
+}
+1019919266={
+	name=Topiltzin
+	dynasty=101002250
+	dna="kdbmnjmoakf"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=gregarious add_trait=just add_trait=patient add_trait=chaste 
+	father=1019919264	#Zipactonal
+	802.2.22={ birth=yes }
+	888.2.4={ death=yes }
+}
+1019919267={
+	name=Chalchiuitl
+	female=yes
+	dynasty=101002250
+	dna="jpppmblnoef"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919264	#Zipactonal
+	806.3.7={ birth=yes }
+	874.2.19={ death=yes }
+}
+1019919268={
+	name=Iquehuacatzin
+	dynasty=101002250
+	dna="begpmnhnhdf"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=7 learning=6
+	add_trait=scholarly_theologian add_trait=gardener add_trait=patient 
+	father=1019919264	#Zipactonal
+	809.12.14={ birth=yes }
+	892.5.7={ death=yes }
+}
+1019919269={
+	name=Yoltzin
+	female=yes
+	dynasty=101002250
+	dna="keopjlcnodj"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919264	#Zipactonal
+	815.7.24={ birth=yes }
+	872.12.6={ death=yes }
+}
+1019919270={
+	name=Quauhtli
+	dynasty=101002250
+	dna="kdopnnfchdi"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=5
+	add_trait=martial_cleric add_trait=deceitful add_trait=wroth add_trait=temperate 
+	add_trait=humble 
+	father=1019919264	#Zipactonal
+	820.2.8={ birth=yes }
+	861.6.9={ death=yes }
+}
+1019919271={
+	name=Cuitlahuac
+	dynasty=101002250
+	dna="neokmkhbhff"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=grey_eminence add_trait=trusting add_trait=gluttonous add_trait=diligent add_trait=greedy 
+	add_trait=shy 
+	father=1019919264	#Zipactonal
+	825.10.12={ birth=yes }
+	887.4.26={ death=yes }
+}
+1019919272={
+	name=Tizoc
+	dynasty=101002250
+	dna="kdblnjmgalm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=7
+	add_trait=naive_appeaser add_trait=brave add_trait=temperate add_trait=envious add_trait=cynical 
+	add_trait=arbitrary add_trait=patient add_trait=ugly 
+	father=1019919266	#Topiltzin
+	833.1.25={ birth=yes }
+	897.8.23={ death=yes }
+}
+1019919273={
+	name=Centehua
+	female=yes
+	dynasty=101002250
+	dna="bdbmghliaff"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919266	#Topiltzin
+	840.2.12={ birth=yes }
+	900.7.20={ death=yes }
+}
+1019919274={
+	name=Cuicatl
+	female=yes
+	dynasty=101002250
+	dna="khbmnmjdakf"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919266	#Topiltzin
+	846.6.24={ birth=yes }
+	904.1.21={ death=yes }
+}
+1019919275={
+	name=Acamapichtli
+	dynasty=101002250
+	dna="gfbmnjpjaod"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=slothful add_trait=honest add_trait=chaste add_trait=just 
+	add_trait=charitable  
+	father=1019919266	#Topiltzin
+	853.3.26={ birth=yes }
+	910.3.5={ death=yes }
+}
+1019919276={
+	name=Tototl
+	dynasty=101002250
+	dna="kfbigcmhalm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	add_trait=midas_touched add_trait=chaste add_trait=deceitful add_trait=ambitious 
+	father=1019919272	#Tizoc
+	852.2.20={ birth=yes }
+	919.5.14={ death=yes }
+}
+1019919277={
+	name=Zolin
+	dynasty=101002250
+	dna="kdflohmgalm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=7 learning=6
+	add_trait=naive_appeaser add_trait=cynical add_trait=charitable add_trait=arbitrary add_trait=trusting 
+	father=1019919272	#Tizoc
+	857.7.20={ birth=yes }
+	939.8.20={ death=yes }
+}
+1019919278={
+	name=Tlahcoehua
+	female=yes
+	dynasty=101002250
+	dna="kfbieaipalm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919276	#Tototl
+	879.11.26={ birth=yes }
+	941.7.4={ death=yes }
+}
+1019919279={
+	name=Citlalli
+	female=yes
+	dynasty=101002250
+	dna="kcbngcdkafh"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919276	#Tototl
+	884.4.24={ birth=yes }
+	958.10.30={ death=yes }
+}
+1019919280={
+	name=Moquihuix
+	dynasty=101002250
+	dna="pibipamhflm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=just add_trait=temperate add_trait=ambitious add_trait=honest 
+	add_trait=depressed 
+	father=1019919276	#Tototl
+	889.1.14={ birth=yes }
+	973.6.10={ death=yes }
+}
+1019919281={
+	name=Coaxoch
+	female=yes
+	dynasty=101002250
+	dna="bfeiocihglh"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919276	#Tototl
+	893.12.12={ birth=yes }
+	958.4.27={ death=yes }
+}
+1019919282={
+	name=Acalan
+	dynasty=101002250
+	dna="kfbibcmfmim"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=8 learning=8
+	add_trait=grey_eminence add_trait=wroth add_trait=trusting 
+	father=1019919276	#Tototl
+	898.12.25={ birth=yes }
+	982.2.9={ death=yes }
+}
+1019919283={
+	name=Matlal
+	dynasty=101002250
+	dna="kfoikbeealm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=greedy add_trait=deceitful add_trait=ambitious 
+	add_trait=chaste add_trait=wroth 
+	father=1019919276	#Tototl
+	902.4.6={ birth=yes }
+	978.12.24={ death=yes }
+}
+1019919284={
+	name=Zeltzin
+	female=yes
+	dynasty=101002250
+	dna="kfjigcpnali"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919276	#Tototl
+	907.2.15={ birth=yes }
+	992.3.28={ death=yes }
+}
+1019919285={
+	name=Opochtli
+	dynasty=101002250
+	dna="pekhjcapflm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=6
+	add_trait=indulgent_wastrel add_trait=gardener add_trait=cynical add_trait=just add_trait=ambitious 
+	add_trait=lustful add_trait=paranoid 
+	father=1019919280	#Moquihuix
+	909.8.7={ birth=yes }
+	989.4.7={ death=yes }
+}
+1019919286={
+	name=Xocoyotl
+	female=yes
+	dynasty=101002250
+	dna="djbbpenffpp"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919280	#Moquihuix
+	914.2.1={ birth=yes }
+	990.5.2={ death=yes }
+}
+1019919287={
+	name=Citlalli
+	female=yes
+	dynasty=101002250
+	dna="piilpidbeln"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919280	#Moquihuix
+	919.5.26={ birth=yes }
+	1003.8.14={ death=yes }
+}
+1019919288={
+	name=Cuicatl
+	female=yes
+	dynasty=101002250
+	dna="pfbljjkpcll"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919280	#Moquihuix
+	924.5.10={ birth=yes }
+	978.4.16={ death=yes }
+}
+1019919289={
+	name=Eloxochitl
+	female=yes
+	dynasty=101002250
+	dna="pekmjdagmlm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919285	#Opochtli
+	932.10.9={ birth=yes }
+	1010.1.12={ death=yes }
+}
+1019919290={
+	name=Meztli
+	female=yes
+	dynasty=101002250
+	dna="odkhjcdpjlf"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919285	#Opochtli
+	936.9.18={ birth=yes }
+	990.9.22={ death=yes }
+}
+1019919291={
+	name=Tlahco
+	female=yes
+	dynasty=101002250
+	dna="geaiecafffa"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919285	#Opochtli
+	943.2.18={ birth=yes }
+	988.10.25={ death=yes }
+}
+1019919292={
+	name=Cacamatzin
+	dynasty=101002250
+	dna="bechjiepflm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=patient add_trait=gregarious add_trait=chaste add_trait=craven 
+	father=1019919285	#Opochtli
+	950.2.22={ birth=yes }
+	1002.10.4={ death=yes }
+}
+1019919293={
+	name=Malinalxochitl
+	female=yes
+	dynasty=101002250
+	dna="aechmklpfhm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919292	#Cacamatzin
+	973.4.14={ birth=yes }
+	1066.7.19={ death=yes }
+}
+1019919294={
+	name=Tochtli
+	dynasty=101002250
+	dna="debjdkepflm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=indulgent_wastrel add_trait=patient add_trait=shy add_trait=greedy 
+	father=1019919292	#Cacamatzin
+	978.4.23={ birth=yes }
+	1033.2.14={ death=yes }
+}
+1019919295={
+	name=Cuauhtl
+	dynasty=101002250
+	dna="bechnlepfll"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=7 learning=8
+	add_trait=charismatic_negotiator add_trait=diligent add_trait=lustful add_trait=deceitful add_trait=humble 
+	father=1019919292	#Cacamatzin
+	984.9.18={ birth=yes }
+	1043.7.29={ death=yes }
+}
+1019919296={
+	name=Zipactonal
+	dynasty=101002250
+	dna="becjlpeijnb"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=diligent add_trait=craven add_trait=trusting add_trait=humble 
+	add_trait=gregarious 
+	father=1019919292	#Cacamatzin
+	987.8.27={ birth=yes }
+	1043.11.21={ death=yes }
+}
+1019919297={
+	name=Cuitlahuac
+	dynasty=101002250
+	dna="kenhjibpccj"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=slothful add_trait=brave add_trait=chaste 
+	add_trait=wounded 
+	father=1019919292	#Cacamatzin
+	992.7.25={ birth=yes }
+	1069.9.7={ death=yes }
+}
+1019919298={
+	name=Tizocic
+	dynasty=101002250
+	dna="mfchjondflm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=deceitful add_trait=charitable add_trait=zealous add_trait=patient 
+	 add_trait=brave 
+	father=1019919292	#Cacamatzin
+	999.6.1={ birth=yes }
+	1074.9.1={ death=yes }
+}
+1019919299={
+	name=Atl
+	dynasty=101002250
+	dna="ledmjiepfjm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=6 learning=7
+	add_trait=midas_touched add_trait=paranoid add_trait=honest add_trait=drunkard 
+	father=1019919292	#Cacamatzin
+	1003.11.18={ birth=yes }
+	1065.3.29={ death=yes }
+}
+1019919300={
+	name=Ixtlilxochitl
+	dynasty=101002250
+	dna="nhbelkepmhm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	add_trait=martial_cleric add_trait=zealous add_trait=content 
+	father=1019919294	#Tochtli
+	1004.11.11={ birth=yes }
+	1082.4.9={ death=yes }
+}
+1019919301={
+	name=Chicahua
+	female=yes
+	dynasty=101002250
+	dna="debjddopfam"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919294	#Tochtli
+	1008.12.19={ birth=yes }
+	1082.9.16={ death=yes }
+}
+1019919302={
+	name=Tapayaxi
+	dynasty=101002250
+	dna="deohakekfdh"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=6 learning=7
+	add_trait=scholarly_theologian add_trait=gardener  add_trait=brave 
+	add_trait=shy add_trait=drunkard 
+	father=1019919294	#Tochtli
+	1010.1.3={ birth=yes }
+	1079.11.3={ death=yes }
+}
+1019919303={
+	name=Ahuiliztli
+	dynasty=101002250
+	dna="dpbjdenpalm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=6 learning=5
+	add_trait=flamboyant_schemer add_trait=honest add_trait=chaste add_trait=zealous add_trait=proud 
+	add_trait=gregarious add_trait=patient 
+	father=1019919294	#Tochtli
+	1015.7.22={ birth=yes }
+	1056.6.4={ death=yes }
+}
+1019919304={
+	name=Tlahco
+	female=yes
+	dynasty=101002250
+	dna="okbiojepahm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919294	#Tochtli
+	1018.11.7={ birth=yes }
+	1073.5.17={ death=yes }
+}
+1019919305={
+	name=Teiuc
+	female=yes
+	dynasty=101002250
+	dna="dfejdkehfin"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919294	#Tochtli
+	1023.4.2={ birth=yes }
+	1101.10.28={ death=yes }
+}
+1019919306={
+	name=Nochehuatl
+	dynasty=101002250
+	dna="debdlfepfik"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=5
+	add_trait=mastermind_theologian add_trait=trusting  add_trait=stressed 
+	father=1019919294	#Tochtli
+	1029.3.18={ birth=yes }
+	1090.6.2={ death=yes }
+}
+1019919307={
+	name=Sacnite
+	female=yes
+	dynasty=101002250
+	dna="nhaelkekkhj"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919300	#Ixtlilxochitl
+	1025.4.1={ birth=yes }
+	1080.9.26={ death=yes }
+}
+1019919308={
+	name=Matlal
+	dynasty=101002250
+	dna="nhbmlpemjpg"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=5 learning=5
+	add_trait=naive_appeaser add_trait=honest add_trait=wroth add_trait=paranoid 
+	father=1019919300	#Ixtlilxochitl
+	1029.9.23={ birth=yes }
+	1114.8.12={ death=yes }
+}
+1019919309={
+	name=Acamapichtli
+	dynasty=101002250
+	dna="jfbelpepjim"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=8
+	add_trait=tough_soldier add_trait=charitable add_trait=brave 
+	father=1019919300	#Ixtlilxochitl
+	1035.2.4={ birth=yes }
+	1115.5.10={ death=yes }
+}
+1019919310={
+	name=Zipactonal
+	dynasty=101002250
+	dna="nhbmljhpmim"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=duelist add_trait=shy add_trait=proud add_trait=trusting 
+	father=1019919300	#Ixtlilxochitl
+	1039.12.1={ birth=yes }
+	1107.4.12={ death=yes }
+}
+1019919311={
+	name=Xicohtencatl
+	dynasty=101002250
+	dna="nbbempfbmhm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	add_trait=skilled_tactician add_trait=arbitrary add_trait=patient add_trait=charitable add_trait=lustful 
+	 add_trait=drunkard 
+	father=1019919300	#Ixtlilxochitl
+	1044.8.2={ birth=yes }
+	1112.3.9={ death=yes }
+}
+1019919312={
+	name=Cipac
+	dynasty=101002250
+	dna="nnbhlkehecm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	add_trait=flamboyant_schemer add_trait=chaste add_trait=temperate add_trait=content add_trait=brave 
+	father=1019919300	#Ixtlilxochitl
+	1049.3.16={ birth=yes }
+	1110.8.29={ death=yes }
+}
+1019919313={
+	name=Huitzilihuitl
+	dynasty=101002250
+	dna="ghoelampmcg"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=6 learning=7
+	add_trait=indulgent_wastrel add_trait=trusting add_trait=slothful add_trait=envious 
+	add_trait=ill 
+	father=1019919300	#Ixtlilxochitl
+	1054.9.16={ birth=yes }
+	1129.9.13={ death=yes }
+}
+1019919314={
+	name=Cuitlahuac
+	dynasty=101002250
+	dna="nhlkbnemoig"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=gardener add_trait=cynical add_trait=envious add_trait=diligent 
+	add_trait=greedy add_trait=drunkard 
+	father=1019919308	#Matlal
+	1053.2.22={ birth=yes }
+	1110.3.31={ death=yes }
+}
+1019919315={
+	name=Ixcatzin
+	female=yes
+	dynasty=101002250
+	dna="nhjfgpeejkg"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919308	#Matlal
+	1056.1.6={ birth=yes }
+	1141.3.16={ death=yes }
+}
+1019919316={
+	name=Tizoc
+	dynasty=101002250
+	dna="ihbmgpgajpg"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=hedonist add_trait=proud add_trait=just add_trait=charitable 
+	add_trait=chaste add_trait=gregarious 
+	father=1019919308	#Matlal
+	1061.10.7={ birth=yes }
+	1117.10.21={ death=yes }
+}
+1019919317={
+	name=Huitzitl
+	dynasty=101002250
+	dna="njneonegbig"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=8 learning=8
+	add_trait=flamboyant_schemer  add_trait=just add_trait=shy add_trait=greedy 
+	add_trait=stressed 
+	father=1019919314	#Cuitlahuac
+	1074.1.14={ birth=yes }
+	1151.3.23={ death=yes }
+}
+1019919318={
+	name=Ahuitzotl
+	dynasty=101002250
+	dna="nhlkmaemong"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=trusting add_trait=proud 
+	father=1019919314	#Cuitlahuac
+	1079.12.19={ birth=yes }
+	1156.7.18={ death=yes }
+}
+1019919319={
+	name=Nelli
+	female=yes
+	dynasty=101002250
+	dna="nghakdkmaoc"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919314	#Cuitlahuac
+	1083.10.12={ birth=yes }
+	1146.10.20={ death=yes }
+}
+1019919320={
+	name=Mahchimaleh
+	dynasty=101002250
+	dna="chnpinemogm"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=brave add_trait=wroth  add_trait=humble 
+	add_trait=cynical 
+	father=1019919314	#Cuitlahuac
+	1089.4.17={ birth=yes }
+	1172.1.17={ death=yes }
+}
+1019919321={
+	name=Chichimecacihuatzin
+	female=yes
+	dynasty=101002250
+	dna="nolihnemehf"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919314	#Cuitlahuac
+	1094.7.14={ birth=yes }
+	1152.5.9={ death=yes }
+}
+1019919322={
+	name=Chichimecacihuatzin
+	female=yes
+	dynasty=101002250
+	dna="kbnapnpgbim"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919317	#Huitzitl
+	1101.9.16={ birth=yes }
+	1160.4.1={ death=yes }
+}
+1019919323={
+	name=Ueman
+	dynasty=101002250
+	dna="njldfdeihig"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=5 learning=6
+	add_trait=skilled_tactician add_trait=hunter add_trait=arbitrary add_trait=temperate add_trait=cynical 
+	add_trait=craven add_trait=envious add_trait=paranoid 
+	father=1019919317	#Huitzitl
+	1107.3.13={ birth=yes }
+	1166.12.15={ death=yes }
+}
+1019919324={
+	name=Matlalatzin
+	female=yes
+	dynasty=101002250
+	dna="njacgapahkd"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919323	#Ueman
+	1133.6.12={ birth=yes }
+	1189.12.25={ death=yes }
+}
+1019919325={
+	name=Tlalli
+	dynasty=101002250
+	dna="nllbfekibio"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=8 learning=6
+	add_trait=naive_appeaser add_trait=slothful add_trait=wroth add_trait=charitable 
+	father=1019919323	#Ueman
+	1138.3.18={ birth=yes }
+	1224.8.18={ death=yes }
+}
+1019919326={
+	name=Yaotl
+	dynasty=101002250
+	dna="njldkbeihki"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=5 learning=8
+	add_trait=martial_cleric add_trait=deceitful add_trait=ambitious add_trait=wroth 
+	add_trait=just add_trait=drunkard 
+	father=1019919323	#Ueman
+	1141.10.19={ birth=yes }
+	1219.9.23={ death=yes }
+}
+1019919327={
+	name=Moquihuix
+	dynasty=101002250
+	dna="ckihedkbhhg"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=honest add_trait=zealous add_trait=craven 
+	father=1019919323	#Ueman
+	1146.6.21={ birth=yes }
+	1207.3.28={ death=yes }
+}
+1019919328={
+	name=Totoquihuaztli
+	dynasty=101002250
+	dna="naddfdechkn"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	add_trait=scholarly_theologian add_trait=hunter add_trait=brave add_trait=patient add_trait=paranoid 
+	add_trait=arbitrary add_trait=zealous 
+	father=1019919323	#Ueman
+	1149.11.24={ birth=yes }
+	1206.12.21={ death=yes }
+}
+1019919329={
+	name=Tecolotl
+	dynasty=101002250
+	dna="nbabpflibid"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	add_trait=scholarly_theologian add_trait=brave add_trait=temperate add_trait=shy add_trait=slow 
+	father=1019919325	#Tlalli
+	1166.3.27={ birth=yes }
+	1220.10.23={ death=yes }
+}
+1019919330={
+	name=Tochtli
+	dynasty=101002250
+	dna="nldkfikibcl"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=6 learning=8
+	add_trait=grey_eminence add_trait=brave add_trait=ambitious add_trait=temperate add_trait=zealous 
+	add_trait=envious 
+	father=1019919325	#Tlalli
+	1169.10.8={ birth=yes }
+	1249.3.4={ death=yes }
+}
+1019919331={
+	name=Xochitl
+	female=yes
+	dynasty=101002250
+	dna="noeafekibgj"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919325	#Tlalli
+	1173.8.2={ birth=yes }
+	1226.9.14={ death=yes }
+}
+1019919332={
+	name=Chicahua
+	female=yes
+	dynasty=101002250
+	dna="nllhffkgbif"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919325	#Tlalli
+	1177.12.11={ birth=yes }
+	1258.1.31={ death=yes }
+}
+1019919333={
+	name=Coanacoch
+	dynasty=101002250
+	dna="jmkbpfeipld"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=4 learning=4
+	add_trait=misguided_warrior add_trait=brave add_trait=ambitious  
+	father=1019919329	#Tecolotl
+	1196.8.9={ birth=yes }
+	1254.10.25={ death=yes }
+}
+1019919334={
+	name=Matlal
+	dynasty=101002250
+	dna="gnhopadcdoh"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=7
+	add_trait=intricate_webweaver add_trait=chaste add_trait=brave add_trait=temperate 
+	1200.10.10={ birth=yes }
+	1260.5.14={ death=yes }
+}
+1019919335={
+	name=Toltecatl
+	female=yes
+	dynasty=101002250
+	dna="dnnopldcdoh"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919334	#Matlal
+	1228.5.4={ birth=yes }
+	1292.1.28={ death=yes }
+}
+1019919336={
+	name=Acacitli
+	dynasty=101002250
+	dna="gnffnaakdhh"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=5
+	add_trait=intricate_webweaver add_trait=proud add_trait=gluttonous add_trait=envious add_trait=diligent 
+	father=1019919334	#Matlal
+	1233.1.16={ birth=yes }
+	1336.1.17={ death=yes }
+}
+1019919337={
+	name=Chimalma
+	female=yes
+	dynasty=101002250
+	dna="gnhofddehdh"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919334	#Matlal
+	1237.4.3={ birth=yes }
+	1291.6.12={ death=yes }
+}
+1019919338={
+	name=Etalpalli
+	female=yes
+	dynasty=101002250
+	dna="alhdlanoaon"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919334	#Matlal
+	1240.10.15={ birth=yes }
+	1289.12.21={ death=yes }
+}
+1019919339={
+	name=Ahuiliztli
+	dynasty=101002250
+	dna="gehkiofcdoh"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=tough_soldier add_trait=mystic add_trait=humble add_trait=wroth add_trait=arbitrary 
+	add_trait=cynical add_trait=deceitful 
+	father=1019919334	#Matlal
+	1246.5.6={ birth=yes }
+	1314.6.22={ death=yes }
+}
+1019919340={
+	name=Acalan
+	dynasty=101002250
+	dna="gkffieakokk"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=poet add_trait=gregarious add_trait=craven add_trait=chaste 
+	add_trait=greedy 
+	father=1019919336	#Acacitli
+	1256.2.8={ birth=yes }
+	1317.3.25={ death=yes }
+}
+1019919341={
+	name=Malinalxochitl
+	female=yes
+	dynasty=101002250
+	dna="gnbhngakpmh"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919336	#Acacitli
+	1263.7.3={ birth=yes }
+	1320.12.18={ death=yes }
+}
+1019919342={
+	name=Xocoyotl
+	female=yes
+	dynasty=101002250
+	dna="gcfhnlakphh"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919336	#Acacitli
+	1268.6.23={ birth=yes }
+	1320.9.19={ death=yes }
+}
+1019919343={
+	name=Cihuaton
+	female=yes
+	dynasty=101002250
+	dna="cbfoihekpok"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919340	#Acalan
+	1281.2.10={ birth=yes }
+	1343.1.13={ death=yes }
+}
+1019919344={
+	name=Tetlepanquetzaltzin
+	dynasty=101002250
+	dna="geffilakkkg"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	add_trait=scholarly_theologian add_trait=diligent add_trait=envious 
+	father=1019919340	#Acalan
+	1286.5.10={ birth=yes }
+	1364.4.10={ death=yes }
+}
+1019919345={
+	name=Moquihuix
+	dynasty=101002250
+	dna="eklfijabopi"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=7 learning=6
+	add_trait=thrifty_clerk add_trait=impaler add_trait=gregarious add_trait=gluttonous 
+	add_trait=patient add_trait=wounded 
+	father=1019919340	#Acalan
+	1292.7.3={ birth=yes }
+	1349.11.24={ death=yes }
+}
+1019919346={
+	name=Tecocoltzin
+	dynasty=101002250
+	dna="onlfinidooe"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=arbitrary add_trait=greedy add_trait=temperate add_trait=ill 
+	father=1019919340	#Acalan
+	1297.9.14={ birth=yes }
+	1359.11.20={ death=yes }
+}
+1019919347={
+	name=Huitztecol
+	dynasty=101002250
+	dna="gabninajonk"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=6 learning=6
+	add_trait=thrifty_clerk add_trait=temperate add_trait=brave add_trait=deceitful 
+	father=1019919340	#Acalan
+	1302.8.23={ birth=yes }
+	1363.3.8={ death=yes }
+}
+1019919348={
+	name=Cuicatl
+	female=yes
+	dynasty=101002250
+	dna="hejhpldnbhg"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919344	#Tetlepanquetzaltzin
+	1308.3.27={ birth=yes }
+	1393.4.30={ death=yes }
+}
+1019919349={
+	name=Chimalpopoca
+	dynasty=101002250
+	dna="keffijpkdgn"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	add_trait=indulgent_wastrel add_trait=deceitful add_trait=proud 
+	father=1019919344	#Tetlepanquetzaltzin
+	1315.1.27={ birth=yes }
+	1378.12.8={ death=yes }
+}
+1019919350={
+	name=Teyacapan
+	female=yes
+	dynasty=101002250
+	dna="apffipgecki"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919344	#Tetlepanquetzaltzin
+	1319.7.20={ birth=yes }
+	1382.6.28={ death=yes }
+}
+1019919351={
+	name=Acalan
+	dynasty=101002250
+	dna="geffehadmke"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=shy add_trait=chaste add_trait=arbitrary 
+	add_trait=brave 
+	father=1019919344	#Tetlepanquetzaltzin
+	1324.7.22={ birth=yes }
+	1411.3.23={ death=yes }
+}
+1019919352={
+	name=Chipahua
+	female=yes
+	dynasty=101002250
+	dna="kenfijpnbgk"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919349	#Chimalpopoca
+	1346.11.19={ birth=yes }
+	1443.7.3={ death=yes }
+}
+1019919353={
+	name=Zolin
+	dynasty=101002250
+	dna="klkfdjpkdgn"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=arbitrary add_trait=paranoid 
+	father=1019919349	#Chimalpopoca
+	1349.3.19={ birth=yes }
+	1405.11.25={ death=yes }
+}
+1019919354={
+	name=Matlatzincatzin
+	dynasty=101002250
+	dna="kjofkgpkagd"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=chaste add_trait=just add_trait=content 
+	add_trait=ill 
+	father=1019919349	#Chimalpopoca
+	1355.12.26={ birth=yes }
+	1420.10.30={ death=yes }
+}
+1019919355={
+	name=Manauia
+	female=yes
+	dynasty=101002250
+	dna="bipdimokdfo"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919349	#Chimalpopoca
+	1362.6.26={ birth=yes }
+	1441.11.23={ death=yes }
+}
+1019919356={
+	name=Aculnahuacatl
+	dynasty=101002250
+	dna="klkfdjpjdhp"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=8
+	add_trait=misguided_warrior add_trait=trusting add_trait=wroth add_trait=charitable add_trait=humble 
+	father=1019919353	#Zolin
+	1380.2.12={ birth=yes }
+	1445.9.4={ death=yes }
+}
+1019919357={
+	name=Tlaloc
+	dynasty=101002250
+	dna="khjfijpgkgf"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=brave add_trait=cynical 
+	father=1019919353	#Zolin
+	1386.3.20={ birth=yes }
+	1455.6.4={ death=yes }
+}
+1019919358={
+	name=Chipahua
+	female=yes
+	dynasty=101002250
+	dna="kkkcjjgkdgl"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919353	#Zolin
+	1390.8.12={ birth=yes }
+	1459.7.11={ death=yes }
+}
+1019919359={
+	name=Atl
+	female=yes
+	dynasty=101002250
+	dna="kjkcdjgkadn"
+	culture=nonohualcan religion=nonohualcan_pagan
+	father=1019919353	#Zolin
+	1395.1.3={ birth=yes }
+	1451.2.24={ death=yes }
+}
+1019919360={
+	name=Cacamatzin
+	dynasty=101002250
+	dna="kfkfdjhcihj"
+	culture=nonohualcan religion=nonohualcan_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=humble add_trait=arbitrary add_trait=honest 
+	add_trait=slothful add_trait=lustful 
+	father=1019919356	#Aculnahuacatl
+	1401.9.5={ birth=yes }
+	1474.4.13={ death=yes }
+}

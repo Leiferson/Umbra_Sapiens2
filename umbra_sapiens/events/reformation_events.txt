@@ -1,0 +1,2932 @@
+namespace = reformationevents
+province_event = {
+	id = reformationevents.1
+	title = EVTNAMEreformationevents.1
+	desc = EVTDESCreformationeventsR.1
+	  picture = GFX_evt_beatification
+	trigger = {
+		has_global_flag = luther_work
+		OR = {
+		religion = catholic
+		religion = lollard
+		religion = waldensian
+		}
+		any_neighbor_province = {
+		religion = lutheran
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+		modifier = {
+			factor = 20
+			culture = polish
+			}
+		modifier = {
+			factor = 20
+			culture = irish
+			}
+			modifier = {
+			factor = 10
+			region = world_catholic
+			}
+		modifier = {
+				factor = 2
+			 region = world_calvinist 
+			 culture = german
+			}
+		modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = lutheran
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+			religion = anglican
+			religion = reformed
+			religion = hussite
+			religion = anabaptist
+			religion = unitarian
+			religion = baptist
+			religion = arminian
+			religion = methodist
+			}
+			}
+			}
+		#Authority of Catholicism
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.1
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.1
+			trigger = {
+				FROM = {
+				religion = lutheran
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.1
+			trigger = {
+				FROM = {
+				OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = anglican
+				religion = reformed
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+			}
+		}
+	}
+	ROOT = {
+		religion = lutheran
+		}
+}
+}
+province_event = {
+	id = reformationevents.2
+	title = EVTNAMEreformationevents.2
+	desc = EVTDESCreformationeventsR.2
+	  picture = GFX_evt_beatification
+	trigger = {
+		has_global_flag = radical_work
+		OR = {
+		religion = catholic
+		religion = lollard
+		religion = waldensian
+		}
+		any_neighbor_province = {
+		religion = anabaptist
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 100
+			modifier = {
+			factor = 20
+			culture = polish
+			}
+			modifier = {
+			factor = 20
+			culture = irish
+			}
+			modifier = {
+			factor = 10
+			region = world_catholic
+			}
+			modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = anabaptist
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+			religion = anglican
+			religion = reformed
+			religion = hussite
+			religion = lutheran
+			religion = unitarian
+			religion = baptist
+			religion = arminian
+			religion = methodist
+			}
+			}
+			}
+		#Authority of Catholicism
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.2
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.2
+			trigger = {
+				FROM = {
+				religion = anabaptist
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.2
+			trigger = {
+				FROM = {
+				OR = {
+				religion = hussite
+				religion = lutheran
+				religion = anglican
+				religion = reformed
+				}
+			}
+		}
+	}
+	ROOT = {
+		religion = anabaptist
+		}
+}
+}
+province_event = {
+	id = reformationevents.3
+	title = EVTNAMEreformationevents.3
+	desc = EVTDESCreformationeventsR.3
+	  picture = GFX_evt_beatification
+	trigger = {
+		has_global_flag = calvin_work	
+		OR = {
+		religion = catholic
+		religion = lollard
+		religion = waldensian
+		}
+		any_neighbor_province = {
+		religion = reformed
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+		modifier = {
+			factor = 20
+			culture = polish
+			}
+			modifier = {
+			factor = 20
+			culture = irish
+			}
+		modifier = {
+			factor = 2
+			region = world_lutheran
+			}
+		modifier = {
+			factor = 10
+			region = world_catholic
+			}
+		modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = reformed
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+			religion = anglican
+			religion = anabaptist
+			religion = hussite
+			religion = lutheran
+			religion = unitarian
+			religion = baptist
+			religion = arminian
+			religion = methodist
+			}
+			}
+			}
+		#Authority of Catholicism
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.3
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.3
+			trigger = {
+				FROM = {
+				religion = reformed
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.3
+			trigger = {
+				FROM = {
+				OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = anglican
+				religion = lutheran
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+			}
+		}
+		
+	}
+	ROOT = {
+		religion = reformed
+}
+}
+}
+province_event = {
+	id = reformationevents.4
+	title = EVTNAMEreformationevents.4
+	desc = EVTDESCreformationeventsR.4
+	  picture = GFX_evt_beatification
+	trigger = {
+		has_global_flag = hus_work
+		OR = {
+		religion = catholic
+		religion = lollard
+		religion = waldensian
+		}
+		any_neighbor_province = {
+		religion = hussite
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+		modifier = {
+				factor = 10
+			NOT = { culture = bohemian }
+			}
+			modifier = {
+			factor = 10
+			region = world_catholic
+			}
+		modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = hussite
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+			religion = anglican
+			religion = anabaptist
+			religion = reformed
+			religion = lutheran
+			religion = unitarian
+			religion = baptist
+			religion = arminian
+			religion = methodist
+			}
+			}
+			}
+		#Authority of Catholicism
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.4
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.4
+			trigger = {
+				FROM = {
+				religion = hussite
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.4
+			trigger = {
+				FROM = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = anglican
+				religion = reformed
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+			}
+		}
+	}
+	ROOT = {
+		religion = hussite
+		}
+}
+}
+province_event = {
+	id = reformationevents.5
+	title = EVTNAMEreformationevents.5
+	desc = EVTDESCreformationeventsR.5
+	  picture = GFX_evt_beatification
+	trigger = {
+		has_global_flag = anglican_work
+		OR = {
+		religion = catholic
+		religion = lollard
+		religion = waldensian
+		}
+		any_neighbor_province = {
+		religion = anglican
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+			modifier = {
+			factor = 20
+			culture = polish
+			}
+			modifier = {
+			factor = 20
+			culture = irish
+			}
+			modifier = {
+			factor = 10
+			region = world_catholic
+			}
+			modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = anglican
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+			religion = hussite
+			religion = anabaptist
+			religion = reformed
+			religion = lutheran
+			religion = unitarian
+			religion = baptist
+			religion = arminian
+			religion = methodist
+			}
+			}
+			}
+		#Authority of Catholicism
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.5
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.5
+			trigger = {
+				FROM = {
+				religion = anglican
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.5
+			trigger = {
+				FROM = {
+				OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+			}
+		}
+	}
+	ROOT = {
+		religion = anglican
+		}
+}
+}
+#Wycliff
+narrative_event = {
+	id = reformationevents.6
+	title = EVTNAMEreformationevents.6
+	desc = EVTDESCreformationeventsR.6
+	picture = GFX_evt_heretic_monk
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1300
+		NOT = { has_global_flag = wycliff_work }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		religion_authority = {
+		name = major_protestant_reformer
+		}
+		set_global_flag = wycliff_work
+		22 = { 
+		religion = lollard 
+		create_character = {
+		random_traits = no
+		name = "John"
+		dynasty = 1010043000
+		religion = lollard
+		culture = english
+		female = no
+		age = 34
+		attributes = {
+        learning = 18
+    }
+
+    add_trait = stubborn
+    add_trait = patient
+    add_trait = zealous
+    add_trait = scholar
+	add_trait = theologian
+    add_trait = chaste
+    add_trait = temperate
+		}
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.6
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.6
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+}
+}
+#Hus
+narrative_event = {
+	id = reformationevents.7
+	title = EVTNAMEreformationevents.7
+	desc = EVTDESCreformationeventsR.7
+	picture = GFX_evt_heretic_monk
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1400
+		NOT = { has_global_flag = hus_work }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		religion_authority = {
+		name = major_protestant_reformer
+		}
+		set_global_flag = hus_work
+		437 = { 
+		create_character = {
+		random_traits = no
+		name = "Jan"
+		dynasty = 1010043001
+		religion = hussite
+		culture = bohemian
+		female = no
+		age = 29
+		attributes = {
+        learning = 17
+    }
+
+    add_trait = stubborn
+    add_trait = zealous
+    add_trait = scholar
+	add_trait = theologian
+    add_trait = chaste
+    add_trait = brave
+		}
+		}
+		any_province = {
+		limit = { 
+		OR = {
+		de_jure_liege_or_above  = d_bohemia
+		de_jure_liege_or_above  = d_moravia 
+		}
+		}
+		religion = hussite
+		culture = bohemian 		
+		add_province_modifier = {
+			name = religious_unrest
+			years = 15
+						}
+		add_province_modifier = {
+			name = cultural_unrest
+			years = 15
+						}
+		add_province_modifier = {
+			name = peasant_unrest
+			years = 15
+						}
+		}
+		}
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.7
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.7
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+}
+}
+#Martin Luther
+narrative_event = {
+	id = reformationevents.8
+	title = EVTNAMEreformationevents.8
+	desc = EVTDESCreformationeventsR.8
+	picture = GFX_evt_heretic_monk
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1500
+		NOT = { has_global_flag = luther_work }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		religion_authority = {
+		name = major_protestant_reformer
+		}
+		set_global_flag = luther_work
+		310 = { religion = lutheran }
+		256	= { religion = lutheran }
+		1589 = { religion = lutheran }
+		312 = { religion = lutheran }
+		311 = { 
+		religion = lutheran 
+		create_character = {
+		random_traits = no
+		name = "Martin"
+		dynasty = 1010043002
+		religion = lutheran
+		culture = german
+		female = no
+		age = 40
+		attributes = {
+        learning = 19
+    }
+
+    add_trait = stubborn
+    add_trait = zealous
+    add_trait = scholar
+	add_trait = theologian
+    add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Philip"
+		dynasty = 1010043003
+		religion = lutheran
+		culture = german
+		female = no
+		age = 35
+		attributes = {
+        learning = 15
+		}
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Justus"
+		dynasty = 1010043004
+		religion = lutheran
+		culture = german
+		female = no
+		age = 33
+		attributes = {
+        stewardship = 18
+		learning = 12
+				}
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Martin"
+		dynasty = 1010043005
+		religion = lutheran
+		culture = german
+		female = no
+		age = 18
+		attributes = {
+		learning = 20
+				}
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Georg"
+		dynasty = 1010043006
+		religion = lutheran
+		culture = german
+		female = no
+		age = 50
+		attributes = {
+		learning = 17
+				}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Joachim "
+		dynasty = 1010043007
+		religion = lutheran
+		culture = german
+		female = no
+		age = 26
+		attributes = {
+		learning = 16
+				}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Andreas "
+		dynasty = 1010043008
+		religion = lutheran
+		culture = german
+		female = no
+		age = 39
+		attributes = {
+		learning = 15
+				}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Johann"
+		dynasty = 1010043009
+		religion = lutheran
+		culture = german
+		female = no
+		age = 42
+		attributes = {
+		learning = 17
+				}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Johannes"
+		dynasty = 1010043010
+		religion = lutheran
+		culture = german
+		female = no
+		age = 53
+		attributes = {
+		learning = 18
+				}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Andreas"
+		dynasty = 1010043011
+		religion = lutheran
+		culture = german
+		female = no
+		age = 50
+		attributes = {
+		learning = 20
+				}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Hans"
+		dynasty = 1010043012
+		religion = lutheran
+		culture = danish
+		female = no
+		age = 41
+		attributes = {
+		learning = 17
+				}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Mikael"
+		dynasty = 1010043013
+		religion = lutheran
+		culture = finnish
+		female = no
+		age = 41
+		attributes = {
+		learning = 16
+				}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Primus"
+		dynasty = 1010043014
+		religion = lutheran
+		culture = slovieni
+		female = no
+		age = 20
+		attributes = {
+		learning = 17
+				}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "George"
+		dynasty = 1010043015
+		religion = lutheran
+		culture = slovieni
+		female = no
+		age = 20
+		attributes = {
+		learning = 17
+				}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.8
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.8
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.8
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+#Calvin
+narrative_event = {
+	id = reformationevents.9
+	title = EVTNAMEreformationevents.9
+	desc = EVTDESCreformationeventsR.9
+	picture = GFX_evt_heretic_monk
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1500
+		NOT = { has_global_flag = calvin_work }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		religion_authority = {
+		name = major_protestant_reformer
+		}
+		set_global_flag = calvin_work
+		124={
+		religion = reformed 
+		create_character = {
+		random_traits = yes
+		name = "Johannes"
+		dynasty = 1010043025
+		religion = reformed
+		culture = german
+		female = no
+		age = 54
+		attributes = {
+        learning = 16
+		}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		}
+		126 = {
+		religion = reformed 
+		create_character = {
+		random_traits = no
+		name = "Martin"
+		dynasty = 1010043017
+		religion = reformed
+		culture = german
+		female = no
+		age = 45
+		attributes = {
+        learning = 16
+		}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Wolfgang"
+		dynasty = 1010043024
+		religion = reformed
+		culture = german
+		female = no
+		age = 56
+		attributes = {
+        learning = 15
+		}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		}
+		239 = {
+		religion = reformed 
+		create_character = {
+		random_traits = no
+		name = "John "
+		dynasty = 1010043018
+		religion = reformed
+		culture = frankish
+		female = no
+		age = 29
+		attributes = {
+        learning = 19
+		}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = no
+		name = "Theodor"
+		dynasty = 1010043020
+		religion = reformed
+		culture = frankish
+		female = no
+		age = 18
+		attributes = {
+        learning = 16
+		}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		}
+		46 = {
+		religion = reformed 
+		create_character = {
+		random_traits = yes
+		name = "Iain"
+		dynasty = 1010043022
+		religion = reformed
+		culture = scottish
+		female = no
+		age = 27
+		attributes = {
+        learning = 20
+		}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "George"
+		dynasty = 1010043023
+		religion = reformed
+		culture = scottish
+		female = no
+		age = 23
+		attributes = {
+        learning = 20
+		}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		}
+		245 = { 
+		religion = reformed 
+		create_character = {
+		random_traits = yes
+		name = "Leo"
+		dynasty = 1010043027
+		religion = reformed
+		culture = german
+		female = no
+		age = 57
+		attributes = {
+        learning = 15
+		}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = yes
+		name = "Pietro Martire"
+		dynasty = 1010043026
+		religion = reformed
+		culture = italian
+		female = no
+		age = 33
+		attributes = {
+        learning = 17
+		}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		create_character = {
+		random_traits = no
+		name = "Huldrych"
+		dynasty = 1010043016
+		religion = reformed
+		culture = german
+		female = no
+		age = 55
+		attributes = {
+        learning = 16
+		}
+    add_trait = stubborn
+    add_trait = zealous
+    add_trait = scholar
+	add_trait = theologian
+    add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Heinrich "
+		dynasty = 1010043019
+		religion = reformed
+		culture = german
+		female = no
+		age = 25
+		attributes = {
+        learning = 16
+		}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		}
+		create_character = {
+		random_traits = no
+		name = "Guillaume"
+		dynasty = 1010043021
+		religion = reformed
+		culture = frankish
+		female = no
+		age = 48
+		attributes = {
+        learning = 15
+		}
+		add_trait = theologian
+		add_trait = zealous
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.9
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.9
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.9
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+#Anglican
+narrative_event = {
+	id = reformationevents.10
+	title = EVTNAMEreformationevents.10
+	desc = EVTDESCreformationeventsR.10
+	picture = GFX_evt_heretic_monk
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1500
+		NOT = { has_global_flag = anglican_work }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		religion_authority = {
+		name = major_protestant_reformer
+		}
+		set_global_flag = anglican_work
+		22 = { religion = anglican }
+		73 = {
+		religion = anglican 
+		create_character = {
+		random_traits = yes
+		name = "Thomas"
+		dynasty = 1010043028
+		religion = anglican
+		culture = english
+		female = no
+		age = 51
+		attributes = {
+        learning = 20
+		}
+		 add_trait = stubborn
+		add_trait = zealous
+		add_trait = scholar
+		add_trait = theologian
+		add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Thomas"
+		dynasty = 1010043029
+		religion = anglican
+		culture = english
+		female = no
+		age = 49
+		attributes = {
+        learning = 18
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Hugh"
+		dynasty = 1010043030
+		religion = anglican
+		culture = english
+		female = no
+		age = 50
+		attributes = {
+        learning = 16
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "William"
+		dynasty = 1010043031
+		religion = anglican
+		culture = english
+		female = no
+		age = 30
+		attributes = {
+        learning = 17
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Matthew"
+		dynasty = 1010043032
+		religion = anglican
+		culture = english
+		female = no
+		age = 30
+		attributes = {
+        learning = 17
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Richard"
+		dynasty = 3
+		religion = anglican
+		culture = english
+		female = no
+		age = 17
+		attributes = {
+        learning = 16
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		}
+		}
+
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.10
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.10
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.10
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+#Anabaptists
+narrative_event = {
+	id = reformationevents.11
+	title = EVTNAMEreformationevents.11
+	desc = EVTDESCreformationeventsR.11
+	picture = GFX_evt_heretic_monk
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1500
+		NOT = { has_global_flag = radical_work }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		religion_authority = {
+		name = major_protestant_reformer
+		}
+		set_global_flag = radical_work
+		311={
+		create_character = {
+		random_traits = yes
+		name = "Thomas"
+		dynasty = 1010043034
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 49
+		attributes = {
+        learning = 20
+		martial = 15
+		}
+		add_trait = peasant_leader
+		 add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Nikolaus"
+		dynasty = 1010043035
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 36
+		attributes = {
+        learning = 13
+		martial = 15
+		}
+		add_trait = peasant_leader
+		 add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Thomas"
+		dynasty = 1010043036
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 36
+		attributes = {
+        learning = 15
+		martial = 15
+		}
+		add_trait = peasant_leader
+		 add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Markus"
+		dynasty = 1010043037
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 36
+		attributes = {
+        learning = 14
+		martial = 15
+		}
+		add_trait = peasant_leader
+		 add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		}
+		245 = {
+		create_character = {
+		random_traits = yes
+		name = "Conrad"
+		dynasty = 1010043044
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 29
+		attributes = {
+        learning = 15
+		martial = 15
+		}
+		add_trait = peasant_leader
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Felix "
+		dynasty = 1010043046
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 30
+		attributes = {
+        learning = 16
+		martial = 15
+		}
+		add_trait = peasant_leader
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		}
+		315 = {
+		religion = anabaptist
+		create_character = {
+		random_traits = yes
+		name = "Balthasar"
+		dynasty = 1010043045
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 54
+		attributes = {
+        learning = 20
+		martial = 15
+		}
+		add_trait = peasant_leader
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Christian"
+		dynasty = 1010043043
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 18
+		attributes = {
+        learning = 16
+		martial = 15
+		}
+		add_trait = peasant_leader
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Hans"
+		dynasty = 1010043042
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 29
+		attributes = {
+        learning = 13
+		martial = 15
+		}
+		add_trait = peasant_leader
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Johannes"
+		dynasty = 1010043041
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 27
+		attributes = {
+        learning = 12
+		martial = 15
+		}
+		add_trait = peasant_leader
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		}
+		83 = {
+		create_character = {
+		random_traits = yes
+		name = "Dirk"
+		dynasty = 1010043040
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 18
+		attributes = {
+        learning = 14
+		martial = 15
+		}
+		add_trait = peasant_leader
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		}
+		81 = {
+		religion = anabaptist
+		create_character = {
+		random_traits = yes
+		name = "Menno"
+		dynasty = 1010043039
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 29
+		attributes = {
+        learning = 17
+		martial = 15
+		}
+		add_trait = peasant_leader
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		}
+		88= {
+		create_character = {
+		random_traits = yes
+		name = "Johan"
+		dynasty = 1010043038
+		religion = anabaptist
+		culture = german
+		female = no
+		age = 24
+		attributes = {
+        learning = 12
+		martial = 15
+		}
+		add_trait = peasant_leader
+		 add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		}
+		}
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.11
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.11
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.11
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+#Unitarian stuff
+province_event = {
+	id = reformationevents.12
+	title = EVTNAMEreformationevents.12
+	desc = EVTDESCreformationeventsR.12
+	  picture = GFX_evt_beatification
+	trigger = {
+		has_global_flag = unitarian_work
+		OR = {
+		religion = waldensian
+		religion = catholic
+		religion = lollard
+		}
+		any_neighbor_province = {
+		religion = unitarian
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+			modifier = {
+			factor = 20
+			culture = polish
+			}
+			modifier = {
+			factor = 20
+			culture = irish
+			}
+			modifier = {
+			factor = 10
+			region = world_catholic
+			}
+			modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = unitarian
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+			religion = anglican
+			religion = reformed
+			religion = hussite
+			religion = lutheran
+			}
+			}
+			}
+		#Authority of Catholicism
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.12
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.12
+			trigger = {
+				FROM = {
+				religion = unitarian
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.12
+			trigger = {
+				FROM = {
+				OR = {
+				religion = hussite
+				religion = lutheran
+				religion = anglican
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+			}
+		}
+	}
+	ROOT = {
+		religion = unitarian
+		}
+}
+}
+narrative_event = {
+	id = reformationevents.13
+	title = EVTNAMEreformationevents.13
+	desc = EVTDESCreformationeventsR.13
+	picture = GFX_evt_beatification
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1500
+		NOT = { has_global_flag = unitarian_work }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = unitarian_work
+		520={
+		religion = unitarian
+		create_character = {
+		random_traits = yes
+		name = "Ferenc"
+		dynasty = 1010043047
+		religion = unitarian
+		culture = hungarian
+		female = no
+		age = 22
+		attributes = {
+        learning = 20
+		}
+		 add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		}
+		}
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.13
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.13
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.13
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+#95 Theses
+narrative_event = {
+	id = reformationevents.14
+	title = EVTNAMEreformationevents.14
+	desc = EVTDESCreformationeventsR.14
+	picture = GFX_evt_courtiers_looking_scandalized
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1500
+		NOT = { has_global_flag = 95theses_flag }
+		has_global_flag = luther_work 
+		has_global_flag = calvin_work 
+		has_global_flag = hus_work 
+		has_global_flag = wycliff_work 
+		has_global_flag = unitarian_work
+		has_global_flag = radical_work 		
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+		set_global_flag = 95theses_flag
+		narrative_event = {
+		id = reformationevents.15
+		years = 5
+						}
+		}
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.14
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.14
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.14
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+#Pope's response
+narrative_event = {
+	id = reformationevents.15
+	title = EVTNAMEreformationevents.15
+	desc = EVTDESCreformationeventsR.15
+	picture = GFX_evt_book_carolingian_script_cm
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1500
+		has_global_flag = luther_work 
+		has_global_flag = calvin_work 
+		has_global_flag = hus_work 
+		has_global_flag = wycliff_work 
+		has_global_flag = unitarian_work
+		has_global_flag = radical_work 		
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+		narrative_event = {
+		id = reformationevents.16
+		years = 5
+						}
+		}
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.15
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.15
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.15
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+#Calls the Council of Trent
+narrative_event = {
+	id = reformationevents.16
+	title = EVTNAMEreformationevents.16
+	desc = EVTDESCreformationeventsR.16
+	picture = GFX_evt_diplomatic_incident
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1500
+		has_global_flag = luther_work 
+		has_global_flag = calvin_work 
+		has_global_flag = hus_work 
+		has_global_flag = wycliff_work 
+		has_global_flag = unitarian_work
+		has_global_flag = radical_work 		
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+		set_global_flag = council_of_trent
+		narrative_event = {
+		id = reformationevents.17
+		years = 25
+		}
+		333={
+		create_character = {
+		random_traits = yes
+		name = "Girolamo"
+		dynasty = 1010043048
+		religion = catholic
+		culture = italian
+		female = no
+		age = 51
+		attributes = {
+        learning = 19
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Thomas"
+		dynasty = 1010043050
+		religion = catholic
+		culture = italian
+		female = no
+		age = 62
+		attributes = {
+        learning = 20
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Diego"
+		dynasty = 1010043054
+		religion = catholic
+		culture = castillan
+		female = no
+		age = 25
+		attributes = {
+        learning = 17
+		}
+		join_society = monastic_order_jesuit
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Peter"
+		dynasty = 1010043055
+		religion = catholic
+		culture = frankish
+		female = no
+		age = 18
+		attributes = {
+        learning = 18
+		}
+		join_society = monastic_order_jesuit
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Francis"
+		dynasty = 1010043056
+		religion = catholic
+		culture = basque
+		female = no
+		age = 24
+		attributes = {
+        learning = 18
+		}
+		join_society = monastic_order_jesuit
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Ignatius"
+		dynasty = 1010043057
+		religion = catholic
+		culture = castillan
+		female = no
+		age = 32
+		attributes = {
+        learning = 22
+		}
+		add_trait = zealous
+		add_trait = theologian
+		join_society = monastic_order_jesuit
+		set_society_grandmaster = monastic_order_jesuit
+		}
+		}
+		32 ={
+		create_character = {
+		random_traits = yes
+		name = "Thomas"
+		dynasty = 1010043058
+		religion = catholic
+		culture = english
+		female = no
+		age = 41
+		attributes = {
+        learning = 22
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		}
+		311={
+		create_character = {
+		random_traits = yes
+		name = "Johann"
+		dynasty = 1010043059
+		religion = catholic
+		culture = german
+		female = no
+		age = 64
+		attributes = {
+        learning = 21
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Johann"
+		dynasty = 1010043052
+		religion = catholic
+		culture = german
+		female = no
+		age = 47
+		attributes = {
+        learning = 21
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Jerome"
+		dynasty = 1010043053
+		religion = catholic
+		culture = german
+		female = no
+		age = 49
+		attributes = {
+        learning = 21
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Girolamo"
+		dynasty = 1010043049
+		religion = catholic
+		culture = german
+		female = no
+		age = 60
+		attributes = {
+        learning = 16
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		}
+		}
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.16
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.16
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.16
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+narrative_event = {
+	id = reformationevents.17
+	title = EVTNAMEreformationevents.17
+	desc = EVTDESCreformationeventsR.17
+	picture = GFX_evt_church_council_cm
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	
+	only_playable = yes
+	religion = catholic
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		has_global_flag = luther_work 
+		has_global_flag = calvin_work 
+		has_global_flag = hus_work 
+		has_global_flag = wycliff_work 
+		has_global_flag = unitarian_work
+		has_global_flag = radical_work 		
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	immediate = {
+		religion_authority = {
+		name = counter_reformation
+		}
+		}
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.17
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.17
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.17
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+narrative_event = {
+	id = reformationevents.18
+	title = EVTNAMEreformationevents.18
+	desc = EVTDESCreformationeventsR.18
+	picture = GFX_evt_beatification
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	religion = catholic
+	only_playable = yes
+
+	is_triggered_only = yes
+	
+	trigger = {
+		has_global_flag = calvin_work
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1580
+		NOT = { has_global_flag = arminian_work }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = arminian_work
+		80={
+		create_character = {
+		random_traits = yes
+		name = "Jakob"
+		dynasty = 1010043072
+		religion = arminian
+		culture = dutch
+		female = no
+		age = 20
+		attributes = {
+        learning = 20
+		}
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		}
+		}
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.18
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.18
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.18
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+province_event = {
+	id = reformationevents.19
+	title = EVTNAMEreformationevents.19
+	desc = EVTDESCreformationeventsR.19
+	  picture = GFX_evt_beatification
+	trigger = {
+		has_global_flag = arminian_work
+		NOT = { 
+				region = world_europe
+					}
+		OR = {
+		religion = catholic
+		religion = lollard
+		religion = waldensian
+		}
+		any_neighbor_province = {
+		religion = arminian
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+			modifier = {
+			factor = 20
+			culture = polish
+			}
+			modifier = {
+			factor = 20
+			culture = irish
+			}
+			modifier = {
+			factor = 10
+			region = world_catholic
+			}
+			modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = arminian
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+			religion = hussite
+			religion = anabaptist
+			religion = reformed
+			religion = lutheran
+			religion = unitarian
+			religion = baptist
+			religion = arminian
+			religion = methodist
+			}
+			}
+			}
+		#Authority of Catholicism
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.19
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.19
+			trigger = {
+				FROM = {
+				religion = arminian
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.19
+			trigger = {
+				FROM = {
+				OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = baptist
+				religion = anglican
+				religion = methodist
+				}
+			}
+		}
+	}
+	ROOT = {
+		religion = arminian
+		}
+}
+}
+#Baptists
+narrative_event = {
+	id = reformationevents.20
+	title = EVTNAMEreformationevents.20
+	desc = EVTDESCreformationeventsR.20
+	picture = GFX_evt_beatification
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	religion = catholic
+	only_playable = yes
+
+	is_triggered_only = yes
+	
+	trigger = {
+		has_global_flag = anglican_work
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1607
+		NOT = { has_global_flag = baptist_work }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = baptist_work
+		80={
+		create_character = {
+		random_traits = yes
+		name = "Thomas"
+		dynasty = 1010043074
+		religion = baptist
+		culture = english
+		female = no
+		age = 35
+		attributes = {
+        learning = 20
+		}
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "John"
+		dynasty = 1010043073
+		religion = baptist
+		culture = english
+		female = no
+		age = 60
+		attributes = {
+        learning = 20
+		}
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		}
+		}
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.20
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.20
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.20
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+province_event = {
+	id = reformationevents.21
+	title = EVTNAMEreformationevents.21
+	desc = EVTDESCreformationeventsR.21
+	  picture = GFX_evt_beatification
+	trigger = {
+		has_global_flag = baptist_work 
+				NOT = { 
+				region = world_europe
+					}  
+		OR = {
+		religion = anglican
+		religion = lollard
+		religion = waldensian
+		}
+		any_neighbor_province = {
+		religion = baptist
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+			modifier = {
+			factor = 20
+			culture = polish
+			}
+			modifier = {
+			factor = 20
+			culture = irish
+			}
+			modifier = {
+			factor = 10
+			region = world_catholic
+			}
+			modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = baptist
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+			religion = hussite
+			religion = anabaptist
+			religion = reformed
+			religion = lutheran
+			religion = unitarian
+			religion = baptist
+			religion = arminian
+			religion = methodist
+			}
+			}
+			}
+		#Authority of Anglican
+			modifier = {
+				factor = 2
+			AND = {
+			religion = anglican
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = anglican	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.21
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.21
+			trigger = {
+				FROM = {
+				religion = baptist
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.21
+			trigger = {
+				FROM = {
+				OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = arminian
+				religion = anglican
+				religion = methodist
+				}
+			}
+		}
+	}
+	ROOT = {
+		religion = baptist
+		}
+}
+}
+#Methodist
+narrative_event = {
+	id = reformationevents.22
+	title = EVTNAMEreformationevents.22
+	desc = EVTDESCreformationeventsR.22
+	picture = GFX_evt_beatification
+	border = GFX_event_narrative_frame_religion
+
+	major = yes
+	
+	hide_from = yes
+	religion = catholic
+	only_playable = yes
+
+	is_triggered_only = yes
+	
+	trigger = {
+		has_global_flag = anglican_work
+		NOT = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		year = 1738
+		NOT = { has_global_flag = methodist_work }
+		controls_religion = yes # Let it happen for the Pope - he's always around
+	}
+	
+	immediate = {
+		set_global_flag = methodist_work
+		22={
+		create_character = {
+		random_traits = yes
+		name = "John"
+		dynasty = 1010043075
+		religion = methodist
+		culture = english
+		female = no
+		age = 40
+		attributes = {
+        learning = 20
+		}
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Charles"
+		dynasty = 1010043075
+		religion = methodist
+		culture = english
+		female = no
+		age = 35
+		attributes = {
+        learning = 18
+		}
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = theologian
+		add_trait = brave
+		}
+		}
+		}
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.22
+			trigger = {
+				religion = catholic
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.22
+			trigger = {
+				NOT = {
+				religion = catholic
+				}
+		}
+	}
+		name = {
+			text = EVTOPTCreformationevents.22
+			trigger = {
+				OR = {
+				religion = lutheran
+				religion = anabaptist
+				religion = reformed
+				religion = hussite
+				religion = anglican
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+		}
+	}
+}
+}
+province_event = {
+	id = reformationevents.23
+	title = EVTNAMEreformationevents.23
+	desc = EVTDESCreformationeventsR.23
+	  picture = GFX_evt_beatification
+	trigger = {
+		has_global_flag = methodist_work 
+				NOT = { 
+				region = world_europe
+					}  
+		OR = {
+		religion = anglican
+		religion = lollard
+		religion = waldensian
+		}
+		any_neighbor_province = {
+		religion = methodist
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+			modifier = {
+			factor = 20
+			culture = polish
+			}
+			modifier = {
+			factor = 20
+			culture = irish
+			}
+			modifier = {
+			factor = 10
+			region = world_catholic
+			}
+			modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = methodist
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+			religion = hussite
+			religion = anabaptist
+			religion = reformed
+			religion = lutheran
+			religion = unitarian
+			religion = baptist
+			religion = arminian
+			religion = methodist
+			}
+			}
+			}
+		#Authority of Anglican
+			modifier = {
+				factor = 2
+			AND = {
+			religion = anglican
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = anglican	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.23
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.23
+			trigger = {
+				FROM = {
+				religion = methodist
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.23
+			trigger = {
+				FROM = {
+				OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = arminian
+				religion = anglican
+				religion = methodist
+				}
+			}
+		}
+	}
+	ROOT = {
+		religion = methodist
+		}
+}
+}

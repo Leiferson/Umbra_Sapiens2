@@ -1,0 +1,56 @@
+decisions = {
+	create_banco = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		potential = {
+			year = 1407
+			OR = {
+			has_landed_title = c_genoa
+			any_realm_lord = {
+				has_landed_title = c_genoa
+			}
+			}
+			NOT = { is_title_active = d_banco }
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			OR={
+			wealth = 10000
+			ai=yes
+			}
+		}
+		effect = {
+			if = {
+			limit={
+			ai=no
+			}
+			wealth = -10000
+			}
+			
+			activate_title = {
+			title = d_banco
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 40
+			}
+			new_character = { 
+			gain_title = d_banco 
+			wealth = 10000
+			set_government_type=republic_government
+			set_defacto_liege = ROOT 
+			}		
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}	

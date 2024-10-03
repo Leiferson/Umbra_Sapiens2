@@ -1,0 +1,2828 @@
+#330000
+330000 = {
+	name = "Meshinegomeshea"
+	dynasty = 1010032539
+	religion = algic_pagan
+	culture = shawnee
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330001 = {
+	name = "Waquiwais"
+	dynasty = 1010032539
+	religion = algic_pagan
+	culture = shawnee
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330002 = {
+	name = "Weyapiersenwaw"
+	dynasty = 1010032539
+	religion = algic_pagan
+	culture = shawnee
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330003 = {
+	name = "Mihshihkinaahkwa"
+	dynasty = 1010032539
+	religion = algic_pagan
+	culture = shawnee
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330004 = {
+	name = "Chiachska"
+	dynasty = 1010032539
+	religion = algic_pagan
+	culture = shawnee
+	father = 330003
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330005 = {
+	name = "Sokutchemah"
+	dynasty = 1010032539
+	religion = algic_pagan
+	culture = shawnee
+	father = 330004
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330006 = {
+	name = "Paxinos"
+	dynasty = 1010032539
+	religion = algic_pagan
+	culture = shawnee
+	father = 330005
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330007 = {
+	name = "Malunthy"
+	dynasty = 1010032539
+	religion = algic_pagan
+	culture = shawnee
+	father = 330006
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#shawnee2
+330008 = {
+	name = "Koitawaypie"
+	dynasty = 1010032546
+	religion = algic_pagan
+	culture = shawnee
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330009 = {
+	name = "Pemthata"
+	dynasty = 1010032546
+	religion = algic_pagan
+	culture = shawnee
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330010 = {
+	name = "Aquenackqua"
+	dynasty = 1010032546
+	religion = algic_pagan
+	culture = shawnee
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330011 = {
+	name = "Cutewecusaw"
+	dynasty = 1010032546
+	religion = algic_pagan
+	culture = shawnee
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330012 = {
+	name = "Pelmetachemo"
+	dynasty = 1010032546
+	religion = algic_pagan
+	culture = shawnee
+	father = 330011
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330013 = {
+	name = "Piaseka"
+	dynasty = 1010032546
+	religion = algic_pagan
+	culture = shawnee
+	father = 330012
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330014 = {
+	name = "Waytheah"
+	dynasty = 1010032546
+	religion = algic_pagan
+	culture = shawnee
+	father = 330013
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330015 = {
+	name = "Napawita"
+	dynasty = 1010032546
+	religion = algic_pagan
+	culture = shawnee
+	father = 330014
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#anishinabe1
+330016 = {
+	name = "Paupemiskobe"
+	dynasty = 1010032525
+	religion = algic_pagan
+	culture = anishinabe
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330017 = {
+	name = "Mixmunitou"
+	dynasty = 1010032525
+	religion = algic_pagan
+	culture = anishinabe
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330018 = {
+	name = "Singgok"
+	dynasty = 1010032525
+	religion = algic_pagan
+	culture = anishinabe
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330019 = {
+	name = "Tamenetha"
+	dynasty = 1010032525
+	religion = algic_pagan
+	culture = anishinabe
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330020 = {
+	name = "Aneuwayba"
+	dynasty = 1010032525
+	religion = algic_pagan
+	culture = anishinabe
+	father = 330019
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330021 = {
+	name = "Sokutchemah"
+	dynasty = 1010032525
+	religion = algic_pagan
+	culture = anishinabe
+	father = 330020
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330022 = {
+	name = "Kitcheonundeeyo"
+	dynasty = 1010032525
+	religion = algic_pagan
+	culture = anishinabe
+	father = 330021
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330023 = {
+	name = "Ogeebouinse"
+	dynasty = 1010032525
+	religion = algic_pagan
+	culture = anishinabe
+	father = 330022
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#irenwa
+330024 = {
+	name = "Papamousse"
+	dynasty = 1010032339
+	religion = algic_pagan
+	culture = irenwa
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330025 = {
+	name = "Auonashechla"
+	dynasty = 1010032339
+	religion = algic_pagan
+	culture = irenwa
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330026 = {
+	name = "Paxinos"
+	dynasty = 1010032339
+	religion = algic_pagan
+	culture = irenwa
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330027 = {
+	name = "Kakawipilathy"
+	dynasty = 1010032339
+	religion = algic_pagan
+	culture = irenwa
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330028 = {
+	name = "Aquenackqua"
+	dynasty = 1010032339
+	religion = algic_pagan
+	culture = irenwa
+	father = 330027
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330029 = {
+	name = "Makatewekasha"
+	dynasty = 1010032339
+	religion = algic_pagan
+	culture = irenwa
+	father = 330028
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330030 = {
+	name = "Waytheah"
+	dynasty = 1010032339
+	religion = algic_pagan
+	culture = irenwa
+	father = 330029
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330031 = {
+	name = "Topeah"
+	dynasty = 1010032339
+	religion = algic_pagan
+	culture = irenwa
+	father = 330030
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#irenwa2
+330032 = {
+	name = "Hokoleskwa"
+	dynasty = 1010032340
+	religion = algic_pagan
+	culture = irenwa
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330033 = {
+	name = "Nihinessicoe"
+	dynasty = 1010032340
+	religion = algic_pagan
+	culture = irenwa
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330034 = {
+	name = "Waquiwais"
+	dynasty = 1010032340
+	religion = algic_pagan
+	culture = irenwa
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330035 = {
+	name = "Weythapamattha"
+	dynasty = 1010032340
+	religion = algic_pagan
+	culture = irenwa
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330036 = {
+	name = "Shepoconah"
+	dynasty = 1010032340
+	religion = algic_pagan
+	culture = irenwa
+	father = 330035
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330037 = {
+	name = "Meanymsecahh"
+	dynasty = 1010032340
+	religion = algic_pagan
+	culture = irenwa
+	father = 330036
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330038 = {
+	name = "Gaviahate"
+	dynasty = 1010032340
+	religion = algic_pagan
+	culture = irenwa
+	father = 330037
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330039 = {
+	name = "Peshewa"
+	dynasty = 1010032340
+	religion = algic_pagan
+	culture = irenwa
+	father = 330038
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#irenwa3
+330040 = {
+	name = "Koitawaypie"
+	dynasty = 1010032344
+	religion = algic_pagan
+	culture = irenwa
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330041 = {
+	name = "Wapemongah"
+	dynasty = 1010032344
+	religion = algic_pagan
+	culture = irenwa
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330042 = {
+	name = "Nelawachika"
+	dynasty = 1010032344
+	religion = algic_pagan
+	culture = irenwa
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330043 = {
+	name = "Weythapamattha"
+	dynasty = 1010032344
+	religion = algic_pagan
+	culture = irenwa
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330044 = {
+	name = "Quamapea"
+	dynasty = 1010032344
+	religion = algic_pagan
+	culture = irenwa
+	father = 330043
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330045 = {
+	name = "Cutewecusaw"
+	dynasty = 1010032344
+	religion = algic_pagan
+	culture = irenwa
+	father = 330044
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330046 = {
+	name = "Musquaconocah"
+	dynasty = 1010032344
+	religion = algic_pagan
+	culture = irenwa
+	father = 330045
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330047 = {
+	name = "Apekonit"
+	dynasty = 1010032344
+	religion = algic_pagan
+	culture = irenwa
+	father = 330046
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Menominee1
+330048 = {
+	name = "Muskobenense"
+	dynasty = 1010032321
+	religion = algic_pagan
+	culture = menominee
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330049 = {
+	name = "Naynooautienishkoan"
+	dynasty = 1010032321
+	religion = algic_pagan
+	culture = menominee
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330050 = {
+	name = "Chimokemow"
+	dynasty = 1010032321
+	religion = algic_pagan
+	culture = menominee
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330051 = {
+	name = "Wauweeyatam"
+	dynasty = 1010032321
+	religion = algic_pagan
+	culture = menominee
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330052 = {
+	name = "Oshkosh"
+	dynasty = 1010032321
+	religion = algic_pagan
+	culture = menominee
+	father = 330051
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330053 = {
+	name = "Sheemaugua"
+	dynasty = 1010032321
+	religion = algic_pagan
+	culture = menominee
+	father = 330052
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330054 = {
+	name = "Neebeenaquin"
+	dynasty = 1010032321
+	religion = algic_pagan
+	culture = menominee
+	father = 330053
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330055 = {
+	name = "Tussegua"
+	dynasty = 1010032321
+	religion = algic_pagan
+	culture = menominee
+	father = 330054
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Menominee2
+330056 = {
+	name = "Muskobenense"
+	dynasty = 1010032320
+	religion = algic_pagan
+	culture = menominee
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330057 = {
+	name = "Naynooautienishkoan"
+	dynasty = 1010032320
+	religion = algic_pagan
+	culture = menominee
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330058 = {
+	name = "Chimokemow"
+	dynasty = 1010032320
+	religion = algic_pagan
+	culture = menominee
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330059 = {
+	name = "Wauweeyatam"
+	dynasty = 1010032320
+	religion = algic_pagan
+	culture = menominee
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330060 = {
+	name = "Oshkosh"
+	dynasty = 1010032320
+	religion = algic_pagan
+	culture = menominee
+	father = 330059
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330061 = {
+	name = "Sheemaugua"
+	dynasty = 1010032320
+	religion = algic_pagan
+	culture = menominee
+	father = 330060
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330062 = {
+	name = "Neebeenaquin"
+	dynasty = 1010032320
+	religion = algic_pagan
+	culture = menominee
+	father = 330061
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330063 = {
+	name = "Tussegua"
+	dynasty = 1010032320
+	religion = algic_pagan
+	culture = menominee
+	father = 330062
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#cheyenne
+330064 = {
+	name = "Tsehesevehoe"
+	dynasty = 1010032276
+	religion = plains_pagan
+	culture = cheyenne
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330065 = {
+	name = "Konzhontaco"
+	dynasty = 1010032276
+	religion = plains_pagan
+	culture = cheyenne
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330066 = {
+	name = "Togquos"
+	dynasty = 1010032276
+	religion = plains_pagan
+	culture = cheyenne
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330067 = {
+	name = "Shanahwane"
+	dynasty = 1010032276
+	religion = plains_pagan
+	culture = cheyenne
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330068 = {
+	name = "Rowtag"
+	dynasty = 1010032276
+	religion = plains_pagan
+	culture = cheyenne
+	father = 330067
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330069 = {
+	name = "Pannoowau"
+	dynasty = 1010032276
+	religion = plains_pagan
+	culture = cheyenne
+	father = 330068
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330070 = {
+	name = "Keme"
+	dynasty = 1010032276
+	religion = plains_pagan
+	culture = cheyenne
+	father = 330069
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330071 = {
+	name = "Ahmik"
+	dynasty = 1010032276
+	religion = plains_pagan
+	culture = cheyenne
+	father = 330070
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#arapaho1
+330072 = {
+	name = "Doachewaa"
+	dynasty = 1010032569
+	religion = plains_pagan
+	culture = arapaho
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330073 = {
+	name = "Chogan"
+	dynasty = 1010032569
+	religion = plains_pagan
+	culture = arapaho
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330074 = {
+	name = "Haske Yahne Yah"
+	dynasty = 1010032569
+	religion = plains_pagan
+	culture = arapaho
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330075 = {
+	name = "Bedagi"
+	dynasty = 1010032569
+	religion = plains_pagan
+	culture = arapaho
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330076 = {
+	name = "Oahtekah"
+	dynasty = 1010032569
+	religion = plains_pagan
+	culture = arapaho
+	father = 330075
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330077 = {
+	name = "Juh"
+	dynasty = 1010032569
+	religion = plains_pagan
+	culture = arapaho
+	father = 330076
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330078 = {
+	name = "Okohomoxhaahketa"
+	dynasty = 1010032569
+	religion = plains_pagan
+	culture = arapaho
+	father = 330077
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330079 = {
+	name = "Ahzaah"
+	dynasty = 1010032569
+	religion = plains_pagan
+	culture = arapaho
+	father = 330078
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#arapaho2
+330080 = {
+	name = "Abukcheech"
+	dynasty = 1010032570
+	religion = plains_pagan
+	culture = arapaho
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330081 = {
+	name = "Vooheheve"
+	dynasty = 1010032570
+	religion = plains_pagan
+	culture = arapaho
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330082 = {
+	name = "Kajika"
+	dynasty = 1010032570
+	religion = plains_pagan
+	culture = arapaho
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330083 = {
+	name = "Ahway Eskay"
+	dynasty = 1010032570
+	religion = plains_pagan
+	culture = arapaho
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330084 = {
+	name = "Anakausuen"
+	dynasty = 1010032570
+	religion = plains_pagan
+	culture = arapaho
+	father = 330083
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330085 = {
+	name = "Juh"
+	dynasty = 1010032570
+	religion = plains_pagan
+	culture = arapaho
+	father = 330084
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330086 = {
+	name = "Na Tio Tish"
+	dynasty = 1010032570
+	religion = plains_pagan
+	culture = arapaho
+	father = 330085
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330087 = {
+	name = "Kancamagus"
+	dynasty = 1010032570
+	religion = plains_pagan
+	culture = arapaho
+	father = 330086
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#arapaho3
+330088 = {
+	name = "Doachewaa"
+	dynasty = 1010032572
+	religion = plains_pagan
+	culture = arapaho
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330089 = {
+	name = "Makkapitew"
+	dynasty = 1010032572
+	religion = plains_pagan
+	culture = arapaho
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330090 = {
+	name = "Hache-hi"
+	dynasty = 1010032572
+	religion = plains_pagan
+	culture = arapaho
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330091 = {
+	name = "Etlelooaat"
+	dynasty = 1010032572
+	religion = plains_pagan
+	culture = arapaho
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330092 = {
+	name = "Sitahle"
+	dynasty = 1010032572
+	religion = plains_pagan
+	culture = arapaho
+	father = 330091
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330093 = {
+	name = "Istu"
+	dynasty = 1010032572
+	religion = plains_pagan
+	culture = arapaho
+	father = 330092
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330094 = {
+	name = "Goyaale"
+	dynasty = 1010032572
+	religion = plains_pagan
+	culture = arapaho
+	father = 330093
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330095 = {
+	name = "Taregan"
+	dynasty = 1010032572
+	religion = plains_pagan
+	culture = arapaho
+	father = 330094
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#blackfoot
+330096 = {
+	name = "Kawotoktame"
+	dynasty = 1010032194
+	religion = subartic_pagan
+	culture = blackfoot
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330097 = {
+	name = "Sepewan"
+	dynasty = 1010032194
+	religion = subartic_pagan
+	culture = blackfoot
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330098 = {
+	name = "Gaa-binagwiiyaas"
+	dynasty = 1010032194
+	religion = subartic_pagan
+	culture = blackfoot
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330099 = {
+	name = "Nakos"
+	dynasty = 1010032194
+	religion = subartic_pagan
+	culture = blackfoot
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330100 = {
+	name = "Hosa"
+	dynasty = 1010032194
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330099
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330101 = {
+	name = "Chimokemow"
+	dynasty = 1010032194
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330100
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330102 = {
+	name = "Wapello"
+	dynasty = 1010032194
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330101
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330103 = {
+	name = "Nawgonisee"
+	dynasty = 1010032194
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330102
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#blackfoot2
+330104 = {
+	name = "Stumickosucks"
+	dynasty = 1010032196
+	religion = subartic_pagan
+	culture = blackfoot
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330105 = {
+	name = "Fonegawne"
+	dynasty = 1010032196
+	religion = subartic_pagan
+	culture = blackfoot
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330106 = {
+	name = "Odell"
+	dynasty = 1010032196
+	religion = subartic_pagan
+	culture = blackfoot
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330107 = {
+	name = "Kauguest"
+	dynasty = 1010032196
+	religion = subartic_pagan
+	culture = blackfoot
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330108 = {
+	name = "Nashashuk"
+	dynasty = 1010032196
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330107
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330109 = {
+	name = "Lalyurva"
+	dynasty = 1010032196
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330108
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330110 = {
+	name = "Namiid"
+	dynasty = 1010032196
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330109
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330111 = {
+	name = "Endus"
+	dynasty = 1010032196
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330110
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#blackfoot3
+330112 = {
+	name = "Stumickosucks"
+	dynasty = 1010032197
+	religion = subartic_pagan
+	culture = blackfoot
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330113 = {
+	name = "Fonegawne"
+	dynasty = 1010032197
+	religion = subartic_pagan
+	culture = blackfoot
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330114 = {
+	name = "Odell"
+	dynasty = 1010032197
+	religion = subartic_pagan
+	culture = blackfoot
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330115 = {
+	name = "Kauguest"
+	dynasty = 1010032197
+	religion = subartic_pagan
+	culture = blackfoot
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330116 = {
+	name = "Nashashuk"
+	dynasty = 1010032197
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330115
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330117 = {
+	name = "Lalyurva"
+	dynasty = 1010032197
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330116
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330118 = {
+	name = "Namiid"
+	dynasty = 1010032197
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330117
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330119 = {
+	name = "Endus"
+	dynasty = 1010032197
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330118
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#blackfoot4
+330120 = {
+	name = "Arron"
+	dynasty = 1010032198
+	religion = subartic_pagan
+	culture = blackfoot
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330121 = {
+	name = "Hanshequarhiqua"
+	dynasty = 1010032198
+	religion = subartic_pagan
+	culture = blackfoot
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330122 = {
+	name = "Ogontz"
+	dynasty = 1010032198
+	religion = subartic_pagan
+	culture = blackfoot
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330123 = {
+	name = "Nashashuk"
+	dynasty = 1010032198
+	religion = subartic_pagan
+	culture = blackfoot
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330124 = {
+	name = "Reaume"
+	dynasty = 1010032198
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330123
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330125 = {
+	name = "Eshkibagikoonzhe"
+	dynasty = 1010032198
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330124
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330126 = {
+	name = "Aguagonabe"
+	dynasty = 1010032198
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330125
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330127 = {
+	name = "Bizhiki"
+	dynasty = 1010032198
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330126
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#blackfoot5
+330128 = {
+	name = "Metewa"
+	dynasty = 1010032200
+	religion = subartic_pagan
+	culture = blackfoot
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330129 = {
+	name = "Cobmoosa"
+	dynasty = 1010032200
+	religion = subartic_pagan
+	culture = blackfoot
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330130 = {
+	name = "Asiniiwin"
+	dynasty = 1010032200
+	religion = subartic_pagan
+	culture = blackfoot
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330131 = {
+	name = "Cannematchie"
+	dynasty = 1010032200
+	religion = subartic_pagan
+	culture = blackfoot
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330132 = {
+	name = "Nuwagon"
+	dynasty = 1010032200
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330131
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330133 = {
+	name = "Eshkibagikoonzhe"
+	dynasty = 1010032200
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330132
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330134 = {
+	name = "Aguagonabe"
+	dynasty = 1010032200
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330133
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330135 = {
+	name = "Bizhiki"
+	dynasty = 1010032200
+	religion = subartic_pagan
+	culture = blackfoot
+	father = 330134
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#cree
+330136 = {
+	name = "Etlelooaat"
+	dynasty = 1010032364
+	religion = subartic_pagan
+	culture = cree
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330137 = {
+	name = "Konzhontaco"
+	dynasty = 1010032364
+	religion = subartic_pagan
+	culture = cree
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330138 = {
+	name = "Bodaway"
+	dynasty = 1010032364
+	religion = subartic_pagan
+	culture = cree
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330139 = {
+	name = "Delshay"
+	dynasty = 1010032364
+	religion = subartic_pagan
+	culture = cree
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330140 = {
+	name = "Huritt"
+	dynasty = 1010032364
+	religion = subartic_pagan
+	culture = cree
+	father = 330139
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330141 = {
+	name = "Nashashuk"
+	dynasty = 1010032364
+	religion = subartic_pagan
+	culture = cree
+	father = 330140
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330142 = {
+	name = "Cowessess"
+	dynasty = 1010032364
+	religion = subartic_pagan
+	culture = cree
+	father = 330141
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330143 = {
+	name = "Harkkahome"
+	dynasty = 1010032364
+	religion = subartic_pagan
+	culture = cree
+	father = 330142
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#cree2
+330144 = {
+	name = "Etlelooaat"
+	dynasty = 1010032365
+	religion = subartic_pagan
+	culture = cree
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330145 = {
+	name = "Konzhontaco"
+	dynasty = 1010032365
+	religion = subartic_pagan
+	culture = cree
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330146 = {
+	name = "Bodaway"
+	dynasty = 1010032365
+	religion = subartic_pagan
+	culture = cree
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330147 = {
+	name = "Delshay"
+	dynasty = 1010032365
+	religion = subartic_pagan
+	culture = cree
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330148 = {
+	name = "Huritt"
+	dynasty = 1010032365
+	religion = subartic_pagan
+	culture = cree
+	father = 330147
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330149 = {
+	name = "Nashashuk"
+	dynasty = 1010032365
+	religion = subartic_pagan
+	culture = cree
+	father = 330148
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330150 = {
+	name = "Cowessess"
+	dynasty = 1010032365
+	religion = subartic_pagan
+	culture = cree
+	father = 330149
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330151 = {
+	name = "Harkkahome"
+	dynasty = 1010032365
+	religion = subartic_pagan
+	culture = cree
+	father = 330150
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#ojibwe1
+330152 = {
+	name = "Shacopay"
+	dynasty = 1010032381
+	religion = subartic_pagan
+	culture = ojibwe
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330153 = {
+	name = "Wassau"
+	dynasty = 1010032381
+	religion = subartic_pagan
+	culture = ojibwe
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330154 = {
+	name = "Pashkobwis"
+	dynasty = 1010032381
+	religion = subartic_pagan
+	culture = ojibwe
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330155 = {
+	name = "Metewa"
+	dynasty = 1010032381
+	religion = subartic_pagan
+	culture = ojibwe
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330156 = {
+	name = "Nagan"
+	dynasty = 1010032381
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330155
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330157 = {
+	name = "Tecumseh"
+	dynasty = 1010032381
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330156
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330158 = {
+	name = "Ogima"
+	dynasty = 1010032381
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330157
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330159 = {
+	name = "Machenamau"
+	dynasty = 1010032381
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330158
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#ojibwe2
+330160 = {
+	name = "Shacopay"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330161 = {
+	name = "Wassau"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330162 = {
+	name = "Pashkobwis"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330163 = {
+	name = "Metewa"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330164 = {
+	name = "Nagan"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330163
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330165 = {
+	name = "Tecumseh"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330164
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330166 = {
+	name = "Ogima"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330165
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330167 = {
+	name = "Machenamau"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330166
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#ojibwe3
+330168 = {
+	name = "Nakos"
+	dynasty = 1010032389
+	religion = subartic_pagan
+	culture = ojibwe
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330169 = {
+	name = "Kechewaishke"
+	dynasty = 1010032389
+	religion = subartic_pagan
+	culture = ojibwe
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330170 = {
+	name = "Shashebak"
+	dynasty = 1010032389
+	religion = subartic_pagan
+	culture = ojibwe
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330171 = {
+	name = "Aushetayawnekusa"
+	dynasty = 1010032389
+	religion = subartic_pagan
+	culture = ojibwe
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330172 = {
+	name = "Sheemaugua"
+	dynasty = 1010032389
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330171
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330173 = {
+	name = "Nowkeshuc"
+	dynasty = 1010032389
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330172
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330174 = {
+	name = "Minggeeseetay"
+	dynasty = 1010032389
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330173
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330175 = {
+	name = "Cobmoosa"
+	dynasty = 1010032389
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330174
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#ojibwe4
+330176 = {
+	name = "Miskwaanakwad"
+	dynasty = 1010032392
+	religion = subartic_pagan
+	culture = ojibwe
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330177 = {
+	name = "Enmegahbowh"
+	dynasty = 1010032392
+	religion = subartic_pagan
+	culture = ojibwe
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330178 = {
+	name = "Neshota"
+	dynasty = 1010032392
+	religion = subartic_pagan
+	culture = ojibwe
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330179 = {
+	name = "Wasson"
+	dynasty = 1010032392
+	religion = subartic_pagan
+	culture = ojibwe
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330180 = {
+	name = "Kekenutchega"
+	dynasty = 1010032392
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330179
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330181 = {
+	name = "Sepewan"
+	dynasty = 1010032392
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330180
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330182 = {
+	name = "Lalawethika"
+	dynasty = 1010032392
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330181
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330183 = {
+	name = "Penaysewaykesek"
+	dynasty = 1010032392
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330182
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#ojibwe5
+330184 = {
+	name = "Norval"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330185 = {
+	name = "Mataqua"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330186 = {
+	name = "Stumickosucks"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330187 = {
+	name = "Obwole"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330188 = {
+	name = "Muckkatwagout"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330187
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330189 = {
+	name = "Montons"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330188
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330190 = {
+	name = "Mayto"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330189
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330191 = {
+	name = "Nemekas"
+	dynasty = 1010032382
+	religion = subartic_pagan
+	culture = ojibwe
+	father = 330190
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Tanoan1
+330192 = {
+	name = "Noothoietah"
+	dynasty = 1010029003
+	religion = plains_pagan
+	culture = tanoan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330193 = {
+	name = "Keenahkunnah"
+	dynasty = 1010029003
+	religion = plains_pagan
+	culture = tanoan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330194 = {
+	name = "Weelee"
+	dynasty = 1010029003
+	religion = plains_pagan
+	culture = tanoan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330195 = {
+	name = "Boudinot"
+	dynasty = 1010029003
+	religion = plains_pagan
+	culture = tanoan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330196 = {
+	name = "Tauuotihee"
+	dynasty = 1010029003
+	religion = plains_pagan
+	culture = tanoan
+	father = 330195
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330197 = {
+	name = "Montons"
+	dynasty = 1010029003
+	religion = plains_pagan
+	culture = tanoan
+	father = 330196
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330198 = {
+	name = "Necatee"
+	dynasty = 1010029003
+	religion = plains_pagan
+	culture = tanoan
+	father = 330197
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330199 = {
+	name = "Agi"
+	dynasty = 1010029003
+	religion = plains_pagan
+	culture = tanoan
+	father = 330198
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Tanoan2
+330200 = {
+	name = "Oonatakoteekee"
+	dynasty = 1010029005
+	religion = plains_pagan
+	culture = tanoan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330201 = {
+	name = "Moytoy"
+	dynasty = 1010029005
+	religion = plains_pagan
+	culture = tanoan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330202 = {
+	name = "Utturah"
+	dynasty = 1010029005
+	religion = plains_pagan
+	culture = tanoan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330203 = {
+	name = "Sawanooekee"
+	dynasty = 1010029005
+	religion = plains_pagan
+	culture = tanoan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330204 = {
+	name = "Cheanoka"
+	dynasty = 1010029005
+	religion = plains_pagan
+	culture = tanoan
+	father = 330203
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330205 = {
+	name = "Koatohee"
+	dynasty = 1010029005
+	religion = plains_pagan
+	culture = tanoan
+	father = 330204
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330206= {
+	name = "Oolah"
+	dynasty = 1010029005
+	religion = plains_pagan
+	culture = tanoan
+	father = 330205
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330207 = {
+	name = "Chellokee"
+	dynasty = 1010029005
+	religion = plains_pagan
+	culture = tanoan
+	father = 330206
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Tanoan3
+330208 = {
+	name = "Oonatakoteekee"
+	dynasty = 1010029007
+	religion = plains_pagan
+	culture = tanoan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330209 = {
+	name = "Moytoy"
+	dynasty = 1010029007
+	religion = plains_pagan
+	culture = tanoan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330210 = {
+	name = "Utturah"
+	dynasty = 1010029007
+	religion = plains_pagan
+	culture = tanoan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330211 = {
+	name = "Sawanooekee"
+	dynasty = 1010029007
+	religion = plains_pagan
+	culture = tanoan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330212 = {
+	name = "Cheanoka"
+	dynasty = 1010029007
+	religion = plains_pagan
+	culture = tanoan
+	father = 330211
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330213 = {
+	name = "Koatohee"
+	dynasty = 1010029007
+	religion = plains_pagan
+	culture = tanoan
+	father = 330212
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330214= {
+	name = "Oolah"
+	dynasty = 1010029007
+	religion = plains_pagan
+	culture = tanoan
+	father = 330213
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330215 = {
+	name = "Chellokee"
+	dynasty = 1010029007
+	religion = plains_pagan
+	culture = tanoan
+	father = 330214
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Tanoan4
+330216 = {
+	name = "Tatliusta"
+	dynasty = 1010029008
+	religion = plains_pagan
+	culture = tanoan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+330217 = {
+	name = "Oolassoteh"
+	dynasty = 1010029008
+	religion = plains_pagan
+	culture = tanoan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+330218 = {
+	name = "Lach'n"
+	dynasty = 1010029008
+	religion = plains_pagan
+	culture = tanoan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+330219 = {
+	name = "Kostayeak"
+	dynasty = 1010029008
+	religion = plains_pagan
+	culture = tanoan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+330220 = {
+	name = "Jonnurteekee"
+	dynasty = 1010029008
+	religion = plains_pagan
+	culture = tanoan
+	father = 330219
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+330221 = {
+	name = "Tatliusta"
+	dynasty = 1010029008
+	religion = plains_pagan
+	culture = tanoan
+	father = 330220
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+330222= {
+	name = "Chattakuteehee"
+	dynasty = 1010029008
+	religion = plains_pagan
+	culture = tanoan
+	father = 330221
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+330223 = {
+	name = "Necatee"
+	dynasty = 1010029008
+	religion = plains_pagan
+	culture = tanoan
+	father = 330222
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}

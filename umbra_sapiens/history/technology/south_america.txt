@@ -1,0 +1,590 @@
+technology = {
+	titles = {
+		d_antisuyu
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+		
+	}
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+		
+	}
+}
+technology = {
+	titles = {
+		d_kuntisuyu
+		d_huanuco
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+		
+	}
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+		
+	}
+}
+technology = {
+	titles = {
+		d_kamana
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+		
+	}
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+		
+	}
+}
+technology = {
+	titles = {
+		d_cajamarca
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+		
+	}
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+		
+	}
+}
+
+technology = {
+	titles = {
+		d_chimor
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+		
+	}
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+		
+	}
+}
+
+technology = {
+	titles = {
+		d_quito
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+		
+	}
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+		
+	}
+}
+
+technology = {
+	titles = {
+		d_upper_peru
+		d_potosi
+		d_antofagasta
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+		
+	}
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+		
+	}
+}
+technology = {
+	titles = {
+		d_tucuman
+		d_unquillo
+		d_paraguay
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+		
+	}
+}
+#technology = {
+#	titles = {
+#		d_bahia
+#		d_sao_francisco
+#		d_pernambuco
+#		d_pontal
+#	}
+#	
+#	769 = {
+#		military = 0.2
+#		economy = 0.2
+#		culture = 0.2
+#		
+#	}
+#	
+#	1337 = {
+#		military = 3.7
+#		economy = 3.7
+#		culture = 3.7
+#	}
+#}
+
+technology = {
+	titles = {
+		d_bahia
+		d_sao_francisco
+		d_pernambuco
+		d_pontal
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+	1640 = {
+		military = 3
+		economy = 4
+		culture = 3
+		
+	}
+}
+
+#technology = {
+#	titles = {
+#		d_piaui
+#		d_ceara
+#		d_maranhao
+#		d_grao_para
+#	}
+#	
+#	769 = {
+#		military = 0.1
+#		economy = 0.2
+#		culture = 0.1
+#		
+#	}
+#	
+#	1337 = {
+#		military = 3.5
+#		economy = 3.7
+#		culture = 3.5
+#	}
+#}
+
+technology = {
+	titles = {
+		d_piaui
+		d_ceara
+		d_maranhao
+		d_grao_para
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+	1640 = {
+		military = 3
+		economy = 4
+		culture = 3
+		
+	}
+}
+
+#technology = {
+#	titles = {
+#		d_amapa
+#		d_suriname
+#		d_upper_guyana
+#		d_guyana
+#	}
+#	
+#	769 = {
+#		military = 0.2
+#		economy = 0.1
+#		culture = 0.1
+#		
+#	}
+#	
+#	1337 = {
+#		military = 3.7
+#		economy = 3.5
+#		culture = 3.5
+#	}
+#}
+
+technology = {
+	titles = {
+		d_amapa
+		d_suriname
+		d_upper_guyana
+		d_guyana
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+#technology = {
+#	titles = {
+#		d_eastern_amazon
+#		d_western_amazon
+#		d_mato_grosso
+#		d_guapore
+#	}
+#	
+#	769 = {
+#		military = 0.1
+#		economy = 0.1
+#		culture = 0.2
+#		
+#	}
+#	
+#	1337 = {
+#		military = 3.5
+#		economy = 3.5
+#		culture = 3.7
+#	}
+#}
+
+technology = {
+	titles = {
+		d_eastern_amazon
+		d_western_amazon
+		d_mato_grosso
+		d_guapore
+		d_iquitos
+		d_mendoza
+		d_tilcara
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+#technology = {
+#	titles = {
+#		d_rio_de_janeiro
+#		d_sao_paulo
+#		d_minas_gerais
+#		d_diamantina
+#	}
+#	
+#	769 = {
+#		military = 0.1
+#		economy = 0.3
+#		culture = 0.3
+#		
+#	}
+#	
+#	1337 = {
+#		military = 3.5
+#		economy = 3.9
+#		culture = 3.8
+#	}
+#}
+
+technology = {
+	titles = {
+		d_rio_de_janeiro
+		d_sao_paulo
+		d_minas_gerais
+		d_diamantina
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+	1640 = {
+		military = 3
+		economy = 4
+		culture = 3
+		
+	}
+}
+
+#technology = {
+#	titles = {
+#		d_goias
+#		d_ofaie
+#		d_guayra
+#		d_rio_grande_do_sul
+#	}
+#	
+#	769 = {
+#		military = 0.1
+#		economy = 0.1
+#		culture = 0.2
+#		
+#	}
+#	
+#	1337 = {
+#		military = 3.5
+#		economy = 3.5
+#		culture = 3.7
+#	}
+#}
+
+technology = {
+	titles = {
+		d_goias
+		d_ofaie
+		d_guayra
+		d_rio_grande_do_sul
+		d_torres
+		d_sarmiento
+		d_condor
+		d_uruguay
+		d_villalonga
+		d_argentina
+		d_quelion
+		d_valcheta
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+	1640 = {
+		military = 3
+		economy = 4
+		culture = 3
+		
+	}
+}
+
+#technology = {
+#	titles = {
+#		d_bogota
+#		d_cordillera
+#		d_popayan
+#		d_coquivacoa
+#		d_maracaibo
+#	}
+#	
+#	769 = {
+#		military = 0.2
+#		economy = 0.2
+#		culture = 0.1
+#		
+#	}
+#	
+#	1337 = {
+#		military = 3.8
+#		economy = 3.8
+#		culture = 3.7
+#	}
+#}
+
+technology = {
+	titles = {
+		d_bogota
+		d_cordillera
+		d_popayan
+		d_coquivacoa
+		d_maracaibo
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+	1640 = {
+		military = 3
+		economy = 4
+		culture = 3
+		
+	}
+}
+
+#technology = {
+#	titles = {
+#		d_caqueta
+#		d_western_llanos
+#		d_venezuela
+#		d_eastern_llanos
+#		d_central_llanos
+#	}
+#	
+#	769 = {
+#		military = 0.1
+#		economy = 0.2
+#		culture = 0.2
+#		
+#	}
+#	
+#	1337 = {
+#		military = 3.6
+#		economy = 3.8
+#		culture = 3.8
+#	}
+#}
+
+technology = {
+	titles = {
+		d_caqueta
+		d_western_llanos
+		d_venezuela
+		d_eastern_llanos
+		d_central_llanos
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	1500 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+	1640 = {
+		military = 3
+		economy = 4
+		culture = 3
+		
+	}
+}

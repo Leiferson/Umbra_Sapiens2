@@ -1,0 +1,16 @@
+# County Title
+title = c_tlacopan
+
+# Settlements
+max_settlements = 5
+b_tlacopan = castle
+b_tlacopan-ii = city
+b_tlacopan-iii = castle
+#b_tlacopan-iv = city
+#b_tlacopan-v = temple
+
+# Misc
+culture = nonohualcan
+religion = nonohualcan_pagan
+
+# History

@@ -1,0 +1,20 @@
+spriteTypes = {	
+	spriteType = { #the background of the society menu
+		name = "GFX_society_main_background_monastic_order_jesuit"
+		texturefile = "gfx\\interface\\societies\\society_bg_jesuit_society.dds"
+	}
+	spriteType = { #icons on the socities list
+		name = "GFX_icon_small_monastic_order_jesuit"
+		texturefile = "gfx\\interface\\societies\\symbol_small_jesuit_society.dds"
+		noOfFrames = 2
+	}
+	spriteType = { #the background of the society menu
+		name = "GFX_society_main_background_monastic_order_ursuline"
+		texturefile = "gfx\\interface\\societies\\society_bg_ursuline_society.dds"
+	}
+	spriteType = { #icons on the socities list
+		name = "GFX_icon_small_monastic_order_ursuline"
+		texturefile = "gfx\\interface\\societies\\symbol_small_ursuline_society.dds"
+		noOfFrames = 2
+	}
+}

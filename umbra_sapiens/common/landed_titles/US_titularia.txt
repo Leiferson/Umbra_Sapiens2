@@ -1,0 +1,1959 @@
+k_portugal_2 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_2 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_2 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_3 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_3 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_3 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_4 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_4 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_4 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_5 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_5 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_5 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_6 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_6 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_6 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_7 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_7 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_7 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_8 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_8 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_8 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_9 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_9 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_9 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_10 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_10 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_10 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_11 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_11 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_11 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_12 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_12 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_12 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_13 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_13 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_13 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_14 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_14 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_14 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_15 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_15 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_15 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+k_portugal_16 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+
+		roman = "Lusitania"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_portugal_16 = {
+						is_titular = yes
+					}
+				}
+				k_portugal_16 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal = {
+						is_titular = yes
+					}
+				}
+				e_portugal = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_2 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_2 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_2 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_3 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_3 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_3 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_4 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_4 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_4 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_5 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_5 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_5 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_6 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_6 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_6 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_7 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_7 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_7 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_8 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_8 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_8 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_9 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_9 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_9 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_10 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_10 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_10 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_11 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_11 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_11 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_12 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_12 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_12 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_13 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_13 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_13 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_14 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_14 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_14 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_15 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_15 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_15 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_portugal_16 = {
+		color={ 0 81 151 }
+		color2={ 255 255 255 }
+		
+		capital = 160 # Lisboa
+		
+		culture = portuguese
+		dignity = 200
+		roman = "Lusitania"
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25
+		west_african_pagan_reformed = 25
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_portugal_16 = {
+						is_titular = yes
+					}
+				}
+				e_portugal_16 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+	}
+e_united_states = {
+		color={ 0 38 100 }
+		color2={ 187 19 62 }
+		
+		capital = 3631 # New York
+		
+		culture = english
+		dignity = 200
+		short_name = yes
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_united_states = {
+						is_titular = yes
+					}
+				}
+				e_united_states = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = jewish_group
+					religion_group = christian
+				}
+			}		
+		}
+		male_names = {
+		Thomas Benjamin James John Alexander George Samuel Patrick Richard Henry Lee
+		John Roger Robert Gouverneur Peyton Abraham Martin Andrew William Zachary Millard
+		Franklin Ulysses Rutheford Chester Grover Theodore Woodrow Warren Calvin Herbert 
+		Dwight Lyndon Gerald Ronald Barack Donald Joseph
+		}
+}
+k_cas_and_leon = {
+		color={ 243 209 23 }
+		color2={ 255 255 255 }
+		
+		capital = 197 # Toledo
+		
+		culture = castillan
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_cas_and_leon = {
+						is_titular = yes
+					}
+				}
+				k_cas_and_leon = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+}
+e_great_britain = {
+		color={ 200 16 46 }
+		color2={ 255 255 255 }
+		
+		capital = 32
+		
+		culture = english
+		dignity = 200
+		name_tier = king
+		title = "KING"
+		title_female = "QUEEN"
+		title_prefix = "UNITEDKINGDOM"
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_great_britain = {
+						is_titular = yes
+					}
+				}
+				e_great_britain = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+}
+e_union_jack = {
+		color={ 200 16 46 }
+		color2={ 255 255 255 }
+		
+		capital = 197 # Toledo
+		
+		culture = english
+		dignity = 200
+		name_tier = king
+		title_prefix = "UNITEDKINGDOM"
+		title = "KING"
+		title_female = "QUEEN"
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_union_jack = {
+						is_titular = yes
+					}
+				}
+				e_union_jack = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}		
+		}
+}
+e_russia_2 = {
+		color={ 147 164 104 }
+		color2={ 255 255 255 }
+
+		capital = 575 # Moscow
+		
+		culture = russian
+		dignity = 200
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_russia_2 = {
+						is_titular = yes
+					}
+				}
+				e_russia_2 = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+			OR = {
+				ai = no
+				culture_group = north_germanic
+				culture_group = east_slavic
+				culture_group = finno_ugric
+			}
+		}		
+		}
+		
+	finnish = Suomi
+	lappish = Suomi
+	ugricbaltic = Suomi
+	komi = Suomi
+	samoyed = Suomi
+	mordvin = Suomi
+	meshchera = Suomi
+}
+e_commonwealth = {
+		color={ 130 20 50 }
+		color2={ 200 0 0 }
+	
+	capital = 527 # Krakowskie
+	dignity = 200	
+	culture = polish
+	title_prefix = "COMMONWEALTH"
+	title = "KINGGRANDDUKE"
+	title_female = "QUEENGRANDDUCHESS"
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_commonwealth = {
+						is_titular = yes
+					}
+				}
+				e_commonwealth = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+			OR = {
+				ai = no
+				culture_group = west_slavic
+				culture_group = baltic
+			}
+		}		
+		}
+		
+}
+e_kalmar = {
+	color={ 255 205 0 }
+	color2={ 255 255 0 }
+	
+	capital = 290 # Uppland
+	
+	culture = swedish
+	dignity = 200
+	norse_pagan_reformed = 500 # Crusade target weight
+	short_name = yes
+	title = "KING"
+	title_female = "QUEEN"
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_kalmar = {
+						is_titular = yes
+					}
+				}
+				e_kalmar = {
+					is_titular = no
+				}
+			}
+			hidden_tooltip = {
+			OR = {
+				ai = no
+				culture_group = north_germanic
+				culture = finnish
+			}
+		}	
+		}
+		
+}
+e_espana_burgona = {
+	color={ 233 200 20 }
+	color2={ 255 255 255 }
+	
+	capital = 197 # Toledo
+	dignity = 200
+	culture = castillan
+	title = "MOSTCATHOLICKING"
+	title_female = "MOSTCATHOLICQUEEN"
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_espana_burgona = {
+						is_titular = yes
+					}
+				}
+				e_espana_burgona = {
+					is_titular = no
+				}
+			}	
+		}
+		
+}
+k_prussia = {
+	color={ 50 50 50 }
+	color2={ 255 255 255 }
+	
+	culture = german
+	capital	= 370
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_prussia = {
+						is_titular = yes
+					}
+				}
+				k_prussia = {
+					is_titular = no
+				}
+			}
+		}
+		
+}
+k_new_spain = {
+	color={ 200 200 20 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 4823
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_new_spain = {
+						is_titular = yes
+					}
+				}
+				k_new_spain = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_internal_provinces = {
+	color={ 210 205 20 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 4416
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_internal_provinces = {
+						is_titular = yes
+					}
+				}
+				k_internal_provinces = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_new_granada = {
+	color={ 230 215 25 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 3907
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_new_granada = {
+						is_titular = yes
+					}
+				}
+				k_new_granada = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_venezuela_2 = {
+	color={ 235 233 30 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 3880
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_venezuela_2 = {
+						is_titular = yes
+					}
+				}
+				k_venezuela_2 = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_peru_spanish = {
+	color={ 190 216 34 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 3933
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_peru_spanish = {
+						is_titular = yes
+					}
+				}
+				k_peru_spanish = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_la_plata = {
+	color={ 199 240 40 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 4464
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_la_plata = {
+						is_titular = yes
+					}
+				}
+				k_la_plata = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_cuba_spanish = {
+	color={ 222 251 35 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 3811
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_cuba_spanish = {
+						is_titular = yes
+					}
+				}
+				k_cuba_spanish = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_santo_domingo = {
+	color={ 226 211 42 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 3828
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_santo_domingo = {
+						is_titular = yes
+					}
+				}
+				k_santo_domingo = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_puerto_rico = {
+	color={ 244 217 42 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 3830
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_puerto_rico = {
+						is_titular = yes
+					}
+				}
+				k_puerto_rico = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_philippines_spanish = {
+	color={ 205 233 39 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 2298
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_philippines_spanish = {
+						is_titular = yes
+					}
+				}
+				k_philippines_spanish = {
+					is_titular = no
+				}
+			}
+		}	
+}
+e_ottomans = {
+	color={ 0 220 79 }
+	color2={ 255 255 255 }
+	
+	capital	= 496
+	dynasty_title_names = no
+	name_tier = king
+	title_prefix = "SULTANATE"
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_ottomans = {
+						is_titular = yes
+					}
+				}
+				e_ottomans = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_bou_reg = {
+	color={ 22 80 45 }
+	color2={ 255 255 255 }
+	
+	capital	= 842
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_bou_reg = {
+						is_titular = yes
+					}
+				}
+				k_bou_reg = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_tlemcen = {
+	color={ 0 0 128 }
+	color2={ 255 255 255 }
+	
+	capital	= 834 #Tlemcen
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_tlemcen = {
+						is_titular = yes
+					}
+				}
+				k_tlemcen = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_koukou = {
+	color={ 174 28 40 }
+	color2={ 255 255 255 }
+	
+	capital	= 822 #Bejaia/Koukou
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_koukou = {
+						is_titular = yes
+					}
+				}
+				k_koukou = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_touggourt = {
+	color={ 4 129 4 }
+	color2={ 255 255 255 }
+	
+	capital	= 1729 #Touggourt
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_touggourt = {
+						is_titular = yes
+					}
+				}
+				k_touggourt = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_beni_abbas = {
+	color={ 11 111 61 }
+	color2={ 255 255 255 }
+	
+	capital	= 1729 #Tell Atlas/Setif
+	dynasty_title_names = no
+	title = "AMOKRANE"
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_beni_abbas = {
+						is_titular = yes
+					}
+				}
+				k_beni_abbas = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_algiers = {
+	color={ 251 216 5 }
+	color2={ 255 255 255 }
+	
+	title_prefix = "REGENCY"
+	title = "PASHA"
+		
+	capital	= 831 #Algiers
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_algiers = {
+						is_titular = yes
+					}
+				}
+				k_algiers = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_tripolitania = {
+	color={ 0 40 0 }
+	color2={ 255 255 255 }
+	
+	title_prefix = "EYALET"
+	title = "PASHA"
+		
+	capital	= 811 #Tripolitana
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_tripolitania = {
+						is_titular = yes
+					}
+				}
+				k_tripolitania = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_tunis = {
+	color={ 80 10 13 }
+	color2={ 255 255 255 }
+	
+	title_prefix = "REGENCY"
+	title = "PASHA"
+		
+	capital	= 817 #Tunis
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_tunis = {
+						is_titular = yes
+					}
+				}
+				k_tunis = {
+					is_titular = no
+				}
+			}
+		}	
+}
+
+k_ottoman_egypt = {
+	color={ 227 10 23 }
+	color2={ 255 255 255 }
+	
+	title_prefix = "EYALET"
+	title = "BEYLERBEY"
+		
+	capital	= 796 #Cairo
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_ottoman_egypt = {
+						is_titular = yes
+					}
+				}
+				k_ottoman_egypt = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_ottoman_syria = {
+	color={ 200 16 29 }
+	color2={ 255 255 255 }
+	
+	title_prefix = "EYALET"
+	title = "BEYLERBEY"
+		
+	capital	= 728 #Damascus
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_ottoman_syria = {
+						is_titular = yes
+					}
+				}
+				k_ottoman_syria = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_ottoman_tripoli = {
+	color={ 180 21 36 }
+	color2={ 255 255 255 }
+	
+	title_prefix = "EYALET"
+	title = "BEYLERBEY"
+		
+	capital	= 767 #Tripoli
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_ottoman_tripoli = {
+						is_titular = yes
+					}
+				}
+				k_ottoman_tripoli = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_ottoman_adana = {
+	color={ 180 41 46 }
+	color2={ 255 255 255 }
+	
+	title_prefix = "EYALET"
+	title = "BEYLERBEY"
+		
+	capital	= 762 #Adana
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_ottoman_adana = {
+						is_titular = yes
+					}
+				}
+				k_ottoman_adana = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_ottoman_anatolia = {
+	color={ 170 50 33 }
+	color2={ 255 255 255 }
+	
+	title_prefix = "EYALET"
+	title = "BEYLERBEY"
+		
+	capital	= 753 #Ankara
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_ottoman_anatolia = {
+						is_titular = yes
+					}
+				}
+				k_ottoman_anatolia = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_ottoman_islands = {
+	color={ 190 85 60 }
+	color2={ 255 255 255 }
+	
+	title_prefix = "EYALET"
+	title = "KAPUDAN"
+		
+	capital	= 744 #Abydos
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_ottoman_islands = {
+						is_titular = yes
+					}
+				}
+				k_ottoman_islands = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_ottoman_karaman = {
+	color={ 251 96 127 }
+	color2={ 255 255 255 }
+	
+	title_prefix = "EYALET"
+	title = "BEYLERBEY"
+		
+	capital	= 759 #Ikonion
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_ottoman_karaman = {
+						is_titular = yes
+					}
+				}
+				k_ottoman_karaman = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_ottoman_rum = {
+	color={ 225 85 135 }
+	color2={ 255 255 255 }
+	
+	title_prefix = "EYALET"
+	title = "BEYLERBEY"
+		
+	capital	= 738 #Amisos
+	dynasty_title_names = no
+		
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_ottoman_rum = {
+						is_titular = yes
+					}
+				}
+				k_ottoman_rum = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_ambrosian_republic = {
+	color={ 255 0 0 }
+	color2={ 255 255 255 }
+		
+	capital	= 235 #Milan
+	short_name = yes
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_ambrosian_republic = {
+						is_titular = yes
+					}
+				}
+				k_ambrosian_republic = {
+					is_titular = no
+				}
+			}
+		}	
+}
+d_banco = {
+	color={ 244 141 120 }
+	color2={ 255 255 255 }
+	capital = 233 # Genoa
+	
+	title = "PROTECTOR"
+	
+	culture = italian
+	short_name = yes
+	# Always exists
+	landless = yes
+	# Cannot be held as a secondary title
+	primary = yes
+	dynasty_title_names = no 
+	
+	monthly_income = 500
+	assimilate = no
+	can_be_usurped = no
+	can_be_claimed = no
+}

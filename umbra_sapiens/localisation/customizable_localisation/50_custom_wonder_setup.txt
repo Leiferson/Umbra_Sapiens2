@@ -1,0 +1,21 @@
+defined_text = {
+	name = GetWonderTypeShortCap # Basically, what kind of building this is: "Cathedral", or "Pyramid", or "Harbor"
+
+	use_first_valid = yes # (Defaults to no)
+	
+	text = {
+		trigger = { has_wonder = wonder_nalanda }
+		localisation_key = wonder_nalanda
+	}
+}
+
+defined_text = {
+	name = GetWonderTypeShort # Basically, what kind of building this is: "cathedral", or "pyramid", or "harbor"
+
+	use_first_valid = yes # (Defaults to no)
+	
+	text = {
+		trigger = { has_wonder = wonder_nalanda }
+		localisation_key = wonder_nalanda
+}
+}

@@ -1,0 +1,21 @@
+# 1595 - Kara-Kuban
+
+# County Title
+title = c_kara-kuban
+
+# Settlements
+max_settlements = 3
+
+b_copa = tribal
+
+#b_il-pesce = city
+#b_akhtar-bakhtar = temple
+
+culture = khazar
+religion = tengri_pagan
+terrain = plains
+
+# History
+950.1.1 = { culture = cuman }
+1227.1.1 = { religion = sunni }
+

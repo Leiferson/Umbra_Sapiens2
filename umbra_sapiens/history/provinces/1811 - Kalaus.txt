@@ -1,0 +1,19 @@
+# 2090 - Kalaus
+
+# County Title
+title = c_kalaus
+
+# Settlements
+max_settlements = 3
+b_indgiur = tribal
+
+#b_majar = city
+#b_essen-tuk = temple
+
+culture = alan
+religion = uatsdin_pagan 
+
+# History
+900.1.1 = { religion = orthodox } 
+1227.1.1= { religion = sunni } 
+1238.1.1= { culture=mongol }

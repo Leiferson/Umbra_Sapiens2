@@ -1,0 +1,36 @@
+# 160 - Lisboa
+
+# County Title
+title = c_lisboa
+
+# Terrain
+terrain = hills
+
+# Settlements
+max_settlements = 6
+b_lisboa = castle
+b_sintra = city
+b_alenquer = temple
+#b_atouguia = castle
+#b_lisboa-ii
+#b_lisboa-iii
+
+
+# Misc
+culture = visigothic
+religion = catholic
+
+# History
+
+944.1.1 = {
+	culture = andalusian_arabic
+	religion = sunni
+}
+
+
+1121.1.1 = { trade_post = b_spinola }
+
+1163.1.1 = {
+	culture = portuguese
+	religion = catholic
+}

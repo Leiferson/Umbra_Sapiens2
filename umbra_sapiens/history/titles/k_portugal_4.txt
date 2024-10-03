@@ -1,0 +1,29 @@
+20.1.1={
+	active = no
+	pentarch = b_roma
+}
+1248.1.3={
+	active = yes
+	holder=459520 # Afonso III de Borgonha
+	law = succ_primogeniture
+	effect={
+		insert_title_history=k_portugal_3
+	}
+	de_jure_liege=e_spain
+}
+1279.4.18={
+	holder=459510 # Dinis I de Borgonha
+}
+1325.1.7={
+	holder=459500 # Afonso IV de Borgonha
+}
+1357.1.1={
+	holder=370001 # Pedro I de Borgonha
+}
+1367.1.1={
+	holder=370008 # Fernando I de Borgonha
+}
+1383.10.22={
+	holder=0 # John I de Borgonha
+	active = no
+}

@@ -1,0 +1,35 @@
+# 1242 - Radha
+
+# County Title
+title = c_radha
+
+# Settlements
+max_settlements = 4
+b_lakhnor = castle
+b_kalyaneshwari = temple
+b_katwa = city
+#b_rampur_boalia = temple
+#b_gopbhum = city
+#b_ichhai_ghoshgarh = castle
+#b_hirapur = castle
+
+# Misc
+culture = bengali
+religion = buddhist
+
+# History
+600.1.1 = {
+	build_wonder = wonder_nalanda
+	set_wonder_stage = 3
+}
+
+769.1.1 = {
+	build_wonder_upgrade = upgrade_school_buddhist
+	build_wonder_upgrade = upgrade_relic_stupa
+	build_wonder_upgrade = upgrade_vihara
+}
+
+1200.1.1 = {
+	set_wonder_damaged = yes
+	set_wonder_stage = 2
+}

@@ -1,0 +1,110 @@
+#Mpfumo Dynasty (Placeholders)
+
+750.1.1={	
+	historical_nomad = yes
+}
+750.1.1={
+	holder=1019200022 #Nyeleti
+}
+780.1.1={
+	holder=1019200023 #Nyeleti
+}
+810.1.1={
+	holder=1019200024 #Masingita
+}
+840.1.1={
+	holder=1019200025 #Amukelani
+}
+870.1.1={
+	holder=1019200026 #Ntwanano
+}
+900.1.1={
+	holder=1019200027 #Masana
+}
+930.1.1={
+	holder=1019200028 #Masana
+}
+960.1.1={
+	holder=1019200029 #Eletsa
+}
+990.1.1={
+	holder=1019200030 #Amukelani
+}
+1020.1.1={
+	holder=1019200031 #Ntsako
+}
+1050.1.1={
+	holder=1019200032 #Nyeleti
+}
+1080.1.1={
+	holder=1019200033 #Ntosvelo
+}
+1110.1.1={
+	holder=1019200034 #Nyeleti
+}
+1140.1.1={
+	holder=1019200035 #Minkateko
+}
+1170.1.1={
+	holder=1019200036 #Nsuku
+}
+#1200.1.1={
+#	holder=1019200037 #Rhulani
+#}
+#1206.1.1={
+#	holder=0
+#}
+1206.1.1={
+	liege = "e_mongol_empire"
+	holder=1019200037
+}
+1227.12.2={
+	liege=0
+}
+1227.12.2={
+#	liege = "k_mongolia"
+	set_tribute_suzerain = {
+#		who = e_china_west_governor
+		who = k_mongolia
+		type = nomadic
+	}
+}
+1230.1.1={
+	holder=1019200038 #Rhulani
+}
+1260.1.1={
+	holder=1019200039 #Nyeleti
+#	set_tribute_suzerain = {
+#		who = e_china_west_governor
+#		who = k_mongolia
+#		type = nomadic
+#	}
+}
+
+1279.3.19={
+	clear_tribute_suzerain = k_mongolia
+}
+
+1279.3.19={
+              holder=1019200039
+	set_tribute_suzerain = {
+		who = e_china
+		type = nomadic
+	}
+}
+
+1290.1.1={
+	holder=1019200040 #Ntosvelo
+}
+
+1320.1.1={
+	holder = 1019200041 # The Western Governor is now holder
+	set_tribute_suzerain = {
+		who = e_china
+		type = nomadic
+	}
+}
+
+1350.1.1={
+	holder=1019200042 #Rhulani
+}

@@ -1,0 +1,28 @@
+# 1420 - Jyenx
+
+# County Title
+title = c_jyenx
+
+# Settlements
+max_settlements = 4
+b_ghra = castle
+b_khyukbiux = temple
+b_daih = temple
+#b_criu =
+#b_siihsjyix =
+#b_kyung =
+#b_laimyo = 
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+1.1.1 = {
+build_wonder = wonder_temple_taoist
+set_wonder_stage = 3
+set_wonder_name = CONFUCIUSTEMPLE
+set_wonder_description = CONFUCIUSTEMPLEDESC
+build_wonder_upgrade = upgrade_custodian_of_temple
+build_wonder_upgrade = upgrade_temple_precinct
+}

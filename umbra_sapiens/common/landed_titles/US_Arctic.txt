@@ -1,0 +1,2823 @@
+e_nunavut = {
+
+	color={ 135 94 99 }
+	color2={ 220 220 220 }
+
+	norse = "Helluland"
+	norwegian = "Helluland"
+	danish = "Helluland"
+	swedish = "Helluland"
+	allow={
+	is_colonial = no
+	}
+	capital = 3515 # Iqaluit
+	k_nedene = {
+		color={ 147 84 255 }
+		color2={ 255 255 255 }
+		capital = 4667
+		d_dehcho = {
+		color={ 160 110 255 }
+		color2={ 255 255 255 }
+		capital = 4774
+		c_dehcho = {
+		color={ 160 115 255 }
+		color2={ 255 255 255 }
+		b_dehcho = {}
+		b_jean_marie_river = {}
+		b_simpson_fort = {}
+		}
+		c_teslin = {
+		color={ 160 125 255 }
+		color2={ 255 255 255 }
+		b_teslin = {}
+		b_nisutlin = {}
+		b_squanga = {}
+		}
+		c_spatsizi = {
+		color={ 160 130 255 }
+		color2={ 255 255 255 }
+		b_spatsizi = {}
+		b_stikine = {}
+		b_hotlesklwa = {}
+		}
+		c_nahanni_butte = {
+		color={ 160 135 255 }
+		color2={ 255 255 255 }
+		b_nahanni_butte = {}
+		b_liard = {}
+		b_trout_lake = {}
+		}
+		c_iskut = {
+		color={ 160 140 255 }
+		color2={ 255 255 255 }
+		b_iskut = {}
+		b_eddontenajon = {}
+		b_ehahcezetle = {}
+		b_tuktsayda = {}
+		}
+		c_kwadacha = {
+		color={ 160 145 255 }
+		color2={ 255 255 255 }
+		b_kwadacha = {}
+		b_muskwa = {}
+		b_sylvia = {}
+		}
+		}
+		d_dawson = {
+		color={ 147 90 255 }
+		color2={ 255 255 255 }
+		capital = 4667
+		c_dawson = {
+		color={ 150 90 240 }
+		color2={ 255 255 255 }
+		b_dawson = {}
+		b_bear_creek = {}
+		b_eagle_village = {}
+		b_tombstone = {}
+		}
+		c_selkirknew = {
+		color={ 150 90 255 }
+		color2={ 255 255 255 }
+		b_selkirknew = {}
+		b_mattock = {}
+		b_libau = {}
+		b_beaconia = {}
+		b_brokenhead = {}
+		b_minner_ridge = {}
+		}
+		c_carmacks = {
+		color={ 150 90 245 }
+		color2={ 255 255 255 }
+		b_carmacks = {}
+		b_ross_river = {}
+		b_beaver_creek = {}
+		}
+		c_watson_lake = {
+		color={ 150 90 250 }
+		color2={ 255 255 255 }
+		b_watson_lake = {}
+		b_upper_liard = {}
+		b_rancheria = {}
+		}
+		c_tagish = {
+		color={ 150 90 235 }
+		color2={ 255 255 255 }
+		b_tagish = {}
+		b_carcross = {}
+		b_marsh_lake = {}
+		b_lorne = {}
+		}
+		}
+		d_black_lake = {
+		color={ 150 100 190 }
+		color2={ 255 255 255 }
+		capital = 4712
+		c_black_lake = {
+		color={ 140 100 205 }
+		color2={ 255 255 255 }
+		b_black_lake = {}
+		b_stony_rapids = {}
+		b_fond_du_lac = {}
+		}
+		c_lutselke = {
+		color={ 145 100 205 }
+		color2={ 255 255 255 }
+		b_lutselke = {}
+		}
+		c_tadoule = {
+		color={ 140 100 205 }
+		color2={ 255 255 255 }
+		b_tadoule = {}
+		}
+		c_arviat = {
+		color={ 135 100 205 }
+		color2={ 255 255 255 }
+		b_arviat = {}
+		}
+		c_whale_cove = {
+		color={ 130 100 205 }
+		color2={ 255 255 255 }
+		b_whale_cove = {}
+		}
+		c_rankin = {
+		color={ 125 100 205 }
+		color2={ 255 255 255 }
+		b_rankin = {}
+		}
+		}
+		d_mckay = {
+		color={ 150 70 200 }
+		color2={ 255 255 255 }
+		capital = 4711
+		c_mckay = {
+		color={ 150 70 205 }
+		color2={ 255 255 255 }
+		b_mckay = {}
+		b_bitumount = {}
+		b_mildred_lake = {}
+		b_tar_island = {}
+		b_timberlea = {}
+		b_mcmurray = {}
+		b_anzac = {}
+		}
+		c_peerless_lake = {
+		color={ 150 70 210 }
+		color2={ 255 255 255 }
+		b_peerless_lake = {}
+		b_red_earth_creek = {}
+		b_loon_lake = {}
+		}
+		c_birch_mountains = {
+		color={ 150 70 215 }
+		color2={ 255 255 255 }
+		b_birch_mountains = {}
+		b_chipewyan_lake = {}
+		}
+		c_wabasca = {
+		color={ 150 70 220 }
+		color2={ 255 255 255 }
+		b_wabasca = {}
+		b_desmarais = {}
+		}
+		c_weyakwin = {
+		color={ 150 70 225 }
+		color2={ 255 255 255 }
+		b_weyakwin = {}
+		b_timber_bay = {}
+		}
+		}
+		d_edmonton = {
+		color={ 100 70 240 }
+		color2={ 255 255 255 }
+		capital = 4783
+		c_edmonton = {
+		color={ 95 70 235 }
+		color2={ 255 255 255 }
+		b_edmonton = {}
+		b_stony_plane = {}
+		b_nisku = {}
+		b_legal = {}
+		b_millet = {}
+		b_warburg = {}
+		b_redwater = {}
+		}
+		c_valemount = {
+		color={ 90 70 235 }
+		color2={ 255 255 255 }
+		b_valemount = {}
+		b_cedarside = {}
+		b_albreda = {}
+		b_shere = {}
+		b_croydonnew = {}
+		}
+		c_peace_river = {
+		color={ 85 70 235 }
+		color2={ 255 255 255 }
+		b_peace_river = {}
+		b_grimshaw = {}
+		b_berwyn = {}
+		b_warrensville = {}
+		b_weberville = {}
+		b_nampa = {}
+		}
+		c_wonowon = {
+		color={ 105 70 235 }
+		color2={ 255 255 255 }
+		b_wonowon = {}
+		b_kobes = {}
+		b_pink_mountain = {}
+		b_upper_halfway = {}
+		b_prespatou = {}
+		}
+		c_ingenika_point = {
+		color={ 110 70 235 }
+		color2={ 255 255 255 }
+		b_ingenika_point = {}
+		b_tsay_ken_dene = {}
+		b_ware = {}
+		}
+		}
+		d_fox_lake = {
+		color={ 130 70 240 }
+		color2={ 255 255 255 }
+		capital = 4742
+		c_fox_lake = {
+		color={ 135 70 240 }
+		color2={ 255 255 255 }
+		b_fox_lake = {}
+		b_adams_landing = {}
+		b_garden_creek = {}
+		b_jackfish_river = {}
+		b_boyer = {}
+		}
+		c_behchoko = {
+		color={ 140 70 240 }
+		color2={ 255 255 255 }
+		b_behchoko = {}
+		b_edzo = {}
+		}
+		c_sambaa_ke = {
+		color={ 145 70 240 }
+		color2={ 255 255 255 }
+		b_sambaa_ke = {}
+		}
+		c_kakisa = {
+		color={ 150 70 240 }
+		color2={ 255 255 255 }
+		b_kakisa = {}
+		b_providence = {}
+		}
+		c_hay_lake = {
+		color={ 164 70 240 }
+		color2={ 255 255 255 }
+		b_hay_lake = {}
+		b_habay = {}
+		b_zama = {}
+		b_assumption = {}
+		}
+		c_hay_river = {
+		color={ 130 70 240 }
+		color2={ 255 255 255 }
+		b_hay_river = {}
+		b_enterprise = {}
+		}
+		c_chipewyan = {
+		color={ 125 70 240 }
+		color2={ 255 255 255 }
+		b_chipewyan = {}
+		}
+		}
+		d_sahtu = {
+		color={ 147 70 255 }
+		color2={ 255 255 255 }
+		capital = 4764
+		c_sahtu = {
+		color={ 155 70 255 }
+		color2={ 255 255 255 }
+		b_sahtu = {}
+		b_tulita = {}
+		b_bear_rock = {}
+		}
+		c_wrigley = {
+		color={ 160 70 255 }
+		color2={ 255 255 255 }
+		b_wrigley = {}
+		}
+		c_gameti = {
+		color={ 150 70 255 }
+		color2={ 255 255 255 }
+		b_gameti = {}
+		}
+		c_naatsihnchoh = {
+		color={ 130 70 255 }
+		color2={ 255 255 255 }
+		b_naatsihnchoh = {}
+		}
+		}
+		}
+	k_alaska = {
+		color={ 202 201 234 }
+		color2={ 255 255 255 }
+		
+		capital = 4285 # Anchorage
+		d_skwentna = {
+		color={ 165 180 250 }
+		color2={ 255 255 255 }
+		capital = 4652
+		c_skwentna = {
+		color={ 160 185 245 }
+		color2={ 255 255 255 }
+		b_skwentna = {}
+		b_susitna = {}
+		b_willow = {}
+		b_chase = {}
+		}
+		c_unalakleet = {
+		color={ 150 185 245 }
+		color2={ 255 255 255 }
+		b_unalakleet = {}
+		b_kaltag = {}
+		b_shaktoolik = {}
+		}
+		c_takotna = {
+		color={ 175 185 245 }
+		color2={ 255 255 255 }
+		b_takotna = {}
+		b_mcgrath = {}
+		b_nikolai = {}
+		}
+		c_crooked_creek = {
+		color={ 180 185 245 }
+		color2={ 255 255 255 }
+		b_crooked_creek = {}
+		}
+		c_minchumina = {
+		color={ 185 185 245 }
+		color2={ 255 255 255 }
+		b_minchumina = {}
+		}
+		}
+		d_utqiagvik = {
+		color={ 170 180 250 }
+		color2={ 255 255 255 }
+		capital = 4644
+		c_utqiagvik = {
+		color={ 170 185 245 }
+		color2={ 255 255 255 }
+		b_utqiagvik = {}
+		b_atqasuk = {}
+		b_wainwright = {}
+		b_point_lay = {}
+		}
+		c_selawik = {
+		color={ 170 195 245 }
+		color2={ 255 255 255 }
+		b_selawik = {}
+		b_kiana = {}
+		}
+		c_kivalina = {
+		color={ 170 200 245 }
+		color2={ 255 255 255 }
+		b_kivalina = {}
+		b_krusentern = {}
+		b_red_dog = {}
+		b_point_hope = {}
+		}
+		c_kobuk = {
+		color={ 170 205 245 }
+		color2={ 255 255 255 }
+		b_kobuk = {}
+		b_ambler = {}
+		b_shungnak = {}
+		}
+		c_allakaket = {
+		color={ 170 175 245 }
+		color2={ 255 255 255 }
+		b_allakaket = {}
+		}
+		c_kaktovik = {
+		color={ 170 170 245 }
+		color2={ 255 255 255 }
+		b_kaktovik = {}
+		b_prudhoe_bay = {}
+		b_nuiqsut = {}
+		}
+		}
+		d_nome = {
+		color={ 180 190 250 }
+		color2={ 255 255 255 }
+		capital = 4639
+		c_nome = {
+		color={ 180 190 245 }
+		color2={ 255 255 255 }
+		b_nome = {}
+		b_fort_davis = {}
+		b_marys = {}
+		b_teller = {}
+		b_port_clarence = {}
+		}
+		c_shishmaref = {
+		color={ 180 190 240 }
+		color2={ 255 255 255 }
+		b_shishmaref = {}
+		b_brevig = {}
+		b_wales = {}
+		}
+		c_qikiqtagruk = {
+		color={ 180 190 235 }
+		color2={ 255 255 255 }
+		b_qikiqtagruk = {}
+		b_noorvik = {}
+		}
+		c_golovin = {
+		color={ 180 190 230 }
+		color2={ 255 255 255 }
+		b_golovin = {}
+		b_koyuk = {}
+		b_elim = {}
+		b_white_mountain = {}
+		}
+		c_huslia = {
+		color={ 180 190 225 }
+		color2={ 255 255 255 }
+		holy_site=subartic_pagan
+		holy_site=subartic_pagan_reformed
+		b_huslia = {}
+		b_galena = {}
+		b_ruby = {}
+		b_hughes = {}
+		}
+		}
+		d_tuntuliak = {
+		color={ 145 190 210 }
+		color2={ 255 255 255 }
+		capital = 4632
+		c_tuntuliak = {
+		color={ 140 185 210 }
+		color2={ 255 255 255 }
+		b_tuntuliak = {}
+		b_eek = {}
+		b_kongiganak = {}
+		b_kwigilingok = {}
+		b_kipnuk = {}
+		}
+		c_chevak = {
+		color={ 120 185 210 }
+		color2={ 255 255 255 }
+		b_chevak = {}
+		b_hooper_bay = {}
+		b_scammon_bay = {}
+		}
+		c_mekoryuk = {
+		color={ 135 185 210 }
+		color2={ 255 255 255 }
+		b_mekoryuk = {}
+		}
+		c_stebbins = {
+		color={ 130 185 210 }
+		color2={ 255 255 255 }
+		b_stebbins = {}
+		b_stuart_island = {}
+		}
+		c_upper_kalskag = {
+		color={ 125 185 210 }
+		color2={ 255 255 255 }
+		b_upper_kalskag = {}
+		b_lower_kalskag = {}
+		b_arhymot = {}
+		b_kukaklik = {}
+		b_kulik = {}
+		}
+		}
+		d_togiak = {
+		color={ 160 190 210 }
+		color2={ 255 255 255 }
+		capital = 4628
+		c_togiak = {
+		color={ 160 185 210 }
+		color2={ 255 255 255 }
+		b_togiak = {}
+		b_hagemeister = {}
+		b_twin_hills = {}
+		}
+		c_platinum = {
+		color={ 160 180 210 }
+		color2={ 255 255 255 }
+		b_platinum = {}
+		b_goodnews_bay = {}
+		b_newenham = {}
+		}
+		c_aleknagik = {
+		color={ 160 175 210 }
+		color2={ 255 255 255 }
+		b_aleknagik = {}
+		b_nerka = {}
+		b_nunavaugaluk = {}
+		}
+		c_manokotak = {
+		color={ 160 170 210 }
+		color2={ 255 255 255 }
+		b_manokotak = {}
+		}
+		}
+		d_ekuk = {
+		color={ 200 190 224 }
+		color2={ 255 255 255 }
+		capital = 4626
+		c_ekuk = {
+		color={ 200 195 224 }
+		color2={ 255 255 255 }
+		b_ekuk = {}
+		b_dillingham = {}
+		}
+		c_levellock = {
+		color={ 200 200 224 }
+		color2={ 255 255 255 }
+		b_levellock = {}
+		b_igiugig = {}
+		b_alagnak = {}
+		}
+		c_iliamna = {
+		color={ 200 185 224 }
+		color2={ 255 255 255 }
+		b_iliamna = {}
+		b_newhalen = {}
+		b_nondalton = {}
+		}
+		c_tyonek = {
+		color={ 200 180 224 }
+		color2={ 255 255 255 }
+		b_tyonek = {}
+		b_beluga = {}
+		}
+		c_kokhanok = {
+		color={ 200 175 224 }
+		color2={ 255 255 255 }
+		b_kokhanok = {}
+		b_katmai = {}
+		}	
+		}
+		d_naknek = {
+		color={ 227 201 224 }
+		color2={ 255 255 255 }
+		capital = 4623
+		c_naknek = {
+		color={ 212 201 234 }
+		color2={ 255 255 255 }
+		b_naknek = {}
+		b_king_salmon = {}
+		}
+		c_egegik = {
+		color={ 232 201 214 }
+		color2={ 255 255 255 }
+		b_egegik = {}
+		b_becharof = {}
+		}
+		c_pilot_point = {
+		color={ 232 201 228 }
+		color2={ 255 255 255 }
+		b_pilot_point = {}
+		b_ugashik = {}
+		}
+		c_port_heiden = {
+		color={ 242 201 238 }
+		color2={ 255 255 255 }
+		b_port_heiden = {}
+		b_aniakchak = {}
+		}
+		c_chignik = {
+		color={ 247 201 218 }
+		color2={ 255 255 255 }
+		b_chignik = {}
+		}
+		}
+		d_akutan = {
+		color={ 227 201 234 }
+		color2={ 255 255 255 }
+		capital = 4613
+		c_sand_point = {
+		color={ 158 201 220 }
+		color2={ 255 255 255 }
+		b_sand_point = {}
+		b_unga = {}
+		b_korovin = {}
+		b_red_devil = {}
+		}
+		c_akutan = {
+		color={ 212 201 234 }
+		color2={ 255 255 255 }
+		holy_site=inuit_pagan
+		holy_site=inuit_pagan_reformed
+		b_akutan = {}
+		b_akun = {}
+		b_tigalda = {}
+		}
+		c_unimak = {
+		color={ 232 201 234 }
+		color2={ 255 255 255 }
+		b_unimak = {}
+		}
+		c_cold_bay = {
+		color={ 237 201 234 }
+		color2={ 255 255 255 }
+		b_cold_bay = {}
+		}
+		c_perryville = {
+		color={ 242 201 234 }
+		color2={ 255 255 255 }
+		b_perryville = {}
+		}
+		c_kings_cove = {
+		color={ 247 201 234 }
+		color2={ 255 255 255 }
+		b_kings_cove = {}
+		b_dolgoi = {}
+		}
+		}
+		d_anchor_point = {
+			color={ 78 104 204 }
+			color2={ 255 255 255 }
+			
+			capital = 4281 # Anchor Point
+			
+			c_ninilchik = {
+
+				color={ 104 102 113 }
+				color2={ 220 220 220 }
+				
+				b_ninilchik = {
+				}
+				b_ninilchik-ii = {
+				}
+				b_ninilchik-iii = {
+				}
+			}
+			
+			c_anchor_point = {
+
+				color={ 190 200 200 }
+				color2={ 220 220 220 }
+				
+				b_anchor_point = {
+				}
+				b_anchor_point-ii = {
+				}
+				b_anchor_point-iii = {
+				}
+			}
+			
+			c_soldotna = {
+
+				color={ 53 138 49 }
+				color2={ 220 220 220 }
+				
+				b_soldotna = {
+				}
+				b_soldotna-ii = {
+				}
+				b_soldotna-iii = {
+				}
+			}
+			
+		}
+		
+		d_kodiak = {
+			color={ 144 232 159 }
+			color2={ 255 255 255 }
+			
+			capital = 4283 # Kodiak
+		
+		c_kodiak = {
+
+				color={ 24 138 83 }
+				color2={ 220 220 220 }
+				
+				b_kodiak = {
+				}
+				b_kodiak-ii = {
+				}
+				b_kodiak-iii = {
+				}
+			}
+			
+		c_akhiok = {
+
+				color={ 124 238 104 }
+				color2={ 220 220 220 }
+				
+				b_akhiok = {
+				}
+				b_akhiok-ii = {
+				}
+				b_akhiok-iii = {
+				}
+			}
+		}
+		
+		d_anchorage = {
+			color={ 100 203 211 }
+			color2={ 255 255 255 }
+			
+			capital = 4285 # Anchorage
+			
+			c_anchorage = {
+
+				color={ 220 211 83 }
+				color2={ 220 220 220 }
+				
+				b_anchorage = {
+				}
+				b_anchorage-ii = {
+				}
+				b_anchorage-iii = {
+				}
+			}
+			c_chitina = {
+
+				color={ 111 181 183 }
+				color2={ 220 220 220 }
+				
+				b_chitina = {
+				}
+				b_chitina-ii = {
+				}
+				b_chitina-iii = {
+				}
+			}
+			
+			c_slana = {
+
+				color={ 93 96 91 }
+				color2={ 220 220 220 }
+				
+				b_slana = {
+				}
+				b_slana-ii = {
+				}
+				b_slana-iii = {
+				}
+			}
+			
+			c_sutton_alpine = {
+
+				color={ 57 244 35 }
+				color2={ 220 220 220 }
+				
+				b_sutton_alpine = {
+				}
+				b_sutton_alpine-ii = {
+				}
+				b_sutton_alpine-iii = {
+				}
+			}
+			
+			c_tetlin = {
+
+				color={ 84 22 145 }
+				color2={ 220 220 220 }
+				
+				b_tetlin = {
+				}
+				b_tetlin-ii = {
+				}
+				b_tetlin-iii = {
+				}
+			}
+			
+			c_fartok = {
+
+				color={ 144 43 76 }
+				color2={ 220 220 220 }
+				
+				b_fartok = {
+				}
+				b_fartok-ii = {
+				}
+				b_fartok-iii = {
+				}
+			}
+			
+			c_coldfoot = {
+
+				color={ 93 122 183 }
+				color2={ 220 220 220 }
+				
+				b_coldfoot = {
+				}
+				b_coldfoot-ii = {
+				}
+				b_coldfoot-iii = {
+				}
+			}
+			
+			c_anaktuvuk = {
+
+				color={ 88 32 111 }
+				color2={ 220 220 220 }
+				
+				b_anaktuvuk = {
+				}
+				b_anaktuvuk-ii = {
+				}
+				b_anaktuvuk-iii = {
+				}
+			}
+		
+		}
+		
+	}
+	k_tuniit_nunaat = {
+
+		color={ 45 84 79 }
+		color2={ 220 220 220 }
+
+		inuit = "Kalaallit Nunaat"
+		norse = "Grúnland"
+		norwegian = "Grúnland"
+		danish = "Grúnland"
+		swedish = "Grúnland"
+		english = "Greenland"
+
+		capital = 2332 # Sermersooq
+
+		d_kitaa = {
+
+			color={ 135 224 149 }
+			color2={ 220 220 220 }
+
+			norse = "Vestgrúnland"
+			norwegian = "Vestgrúnland"
+			danish = "Vestgrúnland"
+			swedish = "Vestgrúnland"
+			
+			capital = 2332 # Sermersooq
+			
+			c_sermersooq = {
+
+				color={ 5 114 39 }
+				color2={ 220 220 220 }
+
+				holy_site=inuit_pagan
+				holy_site=inuit_pagan_reformed
+				holy_site=algic_pagan
+				holy_site=algic_pagan_reformed
+				
+				norse = "Vestribyggð"
+				norwegian = "Vestribyggð"
+				danish = "Vestribyggð"
+				swedish = "Vestribyggð"
+				
+				b_sermersooq = {
+					norse = "Sandnæs"
+					norwegian = "Sandnæs"
+					danish = "Sandnæs"
+					swedish = "Sandnæs"
+				}
+				b_ameralik = {
+					norse = "Lysufjord"
+					norwegian = "Lysufjord"
+					danish = "Lysufjord"
+					swedish = "Lysufjord"
+				}
+				b_nuuk = {
+					norse = "Godthaab"
+					norwegian = "Godthaab"
+					danish = "Godthaab"
+					swedish = "Godthaab"
+				}
+				b_ujarassuit = {
+					norse = "Anavik"
+					norwegian = "Anavik"
+					danish = "Anavik"
+					swedish = "Anavik"
+				}
+				b_kangeq = {
+					norse = "Haabets Oe"
+					norwegian = "Haabets Oe"
+					danish = "Haabets Oe"
+					swedish = "Haabets Oe"
+				}
+				b_atammik = {
+				}
+				b_kapisillit = {
+				}
+			}
+			c_qeqqata = {
+
+				color={ 115 214 129 }
+				color2={ 220 220 220 }
+				
+				norse = "Miðterste"
+				norwegian = "Miðterste"
+				danish = "Miðterste"
+				swedish = "Miðterste"
+				
+				b_sisimiut = {
+					norse = "Holsteinsborg"
+					norwegian = "Holsteinsborg"
+					danish = "Holsteinsborg"
+					swedish = "Holsteinsborg"
+				}
+				b_kangaamiut = {
+					norse = "Gammel Sukkertoppen"
+					norwegian = "Gammel Sukkertoppen"
+					danish = "Gammel Sukkertoppen"
+					swedish = "Gammel Sukkertoppen"
+				}
+				b_maniitsoq = {
+					norse = "Sukkertoppen"
+					norwegian = "Sukkertoppen"
+					danish = "Sukkertoppen"
+					swedish = "Sukkertoppen"
+				}
+				b_kangerlussuaq = {
+					norse = "Sondrestrom"
+					norwegian = "Sondrestrom"
+					danish = "Sondrestrom"
+					swedish = "Sondrestrom"
+				}
+				b_napasoq = {
+				}
+				b_itilleq = {
+				}
+				b_sarfannguit = {
+				}
+			}
+			c_qeqertalik = {
+
+				color={ 165 214 159 }
+				color2={ 220 220 220 }
+				
+				norse = "Diskoland"
+				norwegian = "Diskoland"
+				danish = "Diskoland"
+				swedish = "Diskoland"
+				
+				b_aasiaat = {
+					norse = "Egedesminde"
+					norwegian = "Egedesminde"
+					danish = "Egedesminde"
+					swedish = "Egedesminde"
+				}
+				b_qeqertarsuaq = {
+					norse = "Godhavn"
+					norwegian = "Godhavn"
+					danish = "Godhavn"
+					swedish = "Godhavn"
+				}
+				b_saqqaq = {
+					norse = "Solsiden"
+					norwegian = "Solsiden"
+					danish = "Solsiden"
+					swedish = "Solsiden"
+				}
+				b_kitsissuarsuit = {
+					norse = "Hunde Ejlande"
+					norwegian = "Hunde Ejlande"
+					danish = "Hunde Ejlande"
+					swedish = "Hunde Ejlande"
+				}
+				b_ilulissat = {
+					norse = "Jakobshavn"
+					norwegian = "Jakobshavn"
+					danish = "Jakobshavn"
+					swedish = "Jakobshavn"
+				}
+				b_qasigiannguit = {
+				}
+				b_kangaatsiaq = {
+				}
+			}
+		}
+		d_kujalleq = {
+
+			color={ 115 214 229 }
+			color2={ 220 220 220 }
+
+			norse = "Grúnland"
+			norwegian = "Grúnland"
+			danish = "Grúnland"
+			swedish = "Grúnland"
+			
+			capital = 2331 # Qaqortoq (Kujalleg)
+			
+			c_kujalleg = { # Qaqortoq
+				color={ 75 74 79 }
+				color2={ 220 220 220 }
+				
+				norse = "Eystribyggð"
+				norwegian = "Eystribyggð"
+				danish = "Eystribyggð"
+				swedish = "Eystribyggð"
+				
+				b_qassiarsuk = {
+					norse = "Brattahlíð"
+					norwegian = "Brattahlíð"
+					danish = "Brattahlíð"
+					swedish = "Brattahlíð"
+				}
+				b_qaqortoq = {
+					norse = "Hvalsey"
+					norwegian = "Hvalsey"
+					danish = "Hvalsey"
+					swedish = "Hvalsey"
+				}
+				b_igaliku = {
+					norse = "Garðar"
+					norwegian = "Garðar"
+					danish = "Garðar"
+					swedish = "Garðar"
+				}
+				b_narsaq = {
+					norse = "Dyrnæs"
+					norwegian = "Dyrnæs"
+					danish = "Dyrnæs"
+					swedish = "Dyrnæs"
+				}
+				b_narsaq_kujalleq = {
+					norse = "Ikigait"
+					norwegian = "Ikigait"
+					danish = "Ikigait"
+					swedish = "Ikigait"
+				}
+				b_nunap_isua = {
+					norse = "Herjolfsnes"
+					norwegian = "Herjolfsnes"
+					danish = "Herjolfsnes"
+					swedish = "Herjolfsnes"
+				}
+				b_alluitsup_paa = {
+					norse = "Vatnahverfi"
+					norwegian = "Vatnahverfi"
+					danish = "Vatnahverfi"
+					swedish = "Vatnahverfi"
+				}
+			}
+			c_ivittuut = {
+
+				color={ 25 124 159 }
+				color2={ 220 220 220 }
+				
+				norse = "Miðribyggð"
+				norwegian = "Miðribyggð"
+				danish = "Miðribyggð"
+				swedish = "Miðribyggð"
+				
+				b_ivittuut = {
+					norse = "Miðribyggð"
+					norwegian = "Miðribyggð"
+					danish = "Miðribyggð"
+					swedish = "Miðribyggð"
+				}
+				b_kangilinnguit = {
+					norse = "Gronnedal"
+					norwegian = "Gronnedal"
+					danish = "Gronnedal"
+					swedish = "Gronnedal"
+				}
+				b_paamiut = {
+					norse = "Frederikshaab"
+					norwegian = "Frederikshaab"
+					danish = "Frederikshaab"
+					swedish = "Frederikshaab"
+				}
+				b_arsuk = {
+				}
+				b_ikermiut = {
+				}
+				b_qeqertarsuatsiaat = {
+					norse = "Fiskernæs"
+					norwegian = "Fiskernæs"
+					danish = "Fiskernæs"
+					swedish = "Fiskernæs"
+				}
+				b_nunarssit = {
+				}
+			}
+			c_qulleq = {
+				color={ 215 124 159 }
+				color2={ 220 220 220 }
+				
+				norse = "Gunnbjörnland"
+				norwegian = "Gunnbjörnland"
+				danish = "Gunnbjörnland"
+				swedish = "Gunnbjörnland"
+				
+				b_qulleq = {
+					norse = "Gunnbjörnland"
+					norwegian = "Gunnbjörnland"
+					danish = "Gunnbjörnland"
+					swedish = "Gunnbjörnland"
+				}
+				b_qipinnguak = {
+				}
+				b_takisoq = {
+				}
+				b_qeqertarsuaqq = {
+				}
+				b_iluileq = {
+				}
+				b_kissarsiitilik = {
+				}
+				b_paatusoq = {
+					norse = "Patursok"
+					norwegian = "Patursok"
+					danish = "Patursok"
+					swedish = "Patursok"
+				}
+			}
+		}
+		d_tunu = {
+
+			color={ 125 44 49 }
+			color2={ 220 220 220 }
+
+			norse = "Eystgrúnland"
+			norwegian = "Eystgrúnland"
+			danish = "Eystgrúnland"
+			swedish = "Eystgrúnland"
+			
+			capital = 3512 # Ammassalik
+
+			c_ammassalik = {
+				color={ 25 64 99 }
+				color2={ 220 220 220 }
+				
+				b_ammassalik = {
+				}
+				b_tasiilaq = {
+				}
+				b_kuummiit = {
+				}
+				b_kulusuk = {
+					norse = "Kap Dan"
+					norwegian = "Kap Dan"
+					danish = "Kap Dan"
+					swedish = "Kap Dan"
+				}
+				b_tiilerilaaq = {
+				}
+				b_sermiligaaq = {
+				}
+				b_isertoq = {
+				}
+			}
+			c_kangertittivaq = {
+				color={ 195 114 119 }
+				color2={ 220 220 220 }
+
+				holy_site=inuit_pagan
+				holy_site=inuit_pagan_reformed
+
+				norse = "Rodefjord"
+				norwegian = "Rodefjord"
+				danish = "Rodefjord"
+				swedish = "Rodefjord"
+				
+				
+				b_ittoqqortoormiit = {
+					norse = "Rodefjord"
+					norwegian = "Rodefjord"
+					danish = "Rodefjord"
+					swedish = "Rodefjord"
+				}
+				b_itterajivit = {
+					norse = "Kap Haab"
+					norwegian = "Kap Haab"
+					danish = "Kap Haab"
+					swedish = "Kap Haab"
+				}
+				b_kangikajik = {
+				}
+				b_uunarteq = {
+				}
+				b_kangerlussuaqq = {
+					norse = "Storfjord"
+					norwegian = "Storfjord"
+					danish = "Storfjord"
+					swedish = "Storfjord"
+				}
+				b_tuttut_nunaat = {
+					norse = "Renland"
+					norwegian = "Renland"
+					danish = "Renland"
+					swedish = "Renland"
+				}
+				b_nerlerit_inaat = {
+				}
+			}
+			c_saqqisikuik = {
+				color={ 95 84 59 }
+				color2={ 220 220 220 }	
+
+				norse = "Skjoldungen"
+				norwegian = "Skjoldungen"
+				danish = "Skjoldungen"
+				swedish = "Skjoldungen"		
+
+				b_saqqisikuik = {
+					norse = "Skjoldungen"
+					norwegian = "Skjoldungen"
+					danish = "Skjoldungen"
+					swedish = "Skjoldungen"
+				}				
+				b_timmiarmiit = {
+				}
+				b_uvtorsiutit = {
+				}
+				b_maligissat = {
+				}
+				b_sattiaatteq = {
+				}
+				b_igdluluarssuk = {
+				}
+				b_kangertittivaq = {
+				}
+			}
+		}
+	}
+
+	k_nunavut = {
+
+		color={ 115 14 39 }
+		color2={ 220 220 220 }
+
+		norse = "Helluland"
+		norwegian = "Helluland"
+		danish = "Helluland"
+		swedish = "Helluland"
+
+		capital = 3515 # Iqaluit
+		d_vuntut = {
+		color={ 115 42 42 }
+		color2={ 220 220 220 }
+		c_vuntut = {
+		color={ 115 50 39 }
+		color2={ 220 220 220 }
+		b_vuntut = {}
+		b_ivvavik = {}
+		b_old_crow = {}
+		}
+		c_aklavik = {
+		color={ 115 30 39 }
+		color2={ 220 220 220 }
+		b_aklavik = {}
+		}
+		c_tuktoyaltuk = {
+		color={ 115 20 39 }
+		color2={ 220 220 220 }
+		b_tuktoyaltuk = {}
+		}
+		c_inuvik = {
+		color={ 115 4 39 }
+		color2={ 220 220 220 }
+		b_inuvik = {}
+		}
+		c_tetlit_gwichin = {
+		color={ 115 34 39 }
+		color2={ 220 220 220 }
+		b_tetlit_gwichin = {}
+		}
+		c_nacho_nyak_dun = {
+		color={ 115 24 39 }
+		color2={ 220 220 220 }
+		b_nacho_nyak_dun = {}
+		b_nacho_big_island = {}
+		b_nacho_mayo = {}
+		}
+		}
+		d_victorianew = {
+		color={ 100 14 50 }
+		color2={ 220 220 220 }
+		c_victorianew = {
+		color={ 120 14 60 }
+		color2={ 220 220 220 }
+		holy_site=inuit_pagan
+		holy_site=inuit_pagan_reformed
+		b_ulukhaktok = {}
+		b_cambridge_bay = {}
+		}
+		c_prince_of_walles = {
+		color={ 110 14 70 }
+		color2={ 220 220 220 }
+		b_prince_of_walles = {}
+		}
+		c_banks = {
+		color={ 100 14 75 }
+		color2={ 220 220 220 }
+		b_sachs_harbour = {}
+		}
+		c_paulatuk = {
+		color={ 100 14 65 }
+		color2={ 220 220 220 }
+		b_paulatuk = {}
+		}
+		c_kugluktuk = {
+		color={ 100 14 70 }
+		color2={ 220 220 220 }
+		b_kugluktuk = {}
+		}
+		c_wekweeti = {
+		color={ 100 14 30 }
+		color2={ 220 220 220 }
+		b_wekweeti = {}
+		}
+		c_yellowknife = {
+		color={ 100 14 35 }
+		color2={ 220 220 220 }
+		b_yellowknife = {}
+		b_dettah = {}
+		}
+		}
+		d_gjoa = {
+		color={ 100 14 39 }
+		color2={ 220 220 220 }
+		c_gjoa = {
+		color={ 120 14 39 }
+		color2={ 220 220 220 }
+		b_gjoa = {}
+		}
+		c_baker_lakenew = {
+		color={ 98 14 39 }
+		color2={ 220 220 220 }
+		b_baker_lakenew = {}
+		}
+		c_kugaaruk = {
+		color={ 89 14 39 }
+		color2={ 220 220 220 }
+		b_kugaaruk = {}
+		}
+		c_chesterfieldnew = {
+		color={ 85 14 39 }
+		color2={ 220 220 220 }
+		b_chesterfieldnew = {}
+		}
+		c_bathurstnew = {
+		color={ 95 14 39 }
+		color2={ 220 220 220 }
+		b_bathurstnew = {}
+		}
+		c_taloyoak = {
+		color={ 110 14 39 }
+		color2={ 220 220 220 }
+		b_taloyoak = {}
+		b_fort_ross = {}
+		}
+		}
+		d_coral_harbour = {
+		color={ 125 14 39 }
+		color2={ 220 220 220 }
+		c_coral_harbour = {
+		color={ 120 14 39 }
+		color2={ 220 220 220 }
+		b_coral_harbour = {}
+		b_east_bay = {}
+		}
+		c_mansel = {
+		color={ 134 14 39 }
+		color2={ 220 220 220 }
+		b_mansel = {}
+		}
+		c_coats = {
+		color={ 140 14 39 }
+		color2={ 220 220 220 }
+		b_coats = {}
+		}
+		c_naujaat = {
+		color={ 111 14 39 }
+		color2={ 220 220 220 }
+		b_naujaat = {}
+		b_ukkusiksalik = {}
+		}
+		c_sanirajak = {
+		color={ 126 14 39 }
+		color2={ 220 220 220 }
+		b_sanirajak = {}
+		b_Igloolik = {}
+		}
+		}
+		d_qikiqtaaluk = {
+
+			color={ 45 44 79 }
+			color2={ 220 220 220 }
+
+			norse = "Helluland"
+			norwegian = "Helluland"
+			danish = "Helluland"
+			swedish = "Helluland"
+			
+			capital = 3515 # Iqaluit
+			
+			c_iqaluit = {
+				color={ 105 64 79 }
+				color2={ 220 220 220 }
+				
+				b_iqaluit = {
+				}
+				b_niaqunngut = {
+				}
+				b_takuligjuaq = {
+				}
+				b_kipisa = {
+				}
+				b_shakshukuk = {
+				}
+				b_kangigutsak = {
+				}
+				b_opingivik = {
+				}
+			}
+			c_amadjuak = {
+				color={ 135 124 119 }
+				color2={ 220 220 220 }
+
+				holy_site=algic_pagan
+				holy_site=algic_pagan_reformed
+				
+				b_amadjuak = {
+				}
+				b_katanillik = {
+				}
+				b_kimmirut = {
+				}
+				b_kinngait = {
+				}
+				b_sikusiilaq = {
+				}
+				b_mallikjuak = {
+				}
+				b_okolli = {
+				}
+			}
+			c_pangnirtung = {
+				color={ 8 84 19 }
+				color2={ 220 220 220 }
+				
+				b_pangnirtung = {
+				}
+				b_qikiqtarjuaq = {
+				}
+				b_kivitoo = {
+				}
+				b_auyuittuq = {
+				}
+				b_nunaktak = {
+				}
+				b_kekertelung = {
+				}
+				b_kerkertal = {
+				}
+			}
+			c_kanngiqtugaapik = {
+				color={ 215 124 49 }
+				color2={ 220 220 220 }
+				
+				b_kanngiqtugaapik = {
+				}
+				b_ammaluqtuq = {
+				}
+				b_sillem = {
+				}
+				b_aulitivik = {
+				}
+				b_aulitiving = {
+				}
+				b_ukpik = {
+				}
+				b_kisimngiuqtuq = {
+				}
+			}
+			c_ikpiarjuk = {
+				color={ 85 54 53 }
+				color2={ 220 220 220 }
+
+				holy_site=inuit_pagan
+				holy_site=inuit_pagan_reformed
+				
+				b_ikpiarjuk = {
+				}
+				b_nanisivik = {
+				}
+				b_mittimatalik = {
+				}
+				b_shimik = {
+				}
+				b_sirmilik = {
+				}
+				b_kapuivik = {
+				}
+				b_angilaaq = {
+				}
+			}
+		}
+		d_nunavik = {
+
+			color={ 95 144 189 }
+			color2={ 220 220 220 }
+			
+			capital = 3520 # Kuujjuaq
+
+			c_kuujjuaq = {
+				color={ 165 34 89 }
+				color2={ 220 220 220 }
+				
+				b_kuujjuaq = {
+				}
+				b_tasiujaq = {
+				}
+				b_aupaluk = {
+				}
+				b_qikirtajuaq = {
+				}
+				b_qaamanialuk_paanga = {
+				}
+				b_kativik = {
+				}
+				b_kilgavik = {
+				}
+			}
+			c_kangirsuk = {
+				color={ 123 157 134 }
+				color2={ 220 220 220 }
+				
+				b_kangirsuk = {
+				}
+				b_qajartalik = {
+				}
+				b_kangiqsujuaq = {
+				}
+				b_quaqtaq = {
+				}
+				b_akpatok = {
+				}
+				b_tuvaaluk = {
+				}
+				b_pingualuit = {
+				}
+			}
+			c_ivujivik = {
+				color={ 111 36 37 }
+				color2={ 220 220 220 }
+				
+				b_ivujivik = {
+				}
+				b_puvirnituq = {
+				}
+				b_sugluk = {
+				}
+				b_salluit = {
+				}
+				b_akulivik = {
+				}
+				b_pujjunaq = {
+				}
+				b_papiit = {
+				}
+			}
+			c_umiujaq = {
+				color={ 37 78 135 }
+				color2={ 220 220 220 }
+				
+				b_umiujaq = {
+				}
+				b_inukjuak = {
+				}
+				b_inurjuat = {
+				}
+				b_tasiujaqq = {
+				}
+				b_qasigialingat = {
+					cree = "Wiyâšâkamî"
+				}
+				b_tursujuq = {
+				}
+				b_avaqqutaq = {
+				}
+			}
+			c_sanikiluaq = {
+				color={ 189 9 99 }
+				color2={ 220 220 220 }
+				
+				b_sanikiluaq = {
+				}
+				b_kugong = {
+				}
+				b_tukarak = {
+				}
+				b_innetalling = {
+				}
+				b_qutjutuurusiit = {
+				}
+				b_mukpollo = {
+				}
+				b_omarolluk = {
+				}
+			}
+		}
+	}
+}
+
+e_cree = {
+
+	color={ 26 176 154 }
+	color2={ 220 220 220 }
+
+	norse = "Markland"
+	norwegian = "Markland"
+	danish = "Markland"
+	swedish = "Markland"
+
+	capital = 3535 # Sheshatshiu
+	
+	allow={
+	is_colonial = no
+	}
+	
+	k_ojibwe = {
+	color={ 115 216 223 }
+	color2={ 220 220 220 }
+	d_peawanuck = {
+	color={ 90 200 200 }
+	color2={ 220 220 220 }
+	c_goose_creek = {
+	color={ 110 200 200 }
+	color2={ 220 220 220 }
+	b_goose_creek = {}
+	}
+	c_peawanuck = {
+	color={ 90 200 200 }
+	color2={ 220 220 220 }
+	b_peawanuck = {}
+	}
+	c_chamatawa = {
+	color={ 80 200 200 }
+	color2={ 220 220 220 }
+	b_chamatawa = {}
+	}
+	c_webequie = {
+	color={ 120 200 200 }
+	color2={ 220 220 220 }
+	b_webequie = {}
+	}
+	c_wasagamack = {
+	color={ 70 200 200 }
+	color2={ 220 220 220 }
+	b_wasagamack = {}
+	}
+	}
+	d_the_pass = {
+	color={ 110 215 200 }
+	color2={ 220 220 220 }
+	c_southend = {
+	color={ 110 200 200 }
+	color2={ 220 220 220 }
+	b_southendnew = {}
+	b_westlakenew = {}
+	b_reindeernew = {}
+	}
+	c_baker_narrows = {
+	color={ 100 220 215 }
+	color2={ 220 220 220 }
+	b_baker_narrows = {}
+	b_big_island4 = {}
+	b_payuk_lake = {}
+	}
+	c_pikwitonei = {
+	color={ 120 216 220 }
+	color2={ 220 220 220 }
+	b_pikwitonei = {}
+	b_matago = {}
+	b_thompson = {}
+	b_paint_lake = {}
+	b_thicket_portage = {}
+	}
+	c_pukatawagan = {
+	color={ 120 220 216 }
+	color2={ 220 220 220 }
+	b_pukatawagan = {}
+	b_sakastew = {}
+	b_hone = {}
+	b_sandy_bay = {}
+	}
+	c_long_spruce = {
+	color={ 120 225 220 }
+	color2={ 220 220 220 }
+	b_long_spruce = {}
+	b_sundance = {}
+	b_gillam = {}
+	b_bird = {}
+	}
+	c_the_pass = {
+	color={ 120 230 215 }
+	color2={ 220 220 220 }
+	b_the_pass = {}
+	b_big_eddy = {}
+	b_ralls_island = {}
+	b_young_point = {}
+	b_freshford = {}
+	}
+	}
+	d_neepawa = {
+	color={ 100 220 223 }
+	color2={ 220 220 220 }
+	c_neepawa = {
+	color={ 80 220 223 }
+	color2={ 220 220 220 }
+	b_neepawa = {}
+	b_minnedosa = {}
+	b_eden = {}
+	b_arden = {}
+	b_brookdale = {}
+	b_keyes = {}
+	b_birnie = {}
+	}
+	c_minitonas = {
+	color={ 89 220 223 }
+	color2={ 220 220 220 }
+	b_minitonas = {}
+	b_craigsford = {}
+	b_cowan = {}
+	b_lidstone = {}
+	b_kenville = {}
+	b_swan_river = {}
+	}
+	c_skownan = {
+	color={ 75 220 223 }
+	color2={ 220 220 220 }
+	b_skownan = {}
+	b_rock_ridge = {}
+	b_waterhen = {}
+	b_meadow_portage = {}
+	b_homebrook = {}
+	}
+	c_fisher_river = {
+	color={ 100 220 223 }
+	color2={ 220 220 220 }
+	b_fisher_river = {}
+	b_red_rose = {}
+	b_peguis = {}
+	b_harwill = {}
+	b_little_bullhead = {}
+	b_pine_dock = {}
+	b_okno = {}
+	}
+	c_pinawa = {
+	color={ 118 220 223 }
+	color2={ 220 220 220 }
+	b_pinawa = {}
+	b_otter_falls = {}
+	b_nutmik_lake = {}
+	b_lee_river = {}
+	b_poplar_bay = {}
+	b_seven_sister_falls = {}
+	}
+	c_manigotagan = {
+	color={ 110 220 223 }
+	color2={ 220 220 220 }
+	b_manigotagan = {}
+	b_hollow_water = {}
+	b_seymourville = {}
+	b_little_black_river = {}
+	b_wadhope = {}
+	}
+	}
+	d_manitou = {
+	color={ 120 220 210 }
+	color2={ 220 220 220 }
+	c_manitou = {
+	color={ 125 208 210 }
+	color2={ 220 220 220 }
+	b_manitou = {}
+	b_kaleida = {}
+	b_swan_lake = {}
+	b_treherne = {}
+	b_thornhill = {}
+	b_fallison = {}
+	b_mowbray = {}
+	}
+	c_winnipeg = {
+	color={ 125 220 215 }
+	color2={ 220 220 220 }
+	holy_site=subartic_pagan
+	holy_site=subartic_pagan_reformed
+	b_winnipeg = {}
+	b_oak_bluff = {}
+	b_rosser = {}
+	b_niverville = {}
+	b_elie = {}
+	b_starbuck = {}
+	b_dugald = {}
+	}
+	c_kenora = {
+	color={ 125 205 220 }
+	color2={ 220 220 220 }
+	b_kenora = {}
+	b_redditt = {}
+	b_minaki = {}
+	b_laclu = {}
+	b_sioux_narrows = {}
+	b_whitedog = {}
+	b_french_portage = {}
+	}
+	c_atikokan = {
+	color={ 125 210 205 }
+	color2={ 220 220 220 }
+	b_atikokan = {}
+	b_sapawe = {}
+	b_kawene = {}
+	b_steep_rock_lake = {}
+	b_serene_river = {}
+	}
+	c_savant_lake = {
+	color={ 125 200 202 }
+	color2={ 220 220 220 }
+	b_savant_lake = {}
+	b_ignace = {}
+	b_dryden = {}
+	b_new_osnaburgh = {}
+	}
+	c_nipigon = {
+	color={ 125 210 195 }
+	color2={ 220 220 220 }
+	b_nipigon = {}
+	b_red_rocknew = {}
+	b_hurkettnew = {}
+	b_oumetnew = {}
+	b_pearlnew = {}
+	b_cameron_fallsnew = {}
+	}
+	}
+	}
+	k_blackfoot = {
+	color={ 53 47 47 }
+	color2={ 220 220 220 }
+	d_bienfait = {
+	color={ 80 80 60 }
+	color2={ 220 220 220 }
+	c_bienfait = {
+	color={ 76 85 76 }
+	color2={ 220 220 220 }
+	b_bienfait = {}
+	b_foeda = {}
+	b_coalfields = {}
+	b_estevan = {}
+	}
+	c_napinka = {
+	color={ 78 89 90 }
+	color2={ 220 220 220 }
+	b_napinka = {}
+	b_medora = {}
+	b_lauder = {}
+	b_broomhill = {}
+	b_dand = {}
+	}
+	c_waskada = {
+	color={ 84 84 86 }
+	color2={ 220 220 220 }
+	b_waskada = {}
+	b_goodlands = {}
+	b_dalny = {}
+	b_deloraine = {}
+	}
+	c_oak_lake = {
+	color={ 85 75 61 }
+	color2={ 220 220 220 }
+	b_oak_lake = {}
+	b_algar = {}
+	b_griswold = {}
+	b_roufledge = {}
+	b_cherry_point = {}
+	b_lenore = {}
+	}
+	c_ozerna = {
+	color={ 75 79 42 }
+	color2={ 220 220 220 }
+	b_ozerna = {}
+	b_sandy_lake = {}
+	b_rolling_river = {}
+	b_newdale = {}
+	b_strathclair = {}
+	}
+	c_wawanesa = {
+	color={ 80 81 65 }
+	color2={ 220 220 220 }
+	b_wawanesa = {}
+	b_methven = {}
+	b_treesbank = {}
+	b_noble_lake = {}
+	b_nesbitt = {}
+	b_dunrea = {}
+	}
+	}
+	d_ituna = {
+	color={ 80 60 80 }
+	color2={ 220 220 220 }
+	c_boggy_creek = {
+	color={ 53 80 76 }
+	color2={ 220 220 220 }
+	b_boggy_creek = {}
+	b_san_clara = {}
+	b_zelena = {}
+	b_merridale = {}
+	}
+	c_wallaston_lake = {
+	color={ 53 75 76 }
+	color2={ 220 220 220 }
+	b_wallaston_lake = {}
+	}
+	c_clearwater_river = {
+	color={ 53 25 79 }
+	color2={ 220 220 220 }
+	b_clearwater_river = {}
+	b_la_loche = {}
+	b_turnor_lake = {}
+	}
+	c_ituna = {
+	color={ 83 44 73 }
+	color2={ 220 220 220 }
+	b_ituna = {}
+	b_jasmin = {}
+	b_hubbard = {}
+	b_homefield = {}
+	b_winthorpe = {}
+	}
+	c_wadena = {
+	color={ 93 55 75 }
+	color2={ 220 220 220 }
+	b_wadena = {}
+	b_hendon = {}
+	b_kuroki = {}
+	b_margo = {}
+	b_elfros = {}
+	b_kandaharnew = {}
+	}
+	}
+	d_assiniboia = {
+	color={ 80 80 80 }
+	color2={ 220 220 220 }
+	c_assiniboia = {
+	color={ 53 80 72 }
+	color2={ 220 220 220 }
+	b_assiniboia = {}
+	b_maxstone = {}
+	b_congress = {}
+	b_vantage = {}
+	b_cardross = {}
+	b_readlyn = {}
+	}
+	c_regina = {
+	color={ 20 80 89 }
+	color2={ 220 220 220 }
+	b_regina = {}
+	b_pense = {}
+	b_riceton = {}
+	b_lumsden = {}
+	b_avonlea = {}
+	b_bethunenew = {}
+	b_drinkwater = {}
+	}
+	c_nipawin = {
+	color={ 40 80 72 }
+	color2={ 220 220 220 }
+	b_nipawin = {}
+	b_white_fox = {}
+	b_elk_hill = {}
+	b_choiceland = {}
+	b_smeaton = {}
+	b_shipman = {}
+	}
+	c_tyvan = {
+	color={ 65 80 74 }
+	color2={ 220 220 220 }
+	b_tyvan = {}
+	b_fillmorenew = {}
+	b_cedoux = {}
+	b_colfax = {}
+	}
+	c_trossachs = {
+	color={ 25 80 86 }
+	color2={ 220 220 220 }
+	b_trossachs = {}
+	b_yellow_grass = {}
+	b_lang = {}
+	b_radville = {}
+	b_khedive = {}
+	}
+	c_torquay = {
+	color={ 58 80 75 }
+	color2={ 220 220 220 }
+	b_torquay = {}
+	b_oungre = {}
+	b_ratcliffe = {}
+	b_beaubier = {}
+	b_colgan = {}
+	}
+	}
+	}
+	k_nitassinan = {
+
+		color={ 123 144 166 }
+		color2={ 220 220 220 }
+
+		capital = 3535 # Sheshatshiu
+
+		norse = "Markland"
+		norwegian = "Markland"
+		danish = "Markland"
+		swedish = "Markland"
+
+		d_eeyou_istchee = {
+
+			color={ 125 164 37 }
+			color2={ 220 220 220 }
+			
+			capital = 3528 # Nemaska
+
+			c_chisasibi = {
+				color={ 15 74 149 }
+				color2={ 220 220 220 }
+				
+				b_chisasibi = {
+					cree = "Cisâsîpî"
+				}
+				b_ismein = {
+					cree = "Îsmein"
+				}
+				b_wemindji = {
+					cree = "Wîminicî"
+				}
+				b_sakami = {
+				}
+				b_metawatikwa = {
+				}
+				b_anistusikwasich = {
+				}
+				b_kachamiskusich = {
+				}
+			}
+			c_whapmagoostui = {
+				color={ 125 19 219 }
+				color2={ 220 220 220 }
+
+				cree = "Wâpimâkuštui"
+				inuit = "Kuujjuarapik"
+				
+				b_whapmagoostui = {
+					cree = "Wâpimâkuštui"
+				}
+				b_kuujjuarapik = {
+				}
+				b_wimin = {
+				}
+				b_amistustikwach = {
+				}
+				b_manitounuk = {
+				}
+				b_mistawatim = {
+				}
+				b_upasi = {
+				}
+			}
+			c_nichicun = {
+				color={ 85 32 184 }
+				color2={ 220 220 220 }
+				
+				b_nichicun = {
+				}
+				b_apisikamis = {
+					cree = "Apišikamîš"
+				}
+				b_petagumksun = {
+				}
+				b_amistustikwachh = {
+				}
+				b_uchikwachikanan = {
+				}
+				b_kausapachuun = {
+				}
+				b_aminapustasich = {
+				}
+			}
+			c_nemaska = {
+				color={ 131 211 18 }
+				color2={ 220 220 220 }
+
+				cree = "Nemiskâw"
+				frankish = "Nemiscau"
+				
+				b_nemaska = {
+					cree = "Nemiskâw"
+					frankish = "Nemiscau"
+				}
+				b_mistissini = {
+					cree = "Mistisinî"
+				}
+				b_chibougamau = {
+					cree = "Ûcêpukumû"
+					frankish = "Oujé-Bougoumou"
+				}
+				b_waswanipi = {
+					cree = "Wâswânipî"
+				}
+				b_obalski = {
+				}
+				b_opemisca = {
+				}
+				b_maaskitkuu = {
+				}
+			}
+			c_waskaganish = {
+				color={ 76 154 185 }
+				color2={ 220 220 220 }
+
+				holy_site=algic_pagan
+				holy_site=algic_pagan_reformed
+				holy_site=subartic_pagan
+				holy_site=subartic_pagan_reformed
+				cree = "Wâskâhîkaniš"
+				
+				b_waskaganish = {
+					cree = "Wâskâhîkaniš"
+				}
+				b_matagami = {
+				}
+				b_sesitinikastikw = {
+				}
+				b_tekakwitha = {
+				}
+				b_kakupanchish = {
+				}
+				b_uschiskash = {
+				}
+				b_nitauchichikan = {
+				}
+			}
+			c_mosoni = {
+				color={ 92 91 135 }
+				color2={ 220 220 220 }
+				
+				b_mosoni = {
+				}
+				b_sonbialenyu = {
+				}
+				b_jiekpiqkeyte = {
+				}
+				b_kistanhouvl = {
+				}
+				b_sarintukleho = {
+				}
+			}
+		}
+		d_nunatsiavut = {
+
+			color={ 13 58 156 }
+			color2={ 220 220 220 }
+			
+			capital = 3532 # Nunajnguk
+
+			c_kangiqsualujjuaq = {
+				color={ 35 44 179 }
+				color2={ 220 220 220 }
+				
+				b_kangiqsualujjuaq = {
+				}
+				b_sangumaniq = {
+				}
+				b_kaminikatau = {
+				}
+				b_ukalirsitik = {
+				}
+				b_uummanaq = {
+				}
+				b_akulliaq = {
+				}
+				b_matshishkam = {
+				}
+			}
+			c_killiniq = {
+				color={ 197 18 46 }
+				color2={ 220 220 220 }
+				
+				b_killiniq = {
+				}
+				b_nuvotannak = {
+				}
+				b_korok = {
+				}
+				b_nuvukulluk = {
+				}
+				b_upernavik = {
+				}
+				b_torngat = {
+				}
+				b_kuururjuaq = {
+				}
+			}
+			c_nunajnguk = {
+				color={ 165 154 219 }
+				color2={ 220 220 220 }
+
+				innu = "Natuashish"
+				
+				b_nunajnguk = {
+				}
+				b_nutak = {
+				}
+				b_okak = {
+				}
+				b_iluikoyak = {
+					innu = "Natuashish"
+				}
+				b_umiakovik = {
+				}
+				b_sungilik = {
+				}
+				b_kotannak = {
+				}
+			}
+			c_agvituk = {
+				color={ 34 18 10 }
+				color2={ 220 220 220 }
+				
+				b_agvituk = {
+				}
+				b_kikiaq = {
+				}
+				b_qipuqqaq = {
+				}
+				b_maquuvik = {
+				}
+				b_aillik = {
+				}
+				b_nuvutsuakulluk = {
+				}
+				b_onartok = {
+				}
+			}
+		}
+		d_nitassinan = {
+
+			color={ 123 186 165 }
+			color2={ 220 220 220 }
+			
+			capital = 3535 # Sheshatshiu
+
+			norse = "Markland"
+			norwegian = "Markland"
+			danish = "Markland"
+			swedish = "Markland"
+
+			c_kawawachikamach = {
+				color={ 86 196 234 }
+				color2={ 220 220 220 }
+
+				innu = "Kawâwâchikamach"
+				
+				b_kawawachikamach = {
+					innu = "Kawâwâchikamach"
+				}
+				b_kamistiatusset = {
+				}
+				b_menihek = {
+				}
+				b_patshishetshuanau = {
+				}
+				b_matimekosh = {
+				}
+				b_ashuanipi = {
+				}
+				b_opocopa = {
+				}
+			}
+			c_sheshatshiu = {
+				color={ 197 44 79 }
+				color2={ 220 220 220 }
+
+				inuit = "Vâli"
+				
+				b_sheshatshiu = {
+					inuit = "Vâli"
+				}
+				b_minipi = {
+				}
+				b_uapahkueh = {
+				}
+				b_uaunukuh = {
+				}
+				b_natuaiahu = {
+				}
+				b_kahtsheuiapuhtshuenakan = {
+				}
+				b_uahaihtshuakat = {
+				}
+			}
+			c_pakuashipi = {
+				color={ 110 156 47 }
+				color2={ 220 220 220 }
+				
+				b_pakuashipi = {
+				}
+				b_shekatika = {
+				}
+				b_natsitok = {
+				}
+				b_akamiuapishkua = {
+				}
+				b_kikkertet = {
+				}
+				b_etagaulet = {
+				}
+				b_wapustagamau = {
+				}
+			}
+			c_unamenshipit = {
+				color={ 181 23 43 }
+				color2={ 220 220 220 }
+				
+				b_unamenshipit = {
+				}
+				b_natashquan = {
+				}
+				b_kegashka = {
+				}
+				b_coacoachou = {
+				}
+				b_mistahini = {
+				}
+				b_nakamistshetshuant = {
+				}
+				b_uemahtan = {
+				}
+			}
+		}
+		d_neenoilno = {
+
+			color={ 174 34 29 }
+			color2={ 220 220 220 }
+			
+			capital = 3540 # Chicoutimi
+
+			atikamekw = "Nitaskinan"
+
+			c_uashat = {
+				color={ 11 66 99 }
+				color2={ 220 220 220 }
+				
+				b_uashat = {
+				}
+				b_maliotenam = {
+					innu = "Mani-Utenam"
+				}
+				b_ekuantshit = {
+				}
+				b_uhatnihip = {
+				}
+				b_ehkuapustet = {
+				}
+				b_uhukanatshehu = {
+				}
+				b_uashatuess = {
+				}
+			}
+			c_pessamit = {
+				color={ 22 111 222 }
+				color2={ 220 220 220 }
+				
+				b_pessamit = {
+				}
+				b_mushalagan = {
+				}
+				b_kaupashkueiat = {
+				}
+				b_manic_cinq = {
+				}
+				b_kashipiautshemus = {
+				}
+				b_micoua = {
+				}
+				b_kaiashashkupat = {
+				}
+			}
+			c_chicoutimi = {
+				color={ 54 187 16 }
+				color2={ 220 220 220 }
+				
+				b_chicoutimi = {
+				}
+				b_mashteuiatsh = {
+				}
+				b_essipit = {
+				}
+				b_ouiatchouan = {
+				}
+				b_tadoussac = {
+					innu = "Totouskak"
+					mikmaq = "Gtatosag"
+				}
+				b_piekuakami = {
+				}
+				b_peribonka = {
+					innu = "Pelipaukau"
+				}
+			}
+			c_nitaskinan = {
+				color={ 13 47 119 }
+				color2={ 220 220 220 }
+				
+				b_obedjiwan = {
+					atikamekw = "Opitciwan"
+				}
+				b_manawan = {
+				}
+				b_wemotaci = {
+				}
+				b_ushabatshuan = {
+				}
+				b_coucoucache = {
+					atikamekw = "Kôkôkachi"
+				}
+				b_matawin = {
+				}
+				b_oskelaneo = {
+					atikamekw = "Oskélanéo"
+				}
+			}
+			c_stadacona = {
+				color={ 42 141 232 }
+				color2={ 220 220 220 }
+				
+				b_stadacona = {
+				}
+				b_veussalena = {
+				}
+				b_kupnaliano = {
+				}
+				b_couklataper = {
+				}
+				b_vekkiperala = {
+				}
+			}
+			c_maisouna = {
+				color={ 52 41 82 }
+				color2={ 220 220 220 }
+				
+				b_maisouna = {
+				}
+				b_serenleperi = {
+				}
+				b_duffalama = {
+				}
+				b_denzlemeno = {
+				}
+				b_kunskurtla = {
+				}
+			}
+		}
+	}
+	k_abitibi = {
+
+		color={ 47 134 116 }
+		color2={ 220 220 220 }
+
+		capital = 3644 # Abitbi
+
+		d_abitibi = {
+
+			color={ 114 74 89 }
+			color2={ 220 220 220 }
+			
+			capital = 3644 # Abitbi
+
+			c_abitbi = {
+				color={ 31 86 149 }
+				color2={ 220 220 220 }
+				
+				b_abitbi = {
+				}
+				b_veskutetieuke = {
+				}
+				b_arabiabian = {
+				}
+				b_damanerenee = {
+				}
+				b_quduphanei = {
+				}
+			}
+			c_kesagami = {
+				color={ 122 161 212 }
+				color2={ 220 220 220 }
+				
+				b_kesagami = {
+				}
+				b_tuslamaebee= {
+				}
+				b_vikjottorolo = {
+				}
+				b_tentlepiorsa = {
+				}
+				b_poypuilakae = {
+				}
+			}
+			c_piscatang = {
+				color={ 164 157 126 }
+				color2={ 220 220 220 }
+				
+				b_piscatang = {
+				}
+				b_justuspuklunt = {
+				}
+				b_kemmiavone = {
+				}
+				b_daveotmurrik = {
+				}
+				b_klumpekteqlee = {
+				}
+			}
+			c_shaggami = {
+				color={ 116 17 59 }
+				color2={ 220 220 220 }
+				
+				b_shaggami = {
+				}
+				b_zuhreminitin = {
+				}
+				b_wokikikkiti = {
+				}
+				b_asteplenthert = {
+				}
+				b_ceynclenqik = {
+				}
+			}
+			c_outoulibi = {
+				color={ 72 91 22 }
+				color2={ 220 220 220 }
+				
+				b_outoulibi = {
+				}
+				b_daskistpeluk = {
+				}
+				b_tiraiegiyn = {
+				}
+				b_suptuiklenjeqe = {
+				}
+				b_pirimekinsipii = {
+				}
+			}
+			c_attawapiskat = {
+				color={ 142 101 124 }
+				color2={ 220 220 220 }
+				
+				b_attawapiskat = {
+				}
+				b_duhjeinnerekee = {
+				}
+				b_bitarlanskece = {
+				}
+				b_jukiqinpore = {
+				}
+				b_sihoturpincley = {
+				}
+			}
+			c_timiskaming = {
+				color={ 172 111 82 }
+				color2={ 220 220 220 }
+				
+				b_timiskaming = {
+				}
+				b_baneletingle = {
+				}
+				b_hagyetleyn = {
+				}
+				b_jinasunutturrein = {
+				}
+				b_vorontokkoq = {
+				}
+			}
+		}
+		d_ontario = {
+
+			color={ 164 44 137 }
+			color2={ 220 220 220 }
+			
+			capital = 3655 # Ontario
+
+			c_ontario = {
+				color={ 51 46 186 }
+				color2={ 220 220 220 }
+				
+				b_ontario = {
+				}
+				b_denzkiqejern = {
+				holy_site = methodist
+				}
+				b_dindirrena = {
+				}
+				b_qipikleanner = {
+				}
+				b_buggelenmpie = {
+				}
+			}
+			c_kichesipi = {
+				color={ 12 145 165 }
+				color2={ 220 220 220 }
+				
+				b_kichesipi = {
+				}
+				b_kujtuipireo= {
+				}
+				b_lelepirenteqe = {
+				}
+				b_vuskuspturrea = {
+				}
+				b_meijjepket = {
+				}
+			}
+			c_hochelaga = {
+				color={ 48 65 133 }
+				color2={ 220 220 220 }
+				
+				b_hochelaga = {
+				}
+				b_bikkietekren = {
+				}
+				b_sentesouekw = {
+				}
+				b_tkapisbitmie = {
+				}
+				b_piabgamhes = {
+				}
+			}
+			c_algonquin = {
+				color={ 76 147 18 }
+				color2={ 220 220 220 }
+				
+				b_algonquin = {
+				}
+				b_mopocsokonei = {
+				}
+				b_pistalakhuro = {
+				}
+				b_hipocpemais = {
+				}
+				b_atonriroage = {
+				}
+			}
+			c_nipissing = {
+				color={ 52 131 49 }
+				color2={ 220 220 220 }
+				
+				b_nipissing = {
+				}
+				b_trajunoknia = {
+				}
+				b_shoegmonuna = {
+				}
+				b_mictiamyon = {
+				}
+				b_hokegtongane = {
+				}
+			}
+			c_soto = {
+				color={ 152 44 96 }
+				color2={ 220 220 220 }
+				
+				b_soto = {
+				}
+				b_beggileanpik = {
+				}
+				b_nimieantoro = {
+				}
+				b_kukijiqekepo = {
+				}
+				b_zanksepioiti = {
+				}
+			}
+			c_delnkepnemer = {
+				color={ 132 141 167 }
+				color2={ 220 220 220 }
+				
+				b_delnkepnemer = {
+				}
+				b_okhoaioto = {
+				}
+				b_veybengoktie = {
+				}
+				b_itirpenkneetent = {
+				}
+			}
+		}
+		d_huronia = {
+
+			color={ 54 64 25 }
+			color2={ 220 220 220 }
+			
+			capital = 3660 # Huron
+
+			c_huron = {
+				color={ 71 116 213 }
+				color2={ 220 220 220 }
+				
+				b_huron = {
+				}
+				b_veikpiqertle = {
+				}
+				b_ooperento = {
+				}
+				b_jepjeiklan = {
+				}
+				b_beunnaqlape = {
+				}
+			}
+			c_missisage = {
+				color={ 32 95 88 }
+				color2={ 220 220 220 }
+				
+				b_missisage = {
+				}
+				b_heahakkep= {
+				}
+				b_ertyopinip = {
+				}
+				b_ooijlentek = {
+				}
+				b_keagtowaus = {
+				}
+			}
+			c_tionontate = {
+				color={ 58 165 175 }
+				color2={ 220 220 220 }
+				
+				b_tionontate = {
+				}
+				b_wacaganibi = {
+				}
+				b_cermoouappu = {
+				}
+				b_suakouling = {
+				}
+				b_weteonran = {
+				}
+			}
+			c_odawa = {
+				color={ 17 27 38 }
+				color2={ 220 220 220 }
+				
+				b_odawa = {
+				}
+				b_tasatourebi = {
+				}
+				b_wajiwayota = {
+				}
+				b_maerihoake = {
+				}
+				b_biretoneepi = {
+				}
+			}
+			c_tkaronto = {
+				color={ 44 163 64 }
+				color2={ 220 220 220 }
+				
+				b_tkaronto = {
+				}
+				b_bipestenklepis = {
+				}
+				b_tobigamangon = {
+				}
+				b_kogaminwaji = {
+				}
+				b_appotonoke = {
+				}
+			}
+			c_niagara = {
+				color={ 182 214 59 }
+				color2={ 220 220 220 }
+				
+				b_niagara = {
+				}
+				b_senigoamos = {
+				}
+				b_apusouwa = {
+				}
+				b_weyotriehonra = {
+				}
+				b_issingtoonwa = {
+				}
+			}
+			c_potawatomi = {
+				color={ 142 174 34 }
+				color2={ 220 220 220 }
+				
+				b_potawatomi = {
+				}
+				b_vascucurrerrast = {
+				}
+				b_aounmgenjlenke = {
+				}
+				b_assikespispierew = {
+				}
+				b_oflenkbitakokuikle = {
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,37 @@
+# County Title
+title = c_zapotec
+
+# Settlements
+max_settlements = 6
+b_zapotec = castle
+b_zapotec-ii = city
+b_zapotec-iii = temple
+b_zapotec-iv = castle
+b_zapotec-v = city
+b_zapotec-vi = castle
+# Misc
+culture = zapotek
+religion = zapotec_pagan
+
+# History
+1.1.1 = {
+	build_wonder = wonder_zapotec_pyramid
+	set_wonder_name = ALBAN
+	set_wonder_description = ALBANDESC
+	set_wonder_stage = 1
+}
+100.1.1= {
+	set_wonder_stage = 2
+}
+200.1.1= {
+	set_wonder_stage = 3
+}
+300.1.1= {
+	set_wonder_stage = 4
+}
+500.1.1 = {
+	set_wonder_damaged = yes
+	remove_settlement = b_zapotec-iv
+	remove_settlement = b_zapotec-v 
+	remove_settlement = b_zapotec-vi 
+}

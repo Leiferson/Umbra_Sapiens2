@@ -1,0 +1,2640 @@
+decisions = {
+vassalize_knights_of_christ = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_knights_christ
+			
+			
+			any_demesne_title = {
+				higher_tier_than = DUKE
+				region = world_europe_west_iberia
+			}
+			
+			OR = {
+				religion = catholic
+				religion = cathar
+				religion = fraticelli
+				religion = waldensian
+				religion = lollard
+			}
+
+			NOT = { has_character_modifier = expelled_d_knights_christ }
+
+			d_knights_christ = {
+				holder_scope = {
+					independent = yes
+				}
+			}
+
+			NOT = {
+				d_knights_christ = {
+					owner = {
+						has_opinion_modifier = {
+							who = ROOT
+							modifier = opinion_unfit_ruler
+						}
+					}
+				}
+			}
+
+			OR = {
+				has_landed_title = b_ribatejo-iii
+				any_realm_lord = {
+					has_landed_title = b_ribatejo-iii
+				}
+				d_knights_avis = {
+					holder_scope = {
+						OR = {
+							has_landed_title = b_ribatejo-iii
+							any_realm_lord = {
+								has_landed_title = b_ribatejo-iii
+							}
+						}
+					}
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			is_heretic = no
+			culture = portuguese
+			independent = yes
+
+			conditional_tooltip = {
+				trigger = {
+					NOT = {
+						d_knights_christ = {
+							holder_scope = {
+								opinion = {
+									who = ROOT
+									value = 25
+								}
+							}
+						}
+					}
+				}
+
+				custom_tooltip = {
+					text = vassalize_knights_christ_opinion_TT
+
+					d_knights_templar = {
+						holder_scope = {
+							opinion = {
+								who = ROOT
+								value = 25
+							}
+						}
+					}
+				}
+			}
+			NOT = {
+				trait = excommunicated
+			}
+
+			custom_tooltip = {
+				text = only_one_vassalized_holy_order_TT
+
+				NOT = {
+					any_realm_lord = {
+						holy_order = yes
+					}
+				}
+			}
+		}
+		effect = {
+			wealth = -300
+
+			d_knights_christ = {
+				show_scope_change = no
+				holder_scope = {
+					show_scope_change = no
+					grant_title_no_opinion = b_ribatejo-iii
+				}
+			}
+
+			hidden_tooltip = {
+				d_knights_christ = {
+					save_event_target_as = grandmaster_of_christ
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+
+				b_ribatejo-iii = {
+					any_direct_de_jure_vassal_title = {
+						limit = {
+							owner = {
+								OR = {
+									character = ROOT
+									any_liege = {
+										character = ROOT
+									}
+								}
+							}
+						}
+						if = {
+							limit = {
+								owner = {
+									character = ROOT
+								}
+							}
+							if = {
+								limit = {
+									holding_type = CITY
+								}
+								create_random_steward = {
+									random_traits = yes
+									dynasty = random
+								}
+							}
+							else_if = {
+								limit = {
+									holding_type = TEMPLE
+								}
+								create_random_priest = {
+									random_traits = yes
+									dynasty = random
+								}
+							}
+							else = {
+								create_random_soldier = {
+									random_traits = yes
+									dynasty = random
+								}
+							}
+							new_character = {
+								grant_title_no_opinion = PREV
+								set_defacto_liege = event_target:grandmaster_of_christ
+							}
+						}
+						else_if = {
+							limit = {
+								owner = {
+									NOT = {
+										character = ROOT
+									}
+								}
+							}
+							owner = {
+								set_defacto_liege = event_target:grandmaster_of_christ
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+vassalize_knights_of_avis = {
+		is_high_prio = yes
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_title_active = d_knights_avis
+			
+			
+			any_demesne_title = {
+				higher_tier_than = DUKE
+				region = world_europe_west_iberia
+			}
+			
+			OR = {
+				religion = catholic
+				religion = cathar
+				religion = fraticelli
+				religion = waldensian
+				religion = lollard
+			}
+
+			NOT = { has_character_modifier = expelled_d_knights_avis }
+
+			d_knights_avis = {
+				holder_scope = {
+					independent = yes
+				}
+			}
+
+			NOT = {
+				d_knights_avis = {
+					owner = {
+						has_opinion_modifier = {
+							who = ROOT
+							modifier = opinion_unfit_ruler
+						}
+					}
+				}
+			}
+
+			OR = {
+				has_landed_title = b_portalegre-ii
+				any_realm_lord = {
+					has_landed_title = b_portalegre-ii
+				}
+				d_knights_avis = {
+					holder_scope = {
+						OR = {
+							has_landed_title = b_portalegre-ii
+							any_realm_lord = {
+								has_landed_title = b_portalegre-ii
+							}
+						}
+					}
+				}
+			}
+
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			war = no
+			wealth = 300
+			is_heretic = no
+			culture = portuguese
+			independent = yes
+
+			conditional_tooltip = {
+				trigger = {
+					NOT = {
+						d_knights_avis = {
+							holder_scope = {
+								opinion = {
+									who = ROOT
+									value = 25
+								}
+							}
+						}
+					}
+				}
+
+				custom_tooltip = {
+					text = vassalize_knights_avis_opinion_TT
+
+					d_knights_templar = {
+						holder_scope = {
+							opinion = {
+								who = ROOT
+								value = 25
+							}
+						}
+					}
+				}
+			}
+			NOT = {
+				trait = excommunicated
+			}
+
+			custom_tooltip = {
+				text = only_one_vassalized_holy_order_TT
+
+				NOT = {
+					any_realm_lord = {
+						holy_order = yes
+					}
+				}
+			}
+		}
+		effect = {
+			wealth = -300
+
+			d_knights_avis = {
+				show_scope_change = no
+				holder_scope = {
+					show_scope_change = no
+					grant_title_no_opinion = b_portalegre-ii
+				}
+			}
+
+			hidden_tooltip = {
+				d_knights_avis = {
+					save_event_target_as = grandmaster_of_avis
+					holder_scope = {
+						wealth = 300
+					}
+					set_defacto_liege = ROOT
+				}
+
+				b_portalegre-ii = {
+					any_direct_de_jure_vassal_title = {
+						limit = {
+							owner = {
+								OR = {
+									character = ROOT
+									any_liege = {
+										character = ROOT
+									}
+								}
+							}
+						}
+						if = {
+							limit = {
+								owner = {
+									character = ROOT
+								}
+							}
+							if = {
+								limit = {
+									holding_type = CITY
+								}
+								create_random_steward = {
+									random_traits = yes
+									dynasty = random
+								}
+							}
+							else_if = {
+								limit = {
+									holding_type = TEMPLE
+								}
+								create_random_priest = {
+									random_traits = yes
+									dynasty = random
+								}
+							}
+							else = {
+								create_random_soldier = {
+									random_traits = yes
+									dynasty = random
+								}
+							}
+							new_character = {
+								grant_title_no_opinion = PREV
+								set_defacto_liege = event_target:grandmaster_of_avis
+							}
+						}
+						else_if = {
+							limit = {
+								owner = {
+									NOT = {
+										character = ROOT
+									}
+								}
+							}
+							owner = {
+								set_defacto_liege = event_target:grandmaster_of_avis
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+create_avis_order = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1174
+			is_portugal = yes
+			NOT = { is_title_active = d_knights_avis }
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				piety = 250
+			}
+			wealth = 250
+		}
+		effect = {
+			wealth = -250
+			piety = 250
+			activate_title = {
+			title = d_knights_avis
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			}
+			new_character = { gain_title = d_knights_avis }
+			d_knights_avis = { set_defacto_liege = ROOT }			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_christ_order = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1318
+			is_portugal = yes
+			NOT = { is_title_active = d_knights_christ }
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				piety = 250
+			}
+			wealth = 250
+		}
+		effect = {
+			wealth = -250
+			piety = 250
+			activate_title = {
+			title = d_knights_christ
+			status = yes
+							}
+			create_character = {
+			random_traits = yes
+			religion = ROOT
+			culture = ROOT
+			female = no
+			age = 25
+			}
+			new_character = { gain_title = d_knights_christ }
+			d_knights_christ = { set_defacto_liege = ROOT }		
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+change_portugal_2 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1143
+			has_landed_title = k_portugal
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal = {
+			any_de_jure_liege_title = {
+			k_portugal_2 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_2 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_2
+			}
+			destroy_landed_title = k_portugal
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+change_portugal_3 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1185
+			has_landed_title = k_portugal_2
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_2 = {
+			any_de_jure_liege_title = {
+			k_portugal_3 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_3 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_2
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_3
+			}
+			destroy_landed_title = k_portugal_2
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_4 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1248 
+			has_landed_title = k_portugal_3
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_3 = {
+			any_de_jure_liege_title = {
+			k_portugal_4 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_4 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_3
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_4
+			}
+			destroy_landed_title = k_portugal_3
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_5 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1385 
+			has_landed_title = k_portugal_4
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_4 = {
+			any_de_jure_liege_title = {
+			k_portugal_5 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_5 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_4
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_5
+			}
+			destroy_landed_title = k_portugal_4
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+change_portugal_6 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1485  
+			has_landed_title = k_portugal_5
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_5 = {
+			any_de_jure_liege_title = {
+			k_portugal_6 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_6 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_5
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_6
+			}
+			destroy_landed_title = k_portugal_5
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+change_portugal_7 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1495  
+			has_landed_title = k_portugal_6
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_6 = {
+			any_de_jure_liege_title = {
+			k_portugal_7 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_7 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_6
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_7
+			}
+			destroy_landed_title = k_portugal_6
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_8 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1521  
+			has_landed_title = k_portugal_7
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_7 = {
+			any_de_jure_liege_title = {
+			k_portugal_8 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_8 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_7
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_8
+			}
+			destroy_landed_title = k_portugal_7
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_9 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1578  
+			has_landed_title = k_portugal_8
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_8 = {
+			any_de_jure_liege_title = {
+			k_portugal_9 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_9 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_8
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_9
+			}
+			destroy_landed_title = k_portugal_8
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_10 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1616  
+			has_landed_title = k_portugal_9
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_9 = {
+			any_de_jure_liege_title = {
+			k_portugal_10 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_10 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_9
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_10
+			}
+			destroy_landed_title = k_portugal_9
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_11 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1640  
+			has_landed_title = k_portugal_10
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_10 = {
+			any_de_jure_liege_title = {
+			k_portugal_11 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_11 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_10
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_11
+			}
+			destroy_landed_title = k_portugal_10
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_12 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1706  
+			has_landed_title = k_portugal_11
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_11 = {
+			any_de_jure_liege_title = {
+			k_portugal_12 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_12 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_11
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_12
+			}
+			destroy_landed_title = k_portugal_11
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_13 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1750  
+			has_landed_title = k_portugal_12
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_12 = {
+			any_de_jure_liege_title = {
+			k_portugal_13 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_13 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_12
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_13
+			}
+			destroy_landed_title = k_portugal_12
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_14 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1816  
+			has_landed_title = k_portugal_13
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_13 = {
+			any_de_jure_liege_title = {
+			k_portugal_14 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_14 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_13
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_14
+			}
+			destroy_landed_title = k_portugal_13
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_15 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1834  
+			has_landed_title = k_portugal_14
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_14 = {
+			any_de_jure_liege_title = {
+			k_portugal_15 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_15 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_14
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_15
+			}
+			destroy_landed_title = k_portugal_14
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_16 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1834  
+			has_landed_title = k_portugal_15
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_portugal_15 = {
+			any_de_jure_liege_title = {
+			k_portugal_16 = {
+			de_jure_liege = PREV
+			}
+			}
+			}
+			k_portugal_16 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_portugal_15
+			}
+				show_scope_change = no
+				de_jure_liege = k_portugal_16
+			}
+			destroy_landed_title = k_portugal_15
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+create_portuguese_empire = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 6
+		
+		potential = { 
+			OR = {
+			has_landed_title = k_portugal
+			has_landed_title = k_portugal_2
+			has_landed_title = k_portugal_3
+			has_landed_title = k_portugal_4
+			has_landed_title = k_portugal_5
+			has_landed_title = k_portugal_6
+			has_landed_title = k_portugal_7
+			has_landed_title = k_portugal_8
+			has_landed_title = k_portugal_9
+			has_landed_title = k_portugal_10
+			has_landed_title = k_portugal_11
+			has_landed_title = k_portugal_12
+			has_landed_title = k_portugal_13
+			has_landed_title = k_portugal_14
+			has_landed_title = k_portugal_15
+			has_landed_title = k_portugal_16
+			}
+			AND = { 
+			e_portugal = { has_holder = no }
+			e_portugal_2 = { has_holder = no }
+			e_portugal_3 = { has_holder = no }
+			e_portugal_4 = { has_holder = no }
+			e_portugal_5 = { has_holder = no }
+			e_portugal_6 = { has_holder = no }
+			e_portugal_7 = { has_holder = no }
+			e_portugal_8 = { has_holder = no }
+			e_portugal_9 = { has_holder = no }
+			e_portugal_10 = { has_holder = no }
+			e_portugal_11 = { has_holder = no }
+			e_portugal_12 = { has_holder = no }
+			e_portugal_13 = { has_holder = no }
+			e_portugal_14 = { has_holder = no }
+			e_portugal_15 = { has_holder = no }
+			e_portugal_16 = { has_holder = no }
+			}
+			culture = portuguese
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			num_of_king_titles >= 2
+			NOT = {
+				trait = incapable
+			}
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				wealth = 250
+			}
+		}
+		effect = {
+			wealth = -250
+			prestige = 250
+			if = {
+			limit = { has_landed_title = k_portugal }
+			k_portugal = {
+			de_jure_liege = e_portugal
+			}
+			e_portugal = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_2 }
+			k_portugal_2 = {
+			de_jure_liege = e_portugal_2
+			}
+			e_portugal_2 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_2
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_3 }
+			k_portugal_3 = {
+			de_jure_liege = e_portugal_3
+			}
+			e_portugal_3 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_3
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_4 }
+			k_portugal_4 = {
+			de_jure_liege = e_portugal_4
+			}
+			e_portugal_4 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_4
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_5 }
+			k_portugal_5 = {
+			de_jure_liege = e_portugal_5
+			}
+			e_portugal_5 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_5
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_6 }
+			k_portugal_6 = {
+			de_jure_liege = e_portugal_6
+			}
+			e_portugal_6 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_6
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_7 }
+			k_portugal_7 = {
+			de_jure_liege = e_portugal_7
+			}
+			e_portugal_7 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_7
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_8 }
+			k_portugal_8 = {
+			de_jure_liege = e_portugal_8
+			}
+			e_portugal_8 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_8
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_9 }
+			k_portugal_9 = {
+			de_jure_liege = e_portugal_9
+			}
+			e_portugal_9 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_9
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_10 }
+			k_portugal_10 = {
+			de_jure_liege = e_portugal_10
+			}
+			e_portugal_10 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_10
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_11 }
+			k_portugal_11 = {
+			de_jure_liege = e_portugal_11
+			}
+			e_portugal_11 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_11
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_12 }
+			k_portugal_12 = {
+			de_jure_liege = e_portugal_12
+			}
+			e_portugal_12 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_12
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_13 }
+			k_portugal_13 = {
+			de_jure_liege = e_portugal_13
+			}
+			e_portugal_13 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_13
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_14 }
+			k_portugal_14 = {
+			de_jure_liege = e_portugal_14
+			}
+			e_portugal_14 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_14
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_15 }
+			k_portugal_15 = {
+			de_jure_liege = e_portugal_15
+			}
+			e_portugal_15 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_15
+			}
+			if = {
+			limit = { has_landed_title = k_portugal_16 }
+			k_portugal_16 = {
+			de_jure_liege = e_portugal_16
+			}
+			e_portugal_16 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			destroy_landed_title = k_portugal_16
+			}
+		}
+		ai_will_do = {
+			factor = 1000
+			modifier = {
+			factor = 0
+			culture = castillan
+					}
+		}
+	}
+organize_university_coimbra = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+		159 = { has_wonder = no }
+			is_portugal = yes
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			controls = 159
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 800
+		}
+		effect = {
+			wealth = -800
+			prestige = 500
+			159 = {
+			add_wonder = wonder_coimbra
+			}
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+change_portugal_empire_2 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1143
+			has_landed_title = e_portugal
+			
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_2 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_2
+			}
+			destroy_landed_title = e_portugal
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+change_portugal_empire_3 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1185
+			has_landed_title = e_portugal_2
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_3 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_2
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_3
+			}
+			destroy_landed_title = e_portugal_2
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_empire_4 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1248 
+			has_landed_title = e_portugal_3
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_4 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_3
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_4
+			}
+			destroy_landed_title = e_portugal_3
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_empire_5 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1385 
+			has_landed_title = e_portugal_4
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_5 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_4
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_5
+			}
+			destroy_landed_title = e_portugal_4
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+change_portugal_empire_6 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1485
+			has_landed_title = e_portugal_5
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_6 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_5
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_6
+			}
+			destroy_landed_title = e_portugal_5
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+change_portugal_empire_7 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1495  
+			has_landed_title = e_portugal_6
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_7 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_6
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_7
+			}
+			destroy_landed_title = e_portugal_6
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_empire_8 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1521  
+			has_landed_title = e_portugal_7
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_8 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_7
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_8
+			}
+			destroy_landed_title = e_portugal_7
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_empire_9 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1578  
+			has_landed_title = e_portugal_8
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_9 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_8
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_9
+			}
+			destroy_landed_title = e_portugal_8
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_empire_10 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1616  
+			has_landed_title = e_portugal_9
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_10 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_9
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_10
+			}
+			destroy_landed_title = e_portugal_9
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_empire_11 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1640  
+			has_landed_title = e_portugal_10
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_11 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_10
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_11
+			}
+			destroy_landed_title = e_portugal_10
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_empire_12 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1706  
+			has_landed_title = e_portugal_11
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_12 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_11
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_12
+			}
+			destroy_landed_title = e_portugal_11
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_empire_13 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1750  
+			has_landed_title = e_portugal_12
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_13 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_12
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_13
+			}
+			destroy_landed_title = e_portugal_12
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_empire_14 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1816  
+			has_landed_title = e_portugal_13
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_14 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_13
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_14
+			}
+			destroy_landed_title = e_portugal_13
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_empire_15 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1834  
+			has_landed_title = e_portugal_14
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_15 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_13
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_14
+			}
+			destroy_landed_title = e_portugal_13
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	change_portugal_empire_16 = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			year > 1834  
+			has_landed_title = e_portugal_15
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			e_portugal_16 = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = e_portugal_15
+			}
+				show_scope_change = no
+				de_jure_liege = e_portugal_16
+			}
+			destroy_landed_title = e_portugal_15
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	}

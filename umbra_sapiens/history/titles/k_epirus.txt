@@ -1,0 +1,76 @@
+100.1.1=
+{
+	pentarch = b_hagiasophia
+}
+
+#Despotate of Epirus
+
+1204.5.16={
+	holder=215517
+}
+1215.1.1={
+	holder=215514
+}
+1230.3.9={
+	holder=125715
+}
+1268.1.1={
+	holder=125726
+}
+1297.1.1={
+	holder=125728
+}
+
+1318.1.1={
+	holder=31440 #Nicolo Orsini
+}
+1323.1.1={
+	holder=31441 #Giovanni II Orsini
+}
+1335.1.1={
+	holder=31443 #Nikephoros Orsini
+}
+1338.1.1={
+	holder=0	#Byzantine invasion 465500
+}
+1340.1.1={
+	holder=31443	#Nikephoros Orsini
+}
+1340.6.1={
+	holder=0	#Byzantine invasion continues 465500
+}
+1348.1.1={
+	#Stefan Dushan conquers Epirus
+	holder=468500
+}
+1356.1.1={
+	holder=31443	#Nikephoros Orsini
+	liege=0
+}
+1359.1.1={
+	holder=468502 #Simeon Urosh
+}
+1370.1.1={
+	holder=379495 #Thomas II Preljubovic
+}
+1384.12.23={
+	holder=375524	#Maria Angelina Doukaina Palaiologina
+}
+1385.1.1={
+	holder=379497	#Esau de Buondelmonti
+}
+1411.2.6={
+	holder=379499	#Giorgio de Buondelmonti	
+}
+1411.2.26={
+	holder=379509	#Carlo I Tocco
+}
+1429.7.4={
+	holder=379516	#Carlo II Tocco
+}
+1448.9.30 = {
+	holder=379520	#Leonardo III Tocco
+}
+1479.1.1={
+	holder=0 #Ottoman Conquest
+}

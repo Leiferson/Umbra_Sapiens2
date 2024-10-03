@@ -1,0 +1,21 @@
+# 1582 - Lekia
+
+# County Title
+title = c_lekia
+
+# Settlements
+max_settlements = 4
+b_tsakhur = castle
+b_rija = city
+b_rutul = temple
+#b_akhtseh = castle
+#b_mighrah = city
+#b_sarfun = temple
+
+# Misc
+culture = dagestani
+religion = raism_pagan
+
+# History
+800.1.1 = { religion = miaphysite }
+900.1.1 = { religion = sunni }

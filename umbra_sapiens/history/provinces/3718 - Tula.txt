@@ -1,0 +1,42 @@
+# County Title
+title = c_tulax
+
+# Settlements
+max_settlements = 6
+b_tulax = castle
+b_tulax-ii = temple
+b_tulax-iii = city
+b_tulax-iv = castle
+b_tulax-v = city
+b_tulax-vi = temple
+#b_tulax-vii = castle
+# Misc
+culture = nonohualcan
+religion = nonohualcan_pagan
+
+# History
+650.1.1 = {
+	build_wonder = wonder_nonohualcan_pyramid
+	set_wonder_name = TULA
+	set_wonder_description = TULADESC
+	set_wonder_stage = 1
+}
+750.1.1 = {
+	set_wonder_stage = 2
+}
+800.1.1 = {
+	set_wonder_stage = 3
+}
+900.1.1 = {
+	set_wonder_stage = 4
+}
+1100.1.1 = {
+set_wonder_damaged = yes
+remove_settlement = b_tulax-ii 
+remove_settlement = b_tulax-iii 
+remove_settlement = b_tulax-iv 
+remove_settlement = b_tulax-v 
+remove_settlement = b_tulax-vi 
+	culture = tepaneca
+	religion = aztec
+}

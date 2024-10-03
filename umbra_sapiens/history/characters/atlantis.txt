@@ -1,0 +1,675 @@
+#350000
+#madeira
+350000 = {
+	name = "Khalid"
+	dynasty = 1009990276
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+350001 = {
+	name = "Ghaysan"
+	dynasty = 1009990276
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+350002 = {
+	name = "Masmud"
+	dynasty = 1009990276
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+350003 = {
+	name = "Qutaiba"
+	dynasty = 1009990276
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+350004 = {
+	name = "Awdia"
+	dynasty = 1009990276
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	father = 350003
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+350005 = {
+	name = "Marwan"
+	dynasty = 1009990276
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	father = 350004
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+350006 = {
+	name = "Tegama"
+	dynasty = 1009990276
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	father = 350005
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+350007 = {
+	name = "Ajeddig"
+	dynasty = 1009990276
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	father = 350006
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#azores
+350008 = {
+	name = "Abbas"
+	dynasty = 1009990277
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+350009 = {
+	name = "Seghada"
+	dynasty = 1009990277
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+350010 = {
+	name = "Yuba"
+	dynasty = 1009990277
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+350011 = {
+	name = "Tifan"
+	dynasty = 1009990277
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+350012 = {
+	name = "Amray"
+	dynasty = 1009990277
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	father = 350011
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+350013 = {
+	name = "Ifser"
+	dynasty = 1009990277
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	father = 350012
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+350014 = {
+	name = "Qutaiba"
+	dynasty = 1009990277
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	father = 350013
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+350015 = {
+	name = "Ghani"
+	dynasty = 1009990277
+	religion = west_african_pagan
+	culture = maghreb_arabic
+	father = 350014
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#cape verde
+350016 = {
+	name = "Abbas"
+	dynasty = 1009990285
+	religion = west_african_pagan
+	culture = manden
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+350017 = {
+	name = "Seghada"
+	dynasty = 1009990285
+	religion = west_african_pagan
+	culture = manden
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+350018 = {
+	name = "Yuba"
+	dynasty = 1009990285
+	religion = west_african_pagan
+	culture = manden
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+350019 = {
+	name = "Tifan"
+	dynasty = 1009990285
+	religion = west_african_pagan
+	culture = manden
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+350020 = {
+	name = "Amray"
+	dynasty = 1009990285
+	religion = west_african_pagan
+	culture = manden
+	father = 350019
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+350021 = {
+	name = "Ifser"
+	dynasty = 1009990285
+	religion = west_african_pagan
+	culture = manden
+	father = 350020
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+350022 = {
+	name = "Qutaiba"
+	dynasty = 1009990285
+	religion = west_african_pagan
+	culture = manden
+	father = 350021
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+350023 = {
+	name = "Ghani"
+	dynasty = 1009990285
+	religion = west_african_pagan
+	culture = manden
+	father = 350022
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#couto misto
+350028 = {
+	name = "Pero"
+	religion = catholic
+	culture = portuguese
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+350029 = {
+	name = "Joaquim"
+	religion = catholic
+	culture = portuguese
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+350030 = {
+	name = "Alberto"
+	religion = catholic
+	culture = portuguese
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+350031 = {
+	name = "Antonio"
+	religion = catholic
+	culture = portuguese
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Christ
+350032 = {
+	name = "Gil"
+	dynasty = 1010043076
+	religion = catholic
+	culture = portuguese
+	1290.1.1 = {
+		birth = yes
+	}
+	1321.1.1 = {
+		death = yes
+	}
+}
+350033 = {
+	name = "Joao Lourenco"
+	dynasty = 1010043077
+	religion = catholic
+	culture = portuguese
+	1300.1.1 = {
+		birth = yes
+	}
+	1327.1.1 = {
+		death = yes
+	}
+}
+350034 = {
+	name = "Martim Goncalves"
+	dynasty = 1010043078
+	religion = catholic
+	culture = portuguese
+	1310.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		death = yes
+	}
+}
+350035 = {
+	name = "Estevao Goncalves"
+	dynasty = 1010043078
+	religion = catholic
+	culture = portuguese
+	1310.1.1 = {
+		birth = yes
+	}
+	1344.1.1 = {
+		death = yes
+	}
+}
+350036 = {
+	name = "Rodrigo Anes"
+	religion = catholic
+	culture = portuguese
+	1310.1.1 = {
+		birth = yes
+	}
+	1356.1.1 = {
+		death = yes
+	}
+}
+350037 = {
+	name = "Nuno Rodrigues"
+	dynasty = 1010043079
+	religion = catholic
+	culture = portuguese
+	1310.1.1 = {
+		birth = yes
+	}
+	1372.1.1 = {
+		death = yes
+	}
+}
+350038 = {
+	name = "Lopo Dias"
+	dynasty = 1010043080
+	religion = catholic
+	culture = portuguese
+	1310.1.1 = {
+		birth = yes
+	}
+	1417.1.1 = {
+		death = yes
+	}
+}
+#Avis
+350039 = {
+	name = "Goncalo Viegas"
+	dynasty = 1010043081
+	religion = catholic
+	culture = portuguese
+	1120.1.1 = {
+		birth = yes
+	}
+	1195.1.1 = {
+		death = yes
+	}
+}
+350040 = {
+	name = "Pelagio"
+	religion = catholic
+	culture = portuguese
+	1155.1.1 = {
+		birth = yes
+	}
+	1200.1.1 = {
+		death = yes
+	}
+}
+350041 = {
+	name = "Fernando Anes"
+	religion = catholic
+	culture = portuguese
+	1168.1.1 = {
+		birth = yes
+	}
+	1227.1.1 = {
+		death = yes
+	}
+}
+350042 = {
+	name = "Fernando Rodrigues"
+	dynasty = 1010043082
+	religion = catholic
+	culture = portuguese
+	1180.1.1 = {
+		birth = yes
+	}
+	1237.1.1 = {
+		death = yes
+	}
+}
+350043 = {
+	name = "Martim Fernandes"
+	religion = catholic
+	culture = portuguese
+	1200.1.1 = {
+		birth = yes
+	}
+	1264.1.1 = {
+		death = yes
+	}
+}
+350044 = {
+	name = "Joao"
+	dynasty = 1010043083
+	religion = catholic
+	culture = portuguese
+	1200.1.1 = {
+		birth = yes
+	}
+	1268.1.1 = {
+		death = yes
+	}
+}
+350045 = {
+	name = "Pedro Afonso"
+	religion = catholic
+	culture = portuguese
+	1200.1.1 = {
+		birth = yes
+	}
+	1269.1.1 = {
+		death = yes
+	}
+}
+350046 = {
+	name = "Simao Soares"
+	religion = catholic
+	culture = portuguese
+	1205.1.1 = {
+		birth = yes
+	}
+	1280.1.1 = {
+		death = yes
+	}
+}
+350047 = {
+	name = "Egas Martins"
+	dynasty = 1010043084
+	religion = catholic
+	culture = portuguese
+	1220.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		death = yes
+	}
+}
+350048 = {
+	name = "Joao Peres"
+	religion = catholic
+	culture = portuguese
+	1223.1.1 = {
+		birth = yes
+	}
+	1292.1.1 = {
+		death = yes
+	}
+}
+350049 = {
+	name = "Joao Afonso"
+	religion = catholic
+	culture = portuguese
+	1225.1.1 = {
+		birth = yes
+	}
+	1294.1.1 = {
+		death = yes
+	}
+}
+350050 = {
+	name = "Lourenco Afonso"
+	religion = catholic
+	culture = portuguese
+	1240.1.1 = {
+		birth = yes
+	}
+	1310.1.1 = {
+		death = yes
+	}
+}
+350051 = {
+	name = "Garcia Peres"
+	dynasty = 1010043085
+	religion = catholic
+	culture = portuguese
+	1235.1.1 = {
+		birth = yes
+	}
+	1316.1.1 = {
+		death = yes
+	}
+}
+350052 = {
+	name = "Gil Martins"
+	dynasty = 1010043084
+	religion = catholic
+	culture = portuguese
+	1256.1.1 = {
+		birth = yes
+	}
+	1319.1.1 = {
+		death = yes
+	}
+}
+350053 = {
+	name = "Vasco Afonso"
+	religion = catholic
+	culture = portuguese
+	1260.1.1 = {
+		birth = yes
+	}
+	1329.1.1 = {
+		death = yes
+	}
+}
+350054 = {
+	name = "Gil Peres"
+	dynasty = 1010043086
+	religion = catholic
+	culture = portuguese
+	1262.1.1 = {
+		birth = yes
+	}
+	1332.1.1 = {
+		death = yes
+	}
+}
+350055 = {
+	name = "Afonso Mendes"
+	religion = catholic
+	culture = portuguese
+	1261.1.1 = {
+		birth = yes
+	}
+	1334.1.1 = {
+		death = yes
+	}
+}
+350056 = {
+	name = "Goncalo Vasques"
+	religion = catholic
+	culture = portuguese
+	1271.1.1 = {
+		birth = yes
+	}
+	1341.1.1 = {
+		death = yes
+	}
+}
+350057 = {
+	name = "Joao Rodrigues"
+	dynasty = 1010043087
+	religion = catholic
+	culture = portuguese
+	1289.1.1 = {
+		birth = yes
+	}
+	1351.1.1 = {
+		death = yes
+	}
+}
+350058 = {
+	name = "Joao Afonso"
+	dynasty = 1010043088
+	religion = catholic
+	culture = portuguese
+	1292.1.1 = {
+		birth = yes
+	}
+	1356.1.1 = {
+		death = yes
+	}
+}
+350059 = {
+	name = "Martim"
+	dynasty = 1010043089
+	religion = catholic
+	culture = portuguese
+	1310.1.1 = {
+		birth = yes
+	}
+	1363.1.1 = {
+		death = yes
+	}
+}

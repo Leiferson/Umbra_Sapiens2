@@ -1,0 +1,54 @@
+technology = {
+	titles = {
+		d_saotome
+		d_cape_verde
+		d_the_azores
+		d_madeira
+		d_canarias
+		d_st_helena
+		d_sandwich
+		d_artic_isles
+		d_falkland
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+}
+technology = {
+	titles = {
+		d_hawaii
+		d_polynisea
+		d_honolulu
+		d_chridun
+		d_wellauck
+		d_micronesia
+		d_maweport
+		d_rabara
+		d_vasucasatu
+		}
+
+	769 = {
+		military = 1.0
+		economy = 0.6
+		culture = 0.6
+		
+		TECH_NAVAL = 2.0
+	}
+	1640 = {
+		military = 1.0
+		economy = 0.6
+		culture = 0.6
+		
+		TECH_NAVAL = 2.0
+	}
+}

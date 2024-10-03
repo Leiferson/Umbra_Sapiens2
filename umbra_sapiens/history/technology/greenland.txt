@@ -1,0 +1,72 @@
+#Greenland
+
+technology = {
+	titles = {
+		d_tuniit_nunaat
+		d_kitaa
+		d_kujalleq
+		d_tunu
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_tuniit_nunaat
+		d_kitaa
+		d_kujalleq
+		d_tunu
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		c_ammassalik
+		c_kangertittivaq
+		c_saqqisikuik
+		c_sermersooq
+                c_qeqqata
+                c_kujalleg
+                c_ivittuut
+                c_qulleq
+                c_qeqertalik
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}

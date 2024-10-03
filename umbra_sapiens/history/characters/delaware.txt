@@ -1,0 +1,3181 @@
+1019915471={
+	name=Nanotetauxien
+	dynasty=1009990122
+	dna="epgholmpjkk"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=duelist add_trait=chaste  
+	720.11.22={ birth=yes }
+	788.5.14={ death=yes }
+}
+1019915472={
+	name=Awowas
+	female=yes
+	dynasty=1009990122
+	dna="hpgohphnfpk"
+	culture=delaware religion=algic_pagan
+	father=1019915471	#Nanotetauxien
+	740.1.3={ birth=yes }
+	803.1.30={ death=yes }
+}
+1019915473={
+	name=Pondoxy
+	dynasty=1009990122
+	dna="eighblpdjnd"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=shy add_trait=paranoid add_trait=just add_trait=cynical 
+	add_trait=deceitful 
+	father=1019915471	#Nanotetauxien
+	743.8.7={ birth=yes }
+	824.2.5={ death=yes }
+}
+1019915474={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="jajhopmpjbg"
+	culture=delaware religion=algic_pagan
+	father=1019915471	#Nanotetauxien
+	747.1.9={ birth=yes }
+	815.3.10={ death=yes }
+}
+1019915475={
+	name=Awowas
+	female=yes
+	dynasty=1009990122
+	dna="epaholmfjak"
+	culture=delaware religion=algic_pagan
+	father=1019915471	#Nanotetauxien
+	751.1.19={ birth=yes }
+	806.1.19={ death=yes }
+}
+1019915476={
+	name=Awowas
+	female=yes
+	dynasty=1009990122
+	dna="jpdlinmdjek"
+	culture=delaware religion=algic_pagan
+	father=1019915471	#Nanotetauxien
+	756.9.4={ birth=yes }
+	813.6.23={ death=yes }
+}
+1019915477={
+	name=Kithteeleland
+	dynasty=1009990122
+	dna="ejfhblbdjnm"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=brave add_trait=humble add_trait=paranoid add_trait=zealous 
+	add_trait=lustful add_trait=greedy add_trait=possessed add_trait=harelip 
+	father=1019915473	#Pondoxy
+	765.1.22={ birth=yes }
+	836.3.10={ death=yes }
+}
+1019915478={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="fidmmlpfaoo"
+	culture=delaware religion=algic_pagan
+	father=1019915473	#Pondoxy
+	771.2.8={ birth=yes }
+	828.11.5={ death=yes }
+}
+1019915479={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="eilhblpdjnd"
+	culture=delaware religion=algic_pagan
+	father=1019915473	#Pondoxy
+	777.7.15={ birth=yes }
+	844.5.27={ death=yes }
+}
+1019915480={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="elghckedkpf"
+	culture=delaware religion=algic_pagan
+	father=1019915473	#Pondoxy
+	780.7.21={ birth=yes }
+	862.12.2={ death=yes }
+}
+1019915481={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="kiehblpfjfb"
+	culture=delaware religion=algic_pagan
+	father=1019915473	#Pondoxy
+	786.8.27={ birth=yes }
+	889.4.15={ death=yes }
+}
+1019915482={
+	name=Tamaqua
+	dynasty=1009990122
+	dna="ejfnbcbcpme"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=indulgent_wastrel add_trait=celibate add_trait=zealous add_trait=greedy add_trait=brave 
+	add_trait=honest 
+	father=1019915477	#Kithteeleland
+	795.8.17={ birth=yes }
+	848.11.21={ death=yes }
+}
+1019915483={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="fhenfdfejgm"
+	culture=delaware religion=algic_pagan
+	father=1019915477	#Kithteeleland
+	801.4.25={ birth=yes }
+	873.8.13={ death=yes }
+}
+1019915484={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="mjfcalgdjio"
+	culture=delaware religion=algic_pagan
+	father=1019915477	#Kithteeleland
+	806.9.12={ birth=yes }
+	889.5.15={ death=yes }
+}
+1019915485={
+	name=Kockkockquas
+	dynasty=1009990122
+	dna="eefebhncnbb"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=gregarious add_trait=greedy 
+	father=1019915482	#Tamaqua
+	819.11.3={ birth=yes }
+	907.2.13={ death=yes }
+}
+1019915486={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="aomnbmjopme"
+	culture=delaware religion=algic_pagan
+	father=1019915482	#Tamaqua
+	825.10.8={ birth=yes }
+	905.11.3={ death=yes }
+}
+1019915487={
+	name=Kkoquethagechton
+	dynasty=1009990122
+	dna="egfadmbjpmd"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=deceitful add_trait=drunkard add_trait=clubfooted 
+	father=1019915482	#Tamaqua
+	829.10.22={ birth=yes }
+	884.3.16={ death=yes }
+}
+1019915488={
+	name=Rockatowah
+	dynasty=1009990122
+	dna="ejfnbaccgii"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=charitable add_trait=lustful add_trait=honest 
+	 add_trait=ambitious 
+	father=1019915482	#Tamaqua
+	834.8.12={ birth=yes }
+	889.4.1={ death=yes }
+}
+1019915489={
+	name=Tunis
+	dynasty=1009990122
+	dna="ecfedjncngj"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=mystic add_trait=cynical add_trait=paranoid add_trait=craven 
+	father=1019915485	#Kockkockquas
+	851.8.5={ birth=yes }
+	937.8.22={ death=yes }
+}
+1019915490={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="eondmdcclbb"
+	culture=delaware religion=algic_pagan
+	father=1019915485	#Kockkockquas
+	858.7.3={ birth=yes }
+	942.8.2={ death=yes }
+}
+1019915491={
+	name=Quenaghtoothmait
+	dynasty=1009990122
+	dna="meojhhfcnhb"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest  add_trait=craven add_trait=chaste add_trait=shy 
+	add_trait=humble  
+	father=1019915485	#Kockkockquas
+	863.4.19={ birth=yes }
+	945.5.27={ death=yes }
+}
+1019915492={
+	name=Neconhecon
+	dynasty=1009990122
+	dna="emfeddoanmd"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=humble add_trait=honest add_trait=gregarious add_trait=brave 
+	father=1019915485	#Kockkockquas
+	869.5.25={ birth=yes }
+	907.3.30={ death=yes }
+}
+1019915493={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="jcnbajllkgb"
+	culture=delaware religion=algic_pagan
+	father=1019915489	#Tunis
+	879.1.10={ birth=yes }
+	952.3.2={ death=yes }
+}
+1019915494={
+	name=Pooshies
+	dynasty=1009990122
+	dna="ecmcbpecngp"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=cynical add_trait=temperate add_trait=proud 
+	add_trait=arbitrary add_trait=brave 
+	father=1019915489	#Tunis
+	883.10.26={ birth=yes }
+	938.6.22={ death=yes }
+}
+1019915495={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="odpemjnchga"
+	culture=delaware religion=algic_pagan
+	father=1019915489	#Tunis
+	887.6.3={ birth=yes }
+	946.3.13={ death=yes }
+}
+1019915496={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="ncfanjnjefi"
+	culture=delaware religion=algic_pagan
+	father=1019915489	#Tunis
+	893.12.14={ birth=yes }
+	965.1.12={ death=yes }
+}
+1019915497={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="eciedjicnob"
+	culture=delaware religion=algic_pagan
+	father=1019915489	#Tunis
+	898.10.17={ birth=yes }
+	960.5.29={ death=yes }
+}
+1019915498={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="ecfmijncjhj"
+	culture=delaware religion=algic_pagan
+	father=1019915489	#Tunis
+	901.10.27={ birth=yes }
+	981.9.7={ death=yes }
+}
+1019915499={
+	name=Pondoxy
+	dynasty=1009990122
+	dna="eoljdcfgedj"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=4
+	add_trait=tough_soldier add_trait=duelist add_trait=gregarious  add_trait=chaste 
+	add_trait=charitable add_trait=temperate 
+	father=1019915489	#Tunis
+	903.11.27={ birth=yes }
+	969.12.1={ death=yes }
+}
+1019915500={
+	name=Ahlaachick
+	dynasty=1009990122
+	dna="jmmcbpecngp"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=5
+	add_trait=tough_soldier add_trait=gluttonous  add_trait=wroth add_trait=stressed 
+	father=1019915494	#Pooshies
+	903.4.22={ birth=yes }
+	980.12.10={ death=yes }
+}
+1019915501={
+	name=Pooshies
+	dynasty=1009990122
+	dna="acpdbpncngk"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=6
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=paranoid add_trait=craven add_trait=gregarious 
+	father=1019915494	#Pooshies
+	908.5.21={ birth=yes }
+	979.11.3={ death=yes }
+}
+1019915502={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="icmcbgnajge"
+	culture=delaware religion=algic_pagan
+	father=1019915494	#Pooshies
+	913.8.5={ birth=yes }
+	969.9.27={ death=yes }
+}
+1019915503={
+	name=Quenaghtoothmait
+	dynasty=1009990122
+	dna="noilbjbbnnk"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=shy add_trait=just 
+	father=1019915500	#Ahlaachick
+	926.9.24={ birth=yes }
+	988.8.24={ death=yes }
+}
+1019915504={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="jflcdpfcngp"
+	culture=delaware religion=algic_pagan
+	father=1019915500	#Ahlaachick
+	931.4.8={ birth=yes }
+	1005.4.25={ death=yes }
+}
+1019915505={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="fagcbnlcnop"
+	culture=delaware religion=algic_pagan
+	father=1019915500	#Ahlaachick
+	936.1.22={ birth=yes }
+	1008.2.24={ death=yes }
+}
+1019915506={
+	name=Oratam
+	dynasty=1009990122
+	dna="moddbbbpgnk"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	add_trait=naive_appeaser add_trait=honest add_trait=trusting  add_trait=diligent 
+	add_trait=cynical 
+	father=1019915503	#Quenaghtoothmait
+	956.12.8={ birth=yes }
+	1014.10.28={ death=yes }
+}
+1019915507={
+	name=Neolin
+	dynasty=1009990122
+	dna="nbjabelgcaj"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=grey_eminence add_trait=deceitful add_trait=trusting add_trait=zealous add_trait=ill 
+	father=1019915503	#Quenaghtoothmait
+	961.6.15={ birth=yes }
+	1044.7.3={ death=yes }
+}
+1019915508={
+	name=Oratam
+	dynasty=1009990122
+	dna="nohlbjnknnh"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=6 learning=5
+	add_trait=martial_cleric add_trait=cynical  add_trait=greedy add_trait=gluttonous 
+	add_trait=lunatic 
+	father=1019915503	#Quenaghtoothmait
+	963.2.20={ birth=yes }
+	1031.1.31={ death=yes }
+}
+1019915509={
+	name=Nanotetauxien
+	dynasty=1009990122
+	dna="foiibflblpk"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	add_trait=misguided_warrior add_trait=impaler add_trait=greedy add_trait=humble add_trait=trusting 
+	father=1019915503	#Quenaghtoothmait
+	967.6.5={ birth=yes }
+	1038.5.9={ death=yes }
+}
+1019915510={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="mncdbbnpdnk"
+	culture=delaware religion=algic_pagan
+	father=1019915506	#Oratam
+	986.5.7={ birth=yes }
+	1056.5.11={ death=yes }
+}
+1019915511={
+	name=Alimee
+	dynasty=1009990122
+	dna="ffdjhbbikni"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=craven add_trait=envious add_trait=paranoid add_trait=slothful 
+	father=1019915506	#Oratam
+	991.3.17={ birth=yes }
+	1055.4.23={ death=yes }
+}
+1019915512={
+	name=Awowas
+	female=yes
+	dynasty=1009990122
+	dna="mfdmbfbpghd"
+	culture=delaware religion=algic_pagan
+	father=1019915506	#Oratam
+	996.9.27={ birth=yes }
+	1065.3.7={ death=yes }
+}
+1019915513={
+	name=Gelelemend
+	dynasty=1009990122
+	dna="miodlgipgnc"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=6
+	add_trait=midas_touched add_trait=content add_trait=gluttonous add_trait=zealous add_trait=envious 
+	father=1019915506	#Oratam
+	1000.12.26={ birth=yes }
+	1078.2.22={ death=yes }
+}
+1019915514={
+	name=Kkoquethagechton
+	dynasty=1009990122
+	dna="moiobabpmnk"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=5 learning=4
+	add_trait=intricate_webweaver add_trait=slothful  
+	father=1019915506	#Oratam
+	1005.5.8={ birth=yes }
+	1061.4.11={ death=yes }
+}
+1019915515={
+	name=Tomaguee
+	dynasty=1009990122
+	dna="dedjhllhani"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=elusive_shadow add_trait=humble add_trait=honest add_trait=zealous add_trait=diligent 
+	add_trait=stutter 
+	father=1019915511	#Alimee
+	1020.3.24={ birth=yes }
+	1099.6.15={ death=yes }
+}
+1019915516={
+	name=Kithteeleland
+	dynasty=1009990122
+	dna="ffdjhibbnfl"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=cynical add_trait=wroth add_trait=diligent add_trait=lustful 
+	 add_trait=temperate add_trait=possessed 
+	father=1019915511	#Alimee
+	1026.8.7={ birth=yes }
+	1096.9.13={ death=yes }
+}
+1019915517={
+	name=Rockatowah
+	dynasty=1009990122
+	dna="gidahjblknk"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=8 learning=6
+	add_trait=misguided_warrior add_trait=just add_trait=content add_trait=gluttonous 
+	father=1019915511	#Alimee
+	1030.3.24={ birth=yes }
+	1112.3.21={ death=yes }
+}
+1019915518={
+	name=Pooshies
+	dynasty=1009990122
+	dna="kfbldebilbi"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	add_trait=grey_eminence add_trait=duelist add_trait=proud add_trait=craven add_trait=temperate 
+	add_trait=slothful  
+	father=1019915511	#Alimee
+	1033.11.4={ birth=yes }
+	1103.2.21={ death=yes }
+}
+1019915519={
+	name=Netahopuna
+	dynasty=1009990122
+	dna="abkjhlmgcni"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=ambitious add_trait=shy add_trait=trusting 
+	father=1019915515	#Tomaguee
+	1048.2.7={ birth=yes }
+	1129.8.2={ death=yes }
+}
+1019915520={
+	name=Ahlaachick
+	dynasty=1009990122
+	dna="dmdjhllpaii"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=5
+	add_trait=mastermind_theologian add_trait=slothful add_trait=temperate add_trait=wroth  
+	add_trait=shy 
+	father=1019915515	#Tomaguee
+	1054.12.20={ birth=yes }
+	1110.11.22={ death=yes }
+}
+1019915521={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="fncjhelhhnl"
+	culture=delaware religion=algic_pagan
+	father=1019915515	#Tomaguee
+	1058.6.9={ birth=yes }
+	1111.10.21={ death=yes }
+}
+1019915522={
+	name=Alimee
+	dynasty=1009990122
+	dna="dkfjhgahanp"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	add_trait=naive_appeaser add_trait=temperate  
+	father=1019915515	#Tomaguee
+	1064.7.27={ birth=yes }
+	1107.11.10={ death=yes }
+}
+1019915523={
+	name=Gelelemend
+	dynasty=1009990122
+	dna="adkjhpobjnh"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	add_trait=tough_soldier add_trait=brave  add_trait=greedy add_trait=gregarious 
+	add_trait=humble 
+	father=1019915519	#Netahopuna
+	1077.10.19={ birth=yes }
+	1135.7.1={ death=yes }
+}
+1019915524={
+	name=Petchenanalas
+	dynasty=1009990122
+	dna="pbojhlmgdni"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=poet add_trait=just add_trait=patient add_trait=brave 
+	add_trait=shy add_trait=chaste 
+	father=1019915519	#Netahopuna
+	1081.8.1={ birth=yes }
+	1123.2.18={ death=yes }
+}
+1019915525={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="gnkhijopjdb"
+	culture=delaware religion=algic_pagan
+	father=1019915523	#Gelelemend
+	1107.7.5={ birth=yes }
+	1189.2.21={ death=yes }
+}
+1019915526={
+	name=Kockkatowha
+	dynasty=1009990122
+	dna="ahgjggogjch"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=4 learning=6
+	add_trait=martial_cleric add_trait=impaler add_trait=proud add_trait=chaste  
+	add_trait=honest 
+	father=1019915523	#Gelelemend
+	1113.1.21={ birth=yes }
+	1212.8.14={ death=yes }
+}
+1019915527={
+	name=Awowas
+	female=yes
+	dynasty=1009990122
+	dna="ldknomobajc"
+	culture=delaware religion=algic_pagan
+	father=1019915523	#Gelelemend
+	1116.9.14={ birth=yes }
+	1172.11.1={ death=yes }
+}
+1019915528={
+	name=Kechkawhanund
+	dynasty=1009990122
+	dna="alknhpobfnm"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=4
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=trusting add_trait=temperate add_trait=greedy 
+	add_trait=humble add_trait=weak 
+	father=1019915523	#Gelelemend
+	1122.1.7={ birth=yes }
+	1194.5.14={ death=yes }
+}
+1019915529={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="lbggggomndd"
+	culture=delaware religion=algic_pagan
+	father=1019915526	#Kockkatowha
+	1144.7.12={ birth=yes }
+	1224.12.26={ death=yes }
+}
+1019915530={
+	name=Tomaguee
+	dynasty=1009990122
+	dna="ihgbkihgjcg"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	add_trait=naive_appeaser add_trait=greedy add_trait=deceitful add_trait=zealous add_trait=chaste 
+	add_trait=temperate 
+	father=1019915526	#Kockkatowha
+	1150.2.18={ birth=yes }
+	1210.11.9={ death=yes }
+}
+1019915531={
+	name=Awowas
+	female=yes
+	dynasty=1009990122
+	dna="apnjggegjcb"
+	culture=delaware religion=algic_pagan
+	father=1019915526	#Kockkatowha
+	1154.10.5={ birth=yes }
+	1196.9.14={ death=yes }
+}
+1019915532={
+	name=Awowas
+	female=yes
+	dynasty=1009990122
+	dna="ehgjigphjin"
+	culture=delaware religion=algic_pagan
+	father=1019915526	#Kockkatowha
+	1159.6.11={ birth=yes }
+	1236.11.3={ death=yes }
+}
+1019915533={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="aoeofgfaacc"
+	culture=delaware religion=algic_pagan
+	father=1019915526	#Kockkatowha
+	1162.9.20={ birth=yes }
+	1243.5.23={ death=yes }
+}
+1019915534={
+	name=Tunis
+	dynasty=1009990122
+	dna="mhgbcmmgkkg"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=5 learning=4
+	add_trait=charismatic_negotiator  add_trait=craven add_trait=trusting 
+	father=1019915530	#Tomaguee
+	1172.6.8={ birth=yes }
+	1253.1.5={ death=yes }
+}
+1019915535={
+	name=Tetabuxike
+	dynasty=1009990122
+	dna="mhgjnihdecd"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=cynical add_trait=content add_trait=shy add_trait=trusting 
+	 
+	father=1019915530	#Tomaguee
+	1180.10.3={ birth=yes }
+	1240.3.17={ death=yes }
+}
+1019915536={
+	name=Neconhecon
+	dynasty=1009990122
+	dna="ediakiegjcg"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=7 learning=8
+	add_trait=charismatic_negotiator add_trait=hedonist add_trait=ambitious add_trait=deceitful add_trait=chaste 
+	add_trait=temperate add_trait=proud add_trait=depressed 
+	father=1019915530	#Tomaguee
+	1185.7.13={ birth=yes }
+	1253.8.29={ death=yes }
+}
+1019915537={
+	name=Neconhecon
+	dynasty=1009990122
+	dna="bhibhclcbcd"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=6 learning=7
+	add_trait=indulgent_wastrel add_trait=poet add_trait=chaste add_trait=ambitious add_trait=envious 
+	add_trait=shy add_trait=wounded 
+	father=1019915530	#Tomaguee
+	1190.1.4={ birth=yes }
+	1260.6.9={ death=yes }
+}
+1019915538={
+	name=Lapahnihe
+	dynasty=1009990122
+	dna="mhfbcgmgfml"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	add_trait=scholarly_theologian add_trait=gluttonous  add_trait=greedy add_trait=diligent 
+	add_trait=stutter 
+	father=1019915534	#Tunis
+	1198.8.20={ birth=yes }
+	1272.12.7={ death=yes }
+}
+1019915539={
+	name=Kockkockquas
+	dynasty=1009990122
+	dna="enkfcmgakdo"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=7
+	add_trait=midas_touched  add_trait=gluttonous add_trait=shy add_trait=greedy 
+	add_trait=depressed 
+	father=1019915534	#Tunis
+	1204.6.11={ birth=yes }
+	1274.1.19={ death=yes }
+}
+1019915540={
+	name=Kechkawhanund
+	dynasty=1009990122
+	dna="ghljflmgkhf"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=8 learning=6
+	add_trait=misguided_warrior add_trait=wroth add_trait=slothful 
+	father=1019915534	#Tunis
+	1210.9.3={ birth=yes }
+	1272.10.24={ death=yes }
+}
+1019915541={
+	name=Teedyuscung
+	dynasty=1009990122
+	dna="mhgphmmfkkc"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=chaste add_trait=shy add_trait=trusting add_trait=diligent 
+	add_trait=cynical 
+	father=1019915534	#Tunis
+	1214.5.22={ birth=yes }
+	1277.9.23={ death=yes }
+}
+1019915542={
+	name=Quacornowha
+	dynasty=1009990122
+	dna="mhcbcgmbfli"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=8 learning=7
+	add_trait=tough_soldier add_trait=envious add_trait=temperate 
+	father=1019915538	#Lapahnihe
+	1231.4.14={ birth=yes }
+	1317.1.9={ death=yes }
+}
+1019915543={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="mefbagmkfmc"
+	culture=delaware religion=algic_pagan
+	father=1019915538	#Lapahnihe
+	1237.3.5={ birth=yes }
+	1321.1.18={ death=yes }
+}
+1019915544={
+	name=Hockingpomskenn
+	dynasty=1009990122
+	dna="mpfblbmmfli"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=diligent add_trait=content add_trait=shy add_trait=arbitrary 
+	add_trait=patient 
+	father=1019915542	#Quacornowha
+	1254.2.25={ birth=yes }
+	1314.10.8={ death=yes }
+}
+1019915545={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="mflbfhnoflf"
+	culture=delaware religion=algic_pagan
+	father=1019915542	#Quacornowha
+	1258.11.26={ birth=yes }
+	1321.6.30={ death=yes }
+}
+1019915546={
+	name=Bukongehelas
+	dynasty=1009990122
+	dna="mmchcgebdgi"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=5 learning=4
+	add_trait=midas_touched add_trait=just add_trait=cynical add_trait=deceitful  
+	add_trait=charitable 
+	father=1019915542	#Quacornowha
+	1263.12.15={ birth=yes }
+	1319.11.27={ death=yes }
+}
+1019915547={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="nfmbcobbfli"
+	culture=delaware religion=algic_pagan
+	father=1019915542	#Quacornowha
+	1267.4.2={ birth=yes }
+	1342.1.15={ death=yes }
+}
+1019915548={
+	name=Caghkoo
+	dynasty=1009990122
+	dna="mlibmjhmfli"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=4
+	add_trait=thrifty_clerk add_trait=hunter add_trait=charitable add_trait=wroth add_trait=zealous 
+	father=1019915542	#Quacornowha
+	1270.6.22={ birth=yes }
+	1340.4.29={ death=yes }
+}
+1019915549={
+	name=Apacahund
+	dynasty=1009990122
+	dna="mhmkcgmefek"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=8 learning=4
+	add_trait=midas_touched add_trait=scholar  add_trait=humble add_trait=patient 
+	add_trait=chaste add_trait=gregarious add_trait=wounded 
+	father=1019915542	#Quacornowha
+	1275.6.18={ birth=yes }
+	1342.7.11={ death=yes }
+}
+1019915550={
+	name=Alimee
+	dynasty=1009990122
+	dna="mepbfbaoglg"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=gregarious add_trait=charitable  add_trait=temperate 
+	add_trait=wroth 
+	father=1019915544	#Hockingpomskenn
+	1277.5.25={ birth=yes }
+	1341.4.6={ death=yes }
+}
+1019915551={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="mpjklnnlfoi"
+	culture=delaware religion=algic_pagan
+	father=1019915544	#Hockingpomskenn
+	1281.8.10={ birth=yes }
+	1339.5.13={ death=yes }
+}
+1019915552={
+	name=Neolin
+	dynasty=1009990122
+	dna="ipkgaefmilj"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=6 learning=8
+	add_trait=intricate_webweaver add_trait=content add_trait=greedy add_trait=lustful add_trait=diligent 
+	 add_trait=lunatic 
+	father=1019915544	#Hockingpomskenn
+	1283.2.15={ birth=yes }
+	1367.1.23={ death=yes }
+}
+1019915553={
+	name=Gelelemend
+	dynasty=1009990122
+	dna="mpfplbhmfic"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=7
+	add_trait=detached_priest add_trait=proud  add_trait=shy add_trait=lustful 
+	add_trait=greedy add_trait=wroth 
+	father=1019915544	#Hockingpomskenn
+	1289.5.8={ birth=yes }
+	1350.9.6={ death=yes }
+}
+1019915554={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="kpfebfmmjea"
+	culture=delaware religion=algic_pagan
+	father=1019915544	#Hockingpomskenn
+	1294.10.25={ birth=yes }
+	1371.5.24={ death=yes }
+}
+1019915555={
+	name=Missenewand
+	dynasty=1009990122
+	dna="felbgbcoggg"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=6
+	add_trait=indulgent_wastrel add_trait=greedy add_trait=humble add_trait=just add_trait=envious 
+	add_trait=drunkard add_trait=harelip 
+	father=1019915550	#Alimee
+	1298.2.27={ birth=yes }
+	1377.1.15={ death=yes }
+}
+1019915556={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="hepcjbadgig"
+	culture=delaware religion=algic_pagan
+	father=1019915550	#Alimee
+	1305.3.13={ birth=yes }
+	1343.1.31={ death=yes }
+}
+1019915557={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="fpdnjbodcdm"
+	culture=delaware religion=algic_pagan
+	father=1019915555	#Missenewand
+	1330.5.18={ birth=yes }
+	1385.9.26={ death=yes }
+}
+1019915558={
+	name=Caghkoo
+	dynasty=1009990122
+	dna="jhahgbnoggl"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=5 learning=6
+	add_trait=flamboyant_schemer add_trait=greedy add_trait=shy add_trait=paranoid add_trait=stressed 
+	father=1019915555	#Missenewand
+	1333.5.17={ birth=yes }
+	1409.2.25={ death=yes }
+}
+1019915559={
+	name=Petchenanalas
+	dynasty=1009990122
+	dna="fnefgbcbgjf"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=5
+	add_trait=grey_eminence add_trait=slothful add_trait=wroth  add_trait=arbitrary 
+	father=1019915555	#Missenewand
+	1337.7.26={ birth=yes }
+	1415.10.10={ death=yes }
+}
+1019915560={
+	name=Tamaqua
+	dynasty=1009990122
+	dna="fhlbafcgkgi"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=5 learning=8
+	add_trait=intricate_webweaver add_trait=patient  
+	father=1019915555	#Missenewand
+	1345.6.20={ birth=yes }
+	1385.2.10={ death=yes }
+}
+1019915561={
+	name=Nanotetauxien
+	dynasty=1009990122
+	dna="jibgdgoekgl"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=5
+	add_trait=charismatic_negotiator add_trait=deceitful add_trait=chaste 
+	father=1019915558	#Caghkoo
+	1362.9.15={ birth=yes }
+	1416.7.3={ death=yes }
+}
+1019915562={
+	name=Quenaghtoothmait
+	dynasty=1009990122
+	dna="jeahgbgoggl"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	add_trait=charismatic_negotiator  add_trait=honest add_trait=greedy add_trait=humble 
+	father=1019915558	#Caghkoo
+	1368.1.17={ birth=yes }
+	1428.9.27={ death=yes }
+}
+1019915563={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="mnahjbpoggl"
+	culture=delaware religion=algic_pagan
+	father=1019915558	#Caghkoo
+	1376.8.15={ birth=yes }
+	1445.4.12={ death=yes }
+}
+1019915564={
+	name=Oratam
+	dynasty=1009990122
+	dna="aedgdfoekfl"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=7
+	add_trait=intricate_webweaver add_trait=proud add_trait=brave  add_trait=lustful 
+	father=1019915561	#Nanotetauxien
+	1391.7.1={ birth=yes }
+	1479.4.16={ death=yes }
+}
+1019915565={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990122
+	dna="fhgidgobkgo"
+	culture=delaware religion=algic_pagan
+	father=1019915561	#Nanotetauxien
+	1396.9.5={ birth=yes }
+	1478.6.27={ death=yes }
+}
+1019915566={
+	name=Cholena
+	female=yes
+	dynasty=1009990122
+	dna="andldokpkhk"
+	culture=delaware religion=algic_pagan
+	father=1019915561	#Nanotetauxien
+	1402.1.3={ birth=yes }
+	1486.6.10={ death=yes }
+}
+1019915567={
+	name=Tunis
+	dynasty=1009990123
+	dna="biclgoncfpm"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=6 learning=7
+	add_trait=scholarly_theologian add_trait=deceitful add_trait=zealous  add_trait=proud 
+	719.4.3={ birth=yes }
+	794.7.17={ death=yes }
+}
+1019915568={
+	name=Bukongehelas
+	dynasty=1009990123
+	dna="biglbcicfpc"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=chaste add_trait=zealous add_trait=shy add_trait=temperate 
+	father=1019915567	#Tunis
+	746.2.10={ birth=yes }
+	800.1.31={ death=yes }
+}
+1019915569={
+	name=Petchenanalas
+	dynasty=1009990123
+	dna="hpjdgkhefgf"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=chaste  add_trait=craven add_trait=just 
+	add_trait=gluttonous add_trait=shy 
+	father=1019915567	#Tunis
+	750.12.13={ birth=yes }
+	808.10.22={ death=yes }
+}
+1019915570={
+	name=Ahlaachick
+	dynasty=1009990123
+	dna="jghlgfjcapl"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	add_trait=charismatic_negotiator  add_trait=wroth add_trait=charitable add_trait=humble 
+	father=1019915567	#Tunis
+	757.10.2={ birth=yes }
+	822.4.24={ death=yes }
+}
+1019915571={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="oagjkfihfoc"
+	culture=delaware religion=algic_pagan
+	father=1019915568	#Bukongehelas
+	768.11.12={ birth=yes }
+	849.5.9={ death=yes }
+}
+1019915572={
+	name=Quenaghtoothmait
+	dynasty=1009990123
+	dna="biimbbfcfpp"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=temperate add_trait=brave add_trait=diligent add_trait=envious 
+	add_trait=drunkard 
+	father=1019915568	#Bukongehelas
+	773.6.14={ birth=yes }
+	836.5.22={ death=yes }
+}
+1019915573={
+	name=Kkoquethagechton
+	dynasty=1009990123
+	dna="gigbkmicdpc"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=8 learning=5
+	add_trait=midas_touched add_trait=mystic  add_trait=craven add_trait=greedy 
+	add_trait=temperate add_trait=trusting 
+	father=1019915568	#Bukongehelas
+	781.1.1={ birth=yes }
+	838.9.20={ death=yes }
+}
+1019915574={
+	name=Kkoquethagechton
+	dynasty=1009990123
+	dna="bimmbbnifpp"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=brave add_trait=gluttonous add_trait=proud 
+	father=1019915572	#Quenaghtoothmait
+	800.10.15={ birth=yes }
+	875.6.26={ death=yes }
+}
+1019915575={
+	name=Buckongahelas
+	dynasty=1009990123
+	dna="biembdlhfcp"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=5 learning=4
+	add_trait=tough_soldier add_trait=zealous add_trait=gluttonous 
+	father=1019915572	#Quenaghtoothmait
+	804.8.18={ birth=yes }
+	890.7.25={ death=yes }
+}
+1019915576={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="hlimbbjhbkp"
+	culture=delaware religion=algic_pagan
+	father=1019915572	#Quenaghtoothmait
+	810.1.17={ birth=yes }
+	863.7.12={ death=yes }
+}
+1019915577={
+	name=Cholena
+	female=yes
+	dynasty=1009990123
+	dna="biifmbccdcp"
+	culture=delaware religion=algic_pagan
+	father=1019915572	#Quenaghtoothmait
+	812.3.5={ birth=yes }
+	874.8.1={ death=yes }
+}
+1019915578={
+	name=Hockingpomskenn
+	dynasty=1009990123
+	dna="likmbbjgoop"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=7
+	add_trait=skilled_tactician add_trait=temperate add_trait=paranoid add_trait=greedy add_trait=diligent 
+	add_trait=lustful  
+	father=1019915572	#Quenaghtoothmait
+	818.6.21={ birth=yes }
+	901.5.28={ death=yes }
+}
+1019915579={
+	name=Cholena
+	female=yes
+	dynasty=1009990123
+	dna="biimbbfcdip"
+	culture=delaware religion=algic_pagan
+	father=1019915572	#Quenaghtoothmait
+	824.8.25={ birth=yes }
+	909.8.24={ death=yes }
+}
+1019915580={
+	name=Apacahund
+	dynasty=1009990123
+	dna="benlpbfcmgh"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=8 learning=8
+	add_trait=indulgent_wastrel add_trait=hedonist add_trait=patient add_trait=honest add_trait=slothful 
+	add_trait=arbitrary add_trait=ambitious add_trait=lustful 
+	father=1019915572	#Quenaghtoothmait
+	829.8.4={ birth=yes }
+	885.6.25={ death=yes }
+}
+1019915581={
+	name=Rockatowah
+	dynasty=1009990123
+	dna="bgpjbinjden"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=brave add_trait=paranoid add_trait=gluttonous  
+	add_trait=zealous 
+	father=1019915574	#Kkoquethagechton
+	830.4.24={ birth=yes }
+	903.7.22={ death=yes }
+}
+1019915582={
+	name=Awowas
+	female=yes
+	dynasty=1009990123
+	dna="nhbmbnbjgmj"
+	culture=delaware religion=algic_pagan
+	father=1019915574	#Kkoquethagechton
+	837.7.26={ birth=yes }
+	874.4.9={ death=yes }
+}
+1019915583={
+	name=Kithteeleland
+	dynasty=1009990123
+	dna="dammbiiicpp"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=content add_trait=diligent add_trait=patient  
+	father=1019915574	#Kkoquethagechton
+	845.4.1={ birth=yes }
+	926.11.10={ death=yes }
+}
+1019915584={
+	name=Rockatowah
+	dynasty=1009990123
+	dna="bpmmbcmieph"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=7 learning=7
+	add_trait=grey_eminence add_trait=deceitful add_trait=slothful add_trait=envious add_trait=stressed 
+	father=1019915574	#Kkoquethagechton
+	851.4.3={ birth=yes }
+	931.9.25={ death=yes }
+}
+1019915585={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="bgdjaincden"
+	culture=delaware religion=algic_pagan
+	father=1019915581	#Rockatowah
+	853.4.21={ birth=yes }
+	938.3.19={ death=yes }
+}
+1019915586={
+	name=Kithteeleland
+	dynasty=1009990123
+	dna="mggobifndpn"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=gluttonous add_trait=content add_trait=patient add_trait=craven 
+	add_trait=lunatic 
+	father=1019915581	#Rockatowah
+	858.4.3={ birth=yes }
+	942.11.25={ death=yes }
+}
+1019915587={
+	name=Awowas
+	female=yes
+	dynasty=1009990123
+	dna="lgkjbkhimoc"
+	culture=delaware religion=algic_pagan
+	father=1019915581	#Rockatowah
+	864.9.2={ birth=yes }
+	920.5.16={ death=yes }
+}
+1019915588={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="bggmbinjdpc"
+	culture=delaware religion=algic_pagan
+	father=1019915581	#Rockatowah
+	869.3.8={ birth=yes }
+	946.5.26={ death=yes }
+}
+1019915589={
+	name=Netahopuna
+	dynasty=1009990123
+	dna="bfgconnjhpe"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=martial_cleric add_trait=gregarious add_trait=arbitrary add_trait=deceitful  
+	add_trait=envious add_trait=ambitious 
+	father=1019915581	#Rockatowah
+	875.11.19={ birth=yes }
+	950.9.6={ death=yes }
+}
+1019915590={
+	name=Cholena
+	female=yes
+	dynasty=1009990123
+	dna="igejnibjmen"
+	culture=delaware religion=algic_pagan
+	father=1019915581	#Rockatowah
+	878.12.21={ birth=yes }
+	938.1.24={ death=yes }
+}
+1019915591={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="lgjpildjden"
+	culture=delaware religion=algic_pagan
+	father=1019915581	#Rockatowah
+	883.12.21={ birth=yes }
+	960.1.24={ death=yes }
+}
+1019915592={
+	name=Kechkawhanund
+	dynasty=1009990123
+	dna="flnobbonopp"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=5
+	add_trait=indulgent_wastrel add_trait=ambitious add_trait=lustful add_trait=temperate add_trait=gregarious 
+	add_trait=deceitful add_trait=paranoid 
+	father=1019915586	#Kithteeleland
+	882.5.10={ birth=yes }
+	946.5.28={ death=yes }
+}
+1019915593={
+	name=Kithteeleland
+	dynasty=1009990123
+	dna="mgloakflfpi"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=8 learning=7
+	add_trait=intricate_webweaver  add_trait=gluttonous 
+	father=1019915586	#Kithteeleland
+	885.11.21={ birth=yes }
+	968.10.6={ death=yes }
+}
+1019915594={
+	name=Kithteeleland
+	dynasty=1009990123
+	dna="mgoomifgpkn"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=patient add_trait=arbitrary add_trait=envious add_trait=ambitious 
+	add_trait=wounded 
+	father=1019915586	#Kithteeleland
+	891.9.2={ birth=yes }
+	948.8.5={ death=yes }
+}
+1019915595={
+	name=Kockkatowha
+	dynasty=1009990123
+	dna="clgobigddpn"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=content add_trait=deceitful add_trait=slothful add_trait=craven 
+	add_trait=proud add_trait=just add_trait=ill 
+	father=1019915586	#Kithteeleland
+	894.7.22={ birth=yes }
+	981.10.1={ death=yes }
+}
+1019915596={
+	name=Neshapanacumin
+	dynasty=1009990123
+	dna="mggdbifndpn"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=gluttonous add_trait=deceitful add_trait=craven  
+	father=1019915586	#Kithteeleland
+	896.8.9={ birth=yes }
+	981.10.15={ death=yes }
+}
+1019915597={
+	name=Neconhecon
+	dynasty=1009990123
+	dna="ighhphfkdpn"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=6 learning=5
+	add_trait=mastermind_theologian add_trait=duelist add_trait=temperate add_trait=craven add_trait=gregarious 
+	add_trait=diligent add_trait=drunkard 
+	father=1019915586	#Kithteeleland
+	901.10.14={ birth=yes }
+	959.11.22={ death=yes }
+}
+1019915598={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="fgdocdfnhpn"
+	culture=delaware religion=algic_pagan
+	father=1019915586	#Kithteeleland
+	906.9.26={ birth=yes }
+	975.1.20={ death=yes }
+}
+1019915599={
+	name=Bukongehelas
+	dynasty=1009990123
+	dna="ilgcphonkpp"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=6 learning=6
+	add_trait=mastermind_theologian add_trait=honest add_trait=paranoid add_trait=humble add_trait=gregarious 
+	father=1019915592	#Kechkawhanund
+	913.11.1={ birth=yes }
+	981.9.29={ death=yes }
+}
+1019915600={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="flnoobolepp"
+	culture=delaware religion=algic_pagan
+	father=1019915592	#Kechkawhanund
+	918.2.2={ birth=yes }
+	992.8.9={ death=yes }
+}
+1019915601={
+	name=Alimee
+	dynasty=1009990123
+	dna="bmgcdhankpf"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=slothful add_trait=craven add_trait=arbitrary  
+	add_trait=envious 
+	father=1019915599	#Bukongehelas
+	936.6.6={ birth=yes }
+	989.4.7={ death=yes }
+}
+1019915602={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="ihpnphoicop"
+	culture=delaware religion=algic_pagan
+	father=1019915599	#Bukongehelas
+	940.8.8={ birth=yes }
+	998.2.2={ death=yes }
+}
+1019915603={
+	name=Awowas
+	female=yes
+	dynasty=1009990123
+	dna="igkodholndj"
+	culture=delaware religion=algic_pagan
+	father=1019915599	#Bukongehelas
+	946.11.1={ birth=yes }
+	982.4.3={ death=yes }
+}
+1019915604={
+	name=Neconhecon
+	dynasty=1009990123
+	dna="ilmclinagpp"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=4 learning=5
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=humble  
+	father=1019915599	#Bukongehelas
+	951.5.17={ birth=yes }
+	1027.11.11={ death=yes }
+}
+1019915605={
+	name=Caghkoo
+	dynasty=1009990123
+	dna="bigcdbanpef"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=7 learning=4
+	add_trait=naive_appeaser add_trait=hedonist add_trait=charitable add_trait=cynical add_trait=gluttonous 
+	add_trait=shy 
+	father=1019915601	#Alimee
+	958.9.27={ birth=yes }
+	1018.9.27={ death=yes }
+}
+1019915606={
+	name=Tetabuxike
+	dynasty=1009990123
+	dna="gpgfdjandpo"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=4
+	add_trait=grey_eminence add_trait=gluttonous add_trait=shy add_trait=brave add_trait=ambitious 
+	 
+	father=1019915601	#Alimee
+	963.1.24={ birth=yes }
+	1048.2.26={ death=yes }
+}
+1019915607={
+	name=Kockkatowha
+	dynasty=1009990123
+	dna="bmgcghggjpf"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=8 learning=6
+	add_trait=misguided_warrior add_trait=deceitful add_trait=arbitrary add_trait=trusting add_trait=lustful 
+	father=1019915601	#Alimee
+	967.5.22={ birth=yes }
+	1018.7.25={ death=yes }
+}
+1019915608={
+	name=Awowas
+	female=yes
+	dynasty=1009990123
+	dna="bmgclpanhpf"
+	culture=delaware religion=algic_pagan
+	father=1019915601	#Alimee
+	972.6.16={ birth=yes }
+	1052.9.1={ death=yes }
+}
+1019915609={
+	name=Quacornowha
+	dynasty=1009990123
+	dna="bjggdbchfef"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=5
+	add_trait=elusive_shadow  add_trait=just add_trait=craven 
+	father=1019915605	#Caghkoo
+	979.7.11={ birth=yes }
+	1040.9.25={ death=yes }
+}
+1019915610={
+	name=Neshapanacumin
+	dynasty=1009990123
+	dna="bnojjbpbpml"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	add_trait=tough_soldier add_trait=impaler add_trait=ambitious add_trait=humble 
+	father=1019915605	#Caghkoo
+	983.5.16={ birth=yes }
+	1060.12.23={ death=yes }
+}
+1019915611={
+	name=Awowas
+	female=yes
+	dynasty=1009990123
+	dna="nincajaojlf"
+	culture=delaware religion=algic_pagan
+	father=1019915605	#Caghkoo
+	989.5.16={ birth=yes }
+	1059.2.25={ death=yes }
+}
+1019915612={
+	name=Neconhecon
+	dynasty=1009990123
+	dna="kjcgdbchfec"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=celibate  add_trait=just add_trait=proud 
+	add_trait=ugly 
+	father=1019915609	#Quacornowha
+	1010.8.26={ birth=yes }
+	1080.5.25={ death=yes }
+}
+1019915613={
+	name=Moconnoquah
+	dynasty=1009990123
+	dna="bmhnpdcmoef"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=ambitious add_trait=arbitrary 
+	father=1019915609	#Quacornowha
+	1017.11.1={ birth=yes }
+	1076.5.10={ death=yes }
+}
+1019915614={
+	name=Kechkawhanund
+	dynasty=1009990123
+	dna="pjigdboffhf"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	add_trait=misguided_warrior add_trait=cynical add_trait=gluttonous add_trait=wroth add_trait=gregarious 
+	add_trait=charitable add_trait=quick 
+	father=1019915609	#Quacornowha
+	1024.3.5={ birth=yes }
+	1077.5.5={ death=yes }
+}
+1019915615={
+	name=Cholena
+	female=yes
+	dynasty=1009990123
+	dna="jjcgabcffec"
+	culture=delaware religion=algic_pagan
+	father=1019915612	#Neconhecon
+	1031.4.25={ birth=yes }
+	1093.12.23={ death=yes }
+}
+1019915616={
+	name=Quacornowha
+	dynasty=1009990123
+	dna="ajcbdilonla"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=4 learning=7
+	add_trait=grey_eminence add_trait=slothful add_trait=arbitrary add_trait=lustful 
+	father=1019915612	#Neconhecon
+	1037.8.24={ birth=yes }
+	1124.10.15={ death=yes }
+}
+1019915617={
+	name=Quenaghtoothmait
+	dynasty=1009990123
+	dna="hjjbeilhjac"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=just add_trait=trusting 
+	father=1019915616	#Quacornowha
+	1066.11.9={ birth=yes }
+	1132.12.16={ death=yes }
+}
+1019915618={
+	name=Tamaqua
+	dynasty=1009990123
+	dna="fecgjihdmoa"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=7
+	add_trait=tough_soldier add_trait=greedy add_trait=paranoid add_trait=lustful add_trait=deceitful 
+	add_trait=shy 
+	father=1019915616	#Quacornowha
+	1074.5.15={ birth=yes }
+	1145.3.31={ death=yes }
+}
+1019915619={
+	name=Bukongehelas
+	dynasty=1009990123
+	dna="hjjibllhoac"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=6
+	add_trait=martial_cleric add_trait=scholar add_trait=chaste add_trait=brave add_trait=gregarious 
+	add_trait=temperate 
+	father=1019915617	#Quenaghtoothmait
+	1085.10.7={ birth=yes }
+	1142.1.30={ death=yes }
+}
+1019915620={
+	name=Rockatowah
+	dynasty=1009990123
+	dna="hkjgobbejac"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=4 learning=5
+	add_trait=tough_soldier add_trait=brave add_trait=slothful add_trait=temperate add_trait=lustful 
+	 add_trait=lisp 
+	father=1019915617	#Quenaghtoothmait
+	1089.11.4={ birth=yes }
+	1176.8.5={ death=yes }
+}
+1019915621={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="fljbhiifcaa"
+	culture=delaware religion=algic_pagan
+	father=1019915617	#Quenaghtoothmait
+	1094.10.17={ birth=yes }
+	1157.4.10={ death=yes }
+}
+1019915622={
+	name=Awowas
+	female=yes
+	dynasty=1009990123
+	dna="aajbnalhjnm"
+	culture=delaware religion=algic_pagan
+	father=1019915617	#Quenaghtoothmait
+	1097.5.24={ birth=yes }
+	1179.12.26={ death=yes }
+}
+1019915623={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="jkjeoblmifo"
+	culture=delaware religion=algic_pagan
+	father=1019915617	#Quenaghtoothmait
+	1102.10.19={ birth=yes }
+	1159.9.4={ death=yes }
+}
+1019915624={
+	name=Buckongahelas
+	dynasty=1009990123
+	dna="ajjbbhoheag"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=chaste add_trait=humble add_trait=zealous add_trait=shy 
+	father=1019915619	#Bukongehelas
+	1117.3.1={ birth=yes }
+	1203.2.16={ death=yes }
+}
+1019915625={
+	name=Cholena
+	female=yes
+	dynasty=1009990123
+	dna="ggcibllhgai"
+	culture=delaware religion=algic_pagan
+	father=1019915619	#Bukongehelas
+	1121.4.21={ birth=yes }
+	1182.6.2={ death=yes }
+}
+1019915626={
+	name=Tetabuxike
+	dynasty=1009990123
+	dna="kjjbfnlfbaf"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=5 learning=6
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=trusting add_trait=just add_trait=ill 
+	father=1019915619	#Bukongehelas
+	1127.3.14={ birth=yes }
+	1194.10.10={ death=yes }
+}
+1019915627={
+	name=Quacornowha
+	dynasty=1009990123
+	dna="ajjbbaehegg"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=4 learning=5
+	add_trait=midas_touched add_trait=impaler add_trait=brave add_trait=deceitful 
+	father=1019915624	#Buckongahelas
+	1139.3.26={ birth=yes }
+	1201.9.3={ death=yes }
+}
+1019915628={
+	name=Kkoquethagechton
+	dynasty=1009990123
+	dna="nojbbhchpag"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=duelist add_trait=chaste add_trait=arbitrary add_trait=brave 
+	add_trait=drunkard 
+	father=1019915624	#Buckongahelas
+	1144.8.18={ birth=yes }
+	1218.5.12={ death=yes }
+}
+1019915629={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="djjlphoheag"
+	culture=delaware religion=algic_pagan
+	father=1019915624	#Buckongahelas
+	1150.4.23={ birth=yes }
+	1206.8.14={ death=yes }
+}
+1019915630={
+	name=Neconhecon
+	dynasty=1009990123
+	dna="ahkkcaghggg"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=7 learning=8
+	add_trait=charismatic_negotiator  add_trait=wroth add_trait=arbitrary add_trait=envious 
+	father=1019915627	#Quacornowha
+	1170.1.18={ birth=yes }
+	1253.6.17={ death=yes }
+}
+1019915631={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="fjflbanoecg"
+	culture=delaware religion=algic_pagan
+	father=1019915627	#Quacornowha
+	1178.5.19={ birth=yes }
+	1251.12.1={ death=yes }
+}
+1019915632={
+	name=Hockingpomskenn
+	dynasty=1009990123
+	dna="iajbbdehpda"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=gregarious add_trait=slothful add_trait=lustful 
+	father=1019915627	#Quacornowha
+	1184.4.13={ birth=yes }
+	1260.7.21={ death=yes }
+}
+1019915633={
+	name=Buckongahelas
+	dynasty=1009990123
+	dna="jnjbemehgjg"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=8 learning=6
+	add_trait=misguided_warrior add_trait=greedy add_trait=zealous add_trait=just add_trait=patient 
+	add_trait=proud add_trait=lunatic 
+	father=1019915627	#Quacornowha
+	1192.11.5={ birth=yes }
+	1252.1.17={ death=yes }
+}
+1019915634={
+	name=Kkoquethagechton
+	dynasty=1009990123
+	dna="ahkclagnagg"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=chaste add_trait=zealous add_trait=ambitious 
+	father=1019915630	#Neconhecon
+	1193.5.23={ birth=yes }
+	1275.5.24={ death=yes }
+}
+1019915635={
+	name=Missenewand
+	dynasty=1009990123
+	dna="fhjkoaggggg"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=trusting add_trait=gluttonous  add_trait=arbitrary 
+	add_trait=cynical add_trait=wounded 
+	father=1019915630	#Neconhecon
+	1196.11.12={ birth=yes }
+	1270.3.1={ death=yes }
+}
+1019915636={
+	name=Awowas
+	female=yes
+	dynasty=1009990123
+	dna="fdgkchgfggm"
+	culture=delaware religion=algic_pagan
+	father=1019915630	#Neconhecon
+	1200.12.21={ birth=yes }
+	1283.2.27={ death=yes }
+}
+1019915637={
+	name=Quenaghtoothmait
+	dynasty=1009990123
+	dna="fnjkkafhbjg"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=8
+	add_trait=indulgent_wastrel add_trait=content add_trait=shy add_trait=patient add_trait=paranoid 
+	 add_trait=envious add_trait=hunchback 
+	father=1019915630	#Neconhecon
+	1205.3.3={ birth=yes }
+	1277.10.26={ death=yes }
+}
+1019915638={
+	name=Apacahund
+	dynasty=1009990123
+	dna="ohihcagidfj"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=8 learning=4
+	add_trait=elusive_shadow add_trait=gregarious add_trait=craven add_trait=arbitrary add_trait=deceitful 
+	father=1019915630	#Neconhecon
+	1209.10.5={ birth=yes }
+	1281.8.11={ death=yes }
+}
+1019915639={
+	name=Awowas
+	female=yes
+	dynasty=1009990123
+	dna="locjcakjnmg"
+	culture=delaware religion=algic_pagan
+	father=1019915630	#Neconhecon
+	1213.8.26={ birth=yes }
+	1276.9.25={ death=yes }
+}
+1019915640={
+	name=Cholena
+	female=yes
+	dynasty=1009990123
+	dna="iekncihfmgg"
+	culture=delaware religion=algic_pagan
+	father=1019915630	#Neconhecon
+	1218.9.9={ birth=yes }
+	1306.1.22={ death=yes }
+}
+1019915641={
+	name=Pondoxy
+	dynasty=1009990123
+	dna="ahkcllenagf"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=7
+	add_trait=flamboyant_schemer add_trait=trusting  
+	father=1019915634	#Kkoquethagechton
+	1216.9.4={ birth=yes }
+	1295.2.8={ death=yes }
+}
+1019915642={
+	name=Sarcoxey
+	dynasty=1009990123
+	dna="ahfclmbgjhp"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=8 learning=6
+	add_trait=scholarly_theologian add_trait=craven add_trait=lustful add_trait=trusting add_trait=shy 
+	add_trait=deceitful add_trait=zealous add_trait=stressed add_trait=possessed 
+	father=1019915634	#Kkoquethagechton
+	1221.11.8={ birth=yes }
+	1264.7.4={ death=yes }
+}
+1019915643={
+	name=Kockkatowha
+	dynasty=1009990123
+	dna="almcaledagn"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=8 learning=6
+	add_trait=mastermind_theologian add_trait=trusting add_trait=charitable add_trait=zealous add_trait=just 
+	add_trait=lisp 
+	father=1019915641	#Pondoxy
+	1247.3.19={ birth=yes }
+	1307.12.19={ death=yes }
+}
+1019915644={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="ahkplddcgof"
+	culture=delaware religion=algic_pagan
+	father=1019915641	#Pondoxy
+	1251.5.25={ birth=yes }
+	1310.6.1={ death=yes }
+}
+1019915645={
+	name=Quacornowha
+	dynasty=1009990123
+	dna="ghpkllenagf"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=diligent add_trait=charitable add_trait=gluttonous add_trait=drunkard 
+	father=1019915641	#Pondoxy
+	1254.11.17={ birth=yes }
+	1339.2.16={ death=yes }
+}
+1019915646={
+	name=Neconhecon
+	dynasty=1009990123
+	dna="bhmollmlaea"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=7 learning=7
+	add_trait=naive_appeaser add_trait=hedonist add_trait=gregarious add_trait=wroth  
+	father=1019915641	#Pondoxy
+	1260.2.20={ birth=yes }
+	1343.3.31={ death=yes }
+}
+1019915647={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="nhecnoenagf"
+	culture=delaware religion=algic_pagan
+	father=1019915641	#Pondoxy
+	1264.9.10={ birth=yes }
+	1344.5.7={ death=yes }
+}
+1019915648={
+	name=Queshatowha
+	dynasty=1009990123
+	dna="acghmleddef"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=impaler add_trait=lustful add_trait=just 
+	father=1019915643	#Kockkatowha
+	1278.8.27={ birth=yes }
+	1331.3.26={ death=yes }
+}
+1019915649={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="immcjhedagn"
+	culture=delaware religion=algic_pagan
+	father=1019915643	#Kockkatowha
+	1282.10.20={ birth=yes }
+	1336.10.15={ death=yes }
+}
+1019915650={
+	name=Cholena
+	female=yes
+	dynasty=1009990123
+	dna="fldcachcfgn"
+	culture=delaware religion=algic_pagan
+	father=1019915643	#Kockkatowha
+	1287.9.26={ birth=yes }
+	1363.3.20={ death=yes }
+}
+1019915651={
+	name=Hopocan
+	dynasty=1009990123
+	dna="pcghmledeff"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=hunter add_trait=paranoid add_trait=gluttonous add_trait=arbitrary 
+	add_trait=honest add_trait=content add_trait=greedy 
+	father=1019915648	#Queshatowha
+	1302.12.8={ birth=yes }
+	1393.11.23={ death=yes }
+}
+1019915652={
+	name=Tetabuxike
+	dynasty=1009990123
+	dna="acfmplekddf"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	add_trait=martial_cleric add_trait=hedonist add_trait=ambitious add_trait=shy add_trait=gluttonous 
+	add_trait=deceitful 
+	father=1019915648	#Queshatowha
+	1307.6.13={ birth=yes }
+	1383.12.5={ death=yes }
+}
+1019915653={
+	name=Queshatowha
+	dynasty=1009990123
+	dna="acfcflebdaf"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=7
+	add_trait=charismatic_negotiator add_trait=scholar add_trait=gregarious add_trait=arbitrary add_trait=charitable 
+	add_trait=deceitful add_trait=chaste 
+	father=1019915648	#Queshatowha
+	1312.6.5={ birth=yes }
+	1377.11.20={ death=yes }
+}
+1019915654={
+	name=Tomaguee
+	dynasty=1009990123
+	dna="jdhhmhfddhe"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=8 learning=7
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=honest add_trait=shy 
+	father=1019915648	#Queshatowha
+	1319.11.22={ birth=yes }
+	1404.5.22={ death=yes }
+}
+1019915655={
+	name=Oratam
+	dynasty=1009990123
+	dna="hclpmabmdef"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=7
+	add_trait=indulgent_wastrel add_trait=cynical add_trait=content  add_trait=charitable 
+	add_trait=temperate 
+	father=1019915648	#Queshatowha
+	1321.4.13={ birth=yes }
+	1374.5.18={ death=yes }
+}
+1019915656={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="ackhcbedlef"
+	culture=delaware religion=algic_pagan
+	father=1019915648	#Queshatowha
+	1326.5.13={ birth=yes }
+	1363.1.21={ death=yes }
+}
+1019915657={
+	name=Neconhecond
+	dynasty=1009990123
+	dna="pmghkfoggfj"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	add_trait=skilled_tactician add_trait=zealous add_trait=deceitful add_trait=paranoid add_trait=ambitious 
+	add_trait=stressed 
+	father=1019915651	#Hopocan
+	1322.7.2={ birth=yes }
+	1384.7.11={ death=yes }
+}
+1019915658={
+	name=Cholena
+	female=yes
+	dynasty=1009990123
+	dna="pcgkeledgfa"
+	culture=delaware religion=algic_pagan
+	father=1019915651	#Hopocan
+	1327.10.21={ birth=yes }
+	1383.5.17={ death=yes }
+}
+1019915659={
+	name=Kkoquethagechton
+	dynasty=1009990123
+	dna="pcdephenefe"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=charitable add_trait=shy add_trait=paranoid 
+	father=1019915651	#Hopocan
+	1333.11.3={ birth=yes }
+	1401.8.11={ death=yes }
+}
+1019915660={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="pcgjmleomof"
+	culture=delaware religion=algic_pagan
+	father=1019915651	#Hopocan
+	1338.6.6={ birth=yes }
+	1398.2.11={ death=yes }
+}
+1019915661={
+	name=Awowas
+	female=yes
+	dynasty=1009990123
+	dna="pmdnkfoaghd"
+	culture=delaware religion=algic_pagan
+	father=1019915657	#Neconhecond
+	1349.10.10={ birth=yes }
+	1425.3.8={ death=yes }
+}
+1019915662={
+	name=Pondoxy
+	dynasty=1009990123
+	dna="ndbhbclilhj"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=naive_appeaser add_trait=diligent add_trait=temperate  add_trait=brave 
+	father=1019915657	#Neconhecond
+	1354.6.22={ birth=yes }
+	1417.2.10={ death=yes }
+}
+1019915663={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990123
+	dna="pkoikaogach"
+	culture=delaware religion=algic_pagan
+	father=1019915657	#Neconhecond
+	1357.11.26={ birth=yes }
+	1444.8.18={ death=yes }
+}
+1019915664={
+	name=Kockkockquas
+	dynasty=1009990124
+	dna="ooahdbclioj"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=8
+	add_trait=midas_touched add_trait=greedy add_trait=chaste add_trait=diligent add_trait=gluttonous 
+	add_trait=craven 
+	720.9.17={ birth=yes }
+	805.11.6={ death=yes }
+}
+1019915665={
+	name=Kithteeleland
+	dynasty=1009990124
+	dna="pmahlpcmknf"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=4
+	add_trait=skilled_tactician add_trait=hunter  add_trait=greedy add_trait=proud 
+	add_trait=ill 
+	father=1019915664	#Kockkockquas
+	749.4.16={ birth=yes }
+	828.5.5={ death=yes }
+}
+1019915666={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="ooahdbjjihg"
+	culture=delaware religion=algic_pagan
+	father=1019915664	#Kockkockquas
+	752.6.23={ birth=yes }
+	810.4.7={ death=yes }
+}
+1019915667={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="ejihdmajnod"
+	culture=delaware religion=algic_pagan
+	father=1019915664	#Kockkockquas
+	756.2.14={ birth=yes }
+	813.3.26={ death=yes }
+}
+1019915668={
+	name=Neshapanacumin
+	dynasty=1009990124
+	dna="oodjbbclbmj"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=paranoid add_trait=wroth  add_trait=craven 
+	add_trait=temperate 
+	father=1019915664	#Kockkockquas
+	759.2.1={ birth=yes }
+	827.5.18={ death=yes }
+}
+1019915669={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="biachmcliah"
+	culture=delaware religion=algic_pagan
+	father=1019915664	#Kockkockquas
+	763.8.7={ birth=yes }
+	830.10.31={ death=yes }
+}
+1019915670={
+	name=Bukongehelas
+	dynasty=1009990124
+	dna="lokhoiclifj"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=charitable add_trait=temperate add_trait=arbitrary add_trait=stressed 
+	father=1019915664	#Kockkockquas
+	766.2.2={ birth=yes }
+	830.5.21={ death=yes }
+}
+1019915671={
+	name=Quacornowha
+	dynasty=1009990124
+	dna="ooahdbpdibl"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	add_trait=flamboyant_schemer add_trait=poet add_trait=patient add_trait=gluttonous add_trait=brave 
+	add_trait=proud 
+	father=1019915664	#Kockkockquas
+	771.6.2={ birth=yes }
+	825.5.4={ death=yes }
+}
+1019915672={
+	name=Queshatowha
+	dynasty=1009990124
+	dna="pmahlkjieno"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=5 learning=4
+	add_trait=midas_touched add_trait=wroth add_trait=slothful add_trait=lustful add_trait=honest 
+	father=1019915665	#Kithteeleland
+	779.3.1={ birth=yes }
+	824.4.7={ death=yes }
+}
+1019915673={
+	name=Ahlaachick
+	dynasty=1009990124
+	dna="lnadcbjmoaf"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=4 learning=5
+	add_trait=mastermind_theologian add_trait=gluttonous add_trait=trusting add_trait=charitable  
+	add_trait=lunatic 
+	father=1019915665	#Kithteeleland
+	784.6.22={ birth=yes }
+	869.10.28={ death=yes }
+}
+1019915674={
+	name=Moconnoquah
+	dynasty=1009990124
+	dna="ppahlopmmnd"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=7 learning=4
+	add_trait=elusive_shadow add_trait=impaler add_trait=charitable add_trait=slothful  
+	add_trait=cynical add_trait=ambitious add_trait=stutter 
+	father=1019915665	#Kithteeleland
+	790.1.20={ birth=yes }
+	846.12.11={ death=yes }
+}
+1019915675={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="ddahlodpgnf"
+	culture=delaware religion=algic_pagan
+	father=1019915665	#Kithteeleland
+	796.4.17={ birth=yes }
+	855.10.3={ death=yes }
+}
+1019915676={
+	name=Neshapanacumin
+	dynasty=1009990124
+	dna="lbiilffelmo"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=arbitrary 
+	father=1019915672	#Queshatowha
+	804.1.26={ birth=yes }
+	873.6.24={ death=yes }
+}
+1019915677={
+	name=Tetabuxike
+	dynasty=1009990124
+	dna="pmahlbiieoo"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=6 learning=8
+	add_trait=detached_priest add_trait=mystic add_trait=shy add_trait=craven add_trait=envious 
+	add_trait=zealous 
+	father=1019915672	#Queshatowha
+	808.7.18={ birth=yes }
+	895.9.5={ death=yes }
+}
+1019915678={
+	name=Moconnoquah
+	dynasty=1009990124
+	dna="lmnplcjkono"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	add_trait=martial_cleric add_trait=diligent add_trait=content 
+	father=1019915672	#Queshatowha
+	815.2.22={ birth=yes }
+	869.8.23={ death=yes }
+}
+1019915679={
+	name=Alimee
+	dynasty=1009990124
+	dna="himolffelgo"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=5 learning=6
+	add_trait=midas_touched add_trait=trusting add_trait=wroth add_trait=greedy add_trait=zealous 
+	father=1019915676	#Neshapanacumin
+	830.1.16={ birth=yes }
+	871.11.5={ death=yes }
+}
+1019915680={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="lmfilfnnfml"
+	culture=delaware religion=algic_pagan
+	father=1019915676	#Neshapanacumin
+	834.2.8={ birth=yes }
+	904.8.16={ death=yes }
+}
+1019915681={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="gbielgfblgo"
+	culture=delaware religion=algic_pagan
+	father=1019915676	#Neshapanacumin
+	837.3.13={ birth=yes }
+	921.12.15={ death=yes }
+}
+1019915682={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="cneimbnelmo"
+	culture=delaware religion=algic_pagan
+	father=1019915676	#Neshapanacumin
+	841.2.12={ birth=yes }
+	920.1.16={ death=yes }
+}
+1019915683={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="lkohlafbhmd"
+	culture=delaware religion=algic_pagan
+	father=1019915676	#Neshapanacumin
+	848.4.16={ birth=yes }
+	933.6.23={ death=yes }
+}
+1019915684={
+	name=Kockkockquas
+	dynasty=1009990124
+	dna="loidlffepmo"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=5 learning=4
+	add_trait=midas_touched add_trait=content add_trait=arbitrary add_trait=greedy 
+	father=1019915676	#Neshapanacumin
+	850.8.9={ birth=yes }
+	951.2.14={ death=yes }
+}
+1019915685={
+	name=Tetabuxike
+	dynasty=1009990124
+	dna="hpjfkhgeloa"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=paranoid add_trait=cynical add_trait=craven add_trait=shy 
+	add_trait=chaste 
+	father=1019915679	#Alimee
+	861.3.26={ birth=yes }
+	938.5.22={ death=yes }
+}
+1019915686={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="hfmkenfelof"
+	culture=delaware religion=algic_pagan
+	father=1019915679	#Alimee
+	867.10.17={ birth=yes }
+	951.7.1={ death=yes }
+}
+1019915687={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="limolfeengk"
+	culture=delaware religion=algic_pagan
+	father=1019915679	#Alimee
+	871.10.24={ birth=yes }
+	946.1.19={ death=yes }
+}
+1019915688={
+	name=Pooshies
+	dynasty=1009990124
+	dna="iiahbfahlbo"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=gregarious add_trait=humble add_trait=arbitrary add_trait=patient 
+	add_trait=greedy add_trait=stressed 
+	father=1019915679	#Alimee
+	873.12.5={ birth=yes }
+	948.10.21={ death=yes }
+}
+1019915689={
+	name=Kockkockquas
+	dynasty=1009990124
+	dna="hddolpfplbo"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=celibate add_trait=proud add_trait=ambitious add_trait=craven 
+	add_trait=deceitful add_trait=diligent 
+	father=1019915679	#Alimee
+	879.12.18={ birth=yes }
+	933.2.23={ death=yes }
+}
+1019915690={
+	name=Kechkawhanund
+	dynasty=1009990124
+	dna="hleoeifelfo"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=wroth add_trait=envious add_trait=shy add_trait=just 
+	father=1019915679	#Alimee
+	882.8.16={ birth=yes }
+	950.12.20={ death=yes }
+}
+1019915691={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="fhookkminld"
+	culture=delaware religion=algic_pagan
+	father=1019915679	#Alimee
+	886.7.2={ birth=yes }
+	959.10.10={ death=yes }
+}
+1019915692={
+	name=Gelelemend
+	dynasty=1009990124
+	dna="mnlfihjeloa"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=4
+	add_trait=scholarly_theologian add_trait=brave add_trait=content add_trait=arbitrary  
+	add_trait=envious 
+	father=1019915685	#Tetabuxike
+	884.10.8={ birth=yes }
+	970.8.17={ death=yes }
+}
+1019915693={
+	name=Kockkatowha
+	dynasty=1009990124
+	dna="hplfghgaoog"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=honest add_trait=greedy  add_trait=chaste 
+	father=1019915685	#Tetabuxike
+	886.5.18={ birth=yes }
+	942.6.7={ death=yes }
+}
+1019915694={
+	name=Teedyuscung
+	dynasty=1009990124
+	dna="bpefghheloa"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=7 learning=6
+	add_trait=grey_eminence add_trait=deceitful add_trait=gluttonous add_trait=greedy add_trait=ill 
+	father=1019915685	#Tetabuxike
+	891.12.19={ birth=yes }
+	969.9.25={ death=yes }
+}
+1019915695={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="bnnfihjdloa"
+	culture=delaware religion=algic_pagan
+	father=1019915692	#Gelelemend
+	908.6.20={ birth=yes }
+	993.9.22={ death=yes }
+}
+1019915696={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="mhefinjdhbj"
+	culture=delaware religion=algic_pagan
+	father=1019915692	#Gelelemend
+	915.5.19={ birth=yes }
+	1017.3.7={ death=yes }
+}
+1019915697={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="knlcicjnloa"
+	culture=delaware religion=algic_pagan
+	father=1019915692	#Gelelemend
+	919.2.16={ birth=yes }
+	1001.8.7={ death=yes }
+}
+1019915698={
+	name=Petchekekapon
+	dynasty=1009990124
+	dna="mnlfihjkpoa"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=charitable add_trait=patient add_trait=chaste add_trait=ambitious 
+	add_trait=proud add_trait=drunkard 
+	father=1019915692	#Gelelemend
+	924.12.12={ birth=yes }
+	985.8.8={ death=yes }
+}
+1019915699={
+	name=Gelelemend
+	dynasty=1009990124
+	dna="mnpfilmkeoa"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=slothful add_trait=brave add_trait=cynical 
+	father=1019915698	#Petchekekapon
+	947.3.7={ birth=yes }
+	1045.12.20={ death=yes }
+}
+1019915700={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="mjlfidjkpna"
+	culture=delaware religion=algic_pagan
+	father=1019915698	#Petchekekapon
+	953.9.17={ birth=yes }
+	1022.12.2={ death=yes }
+}
+1019915701={
+	name=Kkoquethagechton
+	dynasty=1009990124
+	dna="holiphjhpoi"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=5 learning=4
+	add_trait=skilled_tactician add_trait=content add_trait=slothful add_trait=zealous add_trait=humble 
+	father=1019915698	#Petchekekapon
+	956.9.14={ birth=yes }
+	1025.2.16={ death=yes }
+}
+1019915702={
+	name=Neconhecond
+	dynasty=1009990124
+	dna="kppniffnbjp"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=4
+	add_trait=scholarly_theologian add_trait=scholar  add_trait=cynical  
+	father=1019915699	#Gelelemend
+	967.6.20={ birth=yes }
+	1053.8.14={ death=yes }
+}
+1019915703={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="pkpdoamkeoe"
+	culture=delaware religion=algic_pagan
+	father=1019915699	#Gelelemend
+	973.1.13={ birth=yes }
+	1037.2.25={ death=yes }
+}
+1019915704={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="mhpfilmkeoa"
+	culture=delaware religion=algic_pagan
+	father=1019915699	#Gelelemend
+	979.5.26={ birth=yes }
+	1052.10.14={ death=yes }
+}
+1019915705={
+	name=Pondoxy
+	dynasty=1009990124
+	dna="hjpnipbjkjp"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=7
+	add_trait=misguided_warrior  add_trait=humble 
+	father=1019915702	#Neconhecond
+	997.12.18={ birth=yes }
+	1080.2.1={ death=yes }
+}
+1019915706={
+	name=Kithteeleland
+	dynasty=1009990124
+	dna="kopniddnajp"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=poet add_trait=brave add_trait=deceitful add_trait=cynical 
+	add_trait=proud add_trait=greedy 
+	father=1019915702	#Neconhecond
+	1000.5.5={ birth=yes }
+	1083.4.12={ death=yes }
+}
+1019915707={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="hppnimfndjf"
+	culture=delaware religion=algic_pagan
+	father=1019915702	#Neconhecond
+	1007.12.12={ birth=yes }
+	1091.8.10={ death=yes }
+}
+1019915708={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="hjanipfjkob"
+	culture=delaware religion=algic_pagan
+	father=1019915705	#Pondoxy
+	1027.11.18={ birth=yes }
+	1113.5.15={ death=yes }
+}
+1019915709={
+	name=Ahlaachick
+	dynasty=1009990124
+	dna="bjhbikjjkbp"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=7 learning=8
+	add_trait=misguided_warrior add_trait=greedy add_trait=envious add_trait=trusting add_trait=humble 
+	add_trait=ill 
+	father=1019915705	#Pondoxy
+	1031.3.26={ birth=yes }
+	1084.3.26={ death=yes }
+}
+1019915710={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="cihbokjjdbg"
+	culture=delaware religion=algic_pagan
+	father=1019915709	#Ahlaachick
+	1049.11.18={ birth=yes }
+	1133.6.25={ death=yes }
+}
+1019915711={
+	name=Quacornowha
+	dynasty=1009990124
+	dna="imhdokfakgm"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=hunter add_trait=craven add_trait=gluttonous add_trait=paranoid 
+	add_trait=cynical  add_trait=wounded add_trait=lunatic 
+	father=1019915709	#Ahlaachick
+	1055.5.6={ birth=yes }
+	1134.5.20={ death=yes }
+}
+1019915712={
+	name=Netahopuna
+	dynasty=1009990124
+	dna="ifcdlkdpabe"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=4
+	add_trait=naive_appeaser add_trait=just   add_trait=cynical 
+	father=1019915711	#Quacornowha
+	1078.9.20={ birth=yes }
+	1166.2.7={ death=yes }
+}
+1019915713={
+	name=Kockkatowha
+	dynasty=1009990124
+	dna="bbhdokoikjm"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=gluttonous add_trait=patient  add_trait=slothful 
+	 add_trait=cynical 
+	father=1019915711	#Quacornowha
+	1083.12.23={ birth=yes }
+	1142.3.31={ death=yes }
+}
+1019915714={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="ampojafaopo"
+	culture=delaware religion=algic_pagan
+	father=1019915711	#Quacornowha
+	1087.9.19={ birth=yes }
+	1153.2.25={ death=yes }
+}
+1019915715={
+	name=Hopocan
+	dynasty=1009990124
+	dna="bmhdoddckgm"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=humble add_trait=patient add_trait=craven  
+	father=1019915711	#Quacornowha
+	1094.3.19={ birth=yes }
+	1170.1.6={ death=yes }
+}
+1019915716={
+	name=Tunis
+	dynasty=1009990124
+	dna="jfddhndpale"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=4
+	add_trait=martial_cleric add_trait=lustful add_trait=gregarious add_trait=diligent add_trait=drunkard 
+	father=1019915712	#Netahopuna
+	1102.4.22={ birth=yes }
+	1161.1.6={ death=yes }
+}
+1019915717={
+	name=Queshatowha
+	dynasty=1009990124
+	dna="ifndlkaipam"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=6 learning=5
+	add_trait=skilled_tactician add_trait=hedonist add_trait=charitable add_trait=just add_trait=wroth 
+	add_trait=gluttonous add_trait=chaste 
+	father=1019915712	#Netahopuna
+	1108.4.14={ birth=yes }
+	1177.9.25={ death=yes }
+}
+1019915718={
+	name=Tomaguee
+	dynasty=1009990124
+	dna="ignglbhopfe"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=5 learning=8
+	add_trait=grey_eminence add_trait=gregarious add_trait=cynical add_trait=paranoid add_trait=proud 
+	add_trait=deceitful add_trait=lunatic 
+	father=1019915712	#Netahopuna
+	1112.12.21={ birth=yes }
+	1184.9.27={ death=yes }
+}
+1019915719={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="ifadlilcabb"
+	culture=delaware religion=algic_pagan
+	father=1019915712	#Netahopuna
+	1116.12.10={ birth=yes }
+	1198.5.14={ death=yes }
+}
+1019915720={
+	name=Caghkoo
+	dynasty=1009990124
+	dna="mhjlljdlabe"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=8 learning=8
+	add_trait=intricate_webweaver add_trait=envious add_trait=chaste add_trait=just add_trait=content 
+	add_trait=cynical 
+	father=1019915712	#Netahopuna
+	1121.5.6={ birth=yes }
+	1182.3.16={ death=yes }
+}
+1019915721={
+	name=Caghkoo
+	dynasty=1009990124
+	dna="ifcjlkipaje"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=8
+	add_trait=misguided_warrior  add_trait=chaste add_trait=brave add_trait=ill 
+	father=1019915712	#Netahopuna
+	1126.3.15={ birth=yes }
+	1176.8.12={ death=yes }
+}
+1019915722={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="maadecdpabj"
+	culture=delaware religion=algic_pagan
+	father=1019915712	#Netahopuna
+	1130.11.19={ birth=yes }
+	1183.6.22={ death=yes }
+}
+1019915723={
+	name=Tomaguee
+	dynasty=1009990124
+	dna="aepdhadllhp"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=impaler add_trait=envious add_trait=ambitious add_trait=proud 
+	add_trait=craven add_trait=stutter 
+	father=1019915716	#Tunis
+	1125.7.9={ birth=yes }
+	1186.3.14={ death=yes }
+}
+1019915724={
+	name=Tunis
+	dynasty=1009990124
+	dna="jfdbjndpaoe"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=7 learning=4
+	add_trait=scholarly_theologian add_trait=diligent add_trait=arbitrary add_trait=patient 
+	father=1019915716	#Tunis
+	1133.1.7={ birth=yes }
+	1207.5.7={ death=yes }
+}
+1019915725={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="jfddakkpanb"
+	culture=delaware religion=algic_pagan
+	father=1019915716	#Tunis
+	1140.9.1={ birth=yes }
+	1188.12.30={ death=yes }
+}
+1019915726={
+	name=Queshatowha
+	dynasty=1009990124
+	dna="fejahaagfip"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=5 learning=4
+	add_trait=flamboyant_schemer  add_trait=chaste add_trait=greedy add_trait=proud 
+	father=1019915723	#Tomaguee
+	1151.2.16={ birth=yes }
+	1212.7.12={ death=yes }
+}
+1019915727={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="ljnigcdnlno"
+	culture=delaware religion=algic_pagan
+	father=1019915723	#Tomaguee
+	1154.9.8={ birth=yes }
+	1240.12.30={ death=yes }
+}
+1019915728={
+	name=Petchekekapon
+	dynasty=1009990124
+	dna="hepbkhdljbp"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=5
+	add_trait=midas_touched add_trait=cynical add_trait=just add_trait=temperate add_trait=brave 
+	 
+	father=1019915723	#Tomaguee
+	1156.9.4={ birth=yes }
+	1210.7.23={ death=yes }
+}
+1019915729={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="mhpdhodlcll"
+	culture=delaware religion=algic_pagan
+	father=1019915723	#Tomaguee
+	1162.9.11={ birth=yes }
+	1234.1.11={ death=yes }
+}
+1019915730={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="alpdhaodldp"
+	culture=delaware religion=algic_pagan
+	father=1019915723	#Tomaguee
+	1168.11.19={ birth=yes }
+	1252.3.20={ death=yes }
+}
+1019915731={
+	name=Neolin
+	dynasty=1009990124
+	dna="pldahcdeffp"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=8 learning=5
+	add_trait=skilled_tactician add_trait=arbitrary add_trait=gregarious add_trait=paranoid 
+	father=1019915726	#Queshatowha
+	1172.10.20={ birth=yes }
+	1235.1.23={ death=yes }
+}
+1019915732={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="ffjakbkpfpe"
+	culture=delaware religion=algic_pagan
+	father=1019915726	#Queshatowha
+	1175.7.17={ birth=yes }
+	1228.4.18={ death=yes }
+}
+1019915733={
+	name=Missenewand
+	dynasty=1009990124
+	dna="bhbahgalagp"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	add_trait=intricate_webweaver add_trait=ambitious add_trait=charitable add_trait=chaste add_trait=just 
+	add_trait=ugly 
+	father=1019915726	#Queshatowha
+	1179.5.2={ birth=yes }
+	1253.12.30={ death=yes }
+}
+1019915734={
+	name=Kkoquethagechton
+	dynasty=1009990124
+	dna="foekpbccfib"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	add_trait=indulgent_wastrel add_trait=charitable add_trait=gregarious add_trait=paranoid add_trait=just 
+	add_trait=depressed 
+	father=1019915726	#Queshatowha
+	1184.10.24={ birth=yes }
+	1268.5.5={ death=yes }
+}
+1019915735={
+	name=Queshatowha
+	dynasty=1009990124
+	dna="pngahccocip"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=humble add_trait=cynical add_trait=deceitful add_trait=lustful 
+	add_trait=patient 
+	father=1019915731	#Neolin
+	1201.8.15={ birth=yes }
+	1267.3.30={ death=yes }
+}
+1019915736={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="pliakcdeffp"
+	culture=delaware religion=algic_pagan
+	father=1019915731	#Neolin
+	1207.2.11={ birth=yes }
+	1282.3.4={ death=yes }
+}
+1019915737={
+	name=Quenaghtoothmait
+	dynasty=1009990124
+	dna="pamabcgefkp"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=7
+	add_trait=grey_eminence add_trait=wroth add_trait=paranoid  add_trait=craven 
+	add_trait=content 
+	father=1019915731	#Neolin
+	1212.4.27={ birth=yes }
+	1282.8.3={ death=yes }
+}
+1019915738={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="dedgcapeffc"
+	culture=delaware religion=algic_pagan
+	father=1019915731	#Neolin
+	1219.9.1={ birth=yes }
+	1286.8.30={ death=yes }
+}
+1019915739={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="enganlhoein"
+	culture=delaware religion=algic_pagan
+	father=1019915735	#Queshatowha
+	1229.12.13={ birth=yes }
+	1293.7.24={ death=yes }
+}
+1019915740={
+	name=Quacornowha
+	dynasty=1009990124
+	dna="pnfahccpnjp"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=zealous add_trait=shy add_trait=envious add_trait=lunatic 
+	father=1019915735	#Queshatowha
+	1234.1.17={ birth=yes }
+	1300.5.11={ death=yes }
+}
+1019915741={
+	name=Hockingpomskenn
+	dynasty=1009990124
+	dna="pngahccoajo"
+	culture=delaware religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=4 learning=6
+	add_trait=misguided_warrior add_trait=proud add_trait=honest add_trait=gregarious  
+	add_trait=charitable 
+	father=1019915735	#Queshatowha
+	1236.7.6={ birth=yes }
+	1296.8.12={ death=yes }
+}
+1019915742={
+	name=Sarcoxey
+	dynasty=1009990124
+	dna="cnjahcnjfio"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=6 learning=5
+	add_trait=flamboyant_schemer add_trait=duelist add_trait=just add_trait=humble add_trait=greedy 
+	add_trait=depressed 
+	father=1019915735	#Queshatowha
+	1243.5.17={ birth=yes }
+	1309.11.3={ death=yes }
+}
+1019915743={
+	name=Quenaghtoothmait
+	dynasty=1009990124
+	dna="ankapenpbjp"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=8 learning=5
+	add_trait=misguided_warrior  add_trait=charitable add_trait=gluttonous add_trait=patient 
+	add_trait=just 
+	father=1019915740	#Quacornowha
+	1263.10.17={ birth=yes }
+	1341.8.14={ death=yes }
+}
+1019915744={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="pngnacjfndp"
+	culture=delaware religion=algic_pagan
+	father=1019915740	#Quacornowha
+	1267.5.21={ birth=yes }
+	1351.4.5={ death=yes }
+}
+1019915745={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="dbjehbkpgkp"
+	culture=delaware religion=algic_pagan
+	father=1019915740	#Quacornowha
+	1270.3.6={ birth=yes }
+	1334.10.17={ death=yes }
+}
+1019915746={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="polahcbpnap"
+	culture=delaware religion=algic_pagan
+	father=1019915740	#Quacornowha
+	1272.10.22={ birth=yes }
+	1342.6.19={ death=yes }
+}
+1019915747={
+	name=Sarcoxey
+	dynasty=1009990124
+	dna="aekgpbnikdp"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	add_trait=elusive_shadow add_trait=brave add_trait=zealous add_trait=diligent add_trait=deceitful 
+	add_trait=wounded 
+	father=1019915743	#Quenaghtoothmait
+	1293.7.2={ birth=yes }
+	1343.12.20={ death=yes }
+}
+1019915748={
+	name=Kockkockquas
+	dynasty=1009990124
+	dna="jlhcjdfebbi"
+	culture=delaware religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=8 learning=7
+	add_trait=scholarly_theologian add_trait=impaler add_trait=lustful add_trait=deceitful add_trait=shy 
+	 add_trait=temperate 
+	father=1019915743	#Quenaghtoothmait
+	1295.4.19={ birth=yes }
+	1367.9.3={ death=yes }
+}
+1019915749={
+	name=Missenewand
+	dynasty=1009990124
+	dna="amkapengnjp"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=8 learning=5
+	add_trait=naive_appeaser add_trait=just add_trait=cynical  
+	father=1019915743	#Quenaghtoothmait
+	1300.8.20={ birth=yes }
+	1356.1.14={ death=yes }
+}
+1019915750={
+	name=Missenewand
+	dynasty=1009990124
+	dna="nnkafannbjp"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=craven add_trait=diligent add_trait=deceitful add_trait=harelip 
+	father=1019915743	#Quenaghtoothmait
+	1303.2.4={ birth=yes }
+	1405.8.5={ death=yes }
+}
+1019915751={
+	name=Rockatowah
+	dynasty=1009990124
+	dna="ajfcpenebjp"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	add_trait=flamboyant_schemer add_trait=honest add_trait=trusting add_trait=ambitious add_trait=depressed 
+	father=1019915743	#Quenaghtoothmait
+	1309.1.23={ birth=yes }
+	1372.2.21={ death=yes }
+}
+1019915752={
+	name=Rockatowah
+	dynasty=1009990124
+	dna="aeeapbnlkdp"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=trusting add_trait=lustful add_trait=honest 
+	father=1019915747	#Sarcoxey
+	1316.8.26={ birth=yes }
+	1390.1.5={ death=yes }
+}
+1019915753={
+	name=Hockingpomskenn
+	dynasty=1009990124
+	dna="pahipbnonig"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=poet add_trait=greedy add_trait=shy add_trait=lustful 
+	add_trait=genius 
+	father=1019915747	#Sarcoxey
+	1321.12.25={ birth=yes }
+	1406.4.2={ death=yes }
+}
+1019915754={
+	name=Nanotetauxien
+	dynasty=1009990124
+	dna="eikgpbeiidn"
+	culture=delaware religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=diligent add_trait=honest add_trait=content add_trait=chaste 
+	add_trait=ill 
+	father=1019915747	#Sarcoxey
+	1324.5.17={ birth=yes }
+	1393.2.28={ death=yes }
+}
+1019915755={
+	name=Rockatowah
+	dynasty=1009990124
+	dna="aikfpbnbapp"
+	culture=delaware religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=patient add_trait=greedy  add_trait=just 
+	add_trait=trusting 
+	father=1019915747	#Sarcoxey
+	1330.9.2={ birth=yes }
+	1388.9.3={ death=yes }
+}
+1019915756={
+	name=Moconnoquah
+	female=yes
+	dynasty=1009990124
+	dna="odkgpbnikdp"
+	culture=delaware religion=algic_pagan
+	father=1019915747	#Sarcoxey
+	1334.2.20={ birth=yes }
+	1398.2.26={ death=yes }
+}
+1019915757={
+	name=Petchenanalas
+	dynasty=1009990124
+	dna="aeieenogefp"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	add_trait=misguided_warrior  add_trait=proud add_trait=temperate add_trait=cynical 
+	father=1019915752	#Rockatowah
+	1345.10.13={ birth=yes }
+	1429.11.4={ death=yes }
+}
+1019915758={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="aniapbllkkl"
+	culture=delaware religion=algic_pagan
+	father=1019915752	#Rockatowah
+	1351.4.26={ birth=yes }
+	1437.3.4={ death=yes }
+}
+1019915759={
+	name=Cholena
+	female=yes
+	dynasty=1009990124
+	dna="gnfanoolcah"
+	culture=delaware religion=algic_pagan
+	father=1019915752	#Rockatowah
+	1358.4.7={ birth=yes }
+	1435.10.18={ death=yes }
+}
+1019915760={
+	name=Awowas
+	female=yes
+	dynasty=1009990124
+	dna="fcfeeniglfe"
+	culture=delaware religion=algic_pagan
+	father=1019915757	#Petchenanalas
+	1375.6.21={ birth=yes }
+	1447.5.24={ death=yes }
+}
+1019915761={
+	name=Queshatowha
+	dynasty=1009990124
+	dna="ajiiegbgffn"
+	culture=delaware religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=honest add_trait=diligent add_trait=charitable add_trait=trusting 
+	father=1019915757	#Petchenanalas
+	1377.9.6={ birth=yes }
+	1453.3.16={ death=yes }
+}

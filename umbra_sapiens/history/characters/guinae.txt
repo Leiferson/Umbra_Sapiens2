@@ -1,0 +1,3334 @@
+#360000
+#senegal
+360000 = {
+	name = "Daoud"
+	dynasty = 1010044000
+	religion = west_african_pagan
+	culture = wolof
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360001 = {
+	name = "Maammarou"
+	dynasty = 1010044000
+	religion = west_african_pagan
+	culture = wolof
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360002 = {
+	name = "Morobani"
+	dynasty = 1010044000
+	religion = west_african_pagan
+	culture = wolof
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360003 = {
+	name = "Umar"
+	dynasty = 1010044000
+	religion = west_african_pagan
+	culture = wolof
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360004 = {
+	name = "Kayna"
+	dynasty = 1010044000
+	religion = west_african_pagan
+	culture = wolof
+	father = 360003
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360005 = {
+	name = "Tib"
+	dynasty = 1010044000
+	religion = west_african_pagan
+	culture = wolof
+	father = 360004
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360006 = {
+	name = "Gao"
+	dynasty = 1010044000
+	religion = west_african_pagan
+	culture = wolof
+	father = 360005
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360007 = {
+	name = "Hargani"
+	dynasty = 1010044000
+	religion = west_african_pagan
+	culture = wolof
+	father = 350006
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Gambia
+360008 = {
+	name = "Majan"
+	dynasty = 1010044001
+	religion = west_african_pagan
+	culture = manden
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360009 = {
+	name = "Fuluku"
+	dynasty = 1010044001
+	religion = west_african_pagan
+	culture = manden
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360010 = {
+	name = "M'Bali"
+	dynasty = 1010044001
+	religion = west_african_pagan
+	culture = manden
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360011 = {
+	name = "Gane"
+	dynasty = 1010044001
+	religion = west_african_pagan
+	culture = manden
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360012 = {
+	name = "Kayna"
+	dynasty = 1010044001
+	religion = west_african_pagan
+	culture = manden
+	father = 360011
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360013 = {
+	name = "Akoi"
+	dynasty = 1010044001
+	religion = west_african_pagan
+	culture = manden
+	father = 360012
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360014 = {
+	name = "Kaya"
+	dynasty = 1010044001
+	religion = west_african_pagan
+	culture = manden
+	father = 360013
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360015 = {
+	name = "Soundiata"
+	dynasty = 1010044001
+	religion = west_african_pagan
+	culture = manden
+	father = 360014
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Ziguinchor
+360016 = {
+	name = "Ali-Fay"
+	dynasty = 1010044002
+	religion = west_african_pagan
+	culture = ajamat
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360017 = {
+	name = "Lahiltoul"
+	dynasty = 1010044002
+	religion = west_african_pagan
+	culture = ajamat
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360018 = {
+	name = "Mamoudou"
+	dynasty = 1010044002
+	religion = west_african_pagan
+	culture = ajamat
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360019 = {
+	name = "Mamadi"
+	dynasty = 1010044002
+	religion = west_african_pagan
+	culture = ajamat
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360020 = {
+	name = "Kisha"
+	dynasty = 1010044002
+	religion = west_african_pagan
+	culture = ajamat
+	father = 360019
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360021 = {
+	name = "Kalabi"
+	dynasty = 1010044002
+	religion = west_african_pagan
+	culture = ajamat
+	father = 360020
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360022 = {
+	name = "Dawud"
+	dynasty = 1010044002
+	religion = west_african_pagan
+	culture = ajamat
+	father = 360021
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360023 = {
+	name = "Ouankoÿ"
+	dynasty = 1010044002
+	religion = west_african_pagan
+	culture = ajamat
+	father = 360022
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Bo
+360024 = {
+	name = "Ali-Fay"
+	dynasty = 1010044003
+	religion = west_african_pagan
+	culture = temne
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360025 = {
+	name = "Lahiltoul"
+	dynasty = 1010044003
+	religion = west_african_pagan
+	culture = temne
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360026 = {
+	name = "Mamoudou"
+	dynasty = 1010044003
+	religion = west_african_pagan
+	culture = temne
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360027 = {
+	name = "Mamadi"
+	dynasty = 1010044003
+	religion = west_african_pagan
+	culture = temne
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360028 = {
+	name = "Kisha"
+	dynasty = 1010044003
+	religion = west_african_pagan
+	culture = temne
+	father = 360027
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360029 = {
+	name = "Kalabi"
+	dynasty = 1010044003
+	religion = west_african_pagan
+	culture = temne
+	father = 360028
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360030 = {
+	name = "Dawud"
+	dynasty = 1010044003
+	religion = west_african_pagan
+	culture = temne
+	father = 360029
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360031 = {
+	name = "Ouankoÿ"
+	dynasty = 1010044003
+	religion = west_african_pagan
+	culture = temne
+	father = 360030
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Peebo
+360032 = {
+	name = "Biyu"
+	dynasty = 1010044004
+	religion = west_african_pagan
+	culture = gola
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360033 = {
+	name = "Alayaman"
+	dynasty = 1010044004
+	religion = west_african_pagan
+	culture = gola
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360034 = {
+	name = "Kodama"
+	dynasty = 1010044004
+	religion = west_african_pagan
+	culture = gola
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360035 = {
+	name = "Tib"
+	dynasty = 1010044004
+	religion = west_african_pagan
+	culture = gola
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360036 = {
+	name = "Fatta"
+	dynasty = 1010044004
+	religion = west_african_pagan
+	culture = gola
+	father = 360035
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360037 = {
+	name = "Bakr"
+	dynasty = 1010044004
+	religion = west_african_pagan
+	culture = gola
+	father = 360036
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360038 = {
+	name = "Maghan"
+	dynasty = 1010044004
+	religion = west_african_pagan
+	culture = gola
+	father = 360037
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360039 = {
+	name = "Diara"
+	dynasty = 1010044004
+	religion = west_african_pagan
+	culture = gola
+	father = 360038
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Sefwi
+360040 = {
+	name = "Maÿroumfa"
+	dynasty = 1010044005
+	religion = west_african_pagan
+	culture = ivoir
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360041 = {
+	name = "M'Bali"
+	dynasty = 1010044005
+	religion = west_african_pagan
+	culture = ivoir
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360042 = {
+	name = "Düru"
+	dynasty = 1010044005
+	religion = west_african_pagan
+	culture = ivoir
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360043 = {
+	name = "Yaqub"
+	dynasty = 1010044005
+	religion = west_african_pagan
+	culture = ivoir
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360044 = {
+	name = "Sandaki"
+	dynasty = 1010044005
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360043
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360045 = {
+	name = "Takoi"
+	dynasty = 1010044005
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360044
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360046 = {
+	name = "Majan"
+	dynasty = 1010044005
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360045
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360047 = {
+	name = "Fodi"
+	dynasty = 1010044005
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360046
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Accra
+360048 = {
+	name = "Kaya"
+	dynasty = 1010044006
+	religion = west_african_pagan
+	culture = ivoir
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360049 = {
+	name = "Ouati"
+	dynasty = 1010044006
+	religion = west_african_pagan
+	culture = ivoir
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360050 = {
+	name = "Igoumou"
+	dynasty = 1010044006
+	religion = west_african_pagan
+	culture = ivoir
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360051 = {
+	name = "Ishaq"
+	dynasty = 1010044006
+	religion = west_african_pagan
+	culture = ivoir
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360052 = {
+	name = "Mari-Djata"
+	dynasty = 1010044006
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360051
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360053 = {
+	name = "Kusoy"
+	dynasty = 1010044006
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360052
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360054 = {
+	name = "Yama"
+	dynasty = 1010044006
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360053
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360055 = {
+	name = "Harun"
+	dynasty = 1010044006
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360054
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Togo
+360056 = {
+	name = "Tunka"
+	dynasty = 1010044007
+	religion = west_african_pagan
+	culture = ivoir
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360057 = {
+	name = "Reidja"
+	dynasty = 1010044007
+	religion = west_african_pagan
+	culture = ivoir
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360058 = {
+	name = "Kabayo"
+	dynasty = 1010044007
+	religion = west_african_pagan
+	culture = ivoir
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360059 = {
+	name = "Morobani"
+	dynasty = 1010044007
+	religion = west_african_pagan
+	culture = ivoir
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360060 = {
+	name = "Samsou-Béri"
+	dynasty = 1010044007
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360059
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360061 = {
+	name = "Birama"
+	dynasty = 1010044007
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360060
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360062 = {
+	name = "Diara"
+	dynasty = 1010044007
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360061
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360063 = {
+	name = "Sandaki"
+	dynasty = 1010044007
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360062
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Lagos
+360064 = {
+	name = "Majan"
+	dynasty = 1010044008
+	religion = west_african_pagan
+	culture = yoruba
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360065 = {
+	name = "Musa"
+	dynasty = 1010044008
+	religion = west_african_pagan
+	culture = yoruba
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360066 = {
+	name = "Kalabi"
+	dynasty = 1010044008
+	religion = west_african_pagan
+	culture = yoruba
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360067 = {
+	name = "Demba"
+	dynasty = 1010044008
+	religion = west_african_pagan
+	culture = yoruba
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360068 = {
+	name = "Ali-Kolon"
+	dynasty = 1010044008
+	religion = west_african_pagan
+	culture = yoruba
+	father = 360067
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360069 = {
+	name = "Birama"
+	dynasty = 1010044007
+	religion = west_african_pagan
+	culture = yoruba
+	father = 360068
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360070 = {
+	name = "Zenku"
+	dynasty = 1010044008
+	religion = west_african_pagan
+	culture = yoruba
+	father = 360069
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360071 = {
+	name = "Biyu"
+	dynasty = 1010044008
+	religion = west_african_pagan
+	culture = yoruba
+	father = 360070
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Oyo
+360072 = {
+	name = "Lahiltoul"
+	dynasty = 1010044009
+	religion = west_african_pagan
+	culture = nupe
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360073 = {
+	name = "Demba"
+	dynasty = 1010044009
+	religion = west_african_pagan
+	culture = nupe
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360074 = {
+	name = "Yama"
+	dynasty = 1010044009
+	religion = west_african_pagan
+	culture = nupe
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360075 = {
+	name = "Dankaran"
+	dynasty = 1010044009
+	religion = west_african_pagan
+	culture = nupe
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360076 = {
+	name = "Igoumou"
+	dynasty = 1010044009
+	religion = west_african_pagan
+	culture = nupe
+	father = 360075
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360077 = {
+	name = "Dankaran"
+	dynasty = 1010044009
+	religion = west_african_pagan
+	culture = nupe
+	father = 360076
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360078 = {
+	name = "Sakoura"
+	dynasty = 1010044009
+	religion = west_african_pagan
+	culture = nupe
+	father = 360077
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360079 = {
+	name = "Dankaran"
+	dynasty = 1010044009
+	religion = west_african_pagan
+	culture = nupe
+	father = 360078
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Oyo
+360080 = {
+	name = "Maammarou"
+	dynasty = 1010044010
+	religion = west_african_pagan
+	culture = edo
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360081 = {
+	name = "Cisse"
+	dynasty = 1010044010
+	religion = west_african_pagan
+	culture = edo
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360082 = {
+	name = "Akoi"
+	dynasty = 1010044010
+	religion = west_african_pagan
+	culture = edo
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360083 = {
+	name = "Ouati"
+	dynasty = 1010044010
+	religion = west_african_pagan
+	culture = edo
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360084 = {
+	name = "Kassa"
+	dynasty = 1010044010
+	religion = west_african_pagan
+	culture = edo
+	father = 360083
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360085 = {
+	name = "Bannu"
+	dynasty = 1010044010
+	religion = west_african_pagan
+	culture = edo
+	father = 360084
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360086 = {
+	name = "Nuh"
+	dynasty = 1010044010
+	religion = west_african_pagan
+	culture = edo
+	father = 360085
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360087 = {
+	name = "Sulayman"
+	dynasty = 1010044010
+	religion = west_african_pagan
+	culture = edo
+	father = 360086
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Akwa-Ibom
+360088 = {
+	name = "Maammarou"
+	dynasty = 1010044011
+	religion = west_african_pagan
+	culture = igbo
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360089 = {
+	name = "Cisse"
+	dynasty = 1010044011
+	religion = west_african_pagan
+	culture = igbo
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360090 = {
+	name = "Akoi"
+	dynasty = 1010044011
+	religion = west_african_pagan
+	culture = igbo
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360091 = {
+	name = "Ouati"
+	dynasty = 1010044011
+	religion = west_african_pagan
+	culture = igbo
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360092 = {
+	name = "Kassa"
+	dynasty = 1010044011
+	religion = west_african_pagan
+	culture = igbo
+	father = 360091
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360093 = {
+	name = "Bannu"
+	dynasty = 1010044011
+	religion = west_african_pagan
+	culture = igbo
+	father = 360092
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360094 = {
+	name = "Nuh"
+	dynasty = 1010044011
+	religion = west_african_pagan
+	culture = igbo
+	father = 360093
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360095 = {
+	name = "Sulayman"
+	dynasty = 1010044011
+	religion = west_african_pagan
+	culture = igbo
+	father = 360094
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Enugu
+360096 = {
+	name = "Nuh"
+	dynasty = 1010044012
+	religion = west_african_pagan
+	culture = igala
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360097 = {
+	name = "Kinkin"
+	dynasty = 1010044012
+	religion = west_african_pagan
+	culture = igala
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360098 = {
+	name = "Ismail"
+	dynasty = 1010044012
+	religion = west_african_pagan
+	culture = igala
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360099 = {
+	name = "Koïzé"
+	dynasty = 1010044012
+	religion = west_african_pagan
+	culture = igala
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360100 = {
+	name = "Morobani"
+	dynasty = 1010044012
+	religion = west_african_pagan
+	culture = igala
+	father = 360099
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360101 = {
+	name = "Fädazu"
+	dynasty = 1010044012
+	religion = west_african_pagan
+	culture = igala
+	father = 360100
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360102 = {
+	name = "Kalabi"
+	dynasty = 1010044012
+	religion = west_african_pagan
+	culture = igala
+	father = 360101
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360103 = {
+	name = "Bannu"
+	dynasty = 1010044012
+	religion = west_african_pagan
+	culture = igala
+	father = 360102
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Ife
+360104 = {
+	name = "Abi-Bakr"
+	dynasty = 1010044013
+	religion = west_african_pagan
+	culture = yoruba
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360105 = {
+	name = "Bonga"
+	dynasty = 1010044013
+	religion = west_african_pagan
+	culture = yoruba
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360106 = {
+	name = "Bonga"
+	dynasty = 1010044013
+	religion = west_african_pagan
+	culture = yoruba
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360107 = {
+	name = "Mari-Djata"
+	dynasty = 1010044013
+	religion = west_african_pagan
+	culture = yoruba
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360108 = {
+	name = "Badä"
+	dynasty = 1010044013
+	religion = west_african_pagan
+	culture = yoruba
+	father = 360107
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360109 = {
+	name = "Ouati"
+	dynasty = 1010044013
+	religion = west_african_pagan
+	culture = yoruba
+	father = 360108
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360110 = {
+	name = "Mahmud"
+	dynasty = 1010044013
+	religion = west_african_pagan
+	culture = yoruba
+	father = 360109
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360111 = {
+	name = "Düru"
+	dynasty = 1010044013
+	religion = west_african_pagan
+	culture = yoruba
+	father = 360110
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Bissau
+360112 = {
+	name = "Ouali"
+	dynasty = 1010044014
+	religion = west_african_pagan
+	culture = balanta
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360113 = {
+	name = "Nintasanay"
+	dynasty = 1010044014
+	religion = west_african_pagan
+	culture = balanta
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360114 = {
+	name = "Kusoy"
+	dynasty = 1010044014
+	religion = west_african_pagan
+	culture = balanta
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360115 = {
+	name = "Fatta"
+	dynasty = 1010044014
+	religion = west_african_pagan
+	culture = balanta
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360116 = {
+	name = "Soumaba"
+	dynasty = 1010044014
+	religion = west_african_pagan
+	culture = balanta
+	father = 360115
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360117 = {
+	name = "Biyu"
+	dynasty = 1010044013
+	religion = west_african_pagan
+	culture = balanta
+	father = 360116
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360118 = {
+	name = "Kassa"
+	dynasty = 1010044014
+	religion = west_african_pagan
+	culture = balanta
+	father = 360117
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360119 = {
+	name = "Daoud"
+	dynasty = 1010044014
+	religion = west_african_pagan
+	culture = balanta
+	father = 360118
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Ouidah
+360120 = {
+	name = "Kusoy"
+	dynasty = 1010044015
+	religion = west_african_pagan
+	culture = ivoir
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360121 = {
+	name = "Biyu"
+	dynasty = 1010044015
+	religion = west_african_pagan
+	culture = ivoir
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360122 = {
+	name = "Yasiboy"
+	dynasty = 1010044015
+	religion = west_african_pagan
+	culture = ivoir
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360123 = {
+	name = "Fatta"
+	dynasty = 1010044015
+	religion = west_african_pagan
+	culture = ivoir
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360124 = {
+	name = "Yasiboy"
+	dynasty = 1010044015
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360123
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360125 = {
+	name = "Ali-Fay"
+	dynasty = 1010044015
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360124
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360126 = {
+	name = "Nuh"
+	dynasty = 1010044015
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360125
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360127 = {
+	name = "Kassa"
+	dynasty = 1010044015
+	religion = west_african_pagan
+	culture = ivoir
+	father = 360126
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#yaka
+360128 = {
+	name = "Nzinga"
+	dynasty = 1010047154
+	religion = west_african_pagan
+	culture = yaka
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360129 = {
+	name = "Kasese"
+	dynasty = 1010047154
+	religion = west_african_pagan
+	culture = yaka
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360130 = {
+	name = "Nkumbi"
+	dynasty = 1010047154
+	religion = west_african_pagan
+	culture = yaka
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360131 = {
+	name = "Mvika"
+	dynasty = 1010047154
+	religion = west_african_pagan
+	culture = yaka
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360132 = {
+	name = "Tiya"
+	dynasty = 1010047154
+	religion = west_african_pagan
+	culture = yaka
+	father = 360131
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360133 = {
+	name = "Mvika"
+	dynasty = 1010047154
+	religion = west_african_pagan
+	culture = yaka
+	father = 360132
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360134 = {
+	name = "Mbul"
+	dynasty = 1010047154
+	religion = west_african_pagan
+	culture = yaka
+	father = 360133
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360135 = {
+	name = "Ilunga"
+	dynasty = 1010047154
+	religion = west_african_pagan
+	culture = yaka
+	father = 360134
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Ovimbundu
+360136 = {
+	name = "Henda"
+	dynasty = 1010045120
+	religion = west_african_pagan
+	culture = angolan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360137 = {
+	name = "Katchikukuvanda"
+	dynasty = 1010045120
+	religion = west_african_pagan
+	culture = angolan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360138 = {
+	name = "Kapuka"
+	dynasty = 1010045120
+	religion = west_african_pagan
+	culture = angolan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360139 = {
+	name = "Sassonde"
+	dynasty = 1010045120
+	religion = west_african_pagan
+	culture = angolan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360140 = {
+	name = "Tiya"
+	dynasty = 1010045120
+	religion = west_african_pagan
+	culture = angolan
+	father = 360139
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360141 = {
+	name = "Mvika"
+	dynasty = 1010045120
+	religion = west_african_pagan
+	culture = angolan
+	father = 360140
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360142 = {
+	name = "Ntamba"
+	dynasty = 1010045120
+	religion = west_african_pagan
+	culture = angolan
+	father = 360141
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360143 = {
+	name = "Mwene"
+	dynasty = 1010045120
+	religion = west_african_pagan
+	culture = angolan
+	father = 360142
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Ovambo
+360144 = {
+	name = "Ndavoka"
+	dynasty = 1010045197
+	religion = west_african_pagan
+	culture = ovambo
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360145 = {
+	name = "Nduva"
+	dynasty = 1010045197
+	religion = west_african_pagan
+	culture = ovambo
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360146 = {
+	name = "Kapitango"
+	dynasty = 1010045197
+	religion = west_african_pagan
+	culture = ovambo
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360147 = {
+	name = "Nambundi"
+	dynasty = 1010045197
+	religion = west_african_pagan
+	culture = ovambo
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360148 = {
+	name = "Tiya"
+	dynasty = 1010045197
+	religion = west_african_pagan
+	culture = ovambo
+	father = 360147
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360149 = {
+	name = "Nassoma"
+	dynasty = 1010045197
+	religion = west_african_pagan
+	culture = ovambo
+	father = 360148
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360150 = {
+	name = "Kaleyi"
+	dynasty = 1010045197
+	religion = west_african_pagan
+	culture = ovambo
+	father = 360149
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360151 = {
+	name = "Henda"
+	dynasty = 1010045197
+	religion = west_african_pagan
+	culture = ovambo
+	father = 360150
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Lega
+360152 = {
+	name = "Nkongolo"
+	dynasty = 1010047018
+	religion = west_african_pagan
+	culture = lega_shabunda
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360153 = {
+	name = "Makiese"
+	dynasty = 1010047018
+	religion = west_african_pagan
+	culture = lega_shabunda
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360154 = {
+	name = "Kihani"
+	dynasty = 1010047018
+	religion = west_african_pagan
+	culture = lega_shabunda
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360155 = {
+	name = "Keise"
+	dynasty = 1010047018
+	religion = west_african_pagan
+	culture = lega_shabunda
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360156 = {
+	name = "Tutondele"
+	dynasty = 1010047018
+	religion = west_african_pagan
+	culture = lega_shabunda
+	father = 360155
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360157 = {
+	name = "Matadi"
+	dynasty = 1010047018
+	religion = west_african_pagan
+	culture = lega_shabunda
+	father = 360156
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360158 = {
+	name = "Bompaka"
+	dynasty = 1010047018
+	religion = west_african_pagan
+	culture = lega_shabunda
+	father = 360157
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360159 = {
+	name = "Luyindu"
+	dynasty = 1010047018
+	religion = west_african_pagan
+	culture = lega_shabunda
+	father = 360158
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Lunda
+360160 = {
+	name = "Bote"
+	dynasty = 1010046952
+	religion = west_african_pagan
+	culture = lunda_lovale
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360161 = {
+	name = "Fumu"
+	dynasty = 1010046952
+	religion = west_african_pagan
+	culture = lunda_lovale
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360162 = {
+	name = "Msiri"
+	dynasty = 1010046952
+	religion = west_african_pagan
+	culture = lunda_lovale
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360163 = {
+	name = "Quinanga"
+	dynasty = 1010046952
+	religion = west_african_pagan
+	culture = lunda_lovale
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360164 = {
+	name = "Nkuwu"
+	dynasty = 1010046952
+	religion = west_african_pagan
+	culture = lunda_lovale
+	father = 360155
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360165 = {
+	name = "Ilunga"
+	dynasty = 1010046952
+	religion = west_african_pagan
+	culture = lunda_lovale
+	father = 360164
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360166 = {
+	name = "Wisliane"
+	dynasty = 1010046952
+	religion = west_african_pagan
+	culture = lunda_lovale
+	father = 360165
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360167 = {
+	name = "Lutete"
+	dynasty = 1010046952
+	religion = west_african_pagan
+	culture = lunda_lovale
+	father = 360166
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Lula-Bemba
+360168 = {
+	name = "Diambi"
+	dynasty = 1010046794
+	religion = west_african_pagan
+	culture = lula_bemba
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360169 = {
+	name = "Mayangi"
+	dynasty = 1010046794
+	religion = west_african_pagan
+	culture = lula_bemba
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360170 = {
+	name = "Kasongo"
+	dynasty = 1010046794
+	religion = west_african_pagan
+	culture = lula_bemba
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360171 = {
+	name = "Kalombo"
+	dynasty = 1010046794
+	religion = west_african_pagan
+	culture = lula_bemba
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360172 = {
+	name = "Keise"
+	dynasty = 1010046794
+	religion = west_african_pagan
+	culture = lula_bemba
+	father = 360171
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360173 = {
+	name = "Nkumbi"
+	dynasty = 1010046794
+	religion = west_african_pagan
+	culture = lula_bemba
+	father = 360172
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360174 = {
+	name = "Nlaza"
+	dynasty = 1010046794
+	religion = west_african_pagan
+	culture = lula_bemba
+	father = 360173
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360175 = {
+	name = "Ayani"
+	dynasty = 1010046794
+	religion = west_african_pagan
+	culture = lula_bemba
+	father = 360174
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Kaonde
+360176 = {
+	name = "Miala"
+	dynasty = 1010046839
+	religion = west_african_pagan
+	culture = kaonde
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360177 = {
+	name = "Ntumba"
+	dynasty = 1010046839
+	religion = west_african_pagan
+	culture = kaonde
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360178 = {
+	name = "Shyaam"
+	dynasty = 1010046839
+	religion = west_african_pagan
+	culture = kaonde
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360179 = {
+	name = "Mukiese"
+	dynasty = 1010046839
+	religion = west_african_pagan
+	culture = kaonde
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360180 = {
+	name = "Nsakala"
+	dynasty = 1010046839
+	religion = west_african_pagan
+	culture = kaonde
+	father = 360179
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360181 = {
+	name = "Nusamu"
+	dynasty = 1010046839
+	religion = west_african_pagan
+	culture = kaonde
+	father = 360180
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360182 = {
+	name = "Nsumbu"
+	dynasty = 1010046839
+	religion = west_african_pagan
+	culture = kaonde
+	father = 360181
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360183 = {
+	name = "Kisula"
+	dynasty = 1010046839
+	religion = west_african_pagan
+	culture = kaonde
+	father = 360182
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Ila_tonga
+360184 = {
+	name = "Avhadali"
+	dynasty = 1010046766
+	religion = west_african_pagan
+	culture = ila_tonga
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360185 = {
+	name = "Kiyimba"
+	dynasty = 1010046766
+	religion = west_african_pagan
+	culture = ila_tonga
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360186 = {
+	name = "Musanje"
+	dynasty = 1010046766
+	religion = west_african_pagan
+	culture = ila_tonga
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360187 = {
+	name = "Matumbwe"
+	dynasty = 1010046766
+	religion = west_african_pagan
+	culture = ila_tonga
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360188 = {
+	name = "Katakessu"
+	dynasty = 1010046766
+	religion = west_african_pagan
+	culture = ila_tonga
+	father = 360187	
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360189 = {
+	name = "Chwa"
+	dynasty = 1010046766
+	religion = west_african_pagan
+	culture = ila_tonga
+	father = 360188
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360190 = {
+	name = "Kyekaka"
+	dynasty = 1010046766
+	religion = west_african_pagan
+	culture = ila_tonga
+	father = 360189
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360191 = {
+	name = "Maganda"
+	dynasty = 1010046766
+	religion = west_african_pagan
+	culture = ila_tonga
+	father = 360190
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Nkoya
+360192 = {
+	name = "Makanga"
+	dynasty = 1010046856
+	religion = west_african_pagan
+	culture = nkoya
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360193 = {
+	name = "Lukinda"
+	dynasty = 1010046856
+	religion = west_african_pagan
+	culture = nkoya
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360194 = {
+	name = "Kumwimba"
+	dynasty = 1010046856
+	religion = west_african_pagan
+	culture = nkoya
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360195 = {
+	name = "Kasongo"
+	dynasty = 1010046856
+	religion = west_african_pagan
+	culture = nkoya
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360196 = {
+	name = "Umpafu"
+	dynasty = 1010046856
+	religion = west_african_pagan
+	culture = nkoya
+	father = 360195
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360197 = {
+	name = "Ngoong"
+	dynasty = 1010046856
+	religion = west_african_pagan
+	culture = nkoya
+	father = 360196
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360198 = {
+	name = "Manoka"
+	dynasty = 1010046856
+	religion = west_african_pagan
+	culture = nkoya
+	father = 360197
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360199 = {
+	name = "Nzimvwila"
+	dynasty = 1010046856
+	religion = west_african_pagan
+	culture = nkoya
+	father = 360198
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Lozi
+360200 = {
+	name = "Makiadi"
+	dynasty = 1010046891
+	religion = west_african_pagan
+	culture = lozi
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360201 = {
+	name = "Mbul"
+	dynasty = 1010046891
+	religion = west_african_pagan
+	culture = lozi
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360202 = {
+	name = "Kengani"
+	dynasty = 1010046891
+	religion = west_african_pagan
+	culture = lozi
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360203 = {
+	name = "Lumingu"
+	dynasty = 1010046891
+	religion = west_african_pagan
+	culture = lozi
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360204 = {
+	name = "Bote"
+	dynasty = 1010046891
+	religion = west_african_pagan
+	culture = lozi
+	father = 360203
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360205 = {
+	name = "Maloba"
+	dynasty = 1010046891
+	religion = west_african_pagan
+	culture = lozi
+	father = 360204
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360206 = {
+	name = "Quinanga"
+	dynasty = 1010046891
+	religion = west_african_pagan
+	culture = lozi
+	father = 360205
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360207 = {
+	name = "Nzenze"
+	dynasty = 1010046891
+	religion = west_african_pagan
+	culture = lozi
+	father = 360206
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Totela
+360208 = {
+	name = "Mvizi"
+	dynasty = 1010046890
+	religion = west_african_pagan
+	culture = totela
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360209 = {
+	name = "Diambi"
+	dynasty = 1010046890
+	religion = west_african_pagan
+	culture = totela
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360210 = {
+	name = "Kokolo"
+	dynasty = 1010046890
+	religion = west_african_pagan
+	culture = totela
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360211 = {
+	name = "Ntinu"
+	dynasty = 1010046890
+	religion = west_african_pagan
+	culture = totela
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360212 = {
+	name = "Kembo"
+	dynasty = 1010046890
+	religion = west_african_pagan
+	culture = totela
+	father = 360211
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360213 = {
+	name = "Luyindama"
+	dynasty = 1010046890
+	religion = west_african_pagan
+	culture = totela
+	father = 360212
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360214 = {
+	name = "Nimi"
+	dynasty = 1010046890
+	religion = west_african_pagan
+	culture = totela
+	father = 360213
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360215 = {
+	name = "Maniema"
+	dynasty = 1010046890
+	religion = west_african_pagan
+	culture = totela
+	father = 360214
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Khoekhoe
+360216 = {
+	name = "Qgoma"
+	dynasty = 1010044041
+	religion = west_african_pagan
+	culture = botswanan
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360217 = {
+	name = "Mangana"
+	dynasty = 1010044041
+	religion = west_african_pagan
+	culture = botswanan
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360218 = {
+	name = "Ntcoxo"
+	dynasty = 1010044041
+	religion = west_african_pagan
+	culture = botswanan
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360219 = {
+	name = "Qhomatca"
+	dynasty = 1010044041
+	religion = west_african_pagan
+	culture = botswanan
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360220 = {
+	name = "Thama"
+	dynasty = 1010044041
+	religion = west_african_pagan
+	culture = botswanan
+	father = 360219
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360221 = {
+	name = "Nxaedom"
+	dynasty = 1010044041
+	religion = west_african_pagan
+	culture = botswanan
+	father = 360220
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360222 = {
+	name = "Xaga"
+	dynasty = 1010044041
+	religion = west_african_pagan
+	culture = botswanan
+	father = 360221
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360223 = {
+	name = "Xare"
+	dynasty = 1010044041
+	religion = west_african_pagan
+	culture = botswanan
+	father = 360222
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#tswanan
+360224 = {
+	name = "Letlanang"
+	dynasty = 1010045381
+	religion = west_african_pagan
+	culture = tswana
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360225 = {
+	name = "Mogoeng"
+	dynasty = 1010045381
+	religion = west_african_pagan
+	culture = tswana
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360226 = {
+	name = "Boatametse"
+	dynasty = 1010045381
+	religion = west_african_pagan
+	culture = tswana
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360227 = {
+	name = "Tisetso"
+	dynasty = 1010045381
+	religion = west_african_pagan
+	culture = tswana
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360228 = {
+	name = "Kealeboga"
+	dynasty = 1010045381
+	religion = west_african_pagan
+	culture = tswana
+	father = 360227
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360229 = {
+	name = "Tshiamo"
+	dynasty = 1010045381
+	religion = west_african_pagan
+	culture = tswana
+	father = 360228
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360230 = {
+	name = "Outule"
+	dynasty = 1010045381
+	religion = west_african_pagan
+	culture = tswana
+	father = 360229
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360231 = {
+	name = "Malebogo"
+	dynasty = 1010045381
+	religion = west_african_pagan
+	culture = tswana
+	father = 360230
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Xhosa
+360232 = {
+	name = "Thapelo"
+	dynasty = 1010045439
+	religion = west_african_pagan
+	culture = xhosa
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360233 = {
+	name = "Tlali"
+	dynasty = 1010045439
+	religion = west_african_pagan
+	culture = xhosa
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360234 = {
+	name = "Kweda"
+	dynasty = 1010045439
+	religion = west_african_pagan
+	culture = xhosa
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360235 = {
+	name = "Tsitang"
+	dynasty = 1010045439
+	religion = west_african_pagan
+	culture = xhosa
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360236 = {
+	name = "Moeletsi"
+	dynasty = 1010045439
+	religion = west_african_pagan
+	culture = xhosa
+	father = 360227
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360237 = {
+	name = "Ntsu"
+	dynasty = 1010045439
+	religion = west_african_pagan
+	culture = xhosa
+	father = 360236
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360238 = {
+	name = "Pule"
+	dynasty = 1010045439
+	religion = west_african_pagan
+	culture = xhosa
+	father = 360237
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360239 = {
+	name = "Matla"
+	dynasty = 1010045439
+	religion = west_african_pagan
+	culture = xhosa
+	father = 360238
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Zulu
+360240 = {
+	name = "Sizakele"
+	dynasty = 1010045764
+	religion = west_african_pagan
+	culture = zulu
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360241 = {
+	name = "Ibubesi"
+	dynasty = 1010045764
+	religion = west_african_pagan
+	culture = zulu
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360242 = {
+	name = "Nkosin"
+	dynasty = 1010045764
+	religion = west_african_pagan
+	culture = zulu
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360243 = {
+	name = "Misuzulu"
+	dynasty = 1010045764
+	religion = west_african_pagan
+	culture = zulu
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360244 = {
+	name = "Baba"
+	dynasty = 1010045764
+	religion = west_african_pagan
+	culture = zulu
+	father = 360243
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360245 = {
+	name = "Vusumuzi"
+	dynasty = 1010045764
+	religion = west_african_pagan
+	culture = zulu
+	father = 360244
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360246 = {
+	name = "Mxolisi"
+	dynasty = 1010045764
+	religion = west_african_pagan
+	culture = zulu
+	father = 360245
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360247 = {
+	name = "Mkabayi"
+	dynasty = 1010045764
+	religion = west_african_pagan
+	culture = zulu
+	father = 360246
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Swati
+360248 = {
+	name = "Qomizitha"
+	dynasty = 1010045840
+	religion = west_african_pagan
+	culture = swati
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360249 = {
+	name = "Mbhondlo"
+	dynasty = 1010045840
+	religion = west_african_pagan
+	culture = swati
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360250 = {
+	name = "Sikhulumaloyo"
+	dynasty = 1010045840
+	religion = west_african_pagan
+	culture = swati
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360251 = {
+	name = "Mbandzeni"
+	dynasty = 1010045840
+	religion = west_african_pagan
+	culture = swati
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360252 = {
+	name = "Ludvonga"
+	dynasty = 1010045840
+	religion = west_african_pagan
+	culture = swati
+	father = 360251
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360253 = {
+	name = "Nkosi"
+	dynasty = 1010045840
+	religion = west_african_pagan
+	culture = swati
+	father = 360252
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360254 = {
+	name = "Zwide"
+	dynasty = 1010045840
+	religion = west_african_pagan
+	culture = swati
+	father = 360253
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360255 = {
+	name = "Ngwane"
+	dynasty = 1010045840
+	religion = west_african_pagan
+	culture = swati
+	father = 360254
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+#Cara
+360256 = {
+	name = "Cuyuchi"
+	dynasty = 1009990291
+	religion = caran_pagan
+	culture = caran
+	730.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+360257 = {
+	name = "Curiatao"
+	dynasty = 1009990291
+	religion = caran_pagan
+	culture = caran
+	825.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+360258 = {
+	name = "Umu"
+	dynasty = 1009990291
+	religion = caran_pagan
+	culture = caran
+	914.1.1 = {
+		birth = yes
+	}
+	990.1.1 ={
+		death = yes
+	}
+}
+360259 = {
+	name = "Surandaman"
+	dynasty = 1009990291
+	religion = caran_pagan
+	culture = caran
+	1040.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+360260 = {
+	name = "Luyes"
+	dynasty = 1009990291
+	religion = caran_pagan
+	culture = caran
+	father = 360259
+	1100.1.1 = {
+		birth = yes
+	}
+	1189.1.1 = {
+		death = yes
+	}
+}
+360261 = {
+	name = "Huachuri"
+	dynasty = 1009990291
+	religion = caran_pagan
+	culture = caran
+	father = 360260
+	1150.1.1 = {
+		birth = yes
+	}
+	1231.1.1 = {
+		death = yes
+	}
+}
+360262 = {
+	name = "Umu"
+	dynasty = 1009990291
+	religion = caran_pagan
+	culture = caran
+	father = 360261
+	1210.1.1 = {
+		birth = yes
+	}
+	1300.1.1 = {
+		death = yes
+	}
+}
+360263 = {
+	name = "Usca"
+	dynasty = 1009990291
+	religion = caran_pagan
+	culture = caran
+	father = 360262
+	1281.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,30 @@
+# 1926 - Yamato
+
+# County Title
+title = c_yamato
+
+# Settlements
+max_settlements = 4
+b_kofukuji = temple
+b_todaiji = temple
+b_katsuragi = castle
+
+#b_yoshino = castle
+#b_toichi = castle
+#b_takaichi = castle
+#b_uda_yamato = castle
+#b_yamabe = castle
+
+# Misc
+culture = japanese
+religion = buddhist
+
+# History
+752.1.1 = {
+build_wonder = wonder_temple_buddhist
+set_wonder_stage = 1
+set_wonder_name = NARATEMPLE
+set_wonder_description = NARATEMPLEDESC
+build_wonder_upgrade = upgrade_school_buddhist
+build_wonder_upgrade = upgrade_vihara
+}

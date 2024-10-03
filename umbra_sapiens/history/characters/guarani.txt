@@ -1,0 +1,3856 @@
+1019927807={
+	name=Kuarahy
+	dynasty=1009990246
+	dna="fjikcoenlpn"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=7 learning=8
+	720.10.23={ birth=yes }
+	806.3.7={ death=yes }
+}
+1019927808={
+	name=Jakaira
+	dynasty=1009990246
+	dna="fjlkkoenapi"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=8 learning=6
+	father=1019927807	#Kuarahy
+	746.7.9={ birth=yes }
+	786.2.19={ death=yes }
+}
+1019927809={
+	name=Azelene
+	female=yes
+	dynasty=1009990246
+	dna="ngikioamlbn"
+	culture=guarani religion=amazonian_pagan
+	father=1019927807	#Kuarahy
+	752.7.9={ birth=yes }
+	802.8.9={ death=yes }
+}
+1019927810={
+	name=Tekokatu
+	dynasty=1009990246
+	dna="njhkkceggji"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	father=1019927808	#Jakaira
+	769.7.19={ birth=yes }
+	836.8.19={ death=yes }
+}
+1019927811={
+	name=Jakaira
+	dynasty=1009990246
+	dna="folkkognapi"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	father=1019927808	#Jakaira
+	773.11.22={ birth=yes }
+	836.9.17={ death=yes }
+}
+1019927812={
+	name=Potira
+	female=yes
+	dynasty=1009990246
+	dna="djkkkfenaai"
+	culture=guarani religion=amazonian_pagan
+	father=1019927808	#Jakaira
+	778.10.1={ birth=yes }
+	840.8.29={ death=yes }
+}
+1019927813={
+	name=Tekokatu
+	dynasty=1009990246
+	dna="jfpkmjegcpo"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	father=1019927808	#Jakaira
+	782.12.9={ birth=yes }
+	842.10.17={ death=yes }
+}
+1019927814={
+	name=Bartira
+	female=yes
+	dynasty=1009990246
+	dna="filmdoeophb"
+	culture=guarani religion=amazonian_pagan
+	father=1019927808	#Jakaira
+	787.8.26={ birth=yes }
+	866.9.9={ death=yes }
+}
+1019927815={
+	name=Azelene
+	female=yes
+	dynasty=1009990246
+	dna="fjekcaenapi"
+	culture=guarani religion=amazonian_pagan
+	father=1019927808	#Jakaira
+	792.12.10={ birth=yes }
+	852.2.1={ death=yes }
+}
+1019927816={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="gpepioeomhn"
+	culture=guarani religion=amazonian_pagan
+	father=1019927808	#Jakaira
+	797.1.22={ birth=yes }
+	863.4.4={ death=yes }
+}
+1019927817={
+	name=Tuvicha
+	dynasty=1009990246
+	dna="njakjfeggpk"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=8
+	father=1019927810	#Tekokatu
+	795.12.13={ birth=yes }
+	887.7.8={ death=yes }
+}
+1019927818={
+	name=Azelene
+	female=yes
+	dynasty=1009990246
+	dna="npjaicenmii"
+	culture=guarani religion=amazonian_pagan
+	father=1019927810	#Tekokatu
+	799.2.26={ birth=yes }
+	884.1.2={ death=yes }
+}
+1019927819={
+	name=Tatarendy
+	dynasty=1009990246
+	dna="hjekkchcojc"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=8 learning=5
+	father=1019927810	#Tekokatu
+	803.6.4={ birth=yes }
+	869.10.5={ death=yes }
+}
+1019927820={
+	name=Potira
+	female=yes
+	dynasty=1009990246
+	dna="plfkgmeggci"
+	culture=guarani religion=amazonian_pagan
+	father=1019927810	#Tekokatu
+	807.3.21={ birth=yes }
+	865.7.24={ death=yes }
+}
+1019927821={
+	name=Angatupyry
+	dynasty=1009990246
+	dna="nomdmcfjgok"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=5 learning=8
+	father=1019927810	#Tekokatu
+	810.2.5={ birth=yes }
+	864.3.8={ death=yes }
+}
+1019927822={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="njaegfljban"
+	culture=guarani religion=amazonian_pagan
+	father=1019927817	#Tuvicha
+	820.1.3={ birth=yes }
+	864.1.26={ death=yes }
+}
+1019927823={
+	name=Tuvicha
+	dynasty=1009990246
+	dna="mjakpaegbmk"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=4 learning=7
+	father=1019927817	#Tuvicha
+	827.2.24={ birth=yes }
+	903.1.31={ death=yes }
+}
+1019927824={
+	name=Karai
+	dynasty=1009990246
+	dna="njpnjifgdpk"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=5 learning=6
+	father=1019927817	#Tuvicha
+	832.8.6={ birth=yes }
+	910.2.19={ death=yes }
+}
+1019927825={
+	name=Tajy
+	dynasty=1009990246
+	dna="opcijihnipk"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=8 learning=6
+	father=1019927817	#Tuvicha
+	839.12.10={ birth=yes }
+	905.9.9={ death=yes }
+}
+1019927826={
+	name=Amangy
+	dynasty=1009990246
+	dna="abfdpafebmo"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=4 learning=5
+	father=1019927823	#Tuvicha
+	853.9.10={ birth=yes }
+	933.12.1={ death=yes }
+}
+1019927827={
+	name=Jougousa
+	female=yes
+	dynasty=1009990246
+	dna="mklkgneabok"
+	culture=guarani religion=amazonian_pagan
+	father=1019927823	#Tuvicha
+	860.8.5={ birth=yes }
+	942.12.19={ death=yes }
+}
+1019927828={
+	name=Aravera
+	dynasty=1009990246
+	dna="ojcpkiegdmk"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=8
+	father=1019927823	#Tuvicha
+	863.5.12={ birth=yes }
+	917.3.28={ death=yes }
+}
+1019927829={
+	name=Kuarahy
+	dynasty=1009990246
+	dna="nbdmaambjmo"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	father=1019927826	#Amangy
+	881.10.25={ birth=yes }
+	949.9.6={ death=yes }
+}
+1019927830={
+	name=Potira
+	female=yes
+	dynasty=1009990246
+	dna="aefcpafdopo"
+	culture=guarani religion=amazonian_pagan
+	father=1019927826	#Amangy
+	885.10.16={ birth=yes }
+	962.6.5={ death=yes }
+}
+1019927831={
+	name=Potira
+	female=yes
+	dynasty=1009990246
+	dna="fefdpafbffo"
+	culture=guarani religion=amazonian_pagan
+	father=1019927826	#Amangy
+	888.3.3={ birth=yes }
+	946.8.24={ death=yes }
+}
+1019927832={
+	name=Apytere
+	dynasty=1009990246
+	dna="nbdpaemlkmo"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=7 learning=5
+	father=1019927829	#Kuarahy
+	908.3.5={ birth=yes }
+	980.6.20={ death=yes }
+}
+1019927833={
+	name=Azelene
+	female=yes
+	dynasty=1009990246
+	dna="nghmaamkjei"
+	culture=guarani religion=amazonian_pagan
+	father=1019927829	#Kuarahy
+	915.12.1={ birth=yes }
+	986.3.21={ death=yes }
+}
+1019927834={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="hbmmaaabjmo"
+	culture=guarani religion=amazonian_pagan
+	father=1019927829	#Kuarahy
+	921.8.9={ birth=yes }
+	1003.6.24={ death=yes }
+}
+1019927835={
+	name=Bartira
+	female=yes
+	dynasty=1009990246
+	dna="nldkanmbjio"
+	culture=guarani religion=amazonian_pagan
+	father=1019927829	#Kuarahy
+	924.6.23={ birth=yes }
+	989.11.24={ death=yes }
+}
+1019927836={
+	name=Mba'ehory
+	dynasty=1009990246
+	dna="hbodoafbmao"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=8
+	father=1019927829	#Kuarahy
+	927.3.9={ birth=yes }
+	997.5.14={ death=yes }
+}
+1019927837={
+	name=Mbarakapu
+	dynasty=1009990246
+	dna="ncgpcgmemlo"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=8
+	father=1019927832	#Apytere
+	939.12.9={ birth=yes }
+	1009.12.24={ death=yes }
+}
+1019927838={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="nmfiadmhkhm"
+	culture=guarani religion=amazonian_pagan
+	father=1019927832	#Apytere
+	944.11.20={ birth=yes }
+	1007.5.12={ death=yes }
+}
+1019927839={
+	name=Potira
+	female=yes
+	dynasty=1009990246
+	dna="nbhdamfkkmg"
+	culture=guarani religion=amazonian_pagan
+	father=1019927832	#Apytere
+	947.1.5={ birth=yes }
+	1007.6.20={ death=yes }
+}
+1019927840={
+	name=Azelene
+	female=yes
+	dynasty=1009990246
+	dna="nndbammlabm"
+	culture=guarani religion=amazonian_pagan
+	father=1019927832	#Apytere
+	953.4.25={ birth=yes }
+	1016.9.8={ death=yes }
+}
+1019927841={
+	name=Karai
+	dynasty=1009990246
+	dna="ogddidmkkjo"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	father=1019927832	#Apytere
+	957.3.1={ birth=yes }
+	1039.1.16={ death=yes }
+}
+1019927842={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="nchppgpkmlo"
+	culture=guarani religion=amazonian_pagan
+	father=1019927837	#Mbarakapu
+	967.7.10={ birth=yes }
+	1046.4.13={ death=yes }
+}
+1019927843={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="ngadfimkmlo"
+	culture=guarani religion=amazonian_pagan
+	father=1019927837	#Mbarakapu
+	972.8.7={ birth=yes }
+	1032.7.6={ death=yes }
+}
+1019927844={
+	name=Ygary
+	dynasty=1009990246
+	dna="nkgdkgfkmlm"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	father=1019927837	#Mbarakapu
+	978.9.21={ birth=yes }
+	1052.4.14={ death=yes }
+}
+1019927845={
+	name=Bartira
+	female=yes
+	dynasty=1009990246
+	dna="kcgpcomamla"
+	culture=guarani religion=amazonian_pagan
+	father=1019927837	#Mbarakapu
+	985.9.27={ birth=yes }
+	1056.7.16={ death=yes }
+}
+1019927846={
+	name=Bartira
+	female=yes
+	dynasty=1009990246
+	dna="jhenkgmkilm"
+	culture=guarani religion=amazonian_pagan
+	father=1019927844	#Ygary
+	1000.8.19={ birth=yes }
+	1083.1.29={ death=yes }
+}
+1019927847={
+	name=Amaru
+	dynasty=1009990246
+	dna="lkgdkffkdkk"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	father=1019927844	#Ygary
+	1006.2.18={ birth=yes }
+	1094.1.26={ death=yes }
+}
+1019927848={
+	name=Karai
+	dynasty=1009990246
+	dna="nkjdkgfejhj"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=6
+	father=1019927844	#Ygary
+	1011.6.1={ birth=yes }
+	1085.12.21={ death=yes }
+}
+1019927849={
+	name=Potira
+	female=yes
+	dynasty=1009990246
+	dna="gkhnklfklhm"
+	culture=guarani religion=amazonian_pagan
+	father=1019927844	#Ygary
+	1017.4.19={ birth=yes }
+	1115.7.14={ death=yes }
+}
+1019927850={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="bkpdkickmlm"
+	culture=guarani religion=amazonian_pagan
+	father=1019927844	#Ygary
+	1021.2.14={ birth=yes }
+	1077.9.16={ death=yes }
+}
+1019927851={
+	name=Bartira
+	female=yes
+	dynasty=1009990246
+	dna="nkgbhcfknjb"
+	culture=guarani religion=amazonian_pagan
+	father=1019927844	#Ygary
+	1026.10.2={ birth=yes }
+	1114.3.27={ death=yes }
+}
+1019927852={
+	name=Mba'ehory
+	dynasty=1009990246
+	dna="echckgfkalg"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	father=1019927844	#Ygary
+	1031.12.13={ birth=yes }
+	1118.8.3={ death=yes }
+}
+1019927853={
+	name=Chavuku
+	dynasty=1009990246
+	dna="lagjhjgbdkk"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	father=1019927847	#Amaru
+	1034.3.4={ birth=yes }
+	1102.1.3={ death=yes }
+}
+1019927854={
+	name=Tekokatu
+	dynasty=1009990246
+	dna="pegdkafkdkk"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=5 learning=4
+	father=1019927847	#Amaru
+	1039.10.8={ birth=yes }
+	1101.4.18={ death=yes }
+}
+1019927855={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="ligdnndfjnk"
+	culture=guarani religion=amazonian_pagan
+	father=1019927847	#Amaru
+	1044.9.18={ birth=yes }
+	1097.2.9={ death=yes }
+}
+1019927856={
+	name=Araresa
+	dynasty=1009990246
+	dna="ldfdlgijnkp"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	father=1019927847	#Amaru
+	1049.2.20={ birth=yes }
+	1150.5.16={ death=yes }
+}
+1019927857={
+	name=Tatarendy
+	dynasty=1009990246
+	dna="ldnjhkgbnke"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	father=1019927853	#Chavuku
+	1057.8.19={ birth=yes }
+	1134.10.5={ death=yes }
+}
+1019927858={
+	name=Bartira
+	female=yes
+	dynasty=1009990246
+	dna="lmjohjipekp"
+	culture=guarani religion=amazonian_pagan
+	father=1019927853	#Chavuku
+	1064.7.1={ birth=yes }
+	1120.1.30={ death=yes }
+}
+1019927859={
+	name=Jougousa
+	female=yes
+	dynasty=1009990246
+	dna="lagehjobdkg"
+	culture=guarani religion=amazonian_pagan
+	father=1019927853	#Chavuku
+	1067.5.23={ birth=yes }
+	1141.12.5={ death=yes }
+}
+1019927860={
+	name=Potira
+	female=yes
+	dynasty=1009990246
+	dna="fagbpjgbpkp"
+	culture=guarani religion=amazonian_pagan
+	father=1019927853	#Chavuku
+	1072.2.18={ birth=yes }
+	1133.9.7={ death=yes }
+}
+1019927861={
+	name=Chavuku
+	dynasty=1009990246
+	dna="ldoohigbnoo"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=5 learning=7
+	father=1019927857	#Tatarendy
+	1089.8.2={ birth=yes }
+	1161.6.17={ death=yes }
+}
+1019927862={
+	name=Aravera
+	dynasty=1009990246
+	dna="gdhjnaebene"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=8
+	father=1019927857	#Tatarendy
+	1096.4.18={ birth=yes }
+	1166.5.27={ death=yes }
+}
+1019927863={
+	name=Tekokatu
+	dynasty=1009990246
+	dna="ldejaibbocn"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	father=1019927857	#Tatarendy
+	1103.1.6={ birth=yes }
+	1190.5.29={ death=yes }
+}
+1019927864={
+	name=Tajy
+	dynasty=1009990246
+	dna="llophicjnli"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=8 learning=8
+	father=1019927861	#Chavuku
+	1115.4.19={ birth=yes }
+	1173.11.4={ death=yes }
+}
+1019927865={
+	name=Jougousa
+	female=yes
+	dynasty=1009990246
+	dna="akdfhaeipoh"
+	culture=guarani religion=amazonian_pagan
+	father=1019927861	#Chavuku
+	1119.12.16={ birth=yes }
+	1182.8.8={ death=yes }
+}
+1019927866={
+	name=Potira
+	female=yes
+	dynasty=1009990246
+	dna="odaohhgcnoo"
+	culture=guarani religion=amazonian_pagan
+	father=1019927861	#Chavuku
+	1127.2.5={ birth=yes }
+	1210.7.24={ death=yes }
+}
+1019927867={
+	name=Amapytu
+	dynasty=1009990246
+	dna="peoghimbcon"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=8 learning=5
+	father=1019927861	#Chavuku
+	1133.10.1={ birth=yes }
+	1197.2.20={ death=yes }
+}
+1019927868={
+	name=Aravera
+	dynasty=1009990246
+	dna="lpbphicjnci"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=7
+	father=1019927864	#Tajy
+	1142.9.16={ birth=yes }
+	1208.12.22={ death=yes }
+}
+1019927869={
+	name=Jougousa
+	female=yes
+	dynasty=1009990246
+	dna="llophbkbnhe"
+	culture=guarani religion=amazonian_pagan
+	father=1019927864	#Tajy
+	1149.4.1={ birth=yes }
+	1211.3.17={ death=yes }
+}
+1019927870={
+	name=Jakaira
+	dynasty=1009990246
+	dna="lpbpiicjfjb"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=8 learning=6
+	father=1019927868	#Aravera
+	1173.9.25={ birth=yes }
+	1246.8.30={ death=yes }
+}
+1019927871={
+	name=Kuarahyrese
+	dynasty=1009990246
+	dna="lpkpjofkoci"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	father=1019927868	#Aravera
+	1178.2.14={ birth=yes }
+	1243.12.22={ death=yes }
+}
+1019927872={
+	name=Aravera
+	dynasty=1009990246
+	dna="ljnpaibjnki"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	father=1019927868	#Aravera
+	1183.4.2={ birth=yes }
+	1237.8.16={ death=yes }
+}
+1019927873={
+	name=Tekokatu
+	dynasty=1009990246
+	dna="janehbcfhco"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	father=1019927868	#Aravera
+	1191.5.23={ birth=yes }
+	1292.2.1={ death=yes }
+}
+1019927874={
+	name=Jougousa
+	female=yes
+	dynasty=1009990246
+	dna="lphpiichfjd"
+	culture=guarani religion=amazonian_pagan
+	father=1019927870	#Jakaira
+	1199.1.8={ birth=yes }
+	1262.11.20={ death=yes }
+}
+1019927875={
+	name=Namandu
+	dynasty=1009990246
+	dna="bpbpigcdhhb"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	father=1019927870	#Jakaira
+	1202.9.16={ birth=yes }
+	1259.2.8={ death=yes }
+}
+1019927876={
+	name=Tatarendy
+	dynasty=1009990246
+	dna="lieoiekjkmb"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	father=1019927870	#Jakaira
+	1207.7.16={ birth=yes }
+	1280.5.22={ death=yes }
+}
+1019927877={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="opkpiicjfnn"
+	culture=guarani religion=amazonian_pagan
+	father=1019927870	#Jakaira
+	1211.7.12={ birth=yes }
+	1270.6.2={ death=yes }
+}
+1019927878={
+	name=Mbarakapu
+	dynasty=1009990246
+	dna="mbleigpjfpb"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=8
+	father=1019927870	#Jakaira
+	1217.8.4={ birth=yes }
+	1278.11.26={ death=yes }
+}
+1019927879={
+	name=Angatupyry
+	dynasty=1009990246
+	dna="embpbgoacjo"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	father=1019927875	#Namandu
+	1229.12.14={ birth=yes }
+	1289.11.17={ death=yes }
+}
+1019927880={
+	name=Tekokatu
+	dynasty=1009990246
+	dna="bglpccgodhb"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=7 learning=4
+	father=1019927875	#Namandu
+	1235.5.20={ birth=yes }
+	1310.8.21={ death=yes }
+}
+1019927881={
+	name=Tatajyva
+	dynasty=1009990246
+	dna="eibpilegmmg"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=4
+	father=1019927879	#Angatupyry
+	1250.1.23={ birth=yes }
+	1328.7.19={ death=yes }
+}
+1019927882={
+	name=Aravera
+	dynasty=1009990246
+	dna="hmklkgokmje"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=7
+	father=1019927879	#Angatupyry
+	1255.11.20={ birth=yes }
+	1307.3.9={ death=yes }
+}
+1019927883={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="eabpbgoijnl"
+	culture=guarani religion=amazonian_pagan
+	father=1019927879	#Angatupyry
+	1259.1.23={ birth=yes }
+	1339.8.25={ death=yes }
+}
+1019927884={
+	name=Angatupyry
+	dynasty=1009990246
+	dna="oigjlcegfmg"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=6 learning=7
+	father=1019927881	#Tatajyva
+	1272.1.27={ birth=yes }
+	1338.8.24={ death=yes }
+}
+1019927885={
+	name=Bartira
+	female=yes
+	dynasty=1009990246
+	dna="einkclogmmp"
+	culture=guarani religion=amazonian_pagan
+	father=1019927881	#Tatajyva
+	1277.8.4={ birth=yes }
+	1353.6.22={ death=yes }
+}
+1019927886={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="bibpglehdkc"
+	culture=guarani religion=amazonian_pagan
+	father=1019927881	#Tatajyva
+	1283.5.15={ birth=yes }
+	1349.10.31={ death=yes }
+}
+1019927887={
+	name=Araresa
+	dynasty=1009990246
+	dna="ehboillgepg"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=5 learning=6
+	father=1019927881	#Tatajyva
+	1289.7.9={ birth=yes }
+	1374.2.21={ death=yes }
+}
+1019927888={
+	name=Arandu
+	dynasty=1009990246
+	dna="oiemdiegneg"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=8
+	father=1019927884	#Angatupyry
+	1303.8.11={ birth=yes }
+	1391.1.16={ death=yes }
+}
+1019927889={
+	name=Porasy
+	female=yes
+	dynasty=1009990246
+	dna="oejjjbogfej"
+	culture=guarani religion=amazonian_pagan
+	father=1019927884	#Angatupyry
+	1310.5.3={ birth=yes }
+	1396.12.28={ death=yes }
+}
+1019927890={
+	name=Potira
+	female=yes
+	dynasty=1009990246
+	dna="aigmlcigfmg"
+	culture=guarani religion=amazonian_pagan
+	father=1019927884	#Angatupyry
+	1314.10.1={ birth=yes }
+	1381.3.24={ death=yes }
+}
+1019927891={
+	name=Tajy
+	dynasty=1009990246
+	dna="oiimdieddeg"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=7 learning=4
+	father=1019927888	#Arandu
+	1330.7.20={ birth=yes }
+	1391.10.4={ death=yes }
+}
+1019927892={
+	name=Bartira
+	female=yes
+	dynasty=1009990246
+	dna="cifddlemnei"
+	culture=guarani religion=amazonian_pagan
+	father=1019927888	#Arandu
+	1336.6.11={ birth=yes }
+	1420.5.2={ death=yes }
+}
+1019927893={
+	name=Bartira
+	female=yes
+	dynasty=1009990246
+	dna="obemdaegpen"
+	culture=guarani religion=amazonian_pagan
+	father=1019927888	#Arandu
+	1339.11.5={ birth=yes }
+	1397.10.23={ death=yes }
+}
+1019927894={
+	name=Jougousa
+	female=yes
+	dynasty=1009990246
+	dna="aicfbijgeeg"
+	culture=guarani religion=amazonian_pagan
+	father=1019927888	#Arandu
+	1344.1.9={ birth=yes }
+	1409.2.7={ death=yes }
+}
+1019927895={
+	name=Jougousa
+	female=yes
+	dynasty=1009990246
+	dna="bfgmdbepgen"
+	culture=guarani religion=amazonian_pagan
+	father=1019927888	#Arandu
+	1350.2.7={ birth=yes }
+	1434.8.22={ death=yes }
+}
+1019927896={
+	name=Aratiri
+	dynasty=1009990246
+	dna="ogeioiecfeg"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=8 learning=5
+	father=1019927888	#Arandu
+	1354.4.3={ birth=yes }
+	1425.2.3={ death=yes }
+}
+1019927897={
+	name=Azelene
+	female=yes
+	dynasty=1009990246
+	dna="olmmkdjnlei"
+	culture=guarani religion=amazonian_pagan
+	father=1019927888	#Arandu
+	1356.5.4={ birth=yes }
+	1432.7.21={ death=yes }
+}
+1019927898={
+	name=Tuvicha
+	dynasty=1009990246
+	dna="oacfmdekpea"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	father=1019927891	#Tajy
+	1358.12.18={ birth=yes }
+	1417.1.17={ death=yes }
+}
+1019927899={
+	name=Karai
+	dynasty=1009990246
+	dna="akbmkbemdjg"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=8
+	father=1019927891	#Tajy
+	1364.3.7={ birth=yes }
+	1430.6.18={ death=yes }
+}
+1019927900={
+	name=Bartira
+	female=yes
+	dynasty=1009990246
+	dna="fiomhieaeeh"
+	culture=guarani religion=amazonian_pagan
+	father=1019927891	#Tajy
+	1372.5.8={ birth=yes }
+	1454.10.19={ death=yes }
+}
+1019927901={
+	name=Karai
+	dynasty=1009990246
+	dna="ddomcaodfek"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=7 learning=8
+	father=1019927891	#Tajy
+	1377.3.8={ birth=yes }
+	1431.12.10={ death=yes }
+}
+1019927902={
+	name=Azelene
+	female=yes
+	dynasty=1009990246
+	dna="oohfmdekpeo"
+	culture=guarani religion=amazonian_pagan
+	father=1019927898	#Tuvicha
+	1385.5.24={ birth=yes }
+	1453.11.15={ death=yes }
+}
+1019927903={
+	name=Maitei
+	dynasty=1009990246
+	dna="okfnmdekgea"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=6
+	father=1019927898	#Tuvicha
+	1388.9.6={ birth=yes }
+	1455.9.20={ death=yes }
+}
+1019927904={
+	name=Amangy
+	dynasty=1009990246
+	dna="pkppodbjoca"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=6 learning=8
+	father=1019927898	#Tuvicha
+	1395.5.19={ birth=yes }
+	1449.10.28={ death=yes }
+}
+1019927905={
+	name=Apytere
+	dynasty=1009990246
+	dna="cacnmgakpei"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=5
+	father=1019927898	#Tuvicha
+	1402.9.11={ birth=yes }
+	1485.6.27={ death=yes }
+}
+1019927906={
+	name=Karai
+	dynasty=1009990247
+	dna="pphjakolfmo"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=8 learning=5
+	719.3.3={ birth=yes }
+	785.5.16={ death=yes }
+}
+1019927907={
+	name=Tatapytu
+	dynasty=1009990247
+	dna="poajakolfcp"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=4 learning=7
+	father=1019927906	#Karai
+	747.11.27={ birth=yes }
+	851.3.22={ death=yes }
+}
+1019927908={
+	name=Ygary
+	dynasty=1009990247
+	dna="dehofdolfmi"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=6 learning=7
+	father=1019927906	#Karai
+	751.11.20={ birth=yes }
+	815.6.11={ death=yes }
+}
+1019927909={
+	name=Potira
+	female=yes
+	dynasty=1009990247
+	dna="pobjakglhko"
+	culture=guarani religion=amazonian_pagan
+	father=1019927906	#Karai
+	756.4.27={ birth=yes }
+	839.1.23={ death=yes }
+}
+1019927910={
+	name=Porasy
+	female=yes
+	dynasty=1009990247
+	dna="ephoajjlpkh"
+	culture=guarani religion=amazonian_pagan
+	father=1019927906	#Karai
+	762.10.4={ birth=yes }
+	807.8.24={ death=yes }
+}
+1019927911={
+	name=Katupyry
+	dynasty=1009990247
+	dna="poaehkfkiop"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=6
+	father=1019927907	#Tatapytu
+	778.2.6={ birth=yes }
+	864.11.24={ death=yes }
+}
+1019927912={
+	name=Potira
+	female=yes
+	dynasty=1009990247
+	dna="johiaklllea"
+	culture=guarani religion=amazonian_pagan
+	father=1019927907	#Tatapytu
+	785.1.19={ birth=yes }
+	845.3.16={ death=yes }
+}
+1019927913={
+	name=Porasy
+	female=yes
+	dynasty=1009990247
+	dna="pooalolpncf"
+	culture=guarani religion=amazonian_pagan
+	father=1019927907	#Tatapytu
+	791.8.23={ birth=yes }
+	842.11.13={ death=yes }
+}
+1019927914={
+	name=Amangy
+	dynasty=1009990247
+	dna="coijkkojfoc"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	father=1019927907	#Tatapytu
+	795.6.22={ birth=yes }
+	874.3.4={ death=yes }
+}
+1019927915={
+	name=Aravera
+	dynasty=1009990247
+	dna="ponehkgbhfa"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=6 learning=5
+	father=1019927911	#Katupyry
+	799.8.20={ birth=yes }
+	864.9.14={ death=yes }
+}
+1019927916={
+	name=Bartira
+	female=yes
+	dynasty=1009990247
+	dna="pnakfefeinn"
+	culture=guarani religion=amazonian_pagan
+	father=1019927911	#Katupyry
+	805.5.16={ birth=yes }
+	868.2.16={ death=yes }
+}
+1019927917={
+	name=Aravera
+	dynasty=1009990247
+	dna="pndehmldhfa"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	father=1019927915	#Aravera
+	826.12.23={ birth=yes }
+	892.4.24={ death=yes }
+}
+1019927918={
+	name=Porasy
+	female=yes
+	dynasty=1009990247
+	dna="ponmikgbika"
+	culture=guarani religion=amazonian_pagan
+	father=1019927915	#Aravera
+	832.10.9={ birth=yes }
+	895.12.5={ death=yes }
+}
+1019927919={
+	name=Azelene
+	female=yes
+	dynasty=1009990247
+	dna="ponfhogjhff"
+	culture=guarani religion=amazonian_pagan
+	father=1019927915	#Aravera
+	837.9.14={ birth=yes }
+	920.5.10={ death=yes }
+}
+1019927920={
+	name=Tekokatu
+	dynasty=1009990247
+	dna="pgnaligdlpa"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=6 learning=6
+	father=1019927915	#Aravera
+	840.1.27={ birth=yes }
+	906.7.26={ death=yes }
+}
+1019927921={
+	name=Tuvicha
+	dynasty=1009990247
+	dna="phfloalehfa"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	father=1019927917	#Aravera
+	851.12.10={ birth=yes }
+	927.1.31={ death=yes }
+}
+1019927922={
+	name=Jougousa
+	female=yes
+	dynasty=1009990247
+	dna="fnolhmjdbia"
+	culture=guarani religion=amazonian_pagan
+	father=1019927917	#Aravera
+	853.1.2={ birth=yes }
+	902.6.2={ death=yes }
+}
+1019927923={
+	name=Angatupyry
+	dynasty=1009990247
+	dna="kggebhkdhha"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=8
+	father=1019927917	#Aravera
+	859.2.6={ birth=yes }
+	935.6.4={ death=yes }
+}
+1019927924={
+	name=Maitei
+	dynasty=1009990247
+	dna="pnjdhmldeff"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=5 learning=7
+	father=1019927917	#Aravera
+	864.10.22={ birth=yes }
+	918.1.23={ death=yes }
+}
+1019927925={
+	name=Porasy
+	female=yes
+	dynasty=1009990247
+	dna="pofnhmldlnh"
+	culture=guarani religion=amazonian_pagan
+	father=1019927917	#Aravera
+	868.7.21={ birth=yes }
+	925.9.2={ death=yes }
+}
+1019927926={
+	name=Jougousa
+	female=yes
+	dynasty=1009990247
+	dna="pidelmjdmie"
+	culture=guarani religion=amazonian_pagan
+	father=1019927917	#Aravera
+	871.6.9={ birth=yes }
+	949.10.8={ death=yes }
+}
+1019927927={
+	name=Tatajyva
+	dynasty=1009990247
+	dna="blfhoolnifa"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	father=1019927921	#Tuvicha
+	876.1.27={ birth=yes }
+	933.12.26={ death=yes }
+}
+1019927928={
+	name=Mba'ehory
+	dynasty=1009990247
+	dna="lohloniihkd"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=4 learning=6
+	father=1019927921	#Tuvicha
+	883.8.2={ birth=yes }
+	940.5.9={ death=yes }
+}
+1019927929={
+	name=Azelene
+	female=yes
+	dynasty=1009990247
+	dna="bkjlnalkhjh"
+	culture=guarani religion=amazonian_pagan
+	father=1019927921	#Tuvicha
+	890.7.10={ birth=yes }
+	968.1.23={ death=yes }
+}
+1019927930={
+	name=Namandu
+	dynasty=1009990247
+	dna="ohfioogehfp"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=7 learning=6
+	father=1019927921	#Tuvicha
+	897.11.25={ birth=yes }
+	977.3.12={ death=yes }
+}
+1019927931={
+	name=Porasy
+	female=yes
+	dynasty=1009990247
+	dna="mpmnmcmiifa"
+	culture=guarani religion=amazonian_pagan
+	father=1019927927	#Tatajyva
+	905.5.27={ birth=yes }
+	963.10.16={ death=yes }
+}
+1019927932={
+	name=Tekokatu
+	dynasty=1009990247
+	dna="bbfidolciff"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=5 learning=6
+	father=1019927927	#Tatajyva
+	911.12.1={ birth=yes }
+	998.11.8={ death=yes }
+}
+1019927933={
+	name=Aratiri
+	dynasty=1009990247
+	dna="bpjeojlknbb"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=6
+	father=1019927927	#Tatajyva
+	919.1.13={ birth=yes }
+	975.3.19={ death=yes }
+}
+1019927934={
+	name=Azelene
+	female=yes
+	dynasty=1009990247
+	dna="hjfichlifbp"
+	culture=guarani religion=amazonian_pagan
+	father=1019927927	#Tatajyva
+	922.10.14={ birth=yes }
+	1003.1.22={ death=yes }
+}
+1019927935={
+	name=Mba'ehory
+	dynasty=1009990247
+	dna="abdpdkljiff"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=5 learning=5
+	father=1019927932	#Tekokatu
+	940.4.3={ birth=yes }
+	1027.12.3={ death=yes }
+}
+1019927936={
+	name=Azelene
+	female=yes
+	dynasty=1009990247
+	dna="nbaibodckfg"
+	culture=guarani religion=amazonian_pagan
+	father=1019927932	#Tekokatu
+	945.10.19={ birth=yes }
+	1000.6.20={ death=yes }
+}
+1019927937={
+	name=Katupyry
+	dynasty=1009990247
+	dna="cbbodihcfab"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	father=1019927932	#Tekokatu
+	951.8.26={ birth=yes }
+	1028.8.24={ death=yes }
+}
+1019927938={
+	name=Mbarakapu
+	dynasty=1009990247
+	dna="bgciiobaplo"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=7 learning=7
+	father=1019927932	#Tekokatu
+	959.6.12={ birth=yes }
+	1027.1.3={ death=yes }
+}
+1019927939={
+	name=Bartira
+	female=yes
+	dynasty=1009990247
+	dna="ifdjdplofna"
+	culture=guarani religion=amazonian_pagan
+	father=1019927935	#Mba'ehory
+	967.10.7={ birth=yes }
+	1024.2.21={ death=yes }
+}
+1019927940={
+	name=Maitei
+	dynasty=1009990247
+	dna="lbgbdkljplm"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	father=1019927935	#Mba'ehory
+	972.12.3={ birth=yes }
+	1026.4.15={ death=yes }
+}
+1019927941={
+	name=Bartira
+	female=yes
+	dynasty=1009990247
+	dna="cjdkhglcbjf"
+	culture=guarani religion=amazonian_pagan
+	father=1019927935	#Mba'ehory
+	977.1.5={ birth=yes }
+	1059.7.7={ death=yes }
+}
+1019927942={
+	name=Bartira
+	female=yes
+	dynasty=1009990247
+	dna="aelmdkekfff"
+	culture=guarani religion=amazonian_pagan
+	father=1019927935	#Mba'ehory
+	984.10.2={ birth=yes }
+	1067.12.22={ death=yes }
+}
+1019927943={
+	name=Amangy
+	dynasty=1009990247
+	dna="pbgbdoogodm"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	father=1019927940	#Maitei
+	1001.12.14={ birth=yes }
+	1078.10.15={ death=yes }
+}
+1019927944={
+	name=Aravera
+	dynasty=1009990247
+	dna="oggllhljndm"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=6
+	father=1019927940	#Maitei
+	1008.4.2={ birth=yes }
+	1076.7.10={ death=yes }
+}
+1019927945={
+	name=Azelene
+	female=yes
+	dynasty=1009990247
+	dna="lbhbdkljplm"
+	culture=guarani religion=amazonian_pagan
+	father=1019927940	#Maitei
+	1015.8.5={ birth=yes }
+	1083.3.2={ death=yes }
+}
+1019927946={
+	name=Namandu
+	dynasty=1009990247
+	dna="ppgbdhogohe"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	father=1019927943	#Amangy
+	1028.2.19={ birth=yes }
+	1091.11.27={ death=yes }
+}
+1019927947={
+	name=Apytere
+	dynasty=1009990247
+	dna="bbdbdhooone"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	father=1019927943	#Amangy
+	1033.11.15={ birth=yes }
+	1106.11.1={ death=yes }
+}
+1019927948={
+	name=Aratiri
+	dynasty=1009990247
+	dna="fmibjnoioip"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=8
+	father=1019927946	#Namandu
+	1059.11.9={ birth=yes }
+	1131.10.30={ death=yes }
+}
+1019927949={
+	name=Amangy
+	dynasty=1009990247
+	dna="ppmohhogohc"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=8
+	father=1019927946	#Namandu
+	1062.10.24={ birth=yes }
+	1137.9.23={ death=yes }
+}
+1019927950={
+	name=Porasy
+	female=yes
+	dynasty=1009990247
+	dna="fpglgmalphj"
+	culture=guarani religion=amazonian_pagan
+	father=1019927946	#Namandu
+	1069.12.26={ birth=yes }
+	1144.5.7={ death=yes }
+}
+1019927951={
+	name=Namandu
+	dynasty=1009990247
+	dna="gmiajnmjoic"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=7
+	father=1019927948	#Aratiri
+	1086.8.6={ birth=yes }
+	1145.2.1={ death=yes }
+}
+1019927952={
+	name=Maitei
+	dynasty=1009990247
+	dna="fmakjniibom"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=8
+	father=1019927948	#Aratiri
+	1091.11.17={ birth=yes }
+	1156.12.21={ death=yes }
+}
+1019927953={
+	name=Karai
+	dynasty=1009990247
+	dna="mjfbjnoioca"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=8 learning=7
+	father=1019927948	#Aratiri
+	1096.9.18={ birth=yes }
+	1151.8.8={ death=yes }
+}
+1019927954={
+	name=Chavuku
+	dynasty=1009990247
+	dna="fapbjeiiobp"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=4
+	father=1019927948	#Aratiri
+	1101.10.10={ birth=yes }
+	1186.9.3={ death=yes }
+}
+1019927955={
+	name=Angatupyry
+	dynasty=1009990247
+	dna="clebjififip"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=4 learning=6
+	father=1019927948	#Aratiri
+	1104.3.9={ birth=yes }
+	1159.5.26={ death=yes }
+}
+1019927956={
+	name=Mba'ehory
+	dynasty=1009990247
+	dna="cmibheomgkp"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=5 learning=7
+	father=1019927948	#Aratiri
+	1108.11.25={ birth=yes }
+	1165.2.12={ death=yes }
+}
+1019927957={
+	name=Tajy
+	dynasty=1009990247
+	dna="nbfgbnmloih"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=6 learning=5
+	father=1019927951	#Namandu
+	1116.9.11={ birth=yes }
+	1200.1.7={ death=yes }
+}
+1019927958={
+	name=Tatapytu
+	dynasty=1009990247
+	dna="gmgajkchgjp"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=7 learning=8
+	father=1019927951	#Namandu
+	1119.10.23={ birth=yes }
+	1175.4.13={ death=yes }
+}
+1019927959={
+	name=Porasy
+	female=yes
+	dynasty=1009990247
+	dna="oiiajhmjing"
+	culture=guarani religion=amazonian_pagan
+	father=1019927951	#Namandu
+	1122.1.27={ birth=yes }
+	1189.9.3={ death=yes }
+}
+1019927960={
+	name=Jougousa
+	female=yes
+	dynasty=1009990247
+	dna="ggiihnmmofl"
+	culture=guarani religion=amazonian_pagan
+	father=1019927951	#Namandu
+	1126.2.19={ birth=yes }
+	1200.11.12={ death=yes }
+}
+1019927961={
+	name=Tatarendy
+	dynasty=1009990247
+	dna="gbecjomhhed"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=4 learning=5
+	father=1019927951	#Namandu
+	1131.10.16={ birth=yes }
+	1168.5.14={ death=yes }
+}
+1019927962={
+	name=Azelene
+	female=yes
+	dynasty=1009990247
+	dna="ibdgchmlodc"
+	culture=guarani religion=amazonian_pagan
+	father=1019927957	#Tajy
+	1148.7.26={ birth=yes }
+	1231.6.23={ death=yes }
+}
+1019927963={
+	name=Bartira
+	female=yes
+	dynasty=1009990247
+	dna="njicleplbim"
+	culture=guarani religion=amazonian_pagan
+	father=1019927957	#Tajy
+	1155.5.18={ birth=yes }
+	1210.12.3={ death=yes }
+}
+1019927964={
+	name=Tuvicha
+	dynasty=1009990247
+	dna="nffjcjjaogh"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=8 learning=5
+	father=1019927957	#Tajy
+	1159.3.15={ birth=yes }
+	1257.3.6={ death=yes }
+}
+1019927965={
+	name=Angatupyry
+	dynasty=1009990247
+	dna="hmejfnmloih"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=6
+	father=1019927957	#Tajy
+	1163.7.16={ birth=yes }
+	1218.5.14={ death=yes }
+}
+1019927966={
+	name=Mbarakapu
+	dynasty=1009990247
+	dna="fcfhmhfgegd"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=8 learning=5
+	father=1019927964	#Tuvicha
+	1184.5.27={ birth=yes }
+	1265.2.21={ death=yes }
+}
+1019927967={
+	name=Tuvicha
+	dynasty=1009990247
+	dna="nbgocnjngbh"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	father=1019927964	#Tuvicha
+	1190.9.26={ birth=yes }
+	1276.6.9={ death=yes }
+}
+1019927968={
+	name=Arandu
+	dynasty=1009990247
+	dna="ecahmhfnkgm"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=4
+	father=1019927966	#Mbarakapu
+	1213.9.15={ birth=yes }
+	1267.8.29={ death=yes }
+}
+1019927969={
+	name=Mbarakapu
+	dynasty=1009990247
+	dna="cplhmpffegg"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=6 learning=6 
+	father=1019927966	#Mbarakapu
+	1219.9.26={ birth=yes }
+	1293.12.7={ death=yes }
+}
+1019927970={
+	name=Mbarakapu
+	dynasty=1009990247
+	dna="ojagmgfedbd"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=5 learning=6
+	father=1019927966	#Mbarakapu
+	1222.9.21={ birth=yes }
+	1306.2.10={ death=yes }
+}
+1019927971={
+	name=Jakaira
+	dynasty=1009990247
+	dna="jbfhdhnaego"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=4 learning=4
+	father=1019927966	#Mbarakapu
+	1225.9.2={ birth=yes }
+	1286.12.16={ death=yes }
+}
+1019927972={
+	name=Tuvicha
+	dynasty=1009990247
+	dna="fcfimjkgkpd"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=6 learning=6
+	father=1019927966	#Mbarakapu
+	1231.6.8={ birth=yes }
+	1290.8.21={ death=yes }
+}
+1019927973={
+	name=Ygary
+	dynasty=1009990247
+	dna="icahmgfhknm"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	father=1019927968	#Arandu
+	1236.1.19={ birth=yes }
+	1305.12.29={ death=yes }
+}
+1019927974={
+	name=Jougousa
+	female=yes
+	dynasty=1009990247
+	dna="oeaclhdoegm"
+	culture=guarani religion=amazonian_pagan
+	father=1019927968	#Arandu
+	1240.8.10={ birth=yes }
+	1305.4.24={ death=yes }
+}
+1019927975={
+	name=Araresa
+	dynasty=1009990247
+	dna="ekaopnfndkm"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	father=1019927968	#Arandu
+	1245.2.13={ birth=yes }
+	1328.4.23={ death=yes }
+}
+1019927976={
+	name=Azelene
+	female=yes
+	dynasty=1009990247
+	dna="ggphmbfnjlg"
+	culture=guarani religion=amazonian_pagan
+	father=1019927968	#Arandu
+	1251.8.17={ birth=yes }
+	1334.11.6={ death=yes }
+}
+1019927977={
+	name=Porasy
+	female=yes
+	dynasty=1009990247
+	dna="ecfkihhnkgm"
+	culture=guarani religion=amazonian_pagan
+	father=1019927968	#Arandu
+	1256.4.22={ birth=yes }
+	1319.3.14={ death=yes }
+}
+1019927978={
+	name=Jougousa
+	female=yes
+	dynasty=1009990247
+	dna="icahmifhknb"
+	culture=guarani religion=amazonian_pagan
+	father=1019927973	#Ygary
+	1256.10.18={ birth=yes }
+	1312.5.21={ death=yes }
+}
+1019927979={
+	name=Karai
+	dynasty=1009990247
+	dna="kopgmafemnm"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	father=1019927973	#Ygary
+	1260.8.4={ birth=yes }
+	1343.4.6={ death=yes }
+}
+1019927980={
+	name=Azelene
+	female=yes
+	dynasty=1009990247
+	dna="nnaemkfmnnn"
+	culture=guarani religion=amazonian_pagan
+	father=1019927973	#Ygary
+	1264.4.26={ birth=yes }
+	1327.12.2={ death=yes }
+}
+1019927981={
+	name=Kuarahy
+	dynasty=1009990247
+	dna="iodbmifaknl"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=7 learning=6
+	father=1019927973	#Ygary
+	1270.1.14={ birth=yes }
+	1345.8.27={ death=yes }
+}
+1019927982={
+	name=Tekokatu
+	dynasty=1009990247
+	dna="kgjghhnmmnc"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=5 learning=8
+	father=1019927979	#Karai
+	1288.3.26={ birth=yes }
+	1354.12.29={ death=yes }
+}
+1019927983={
+	name=Porasy
+	female=yes
+	dynasty=1009990247
+	dna="nbmgmoeofmm"
+	culture=guarani religion=amazonian_pagan
+	father=1019927979	#Karai
+	1293.3.25={ birth=yes }
+	1365.12.11={ death=yes }
+}
+1019927984={
+	name=Namandu
+	dynasty=1009990247
+	dna="kfjlhhbmmni"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=7 learning=5
+	father=1019927982	#Tekokatu
+	1313.9.14={ birth=yes }
+	1375.3.1={ death=yes }
+}
+1019927985={
+	name=Bartira
+	female=yes
+	dynasty=1009990247
+	dna="kgmbhpgohnf"
+	culture=guarani religion=amazonian_pagan
+	father=1019927982	#Tekokatu
+	1319.6.4={ birth=yes }
+	1374.1.8={ death=yes }
+}
+1019927986={
+	name=Amangy
+	dynasty=1009990247
+	dna="mgjpnokmbnm"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=8
+	father=1019927982	#Tekokatu
+	1324.12.14={ birth=yes }
+	1397.4.27={ death=yes }
+}
+1019927987={
+	name=Potira
+	female=yes
+	dynasty=1009990247
+	dna="kgofahfmpnn"
+	culture=guarani religion=amazonian_pagan
+	father=1019927982	#Tekokatu
+	1328.9.7={ birth=yes }
+	1389.9.21={ death=yes }
+}
+1019927988={
+	name=Bartira
+	female=yes
+	dynasty=1009990247
+	dna="knjehndmbgn"
+	culture=guarani religion=amazonian_pagan
+	father=1019927982	#Tekokatu
+	1331.9.15={ birth=yes }
+	1393.5.28={ death=yes }
+}
+1019927989={
+	name=Katupyry
+	dynasty=1009990247
+	dna="kfalghnnmnj"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=7 learning=6
+	father=1019927984	#Namandu
+	1342.10.27={ birth=yes }
+	1417.8.29={ death=yes }
+}
+1019927990={
+	name=Maitei
+	dynasty=1009990247
+	dna="koeakcbljni"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=7
+	father=1019927984	#Namandu
+	1347.10.3={ birth=yes }
+	1416.10.5={ death=yes }
+}
+1019927991={
+	name=Araresa
+	dynasty=1009990247
+	dna="koeljodimjn"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=8 learning=4
+	father=1019927984	#Namandu
+	1352.8.24={ birth=yes }
+	1417.4.10={ death=yes }
+}
+1019927992={
+	name=Apytere
+	dynasty=1009990247
+	dna="jllidhjmoni"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=5 learning=5
+	father=1019927984	#Namandu
+	1357.6.25={ birth=yes }
+	1440.11.5={ death=yes }
+}
+1019927993={
+	name=Azelene
+	female=yes
+	dynasty=1009990247
+	dna="ffjlhfbkmji"
+	culture=guarani religion=amazonian_pagan
+	father=1019927984	#Namandu
+	1361.2.21={ birth=yes }
+	1432.11.20={ death=yes }
+}
+1019927994={
+	name=Maitei
+	dynasty=1009990247
+	dna="kooljhfmmfg"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=4 learning=4
+	father=1019927984	#Namandu
+	1366.12.22={ birth=yes }
+	1435.10.11={ death=yes }
+}
+1019927995={
+	name=Potira
+	female=yes
+	dynasty=1009990247
+	dna="hajlphbfmob"
+	culture=guarani religion=amazonian_pagan
+	father=1019927984	#Namandu
+	1370.12.24={ birth=yes }
+	1441.4.18={ death=yes }
+}
+1019927996={
+	name=Apytere
+	dynasty=1009990247
+	dna="kipblhnjppe"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=8 learning=6
+	father=1019927989	#Katupyry
+	1364.5.14={ birth=yes }
+	1425.11.18={ death=yes }
+}
+1019927997={
+	name=Aratiri
+	dynasty=1009990247
+	dna="keapbengmlj"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=5 learning=7 
+	father=1019927989	#Katupyry
+	1371.6.5={ birth=yes }
+	1431.6.7={ death=yes }
+}
+1019927998={
+	name=Azelene
+	female=yes
+	dynasty=1009990247
+	dna="kncgmlbmcnj"
+	culture=guarani religion=amazonian_pagan
+	father=1019927989	#Katupyry
+	1379.7.4={ birth=yes }
+	1439.4.15={ death=yes }
+}
+1019927999={
+	name=Tatarendy
+	dynasty=1009990247
+	dna="amahhhnomid"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=4 learning=6
+	father=1019927989	#Katupyry
+	1386.4.25={ birth=yes }
+	1447.8.16={ death=yes }
+}
+1019928000={
+	name=Karai
+	dynasty=1009990247
+	dna="kapbihnjppe"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=5
+	father=1019927996	#Apytere
+	1388.7.19={ birth=yes }
+	1473.12.4={ death=yes }
+}
+1019928001={
+	name=Potira
+	female=yes
+	dynasty=1009990247
+	dna="kppgkdajdpj"
+	culture=guarani religion=amazonian_pagan
+	father=1019927996	#Apytere
+	1392.12.17={ birth=yes }
+	1446.10.24={ death=yes }
+}
+1019928002={
+	name=Jougousa
+	female=yes
+	dynasty=1009990247
+	dna="oppblgadppk"
+	culture=guarani religion=amazonian_pagan
+	father=1019927996	#Apytere
+	1398.11.27={ birth=yes }
+	1461.12.6={ death=yes }
+}
+1019928003={
+	name=Tajy
+	dynasty=1009990247
+	dna="kipllhbjppe"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=6
+	father=1019927996	#Apytere
+	1402.11.9={ birth=yes }
+	1455.11.24={ death=yes }
+}
+1019928004={
+	name=Bartira
+	female=yes
+	dynasty=1009990247
+	dna="nipjklnjppj"
+	culture=guarani religion=amazonian_pagan
+	father=1019927996	#Apytere
+	1404.4.27={ birth=yes }
+	1467.1.12={ death=yes }
+}
+1019928005={
+	name=Mba'ehory
+	dynasty=1009990247
+	dna="kipbohdjpki"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=8
+	father=1019927996	#Apytere
+	1409.5.21={ birth=yes }
+	1471.1.14={ death=yes }
+}
+1019928006={
+	name=Tatapytu
+	dynasty=1009990247
+	dna="mipbihngcha"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=8 learning=4
+	father=1019927996	#Apytere
+	1415.9.2={ birth=yes }
+	1516.9.10={ death=yes }
+}
+1019928007={
+	name=Tajy
+	dynasty=1009990248
+	dna="kfbipfdpckk"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=4 learning=4
+	719.1.16={ birth=yes }
+	787.2.7={ death=yes }
+}
+1019928008={
+	name=Aratiri
+	dynasty=1009990248
+	dna="gfaepfgnhbf"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=6 learning=5
+	father=1019928007	#Tajy
+	750.6.9={ birth=yes }
+	831.11.16={ death=yes }
+}
+1019928009={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="kfbddfkpkke"
+	culture=guarani religion=amazonian_pagan
+	father=1019928007	#Tajy
+	754.6.10={ birth=yes }
+	807.3.4={ death=yes }
+}
+1019928010={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="kmmikfdpcha"
+	culture=guarani religion=amazonian_pagan
+	father=1019928007	#Tajy
+	760.4.19={ birth=yes }
+	827.5.22={ death=yes }
+}
+1019928011={
+	name=Amaru
+	dynasty=1009990248
+	dna="kfbopadmckk"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=5
+	father=1019928007	#Tajy
+	765.10.20={ birth=yes }
+	820.8.18={ death=yes }
+}
+1019928012={
+	name=Maitei
+	dynasty=1009990248
+	dna="fcpipfdmcok"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=6
+	father=1019928007	#Tajy
+	770.5.22={ birth=yes }
+	872.6.12={ death=yes }
+}
+1019928013={
+	name=Tatarendy
+	dynasty=1009990248
+	dna="lfcopadjlbf"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	father=1019928008	#Aratiri
+	773.9.15={ birth=yes }
+	831.12.23={ death=yes }
+}
+1019928014={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="gmbeifenhde"
+	culture=guarani religion=amazonian_pagan
+	father=1019928008	#Aratiri
+	776.11.17={ birth=yes }
+	866.11.18={ death=yes }
+}
+1019928015={
+	name=Bartira
+	female=yes
+	dynasty=1009990248
+	dna="goadlknnmbf"
+	culture=guarani religion=amazonian_pagan
+	father=1019928008	#Aratiri
+	780.10.21={ birth=yes }
+	853.3.8={ death=yes }
+}
+1019928016={
+	name=Potira
+	female=yes
+	dynasty=1009990248
+	dna="pfalpofhlbh"
+	culture=guarani religion=amazonian_pagan
+	father=1019928008	#Aratiri
+	787.8.6={ birth=yes }
+	872.3.17={ death=yes }
+}
+1019928017={
+	name=Chavuku
+	dynasty=1009990248
+	dna="gfbepfgnhnn"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=7 learning=6
+	father=1019928008	#Aratiri
+	791.7.20={ birth=yes }
+	859.7.18={ death=yes }
+}
+1019928018={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="gfbnnbghhme"
+	culture=guarani religion=amazonian_pagan
+	father=1019928008	#Aratiri
+	797.11.22={ birth=yes }
+	855.6.26={ death=yes }
+}
+1019928019={
+	name=Kuarahy
+	dynasty=1009990248
+	dna="lllachodjbf"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=6 learning=5
+	father=1019928013	#Tatarendy
+	803.7.22={ birth=yes }
+	862.6.26={ death=yes }
+}
+1019928020={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="mabopddmfba"
+	culture=guarani religion=amazonian_pagan
+	father=1019928013	#Tatarendy
+	809.3.27={ birth=yes }
+	880.2.23={ death=yes }
+}
+1019928021={
+	name=Potira
+	female=yes
+	dynasty=1009990248
+	dna="nmcnpbdenbi"
+	culture=guarani religion=amazonian_pagan
+	father=1019928013	#Tatarendy
+	814.1.4={ birth=yes }
+	894.1.16={ death=yes }
+}
+1019928022={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="mhcddanjiof"
+	culture=guarani religion=amazonian_pagan
+	father=1019928013	#Tatarendy
+	820.9.15={ birth=yes }
+	874.1.31={ death=yes }
+}
+1019928023={
+	name=Maitei
+	dynasty=1009990248
+	dna="lllaghpdgbh"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=7 learning=4
+	father=1019928019	#Kuarahy
+	824.9.12={ birth=yes }
+	899.4.13={ death=yes }
+}
+1019928024={
+	name=Bartira
+	female=yes
+	dynasty=1009990248
+	dna="lchfcfodcaf"
+	culture=guarani religion=amazonian_pagan
+	father=1019928019	#Kuarahy
+	828.8.26={ birth=yes }
+	894.2.28={ death=yes }
+}
+1019928025={
+	name=Tekokatu
+	dynasty=1009990248
+	dna="ollamboojbi"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	father=1019928019	#Kuarahy
+	831.2.10={ birth=yes }
+	911.8.17={ death=yes }
+}
+1019928026={
+	name=Kuarahyrese
+	dynasty=1009990248
+	dna="lklachadhdc"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	father=1019928019	#Kuarahy
+	833.9.27={ birth=yes }
+	906.7.9={ death=yes }
+}
+1019928027={
+	name=Tekokatu
+	dynasty=1009990248
+	dna="lgeagppejjf"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	father=1019928023	#Maitei
+	845.10.1={ birth=yes }
+	915.1.9={ death=yes }
+}
+1019928028={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="mamagccmkko"
+	culture=guarani religion=amazonian_pagan
+	father=1019928023	#Maitei
+	850.12.3={ birth=yes }
+	914.11.9={ death=yes }
+}
+1019928029={
+	name=Arandu
+	dynasty=1009990248
+	dna="lgdadppfjld"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=8 learning=7
+	father=1019928027	#Tekokatu
+	875.3.6={ birth=yes }
+	949.1.18={ death=yes }
+}
+1019928030={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="mgajhpgecpk"
+	culture=guarani religion=amazonian_pagan
+	father=1019928027	#Tekokatu
+	880.4.16={ birth=yes }
+	919.9.28={ death=yes }
+}
+1019928031={
+	name=Tuvicha
+	dynasty=1009990248
+	dna="leefhakbfjj"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	father=1019928027	#Tekokatu
+	884.10.24={ birth=yes }
+	970.3.11={ death=yes }
+}
+1019928032={
+	name=Amangy
+	dynasty=1009990248
+	dna="bcealpdejcf"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	father=1019928027	#Tekokatu
+	888.11.14={ birth=yes }
+	956.1.28={ death=yes }
+}
+1019928033={
+	name=Bartira
+	female=yes
+	dynasty=1009990248
+	dna="loeagcpkfbf"
+	culture=guarani religion=amazonian_pagan
+	father=1019928027	#Tekokatu
+	892.8.17={ birth=yes }
+	950.11.20={ death=yes }
+}
+1019928034={
+	name=Kuarahyrese
+	dynasty=1009990248
+	dna="egihdpobfle"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=7
+	father=1019928029	#Arandu
+	904.7.20={ birth=yes }
+	976.3.12={ death=yes }
+}
+1019928035={
+	name=Amapytu
+	dynasty=1009990248
+	dna="lidpdgpbebl"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=6 learning=5
+	father=1019928029	#Arandu
+	907.11.10={ birth=yes }
+	974.5.4={ death=yes }
+}
+1019928036={
+	name=Kuarahyrese
+	dynasty=1009990248
+	dna="eeiadalbfpe"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=8
+	father=1019928034	#Kuarahyrese
+	929.10.15={ birth=yes }
+	1010.3.21={ death=yes }
+}
+1019928037={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="egimnpdbfge"
+	culture=guarani religion=amazonian_pagan
+	father=1019928034	#Kuarahyrese
+	932.12.16={ birth=yes }
+	1033.6.17={ death=yes }
+}
+1019928038={
+	name=Jougousa
+	female=yes
+	dynasty=1009990248
+	dna="ehihdpdbcde"
+	culture=guarani religion=amazonian_pagan
+	father=1019928034	#Kuarahyrese
+	939.12.27={ birth=yes }
+	1026.3.20={ death=yes }
+}
+1019928039={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="lgapdalbfge"
+	culture=guarani religion=amazonian_pagan
+	father=1019928036	#Kuarahyrese
+	950.5.4={ birth=yes }
+	1025.7.31={ death=yes }
+}
+1019928040={
+	name=Aratiri
+	dynasty=1009990248
+	dna="eeiblalkfme"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	father=1019928036	#Kuarahyrese
+	954.10.22={ birth=yes }
+	1014.8.17={ death=yes }
+}
+1019928041={
+	name=Potira
+	female=yes
+	dynasty=1009990248
+	dna="eeiamalnbpe"
+	culture=guarani religion=amazonian_pagan
+	father=1019928036	#Kuarahyrese
+	959.9.7={ birth=yes }
+	1045.5.23={ death=yes }
+}
+1019928042={
+	name=Aratiri
+	dynasty=1009990248
+	dna="ckibaadkcme"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	father=1019928040	#Aratiri
+	978.1.10={ birth=yes }
+	1043.3.7={ death=yes }
+}
+1019928043={
+	name=Arasunu
+	dynasty=1009990248
+	dna="eeibdalkfmg"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=6 learning=5
+	father=1019928040	#Aratiri
+	983.10.25={ birth=yes }
+	1050.12.2={ death=yes }
+}
+1019928044={
+	name=Tatarendy
+	dynasty=1009990248
+	dna="mfkblbcoape"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	father=1019928040	#Aratiri
+	986.9.15={ birth=yes }
+	1058.1.9={ death=yes }
+}
+1019928045={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="eedfeamaame"
+	culture=guarani religion=amazonian_pagan
+	father=1019928040	#Aratiri
+	990.7.18={ birth=yes }
+	1054.3.31={ death=yes }
+}
+1019928046={
+	name=Tekokatu
+	dynasty=1009990248
+	dna="pkfdlmlafme"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=8
+	father=1019928040	#Aratiri
+	994.6.17={ birth=yes }
+	1076.11.22={ death=yes }
+}
+1019928047={
+	name=Arasunu
+	dynasty=1009990248
+	dna="eeibladkfnh"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=7
+	father=1019928040	#Aratiri
+	999.9.7={ birth=yes }
+	1086.6.9={ death=yes }
+}
+1019928048={
+	name=Jougousa
+	female=yes
+	dynasty=1009990248
+	dna="eeebjkglaee"
+	culture=guarani religion=amazonian_pagan
+	father=1019928040	#Aratiri
+	1001.3.15={ birth=yes }
+	1064.5.8={ death=yes }
+}
+1019928049={
+	name=Tajy
+	dynasty=1009990248
+	dna="bkicaadihhe"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	father=1019928042	#Aratiri
+	1001.7.11={ birth=yes }
+	1069.8.7={ death=yes }
+}
+1019928050={
+	name=Jougousa
+	female=yes
+	dynasty=1009990248
+	dna="cmlcgmddame"
+	culture=guarani religion=amazonian_pagan
+	father=1019928042	#Aratiri
+	1006.3.22={ birth=yes }
+	1093.12.8={ death=yes }
+}
+1019928051={
+	name=Chavuku
+	dynasty=1009990248
+	dna="pkibaadkcck"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=4 learning=7
+	father=1019928042	#Aratiri
+	1012.5.24={ birth=yes }
+	1065.7.25={ death=yes }
+}
+1019928052={
+	name=Tatapytu
+	dynasty=1009990248
+	dna="gbicgacghhe"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=7
+	father=1019928049	#Tajy
+	1033.1.25={ birth=yes }
+	1109.1.1={ death=yes }
+}
+1019928053={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="nmmkaafnhhk"
+	culture=guarani religion=amazonian_pagan
+	father=1019928049	#Tajy
+	1037.10.3={ birth=yes }
+	1118.10.6={ death=yes }
+}
+1019928054={
+	name=Potira
+	female=yes
+	dynasty=1009990248
+	dna="bkecaadibom"
+	culture=guarani religion=amazonian_pagan
+	father=1019928049	#Tajy
+	1040.8.27={ birth=yes }
+	1093.1.20={ death=yes }
+}
+1019928055={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="mkmmafdihip"
+	culture=guarani religion=amazonian_pagan
+	father=1019928049	#Tajy
+	1045.12.7={ birth=yes }
+	1103.3.28={ death=yes }
+}
+1019928056={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="gjgcahdilme"
+	culture=guarani religion=amazonian_pagan
+	father=1019928049	#Tajy
+	1050.1.9={ birth=yes }
+	1136.3.26={ death=yes }
+}
+1019928057={
+	name=Angatupyry
+	dynasty=1009990248
+	dna="dbbcdacljme"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=4 learning=5
+	father=1019928052	#Tatapytu
+	1058.6.14={ birth=yes }
+	1131.6.29={ death=yes }
+}
+1019928058={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="bbpcgaomfhe"
+	culture=guarani religion=amazonian_pagan
+	father=1019928052	#Tatapytu
+	1065.2.23={ birth=yes }
+	1130.1.14={ death=yes }
+}
+1019928059={
+	name=Tatarendy
+	dynasty=1009990248
+	dna="kbcfgaggboc"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	father=1019928052	#Tatapytu
+	1070.10.8={ birth=yes }
+	1152.7.23={ death=yes }
+}
+1019928060={
+	name=Ygary
+	dynasty=1009990248
+	dna="dffjikcbjme"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=5 learning=5
+	father=1019928057	#Angatupyry
+	1091.6.6={ birth=yes }
+	1177.11.7={ death=yes }
+}
+1019928061={
+	name=Bartira
+	female=yes
+	dynasty=1009990248
+	dna="kpbgdaceooe"
+	culture=guarani religion=amazonian_pagan
+	father=1019928057	#Angatupyry
+	1094.9.25={ birth=yes }
+	1176.12.6={ death=yes }
+}
+1019928062={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="dhfjbkcnjac"
+	culture=guarani religion=amazonian_pagan
+	father=1019928060	#Ygary
+	1111.9.16={ birth=yes }
+	1174.8.20={ death=yes }
+}
+1019928063={
+	name=Aratiri
+	dynasty=1009990248
+	dna="dfdpoajeome"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=4 learning=8
+	father=1019928060	#Ygary
+	1116.3.24={ birth=yes }
+	1188.5.6={ death=yes }
+}
+1019928064={
+	name=Potira
+	female=yes
+	dynasty=1009990248
+	dna="kbgjijcbjmf"
+	culture=guarani religion=amazonian_pagan
+	father=1019928060	#Ygary
+	1120.8.10={ birth=yes }
+	1176.7.12={ death=yes }
+}
+1019928065={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="dhfjikkjjme"
+	culture=guarani religion=amazonian_pagan
+	father=1019928060	#Ygary
+	1124.9.6={ birth=yes }
+	1188.5.21={ death=yes }
+}
+1019928066={
+	name=Aravera
+	dynasty=1009990248
+	dna="dfkpiigioge"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=5
+	father=1019928063	#Aratiri
+	1143.1.4={ birth=yes }
+	1242.10.27={ death=yes }
+}
+1019928067={
+	name=Aratiri
+	dynasty=1009990248
+	dna="decloajeemi"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	father=1019928063	#Aratiri
+	1147.3.25={ birth=yes }
+	1221.1.2={ death=yes }
+}
+1019928068={
+	name=Aratiri
+	dynasty=1009990248
+	dna="amapgbpeobe"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=6 learning=6
+	father=1019928063	#Aratiri
+	1150.5.11={ birth=yes }
+	1218.4.2={ death=yes }
+}
+1019928069={
+	name=Potira
+	female=yes
+	dynasty=1009990248
+	dna="hidpkafehnk"
+	culture=guarani religion=amazonian_pagan
+	father=1019928063	#Aratiri
+	1155.11.10={ birth=yes }
+	1211.12.17={ death=yes }
+}
+1019928070={
+	name=Arasunu
+	dynasty=1009990248
+	dna="godeijkjohp"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=7 learning=7
+	father=1019928066	#Aravera
+	1168.7.13={ birth=yes }
+	1251.3.3={ death=yes }
+}
+1019928071={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="imbpijciogp"
+	culture=guarani religion=amazonian_pagan
+	father=1019928066	#Aravera
+	1174.12.15={ birth=yes }
+	1218.3.17={ death=yes }
+}
+1019928072={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="dfkniagimgf"
+	culture=guarani religion=amazonian_pagan
+	father=1019928066	#Aravera
+	1179.4.26={ birth=yes }
+	1215.10.15={ death=yes }
+}
+1019928073={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="dfkbiolfcee"
+	culture=guarani religion=amazonian_pagan
+	father=1019928066	#Aravera
+	1182.11.15={ birth=yes }
+	1263.10.28={ death=yes }
+}
+1019928074={
+	name=Kuarahy
+	dynasty=1009990248
+	dna="gikeimfjohp"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=8 learning=4
+	father=1019928070	#Arasunu
+	1194.1.2={ birth=yes }
+	1271.6.30={ death=yes }
+}
+1019928075={
+	name=Amapytu
+	dynasty=1009990248
+	dna="glieijknolp"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	father=1019928070	#Arasunu
+	1199.7.22={ birth=yes }
+	1253.11.11={ death=yes }
+}
+1019928076={
+	name=Potira
+	female=yes
+	dynasty=1009990248
+	dna="gddednkjahb"
+	culture=guarani religion=amazonian_pagan
+	father=1019928070	#Arasunu
+	1205.7.1={ birth=yes }
+	1274.7.2={ death=yes }
+}
+1019928077={
+	name=Jougousa
+	female=yes
+	dynasty=1009990248
+	dna="gideejneohg"
+	culture=guarani religion=amazonian_pagan
+	father=1019928070	#Arasunu
+	1209.10.13={ birth=yes }
+	1292.10.26={ death=yes }
+}
+1019928078={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="gifeifbccjp"
+	culture=guarani religion=amazonian_pagan
+	father=1019928074	#Kuarahy
+	1215.12.22={ birth=yes }
+	1307.1.8={ death=yes }
+}
+1019928079={
+	name=Tatarendy
+	dynasty=1009990248
+	dna="oakepmpjdhc"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=6 learning=5
+	father=1019928074	#Kuarahy
+	1222.7.11={ birth=yes }
+	1287.11.16={ death=yes }
+}
+1019928080={
+	name=Arandu
+	dynasty=1009990248
+	dna="gafmpbkjdhc"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=5 learning=4
+	father=1019928079	#Tatarendy
+	1244.12.20={ birth=yes }
+	1307.11.10={ death=yes }
+}
+1019928081={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="cfighhejdhc"
+	culture=guarani religion=amazonian_pagan
+	father=1019928079	#Tatarendy
+	1248.6.4={ birth=yes }
+	1312.6.10={ death=yes }
+}
+1019928082={
+	name=Amaru
+	dynasty=1009990248
+	dna="oakiiombjhl"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=5
+	father=1019928079	#Tatarendy
+	1253.11.19={ birth=yes }
+	1325.8.14={ death=yes }
+}
+1019928083={
+	name=Jougousa
+	female=yes
+	dynasty=1009990248
+	dna="nepfpjlbdhp"
+	culture=guarani religion=amazonian_pagan
+	father=1019928079	#Tatarendy
+	1256.5.10={ birth=yes }
+	1313.10.28={ death=yes }
+}
+1019928084={
+	name=Jakaira
+	dynasty=1009990248
+	dna="aciefmppihc"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=4 learning=6
+	father=1019928079	#Tatarendy
+	1261.4.22={ birth=yes }
+	1329.4.19={ death=yes }
+}
+1019928085={
+	name=Bartira
+	female=yes
+	dynasty=1009990248
+	dna="kdammhnjmhk"
+	culture=guarani religion=amazonian_pagan
+	father=1019928080	#Arandu
+	1274.1.20={ birth=yes }
+	1352.3.28={ death=yes }
+}
+1019928086={
+	name=Tatarendy
+	dynasty=1009990248
+	dna="gafmeljhdic"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=4
+	father=1019928080	#Arandu
+	1277.2.10={ birth=yes }
+	1338.12.18={ death=yes }
+}
+1019928087={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="gabibbkadhj"
+	culture=guarani religion=amazonian_pagan
+	father=1019928080	#Arandu
+	1281.10.2={ birth=yes }
+	1338.1.9={ death=yes }
+}
+1019928088={
+	name=Tatapytu
+	dynasty=1009990248
+	dna="mafhbhcgghe"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	father=1019928080	#Arandu
+	1284.5.24={ birth=yes }
+	1367.9.9={ death=yes }
+}
+1019928089={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="gmfhpofmdej"
+	culture=guarani religion=amazonian_pagan
+	father=1019928080	#Arandu
+	1289.10.10={ birth=yes }
+	1346.3.31={ death=yes }
+}
+1019928090={
+	name=Bartira
+	female=yes
+	dynasty=1009990248
+	dna="gafmpbklcfc"
+	culture=guarani religion=amazonian_pagan
+	father=1019928080	#Arandu
+	1294.9.25={ birth=yes }
+	1381.8.16={ death=yes }
+}
+1019928091={
+	name=Potira
+	female=yes
+	dynasty=1009990248
+	dna="oajccckfdce"
+	culture=guarani religion=amazonian_pagan
+	father=1019928080	#Arandu
+	1299.2.1={ birth=yes }
+	1359.9.10={ death=yes }
+}
+1019928092={
+	name=Amangy
+	dynasty=1009990248
+	dna="fnhgalogbif"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	father=1019928086	#Tatarendy
+	1310.7.1={ birth=yes }
+	1365.2.27={ death=yes }
+}
+1019928093={
+	name=Porasy
+	female=yes
+	dynasty=1009990248
+	dna="gafceljhlfd"
+	culture=guarani religion=amazonian_pagan
+	father=1019928086	#Tatarendy
+	1314.4.1={ birth=yes }
+	1351.4.30={ death=yes }
+}
+1019928094={
+	name=Bartira
+	female=yes
+	dynasty=1009990248
+	dna="plfmnpphddc"
+	culture=guarani religion=amazonian_pagan
+	father=1019928086	#Tatarendy
+	1320.8.3={ birth=yes }
+	1389.7.4={ death=yes }
+}
+1019928095={
+	name=Mbarakapu
+	dynasty=1009990248
+	dna="fohdalpghbo"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	father=1019928092	#Amangy
+	1336.10.8={ birth=yes }
+	1401.10.16={ death=yes }
+}
+1019928096={
+	name=Jougousa
+	female=yes
+	dynasty=1009990248
+	dna="fnggadpgbnf"
+	culture=guarani religion=amazonian_pagan
+	father=1019928092	#Amangy
+	1340.8.9={ birth=yes }
+	1406.3.26={ death=yes }
+}
+1019928097={
+	name=Angatupyry
+	dynasty=1009990248
+	dna="gjpkelobaif"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	father=1019928092	#Amangy
+	1345.12.8={ birth=yes }
+	1413.3.25={ death=yes }
+}
+1019928098={
+	name=Katupyry
+	dynasty=1009990248
+	dna="knapghohnih"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=4 learning=5
+	father=1019928092	#Amangy
+	1349.9.2={ birth=yes }
+	1404.9.11={ death=yes }
+}
+1019928099={
+	name=Potira
+	female=yes
+	dynasty=1009990248
+	dna="cnnlalbjpkm"
+	culture=guarani religion=amazonian_pagan
+	father=1019928095	#Mbarakapu
+	1370.8.16={ birth=yes }
+	1454.2.5={ death=yes }
+}
+1019928100={
+	name=Arasunu
+	dynasty=1009990248
+	dna="loncagjmhkc"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=4 learning=7
+	father=1019928095	#Mbarakapu
+	1375.10.27={ birth=yes }
+	1439.12.3={ death=yes }
+}
+1019928101={
+	name=Azelene
+	female=yes
+	dynasty=1009990248
+	dna="emnojkpgpcg"
+	culture=guarani religion=amazonian_pagan
+	father=1019928095	#Mbarakapu
+	1382.12.15={ birth=yes }
+	1463.11.8={ death=yes }
+}
+1019928102={
+	name=Katupyry
+	dynasty=1009990248
+	dna="flgellpljgi"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=5 learning=6
+	father=1019928095	#Mbarakapu
+	1389.5.17={ birth=yes }
+	1481.6.14={ death=yes }
+}
+1019928103={
+	name=Kuarahyrese
+	dynasty=1009990249
+	dna="fjdnhjbfldg"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=4 learning=5
+	719.12.16={ birth=yes }
+	813.4.27={ death=yes }
+}
+1019928104={
+	name=Aratiri
+	dynasty=1009990249
+	dna="focnhjbflhg"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=4 learning=6
+	father=1019928103	#Kuarahyrese
+	743.4.20={ birth=yes }
+	829.5.13={ death=yes }
+}
+1019928105={
+	name=Bartira
+	female=yes
+	dynasty=1009990249
+	dna="bjdnnjbfldg"
+	culture=guarani religion=amazonian_pagan
+	father=1019928103	#Kuarahyrese
+	748.7.18={ birth=yes }
+	807.3.20={ death=yes }
+}
+1019928106={
+	name=Potira
+	female=yes
+	dynasty=1009990249
+	dna="fjdihjacldg"
+	culture=guarani religion=amazonian_pagan
+	father=1019928103	#Kuarahyrese
+	751.4.24={ birth=yes }
+	809.1.25={ death=yes }
+}
+1019928107={
+	name=Bartira
+	female=yes
+	dynasty=1009990249
+	dna="njdfodbgcdc"
+	culture=guarani religion=amazonian_pagan
+	father=1019928103	#Kuarahyrese
+	755.4.6={ birth=yes }
+	836.4.11={ death=yes }
+}
+1019928108={
+	name=Bartira
+	female=yes
+	dynasty=1009990249
+	dna="fidpajbhipg"
+	culture=guarani religion=amazonian_pagan
+	father=1019928103	#Kuarahyrese
+	758.11.26={ birth=yes }
+	816.3.22={ death=yes }
+}
+1019928109={
+	name=Karai
+	dynasty=1009990249
+	dna="fjcnejnfelb"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=4 learning=6
+	father=1019928104	#Aratiri
+	765.1.8={ birth=yes }
+	824.1.17={ death=yes }
+}
+1019928110={
+	name=Azelene
+	female=yes
+	dynasty=1009990249
+	dna="fomnckcdlhg"
+	culture=guarani religion=amazonian_pagan
+	father=1019928104	#Aratiri
+	771.2.5={ birth=yes }
+	838.9.17={ death=yes }
+}
+1019928111={
+	name=Aratiri
+	dynasty=1009990249
+	dna="blcfbjcjlel"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=7 learning=8
+	father=1019928104	#Aratiri
+	778.7.21={ birth=yes }
+	872.11.29={ death=yes }
+}
+1019928112={
+	name=Porasy
+	female=yes
+	dynasty=1009990249
+	dna="locfmbmfolb"
+	culture=guarani religion=amazonian_pagan
+	father=1019928109	#Karai
+	785.7.4={ birth=yes }
+	870.9.25={ death=yes }
+}
+1019928113={
+	name=Apytere
+	dynasty=1009990249
+	dna="ejlnnjcdkgb"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=4 learning=6
+	father=1019928109	#Karai
+	791.4.14={ birth=yes }
+	869.11.6={ death=yes }
+}
+1019928114={
+	name=Potira
+	female=yes
+	dynasty=1009990249
+	dna="ejlnlcgdkgp"
+	culture=guarani religion=amazonian_pagan
+	father=1019928113	#Apytere
+	819.6.6={ birth=yes }
+	875.2.3={ death=yes }
+}
+1019928115={
+	name=Aravera
+	dynasty=1009990249
+	dna="ejlnbhchogb"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	father=1019928113	#Apytere
+	825.3.23={ birth=yes }
+	909.10.15={ death=yes }
+}
+1019928116={
+	name=Porasy
+	female=yes
+	dynasty=1009990249
+	dna="pdlnbhcdjgb"
+	culture=guarani religion=amazonian_pagan
+	father=1019928115	#Aravera
+	851.5.7={ birth=yes }
+	917.12.25={ death=yes }
+}
+1019928117={
+	name=Jakaira
+	dynasty=1009990249
+	dna="ejpbdmdommd"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=4 learning=8
+	father=1019928115	#Aravera
+	858.11.3={ birth=yes }
+	932.6.21={ death=yes }
+}
+1019928118={
+	name=Jougousa
+	female=yes
+	dynasty=1009990249
+	dna="ejmnlhchogo"
+	culture=guarani religion=amazonian_pagan
+	father=1019928115	#Aravera
+	860.5.22={ birth=yes }
+	933.3.10={ death=yes }
+}
+1019928119={
+	name=Azelene
+	female=yes
+	dynasty=1009990249
+	dna="ejlbboacoib"
+	culture=guarani religion=amazonian_pagan
+	father=1019928115	#Aravera
+	867.11.17={ birth=yes }
+	940.6.9={ death=yes }
+}
+1019928120={
+	name=Amaru
+	dynasty=1009990249
+	dna="ejpgefaokdl"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=4 learning=5
+	father=1019928117	#Jakaira
+	889.10.15={ birth=yes }
+	971.4.16={ death=yes }
+}
+1019928121={
+	name=Aratiri
+	dynasty=1009990249
+	dna="ejpajmdommd"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	father=1019928117	#Jakaira
+	896.6.19={ birth=yes }
+	966.5.7={ death=yes }
+}
+1019928122={
+	name=Potira
+	female=yes
+	dynasty=1009990249
+	dna="ejcggfcphdp"
+	culture=guarani religion=amazonian_pagan
+	father=1019928120	#Amaru
+	919.2.14={ birth=yes }
+	991.12.9={ death=yes }
+}
+1019928123={
+	name=Porasy
+	female=yes
+	dynasty=1009990249
+	dna="mldlpfaikfl"
+	culture=guarani religion=amazonian_pagan
+	father=1019928120	#Amaru
+	925.5.12={ birth=yes }
+	1010.4.8={ death=yes }
+}
+1019928124={
+	name=Tatajyva
+	dynasty=1009990249
+	dna="ejpplbaokel"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=5 learning=6
+	father=1019928120	#Amaru
+	929.5.11={ birth=yes }
+	998.6.10={ death=yes }
+}
+1019928125={
+	name=Aratiri
+	dynasty=1009990249
+	dna="ejpgnffakkl"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=6
+	father=1019928120	#Amaru
+	933.1.2={ birth=yes }
+	1014.5.15={ death=yes }
+}
+1019928126={
+	name=Jougousa
+	female=yes
+	dynasty=1009990249
+	dna="edpgifaokng"
+	culture=guarani religion=amazonian_pagan
+	father=1019928120	#Amaru
+	940.3.12={ birth=yes }
+	996.6.23={ death=yes }
+}
+1019928127={
+	name=Tatajyva
+	dynasty=1009990249
+	dna="pcogeffhkdl"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=6 learning=7
+	father=1019928120	#Amaru
+	943.8.25={ birth=yes }
+	1018.6.15={ death=yes }
+}
+1019928128={
+	name=Azelene
+	female=yes
+	dynasty=1009990249
+	dna="ejpgifaokal"
+	culture=guarani religion=amazonian_pagan
+	father=1019928120	#Amaru
+	949.2.16={ birth=yes }
+	1030.5.10={ death=yes }
+}
+1019928129={
+	name=Tuvicha
+	dynasty=1009990249
+	dna="bhpkllcojei"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=5 learning=7
+	father=1019928124	#Tatajyva
+	955.1.25={ birth=yes }
+	1033.3.6={ death=yes }
+}
+1019928130={
+	name=Chavuku
+	dynasty=1009990249
+	dna="ejpfpbahalo"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=5
+	father=1019928124	#Tatajyva
+	961.11.17={ birth=yes }
+	1024.7.4={ death=yes }
+}
+1019928131={
+	name=Azelene
+	female=yes
+	dynasty=1009990249
+	dna="ijnlmbbmcel"
+	culture=guarani religion=amazonian_pagan
+	father=1019928124	#Tatajyva
+	967.10.11={ birth=yes }
+	1037.7.30={ death=yes }
+}
+1019928132={
+	name=Arandu
+	dynasty=1009990249
+	dna="mjipljdbokj"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=8 learning=5
+	father=1019928129	#Tuvicha
+	978.12.2={ birth=yes }
+	1061.1.16={ death=yes }
+}
+1019928133={
+	name=Apytere
+	dynasty=1009990249
+	dna="bhpbldoimji"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=7
+	father=1019928129	#Tuvicha
+	983.10.7={ birth=yes }
+	1037.6.13={ death=yes }
+}
+1019928134={
+	name=Chavuku
+	dynasty=1009990249
+	dna="bhmaelfojod"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	father=1019928129	#Tuvicha
+	988.8.18={ birth=yes }
+	1067.3.11={ death=yes }
+}
+1019928135={
+	name=Tatapytu
+	dynasty=1009990249
+	dna="nhpkllcpjem"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	father=1019928129	#Tuvicha
+	992.3.6={ birth=yes }
+	1047.12.10={ death=yes }
+}
+1019928136={
+	name=Aratiri
+	dynasty=1009990249
+	dna="igpbhhooflp"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=7
+	father=1019928129	#Tuvicha
+	996.7.22={ birth=yes }
+	1073.6.17={ death=yes }
+}
+1019928137={
+	name=Karai
+	dynasty=1009990249
+	dna="jjipfndmogg"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	father=1019928132	#Arandu
+	999.11.25={ birth=yes }
+	1053.3.4={ death=yes }
+}
+1019928138={
+	name=Potira
+	female=yes
+	dynasty=1009990249
+	dna="djidlllnbgj"
+	culture=guarani religion=amazonian_pagan
+	father=1019928132	#Arandu
+	1002.8.13={ birth=yes }
+	1069.9.14={ death=yes }
+}
+1019928139={
+	name=Chavuku
+	dynasty=1009990249
+	dna="mjolljfbokj"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=4 learning=6
+	father=1019928132	#Arandu
+	1008.11.14={ birth=yes }
+	1090.11.28={ death=yes }
+}
+1019928140={
+	name=Porasy
+	female=yes
+	dynasty=1009990249
+	dna="ojkhljdhmhj"
+	culture=guarani religion=amazonian_pagan
+	father=1019928132	#Arandu
+	1010.10.23={ birth=yes }
+	1095.12.6={ death=yes }
+}
+1019928141={
+	name=Jougousa
+	female=yes
+	dynasty=1009990249
+	dna="mjiphddmbkm"
+	culture=guarani religion=amazonian_pagan
+	father=1019928132	#Arandu
+	1013.9.15={ birth=yes }
+	1083.3.8={ death=yes }
+}
+1019928142={
+	name=Tekokatu
+	dynasty=1009990249
+	dna="jjodfiimogd"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=6 learning=7
+	father=1019928137	#Karai
+	1026.2.3={ birth=yes }
+	1082.5.26={ death=yes }
+}
+1019928143={
+	name=Tajy
+	dynasty=1009990249
+	dna="jdjbmndmoba"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	father=1019928137	#Karai
+	1030.6.16={ birth=yes }
+	1084.7.9={ death=yes }
+}
+1019928144={
+	name=Tatarendy
+	dynasty=1009990249
+	dna="jbjplnhmjmg"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=4 learning=5
+	father=1019928137	#Karai
+	1036.2.7={ birth=yes }
+	1119.11.17={ death=yes }
+}
+1019928145={
+	name=Arandu
+	dynasty=1009990249
+	dna="djpedikkcbd"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	father=1019928142	#Tekokatu
+	1046.6.5={ birth=yes }
+	1131.8.11={ death=yes }
+}
+1019928146={
+	name=Porasy
+	female=yes
+	dynasty=1009990249
+	dna="jnldbkidogd"
+	culture=guarani religion=amazonian_pagan
+	father=1019928142	#Tekokatu
+	1050.1.22={ birth=yes }
+	1123.4.25={ death=yes }
+}
+1019928147={
+	name=Azelene
+	female=yes
+	dynasty=1009990249
+	dna="lnodfbilngb"
+	culture=guarani religion=amazonian_pagan
+	father=1019928142	#Tekokatu
+	1054.9.11={ birth=yes }
+	1092.8.13={ death=yes }
+}
+1019928148={
+	name=Tuvicha
+	dynasty=1009990249
+	dna="jjodoiihodd"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	father=1019928142	#Tekokatu
+	1060.2.14={ birth=yes }
+	1128.5.26={ death=yes }
+}
+1019928149={
+	name=Mba'ehory
+	dynasty=1009990249
+	dna="mjodiigjkba"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=6 learning=6
+	father=1019928142	#Tekokatu
+	1064.4.21={ birth=yes }
+	1134.9.1={ death=yes }
+}
+1019928150={
+	name=Tekokatu
+	dynasty=1009990249
+	dna="ghodbcimagm"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=5 learning=5
+	father=1019928142	#Tekokatu
+	1070.4.14={ birth=yes }
+	1127.11.5={ death=yes }
+}
+1019928151={
+	name=Porasy
+	female=yes
+	dynasty=1009990249
+	dna="djlldgkafio"
+	culture=guarani religion=amazonian_pagan
+	father=1019928145	#Arandu
+	1079.9.8={ birth=yes }
+	1163.2.10={ death=yes }
+}
+1019928152={
+	name=Maitei
+	dynasty=1009990249
+	dna="ljfogjaachd"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=6
+	father=1019928145	#Arandu
+	1082.4.17={ birth=yes }
+	1165.2.17={ death=yes }
+}
+1019928153={
+	name=Amaru
+	dynasty=1009990249
+	dna="ccckemjmcbd"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	father=1019928145	#Arandu
+	1088.12.14={ birth=yes }
+	1153.7.28={ death=yes }
+}
+1019928154={
+	name=Azelene
+	female=yes
+	dynasty=1009990249
+	dna="fjdmgjakchn"
+	culture=guarani religion=amazonian_pagan
+	father=1019928152	#Maitei
+	1108.9.25={ birth=yes }
+	1187.11.10={ death=yes }
+}
+1019928155={
+	name=Apytere
+	dynasty=1009990249
+	dna="jofodjacchg"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=5
+	father=1019928152	#Maitei
+	1114.1.22={ birth=yes }
+	1200.12.6={ death=yes }
+}
+1019928156={
+	name=Amapytu
+	dynasty=1009990249
+	dna="ljfoehilaga"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=5 learning=5
+	father=1019928152	#Maitei
+	1117.9.3={ birth=yes }
+	1170.2.19={ death=yes }
+}
+1019928157={
+	name=Kuarahyrese
+	dynasty=1009990249
+	dna="pdhoejabnhf"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=5 learning=4
+	father=1019928155	#Apytere
+	1138.6.23={ birth=yes }
+	1209.1.19={ death=yes }
+}
+1019928158={
+	name=Tatapytu
+	dynasty=1009990249
+	dna="acfodpacehc"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=4 learning=5
+	father=1019928155	#Apytere
+	1143.10.1={ birth=yes }
+	1214.3.10={ death=yes }
+}
+1019928159={
+	name=Azelene
+	female=yes
+	dynasty=1009990249
+	dna="jodhbocomde"
+	culture=guarani religion=amazonian_pagan
+	father=1019928155	#Apytere
+	1147.6.17={ birth=yes }
+	1234.12.25={ death=yes }
+}
+1019928160={
+	name=Azelene
+	female=yes
+	dynasty=1009990249
+	dna="jofonjkccco"
+	culture=guarani religion=amazonian_pagan
+	father=1019928155	#Apytere
+	1151.11.1={ birth=yes }
+	1218.9.26={ death=yes }
+}
+1019928161={
+	name=Apytere
+	dynasty=1009990249
+	dna="pihmjjpbehk"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=5 learning=4 
+	father=1019928157	#Kuarahyrese
+	1167.5.19={ birth=yes }
+	1241.9.1={ death=yes }
+}
+1019928162={
+	name=Tuvicha
+	dynasty=1009990249
+	dna="gaboinabncf"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=7 learning=7
+	father=1019928157	#Kuarahyrese
+	1173.10.5={ birth=yes }
+	1268.6.29={ death=yes }
+}
+1019928163={
+	name=Azelene
+	female=yes
+	dynasty=1009990249
+	dna="pehnjhhbehp"
+	culture=guarani religion=amazonian_pagan
+	father=1019928161	#Apytere
+	1198.10.24={ birth=yes }
+	1273.11.16={ death=yes }
+}
+1019928164={
+	name=Arasunu
+	dynasty=1009990249
+	dna="pdhjkjpgehk"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=7 learning=6
+	father=1019928161	#Apytere
+	1205.7.4={ birth=yes }
+	1278.2.11={ death=yes }
+}
+1019928165={
+	name=Amangy
+	dynasty=1009990249
+	dna="iidgmmpfkjh"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=8
+	father=1019928161	#Apytere
+	1209.5.21={ birth=yes }
+	1293.9.23={ death=yes }
+}
+1019928166={
+	name=Potira
+	female=yes
+	dynasty=1009990249
+	dna="pihpjajbeik"
+	culture=guarani religion=amazonian_pagan
+	father=1019928161	#Apytere
+	1212.5.3={ birth=yes }
+	1269.10.20={ death=yes }
+}
+1019928167={
+	name=Jakaira
+	dynasty=1009990249
+	dna="aepikdpgehk"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	father=1019928164	#Arasunu
+	1230.11.27={ birth=yes }
+	1285.10.14={ death=yes }
+}
+1019928168={
+	name=Jougousa
+	female=yes
+	dynasty=1009990249
+	dna="kknjedhgggp"
+	culture=guarani religion=amazonian_pagan
+	father=1019928164	#Arasunu
+	1235.3.20={ birth=yes }
+	1298.4.26={ death=yes }
+}
+1019928169={
+	name=Azelene
+	female=yes
+	dynasty=1009990249
+	dna="pfgjkjpifej"
+	culture=guarani religion=amazonian_pagan
+	father=1019928164	#Arasunu
+	1240.9.24={ birth=yes }
+	1321.4.24={ death=yes }
+}
+1019928170={
+	name=Apytere
+	dynasty=1009990249
+	dna="aabjkjpgegk"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=7 learning=8
+	father=1019928164	#Arasunu
+	1245.3.14={ birth=yes }
+	1304.7.3={ death=yes }
+}
+1019928171={
+	name=Jakaira
+	dynasty=1009990249
+	dna="aepfkdggehk"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=7 learning=7
+	father=1019928167	#Jakaira
+	1251.7.7={ birth=yes }
+	1314.7.21={ death=yes }
+}
+1019928172={
+	name=Aravera
+	dynasty=1009990249
+	dna="gpmihcagifk"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	father=1019928167	#Jakaira
+	1258.4.15={ birth=yes }
+	1342.12.6={ death=yes }
+}
+1019928173={
+	name=Maitei
+	dynasty=1009990249
+	dna="aejjhdhiibk"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=4 learning=5
+	father=1019928171	#Jakaira
+	1276.12.26={ birth=yes }
+	1360.12.2={ death=yes }
+}
+1019928174={
+	name=Arasunu
+	dynasty=1009990249
+	dna="ejggomapehn"
+	culture=guarani religion=amazonian_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=7
+	father=1019928171	#Jakaira
+	1279.4.23={ birth=yes }
+	1348.8.15={ death=yes }
+}
+1019928175={
+	name=Mbarakapu
+	dynasty=1009990249
+	dna="aeahndglchd"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	father=1019928171	#Jakaira
+	1285.2.16={ birth=yes }
+	1348.8.26={ death=yes }
+}
+1019928176={
+	name=Ygary
+	dynasty=1009990249
+	dna="aeenhnhiomg"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=5 learning=8
+	father=1019928173	#Maitei
+	1302.10.17={ birth=yes }
+	1376.7.18={ death=yes }
+}
+1019928177={
+	name=Azelene
+	female=yes
+	dynasty=1009990249
+	dna="djnjodfnkok"
+	culture=guarani religion=amazonian_pagan
+	father=1019928173	#Maitei
+	1307.4.5={ birth=yes }
+	1388.10.23={ death=yes }
+}
+1019928178={
+	name=Angatupyry
+	dynasty=1009990249
+	dna="kanphnpipmg"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=7
+	father=1019928176	#Ygary
+	1331.2.10={ birth=yes }
+	1400.6.8={ death=yes }
+}
+1019928179={
+	name=Porasy
+	female=yes
+	dynasty=1009990249
+	dna="aefofnheomg"
+	culture=guarani religion=amazonian_pagan
+	father=1019928176	#Ygary
+	1337.5.7={ birth=yes }
+	1405.3.2={ death=yes }
+}
+1019928180={
+	name=Mba'ehory
+	dynasty=1009990249
+	dna="akmncnhhobc"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=8
+	father=1019928176	#Ygary
+	1339.4.6={ birth=yes }
+	1394.9.2={ death=yes }
+}
+1019928181={
+	name=Arasunu
+	dynasty=1009990249
+	dna="nknmonnfnmn"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=8 learning=5
+	father=1019928178	#Angatupyry
+	1353.4.12={ birth=yes }
+	1416.11.18={ death=yes }
+}
+1019928182={
+	name=Karai
+	dynasty=1009990249
+	dna="fenlhjnicmg"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=4 learning=4
+	father=1019928178	#Angatupyry
+	1357.10.8={ birth=yes }
+	1425.4.16={ death=yes }
+}
+1019928183={
+	name=Amangy
+	dynasty=1009990249
+	dna="kgnohhmapfd"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	father=1019928178	#Angatupyry
+	1362.12.5={ birth=yes }
+	1418.2.25={ death=yes }
+}
+1019928184={
+	name=Araresa
+	dynasty=1009990249
+	dna="mabphneipig"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=4 learning=6
+	father=1019928178	#Angatupyry
+	1367.8.14={ birth=yes }
+	1423.9.25={ death=yes }
+}
+1019928185={
+	name=Tajy
+	dynasty=1009990249
+	dna="kaophnpfpma"
+	culture=guarani religion=amazonian_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=7 learning=6
+	father=1019928178	#Angatupyry
+	1373.12.21={ birth=yes }
+	1435.12.4={ death=yes }
+}
+1019928186={
+	name=Chavuku
+	dynasty=1009990249
+	dna="aanphhcipig"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019928178	#Angatupyry
+	1376.5.24={ birth=yes }
+	1455.4.21={ death=yes }
+}
+1019928187={
+	name=Amapytu
+	dynasty=1009990249
+	dna="kancanilpkg"
+	culture=guarani religion=amazonian_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=8 learning=8
+	father=1019928178	#Angatupyry
+	1382.7.16={ birth=yes }
+	1436.2.16={ death=yes }
+}
+1019928188={
+	name=Jougousa
+	female=yes
+	dynasty=1009990249
+	dna="nknponmhlmi"
+	culture=guarani religion=amazonian_pagan
+	father=1019928181	#Arasunu
+	1382.10.3={ birth=yes }
+	1452.5.27={ death=yes }
+}
+1019928189={
+	name=Arasunu
+	dynasty=1009990249
+	dna="nkijennngom"
+	culture=guarani religion=amazonian_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=4
+	father=1019928181	#Arasunu
+	1387.3.8={ birth=yes }
+	1440.12.24={ death=yes }
+}
+1019928190={
+	name=Jougousa
+	female=yes
+	dynasty=1009990249
+	dna="nkfofdnfgcn"
+	culture=guarani religion=amazonian_pagan
+	father=1019928181	#Arasunu
+	1394.11.15={ birth=yes }
+	1462.10.3={ death=yes }
+}
+1019928191={
+	name=Potira
+	female=yes
+	dynasty=1009990249
+	dna="nhnjonlmnmn"
+	culture=guarani religion=amazonian_pagan
+	father=1019928181	#Arasunu
+	1397.5.9={ birth=yes }
+	1480.6.1={ death=yes }
+}
+1019928192={
+	name=Aravera
+	dynasty=1009990249
+	dna="nkngpnefgjn"
+	culture=guarani religion=amazonian_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=7 learning=7
+	father=1019928181	#Arasunu
+	1402.12.27={ birth=yes }
+	1453.2.4={ death=yes }
+}

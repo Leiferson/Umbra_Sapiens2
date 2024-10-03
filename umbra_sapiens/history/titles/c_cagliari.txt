@@ -1,0 +1,303 @@
+533.1.1={
+	liege = "d_sardinia"
+}
+761.1.1={
+	holder=145908
+}
+804.1.1={
+	holder=235091 #Salluri
+}
+855.1.1={
+	holder=184009
+}
+900.1.1={
+	liege=0
+}
+#Torchitoriu de Ugunale dynasty
+900.1.1={
+	holder=235106 #Torchitoriu
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+945.1.1={
+	holder=235107 #Thurungone
+}
+974.1.1={
+	holder=235108 #Ramundu
+}
+999.1.1={
+	holder=235109 #Bernardu
+}
+#Torchitoriu and Salusio dynasties combine
+1020.1.1={
+	holder=235104 #Marianu I
+}
+1058.1.1={
+	holder=20326
+}
+1089.1.1={
+	holder = 144251
+}
+1100.1.1={
+	holder = 235118 #Torbinu
+}
+1103.1.1={
+	holder = 144252
+}
+1130.1.1={
+	holder = 144253
+}
+1136.1.1={
+	liege="d_pisa"
+}
+1163.1.1={
+	holder = 144526
+}
+#1163.5.1={
+#	holder = #Invaded by Barisone II of Arborea
+#}
+1164.3.1={
+	holder = 144526
+}#Reconquered by brothers Peter I and Barisone II of Torres
+1164.10.1={
+	liege="d_genoa"
+}
+1188.1.1={
+	liege="d_pisa"
+}
+1188.1.1={
+	holder=71311
+}
+1214.1.1={
+	holder=144530
+}
+1214.6.14={
+	liege="d_genoa"
+	holder=71634
+}
+1217.1.1={
+	holder=144530
+}
+1232.1.1={
+	holder=144531
+	liege="d_pisa"
+}
+1254.1.1={
+	holder=144532
+	liege="d_genoa"
+}
+1256.1.1={
+	liege="d_pisa"
+}
+1256.1.1={
+	holder=235020 #Guglielmo Cepolla
+}
+1258.1.1={
+	holder = 144533
+}#Cagliari siezed by Arborea
+1297.1.1={
+	holder = 144534
+}
+#Cagliari is sold to Pisa by Arborea
+1300.1.1={
+	holder=73465
+}
+1312.1.1={
+	holder=462611
+}
+1313.1.1={
+	holder=73425
+}
+1320.1.1={
+	holder=73452
+}
+1323.1.1={
+	liege="k_sardinia"
+	holder=460560 # Jaume II d'Aragó
+}#Conquered by Aragon
+1327.11.5={
+	holder=460510 # Alfons IV d'Aragó
+}
+1336.1.24={
+	holder=460500 # Pere IV d'Aragó
+}
+1387.1.5={
+	holder=370079	#John I
+}
+1396.5.19={
+	holder=370080	#Marti I
+}
+1410.5.31={
+	holder=370170	#Ferdinand I the Honest
+}
+1416.4.2={
+	holder=370182	#Alfonso V the Magnanimous
+}
+1418.1.1={
+	holder=380813	#Lluís de Pontons (1418-1419) 
+}
+1419.1.1={
+	holder=380814	#Joan de Corbera (1419-1420)
+}
+1420.1.1={
+	holder=380815	#Riambau de Corbera (1420-1421) 
+}
+1421.1.1={
+	holder=380816	#Bernat de Centelles (1421-1437) 
+}
+1437.1.1={
+	holder=380817	#Francesc d'Erill i de Centelles (1437-1448) 
+}
+1460.1.1={
+	holder=380818	#Nicolás Carroz de Arborea (1460-1479) 
+}
+1479.1.1={
+	holder=380819	#Pere Maça de Liçana i de Rocafull (1479) 
+}
+1479.6.1={
+	holder=380820	#Ximén Pérez Escrivá de Romaní (1479-1483) (first time) 
+}
+1483.1.1={
+	holder=380821	#Guillem de Peralta (1483-1484) 
+}
+1484.1.1={
+	holder=380820	#Ximén Pérez Escrivá de Romaní (1484-1487) (second time) 
+}
+1487.1.1={
+	holder=379750	#Iñigo Lopez de Mendoza y Quiñones (1487 - 1491) 
+}
+1491.1.1={
+	holder=380822	#Juan Dusay (1491-1501) (first time) 
+}
+1501.1.1={
+	holder=380823	#Benito Gualbes (interim) (1501-1502) 
+}
+1502.1.1={
+	holder=380822	#Juan Dusay (1502-1507) (second time) 
+}
+1507.1.1={
+	holder=380824	#Jaume Amat i Tarré (1507-1508) 
+}
+1508.1.1={
+	holder=380825	#Fernando Girón de Rebolledo (1508-1515) 
+}
+1515.1.1={
+	holder=380826	#Àngel de Vilanova (1515-1529) 
+}
+1516.1.23={
+	liege=e_espana_burgona
+}
+1529.1.1={
+	holder=380827	#Martín de Cabrera (1529-1532)
+}
+1532.11.7={
+	holder=380828	#Jaime de Aragall (interim) (1533)
+}
+1533.1.1={
+	holder=380829	#Francisco de Serra (interim) (1533)
+}
+1534.1.1={
+	holder=380689	#Antonio Folc de Cardona y Enriquez (1534-1549)
+}
+1542.1.1={
+	holder=380830	#Pedro Veguer, Bishop of Alghero, Interim for absence, 1542 to 1545
+}
+1545.1.1={
+	holder=380689	#Antonio Folc de Cardona y Enriquez (1534-1549)
+}
+1549.1.1={
+	holder=380831	#Jerónimo Aragall (interim) (1549-1550) (1st time)
+}
+1550.1.1={
+	holder=380832	#Lorenzo Fernández de Heredia (1550-1556)
+}
+1556.1.1={
+	holder=380831	#Jerónimo Aragall (interim) (1556) (2nd time)
+}
+1556.6.1={
+	holder=380833	#Álvaro de Madrigal (1556-1569)
+}
+1561.1.1={
+	holder=380831	#Jerónimo Aragall, Virrey Interino por Ausencia, en 1561 (3rd time)
+}
+1562.1.1={
+	holder=380833	#Álvaro de Madrigal (1556-1569)
+}
+1570.1.1={
+	holder=380834	#Juan IV Coloma y Cardona, 1st Count of Elda (1570-1577)
+}
+1577.1.1={
+	holder=380831	#Jerónimo Aragall (interim) (1577-1578) (4th time)
+}
+1578.1.1={
+	holder=380835	#Miguel de Gurrea y Moncada (1578-1584) first term
+}
+1584.1.1={
+	holder=380836	#Gaspar Vicente Novella, Archbishop of Cagliari 1584 - 1586
+}
+1586.1.1={
+	holder=380835	#Miguel de Gurrea y Moncada, 1586 - 1590
+}
+1590.1.1={
+	holder=380597	#Gastón de Moncada, 2nd Marquis of Aitona (1590-1595)
+}
+1595.1.1={
+	holder=380837	#Antonio Coloma y Saa, 2nd Count of Elda (1595-1603)
+}
+1597.1.1={
+	holder=380838	#Alfonso Lasso y Sedeño, Archbishop of Cagliari (1597 - 1599)
+}
+1599.1.1={
+	holder=380839	#Juan de Zapata  (1601 - 1602)
+}
+1602.1.1={
+	holder=380840	#Jaime Aragall (interim) (1603-1604) (1st time)
+}
+1604.1.1={
+	holder=380841	#Pedro Sánchez de Calatayud, Count of Real (1604-1610)
+}
+1610.1.1={
+	holder=380840	#Jaime Aragall (interim) (1610-1611) (2nd time)
+}
+1611.1.1={
+	holder=380842	#Carlos de Borja, Duke of Gandia (1611-1617)
+}
+1617.1.1={
+	holder=380843	#Alonso de Eril, 1st Count of Eril (1617-1623)
+}
+1623.1.1={
+	holder=380844	#Luis de Tena (interim) (1623)
+}
+1623.6.1={
+	holder=380845	#Juan Vives de Canyamás, Baron of Benifayró (1623-1625)
+}
+1625.1.1={
+	holder=380846	#Diego de Aragall (interim) (1625) (1st time)
+}
+1625.6.1={
+	holder=380847	#Pedro Ramón Zaforteza, Count of Santa María de Formiguera (Capitán General) (1625-1626)
+}
+1626.1.1={
+	holder=380849	#Jerónimo Pimentel, Marquis of Bayona (1626-1631)
+}
+1631.1.1={
+	holder=380846	#Diego de Aragall (interim) (1631) (2nd time)
+}
+1631.6.1={
+	holder=380850	#Gaspar Prieto, Archbishop of Alghero (interim) (1631-1632)
+}
+1632.1.1={
+	holder=380851	#Antonio de Urrea, Marquis of Almonacir (1632-1637)
+}
+1637.1.1={
+	holder=380846	#Diego de Aragall (interim) (1637-1638) (3rd time)
+}
+1638.1.1={
+	holder=380852	#Gianadrea Doria, Prince of Melfi (1638-1639)
+}
+1639.1.1={
+	holder=380846	#Diego de Aragall (interim) (1639-1640) (4th time)
+}
+1640.1.1={
+	holder=380853	#Fabrizio Doria, Duke of Arellano (1640-1644)
+}

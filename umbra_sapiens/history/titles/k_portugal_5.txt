@@ -1,0 +1,19 @@
+20.1.1={
+	active = no
+	pentarch = b_roma
+}
+1383.10.22={
+	active = yes
+	holder=370013 # John I de Borgonha
+	law = succ_primogeniture
+	effect={
+		insert_title_history=k_portugal_4
+	}
+	de_jure_liege=e_spain
+}
+1415.8.21={
+	holder=0 #Conquest of Ceuta and Beginning of the Empire
+}
+1485.1.1={
+	active = no
+}

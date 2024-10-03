@@ -1,0 +1,36 @@
+# 1597 - Zinyung
+
+# County Title
+title = c_zinyung
+
+# Settlements
+max_settlements = 7
+b_driangan = castle
+b_myanhnen = city
+b_limdung = city
+b_dadzienzsih = temple
+b_ghremjang = city
+b_lamden = city
+#b_zinyunglekjang =
+#b_myoxkung =
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+1.1.1 = {
+build_wonder = wonder_palace
+set_wonder_stage = 4
+set_wonder_name = CHANGANPALACE
+set_wonder_description = CHANGANPALACE
+build_wonder_upgrade = upgrade_throne_fancy
+build_wonder_upgrade = upgrade_royal_bedchamber
+build_wonder_upgrade = upgrade_golden_throne
+build_wonder_upgrade = upgrade_historical_mural
+build_wonder_upgrade = upgrade_torture_chamber
+build_wonder_upgrade = upgrade_roads
+build_wonder_upgrade = upgrade_tower
+build_wonder_upgrade = upgrade_watchtower_network
+}

@@ -1,0 +1,3866 @@
+1019923511={
+	name=Pomaguala
+	dynasty=1009990203
+	dna="bmkfnkhcigh"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=5 learning=7
+	720.9.22={ birth=yes }
+	800.11.15={ death=yes }
+}
+1019923512={
+	name=Usca
+	dynasty=1009990203
+	dna="bcedjkhnjfh"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=7 learning=8
+	father=1019923511	#Pomaguala
+	750.7.13={ birth=yes }
+	812.11.8={ death=yes }
+}
+1019923513={
+	name=Coyllas
+	dynasty=1009990203
+	dna="cmkfdkodhgh"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=6 learning=6
+	father=1019923511	#Pomaguala
+	754.11.12={ birth=yes }
+	841.11.8={ death=yes }
+}
+1019923514={
+	name=Luyes
+	dynasty=1009990203
+	dna="ankfnkhiimj"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=5
+	father=1019923511	#Pomaguala
+	761.12.17={ birth=yes }
+	844.3.17={ death=yes }
+}
+1019923515={
+	name=Coyllas
+	dynasty=1009990203
+	dna="acedjkhnjfh"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	father=1019923512	#Usca
+	774.11.13={ birth=yes }
+	846.9.9={ death=yes }
+}
+1019923516={
+	name=Ana
+	female=yes
+	dynasty=1009990203
+	dna="blepicpjemh"
+	culture=miskito religion=miskito_pagan
+	father=1019923512	#Usca
+	780.9.18={ birth=yes }
+	856.12.20={ death=yes }
+}
+1019923517={
+	name=Sopa
+	dynasty=1009990203
+	dna="hcjdiklajjf"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=7
+	father=1019923512	#Usca
+	785.8.11={ birth=yes }
+	842.9.9={ death=yes }
+}
+1019923518={
+	name=Sopa
+	dynasty=1009990203
+	dna="befdjkcapeh"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=5 learning=7
+	father=1019923512	#Usca
+	788.4.14={ birth=yes }
+	880.3.9={ death=yes }
+}
+1019923519={
+	name=Maiara
+	female=yes
+	dynasty=1009990203
+	dna="acndjmhnjjh"
+	culture=miskito religion=miskito_pagan
+	father=1019923515	#Coyllas
+	793.5.18={ birth=yes }
+	854.1.17={ death=yes }
+}
+1019923520={
+	name=Ruminavi
+	dynasty=1009990203
+	dna="acfojhidjfh"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=8 learning=8
+	father=1019923515	#Coyllas
+	797.12.6={ birth=yes }
+	854.7.4={ death=yes }
+}
+1019923521={
+	name=Kantuta
+	female=yes
+	dynasty=1009990203
+	dna="fofpicicgdh"
+	culture=miskito religion=miskito_pagan
+	father=1019923520	#Ruminavi
+	827.3.16={ birth=yes }
+	905.7.2={ death=yes }
+}
+1019923522={
+	name=Orco
+	dynasty=1009990203
+	dna="ngfojhjdjfa"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	father=1019923520	#Ruminavi
+	832.6.10={ birth=yes }
+	917.3.14={ death=yes }
+}
+1019923523={
+	name=Ana
+	female=yes
+	dynasty=1009990203
+	dna="acjoehnhjjh"
+	culture=miskito religion=miskito_pagan
+	father=1019923520	#Ruminavi
+	836.7.19={ birth=yes }
+	906.4.15={ death=yes }
+}
+1019923524={
+	name=Umu
+	dynasty=1009990203
+	dna="lgfcmhjdpoc"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=5
+	father=1019923522	#Orco
+	865.8.26={ birth=yes }
+	922.9.4={ death=yes }
+}
+1019923525={
+	name=Nina
+	female=yes
+	dynasty=1009990203
+	dna="nffojhbciba"
+	culture=miskito religion=miskito_pagan
+	father=1019923522	#Orco
+	868.1.23={ birth=yes }
+	951.11.7={ death=yes }
+}
+1019923526={
+	name=Ninan
+	dynasty=1009990203
+	dna="bofgjhfdjfj"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	father=1019923522	#Orco
+	875.6.2={ birth=yes }
+	955.12.31={ death=yes }
+}
+1019923527={
+	name=China
+	female=yes
+	dynasty=1009990203
+	dna="lifolancbbo"
+	culture=miskito religion=miskito_pagan
+	father=1019923522	#Orco
+	879.2.24={ birth=yes }
+	956.7.21={ death=yes }
+}
+1019923528={
+	name=Umu
+	dynasty=1009990203
+	dna="ejflilnhbbc"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=4 learning=8
+	father=1019923524	#Umu
+	887.2.6={ birth=yes }
+	937.6.26={ death=yes }
+}
+1019923529={
+	name=Coyllas
+	dynasty=1009990203
+	dna="lmfpmkjahgc"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=5 learning=7
+	father=1019923524	#Umu
+	893.7.20={ birth=yes }
+	930.6.19={ death=yes }
+}
+1019923530={
+	name=Nina
+	female=yes
+	dynasty=1009990203
+	dna="njfcbhfcooc"
+	culture=miskito religion=miskito_pagan
+	father=1019923524	#Umu
+	900.7.16={ birth=yes }
+	975.3.2={ death=yes }
+}
+1019923531={
+	name=Sopa
+	dynasty=1009990203
+	dna="llfilonekbc"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	father=1019923528	#Umu
+	907.5.22={ birth=yes }
+	965.3.31={ death=yes }
+}
+1019923532={
+	name=Sopa
+	dynasty=1009990203
+	dna="mjolignbbke"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=7
+	father=1019923528	#Umu
+	911.2.9={ birth=yes }
+	993.5.27={ death=yes }
+}
+1019923533={
+	name=Axomamma
+	female=yes
+	dynasty=1009990203
+	dna="jjhlmlmbcbc"
+	culture=miskito religion=miskito_pagan
+	father=1019923528	#Umu
+	915.10.16={ birth=yes }
+	990.8.11={ death=yes }
+}
+1019923534={
+	name=Maiara
+	female=yes
+	dynasty=1009990203
+	dna="onflicphbcm"
+	culture=miskito religion=miskito_pagan
+	father=1019923528	#Umu
+	920.1.13={ birth=yes }
+	983.8.28={ death=yes }
+}
+1019923535={
+	name=Mayta
+	dynasty=1009990203
+	dna="llfopolbooc"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=5 learning=8
+	father=1019923531	#Sopa
+	927.8.27={ birth=yes }
+	999.4.11={ death=yes }
+}
+1019923536={
+	name=Kantuta
+	female=yes
+	dynasty=1009990203
+	dna="nbnkkondfgc"
+	culture=miskito religion=miskito_pagan
+	father=1019923531	#Sopa
+	934.9.1={ birth=yes }
+	1004.2.2={ death=yes }
+}
+1019923537={
+	name=Huaypalcon
+	dynasty=1009990203
+	dna="dnfhpolaooc"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=5 learning=4
+	father=1019923535	#Mayta
+	953.4.9={ birth=yes }
+	1043.8.26={ death=yes }
+}
+1019923538={
+	name=Villac
+	dynasty=1009990203
+	dna="lfgofolbnjb"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=5
+	father=1019923535	#Mayta
+	957.1.14={ birth=yes }
+	1016.3.3={ death=yes }
+}
+1019923539={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990203
+	dna="dndhpolafdk"
+	culture=miskito religion=miskito_pagan
+	father=1019923537	#Huaypalcon
+	978.8.18={ birth=yes }
+	1047.12.26={ death=yes }
+}
+1019923540={
+	name=Nina
+	female=yes
+	dynasty=1009990203
+	dna="mnoepblaofe"
+	culture=miskito religion=miskito_pagan
+	father=1019923537	#Huaypalcon
+	984.12.13={ birth=yes }
+	1063.9.14={ death=yes }
+}
+1019923541={
+	name=Atoc
+	dynasty=1009990203
+	dna="djfjaokalpo"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	father=1019923537	#Huaypalcon
+	988.4.6={ birth=yes }
+	1058.11.25={ death=yes }
+}
+1019923542={
+	name=China
+	female=yes
+	dynasty=1009990203
+	dna="ijbjioncmpp"
+	culture=miskito religion=miskito_pagan
+	father=1019923541	#Atoc
+	1008.11.5={ birth=yes }
+	1084.5.8={ death=yes }
+}
+1019923543={
+	name=Pascac
+	dynasty=1009990203
+	dna="cjijaokglpo"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	father=1019923541	#Atoc
+	1012.5.26={ birth=yes }
+	1054.3.5={ death=yes }
+}
+1019923544={
+	name=Pomaguala
+	dynasty=1009990203
+	dna="balgehkampl"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=7
+	father=1019923541	#Atoc
+	1015.3.15={ birth=yes }
+	1071.12.29={ death=yes }
+}
+1019923545={
+	name=Atoc
+	dynasty=1009990203
+	dna="onmeibmalfo"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=5 learning=8
+	father=1019923541	#Atoc
+	1020.8.13={ birth=yes }
+	1101.4.4={ death=yes }
+}
+1019923546={
+	name=Zopahua
+	dynasty=1009990203
+	dna="dmbjlhkelpc"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=6 learning=4
+	father=1019923541	#Atoc
+	1024.6.26={ birth=yes }
+	1078.7.1={ death=yes }
+}
+1019923547={
+	name=Nina
+	female=yes
+	dynasty=1009990203
+	dna="bjgnofmalpb"
+	culture=miskito religion=miskito_pagan
+	father=1019923541	#Atoc
+	1029.8.1={ birth=yes }
+	1118.7.14={ death=yes }
+}
+1019923548={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990203
+	dna="hppjaoknmfo"
+	culture=miskito religion=miskito_pagan
+	father=1019923541	#Atoc
+	1033.2.4={ birth=yes }
+	1114.2.23={ death=yes }
+}
+1019923549={
+	name=Pomaguala
+	dynasty=1009990203
+	dna="cjidaokghgd"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=5 learning=8
+	father=1019923543	#Pascac
+	1038.4.10={ birth=yes }
+	1110.9.2={ death=yes }
+}
+1019923550={
+	name=Quispe
+	dynasty=1009990203
+	dna="cjicahegkgc"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=5 learning=6
+	father=1019923543	#Pascac
+	1041.9.14={ birth=yes }
+	1142.1.1={ death=yes }
+}
+1019923551={
+	name=Cusichaca
+	dynasty=1009990203
+	dna="cjcdfacihgd"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=8 learning=5
+	father=1019923549	#Pomaguala
+	1068.4.6={ birth=yes }
+	1145.12.30={ death=yes }
+}
+1019923552={
+	name=Cuyuchi
+	dynasty=1009990203
+	dna="mjhdnokphld"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=5 learning=7
+	father=1019923549	#Pomaguala
+	1070.5.3={ birth=yes }
+	1141.12.27={ death=yes }
+}
+1019923553={
+	name=Usca
+	dynasty=1009990203
+	dna="hcieldnilgf"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=7 learning=4
+	father=1019923549	#Pomaguala
+	1076.4.18={ birth=yes }
+	1135.1.15={ death=yes }
+}
+1019923554={
+	name=China
+	female=yes
+	dynasty=1009990203
+	dna="hjfdjckpmgd"
+	culture=miskito religion=miskito_pagan
+	father=1019923549	#Pomaguala
+	1078.1.1={ birth=yes }
+	1173.10.28={ death=yes }
+}
+1019923555={
+	name=Tucuycuyche
+	dynasty=1009990203
+	dna="cfidpmfgmdh"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=4
+	father=1019923549	#Pomaguala
+	1082.5.9={ birth=yes }
+	1157.10.31={ death=yes }
+}
+1019923556={
+	name=Cuyuchi
+	dynasty=1009990203
+	dna="gjclfppiina"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=5
+	father=1019923551	#Cusichaca
+	1096.10.4={ birth=yes }
+	1153.8.21={ death=yes }
+}
+1019923557={
+	name=Chia
+	female=yes
+	dynasty=1009990203
+	dna="apcfnpfohgd"
+	culture=miskito religion=miskito_pagan
+	father=1019923551	#Cusichaca
+	1100.3.27={ birth=yes }
+	1173.2.27={ death=yes }
+}
+1019923558={
+	name=Chia
+	female=yes
+	dynasty=1009990203
+	dna="cjcdcnfohga"
+	culture=miskito religion=miskito_pagan
+	father=1019923551	#Cusichaca
+	1106.1.23={ birth=yes }
+	1163.1.15={ death=yes }
+}
+1019923559={
+	name=Axomamma
+	female=yes
+	dynasty=1009990203
+	dna="ghcmhppiinl"
+	culture=miskito religion=miskito_pagan
+	father=1019923556	#Cuyuchi
+	1125.3.22={ birth=yes }
+	1198.5.11={ death=yes }
+}
+1019923560={
+	name=Umu
+	dynasty=1009990203
+	dna="gjclpppbinh"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=7 learning=7
+	father=1019923556	#Cuyuchi
+	1131.12.26={ birth=yes }
+	1216.8.8={ death=yes }
+}
+1019923561={
+	name=Kantuta
+	female=yes
+	dynasty=1009990203
+	dna="nfclfafliep"
+	culture=miskito religion=miskito_pagan
+	father=1019923556	#Cuyuchi
+	1136.1.14={ birth=yes }
+	1206.8.26={ death=yes }
+}
+1019923562={
+	name=Kantuta
+	female=yes
+	dynasty=1009990203
+	dna="dpclippiiaa"
+	culture=miskito religion=miskito_pagan
+	father=1019923556	#Cuyuchi
+	1142.6.1={ birth=yes }
+	1221.12.13={ death=yes }
+}
+1019923563={
+	name=Zopahua
+	dynasty=1009990203
+	dna="djflpgpginm"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=5 learning=6
+	father=1019923560	#Umu
+	1154.11.20={ birth=yes }
+	1218.11.7={ death=yes }
+}
+1019923564={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990203
+	dna="gjhofhplkah"
+	culture=miskito religion=miskito_pagan
+	father=1019923560	#Umu
+	1158.6.1={ birth=yes }
+	1226.6.9={ death=yes }
+}
+1019923565={
+	name=Maiara
+	female=yes
+	dynasty=1009990203
+	dna="jijlpppbinh"
+	culture=miskito religion=miskito_pagan
+	father=1019923560	#Umu
+	1164.9.19={ birth=yes }
+	1227.8.4={ death=yes }
+}
+1019923566={
+	name=Huaypalcon
+	dynasty=1009990203
+	dna="emcljppbinm"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=4 learning=8
+	father=1019923560	#Umu
+	1169.8.14={ birth=yes }
+	1232.8.15={ death=yes }
+}
+1019923567={
+	name=Guaritopa
+	dynasty=1009990203
+	dna="dafleofnanm"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=8 learning=7
+	father=1019923563	#Zopahua
+	1177.5.4={ birth=yes }
+	1237.7.30={ death=yes }
+}
+1019923568={
+	name=Cuyuchi
+	dynasty=1009990203
+	dna="mgfjppmpilm"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	father=1019923563	#Zopahua
+	1183.5.6={ birth=yes }
+	1256.3.20={ death=yes }
+}
+1019923569={
+	name=Quispe
+	dynasty=1009990203
+	dna="difipjpgggm"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=7 learning=6
+	father=1019923563	#Zopahua
+	1188.11.3={ birth=yes }
+	1252.10.15={ death=yes }
+}
+1019923570={
+	name=Pascac
+	dynasty=1009990203
+	dna="dadnlkanank"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	father=1019923567	#Guaritopa
+	1203.4.17={ birth=yes }
+	1283.9.8={ death=yes }
+}
+1019923571={
+	name=Ana
+	female=yes
+	dynasty=1009990203
+	dna="dcbllffniog"
+	culture=miskito religion=miskito_pagan
+	father=1019923567	#Guaritopa
+	1208.2.9={ birth=yes }
+	1271.5.29={ death=yes }
+}
+1019923572={
+	name=Chia
+	female=yes
+	dynasty=1009990203
+	dna="iaalejfnink"
+	culture=miskito religion=miskito_pagan
+	father=1019923567	#Guaritopa
+	1212.7.4={ birth=yes }
+	1281.8.1={ death=yes }
+}
+1019923573={
+	name=Sopa
+	dynasty=1009990203
+	dna="nainjkmdmak"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=7 learning=6
+	father=1019923570	#Pascac
+	1229.2.26={ birth=yes }
+	1284.6.1={ death=yes }
+}
+1019923574={
+	name=Huaypalcon
+	dynasty=1009990203
+	dna="danjmkhiank"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=6
+	father=1019923570	#Pascac
+	1235.11.21={ birth=yes }
+	1315.10.17={ death=yes }
+}
+1019923575={
+	name=Kantuta
+	female=yes
+	dynasty=1009990203
+	dna="nainjkkgofk"
+	culture=miskito religion=miskito_pagan
+	father=1019923573	#Sopa
+	1259.6.22={ birth=yes }
+	1329.4.17={ death=yes }
+}
+1019923576={
+	name=Yamqui
+	dynasty=1009990203
+	dna="cbgnjdhpaef"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=6 learning=7
+	father=1019923573	#Sopa
+	1264.8.1={ birth=yes }
+	1339.3.16={ death=yes }
+}
+1019923577={
+	name=China
+	female=yes
+	dynasty=1009990203
+	dna="naejjbjmmag"
+	culture=miskito religion=miskito_pagan
+	father=1019923573	#Sopa
+	1269.3.2={ birth=yes }
+	1345.5.12={ death=yes }
+}
+1019923578={
+	name=Titu
+	dynasty=1009990203
+	dna="kffcpdhphef"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	father=1019923576	#Yamqui
+	1293.7.22={ birth=yes }
+	1379.5.28={ death=yes }
+}
+1019923579={
+	name=Nina
+	female=yes
+	dynasty=1009990203
+	dna="cjekbdkcngf"
+	culture=miskito religion=miskito_pagan
+	father=1019923576	#Yamqui
+	1297.4.13={ birth=yes }
+	1357.6.15={ death=yes }
+}
+1019923580={
+	name=Axomamma
+	female=yes
+	dynasty=1009990203
+	dna="cffnjlhfgbf"
+	culture=miskito religion=miskito_pagan
+	father=1019923576	#Yamqui
+	1301.6.17={ birth=yes }
+	1384.9.4={ death=yes }
+}
+1019923581={
+	name=Kantuta
+	female=yes
+	dynasty=1009990203
+	dna="jigdenhplhg"
+	culture=miskito religion=miskito_pagan
+	father=1019923576	#Yamqui
+	1308.7.7={ birth=yes }
+	1378.6.11={ death=yes }
+}
+1019923582={
+	name=Anquimarca
+	dynasty=1009990203
+	dna="kflcpdhpnpf"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=5 learning=4
+	father=1019923578	#Titu
+	1317.8.27={ birth=yes }
+	1381.2.10={ death=yes }
+}
+1019923583={
+	name=Umu
+	dynasty=1009990203
+	dna="gffcfjhogmf"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	father=1019923578	#Titu
+	1322.7.16={ birth=yes }
+	1404.4.12={ death=yes }
+}
+1019923584={
+	name=Mayta
+	dynasty=1009990203
+	dna="kfdcpchpenf"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	father=1019923582	#Anquimarca
+	1342.4.20={ birth=yes }
+	1411.2.12={ death=yes }
+}
+1019923585={
+	name=Orco
+	dynasty=1009990203
+	dna="jflmbdggnbg"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=8
+	father=1019923582	#Anquimarca
+	1347.2.23={ birth=yes }
+	1433.5.17={ death=yes }
+}
+1019923586={
+	name=Ana
+	female=yes
+	dynasty=1009990203
+	dna="kmlaedhkdpf"
+	culture=miskito religion=miskito_pagan
+	father=1019923582	#Anquimarca
+	1351.3.26={ birth=yes }
+	1422.3.17={ death=yes }
+}
+1019923587={
+	name=Kantuta
+	female=yes
+	dynasty=1009990203
+	dna="kodcpchlecf"
+	culture=miskito religion=miskito_pagan
+	father=1019923584	#Mayta
+	1369.11.21={ birth=yes }
+	1440.7.16={ death=yes }
+}
+1019923588={
+	name=Ruminavi
+	dynasty=1009990203
+	dna="cflipdnfbnl"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	father=1019923584	#Mayta
+	1374.9.19={ birth=yes }
+	1442.11.17={ death=yes }
+}
+1019923589={
+	name=Axomamma
+	female=yes
+	dynasty=1009990203
+	dna="mlkcpbhokge"
+	culture=miskito religion=miskito_pagan
+	father=1019923584	#Mayta
+	1380.10.16={ birth=yes }
+	1438.1.17={ death=yes }
+}
+1019923590={
+	name=Ruminavi
+	dynasty=1009990204
+	dna="bkkdnlfhjaj"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	720.3.22={ birth=yes }
+	806.12.17={ death=yes }
+}
+1019923591={
+	name=Sahuaraura
+	dynasty=1009990204
+	dna="kckpnlnmijh"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=4
+	father=1019923590	#Ruminavi
+	741.6.27={ birth=yes }
+	807.5.25={ death=yes }
+}
+1019923592={
+	name=Yamqui
+	dynasty=1009990204
+	dna="okimigphjaj"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=7 learning=8
+	father=1019923590	#Ruminavi
+	748.10.4={ birth=yes }
+	812.7.24={ death=yes }
+}
+1019923593={
+	name=Sahuaraura
+	dynasty=1009990204
+	dna="mkkfnlehkhl"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=5 learning=6
+	father=1019923590	#Ruminavi
+	752.1.11={ birth=yes }
+	791.11.17={ death=yes }
+}
+1019923594={
+	name=China
+	female=yes
+	dynasty=1009990204
+	dna="bkkdnnfmjaj"
+	culture=miskito religion=miskito_pagan
+	father=1019923590	#Ruminavi
+	757.12.18={ birth=yes }
+	843.12.9={ death=yes }
+}
+1019923595={
+	name=Pascac
+	dynasty=1009990204
+	dna="gdkpkjncijl"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=8 learning=4
+	father=1019923591	#Sahuaraura
+	764.5.6={ birth=yes }
+	808.4.12={ death=yes }
+}
+1019923596={
+	name=Varanca
+	dynasty=1009990204
+	dna="kckphlnbjjg"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	father=1019923591	#Sahuaraura
+	767.5.1={ birth=yes }
+	830.12.13={ death=yes }
+}
+1019923597={
+	name=Chia
+	female=yes
+	dynasty=1009990204
+	dna="babpfcnmojh"
+	culture=miskito religion=miskito_pagan
+	father=1019923591	#Sahuaraura
+	773.2.9={ birth=yes }
+	857.9.21={ death=yes }
+}
+1019923598={
+	name=Axomamma
+	female=yes
+	dynasty=1009990204
+	dna="kodpnlndian"
+	culture=miskito religion=miskito_pagan
+	father=1019923591	#Sahuaraura
+	779.9.26={ birth=yes }
+	864.12.24={ death=yes }
+}
+1019923599={
+	name=Cayo
+	dynasty=1009990204
+	dna="oecmnlnmmih"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	father=1019923591	#Sahuaraura
+	782.3.16={ birth=yes }
+	831.9.15={ death=yes }
+}
+1019923600={
+	name=China
+	female=yes
+	dynasty=1009990204
+	dna="kchmnlnngnh"
+	culture=miskito religion=miskito_pagan
+	father=1019923591	#Sahuaraura
+	787.3.3={ birth=yes }
+	885.6.27={ death=yes }
+}
+1019923601={
+	name=Usca
+	dynasty=1009990204
+	dna="dckoklhmmjh"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	father=1019923591	#Sahuaraura
+	792.3.10={ birth=yes }
+	850.7.8={ death=yes }
+}
+1019923602={
+	name=Sahuaraura
+	dynasty=1009990204
+	dna="jbkikjjcijf"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=8 learning=7
+	father=1019923595	#Pascac
+	785.5.11={ birth=yes }
+	884.1.28={ death=yes }
+}
+1019923603={
+	name=Orco
+	dynasty=1009990204
+	dna="gdkgnclppjl"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=8 learning=8
+	father=1019923595	#Pascac
+	790.7.22={ birth=yes }
+	875.7.6={ death=yes }
+}
+1019923604={
+	name=Umu
+	dynasty=1009990204
+	dna="adkphjncenl"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=8 learning=7
+	father=1019923595	#Pascac
+	796.3.23={ birth=yes }
+	869.12.31={ death=yes }
+}
+1019923605={
+	name=Sopa
+	dynasty=1009990204
+	dna="gdkpkfndbob"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=4
+	father=1019923595	#Pascac
+	800.6.4={ birth=yes }
+	870.2.9={ death=yes }
+}
+1019923606={
+	name=China
+	female=yes
+	dynasty=1009990204
+	dna="jdkloknckje"
+	culture=miskito religion=miskito_pagan
+	father=1019923595	#Pascac
+	805.6.24={ birth=yes }
+	860.10.31={ death=yes }
+}
+1019923607={
+	name=Luyes
+	dynasty=1009990204
+	dna="jboiecjhijk"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=7 learning=5
+	father=1019923602	#Sahuaraura
+	809.12.4={ birth=yes }
+	879.3.13={ death=yes }
+}
+1019923608={
+	name=Ninan
+	dynasty=1009990204
+	dna="nikiojigijk"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=5 learning=8
+	father=1019923602	#Sahuaraura
+	816.4.24={ birth=yes }
+	869.10.13={ death=yes }
+}
+1019923609={
+	name=Taraque
+	dynasty=1009990204
+	dna="jpkiencflja"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	father=1019923607	#Luyes
+	830.1.4={ birth=yes }
+	916.5.13={ death=yes }
+}
+1019923610={
+	name=Chia
+	female=yes
+	dynasty=1009990204
+	dna="phoiecgekjg"
+	culture=miskito religion=miskito_pagan
+	father=1019923607	#Luyes
+	834.2.6={ birth=yes }
+	912.11.11={ death=yes }
+}
+1019923611={
+	name=Cusichaca
+	dynasty=1009990204
+	dna="jijienjbkjk"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=5 learning=4
+	father=1019923607	#Luyes
+	840.4.9={ birth=yes }
+	926.6.13={ death=yes }
+}
+1019923612={
+	name=Ninan
+	dynasty=1009990204
+	dna="bakmendflcb"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=6
+	father=1019923609	#Taraque
+	857.5.24={ birth=yes }
+	937.2.19={ death=yes }
+}
+1019923613={
+	name=Ana
+	female=yes
+	dynasty=1009990204
+	dna="gpkaenjllja"
+	culture=miskito religion=miskito_pagan
+	father=1019923609	#Taraque
+	861.2.10={ birth=yes }
+	917.6.17={ death=yes }
+}
+1019923614={
+	name=Umu
+	dynasty=1009990204
+	dna="jpcdenbcjjc"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=4 learning=8
+	father=1019923609	#Taraque
+	864.10.22={ birth=yes }
+	947.2.22={ death=yes }
+}
+1019923615={
+	name=Coyllas
+	dynasty=1009990204
+	dna="jpoijmcfdca"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=6
+	father=1019923609	#Taraque
+	871.12.17={ birth=yes }
+	934.9.16={ death=yes }
+}
+1019923616={
+	name=China
+	female=yes
+	dynasty=1009990204
+	dna="jpkppfmfgnb"
+	culture=miskito religion=miskito_pagan
+	father=1019923609	#Taraque
+	874.8.19={ birth=yes }
+	931.3.5={ death=yes }
+}
+1019923617={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990204
+	dna="hlcicncjcjp"
+	culture=miskito religion=miskito_pagan
+	father=1019923609	#Taraque
+	878.8.16={ birth=yes }
+	961.8.23={ death=yes }
+}
+1019923618={
+	name=Kantuta
+	female=yes
+	dynasty=1009990204
+	dna="jpknglcflka"
+	culture=miskito religion=miskito_pagan
+	father=1019923609	#Taraque
+	881.4.24={ birth=yes }
+	946.9.5={ death=yes }
+}
+1019923619={
+	name=Guaritopa
+	dynasty=1009990204
+	dna="fcmmendfkcj"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=8 learning=6
+	father=1019923612	#Ninan
+	883.5.26={ birth=yes }
+	984.1.24={ death=yes }
+}
+1019923620={
+	name=Ana
+	female=yes
+	dynasty=1009990204
+	dna="kalbindflca"
+	culture=miskito religion=miskito_pagan
+	father=1019923612	#Ninan
+	890.3.27={ birth=yes }
+	943.7.28={ death=yes }
+}
+1019923621={
+	name=Maiara
+	female=yes
+	dynasty=1009990204
+	dna="jakdiaaflok"
+	culture=miskito religion=miskito_pagan
+	father=1019923612	#Ninan
+	895.6.23={ birth=yes }
+	979.4.22={ death=yes }
+}
+1019923622={
+	name=China
+	female=yes
+	dynasty=1009990204
+	dna="bakleodbdcb"
+	culture=miskito religion=miskito_pagan
+	father=1019923612	#Ninan
+	901.1.22={ birth=yes }
+	962.8.11={ death=yes }
+}
+1019923623={
+	name=Axomamma
+	female=yes
+	dynasty=1009990204
+	dna="hadmjbhfllb"
+	culture=miskito religion=miskito_pagan
+	father=1019923612	#Ninan
+	906.3.1={ birth=yes }
+	988.8.30={ death=yes }
+}
+1019923624={
+	name=Atoc
+	dynasty=1009990204
+	dna="bckmaaanlcn"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	father=1019923612	#Ninan
+	912.11.10={ birth=yes }
+	970.11.7={ death=yes }
+}
+1019923625={
+	name=Sopa
+	dynasty=1009990204
+	dna="fcjmbnefkoh"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=4
+	father=1019923619	#Guaritopa
+	912.2.23={ birth=yes }
+	983.6.29={ death=yes }
+}
+1019923626={
+	name=Atoc
+	dynasty=1009990204
+	dna="fnpmmddfkpj"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	father=1019923619	#Guaritopa
+	917.8.23={ birth=yes }
+	980.1.6={ death=yes }
+}
+1019923627={
+	name=Nina
+	female=yes
+	dynasty=1009990204
+	dna="fcmmenedkcj"
+	culture=miskito religion=miskito_pagan
+	father=1019923619	#Guaritopa
+	922.3.16={ birth=yes }
+	984.3.29={ death=yes }
+}
+1019923628={
+	name=Quispe
+	dynasty=1009990204
+	dna="fccmehdfkpb"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=5 learning=4
+	father=1019923619	#Guaritopa
+	925.12.12={ birth=yes }
+	971.11.12={ death=yes }
+}
+1019923629={
+	name=Ana
+	female=yes
+	dynasty=1009990204
+	dna="fpbieiicbcj"
+	culture=miskito religion=miskito_pagan
+	father=1019923619	#Guaritopa
+	929.2.12={ birth=yes }
+	973.1.1={ death=yes }
+}
+1019923630={
+	name=Sopa
+	dynasty=1009990204
+	dna="fkjmbndffph"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=7 learning=8
+	father=1019923625	#Sopa
+	934.1.16={ birth=yes }
+	1000.1.29={ death=yes }
+}
+1019923631={
+	name=Nina
+	female=yes
+	dynasty=1009990204
+	dna="dcjmbnjfkoh"
+	culture=miskito religion=miskito_pagan
+	father=1019923625	#Sopa
+	939.5.11={ birth=yes }
+	1008.10.26={ death=yes }
+}
+1019923632={
+	name=Ana
+	female=yes
+	dynasty=1009990204
+	dna="fnjnbffgfce"
+	culture=miskito religion=miskito_pagan
+	father=1019923630	#Sopa
+	962.5.20={ birth=yes }
+	1033.4.10={ death=yes }
+}
+1019923633={
+	name=Surandaman
+	dynasty=1009990204
+	dna="cdhbblifgch"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=5
+	father=1019923630	#Sopa
+	968.8.23={ birth=yes }
+	1025.8.8={ death=yes }
+}
+1019923634={
+	name=China
+	female=yes
+	dynasty=1009990204
+	dna="ckppkndffla"
+	culture=miskito religion=miskito_pagan
+	father=1019923630	#Sopa
+	974.7.4={ birth=yes }
+	1051.8.27={ death=yes }
+}
+1019923635={
+	name=Ana
+	female=yes
+	dynasty=1009990204
+	dna="edmbjpeficp"
+	culture=miskito religion=miskito_pagan
+	father=1019923633	#Surandaman
+	999.6.10={ birth=yes }
+	1076.10.14={ death=yes }
+}
+1019923636={
+	name=Umu
+	dynasty=1009990204
+	dna="cdhmboefgch"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=8 learning=6
+	father=1019923633	#Surandaman
+	1005.1.13={ birth=yes }
+	1087.5.6={ death=yes }
+}
+1019923637={
+	name=China
+	female=yes
+	dynasty=1009990204
+	dna="cohebfiffch"
+	culture=miskito religion=miskito_pagan
+	father=1019923633	#Surandaman
+	1010.1.17={ birth=yes }
+	1063.6.21={ death=yes }
+}
+1019923638={
+	name=Cuyuchi
+	dynasty=1009990204
+	dna="gmhmbfejgch"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	father=1019923636	#Umu
+	1036.12.22={ birth=yes }
+	1103.8.7={ death=yes }
+}
+1019923639={
+	name=Maiara
+	female=yes
+	dynasty=1009990204
+	dna="cdfmoonpghe"
+	culture=miskito religion=miskito_pagan
+	father=1019923636	#Umu
+	1040.4.2={ birth=yes }
+	1119.1.23={ death=yes }
+}
+1019923640={
+	name=Axomamma
+	female=yes
+	dynasty=1009990204
+	dna="cjgbbieggkg"
+	culture=miskito religion=miskito_pagan
+	father=1019923636	#Umu
+	1047.7.27={ birth=yes }
+	1127.12.11={ death=yes }
+}
+1019923641={
+	name=Ana
+	female=yes
+	dynasty=1009990204
+	dna="gfjnndgjgch"
+	culture=miskito religion=miskito_pagan
+	father=1019923638	#Cuyuchi
+	1065.12.26={ birth=yes }
+	1139.1.6={ death=yes }
+}
+1019923642={
+	name=Pumi
+	dynasty=1009990204
+	dna="gfhmddajgbh"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=7 learning=6
+	father=1019923638	#Cuyuchi
+	1070.5.25={ birth=yes }
+	1130.1.3={ death=yes }
+}
+1019923643={
+	name=Curiatao
+	dynasty=1009990204
+	dna="gkolcfmogfh"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=5 learning=5
+	father=1019923638	#Cuyuchi
+	1075.12.8={ birth=yes }
+	1150.12.9={ death=yes }
+}
+1019923644={
+	name=Axomamma
+	female=yes
+	dynasty=1009990204
+	dna="amhmbfimgcn"
+	culture=miskito religion=miskito_pagan
+	father=1019923638	#Cuyuchi
+	1077.8.15={ birth=yes }
+	1150.11.22={ death=yes }
+}
+1019923645={
+	name=Kantuta
+	female=yes
+	dynasty=1009990204
+	dna="emhdnaeiacc"
+	culture=miskito religion=miskito_pagan
+	father=1019923638	#Cuyuchi
+	1084.6.20={ birth=yes }
+	1156.2.20={ death=yes }
+}
+1019923646={
+	name=Pomaguala
+	dynasty=1009990204
+	dna="blhooikfnch"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=5 learning=5
+	father=1019923638	#Cuyuchi
+	1088.8.27={ birth=yes }
+	1159.10.21={ death=yes }
+}
+1019923647={
+	name=Axomamma
+	female=yes
+	dynasty=1009990204
+	dna="glemdlacgbh"
+	culture=miskito religion=miskito_pagan
+	father=1019923642	#Pumi
+	1093.7.26={ birth=yes }
+	1181.4.6={ death=yes }
+}
+1019923648={
+	name=Atoc
+	dynasty=1009990204
+	dna="gbhmdealooh"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=6 learning=7
+	father=1019923642	#Pumi
+	1098.5.20={ birth=yes }
+	1153.3.31={ death=yes }
+}
+1019923649={
+	name=Tucuycuyche
+	dynasty=1009990204
+	dna="knhmpcmbffc"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=7 learning=6
+	father=1019923648	#Atoc
+	1125.4.27={ birth=yes }
+	1199.3.19={ death=yes }
+}
+1019923650={
+	name=Axomamma
+	female=yes
+	dynasty=1009990204
+	dna="cbimaeaioml"
+	culture=miskito religion=miskito_pagan
+	father=1019923648	#Atoc
+	1129.8.24={ birth=yes }
+	1216.7.26={ death=yes }
+}
+1019923651={
+	name=China
+	female=yes
+	dynasty=1009990204
+	dna="ofhmneajioh"
+	culture=miskito religion=miskito_pagan
+	father=1019923648	#Atoc
+	1135.1.8={ birth=yes }
+	1193.12.13={ death=yes }
+}
+1019923652={
+	name=Orco
+	dynasty=1009990204
+	dna="hbomljajamh"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=4
+	father=1019923648	#Atoc
+	1140.6.23={ birth=yes }
+	1219.8.8={ death=yes }
+}
+1019923653={
+	name=Maiara
+	female=yes
+	dynasty=1009990204
+	dna="knejpcmjknc"
+	culture=miskito religion=miskito_pagan
+	father=1019923649	#Tucuycuyche
+	1153.10.3={ birth=yes }
+	1217.7.5={ death=yes }
+}
+1019923654={
+	name=Anquimarca
+	dynasty=1009990204
+	dna="dphmgcdbnng"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=6
+	father=1019923649	#Tucuycuyche
+	1157.1.12={ birth=yes }
+	1212.7.11={ death=yes }
+}
+1019923655={
+	name=Nina
+	female=yes
+	dynasty=1009990204
+	dna="kpambdmbpen"
+	culture=miskito religion=miskito_pagan
+	father=1019923649	#Tucuycuyche
+	1162.5.17={ birth=yes }
+	1250.1.7={ death=yes }
+}
+1019923656={
+	name=Pumi
+	dynasty=1009990204
+	dna="ojhaicmbmfn"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	father=1019923649	#Tucuycuyche
+	1168.10.20={ birth=yes }
+	1253.2.19={ death=yes }
+}
+1019923657={
+	name=Titu
+	dynasty=1009990204
+	dna="nehmagppffp"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	father=1019923649	#Tucuycuyche
+	1170.12.23={ birth=yes }
+	1239.9.28={ death=yes }
+}
+1019923658={
+	name=Mayta
+	dynasty=1009990204
+	dna="dnimpnmfmjg"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=4
+	father=1019923649	#Tucuycuyche
+	1177.5.14={ birth=yes }
+	1236.3.20={ death=yes }
+}
+1019923659={
+	name=Villac
+	dynasty=1009990204
+	dna="kahmpcogffc"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	father=1019923649	#Tucuycuyche
+	1180.6.4={ birth=yes }
+	1243.9.26={ death=yes }
+}
+1019923660={
+	name=Usca
+	dynasty=1009990204
+	dna="ddhmnddbnip"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=8 learning=8
+	father=1019923654	#Anquimarca
+	1179.2.15={ birth=yes }
+	1242.8.12={ death=yes }
+}
+1019923661={
+	name=Chia
+	female=yes
+	dynasty=1009990204
+	dna="djhmncdenhh"
+	culture=miskito religion=miskito_pagan
+	father=1019923654	#Anquimarca
+	1186.7.22={ birth=yes }
+	1258.2.19={ death=yes }
+}
+1019923662={
+	name=Kantuta
+	female=yes
+	dynasty=1009990204
+	dna="nphmgmjpone"
+	culture=miskito religion=miskito_pagan
+	father=1019923654	#Anquimarca
+	1193.8.10={ birth=yes }
+	1273.10.8={ death=yes }
+}
+1019923663={
+	name=Guaritopa
+	dynasty=1009990204
+	dna="pjhmpdegmic"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=5 learning=7
+	father=1019923660	#Usca
+	1207.6.3={ birth=yes }
+	1293.8.26={ death=yes }
+}
+1019923664={
+	name=Pascac
+	dynasty=1009990204
+	dna="ldhmnlobhif"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=8
+	father=1019923660	#Usca
+	1211.8.14={ birth=yes }
+	1276.7.4={ death=yes }
+}
+1019923665={
+	name=Titu
+	dynasty=1009990204
+	dna="pcnopdogpan"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=5 learning=7
+	father=1019923663	#Guaritopa
+	1228.1.21={ birth=yes }
+	1305.5.21={ death=yes }
+}
+1019923666={
+	name=Chia
+	female=yes
+	dynasty=1009990204
+	dna="jehmmnelgic"
+	culture=miskito religion=miskito_pagan
+	father=1019923663	#Guaritopa
+	1233.5.20={ birth=yes }
+	1300.1.7={ death=yes }
+}
+1019923667={
+	name=Villac
+	dynasty=1009990204
+	dna="ejhnbenfmbc"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=4
+	father=1019923663	#Guaritopa
+	1238.9.13={ birth=yes }
+	1273.11.11={ death=yes }
+}
+1019923668={
+	name=Maiara
+	female=yes
+	dynasty=1009990204
+	dna="bjhmpieamnd"
+	culture=miskito religion=miskito_pagan
+	father=1019923663	#Guaritopa
+	1243.7.1={ birth=yes }
+	1302.4.7={ death=yes }
+}
+1019923669={
+	name=Nina
+	female=yes
+	dynasty=1009990204
+	dna="plhgpkeemml"
+	culture=miskito religion=miskito_pagan
+	father=1019923663	#Guaritopa
+	1249.10.1={ birth=yes }
+	1336.9.12={ death=yes }
+}
+1019923670={
+	name=Axomamma
+	female=yes
+	dynasty=1009990204
+	dna="pjjmpdegdip"
+	culture=miskito religion=miskito_pagan
+	father=1019923663	#Guaritopa
+	1252.10.14={ birth=yes }
+	1311.10.1={ death=yes }
+}
+1019923671={
+	name=Marcavilca
+	dynasty=1009990204
+	dna="pccknmogbfk"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=6 learning=6
+	father=1019923665	#Titu
+	1253.9.1={ birth=yes }
+	1334.11.3={ death=yes }
+}
+1019923672={
+	name=Varanca
+	dynasty=1009990204
+	dna="dcnopdfppoh"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=6
+	father=1019923665	#Titu
+	1257.4.12={ birth=yes }
+	1336.7.15={ death=yes }
+}
+1019923673={
+	name=Orco
+	dynasty=1009990204
+	dna="pinopdnopbb"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	father=1019923665	#Titu
+	1261.5.21={ birth=yes }
+	1342.10.25={ death=yes }
+}
+1019923674={
+	name=China
+	female=yes
+	dynasty=1009990204
+	dna="pkkcpdflbag"
+	culture=miskito religion=miskito_pagan
+	father=1019923665	#Titu
+	1266.6.25={ birth=yes }
+	1331.6.5={ death=yes }
+}
+1019923675={
+	name=Yamqui
+	dynasty=1009990204
+	dna="pcckndocbhi"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=8 learning=5
+	father=1019923671	#Marcavilca
+	1279.5.19={ birth=yes }
+	1350.8.27={ death=yes }
+}
+1019923676={
+	name=Villac
+	dynasty=1009990204
+	dna="bccjjmgabfk"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=6
+	father=1019923671	#Marcavilca
+	1287.7.9={ birth=yes }
+	1370.10.2={ death=yes }
+}
+1019923677={
+	name=Surandaman
+	dynasty=1009990204
+	dna="ochnneecphi"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=6 learning=8
+	father=1019923675	#Yamqui
+	1307.1.20={ birth=yes }
+	1367.4.16={ death=yes }
+}
+1019923678={
+	name=Coyllas
+	dynasty=1009990204
+	dna="pcbdndocpgi"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=4 learning=4
+	father=1019923675	#Yamqui
+	1309.12.19={ birth=yes }
+	1380.2.12={ death=yes }
+}
+1019923679={
+	name=Sahuaraura
+	dynasty=1009990204
+	dna="jkbaidoclbj"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=4 learning=4
+	father=1019923675	#Yamqui
+	1313.12.4={ birth=yes }
+	1393.4.27={ death=yes }
+}
+1019923680={
+	name=Chia
+	female=yes
+	dynasty=1009990204
+	dna="iphnieechkm"
+	culture=miskito religion=miskito_pagan
+	father=1019923677	#Surandaman
+	1329.12.23={ birth=yes }
+	1388.10.3={ death=yes }
+}
+1019923681={
+	name=Atoc
+	dynasty=1009990204
+	dna="ochcfeelphi"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=7
+	father=1019923677	#Surandaman
+	1334.8.10={ birth=yes }
+	1406.8.27={ death=yes }
+}
+1019923682={
+	name=Usca
+	dynasty=1009990204
+	dna="mnhdkbkmphi"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	father=1019923677	#Surandaman
+	1339.11.12={ birth=yes }
+	1421.12.6={ death=yes }
+}
+1019923683={
+	name=Pumi
+	dynasty=1009990204
+	dna="ochndfecphi"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=4 learning=8
+	father=1019923677	#Surandaman
+	1342.6.9={ birth=yes }
+	1408.1.4={ death=yes }
+}
+1019923684={
+	name=Nina
+	female=yes
+	dynasty=1009990204
+	dna="ocknceecohp"
+	culture=miskito religion=miskito_pagan
+	father=1019923677	#Surandaman
+	1346.9.11={ birth=yes }
+	1404.10.20={ death=yes }
+}
+1019923685={
+	name=Chia
+	female=yes
+	dynasty=1009990204
+	dna="ocjnkencpec"
+	culture=miskito religion=miskito_pagan
+	father=1019923677	#Surandaman
+	1352.7.26={ birth=yes }
+	1409.10.5={ death=yes }
+}
+1019923686={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990204
+	dna="ocpnlpkchhi"
+	culture=miskito religion=miskito_pagan
+	father=1019923677	#Surandaman
+	1356.11.21={ birth=yes }
+	1432.8.25={ death=yes }
+}
+1019923687={
+	name=Luyes
+	dynasty=1009990204
+	dna="ocicfkmgkhe"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	father=1019923681	#Atoc
+	1355.4.6={ birth=yes }
+	1434.1.27={ death=yes }
+}
+1019923688={
+	name=China
+	female=yes
+	dynasty=1009990204
+	dna="mcgeleegphi"
+	culture=miskito religion=miskito_pagan
+	father=1019923681	#Atoc
+	1359.4.9={ birth=yes }
+	1429.2.13={ death=yes }
+}
+1019923689={
+	name=Luyes
+	dynasty=1009990204
+	dna="oeicfnelpme"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=8 learning=7
+	father=1019923681	#Atoc
+	1364.9.1={ birth=yes }
+	1427.5.11={ death=yes }
+}
+1019923690={
+	name=Cusichaca
+	dynasty=1009990204
+	dna="opbaopehjhm"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=5
+	father=1019923681	#Atoc
+	1369.8.11={ birth=yes }
+	1451.8.30={ death=yes }
+}
+1019923691={
+	name=Coyllas
+	dynasty=1009990205
+	dna="aflcglkmfhk"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=8 learning=8
+	720.4.13={ birth=yes }
+	785.4.17={ death=yes }
+}
+1019923692={
+	name=Yamqui
+	dynasty=1009990205
+	dna="afliblghfha"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=4
+	father=1019923691	#Coyllas
+	742.10.20={ birth=yes }
+	808.11.5={ death=yes }
+}
+1019923693={
+	name=Guaritopa
+	dynasty=1009990205
+	dna="afjdggemfbk"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=6 learning=8
+	father=1019923691	#Coyllas
+	747.2.4={ birth=yes }
+	832.5.15={ death=yes }
+}
+1019923694={
+	name=Surandaman
+	dynasty=1009990205
+	dna="afffgfmmfjd"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=7
+	father=1019923691	#Coyllas
+	755.11.2={ birth=yes }
+	838.8.21={ death=yes }
+}
+1019923695={
+	name=Sopa
+	dynasty=1009990205
+	dna="jmlibepffna"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=7 learning=5
+	father=1019923692	#Yamqui
+	764.3.24={ birth=yes }
+	845.1.7={ death=yes }
+}
+1019923696={
+	name=China
+	female=yes
+	dynasty=1009990205
+	dna="mpkifngighc"
+	culture=miskito religion=miskito_pagan
+	father=1019923692	#Yamqui
+	769.6.27={ birth=yes }
+	835.12.8={ death=yes }
+}
+1019923697={
+	name=Varanca
+	dynasty=1009990205
+	dna="hfdiblijpca"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=4
+	father=1019923692	#Yamqui
+	771.3.24={ birth=yes }
+	847.8.26={ death=yes }
+}
+1019923698={
+	name=Kantuta
+	female=yes
+	dynasty=1009990205
+	dna="mjliklghpha"
+	culture=miskito religion=miskito_pagan
+	father=1019923692	#Yamqui
+	775.3.9={ birth=yes }
+	830.10.15={ death=yes }
+}
+1019923699={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990205
+	dna="afhiepghfhj"
+	culture=miskito religion=miskito_pagan
+	father=1019923692	#Yamqui
+	779.9.1={ birth=yes }
+	850.3.31={ death=yes }
+}
+1019923700={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990205
+	dna="abnibefgeha"
+	culture=miskito religion=miskito_pagan
+	father=1019923692	#Yamqui
+	784.7.11={ birth=yes }
+	870.7.13={ death=yes }
+}
+1019923701={
+	name=Kantuta
+	female=yes
+	dynasty=1009990205
+	dna="fgldblnhfho"
+	culture=miskito religion=miskito_pagan
+	father=1019923692	#Yamqui
+	787.4.23={ birth=yes }
+	873.5.8={ death=yes }
+}
+1019923702={
+	name=Ruminavi
+	dynasty=1009990205
+	dna="jmlibekfngf"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=8 learning=7
+	father=1019923695	#Sopa
+	787.5.7={ birth=yes }
+	860.6.23={ death=yes }
+}
+1019923703={
+	name=Yupanqui
+	dynasty=1009990205
+	dna="jmlnbgpafni"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=6 learning=4
+	father=1019923695	#Sopa
+	790.10.18={ birth=yes }
+	850.9.22={ death=yes }
+}
+1019923704={
+	name=Nina
+	female=yes
+	dynasty=1009990205
+	dna="jglabepfenm"
+	culture=miskito religion=miskito_pagan
+	father=1019923695	#Sopa
+	797.7.20={ birth=yes }
+	852.12.8={ death=yes }
+}
+1019923705={
+	name=Atoc
+	dynasty=1009990205
+	dna="jhjibepfkca"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=8 learning=8
+	father=1019923695	#Sopa
+	803.5.2={ birth=yes }
+	856.1.12={ death=yes }
+}
+1019923706={
+	name=Yamqui
+	dynasty=1009990205
+	dna="jnheoedffeh"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=8 learning=8
+	father=1019923702	#Ruminavi
+	814.5.8={ birth=yes }
+	896.5.19={ death=yes }
+}
+1019923707={
+	name=Titu
+	dynasty=1009990205
+	dna="nmlikekgmhd"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	father=1019923702	#Ruminavi
+	819.9.14={ birth=yes }
+	900.12.4={ death=yes }
+}
+1019923708={
+	name=Kantuta
+	female=yes
+	dynasty=1009990205
+	dna="jioccaklngf"
+	culture=miskito religion=miskito_pagan
+	father=1019923702	#Ruminavi
+	823.2.20={ birth=yes }
+	891.9.23={ death=yes }
+}
+1019923709={
+	name=Sopa
+	dynasty=1009990205
+	dna="efmibfkdgnf"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=5 learning=7
+	father=1019923702	#Ruminavi
+	828.8.19={ birth=yes }
+	887.2.27={ death=yes }
+}
+1019923710={
+	name=Nina
+	female=yes
+	dynasty=1009990205
+	dna="lggmplifhgf"
+	culture=miskito religion=miskito_pagan
+	father=1019923702	#Ruminavi
+	835.6.8={ birth=yes }
+	899.1.7={ death=yes }
+}
+1019923711={
+	name=Chia
+	female=yes
+	dynasty=1009990205
+	dna="jmlidekjnga"
+	culture=miskito religion=miskito_pagan
+	father=1019923702	#Ruminavi
+	839.4.13={ birth=yes }
+	911.1.2={ death=yes }
+}
+1019923712={
+	name=Cusichaca
+	dynasty=1009990205
+	dna="hiiabjkfngg"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=7
+	father=1019923702	#Ruminavi
+	844.8.8={ birth=yes }
+	922.4.19={ death=yes }
+}
+1019923713={
+	name=Ninan
+	dynasty=1009990205
+	dna="inhdppiiken"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	father=1019923706	#Yamqui
+	836.8.20={ birth=yes }
+	895.7.18={ death=yes }
+}
+1019923714={
+	name=Pumi
+	dynasty=1009990205
+	dna="pnaadijffjh"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=6 learning=4
+	father=1019923706	#Yamqui
+	840.11.15={ birth=yes }
+	920.1.30={ death=yes }
+}
+1019923715={
+	name=Quispe
+	dynasty=1009990205
+	dna="jnpeoelffeh"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=4
+	father=1019923706	#Yamqui
+	845.10.8={ birth=yes }
+	914.10.22={ death=yes }
+}
+1019923716={
+	name=Nina
+	female=yes
+	dynasty=1009990205
+	dna="jhhdcpdfoej"
+	culture=miskito religion=miskito_pagan
+	father=1019923706	#Yamqui
+	849.10.3={ birth=yes }
+	935.11.26={ death=yes }
+}
+1019923717={
+	name=Mayta
+	dynasty=1009990205
+	dna="idhjppikkeb"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	father=1019923713	#Ninan
+	867.3.24={ birth=yes }
+	930.9.16={ death=yes }
+}
+1019923718={
+	name=Zambiza
+	dynasty=1009990205
+	dna="ichdbpookpb"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=5 learning=8
+	father=1019923713	#Ninan
+	872.4.20={ birth=yes }
+	974.7.10={ death=yes }
+}
+1019923719={
+	name=Ana
+	female=yes
+	dynasty=1009990205
+	dna="elkdpbikojn"
+	culture=miskito religion=miskito_pagan
+	father=1019923713	#Ninan
+	879.8.4={ birth=yes }
+	938.11.15={ death=yes }
+}
+1019923720={
+	name=Taraque
+	dynasty=1009990205
+	dna="iaalpppgkjn"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=7 learning=7
+	father=1019923713	#Ninan
+	883.4.25={ birth=yes }
+	938.6.12={ death=yes }
+}
+1019923721={
+	name=Curiatao
+	dynasty=1009990205
+	dna="fjeobpmkklb"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=6 learning=8
+	father=1019923717	#Mayta
+	895.8.9={ birth=yes }
+	964.12.7={ death=yes }
+}
+1019923722={
+	name=Ruminavi
+	dynasty=1009990205
+	dna="ibhjjcikjli"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=7
+	father=1019923717	#Mayta
+	898.9.12={ birth=yes }
+	985.3.5={ death=yes }
+}
+1019923723={
+	name=Chia
+	female=yes
+	dynasty=1009990205
+	dna="ifhfineklgb"
+	culture=miskito religion=miskito_pagan
+	father=1019923717	#Mayta
+	902.7.27={ birth=yes }
+	982.2.6={ death=yes }
+}
+1019923724={
+	name=Cuyuchi
+	dynasty=1009990205
+	dna="chnjieblfgb"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=7
+	father=1019923717	#Mayta
+	906.5.2={ birth=yes }
+	978.12.5={ death=yes }
+}
+1019923725={
+	name=Umu
+	dynasty=1009990205
+	dna="lnoeppikkjl"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=6 learning=4
+	father=1019923717	#Mayta
+	909.9.8={ birth=yes }
+	983.8.31={ death=yes }
+}
+1019923726={
+	name=Nina
+	female=yes
+	dynasty=1009990205
+	dna="fpfjkmmkkib"
+	culture=miskito religion=miskito_pagan
+	father=1019923721	#Curiatao
+	918.11.6={ birth=yes }
+	988.3.23={ death=yes }
+}
+1019923727={
+	name=Marcavilca
+	dynasty=1009990205
+	dna="cgembcokhlc"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=4
+	father=1019923721	#Curiatao
+	924.8.23={ birth=yes }
+	991.8.11={ death=yes }
+}
+1019923728={
+	name=Ana
+	female=yes
+	dynasty=1009990205
+	dna="pjphkpnbklb"
+	culture=miskito religion=miskito_pagan
+	father=1019923721	#Curiatao
+	930.12.1={ birth=yes }
+	1017.4.25={ death=yes }
+}
+1019923729={
+	name=Ana
+	female=yes
+	dynasty=1009990205
+	dna="fjeobimlbpb"
+	culture=miskito religion=miskito_pagan
+	father=1019923721	#Curiatao
+	937.5.20={ birth=yes }
+	999.1.23={ death=yes }
+}
+1019923730={
+	name=Guaritopa
+	dynasty=1009990205
+	dna="igembjekhpk"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	father=1019923727	#Marcavilca
+	944.8.17={ birth=yes }
+	1021.3.25={ death=yes }
+}
+1019923731={
+	name=Chia
+	female=yes
+	dynasty=1009990205
+	dna="bhfgbhnkhgh"
+	culture=miskito religion=miskito_pagan
+	father=1019923727	#Marcavilca
+	948.4.27={ birth=yes }
+	1013.7.7={ death=yes }
+}
+1019923732={
+	name=Kantuta
+	female=yes
+	dynasty=1009990205
+	dna="cghedcakhlc"
+	culture=miskito religion=miskito_pagan
+	father=1019923727	#Marcavilca
+	954.12.22={ birth=yes }
+	1009.4.28={ death=yes }
+}
+1019923733={
+	name=Maiara
+	female=yes
+	dynasty=1009990205
+	dna="cmehecoohlc"
+	culture=miskito religion=miskito_pagan
+	father=1019923727	#Marcavilca
+	957.3.15={ birth=yes }
+	1025.7.6={ death=yes }
+}
+1019923734={
+	name=Chia
+	female=yes
+	dynasty=1009990205
+	dna="incmbjehhpk"
+	culture=miskito religion=miskito_pagan
+	father=1019923730	#Guaritopa
+	974.9.1={ birth=yes }
+	1044.9.4={ death=yes }
+}
+1019923735={
+	name=Nina
+	female=yes
+	dynasty=1009990205
+	dna="mglmgjeihpk"
+	culture=miskito religion=miskito_pagan
+	father=1019923730	#Guaritopa
+	977.1.20={ birth=yes }
+	1038.6.20={ death=yes }
+}
+1019923736={
+	name=Anquimarca
+	dynasty=1009990205
+	dna="bjgfbapkhpa"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	father=1019923730	#Guaritopa
+	983.4.19={ birth=yes }
+	1060.8.6={ death=yes }
+}
+1019923737={
+	name=Chia
+	female=yes
+	dynasty=1009990205
+	dna="ogaikjekhdh"
+	culture=miskito religion=miskito_pagan
+	father=1019923730	#Guaritopa
+	986.12.19={ birth=yes }
+	1070.11.4={ death=yes }
+}
+1019923738={
+	name=Kantuta
+	female=yes
+	dynasty=1009990205
+	dna="bjplbapihok"
+	culture=miskito religion=miskito_pagan
+	father=1019923736	#Anquimarca
+	1007.11.14={ birth=yes }
+	1082.11.10={ death=yes }
+}
+1019923739={
+	name=Varanca
+	dynasty=1009990205
+	dna="bggncaphdpf"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=4 learning=8
+	father=1019923736	#Anquimarca
+	1012.6.13={ birth=yes }
+	1071.8.30={ death=yes }
+}
+1019923740={
+	name=Atoc
+	dynasty=1009990205
+	dna="dpgfeipnfga"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=8 learning=7
+	father=1019923736	#Anquimarca
+	1017.9.20={ birth=yes }
+	1072.6.29={ death=yes }
+}
+1019923741={
+	name=Ana
+	female=yes
+	dynasty=1009990205
+	dna="ggihbnpkdmg"
+	culture=miskito religion=miskito_pagan
+	father=1019923736	#Anquimarca
+	1019.1.14={ birth=yes }
+	1121.9.27={ death=yes }
+}
+1019923742={
+	name=Usca
+	dynasty=1009990205
+	dna="ljggbhpkhpa"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	father=1019923736	#Anquimarca
+	1025.3.17={ birth=yes }
+	1080.1.12={ death=yes }
+}
+1019923743={
+	name=Chia
+	female=yes
+	dynasty=1009990205
+	dna="addfbapknca"
+	culture=miskito religion=miskito_pagan
+	father=1019923736	#Anquimarca
+	1030.11.11={ birth=yes }
+	1087.1.5={ death=yes }
+}
+1019923744={
+	name=Quispe
+	dynasty=1009990205
+	dna="bgidcapkppf"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	father=1019923739	#Varanca
+	1033.4.11={ birth=yes }
+	1104.1.26={ death=yes }
+}
+1019923745={
+	name=Atoc
+	dynasty=1009990205
+	dna="ohpicaffdpf"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=5 learning=7
+	father=1019923739	#Varanca
+	1036.5.1={ birth=yes }
+	1115.8.24={ death=yes }
+}
+1019923746={
+	name=Kantuta
+	female=yes
+	dynasty=1009990205
+	dna="nlgfcabhdnh"
+	culture=miskito religion=miskito_pagan
+	father=1019923739	#Varanca
+	1040.1.10={ birth=yes }
+	1097.2.8={ death=yes }
+}
+1019923747={
+	name=Varanca
+	dynasty=1009990205
+	dna="hgggcaphgpf"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=6
+	father=1019923739	#Varanca
+	1046.12.22={ birth=yes }
+	1114.11.5={ death=yes }
+}
+1019923748={
+	name=Surandaman
+	dynasty=1009990205
+	dna="gacfcmhkamf"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	father=1019923744	#Quispe
+	1067.7.3={ birth=yes }
+	1123.11.26={ death=yes }
+}
+1019923749={
+	name=Chia
+	female=yes
+	dynasty=1009990205
+	dna="mgijcapkapf"
+	culture=miskito religion=miskito_pagan
+	father=1019923744	#Quispe
+	1071.4.14={ birth=yes }
+	1136.7.10={ death=yes }
+}
+1019923750={
+	name=Topa
+	dynasty=1009990205
+	dna="bgidcamaepf"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=5
+	father=1019923744	#Quispe
+	1077.12.14={ birth=yes }
+	1163.9.1={ death=yes }
+}
+1019923751={
+	name=Marcavilca
+	dynasty=1009990205
+	dna="noidcepkpkc"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=5 learning=5
+	father=1019923744	#Quispe
+	1081.6.27={ birth=yes }
+	1143.4.17={ death=yes }
+}
+1019923752={
+	name=Surandaman
+	dynasty=1009990205
+	dna="gjjfcbhiolk"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=4 learning=5
+	father=1019923748	#Surandaman
+	1091.12.17={ birth=yes }
+	1155.9.19={ death=yes }
+}
+1019923753={
+	name=Taraque
+	dynasty=1009990205
+	dna="gkhfcpohajj"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=5 learning=5
+	father=1019923748	#Surandaman
+	1096.8.11={ birth=yes }
+	1172.8.23={ death=yes }
+}
+1019923754={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990205
+	dna="facgfmjgnkf"
+	culture=miskito religion=miskito_pagan
+	father=1019923748	#Surandaman
+	1102.4.2={ birth=yes }
+	1183.12.1={ death=yes }
+}
+1019923755={
+	name=Cayo
+	dynasty=1009990205
+	dna="gccgabhpbli"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=5
+	father=1019923752	#Surandaman
+	1115.7.7={ birth=yes }
+	1193.2.15={ death=yes }
+}
+1019923756={
+	name=Ana
+	female=yes
+	dynasty=1009990205
+	dna="cjjdbkiiolk"
+	culture=miskito religion=miskito_pagan
+	father=1019923752	#Surandaman
+	1119.12.4={ birth=yes }
+	1176.11.8={ death=yes }
+}
+1019923757={
+	name=China
+	female=yes
+	dynasty=1009990205
+	dna="ljjfjfhdkha"
+	culture=miskito religion=miskito_pagan
+	father=1019923752	#Surandaman
+	1123.7.4={ birth=yes }
+	1188.12.8={ death=yes }
+}
+1019923758={
+	name=Curiatao
+	dynasty=1009990205
+	dna="dcplnphpblj"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=7 learning=5
+	father=1019923755	#Cayo
+	1143.7.18={ birth=yes }
+	1228.9.29={ death=yes }
+}
+1019923759={
+	name=China
+	female=yes
+	dynasty=1009990205
+	dna="gncoabapbng"
+	culture=miskito religion=miskito_pagan
+	father=1019923755	#Cayo
+	1148.5.12={ birth=yes }
+	1218.7.9={ death=yes }
+}
+1019923760={
+	name=China
+	female=yes
+	dynasty=1009990205
+	dna="lkckahkppli"
+	culture=miskito religion=miskito_pagan
+	father=1019923755	#Cayo
+	1153.9.13={ birth=yes }
+	1227.12.11={ death=yes }
+}
+1019923761={
+	name=China
+	female=yes
+	dynasty=1009990205
+	dna="gcdnbehekii"
+	culture=miskito religion=miskito_pagan
+	father=1019923755	#Cayo
+	1157.4.11={ birth=yes }
+	1215.11.17={ death=yes }
+}
+1019923762={
+	name=Nina
+	female=yes
+	dynasty=1009990205
+	dna="kifhhbhpbco"
+	culture=miskito religion=miskito_pagan
+	father=1019923755	#Cayo
+	1163.3.11={ birth=yes }
+	1238.11.4={ death=yes }
+}
+1019923763={
+	name=Yamqui
+	dynasty=1009990205
+	dna="gkcgpeofhlc"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=7
+	father=1019923755	#Cayo
+	1167.3.2={ birth=yes }
+	1229.5.8={ death=yes }
+}
+1019923764={
+	name=Nina
+	female=yes
+	dynasty=1009990205
+	dna="eccpabhielg"
+	culture=miskito religion=miskito_pagan
+	father=1019923755	#Cayo
+	1174.2.12={ birth=yes }
+	1237.4.19={ death=yes }
+}
+1019923765={
+	name=Huaypalcon
+	dynasty=1009990205
+	dna="dcplonhojld"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	father=1019923758	#Curiatao
+	1171.1.1={ birth=yes }
+	1236.12.26={ death=yes }
+}
+1019923766={
+	name=Huaypalcon
+	dynasty=1009990205
+	dna="dpcccplpagh"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=4 learning=8
+	father=1019923758	#Curiatao
+	1175.5.20={ birth=yes }
+	1235.5.10={ death=yes }
+}
+1019923767={
+	name=Coyllas
+	dynasty=1009990205
+	dna="mcllbmfpllj"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=6 learning=5
+	father=1019923758	#Curiatao
+	1182.12.4={ birth=yes }
+	1239.9.25={ death=yes }
+}
+1019923768={
+	name=Umu
+	dynasty=1009990205
+	dna="icffobjoald"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	father=1019923765	#Huaypalcon
+	1189.4.17={ birth=yes }
+	1232.6.30={ death=yes }
+}
+1019923769={
+	name=Surandaman
+	dynasty=1009990205
+	dna="dlplkmhmjlp"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=5 learning=4
+	father=1019923765	#Huaypalcon
+	1195.4.4={ birth=yes }
+	1252.11.10={ death=yes }
+}
+1019923770={
+	name=Cayo
+	dynasty=1009990205
+	dna="dpelmcjijla"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=6 learning=8
+	father=1019923765	#Huaypalcon
+	1199.10.15={ birth=yes }
+	1273.1.23={ death=yes }
+}
+1019923771={
+	name=Pascac
+	dynasty=1009990205
+	dna="ocgjobcoald"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=4
+	father=1019923768	#Umu
+	1217.4.24={ birth=yes }
+	1291.6.11={ death=yes }
+}
+1019923772={
+	name=Marcavilca
+	dynasty=1009990205
+	dna="lcfpkbgamld"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=7
+	father=1019923768	#Umu
+	1222.10.19={ birth=yes }
+	1310.7.27={ death=yes }
+}
+1019923773={
+	name=Chia
+	female=yes
+	dynasty=1009990205
+	dna="jcfnabfollf"
+	culture=miskito religion=miskito_pagan
+	father=1019923768	#Umu
+	1227.5.4={ birth=yes }
+	1291.7.28={ death=yes }
+}
+1019923774={
+	name=Usca
+	dynasty=1009990205
+	dna="fapjpbckald"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=4 learning=6
+	father=1019923771	#Pascac
+	1241.10.1={ birth=yes }
+	1286.4.30={ death=yes }
+}
+1019923775={
+	name=Ana
+	female=yes
+	dynasty=1009990205
+	dna="jcgjoibiald"
+	culture=miskito religion=miskito_pagan
+	father=1019923771	#Pascac
+	1246.6.11={ birth=yes }
+	1318.11.27={ death=yes }
+}
+1019923776={
+	name=Mayta
+	dynasty=1009990205
+	dna="ocmjojmmffb"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=8
+	father=1019923771	#Pascac
+	1252.4.17={ birth=yes }
+	1301.2.14={ death=yes }
+}
+1019923777={
+	name=Nina
+	female=yes
+	dynasty=1009990205
+	dna="ojgjobpombp"
+	culture=miskito religion=miskito_pagan
+	father=1019923771	#Pascac
+	1259.3.3={ birth=yes }
+	1331.4.27={ death=yes }
+}
+1019923778={
+	name=Huaypalcon
+	dynasty=1009990205
+	dna="faajpbckboe"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=8
+	father=1019923774	#Usca
+	1261.6.15={ birth=yes }
+	1325.7.6={ death=yes }
+}
+1019923779={
+	name=Axomamma
+	female=yes
+	dynasty=1009990205
+	dna="pfpjkbokalo"
+	culture=miskito religion=miskito_pagan
+	father=1019923774	#Usca
+	1266.9.20={ birth=yes }
+	1355.3.29={ death=yes }
+}
+1019923780={
+	name=Ana
+	female=yes
+	dynasty=1009990205
+	dna="fagkdbckflj"
+	culture=miskito religion=miskito_pagan
+	father=1019923774	#Usca
+	1269.11.27={ birth=yes }
+	1347.4.15={ death=yes }
+}
+1019923781={
+	name=Pumi
+	dynasty=1009990205
+	dna="faaihnckaaj"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=6
+	father=1019923774	#Usca
+	1275.9.18={ birth=yes }
+	1336.5.2={ death=yes }
+}
+1019923782={
+	name=Kantuta
+	female=yes
+	dynasty=1009990205
+	dna="fbpaldehahd"
+	culture=miskito religion=miskito_pagan
+	father=1019923774	#Usca
+	1280.9.15={ birth=yes }
+	1378.10.29={ death=yes }
+}
+1019923783={
+	name=Sahuaraura
+	dynasty=1009990205
+	dna="naehppckghe"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=4
+	father=1019923778	#Huaypalcon
+	1294.3.17={ birth=yes }
+	1371.6.1={ death=yes }
+}
+1019923784={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990205
+	dna="fdnjkmekbmb"
+	culture=miskito religion=miskito_pagan
+	father=1019923778	#Huaypalcon
+	1299.12.24={ birth=yes }
+	1373.12.21={ death=yes }
+}
+1019923785={
+	name=Sopa
+	dynasty=1009990205
+	dna="ladjmccnbdm"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=7 learning=4
+	father=1019923778	#Huaypalcon
+	1305.11.12={ birth=yes }
+	1386.3.18={ death=yes }
+}
+1019923786={
+	name=Orco
+	dynasty=1009990205
+	dna="edehpickchi"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=7 learning=6
+	father=1019923783	#Sahuaraura
+	1319.8.10={ birth=yes }
+	1391.6.10={ death=yes }
+}
+1019923787={
+	name=Cuyuchi
+	dynasty=1009990205
+	dna="naehdclkgfj"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=6
+	father=1019923783	#Sahuaraura
+	1322.12.16={ birth=yes }
+	1402.5.7={ death=yes }
+}
+1019923788={
+	name=Atoc
+	dynasty=1009990205
+	dna="nbhgplkkdhe"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=6 learning=5
+	father=1019923783	#Sahuaraura
+	1327.12.14={ birth=yes }
+	1392.4.1={ death=yes }
+}
+1019923789={
+	name=Topa
+	dynasty=1009990205
+	dna="ilmfopckkhe"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=5
+	father=1019923783	#Sahuaraura
+	1332.3.7={ birth=yes }
+	1418.2.22={ death=yes }
+}
+1019923790={
+	name=Usca
+	dynasty=1009990205
+	dna="fadhepccchm"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	father=1019923783	#Sahuaraura
+	1337.12.18={ birth=yes }
+	1401.3.23={ death=yes }
+}
+1019923791={
+	name=Usca
+	dynasty=1009990205
+	dna="edehpidkcgg"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=8
+	father=1019923786	#Orco
+	1352.3.9={ birth=yes }
+	1413.6.4={ death=yes }
+}
+1019923792={
+	name=Axomamma
+	female=yes
+	dynasty=1009990205
+	dna="edebpibkcdi"
+	culture=miskito religion=miskito_pagan
+	father=1019923786	#Orco
+	1358.4.15={ birth=yes }
+	1457.5.4={ death=yes }
+}
+1019923793={
+	name=Nina
+	female=yes
+	dynasty=1009990205
+	dna="oncopkcocac"
+	culture=miskito religion=miskito_pagan
+	father=1019923786	#Orco
+	1364.6.10={ birth=yes }
+	1450.8.3={ death=yes }
+}
+1019923794={
+	name=Cusichaca
+	dynasty=1009990206
+	dna="ecllmdihddp"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	719.2.21={ birth=yes }
+	774.7.18={ death=yes }
+}
+1019923795={
+	name=Zambiza
+	dynasty=1009990206
+	dna="eenomlmhjed"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	father=1019923794	#Cusichaca
+	745.8.8={ birth=yes }
+	829.7.22={ death=yes }
+}
+1019923796={
+	name=Taraque
+	dynasty=1009990206
+	dna="fhlladindco"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=7
+	father=1019923794	#Cusichaca
+	751.8.22={ birth=yes }
+	828.11.13={ death=yes }
+}
+1019923797={
+	name=Nina
+	female=yes
+	dynasty=1009990206
+	dna="efllodehddp"
+	culture=miskito religion=miskito_pagan
+	father=1019923794	#Cusichaca
+	757.1.5={ birth=yes }
+	812.6.18={ death=yes }
+}
+1019923798={
+	name=Maiara
+	female=yes
+	dynasty=1009990206
+	dna="jcndniihcfe"
+	culture=miskito religion=miskito_pagan
+	father=1019923794	#Cusichaca
+	762.4.18={ birth=yes }
+	845.7.8={ death=yes }
+}
+1019923799={
+	name=Sahuaraura
+	dynasty=1009990206
+	dna="ennmmombbed"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=7
+	father=1019923795	#Zambiza
+	768.12.7={ birth=yes }
+	850.11.26={ death=yes }
+}
+1019923800={
+	name=Tucuycuyche
+	dynasty=1009990206
+	dna="ofkoclpmjof"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=5 learning=5
+	father=1019923795	#Zambiza
+	775.8.1={ birth=yes }
+	840.9.14={ death=yes }
+}
+1019923801={
+	name=Curiatao
+	dynasty=1009990206
+	dna="ekaoeamjoej"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	father=1019923795	#Zambiza
+	780.1.15={ birth=yes }
+	841.4.24={ death=yes }
+}
+1019923802={
+	name=Titu
+	dynasty=1009990206
+	dna="ennmmojbbbd"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=4 learning=4
+	father=1019923799	#Sahuaraura
+	789.9.27={ birth=yes }
+	859.3.20={ death=yes }
+}
+1019923803={
+	name=Ana
+	female=yes
+	dynasty=1009990206
+	dna="dnnmkjmbbkd"
+	culture=miskito religion=miskito_pagan
+	father=1019923799	#Sahuaraura
+	796.2.12={ birth=yes }
+	861.5.3={ death=yes }
+}
+1019923804={
+	name=Chia
+	female=yes
+	dynasty=1009990206
+	dna="hnpmmpkkbod"
+	culture=miskito religion=miskito_pagan
+	father=1019923799	#Sahuaraura
+	800.2.24={ birth=yes }
+	856.11.19={ death=yes }
+}
+1019923805={
+	name=Marcavilca
+	dynasty=1009990206
+	dna="dnnmmombiep"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	father=1019923799	#Sahuaraura
+	805.11.3={ birth=yes }
+	874.9.18={ death=yes }
+}
+1019923806={
+	name=Sahuaraura
+	dynasty=1009990206
+	dna="eniemojbbed"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=8 learning=5
+	father=1019923802	#Titu
+	819.2.6={ birth=yes }
+	878.2.6={ death=yes }
+}
+1019923807={
+	name=Maiara
+	female=yes
+	dynasty=1009990206
+	dna="nnmimojggfd"
+	culture=miskito religion=miskito_pagan
+	father=1019923802	#Titu
+	823.2.8={ birth=yes }
+	897.7.12={ death=yes }
+}
+1019923808={
+	name=Anquimarca
+	dynasty=1009990206
+	dna="enkmhocibhd"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=8
+	father=1019923802	#Titu
+	827.7.15={ birth=yes }
+	880.9.18={ death=yes }
+}
+1019923809={
+	name=Ana
+	female=yes
+	dynasty=1009990206
+	dna="enfmmkkhdpd"
+	culture=miskito religion=miskito_pagan
+	father=1019923802	#Titu
+	834.5.15={ birth=yes }
+	904.3.28={ death=yes }
+}
+1019923810={
+	name=Axomamma
+	female=yes
+	dynasty=1009990206
+	dna="doiemmhbkfd"
+	culture=miskito religion=miskito_pagan
+	father=1019923806	#Sahuaraura
+	848.5.27={ birth=yes }
+	935.2.4={ death=yes }
+}
+1019923811={
+	name=Curiatao
+	dynasty=1009990206
+	dna="bniepojlmfh"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=4 learning=5
+	father=1019923806	#Sahuaraura
+	853.11.26={ birth=yes }
+	917.1.31={ death=yes }
+}
+1019923812={
+	name=Atoc
+	dynasty=1009990206
+	dna="enihmojbkla"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=7
+	father=1019923806	#Sahuaraura
+	856.8.5={ birth=yes }
+	959.7.26={ death=yes }
+}
+1019923813={
+	name=Yupanqui
+	dynasty=1009990206
+	dna="kdbemnjjobi"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=6 learning=7
+	father=1019923806	#Sahuaraura
+	859.10.26={ birth=yes }
+	943.12.25={ death=yes }
+}
+1019923814={
+	name=Axomamma
+	female=yes
+	dynasty=1009990206
+	dna="egbemokbgef"
+	culture=miskito religion=miskito_pagan
+	father=1019923806	#Sahuaraura
+	863.7.23={ birth=yes }
+	947.11.15={ death=yes }
+}
+1019923815={
+	name=Curiatao
+	dynasty=1009990206
+	dna="bbieiijlffh"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=4
+	father=1019923811	#Curiatao
+	879.1.20={ birth=yes }
+	937.12.19={ death=yes }
+}
+1019923816={
+	name=Nina
+	female=yes
+	dynasty=1009990206
+	dna="baiednnllfh"
+	culture=miskito religion=miskito_pagan
+	father=1019923811	#Curiatao
+	885.4.17={ birth=yes }
+	955.6.28={ death=yes }
+}
+1019923817={
+	name=Axomamma
+	female=yes
+	dynasty=1009990206
+	dna="bjcenonlohh"
+	culture=miskito religion=miskito_pagan
+	father=1019923811	#Curiatao
+	891.12.1={ birth=yes }
+	944.12.6={ death=yes }
+}
+1019923818={
+	name=Huaypalcon
+	dynasty=1009990206
+	dna="bdieponlmhh"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=7 intrigue=8 learning=7
+	father=1019923811	#Curiatao
+	896.11.2={ birth=yes }
+	944.2.15={ death=yes }
+}
+1019923819={
+	name=Zambiza
+	dynasty=1009990206
+	dna="bbmbnijpbnc"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=6 learning=4
+	father=1019923815	#Curiatao
+	909.6.16={ birth=yes }
+	971.6.6={ death=yes }
+}
+1019923820={
+	name=Titu
+	dynasty=1009990206
+	dna="bbicinjmifd"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=7
+	father=1019923815	#Curiatao
+	914.11.10={ birth=yes }
+	976.1.19={ death=yes }
+}
+1019923821={
+	name=Cayo
+	dynasty=1009990206
+	dna="bbhhiijlnig"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	father=1019923815	#Curiatao
+	917.5.5={ birth=yes }
+	980.7.25={ death=yes }
+}
+1019923822={
+	name=Ana
+	female=yes
+	dynasty=1009990206
+	dna="faceiiclmfa"
+	culture=miskito religion=miskito_pagan
+	father=1019923815	#Curiatao
+	921.6.24={ birth=yes }
+	987.5.20={ death=yes }
+}
+1019923823={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990206
+	dna="gbiegijffeh"
+	culture=miskito religion=miskito_pagan
+	father=1019923815	#Curiatao
+	924.10.3={ birth=yes }
+	982.5.26={ death=yes }
+}
+1019923824={
+	name=Taraque
+	dynasty=1009990206
+	dna="ibmbmidpbnc"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=4 learning=5
+	father=1019923819	#Zambiza
+	934.1.6={ birth=yes }
+	990.8.5={ death=yes }
+}
+1019923825={
+	name=Yamqui
+	dynasty=1009990206
+	dna="dcoannjpfnc"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=8
+	father=1019923819	#Zambiza
+	938.4.11={ birth=yes }
+	1016.8.18={ death=yes }
+}
+1019923826={
+	name=Pascac
+	dynasty=1009990206
+	dna="lbbinajpnei"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=4 learning=5
+	father=1019923819	#Zambiza
+	944.3.11={ birth=yes }
+	1009.7.13={ death=yes }
+}
+1019923827={
+	name=Yupanqui
+	dynasty=1009990206
+	dna="bfmbfijfbgo"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=6 learning=8
+	father=1019923819	#Zambiza
+	948.4.20={ birth=yes }
+	1032.3.16={ death=yes }
+}
+1019923828={
+	name=Nina
+	female=yes
+	dynasty=1009990206
+	dna="bbmboimphnc"
+	culture=miskito religion=miskito_pagan
+	father=1019923819	#Zambiza
+	953.3.19={ birth=yes }
+	1039.6.11={ death=yes }
+}
+1019923829={
+	name=Coyllas
+	dynasty=1009990206
+	dna="ibmbniepebc"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=7 learning=5
+	father=1019923824	#Taraque
+	961.4.24={ birth=yes }
+	1016.11.28={ death=yes }
+}
+1019923830={
+	name=Maiara
+	female=yes
+	dynasty=1009990206
+	dna="idmeminmanc"
+	culture=miskito religion=miskito_pagan
+	father=1019923824	#Taraque
+	966.11.3={ birth=yes }
+	1021.4.4={ death=yes }
+}
+1019923831={
+	name=Yamqui
+	dynasty=1009990206
+	dna="ibmbgifbccc"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	father=1019923829	#Coyllas
+	985.12.7={ birth=yes }
+	1063.10.17={ death=yes }
+}
+1019923832={
+	name=Kantuta
+	female=yes
+	dynasty=1009990206
+	dna="glmbncepelc"
+	culture=miskito religion=miskito_pagan
+	father=1019923829	#Coyllas
+	991.12.4={ birth=yes }
+	1044.3.24={ death=yes }
+}
+1019923833={
+	name=Kantuta
+	female=yes
+	dynasty=1009990206
+	dna="ibmkniapebp"
+	culture=miskito religion=miskito_pagan
+	father=1019923829	#Coyllas
+	994.3.14={ birth=yes }
+	1089.4.28={ death=yes }
+}
+1019923834={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990206
+	dna="iefgpifjcoc"
+	culture=miskito religion=miskito_pagan
+	father=1019923831	#Yamqui
+	1009.3.26={ birth=yes }
+	1069.2.17={ death=yes }
+}
+1019923835={
+	name=Chia
+	female=yes
+	dynasty=1009990206
+	dna="ebibkhephcc"
+	culture=miskito religion=miskito_pagan
+	father=1019923831	#Yamqui
+	1015.9.27={ birth=yes }
+	1091.12.23={ death=yes }
+}
+1019923836={
+	name=Huachuri
+	dynasty=1009990206
+	dna="nbmepifpcld"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=7
+	father=1019923831	#Yamqui
+	1019.1.18={ birth=yes }
+	1094.12.25={ death=yes }
+}
+1019923837={
+	name=Maiara
+	female=yes
+	dynasty=1009990206
+	dna="ibmbndfbebl"
+	culture=miskito religion=miskito_pagan
+	father=1019923831	#Yamqui
+	1021.7.25={ birth=yes }
+	1107.4.24={ death=yes }
+}
+1019923838={
+	name=Villac
+	dynasty=1009990206
+	dna="iiebgnmbcnp"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=5 learning=4
+	father=1019923831	#Yamqui
+	1026.4.3={ birth=yes }
+	1096.2.10={ death=yes }
+}
+1019923839={
+	name=Curiatao
+	dynasty=1009990206
+	dna="neggbieenld"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	father=1019923836	#Huachuri
+	1044.2.2={ birth=yes }
+	1126.10.26={ death=yes }
+}
+1019923840={
+	name=Guaritopa
+	dynasty=1009990206
+	dna="lmmcpdfpcmd"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=7 learning=7
+	father=1019923836	#Huachuri
+	1048.6.26={ birth=yes }
+	1123.7.4={ death=yes }
+}
+1019923841={
+	name=Sopa
+	dynasty=1009990206
+	dna="nblabknlold"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=4 learning=5
+	father=1019923836	#Huachuri
+	1052.9.16={ birth=yes }
+	1134.7.24={ death=yes }
+}
+1019923842={
+	name=Yupanqui
+	dynasty=1009990206
+	dna="offcpofpnnd"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=8
+	father=1019923836	#Huachuri
+	1055.3.27={ birth=yes }
+	1094.4.26={ death=yes }
+}
+1019923843={
+	name=Nina
+	female=yes
+	dynasty=1009990206
+	dna="gbmljepfild"
+	culture=miskito religion=miskito_pagan
+	father=1019923836	#Huachuri
+	1059.10.13={ birth=yes }
+	1136.2.15={ death=yes }
+}
+1019923844={
+	name=Nina
+	female=yes
+	dynasty=1009990206
+	dna="lfnibiieddj"
+	culture=miskito religion=miskito_pagan
+	father=1019923839	#Curiatao
+	1073.2.14={ birth=yes }
+	1144.6.7={ death=yes }
+}
+1019923845={
+	name=Ninan
+	dynasty=1009990206
+	dna="nkghcnbielo"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=4 learning=8
+	father=1019923839	#Curiatao
+	1078.12.27={ birth=yes }
+	1160.7.22={ death=yes }
+}
+1019923846={
+	name=Maiara
+	female=yes
+	dynasty=1009990206
+	dna="ihegbiaenlh"
+	culture=miskito religion=miskito_pagan
+	father=1019923839	#Curiatao
+	1083.5.11={ birth=yes }
+	1167.9.7={ death=yes }
+}
+1019923847={
+	name=Usca
+	dynasty=1009990206
+	dna="bkmhdkbielo"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	father=1019923845	#Ninan
+	1110.4.24={ birth=yes }
+	1186.9.3={ death=yes }
+}
+1019923848={
+	name=Ana
+	female=yes
+	dynasty=1009990206
+	dna="nkghcnoiebb"
+	culture=miskito religion=miskito_pagan
+	father=1019923845	#Ninan
+	1113.5.5={ birth=yes }
+	1187.1.11={ death=yes }
+}
+1019923849={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990206
+	dna="nogmcnkielo"
+	culture=miskito religion=miskito_pagan
+	father=1019923845	#Ninan
+	1119.5.17={ birth=yes }
+	1201.2.24={ death=yes }
+}
+1019923850={
+	name=Tucuycuyche
+	dynasty=1009990206
+	dna="ikgmcobield"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=6 learning=5
+	father=1019923845	#Ninan
+	1122.11.18={ birth=yes }
+	1206.5.12={ death=yes }
+}
+1019923851={
+	name=Curiatao
+	dynasty=1009990206
+	dna="nkdfpnidalo"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=8
+	father=1019923845	#Ninan
+	1127.8.21={ birth=yes }
+	1203.5.28={ death=yes }
+}
+1019923852={
+	name=Kantuta
+	female=yes
+	dynasty=1009990206
+	dna="neghbnjdeoo"
+	culture=miskito religion=miskito_pagan
+	father=1019923845	#Ninan
+	1132.2.6={ birth=yes }
+	1213.8.25={ death=yes }
+}
+1019923853={
+	name=Tucuycuyche
+	dynasty=1009990206
+	dna="nkaidneijlo"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=8
+	father=1019923845	#Ninan
+	1135.12.19={ birth=yes }
+	1208.10.16={ death=yes }
+}
+1019923854={
+	name=Villac
+	dynasty=1009990206
+	dna="dlmfdmeeglo"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	father=1019923847	#Usca
+	1128.1.15={ birth=yes }
+	1192.9.11={ death=yes }
+}
+1019923855={
+	name=China
+	female=yes
+	dynasty=1009990206
+	dna="mnmenmjpkle"
+	culture=miskito religion=miskito_pagan
+	father=1019923847	#Usca
+	1134.6.8={ birth=yes }
+	1208.10.17={ death=yes }
+}
+1019923856={
+	name=Maiara
+	female=yes
+	dynasty=1009990206
+	dna="okhfakbnoio"
+	culture=miskito religion=miskito_pagan
+	father=1019923847	#Usca
+	1140.11.9={ birth=yes }
+	1218.7.28={ death=yes }
+}
+1019923857={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990206
+	dna="fndihkbnbgb"
+	culture=miskito religion=miskito_pagan
+	father=1019923847	#Usca
+	1144.9.4={ birth=yes }
+	1215.12.23={ death=yes }
+}
+1019923858={
+	name=Maiara
+	female=yes
+	dynasty=1009990206
+	dna="jkmlmpaijko"
+	culture=miskito religion=miskito_pagan
+	father=1019923847	#Usca
+	1147.9.2={ birth=yes }
+	1225.12.2={ death=yes }
+}
+1019923859={
+	name=Cuyuchi
+	dynasty=1009990206
+	dna="cllfdmajflo"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	father=1019923854	#Villac
+	1149.5.5={ birth=yes }
+	1228.9.26={ death=yes }
+}
+1019923860={
+	name=Pascac
+	dynasty=1009990206
+	dna="clmfdejeano"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=5
+	father=1019923854	#Villac
+	1154.1.7={ birth=yes }
+	1237.3.1={ death=yes }
+}
+1019923861={
+	name=Ninan
+	dynasty=1009990206
+	dna="elmgdmiedad"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	father=1019923854	#Villac
+	1158.10.11={ birth=yes }
+	1241.2.18={ death=yes }
+}
+1019923862={
+	name=China
+	female=yes
+	dynasty=1009990206
+	dna="ijmpdoejglo"
+	culture=miskito religion=miskito_pagan
+	father=1019923854	#Villac
+	1162.7.10={ birth=yes }
+	1262.8.7={ death=yes }
+}
+1019923863={
+	name=Umu
+	dynasty=1009990206
+	dna="dcdadmaobgo"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	father=1019923859	#Cuyuchi
+	1177.1.17={ birth=yes }
+	1246.7.28={ death=yes }
+}
+1019923864={
+	name=Mayta
+	dynasty=1009990206
+	dna="iocojbajkie"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=6
+	father=1019923859	#Cuyuchi
+	1182.3.15={ birth=yes }
+	1248.1.3={ death=yes }
+}
+1019923865={
+	name=Kantuta
+	female=yes
+	dynasty=1009990206
+	dna="eililpakelj"
+	culture=miskito religion=miskito_pagan
+	father=1019923859	#Cuyuchi
+	1187.4.21={ birth=yes }
+	1270.5.29={ death=yes }
+}
+1019923866={
+	name=Ana
+	female=yes
+	dynasty=1009990206
+	dna="aobfdechfjo"
+	culture=miskito religion=miskito_pagan
+	father=1019923859	#Cuyuchi
+	1190.8.22={ birth=yes }
+	1257.6.4={ death=yes }
+}
+1019923867={
+	name=Maiara
+	female=yes
+	dynasty=1009990206
+	dna="jnakdmkoecg"
+	culture=miskito religion=miskito_pagan
+	father=1019923863	#Umu
+	1207.3.8={ birth=yes }
+	1285.4.3={ death=yes }
+}
+1019923868={
+	name=Orco
+	dynasty=1009990206
+	dna="podalllfbho"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=6 learning=4
+	father=1019923863	#Umu
+	1213.2.17={ birth=yes }
+	1295.12.14={ death=yes }
+}
+1019923869={
+	name=Nina
+	female=yes
+	dynasty=1009990206
+	dna="djagdgaodho"
+	culture=miskito religion=miskito_pagan
+	father=1019923863	#Umu
+	1217.3.27={ birth=yes }
+	1278.7.2={ death=yes }
+}
+1019923870={
+	name=Huachuri
+	dynasty=1009990206
+	dna="oiekomaedho"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	father=1019923863	#Umu
+	1222.8.10={ birth=yes }
+	1270.5.1={ death=yes }
+}
+1019923871={
+	name=Yupanqui
+	dynasty=1009990206
+	dna="bfdomncobgg"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	father=1019923863	#Umu
+	1229.5.25={ birth=yes }
+	1270.11.15={ death=yes }
+}
+1019923872={
+	name=Sahuaraura
+	dynasty=1009990206
+	dna="dgdmdmkiilg"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=7 learning=4
+	father=1019923863	#Umu
+	1235.5.12={ birth=yes }
+	1303.8.30={ death=yes }
+}
+1019923873={
+	name=Villac
+	dynasty=1009990206
+	dna="podjlllfgdo"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=7 learning=4
+	father=1019923868	#Orco
+	1236.5.11={ birth=yes }
+	1301.4.21={ death=yes }
+}
+1019923874={
+	name=Pascac
+	dynasty=1009990206
+	dna="ppdielefbbj"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=8 learning=5
+	father=1019923868	#Orco
+	1238.10.16={ birth=yes }
+	1301.4.19={ death=yes }
+}
+1019923875={
+	name=Maiara
+	female=yes
+	dynasty=1009990206
+	dna="podalbhfbef"
+	culture=miskito religion=miskito_pagan
+	father=1019923868	#Orco
+	1243.3.6={ birth=yes }
+	1309.12.18={ death=yes }
+}
+1019923876={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990206
+	dna="phdblflfcjd"
+	culture=miskito religion=miskito_pagan
+	father=1019923873	#Villac
+	1265.5.15={ birth=yes }
+	1336.9.20={ death=yes }
+}
+1019923877={
+	name=Chia
+	female=yes
+	dynasty=1009990206
+	dna="pkijlbpjfdm"
+	culture=miskito religion=miskito_pagan
+	father=1019923873	#Villac
+	1269.1.10={ birth=yes }
+	1352.5.11={ death=yes }
+}
+1019923878={
+	name=Topa
+	dynasty=1009990206
+	dna="poohjlbfgdo"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=7 learning=8
+	father=1019923873	#Villac
+	1275.7.16={ birth=yes }
+	1346.9.1={ death=yes }
+}
+1019923879={
+	name=Axomamma
+	female=yes
+	dynasty=1009990206
+	dna="pjdhmiifmdo"
+	culture=miskito religion=miskito_pagan
+	father=1019923873	#Villac
+	1281.4.9={ birth=yes }
+	1357.12.10={ death=yes }
+}
+1019923880={
+	name=Cavillaca
+	female=yes
+	dynasty=1009990206
+	dna="podhlaofbfd"
+	culture=miskito religion=miskito_pagan
+	father=1019923873	#Villac
+	1284.2.23={ birth=yes }
+	1385.11.23={ death=yes }
+}
+1019923881={
+	name=Huaypalcon
+	dynasty=1009990206
+	dna="aiiildlfgcj"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=7 learning=6
+	father=1019923873	#Villac
+	1290.12.27={ birth=yes }
+	1377.10.29={ death=yes }
+}
+1019923882={
+	name=Ruminavi
+	dynasty=1009990206
+	dna="moohhlbfgdo"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=6 learning=7
+	father=1019923878	#Topa
+	1301.2.11={ birth=yes }
+	1386.3.13={ death=yes }
+}
+1019923883={
+	name=Kantuta
+	female=yes
+	dynasty=1009990206
+	dna="pmmhjlnbglo"
+	culture=miskito religion=miskito_pagan
+	father=1019923878	#Topa
+	1305.9.23={ birth=yes }
+	1383.5.15={ death=yes }
+}
+1019923884={
+	name=Anquimarca
+	dynasty=1009990206
+	dna="pcbljdbdgdd"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=7 learning=4
+	father=1019923878	#Topa
+	1308.9.5={ birth=yes }
+	1372.12.22={ death=yes }
+}
+1019923885={
+	name=Varanca
+	dynasty=1009990206
+	dna="goahkeofgbo"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	father=1019923878	#Topa
+	1312.5.6={ birth=yes }
+	1374.3.23={ death=yes }
+}
+1019923886={
+	name=Ana
+	female=yes
+	dynasty=1009990206
+	dna="dlahcmbfgdo"
+	culture=miskito religion=miskito_pagan
+	father=1019923878	#Topa
+	1316.3.17={ birth=yes }
+	1387.7.4={ death=yes }
+}
+1019923887={
+	name=Pumi
+	dynasty=1009990206
+	dna="agichgbihgo"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=6 learning=4
+	father=1019923882	#Ruminavi
+	1321.11.27={ birth=yes }
+	1379.9.27={ death=yes }
+}
+1019923888={
+	name=Anquimarca
+	dynasty=1009990206
+	dna="aekhhlbfgjc"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=5
+	father=1019923882	#Ruminavi
+	1327.4.14={ birth=yes }
+	1401.11.18={ death=yes }
+}
+1019923889={
+	name=Sopa
+	dynasty=1009990206
+	dna="majebnbmhdh"
+	culture=miskito religion=miskito_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=5
+	father=1019923882	#Ruminavi
+	1334.12.27={ birth=yes }
+	1420.1.20={ death=yes }
+}
+1019923890={
+	name=Mayta
+	dynasty=1009990206
+	dna="fgichcfhhfm"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=6 stewardship=8 intrigue=8 learning=4
+	father=1019923887	#Pumi
+	1350.11.21={ birth=yes }
+	1429.12.7={ death=yes }
+}
+1019923891={
+	name=Huaypalcon
+	dynasty=1009990206
+	dna="agnldggiego"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=5 learning=7
+	father=1019923887	#Pumi
+	1357.1.9={ birth=yes }
+	1415.6.17={ death=yes }
+}
+1019923892={
+	name=Sahuaraura
+	dynasty=1009990206
+	dna="ogljhnbihgo"
+	culture=miskito religion=miskito_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=8 learning=8
+	father=1019923887	#Pumi
+	1361.12.22={ birth=yes }
+	1397.8.8={ death=yes }
+}
+1019923893={
+	name=Nina
+	female=yes
+	dynasty=1009990206
+	dna="anicflbinlo"
+	culture=miskito religion=miskito_pagan
+	father=1019923887	#Pumi
+	1366.2.23={ birth=yes }
+	1446.2.28={ death=yes }
+}
+1019923894={
+	name=Luyes
+	dynasty=1009990206
+	dna="fgocncifphm"
+	culture=miskito religion=miskito_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=5
+	father=1019923890	#Mayta
+	1381.8.2={ birth=yes }
+	1436.9.15={ death=yes }
+}
+1019923895={
+	name=Huaypalcon
+	dynasty=1009990206
+	dna="dbmgkcfhiam"
+	culture=miskito religion=miskito_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=8 learning=7
+	father=1019923890	#Mayta
+	1388.9.20={ birth=yes }
+	1444.10.20={ death=yes }
+}
+1019923896={
+	name=Pascac
+	dynasty=1009990206
+	dna="fgfchcfhhfm"
+	culture=miskito religion=miskito_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=4 learning=5
+	father=1019923890	#Mayta
+	1394.4.12={ birth=yes }
+	1468.8.21={ death=yes }
+}
+1019923897={
+	name=Nina
+	female=yes
+	dynasty=1009990206
+	dna="ogcckpfhhfm"
+	culture=miskito religion=miskito_pagan
+	father=1019923890	#Mayta
+	1399.3.22={ birth=yes }
+	1485.11.23={ death=yes }
+}

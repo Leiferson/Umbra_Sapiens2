@@ -1,0 +1,134 @@
+769.1.1 = {
+	liege = "d_spoleto"
+	holder = 259016
+}
+867.1.1 = {
+	holder = 259017
+}
+905.1.1 = {
+	holder = 260616
+}
+1066.1.1 = {
+	holder = 259018
+	liege = "e_hre"
+}
+1095.1.1 = {
+	holder = 259019
+}
+1137.1.1 = {
+	liege = k_papal_state
+	holder = 259021
+}
+1149.1.1 = {
+	liege = "e_hre"
+}
+1197.1.1 = {
+	holder = 259020
+}
+1219.1.1 = {
+	holder = 259015
+}
+1248.1.1 = {
+	holder = 73595
+	liege = k_papal_state
+}
+1312.1.1 = {
+	holder = 73586	
+}
+1316.1.1 = {
+	holder = 73597
+}
+1326.4.6 = {
+	holder = 73591	#Ferrantino Malatesta
+}
+1330.1.1={
+	holder = 73600	#Malatesta III Malatesta
+}
+1364.8.27={
+	holder = 73602	#Galeotto Malatesta, detto Malatesta Ungaro
+}
+1372.7.17={
+	holder = 73603	#Galeotto I Malatesta
+}
+1385.1.21={
+	holder = 372487	#Carlo I Malatesta
+}
+1429.9.14={
+	holder = 377557	#Galeotto Roberto Malatesta
+}
+1432.10.10={
+	holder = 377558	#Sigismondo Pandolfo Malatesta
+}
+1468.10.9={
+	holder = 377566	#Roberto Malatesta
+}
+1482.9.10={
+	holder = 377577	#Pandolfo IV Malatesta
+}
+1500.1.1={
+liege=0
+holder=377777	#Agostino Barbarigo
+}
+1501.9.20 = {
+holder=377779	#Leonardo Loredan
+}
+1509.5.14={
+	holder=375469 #Julius II
+}
+1513.2.21={
+	holder=371512 #Leo X
+}
+1521.12.1={
+	holder=378788 #Adrian VI
+}
+1523.9.14={
+	holder=371506 #Clement VII
+}
+1534.10.25={
+	holder=375757 #Paul III
+}
+1549.11.10={
+	holder=378789 #Julius III
+}
+1555.3.29={
+	holder=378791 #Marcellus II
+}
+1555.5.1={
+	holder=378859 #Paul IV
+}
+1559.8.18={
+	holder=378810 #Pius IV
+}
+1565.12.9={
+	holder=378838 #Pius V
+}
+1572.5.1={
+	holder=378839 #Gregory XIII
+}
+1585.4.10={
+	holder=378840 #Sixtus V
+}
+1590.8.27={
+	holder=378841 #Urban VII
+}
+1590.9.27={
+	holder=378843 #Gregory XIV
+}
+1591.10.16={
+	holder=378847 #Innocent IX
+}
+1591.12.30={
+	holder=378848 #Clement VIII
+}
+1605.3.3={
+	holder=371484 #Leo XI
+}
+1605.4.27={
+	holder=378849 #Paul V
+}
+1621.1.28={
+	holder=378850 #Gregory XV
+}
+1623.7.8={
+	holder=378851 #Urban VIII
+}

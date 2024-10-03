@@ -1,0 +1,14 @@
+# County Title
+title = c_vila_bela
+
+# Settlements
+max_settlements = 3
+b_vila_bela = tribal
+#b_vila_bela-ii = tribal
+
+# Misc
+culture = guarani
+religion = amazonian_pagan
+
+# History
+terrain = steppe

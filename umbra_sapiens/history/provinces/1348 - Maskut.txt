@@ -1,0 +1,20 @@
+# 1581 - Maskut
+
+# County Title
+title = c_maskut
+
+# Settlements
+max_settlements = 3
+b_quba = castle
+b_shabran = city
+b_hil = temple
+
+# Misc
+culture = dagestani
+religion = miaphysite
+terrain = hills
+
+# History
+800.1.1 = { religion = sunni }
+1200.1.1 = { culture = persian }
+1359.1.1 = { religion = shiite }

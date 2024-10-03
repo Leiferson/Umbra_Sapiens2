@@ -1,0 +1,26 @@
+spriteTypes = {
+spriteType = {
+  name = "GFX_icon_japanese_feudalism"
+  texturefile = "gfx\\interface\\government_icon_japanese_feudalism.dds"
+}
+spriteType = {
+  name = "GFX_icon_mandala_government"
+  texturefile = "gfx\\interface\\government_icon_mandala.dds"
+}
+spriteType = {
+  name = "GFX_icon_japanese_imperial_government"
+  texturefile = "gfx\\interface\\government_icon_japanese_imperial_government.dds"
+}
+spriteType = {
+  name = "GFX_icon_warlord_government"
+  texturefile = "gfx\\interface\\government_icon_warlord_government.dds"
+}
+spriteType = {
+  name = "GFX_icon_primitive_government"
+  texturefile = "gfx\\interface\\government_icon_primitive_government.dds"
+}
+spriteType = {
+  name = "GFX_icon_korean_imperial_government"
+  texturefile = "gfx\\interface\\government_icon_korean_imperial_government.dds"
+}
+}

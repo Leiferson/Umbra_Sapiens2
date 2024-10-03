@@ -1,0 +1,648 @@
+namespace = briishevents
+#Bri'ish colonies
+narrative_event = {
+	id = briishevents.1
+	title = EVTNAMEbriishevents.1
+	desc = EVTDESCbriisheventsR.1
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1607
+		NOT = { has_global_flag = briish_jamestown }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_chesapeake = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.1
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_chesapeake
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_jamestown
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.2
+	title = EVTNAMEbriishevents.2
+	desc = EVTDESCbriisheventsR.2
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1620
+		NOT = { has_global_flag = briish_plymouth }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_wampanoag = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.2
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_wampanoag
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = baptist
+		}
+		set_global_flag = briish_plymouth
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.3
+	title = EVTNAMEbriishevents.3
+	desc = EVTDESCbriisheventsR.3
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1634
+		NOT = { has_global_flag = briish_maryland }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_naticoke = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.3
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_naticoke
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = catholic
+		}
+		set_global_flag = briish_maryland
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.4
+	title = EVTNAMEbriishevents.4
+	desc = EVTDESCbriisheventsR.4
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1636
+		NOT = { has_global_flag = briish_rhode }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_narraganset = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.4
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_narraganset
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_rhode
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.5
+	title = EVTNAMEbriishevents.5
+	desc = EVTDESCbriisheventsR.5
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1639
+		NOT = { has_global_flag = briish_connecticut }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_connecticut = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.5
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_connecticut
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		religion = reformed
+		}
+		set_global_flag = briish_connecticut
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.6
+	title = EVTNAMEbriishevents.6
+	desc = EVTDESCbriisheventsR.6
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1624
+		NOT = { has_global_flag = briish_kitts }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_st_kitts = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.6
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_st_kitts
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_kitts
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.7
+	title = EVTNAMEbriishevents.7
+	desc = EVTDESCbriisheventsR.7
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1627
+		NOT = { has_global_flag = briish_barbados }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_barbados = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.7
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_barbados
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_barbados
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.8
+	title = EVTNAMEbriishevents.8
+	desc = EVTDESCbriisheventsR.8
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1632
+		NOT = { has_global_flag = briish_montserrat }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_montserrat = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.8
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_montserrat
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_montserrat
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.9
+	title = EVTNAMEbriishevents.9
+	desc = EVTDESCbriisheventsR.9
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1632
+		NOT = { has_global_flag = briish_carolina }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		d_carolina = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.9
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_carolina
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_carolina
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.10
+	title = EVTNAMEbriishevents.10
+	desc = EVTDESCbriisheventsR.10
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1650
+		NOT = { has_global_flag = briish_anguilla }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_anguilla = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.10
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_anguilla
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_anguilla
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.11
+	title = EVTNAMEbriishevents.11
+	desc = EVTDESCbriisheventsR.11
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1632
+		NOT = { has_global_flag = briish_antigua }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_antigua = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.11
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_antigua
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_antigua
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.12
+	title = EVTNAMEbriishevents.12
+	desc = EVTDESCbriisheventsR.12
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1612
+		NOT = { has_global_flag = briish_bermuda }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_bermuda = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.12
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_bermuda
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_bermuda
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.13
+	title = EVTNAMEbriishevents.13
+	desc = EVTDESCbriisheventsR.13
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1657
+		NOT = { has_global_flag = briish_helena }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_st_helena = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.13
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_st_helena
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_helena
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.14
+	title = EVTNAMEbriishevents.14
+	desc = EVTDESCbriisheventsR.14
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1657
+		NOT = { has_global_flag = briish_madras }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_kanchipuram = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.14
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_kanchipuram
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_madras
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.15
+	title = EVTNAMEbriishevents.15
+	desc = EVTDESCbriisheventsR.15
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1657
+		NOT = { has_global_flag = briish_kolkata }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_qalqut = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.15
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_qalqut
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_kolkata
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.16
+	title = EVTNAMEbriishevents.16
+	desc = EVTDESCbriisheventsR.16
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1788
+		NOT = { has_global_flag = briish_stralia }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_sydney = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.16
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_sydney
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_stralia
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.17
+	title = EVTNAMEbriishevents.17
+	desc = EVTDESCbriisheventsR.17
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1840
+		NOT = { has_global_flag = briish_new_zealand }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		k_new_zealand = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.17
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = k_new_zealand
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = briish_new_zealand
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = briishevents.18
+	title = EVTNAMEbriishevents.18
+	desc = EVTDESCbriisheventsR.18
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1610
+		NOT = { has_global_flag = briish_new_foundland }
+		OR = {
+		has_landed_title = k_england
+		has_landed_title = e_britannia
+		has_landed_title = e_great_britain
+		has_landed_title = e_union_jack
+		}
+		religion_group = christian
+		
+		c_wabana = {
+		owner = { NOT = { religion_group = christian }}
+			}
+	}
+	option = {
+		name = EVTOPTAbriishevents.18
+		c_wabana = {
+		gain_title = FROM
+		}
+		set_global_flag = briish_new_foundland
+		prestige = 100
+	}
+}

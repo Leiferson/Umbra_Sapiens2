@@ -1,0 +1,17 @@
+# County Title
+title = c_bogota
+
+# Settlements
+max_settlements = 7
+b_bogota = castle
+b_bogota-ii = temple
+b_bogota-iii = city
+b_bogota-iv = castle
+#b_bogota-v = temple
+#b_bogota-vi = city
+#b_bogota-vii = castle
+# Misc
+culture = muisca
+religion = muisca_pagan
+
+# History

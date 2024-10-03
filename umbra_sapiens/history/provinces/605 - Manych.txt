@@ -1,0 +1,20 @@
+# 605 - Manych
+
+# County Title
+title = c_manych
+
+# Settlements
+max_settlements = 3
+b_kasbulat = tribal
+
+#b_soltan = city
+#b_navruz = temple
+
+culture = khazar
+religion = tengri_pagan
+
+# History
+
+1227.1.1 = { religion = sunni } 
+
+1238.1.1 = { culture = mongol }

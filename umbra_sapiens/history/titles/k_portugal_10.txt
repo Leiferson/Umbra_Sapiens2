@@ -1,0 +1,39 @@
+20.1.1={
+	active = no
+	pentarch = b_roma
+}
+1616.1.1={
+	active = yes
+	de_jure_liege=e_portugal_10
+	holder=379615	#Miguel de Castro, arzobispo de Lisboa
+	liege=e_espana_burgona
+	vice_royalty=yes
+}
+1619.1.1={
+	holder=379666	#Diego de Silva y Mendoza
+}
+1621.1.1={
+	holder=379667	#Martim Afonso Mexia, obispo de Coímbra
+}
+1623.8.30={
+	holder=379668	#Diogo de Castro, conde de Basto
+}
+1631.1.1={
+	holder=379671	#António de Ataíde, conde de Castanheira
+}
+1632.1.1={
+	holder=379672	#Nuno de Mendonça, conde de Vale de Reis
+}
+1633.1.1={
+	holder=379673	#João Manuel de Ataíde, arzobispo de Lisbona
+}
+1633.7.4={
+	holder=379668	#Diogo de Castro, conde de Basto
+}
+1634.1.1={
+	holder=375629	#Margarita de Saboya
+}
+1640.12.1={
+	holder=0
+	active = no
+}

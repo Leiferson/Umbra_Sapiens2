@@ -1,0 +1,294 @@
+#Netulamela Dynasty (Placeholders) of Tulamela
+
+1000900001 = {
+	name="Ntshendedzeni"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000900002 = {
+	name="Dowe"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900001
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000900003 = {
+	name="Lutendo"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900002
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000900004 = {
+	name="Nkhangweleni"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900003
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000900005 = {
+	name="Nnyaweleni"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900004
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000900006 = {
+	name="Khathu"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900005
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000900007 = {
+	name="Phathutshedzo"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900006
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000900008 = {
+	name="Azwimmbahvi"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900007
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000900009 = {
+	name="Nnyaweleni"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900008
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000900010 = {
+	name="Avhapfani"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900009
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000900011 = {
+	name="Thinawanga"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900010
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000900012 = {
+	name="Phathu"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900011
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000900013 = {
+	name="Khuliso"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900012
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000900014 = {
+	name="Dowe"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900013
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000900015 = {
+	name="Dali"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900014
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000900016 = {
+	name="Ntshengedzeni"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900015
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000900017 = {
+	name="Lindelani"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900016
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000900018 = {
+	name="Tungu"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900017
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000900019 = {
+	name="Arehone"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900018
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000900020 = {
+	name="Azwinaki"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900019
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000900021 = {
+	name="Funi"
+	dynasty=1000999001 #Netulamela
+	religion="west_african_pagan"
+	culture="venda_bonga"
+	father=1000900020
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

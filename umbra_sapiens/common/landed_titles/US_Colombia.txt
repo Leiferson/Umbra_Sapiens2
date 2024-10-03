@@ -1,0 +1,1144 @@
+e_colombia = {
+
+	color={ 236 142 81 }
+	color2={ 220 220 220 }
+	allow={
+	is_colonial = no
+	}
+	capital = 3907 # Bogota
+	k_honduras = {
+
+		color={ 88 221 51 }
+		color2={ 220 220 220 }
+
+		capital = 3848 # Honduras
+
+		d_honduras = {
+
+			color={ 99 224 10 }
+			color2={ 220 220 220 }
+			
+			capital = 3848 # Honduras
+			
+			c_honduras = {
+
+				color={ 85 159 199 }
+				color2={ 220 220 220 }
+				holy_site=muisca_pagan
+				holy_site=muisca_pagan_reformed
+				holy_site=miskito_pagan
+				holy_site=miskito_pagan_reformed
+				b_honduras = {
+				}
+				b_honduras-ii = {
+				}
+				b_honduras-iii = {
+				}
+				b_honduras-iv = {
+				}
+				b_honduras-v = {
+				}
+			}
+			c_olancho = {
+
+				color={ 15 94 29 }
+				color2={ 220 220 220 }
+				
+				b_olancho = {
+				}
+				b_olancho-ii = {
+				}
+				b_olancho-iii = {
+				}
+			}
+			c_lenca = {
+
+				color={ 165 117 101 }
+				color2={ 220 220 220 }
+				holy_site=miskito_pagan
+				holy_site=miskito_pagan_reformed
+				b_lenca = {
+				}
+				b_lenca-ii = {
+				}
+				b_lenca-iii = {
+				}
+			}
+		}
+		d_nicaragua = {
+
+			color={ 197 13 24 }
+			color2={ 220 220 220 }
+
+			capital = 3853 # Nicaragua
+			
+			c_nicaragua = {
+
+				color={ 145 29 167 }
+				color2={ 220 220 220 }
+				
+				b_nicaragua = {
+				}
+				b_nicaragua-ii = {
+				}
+				b_nicaragua-iii = {
+				}
+				b_nicaragua-iv = {
+				}
+			}
+			c_uluas = {
+
+				color={ 11 37 72 }
+				color2={ 220 220 220 }
+				
+				b_uluas = {
+				}
+				b_uluas-ii = {
+				}
+				b_uluas-iii = {
+				}
+			}
+			c_mosquito = {
+
+				color={ 45 14 129 }
+				color2={ 220 220 220 }
+				
+				b_mosquito = {
+				}
+				b_mosquito-ii = {
+				}
+				b_mosquito-iii = {
+				}
+			}
+			c_ulva = {
+
+				color={ 235 51 36 }
+				color2={ 220 220 220 }
+				
+				b_ulva = {
+				}
+				b_ulva-ii = {
+				}
+				b_ulva-iii = {
+				}
+			}
+			c_managua = {
+
+				color={ 198 15 135 }
+				color2={ 220 220 220 }
+				
+				b_managua = {
+				}
+				b_managua-ii = {
+				}
+				b_managua-iii = {
+				}
+			}
+
+		}
+		d_costa_rica = {
+
+			color={ 98 98 172 }
+			color2={ 220 220 220 }
+			
+			capital = 3858 # Chorotega
+			
+			c_chorotega = {
+
+				color={ 45 67 91 }
+				color2={ 220 220 220 }	
+	
+				b_chorotega  = {
+				}
+				b_chorotega-ii = {
+				}
+				b_chorotega-iii = {
+				}
+				b_chorotega-iv = {
+				}
+			}
+			c_talamanca = {
+
+				color={ 5 58 79 }
+				color2={ 220 220 220 }
+				
+				b_talamanca = {
+				}
+				b_talamanca-ii = {
+				}
+				b_talamanca-iii = {
+				}
+			}
+			c_nicoya = {
+
+				color={ 165 124 101 }
+				color2={ 220 220 220 }
+				
+				b_nicoya = {
+				}
+				b_nicoya-ii = {
+				}
+				b_nicoya-iii = {
+				}
+			}
+		}
+		d_panama = {
+
+			color={ 175 29 185 }
+			color2={ 220 220 220 }
+			
+			capital = 3839 # Dominica
+			
+			c_panama = {
+
+				color={ 95 17 77 }
+				color2={ 220 220 220 }
+				
+				b_panama = {
+				}
+				b_panama-ii = {
+				}
+				b_panama-iii = {
+				}
+				b_panama-iv = {
+				}
+			}
+			c_guaymi = {
+
+				color={ 96 123 47 }
+				color2={ 220 220 220 }
+				
+				b_guaymi = {
+				}
+				b_guaymi-ii = {
+				}
+				b_guaymi-iii = {
+				}
+			}
+			c_veraguas = {
+
+				color={ 94 128 198 }
+				color2={ 220 220 220 }
+				
+				b_veraguas = {
+				}
+				b_veraguas-ii = {
+			              }
+				b_veraguas-iii = {
+				}
+			}
+			c_darien = {
+
+				color={ 125 14 146 }
+				color2={ 220 220 220 }
+				
+				b_darien = {
+				}
+				b_darien-ii = {
+				}
+				b_darien-iii = {
+				}
+			}
+		}
+              }
+	k_colombia = {
+
+		color={ 204 140 113 }
+		color2={ 220 220 220 }
+
+		capital = 3907 # Bogota
+		d_iquitos = {
+
+			color={ 32 88 44 }
+			color2={ 220 220 220 }
+			
+			capital = 4102 # Iquitos
+			
+			c_iquitos = {
+
+				color={ 44 134 9 }
+				color2={ 220 220 220 }
+				
+				b_iquitos = {
+				}
+				b_iquitos-ii = {
+				}
+				b_iquitos-iii = {
+				}
+				b_iquitos-iv = {
+				}
+				b_iquitos-v = {
+				}
+				b_iquitos-vi = {
+				}
+			}
+			c_tarapoto = {
+
+				color={ 122 133 93 }
+				color2={ 220 220 220 }
+				
+				b_tarapoto = {
+				}
+				b_tarapoto-ii = {
+				}
+				b_tarapoto-iii = {
+				}
+				b_tarapoto-iv = {
+				}
+				b_tarapoto-v = {
+				}
+				b_tarapoto-vi = {
+				}
+			}
+			c_javari = {
+
+				color={ 16 145 34 }
+				color2={ 220 220 220 }
+				
+				b_javari = {
+				}
+				b_javari-ii = {
+				}
+				b_javari-iii = {
+				}
+				b_javari-iv = {
+				}
+				b_javari-v = {
+				}
+				b_javari-vi = {
+				}
+			}
+			c_purallpa = {
+
+				color={ 36 35 199 }
+				color2={ 220 220 220 }
+				
+				b_purallpa = {
+				}
+				b_purallpa-ii = {
+				}
+				b_purallpa-iii = {
+				}
+				b_purallpa-iv = {
+				}
+				b_purallpa-v = {
+				}
+				b_purallpa-vi = {
+				}
+			}
+		}
+		d_bogota = {
+
+			color={ 75 214 31 }
+			color2={ 220 220 220 }
+			
+			capital = 3907 # Bogota
+			
+			c_bogota = {
+
+				color={ 75 94 119 }
+				color2={ 220 220 220 }
+				holy_site=chachapoyan_pagan
+				holy_site=chachapoyan_pagan_reformed
+				holy_site=miskito_pagan
+				holy_site=miskito_pagan_reformed
+				holy_site=south_american
+				holy_site=south_american_reformed
+				holy_site=amazonian_pagan
+				holy_site=amazonian_pagan_reformed
+				holy_site=caribic_pagan
+				holy_site=caribic_pagan_reformed
+				holy_site=muisca_pagan
+				holy_site=muisca_pagan_reformed
+				holy_site=mayan
+				holy_site=mayan_reformed
+				holy_site=chimuan_pagan
+				holy_site=chimuan_pagan_reformed
+				holy_site=chavin_pagan
+				holy_site=chavin_pagan_reformed
+				holy_site=tiwanakan_pagan
+				holy_site=tiwanakan_pagan_reformed
+				holy_site=caran_pagan
+				holy_site=caran_pagan_reformed
+				b_bogota = {
+				}
+				b_bogota-ii = {
+				}
+				b_bogota-iii = {
+				}
+				b_bogota-iv = {
+				}
+				b_bogota-v = {
+				}
+				b_bogota-vi = {
+				}
+				b_bogota-vii = {
+				}
+			}
+			c_tunja = {
+
+				color={ 25 14 59 }
+				color2={ 220 220 220 }
+				
+				b_tunja = {
+				}
+				b_tunja-ii = {
+				}
+				b_tunja-iii = {
+				}
+			}
+			c_moniquira = {
+
+				color={ 165 187 113 }
+				color2={ 220 220 220 }
+				
+				b_moniquira = {
+				}
+				b_moniquira-ii = {
+				}
+				b_moniquira-iii = {
+				}
+			}
+			c_motilones = {
+
+				color={ 15 194 28 }
+				color2={ 220 220 220 }
+				
+				b_motilones = {
+				}
+				b_motilones-ii = {
+				}
+				b_motilones-iii = {
+				}
+			}
+
+		}
+		d_popayan = {
+
+			color={ 127 63 52 }
+			color2={ 220 220 220 }
+
+			capital = 3866 # Popayan
+			
+			c_popayan = {
+
+				color={ 75 29 135 }
+				color2={ 220 220 220 }
+				
+				b_popayan = {
+				}
+				b_popayan-ii = {
+				}
+				b_popayan-iii = {
+				}
+				b_popayan-iv = {
+				}
+			}
+			c_pastos = {
+
+				color={ 25 154 59 }
+				color2={ 220 220 220 }
+				
+				b_pastos = {
+				}
+				b_pastos-ii = {
+				}
+				b_pastos-iii = {
+				}
+			}
+			c_cauca = {
+
+				color={ 41 77 9 }
+				color2={ 220 220 220 }
+				
+				b_cauca = {
+				}
+				b_cauca-ii = {
+				}
+				b_cauca-iii = {
+				}
+			}
+			c_choco = {
+
+				color={ 225 54 179 }
+				color2={ 220 220 220 }
+				
+				b_choco = {
+				}
+				b_choco-ii = {
+				}
+				b_choco-iii = {
+				}
+			}
+			c_kuna = {
+
+				color={ 235 141 25 }
+				color2={ 220 220 220 }
+				
+				b_kuna = {
+				}
+				b_kuna-ii = {
+				}
+				b_kuna-iii = {
+				}
+			}
+		}
+		d_coquivacoa = {
+
+			color={ 187 73 221 }
+			color2={ 220 220 220 }
+
+			capital = 3870 # Magdalena
+			
+			c_magdalena = {
+
+				color={ 15 49 165 }
+				color2={ 220 220 220 }
+				holy_site=muisca_pagan
+				holy_site=muisca_pagan_reformed
+				b_magdalena = {
+				}
+				b_magdalena-ii = {
+				}
+				b_magdalena-iii = {
+				}
+				b_magdalena-iv = {
+				}
+			}
+			c_sinu = {
+
+				color={ 55 74 39 }
+				color2={ 220 220 220 }
+				
+				b_sinu = {
+				}
+				b_sinu-ii = {
+				}
+				b_sinu-iii = {
+				}
+			}
+			c_cartagena = {
+
+				color={ 91 47 29 }
+				color2={ 220 220 220 }
+				
+				b_cartagenaa = {
+				}
+				b_cartagena-ii = {
+				}
+				b_cartagena-iii = {
+				}
+			}
+			c_chimila = {
+
+				color={ 215 194 129 }
+				color2={ 220 220 220 }
+				
+				b_chimila = {
+				}
+				b_chimila-ii = {
+				}
+				b_chimila-iii = {
+				}
+			}
+			c_guajira = {
+
+				color={ 35 165 5 }
+				color2={ 220 220 220 }
+				
+				b_guajira = {
+				}
+				b_guajira-ii = {
+				}
+				b_guajira-iii = {
+				}
+			}
+		}
+		d_cordillera = {
+
+			color={ 24 86 181 }
+			color2={ 220 220 220 }
+			
+			capital = 3910 # Mariquita
+			
+			c_mariquita = {
+
+				color={ 65 27 91 }
+				color2={ 220 220 220 }	
+	
+				b_mariquita  = {
+				}
+				b_mariquita-ii = {
+				}
+				b_mariquita-iii = {
+				}
+				b_mariquita-iv = {
+				}
+			}
+			c_neiva = {
+
+				color={ 175 118 179 }
+				color2={ 220 220 220 }
+				
+				b_neiva = {
+				}
+				b_neiva-ii = {
+				}
+				b_neiva-iii = {
+				}
+			}
+			c_pijaos = {
+
+				color={ 195 114 222 }
+				color2={ 220 220 220 }
+				
+				b_pijaos = {
+				}
+				b_pijaos-ii = {
+				}
+				b_pijaos-iii = {
+				}
+			}
+			c_antioquia = {
+
+				color={ 95 64 81 }
+				color2={ 220 220 220 }
+				
+				b_antioquia = {
+				}
+				b_antioquia-ii = {
+				}
+				b_antioquia-iii = {
+				}
+			}
+			c_magangue = {
+
+				color={ 98 134 201 }
+				color2={ 220 220 220 }
+				
+				b_magangue = {
+				}
+				b_magangue-ii = {
+				}
+				b_magangue-iii = {
+				}
+			}
+		}
+		d_caqueta = {
+
+			color={ 64 16 24 }
+			color2={ 220 220 220 }
+			
+			capital = 3914 # Caqueta
+			
+			c_caqueta = {
+
+				color={ 68 97 133 }
+				color2={ 220 220 220 }
+				
+				b_caqueta = {
+				}
+				b_caqueta-ii = {
+				}
+				b_caqueta-iii = {
+				}
+				b_caqueta-iv = {
+				}
+			}
+			c_putumayos = {
+
+				color={ 125 89 143 }
+				color2={ 220 220 220 }
+				
+				b_putumayos = {
+				}
+				b_putumayos-ii = {
+				}
+				b_putumayos-iii = {
+				}
+			}
+			c_leticia = {
+
+				color={ 169 98 129 }
+				color2={ 220 220 220 }
+				
+				b_leticia = {
+				}
+				b_leticia-ii = {
+				}
+				b_leticia-iii = {
+				}
+			}
+			c_guaviare = {
+
+				color={ 199 188 129 }
+				color2={ 220 220 220 }
+				
+				b_guaviare = {
+				}
+				b_guaviare-ii = {
+				}
+				b_guaviare-iii = {
+				}
+			}
+		}
+		d_western_llanos = {
+
+			color={ 134 76 94 }
+			color2={ 220 220 220 }
+			
+			capital = 3902 # Achaguas
+			
+			c_achaguas = {
+
+				color={ 128 47 165 }
+				color2={ 220 220 220 }
+				
+				b_achaguas = {
+				}
+				b_achaguas-ii = {
+				}
+				b_achaguas-iii = {
+				}
+				b_achaguas-iv = {
+				}
+			}
+			c_pore = {
+
+				color={ 115 149 175 }
+				color2={ 220 220 220 }
+				
+				b_pore = {
+				}
+				b_pore-ii = {
+				}
+				b_pore-iii = {
+				}
+			}
+			c_meta = {
+
+				color={ 49 38 89 }
+				color2={ 220 220 220 }
+				
+				b_meta = {
+				}
+				b_meta-ii = {
+				}
+				b_meta-iii = {
+				}
+			}
+			c_puerto_carreno = {
+
+				color={ 199 188 19 }
+				color2={ 220 220 220 }
+				
+				b_puerto_carreno = {
+				}
+				b_puerto_carreno-ii = {
+				}
+				b_puerto_carreno-iii = {
+				}
+			}
+		}
+              }
+
+	k_venezuela = {
+
+		color={ 69 220 216 }
+		color2={ 220 220 220 }
+
+		capital = 3880 # Caracas
+
+		d_venezuela = {
+
+			color={ 145 98 119 }
+			color2={ 220 220 220 }
+			
+			capital = 3880 # Caracas
+			
+			c_caracas = {
+
+				color={ 77 84 141 }
+				color2={ 220 220 220 }
+				holy_site=caribic_pagan
+				holy_site=caribic_pagan_reformed
+				holy_site=muisca_pagan
+				holy_site=muisca_pagan_reformed
+				b_caracas = {
+				}
+				b_caracas-ii = {
+				}
+				b_caracas-iii = {
+				}
+				b_caracas-iv = {
+				}
+				b_caracas-v = {
+				}
+				b_caracas-vi = {
+				}
+			}
+			c_coro = {
+
+				color={ 15 91 56 }
+				color2={ 220 220 220 }
+				
+				b_coro = {
+				}
+				b_coro-ii = {
+				}
+				b_coro-iii = {
+				}
+			}
+			c_tacarigua = {
+
+				color={ 35 169 23 }
+				color2={ 220 220 220 }
+				
+				b_tacarigua = {
+				}
+				b_tacarigua-ii = {
+			              }
+				b_tacarigua-iii = {
+				}
+			}
+			c_anzoategui = {
+
+				color={ 215 184 142 }
+				color2={ 220 220 220 }
+				
+				b_anzoategui = {
+				}
+				b_anzoategui-ii = {
+				}
+				b_anzoategui-iii = {
+				}
+			}
+			c_cumana = {
+
+				color={ 49 194 237 }
+				color2={ 220 220 220 }
+				
+				b_cumana = {
+				}
+				b_cumana-ii = {
+				}
+				b_cumana-iii = {
+				}
+			}
+		}
+		d_maracaibo = {
+
+			color={ 165 142 57 }
+			color2={ 220 220 220 }
+			
+			capital = 3873 # Maracaibo
+			
+			c_maracaibo = {
+
+				color={ 187 17 56 }
+				color2={ 220 220 220 }
+				
+				b_maracaibo = {
+				}
+				b_maracaibo-ii = {
+				}
+				b_maracaibo-iii = {
+				}
+				b_maracaibo-iv = {
+				}
+			}
+			c_yukpa = {
+
+				color={ 195 15 36 }
+				color2={ 220 220 220 }
+				
+				b_yukpa = {
+				}
+				b_yukpa-ii = {
+				}
+				b_yukpa-iii = {
+				}
+			}
+			c_wayuu = {
+
+				color={ 188 154 128 }
+				color2={ 220 220 220 }
+				
+				b_wayuu = {
+				}
+				b_wayuu-ii = {
+			              }
+				b_wayuu-iii = {
+				}
+			}
+			c_altagracia = {
+
+				color={ 118 154 128 }
+				color2={ 220 220 220 }
+				
+				b_altagracia = {
+				}
+				b_altagracia-ii = {
+			              }
+				b_altagracia-iii = {
+				}
+			}
+			c_variquicimento = {
+
+				color={ 198 154 52 }
+				color2={ 220 220 220 }
+				
+				b_variquicimento = {
+				}
+				b_variquicimento-ii = {
+			              }
+				b_variquicimento-iii = {
+				}
+			}
+		}
+		d_eastern_llanos = {
+
+			color={ 115 181 22 }
+			color2={ 220 220 220 }
+			
+			capital = 3894 # Llanos
+			
+			c_llanos = {
+
+				color={ 135 127 46 }
+				color2={ 220 220 220 }
+				
+				b_llanos = {
+				}
+				b_llanos-ii = {
+				}
+				b_llanos-iii = {
+				}
+				b_llanos-iv = {
+				}
+			}
+			c_zaraza = {
+
+				color={ 76 91 119 }
+				color2={ 220 220 220 }
+				
+				b_zaraza = {
+				}
+				b_zaraza-ii = {
+				}
+				b_zaraza-iii = {
+				}
+			}
+			c_guanipa = {
+
+				color={ 11 71 6 }
+				color2={ 220 220 220 }
+				
+				b_guanipa = {
+				}
+				b_guanipa-ii = {
+				}
+				b_guanipa-iii = {
+				}
+			}
+			c_uyapari = {
+
+				color={ 178 121 100 }
+				color2={ 220 220 220 }
+				
+				b_uyapari = {
+				}
+				b_uyapari-ii = {
+			              }
+				b_uyapari-iii = {
+				}
+			}
+		}
+		d_central_llanos = {
+
+			color={ 125 222 177 }
+			color2={ 220 220 220 }
+			
+			capital = 3896 # Barinas
+			
+			c_barinas = {
+
+				color={ 137 27 86 }
+				color2={ 220 220 220 }
+				
+				b_barinas = {
+				}
+				b_barinas-ii = {
+				}
+				b_barinas-iii = {
+				}
+				b_barinas-iv = {
+				}
+			}
+			c_merida = {
+
+				color={ 195 115 36 }
+				color2={ 220 220 220 }
+				
+				b_meridaa = {
+				}
+				b_merida-ii = {
+				}
+				b_merida-iii = {
+				}
+			}
+			c_tuneo = {
+
+				color={ 38 84 108 }
+				color2={ 220 220 220 }
+				
+				b_tuneo = {
+				}
+				b_tuneo-ii = {
+			              }
+				b_tuneo-iii = {
+				}
+			}
+			c_guanaguanare = {
+
+				color={ 98 154 121 }
+				color2={ 220 220 220 }
+				
+				b_guanaguanare = {
+				}
+				b_guanaguanare-ii = {
+			              }
+				b_guanaguanare-iii = {
+				}
+			}
+			c_apure = {
+
+				color={ 198 214 131 }
+				color2={ 220 220 220 }
+				
+				b_apure = {
+				}
+				b_apure-ii = {
+			              }
+				b_apure-iii = {
+				}
+			}
+		}
+		d_upper_guyana = {
+
+			color={ 185 169 120 }
+			color2={ 220 220 220 }
+			
+			capital = 3887 # Guasipati
+			
+			c_guasipati = {
+
+				color={ 125 37 211 }
+				color2={ 220 220 220 }
+				
+				b_guasipati = {
+				}
+				b_guasipati-ii = {
+				}
+				b_guasipati-iii = {
+				}
+				b_guasipati-iv = {
+				}
+			}
+			c_guaju = {
+
+				color={ 96 193 84 }
+				color2={ 220 220 220 }
+				
+				b_guaju = {
+				}
+				b_guaju-ii = {
+				}
+				b_guaju-iii = {
+				}
+			}
+			c_atures = {
+
+				color={ 18 44 101 }
+				color2={ 220 220 220 }
+				
+				b_atures = {
+				}
+				b_atures-ii = {
+			              }
+				b_atures-iii = {
+				}
+			}
+			c_angostura = {
+
+				color={ 14 98 198 }
+				color2={ 220 220 220 }
+				
+				b_angostura = {
+				}
+				b_angostura-ii = {
+			              }
+				b_angostura-iii = {
+				}
+			}
+			c_pirara = {
+
+				color={ 125 74 199 }
+				color2={ 220 220 220 }
+				
+				b_pirara = {
+				}
+				b_pirara-ii = {
+				}
+				b_pirara-iii = {
+				}
+			}
+		}
+		d_guyana = {
+
+			color={ 199 212 59 }
+			color2={ 220 220 220 }
+			
+			capital = 3884 # Essequibo
+			
+			c_essequibo = {
+
+				color={ 142 127 166 }
+				color2={ 220 220 220 }
+				
+				b_essequibo = {
+				}
+				b_essequibo-ii = {
+				}
+				b_essequibo-iii = {
+				}
+				b_essequibo-iv = {
+				}
+			}
+			c_orinoco = {
+
+				color={ 189 194 31 }
+				color2={ 220 220 220 }
+				
+				b_orinoco = {
+				}
+				b_orinoco-ii = {
+				}
+				b_orinoco-iii = {
+				}
+			}
+			c_demerara = {
+
+				color={ 199 34 83 }
+				color2={ 220 220 220 }
+				
+				b_demerara = {
+				}
+				b_demerara-ii = {
+			              }
+				b_demerara-iii = {
+				}
+			}
+		}
+	}
+}

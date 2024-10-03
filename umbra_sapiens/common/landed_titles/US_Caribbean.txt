@@ -1,0 +1,595 @@
+e_caribbean = {
+
+	color={ 27 131 43 }
+	color2={ 220 220 220 }
+	allow={
+	is_colonial = no
+	}
+	capital = 3828 # Barahonas
+
+	k_cuba = {
+
+		color={ 175 64 44 }
+		color2={ 220 220 220 }
+
+		capital = 3811 # Havana
+
+		d_west_cuba = {
+
+			color={ 75 214 31 }
+			color2={ 220 220 220 }
+			
+			capital = 3811 # Havana
+			
+			c_havana = {
+
+				color={ 55 124 189 }
+				color2={ 220 220 220 }
+				
+				b_havana = {
+				}
+				b_havana-ii = {
+				}
+				b_havana-iii = {
+				}
+				b_havana-iv = {
+				}
+				b_havana-v = {
+				}
+			}
+			c_guane = {
+
+				color={ 65 84 99 }
+				color2={ 220 220 220 }
+				
+				b_guane = {
+				}
+				b_guane-ii = {
+				}
+				b_guane-iii = {
+				}
+			}
+			c_canimar = {
+
+				color={ 125 157 133 }
+				color2={ 220 220 220 }
+				
+				b_canimar = {
+				}
+				b_canimar-ii = {
+				}
+				b_canimar-iii = {
+				}
+			}
+			c_escambrey = {
+
+				color={ 25 184 38 }
+				color2={ 220 220 220 }
+				
+				b_escambrey = {
+				}
+				b_escambrey-ii = {
+				}
+				b_escambrey-iii = {
+				}
+			}
+		}
+		d_east_cuba = {
+
+			color={ 167 33 211 }
+			color2={ 220 220 220 }
+
+			capital = 3818 # Guantanamo
+			
+			c_guantanamo = {
+
+				color={ 45 9 195 }
+				color2={ 220 220 220 }
+				
+				b_guantanamo = {
+				}
+				b_guantanamo-ii = {
+				}
+				b_guantanamo-iii = {
+				}
+				b_guantanamo-iv = {
+				}
+			}
+			c_moron = {
+
+				color={ 81 57 9 }
+				color2={ 220 220 220 }
+				holy_site=caribic_pagan
+				holy_site=caribic_pagan_reformed
+				holy_site=miskito_pagan
+				holy_site=miskito_pagan_reformed
+				b_moron = {
+				}
+				b_moron-ii = {
+				}
+				b_moron-iii = {
+				}
+			}
+			c_camaguey = {
+
+				color={ 215 124 109 }
+				color2={ 220 220 220 }
+				
+				b_camaguey = {
+				}
+				b_camaguey-ii = {
+				}
+				b_camaguey-iii = {
+				}
+			}
+			c_bayamo = {
+
+				color={ 215 121 15 }
+				color2={ 220 220 220 }
+				
+				b_bayamo = {
+				}
+				b_bayamo-ii = {
+				}
+				b_bayamo-iii = {
+				}
+			}
+			c_baracoa = {
+
+				color={ 188 77 115 }
+				color2={ 220 220 220 }
+				
+				b_baracoa = {
+				}
+				b_baracoa-ii = {
+				}
+				b_baracoa-iii = {
+				}
+			}
+			c_bahamas = {
+
+				color={ 185 49 133 }
+				color2={ 220 220 220 }
+				
+				b_bahamas = {
+				}
+				b_bahamas-ii = {
+				}
+				b_bahamas-iii = {
+				}
+			}
+			c_turks_islands = {
+
+				color={ 129 88 169 }
+				color2={ 220 220 220 }
+				
+				b_turks_islands = {
+				}
+				b_turks_islands-ii = {
+				}
+				b_turks_islands-iii = {
+				}
+			}
+
+		}
+              }
+
+	k_dominica = {
+
+		color={ 195 16 111 }
+		color2={ 220 220 220 }
+
+		capital = 3828 # Barahonas
+		d_haiti = {
+
+			color={ 174 66 154 }
+			color2={ 220 220 220 }
+			
+			capital = 3822 # Yaquimo
+			
+			c_yaquimo = {
+
+				color={ 5 57 181 }
+				color2={ 220 220 220 }	
+	
+				b_yaquimo  = {
+				}
+				b_yaquimo-ii = {
+				}
+				b_yaquimo-iii = {
+				}
+				b_yaquimo-iv = {
+				}
+			}
+			c_tortuga = {
+
+				color={ 75 128 149 }
+				color2={ 220 220 220 }
+				
+				b_tortuga = {
+				}
+				b_tortuga-ii = {
+				}
+				b_tortuga-iii = {
+				}
+			}
+			c_marien = {
+
+				color={ 125 164 211 }
+				color2={ 220 220 220 }
+				
+				b_marien = {
+				}
+				b_marien-ii = {
+				}
+				b_marien-iii = {
+				}
+			}
+			c_les_cayes = {
+
+				color={ 195 94 71 }
+				color2={ 220 220 220 }
+				
+				b_les_cayes = {
+				}
+				b_les_cayes-ii = {
+				}
+				b_les_cayes-iii = {
+				}
+			}
+		}
+		d_jamaica = {
+			color={ 68 54 39 }
+			color2={ 220 220 220 }
+			
+			capital = 3820
+			
+		c_jamaica = {
+
+				color={ 48 34 19 }
+				color2={ 220 220 220 }
+				
+				b_jamaica = {
+				}
+				b_jamaica-ii = {
+				}
+				b_jamaica-iii = {
+				}
+			}
+			
+		c_cayman_islands = {
+
+				color={ 205 114 29 }
+				color2={ 220 220 220 }
+				
+				b_cayman_islands = {
+				}
+				b_cayman_islands-ii = {
+				}
+				b_cayman_islands-iii = {
+				}
+			}
+			}
+		d_dominica = {
+
+			color={ 215 22 133 }
+			color2={ 220 220 220 }
+			
+			capital = 3828 # Barahonas
+			
+			c_barahonas = {
+
+				color={ 167 134 111 }
+				color2={ 220 220 220 }
+				
+				b_barahonas = {
+				}
+				b_barahonas-ii = {
+				}
+				b_barahonas-iii = {
+				}
+				b_barahonas-iv = {
+				}
+				b_barahonas-v = {
+				}
+				b_barahonas-vi = {
+				}
+			}
+			c_maguana = {
+
+				color={ 25 41 86 }
+				color2={ 220 220 220 }
+				holy_site=caribic_pagan
+				holy_site=caribic_pagan_reformed
+				b_maguana = {
+				}
+				b_maguana-ii = {
+				}
+				b_maguana-iii = {
+				}
+			}
+			c_magua = {
+
+				color={ 95 29 53 }
+				color2={ 220 220 220 }
+				
+				b_magua = {
+				}
+				b_magua-ii = {
+			              }
+				b_magua-iii = {
+				}
+			}
+			c_higuey = {
+
+				color={ 225 14 46 }
+				color2={ 220 220 220 }
+				
+				b_higuey = {
+				}
+				b_higuey-ii = {
+				}
+				b_higuey-iii = {
+				}
+			}
+			c_ciguayo = {
+
+				color={ 79 184 227 }
+				color2={ 220 220 220 }
+				
+				b_ciguayo = {
+				}
+				b_ciguayo-ii = {
+				}
+				b_ciguayo-iii = {
+				}
+			}
+		}
+		d_antilles = {
+
+			color={ 15 42 77 }
+			color2={ 220 220 220 }
+			
+			capital = 3830 # Puerto Rico
+			
+			c_puerto_rico = {
+
+				color={ 157 7 76 }
+				color2={ 220 220 220 }
+				
+				b_puerto_rico = {
+				}
+				b_puerto_rico-ii = {
+				}
+				b_puerto_rico-iii = {
+				}
+				b_puerto_rico-iv = {
+				}
+			}
+			c_st_thomas = {
+
+				color={ 125 175 196 }
+				color2={ 220 220 220 }
+				
+				b_st_thomas = {
+				}
+				b_st_thomas-ii = {
+				}
+				b_st_thomas-iii = {
+				}
+			}
+			c_tortola = {
+
+				color={ 158 54 178 }
+				color2={ 220 220 220 }
+				
+				b_tortola = {
+				}
+				b_tortola-ii = {
+			              }
+				b_tortola-iii = {
+				}
+			}
+		}
+		d_leeward = {
+
+			color={ 55 141 12 }
+			color2={ 220 220 220 }
+			
+			capital = 3837 # Montserrat
+			
+			c_montserrat = {
+
+				color={ 235 197 96 }
+				color2={ 220 220 220 }
+				
+				b_montserrat = {
+				}
+				b_montserrat-ii = {
+				}
+				b_montserrat-iii = {
+				}
+				b_montserrat-iv = {
+				}
+			}
+			c_anguilla = {
+
+				color={ 16 31 69 }
+				color2={ 220 220 220 }
+				
+				b_anguilla = {
+				}
+				b_anguilla-ii = {
+				}
+				b_anguilla-iii = {
+				}
+			}
+			c_st_martin = {
+
+				color={ 126 51 86 }
+				color2={ 220 220 220 }
+				
+				b_st_martin = {
+				}
+				b_st_martin-ii = {
+				}
+				b_st_martin-iii = {
+				}
+			}
+			c_st_kitts = {
+
+				color={ 78 131 118 }
+				color2={ 220 220 220 }
+				
+				b_st_kitts = {
+				}
+				b_st_kitts-ii = {
+			              }
+				b_st_kitts-iii = {
+				}
+			}
+			c_antigua = {
+
+				color={ 88 34 181 }
+				color2={ 220 220 220 }
+				
+				b_antigua = {
+				}
+				b_antigua-ii = {
+			              }
+				b_antigua-iii = {
+				}
+			}
+			c_guadeloupe = {
+
+				color={ 99 54 11 }
+				color2={ 220 220 220 }
+				
+				b_guadeloupe = {
+				}
+				b_guadeloupe-ii = {
+			              }
+				b_guadeloupe-iii = {
+				}
+			}
+		}
+		d_windward = {
+
+			color={ 145 69 150 }
+			color2={ 220 220 220 }
+			
+			capital = 3839 # Dominica
+			
+			c_dominica = {
+
+				color={ 165 67 231 }
+				color2={ 220 220 220 }
+				
+				b_dominica = {
+				}
+				b_dominica-ii = {
+				}
+				b_dominica-iii = {
+				}
+				b_dominica-iv = {
+				}
+			}
+			c_martinique = {
+
+				color={ 6 153 24 }
+				color2={ 220 220 220 }
+				
+				b_martinique = {
+				}
+				b_martinique-ii = {
+				}
+				b_martinique-iii = {
+				}
+			}
+			c_st_lucia = {
+
+				color={ 64 88 178 }
+				color2={ 220 220 220 }
+				
+				b_st_lucia = {
+				}
+				b_st_lucia-ii = {
+			              }
+				b_st_lucia-iii = {
+				}
+			}
+			c_st_vincent = {
+
+				color={ 15 34 99 }
+				color2={ 220 220 220 }
+				
+				b_st_vincent = {
+				}
+				b_st_vincent-ii = {
+				}
+				b_st_vincent-iii = {
+				}
+			}
+			c_grenada = {
+
+				color={ 169 94 61 }
+				color2={ 220 220 220 }
+				
+				b_grenada = {
+				}
+				b_grenada-ii = {
+				}
+				b_grenada-iii = {
+				}
+			}
+		}
+		d_south_caribbean = {
+
+			color={ 99 222 144 }
+			color2={ 220 220 220 }
+			
+			capital = 3845 # Trinidad
+			
+			c_trinidad = {
+
+				color={ 182 27 66 }
+				color2={ 220 220 220 }
+				
+				b_trinidad = {
+				}
+				b_trinidad-ii = {
+				}
+				b_trinidad-iii = {
+				}
+				b_trinidad-iv = {
+				}
+			}
+			c_barbados = {
+
+				color={ 36 13 51 }
+				color2={ 220 220 220 }
+				
+				b_barbados = {
+				}
+				b_barbados-ii = {
+				}
+				b_barbados-iii = {
+				}
+			}
+			c_curacao = {
+
+				color={ 198 181 117 }
+				color2={ 220 220 220 }
+				
+				b_curacao = {
+				}
+				b_curacao-ii = {
+			              }
+				b_curacao-iii = {
+				}
+			}
+		}
+	}
+
+	
+}

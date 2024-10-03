@@ -1,0 +1,880 @@
+#Yakut placeholders
+
+1020200000 = {
+	name="Toghtoga"
+	dynasty=1009990064
+	religion="tengri_pagan"
+	culture="evenk"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1020200001 = {
+	name="Chidukhul"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200000
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1020200002 = {
+	name="Jurchedei"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200001
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1020200003 = {
+	name="Morokha"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200002
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1020200004 = {
+	name="Jurchedei"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200003
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1020200005 = {
+	name="Mongke"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200004
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1020200006 = {
+	name="Belgunutei"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200005
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1020200007 = {
+	name="Belgunutei"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200006
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1020200008 = {
+	name="Belgunutei"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200007
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1020200009 = {
+	name="Ajai"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200008
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1020200010 = {
+	name="Belgunutei"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200009
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1020200011 = {
+	name="Aguchu"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200010
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1020200012 = {
+	name="Dagun"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200011
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1020200013 = {
+	name="Jochi"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200012
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1020200014 = {
+	name="Torolchi"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200013
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1020200015 = {
+	name="Khabichi"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200014
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1020200016 = {
+	name="Khabichi"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200015
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1020200017 = {
+	name="Jochi"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200016
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1020200018 = {
+	name="Jebe"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200017
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1020200019 = {
+	name="Jochi"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200018
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1020200020 = {
+	name="Nakhu"
+	dynasty=1009990064 
+	religion="tengri_pagan"
+	culture="evenk"
+	father=1020200019
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+#Even placeholders
+1020200021 = {
+	name="Guyug"
+	dynasty=1009990063
+	religion="tengri_pagan"
+	culture="even"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1020200022 = {
+	name="Guyug"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200021
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1020200023 = {
+	name="Khudu"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200022
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1020200024 = {
+	name="Yesugei"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200023
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1020200025 = {
+	name="Bujeg"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200024
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1020200026 = {
+	name="Bugidai"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200025
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1020200027 = {
+	name="Ghunan"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200026
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1020200028 = {
+	name="Bugidai"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200027
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1020200029 = {
+	name="Bala"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200028
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1020200030 = {
+	name="Duua"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200029
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1020200031 = {
+	name="Duua"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200030
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1020200032 = {
+	name="Altan"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200031
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1020200033 = {
+	name="Bujeg"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200032
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1020200034 = {
+	name="Torolchi"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200033
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1020200035 = {
+	name="Alagh"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200034
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1020200036 = {
+	name="Dayir"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200035
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1020200037 = {
+	name="Jamugha"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200035
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1020200038 = {
+	name="Bugunutei"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200036
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1020200039 = {
+	name="Morokha"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200038
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1020200040 = {
+	name="Bujeg"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200039
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1020200041 = {
+	name="Khal"
+	dynasty=1009990063 
+	religion="tengri_pagan"
+	culture="even"
+	father=1020200040
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+#Yeniseian placeholders
+1020200042 = {
+	name="Blush"
+	dynasty=1010005000
+	religion="tengri_pagan"
+	culture="yeniseian"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1020200043 = {
+	name="Guyug"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200042
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1020200044 = {
+	name="Syeniseianç"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200043
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1020200045 = {
+	name="Yesugei"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200044
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1020200046 = {
+	name="Togli"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200045
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1020200047 = {
+	name="Uzur"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200046
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1020200048 = {
+	name="Manas"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200047
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1020200049 = {
+	name="Uzur"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200048
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1020200050 = {
+	name="Törtogul"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200049
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1020200051 = {
+	name="Tolun"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200050
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1020200052 = {
+	name="Barsbeg"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200051
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1020200053 = {
+	name="Altan"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200052
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1020200054 = {
+	name="Bachman"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200053
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1020200055 = {
+	name="Kozel"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200054
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1020200056 = {
+	name="Könçek"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200055
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1020200057 = {
+	name="Sotan"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200056
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1020200058 = {
+	name="Tardush"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200057
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1020200059 = {
+	name="Semetei"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200058
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1020200060 = {
+	name="Tardush"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200059
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1020200061 = {
+	name="Togli"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200060
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1020200062 = {
+	name="Çilbu"
+	dynasty=1010005000 
+	religion="tengri_pagan"
+	culture="yeniseian"
+	father=1020200061
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

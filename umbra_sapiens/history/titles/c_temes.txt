@@ -1,0 +1,185 @@
+685.1.1={
+	liege = "d_transylvania"
+	holder=146143
+}
+725.1.1={
+	holder=146144
+}
+736.1.1={
+	holder=146145
+}
+750.1.1={
+	holder=146146
+}
+762.1.1={
+	holder=146147
+}
+763.1.1={
+	holder=146150
+}
+800.1.1={
+	holder=146152
+}
+804.1.1={
+	liege="d_temes"
+	holder=146153
+}
+867.1.1={
+	holder=168284
+}
+919.1.1={
+	liege=0
+	holder=261395
+}
+935.1.1={
+	set_tribute_suzerain = { who = k_hungary type = nomadic }
+}
+937.1.1 = {
+	holder = 260658
+	clear_tribute_suzerain = k_hungary
+}
+1066.1.1 = {
+	liege="k_hungary"
+	holder=20364
+}
+1083.1.1=
+{
+holder = 4386
+}
+1098.1.1=
+{
+holder=4387
+}
+1117.1.1=
+{
+holder=93655
+}
+1130.1.1=
+{
+holder=93656
+}
+1160.1.1=
+{
+holder=93657
+}
+1190.1.1=
+{
+holder=93658
+}
+1195.1.1=
+{
+holder=93660
+}
+1218.1.1=
+{
+holder=93662
+}
+1256.1.1=
+{
+liege="d_transylvania"
+}
+1256.1.1=
+{
+holder=470130
+}
+1299.1.1=
+{
+holder=470131
+}
+1315.1.10=
+{
+liege="k_hungary"
+holder=470132
+}
+1330.1.10=
+{
+holder=470135
+}
+1355.1.2 = {
+holder=470062
+}
+1358.1.2 = {
+holder=469510	#Louis I of Hungary
+}
+1382.9.10 = {
+holder=370434	#Mary, Queen of Hungary
+}
+1385.12.1={
+holder=371112	#Charles III of Naples
+}
+1386.2.24={
+holder=370434	#Mary, Queen of Hungary
+}
+1395.5.17={
+holder=370403	#Sigismund, Holy Roman Emperor
+}
+1437.12.9 = {
+holder=370431	#Albert II of Germany
+}
+1439.10.27={
+holder=371729	#Wladyslaw III of Poland of Poland
+}
+1440.7.17={
+holder=371947	#Ladislaus the Posthumous
+}
+1457.11.23={
+holder=374733	#Matthias Corvinus
+}
+1490.4.6={
+holder=371731	#Vladislaus II of Hungary
+}
+1516.3.13={
+holder=371809	#Louis II of Hungary
+}
+1526.8.29={
+holder=374073	#John Zapolya
+liege=0
+}
+1540.7.22 = {
+holder=374089	#John Sigismund Zápolya
+}
+1571.3.14 = {
+holder=377211	#Stephen Báthory
+}
+1586.12.12 = {
+holder=377216	#Sigismund Báthory
+}
+1598.3.23={
+holder=377220	#Andrew Báthory
+}
+1599.11.3 = {
+holder=377181	#Michael the Brave
+}
+1601.8.9={
+holder=377216	#Sigismund Báthory
+}
+1602.3.1={
+	holder=379597	#Giorgio Basta
+}
+1603.5.8={
+	holder=377241	#Moses Székely
+}
+1603.7.17 = {
+	holder=377191	#Radu Sherban
+}
+1603.9.1={
+	holder=379597	#Giorgio Basta
+}
+1605.1.1={
+	holder=377249	#Stephen Bocskai
+}
+1606.12.29={
+	holder=377242	#Sigismund Rákóczi
+}
+1608.2.1={
+	holder=377223	#Gabriel Báthory
+}
+1613.10.27={
+	holder=377251	#Gabriel Bethlen
+}
+1629.11.15={
+	holder=374425	#Catherine of Brandenburg
+}
+1630.9.21={
+	holder=377244	#George I Rákóczi
+}

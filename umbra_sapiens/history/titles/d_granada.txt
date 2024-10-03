@@ -1,0 +1,133 @@
+1012.1.1={
+	holder=45014 # Zawi Zirid
+	liege=0
+}
+1019.1.1={
+	holder=45015 # Habud Zirid
+}
+1038.1.1={
+	holder=45016 # Badis Zirid
+}
+1073.1.1={
+	holder=32952 # Abdallah Zirid
+}
+1090.1.1={
+	holder=0
+}
+1145.1.1={
+	holder=73259 # Ya'far Adhavid
+	liege=0
+}
+1145.7.1={
+	holder=73181 # Ahmad Hudid
+}
+1146.1.1={
+	holder=0
+}
+1237.1.1={
+	holder=73651 # Muhammad I Nasrid
+	liege=0
+}
+1245.1.1={
+	set_tribute_suzerain = {
+		who = k_castille
+		type = permanent 
+	}
+}
+1273.1.1={
+	holder=73650 # Muhammad II Nasrid
+}
+1302.4.7={
+	holder=73647 # Muhammad III Nasrid
+}
+1309.3.14={
+	holder=73646 # Nasr Nasrid
+}
+1314.2.8={
+	holder=73641 # Isma'il Nasrid
+}
+1325.1.1={
+	holder=487001 # Muhammad IV Nasrid
+}
+1333.1.1={
+	holder=487000 # Yusuf Nasrid
+}
+1354.10.19={
+	holder=378437	#Muhammad V
+}
+1359.1.1={
+	holder=378438	#Ismail II
+}
+1360.7.13={
+	holder=73645	#Muhammad VI
+}
+1362.1.1={
+	holder=378437	#Muhammad V
+}
+1391.1.16={
+	holder=378440	#Yusuf II
+}
+1392.10.5={
+	holder=378444	#Muhammad VII 	
+}
+1408.1.1={
+	holder=378443	#Yusuf III
+}
+1417.11.9={
+	holder=378448	#Muhammad VIII
+}
+1419.1.1={
+	holder=378454	#Muhammad IX
+}
+1427.1.1={
+	holder=378448	#Muhammad VIII
+}
+1429.1.1={
+	holder=378454	#Muhammad IX
+}
+1432.1.1={
+	holder=378453	#Yusuf IV
+}
+1432.1.1={
+	holder=378454	#Muhammad IX
+}
+1445.1.1={
+	holder=378450	#Muhammad X
+}
+1445.6.1={
+	holder=378455	#Yusuf V
+}
+1446.1.1={
+	holder=378450	#Muhammad X
+}
+1447.1.1={
+	holder=378454	#Muhammad IX
+}
+1451.1.1={
+	holder=378451	#Muhammad XI
+}
+1454.1.1={
+	holder=378456	#Abu Nasr Sad
+}
+1462.1.1={
+	holder=378455	#Yusuf V
+}
+1464.1.1={
+	holder=378457	#Abu'l Hasan
+}
+1482.1.1={
+	holder=378461	#Muhammad XII
+}
+1483.1.1={
+	holder=378457	#Abu'l Hasan
+}
+1485.1.1={
+	holder=378458	#Muhammad XIII
+}
+1486.1.1={
+	holder=378461	#Muhammad XII
+}
+1492.1.2={
+	holder=0
+	de_jure_liege=k_cas_and_leon
+}

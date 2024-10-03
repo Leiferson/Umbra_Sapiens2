@@ -1,0 +1,31 @@
+# County Title
+title = c_teotihuacan
+
+# Settlements
+max_settlements = 5
+b_teotihuacan = castle
+b_teotihuacan-ii = temple
+b_teotihuacan-iii = city
+#b_teotihuacan-iv = 
+#b_teotihuacan-v = 
+
+# Misc
+culture = nonohualcan
+religion = nonohualcan_pagan
+
+# History
+450.1.1 = {
+	build_wonder = wonder_nonohualcan_pyramid
+	set_wonder_stage = 4
+	b_teotihuacan-iv = castle
+	set_wonder_name = TEOTIHUACAN
+	set_wonder_description = TEOTIHUACANDESC
+}
+700.1.1= {
+	set_wonder_damaged = yes
+}
+900.1.1 = {
+	remove_settlement = b_teotihuacan-ii
+	remove_settlement = b_teotihuacan-iii
+	remove_settlement = b_teotihuacan-iv
+}

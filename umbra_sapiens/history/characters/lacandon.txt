@@ -1,0 +1,1181 @@
+1019919856={
+	name=Xipilli
+	dynasty=1009990166
+	dna="dgeihfcfhpn"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=7 stewardship=8 intrigue=8 learning=7
+	add_trait=thrifty_clerk add_trait=content add_trait=patient add_trait=lustful 
+	720.9.27={ birth=yes }
+	783.7.27={ death=yes }
+}
+1019919857={
+	name=Nezahualcoyotl
+	dynasty=1009990166
+	dna="dkeipfjhhpm"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=cynical add_trait=paranoid  add_trait=possessed 
+	father=1019919856	#Xipilli
+	743.3.10={ birth=yes }
+	798.4.21={ death=yes }
+}
+1019919858={
+	name=Tonalnan
+	female=yes
+	dynasty=1009990166
+	dna="egikdabkjnn"
+	culture=lacandon religion=mayan
+	father=1019919856	#Xipilli
+	750.6.22={ birth=yes }
+	831.3.2={ death=yes }
+}
+1019919859={
+	name=Ahuitzotl
+	dynasty=1009990166
+	dna="dnlihklfjgn"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=scholarly_theologian add_trait=wroth add_trait=deceitful add_trait=gregarious add_trait=humble 
+	father=1019919856	#Xipilli
+	753.2.6={ birth=yes }
+	839.9.16={ death=yes }
+}
+1019919860={
+	name=Citlalli
+	female=yes
+	dynasty=1009990166
+	dna="hgeihbcjhin"
+	culture=lacandon religion=mayan
+	father=1019919856	#Xipilli
+	758.12.10={ birth=yes }
+	803.7.19={ death=yes }
+}
+1019919861={
+	name=Xipilli
+	dynasty=1009990166
+	dna="dkhiadolgpf"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=4 stewardship=6 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=gregarious add_trait=gluttonous add_trait=proud add_trait=trusting 
+	father=1019919856	#Xipilli
+	762.5.3={ birth=yes }
+	819.4.10={ death=yes }
+}
+1019919862={
+	name=Chimalpopoca
+	dynasty=1009990166
+	dna="jkekpbjhhgn"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=7 stewardship=6 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=chaste add_trait=greedy add_trait=arbitrary add_trait=trusting 
+	father=1019919857	#Nezahualcoyotl
+	770.7.6={ birth=yes }
+	837.4.27={ death=yes }
+}
+1019919863={
+	name=Teiuc
+	female=yes
+	dynasty=1009990166
+	dna="dkjidfmhhpm"
+	culture=lacandon religion=mayan
+	father=1019919857	#Nezahualcoyotl
+	775.8.5={ birth=yes }
+	855.12.16={ death=yes }
+}
+1019919864={
+	name=Ixtlilxochitl
+	dynasty=1009990166
+	dna="dcecpnknhdj"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=6 stewardship=7 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=gardener add_trait=patient add_trait=gluttonous add_trait=trusting 
+	add_trait=craven 
+	father=1019919857	#Nezahualcoyotl
+	780.7.20={ birth=yes }
+	851.7.14={ death=yes }
+}
+1019919865={
+	name=Tepin
+	female=yes
+	dynasty=1009990166
+	dna="ddeiofghhll"
+	culture=lacandon religion=mayan
+	father=1019919857	#Nezahualcoyotl
+	784.4.9={ birth=yes }
+	864.9.1={ death=yes }
+}
+1019919866={
+	name=Yolyamanitzin
+	dynasty=1009990166
+	dna="okjipbjmhpb"
+	culture=lacandon religion=mayan
+	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=paranoid add_trait=brave add_trait=greedy add_trait=temperate 
+	father=1019919857	#Nezahualcoyotl
+	788.11.5={ birth=yes }
+	851.4.23={ death=yes }
+}
+1019919867={
+	name=Xochipilli
+	dynasty=1009990166
+	dna="hilippjhhgm"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=7
+	add_trait=grey_eminence add_trait=slothful add_trait=wroth add_trait=deceitful  
+	add_trait=humble 
+	father=1019919857	#Nezahualcoyotl
+	791.7.3={ birth=yes }
+	870.11.2={ death=yes }
+}
+1019919868={
+	name=Ueman
+	dynasty=1009990166
+	dna="dkdlgdjohpm"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=4 stewardship=4 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=duelist add_trait=temperate  add_trait=chaste 
+	add_trait=brave 
+	father=1019919857	#Nezahualcoyotl
+	797.3.5={ birth=yes }
+	846.6.24={ death=yes }
+}
+1019919869={
+	name=Maxtla
+	dynasty=1009990166
+	dna="nkohfcmahik"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	add_trait=misguided_warrior add_trait=craven  add_trait=stressed 
+	father=1019919862	#Chimalpopoca
+	799.5.8={ birth=yes }
+	876.3.16={ death=yes }
+}
+1019919870={
+	name=Cuetzpalli
+	dynasty=1009990166
+	dna="gkgcpbjhcpn"
+	culture=lacandon religion=mayan
+	martial=4 diplomacy=5 stewardship=8 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=honest add_trait=content add_trait=craven add_trait=wounded 
+	father=1019919862	#Chimalpopoca
+	802.2.6={ birth=yes }
+	878.5.17={ death=yes }
+}
+1019919871={
+	name=Nezahualcoyotl
+	dynasty=1009990166
+	dna="ikcfgbjhhgn"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=8 stewardship=6 intrigue=6 learning=5
+	add_trait=intricate_webweaver add_trait=impaler add_trait=chaste  add_trait=content 
+	add_trait=cynical add_trait=diligent 
+	father=1019919862	#Chimalpopoca
+	805.8.21={ birth=yes }
+	871.12.19={ death=yes }
+}
+1019919872={
+	name=Iquehuacatzin
+	dynasty=1009990166
+	dna="emcomhbmigb"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=chaste add_trait=zealous add_trait=envious 
+	father=1019919862	#Chimalpopoca
+	810.7.21={ birth=yes }
+	885.2.18={ death=yes }
+}
+1019919873={
+	name=Ueman
+	dynasty=1009990166
+	dna="jkekpbjhhgn"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=5
+	add_trait=intricate_webweaver add_trait=gardener add_trait=gregarious add_trait=envious add_trait=arbitrary 
+	father=1019919862	#Chimalpopoca
+	815.2.1={ birth=yes }
+	873.8.27={ death=yes }
+}
+1019919874={
+	name=Xicohtencatl
+	dynasty=1009990166
+	dna="nkoficmehdk"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=content add_trait=honest  add_trait=drunkard 
+	add_trait=quick 
+	father=1019919869	#Maxtla
+	822.7.3={ birth=yes }
+	894.11.12={ death=yes }
+}
+1019919875={
+	name=Tizocic
+	dynasty=1009990166
+	dna="nknkbcmcnek"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=4 stewardship=7 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=brave  add_trait=greedy 
+	father=1019919869	#Maxtla
+	825.10.3={ birth=yes }
+	911.8.16={ death=yes }
+}
+1019919876={
+	name=Achcauhtli
+	female=yes
+	dynasty=1009990166
+	dna="nfocdnnabin"
+	culture=lacandon religion=mayan
+	father=1019919869	#Maxtla
+	829.2.26={ birth=yes }
+	912.7.30={ death=yes }
+}
+1019919877={
+	name=Maxtla
+	dynasty=1009990166
+	dna="nbohcimahag"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=envious add_trait=zealous add_trait=just  
+	add_trait=trusting add_trait=genius 
+	father=1019919869	#Maxtla
+	834.2.19={ birth=yes }
+	892.11.22={ death=yes }
+}
+1019919878={
+	name=Chicomecoatl
+	female=yes
+	dynasty=1009990166
+	dna="hmginjjapib"
+	culture=lacandon religion=mayan
+	father=1019919869	#Maxtla
+	838.1.5={ birth=yes }
+	912.2.22={ death=yes }
+}
+1019919879={
+	name=Cuicatl
+	female=yes
+	dynasty=1009990166
+	dna="kknlidaaidk"
+	culture=lacandon religion=mayan
+	father=1019919869	#Maxtla
+	844.3.26={ birth=yes }
+	909.4.25={ death=yes }
+}
+1019919880={
+	name=Zeltzin
+	female=yes
+	dynasty=1009990166
+	dna="nknafgaohkf"
+	culture=lacandon religion=mayan
+	father=1019919869	#Maxtla
+	850.12.14={ birth=yes }
+	919.10.29={ death=yes }
+}
+1019919881={
+	name=Tlaloc
+	dynasty=1009990166
+	dna="gkofoalchik"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=6
+	add_trait=detached_priest  add_trait=just add_trait=brave add_trait=humble 
+	add_trait=deceitful add_trait=stressed 
+	father=1019919874	#Xicohtencatl
+	847.7.12={ birth=yes }
+	895.1.8={ death=yes }
+}
+1019919882={
+	name=Zeltzin
+	female=yes
+	dynasty=1009990166
+	dna="jkifhcfepdk"
+	culture=lacandon religion=mayan
+	father=1019919874	#Xicohtencatl
+	854.2.3={ birth=yes }
+	924.2.5={ death=yes }
+}
+1019919883={
+	name=Chimalli
+	dynasty=1009990166
+	dna="nnofifmehdk"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=7 stewardship=8 intrigue=8 learning=5
+	add_trait=mastermind_theologian add_trait=hunter  add_trait=chaste add_trait=arbitrary 
+	add_trait=charitable add_trait=lunatic 
+	father=1019919874	#Xicohtencatl
+	862.3.24={ birth=yes }
+	949.3.6={ death=yes }
+}
+1019919884={
+	name=Tlacaeleltzin
+	dynasty=1009990166
+	dna="oogjinmeidk"
+	culture=lacandon religion=mayan
+	martial=4 diplomacy=5 stewardship=4 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=hedonist add_trait=gregarious add_trait=slothful add_trait=paranoid 
+	add_trait=zealous add_trait=ill 
+	father=1019919874	#Xicohtencatl
+	866.3.11={ birth=yes }
+	943.8.6={ death=yes }
+}
+1019919885={
+	name=Teyacapan
+	female=yes
+	dynasty=1009990166
+	dna="gfefohgcpek"
+	culture=lacandon religion=mayan
+	father=1019919881	#Tlaloc
+	871.2.1={ birth=yes }
+	966.7.24={ death=yes }
+}
+1019919886={
+	name=Xilonen
+	female=yes
+	dynasty=1009990166
+	dna="ljimohlapik"
+	culture=lacandon religion=mayan
+	father=1019919881	#Tlaloc
+	875.7.22={ birth=yes }
+	957.5.1={ death=yes }
+}
+1019919887={
+	name=Cihuaton
+	female=yes
+	dynasty=1009990166
+	dna="pnoooalchfk"
+	culture=lacandon religion=mayan
+	father=1019919881	#Tlaloc
+	882.11.1={ birth=yes }
+	966.9.5={ death=yes }
+}
+1019919888={
+	name=Acamapichtli
+	dynasty=1009990166
+	dna="gkohfajknlk"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=6
+	add_trait=mastermind_theologian add_trait=arbitrary add_trait=wroth add_trait=honest add_trait=ill 
+	father=1019919881	#Tlaloc
+	886.6.13={ birth=yes }
+	942.8.11={ death=yes }
+}
+1019919889={
+	name=Chimalpopoca
+	dynasty=1009990166
+	dna="kpiffalclik"
+	culture=lacandon religion=mayan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=lustful add_trait=paranoid add_trait=greedy add_trait=content 
+	father=1019919881	#Tlaloc
+	891.8.23={ birth=yes }
+	952.10.21={ death=yes }
+}
+1019919890={
+	name=Ahuitzotl
+	dynasty=1009990166
+	dna="iknhmalgbhm"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=6 stewardship=4 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=trusting add_trait=diligent add_trait=zealous add_trait=proud 
+	add_trait=wounded 
+	father=1019919888	#Acamapichtli
+	909.12.17={ birth=yes }
+	990.7.31={ death=yes }
+}
+1019919891={
+	name=Mecatl
+	female=yes
+	dynasty=1009990166
+	dna="gifhpkhgnmd"
+	culture=lacandon religion=mayan
+	father=1019919888	#Acamapichtli
+	915.11.7={ birth=yes }
+	978.6.25={ death=yes }
+}
+1019919892={
+	name=Ueman
+	dynasty=1009990166
+	dna="gkiefagknlk"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=elusive_shadow  add_trait=shy add_trait=trusting add_trait=content 
+	add_trait=slothful 
+	father=1019919888	#Acamapichtli
+	920.8.18={ birth=yes }
+	990.12.13={ death=yes }
+}
+1019919893={
+	name=Xicohtencatl
+	dynasty=1009990166
+	dna="mkeicflgmhm"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=4 stewardship=5 intrigue=4 learning=6
+	add_trait=misguided_warrior add_trait=proud add_trait=chaste add_trait=brave  
+	father=1019919890	#Ahuitzotl
+	933.6.15={ birth=yes }
+	987.5.26={ death=yes }
+}
+1019919894={
+	name=Xochitl
+	female=yes
+	dynasty=1009990166
+	dna="ibbhmgkhbjm"
+	culture=lacandon religion=mayan
+	father=1019919890	#Ahuitzotl
+	938.9.27={ birth=yes }
+	1023.11.15={ death=yes }
+}
+1019919895={
+	name=Itzli
+	dynasty=1009990166
+	dna="ionhjdlgghm"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=6
+	add_trait=thrifty_clerk add_trait=trusting add_trait=shy add_trait=ambitious add_trait=proud 
+	add_trait=charitable add_trait=depressed 
+	father=1019919890	#Ahuitzotl
+	942.12.17={ birth=yes }
+	1013.6.23={ death=yes }
+}
+1019919896={
+	name=Itzcuintli
+	dynasty=1009990166
+	dna="oaefioolljm"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=lustful add_trait=proud add_trait=depressed 
+	father=1019919893	#Xicohtencatl
+	961.2.17={ birth=yes }
+	1030.12.25={ death=yes }
+}
+1019919897={
+	name=Yoltzin
+	female=yes
+	dynasty=1009990166
+	dna="lkeigfmgmpj"
+	culture=lacandon religion=mayan
+	father=1019919893	#Xicohtencatl
+	968.8.26={ birth=yes }
+	1045.1.23={ death=yes }
+}
+1019919898={
+	name=Chipahua
+	female=yes
+	dynasty=1009990166
+	dna="okadcfjgmjm"
+	culture=lacandon religion=mayan
+	father=1019919893	#Xicohtencatl
+	971.9.7={ birth=yes }
+	1030.6.2={ death=yes }
+}
+1019919899={
+	name=Huitzilihuitl
+	dynasty=1009990166
+	dna="mcehchlgmhm"
+	culture=lacandon religion=mayan
+	martial=4 diplomacy=5 stewardship=6 intrigue=8 learning=6
+	add_trait=misguided_warrior add_trait=lustful add_trait=arbitrary add_trait=diligent 
+	father=1019919893	#Xicohtencatl
+	975.11.18={ birth=yes }
+	1027.11.19={ death=yes }
+}
+1019919900={
+	name=Cuixtli
+	dynasty=1009990166
+	dna="oabcioogllk"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=craven add_trait=lustful  
+	father=1019919896	#Itzcuintli
+	988.7.25={ birth=yes }
+	1053.6.17={ death=yes }
+}
+1019919901={
+	name=Chicomecoatl
+	female=yes
+	dynasty=1009990166
+	dna="onbfonclllm"
+	culture=lacandon religion=mayan
+	father=1019919896	#Itzcuintli
+	993.11.17={ birth=yes }
+	1083.9.5={ death=yes }
+}
+1019919902={
+	name=Tizocic
+	dynasty=1009990166
+	dna="daefijelhjm"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=8 stewardship=7 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=humble add_trait=slothful add_trait=wroth add_trait=charitable 
+	father=1019919896	#Itzcuintli
+	998.11.15={ birth=yes }
+	1079.4.5={ death=yes }
+}
+1019919903={
+	name=Cozamalotl
+	female=yes
+	dynasty=1009990166
+	dna="ogedmjjicmb"
+	culture=lacandon religion=mayan
+	father=1019919896	#Itzcuintli
+	1004.11.20={ birth=yes }
+	1087.7.23={ death=yes }
+}
+1019919904={
+	name=Nezahualpilli
+	dynasty=1009990166
+	dna="habcigoghop"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=cynical add_trait=just add_trait=humble add_trait=craven 
+	father=1019919900	#Cuixtli
+	1008.2.5={ birth=yes }
+	1091.7.11={ death=yes }
+}
+1019919905={
+	name=Yaretzi
+	female=yes
+	dynasty=1009990166
+	dna="pkbcjdeglmc"
+	culture=lacandon religion=mayan
+	father=1019919900	#Cuixtli
+	1013.8.26={ birth=yes }
+	1074.1.5={ death=yes }
+}
+1019919906={
+	name=Tlazozomizqui
+	female=yes
+	dynasty=1009990166
+	dna="paffigolhbp"
+	culture=lacandon religion=mayan
+	father=1019919904	#Nezahualpilli
+	1038.8.18={ birth=yes }
+	1075.8.13={ death=yes }
+}
+1019919907={
+	name=Eloxochitl
+	female=yes
+	dynasty=1009990166
+	dna="oomgdgpdhjk"
+	culture=lacandon religion=mayan
+	father=1019919904	#Nezahualpilli
+	1041.10.10={ birth=yes }
+	1123.10.19={ death=yes }
+}
+1019919908={
+	name=Cacamatzin
+	dynasty=1009990166
+	dna="icbolgfghep"
+	culture=lacandon religion=mayan
+	martial=4 diplomacy=5 stewardship=5 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=zealous  add_trait=chaste  
+	add_trait=lunatic 
+	father=1019919904	#Nezahualpilli
+	1046.7.24={ birth=yes }
+	1134.5.14={ death=yes }
+}
+1019919909={
+	name=Totoquihuaztli
+	dynasty=1009990166
+	dna="hadbogoljce"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=4 stewardship=6 intrigue=8 learning=4
+	add_trait=thrifty_clerk add_trait=hedonist  add_trait=paranoid add_trait=diligent 
+	add_trait=patient 
+	father=1019919904	#Nezahualpilli
+	1049.4.15={ birth=yes }
+	1107.11.23={ death=yes }
+}
+1019919910={
+	name=Miztli
+	dynasty=1009990166
+	dna="icgohgbghgp"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=paranoid add_trait=temperate add_trait=charitable add_trait=lisp 
+	father=1019919908	#Cacamatzin
+	1077.9.19={ birth=yes }
+	1136.12.24={ death=yes }
+}
+1019919911={
+	name=Ohtli
+	female=yes
+	dynasty=1009990166
+	dna="ecjadmfodnp"
+	culture=lacandon religion=mayan
+	father=1019919908	#Cacamatzin
+	1080.10.2={ birth=yes }
+	1141.9.14={ death=yes }
+}
+1019919912={
+	name=Xochipilli
+	dynasty=1009990166
+	dna="iooomafghea"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=lustful add_trait=proud add_trait=envious add_trait=lunatic 
+	father=1019919908	#Cacamatzin
+	1086.3.3={ birth=yes }
+	1170.7.12={ death=yes }
+}
+1019919913={
+	name=Chimalpopoca
+	dynasty=1009990166
+	dna="hcehlkebhie"
+	culture=lacandon religion=mayan
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	add_trait=elusive_shadow add_trait=content add_trait=temperate 
+	father=1019919908	#Cacamatzin
+	1090.10.1={ birth=yes }
+	1174.2.16={ death=yes }
+}
+1019919914={
+	name=Cuixtli
+	dynasty=1009990166
+	dna="lcgkcpmmpgp"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	add_trait=intricate_webweaver  add_trait=wroth add_trait=brave add_trait=gregarious 
+	add_trait=humble 
+	father=1019919910	#Miztli
+	1108.6.3={ birth=yes }
+	1180.2.26={ death=yes }
+}
+1019919915={
+	name=Nezahualcoyotl
+	dynasty=1009990166
+	dna="ihpoigiehbh"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=6
+	add_trait=scholarly_theologian add_trait=trusting add_trait=temperate add_trait=lustful add_trait=diligent 
+	add_trait=wroth add_trait=drunkard 
+	father=1019919910	#Miztli
+	1113.9.24={ birth=yes }
+	1170.12.20={ death=yes }
+}
+1019919916={
+	name=Toltecatl
+	female=yes
+	dynasty=1009990166
+	dna="aigohmachgm"
+	culture=lacandon religion=mayan
+	father=1019919910	#Miztli
+	1118.5.18={ birth=yes }
+	1200.4.1={ death=yes }
+}
+1019919917={
+	name=Cuetzpalli
+	dynasty=1009990166
+	dna="ameahgjghgp"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=humble add_trait=craven add_trait=content add_trait=chaste 
+	father=1019919910	#Miztli
+	1123.9.17={ birth=yes }
+	1188.11.8={ death=yes }
+}
+1019919918={
+	name=Momoztli
+	female=yes
+	dynasty=1009990166
+	dna="acmacinmhnl"
+	culture=lacandon religion=mayan
+	father=1019919914	#Cuixtli
+	1129.11.25={ birth=yes }
+	1212.8.24={ death=yes }
+}
+1019919919={
+	name=Zipactonal
+	dynasty=1009990166
+	dna="odgkhpmmncp"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	add_trait=skilled_tactician add_trait=ambitious add_trait=lustful add_trait=slothful  
+	add_trait=arbitrary add_trait=drunkard 
+	father=1019919914	#Cuixtli
+	1133.5.10={ birth=yes }
+	1201.5.12={ death=yes }
+}
+1019919920={
+	name=Tlaloc
+	dynasty=1009990166
+	dna="accpcingfgl"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=4 stewardship=8 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=cynical add_trait=paranoid add_trait=greedy  
+	add_trait=humble add_trait=quick 
+	father=1019919914	#Cuixtli
+	1136.1.3={ birth=yes }
+	1192.4.29={ death=yes }
+}
+1019919921={
+	name=Achcauhtli
+	female=yes
+	dynasty=1009990166
+	dna="lcijdpmmpjp"
+	culture=lacandon religion=mayan
+	father=1019919914	#Cuixtli
+	1141.5.21={ birth=yes }
+	1228.2.2={ death=yes }
+}
+1019919922={
+	name=Matlatzincatzin
+	dynasty=1009990166
+	dna="ldaocnjlgdb"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=5 stewardship=6 intrigue=8 learning=8
+	add_trait=grey_eminence add_trait=impaler add_trait=chaste add_trait=paranoid add_trait=honest 
+	add_trait=patient add_trait=greedy add_trait=zealous 
+	father=1019919914	#Cuixtli
+	1147.4.9={ birth=yes }
+	1222.4.13={ death=yes }
+}
+1019919923={
+	name=Olli
+	dynasty=1009990166
+	dna="edgkmpmfncp"
+	culture=lacandon religion=mayan
+	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=6
+	add_trait=scholarly_theologian  add_trait=just add_trait=gluttonous add_trait=wroth 
+	father=1019919919	#Zipactonal
+	1156.6.9={ birth=yes }
+	1239.3.16={ death=yes }
+}
+1019919924={
+	name=Opochtli
+	dynasty=1009990166
+	dna="eokkmpmmhhc"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=deceitful add_trait=just add_trait=greedy  
+	add_trait=drunkard 
+	father=1019919919	#Zipactonal
+	1159.7.12={ birth=yes }
+	1217.1.6={ death=yes }
+}
+1019919925={
+	name=Xochitl
+	dynasty=1009990166
+	dna="oigkphmmnhp"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=4 stewardship=6 intrigue=8 learning=7
+	add_trait=tough_soldier add_trait=celibate add_trait=shy add_trait=slothful add_trait=proud 
+	add_trait=envious 
+	father=1019919919	#Zipactonal
+	1165.4.4={ birth=yes }
+	1236.7.27={ death=yes }
+}
+1019919926={
+	name=Yolyamanitzin
+	dynasty=1009990166
+	dna="mdgkhpmeacp"
+	culture=lacandon religion=mayan
+	martial=4 diplomacy=8 stewardship=6 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=ambitious  add_trait=proud add_trait=brave 
+	add_trait=patient add_trait=deceitful add_trait=depressed 
+	father=1019919919	#Zipactonal
+	1168.10.25={ birth=yes }
+	1232.8.4={ death=yes }
+}
+1019919927={
+	name=Xochipilli
+	dynasty=1009990166
+	dna="odgbhpmenke"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=mystic add_trait=just add_trait=content add_trait=brave 
+	add_trait=possessed 
+	father=1019919919	#Zipactonal
+	1172.10.11={ birth=yes }
+	1257.4.24={ death=yes }
+}
+1019919928={
+	name=Tetlepanquetzaltzin
+	dynasty=1009990166
+	dna="pockhpkklbb"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=brave  add_trait=honest 
+	father=1019919919	#Zipactonal
+	1176.9.5={ birth=yes }
+	1230.3.8={ death=yes }
+}
+1019919929={
+	name=Teiuc
+	female=yes
+	dynasty=1009990166
+	dna="oacijplpffp"
+	culture=lacandon religion=mayan
+	father=1019919919	#Zipactonal
+	1178.11.19={ birth=yes }
+	1247.6.29={ death=yes }
+}
+1019919930={
+	name=Toltecatl
+	female=yes
+	dynasty=1009990166
+	dna="egfompkfnmd"
+	culture=lacandon religion=mayan
+	father=1019919923	#Olli
+	1188.3.1={ birth=yes }
+	1246.6.11={ death=yes }
+}
+1019919931={
+	name=Quauhtli
+	dynasty=1009990166
+	dna="odgkmplpnca"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=5 stewardship=7 intrigue=7 learning=6
+	add_trait=grey_eminence add_trait=poet add_trait=gregarious add_trait=lustful add_trait=paranoid 
+	add_trait=drunkard 
+	father=1019919923	#Olli
+	1194.4.24={ birth=yes }
+	1258.6.13={ death=yes }
+}
+1019919932={
+	name=Citlali
+	female=yes
+	dynasty=1009990166
+	dna="eggoapeggkk"
+	culture=lacandon religion=mayan
+	father=1019919923	#Olli
+	1199.11.20={ birth=yes }
+	1261.10.8={ death=yes }
+}
+1019919933={
+	name=Achcauhtli
+	female=yes
+	dynasty=1009990166
+	dna="fdggmpmfbjp"
+	culture=lacandon religion=mayan
+	father=1019919923	#Olli
+	1206.5.8={ birth=yes }
+	1286.4.1={ death=yes }
+}
+1019919934={
+	name=Acalan
+	dynasty=1009990166
+	dna="ocbnapppona"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=4 stewardship=8 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=hedonist add_trait=shy add_trait=diligent add_trait=cynical 
+	add_trait=arbitrary 
+	father=1019919931	#Quauhtli
+	1220.9.16={ birth=yes }
+	1287.9.16={ death=yes }
+}
+1019919935={
+	name=Yayauhqui
+	dynasty=1009990166
+	dna="dnkdjpppndo"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=5 stewardship=6 intrigue=6 learning=4
+	add_trait=martial_cleric  add_trait=gluttonous add_trait=greedy add_trait=chaste 
+	add_trait=shy 
+	father=1019919931	#Quauhtli
+	1225.11.27={ birth=yes }
+	1283.11.22={ death=yes }
+}
+1019919936={
+	name=Miyaoaxochitl
+	female=yes
+	dynasty=1009990166
+	dna="obgbgmcanod"
+	culture=lacandon religion=mayan
+	father=1019919931	#Quauhtli
+	1228.12.3={ birth=yes }
+	1287.8.22={ death=yes }
+}
+1019919937={
+	name=Coszcatl
+	female=yes
+	dynasty=1009990166
+	dna="ojgkmnhadcb"
+	culture=lacandon religion=mayan
+	father=1019919931	#Quauhtli
+	1231.9.16={ birth=yes }
+	1307.4.18={ death=yes }
+}
+1019919938={
+	name=Ahuiliztli
+	female=yes
+	dynasty=1009990166
+	dna="odmhmokpgli"
+	culture=lacandon religion=mayan
+	father=1019919931	#Quauhtli
+	1235.3.27={ birth=yes }
+	1301.10.22={ death=yes }
+}
+1019919939={
+	name=Cuetzpalli
+	dynasty=1009990166
+	dna="ooadappfoha"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=5 stewardship=7 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=mystic add_trait=paranoid add_trait=temperate add_trait=wroth 
+	add_trait=honest add_trait=charitable 
+	father=1019919934	#Acalan
+	1247.9.11={ birth=yes }
+	1313.7.19={ death=yes }
+}
+1019919940={
+	name=Maxtla
+	dynasty=1009990166
+	dna="ojbbippkoah"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=6
+	add_trait=elusive_shadow add_trait=lustful add_trait=ambitious add_trait=proud  
+	add_trait=greedy add_trait=just 
+	father=1019919934	#Acalan
+	1250.12.15={ birth=yes }
+	1326.7.14={ death=yes }
+}
+1019919941={
+	name=Ixtlilxochitl
+	dynasty=1009990166
+	dna="oejnaikpokm"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=martial_cleric add_trait=slothful add_trait=patient add_trait=brave 
+	father=1019919934	#Acalan
+	1255.4.18={ birth=yes }
+	1314.3.9={ death=yes }
+}
+1019919942={
+	name=Teiuc
+	female=yes
+	dynasty=1009990166
+	dna="gfakappffha"
+	culture=lacandon religion=mayan
+	father=1019919939	#Cuetzpalli
+	1275.7.18={ birth=yes }
+	1353.7.5={ death=yes }
+}
+1019919943={
+	name=Matlatzincatzin
+	dynasty=1009990166
+	dna="oafdjjphiha"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=intricate_webweaver add_trait=lustful add_trait=trusting add_trait=cynical add_trait=charitable 
+	add_trait=shy 
+	father=1019919939	#Cuetzpalli
+	1280.4.15={ birth=yes }
+	1343.1.18={ death=yes }
+}
+1019919944={
+	name=Moquihuix
+	dynasty=1009990166
+	dna="odagajpfobi"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=5
+	add_trait=scholarly_theologian add_trait=impaler add_trait=ambitious add_trait=cynical add_trait=gregarious 
+	add_trait=lunatic 
+	father=1019919939	#Cuetzpalli
+	1285.9.1={ birth=yes }
+	1356.11.29={ death=yes }
+}
+1019919945={
+	name=Chicahua
+	female=yes
+	dynasty=1009990166
+	dna="oiappfpfoga"
+	culture=lacandon religion=mayan
+	father=1019919939	#Cuetzpalli
+	1289.9.2={ birth=yes }
+	1370.2.8={ death=yes }
+}
+1019919946={
+	name=Eztli
+	female=yes
+	dynasty=1009990166
+	dna="aoanflpmpjh"
+	culture=lacandon religion=mayan
+	father=1019919939	#Cuetzpalli
+	1292.10.15={ birth=yes }
+	1363.9.28={ death=yes }
+}
+1019919947={
+	name=Xocoyotl
+	female=yes
+	dynasty=1009990166
+	dna="hcadaopfohg"
+	culture=lacandon religion=mayan
+	father=1019919939	#Cuetzpalli
+	1298.8.12={ birth=yes }
+	1358.10.9={ death=yes }
+}
+1019919948={
+	name=Yaotl
+	dynasty=1009990166
+	dna="ohadabifogf"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=5
+	add_trait=intricate_webweaver add_trait=patient add_trait=arbitrary add_trait=diligent add_trait=proud 
+	father=1019919939	#Cuetzpalli
+	1301.7.23={ birth=yes }
+	1361.2.12={ death=yes }
+}
+1019919949={
+	name=Ueman
+	dynasty=1009990166
+	dna="onbdjjjhkha"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=7 stewardship=6 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=gardener add_trait=craven add_trait=lustful add_trait=temperate 
+	 add_trait=depressed 
+	father=1019919943	#Matlatzincatzin
+	1309.4.16={ birth=yes }
+	1371.1.5={ death=yes }
+}
+1019919950={
+	name=Cuixtli
+	dynasty=1009990166
+	dna="ohfdjnphahg"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=scholar add_trait=lustful add_trait=trusting add_trait=brave 
+	father=1019919943	#Matlatzincatzin
+	1315.2.10={ birth=yes }
+	1384.5.24={ death=yes }
+}
+1019919951={
+	name=Manauia
+	female=yes
+	dynasty=1009990166
+	dna="pojapjhfphb"
+	culture=lacandon religion=mayan
+	father=1019919943	#Matlatzincatzin
+	1319.12.17={ birth=yes }
+	1385.8.7={ death=yes }
+}
+1019919952={
+	name=Tecolotl
+	dynasty=1009990166
+	dna="ooonjfpliha"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=5 stewardship=7 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=hedonist add_trait=proud add_trait=just  
+	add_trait=brave 
+	father=1019919943	#Matlatzincatzin
+	1323.9.19={ birth=yes }
+	1393.8.11={ death=yes }
+}
+1019919953={
+	name=Necuametl
+	dynasty=1009990166
+	dna="cnopjkjhkia"
+	culture=lacandon religion=mayan
+	martial=5 diplomacy=8 stewardship=4 intrigue=7 learning=7
+	add_trait=tough_soldier add_trait=envious add_trait=charitable  add_trait=chaste 
+	father=1019919949	#Ueman
+	1339.6.15={ birth=yes }
+	1403.6.1={ death=yes }
+}
+1019919954={
+	name=Matlatzincatzin
+	dynasty=1009990166
+	dna="hnbdffjhkha"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=7
+	add_trait=thrifty_clerk  add_trait=wroth add_trait=shy add_trait=depressed 
+	add_trait=possessed 
+	father=1019919949	#Ueman
+	1342.10.19={ birth=yes }
+	1413.12.3={ death=yes }
+}
+1019919955={
+	name=Miahuaxiuitl
+	female=yes
+	dynasty=1009990166
+	dna="dnbdjjjlkgp"
+	culture=lacandon religion=mayan
+	father=1019919949	#Ueman
+	1346.3.7={ birth=yes }
+	1423.2.16={ death=yes }
+}
+1019919956={
+	name=Matlal
+	dynasty=1009990166
+	dna="nafpjcjhkbb"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=4 stewardship=4 intrigue=4 learning=5
+	add_trait=detached_priest add_trait=gluttonous  add_trait=patient  
+	add_trait=brave add_trait=cynical add_trait=wounded 
+	father=1019919953	#Necuametl
+	1370.5.11={ birth=yes }
+	1456.11.22={ death=yes }
+}
+1019919957={
+	name=Tlahcoehua
+	female=yes
+	dynasty=1009990166
+	dna="ijlpekbhkia"
+	culture=lacandon religion=mayan
+	father=1019919953	#Necuametl
+	1375.4.20={ birth=yes }
+	1455.8.2={ death=yes }
+}
+1019919958={
+	name=Tlilpotonqui
+	dynasty=1009990166
+	dna="cadppkjhopa"
+	culture=lacandon religion=mayan
+	martial=7 diplomacy=7 stewardship=6 intrigue=7 learning=5
+	add_trait=scholarly_theologian add_trait=shy add_trait=chaste  
+	father=1019919953	#Necuametl
+	1378.11.11={ birth=yes }
+	1450.11.15={ death=yes }
+}
+1019919959={
+	name=Cuicatl
+	female=yes
+	dynasty=1009990166
+	dna="kddajkihpin"
+	culture=lacandon religion=mayan
+	father=1019919953	#Necuametl
+	1383.8.12={ birth=yes }
+	1437.9.15={ death=yes }
+}
+1019919960={
+	name=Tzompantzin
+	dynasty=1009990166
+	dna="cfbpjbphlja"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=5
+	add_trait=grey_eminence add_trait=zealous add_trait=arbitrary add_trait=wroth add_trait=envious 
+	add_trait=shy add_trait=proud 
+	father=1019919953	#Necuametl
+	1388.6.8={ birth=yes }
+	1468.8.6={ death=yes }
+}
+1019919961={
+	name=Mahchimaleh
+	dynasty=1009990166
+	dna="jldpildhgbh"
+	culture=lacandon religion=mayan
+	martial=6 diplomacy=8 stewardship=7 intrigue=4 learning=6
+	add_trait=intricate_webweaver add_trait=chaste add_trait=charitable add_trait=slothful 
+	father=1019919956	#Matlal
+	1397.11.3={ birth=yes }
+	1472.1.30={ death=yes }
+}
+1019919962={
+	name=Ayauhcihuatl
+	female=yes
+	dynasty=1009990166
+	dna="nampdnjlkbf"
+	culture=lacandon religion=mayan
+	father=1019919956	#Matlal
+	1403.1.3={ birth=yes }
+	1490.3.27={ death=yes }
+}
+1019919963={
+	name=Quauhtli
+	dynasty=1009990166
+	dna="najpjcbfkbb"
+	culture=lacandon religion=mayan
+	martial=8 diplomacy=5 stewardship=6 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=greedy add_trait=trusting  add_trait=humble 
+	father=1019919956	#Matlal
+	1409.3.21={ birth=yes }
+	1486.3.8={ death=yes }
+}

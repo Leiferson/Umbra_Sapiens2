@@ -1,0 +1,379 @@
+914.1.1 = {
+	de_jure_liege = e_bulgaria
+}
+1018.1.1 = {
+	de_jure_liege = e_carpathia
+}
+1310.1.1=
+{
+	liege=0	
+	holder=475550
+}
+1352.1.1={
+	holder=475553	#Nicolae Alexandru
+}
+1364.11.16={
+	holder=374147	#Vladislav I
+}
+1377.1.1={
+	holder=374145	#Radu I
+}
+1383.1.2={
+	holder=377130	#Dan I
+}
+1386.9.23={
+	holder=377129	#Mircea I the Elder
+}
+1394.11.1={
+	holder=377132	#Vlad I the Usurper
+}
+1397.1.2={
+	holder=377129	#Mircea I the Elder
+}
+1417.1.1={
+	set_tribute_suzerain = {
+		who = k_ottoman
+		type = permanent 
+	}
+}
+1418.1.31={
+	clear_tribute_suzerain = k_ottoman
+	holder=377134	#Mihail I
+}
+1420.8.2={
+	holder=377135	#Radu II the Bald
+	set_tribute_suzerain = {
+		who = k_ottoman
+		type = permanent 
+	}
+}
+1422.10.1={
+	holder=377131	#Dan II the Brave
+	clear_tribute_suzerain = k_ottoman
+}
+1426.12.1={
+	holder=377135	#Radu II the Bald
+	set_tribute_suzerain = {
+		who = k_ottoman
+		type = permanent 
+	}
+}
+1427.6.1={
+	holder=377131	#Dan II the Brave
+	clear_tribute_suzerain = k_ottoman
+}
+1431.6.1={
+	holder=377136	#Alexandru I Aldea
+	set_tribute_suzerain = {
+		who = k_ottoman
+		type = permanent 
+	}
+}
+1436.12.1={
+	holder=377137	#Vlad II the Dragon
+	clear_tribute_suzerain = k_ottoman
+	set_tribute_suzerain = {
+		who = k_hungary
+		type = permanent 
+	}
+}
+1437.12.9={
+	clear_tribute_suzerain = k_hungary
+	set_tribute_suzerain = {
+		who = k_ottoman
+		type = permanent 
+	}
+}
+1442.9.1={
+	holder=377145	#Mircea II the Younger
+}
+1442.12.1={
+	holder=377137	#Basarab II of Wallachia Vassal of Hungary
+	clear_tribute_suzerain = k_ottoman
+	set_tribute_suzerain = {
+		who = k_hungary
+		type = permanent 
+	}
+}
+1443.3.1={
+	holder=377137	#Vlad II the Dragon
+	clear_tribute_suzerain = k_hungary
+	set_tribute_suzerain = {
+		who = k_ottoman
+		type = permanent 
+	}
+}
+1444.11.1={
+	clear_tribute_suzerain = k_ottoman
+}
+1447.12.7={
+	holder=377144	#Vladislav II
+	set_tribute_suzerain = {
+		who = k_hungary
+		type = permanent 
+	}
+}
+1452.4.23={
+	clear_tribute_suzerain = k_hungary
+}
+1456.7.22={
+	holder=377146	#Vlad III the Impaler
+	set_tribute_suzerain = {
+		who = k_hungary
+		type = permanent 
+	}
+}
+1462.7.1={
+	holder=377147 #Radu III the Fair
+	clear_tribute_suzerain = k_hungary
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1473.11.1={
+	holder=377151	#Basarab III Laiota the Old
+}
+1473.12.23={
+	holder=377147 #Radu III the Fair
+}
+1474.3.1={
+	holder=377146	#Basarab III Laiota the Old
+}
+1474.6.1={
+	holder=377147 #Radu III the Fair
+}
+1474.9.1={
+	holder=377146	#Basarab III Laiota the Old
+}
+1474.10.1={
+	holder=377147 #Radu III the Fair
+}
+1475.1.1={
+	holder=377146	#Basarab III Laiota the Old
+}
+1475.6.1={
+	holder=377146	#Vlad III the Impaler
+	clear_tribute_suzerain = e_ottomans
+	set_tribute_suzerain = {
+		who = k_hungary
+		type = permanent 
+	}
+}
+1477.1.1={ 
+	holder=377146	#Basarab III Laiota the Old 
+	clear_tribute_suzerain = k_hungary
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1477.12.1={
+	holder=377149 #Basarab IV The Young Impaler
+}
+1481.9.1={
+	holder=377148	#Vlad IV the Monk
+}
+1481.11.1={
+	holder=377149	#Basarab IV The Young Impaler
+}
+1482.3.23={
+	holder=377148	#Vlad IV the Monk
+}
+1495.11.1={
+	holder=377153	#Radu IV the Great
+}
+1508.4.23={
+	holder=377150	#Mihnea I the Bad
+}
+1509.10.29={
+	holder=377159	#Mircea III the Dragon
+}
+1510.4.8={
+	holder=377154	#Vlad V the Younger
+}
+1512.1.23={
+	holder=377152	#Neagoe Basarab
+}
+1521.9.15={
+	holder=377166	#Teodosie of Wallachia
+}
+1521.12.1={
+	holder=377155	#Radu V of Afumati
+	clear_tribute_suzerain = e_ottomans
+}
+1523.4.1={
+	holder=377172	#Vladislav III
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1523.11.8={
+	holder=377156	#Radu VI Badica
+}
+1524.1.19={
+	holder=377155	#Radu V of Afumati
+	clear_tribute_suzerain = e_ottomans
+}
+1524.6.1={
+	holder=377172	#Vladislav III
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1524.9.1={
+	holder=377155	#Radu V of Afumati
+	clear_tribute_suzerain = e_ottomans
+}
+1525.4.19={
+	holder=377172	#Vladislav III
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1525.8.1={
+	holder=377155	#Radu V of Afumati
+	clear_tribute_suzerain = e_ottomans
+}
+1529.1.2={
+	holder=377174	#Basarab VI
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1529.2.5={
+	holder=377173	#Moise of Wallachia
+}
+1530.2.13={
+	clear_tribute_suzerain = e_ottomans
+}
+1530.8.29={
+	holder=377165	#Vlad VI the Drowned
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1532.9.2={
+	holder=377169	#Vlad VII Vintila de la Slatina
+}
+1535.6.10={
+	holder=377157	#Radu VII Paisie
+}
+1545.1.1={
+	holder=377158	#Mircea IV the Shepherd
+}
+1552.11.16={
+	holder=377170	#Radu VIII Ilie the Cowherd
+}
+1553.5.11={
+	holder=377158	#Mircea IV the Shepherd
+}
+1554.2.28={
+	holder=377176	#Patrashcu the Good
+}
+1557.12.24={
+	holder=377158	#Mircea IV the Shepherd
+}
+1559.9.25={
+	holder=377177	#Petru I the Younger
+}
+1568.6.8={
+	holder=377161	#Alexandru II Mircea
+}
+1577.9.11={
+	holder=377183	#Mihnea II the Turk
+}
+1583.7.1={
+	holder=377180	#Petru II of the Earring
+}
+1585.4.6={
+	holder=377183	#Mihnea II the Turk
+}
+#Appointed
+1591.5.19={
+	holder=377092	#Shtefan I Surdul
+}
+1592.8.1={
+	holder=377092	#Alexander III the Bad
+}
+1593.9.1={
+	holder=377181	#Michael the Brave
+	clear_tribute_suzerain = e_ottomans
+}
+1600.10.1={
+	holder=377114	#Simion Movila Polish vassal
+}
+1601.11.1={
+	holder=377184	#Radu IX Mihnea
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1602.3.1={
+	holder=377114	#Simion Movila Polish vassal	
+}
+1602.8.1={
+	holder=377191	#Radu Sherban 
+	clear_tribute_suzerain = e_ottomans
+}
+1610.12.1={
+	holder=377184	#Radu Mihnea
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1611.5.1={
+	holder=377191	#Radu Sherban
+	clear_tribute_suzerain = e_ottomans
+}
+1611.9.12={
+	holder=377184	#Radu Mihnea
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1616.8.1={
+	holder=377118	#Gabriel Movila
+	clear_tribute_suzerain = e_ottomans
+}
+1616.9.1={
+	holder=377095	#Alexandru Iliash
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1618.5.1={
+	holder=377118	#Gabriel Movila
+	clear_tribute_suzerain = e_ottomans
+}
+1620.7.1={
+	holder=377184	#Radu Mihnea
+	set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+	}
+}
+1623.8.1={
+	holder=377190	#Alexandru Coconul
+}
+1627.11.3={
+	holder=377095	#Alexandru Iliash
+}
+1629.10.1={
+	holder=377090	#Leon Tomsa
+}
+1632.7.21={
+	holder=377096	#Radu Iliash
+}
+1632.9.20={
+	holder=377193	#Matei Basarab
+}

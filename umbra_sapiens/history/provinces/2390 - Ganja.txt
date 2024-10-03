@@ -1,0 +1,23 @@
+# 2390 - Ganja
+
+# County Title
+title = c_ganja
+
+# Settlements
+max_settlements = 4
+b_khornabuji = castle
+b_shamkhor = city
+b_khirsa = temple
+
+#b_ganja = city
+
+# Misc
+culture = dagestani
+religion = miaphysite
+terrain = plains
+
+# History
+835.1.1 = { religion = orthodox }
+1100.1.1 = { culture = georgian }
+1200.1.1 = { culture = persian }
+1200.1.1 = { religion = sunni }

@@ -1,0 +1,879 @@
+#Netulamela Dynasty (Placeholders) of Tulamela
+
+1011000001 = {
+	name="Abdo"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1011000002 = {
+	name="Abdul Baatin"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000001
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1011000003 = {
+	name="Abu Hanifa"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000002
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1011000004 = {
+	name="Abdul Wadood"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000003
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1011000005 = {
+	name="Abdul Kareem"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000004
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1011000006 = {
+	name="Amani"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000005
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1011000007 = {
+	name="Ameen"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000006
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1011000008 = {
+	name="Asim"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000007
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1011000009 = {
+	name="Ateef"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000008
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1011000010 = {
+	name="Ayman"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000009
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1011000011 = {
+	name="Aziz"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000010
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1011000012 = {
+	name="Bachir"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000011
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1011000013 = {
+	name="Bakhit"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000012
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1011000014 = {
+	name="Eufrasia"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000013
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1011000015 = {
+	name="Faheem"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000014
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1011000016 = {
+	name="Faiz"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000015
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1011000017 = {
+	name="Farid"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000016
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1011000018 = {
+	name="Faraj"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000017
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1011000019 = {
+	name="Gabir"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000018
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1011000020 = {
+	name="Jaden"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000019
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1011000021 = {
+	name="Jamal"
+	dynasty=1009990033 #Netulamela
+	religion="west_african_pagan"
+	culture="banda"
+	father=1011000020
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1011000022 = {
+	name="Kafeel"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1011000023 = {
+	name="Hafez"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000022
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1011000024 = {
+	name="Irshad"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000023
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1011000025 = {
+	name="Mahmood"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000024
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1011000026 = {
+	name="Majeed"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000025
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1011000027 = {
+	name="Manal"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000026
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1011000028 = {
+	name="Marwan"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000027
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1011000029 = {
+	name="Muneeb"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000028
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1011000030 = {
+	name="Munir"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000029
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1011000031 = {
+	name="Nafis"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000030
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1011000032 = {
+	name="Namir"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000031
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1011000033 = {
+	name="Nasif"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000032
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1011000034 = {
+	name="Nazeer"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000033
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1011000035 = {
+	name="Omari"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000034
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1011000036 = {
+	name="Raheem"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000035
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1011000037 = {
+	name="Rana"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000036
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1011000038 = {
+	name="Rashad"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000037
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1011000039 = {
+	name="Rahyan"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000038
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1011000040 = {
+	name="Samir"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000039
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1011000041 = {
+	name="Syed"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000040
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1011000042 = {
+	name="Umar"
+	dynasty=1009990034 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000041
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+1011000043 = {
+	name="Wajih"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1011000044 = {
+	name="Yaqub"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000043
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1011000045 = {
+	name="Zahid"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000044
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1011000046 = {
+	name="Zahir"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000045
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1011000047 = {
+	name="Zareb"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000046
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1011000048 = {
+	name="Zayd"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000047
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1011000049 = {
+	name="Kariem"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000048
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1011000050 = {
+	name="Kamal"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000049
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1011000051 = {
+	name="Abdo"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000050
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1011000052 = {
+	name="Ahmed"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000051
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1011000053 = {
+	name="Malse"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000052
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1011000054 = {
+	name="NaNomi"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000053
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1011000055 = {
+	name="Mustafa"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000054
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1011000056 = {
+	name="Shaker"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000055
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1011000057 = {
+	name="Acankoh"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000056
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1011000058 = {
+	name="Mohamed"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000057
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1011000059 = {
+	name="Alghaliy"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000058
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1011000060 = {
+	name="Kariem"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000059
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1011000061 = {
+	name="Zayd"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000060
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1011000062 = {
+	name="Samir"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000061
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1011000063 = {
+	name="Abdul Kareem"
+	dynasty=1009990035 #Netulamela
+	religion="west_african_pagan"
+	culture="sudanese"
+	father=1011000062
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

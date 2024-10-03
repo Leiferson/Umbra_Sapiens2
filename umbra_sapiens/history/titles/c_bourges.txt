@@ -1,0 +1,118 @@
+#Viscounty of Bourges
+769.1.1={
+	holder = 190553 #Theodbert
+}
+769.1.1={
+	liege=k_lotharingia
+}
+826.1.1={
+	holder = 190554 #Robert
+}
+834.1.1={
+	liege=k_france
+	holder = 163065
+}
+936.1.1 = {
+	holder = 382
+	liege = d_valois
+}
+1040.1.1={
+	
+	holder=91324 #Geoffroy IV le Meschin
+	liege = k_france
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+
+1060.1.1={
+	holder=91325 #Étienne
+}
+
+1092.1.1={
+	holder=91330 #Eudes d'Arpin
+}
+
+1101.1.1={
+	holder=214 #Philippe I
+}
+1108.7.29=
+{
+	holder = 205502 #Louis VI le Gros
+}
+1137.8.1=
+{
+	holder = 205500 #Louis VII le Jeune
+}
+
+#counts of Sancerre
+
+1151.1.1=
+{
+	holder = 161410 
+}
+1191.1.1=
+{
+	holder = 161411
+}
+1217.1.1=
+{
+	holder = 161414
+}
+1267.1.1=
+{
+	holder = 161415
+}
+1284.5.22=
+{
+	holder = 161419
+}
+1306.5.16=
+{
+	holder = 161420
+}
+1327.1.1=
+{
+	holder = 161422
+}
+1346.8.26 = {
+	holder = 161424
+}
+1402.3.1 = {
+	holder = 370622
+}
+1418.1.1 = {
+	holder = 370625	#Béraud III de Clermont-Sancerre
+}
+1426.7.28 = {
+	holder = 370630	#Jeanne Ire (dauphine d'Auvergne)
+}
+1436.5.26 = {
+	holder = 370655 #Louis Ier de Montpensier
+}
+1451.1.1 = {
+	holder = 381428  #Jean V de Bueil
+}
+1478.7.7 = {
+	holder = 381431  #Antoine de Bueil
+}
+1506.7.7 = {
+	holder = 381435  #Jacques de Bueil
+}
+1513.10.8 = {
+	holder = 381437  #Charles de Bueil
+}
+1515.9.13 = {
+	holder = 381440  #Jean VI de Bueil
+}
+1537.1.1 = {
+	holder = 381439  #Louis IV de Bueil
+}
+1563.1.1 = {
+	holder = 381441  #Jean VII de Bueil
+}
+1638.1.1 = {
+	holder = 381448  #René de Bueil
+}
+1640.1.1 = {
+	holder = 381449  #Jean VIII de Bueil
+}

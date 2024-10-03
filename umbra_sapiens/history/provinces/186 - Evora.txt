@@ -1,0 +1,26 @@
+# 186 - Évora
+
+# County Title
+title = c_evora
+
+# Settlements
+max_settlements = 6
+b_evora = castle
+b_monforte = temple
+b_ouguela = city
+
+# Misc
+culture = visigothic
+religion = catholic
+
+# History
+
+939.1.1 = {
+	culture = andalusian_arabic
+	religion = sunni
+}
+
+1161.1.1 = {
+	culture = portuguese
+	religion = catholic
+}

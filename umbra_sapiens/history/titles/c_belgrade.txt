@@ -1,0 +1,184 @@
+539.1.1={
+	liege="d_rashka"
+}
+768.1.1={
+	holder = 167859
+}
+805.1.1={
+	liege = "k_bulgaria"
+}
+852.1.1={
+	holder=70382 #Boris
+}
+860.1.1=
+{
+liege="d_vidin"
+}
+860.1.1=
+{
+holder=70383
+}
+936.1.1 = {
+	liege = d_oltenia
+	holder = 260685
+}
+1060.1.1=
+{
+liege="d_vidin"
+}
+1060.1.1=
+{
+holder=20499
+}
+1066.1.1=
+{
+holder=1736
+}
+1071.8.26=
+{
+liege="k_hungary"
+holder=4375
+}
+1093.1.1=
+{
+liege="d_vidin"
+holder=41537
+}
+1094.3.12=
+{
+holder=34466
+}
+1107.1.1=
+{
+holder=34467
+}
+1140.1.1=
+{
+holder=34470
+}
+1147.1.1=
+{
+holder=34445
+}
+1156.1.1=
+{
+holder=34281
+}
+1185.1.1=
+{
+liege="k_hungary"
+holder=93765
+}
+1196.1.1=
+{
+holder=93767
+}
+1237.1.1=
+{
+holder=93768
+}
+1248.1.1=
+{
+liege="d_belgrade"
+holder=98015
+}
+1262.1.2=
+{
+holder=125058
+}
+1270.1.2=
+{
+holder=125057
+}
+1272.9.9=
+{
+liege="k_serbia"
+}
+1272.9.9=
+{
+holder=34117
+}
+1282.1.1=
+{
+holder=468505
+}
+1321.10.29=
+{
+holder=34122
+}
+1322.6.1=
+{
+holder=468510
+}
+1331.11.3=
+{
+holder=468500
+}
+1355.12.20={
+	holder=468501	#Stefan Urosh V
+}
+1371.12.4={
+	holder=377259	#Lazar of Serbia
+}
+1389.6.15={
+	holder=377276	#Stefan Lazarevic
+}
+1402.1.1={
+	liege=k_serbia #Becomes despot
+}
+1427.7.19={
+	holder=375514	#Durad Brankovic
+}
+1427.10.1={
+holder=370403	#Sigismund, Holy Roman Emperor
+liege=k_hungary
+}
+1437.12.9 = {
+holder=370431	#Albert II of Germany
+}
+1439.10.27={
+holder=371729	#Wladyslaw III of Poland of Poland
+}
+1440.7.17={
+holder=371947	#Ladislaus the Posthumous
+}
+1457.11.23={
+holder=374733	#Matthias Corvinus
+}
+1490.4.6={
+holder=371731	#Vladislaus II of Hungary
+}
+1516.3.13={
+holder=371809	#Louis II of Hungary
+}
+1521.8.28={
+	holder=378056	#Suleiman I
+	liege=e_ottomans
+}
+1566.9.6={
+	holder=378068	#Selim II
+}
+1574.12.15={
+	holder=378092	#Murad III
+}
+1595.1.2={
+	holder=378103	#Mehmed III 
+}
+1603.12.22={
+	holder=378139	#Ahmed I
+}
+1617.11.22={
+	holder=378143	#Mustafa I
+}
+1618.2.26={
+	holder=378145	#Osman II
+}
+1622.5.20={
+	holder=378143	#Mustafa I
+}
+1623.9.10={
+	holder=378148	#Murad IV
+}
+1640.2.8={
+	holder=378154	#Ibrahim
+}

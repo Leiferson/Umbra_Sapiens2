@@ -1,0 +1,294 @@
+#Netulamela Dynasty (Placeholders) of Tulamela
+
+1009000001 = {
+	name="Ntshendedzeni"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1009000002 = {
+	name="Dowe"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000001
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1009000003 = {
+	name="Lutendo"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000002
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1009000004 = {
+	name="Nkhangweleni"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000003
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1009000005 = {
+	name="Nnyaweleni"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000004
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1009000006 = {
+	name="Khathu"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000005
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1009000007 = {
+	name="Phathutshedzo"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000006
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1009000008 = {
+	name="Azwimmbahvi"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000007
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1009000009 = {
+	name="Nnyaweleni"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000008
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1009000010 = {
+	name="Avhapfani"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000009
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1009000011 = {
+	name="Thinawanga"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000010
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1009000012 = {
+	name="Phathu"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000011
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1009000013 = {
+	name="Khuliso"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000012
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1009000014 = {
+	name="Dowe"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000013
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1009000015 = {
+	name="Dali"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000014
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1009000016 = {
+	name="Ntshengedzeni"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000015
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1009000017 = {
+	name="Lindelani"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000016
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1009000018 = {
+	name="Tungu"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000017
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1009000019 = {
+	name="Arehone"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000018
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1009000020 = {
+	name="Azwinaki"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000019
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1009000021 = {
+	name="Funi"
+	dynasty=1009990001 #Netulamela
+	religion="west_african_pagan"
+	culture="kolokolo"
+	father=1009000020
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

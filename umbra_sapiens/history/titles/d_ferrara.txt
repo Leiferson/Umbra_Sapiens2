@@ -1,0 +1,74 @@
+1187.1.1={
+	liege="e_hre"
+	holder=223597
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+1193.12.15={
+	holder=223596
+}
+1212.11.1={
+	holder=70658
+}
+1215.1.1={
+	holder=70661
+}
+1264.2.17={
+	holder=70669
+liege="0"
+}
+1293.2.20={
+	holder=70674
+}
+1308.1.31={
+	holder=70686
+}
+1308.10.1={
+	holder=70689
+}
+1310.1.1={
+	liege="k_papal_state"
+	law = succ_catholic_bishopric
+}
+1317.1.1={
+	liege="0"
+	holder=70700
+	law = succ_primogeniture
+}
+1335.12.31=
+{
+holder=70709	#Nicolò I d'Este
+}
+1344.5.1 = {
+holder=463204	#Aldobrandino III d'Este, Marquis of Ferrara
+}
+1361.11.3 = {
+holder=375258	#Niccolò II d'Este
+}
+1388.3.26 = {
+holder=375262	#Alberto V d'Este
+}
+1393.7.30 = {
+holder=375265	#Niccolò III d'Este
+}
+1441.11.26 = {
+holder=375318	#Leonello d'Este
+}
+1450.10.1 = {
+holder=375319	#Borso d'Este
+}
+1471.8.20 = {
+holder=375328	#Ercole I d'Este
+}
+1505.1.25 = {
+holder=375334	#Alfonso I d'Este
+}
+1534.10.31 = {
+holder=375406	#Ercole II d'Este
+}
+1559.10.3 = {
+holder=375416	#Alfonso II d'Este
+}
+1597.10.27 = {
+	holder=0
+}

@@ -1,0 +1,30 @@
+# 1927 - Yamashiro
+
+# County Title
+title = c_yamashiro
+
+# Settlements
+max_settlements = 6
+b_dairi = castle
+b_heiankyo = city
+b_gion = temple
+b_toba = castle
+
+#b_fushimi = city
+#b_uji = castle
+#b_rokuhara = castle
+#b_muromachi = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History
+701.1.1 = {
+build_wonder = wonder_university
+set_wonder_stage = 1
+set_wonder_name = KYOTOUNIVERSITY
+set_wonder_description = KYOTOUNIVERSITYDESC
+build_wonder_upgrade = upgrade_great_seminars
+build_wonder_upgrade = upgrade_wing_of_stewardship
+}

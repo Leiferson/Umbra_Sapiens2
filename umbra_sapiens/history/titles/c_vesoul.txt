@@ -1,0 +1,144 @@
+#County of Burgundy
+
+#Royal Domain
+769.1.1 = {
+	holder = 144999
+}
+855.8.23={
+	liege = "k_burgundy"
+	holder = 91383
+}
+859.1.1=
+{
+	holder=91384
+}
+880.1.1={
+	holder = 90105
+}
+888.1.14={
+	holder=7984
+}
+911.10.25={
+	holder=1144
+}
+936.1.1 = {
+	holder = 30245
+}
+937.12.1={
+	holder=1146
+}
+#House of Ivrée
+986.1.1 = {
+	liege="d_burgundy"
+	holder=272 #Otte-Guillaume
+}
+1026.1.1={
+	liege="e_hre"
+	holder=276 #Renaud I de Bourgogne
+}
+1057.1.1={
+	holder=280 #Guillaume I de Bourgogne
+}
+1087.1.1={
+	holder=290 #Renaud II de Bourgogne
+}
+1097.1.1 = {
+	holder=205706 #Étienne I de Bourgogne
+}
+1102.1.1={
+	holder=232556 #Renaud III de Bourgogne
+}
+1148.1.1 = {
+	holder=205599 #Béatrice I de Bourgogne
+}
+
+#House of Hohenstaufen
+1184.1.1={
+	holder=212501 #Frédéric I Barberousse
+}
+1190.6.2={
+	holder=212511 #Othon I de Hohenstaufen
+}
+1200.1.13={
+	holder=30772 #Jeanne I de Bourgogne
+}
+1205.1.1= {
+	holder= 7652 #Béatrice II de Bourgogne
+}
+1220.1.1 = {
+	liege = d_upper_burgundy
+}
+
+#House of Andechs
+1231.1.1= {
+	holder= 7684 #Othon III de Bourgogne
+}
+1248.1.1={
+	holder=7653 #Adélaïde I de Bourgogne
+	liege = e_hre
+}
+
+#House of Ivrée
+1279.1.1={
+	holder = 455739 #Othon IV de Bourgogne
+}
+1303.1.1={
+	holder = 91146 #Robert de Bourgogne
+}
+1315.1.1={
+	liege="k_france"
+	holder=455741 #Jeanne de Bourgogne
+}
+
+#Direct Capetians
+1330.1.1={
+	liege="d_burgundy"
+	holder=455913 #Jeanne III de Bourgogne
+}
+1347.8.15 = {
+	holder=381383	#Philippe Ier de Bourgogne
+}
+1361.11.21 = {
+	holder=455508	#Marguerite Ire de Bourgogne
+}
+1382.5.9 = {
+	holder=455712	#Louis II de Flandre
+}
+1384.11.9 = {
+	holder=370661	#Marguerite III de Flandre
+}
+1405.3.16 = {
+	holder=370527	#John the Fearless
+}
+1419.9.10 = {
+	holder=370536	#Philip the Good
+}
+1467.6.15 = {
+	holder=370558	#Charles the Bold
+}
+1477.1.5 = {
+	holder=370866 #Mary of Burgundy
+}
+1482.3.27 = {
+	holder=370841 #Louis XI
+}
+1483.8.30={
+	holder=370997 #Charles VIII
+}
+1493.5.23 = {
+	holder=370697	#Philip I of Castille
+	liege=e_hre
+}
+1506.9.25 = {
+	holder=370714	#Charles V of Castille and Holy Roman Emperor
+}
+1556.1.16={
+	holder=370718 #Philip II
+	liege=e_espana_burgona
+}
+1598.9.13={
+	holder=371850 #Philip III
+}
+1621.3.31={
+	holder=372606 #Philip IV
+}

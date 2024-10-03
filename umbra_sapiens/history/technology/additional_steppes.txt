@@ -1,0 +1,54 @@
+technology = {
+	titles = {
+ d_magadan
+ d_druzhina
+ d_kekra
+ d_chkalov
+ d_sobolokh
+ d_egvekinot
+ d_yanrakynnot
+ d_khatyrka
+ d_manily
+ d_neshkan
+ d_valkumey
+ d_chersky
+ d_sokoch
+ d_ustbolsheretsk
+ d_bering
+ d_dolinovka
+ d_tilichiki
+ d_sydybylnew
+ d_krasnoyarsk
+ d_chekurovka
+ d_niurba
+ d_zhilinda
+ d_yukta
+ d_chervyanka
+ d_talnakh
+ d_saragash
+ d_muzhi
+ d_kazymmus
+ d_tarkosale
+ d_surgut
+ d_podcherye
+ d_vorkuta
+ d_vorgashor
+ d_salekhard
+ d_baykalovsk
+ d_korotchayevo
+ d_sabetta
+ d_yuzhny
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	
+	1640 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}

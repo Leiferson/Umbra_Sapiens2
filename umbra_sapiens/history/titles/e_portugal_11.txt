@@ -1,0 +1,11 @@
+20.1.1={
+	active = no
+}
+1640.12.1={
+	active = yes
+	holder=370381 # John IV de Braganza
+	law = succ_primogeniture
+	effect={
+		insert_title_history=e_portugal_10
+	}
+}

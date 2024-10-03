@@ -1,0 +1,786 @@
+1000079082 = {
+    name="Zhen" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+    60.1.1={
+        birth=yes
+    }
+	61.1.1={
+		create_bloodline = {
+		type = confucian_blood
+	}
+	}
+    140.1.1={
+        death=yes
+    }
+}
+1000079083 = {
+    name="Ni" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079082
+    135.1.1={
+        birth=yes
+    }
+    210.1.1={
+        death=yes
+    }
+}
+1000079084 = {
+    name="Fu" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079083
+    198.1.1={
+        birth=yes
+    }
+    270.1.1={
+        death=yes
+    }
+}
+1000079085 = {
+    name="Yi" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079084
+    221.1.1={
+        birth=yes
+    }
+    290.1.1={
+        death=yes
+    }
+}
+1000079086 = {
+    name="Xian" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079085
+    247.1.1={
+        birth=yes
+    }
+    320.1.1={
+        death=yes
+    }
+}
+1000079087 = {
+    name="Cheng" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079086
+    278.1.1={
+        birth=yes
+    }
+    350.1.1={
+        death=yes
+    }
+}
+1000079088 = {
+    name="Lingzhen" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079087
+    301.1.1={
+        birth=yes
+    }
+    376.1.1={
+        death=yes
+    }
+}
+1000079089 = {
+    name="Wentai" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079088
+    320.1.1={
+        birth=yes
+    }
+    401.1.1={
+        death=yes
+    }
+}
+1000079090 = {
+    name="Qu" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079089
+    358.1.1={
+        birth=yes
+    }
+    426.1.1={
+        death=yes
+    }
+}
+1000079091 = {
+    name="Zhangsun" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079090
+    383.1.1={
+        birth=yes
+    }
+    425.1.1={
+        death=yes
+    }
+}
+1000079092 = {
+    name="Sizhe" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079091
+    416.1.1={
+        birth=yes
+    }
+    499.1.1={
+        death=yes
+    }
+}
+1000079093 = {
+    name="Yingzhe" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079092
+    449.1.1={
+        birth=yes
+    }
+    522.1.1={
+        death=yes
+    }
+}
+1000079094 = {
+    name="Delun" 
+    religion="taoist"
+   culture="han"
+	dynasty = 1000156015
+	father = 1000079092
+    452.1.1={
+        birth=yes
+    }
+    510.1.1={
+        death=yes
+    }
+}
+1000079095 = {
+    name="Chongji" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079094
+    478.1.1={
+        birth=yes
+    }
+    521.1.1={
+        death=yes
+    }
+}
+1000079096 = {
+    name="Suizhi" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079095
+    500.1.1={
+        birth=yes
+    }
+    572.1.1={
+        death=yes
+    }
+}
+1000079097 = {
+    name="Xuan" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079096
+    521.1.1={
+        birth=yes
+    }
+    590.1.1={
+        death=yes
+    }
+}
+1000079098 = {
+    name="Qiqing" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079097
+    552.1.1={
+        birth=yes
+    }
+    610.1.1={
+        death=yes
+    }
+}
+1000079099 = {
+    name="Weizhi" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079098
+    576.1.1={
+        birth=yes
+    }
+    630.1.1={
+        death=yes
+    }
+}
+1000079100 = {
+    name="Ce" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079099
+    628.1.1={
+        birth=yes
+    }
+    720.1.1={
+        death=yes
+    }
+}
+1000079101 = {
+    name="Zhen" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079100
+    719.1.1={
+        birth=yes
+    }
+    802.1.1={
+        death=yes
+    }
+}
+1000079102 = {
+    name="Zhaojian" 
+    religion="taoist"
+    culture="han"
+	
+	dynasty = 1000156015
+	father = 1000079101
+    740.1.1={
+        birth=yes
+    }
+    822.1.1={
+        death=yes
+    }
+}
+1000079103 = {
+    name="Guangsi" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079102
+    814.1.1={
+        birth=yes
+    }
+    902.1.1={
+        death=yes
+    }
+}
+1000079104 = {
+    name="Renyu" 
+    religion="taoist"
+	culture="han"
+	dynasty = 1000156015
+	father = 1000079103
+    855.1.1={
+        birth=yes
+    }
+    940.1.1={
+        death=yes
+    }
+}
+1000079105 = {
+    name="Yi" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079104
+    880.1.1={
+        birth=yes
+    }
+    961.1.1={
+        death=yes
+    }
+}
+1000079106 = {
+    name="Yanshi" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079105
+    900.1.1={
+        birth=yes
+    }
+    948.1.1={
+        death=yes
+    }
+}
+1000079107 = {
+    name="Shengyou" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079106
+    920.1.1={
+        birth=yes
+    }
+    970.1.1={
+        death=yes
+    }
+}
+1000079109 = {
+    name="Yanze" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079107
+    941.1.1={
+        birth=yes
+    }
+    1006.1.1={
+        death=yes
+    }
+}
+1000079110 = {
+    name="Zongyuan" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079109
+    1003.1.1={
+        birth=yes
+    }
+    1068.1.1={
+        death=yes
+    }
+}
+1000079111 = {
+    name="Ruoxu" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079110
+    1030.1.1={
+        birth=yes
+    }
+    1104.1.1={
+        death=yes
+    }
+}
+1000079112 = {
+    name="Ruomeng" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079110
+    1032.1.1={
+        birth=yes
+    }
+    1096.1.1={
+        death=yes
+    }
+}
+1000079113 = {
+    name="Duanyou" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079112
+    1089.1.1={
+        birth=yes
+    }
+    1152.1.1={
+        death=yes
+    }
+}
+1000079114 = {
+    name="Duancao" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079112
+    1086.1.1={
+        birth=yes
+    }
+    1133.1.1={
+        death=yes
+    }
+}
+1000079115 = {
+    name="Jie" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079114
+    1122.1.1={
+        birth=yes
+    }
+    1154.1.1={
+        death=yes
+    }
+}
+1000079116 = {
+    name="Xuan" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079114
+    1120.1.1={
+        birth=yes
+    }
+    1190.1.1={
+        death=yes
+    }
+}
+1000079117 = {
+    name="Fan" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079114
+    1106.1.1={
+        birth=yes
+    }
+    1143.1.1={
+        death=yes
+    }
+}
+1000079118 = {
+    name="Tian" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079114
+    1106.1.1={
+        birth=yes
+    }
+    1143.1.1={
+        death=yes
+    }
+}
+1000079119 = {
+    name="Jin" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079115
+    1145.1.1={
+        birth=yes
+    }
+    1193.1.1={
+        death=yes
+    }
+}
+1000079120 = {
+    name="Wenyuan" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079119
+    1185.1.1={
+        birth=yes
+    }
+    1226.1.1={
+        death=yes
+    }
+}
+1000079121 = {
+    name="Wanchun" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079120
+    1200.1.1={
+        birth=yes
+    }
+    1241.1.1={
+        death=yes
+    }
+}
+1000079122 = {
+    name="Zhu" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079121
+    1228.1.1={
+        birth=yes
+    }
+    1287.1.1={
+        death=yes
+    }
+}
+1000079123 = {
+    name="Zheng" 
+    religion="taoist"
+    culture="han"
+	
+	dynasty = 1000156015
+	father = 1000079117
+    1136.1.1={
+        birth=yes
+    }
+    1161.1.1={
+        death=yes
+    }
+}
+1000079124 = {
+    name="Zong" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079117
+    1138.1.1={
+        birth=yes
+    }
+    1190.1.1={
+        death=yes
+    }
+}
+1000079125 = {
+    name="Yuancuo" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079124
+    1182.1.1={
+        birth=yes
+    }
+    1251.1.1={
+        death=yes
+    }
+}
+1000079126 = {
+    name="Yuanhong" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079124
+    1182.1.1={
+        birth=yes
+    }
+    1251.1.1={
+        death=yes
+    }
+}
+1000079127 = {
+    name="Zhigu" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079126
+    1202.1.1={
+        birth=yes
+    }
+    1254.1.1={
+        death=yes
+    }
+}
+1000079128 = {
+    name="Zhen" 
+    religion="taoist"
+	culture="han"
+	dynasty = 1000156015
+	father = 1000079127
+    1251.1.1={
+        birth=yes
+    }
+    1306.1.1={
+        death=yes
+    }
+}
+1000079129 = {
+    name="Ruoyu" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079110
+    1029.1.1={
+        birth=yes
+    }
+    1086.1.1={
+        death=yes
+    }
+}
+1000079130 = {
+    name="Duanli" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079129
+    1060.1.1={
+        birth=yes
+    }
+    1110.1.1={
+        death=yes
+    }
+}
+1000079131 = {
+    name="Hu" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079130
+    1079.1.1={
+        birth=yes
+    }
+    1125.1.1={
+        death=yes
+    }
+}
+1000079132 = {
+    name="Fu" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079131
+    1118.1.1={
+        birth=yes
+    }
+    1182.1.1={
+        death=yes
+    }
+}
+1000079133 = {
+    name="Yuanxiao" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079132
+    1181.1.1={
+        birth=yes
+    }
+    1240.1.1={
+        death=yes
+    }
+}
+1000079134 = {
+    name="Yuanyong" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079132
+    1170.1.1={
+        birth=yes
+    }
+    1227.1.1={
+        death=yes
+    }
+}
+1000079135 = {
+    name="Zhihou" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079133
+    1212.1.1={
+        birth=yes
+    }
+    1262.1.1={
+        death=yes
+    }
+}
+1000079136 = {
+    name="Zhiquan" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079134
+    1171.1.1={
+        birth=yes
+    }
+    1238.1.1={
+        death=yes
+    }
+}
+1000079137 = {
+    name="Huan" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079135
+    1232.1.1={
+        birth=yes
+    }
+    1283.1.1={
+        death=yes
+    }
+}
+1000079138 = {
+    name="Zhi" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079136
+    1237.1.1={
+        birth=yes
+    }
+    1307.1.1={
+        death=yes
+    }
+}
+1000079139 = {
+    name="Sihui" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079137
+    1267.1.1={
+        birth=yes
+    }
+    1333.1.1={
+        death=yes
+    }
+}
+1000079140 = {
+    name="Sicheng" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079138
+    1264.1.1={
+        birth=yes
+    }
+    1302.1.1={
+        death=yes
+    }
+}
+1000079141 = {
+    name="Kejian" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079139
+    1316.1.1={
+        birth=yes
+    }
+    1370.1.1={
+        death=yes
+    }
+}
+1000079142 = {
+    name="Xixue" 
+    religion="taoist"
+    culture="han"
+	dynasty = 1000156015
+	father = 1000079141
+    1335.1.1={
+        birth=yes
+    }
+    1381.1.1={
+        death=yes
+    }
+}

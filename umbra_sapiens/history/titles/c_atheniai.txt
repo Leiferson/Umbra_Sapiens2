@@ -1,0 +1,232 @@
+330.1.1={
+	liege="d_athens"
+}
+733.1.1={
+	holder=145802
+}
+765.1.1={
+	holder=145804
+}
+788.1.1={
+	holder=145805
+}
+812.1.1={
+	holder=145148
+}
+820.1.1={
+	holder=145149
+}
+845.1.1={
+	holder=145150
+}
+936.1.1 = {
+	holder = 145159
+}
+1060.1.1={
+	holder=41303
+}
+1107.2.1=
+{
+	holder=34576
+}
+1120.1.1=
+{
+	holder=34577
+}
+1150.1.1=
+{
+	holder=34578
+}
+1176.1.1={
+	holder=215013
+}
+1204.8.1={
+	holder=31211 #Othon I
+}
+1225.1.1={
+	holder=31216 #Guy I
+}
+1263.1.1={
+	holder=31217 #Jean I
+}
+1280.1.1={
+	holder=31218 #Guillaume I
+}
+1287.1.1={
+	holder=31223 #Guy II
+}
+1308.10.5={
+	holder=461733 #Gauthier I
+}
+1311.3.15={
+	holder=31225 #Roger
+}
+1312.1.1={
+	holder=71753 #Manfredo
+}
+1317.11.19={
+	holder=461510 #Gugliemo
+}
+1338.8.22 = {
+	holder=461520	#John, Duke of Randazzo
+}
+1348.1.1={
+	holder=379488	#Frederick I, Duke of Athens
+}
+1355.7.11={
+	holder=370132	#Frederick the Simple of Sicily
+}
+1377.7.27={
+	holder=370137	#Maria, Queen of Sicily
+}
+1380.5.20={
+	holder=460500 #Peter IV of Aragon
+	liege=k_aragon
+}
+1388.5.2={
+	holder=379478	#Nerio I Acciaioli
+	liege=0
+}
+1394.9.25={
+	holder=379487 #Donato Acciaioli
+}
+1395.1.1={
+	liege=k_venice
+}
+1403.1.1={
+	holder=379479 #Antonio I Acciaioli ill
+	liege=d_athens
+}
+1435.1.1={
+	holder=379483 #Nerio II Acciaioli
+}
+1439.1.1={
+	holder=379484	#Antonio II Acciaioli
+}
+1441.1.1={
+	holder=379483 #Nerio II Acciaioli
+}
+1444.1.1={
+	set_tribute_suzerain = {
+		who = d_achaia
+		type = permanent 
+	}
+}
+1451.1.1={
+	holder=379485 #Francesco I Acciaioli
+}
+1455.1.1={
+	holder=379486 #Francesco II Acciaioli
+}
+1458.1.1={
+	holder=377984	#Mehmed II
+	liege=e_ottomans
+}
+1481.5.3={
+	holder=377993	#Bayezid II
+}
+1512.6.10={
+	holder=378008	#Selim I
+}
+1520.9.22={
+	holder=378056	#Suleiman I
+}
+1533.1.1={
+	holder=378677	#Hayreddin Barbarossa 
+}
+1546.7.4={
+	holder=379047	#Sokollu Mehmed Pasha
+}
+1550.1.1={
+	holder=379461	#Sinan Pasha (Ottoman admiral)
+}
+1554.1.1={
+	holder=379462	#Piyale Pasha
+}
+1567.1.1={
+	holder=379104	#Müezzinzade Ali Pasha
+}
+1571.10.7={
+	holder=378903	#Kılıç Ali Pasha
+}
+1587.6.25={
+	holder=379109	#Damat Ibrahim Pasha
+}
+1588.4.14={
+	holder=378696	#Venetian Hasan Pasha
+}
+1591.7.17={
+	holder=379445	#Yusuf Sinan Pasha
+}
+1595.6.26={
+	holder=379463	#Damat Halil Pasha 
+}
+1598.4.8={
+	holder=379445	#Yusuf Sinan Pasha
+}
+1605.1.24={
+	holder=379464	#Kayapashazade Kubad Mustafa Pasha 	
+}
+1606.1.18={
+	holder=379448	#Dervis Mehmed Pasha 
+}
+1606.5.21={
+	holder=379465	#Frank Cafer Pasha
+}
+1608.2.9={
+	holder=379072	#Hafiz Ahmed Pasha 
+}
+1609.2.1={
+	holder=379450	#Halil Pasha of Kayseri  
+}
+1611.12.1={
+	holder=379120	#Öküz Mehmed Pasha 
+}
+1613.11.24={
+	holder=379450	#Halil Pasha of Kayseri  
+}
+1616.11.17={
+	holder=379451	#Guzelce Ali Pasha (d. 1621)
+}
+1617.11.23={
+	holder=379400	#Kara Davut Pasha 
+}
+1618.1.2={
+	holder=379451	#Guzelce Ali Pasha (d. 1621)
+}
+1619.12.24={
+	holder=379450	#Halil Pasha of Kayseri  
+}
+1620.12.1={
+	holder=379079	#Niğdeli Mustafa Pasha 
+}
+1621.6.1={
+	holder=379450	#Halil Pasha of Kayseri  
+}
+1623.2.5={
+	holder=379458	#Topal Recep Pasha 
+}
+1626.7.26={
+	holder=379466	#Catalcali Hasan Pasha 
+}
+1630.10.20={
+	holder=379467	#Canbolatzade Mustafa Pasha 
+}
+1632.7.1={
+	holder=379468	#Bostancı Cafer Pasha
+}
+1634.6.30={
+	holder=379412	#Deli Huseyin Pasha
+}
+1635.10.21={
+	holder=379459	#Kemankes Kara Mustafa Pasha 
+}
+1638.12.24={
+	holder=379469	#Silahtar Mustafa Pasha 
+}
+1640.2.22={
+	holder=379412	#Deli Huseyin Pasha
+}
+1640.9.9={
+	holder=379412	#Siyavush Pasha 
+}

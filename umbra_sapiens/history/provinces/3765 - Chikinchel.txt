@@ -1,0 +1,27 @@
+# County Title
+title = c_chikinchel
+
+# Settlements
+max_settlements = 3
+b_chikinchel = castle
+
+# Misc
+culture = mayanx
+religion = mayan
+
+# History
+750.1.1 = {
+	build_wonder = wonder_maya_pyramid
+	set_wonder_stage = 1
+	set_wonder_name = CHICKEN
+	set_wonder_description = CHICKENDESC
+}
+800.1.1 = {
+	set_wonder_stage = 2
+}
+850.1.1 = {
+	set_wonder_stage = 3
+}
+900.1.1 = {
+	set_wonder_stage = 4
+}

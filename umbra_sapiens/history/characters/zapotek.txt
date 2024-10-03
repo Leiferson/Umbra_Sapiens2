@@ -1,0 +1,1075 @@
+1019919657={
+	name=Ocuil
+	dynasty=1009990164
+	dna="lhdcfcjaaai"
+	culture=zapotek religion=zapotec_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=4
+	add_trait=flamboyant_schemer add_trait=lustful add_trait=just add_trait=temperate 
+	add_trait=content 
+	720.11.12={ birth=yes }
+	761.10.14={ death=yes }
+}
+1019919658={
+	name=Cuixtli
+	dynasty=1009990164
+	dna="lgjleejgaan"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=5 learning=4
+	add_trait=elusive_shadow add_trait=envious add_trait=paranoid add_trait=greedy add_trait=content 
+	add_trait=cynical 
+	father=1019919657	#Ocuil
+	744.6.8={ birth=yes }
+	811.11.22={ death=yes }
+}
+1019919659={
+	name=Xiloxoch
+	female=yes
+	dynasty=1009990164
+	dna="dbdcbcjnakk"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919657	#Ocuil
+	748.5.8={ birth=yes }
+	832.9.25={ death=yes }
+}
+1019919660={
+	name=Ahuiliztli
+	dynasty=1009990164
+	dna="lhbifhnoman"
+	culture=zapotek religion=zapotec_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=scholar add_trait=honest add_trait=craven add_trait=diligent 
+	father=1019919657	#Ocuil
+	750.3.6={ birth=yes }
+	829.2.24={ death=yes }
+}
+1019919661={
+	name=Huitztecol
+	dynasty=1009990164
+	dna="ghdoibjfmai"
+	culture=zapotek religion=zapotec_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=zealous add_trait=envious add_trait=temperate add_trait=ambitious 
+	add_trait=chaste 
+	father=1019919657	#Ocuil
+	755.4.26={ birth=yes }
+	841.1.8={ death=yes }
+}
+1019919662={
+	name=Xochitl
+	female=yes
+	dynasty=1009990164
+	dna="moiifcjakii"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919657	#Ocuil
+	757.7.18={ birth=yes }
+	815.5.22={ death=yes }
+}
+1019919663={
+	name=Itotia
+	female=yes
+	dynasty=1009990164
+	dna="ohdcffmaaak"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919657	#Ocuil
+	762.5.25={ birth=yes }
+	820.1.20={ death=yes }
+}
+1019919664={
+	name=Xipilli
+	dynasty=1009990164
+	dna="fgnlecjeaaa"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=8
+	add_trait=midas_touched add_trait=arbitrary add_trait=honest add_trait=temperate add_trait=gregarious 
+	father=1019919658	#Cuixtli
+	775.4.4={ birth=yes }
+	845.4.10={ death=yes }
+}
+1019919665={
+	name=Matlal
+	dynasty=1009990164
+	dna="pchleelgman"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=just add_trait=greedy add_trait=proud add_trait=brave 
+	father=1019919658	#Cuixtli
+	782.1.8={ birth=yes }
+	866.5.22={ death=yes }
+}
+1019919666={
+	name=Cuicatl
+	female=yes
+	dynasty=1009990164
+	dna="kgnmoiehaal"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919664	#Xipilli
+	796.11.26={ birth=yes }
+	873.10.2={ death=yes }
+}
+1019919667={
+	name=Cuauhtl
+	dynasty=1009990164
+	dna="hgnlecjehaa"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=8
+	add_trait=flamboyant_schemer  add_trait=patient add_trait=temperate 
+	father=1019919664	#Xipilli
+	799.1.12={ birth=yes }
+	856.6.21={ death=yes }
+}
+1019919668={
+	name=Zolin
+	dynasty=1009990164
+	dna="fgniecjlaed"
+	culture=zapotek religion=zapotec_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=8
+	add_trait=charismatic_negotiator add_trait=impaler add_trait=paranoid add_trait=greedy add_trait=craven 
+	father=1019919664	#Xipilli
+	802.3.26={ birth=yes }
+	894.3.1={ death=yes }
+}
+1019919669={
+	name=Atotoztli
+	female=yes
+	dynasty=1009990164
+	dna="fgndecjgbaj"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919664	#Xipilli
+	807.6.26={ birth=yes }
+	872.11.13={ death=yes }
+}
+1019919670={
+	name=Azcalxochitzin
+	female=yes
+	dynasty=1009990164
+	dna="omnakcfgoab"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919664	#Xipilli
+	812.1.20={ birth=yes }
+	852.2.6={ death=yes }
+}
+1019919671={
+	name=Tepin
+	female=yes
+	dynasty=1009990164
+	dna="hnpjpciepca"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919667	#Cuauhtl
+	823.6.13={ birth=yes }
+	891.5.2={ death=yes }
+}
+1019919672={
+	name=Malinalxochitl
+	female=yes
+	dynasty=1009990164
+	dna="hnllecdebdg"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919667	#Cuauhtl
+	830.6.14={ birth=yes }
+	895.4.17={ death=yes }
+}
+1019919673={
+	name=Tlacotl
+	female=yes
+	dynasty=1009990164
+	dna="hgnjdcjghka"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919667	#Cuauhtl
+	835.4.10={ birth=yes }
+	915.1.24={ death=yes }
+}
+1019919674={
+	name=Coatl
+	dynasty=1009990164
+	dna="flhldckemcc"
+	culture=zapotek religion=zapotec_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=5
+	add_trait=tough_soldier add_trait=cynical add_trait=just add_trait=envious 
+	father=1019919667	#Cuauhtl
+	842.8.13={ birth=yes }
+	918.5.29={ death=yes }
+}
+1019919675={
+	name=Itzcoatl
+	dynasty=1009990164
+	dna="jlbldhhemic"
+	culture=zapotek religion=zapotec_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=7 learning=4
+	add_trait=grey_eminence add_trait=brave add_trait=diligent add_trait=deceitful add_trait=greedy 
+	add_trait=humble add_trait=wroth 
+	father=1019919674	#Coatl
+	862.3.11={ birth=yes }
+	922.7.28={ death=yes }
+}
+1019919676={
+	name=Chimalma
+	female=yes
+	dynasty=1009990164
+	dna="ilkddckelcj"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919674	#Coatl
+	869.1.17={ birth=yes }
+	935.7.21={ death=yes }
+}
+1019919677={
+	name=Matlatzincatzin
+	dynasty=1009990164
+	dna="nlhbkbkemca"
+	culture=zapotek religion=zapotec_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=6 learning=7
+	add_trait=scholarly_theologian add_trait=celibate add_trait=gluttonous add_trait=zealous add_trait=deceitful 
+	father=1019919674	#Coatl
+	873.1.6={ birth=yes }
+	931.12.4={ death=yes }
+}
+1019919678={
+	name=Yoltzin
+	female=yes
+	dynasty=1009990164
+	dna="flhlgiklmcc"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919674	#Coatl
+	878.2.7={ birth=yes }
+	949.8.4={ death=yes }
+}
+1019919679={
+	name=Xiloxoch
+	female=yes
+	dynasty=1009990164
+	dna="jmefdaeemig"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919675	#Itzcoatl
+	885.5.7={ birth=yes }
+	943.10.25={ death=yes }
+}
+1019919680={
+	name=Matlatzincatzin
+	dynasty=1009990164
+	dna="jlpmadeeelc"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=shy add_trait=brave add_trait=proud add_trait=just 
+	add_trait=lunatic 
+	father=1019919675	#Itzcoatl
+	889.8.25={ birth=yes }
+	946.6.19={ death=yes }
+}
+1019919681={
+	name=Sacnite
+	female=yes
+	dynasty=1009990164
+	dna="elapdhhemhl"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919675	#Itzcoatl
+	895.2.14={ birth=yes }
+	977.6.23={ death=yes }
+}
+1019919682={
+	name=Aculnahuacatl
+	dynasty=1009990164
+	dna="gnblnhheoic"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=6
+	add_trait=elusive_shadow add_trait=gardener add_trait=honest add_trait=wroth add_trait=gregarious 
+	add_trait=paranoid add_trait=arbitrary 
+	father=1019919675	#Itzcoatl
+	898.2.9={ birth=yes }
+	984.2.14={ death=yes }
+}
+1019919683={
+	name=Ixcatzin
+	female=yes
+	dynasty=1009990164
+	dna="llkldhgemil"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919675	#Itzcoatl
+	902.2.24={ birth=yes }
+	956.10.2={ death=yes }
+}
+1019919684={
+	name=Achcauhtli
+	female=yes
+	dynasty=1009990164
+	dna="ebomaleejkd"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919680	#Matlatzincatzin
+	908.11.10={ birth=yes }
+	979.6.11={ death=yes }
+}
+1019919685={
+	name=Ahuitzotl
+	dynasty=1009990164
+	dna="japlaieielc"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=5 learning=8
+	add_trait=elusive_shadow add_trait=brave add_trait=content add_trait=zealous add_trait=patient 
+	father=1019919680	#Matlatzincatzin
+	911.7.6={ birth=yes }
+	993.7.18={ death=yes }
+}
+1019919686={
+	name=Cacamatzin
+	dynasty=1009990164
+	dna="glmeaaeealo"
+	culture=zapotek religion=zapotec_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=scholar add_trait=just add_trait=proud 
+	father=1019919680	#Matlatzincatzin
+	915.11.21={ birth=yes }
+	977.1.8={ death=yes }
+}
+1019919687={
+	name=Necuametl
+	dynasty=1009990164
+	dna="odpmadefglh"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=7
+	add_trait=grey_eminence add_trait=temperate add_trait=humble add_trait=trusting add_trait=ambitious 
+	father=1019919680	#Matlatzincatzin
+	919.7.27={ birth=yes }
+	997.11.28={ death=yes }
+}
+1019919688={
+	name=Matlalihuitl
+	dynasty=1009990164
+	dna="oapmdjagllb"
+	culture=zapotek religion=zapotec_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=6
+	add_trait=scholarly_theologian add_trait=hunter add_trait=diligent add_trait=cynical add_trait=craven 
+	add_trait=honest add_trait=depressed 
+	father=1019919680	#Matlatzincatzin
+	926.4.18={ birth=yes }
+	1011.1.9={ death=yes }
+}
+1019919689={
+	name=Ohtli
+	female=yes
+	dynasty=1009990164
+	dna="jepmapfagjb"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919680	#Matlatzincatzin
+	928.7.22={ birth=yes }
+	999.1.29={ death=yes }
+}
+1019919690={
+	name=Aculnahuacatl
+	dynasty=1009990164
+	dna="olnmadpelpg"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=7 learning=6
+	add_trait=grey_eminence add_trait=gardener add_trait=wroth add_trait=content 
+	father=1019919680	#Matlatzincatzin
+	935.5.5={ birth=yes }
+	1011.8.27={ death=yes }
+}
+1019919691={
+	name=Zolin
+	dynasty=1009990164
+	dna="jcplgieipck"
+	culture=zapotek religion=zapotec_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=4 learning=6
+	add_trait=martial_cleric add_trait=shy add_trait=slothful add_trait=cynical add_trait=deceitful 
+	add_trait=wounded 
+	father=1019919685	#Ahuitzotl
+	934.11.1={ birth=yes }
+	986.3.9={ death=yes }
+}
+1019919692={
+	name=Acamapichtli
+	dynasty=1009990164
+	dna="cfplknnielj"
+	culture=zapotek religion=zapotec_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=content add_trait=honest add_trait=chaste add_trait=cynical 
+	add_trait=craven 
+	father=1019919685	#Ahuitzotl
+	938.9.10={ birth=yes }
+	1025.5.23={ death=yes }
+}
+1019919693={
+	name=Ohtli
+	female=yes
+	dynasty=1009990164
+	dna="bdpgkidkflc"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919685	#Ahuitzotl
+	945.1.15={ birth=yes }
+	1001.5.26={ death=yes }
+}
+1019919694={
+	name=Malinalxochitl
+	female=yes
+	dynasty=1009990164
+	dna="jaolainlekc"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919685	#Ahuitzotl
+	950.1.27={ birth=yes }
+	1015.1.22={ death=yes }
+}
+1019919695={
+	name=Xiuhtomiyauhtzin
+	female=yes
+	dynasty=1009990164
+	dna="jcplgneifcl"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919691	#Zolin
+	965.5.19={ birth=yes }
+	1047.3.1={ death=yes }
+}
+1019919696={
+	name=Ixtlilxochitl
+	dynasty=1009990164
+	dna="jcllbhedmib"
+	culture=zapotek religion=zapotec_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=celibate add_trait=lustful add_trait=gluttonous add_trait=diligent 
+	add_trait=paranoid add_trait=depressed 
+	father=1019919691	#Zolin
+	971.3.15={ birth=yes }
+	1057.3.24={ death=yes }
+}
+1019919697={
+	name=Miahuaxiuitl
+	female=yes
+	dynasty=1009990164
+	dna="jbhlgieilck"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919691	#Zolin
+	973.9.4={ birth=yes }
+	1035.6.9={ death=yes }
+}
+1019919698={
+	name=Techichpotzin
+	female=yes
+	dynasty=1009990164
+	dna="jklkbllddib"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919696	#Ixtlilxochitl
+	991.12.20={ birth=yes }
+	1068.7.18={ death=yes }
+}
+1019919699={
+	name=Yolotli
+	dynasty=1009990164
+	dna="jblbijdojib"
+	culture=zapotek religion=zapotec_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=just add_trait=ambitious add_trait=diligent add_trait=patient 
+	add_trait=chaste add_trait=genius 
+	father=1019919696	#Ixtlilxochitl
+	996.7.1={ birth=yes }
+	1082.7.25={ death=yes }
+}
+1019919700={
+	name=Quauhtli
+	dynasty=1009990164
+	dna="bcolchndkib"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=trusting add_trait=greedy add_trait=diligent 
+	father=1019919696	#Ixtlilxochitl
+	1001.2.14={ birth=yes }
+	1064.11.6={ death=yes }
+}
+1019919701={
+	name=Tlacaelel
+	dynasty=1009990164
+	dna="ecllgnedkbo"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=just add_trait=lustful add_trait=brave 
+	father=1019919696	#Ixtlilxochitl
+	1004.12.13={ birth=yes }
+	1060.2.8={ death=yes }
+}
+1019919702={
+	name=Necuametl
+	dynasty=1009990164
+	dna="jepjbjedmib"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=paranoid add_trait=ambitious add_trait=greedy add_trait=stutter 
+	father=1019919696	#Ixtlilxochitl
+	1009.10.19={ birth=yes }
+	1086.11.20={ death=yes }
+}
+1019919703={
+	name=Cuitlahuac
+	dynasty=1009990164
+	dna="djlldledlim"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=cynical add_trait=temperate add_trait=trusting add_trait=chaste 
+	father=1019919696	#Ixtlilxochitl
+	1013.3.18={ birth=yes }
+	1096.3.20={ death=yes }
+}
+1019919704={
+	name=Tecolotl
+	dynasty=1009990164
+	dna="jallbncdmlb"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=just add_trait=greedy add_trait=gluttonous 
+	add_trait=envious add_trait=paranoid 
+	father=1019919696	#Ixtlilxochitl
+	1017.9.4={ birth=yes }
+	1093.7.6={ death=yes }
+}
+1019919705={
+	name=Tlacaelel
+	dynasty=1009990164
+	dna="jgghhjdojia"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=just add_trait=greedy add_trait=diligent 
+	father=1019919699	#Yolotli
+	1019.11.10={ birth=yes }
+	1102.8.26={ death=yes }
+}
+1019919706={
+	name=Quiauhxochitl
+	female=yes
+	dynasty=1009990164
+	dna="jblpgjdljeb"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919699	#Yolotli
+	1025.3.8={ birth=yes }
+	1094.7.31={ death=yes }
+}
+1019919707={
+	name=Ahuiliztli
+	female=yes
+	dynasty=1009990164
+	dna="bflbmjoajim"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919699	#Yolotli
+	1031.11.26={ birth=yes }
+	1094.5.17={ death=yes }
+}
+1019919708={
+	name=Itotia
+	female=yes
+	dynasty=1009990164
+	dna="jilglidojha"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919699	#Yolotli
+	1037.9.14={ birth=yes }
+	1082.2.6={ death=yes }
+}
+1019919709={
+	name=Cuitlahuac
+	dynasty=1009990164
+	dna="cggdhodmjia"
+	culture=zapotek religion=zapotec_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=8 learning=7
+	add_trait=charismatic_negotiator add_trait=envious add_trait=temperate 
+	father=1019919705	#Tlacaelel
+	1046.10.6={ birth=yes }
+	1125.9.13={ death=yes }
+}
+1019919710={
+	name=Papa
+	female=yes
+	dynasty=1009990164
+	dna="jgkhnjdojim"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919705	#Tlacaelel
+	1054.8.2={ birth=yes }
+	1108.11.9={ death=yes }
+}
+1019919711={
+	name=Cuicatl
+	female=yes
+	dynasty=1009990164
+	dna="ggghhjdgnlf"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919705	#Tlacaelel
+	1059.7.9={ birth=yes }
+	1114.5.17={ death=yes }
+}
+1019919712={
+	name=Acacitli
+	dynasty=1009990164
+	dna="igjhhndmecj"
+	culture=zapotek religion=zapotec_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=gluttonous add_trait=wroth 
+	father=1019919705	#Tlacaelel
+	1066.3.23={ birth=yes }
+	1150.3.27={ death=yes }
+}
+1019919713={
+	name=Xilonen
+	female=yes
+	dynasty=1009990164
+	dna="clgklodhoih"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919709	#Cuitlahuac
+	1078.7.17={ birth=yes }
+	1178.10.5={ death=yes }
+}
+1019919714={
+	name=Huehue-Zaca
+	female=yes
+	dynasty=1009990164
+	dna="cggdeokojlk"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919709	#Cuitlahuac
+	1085.9.17={ birth=yes }
+	1145.11.5={ death=yes }
+}
+1019919715={
+	name=Cuitlahuac
+	dynasty=1009990164
+	dna="mgifhedojia"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=4 learning=5
+	add_trait=skilled_tactician add_trait=trusting add_trait=honest add_trait=craven 
+	father=1019919709	#Cuitlahuac
+	1088.5.4={ birth=yes }
+	1167.10.18={ death=yes }
+}
+1019919716={
+	name=Tizocic
+	dynasty=1009990164
+	dna="mkkfheaoaik"
+	culture=zapotek religion=zapotec_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=deceitful add_trait=paranoid 
+	father=1019919715	#Cuitlahuac
+	1109.8.23={ birth=yes }
+	1169.11.16={ death=yes }
+}
+1019919717={
+	name=Necahual
+	female=yes
+	dynasty=1009990164
+	dna="meijhcdejaa"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919715	#Cuitlahuac
+	1113.11.7={ birth=yes }
+	1172.5.8={ death=yes }
+}
+1019919718={
+	name=Iquehuacatzin
+	dynasty=1009990164
+	dna="dgichhongda"
+	culture=zapotek religion=zapotec_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=ambitious add_trait=patient 
+	father=1019919715	#Cuitlahuac
+	1118.7.6={ birth=yes }
+	1177.9.8={ death=yes }
+}
+1019919719={
+	name=Ohtli
+	female=yes
+	dynasty=1009990164
+	dna="ojifpenifna"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919715	#Cuitlahuac
+	1121.8.20={ birth=yes }
+	1180.2.13={ death=yes }
+}
+1019919720={
+	name=Huitztecol
+	dynasty=1009990164
+	dna="oadihmajlka"
+	culture=zapotek religion=zapotec_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=6
+	add_trait=elusive_shadow add_trait=charitable add_trait=just add_trait=paranoid add_trait=temperate 
+	add_trait=chaste 
+	father=1019919715	#Cuitlahuac
+	1126.6.9={ birth=yes }
+	1199.11.2={ death=yes }
+}
+1019919721={
+	name=Axayacatl
+	dynasty=1009990164
+	dna="fkdhheaeack"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=shy add_trait=just add_trait=ambitious 
+	father=1019919716	#Tizocic
+	1131.6.14={ birth=yes }
+	1203.11.3={ death=yes }
+}
+1019919722={
+	name=Cuetlachtli
+	dynasty=1009990164
+	dna="pkkfeebface"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=8 learning=6
+	add_trait=charismatic_negotiator add_trait=honest add_trait=zealous add_trait=diligent add_trait=chaste 
+	father=1019919716	#Tizocic
+	1137.6.7={ birth=yes }
+	1220.2.20={ death=yes }
+}
+1019919723={
+	name=Ayauhcihuatl
+	female=yes
+	dynasty=1009990164
+	dna="fdffhegophk"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919716	#Tizocic
+	1140.8.25={ birth=yes }
+	1200.10.30={ death=yes }
+}
+1019919724={
+	name=Coanacoch
+	dynasty=1009990164
+	dna="dkkfheabjij"
+	culture=zapotek religion=zapotec_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=7 learning=6
+	add_trait=elusive_shadow add_trait=paranoid add_trait=chaste add_trait=greedy 
+	add_trait=slothful 
+	father=1019919716	#Tizocic
+	1143.3.25={ birth=yes }
+	1208.2.3={ death=yes }
+}
+1019919725={
+	name=Acalan
+	dynasty=1009990164
+	dna="ffdphiaefck"
+	culture=zapotek religion=zapotec_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=greedy add_trait=proud add_trait=gregarious 
+	father=1019919721	#Axayacatl
+	1153.11.25={ birth=yes }
+	1219.9.22={ death=yes }
+}
+1019919726={
+	name=Manauia
+	female=yes
+	dynasty=1009990164
+	dna="opahnbgeacj"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919721	#Axayacatl
+	1160.7.18={ birth=yes }
+	1230.6.25={ death=yes }
+}
+1019919727={
+	name=Tlahco
+	female=yes
+	dynasty=1009990164
+	dna="fgalhbaefim"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919725	#Acalan
+	1178.9.26={ birth=yes }
+	1247.3.13={ death=yes }
+}
+1019919728={
+	name=Itzcuintli
+	dynasty=1009990164
+	dna="hfdgkhacfho"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=4 learning=8
+	add_trait=detached_priest add_trait=poet add_trait=arbitrary add_trait=chaste add_trait=gluttonous 
+	add_trait=gregarious 
+	father=1019919725	#Acalan
+	1183.4.12={ birth=yes }
+	1253.12.30={ death=yes }
+}
+1019919729={
+	name=Acacitli
+	dynasty=1009990164
+	dna="gfdpebinlik"
+	culture=zapotek religion=zapotec_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=8
+	add_trait=grey_eminence add_trait=celibate add_trait=trusting add_trait=gregarious add_trait=just 
+	add_trait=chaste  add_trait=lunatic 
+	father=1019919725	#Acalan
+	1189.7.27={ birth=yes }
+	1274.3.7={ death=yes }
+}
+1019919730={
+	name=Papa
+	female=yes
+	dynasty=1009990164
+	dna="ffnnhieegmp"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919725	#Acalan
+	1193.12.22={ birth=yes }
+	1271.8.9={ death=yes }
+}
+1019919731={
+	name=Aculnahuacatl
+	dynasty=1009990164
+	dna="ffiadmaeeak"
+	culture=zapotek religion=zapotec_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=6 learning=7
+	add_trait=detached_priest add_trait=content add_trait=paranoid add_trait=gregarious add_trait=zealous 
+	add_trait=just 
+	father=1019919725	#Acalan
+	1198.11.25={ birth=yes }
+	1251.10.6={ death=yes }
+}
+1019919732={
+	name=Tlilpotonqui
+	dynasty=1009990164
+	dna="ofkpoikepak"
+	culture=zapotek religion=zapotec_pagan
+	martial=6 diplomacy=5 stewardship=5 intrigue=4 learning=4
+	add_trait=elusive_shadow add_trait=gregarious add_trait=temperate add_trait=proud add_trait=honest 
+	father=1019919725	#Acalan
+	1202.12.25={ birth=yes }
+	1272.4.5={ death=yes }
+}
+1019919733={
+	name=Iuitl
+	female=yes
+	dynasty=1009990164
+	dna="dedieiaadck"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919725	#Acalan
+	1205.8.27={ birth=yes }
+	1265.3.27={ death=yes }
+}
+1019919734={
+	name=Xiuhtomiyauhtzin
+	female=yes
+	dynasty=1009990164
+	dna="bangaiacfnc"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919728	#Itzcuintli
+	1211.1.3={ birth=yes }
+	1281.8.7={ death=yes }
+}
+1019919735={
+	name=Ohtli
+	female=yes
+	dynasty=1009990164
+	dna="codgkfhcfhn"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919728	#Itzcuintli
+	1215.6.18={ birth=yes }
+	1284.1.10={ death=yes }
+}
+1019919736={
+	name=Xihuitl
+	dynasty=1009990164
+	dna="nnnmahapfho"
+	culture=zapotek religion=zapotec_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=charitable add_trait=craven add_trait=arbitrary 
+	father=1019919728	#Itzcuintli
+	1222.2.27={ birth=yes }
+	1287.4.15={ death=yes }
+}
+1019919737={
+	name=Cuauhtl
+	dynasty=1009990164
+	dna="nlnjlhjdiao"
+	culture=zapotek religion=zapotec_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=4 learning=8
+	add_trait=elusive_shadow add_trait=mystic add_trait=proud add_trait=lustful add_trait=cynical 
+	add_trait=trusting 
+	father=1019919736	#Xihuitl
+	1242.2.12={ birth=yes }
+	1297.3.3={ death=yes }
+}
+1019919738={
+	name=Huitzilihuitl
+	dynasty=1009990164
+	dna="pnfnahapfho"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=6 learning=6
+	add_trait=mastermind_theologian add_trait=envious add_trait=zealous add_trait=wroth 
+	father=1019919736	#Xihuitl
+	1250.7.3={ birth=yes }
+	1312.12.8={ death=yes }
+}
+1019919739={
+	name=Quiauhxochitl
+	female=yes
+	dynasty=1009990164
+	dna="nnhfjbinepd"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919736	#Xihuitl
+	1253.11.17={ birth=yes }
+	1318.7.29={ death=yes }
+}
+1019919740={
+	name=Atl
+	female=yes
+	dynasty=1009990164
+	dna="cdlmohadfch"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919736	#Xihuitl
+	1259.1.9={ birth=yes }
+	1340.5.31={ death=yes }
+}
+1019919741={
+	name=Huitztecol
+	dynasty=1009990164
+	dna="oomjlhjfpkf"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=6 learning=8
+	add_trait=tough_soldier add_trait=ambitious add_trait=gluttonous  add_trait=humble 
+	father=1019919737	#Cuauhtl
+	1275.4.19={ birth=yes }
+	1361.4.18={ death=yes }
+}
+1019919742={
+	name=Xihuitl
+	dynasty=1009990164
+	dna="nengljcoiag"
+	culture=zapotek religion=zapotec_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=6 learning=4
+	add_trait=martial_cleric add_trait=greedy add_trait=just add_trait=trusting add_trait=ambitious 
+	add_trait=honest add_trait=brave 
+	father=1019919737	#Cuauhtl
+	1278.7.16={ birth=yes }
+	1351.12.17={ death=yes }
+}
+1019919743={
+	name=Mahchimaleh
+	dynasty=1009990164
+	dna="fgnjlhogijo"
+	culture=zapotek religion=zapotec_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=greedy add_trait=diligent add_trait=proud 
+	father=1019919737	#Cuauhtl
+	1284.5.23={ birth=yes }
+	1330.9.20={ death=yes }
+}
+1019919744={
+	name=Cuixtli
+	dynasty=1009990164
+	dna="oomigaippbi"
+	culture=zapotek religion=zapotec_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=wroth add_trait=proud add_trait=diligent 
+	father=1019919741	#Huitztecol
+	1302.1.12={ birth=yes }
+	1355.6.22={ death=yes }
+}
+1019919745={
+	name=Ueman
+	dynasty=1009990164
+	dna="oomjfejfmkb"
+	culture=zapotek religion=zapotec_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=7 learning=4
+	add_trait=intricate_webweaver add_trait=honest add_trait=shy add_trait=lustful 
+	father=1019919741	#Huitztecol
+	1308.3.20={ birth=yes }
+	1357.12.22={ death=yes }
+}
+1019919746={
+	name=Eztli
+	female=yes
+	dynasty=1009990164
+	dna="oojblhifokf"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919741	#Huitztecol
+	1312.12.9={ birth=yes }
+	1374.7.23={ death=yes }
+}
+1019919747={
+	name=Coatl
+	dynasty=1009990164
+	dna="igmjldjfpkf"
+	culture=zapotek religion=zapotec_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	add_trait=tough_soldier add_trait=proud add_trait=gregarious add_trait=paranoid add_trait=arbitrary 
+	add_trait=patient  
+	father=1019919741	#Huitztecol
+	1320.4.3={ birth=yes }
+	1384.4.10={ death=yes }
+}
+1019919748={
+	name=Axayacatl
+	dynasty=1009990164
+	dna="oopfkaifpbb"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=wroth add_trait=charitable 
+	father=1019919744	#Cuixtli
+	1331.6.24={ birth=yes }
+	1388.7.30={ death=yes }
+}
+1019919749={
+	name=Xochitl
+	female=yes
+	dynasty=1009990164
+	dna="oomigaiipdi"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919744	#Cuixtli
+	1337.10.12={ birth=yes }
+	1390.2.10={ death=yes }
+}
+1019919750={
+	name=Coszcatl
+	female=yes
+	dynasty=1009990164
+	dna="fbpfnbhfpog"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919748	#Axayacatl
+	1354.8.21={ birth=yes }
+	1423.4.14={ death=yes }
+}
+1019919751={
+	name=Necahual
+	female=yes
+	dynasty=1009990164
+	dna="okpfkfifcbb"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919748	#Axayacatl
+	1361.7.24={ birth=yes }
+	1441.6.16={ death=yes }
+}
+1019919752={
+	name=Teyacapan
+	female=yes
+	dynasty=1009990164
+	dna="oocfgpibebp"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919748	#Axayacatl
+	1365.11.24={ birth=yes }
+	1428.9.28={ death=yes }
+}
+1019919753={
+	name=Tototl
+	dynasty=1009990164
+	dna="iokgkaipnag"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=8
+	add_trait=grey_eminence add_trait=temperate add_trait=zealous add_trait=wroth 
+	add_trait=greedy add_trait=lunatic 
+	father=1019919748	#Axayacatl
+	1370.9.15={ birth=yes }
+	1437.7.18={ death=yes }
+}
+1019919754={
+	name=Atotoztli
+	female=yes
+	dynasty=1009990164
+	dna="ojpfkldfpbb"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919748	#Axayacatl
+	1375.8.24={ birth=yes }
+	1428.10.11={ death=yes }
+}
+1019919755={
+	name=Mazatl
+	dynasty=1009990164
+	dna="dofgkpppaag"
+	culture=zapotek religion=zapotec_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=6 learning=7
+	add_trait=elusive_shadow add_trait=patient add_trait=cynical add_trait=envious add_trait=humble 
+	add_trait=slothful 
+	father=1019919753	#Tototl
+	1390.8.5={ birth=yes }
+	1468.4.12={ death=yes }
+}
+1019919756={
+	name=Huehue-Zaca
+	female=yes
+	dynasty=1009990164
+	dna="pokgkkiklik"
+	culture=zapotek religion=zapotec_pagan
+	father=1019919753	#Tototl
+	1396.7.8={ birth=yes }
+	1455.11.23={ death=yes }
+}

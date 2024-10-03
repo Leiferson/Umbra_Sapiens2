@@ -1,0 +1,21 @@
+# 1592 - Ossetia
+
+# County Title
+title = c_ossetia
+
+# Settlements
+max_settlements = 4
+b_zadalesk = castle
+b_dargavs = city
+b_tatartup = temple
+
+#b_tsimiti = castle
+
+# Misc
+culture = alan
+religion = uatsdin_pagan 
+
+# History
+860.1.1 = { religion = orthodox }
+
+

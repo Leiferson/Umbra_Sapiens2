@@ -1,0 +1,44 @@
+20.1.1={
+	active = no
+}
+1322.1.1={
+	de_jure_liege="e_byzantium"
+	active=yes
+}
+1377.10.26={
+	holder=374197	#Tvrtko I becomes king in 1377.10.26
+}
+1391.3.10={
+	holder=34153	#Dabisha	
+}
+1398.4.1={
+	holder=374199	#Ostoja of Bosnia
+}
+1404.1.1={
+	holder=374202	#Stephen Tvrtko II
+}
+1409.1.1={
+	holder=374199	#Ostoja of Bosnia
+}
+1418.1.1={
+	holder=377343	#Stephen Ostojic
+}
+1420.8.1={
+	holder=374202	#Stephen Tvrtko II
+}
+1443.11.1={
+	holder=377344 #Stephen Thomas
+}
+1461.7.10={
+	holder=377350 #Stephen Tomashevic
+}
+1463.6.5={
+	holder=377353
+	liege=e_ottomans
+}
+1471.1.1={
+	holder=379570	#Matija Vojsalic
+}
+1476.1.1={
+	holder=0 #Integration in the Ottoman Empire
+}

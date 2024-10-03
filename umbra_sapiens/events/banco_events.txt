@@ -1,0 +1,1012 @@
+namespace = bancoevents
+#Banking events!
+character_event = {
+	id = bancoevents.1
+	title = EVTNAMEbancoevents.1
+	desc = EVTDESCbancoevents.1
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.1
+		trigger = { 
+		wealth = 100 
+		wealth <= 2000
+		FROM = { wealth = 1008 }
+		}
+		FROM = { wealth = 100 }
+		character_event = { id = bancoevents.2 years = 2 }
+		set_character_flag = deposited_money
+		FROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 3
+		}
+		}
+		else_if = {
+		limit = {
+		wealth = 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTBbancoevents.1
+		trigger = { 
+		wealth = 500 
+		wealth <= 2500
+		FROM = { wealth = 1040 }
+		}
+		FROM = { wealth = 500 }
+		character_event = { id = bancoevents.3 years = 2 }
+		set_character_flag = deposited_money
+		FROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 3
+		}
+		}
+		else_if = {
+		limit = {
+		wealth = 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTCbancoevents.1
+		trigger = { 
+		wealth = 1000 
+		wealth <= 3000
+		FROM = { wealth = 1080 }
+		}
+		FROM = { wealth = 1000 }
+		character_event = { id = bancoevents.4 years = 2 }
+		set_character_flag = deposited_money
+		FROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 3
+		}
+		}
+		else_if = {
+		limit = {
+		wealth = 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTDbancoevents.1
+		trigger = { 
+		wealth = 1500 
+		wealth <= 3500
+		FROM = { wealth = 1120 }
+		}
+		FROM = { wealth = 1500 }
+		character_event = { id = bancoevents.5 years = 2 }
+		set_character_flag = deposited_money
+		FROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 3
+		}
+		}
+		else_if = {
+		limit = {
+		wealth = 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTEbancoevents.1
+		trigger = { 
+		wealth = 2000 		
+		wealth <= 4000
+		FROM = { wealth = 1160 }
+		}
+		FROM = { wealth = 2000 }
+		character_event = { id = bancoevents.6 years = 2 }
+		set_character_flag = deposited_money
+		FROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 3
+		}
+		}
+		else_if = {
+		limit = {
+		wealth = 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTFbancoevents.1
+		trigger = { 
+		wealth = 2500 
+		wealth <= 5000
+		FROM = { wealth = 1200 }
+		}
+		FROM = { wealth = 2500 }
+		character_event = { id = bancoevents.7 years = 2 }
+		set_character_flag = deposited_money
+		FROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 3
+		}
+		}
+		else_if = {
+		limit = {
+		wealth = 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTGbancoevents.1
+		trigger = { 
+		wealth = 3000 
+		wealth <= 5000
+		FROM = { wealth = 1240 }
+		}
+		FROM = { wealth = 3000 }
+		character_event = { id = bancoevents.8 years = 2 }
+		set_character_flag = deposited_money
+		FROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 3
+		}
+		}
+		else_if = {
+		limit = {
+		wealth = 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTHbancoevents.1
+		trigger = { 
+		wealth = 3500 
+		FROM = { wealth = 1280 }
+		}
+		FROM = { wealth = 3500 }
+		character_event = { id = bancoevents.9 years = 2 }
+		set_character_flag = deposited_money
+		FROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 3
+		}
+		}
+		else_if = {
+		limit = {
+		wealth = 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTIbancoevents.1
+		trigger = { 
+		wealth = 4000 
+		FROM = { wealth = 1320 }
+		}
+		FROM = { wealth = 4000 }
+		character_event = { id = bancoevents.10 years = 2 }
+		set_character_flag = deposited_money
+		FROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 3
+		}
+		}
+		else_if = {
+		limit = {
+		wealth = 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTJbancoevents.1
+		trigger = { 
+		wealth = 4500
+		FROM = { wealth = 1360 }
+		}
+		FROM = { wealth = 4500 }
+		character_event = { id = bancoevents.11 years = 2 }
+		set_character_flag = deposited_money
+		FROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 3
+		}
+		}
+		else_if = {
+		limit = {
+		wealth = 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTLbancoevents.1
+		trigger = { 
+		wealth = 5000
+		FROM = { wealth = 1400 }
+		}
+		FROM = { wealth = 5000 }
+		character_event = { id = bancoevents.12 years = 2 }
+		set_character_flag = deposited_money
+		FROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 3
+		}
+		}
+		else_if = {
+		limit = {
+		wealth = 50000
+		}
+		add_character_modifier = {
+		name = gave_out_debit_mod
+		days = 1
+		}
+		}
+		}
+	}
+}
+character_event = {
+	id = bancoevents.2
+	title = EVTNAMEbancoevents.2
+	desc = EVTDESCbancoevents.2
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.2
+		wealth = 108 
+		FROMFROM = { wealth = -108 }
+		clr_character_flag = deposited_money
+	}
+}
+character_event = {
+	id = bancoevents.3
+	title = EVTNAMEbancoevents.3
+	desc = EVTDESCbancoevents.3
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.3
+		wealth = 540
+		FROMFROM = { wealth = -540 }
+		clr_character_flag = deposited_money
+	}
+}
+character_event = {
+	id = bancoevents.4
+	title = EVTNAMEbancoevents.4
+	desc = EVTDESCbancoevents.4
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.4
+		wealth = 1080
+		FROMFROM = { wealth = -1080 }
+		clr_character_flag = deposited_money
+	}
+}
+character_event = {
+	id = bancoevents.5
+	title = EVTNAMEbancoevents.5
+	desc = EVTDESCbancoevents.5
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.5
+		wealth = 1620
+		FROMFROM = { wealth = -1620 }
+		clr_character_flag = deposited_money
+	}
+}
+character_event = {
+	id = bancoevents.6
+	title = EVTNAMEbancoevents.6
+	desc = EVTDESCbancoevents.6
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.6
+		wealth = 2160
+		FROMFROM = { wealth = -2160 }
+		clr_character_flag = deposited_money
+	}
+}
+character_event = {
+	id = bancoevents.7
+	title = EVTNAMEbancoevents.7
+	desc = EVTDESCbancoevents.7
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.7
+		wealth = 2700
+		FROMFROM = { wealth = -2700 }
+		clr_character_flag = deposited_money
+	}
+}
+character_event = {
+	id = bancoevents.8
+	title = EVTNAMEbancoevents.8
+	desc = EVTDESCbancoevents.8
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.8
+		wealth = 3240
+		FROMFROM = { wealth = -3240 }
+		clr_character_flag = deposited_money
+	}
+}
+character_event = {
+	id = bancoevents.9
+	title = EVTNAMEbancoevents.9
+	desc = EVTDESCbancoevents.9
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.9
+		wealth = 3780
+		FROMFROM = { wealth = -3780 }
+		clr_character_flag = deposited_money
+	}
+}
+character_event = {
+	id = bancoevents.10
+	title = EVTNAMEbancoevents.10
+	desc = EVTDESCbancoevents.10
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.10
+		wealth = 4320
+		FROMFROM = { wealth = -4320 }
+		clr_character_flag = deposited_money
+	}
+}
+character_event = {
+	id = bancoevents.11
+	title = EVTNAMEbancoevents.11
+	desc = EVTDESCbancoevents.11
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.11
+		wealth = 4860
+		FROMFROM = { wealth = -4860 }
+		clr_character_flag = deposited_money
+	}
+}
+character_event = {
+	id = bancoevents.12
+	title = EVTNAMEbancoevents.12
+	desc = EVTDESCbancoevents.12
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.12
+		wealth = 5400
+		FROMFROM = { wealth = -5400 }
+		clr_character_flag = deposited_money
+	}
+}
+character_event = {
+	id = bancoevents.13
+	title = EVTNAMEbancoevents.13
+	desc = EVTDESCbancoevents.13
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.13
+		trigger = { 
+		FROMFROM = { wealth = 1100 }
+		}
+		FROMFROM = { wealth = -100 }
+		wealth = 100
+		character_event = { id = bancoevents.14 years = 2 }
+		FROMFROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_credit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTBbancoevents.13
+		trigger = { 
+		FROMFROM = { wealth = 1300 }
+		}
+		FROMFROM = { wealth = -300 }
+		wealth = 300
+		character_event = { id = bancoevents.15 years = 2 }
+		FROMFROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_credit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTCbancoevents.13
+		trigger = { 
+		FROMFROM = { wealth = 1500 }
+		}
+		FROMFROM = { wealth = -500 }
+		wealth = 500 
+		character_event = { id = bancoevents.16 years = 2 }
+		FROMFROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_credit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTDbancoevents.13
+	}
+}
+character_event = {
+	id = bancoevents.14
+	title = EVTNAMEbancoevents.14
+	desc = EVTDESCbancoevents.14
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.14
+		wealth = -120 
+		FROMFROMFROM = { wealth = 120 }
+		clr_character_flag = asked_for_credit
+	}
+}
+character_event = {
+	id = bancoevents.15
+	title = EVTNAMEbancoevents.15
+	desc = EVTDESCbancoevents.15
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.15
+		wealth = -360 
+		FROMFROMFROM = { wealth = 360 }
+		clr_character_flag = asked_for_credit
+	}
+}
+character_event = {
+	id = bancoevents.16
+	title = EVTNAMEbancoevents.16
+	desc = EVTDESCbancoevents.16
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.16
+		wealth = -600 
+		FROMFROMFROM = { wealth = 600 }
+		clr_character_flag = asked_for_credit
+	}
+}
+#Medium Loans
+character_event = {
+	id = bancoevents.17
+	title = EVTNAMEbancoevents.17
+	desc = EVTDESCbancoevents.17
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.17
+		trigger = { 
+		FROMFROM = { wealth = 2000 }
+		}
+		FROMFROM = { wealth = -1000 }
+		wealth = 1000 
+		FROMFROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_credit_mod
+		days = 1
+		}
+		}
+		}
+		character_event = { id = bancoevents.18 years = 2 }
+	}
+	option = {
+		name = EVTOPTBbancoevents.17
+		trigger = { 
+		FROMFROM = { wealth = 2500 }
+		}
+		FROMFROM = { wealth = -1500 }
+		wealth = 1500 
+		FROMFROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_credit_mod
+		days = 1
+		}
+		}
+		}
+		character_event = { id = bancoevents.19 years = 2 }
+	}
+	option = {
+		name = EVTOPTCbancoevents.17
+		trigger = { 
+		FROMFROM = { wealth = 3000 }
+		}
+		FROMFROM = { wealth = -2000 }
+		wealth = 2000
+		FROMFROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_credit_mod
+		days = 1
+		}
+		}
+		}
+		character_event = { id = bancoevents.20 years = 2 }
+	}
+	option = {
+		name = EVTOPTDbancoevents.17
+	}
+}
+character_event = {
+	id = bancoevents.18
+	title = EVTNAMEbancoevents.18
+	desc = EVTDESCbancoevents.18
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.18
+		wealth = -1200 
+		FROMFROMFROM = { wealth = 1200 }
+		clr_character_flag = asked_for_credit
+	}
+}
+character_event = {
+	id = bancoevents.19
+	title = EVTNAMEbancoevents.19
+	desc = EVTDESCbancoevents.19
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.19
+		wealth = -1800 
+		FROMFROMFROM = { wealth =1800 }
+		clr_character_flag = asked_for_credit
+	}
+}
+character_event = {
+	id = bancoevents.20
+	title = EVTNAMEbancoevents.20
+	desc = EVTDESCbancoevents.20
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.20
+		wealth = -2400 
+		FROMFROMFROM = { wealth = 2400 }
+		clr_character_flag = asked_for_credit
+	}
+}
+character_event = {
+	id = bancoevents.21
+	title = EVTNAMEbancoevents.21
+	desc = EVTDESCbancoevents.21
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.21
+		wealth = -3000 
+		FROMFROMFROM = { wealth = 3000 }
+		clr_character_flag = asked_for_credit
+	}
+}
+character_event = {
+	id = bancoevents.22
+	title = EVTNAMEbancoevents.22
+	desc = EVTDESCbancoevents.22
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.22
+		wealth = -6000 
+		FROMFROMFROM = { wealth = 6000 }
+		clr_character_flag = asked_for_credit
+	}
+}
+character_event = {
+	id = bancoevents.23
+	title = EVTNAMEbancoevents.23
+	desc = EVTDESCbancoevents.23
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.23
+		wealth = -12000 
+		FROMFROMFROM = { wealth = 12000 }
+		clr_character_flag = asked_for_credit
+	}
+}
+character_event = {
+	id = bancoevents.24
+	title = EVTNAMEbancoevents.24
+	desc = EVTDESCbancoevents.24
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.25
+		wealth = -6000 
+		FROMFROMFROM = { wealth = 6000 }
+		clr_character_flag = asked_for_credit
+	}
+}
+character_event = {
+	id = bancoevents.25
+	title = EVTNAMEbancoevents.25
+	desc = EVTDESCbancoevents.25
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAbancoevents.25
+		character_event = { id = bancoevents.13 }	#small loans
+	}
+	option = {
+		name = EVTOPTBbancoevents.25
+		trigger = { 
+		FROM = { wealth = 2000 }
+		}
+		character_event = { id = bancoevents.17 } 	#medium loans
+	}
+	option = {
+		name = EVTOPTCbancoevents.25
+		trigger = { 
+		FROM = { wealth = 3500 }
+		}
+		character_event = { id = bancoevents.26 }	#big loans
+	}
+	option = {
+		name = EVTOPTDbancoevents.25
+	}
+}
+#Big loans
+character_event = {
+	id = bancoevents.26
+	title = EVTNAMEbancoevents.26
+	desc = EVTDESCbancoevents.26
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTHbancoevents.13
+		trigger = { 
+		FROMFROM = { wealth = 3500 }
+		}
+		FROMFROM = { wealth = -2500 }
+		wealth = 2500 
+		character_event = { id = bancoevents.21 years = 2 }
+		FROMFROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_credit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTIbancoevents.26
+		trigger = { 
+		FROMFROM = { wealth = 6000 }
+		}
+		FROMFROM = { wealth = -5000 }
+		wealth = 5000 
+		character_event = { id = bancoevents.22 years = 2 }
+		FROMFROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_credit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTJbancoevents.26
+		trigger = { 
+		FROMFROM = { wealth = 11000 }
+		}
+		FROMFROM = { wealth = -10000 }
+		wealth = 10000
+		character_event = { id = bancoevents.23 years = 2 }
+		FROMFROM = {
+		if={
+		limit = {
+		wealth > 50000
+		}
+		add_character_modifier = {
+		name = gave_out_credit_mod
+		days = 1
+		}
+		}
+		}
+	}
+	option = {
+		name = EVTOPTLbancoevents.13
+	}
+}
+character_event = {
+	id = bancoevents.27
+	is_triggered_only = yes
+	hide_window = yes
+	ai = yes
+	religion = catholic
+	only_men = yes
+	min_age = 16
+	only_playable = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	controls_religion = yes
+	is_save_game = no
+	is_title_active = d_banco
+	}
+	immediate = {
+	d_banco = {
+	holder_scope = {
+	wealth = 10000
+	set_government_type=republic_government
+	}
+	}
+	}
+}
+character_event = {
+	id = bancoevents.28
+	is_triggered_only = yes
+	hide_window = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	wealth = 0
+	}
+	immediate = {
+		scaled_wealth = -0.004
+	}
+}
+character_event = {
+	id = bancoevents.29
+	is_triggered_only = yes
+	hide_window = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	wealth = 0
+	}
+	immediate = {
+		scaled_wealth = -0.006
+	}
+}
+character_event = {
+	id = bancoevents.30
+	is_triggered_only = yes
+	hide_window = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	wealth = 0
+	}
+	immediate = {
+		scaled_wealth = -0.008
+	}
+}
+character_event = {
+	id = bancoevents.31
+	is_triggered_only = yes
+	hide_window = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	wealth = 0
+	}
+	immediate = {
+		scaled_wealth = -0.01
+	}
+}
+character_event = {
+	id = bancoevents.32
+	is_triggered_only = yes
+	hide_window = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	wealth = 0
+	}
+	immediate = {
+		scaled_wealth = -0.012
+	}
+}
+character_event = {
+	id = bancoevents.33
+	is_triggered_only = yes
+	hide_window = yes
+	ai = yes
+	religion = catholic
+	only_men = yes
+	min_age = 16
+	only_playable = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	controls_religion = yes
+	}
+	immediate = {
+		random_list = {
+    25 = {
+		modifier = {
+	    factor = 2
+	    year < 1492
+		}
+		modifier = {
+	    factor = 0
+	    year = 1492
+		}
+		character_event = { id = bancoevents.28 }
+    }
+    25 = {
+		modifier = {
+	    factor = 2
+	    year < 1492
+		}
+		modifier = {
+	    factor = 0
+	    year = 1492
+		}
+		character_event = { id = bancoevents.29 }
+    }
+	25 = {
+		modifier = {
+	    factor = 0
+	    year < 1350
+		}
+		modifier = {
+	    factor = 1.5
+	    year = 1520
+		}
+        character_event = { id = bancoevents.30 }
+    }
+	25 = {
+		modifier = {
+	    factor = 0
+	    year < 1492
+		}
+		modifier = {
+	    factor = 1.5
+	    year = 1520
+		}
+		modifier = {
+	    factor = 2
+	    year = 1550
+		}
+		character_event = { id = bancoevents.31 }
+    }
+	25 = {
+		modifier = {
+	    factor = 0
+	    year > 1492
+		}
+		modifier = {
+	    factor = 1.5
+	    year = 1520
+		}
+		modifier = {
+	    factor = 2
+	    year = 1550
+		}
+		character_event = { id = bancoevents.32 }
+    }
+					}
+	}
+}

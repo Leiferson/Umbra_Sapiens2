@@ -1,0 +1,24 @@
+# 674 - Derbent
+
+# County Title
+title = c_derbent
+
+# Settlements
+max_settlements = 4
+b_derbent = castle
+b_chura = city
+b_kra = temple
+
+#b_rukel = castle
+
+# Misc
+culture = dagestani
+religion = sunni
+terrain = hills 
+
+# History
+478.1.1 = {
+	build_wonder = wonder_wall
+	set_wonder_stage = 4
+}
+950.1.1 = { culture = persian }

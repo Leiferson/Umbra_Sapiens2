@@ -1,0 +1,1511 @@
+e_zimbabwe_mutapa = {
+
+	color = { 208 238 210 }
+	color2 = { 250 250 250 }
+
+	capital = 2372 #Zimbabwe
+	allow={
+	is_colonial = no
+	}
+	k_south_africa = { #
+
+		color={ 244 25 6 }
+		color2={ 255 255 255 }
+
+		capital = 3390 #
+		d_ghagabtsha = { #
+
+			color={ 213 33 77 }
+			color2={ 255 255 255 }
+
+			capital = 3384 #
+
+			c_ghanzi = {
+
+				color={ 153 63 67 }
+				color2={ 255 255 255 }
+
+				b_ghanzi = {
+				}
+				b_nojane = {
+				}
+				b_takatshwane = {
+				}
+				b_bodibeng = {
+				}
+			}
+			c_mamuno = {
+
+				color={ 15 29 16 }
+				color2={ 255 255 255 }
+
+				b_mamuno = {
+				}
+				b_nokaneng = {
+				}
+				b_sepupa = {
+				}
+				b_shakawe = {
+				}
+			}			
+			c_tshabong = {
+
+				color={ 163 73 87 }
+				color2={ 255 255 255 }
+
+				b_tshabong = {
+				}
+				b_kuhuntsi = {
+				}
+				b_tahantito = {
+				}
+				b_leontaran = {
+				}				
+			}
+			c_makopong = {
+
+				color={ 135 24 47 }
+				color2={ 255 255 255 }
+
+				b_makopong = {
+				}
+				b_werdda = {
+				}
+				b_cankutanta = {
+				}
+				b_zerenhambin = {
+				}				
+			}			
+			c_gaborone = {
+
+				color={ 113 23 57 }
+				color2={ 255 255 255 }
+
+				b_gaborone = {
+				}
+				b_ramotswa = {
+				}
+				b_sikwane = {
+				}
+				b_mosoname = {
+				}
+			}
+			c_lobatse = {
+
+				color={ 46 33 87 }
+				color2={ 255 255 255 }
+
+				b_lobatse = {
+				}
+				b_dibete = {
+				}
+				b_mahalapye = {
+				}
+				b_lentswelelau = {
+				}
+			}			
+		}
+		d_sermole = { 
+
+			color={ 43 179 168 }
+			color2={ 255 255 255 }
+
+			capital = 3386 
+
+			c_serowe = {
+
+				color={ 143 159 136 }
+				color2={ 255 255 255 }
+
+				b_serowe = {
+				}
+				b_ngwezumba = {
+				}
+				b_lethakane = {
+				}
+				b_xorodomo = {
+				}
+			}
+			c_pandamatenga = {
+
+				color={ 125 131 177 }
+				color2={ 255 255 255 }
+
+				b_pandamatenga = {
+				}
+				b_rakops = {
+				}
+				b_mopipi = {
+				}
+				b_tutumme = {
+				}
+			}			
+			c_molepolole = {
+
+				color={ 163 149 66 }
+				color2={ 255 255 255 }
+
+				b_molepolole = {
+				}
+				b_sefophe = {
+				}
+				b_mmadinaree = {
+				}
+				b_faksinhanton = {
+				}
+			}
+			c_palapyee = {
+
+				color={ 123 19 76 }
+				color2={ 255 255 255 }
+
+				b_palapyee = {
+				}
+				b_bobonong = {
+				}
+				b_tonota = {
+				}
+				b_kurankonto = {
+				}
+			}			
+		}
+		d_khorwind = { #
+
+			color={ 29 250 12 }
+			color2={ 255 255 255 }
+
+			capital = 3377 #
+
+			c_windhoek = {
+
+				color={ 29 50 212 }
+				color2={ 255 255 255 }
+
+				holy_site=andrianerinerinan
+				holy_site=andrianerinerinan_reformed
+
+				b_windhoek = {
+				}
+				b_omitara = {
+				}
+				b_dordabis = {
+				}
+				b_gamsberg = {
+				}
+				b_leonardville = {
+				}
+				b_dmandundehn = {
+				}
+			}
+			c_brakwater = {
+
+				color={ 69 20 234 }
+				color2={ 255 255 255 }
+
+				b_brakwater = {
+				}
+				b_solitaire = {
+				}
+				b_okohandja = {
+				}
+				b_swakopmund = {
+				}
+			}			
+			c_khorixas = {
+
+				color={ 139 170 132 }
+				color2={ 255 255 255 }
+
+				b_khorixas = {
+				}
+				b_palmwag = {
+				}
+				b_sesfontein = {
+				}
+				b_opuwo = {
+				}
+			}
+			c_fransfontein = {
+
+				color={ 89 190 122 }
+				color2={ 255 255 255 }
+
+				b_fransfontein = {
+				}
+				b_ruacana = {
+				}
+				b_kamanjab = {
+				}
+				b_otjikondo = {
+				}
+			}			
+		}
+		d_oskeetotji = { 
+
+			color={ 60 199 111 }
+			color2={ 255 255 255 }
+
+			capital = 3379 #
+
+			c_ogongo = {
+
+				color={ 10 123 111 }
+				color2={ 255 255 255 }
+
+				b_ogongo = {
+				}
+				b_eenhana = {
+				}
+				b_okaukuejo = {
+				}
+				b_otjivelo = {
+				}
+			}			
+			c_otjiwaarongo = {
+
+				color={ 23 69 141 }
+				color2={ 255 255 255 }
+
+				b_otjiwaarongo = {
+				}
+				b_outjo = {
+				}
+				b_kalkfeld = {
+				}
+				b_otjosondu = {
+				}
+			}
+			c_okakarara = {
+
+				color={ 44 79 197 }
+				color2={ 255 255 255 }
+
+				b_okakarara = {
+				}
+				b_otjinene = {
+				}
+				b_wilhelmstal = {
+				}
+				b_kombatt = {
+				}
+			}			
+			c_keetmanshoop = {
+
+				color={ 60 109 161 }
+				color2={ 255 255 255 }
+
+				b_keetmanshoop = {
+				}
+				b_aroab = {
+				}
+				b_grunau = {
+				}
+				b_holoog = {
+				}
+			}
+			c_narubis = {
+
+				color={ 50 139 191 }
+				color2={ 255 255 255 }
+
+				b_narubis = {
+				}
+				b_karasburg = {
+				}
+				b_warmbad = {
+				}
+				b_ariamsvlei = {
+				}
+			}			
+		}
+		d_namaqualand = { #
+
+			color={ 224 175 26 }
+			color2={ 255 255 255 }
+
+			capital = 3388 #
+
+		c_kimberley = {
+
+				color={ 224 175 26 }
+				color2={ 255 255 255 }
+
+				b_kimberley = {
+				}
+				b_nababeep = {
+				}
+				b_dadadanman = {
+				}
+			}
+		c_postmasburg = {
+
+				color={ 144 24 29 }
+				color2={ 255 255 255 }
+
+				b_postmasburg = {
+				}
+				b_hondeklipbaai = {
+				}
+				b_brandvlei = {
+				}
+				b_kezsintia = {
+				}
+			}
+		c_springbok = {
+
+				color={ 84 204 76 }
+				color2={ 255 255 255 }
+
+				b_springbok= {
+				}
+				b_springbok-ii = {
+				}
+				b_springbok-iii = {
+				}
+				b_springbok-iv = {
+				}
+				b_springbok-v = {
+				}
+			}
+		c_calvinia = {
+
+				color={ 124 184 91 }
+				color2={ 255 255 255 }
+
+				b_calvinia= {
+				}
+				b_calvinia-ii = {
+				}
+				b_calvinia-iii = {
+				}
+				b_calvinia-iv = {
+				}
+				b_calvinia-v = {
+				}
+			}
+		c_upington = {
+
+				color={ 133 177 98 }
+				color2={ 255 255 255 }
+
+				b_upington= {
+				}
+				b_upington-ii = {
+				}
+				b_upington-iii = {
+				}
+				b_upington-iv = {
+				}
+				b_upington-v = {
+				}
+			}
+		}
+		d_kimcabloem = { #
+
+			color={ 14 144 94 }
+			color2={ 255 255 255 }
+
+			capital = 3388 #
+
+			c_cape_town = {
+
+				color={ 214 155 76 }
+				color2={ 255 255 255 }
+
+				b_cape_town = {
+				}
+				b_stellenbosch = {
+				}
+				b_worcesterr = {
+				}
+				b_bredasdorp = {
+				}
+			}
+			c_ebhofolo = {
+
+				color={ 114 114 76 }
+				color2={ 255 255 255 }
+
+				b_ebhofolo= {
+				}
+				b_ebhofolo-ii = {
+				}
+				b_ebhofolo-iii = {
+				}
+				b_ebhofolo-iv = {
+				}
+				b_ebhofolo-v = {
+				}
+			}
+			c_khayelitsha = {
+
+				color={ 114 134 86 }
+				color2={ 255 255 255 }
+
+				b_khayelitsha = {
+				}
+				b_calitzdorp = {
+				}
+				b_oudtshoorn = {
+				}
+				b_uniondale = {
+				}
+			}				
+			c_bloemfontein = {
+
+				color={ 224 155 166 }
+				color2={ 255 255 255 }
+
+				b_bloemfontein = {
+				}
+				b_botshabelo = {
+				}
+				b_welkom = {
+				}
+				b_bitrassarburg = {
+				}				
+			}
+			c_petrusburg = {
+
+				color={ 19 137 126 }
+				color2={ 255 255 255 }
+
+				b_petrusburg = {
+				}
+				b_odendoolsrus = {
+				}
+				b_koffiefontein = {
+				}
+				b_dofforonto = {
+				}
+			}			
+		}
+		d_zululand = { #
+
+			color={ 20 30 20 }
+			color2={ 255 255 255 }
+
+			capital = 2490
+			c_neispruit = {
+
+				color={ 218 76 45 }
+				color2={ 255 255 255 }
+
+				b_neispruit = {
+				}
+				b_standerion = {
+				}
+				b_volksrust = {
+				}
+				b_pietermaritzburg = {
+				}				
+			}
+			c_lesotho = {
+
+				color={ 100 45 20 }
+				color2={ 255 255 255 }
+
+				b_lesotho= {
+				}
+				b_lesotho-ii = {
+				}
+				b_lesotho-iii = {
+				}
+				b_lesotho-iv = {
+				}
+				b_lesotho-v = {
+				}
+			}
+			c_kwazulu = {
+
+				color={ 20 30 20 }
+				color2={ 255 255 255 }
+
+				b_kwazulu= {
+				}
+				b_kwazulu-ii = {
+				}
+				b_kwazulu-iii = {
+				}
+				b_kwazulu-iv = {
+				}
+				b_kwazulu-v = {
+				}
+			}
+			c_eswatini = {
+
+				color={ 50 35 40 }
+				color2={ 255 255 255 }
+
+				b_eswatini= {
+				}
+				b_eswatini-ii = {
+				}
+				b_eswatini-iii = {
+				}
+				b_eswatini-iv = {
+				}
+				b_eswatini-v = {
+				}
+			}
+			c_mbazwana = {
+
+				color={ 76 35 100 }
+				color2={ 255 255 255 }
+
+				b_mbazwana= {
+				}
+				b_mbazwana-ii = {
+				}
+				b_mbazwana-iii = {
+				}
+				b_mbazwana-iv = {
+				}
+				b_mbazwana-v = {
+				}
+			}
+		}
+		d_soweto = { #
+
+			color={ 213 147 37 }
+			color2={ 255 255 255 }
+
+			capital = 3390
+		c_soweto = {
+
+				color={ 213 147 37 }
+				color2={ 255 255 255 }
+
+				b_soweto = {
+				}
+				b_gravelotte = {
+				}
+				b_pundamaria = {
+				}
+				b_thohoyandou = {
+				}
+			}
+			c_mthatha = {
+
+				color={ 233 127 17 }
+				color2={ 255 255 255 }
+
+				b_mthatha= {
+				}
+				b_mthatha-ii = {
+				}
+				b_mthatha-iii = {
+				}
+				b_mthatha-iv = {
+				}
+				b_mthatha-v = {
+				}
+			}
+				c_vaalwater = {
+
+				color={ 233 27 15 }
+				color2={ 255 255 255 }
+
+				b_vaalwater = {
+				}
+				b_giyani = {
+				}
+				b_phalaborwa = {
+				}
+				b_steelpoort = {
+				}
+			}
+			c_komani = {
+
+				color={ 243 147 57 }
+				color2={ 255 255 255 }
+
+				b_komani= {
+				}
+				b_komani-ii = {
+				}
+				b_komani-iii = {
+				}
+				b_komani-iv = {
+				}
+				b_komani-v = {
+				}
+			}
+			c_gqeberha = {
+
+				color={ 43 147 57 }
+				color2={ 255 255 255 }
+
+				b_gqeberha= {
+				}
+				b_gqeberha-ii = {
+				}
+				b_gqeberha-iii = {
+				}
+				b_gqeberha-iv = {
+				}
+				b_gqeberha-v = {
+				}
+			}
+		}
+		d_johasowne = { #
+
+			color={ 143 177 77 }
+			color2={ 255 255 255 }
+
+			capital = 3390
+			c_rustenburg= {
+
+				color={ 83 147 57 }
+				color2={ 255 255 255 }
+
+				b_rustenburg= {
+				}
+				b_rustenburg-ii = {
+				}
+				b_rustenburg-iii = {
+				}
+				b_rustenburg-iv = {
+				}
+				b_rustenburg-v = {
+				}
+			}
+			c_mahikeng = {
+
+				color={ 123 147 47 }
+				color2={ 255 255 255 }
+
+				b_mahikeng= {
+				}
+				b_mahikeng-ii = {
+				}
+				b_mahikeng-iii = {
+				}
+				b_mahikeng-iv = {
+				}
+				b_mahikeng-v = {
+				}
+			}
+			c_johannesburg = {
+
+				color={ 233 117 17 }
+				color2={ 255 255 255 }
+
+				holy_site=khoi_san_mythology
+				holy_site=khoi_san_mythology_reformed
+				holy_site=andrianerinerinan
+				holy_site=andrianerinerinan_reformed
+
+				b_johannesburg = {
+				}
+				b_pietersburg = {
+				}
+				b_gauteng = {
+				}
+				b_evaton = {
+				}
+
+			}
+			c_soshanguve = {
+
+				color={ 13 137 27 }
+				color2={ 255 255 255 }
+
+				b_soshanguve = {
+				}
+				b_benoni = {
+				}
+				b_kathlehong = {
+				}
+			}			
+			c_polokwane = {
+
+				color={ 80 45 50 }
+				color2={ 255 255 255 }
+
+				b_polokwane= {
+				}
+				b_polokwane-ii = {
+				}
+				b_polokwane-iii = {
+				}
+				b_polokwane-iv = {
+				}
+				b_polokwane-v = {
+				}
+			}
+			c_ermelo = {
+
+				color={ 18 46 37 }
+				color2={ 255 255 255 }
+
+				b_ermelo = {
+				}
+				b_nongoma = {
+				}
+				b_estcourt = {
+				}
+				b_bibintantan = {
+				}
+			}			
+		}
+	}
+	k_zimbabwe = {
+
+		color = { 255 255 0 }
+		color2 = { 250 250 250 }
+
+		capital = 2372 #Zimbabwe
+
+		d_zimbabwe_buhera = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 2372 #Zimbabwe
+
+			c_zimbabwe = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
+				holy_site=malagasy_religion
+				holy_site=malagasy_religion_reformed
+
+				b_zimbabwe = {
+				}
+				b_nenga = {
+				}
+				b_majiri = {
+				}
+				b_musimbira = {
+				}
+				b_masvingo = {
+				}
+				b_ndadza = {
+				}
+				b_mashava = {
+				}
+				b_ngomahuru = {
+				}
+
+			}
+			c_matendera = {
+
+				color = { 234 204 20 }
+				color2 = { 250 250 250 }
+
+				b_matendera = {
+				}
+				b_chirongwa = {
+				}
+				b_muchuchu = {
+				}
+				b_kagumbudzi = {
+				}
+				b_dorowa = {
+				}
+				b_gunde = {
+				}
+				b_murambinda = {
+				}
+				b_chitsa = {
+				}
+
+			}
+			c_chibvumani = {
+
+				color = { 234 204 30 }
+				color2 = { 250 250 250 }
+
+				b_chibvumani = {
+				}
+				b_chimanimani = {
+				}
+				b_chipinge = {
+				}
+				b_gogoi = {
+				}
+				b_sussundenga = {
+				}
+				b_nyanyadzi = {
+				}
+				b_chibuwe = {
+				}
+				b_dombe = {
+				}
+			}
+		}
+		d_mapungubwe = {
+
+			color = { 233 130 0 }
+			color2 = { 250 250 250 }
+
+			capital = 2374 #Mapungubwe
+
+			c_mapungubwe = {
+
+				color = { 233 140 10 }
+				color2 = { 250 250 250 }
+				holy_site=malagasy_religion
+				holy_site=malagasy_religion_reformed
+
+				b_mapungubwe = {
+				}
+				b_bambandyanalo = {
+				}
+				b_machemma = {
+				}
+				b_maramani = {
+				}
+				b_raditshaba = {
+				}
+				b_makado = {
+				}
+				b_chamumnanga = {
+				}
+				b_lutombe = {
+				}
+			}
+			c_mapela = {
+
+				color = { 233 140 20 }
+				color2 = { 250 250 250 }
+
+				b_mapela = {
+				}
+				b_machacuta = {
+				}
+				b_hwali = {
+				}
+				b_mashaba = {
+				}
+				b_masase = {
+				}
+				b_gwanda = {
+				}
+				b_kezi = {
+				}
+				b_filabusi = {
+				}
+			}
+			c_malumba = {
+
+				color = { 233 140 30 }
+				color2 = { 250 250 250 }
+
+				b_malumba = {
+				}
+				b_mwenezi = {
+				}
+				b_chomuruvati = {
+				}
+				b_rutenga = {
+				}
+				b_mbizi = {
+				}
+				b_neshuro = {
+				}
+				b_chikombedzi = {
+				}
+				b_mabalauta = {
+				}
+			}
+		}
+		d_venda = {
+
+			color = { 144 240 0 }
+			color2 = { 250 250 250 }
+
+			capital = 2081 #Tulamela
+
+			c_tulamela = {
+
+				color = { 144 250 10 }
+				color2 = { 250 250 250 }
+
+				b_tulamela = {
+				}
+				b_tshaulu = {
+				}
+				b_tshilamba = {
+				}
+				b_gundani = {
+				}
+				b_shakadza = {
+				}
+				b_rambuda = {
+				}
+				b_tshipise = {
+				}
+				b_mutele = {
+				}
+
+			}
+			c_dzata = {
+
+				color = { 144 250 20 }
+				color2 = { 250 250 250 }
+				
+				b_dzata = {
+				}
+				b_mandiwana = {
+				}
+				b_mavhunga = {
+				}
+				b_mulelu = {
+				}
+				b_tshituni = {
+				}
+				b_mauluma = {
+				}
+				b_mawoni = {
+				}
+				b_tshitavha= {
+				}
+
+			}
+		}
+		d_madanda_tsonga = {
+
+			color = { 223 143 153 }
+			color2 = { 250 250 250 }
+
+			capital = 2371 #Manyikeni
+
+			c_manyikeni = {
+
+				color = { 223 153 163 }
+				color2 = { 250 250 250 }
+
+				b_manyikeni = {
+				}
+				b_maimelane = {
+				}
+				b_pambarra = {
+				}
+				b_mapinhane = {
+				}
+				b_naite = {
+				}
+				b_mabote = {
+				}
+				b_tesselo = {
+				}
+				b_inhassoro = {
+				}
+			}
+			c_inhambane = {
+
+				color = { 223 153 163 }
+				color2 = { 250 250 250 }
+
+				b_inhambane = {
+				}
+				b_jangamo = {
+				}
+				b_massinga = {
+				}
+				b_umguana = {
+				}
+				b_sitila = {
+				}
+				b_mavume = {
+				}
+				b_chacane = {
+				}
+				b_inharrime = {
+				}
+			}
+		}
+		d_toutswe = {
+
+			color = { 224 146 107 }
+			color2 = { 250 250 250 }
+
+			capital = 2079 #Toutswemogala
+
+			c_toutswemogala = {
+
+				color = { 224 156 117 }
+				color2 = { 250 250 250 }
+
+				b_toutswemogala = {
+				}
+				b_topisi = {
+				}
+				b_serule = {
+				}
+				b_palapye = {
+				}
+				b_mmadinare = {
+				}
+				b_mogapi = {
+				}
+				b_maunatlala = {
+				}
+				b_radisele = {
+				}
+
+			}
+			c_toranjuu = {
+
+				color = { 224 156 127 }
+				color2 = { 250 250 250 }
+
+				b_toranjuu = {
+				}
+				b_mosetse = {
+				}
+				b_dukwi = {
+				}
+				b_makuta = {
+				}
+				b_makaleng = {
+				}
+				b_mathangwane = {
+				}
+				b_tlhalogang = {
+				}
+				b_tsamaya = {
+				}
+			}
+		}
+		d_butwa = {
+
+			color = { 254 144 190 }
+			color2 = { 250 250 250 }
+
+			capital = 2076 #Khami
+
+			c_khami = {
+
+				color = { 254 154 200 }
+				color2 = { 250 250 250 }
+
+				b_khami = {
+				}
+				b_dananombe = {
+				}
+				b_naletale = {
+				}
+				b_shangangwe = {
+				}
+				b_dhlodhlo = {
+				}
+				b_manyanga = {
+				}
+				b_bulawayo = {
+				}
+				b_inyati = {
+				}
+			}
+			c_domboshava = {
+
+				color = { 254 154 210 }
+				color2 = { 250 250 250 }
+
+				b_domboshava = {
+				}
+				b_malalume = {
+				}
+				b_ndolwane = {
+				}
+				b_maitengwe = {
+				}
+				b_mapoka = {
+				}
+				b_ramokgwebana = {
+				}
+				b_butale = {
+				}
+				b_masunga = {
+				}
+			}
+			c_mtelegwa = {
+
+				color = { 254 154 220 }
+				color2 = { 250 250 250 }
+
+				b_mtelegwa = {
+				}
+				b_tabazika_mambo = {
+				}
+				b_dete = {
+				}
+				b_kamativi = {
+				}
+				b_tinde = {
+				}
+				b_lubimbi = {
+				}
+				b_lusulu = {
+				}
+				b_mibizi = {
+				}
+			}
+
+		}
+	}
+	
+	k_mutapa = {
+
+		color = { 0 118 186 }
+		color2 = { 250 250 250 }
+
+		capital = 2377 #Zvongombe
+
+		d_dande_chidima = {
+
+			color = { 0 161 211 }
+			color2 = { 250 250 250 }
+
+			capital = 2377 #Zvongombe
+
+			c_zvongombe = {
+
+				color = { 0 171 221 }
+				color2 = { 250 250 250 }
+
+				b_zvongombe = {
+				}
+				b_masapa = {
+				}
+				b_ruanga = {
+				}
+				b_mutota = {
+				}
+				b_kasekete = {
+				}
+				b_bedza = {
+				}
+				b_chipera = {
+				}
+				b_bakasa = {
+				}
+			}
+			c_chedzugwe = {
+
+				color = { 0 171 231 }
+				color2 = { 250 250 250 }
+
+				b_chedzugwe = {
+				}
+				b_urupande = {
+				}
+				b_karoi = {
+				}
+				b_magunje = {
+				}
+				b_mwami = {
+				}
+				b_makuti = {
+				}
+				b_kariba = {
+				}
+				b_kazangarare = {
+				}
+			}
+			c_chikova = {
+
+				color = { 0 171 241 }
+				color2 = { 250 250 250 }
+
+				b_chikova = {
+				}
+				b_macane = {
+				}
+				b_magoe = {
+				}
+				b_fingoe = {
+				}
+				b_chifunde = {
+				}
+				b_joje = {
+				}
+				b_songo = {
+				}
+				b_chigaco = {
+				}
+			}
+			c_zumbo = {
+
+				color = { 0 171 251 }
+				color2 = { 250 250 250 }
+
+				b_zumbo_zumbo = {
+				}
+				b_carinde = {
+				}
+				b_luangwa = {
+				}
+				b_kapoche = {
+				}
+				b_katondwe = {
+				}
+				b_zambue = {
+				}
+				b_bembere = {
+				}
+				b_kacholola = {
+				}
+			}
+			c_mankhamba = {
+
+				color = { 20 181 151 }
+				color2 = { 250 250 250 }
+
+				b_mankhamba = {
+				}
+				b_manakuti = {
+				}
+				b_kerisite = {
+				}
+				b_wankonka = {
+				}
+				b_zamonini = {
+				}
+				b_kesimidi = {
+				}
+				b_zemkere = {
+				}
+				b_vunavuna = {
+				}
+			}
+		}
+		d_kalomo = {
+
+			color = { 143 161 211 }
+			color2 = { 250 250 250 }
+
+			capital = 2064 #Ingomba Ilele
+
+			c_ingomba_ilele = {
+
+				color = { 143 171 221 }
+				color2 = { 250 250 250 }
+
+				b_ingomba_ilele = {
+				}
+				b_batoka = {
+				}
+				b_gwembe = {
+				}
+				b_chisekesi = {
+				}
+				b_monze = {
+				}
+				b_chobana = {
+				}
+				b_sinazeze = {
+				}
+			}
+			c_isamu_pati = {
+
+				color = { 143 171 231 }
+				color2 = { 250 250 250 }
+
+				b_isamu_pati = {
+				}
+				b_simonga = {
+				}
+				b_kazungula = {
+				}
+				b_msuna = {
+				}
+				b_senkobo = {
+				}
+				b_mutoka = {
+				}
+				b_makunka = {
+				}
+				b_popila = {
+				}
+			}
+			c_kangila = {
+
+				color = { 143 171 241 }
+				color2 = { 250 250 250 }
+
+				b_kangila = {
+				}
+				b_lochinvar = {
+				}
+				b_namwala = {
+				}
+				b_chingala = {
+				}
+				b_kafue = {
+				}
+				b_lubombo = {
+				}
+				b_nakambala = {
+				}
+			}
+		}
+		d_maungwe_budya = {
+
+			color = { 143 161 151 }
+			color2 = { 250 250 250 }
+
+			capital = 2067 #Inyanga
+
+			c_inyanga = {
+
+				color = { 143 171 161 }
+				color2 = { 250 250 250 }
+
+				b_inyanga = {
+				}
+				b_makaha = {
+				}
+				b_tsindi = {
+				}
+				b_bindura = {
+				}
+				b_ruhanje = {
+				}
+				b_bokoto = {
+				}
+				b_sanyatwe = {
+				}
+				b_chikore = {
+				}
+
+			}
+			c_dambarare = {
+
+				color = { 143 171 171 }
+				color2 = { 250 250 250 }
+				
+				b_dambarare = {
+				}
+				b_chipadze = {
+				}
+				b_rimuka = {
+				}
+				b_maramuka = {
+				}
+				b_tafuna = {
+				}
+				b_chitonborwizi = {
+				}
+				b_kadoma = {
+				}
+				b_chigweli = {
+				}
+			}
+
+		}
+		d_manyika_uteve = {
+
+			color = { 158 228 211 }
+			color2 = { 250 250 250 }
+
+			capital = 2066 #Masekesa
+
+			c_masekesa = {
+
+				color = { 158 238 221 }
+				color2 = { 250 250 250 }
+				holy_site=andrianerinerinan
+				holy_site=andrianerinerinan_reformed
+
+				b_masekesa = {
+				}
+				b_chipangura = {
+				}
+				b_bandire = {
+				}
+				b_fetera = {
+				}
+				b_bandula = {
+				}
+				b_mutare = {
+				}
+				b_chimoio = {
+				}
+				b_zembe = {
+				}
+
+			}
+			c_tere = {
+
+				color = { 158 238 231 }
+				color2 = { 250 250 250 }
+
+				b_tere = {
+				}
+				b_changara = {
+				}
+				b_chioco = {
+				}
+				b_nyampanda = {
+				}
+				b_catandica = {
+				}
+				b_macossa = {
+				}
+				b_tica_tere = {
+				}
+				b_inhaminga = {
+				}
+			}
+		}
+		d_barwe_tonga = {
+
+			color = { 206 221 226 }
+			color2 = { 250 250 250 }
+
+			capital = 2072 #Sena
+
+			c_sena = {
+
+				color = { 206 231 236 }
+				color2 = { 250 250 250 }
+
+				b_sena = {
+				}
+				b_mutarara = {
+				}
+				b_juze = {
+				}
+				b_murraca = {
+				}
+				b_inhamitanga = {
+				}
+				b_maringue = {
+				}
+				b_capenga_sena = {
+				}
+				b_caia = {
+				}
+			}
+			c_tete = {
+
+				color = { 206 231 246 }
+				color2 = { 250 250 250 }
+
+				b_tete = {
+				}
+				b_moatize = {
+				}
+				b_chileka = {
+				}
+				b_chikwawa = {
+				}
+				b_nchalo = {
+				}
+				b_kasisi = {
+				}
+				b_tambara = {
+				}
+				b_therere = {
+				}
+			}
+		}
+	}
+
+}

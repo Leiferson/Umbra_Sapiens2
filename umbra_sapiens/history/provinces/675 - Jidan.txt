@@ -1,0 +1,27 @@
+# 675 - Jidan
+
+# County Title
+title = c_jidan
+
+# Settlements
+max_settlements = 5
+b_semender = castle
+b_varachan = city
+b_sambalut = temple
+
+#b_surkhab = castle
+#b_chungars = castle
+#b_balanjar = city
+#b_tarki = city
+
+# Misc
+culture = khazar
+religion = tengri_pagan
+terrain = steppe
+
+# History
+769.1.1 = { religion = miaphysite }
+950.1.1 = { religion = tengri_pagan }
+1159.1.1 = { culture = cuman }
+1259.1.1 = { religion = sunni }
+1410.1.1 = { culture = dagestani }

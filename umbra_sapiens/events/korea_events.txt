@@ -1,0 +1,608 @@
+namespace = koreaevents
+# Converted within Shinto - choose branch
+character_event = {
+	id = koreaevents.1
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCkoreaevents.1
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCkoreaevents.1
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = EVTOPTAkoreaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTAkoreaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = wonyung_buddhist }
+		}
+		add_trait = wonyung_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = wonyung_buddhist }
+			}
+			add_trait = wonyung_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = wonyung_buddhist }
+			}
+			add_trait = wonyung_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_TODAIJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = wonyung_buddhist
+		}
+	}
+}
+	}
+
+	option = {
+		name = {
+			text = EVTOPTBkoreaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBkoreaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = yeolban_buddhist }
+		}
+		add_trait = yeolban_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = yeolban_buddhist }
+			}
+			add_trait = yeolban_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = yeolban_buddhist }
+			}
+			add_trait = yeolban_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_ENRYAKUJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = yeolban_buddhist
+		}
+	}
+}
+	}
+
+	option = {
+		name = {
+			text = EVTOPTGkoreaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTGkoreaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = koreaevents.4
+    days = 1
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+		OR = {
+			trait = beopsang_buddhist
+			trait = beopseong_buddhist
+			trait = gyeyul_buddhist
+			}
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTIkoreaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTIkoreaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		clr_character_flag = india_branch_converted
+	}
+	
+}
+# Converted within Shinto - choose branch part 3
+character_event = {
+	id = koreaevents.3
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCkoreaevents.1
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCkoreaevents.1
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	option = {
+		name = {
+			text = EVTOPTCkoreaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCkoreaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = seon_buddhist }
+		}
+		add_trait = seon_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = buddhist
+				NOT = { trait = seon_buddhist }
+			}
+			add_trait = seon_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = buddhist
+				NOT = { trait = seon_buddhist }
+			}
+			add_trait = seon_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_KOYASAN
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = seon_buddhist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTHkoreaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTGkoreaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = koreaevents.1
+		}
+		
+	}
+}
+# Converted within Shinto - choose branch part 2
+character_event = {
+	id = koreaevents.4
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCkoreaevents.1
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCkoreaevents.1
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	option = {
+		name = {
+			text = EVTOPTDkoreaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTDkoreaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = gyeyul_buddhist }
+		}
+		add_trait = gyeyul_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = gyeyul_buddhist }
+			}
+			add_trait = gyeyul_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = gyeyul_buddhist }
+			}
+			add_trait = gyeyul_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_JODOSHINSHU
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+	}
+	option = {
+		name = {
+			text = EVTOPTFkoreaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTFkoreaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = beopsang_buddhist }
+		}
+		add_trait = beopsang_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = beopsang_buddhist }
+			}
+			add_trait = beopsang_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = beopsang_buddhist }
+			}
+			add_trait = beopsang_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_NANZENJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = beopsang_buddhist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTEkoreaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTEkoreaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = beopseong_buddhist }
+		}
+		add_trait = beopseong_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = beopseong_buddhist }
+			}
+			add_trait = beopseong_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = shingyo
+				NOT = { trait = beopseong_buddhist }
+			}
+			add_trait = beopseong_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_NICHIREN
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = beopseong_buddhist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTGkoreaevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTGkoreaevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = koreaevents.3
+    days = 1
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = seon_buddhist
+		}
+	}
+}
+	}
+}
+character_event = {
+	id = koreaevents.5
+	hide_window = yes
+	is_triggered_only = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	religion = shingyo
+	NOR = {
+	trait = seon_buddhist
+	trait = wonyung_buddhist
+	trait = yeolban_buddhist
+	trait = gyeyul_buddhist
+	trait = beopsang_buddhist
+	trait = beopseong_buddhist
+	}
+	}
+	immediate = {
+	character_event = {
+    id = koreaevents.1
+    days = 1
+}
+	}
+	}
+	character_event = {
+	id = koreaevents.6
+	hide_window = yes
+	only_playable = yes
+	ai = yes
+	mean_time_to_happen = {
+	months = 1
+	}
+	trigger = {
+	wealth >= 500
+	monthly_income >= 1
+	war = no
+	government = korean_imperial_government 
+	ai = yes
+	has_space_for_retinue = RETTYPE_CUL_KOR
+	}
+	immediate = {
+	create_retinue = RETTYPE_CUL_KOR
+	}
+	}

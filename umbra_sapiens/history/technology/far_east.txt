@@ -1,0 +1,207 @@
+#Far East
+
+technology = {
+	titles = {
+		d_cricheng
+		d_kraulai
+		d_thenbjen 
+		d_kiengdrieux
+		d_phyojen
+		d_ghruankhiengh
+		d_zinbiungh
+		d_dungkhiengh
+		d_ghatung
+		d_liungtok
+		d_lomzjek
+		d_linpyox
+		d_daddung
+		d_dadmjeng
+		d_kaujang
+		d_cjindengh
+		d_triungsren 
+		d_byamxjang
+		d_daddengh
+		d_ghrembjen
+		d_leujang 
+		d_hingkhieng
+		d_bjenghrax
+		d_syenmyox
+		d_kyoitok
+		d_eghruainom
+		d_wghruainom
+		d_iuhkuok
+		d_triungmyox
+		d_kianhkhang
+		d_wliangxcjet
+		d_eliangcjet
+		d_ekrungnom
+		d_piukkianh
+		d_wmin
+		d_smin
+		d_ekuangxnom
+		d_liengxtung
+		d_drieux-khiengh
+		d_ziengxhaix
+		d_wkuangxnom
+		d_ziengxkrung
+		d_wkrungnom
+		d_skienggho
+		d_nkienggho
+		d_siangjang
+		d_gyicju
+		d_liihcju
+		d_dungchjyen
+		d_zjengto
+	}
+	
+	769 = {
+		military = 1.25
+		economy = 3.0
+		culture = 3.0
+		TECH_INFANTRY = 1
+		TECH_CAVALRY = 1
+		TECH_SIEGE_EQUIPMENT = 1
+		TECH_TRADE_PRACTICES = 2
+	}
+		
+	1640 = {
+		military = 3.5
+		economy = 4.5
+		culture = 6
+	}
+}
+technology = {
+	titles = {
+		d_kanto
+		d_hokuriku
+		d_tokai
+		d_kinai
+		d_sanyo
+		d_sanin
+		d_shikoku
+		d_kyushu 
+		d_tohoku
+		d_hokkaido 
+		d_bonin
+	}
+	
+	769 = {
+		military = 2.5
+		economy = 0.8
+		culture = 2.0
+	}
+		
+	1337 = {
+		military = 3.0
+		economy = 3.0
+		culture = 3.0
+	}
+	
+	1500 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+	
+	1640 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+technology = {
+	titles = {
+		d_sanggyeong
+		d_buyeo
+		d_donggyeong
+		d_jungnyeong
+		d_yemaek
+		d_okjeo
+		d_seohae
+		d_gyoju
+		d_yanggwang
+		d_jeolla
+		d_gyeongsang
+	}
+	
+	769 = {
+		military = 1.25
+		economy = 2.0
+		culture = 2.0
+	}
+		
+	1337 = {
+		military = 3.0
+		economy = 3.0
+		culture = 3.0
+	}
+	
+	1500 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+	
+	1640 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+technology = {
+	titles = {
+		d_tamna
+		d_ryukyu
+	}
+	
+	769 = {
+		military = 1.25
+		economy = 2.0
+		culture = 2.0
+		
+		TECH_NAVAL = 2.0
+	}
+		
+	1337 = {
+		military = 3.0
+		economy = 3.0
+		culture = 3.0
+	}
+	
+	1500 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+	
+	1640 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+technology = {
+	titles = {
+		d_kurils
+		d_hokkaido
+		d_sakhalin
+		d_middag
+		d_kilai
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+		
+		
+	1640 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}

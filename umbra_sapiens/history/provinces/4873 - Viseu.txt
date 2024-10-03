@@ -1,0 +1,18 @@
+# County Title
+title = c_viseu
+
+# Settlements
+max_settlements = 5
+b_viseu = castle
+b_viseu-ii = temple
+#b_viseu-iii = city
+#b_viseu-iv = castle
+#b_viseu-v = temple
+# Misc
+culture = suebi
+religion = catholic
+terrain = hills
+# History
+931.1.1 = {
+	culture = portuguese
+}

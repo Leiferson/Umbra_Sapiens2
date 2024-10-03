@@ -1,0 +1,879 @@
+#Netulamela Dynasty (Placeholders) of Tulamela
+
+1007000001 = {
+	name="Bagfsehvmnasjea"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1007000002 = {
+	name="Bgagsdea"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000001
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1007000003 = {
+	name="Lukkuolo"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000002
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1007000004 = {
+	name="Zuhunhuhun"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000003
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1007000005 = {
+	name="Vakkoronko"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000004
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1007000006 = {
+	name="Sentiliko"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000005
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1007000007 = {
+	name="Vtuntu"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000006
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1007000008 = {
+	name="Aazzam"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000007
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1007000009 = {
+	name="Hurumurukukucu"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000008
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1007000010 = {
+	name="Sashamha"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000009
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1007000011 = {
+	name="Zubuntuk"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000010
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1007000012 = {
+	name="Vicivondoh"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000011
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1007000013 = {
+	name="Kursatho"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000012
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1007000014 = {
+	name="Gzinzko"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000013
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1007000015 = {
+	name="Atatma"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000014
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1007000016 = {
+	name="Qujandah"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000015
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1007000017 = {
+	name="Mutatah"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000016
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1007000018 = {
+	name="Methhopp"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000017
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1007000019 = {
+	name="Kunkamunka"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000018
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1007000020 = {
+	name="Zantrek"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000019
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1007000021 = {
+	name="Huhuh"
+	dynasty=1009990005 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000020
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1007000022 = {
+	name="Fistikoh"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1007000023 = {
+	name="Kamonho"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000022
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1007000024 = {
+	name="Zizife"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000023
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1007000025 = {
+	name="Zkuntuw"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000024
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1007000026 = {
+	name="Dassakonhw"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000025
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1007000027 = {
+	name="Bufsfeah"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000026
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1007000028 = {
+	name="Dejegahah"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000027
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1007000029 = {
+	name="Vurukocu"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000028
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1007000030 = {
+	name="Sikisokuamigotu"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000029
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1007000031 = {
+	name="Dazlakho"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000030
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1007000032 = {
+	name="Vurucumho"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000031
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1007000033 = {
+	name="Sesesesef"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000032
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1007000034 = {
+	name="Haronda"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000033
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1007000035 = {
+	name="Fehende"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000034
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1007000036 = {
+	name="Duzdum"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000035
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1007000037 = {
+	name="Foktoh"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000036
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1007000038 = {
+	name="Dizzinde"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000037
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1007000039 = {
+	name="Fufufu"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000038
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1007000040 = {
+	name="Okocha"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000039
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1007000041 = {
+	name="Jay-Jay"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000040
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1007000042 = {
+	name="Zibidono"
+	dynasty=1009990006 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000041
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+1007000043 = {
+	name="Ebokhnto"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1007000044 = {
+	name="Zikitutmush"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000043
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1007000045 = {
+	name="Brazzhe"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000044
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1007000046 = {
+	name="Jankho"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000045
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1007000047 = {
+	name="Hajmaj"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000046
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1007000048 = {
+	name="Qurumku"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000047
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1007000049 = {
+	name="Jamali"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000048
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1007000050 = {
+	name="Usuhomko"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000049
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1007000051 = {
+	name="Vurazhin"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000050
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1007000052 = {
+	name="Dinkofmo"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000051
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1007000053 = {
+	name="Ezinkoh"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000052
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1007000054 = {
+	name="Jabbar"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000053
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1007000055 = {
+	name="Bolth"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000054
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1007000056 = {
+	name="Kursatto"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000055
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1007000057 = {
+	name="Acankoh"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000056
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1007000058 = {
+	name="Azazkazmaz"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000057
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1007000059 = {
+	name="Feksifeki"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000058
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1007000060 = {
+	name="Jimhoh"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000059
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1007000061 = {
+	name="Porospwoh"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000060
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1007000062 = {
+	name="Zdfwebkde"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000061
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1007000063 = {
+	name="Kassakho"
+	dynasty=1009990007 #Netulamela
+	religion="west_african_pagan"
+	culture="robana"
+	father=1007000062
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

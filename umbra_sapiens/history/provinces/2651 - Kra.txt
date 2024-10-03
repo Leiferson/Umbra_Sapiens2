@@ -1,0 +1,31 @@
+# 1594 - Kra
+
+# County Title
+title = c_kra
+
+# Settlements
+max_settlements = 4
+b_mukchjyen = castle
+b_kuangsianghzsih = temple
+b_phoxghenzsih = temple
+#b_kralyungju =
+#b_ngamii =
+#b_krepkrung =
+#b_gienye =
+#b_ghungngrax =
+
+
+# Misc
+culture = lolo
+religion = bimojiao
+
+# History
+723.1.1 = {
+build_wonder = wonder_temple_buddhist
+set_wonder_stage = 1
+set_wonder_name = LESHANTEMPLE
+set_wonder_description = LESHANTEMPLEDESC
+build_wonder_upgrade = upgrade_school_buddhist
+build_wonder_upgrade = upgrade_vihara
+}
+# History

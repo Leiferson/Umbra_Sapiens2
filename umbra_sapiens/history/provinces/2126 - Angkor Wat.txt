@@ -1,0 +1,50 @@
+# 1081 - Angkor Wat
+
+# County Title
+title = c_angkor_wat
+
+# Settlements
+max_settlements = 7
+#b_angkor_wat = 
+b_siem_reap = castle
+b_phnom_krom = city
+b_chong_khneas = temple
+#b_rokar_kambot =
+#b_puok =
+#b_pradak =
+#b_phumi_khna =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History
+1150.1.1 = {
+build_wonder = wonder_temple_hindu
+set_wonder_stage = 1
+set_wonder_name = AngkorWat1TEMPLE
+set_wonder_description = AngkorWat1TEMPLEDESC
+build_wonder_upgrade = upgrade_temple_complex
+build_wonder_upgrade = upgrade_mandapa
+}
+
+1150.1.1 = {
+build_wonder = wonder_temple_hindu
+set_wonder_stage = 1
+set_wonder_name = AngkorWatTEMPLE
+set_wonder_description = AngkorWatTEMPLEDESC
+build_wonder_upgrade = upgrade_temple_complex
+build_wonder_upgrade = upgrade_mandapa
+}
+1177.1.1 = {
+destroy_wonder = wonder_temple_hindu
+}
+1150.1.1 = { b_angkor_wat = city }
+1178.1.1 = {
+build_wonder = wonder_temple_buddhist
+set_wonder_stage = 1
+set_wonder_name = BayonTEMPLE
+set_wonder_description = AngkorWatTEMPLEDESC
+build_wonder_upgrade = upgrade_school_buddhist
+build_wonder_upgrade = upgrade_vihara
+}

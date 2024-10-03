@@ -1,0 +1,122 @@
+750.1.1 = {
+	liege="k_lotharingia"
+	holder = 91490 #VULFARD, historical placeholder
+}
+864.1.1={
+	liege = "k_aquitaine"
+	holder = 168055
+}
+879.1.1=
+{
+	holder= 40264
+}
+883.4.7=
+{
+	holder=40266 #Hildebert I de Limoges
+}
+884.12.12={
+	liege="d_poitou"
+}
+914.1.1=
+{
+	holder=138066 #Hildegaire de Limoges
+}
+945.1.1=
+{
+	holder=40294 #Géraud I de Limoges
+}
+988.1.1=
+{
+	holder=40296 #Guy I de Limoges
+}
+1025.10.27=
+{
+	holder=40298 #AdhémarI de Limoges
+}
+1036.8.12=
+{
+	holder=138068 #Guy II de Limoges
+}
+
+1067.10.26=
+{
+	holder=40300 #Adhémar II de Limoges
+}
+1096.10.15=
+{
+	holder=138069 #Guy III de Limoges (cocount)
+}
+1114.1.1=
+{
+	holder=40304 #Adhémar III de Limoges (cocount)
+}
+1139.1.1=
+{
+	holder=138070 #Guy IV de Comborn and holder=205621 Adhémar IV de Comborn
+}
+1148.1.1=
+{
+	holder=205620 #Adhémar V Boson de Comborn
+}
+1187.1.1=
+{
+liege="d_gascogne"
+}
+1199.1.1={
+	holder=205622 #Guy V de Comborn
+}
+1230.3.29={
+	holder=138071 #Guy VI de Comborn
+}
+1263.1.1={
+	holder=455590 #Marie de Comborn
+}
+1290.1.1={
+	holder= 455751 #Arthur II de Bretagne
+}
+1301.1.1={
+	holder= 455750 #Jean III de Bretagne
+}
+1314.1.1={
+	holder= 455754 #Guy IV de Penthièvre
+}
+1317.1.1={
+	holder= 455750 #Jean III de Bretagne
+}
+1341.4.30=
+{
+holder=370720 #John I, Count of Penthièvre
+liege=k_france
+}
+1360.5.8={
+liege="k_england"
+holder=454500
+}
+1370.1.1={
+holder=370720 #John I, Count of Penthièvre
+liege="k_france"
+}
+1404.1.4 = {
+holder=370740 #William, Viscount of Limoges
+}
+1455.1.1 = {
+holder=371322 #Françoise de Châtillon
+}
+1481.1.1 = {
+holder=371325 #Jean III de Navarre 
+}
+1482.3.27 = {
+	liege=k_france
+}
+1516.6.17 = {
+	holder=371339	#Henry II of Navarre
+}
+1555.5.25 = {
+	holder=371346	#Queen Jeanne III of Navarra
+}
+1572.6.9 = {
+	holder=371464	#Henry IV of France
+}
+1610.5.14={
+	holder=371859 #Louis XIII the Just
+}

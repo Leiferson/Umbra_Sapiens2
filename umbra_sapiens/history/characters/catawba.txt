@@ -1,0 +1,2421 @@
+1019918719={
+	name=Nekaghre
+	dynasty=1009990154
+	dna="epimkmlmlnm"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=6 learning=5
+	add_trait=martial_cleric add_trait=diligent add_trait=humble add_trait=wroth add_trait=greedy 
+	719.10.26={ birth=yes }
+	773.7.17={ death=yes }
+}
+1019918720={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990154
+	dna="hjcikmlblki"
+	culture=catawba religion=algic_pagan
+	father=1019918719	#Nekaghre
+	747.7.6={ birth=yes }
+	800.2.29={ death=yes }
+}
+1019918721={
+	name=Kemanha
+	dynasty=1009990154
+	dna="ecilkhgmlam"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=deceitful add_trait=cynical  
+	father=1019918719	#Nekaghre
+	749.8.18={ birth=yes }
+	804.4.1={ death=yes }
+}
+1019918722={
+	name=Egraname
+	female=yes
+	dynasty=1009990154
+	dna="ljjenclolnm"
+	culture=catawba religion=algic_pagan
+	father=1019918719	#Nekaghre
+	754.2.13={ birth=yes }
+	821.11.13={ death=yes }
+}
+1019918723={
+	name=Caygaywachepeche
+	dynasty=1009990154
+	dna="bpmmomlmnfb"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=8 learning=4
+	add_trait=martial_cleric add_trait=greedy add_trait=zealous add_trait=temperate  
+	add_trait=wroth add_trait=drunkard 
+	father=1019918719	#Nekaghre
+	760.12.17={ birth=yes }
+	825.7.12={ death=yes }
+}
+1019918724={
+	name=Gradamnsa
+	dynasty=1009990154
+	dna="apikbigmann"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=7 learning=7
+	add_trait=detached_priest add_trait=patient add_trait=humble  add_trait=diligent 
+	add_trait=gluttonous 
+	father=1019918719	#Nekaghre
+	764.9.18={ birth=yes }
+	823.12.3={ death=yes }
+}
+1019918725={
+	name=Wanougpacha
+	dynasty=1009990154
+	dna="eciekognlao"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=7 learning=4
+	add_trait=scholarly_theologian add_trait=zealous add_trait=temperate add_trait=trusting add_trait=honest 
+	add_trait=depressed 
+	father=1019918721	#Kemanha
+	770.1.22={ birth=yes }
+	846.5.20={ death=yes }
+}
+1019918726={
+	name=Wanougpacha
+	dynasty=1009990154
+	dna="hlilkhgmddc"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=6
+	add_trait=mastermind_theologian add_trait=greedy add_trait=chaste  add_trait=craven 
+	add_trait=gluttonous 
+	father=1019918721	#Kemanha
+	774.11.15={ birth=yes }
+	830.5.11={ death=yes }
+}
+1019918727={
+	name=Watoesa
+	female=yes
+	dynasty=1009990154
+	dna="cciokfpmonm"
+	culture=catawba religion=algic_pagan
+	father=1019918721	#Kemanha
+	778.10.12={ birth=yes }
+	842.7.31={ death=yes }
+}
+1019918728={
+	name=Hurate
+	dynasty=1009990154
+	dna="ecfllhgmlai"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=impaler add_trait=diligent add_trait=brave add_trait=greedy 
+	 add_trait=temperate 
+	father=1019918721	#Kemanha
+	784.6.23={ birth=yes }
+	843.4.19={ death=yes }
+}
+1019918729={
+	name=Nangawahaegea
+	dynasty=1009990154
+	dna="hclelogphag"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=cynical add_trait=honest add_trait=patient add_trait=shy 
+	add_trait=trusting add_trait=temperate 
+	father=1019918725	#Wanougpacha
+	793.5.14={ birth=yes }
+	871.8.25={ death=yes }
+}
+1019918730={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990154
+	dna="miiakehmojl"
+	culture=catawba religion=algic_pagan
+	father=1019918725	#Wanougpacha
+	795.1.3={ birth=yes }
+	851.5.10={ death=yes }
+}
+1019918731={
+	name=Papuisea
+	dynasty=1009990154
+	dna="hcoilogghag"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=impaler add_trait=trusting add_trait=proud add_trait=ambitious 
+	 
+	father=1019918729	#Nangawahaegea
+	819.9.14={ birth=yes }
+	889.7.16={ death=yes }
+}
+1019918732={
+	name=Watoesa
+	female=yes
+	dynasty=1009990154
+	dna="aclellglcdf"
+	culture=catawba religion=algic_pagan
+	father=1019918729	#Nangawahaegea
+	822.5.6={ birth=yes }
+	883.1.10={ death=yes }
+}
+1019918733={
+	name=Teshuhimga
+	dynasty=1009990154
+	dna="kehgcogpoag"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	add_trait=martial_cleric add_trait=hunter add_trait=shy add_trait=craven add_trait=honest 
+	add_trait=chaste add_trait=weak 
+	father=1019918729	#Nangawahaegea
+	827.12.7={ birth=yes }
+	885.6.24={ death=yes }
+}
+1019918734={
+	name=Egraname
+	female=yes
+	dynasty=1009990154
+	dna="hkigfampoag"
+	culture=catawba religion=algic_pagan
+	father=1019918729	#Nangawahaegea
+	831.7.24={ birth=yes }
+	886.11.19={ death=yes }
+}
+1019918735={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990154
+	dna="ipgdloaehag"
+	culture=catawba religion=algic_pagan
+	father=1019918729	#Nangawahaegea
+	837.6.14={ birth=yes }
+	875.10.15={ death=yes }
+}
+1019918736={
+	name=Wanougpacha
+	dynasty=1009990154
+	dna="gcnnldbdllg"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=7
+	add_trait=indulgent_wastrel add_trait=hedonist add_trait=gregarious  add_trait=deceitful 
+	add_trait=zealous add_trait=stressed 
+	father=1019918729	#Nangawahaegea
+	842.6.20={ birth=yes }
+	914.5.5={ death=yes }
+}
+1019918737={
+	name=Teshuhimga
+	dynasty=1009990154
+	dna="ccieloadhae"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=greedy add_trait=just add_trait=humble add_trait=temperate 
+	add_trait=shy add_trait=patient 
+	father=1019918729	#Nangawahaegea
+	848.2.11={ birth=yes }
+	933.11.1={ death=yes }
+}
+1019918738={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990154
+	dna="bcoblhkgheg"
+	culture=catawba religion=algic_pagan
+	father=1019918731	#Papuisea
+	842.11.2={ birth=yes }
+	895.5.24={ death=yes }
+}
+1019918739={
+	name=Couchestawasta
+	dynasty=1009990154
+	dna="hcohaagmimf"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=4 learning=5
+	add_trait=detached_priest add_trait=humble add_trait=slothful add_trait=lustful add_trait=ill 
+	father=1019918731	#Papuisea
+	846.7.26={ birth=yes }
+	932.11.1={ death=yes }
+}
+1019918740={
+	name=Watoesa
+	female=yes
+	dynasty=1009990154
+	dna="hcoklogggaf"
+	culture=catawba religion=algic_pagan
+	father=1019918731	#Papuisea
+	851.2.18={ birth=yes }
+	917.8.30={ death=yes }
+}
+1019918741={
+	name=Nangawahaegea
+	dynasty=1009990154
+	dna="hchhagcmino"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=chaste 
+	father=1019918739	#Couchestawasta
+	875.1.15={ birth=yes }
+	931.10.3={ death=yes }
+}
+1019918742={
+	name=Wanougpacha
+	dynasty=1009990154
+	dna="hcoiaagoidf"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=charitable add_trait=ambitious add_trait=gregarious add_trait=diligent 
+	add_trait=lunatic 
+	father=1019918739	#Couchestawasta
+	883.11.24={ birth=yes }
+	942.6.16={ death=yes }
+}
+1019918743={
+	name=Nichumali
+	dynasty=1009990154
+	dna="hcomaocoimc"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=chaste add_trait=gregarious add_trait=charitable 
+	father=1019918739	#Couchestawasta
+	889.11.7={ birth=yes }
+	969.4.2={ death=yes }
+}
+1019918744={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990154
+	dna="jdohaagmimf"
+	culture=catawba religion=algic_pagan
+	father=1019918739	#Couchestawasta
+	893.1.16={ birth=yes }
+	965.6.9={ death=yes }
+}
+1019918745={
+	name=Nekaghre
+	dynasty=1009990154
+	dna="ckhhjjklkno"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=8
+	add_trait=indulgent_wastrel add_trait=temperate add_trait=gregarious add_trait=wounded 
+	father=1019918741	#Nangawahaegea
+	895.9.13={ birth=yes }
+	963.8.4={ death=yes }
+}
+1019918746={
+	name=Nekaghre
+	dynasty=1009990154
+	dna="hchhggcmief"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=6 learning=7
+	add_trait=elusive_shadow add_trait=gardener add_trait=diligent add_trait=lustful add_trait=deceitful 
+	add_trait=shy add_trait=humble 
+	father=1019918741	#Nangawahaegea
+	900.3.4={ birth=yes }
+	965.8.4={ death=yes }
+}
+1019918747={
+	name=Sekaname
+	female=yes
+	dynasty=1009990154
+	dna="hbhhagcmbne"
+	culture=catawba religion=algic_pagan
+	father=1019918741	#Nangawahaegea
+	903.10.26={ birth=yes }
+	955.11.20={ death=yes }
+}
+1019918748={
+	name=Kemanha
+	dynasty=1009990154
+	dna="dlhhadcmind"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=gluttonous add_trait=ambitious 
+	father=1019918741	#Nangawahaegea
+	907.4.21={ birth=yes }
+	984.6.12={ death=yes }
+}
+1019918749={
+	name=Misae
+	female=yes
+	dynasty=1009990154
+	dna="achbahcbono"
+	culture=catawba religion=algic_pagan
+	father=1019918741	#Nangawahaegea
+	911.2.12={ birth=yes }
+	1001.7.11={ death=yes }
+}
+1019918750={
+	name=Egraname
+	female=yes
+	dynasty=1009990154
+	dna="ihahaohocnh"
+	culture=catawba religion=algic_pagan
+	father=1019918741	#Nangawahaegea
+	913.7.9={ birth=yes }
+	984.6.20={ death=yes }
+}
+1019918751={
+	name=Nichumali
+	dynasty=1009990154
+	dna="flheakcmino"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=8
+	add_trait=elusive_shadow  add_trait=lustful add_trait=envious add_trait=zealous 
+	father=1019918741	#Nangawahaegea
+	919.10.9={ birth=yes }
+	999.5.6={ death=yes }
+}
+1019918752={
+	name=Sekaname
+	female=yes
+	dynasty=1009990154
+	dna="dfbgjmjlkna"
+	culture=catawba religion=algic_pagan
+	father=1019918745	#Nekaghre
+	926.9.26={ birth=yes }
+	989.12.19={ death=yes }
+}
+1019918753={
+	name=Mahsa
+	dynasty=1009990154
+	dna="pkcfjbklljo"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=4 learning=6
+	add_trait=grey_eminence add_trait=deceitful add_trait=trusting add_trait=patient add_trait=arbitrary 
+	add_trait=ambitious add_trait=lunatic 
+	father=1019918745	#Nekaghre
+	931.6.2={ birth=yes }
+	983.10.9={ death=yes }
+}
+1019918754={
+	name=Misae
+	female=yes
+	dynasty=1009990154
+	dna="cdhhjhhlkho"
+	culture=catawba religion=algic_pagan
+	father=1019918745	#Nekaghre
+	935.12.9={ birth=yes }
+	1001.1.4={ death=yes }
+}
+1019918755={
+	name=Hurate
+	dynasty=1009990154
+	dna="cmhjjjkllfh"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	add_trait=elusive_shadow add_trait=honest add_trait=proud add_trait=patient add_trait=brave 
+	add_trait=zealous 
+	father=1019918745	#Nekaghre
+	940.5.19={ birth=yes }
+	999.4.15={ death=yes }
+}
+1019918756={
+	name=Mahsa
+	dynasty=1009990154
+	dna="pkpfhbklojo"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=impaler add_trait=arbitrary add_trait=diligent add_trait=brave 
+	add_trait=cynical 
+	father=1019918753	#Mahsa
+	963.11.15={ birth=yes }
+	1035.3.2={ death=yes }
+}
+1019918757={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990154
+	dna="ppgfjgkjljo"
+	culture=catawba religion=algic_pagan
+	father=1019918753	#Mahsa
+	970.12.16={ birth=yes }
+	1054.12.1={ death=yes }
+}
+1019918758={
+	name=Nichumali
+	dynasty=1009990154
+	dna="pkmodbkloho"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=mystic add_trait=slothful add_trait=proud add_trait=paranoid 
+	add_trait=shy 
+	father=1019918756	#Mahsa
+	993.6.4={ birth=yes }
+	1065.1.23={ death=yes }
+}
+1019918759={
+	name=Niabi
+	female=yes
+	dynasty=1009990154
+	dna="jkjdijeiolf"
+	culture=catawba religion=algic_pagan
+	father=1019918756	#Mahsa
+	1000.6.15={ birth=yes }
+	1084.7.6={ death=yes }
+}
+1019918760={
+	name=Nangawahaegea
+	dynasty=1009990154
+	dna="cmmocbdloeb"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=4 learning=6
+	add_trait=misguided_warrior add_trait=duelist add_trait=arbitrary  add_trait=shy 
+	father=1019918758	#Nichumali
+	1019.8.13={ birth=yes }
+	1089.1.15={ death=yes }
+}
+1019918761={
+	name=Nichumali
+	dynasty=1009990154
+	dna="pjmldoeaoho"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=8 learning=5
+	add_trait=elusive_shadow add_trait=hedonist  add_trait=lustful  
+	add_trait=honest 
+	father=1019918758	#Nichumali
+	1023.11.5={ birth=yes }
+	1089.10.24={ death=yes }
+}
+1019918762={
+	name=Sekaname
+	female=yes
+	dynasty=1009990154
+	dna="kmhoadkfoeo"
+	culture=catawba religion=algic_pagan
+	father=1019918758	#Nichumali
+	1026.7.26={ birth=yes }
+	1084.9.25={ death=yes }
+}
+1019918763={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990154
+	dna="fkmfibalnjm"
+	culture=catawba religion=algic_pagan
+	father=1019918758	#Nichumali
+	1033.5.20={ birth=yes }
+	1097.8.15={ death=yes }
+}
+1019918764={
+	name=Tawangahuh
+	dynasty=1009990154
+	dna="cmhnlbmjaeg"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=patient add_trait=gregarious add_trait=chaste add_trait=slothful 
+	add_trait=humble 
+	father=1019918760	#Nangawahaegea
+	1046.11.5={ birth=yes }
+	1127.3.27={ death=yes }
+}
+1019918765={
+	name=Honencache
+	dynasty=1009990154
+	dna="mmkpopbgbep"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=6
+	add_trait=misguided_warrior add_trait=greedy add_trait=diligent add_trait=patient 
+	father=1019918760	#Nangawahaegea
+	1049.12.27={ birth=yes }
+	1119.3.19={ death=yes }
+}
+1019918766={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990154
+	dna="lmigobdlneb"
+	culture=catawba religion=algic_pagan
+	father=1019918760	#Nangawahaegea
+	1053.2.4={ birth=yes }
+	1112.3.26={ death=yes }
+}
+1019918767={
+	name=Misae
+	female=yes
+	dynasty=1009990154
+	dna="kmmlcgnamaf"
+	culture=catawba religion=algic_pagan
+	father=1019918760	#Nangawahaegea
+	1058.11.24={ birth=yes }
+	1115.7.25={ death=yes }
+}
+1019918768={
+	name=Wasabatougga
+	dynasty=1009990154
+	dna="cemocjieobj"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=8 learning=4
+	add_trait=midas_touched  add_trait=chaste add_trait=content 
+	father=1019918760	#Nangawahaegea
+	1063.12.18={ birth=yes }
+	1137.7.12={ death=yes }
+}
+1019918769={
+	name=Watoesa
+	female=yes
+	dynasty=1009990154
+	dna="efhppjmnoeb"
+	culture=catawba religion=algic_pagan
+	father=1019918760	#Nangawahaegea
+	1067.4.18={ birth=yes }
+	1147.10.4={ death=yes }
+}
+1019918770={
+	name=Misae
+	female=yes
+	dynasty=1009990154
+	dna="hmhnlimaafg"
+	culture=catawba religion=algic_pagan
+	father=1019918764	#Tawangahuh
+	1071.8.27={ birth=yes }
+	1140.9.4={ death=yes }
+}
+1019918771={
+	name=Nekaghre
+	dynasty=1009990154
+	dna="cmhjngmjljh"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=5 learning=7
+	add_trait=midas_touched add_trait=ambitious add_trait=trusting add_trait=charitable add_trait=temperate 
+	 add_trait=wroth 
+	father=1019918764	#Tawangahuh
+	1074.11.9={ birth=yes }
+	1146.8.8={ death=yes }
+}
+1019918772={
+	name=Kemanha
+	dynasty=1009990154
+	dna="emkflbpjaeb"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=gregarious add_trait=honest add_trait=proud add_trait=patient 
+	father=1019918764	#Tawangahuh
+	1079.11.20={ birth=yes }
+	1162.12.16={ death=yes }
+}
+1019918773={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990154
+	dna="clhnliecbeg"
+	culture=catawba religion=algic_pagan
+	father=1019918764	#Tawangahuh
+	1082.11.2={ birth=yes }
+	1171.9.4={ death=yes }
+}
+1019918774={
+	name=Harachabe
+	dynasty=1009990154
+	dna="cognmhkeakg"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=6
+	add_trait=flamboyant_schemer  add_trait=patient add_trait=lustful add_trait=honest 
+	father=1019918764	#Tawangahuh
+	1089.10.7={ birth=yes }
+	1147.2.25={ death=yes }
+}
+1019918775={
+	name=Honencache
+	dynasty=1009990154
+	dna="cbhjekmjdjh"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=envious add_trait=zealous add_trait=just add_trait=honest 
+	father=1019918771	#Nekaghre
+	1099.7.22={ birth=yes }
+	1166.9.2={ death=yes }
+}
+1019918776={
+	name=Sekaname
+	female=yes
+	dynasty=1009990154
+	dna="cnhjbnmjlnd"
+	culture=catawba religion=algic_pagan
+	father=1019918771	#Nekaghre
+	1104.2.12={ birth=yes }
+	1167.1.16={ death=yes }
+}
+1019918777={
+	name=Mahsa
+	dynasty=1009990154
+	dna="kbhfedooflo"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=wroth  add_trait=shy 
+	father=1019918775	#Honencache
+	1121.5.4={ birth=yes }
+	1198.12.26={ death=yes }
+}
+1019918778={
+	name=Gradamnsa
+	dynasty=1009990154
+	dna="kbhjecmjdjh"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=5
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=diligent add_trait=deceitful 
+	father=1019918775	#Honencache
+	1126.7.5={ birth=yes }
+	1202.12.19={ death=yes }
+}
+1019918779={
+	name=Misae
+	female=yes
+	dynasty=1009990154
+	dna="cbhokdfgijo"
+	culture=catawba religion=algic_pagan
+	father=1019918775	#Honencache
+	1131.1.23={ birth=yes }
+	1189.3.10={ death=yes }
+}
+1019918780={
+	name=Niabi
+	female=yes
+	dynasty=1009990154
+	dna="mgabinmpgnh"
+	culture=catawba religion=algic_pagan
+	father=1019918775	#Honencache
+	1135.1.20={ birth=yes }
+	1199.7.10={ death=yes }
+}
+1019918781={
+	name=Sekaname
+	female=yes
+	dynasty=1009990154
+	dna="nbbidkfddjn"
+	culture=catawba religion=algic_pagan
+	father=1019918775	#Honencache
+	1138.10.3={ birth=yes }
+	1202.7.14={ death=yes }
+}
+1019918782={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990154
+	dna="dbjfedokfmg"
+	culture=catawba religion=algic_pagan
+	father=1019918777	#Mahsa
+	1146.3.24={ birth=yes }
+	1231.1.21={ death=yes }
+}
+1019918783={
+	name=Sekaname
+	female=yes
+	dynasty=1009990154
+	dna="dbbpeaoakao"
+	culture=catawba religion=algic_pagan
+	father=1019918777	#Mahsa
+	1152.9.4={ birth=yes }
+	1252.12.5={ death=yes }
+}
+1019918784={
+	name=Harachabe
+	dynasty=1009990154
+	dna="khhieklfflo"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=5
+	add_trait=skilled_tactician add_trait=diligent add_trait=patient add_trait=envious add_trait=honest 
+	father=1019918777	#Mahsa
+	1156.10.9={ birth=yes }
+	1244.7.11={ death=yes }
+}
+1019918785={
+	name=Mekewatanega
+	dynasty=1009990154
+	dna="fchgecooflo"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	add_trait=grey_eminence add_trait=humble add_trait=just add_trait=envious 
+	father=1019918777	#Mahsa
+	1160.9.2={ birth=yes }
+	1237.12.4={ death=yes }
+}
+1019918786={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990154
+	dna="kbhffoojdhp"
+	culture=catawba religion=algic_pagan
+	father=1019918777	#Mahsa
+	1163.8.25={ birth=yes }
+	1224.12.21={ death=yes }
+}
+1019918787={
+	name=Tawangahuh
+	dynasty=1009990154
+	dna="cmjfpdeinpo"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=5
+	add_trait=intricate_webweaver add_trait=charitable add_trait=humble add_trait=diligent 
+	father=1019918777	#Mahsa
+	1166.2.8={ birth=yes }
+	1218.6.30={ death=yes }
+}
+1019918788={
+	name=Mahsa
+	dynasty=1009990154
+	dna="kbhfpdhofgp"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	add_trait=misguided_warrior  add_trait=diligent add_trait=wroth add_trait=zealous 
+	add_trait=honest 
+	father=1019918777	#Mahsa
+	1171.10.26={ birth=yes }
+	1239.4.11={ death=yes }
+}
+1019918789={
+	name=Misae
+	female=yes
+	dynasty=1009990154
+	dna="dhfiakiallo"
+	culture=catawba religion=algic_pagan
+	father=1019918784	#Harachabe
+	1188.12.17={ birth=yes }
+	1245.11.25={ death=yes }
+}
+1019918790={
+	name=Nekaghre
+	dynasty=1009990154
+	dna="kfoijklffoo"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	add_trait=skilled_tactician add_trait=hedonist add_trait=trusting add_trait=greedy add_trait=craven 
+	father=1019918784	#Harachabe
+	1193.1.9={ birth=yes }
+	1246.11.28={ death=yes }
+}
+1019918791={
+	name=Nekaghre
+	dynasty=1009990154
+	dna="kfhllkdefli"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=trusting add_trait=cynical 
+	father=1019918784	#Harachabe
+	1196.2.7={ birth=yes }
+	1262.4.1={ death=yes }
+}
+1019918792={
+	name=Teshuhimga
+	dynasty=1009990154
+	dna="khnickafgln"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	add_trait=intricate_webweaver add_trait=proud add_trait=ambitious add_trait=honest add_trait=lunatic 
+	father=1019918784	#Harachabe
+	1202.10.21={ birth=yes }
+	1303.3.25={ death=yes }
+}
+1019918793={
+	name=Teshuhimga
+	dynasty=1009990154
+	dna="khnoekleakh"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=8 learning=4
+	add_trait=grey_eminence add_trait=scholar add_trait=trusting add_trait=humble 
+	father=1019918784	#Harachabe
+	1207.8.27={ birth=yes }
+	1284.11.16={ death=yes }
+}
+1019918794={
+	name=Sekaname
+	female=yes
+	dynasty=1009990154
+	dna="kkkimhnmflk"
+	culture=catawba religion=algic_pagan
+	father=1019918784	#Harachabe
+	1210.9.15={ birth=yes }
+	1282.6.27={ death=yes }
+}
+1019918795={
+	name=Nangawahaegea
+	dynasty=1009990154
+	dna="hpgpiklfklo"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=6 learning=7
+	add_trait=scholarly_theologian add_trait=envious  add_trait=charitable add_trait=slothful 
+	add_trait=proud 
+	father=1019918784	#Harachabe
+	1217.2.10={ birth=yes }
+	1277.10.23={ death=yes }
+}
+1019918796={
+	name=Mekewatanega
+	dynasty=1009990154
+	dna="kfkmjklffpo"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=ambitious  add_trait=shy add_trait=deceitful 
+	add_trait=envious 
+	father=1019918790	#Nekaghre
+	1224.9.19={ birth=yes }
+	1291.3.28={ death=yes }
+}
+1019918797={
+	name=Niabi
+	female=yes
+	dynasty=1009990154
+	dna="kmoeojkpmoo"
+	culture=catawba religion=algic_pagan
+	father=1019918790	#Nekaghre
+	1231.6.11={ birth=yes }
+	1307.12.9={ death=yes }
+}
+1019918798={
+	name=Teshuhimga
+	dynasty=1009990154
+	dna="dfiinaojgno"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=5
+	add_trait=intricate_webweaver add_trait=celibate add_trait=cynical add_trait=proud add_trait=brave 
+	 add_trait=patient 
+	father=1019918790	#Nekaghre
+	1235.2.13={ birth=yes }
+	1292.12.31={ death=yes }
+}
+1019918799={
+	name=Gradamnsa
+	dynasty=1009990154
+	dna="kfkmndlafne"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=8
+	add_trait=mastermind_theologian add_trait=honest add_trait=chaste add_trait=slothful 
+	father=1019918796	#Mekewatanega
+	1246.6.1={ birth=yes }
+	1306.11.14={ death=yes }
+}
+1019918800={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990154
+	dna="kpkmjkoffpo"
+	culture=catawba religion=algic_pagan
+	father=1019918796	#Mekewatanega
+	1254.9.7={ birth=yes }
+	1337.8.15={ death=yes }
+}
+1019918801={
+	name=Nekaghre
+	dynasty=1009990154
+	dna="pcbmjflfbpa"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=7 learning=7
+	add_trait=detached_priest add_trait=patient add_trait=proud add_trait=brave add_trait=honest 
+	add_trait=charitable 
+	father=1019918796	#Mekewatanega
+	1259.7.25={ birth=yes }
+	1341.5.25={ death=yes }
+}
+1019918802={
+	name=Egraname
+	female=yes
+	dynasty=1009990154
+	dna="kmcicolafng"
+	culture=catawba religion=algic_pagan
+	father=1019918799	#Gradamnsa
+	1274.3.4={ birth=yes }
+	1338.8.4={ death=yes }
+}
+1019918803={
+	name=Egraname
+	female=yes
+	dynasty=1009990154
+	dna="hdkdnjlafne"
+	culture=catawba religion=algic_pagan
+	father=1019918799	#Gradamnsa
+	1278.7.19={ birth=yes }
+	1338.10.20={ death=yes }
+}
+1019918804={
+	name=Wasabatougga
+	dynasty=1009990154
+	dna="kmomndlafih"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=5 learning=7
+	add_trait=grey_eminence add_trait=patient add_trait=deceitful add_trait=shy add_trait=ill 
+	father=1019918799	#Gradamnsa
+	1281.9.5={ birth=yes }
+	1322.5.27={ death=yes }
+}
+1019918805={
+	name=Nekaghre
+	dynasty=1009990154
+	dna="kogfnbpanne"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	add_trait=naive_appeaser  add_trait=honest add_trait=ambitious add_trait=slothful 
+	father=1019918799	#Gradamnsa
+	1286.11.21={ birth=yes }
+	1340.2.6={ death=yes }
+}
+1019918806={
+	name=Wanougpacha
+	dynasty=1009990154
+	dna="kfkbadlafie"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=trusting add_trait=envious add_trait=proud add_trait=arbitrary 
+	father=1019918799	#Gradamnsa
+	1290.7.23={ birth=yes }
+	1346.9.6={ death=yes }
+}
+1019918807={
+	name=Mahsa
+	dynasty=1009990154
+	dna="keiefdcgfbc"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=6 learning=5
+	add_trait=indulgent_wastrel add_trait=ambitious add_trait=diligent add_trait=charitable add_trait=trusting 
+	father=1019918799	#Gradamnsa
+	1296.2.22={ birth=yes }
+	1368.5.3={ death=yes }
+}
+1019918808={
+	name=Hurate
+	dynasty=1009990154
+	dna="jfkkaklofne"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	add_trait=elusive_shadow  add_trait=paranoid add_trait=wroth 
+	father=1019918799	#Gradamnsa
+	1301.11.24={ birth=yes }
+	1365.12.21={ death=yes }
+}
+1019918809={
+	name=Harachabe
+	dynasty=1009990154
+	dna="kmlmpdpafib"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=8 learning=6
+	add_trait=scholarly_theologian add_trait=temperate add_trait=deceitful add_trait=chaste  
+	add_trait=content add_trait=stressed 
+	father=1019918804	#Wasabatougga
+	1303.1.9={ birth=yes }
+	1374.4.7={ death=yes }
+}
+1019918810={
+	name=Gradamnsa
+	dynasty=1009990154
+	dna="bmmdndlhfih"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=wroth add_trait=diligent add_trait=proud add_trait=temperate 
+	add_trait=trusting  add_trait=ill add_trait=possessed 
+	father=1019918804	#Wasabatougga
+	1310.7.27={ birth=yes }
+	1365.5.26={ death=yes }
+}
+1019918811={
+	name=Papuisea
+	dynasty=1009990154
+	dna="klomndlgfmn"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=7 learning=4
+	add_trait=tough_soldier add_trait=content add_trait=wroth 
+	father=1019918804	#Wasabatougga
+	1318.6.23={ birth=yes }
+	1398.3.17={ death=yes }
+}
+1019918812={
+	name=Wasabatougga
+	dynasty=1009990154
+	dna="kklmpdnhfpb"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=4 learning=6
+	add_trait=midas_touched  add_trait=cynical add_trait=proud add_trait=diligent 
+	father=1019918809	#Harachabe
+	1335.6.25={ birth=yes }
+	1388.1.4={ death=yes }
+}
+1019918813={
+	name=Watoesa
+	female=yes
+	dynasty=1009990154
+	dna="igkkfhakfhb"
+	culture=catawba religion=algic_pagan
+	father=1019918809	#Harachabe
+	1341.7.25={ birth=yes }
+	1396.9.9={ death=yes }
+}
+1019918814={
+	name=Watoesa
+	female=yes
+	dynasty=1009990154
+	dna="fmlmhdpanig"
+	culture=catawba religion=algic_pagan
+	father=1019918809	#Harachabe
+	1343.6.5={ birth=yes }
+	1423.6.28={ death=yes }
+}
+1019918815={
+	name=Nekaghre
+	dynasty=1009990154
+	dna="kmlmpdeaehb"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	add_trait=mastermind_theologian add_trait=gregarious add_trait=brave add_trait=deceitful add_trait=just 
+	father=1019918809	#Harachabe
+	1348.7.11={ birth=yes }
+	1402.2.25={ death=yes }
+}
+1019918816={
+	name=Nekaghre
+	dynasty=1009990154
+	dna="hkhmplnhbpb"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=scholar add_trait=envious add_trait=brave add_trait=wroth 
+	add_trait=temperate  add_trait=paranoid 
+	father=1019918812	#Wasabatougga
+	1365.3.27={ birth=yes }
+	1426.8.8={ death=yes }
+}
+1019918817={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990154
+	dna="kkcipdnhooi"
+	culture=catawba religion=algic_pagan
+	father=1019918812	#Wasabatougga
+	1369.9.5={ birth=yes }
+	1414.6.13={ death=yes }
+}
+1019918818={
+	name=Hurate
+	dynasty=1009990154
+	dna="kkdmndaffpc"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=8 learning=6
+	add_trait=indulgent_wastrel add_trait=arbitrary add_trait=zealous add_trait=content add_trait=craven 
+	father=1019918812	#Wasabatougga
+	1374.8.20={ birth=yes }
+	1439.5.10={ death=yes }
+}
+1019918819={
+	name=Honencache
+	dynasty=1009990154
+	dna="hklnidnhpph"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=paranoid add_trait=gregarious add_trait=diligent  
+	father=1019918812	#Wasabatougga
+	1379.12.9={ birth=yes }
+	1445.1.21={ death=yes }
+}
+1019918820={
+	name=Nichumali
+	dynasty=1009990154
+	dna="kklmpcnlbpb"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=7 learning=7
+	add_trait=tough_soldier add_trait=trusting add_trait=arbitrary add_trait=temperate add_trait=zealous 
+	add_trait=diligent add_trait=lunatic 
+	father=1019918812	#Wasabatougga
+	1383.6.19={ birth=yes }
+	1459.8.30={ death=yes }
+}
+1019918821={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990154
+	dna="kkjmpjnhkpj"
+	culture=catawba religion=algic_pagan
+	father=1019918812	#Wasabatougga
+	1385.4.11={ birth=yes }
+	1451.6.23={ death=yes }
+}
+1019918822={
+	name=Gradamnsa
+	dynasty=1009990154
+	dna="jklmpgfifgb"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	add_trait=charismatic_negotiator  add_trait=patient add_trait=temperate 
+	father=1019918812	#Wasabatougga
+	1389.9.14={ birth=yes }
+	1462.6.8={ death=yes }
+}
+1019918823={
+	name=Kemanha
+	dynasty=1009990154
+	dna="fkodpcnahpb"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=lustful add_trait=diligent add_trait=content add_trait=humble 
+	add_trait=honest add_trait=greedy 
+	father=1019918816	#Nekaghre
+	1392.5.21={ birth=yes }
+	1450.7.14={ death=yes }
+}
+1019918824={
+	name=Egraname
+	female=yes
+	dynasty=1009990154
+	dna="hkhhcagedln"
+	culture=catawba religion=algic_pagan
+	father=1019918816	#Nekaghre
+	1398.11.24={ birth=yes }
+	1474.8.27={ death=yes }
+}
+1019918825={
+	name=Teshuhimga
+	dynasty=1009990154
+	dna="cmjmpblllpe"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=proud add_trait=shy add_trait=ambitious add_trait=just 
+	add_trait=ill 
+	father=1019918816	#Nekaghre
+	1401.4.7={ birth=yes }
+	1476.12.18={ death=yes }
+}
+1019918826={
+	name=Egraname
+	female=yes
+	dynasty=1009990154
+	dna="fapcclohbjb"
+	culture=catawba religion=algic_pagan
+	father=1019918816	#Nekaghre
+	1407.1.17={ birth=yes }
+	1479.7.4={ death=yes }
+}
+1019918827={
+	name=Misae
+	female=yes
+	dynasty=1009990154
+	dna="akhhplgdbeb"
+	culture=catawba religion=algic_pagan
+	father=1019918816	#Nekaghre
+	1413.11.19={ birth=yes }
+	1500.3.11={ death=yes }
+}
+1019918828={
+	name=Couchestawasta
+	dynasty=1009990154
+	dna="kojkflnlkcb"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=8
+	add_trait=charismatic_negotiator add_trait=trusting add_trait=content add_trait=lustful add_trait=shy 
+	add_trait=craven  add_trait=fair 
+	father=1019918816	#Nekaghre
+	1419.11.5={ birth=yes }
+	1473.8.9={ death=yes }
+}
+1019918829={
+	name=Sekaname
+	female=yes
+	dynasty=1009990154
+	dna="dhhmplhpbpb"
+	culture=catawba religion=algic_pagan
+	father=1019918816	#Nekaghre
+	1421.10.6={ birth=yes }
+	1502.11.30={ death=yes }
+}
+1019918830={
+	name=Couchestawasta
+	dynasty=1009990155
+	dna="ganfkcamaij"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=5
+	add_trait=elusive_shadow add_trait=humble add_trait=cynical add_trait=patient add_trait=diligent 
+	add_trait=lustful 
+	719.2.13={ birth=yes }
+	771.7.12={ death=yes }
+}
+1019918831={
+	name=Niabi
+	female=yes
+	dynasty=1009990155
+	dna="gajfncaaaij"
+	culture=catawba religion=algic_pagan
+	father=1019918830	#Couchestawasta
+	749.2.6={ birth=yes }
+	828.5.21={ death=yes }
+}
+1019918832={
+	name=Mekewatanega
+	dynasty=1009990155
+	dna="gabekjamail"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=hunter add_trait=gregarious add_trait=patient  
+	add_trait=zealous add_trait=depressed 
+	father=1019918830	#Couchestawasta
+	753.10.8={ birth=yes }
+	807.3.15={ death=yes }
+}
+1019918833={
+	name=Nichumali
+	dynasty=1009990155
+	dna="balllnakadj"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=4
+	add_trait=grey_eminence add_trait=duelist  add_trait=craven add_trait=gregarious 
+	add_trait=stressed 
+	father=1019918830	#Couchestawasta
+	761.4.24={ birth=yes }
+	825.3.3={ death=yes }
+}
+1019918834={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990155
+	dna="glbkkkjncil"
+	culture=catawba religion=algic_pagan
+	father=1019918832	#Mekewatanega
+	780.1.18={ birth=yes }
+	856.11.9={ death=yes }
+}
+1019918835={
+	name=Hurate
+	dynasty=1009990155
+	dna="aameljacail"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=arbitrary add_trait=shy 
+	father=1019918832	#Mekewatanega
+	787.3.1={ birth=yes }
+	844.12.17={ death=yes }
+}
+1019918836={
+	name=Nichumali
+	dynasty=1009990155
+	dna="halikjimakl"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	add_trait=martial_cleric  add_trait=temperate add_trait=deceitful 
+	father=1019918832	#Mekewatanega
+	793.8.15={ birth=yes }
+	876.7.28={ death=yes }
+}
+1019918837={
+	name=Mekewatanega
+	dynasty=1009990155
+	dna="calpkmamape"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=6 learning=5
+	add_trait=martial_cleric add_trait=just add_trait=content add_trait=slothful add_trait=charitable 
+	add_trait=cynical 
+	father=1019918832	#Mekewatanega
+	798.10.27={ birth=yes }
+	886.8.3={ death=yes }
+}
+1019918838={
+	name=Niabi
+	female=yes
+	dynasty=1009990155
+	dna="hhmiijacaie"
+	culture=catawba religion=algic_pagan
+	father=1019918835	#Hurate
+	811.2.2={ birth=yes }
+	868.10.24={ death=yes }
+}
+1019918839={
+	name=Caygaywachepeche
+	dynasty=1009990155
+	dna="dageljacaio"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=chaste add_trait=shy add_trait=charitable add_trait=arbitrary 
+	add_trait=trusting 
+	father=1019918835	#Hurate
+	816.10.24={ birth=yes }
+	896.1.16={ death=yes }
+}
+1019918840={
+	name=Kemanha
+	dynasty=1009990155
+	dna="jaeneiacail"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=chaste add_trait=wroth add_trait=gregarious add_trait=paranoid 
+	 
+	father=1019918835	#Hurate
+	822.1.25={ birth=yes }
+	904.8.27={ death=yes }
+}
+1019918841={
+	name=Gradamnsa
+	dynasty=1009990155
+	dna="dablljacaol"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=slothful add_trait=trusting 
+	father=1019918835	#Hurate
+	828.2.7={ birth=yes }
+	917.6.17={ death=yes }
+}
+1019918842={
+	name=Nichumali
+	dynasty=1009990155
+	dna="dlggdpocoih"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=5 learning=6
+	add_trait=detached_priest add_trait=cynical add_trait=content 
+	father=1019918839	#Caygaywachepeche
+	844.6.23={ birth=yes }
+	911.11.2={ death=yes }
+}
+1019918843={
+	name=Misae
+	female=yes
+	dynasty=1009990155
+	dna="ddjeljacnof"
+	culture=catawba religion=algic_pagan
+	father=1019918839	#Caygaywachepeche
+	848.5.10={ birth=yes }
+	917.4.8={ death=yes }
+}
+1019918844={
+	name=Gradamnsa
+	dynasty=1009990155
+	dna="doeelbomapo"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=7 learning=5
+	add_trait=scholarly_theologian  add_trait=honest  add_trait=content 
+	add_trait=brave 
+	father=1019918839	#Caygaywachepeche
+	854.10.13={ birth=yes }
+	919.10.21={ death=yes }
+}
+1019918845={
+	name=Nekaghre
+	dynasty=1009990155
+	dna="dpgfljecdha"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=thrifty_clerk add_trait=chaste add_trait=cynical add_trait=proud add_trait=craven 
+	father=1019918839	#Caygaywachepeche
+	859.1.2={ birth=yes }
+	923.9.5={ death=yes }
+}
+1019918846={
+	name=Teshuhimga
+	dynasty=1009990155
+	dna="ekbedkkckan"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=slothful add_trait=humble add_trait=craven add_trait=temperate 
+	add_trait=shy 
+	father=1019918842	#Nichumali
+	873.4.4={ birth=yes }
+	935.6.30={ death=yes }
+}
+1019918847={
+	name=Egraname
+	female=yes
+	dynasty=1009990155
+	dna="ddggdpoioif"
+	culture=catawba religion=algic_pagan
+	father=1019918842	#Nichumali
+	877.12.11={ birth=yes }
+	934.11.13={ death=yes }
+}
+1019918848={
+	name=Sekaname
+	female=yes
+	dynasty=1009990155
+	dna="ddagefbcogh"
+	culture=catawba religion=algic_pagan
+	father=1019918842	#Nichumali
+	882.2.18={ birth=yes }
+	935.12.28={ death=yes }
+}
+1019918849={
+	name=Harachabe
+	dynasty=1009990155
+	dna="ekkehkkkifb"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=zealous add_trait=deceitful add_trait=arbitrary add_trait=charitable 
+	add_trait=slothful add_trait=content add_trait=ill 
+	father=1019918846	#Teshuhimga
+	898.4.22={ birth=yes }
+	957.12.31={ death=yes }
+}
+1019918850={
+	name=Tawangahuh
+	dynasty=1009990155
+	dna="ehbedklcnan"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=just add_trait=greedy add_trait=ambitious add_trait=temperate 
+	add_trait=lustful 
+	father=1019918846	#Teshuhimga
+	902.11.13={ birth=yes }
+	967.6.29={ death=yes }
+}
+1019918851={
+	name=Papuisea
+	dynasty=1009990155
+	dna="lkipdkbhman"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=duelist add_trait=zealous add_trait=trusting add_trait=gluttonous 
+	add_trait=arbitrary 
+	father=1019918846	#Teshuhimga
+	905.12.27={ birth=yes }
+	975.2.18={ death=yes }
+}
+1019918852={
+	name=Wasabatougga
+	dynasty=1009990155
+	dna="ekbldajlgak"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=envious add_trait=just add_trait=gregarious add_trait=brave 
+	add_trait=possessed 
+	father=1019918846	#Teshuhimga
+	913.9.20={ birth=yes }
+	977.6.15={ death=yes }
+}
+1019918853={
+	name=Nangawahaegea
+	dynasty=1009990155
+	dna="eddkhafeifc"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=6 learning=8
+	add_trait=indulgent_wastrel add_trait=poet add_trait=gregarious  add_trait=envious 
+	add_trait=content 
+	father=1019918849	#Harachabe
+	928.4.21={ birth=yes }
+	991.11.9={ death=yes }
+}
+1019918854={
+	name=Pahelagren
+	dynasty=1009990155
+	dna="nkpfkkllifl"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=wroth add_trait=arbitrary add_trait=cynical add_trait=deceitful 
+	add_trait=ill 
+	father=1019918849	#Harachabe
+	930.9.10={ birth=yes }
+	1015.7.11={ death=yes }
+}
+1019918855={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990155
+	dna="ddnohkcmifn"
+	culture=catawba religion=algic_pagan
+	father=1019918849	#Harachabe
+	935.1.23={ birth=yes }
+	990.7.26={ death=yes }
+}
+1019918856={
+	name=Teshuhimga
+	dynasty=1009990155
+	dna="gkkfhkkmifh"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=mastermind_theologian add_trait=duelist add_trait=slothful add_trait=humble add_trait=content 
+	father=1019918849	#Harachabe
+	940.1.17={ birth=yes }
+	1015.4.3={ death=yes }
+}
+1019918857={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990155
+	dna="pkkahfkkifb"
+	culture=catawba religion=algic_pagan
+	father=1019918849	#Harachabe
+	946.11.8={ birth=yes }
+	1003.6.20={ death=yes }
+}
+1019918858={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990155
+	dna="akgkijcpigd"
+	culture=catawba religion=algic_pagan
+	father=1019918853	#Nangawahaegea
+	948.10.24={ birth=yes }
+	1008.5.14={ death=yes }
+}
+1019918859={
+	name=Wanougpacha
+	dynasty=1009990155
+	dna="alikiafbifc"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=4 learning=7
+	add_trait=skilled_tactician add_trait=craven add_trait=charitable  add_trait=gluttonous 
+	add_trait=ill 
+	father=1019918853	#Nangawahaegea
+	955.4.3={ birth=yes }
+	1017.3.18={ death=yes }
+}
+1019918860={
+	name=Teshuhimga
+	dynasty=1009990155
+	dna="iodkmeciehf"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=8 learning=5
+	add_trait=skilled_tactician add_trait=hunter add_trait=trusting add_trait=shy 
+	father=1019918853	#Nangawahaegea
+	959.4.5={ birth=yes }
+	1019.12.24={ death=yes }
+}
+1019918861={
+	name=Pahelagren
+	dynasty=1009990155
+	dna="dlkfkhfbnfc"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=paranoid  add_trait=envious add_trait=patient 
+	add_trait=humble 
+	father=1019918859	#Wanougpacha
+	983.9.19={ birth=yes }
+	1045.8.26={ death=yes }
+}
+1019918862={
+	name=Wasabatougga
+	dynasty=1009990155
+	dna="nlbcpndbijp"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=6 learning=7
+	add_trait=grey_eminence add_trait=shy add_trait=wroth add_trait=greedy add_trait=arbitrary 
+	add_trait=proud add_trait=envious 
+	father=1019918859	#Wanougpacha
+	987.5.24={ birth=yes }
+	1059.1.15={ death=yes }
+}
+1019918863={
+	name=Gradamnsa
+	dynasty=1009990155
+	dna="pnfmlffoidc"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=6 learning=7
+	add_trait=intricate_webweaver add_trait=gardener  add_trait=temperate add_trait=slothful 
+	add_trait=humble 
+	father=1019918859	#Wanougpacha
+	992.2.17={ birth=yes }
+	1068.4.5={ death=yes }
+}
+1019918864={
+	name=Misae
+	female=yes
+	dynasty=1009990155
+	dna="jbimiafbgfi"
+	culture=catawba religion=algic_pagan
+	father=1019918859	#Wanougpacha
+	998.3.21={ birth=yes }
+	1055.2.17={ death=yes }
+}
+1019918865={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990155
+	dna="aeabiadbooc"
+	culture=catawba religion=algic_pagan
+	father=1019918859	#Wanougpacha
+	1002.10.8={ birth=yes }
+	1041.5.5={ death=yes }
+}
+1019918866={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990155
+	dna="aaikilphlec"
+	culture=catawba religion=algic_pagan
+	father=1019918859	#Wanougpacha
+	1005.10.10={ birth=yes }
+	1073.6.17={ death=yes }
+}
+1019918867={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990155
+	dna="mcjgkhnblml"
+	culture=catawba religion=algic_pagan
+	father=1019918861	#Pahelagren
+	1003.6.17={ birth=yes }
+	1078.7.18={ death=yes }
+}
+1019918868={
+	name=Hurate
+	dynasty=1009990155
+	dna="jlilkbpbnhd"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	add_trait=indulgent_wastrel add_trait=patient add_trait=arbitrary add_trait=humble 
+	father=1019918861	#Pahelagren
+	1007.7.7={ birth=yes }
+	1095.3.11={ death=yes }
+}
+1019918869={
+	name=Mahsa
+	dynasty=1009990155
+	dna="dlkmkphbnkc"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	add_trait=grey_eminence add_trait=craven  add_trait=humble add_trait=diligent 
+	father=1019918861	#Pahelagren
+	1013.4.23={ birth=yes }
+	1099.5.23={ death=yes }
+}
+1019918870={
+	name=Honencache
+	dynasty=1009990155
+	dna="pkmmobbbnhe"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=7
+	add_trait=thrifty_clerk add_trait=envious add_trait=honest add_trait=arbitrary 
+	father=1019918868	#Hurate
+	1037.10.19={ birth=yes }
+	1127.10.6={ death=yes }
+}
+1019918871={
+	name=Nekaghre
+	dynasty=1009990155
+	dna="pnoiolpnddd"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=craven add_trait=charitable add_trait=cynical add_trait=gluttonous 
+	father=1019918868	#Hurate
+	1043.9.8={ birth=yes }
+	1097.4.13={ death=yes }
+}
+1019918872={
+	name=Sekaname
+	female=yes
+	dynasty=1009990155
+	dna="jgilhbacbjp"
+	culture=catawba religion=algic_pagan
+	father=1019918868	#Hurate
+	1050.1.1={ birth=yes }
+	1105.10.18={ death=yes }
+}
+1019918873={
+	name=Teshuhimga
+	dynasty=1009990155
+	dna="jlfmjmpbebe"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=proud add_trait=shy  add_trait=arbitrary 
+	father=1019918870	#Honencache
+	1068.5.13={ birth=yes }
+	1137.8.17={ death=yes }
+}
+1019918874={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990155
+	dna="pgmlobcbmhe"
+	culture=catawba religion=algic_pagan
+	father=1019918870	#Honencache
+	1074.4.25={ birth=yes }
+	1156.2.27={ death=yes }
+}
+1019918875={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990155
+	dna="pdmgdhbbnpn"
+	culture=catawba religion=algic_pagan
+	father=1019918870	#Honencache
+	1078.10.1={ birth=yes }
+	1149.1.17={ death=yes }
+}
+1019918876={
+	name=Niabi
+	female=yes
+	dynasty=1009990155
+	dna="pfmkjebcnhd"
+	culture=catawba religion=algic_pagan
+	father=1019918870	#Honencache
+	1083.12.23={ birth=yes }
+	1166.7.18={ death=yes }
+}
+1019918877={
+	name=Mekewatanega
+	dynasty=1009990155
+	dna="hkjiobebnnf"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=scholar add_trait=temperate add_trait=just add_trait=shy 
+	add_trait=craven add_trait=weak 
+	father=1019918870	#Honencache
+	1088.7.25={ birth=yes }
+	1146.7.21={ death=yes }
+}
+1019918878={
+	name=Sekaname
+	female=yes
+	dynasty=1009990155
+	dna="mpfmacbbebb"
+	culture=catawba religion=algic_pagan
+	father=1019918873	#Teshuhimga
+	1099.7.2={ birth=yes }
+	1177.11.10={ death=yes }
+}
+1019918879={
+	name=Wanougpacha
+	dynasty=1009990155
+	dna="jgmmglnnebe"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=charitable add_trait=deceitful add_trait=proud  
+	father=1019918873	#Teshuhimga
+	1104.12.6={ birth=yes }
+	1178.5.15={ death=yes }
+}
+1019918880={
+	name=Tawangahuh
+	dynasty=1009990155
+	dna="mdeofmdgibe"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=8
+	add_trait=scholarly_theologian  add_trait=gregarious add_trait=proud add_trait=chaste 
+	add_trait=honest add_trait=hunchback 
+	father=1019918873	#Teshuhimga
+	1107.5.5={ birth=yes }
+	1160.12.3={ death=yes }
+}
+1019918881={
+	name=Tawangahuh
+	dynasty=1009990155
+	dna="njfnehjiepi"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	add_trait=tough_soldier add_trait=temperate  add_trait=content add_trait=lustful 
+	add_trait=proud add_trait=wroth 
+	father=1019918873	#Teshuhimga
+	1112.9.4={ birth=yes }
+	1169.3.26={ death=yes }
+}
+1019918882={
+	name=Niabi
+	female=yes
+	dynasty=1009990155
+	dna="jlfmjmpbobe"
+	culture=catawba religion=algic_pagan
+	father=1019918873	#Teshuhimga
+	1119.5.6={ birth=yes }
+	1200.1.16={ death=yes }
+}
+1019918883={
+	name=Mekewatanega
+	dynasty=1009990155
+	dna="jammalgeeee"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=gregarious add_trait=diligent add_trait=gluttonous add_trait=humble 
+	 
+	father=1019918879	#Wanougpacha
+	1129.2.9={ birth=yes }
+	1214.6.10={ death=yes }
+}
+1019918884={
+	name=Nangawahaegea
+	dynasty=1009990155
+	dna="agfmgcnaoce"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=5 learning=8
+	add_trait=mastermind_theologian add_trait=slothful add_trait=gluttonous add_trait=lustful 
+	father=1019918879	#Wanougpacha
+	1133.3.23={ birth=yes }
+	1204.5.13={ death=yes }
+}
+1019918885={
+	name=Sekaname
+	female=yes
+	dynasty=1009990155
+	dna="mgmjflncebe"
+	culture=catawba religion=algic_pagan
+	father=1019918879	#Wanougpacha
+	1138.6.19={ birth=yes }
+	1192.7.23={ death=yes }
+}
+1019918886={
+	name=Papuisea
+	dynasty=1009990155
+	dna="jfmnglgmebe"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=5
+	add_trait=charismatic_negotiator add_trait=honest add_trait=slothful add_trait=chaste add_trait=ambitious 
+	father=1019918879	#Wanougpacha
+	1144.1.17={ birth=yes }
+	1196.9.26={ death=yes }
+}
+1019918887={
+	name=Nangawahaegea
+	dynasty=1009990155
+	dna="jidmalgeepk"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=8 learning=5
+	add_trait=naive_appeaser add_trait=gluttonous add_trait=wroth add_trait=content  
+	add_trait=shy add_trait=ill 
+	father=1019918883	#Mekewatanega
+	1150.7.2={ birth=yes }
+	1226.9.30={ death=yes }
+}
+1019918888={
+	name=Watoesa
+	female=yes
+	dynasty=1009990155
+	dna="gaemhklmeee"
+	culture=catawba religion=algic_pagan
+	father=1019918883	#Mekewatanega
+	1157.3.6={ birth=yes }
+	1210.4.3={ death=yes }
+}
+1019918889={
+	name=Nichumali
+	dynasty=1009990155
+	dna="jlmmalgkkef"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=6
+	add_trait=mastermind_theologian add_trait=cynical add_trait=gregarious add_trait=honest  
+	add_trait=trusting 
+	father=1019918883	#Mekewatanega
+	1161.2.12={ birth=yes }
+	1239.9.6={ death=yes }
+}
+1019918890={
+	name=Teshuhimga
+	dynasty=1009990155
+	dna="jajmjnbeone"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	add_trait=martial_cleric add_trait=diligent add_trait=paranoid add_trait=deceitful add_trait=temperate 
+	father=1019918883	#Mekewatanega
+	1166.3.14={ birth=yes }
+	1251.4.5={ death=yes }
+}
+1019918891={
+	name=Egraname
+	female=yes
+	dynasty=1009990155
+	dna="jahmaoniedg"
+	culture=catawba religion=algic_pagan
+	father=1019918883	#Mekewatanega
+	1170.4.26={ birth=yes }
+	1226.6.4={ death=yes }
+}
+1019918892={
+	name=Sekaname
+	female=yes
+	dynasty=1009990155
+	dna="bifealmjefe"
+	culture=catawba religion=algic_pagan
+	father=1019918883	#Mekewatanega
+	1174.3.23={ birth=yes }
+	1251.11.8={ death=yes }
+}
+1019918893={
+	name=Tawangahuh
+	dynasty=1009990155
+	dna="jedmaanmejk"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=4 learning=4
+	add_trait=skilled_tactician add_trait=diligent add_trait=greedy add_trait=lustful add_trait=stressed 
+	father=1019918887	#Nangawahaegea
+	1181.10.13={ birth=yes }
+	1262.12.2={ death=yes }
+}
+1019918894={
+	name=Watoesa
+	female=yes
+	dynasty=1009990155
+	dna="oigepbgmepk"
+	culture=catawba religion=algic_pagan
+	father=1019918887	#Nangawahaegea
+	1187.5.20={ birth=yes }
+	1255.11.10={ death=yes }
+}
+1019918895={
+	name=Nangawahaegea
+	dynasty=1009990155
+	dna="jipmhdgeebk"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=gluttonous add_trait=honest add_trait=wroth add_trait=arbitrary 
+	add_trait=shy 
+	father=1019918887	#Nangawahaegea
+	1191.11.24={ birth=yes }
+	1257.9.1={ death=yes }
+}
+1019918896={
+	name=Caygaywachepeche
+	dynasty=1009990155
+	dna="jidkhcggepk"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=deceitful add_trait=humble add_trait=gregarious 
+	father=1019918887	#Nangawahaegea
+	1194.7.14={ birth=yes }
+	1266.10.29={ death=yes }
+}
+1019918897={
+	name=Watoesa
+	female=yes
+	dynasty=1009990155
+	dna="pinlklgeepk"
+	culture=catawba religion=algic_pagan
+	father=1019918887	#Nangawahaegea
+	1200.2.1={ birth=yes }
+	1288.1.17={ death=yes }
+}
+1019918898={
+	name=Watoesa
+	female=yes
+	dynasty=1009990155
+	dna="iekamimmekk"
+	culture=catawba religion=algic_pagan
+	father=1019918893	#Tawangahuh
+	1211.9.6={ birth=yes }
+	1297.9.6={ death=yes }
+}
+1019918899={
+	name=Misae
+	female=yes
+	dynasty=1009990155
+	dna="hndoaanmeko"
+	culture=catawba religion=algic_pagan
+	father=1019918893	#Tawangahuh
+	1216.10.26={ birth=yes }
+	1312.12.3={ death=yes }
+}
+1019918900={
+	name=Mekewatanega
+	dynasty=1009990155
+	dna="mjamoanjejk"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=5
+	add_trait=thrifty_clerk add_trait=patient add_trait=chaste  add_trait=slow 
+	father=1019918893	#Tawangahuh
+	1221.10.5={ birth=yes }
+	1305.6.22={ death=yes }
+}
+1019918901={
+	name=Watoesa
+	female=yes
+	dynasty=1009990155
+	dna="imomgamlejk"
+	culture=catawba religion=algic_pagan
+	father=1019918893	#Tawangahuh
+	1223.9.12={ birth=yes }
+	1277.4.28={ death=yes }
+}
+1019918902={
+	name=Niabi
+	female=yes
+	dynasty=1009990155
+	dna="jbdmglamegi"
+	culture=catawba religion=algic_pagan
+	father=1019918893	#Tawangahuh
+	1228.4.4={ birth=yes }
+	1310.6.15={ death=yes }
+}
+1019918903={
+	name=Niabi
+	female=yes
+	dynasty=1009990155
+	dna="jeomhanmijk"
+	culture=catawba religion=algic_pagan
+	father=1019918893	#Tawangahuh
+	1233.8.1={ birth=yes }
+	1297.11.13={ death=yes }
+}
+1019918904={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990155
+	dna="jmdmoooiejo"
+	culture=catawba religion=algic_pagan
+	father=1019918893	#Tawangahuh
+	1238.10.14={ birth=yes }
+	1301.9.6={ death=yes }
+}
+1019918905={
+	name=Caygaywachepeche
+	dynasty=1009990155
+	dna="mkamoeejeik"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=lustful  add_trait=just add_trait=wroth 
+	father=1019918900	#Mekewatanega
+	1250.7.16={ birth=yes }
+	1333.7.14={ death=yes }
+}
+1019918906={
+	name=Wasabatougga
+	dynasty=1009990155
+	dna="cjpmjanoejm"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=5 learning=7
+	add_trait=tough_soldier add_trait=lustful add_trait=gregarious add_trait=zealous add_trait=honest 
+	father=1019918900	#Mekewatanega
+	1254.5.24={ birth=yes }
+	1326.8.8={ death=yes }
+}
+1019918907={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990155
+	dna="lkaifanpeih"
+	culture=catawba religion=algic_pagan
+	father=1019918900	#Mekewatanega
+	1256.9.19={ birth=yes }
+	1342.7.15={ death=yes }
+}
+1019918908={
+	name=Watoesa
+	female=yes
+	dynasty=1009990155
+	dna="pjadakjjljg"
+	culture=catawba religion=algic_pagan
+	father=1019918900	#Mekewatanega
+	1260.1.7={ birth=yes }
+	1312.7.12={ death=yes }
+}
+1019918909={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990155
+	dna="moamolneljd"
+	culture=catawba religion=algic_pagan
+	father=1019918900	#Mekewatanega
+	1264.1.4={ birth=yes }
+	1326.9.4={ death=yes }
+}
+1019918910={
+	name=Pahelagren
+	dynasty=1009990155
+	dna="djbmjbmjomo"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=7 learning=5
+	add_trait=grey_eminence add_trait=zealous add_trait=ambitious  add_trait=wroth 
+	father=1019918900	#Mekewatanega
+	1271.6.24={ birth=yes }
+	1349.12.23={ death=yes }
+}
+1019918911={
+	name=Niabi
+	female=yes
+	dynasty=1009990155
+	dna="bjamdjmoejk"
+	culture=catawba religion=algic_pagan
+	father=1019918900	#Mekewatanega
+	1276.11.1={ birth=yes }
+	1336.5.15={ death=yes }
+}
+1019918912={
+	name=Nangawahaegea
+	dynasty=1009990155
+	dna="pkbhoeejpgb"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=8 learning=5
+	add_trait=elusive_shadow add_trait=charitable add_trait=just  
+	father=1019918905	#Caygaywachepeche
+	1276.7.2={ birth=yes }
+	1338.2.15={ death=yes }
+}
+1019918913={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990155
+	dna="ebdmieiiedn"
+	culture=catawba religion=algic_pagan
+	father=1019918905	#Caygaywachepeche
+	1280.6.11={ birth=yes }
+	1342.2.5={ death=yes }
+}
+1019918914={
+	name=Egraname
+	female=yes
+	dynasty=1009990155
+	dna="pddioeeackb"
+	culture=catawba religion=algic_pagan
+	father=1019918912	#Nangawahaegea
+	1306.3.3={ birth=yes }
+	1364.6.28={ death=yes }
+}
+1019918915={
+	name=Honencache
+	dynasty=1009990155
+	dna="pkfooeenand"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=patient add_trait=envious add_trait=lustful add_trait=paranoid 
+	add_trait=gluttonous 
+	father=1019918912	#Nangawahaegea
+	1310.11.2={ birth=yes }
+	1385.4.1={ death=yes }
+}
+1019918916={
+	name=Misae
+	female=yes
+	dynasty=1009990155
+	dna="likcoenjfgb"
+	culture=catawba religion=algic_pagan
+	father=1019918912	#Nangawahaegea
+	1313.9.10={ birth=yes }
+	1368.10.7={ death=yes }
+}
+1019918917={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990155
+	dna="pgbhbcejpga"
+	culture=catawba religion=algic_pagan
+	father=1019918912	#Nangawahaegea
+	1318.4.19={ birth=yes }
+	1373.5.14={ death=yes }
+}
+1019918918={
+	name=Harachabe
+	dynasty=1009990155
+	dna="fkbhcjenpjb"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=4 intrigue=4 learning=4
+	add_trait=detached_priest  add_trait=arbitrary add_trait=honest add_trait=brave 
+	father=1019918912	#Nangawahaegea
+	1322.1.11={ birth=yes }
+	1386.11.27={ death=yes }
+}
+1019918919={
+	name=Mahsa
+	dynasty=1009990155
+	dna="dkfnaeeiadd"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=slothful add_trait=charitable add_trait=gluttonous  
+	add_trait=paranoid 
+	father=1019918915	#Honencache
+	1338.5.16={ birth=yes }
+	1422.8.17={ death=yes }
+}
+1019918920={
+	name=Egraname
+	female=yes
+	dynasty=1009990155
+	dna="icjjaejnaml"
+	culture=catawba religion=algic_pagan
+	father=1019918915	#Honencache
+	1344.10.8={ birth=yes }
+	1431.4.5={ death=yes }
+}
+1019918921={
+	name=Shonsegra
+	female=yes
+	dynasty=1009990155
+	dna="okfnoklnanb"
+	culture=catawba religion=algic_pagan
+	father=1019918915	#Honencache
+	1349.2.7={ birth=yes }
+	1424.7.14={ death=yes }
+}
+1019918922={
+	name=Couchestawasta
+	dynasty=1009990155
+	dna="pbjoognnaed"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=lustful add_trait=greedy add_trait=craven add_trait=deceitful 
+	add_trait=envious 
+	father=1019918915	#Honencache
+	1355.2.4={ birth=yes }
+	1437.12.24={ death=yes }
+}
+1019918923={
+	name=Niabi
+	female=yes
+	dynasty=1009990155
+	dna="akfgfmedioo"
+	culture=catawba religion=algic_pagan
+	father=1019918919	#Mahsa
+	1362.8.7={ birth=yes }
+	1414.12.20={ death=yes }
+}
+1019918924={
+	name=Gradamnsa
+	dynasty=1009990155
+	dna="dkfeaecladj"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=6 learning=7
+	add_trait=detached_priest add_trait=paranoid add_trait=charitable add_trait=just 
+	father=1019918919	#Mahsa
+	1368.2.14={ birth=yes }
+	1431.3.29={ death=yes }
+}
+1019918925={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990155
+	dna="cbadgeeoaad"
+	culture=catawba religion=algic_pagan
+	father=1019918919	#Mahsa
+	1371.9.25={ birth=yes }
+	1436.7.3={ death=yes }
+}
+1019918926={
+	name=Mekewatanega
+	dynasty=1009990155
+	dna="pconaiiipdd"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=7
+	add_trait=grey_eminence  add_trait=wroth add_trait=chaste add_trait=craven 
+	add_trait=humble 
+	father=1019918919	#Mahsa
+	1375.5.26={ birth=yes }
+	1429.9.10={ death=yes }
+}
+1019918927={
+	name=Mekewatanega
+	dynasty=1009990155
+	dna="bkebleegaid"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=8 learning=5
+	add_trait=midas_touched add_trait=hunter add_trait=slothful add_trait=wroth add_trait=honest 
+	add_trait=just add_trait=gluttonous add_trait=paranoid 
+	father=1019918919	#Mahsa
+	1380.7.11={ birth=yes }
+	1453.1.15={ death=yes }
+}
+1019918928={
+	name=Sekaname
+	female=yes
+	dynasty=1009990155
+	dna="ddcnhbekadd"
+	culture=catawba religion=algic_pagan
+	father=1019918919	#Mahsa
+	1384.5.27={ birth=yes }
+	1440.10.31={ death=yes }
+}
+1019918929={
+	name=Misae
+	female=yes
+	dynasty=1009990155
+	dna="ekjdjeeoacd"
+	culture=catawba religion=algic_pagan
+	father=1019918919	#Mahsa
+	1387.12.25={ birth=yes }
+	1466.10.25={ death=yes }
+}
+1019918930={
+	name=Nichumali
+	dynasty=1009990155
+	dna="lifekeciade"
+	culture=catawba religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=7 learning=8
+	add_trait=detached_priest add_trait=trusting add_trait=brave add_trait=temperate add_trait=strong 
+	father=1019918924	#Gradamnsa
+	1392.9.6={ birth=yes }
+	1463.1.22={ death=yes }
+}
+1019918931={
+	name=Teshuhimga
+	dynasty=1009990155
+	dna="lmmgmeckadj"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=slothful add_trait=arbitrary  add_trait=paranoid 
+	add_trait=stressed 
+	father=1019918924	#Gradamnsa
+	1396.10.3={ birth=yes }
+	1453.4.19={ death=yes }
+}
+1019918932={
+	name=Hurate
+	dynasty=1009990155
+	dna="dafpmefpjdn"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=8 learning=4
+	add_trait=intricate_webweaver add_trait=hunter add_trait=just  add_trait=wroth 
+	add_trait=chaste add_trait=humble 
+	father=1019918924	#Gradamnsa
+	1401.9.23={ birth=yes }
+	1458.4.2={ death=yes }
+}
+1019918933={
+	name=Misae
+	female=yes
+	dynasty=1009990155
+	dna="caieoegdbdj"
+	culture=catawba religion=algic_pagan
+	father=1019918924	#Gradamnsa
+	1406.10.15={ birth=yes }
+	1468.10.9={ death=yes }
+}
+1019918934={
+	name=Kemanha
+	dynasty=1009990155
+	dna="dkapmpmlmeo"
+	culture=catawba religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=8
+	add_trait=misguided_warrior  add_trait=slothful add_trait=temperate add_trait=charitable 
+	add_trait=honest 
+	father=1019918924	#Gradamnsa
+	1411.4.17={ birth=yes }
+	1473.3.15={ death=yes }
+}
+1019918935={
+	name=Egraname
+	female=yes
+	dynasty=1009990155
+	dna="dkmeaocladd"
+	culture=catawba religion=algic_pagan
+	father=1019918924	#Gradamnsa
+	1416.5.4={ birth=yes }
+	1493.4.22={ death=yes }
+}
+1019918936={
+	name=Honencache
+	dynasty=1009990155
+	dna="dofiaeblgdj"
+	culture=catawba religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=elusive_shadow add_trait=temperate add_trait=gregarious  add_trait=brave 
+	add_trait=lustful 
+	father=1019918924	#Gradamnsa
+	1420.1.6={ birth=yes }
+	1499.6.14={ death=yes }
+}
+1019918937={
+	name=Couchestawasta
+	dynasty=1009990155
+	dna="cifekkfhfdm"
+	culture=catawba religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=8 learning=8
+	add_trait=indulgent_wastrel add_trait=gardener add_trait=temperate add_trait=brave  
+	father=1019918930	#Nichumali
+	1414.4.6={ birth=yes }
+	1480.4.1={ death=yes }
+}
+1019918938={
+	name=Niabi
+	female=yes
+	dynasty=1009990155
+	dna="dbeekecgadd"
+	culture=catawba religion=algic_pagan
+	father=1019918930	#Nichumali
+	1418.1.2={ birth=yes }
+	1474.7.30={ death=yes }
+}
+1019918939={
+	name=Niabi
+	female=yes
+	dynasty=1009990155
+	dna="kpfiopcnaob"
+	culture=catawba religion=algic_pagan
+	father=1019918930	#Nichumali
+	1424.10.12={ birth=yes }
+	1500.5.28={ death=yes }
+}
+1019918940={
+	name=Wakonsamoie
+	female=yes
+	dynasty=1009990155
+	dna="chieigckamn"
+	culture=catawba religion=algic_pagan
+	father=1019918930	#Nichumali
+	1429.10.14={ birth=yes }
+	1509.10.8={ death=yes }
+}
+1019918941={
+	name=Mahsa
+	dynasty=1009990155
+	dna="lfnepfgiedc"
+	culture=catawba religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=shy add_trait=wroth add_trait=just 
+	father=1019918930	#Nichumali
+	1433.4.23={ birth=yes }
+	1518.8.1={ death=yes }
+}

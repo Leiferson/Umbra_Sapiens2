@@ -1,0 +1,19 @@
+# County Title
+title = c_vigo
+
+# Settlements
+max_settlements = 6
+b_vigo = castle
+b_vigo-ii = temple
+#b_vigo-iii = city
+#b_vigo-iv = castle
+#b_vigo-v = temple
+#b_vigo-vi = castle
+# Misc
+culture = suebi
+religion = catholic
+
+# History
+926.1.1={
+	culture = portuguese
+}

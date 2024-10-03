@@ -1,0 +1,113 @@
+20.1.1={
+	active=no
+	law = revoke_title_law_2
+	law = ze_administration_laws_1
+	law = law_voting_power_0
+	law = war_voting_power_0
+	law = revoke_title_voting_power_0
+	law = imprison_voting_power_0
+	law = grant_title_voting_power_0
+	law = banish_voting_power_0
+	law = execution_voting_power_0
+	law = succession_voting_power_0	
+	law = centralization_3
+}
+1164.1.1={
+	active=yes
+	holder=73150
+	liege=k_castille
+}
+1169.1.1={
+	holder=73151
+}
+1170.1.1={
+	holder=73152
+}
+1182.1.1={
+	holder=73153
+}
+1199.1.1={
+	holder=224003
+}
+1207.1.1={
+	holder=73154
+}
+1212.1.1={
+	holder=73155
+}
+1216.1.1={
+	holder=73156
+}
+1218.1.1={
+	holder=73157
+}
+1230.9.24={
+	liege=k_cas_and_leon
+}
+1238.1.1={
+	holder=73158
+}
+1240.1.1={
+	holder=73159
+}
+1243.1.1={
+	holder=73160
+}
+1254.1.1={
+	holder=73161
+}
+1267.1.1={
+	holder=72690
+}
+1285.1.1={
+	holder=73085
+}
+1295.1.1={
+	holder=73162
+}
+1296.1.1={
+	holder=73163
+}
+1322.1.1={
+	holder=457015	# Juan Núñez de Prado
+}
+1355.1.1={
+	holder=378555	#Diego García de Padilla (1355–1365)
+}
+1365.1.1={
+	holder=378481	#Martin Lopez de Córdoba (1365–1371)
+}
+1371.1.1={
+	holder=378482	#Pedro Muñiz de Godoy y Sandoval (1371–1384)
+}
+1384.1.1={
+	holder=378521	#Pedro Álvares Pereira
+}
+1385.8.14={
+	holder=378547	#Gonzalo Núñez de Guzmán
+}
+1404.1.1={
+	holder=378564 	#Enrique de Villena
+}
+1407.1.1={
+	holder=378549	#Luis González de Guzmán
+}
+1443.1.1={
+	holder=378550	#Fernando de Padilla
+}
+1443.6.1={
+	holder=378551	#Alfonso de Aragón y de Escobar
+}
+1445.1.1={
+	holder=378552	#Pedro Girón Acuña Pacheco
+}
+1466.1.1={
+	holder=378553	#Rodrigo Téllez Girón
+}
+1482.1.1={
+	holder=378554	#García López de Padilla
+}
+1487.1.1={
+	holder=0 
+	active=no
+}

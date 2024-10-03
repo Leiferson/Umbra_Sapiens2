@@ -1,0 +1,207 @@
+767.1.1={
+	liege="d_medina"
+	holder=188620
+}
+
+830.1.1={
+	holder = 33932
+}
+936.1.1 = {
+	holder = 260970
+}
+1061.1.1=
+{
+	holder=34046 # Hussayn - not actually the Emir of Mecca (it was Abul-Hashim ibn Muhammed )
+	liege="d_medina"
+}
+1094.1.1=
+{
+holder=34047 # Issa - not actually the Emir of Mecca (it was Ibn Abul-Hashim Al-Thalab )
+}
+1101.1.1=
+{
+holder=34048 # Abd al-Karim - probably not Emir of Mecca
+}
+1130.1.1=
+{
+holder=34049 # Muta'in - probably not Emir of Mecca
+}
+1150.1.1=
+{
+holder=34050 # Idris - probably not Emir of Mecca
+}
+1201.1.1=
+{
+holder=34051 # Qatada - Emir of Mecca
+}
+1220.1.1=
+{
+holder=34052
+}
+1232.1.1=
+{
+holder=34053
+}
+1239.1.1=
+{
+holder=34054
+}
+1240.1.1=
+{
+holder=34053
+}
+1241.1.1=
+{
+holder=34055
+}
+1245.1.1=
+{
+holder=34053
+}
+1254.1.1=
+{
+holder=34057
+}
+1255.1.1=
+{
+holder=34058
+}
+1270.1.1=
+{
+holder=34056
+}
+1301.1.1=
+{
+holder=34060
+}
+1302.1.1=
+{
+holder=34062
+}
+1314.1.1=
+{
+holder=34060
+}
+1344.1.1={
+	holder=378946	#Ajlan bin Rumaitha (1346–1375) and Thaqabah ibn Rumaythah
+}	
+1344.4.1={
+	holder=34060	#Rumaitha bin Muhammad (1301–1346)
+}	
+1345.10.15={
+	holder=378946	#Ajlan bin Rumaitha (1346–1375)
+}	
+1349.1.1={
+	holder=378947	#Thaqabah ibn Rumaythah and Sanad ibn Rumaythah and Mughamis ibn Rumaythah
+}	
+1349.12.16={
+	holder=378946	#Ajlan bin Rumaitha (1346–1375)
+}
+1352.1.1={
+	holder=378947	#Thaqabah ibn Rumaythah
+}	
+1353.1.1={
+	holder=378946	#Ajlan bin Rumaitha (1346–1375)
+}	
+1356.6.13={
+	holder=378947	#Thaqabah ibn Rumaythah
+}	
+1356.11.1={
+	holder=378946	#Ajlan bin Rumaitha (1346–1375)
+}	
+1359.5.1={
+	holder=378957	#Muhammad ibn Utayfah and Sanad ibn Rumaythah
+}	
+1359.11.1={
+	holder=378947	#Thaqabah ibn Rumaythah
+}	
+1361.7.1={
+	holder=378946	#Ajlan bin Rumaitha (1346–1375) and Sanad ibn Rumaythah
+}	
+1372.1.1={
+	holder=378951	#Ahmad ibn Ajlan
+}	
+1386.9.1={
+	holder=378955	#Muhammad ibn Ahmad ibn Ajlan
+}	
+1386.12.24={
+	holder=378956	#Inan ibn Mughamis and Ali ibn Mubarak and Aqil ibn Mubarak
+}	
+1387.12.1={
+	holder=378952	#Ali ibn Ajlan
+}	
+1395.7.28={
+	holder=378954	#Muhammad ibn Ajlan
+}	
+1396.2.4={
+	holder=378953	#Hasan ibn Ajlan
+}	
+1416.2.1={
+	holder=378960	#Rumaythah ibn Muhammad and Barakat ibn Hasan and Ahmad ibn Hasan ibn Ajlan
+}	
+1416.12.16={
+	holder=378953	#Hasan ibn Ajlan
+}	
+1424.4.6={
+	holder=378960	#Rumaythah ibn Muhammad and Barakat ibn Hasan and Ibrahim ibn Hasan ibn Ajlan
+}	
+1425.9.17={
+	holder=378953	#Hasan ibn Ajlan
+}	
+1426.4.25={
+	holder=378961	#Barakat ibn Hasan	(1425–1455)
+}	
+1441.10.2={
+	holder=378964	#Ali ibn Hasan ibn Ajlan
+}	
+1443.2.1={
+	holder=378965	#Abu al-Qasim ibn Hasan ibn Ajlan
+}	
+1445.7.1={	
+	holder=378961	#Barakat ibn Hasan	(1425–1455)  
+}	
+1455.1.1={	
+	holder=378966	#Al-Adil Muhammad ibn Barakat (1455–1497)  
+}
+1473.1.1={
+	holder=378967	#Barakat II 1473–1525 
+}
+1525.1.1={
+	holder=378968	#Abu Numayy II	1512–1584 
+}
+1567.1.1={
+	holder=378969	#Hassan bin Abu Numayy II  (1583–1601)
+}
+1601.1.1={
+	holder=378971	#Abd al-Muttalib bin Hassan 1601
+}
+1601.6.1={
+	holder=378972	#Abu Talib bin Hassan 1601–1603 
+}
+1603.11.1={
+	holder=378974	#Fuhayd ibn Hasan
+}
+1610.7.1={
+	holder=378973	#Idris bin Hassan	1601–1620
+}
+1624.10.16={
+	holder=378977	#Muhsin bin Hussein 1604–1628
+}
+1628.5.21={
+	holder=378978	#Ahmed bin Talib al-Hasan (1628–1629)
+}
+1629.9.22={
+	holder=378979	#Masoud ibn Idris (Masut Efendi) (1629–1630)
+}
+1630.12.3={
+	holder=378976	#Abdullah bin Al-Hasan (1630–1631)
+}
+1631.8.29={
+	holder=378982	#Muhammad ibn Abd Allah ibn Hasan
+}
+1632.3.17={
+	holder=379192	#Namy bin Abd al-Muttalib 1632
+}
+1632.6.22={
+	holder=378981	#Zaid bin Muhsin (1631–1666) 
+}

@@ -1,0 +1,10 @@
+20.1.1={
+	active = no
+}
+1400.1.1={
+	active = yes
+	set_global_flag = don_cossaks_formed
+}
+1552.1.1={
+liege="e_russia_2"
+}

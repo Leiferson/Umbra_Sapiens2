@@ -1,0 +1,40 @@
+# 158 - Porto
+
+# County Title
+title = c_porto
+
+#Terrain
+terrain = hills
+
+# Settlements
+max_settlements = 5
+b_porto = castle
+b_porto-ii = city
+
+# Misc
+culture = suebi
+religion = catholic
+
+# History
+
+867.1.1 = {
+	b_porto = ca_town_1
+	b_porto = ca_keep_1
+	b_porto = ca_stable_1
+	b_porto = ca_militia_barracks_1
+	b_porto = ca_wall_1
+	b_porto = ca_wall_2
+	b_porto-ii = ca_town_1
+	b_porto-ii = ca_keep_1
+	b_porto-ii = ca_stable_1
+	b_porto-ii = ca_militia_barracks_1
+	b_porto-ii = ca_wall_1
+	b_porto-ii = ca_wall_2
+}
+
+926.1.1={
+	culture = portuguese
+}
+
+1147.1.1 = { trade_post = b_spinola }
+

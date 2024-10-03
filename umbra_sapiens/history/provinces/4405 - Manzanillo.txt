@@ -1,0 +1,33 @@
+# County Title
+title = c_manzanillo
+
+# Settlements
+max_settlements = 7
+
+b_manzanillo = castle
+b_manzanillo-ii = temple
+b_manzanillo-iii = city
+b_manzanillo-iv = castle
+b_manzanillo-v = temple
+b_manzanillo-vi = castle
+b_manzanillo-vii = city
+# Misc
+culture = tarascan
+religion = tarascan_pagan
+
+# History
+1000.1.1 = {
+	build_wonder = wonder_tarascan_pyramid
+	set_wonder_stage = 1
+	set_wonder_name = YACATAS
+	set_wonder_description = YACATASDESC
+}
+1100.1.1 = {
+	set_wonder_stage = 2
+}
+1175.1.1 = {
+	set_wonder_stage = 3
+}
+1250.1.1 = {
+	set_wonder_stage = 4
+}

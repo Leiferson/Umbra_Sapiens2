@@ -1,0 +1,305 @@
+namespace = niederlanderevents
+#Dutch colonies
+narrative_event = {
+	id = niederlanderevents.1
+	title = EVTNAMEniederlanderevents.1
+	desc = EVTDESCniederlandereventsR.1
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1609
+		NOT = { has_global_flag = dutch_newnetherland }
+		has_landed_title = k_frisia
+		religion_group = christian
+		
+		OR = {
+		c_quinnipiac = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+		c_manhattan = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+		c_raritan = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+		}
+	}
+	option = {
+		name = EVTOPTAniederlanderevents.1
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_quinnipiac
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_manhattan
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_raritan
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = dutch_newnetherland
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = niederlanderevents.2
+	title = EVTNAMEniederlanderevents.2
+	desc = EVTDESCniederlandereventsR.2
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1616
+		NOT = { has_global_flag = dutch_essequibo }
+		has_landed_title = k_frisia
+		religion_group = christian
+		
+		c_essequibo = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAniederlanderevents.2
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_essequibo
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = dutch_essequibo
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = niederlanderevents.3
+	title = EVTNAMEniederlanderevents.3
+	desc = EVTDESCniederlandereventsR.3
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1625
+		NOT = { has_global_flag = dutch_tortola }
+		has_landed_title = k_frisia
+		religion_group = christian
+		
+		c_tortola = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAniederlanderevents.3
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_tortola
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = dutch_tortola
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = niederlanderevents.4
+	title = EVTNAMEniederlanderevents.4
+	desc = EVTDESCniederlandereventsR.4
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1650
+		NOT = { has_global_flag = dutch_pomeroon }
+		has_landed_title = k_frisia
+		religion_group = christian
+		
+		c_orinoco = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAniederlanderevents.4
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_orinoco
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = dutch_pomeroon
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = niederlanderevents.5
+	title = EVTNAMEniederlanderevents.5
+	desc = EVTDESCniederlandereventsR.5
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1634
+		NOT = { has_global_flag = dutch_curacau }
+		has_landed_title = k_frisia
+		religion_group = christian
+		
+		c_curacao = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAniederlanderevents.5
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_curacao
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = dutch_curacau
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = niederlanderevents.6
+	title = EVTNAMEniederlanderevents.6
+	desc = EVTDESCniederlandereventsR.6
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1652
+		NOT = { has_global_flag = dutch_south_africa }
+		has_landed_title = k_frisia
+		religion_group = christian
+		
+		d_kimcabloem = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAniederlanderevents.6
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = d_kimcabloem
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = dutch_south_africa
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = niederlanderevents.7
+	title = EVTNAMEniederlanderevents.7
+	desc = EVTDESCniederlandereventsR.7
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1638
+		NOT = { has_global_flag = dutch_mauritius }
+		has_landed_title = k_frisia
+		religion_group = christian
+		
+		c_mauritius = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAniederlanderevents.7
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_mauritius
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = dutch_mauritius
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = niederlanderevents.8
+	title = EVTNAMEniederlanderevents.8
+	desc = EVTDESCniederlandereventsR.8
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1631
+		NOT = { has_global_flag = dutch_st_martin }
+		has_landed_title = k_frisia
+		religion_group = christian
+		
+		c_st_martin = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAniederlanderevents.8
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_st_martin
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = dutch_st_martin
+		prestige = 100
+	}
+}
+narrative_event = {
+	id = niederlanderevents.9
+	title = EVTNAMEniederlanderevents.9
+	desc = EVTDESCniederlandereventsR.9
+	  picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1611
+		NOT = { has_global_flag = dutch_moree }
+		has_landed_title = k_frisia
+		religion_group = christian
+		
+		c_ho = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAniederlanderevents.9
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_ho
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		set_global_flag = dutch_moree
+		prestige = 100
+	}
+}

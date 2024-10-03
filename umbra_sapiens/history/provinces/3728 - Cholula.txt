@@ -1,0 +1,37 @@
+# County Title
+title = c_cholula
+
+# Settlements
+max_settlements = 7
+b_cholula = castle
+b_cholula-ii = city
+b_cholula-iii = castle
+b_cholula-iv = temple
+b_cholula-v = temple
+#b_cholula-vi = temple
+#b_cholula-vii = temple
+
+# Misc
+culture = xicalanca
+religion = mayan
+
+1.1.1 = {
+	build_wonder = wonder_maya_pyramid
+	set_wonder_name = CHOLULA
+	set_wonder_description = CHOLULADESC
+	set_wonder_stage = 1
+}
+350.1.1 = {
+	set_wonder_stage = 2
+}
+450.1.1 = {
+	set_wonder_stage = 3
+}
+700.1.1 = {
+	set_wonder_stage = 4
+}
+1100.1.1 = {
+culture = nonohualcan
+religion = nonohualcan_pagan
+}
+# History

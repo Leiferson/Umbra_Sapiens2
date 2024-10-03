@@ -1,0 +1,21 @@
+# 1584 - Utik
+
+# County Title
+title = c_utik
+
+# Settlements
+max_settlements = 4
+b_leki = castle
+b_baylakan = city
+b_barda = temple
+
+#b_kaghankatuyk = city
+
+# Misc
+culture = dagestani
+religion = miaphysite
+
+# History
+865.1.1 = { religion = sunni }
+950.1.1 = { culture = persian }
+1320.1.1 = { religion = shiite }

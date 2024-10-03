@@ -1,0 +1,214 @@
+866.1.1={
+	liege = "e_arabia"
+}
+866.1.1={
+	holder = 163135
+}
+877.1.1={
+	liege = 0
+	holder = 0
+}
+936.1.1 = {
+	liege = k_egypt
+}
+1118.4.2=
+{
+	liege="k_jerusalem"
+	#law = cognatic_succession
+	#law = succ_primogeniture
+}
+1118.4.2=
+{
+	holder = 93000
+}
+1126.1.1=
+{
+	holder = 93003
+}
+1147.1.1=
+{
+	holder = 93005
+}
+1161.1.1=
+{
+	holder = 232700
+}	
+1168.1.1=
+{
+	holder = 223561
+}
+1173.1.1=
+{
+	holder = 93009
+}
+1174.10.1=
+{
+	holder =223592
+}
+#1176.1.1=
+#{
+#	holder = 223590
+#}
+1187.7.4=
+{
+	holder = 223560
+}
+
+#Known by the muslims as Kerak
+1187.10.2=
+{
+	liege="k_egypt" 
+	holder = 226052
+}
+1218.8.1=
+{
+	holder = 144077
+}
+1227.1.1=
+{
+	holder = 144078
+}
+1248.1.1=
+{
+	holder = 93034
+}
+1263.1.1=
+{
+	holder = 32936
+}
+1279.7.1=
+{
+	holder = 34984
+}
+1292.1.1=
+{
+	holder = 34985
+}
+1312.1.1=
+{
+	holder=485000
+}
+1336.1.1=
+{
+	holder=485002
+}
+1341.8.5={
+	holder=485003	#Al-Ashraf Kujuk
+}
+1342.1.21={
+	holder=485004	#Shihab ad-Din Ahmad
+}
+1342.6.27={
+	holder=485005	#Imad ad-Din Abu'l Fida Isma'il
+}
+1345.8.3={
+	holder=485006	#Sayf ad-Din Sha'ban
+}
+1346.9.18={
+	holder=485007	#Sayf ad-Din Hajji
+}
+1347.12.1={
+	holder=485008	#Badr ad-Din Hasan
+}
+1351.8.21={
+	holder=378994	#Salah ad-Din Salih
+}
+1354.10.20={
+	holder=485008	#Badr ad-Din Hasan 
+}
+1361.3.17={
+	holder=378994	#Salah ad-Din Salih
+}
+1363.5.29={
+	holder=378996	#Zayn ad-Din Sha'ban (Sha'ban II) 
+}
+1377.3.15={
+	holder=378997	#Ala'a ad-Din Ali
+}
+1381.5.19={
+	holder=378998	#Salah ad-Din Hajji
+}
+1382.11.26={
+	holder=378999	#Sayf ad-Din Barquq
+}
+1389.6.1={
+	holder=378998	#Salah ad-Din Hajji
+}
+1390.1.21={
+	holder=378999	#Sayf ad-Din Barquq
+}
+1399.6.20={
+	holder=379000	#Nasir ad-Din Faraj
+}
+1405.9.20={
+	holder=379001	#Izz ad-Din Abd al-Aziz
+}
+1405.11.1={
+	holder=379000 #Nasir ad-Din Faraj
+}
+1412.5.23={
+	holder=378937	#Al-Mustain Billah
+}
+1412.11.6={
+	holder=379002	#Shaykh al-Mahmudi
+}
+1421.1.13={
+	holder=379003	#Ahmad
+}
+1421.8.29={
+	holder=379004	#Sayf ad-Din Tatar
+}
+1421.11.30={
+	holder=379005	#An-Nasir ad-Din Muhammad
+}
+1422.4.1={
+	holder=379006	#Sayf ad-Din Barsbay
+}
+1438.6.7={
+	holder=379007	#Jamal ad-Din Abu al-Mahasin Yusuf
+}
+1438.9.9={
+	holder=378984	#Sayf ad-Din Jaqmaq
+}
+1453.2.1={
+	holder=379009	#Fakhr ad-Din Uthman
+}
+1453.3.15={
+	holder=379010	#Sayf ad-Din Inal
+}
+1461.2.26={
+	holder=379011	#Shihab ad-Din Ahmad
+}
+1461.6.28={
+	holder=379012	#Sayf ad-Din Khushqadam
+}
+1467.10.9={
+	holder=379013	#Sayf ad-Din Bilbay
+}
+1467.12.4={
+	holder=379014	#Timurbugha
+}
+1468.1.31={
+	holder=379015	#Sayf ad-Din Qaitbay
+}
+1496.8.7={
+	holder=379021	#Muhammad
+}
+1498.10.31={
+	holder=379016	#Abu Sa'id Qansuh
+}
+1500.6.30={
+	holder=379017	#Abu al-Nasir Janbalat
+}
+1501.1.25={
+	holder=379018	#Sayf ad-Din Tumanbay
+}
+1501.4.20={
+	holder=379019	#Qansuh al-Ghawri
+}
+1516.10.17={
+	holder=379020	#Tumanbay II
+}
+1517.4.15={
+	holder=0	#Ottoman Conquest
+}

@@ -1,0 +1,32 @@
+# County Title
+title = c_chiapas
+
+# Settlements
+max_settlements = 6
+b_chiapas = castle
+b_chiapas-ii = city
+b_chiapas-iii = temple
+
+# Misc
+culture = lacandon
+religion = mayan
+
+# History
+550.1.1 = {
+	build_wonder = wonder_maya_pyramid
+	set_wonder_stage = 1
+	set_wonder_name = CHIAPAS
+	set_wonder_description = CHIAPASDESC
+}
+600.1.1 = {
+	set_wonder_stage = 2
+}
+700.1.1 = {
+	set_wonder_stage = 3
+}
+800.1.1 = {
+	set_wonder_stage = 4
+}
+1000.1.1 = {
+	set_wonder_damaged = yes
+}

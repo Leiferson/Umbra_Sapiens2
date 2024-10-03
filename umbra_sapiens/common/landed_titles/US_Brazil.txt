@@ -1,0 +1,1441 @@
+e_brazil = {
+
+	color={ 14 101 15 }
+	color2={ 220 220 220 }
+
+	capital = 4013 # Bahia
+	allow={
+	is_colonial = no
+	}
+	k_northern_brazil = {
+
+		color={ 151 132 0 }
+		color2={ 220 220 220 }
+
+		capital = 4013 # Bahia
+
+		d_bahia = {
+
+			color={ 45 64 71 }
+			color2={ 220 220 220 }
+			
+			capital = 4013 # Bahia
+			
+			c_bahia = {
+
+				color={ 85 44 169 }
+				color2={ 220 220 220 }
+
+				holy_site=south_american
+				holy_site=south_american_reformed
+				holy_site=amazonian_pagan
+				holy_site=amazonian_pagan_reformed
+				
+				b_bahia = {
+				}
+				b_bahia-ii = {
+				}
+				b_bahia-iii = {
+				}
+				b_bahia-iv = {
+				}
+				b_bahia-v = {
+				}
+				b_bahia-vi = {
+				}
+			}
+			c_inhambupe = {
+
+				color={ 35 44 89 }
+				color2={ 220 220 220 }
+				
+				b_inhambupe = {
+				}
+				b_inhambupe-ii = {
+				}
+				b_inhambupe-iii = {
+				}
+			}
+			c_rio_contas = {
+
+				color={ 125 177 143 }
+				color2={ 220 220 220 }
+				
+				b_rio_contas = {
+				}
+				b_rio_contas-ii = {
+				}
+				b_rio_contas-iii = {
+				}
+			}
+			c_ilheus = {
+
+				color={ 135 124 218 }
+				color2={ 220 220 220 }
+				
+				b_ilheus = {
+				}
+				b_ilheus-ii = {
+				}
+				b_ilheus-iii = {
+				}
+			}
+			c_porto_seguro = {
+
+				color={ 115 144 118 }
+				color2={ 220 220 220 }
+				
+				b_porto_seguro = {
+				}
+				b_porto_seguro-ii = {
+				}
+				b_porto_seguro-iii = {
+				}
+			}
+
+		}
+		d_sao_francisco = {
+
+			color={ 57 13 92 }
+			color2={ 220 220 220 }
+
+			capital = 4008 # Barra
+			
+			c_barra = {
+
+				color={ 45 39 195 }
+				color2={ 220 220 220 }
+				
+				b_barra = {
+				}
+				b_barra-ii = {
+				}
+				b_barra-iii = {
+				}
+				b_barra-iv = {
+				}
+			}
+			c_pambu = {
+
+				color={ 75 194 159 }
+				color2={ 220 220 220 }
+				
+				b_pambu = {
+				}
+				b_pambu-ii = {
+				}
+				b_pambu-iii = {
+				}
+			}
+			c_jeremoabo = {
+
+				color={ 51 27 199 }
+				color2={ 220 220 220 }
+				
+				b_jeremoabo = {
+				}
+				b_jeremoabo-ii = {
+				}
+				b_jeremoabo-iii = {
+				}
+			}
+			c_campo_largo = {
+
+				color={ 125 84 159 }
+				color2={ 220 220 220 }
+				
+				b_campo_largo = {
+				}
+				b_campo_largo-ii = {
+				}
+				b_campo_largo-iii = {
+				}
+			}
+			c_paratinga = {
+
+				color={ 135 11 215 }
+				color2={ 220 220 220 }
+				
+				b_paratinga = {
+				}
+				b_paratinga-ii = {
+				}
+				b_paratinga-iii = {
+				}
+			}
+		}
+		d_pernambuco = {
+
+			color={ 117 173 21 }
+			color2={ 220 220 220 }
+
+			capital = 4003 # Itamaraca
+		
+		c_fernando_de_noronha = {
+
+				color={ 160 85 132 }
+				color2={ 220 220 220 }
+				
+				b_viladosremedios = {
+				}
+			}
+			
+			c_itamaraca = {
+
+				color={ 145 79 125 }
+				color2={ 220 220 220 }
+				
+				b_itamaraca = {
+				}
+				b_itamaraca-ii = {
+				}
+				b_itamaraca-iii = {
+				}
+				b_itamaraca-iv = {
+				}
+			}
+			c_paraiba = {
+
+				color={ 5 94 139 }
+				color2={ 220 220 220 }
+				
+				b_paraiba = {
+				}
+				b_paraiba-ii = {
+				}
+				b_paraiba-iii = {
+				}
+			}
+			c_boroborema = {
+
+				color={ 191 27 79 }
+				color2={ 220 220 220 }
+				
+				b_boroborema = {
+				}
+				b_boroborema-ii = {
+				}
+				b_boroborema-iii = {
+				}
+			}
+			c_alagoas = {
+
+				color={ 175 84 39 }
+				color2={ 220 220 220 }
+				
+				b_alagoas = {
+				}
+				b_alagoas-ii = {
+				}
+				b_alagoas-iii = {
+				}
+			}
+			c_sergipe = {
+
+				color={ 95 115 55 }
+				color2={ 220 220 220 }
+				
+				b_sergipe = {
+				}
+				b_sergipe-ii = {
+				}
+				b_sergipe-iii = {
+				}
+			}
+		}
+		d_pontal = {
+
+			color={ 214 186 81 }
+			color2={ 220 220 220 }
+			
+			capital = 4019 # Pontal
+			
+			c_pontal = {
+
+				color={ 165 67 151 }
+				color2={ 220 220 220 }	
+	
+				b_pontal = {
+				}
+				b_pontal-ii = {
+				}
+				b_pontal-iii = {
+				}
+				b_pontal-iv = {
+				}
+			}
+			c_natividad = {
+
+				color={ 135 178 119 }
+				color2={ 220 220 220 }
+				
+				b_natividad = {
+				}
+				b_natividad-ii = {
+				}
+				b_natividad-iii = {
+				}
+			}
+			c_conceicao = {
+
+				color={ 95 164 52 }
+				color2={ 220 220 220 }
+				
+				b_conceicao = {
+				}
+				b_conceicao-ii = {
+				}
+				b_conceicao-iii = {
+				}
+			}
+		}
+		d_piaui = {
+
+			color={ 164 126 64 }
+			color2={ 220 220 220 }
+			
+			capital = 3995 # Parnaiba
+			
+			c_parnaiba = {
+
+				color={ 98 17 163 }
+				color2={ 220 220 220 }
+				
+				b_parnaiba = {
+				}
+				b_parnaiba-ii = {
+				}
+				b_parnaiba-iii = {
+				}
+				b_parnaiba-iv = {
+				}
+			}
+			c_oeiras = {
+
+				color={ 195 24 6 }
+				color2={ 220 220 220 }
+				
+				b_oeiras = {
+				}
+				b_oeiras-ii = {
+				}
+				b_oeiras-iii = {
+				}
+			}
+			c_parnagua = {
+
+				color={ 198 154 211 }
+				color2={ 220 220 220 }
+				
+				b_parnagua = {
+				}
+				b_parnagua-ii = {
+				}
+				b_parnagua-iii = {
+				}
+			}
+		}
+		d_ceara = {
+
+			color={ 34 46 164 }
+			color2={ 220 220 220 }
+			
+			capital = 3998 # Ceara
+			
+			c_ceara = {
+
+				color={ 168 147 65 }
+				color2={ 220 220 220 }
+				
+				b_ceara = {
+				}
+				b_ceara-ii = {
+				}
+				b_ceara-iii = {
+				}
+				b_ceara-iv = {
+				}
+			}
+			c_rio_grande = {
+
+				color={ 145 49 123 }
+				color2={ 220 220 220 }
+				
+				b_rio_grande = {
+				}
+				b_rio_grande-ii = {
+				}
+				b_rio_grande-iii = {
+				}
+			}
+			c_crato = {
+
+				color={ 199 58 139 }
+				color2={ 220 220 220 }
+				
+				b_crato1 = {
+				}
+				b_crato-ii = {
+				}
+				b_crato-iii = {
+				}
+			}
+		}
+		d_maranhao = {
+
+			color={ 114 176 64 }
+			color2={ 220 220 220 }
+			
+			capital = 3991 # Maranhao
+			
+			c_maranhao = {
+
+				color={ 188 147 125 }
+				color2={ 220 220 220 }
+				
+				b_maranhao = {
+				}
+				b_maranhao-ii = {
+				}
+				b_maranhao-iii = {
+				}
+				b_maranhao-iv = {
+				}
+			}
+			c_alcantara1 = {
+
+				color={ 19 139 105 }
+				color2={ 220 220 220 }
+				
+				b_alcantara1 = {
+				}
+				b_alcantara-ii = {
+				}
+				b_alcantara-iii = {
+				}
+			}
+			c_timon = {
+
+				color={ 149 18 39 }
+				color2={ 220 220 220 }
+				
+				b_timon = {
+				}
+				b_timon-ii = {
+				}
+				b_timon-iii = {
+				}
+			}
+			c_grajau = {
+
+				color={ 219 58 89 }
+				color2={ 220 220 220 }
+				
+				b_grajau = {
+				}
+				b_grajau-ii = {
+				}
+				b_grajau-iii = {
+				}
+			}
+			c_pastos_bons = {
+
+				color={ 99 88 39 }
+				color2={ 220 220 220 }
+				
+				b_pastos_bons = {
+				}
+				b_pastos_bons-ii = {
+				}
+				b_pastos_bons-iii = {
+				}
+			}
+		}
+    }
+
+	k_southern_brazil = {
+
+		color={ 106 85 0 }
+		color2={ 220 220 220 }
+
+		capital = 4040 # Rio de Janeiro
+
+		d_rio_de_janeiro = {
+
+			color={ 185 58 149 }
+			color2={ 220 220 220 }
+			
+			capital = 4040 # Rio de Janeiro
+			
+			c_rio_de_janeiro = {
+
+				color={ 177 64 161 }
+				color2={ 220 220 220 }
+
+				holy_site=south_american
+				holy_site=south_american_reformed
+				holy_site=chaco_pagan
+				holy_site=chaco_pagan_reformed
+				holy_site=pampas_pagan
+				holy_site=pampas_pagan_reformed
+				b_rio_de_janeiro = {
+				}
+				b_rio_de_janeiro-ii = {
+				}
+				b_rio_de_janeiro-iii = {
+				}
+				b_rio_de_janeiro-iv = {
+				}
+				b_rio_de_janeiro-v = {
+				}
+				b_rio_de_janeiro-vi = {
+				}
+			}
+			c_espirito_santo = {
+
+				color={ 125 191 134 }
+				color2={ 220 220 220 }
+				
+				b_espirito_santo = {
+				}
+				b_espirito_santo-ii = {
+				}
+				b_espirito_santo-iii = {
+				}
+			}
+			c_sao_tome = {
+
+				color={ 135 89 43 }
+				color2={ 220 220 220 }
+				
+				b_sao_tome = {
+				}
+				b_sao_tome-ii = {
+				}
+				b_sao_tome-iii = {
+				}
+			}
+			c_santo_amaro = {
+
+				color={ 15 134 112 }
+				color2={ 220 220 220 }
+				
+				b_santo_amaro = {
+				}
+				b_santo_amaro-ii = {
+				}
+				b_santo_amaro-iii = {
+				}
+			}
+		}
+		d_diamantina = {
+
+			color={ 195 112 157 }
+			color2={ 220 220 220 }
+			
+			capital = 4017 # Diamentina
+			
+			c_diamentina = {
+
+				color={ 87 67 76 }
+				color2={ 220 220 220 }
+				
+				b_diamentina = {
+				}
+				b_diamentina-ii = {
+				}
+				b_diamentina-iii = {
+				}
+				b_diamentina-iv = {
+				}
+			}
+			c_serro = {
+
+				color={ 55 189 135 }
+				color2={ 220 220 220 }
+				
+				b_serro = {
+				}
+				b_serro-ii = {
+				}
+				b_serro-iii = {
+				}
+			}
+			c_santo_antonio_da_manga = {
+
+				color={ 149 18 183 }
+				color2={ 220 220 220 }
+				
+				b_santo_antonio_da_manga = {
+				}
+				b_santo_antonio_da_manga-ii = {
+				}
+				b_santo_antonio_da_manga-iii = {
+				}
+			}
+		}
+		d_goias = {
+
+			color={ 155 111 12 }
+			color2={ 220 220 220 }
+			
+			capital = 4023 # Goias
+			
+			c_goias = {
+
+				color={ 175 147 16 }
+				color2={ 220 220 220 }
+				
+				b_goias = {
+				}
+				b_goias-ii = {
+				}
+				b_goias-iii = {
+				}
+				b_goias-iv = {
+				}
+			}
+			c_ipora = {
+
+				color={ 52 71 179 }
+				color2={ 220 220 220 }
+				
+				b_ipora = {
+				}
+				b_ipora-ii = {
+				}
+				b_ipora-iii = {
+				}
+			}
+			c_vila_boa = {
+
+				color={ 61 75 26 }
+				color2={ 220 220 220 }
+				
+				b_vila_boa = {
+				}
+				b_vila_boa-ii = {
+				}
+				b_vila_boa-iii = {
+				}
+			}
+			c_luziana = {
+
+				color={ 188 51 40 }
+				color2={ 220 220 220 }
+				
+				b_luziana = {
+				}
+				b_luziana-ii = {
+				}
+				b_luziana-iii = {
+				}
+			}
+			c_arrial_dos_couros = {
+
+				color={ 138 71 60 }
+				color2={ 220 220 220 }
+				
+				b_arrial_dos_couros = {
+				}
+				b_arrial_dos_couros-ii = {
+				}
+				b_arrial_dos_couros-iii = {
+				}
+			}
+		}
+		d_mato_grosso = {
+
+			color={ 185 232 16 }
+			color2={ 220 220 220 }
+			
+			capital = 4029 # Cuiaba
+			
+			c_cuiaba = {
+
+				color={ 187 47 96 }
+				color2={ 220 220 220 }
+				
+				b_cuiaba = {
+				}
+				b_cuiaba-ii = {
+				}
+				b_cuiaba-iii = {
+				}
+				b_cuiaba-iv = {
+				}
+			}
+			c_caceres1 = {
+
+				color={ 125 45 36 }
+				color2={ 220 220 220 }
+				
+				b_caceres1 = {
+				}
+				b_caceres-ii = {
+				}
+				b_caceres-iii = {
+				}
+			}
+			c_diamantino = {
+
+				color={ 78 184 158 }
+				color2={ 220 220 220 }
+				
+				b_diamantino = {
+				}
+				b_diamantino-ii = {
+				}
+				b_diamantino-iii = {
+				}
+			}
+			c_rio_das_mortes = {
+
+				color={ 38 166 146 }
+				color2={ 220 220 220 }
+				
+				b_rio_das_mortes = {
+				}
+				b_rio_das_mortes-ii = {
+				}
+				b_rio_das_mortes-iii = {
+				}
+			}
+		}
+		d_ofaie = {
+
+			color={ 125 149 50 }
+			color2={ 220 220 220 }
+			
+			capital = 4032 # Ofaie
+			
+			c_ofaie = {
+
+				color={ 175 17 151 }
+				color2={ 220 220 220 }
+				
+				b_ofaie = {
+				}
+				b_ofaie-ii = {
+				}
+				b_ofaie-iii = {
+				}
+				b_ofaie-iv = {
+				}
+			}
+			c_coxim = {
+
+				color={ 148 144 103 }
+				color2={ 220 220 220 }
+				
+				b_coxim = {
+				}
+				b_coxim-ii = {
+				}
+				b_coxim-iii = {
+				}
+			}
+		}
+		d_minas_gerais = {
+
+			color={ 29 42 89 }
+			color2={ 220 220 220 }
+			
+			capital = 4035 # Minas Gerais
+			
+			c_minas_gerais = {
+
+				color={ 12 97 126 }
+				color2={ 220 220 220 }
+				
+				b_minas_gerais = {
+				}
+				b_minas_gerais-ii = {
+				}
+				b_minas_gerais-iii = {
+				}
+				b_minas_gerais-iv = {
+				}
+			}
+			c_vila_rica = {
+
+				color={ 139 114 11 }
+				color2={ 220 220 220 }
+				
+				b_vila_rica = {
+				}
+				b_vila_rica-ii = {
+				}
+				b_vila_rica-iii = {
+				}
+			}
+			c_sao_joao_del_rel = {
+
+				color={ 169 64 23 }
+				color2={ 220 220 220 }
+				
+				b_sao_joao_del_rel = {
+				}
+				b_sao_joao_del_rel-ii = {
+				}
+				b_sao_joao_del_rel-iii = {
+				}
+			}
+			c_araxas = {
+
+				color={ 129 44 73 }
+				color2={ 220 220 220 }
+				
+				b_araxas = {
+				}
+				b_araxas-ii = {
+				}
+				b_araxas-iii = {
+				}
+			}
+		}
+		d_sao_paulo = {
+
+			color={ 149 52 79 }
+			color2={ 220 220 220 }
+			
+			capital = 4043 # Sao Vicente
+			
+			c_sao_vicente = {
+
+				color={ 172 37 46 }
+				color2={ 220 220 220 }
+				
+				b_sao_vicente = {
+				}
+				b_sao_vicente-ii = {
+				}
+				b_sao_vicente-iii = {
+				}
+				b_sao_vicente-iv = {
+				}
+			}
+			c_campinas = {
+
+				color={ 79 44 61 }
+				color2={ 220 220 220 }
+				
+				b_campinas = {
+				}
+				b_campinas-ii = {
+				}
+				b_campinas-iii = {
+				}
+			}
+			c_curitiba = {
+
+				color={ 14 74 133 }
+				color2={ 220 220 220 }
+				
+				b_curitiba = {
+				}
+				b_curitiba-ii = {
+				}
+				b_curitiba-iii = {
+				}
+			}
+		}
+		d_guayra = {
+
+			color={ 149 52 219 }
+			color2={ 220 220 220 }
+			
+			capital = 4047 # Guayra
+			
+			c_guayra = {
+
+				color={ 52 37 186 }
+				color2={ 220 220 220 }
+				
+				b_guayra = {
+				}
+				b_guayra-ii = {
+				}
+				b_guayra-iii = {
+				}
+				b_guayra-iv = {
+				}
+			}
+			c_castro = {
+
+				color={ 149 54 66 }
+				color2={ 220 220 220 }
+				
+				b_castro1 = {
+				}
+				b_castro-ii = {
+				}
+				b_castro-iii = {
+				}
+			}
+			c_araquara = {
+
+				color={ 39 64 33 }
+				color2={ 220 220 220 }
+				
+				b_araquara = {
+				}
+				b_araquara-ii = {
+				}
+				b_araquara-iii = {
+				}
+			}
+		}
+		d_rio_grande_do_sul = {
+
+			color={ 169 132 69 }
+			color2={ 220 220 220 }
+			
+			capital = 4050 # Rio Grande Do Sul
+			
+			c_rio_grande_do_sul = {
+
+				color={ 172 37 86 }
+				color2={ 220 220 220 }
+				
+				b_rio_grande_do_sul = {
+				}
+				b_rio_grande_do_sul-ii = {
+				}
+				b_rio_grande_do_sul-iii = {
+				}
+				b_rio_grande_do_sul-iv = {
+				}
+			}
+			c_santa_catarina = {
+
+				color={ 139 24 61 }
+				color2={ 220 220 220 }
+				
+				b_santa_catarina = {
+				}
+				b_santa_catarina-ii = {
+				}
+				b_santa_catarina-iii = {
+				}
+			}
+			c_tape = {
+
+				color={ 59 74 13 }
+				color2={ 220 220 220 }
+				
+				b_tape = {
+				}
+				b_tape-ii = {
+				}
+				b_tape-iii = {
+				}
+			}
+			c_santa_tecla = {
+
+				color={ 79 134 187 }
+				color2={ 220 220 220 }
+				
+				b_santa_tecla = {
+				}
+				b_santa_tecla-ii = {
+				}
+				b_santa_tecla-iii = {
+				}
+			}
+		}
+	}
+	k_amazonas = {
+
+		color={ 88 183 32 }
+		color2={ 220 220 220 }
+
+		capital = 3980 # Manaus
+
+		d_eastern_amazon = {
+
+			color={ 45 14 31 }
+			color2={ 220 220 220 }
+			
+			capital = 3980 # Manaus
+			
+			c_manaus = {
+
+				color={ 15 24 189 }
+				color2={ 220 220 220 }
+				holy_site=chachapoyan_pagan
+				holy_site=chachapoyan_pagan_reformed
+				holy_site=south_american
+				holy_site=south_american_reformed
+				holy_site=amazonian_pagan
+				holy_site=amazonian_pagan_reformed
+				holy_site=chaco_pagan
+				holy_site=chaco_pagan_reformed
+				
+				b_manaus = {
+				}
+				b_manaus-ii = {
+				}
+				b_manaus-iii = {
+				}
+				b_manaus-iv = {
+				}
+				b_manaus-v = {
+				}
+				b_manaus-vi = {
+				}
+			}
+			c_rio_madeira = {
+
+				color={ 65 124 159 }
+				color2={ 220 220 220 }
+				
+				b_rio_madeira = {
+				}
+				b_rio_madeira-ii = {
+				}
+				b_rio_madeira-iii = {
+				}
+			}
+			c_juruena = {
+
+				color={ 135 117 43 }
+				color2={ 220 220 220 }
+				
+				b_juruena = {
+				}
+				b_juruena-ii = {
+				}
+				b_juruena-iii = {
+				}
+			}
+			c_xingu = {
+
+				color={ 75 54 1 }
+				color2={ 220 220 220 }
+				
+				b_xingu = {
+				}
+				b_xingu-ii = {
+				}
+				b_xingu-iii = {
+				}
+			}
+			c_santarem = {
+
+				color={ 45 74 86 }
+				color2={ 220 220 220 }
+				
+				b_santarem1 = {
+				}
+				b_santarem-ii = {
+				}
+				b_santarem-iii = {
+				}
+			}
+
+		}
+		d_tilcara = {
+
+			color={ 11 2 144 }
+			color2={ 220 220 220 }
+			
+			capital = 4109 # Tilcara
+			
+			c_tilcara = {
+
+				color={ 111 12 59 }
+				color2={ 220 220 220 }
+				
+				b_tilcara = {
+				}
+				b_tilcara-ii = {
+				}
+				b_tilcara-iii = {
+				}
+				b_tilcara-iv = {
+				}
+				b_tilcara-v = {
+				}
+				b_tilcara-vi = {
+				}
+			}
+			c_araucania = {
+
+				color={ 51 2 138 }
+				color2={ 220 220 220 }
+				
+				b_araucania = {
+				}
+				b_araucania-ii = {
+				}
+				b_araucania-iii = {
+				}
+				b_araucania-iv = {
+				}
+				b_araucania-v = {
+				}
+				b_araucania-vi = {
+				}
+			}
+			c_orannew = {
+
+				color={ 220 16 123 }
+				color2={ 220 220 220 }
+				
+				b_orannew = {
+				}
+				b_orannew-ii = {
+				}
+				b_orannew-iii = {
+				}
+				b_orannew-iv = {
+				}
+				b_orannew-v = {
+				}
+				b_orannew-vi = {
+				}
+			}
+		}
+		d_mendoza = {
+
+			color={ 190 11 4 }
+			color2={ 220 220 220 }
+			
+			capital = 4106 # Mendoza
+			c_pawqar_tampu = {
+
+				color={ 55 24 59 }
+				color2={ 220 220 220 }
+				
+				b_pawqar_tampu = {
+				}
+				b_pawqar_tampu-ii = {
+				}
+				b_pawqar_tampu-iii = {
+				}
+			}
+			c_mendoza = {
+
+				color={ 24 184 12 }
+				color2={ 220 220 220 }
+				
+				b_mendoza = {
+				}
+				b_mendoza-ii = {
+				}
+				b_mendoza-iii = {
+				}
+				b_mendoza-iv = {
+				}
+				b_mendoza-v = {
+				}
+				b_mendoza-vi = {
+				}
+			}
+			c_cusco = {
+
+				color={ 33 3 63 }
+				color2={ 220 220 220 }
+				
+				b_cusco = {
+				}
+				b_cusco-ii = {
+				}
+				b_cusco-iii = {
+				}
+				b_cusco-iv = {
+				}
+				b_cusco-v = {
+				}
+				b_cusco-vi = {
+				}
+			}
+			c_oruro = {
+
+				color={ 203 43 8 }
+				color2={ 220 220 220 }
+				
+				b_oruro = {
+				}
+				b_oruro-ii = {
+				}
+				b_oruro-iii = {
+				}
+				b_oruro-iv = {
+				}
+				b_oruro-v = {
+				}
+				b_oruro-vi = {
+				}
+			}
+		}
+		d_western_amazon = {
+
+			color={ 187 33 93 }
+			color2={ 220 220 220 }
+
+			capital = 3972 # Barcelos
+			
+			c_barcelos = {
+
+				color={ 55 29 85 }
+				color2={ 220 220 220 }
+				
+				b_barcelos1 = {
+				}
+				b_barcelos-ii = {
+				}
+				b_barcelos-iii = {
+				}
+				b_barcelos-iv = {
+				}
+			}
+			c_upper_amazon = {
+
+				color={ 35 224 153 }
+				color2={ 220 220 220 }
+				
+				b_upper_amazon = {
+				}
+				b_upper_amazon-ii = {
+				}
+				b_upper_amazon-iii = {
+				}
+			}
+			c_rio_branco = {
+
+				color={ 141 57 89 }
+				color2={ 220 220 220 }
+				
+				b_rio_branco = {
+				}
+				b_rio_branco-ii = {
+				}
+				b_rio_branco-iii = {
+				}
+			}
+			c_jurua = {
+
+				color={ 135 132 199 }
+				color2={ 220 220 220 }
+				
+				b_jurua = {
+				}
+				b_jurua-ii = {
+				}
+				b_jurua-iii = {
+				}
+			}
+		}
+		d_guapore = {
+
+			color={ 127 193 51 }
+			color2={ 220 220 220 }
+
+			capital = 3982 # Guapore
+			
+			c_guapore = {
+
+				color={ 145 219 25 }
+				color2={ 220 220 220 }
+				
+				b_guapore = {
+				}
+				b_guapore-ii = {
+				}
+				b_guapore-iii = {
+				}
+				b_guapore-iv = {
+				}
+			}
+			c_cerejeiras = {
+
+				color={ 175 54 39 }
+				color2={ 220 220 220 }
+				
+				b_cerejeiras = {
+				}
+				b_cerejeiras-ii = {
+				}
+				b_cerejeiras-iii = {
+				}
+			}
+			c_vila_bela = {
+
+				color={ 63 97 144 }
+				color2={ 220 220 220 }
+				
+				b_vila_bela = {
+				}
+				b_vila_bela-ii = {
+				}
+				b_vila_bela-iii = {
+				}
+			}
+		}
+		d_grao_para = {
+
+			color={ 177 68 178 }
+			color2={ 220 220 220 }
+			
+			capital = 3979 # Para
+			
+			c_para = {
+
+				color={ 85 167 50 }
+				color2={ 220 220 220 }	
+	
+				b_para = {
+				}
+				b_para-ii = {
+				}
+				b_para-iii = {
+				}
+				b_para-iv = {
+				}
+			}
+			c_tucurui = {
+
+				color={ 15 48 149 }
+				color2={ 220 220 220 }
+				
+				b_tucurui = {
+				}
+				b_tucurui-ii = {
+				}
+				b_tucurui-iii = {
+				}
+			}
+			c_belem = {
+
+				color={ 145 184 32 }
+				color2={ 220 220 220 }
+				
+				b_belem = {
+				}
+				b_belem-ii = {
+				}
+				b_belem-iii = {
+				}
+			}
+			c_marajo = {
+
+				color={ 165 24 127 }
+				color2={ 220 220 220 }
+				holy_site=amazonian_pagan
+				holy_site=amazonian_pagan_reformed
+				b_marajo = {
+				}
+				b_marajo-ii = {
+				}
+				b_marajo-iii = {
+				}
+			}
+		}
+		d_amapa = {
+
+			color={ 139 182 126 }
+			color2={ 220 220 220 }
+			
+			capital = 3974 # Amapa
+			
+			c_amapa = {
+
+				color={ 168 137 61 }
+				color2={ 220 220 220 }
+				
+				b_amapa = {
+				}
+				b_amapa-ii = {
+				}
+				b_amapa-iii = {
+				}
+				b_amapa-iv = {
+				}
+			}
+			c_oiapoque = {
+
+				color={ 155 139 183 }
+				color2={ 220 220 220 }
+				
+				b_oiapoque = {
+				}
+				b_oiapoque-ii = {
+				}
+				b_oiapoque-iii = {
+				}
+			}
+			c_muturu = {
+
+				color={ 29 198 219 }
+				color2={ 220 220 220 }
+				
+				b_muturu = {
+				}
+				b_muturu-ii = {
+				}
+				b_muturu-iii = {
+				}
+			}
+			c_guyana = {
+
+				color={ 69 88 29 }
+				color2={ 220 220 220 }
+				
+				b_guyana = {
+				}
+				b_guyana-ii = {
+				}
+				b_guyana-iii = {
+				}
+			}
+		}
+		d_suriname = {
+
+			color={ 174 166 54 }
+			color2={ 220 220 220 }
+			
+			capital = 3968 # Suriname
+			
+			c_suriname = {
+
+				color={ 148 27 195 }
+				color2={ 220 220 220 }
+				
+				b_suriname = {
+				}
+				b_suriname-ii = {
+				}
+				b_suriname-iii = {
+				}
+				b_suriname-iv = {
+				}
+			}
+			c_cayenne = {
+
+				color={ 45 139 65 }
+				color2={ 220 220 220 }
+				
+				b_cayenne = {
+				}
+				b_cayenne-ii = {
+				}
+				b_cayenne-iii = {
+				}
+			}
+			c_paramaribo = {
+
+				color={ 29 198 139 }
+				color2={ 220 220 220 }
+				
+				b_paramaribo = {
+				}
+				b_paramaribo-ii = {
+				}
+				b_paramaribo-iii = {
+				}
+			}
+		}
+    }
+}

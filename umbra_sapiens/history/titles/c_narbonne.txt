@@ -1,0 +1,128 @@
+769.1.1={
+	holder = 190550 #Bego
+}
+769.1.1={
+	liege=d_toulouse
+}
+826.1.1={
+	holder=163063
+	liege=d_barcelona
+}
+#835.1.1={
+#	holder=163063
+#}
+844.5.1={
+	holder=73785
+}
+848.1.1={
+	holder=73784
+}
+865.1.1={
+	holder=127019
+}
+911.1.1={
+	holder=138216 #Odon I de Narbonne
+	law = succ_primogeniture
+	law = cognatic_succession
+	liege = d_toulouse
+}
+936.1.1={
+	holder=138218 #Matfred de Narbonne
+}
+966.8.10={
+	holder=40210 #Raymond I de Narbonne
+}
+1019.1.1={
+	holder=40212 #Bérenguier I de Narbonne
+}
+1067.2.5={
+	holder=40216 #Bernard Bérenguier I de Narbonne
+}
+1077.1.1={
+	holder=40218 #Aimery I de Narbonne
+}
+1105.1.1={
+	holder=138224 #Aimery II de Narbonne
+}
+1134.7.17={
+	holder=223673 #Alphonse Jourdain de Toulouse
+}
+1143.1.1={
+	holder=138225 #Ermengarde I de Narbonne
+}
+1197.10.14=
+{
+holder=207540
+}
+1202.1.1=
+{
+holder=207542
+}
+1239.2.25=
+{
+holder=72432
+}
+1270.1.1=
+{
+holder=72440
+}
+1271.8.21 = {
+	liege=k_france
+}
+1298.1.1=
+{
+holder=72446
+}
+1328.1.1=
+{
+holder=455621
+}
+1336.1.1=
+{
+holder=72453
+}
+1341.1.1={
+holder=455620
+}
+1388.1.1 = {
+holder=380856	#Guglielmo I di Narbona
+}
+1397.1.1 = {
+holder=380868	#Guglielmo II di Narbona
+}
+1424.8.17 = {
+holder=381312	#Guglielmo III di Narbona
+}
+1447.1.1 = {
+holder=371031	#Gaston IV de Foix-Béarn
+}
+1468.1.1 = {
+holder=371038	#Jean de Foix (1450-1500)
+}
+1500.11.5 = {
+holder=380243	#Gaston de Foix-Nemours
+}
+1507.1.1 = {
+	holder=371092 #Louis XII
+}
+1515.1.1={
+	holder=370977 #Francis I
+}
+1547.3.31={
+	holder=371100 #Henry II
+}
+1559.7.10={
+	holder=375095 #Francis II
+}
+1560.12.5={
+	holder=371693 #Charles IX
+}
+1574.5.30={
+	holder=371694 #Henry III
+}
+1589.8.2={
+	holder=371464 #Henry IV the Great
+}
+1610.5.14={
+	holder=371859 #Louis XIII the Just
+}

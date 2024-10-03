@@ -1,0 +1,29 @@
+# County Title
+title = c_kathmandu
+
+# Settlements
+max_settlements = 5
+
+b_kathmandu = castle
+b_bhaktapur = city
+b_pashupatinath = temple
+#b_lalitpur = {
+#b_patan_yala = {
+#b_kirtipur = {
+#b_nagarkot = {
+
+# Misc
+culture = nepali
+religion = buddhist
+464.1.1 = {
+build_wonder = wonder_temple_buddhist
+set_wonder_stage = 1
+set_wonder_name = KATHMANDUTEMPLE
+set_wonder_description = KATHMANDUTEMPLEDESC
+build_wonder_upgrade = upgrade_school_buddhist
+build_wonder_upgrade = upgrade_vihara
+}
+# History
+1041.1.1 = {
+	religion = hindu
+}#Hinduism influence spread in Nepal during the 11th century via relations with the Chalukya, reducing the once flourishing Buddhism.

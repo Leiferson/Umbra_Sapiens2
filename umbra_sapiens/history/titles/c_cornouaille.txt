@@ -1,0 +1,188 @@
+100.1.1={
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+#Kernev
+430.1.1={
+	holder = 159826 # Rivelen Mor Marthou
+}
+448.1.1={
+	holder = 252343 # Congar
+}
+490.1.1={
+	holder = 252344 # Deniel Drem Rud
+}
+515.1.1={
+	holder = 252334 # MŽlar
+}
+530.1.1={
+	holder = 159660 # Budic
+}
+544.1.1={
+	holder = 252328 # Macliau
+}
+577.1.1={
+	holder = 252345 # Iahan Reith
+}
+591.1.1={
+	holder = 252346 # Deniel Unua
+}
+625.1.1={
+	holder = 159667 # Iudicael
+}
+#House of Cornouaille
+650.1.1={
+	holder = 159668 # Gradlon
+}
+680.1.1={
+	holder = 159669 # Concar
+}
+720.1.1={
+	holder = 159670 # Iudon
+}
+760.1.1={
+	holder = 159671 # Custentin
+}
+820.1.1={
+	holder = 160072 # Argant
+}
+840.1.1={
+	holder = 160073 # Iudhael
+}
+
+850.1.1={
+	holder = 159673 # Alfrond of Cornouaille
+}
+857.1.1={
+	liege=d_brittany
+	holder = 160075 # Louvenan
+}
+867.1.1={
+	holder = 159673 # Alfrond of Cornouaille
+}
+#House of Nantes
+870.1.1={
+	holder= 160077 #Ridoredh
+}
+900.1.1={
+	liege=d_brittany
+	holder=160078 #Gourmaelon
+}
+#House of Cornouaille
+913.1.1={
+	holder = 159674 # Ulfret of Cornouaille
+}
+920.1.1={
+	holder = 159675 # Diles of Cornouaille
+}
+931.1.1={
+	liege=d_brittany
+}
+955.1.1={
+	holder = 159676 # Budic I of Cornouaille
+}
+970.1.1={
+	holder = 159677 # Budic II of Cornouaille
+}
+#House of Cornouaille
+1020.1.1={
+	holder=10042 #Alain Canhiart
+}
+1058.1.1={
+	holder=178 #Hoël II
+}
+1084.04.13={
+	holder=180 #Alain IV Fergent
+}
+1112.1.8={
+	holder=91159 #Conan III le Gros
+}
+1148.9.17={
+	holder=205825 #Berthe
+}
+
+#Rennian House of Penthièvre
+1156.1.1={
+	holder=205741 #Conan IV le Petit
+}
+1166.1.1={
+	holder=205740 #Constance
+}
+
+#Plantagenêt dynasty
+1194.1.1={
+	holder=204505 #Arthur I
+}
+1203.4.3={
+	holder=91139 #Alix
+}
+1220.1.1 = {
+	holder = 91218
+}
+
+#Capetian house of Dreux
+1221.10.21={
+	holder=7621 #Jean I le Roux
+}
+1286.10.8={
+	holder=455789 #Jean II
+}
+1305.11.18={
+	holder=455751 #Arthur II
+}
+1312.8.27={
+	holder=455750 #Jean III le Bon
+}
+1341.4.30 = {
+	liege=0
+	holder=455755	#Jean IV de Bretagne
+}
+1345.9.26 = {
+	holder=370725	#Jean V de Bretagne
+}
+1365.4.12 = {
+	holder=370725	#John IV, Duke of Brittany
+	liege=d_brittany
+}
+1399.11.1 = {
+	holder=370729	#John V, Duke of Brittany
+}
+1442.8.29 = {
+	holder=370792	#Francis I, Duke of Brittany
+}
+1450.7.17 = {
+	holder=370794	#Peter II, Duke of Brittany
+}
+1457.9.22 = {
+	holder=370732	#Arthur III, Duke of Brittany
+}
+1458.12.26 = {
+	holder=370797	#Francis II, Duke of Brittany
+}
+1488.9.9 = {
+	holder=371047	#Anne de Bretagne
+}
+1514.1.9 = {
+	holder=371094	#Claude de France (1499-1524)
+}
+1524.7.20 = {
+	holder=371099	#François de France (1518-1536)
+}
+1536.8.10 = {
+	holder=371100	#Henry II of France
+}
+1559.7.10={
+	holder=375095 #Francis II
+}
+1560.12.5={
+	holder=371693 #Charles IX
+}
+1574.5.30={
+	holder=371694 #Henry III
+}
+1589.8.2={
+	holder=371464 #Henry IV the Great
+}
+1610.5.14={
+	holder=371859 #Louis XIII the Just
+}

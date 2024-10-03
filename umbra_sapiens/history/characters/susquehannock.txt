@@ -1,0 +1,4547 @@
+1019917807={
+	name=Saraqundett
+	dynasty=1009990145
+	dna="nkjlciglipo"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=8
+	add_trait=misguided_warrior add_trait=celibate add_trait=honest add_trait=content add_trait=diligent 
+	add_trait=trusting add_trait=zealous add_trait=lunatic 
+	720.5.16={ birth=yes }
+	781.7.28={ death=yes }
+}
+1019917808={
+	name=Wastahanda
+	dynasty=1009990145
+	dna="nkdfcbkaipo"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=hedonist add_trait=temperate add_trait=envious add_trait=arbitrary 
+	add_trait=cynical 
+	father=1019917807	#Saraqundett
+	741.4.13={ birth=yes }
+	805.1.12={ death=yes }
+}
+1019917809={
+	name=Genessee
+	female=yes
+	dynasty=1009990145
+	dna="nldjlcalfpo"
+	culture=susquehannock religion=algic_pagan
+	father=1019917807	#Saraqundett
+	747.2.26={ birth=yes }
+	818.7.27={ death=yes }
+}
+1019917810={
+	name=Waddon
+	dynasty=1009990145
+	dna="nlpiibcaipj"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=ambitious  add_trait=temperate  
+	father=1019917808	#Wastahanda
+	769.8.14={ birth=yes }
+	839.11.20={ death=yes }
+}
+1019917811={
+	name=Genessee
+	female=yes
+	dynasty=1009990145
+	dna="nldfnhhamko"
+	culture=susquehannock religion=algic_pagan
+	father=1019917808	#Wastahanda
+	775.9.3={ birth=yes }
+	839.12.29={ death=yes }
+}
+1019917812={
+	name=Scarhuhadigh
+	dynasty=1009990145
+	dna="kgifcbkajpo"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=scholar add_trait=slothful add_trait=brave add_trait=paranoid 
+	add_trait=lustful 
+	father=1019917808	#Wastahanda
+	781.10.17={ birth=yes }
+	858.1.6={ death=yes }
+}
+1019917813={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990145
+	dna="jhdccbkfipo"
+	culture=susquehannock religion=algic_pagan
+	father=1019917808	#Wastahanda
+	787.11.6={ birth=yes }
+	874.9.4={ death=yes }
+}
+1019917814={
+	name=Sonque
+	dynasty=1009990145
+	dna="anfjlbmbipi"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=8 learning=4
+	add_trait=grey_eminence add_trait=celibate add_trait=brave add_trait=temperate add_trait=humble 
+	add_trait=diligent 
+	father=1019917810	#Waddon
+	793.4.25={ birth=yes }
+	852.10.2={ death=yes }
+}
+1019917815={
+	name=Satékon
+	female=yes
+	dynasty=1009990145
+	dna="lciaijlaboj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917810	#Waddon
+	797.10.12={ birth=yes }
+	855.6.9={ death=yes }
+}
+1019917816={
+	name=Satékon
+	female=yes
+	dynasty=1009990145
+	dna="lnfbloibipb"
+	culture=susquehannock religion=algic_pagan
+	father=1019917814	#Sonque
+	821.8.15={ birth=yes }
+	890.7.8={ death=yes }
+}
+1019917817={
+	name=Dahadaghesa
+	dynasty=1009990145
+	dna="acfjlbmldpi"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=7 learning=7
+	add_trait=detached_priest add_trait=deceitful add_trait=slothful add_trait=charitable add_trait=trusting 
+	 add_trait=stressed 
+	father=1019917814	#Sonque
+	827.11.12={ birth=yes }
+	887.11.22={ death=yes }
+}
+1019917818={
+	name=Hago
+	dynasty=1009990145
+	dna="eefjebfdfoi"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=6 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=chaste add_trait=craven add_trait=zealous  
+	father=1019917814	#Sonque
+	831.5.11={ birth=yes }
+	913.5.28={ death=yes }
+}
+1019917819={
+	name=Scarhuhadigh
+	dynasty=1009990145
+	dna="echalembipe"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=duelist add_trait=gregarious add_trait=charitable  
+	add_trait=genius 
+	father=1019917814	#Sonque
+	835.7.18={ birth=yes }
+	914.7.20={ death=yes }
+}
+1019917820={
+	name=Sonque
+	dynasty=1009990145
+	dna="enfjnbmiahl"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=8 intrigue=5 learning=4
+	add_trait=midas_touched add_trait=content add_trait=greedy add_trait=craven add_trait=arbitrary 
+	add_trait=gluttonous add_trait=drunkard 
+	father=1019917814	#Sonque
+	839.8.9={ birth=yes }
+	904.10.9={ death=yes }
+}
+1019917821={
+	name=Genessee
+	female=yes
+	dynasty=1009990145
+	dna="anfjlbifibf"
+	culture=susquehannock religion=algic_pagan
+	father=1019917814	#Sonque
+	842.4.20={ birth=yes }
+	910.7.5={ death=yes }
+}
+1019917822={
+	name=Wanahedana
+	dynasty=1009990145
+	dna="higjadeadpi"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	add_trait=charismatic_negotiator  add_trait=arbitrary add_trait=content add_trait=stressed 
+	father=1019917814	#Sonque
+	847.8.21={ birth=yes }
+	933.12.26={ death=yes }
+}
+1019917823={
+	name=Sawahegeh
+	dynasty=1009990145
+	dna="fccjgmmjdpo"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=5 learning=6
+	add_trait=indulgent_wastrel add_trait=lustful add_trait=proud 
+	father=1019917817	#Dahadaghesa
+	857.4.21={ birth=yes }
+	943.2.9={ death=yes }
+}
+1019917824={
+	name=Hago
+	dynasty=1009990145
+	dna="acgllbilipi"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=4 intrigue=7 learning=4
+	add_trait=skilled_tactician  add_trait=chaste  add_trait=temperate 
+	father=1019917817	#Dahadaghesa
+	861.8.9={ birth=yes }
+	920.5.23={ death=yes }
+}
+1019917825={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990145
+	dna="onneljmldpi"
+	culture=susquehannock religion=algic_pagan
+	father=1019917817	#Dahadaghesa
+	865.5.26={ birth=yes }
+	944.4.29={ death=yes }
+}
+1019917826={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990145
+	dna="anfeklmllci"
+	culture=susquehannock religion=algic_pagan
+	father=1019917817	#Dahadaghesa
+	872.10.20={ birth=yes }
+	927.12.9={ death=yes }
+}
+1019917827={
+	name=Waskanecqua
+	dynasty=1009990145
+	dna="gcfjlbmdnhi"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=8
+	add_trait=charismatic_negotiator add_trait=cynical add_trait=lustful add_trait=ambitious add_trait=trusting 
+	add_trait=just 
+	father=1019917817	#Dahadaghesa
+	877.2.25={ birth=yes }
+	933.10.12={ death=yes }
+}
+1019917828={
+	name=Waddon
+	dynasty=1009990145
+	dna="jcabgknbpdn"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=6 intrigue=5 learning=4
+	add_trait=flamboyant_schemer add_trait=craven add_trait=patient add_trait=envious add_trait=gregarious 
+	father=1019917823	#Sawahegeh
+	881.5.21={ birth=yes }
+	936.8.19={ death=yes }
+}
+1019917829={
+	name=Andra
+	dynasty=1009990145
+	dna="ajcjgmnedjp"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	add_trait=misguided_warrior add_trait=trusting add_trait=ambitious 
+	father=1019917823	#Sawahegeh
+	887.11.12={ birth=yes }
+	962.8.30={ death=yes }
+}
+1019917830={
+	name=Saraqundett
+	dynasty=1009990145
+	dna="jcaggkncphi"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=4
+	add_trait=charismatic_negotiator  add_trait=charitable add_trait=ambitious add_trait=brave 
+	father=1019917828	#Waddon
+	902.11.17={ birth=yes }
+	949.1.24={ death=yes }
+}
+1019917831={
+	name=Hago
+	dynasty=1009990145
+	dna="kdablknhpdo"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	add_trait=naive_appeaser add_trait=impaler add_trait=greedy add_trait=diligent add_trait=craven 
+	add_trait=honest  
+	father=1019917828	#Waddon
+	905.8.7={ birth=yes }
+	1005.3.22={ death=yes }
+}
+1019917832={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990145
+	dna="jcabhpebidn"
+	culture=susquehannock religion=algic_pagan
+	father=1019917828	#Waddon
+	912.9.10={ birth=yes }
+	967.2.28={ death=yes }
+}
+1019917833={
+	name=Satékon
+	female=yes
+	dynasty=1009990145
+	dna="fcaggabcahi"
+	culture=susquehannock religion=algic_pagan
+	father=1019917830	#Saraqundett
+	922.6.3={ birth=yes }
+	980.8.8={ death=yes }
+}
+1019917834={
+	name=Dahadaghesa
+	dynasty=1009990145
+	dna="jhagbkegpio"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	add_trait=detached_priest add_trait=envious add_trait=proud add_trait=just add_trait=zealous 
+	father=1019917830	#Saraqundett
+	927.3.13={ birth=yes }
+	981.4.2={ death=yes }
+}
+1019917835={
+	name=Auroghteregh
+	dynasty=1009990145
+	dna="jcaggbecnnl"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=8
+	add_trait=tough_soldier add_trait=patient add_trait=shy add_trait=zealous add_trait=content 
+	add_trait=envious add_trait=stressed 
+	father=1019917830	#Saraqundett
+	930.5.27={ birth=yes }
+	1005.10.3={ death=yes }
+}
+1019917836={
+	name=Sonque
+	dynasty=1009990145
+	dna="jhapenegdin"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=7 learning=6
+	add_trait=charismatic_negotiator add_trait=deceitful  add_trait=envious add_trait=cynical 
+	add_trait=just add_trait=gregarious 
+	father=1019917834	#Dahadaghesa
+	950.9.15={ birth=yes }
+	1032.4.24={ death=yes }
+}
+1019917837={
+	name=Wanahedana
+	dynasty=1009990145
+	dna="pooobdfnpio"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	add_trait=thrifty_clerk add_trait=cynical add_trait=greedy add_trait=deceitful add_trait=shy 
+	add_trait=brave add_trait=possessed 
+	father=1019917834	#Dahadaghesa
+	956.11.2={ birth=yes }
+	1022.3.28={ death=yes }
+}
+1019917838={
+	name=Gosweinquecrakqua
+	dynasty=1009990145
+	dna="jhagkkkgpip"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=celibate add_trait=content add_trait=temperate add_trait=deceitful 
+	add_trait=envious 
+	father=1019917834	#Dahadaghesa
+	963.2.26={ birth=yes }
+	1054.8.18={ death=yes }
+}
+1019917839={
+	name=Waskanecqua
+	dynasty=1009990145
+	dna="jjapdeggjno"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=hedonist add_trait=trusting add_trait=diligent add_trait=temperate 
+	add_trait=depressed add_trait=lunatic 
+	father=1019917836	#Sonque
+	968.11.25={ birth=yes }
+	1027.6.10={ death=yes }
+}
+1019917840={
+	name=Andra
+	dynasty=1009990145
+	dna="jcjponeldjn"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=7
+	add_trait=midas_touched  add_trait=charitable add_trait=envious 
+	father=1019917836	#Sonque
+	973.2.13={ birth=yes }
+	1034.8.1={ death=yes }
+}
+1019917841={
+	name=Satékon
+	female=yes
+	dynasty=1009990145
+	dna="jilmaiegdon"
+	culture=susquehannock religion=algic_pagan
+	father=1019917836	#Sonque
+	979.5.10={ birth=yes }
+	1052.4.9={ death=yes }
+}
+1019917842={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990145
+	dna="kjaadeggjno"
+	culture=susquehannock religion=algic_pagan
+	father=1019917839	#Waskanecqua
+	995.10.23={ birth=yes }
+	1082.8.16={ death=yes }
+}
+1019917843={
+	name=Dahadaghesa
+	dynasty=1009990145
+	dna="jjakcfgmfnj"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=7 intrigue=4 learning=6
+	add_trait=midas_touched  add_trait=proud add_trait=craven add_trait=charitable 
+	add_trait=ill 
+	father=1019917839	#Waskanecqua
+	1000.7.4={ birth=yes }
+	1079.6.11={ death=yes }
+}
+1019917844={
+	name=Dahadaghesa
+	dynasty=1009990145
+	dna="hcapgehbjnb"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=8
+	add_trait=martial_cleric  add_trait=arbitrary add_trait=paranoid 
+	father=1019917839	#Waskanecqua
+	1005.12.7={ birth=yes }
+	1044.2.10={ death=yes }
+}
+1019917845={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990145
+	dna="jnapdfghjbd"
+	culture=susquehannock religion=algic_pagan
+	father=1019917839	#Waskanecqua
+	1010.2.7={ birth=yes }
+	1095.4.20={ death=yes }
+}
+1019917846={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990145
+	dna="njandbepjne"
+	culture=susquehannock religion=algic_pagan
+	father=1019917839	#Waskanecqua
+	1016.9.23={ birth=yes }
+	1074.7.22={ death=yes }
+}
+1019917847={
+	name=Genessee
+	female=yes
+	dynasty=1009990145
+	dna="pjlpgemgoac"
+	culture=susquehannock religion=algic_pagan
+	father=1019917839	#Waskanecqua
+	1020.9.26={ birth=yes }
+	1094.12.20={ death=yes }
+}
+1019917848={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990145
+	dna="jkaloeggong"
+	culture=susquehannock religion=algic_pagan
+	father=1019917839	#Waskanecqua
+	1024.4.22={ birth=yes }
+	1082.12.30={ death=yes }
+}
+1019917849={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990145
+	dna="jjpncfgmfne"
+	culture=susquehannock religion=algic_pagan
+	father=1019917843	#Dahadaghesa
+	1019.7.22={ birth=yes }
+	1079.10.7={ death=yes }
+}
+1019917850={
+	name=Uwhanhierelera
+	dynasty=1009990145
+	dna="lffkgkfcdgd"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=8
+	add_trait=indulgent_wastrel add_trait=shy add_trait=craven add_trait=temperate add_trait=arbitrary 
+	add_trait=lisp 
+	father=1019917843	#Dahadaghesa
+	1025.4.26={ birth=yes }
+	1126.5.30={ death=yes }
+}
+1019917851={
+	name=Wanahedana
+	dynasty=1009990145
+	dna="mjkkbfgdinj"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=arbitrary add_trait=patient add_trait=trusting add_trait=content 
+	add_trait=craven 
+	father=1019917843	#Dahadaghesa
+	1029.6.15={ birth=yes }
+	1095.7.18={ death=yes }
+}
+1019917852={
+	name=Sonque
+	dynasty=1009990145
+	dna="jlaacggmfml"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=4
+	add_trait=misguided_warrior add_trait=proud add_trait=chaste add_trait=deceitful add_trait=temperate 
+	add_trait=content add_trait=zealous 
+	father=1019917843	#Dahadaghesa
+	1033.10.16={ birth=yes }
+	1089.11.17={ death=yes }
+}
+1019917853={
+	name=Waskanecqua
+	dynasty=1009990145
+	dna="jpjkcfgmfjb"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=envious add_trait=proud add_trait=cynical add_trait=wroth 
+	add_trait=clubfooted 
+	father=1019917843	#Dahadaghesa
+	1037.9.26={ birth=yes }
+	1106.12.22={ death=yes }
+}
+1019917854={
+	name=Satékon
+	female=yes
+	dynasty=1009990145
+	dna="ijegcngnfhd"
+	culture=susquehannock religion=algic_pagan
+	father=1019917843	#Dahadaghesa
+	1042.4.4={ birth=yes }
+	1118.7.16={ death=yes }
+}
+1019917855={
+	name=Waskanecqua
+	dynasty=1009990145
+	dna="cbaknfgmfnj"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=4
+	add_trait=misguided_warrior add_trait=impaler add_trait=zealous  add_trait=charitable 
+	add_trait=proud 
+	father=1019917843	#Dahadaghesa
+	1046.7.8={ birth=yes }
+	1105.11.11={ death=yes }
+}
+1019917856={
+	name=Hago
+	dynasty=1009990145
+	dna="kfnegckcgdj"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=6 learning=7
+	add_trait=detached_priest add_trait=poet add_trait=deceitful add_trait=gluttonous add_trait=diligent 
+	add_trait=greedy 
+	father=1019917850	#Uwhanhierelera
+	1047.10.7={ birth=yes }
+	1116.6.29={ death=yes }
+}
+1019917857={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990145
+	dna="lffkglfjadb"
+	culture=susquehannock religion=algic_pagan
+	father=1019917850	#Uwhanhierelera
+	1052.11.26={ birth=yes }
+	1099.4.4={ death=yes }
+}
+1019917858={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990145
+	dna="lpfmgnfcnkn"
+	culture=susquehannock religion=algic_pagan
+	father=1019917850	#Uwhanhierelera
+	1056.2.23={ birth=yes }
+	1143.10.27={ death=yes }
+}
+1019917859={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990145
+	dna="bfikgmicdab"
+	culture=susquehannock religion=algic_pagan
+	father=1019917850	#Uwhanhierelera
+	1060.5.11={ birth=yes }
+	1126.6.12={ death=yes }
+}
+1019917860={
+	name=Auroghteregh
+	dynasty=1009990145
+	dna="lafhdkfcdld"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=flamboyant_schemer  add_trait=temperate add_trait=humble add_trait=shy 
+	add_trait=brave add_trait=wounded 
+	father=1019917850	#Uwhanhierelera
+	1064.7.3={ birth=yes }
+	1122.2.5={ death=yes }
+}
+1019917861={
+	name=Genessee
+	female=yes
+	dynasty=1009990145
+	dna="lplcckfcdpc"
+	culture=susquehannock religion=algic_pagan
+	father=1019917850	#Uwhanhierelera
+	1068.6.10={ birth=yes }
+	1132.2.26={ death=yes }
+}
+1019917862={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990145
+	dna="lfpklkfcdgd"
+	culture=susquehannock religion=algic_pagan
+	father=1019917850	#Uwhanhierelera
+	1073.11.20={ birth=yes }
+	1146.7.8={ death=yes }
+}
+1019917863={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990145
+	dna="bfeegckbgdj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917856	#Hago
+	1072.3.5={ birth=yes }
+	1148.9.13={ death=yes }
+}
+1019917864={
+	name=Kagoregago
+	dynasty=1009990145
+	dna="gdmopckcidj"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=6 intrigue=4 learning=8
+	add_trait=skilled_tactician add_trait=brave add_trait=gluttonous  
+	father=1019917856	#Hago
+	1074.1.11={ birth=yes }
+	1151.9.2={ death=yes }
+}
+1019917865={
+	name=Gosweinquecrakqua
+	dynasty=1009990145
+	dna="bfoefjdfgdj"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=6
+	add_trait=midas_touched add_trait=hunter add_trait=shy add_trait=deceitful add_trait=ambitious 
+	add_trait=patient 
+	father=1019917856	#Hago
+	1079.1.19={ birth=yes }
+	1151.2.26={ death=yes }
+}
+1019917866={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990145
+	dna="hlnjgncogbk"
+	culture=susquehannock religion=algic_pagan
+	father=1019917856	#Hago
+	1084.10.23={ birth=yes }
+	1144.12.12={ death=yes }
+}
+1019917867={
+	name=Uwhanhierelera
+	dynasty=1009990145
+	dna="gcmlildlidj"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=7
+	add_trait=charismatic_negotiator add_trait=honest add_trait=proud add_trait=wroth add_trait=slothful 
+	 
+	father=1019917864	#Kagoregago
+	1100.11.1={ birth=yes }
+	1143.2.24={ death=yes }
+}
+1019917868={
+	name=Kagoregago
+	dynasty=1009990145
+	dna="fcnopckccoj"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=4
+	add_trait=skilled_tactician add_trait=craven add_trait=envious add_trait=wroth add_trait=honest 
+	add_trait=cynical add_trait=trusting add_trait=depressed 
+	father=1019917864	#Kagoregago
+	1103.12.24={ birth=yes }
+	1176.8.26={ death=yes }
+}
+1019917869={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990145
+	dna="gdmjkckmiij"
+	culture=susquehannock religion=algic_pagan
+	father=1019917864	#Kagoregago
+	1107.5.27={ birth=yes }
+	1171.12.14={ death=yes }
+}
+1019917870={
+	name=Sonque
+	dynasty=1009990145
+	dna="gdmopcgjbdj"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	add_trait=detached_priest  add_trait=chaste add_trait=deceitful add_trait=humble 
+	add_trait=wroth 
+	father=1019917864	#Kagoregago
+	1110.11.20={ birth=yes }
+	1168.9.9={ death=yes }
+}
+1019917871={
+	name=Waddon
+	dynasty=1009990145
+	dna="mgpopcinode"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=gardener add_trait=shy  add_trait=paranoid 
+	add_trait=greedy 
+	father=1019917864	#Kagoregago
+	1115.5.6={ birth=yes }
+	1169.3.10={ death=yes }
+}
+1019917872={
+	name=Rutchogah
+	dynasty=1009990145
+	dna="hbeopchgfdj"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=6 learning=6
+	add_trait=intricate_webweaver  add_trait=honest add_trait=chaste add_trait=gluttonous 
+	add_trait=brave 
+	father=1019917864	#Kagoregago
+	1120.9.4={ birth=yes }
+	1198.9.22={ death=yes }
+}
+1019917873={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990145
+	dna="gdmopcpeidj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917864	#Kagoregago
+	1127.5.21={ birth=yes }
+	1190.9.20={ death=yes }
+}
+1019917874={
+	name=Saraqundett
+	dynasty=1009990145
+	dna="fcfhililnpj"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=charitable add_trait=content add_trait=wroth 
+	father=1019917867	#Uwhanhierelera
+	1131.7.12={ birth=yes }
+	1205.11.20={ death=yes }
+}
+1019917875={
+	name=Genessee
+	female=yes
+	dynasty=1009990145
+	dna="kaloijejidn"
+	culture=susquehannock religion=algic_pagan
+	father=1019917867	#Uwhanhierelera
+	1135.6.8={ birth=yes }
+	1213.1.27={ death=yes }
+}
+1019917876={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990145
+	dna="gnmabldpipg"
+	culture=susquehannock religion=algic_pagan
+	father=1019917867	#Uwhanhierelera
+	1143.3.8={ birth=yes }
+	1213.9.14={ death=yes }
+}
+1019917877={
+	name=Scarhuhadigh
+	dynasty=1009990145
+	dna="pcnhlhdonpj"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=craven  add_trait=just 
+	father=1019917874	#Saraqundett
+	1159.12.10={ birth=yes }
+	1223.12.21={ death=yes }
+}
+1019917878={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990145
+	dna="faahkjilncj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917874	#Saraqundett
+	1162.4.19={ birth=yes }
+	1219.6.7={ death=yes }
+}
+1019917879={
+	name=Waskanecqua
+	dynasty=1009990145
+	dna="fcaohihlnpj"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=7
+	add_trait=intricate_webweaver add_trait=shy add_trait=deceitful  add_trait=diligent 
+	father=1019917874	#Saraqundett
+	1166.11.2={ birth=yes }
+	1233.6.2={ death=yes }
+}
+1019917880={
+	name=Genessee
+	female=yes
+	dynasty=1009990145
+	dna="fifiigikgpa"
+	culture=susquehannock religion=algic_pagan
+	father=1019917874	#Saraqundett
+	1172.8.24={ birth=yes }
+	1258.5.6={ death=yes }
+}
+1019917881={
+	name=Genessee
+	female=yes
+	dynasty=1009990145
+	dna="pcfhibalpkp"
+	culture=susquehannock religion=algic_pagan
+	father=1019917874	#Saraqundett
+	1176.12.19={ birth=yes }
+	1234.3.4={ death=yes }
+}
+1019917882={
+	name=Dahadaghesa
+	dynasty=1009990145
+	dna="pcfhfaglnld"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=lustful add_trait=zealous add_trait=humble add_trait=brave 
+	add_trait=charitable add_trait=envious 
+	father=1019917874	#Saraqundett
+	1180.12.16={ birth=yes }
+	1279.6.8={ death=yes }
+}
+1019917883={
+	name=Wastahanda
+	dynasty=1009990145
+	dna="fhfhcgblnpj"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=5 intrigue=4 learning=6
+	add_trait=thrifty_clerk add_trait=trusting add_trait=diligent add_trait=proud add_trait=honest 
+	father=1019917874	#Saraqundett
+	1186.3.22={ birth=yes }
+	1267.6.20={ death=yes }
+}
+1019917884={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990145
+	dna="pdjaljhonpd"
+	culture=susquehannock religion=algic_pagan
+	father=1019917877	#Scarhuhadigh
+	1189.5.27={ birth=yes }
+	1243.3.19={ death=yes }
+}
+1019917885={
+	name=Saraqundett
+	dynasty=1009990145
+	dna="ncnhlmkonpn"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=4 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=slothful add_trait=proud add_trait=gluttonous add_trait=charitable 
+	add_trait=content add_trait=arbitrary add_trait=weak 
+	father=1019917877	#Scarhuhadigh
+	1195.6.15={ birth=yes }
+	1276.2.20={ death=yes }
+}
+1019917886={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990145
+	dna="blnfnmdoapj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917877	#Scarhuhadigh
+	1199.9.7={ birth=yes }
+	1276.4.22={ death=yes }
+}
+1019917887={
+	name=Saraqundett
+	dynasty=1009990145
+	dna="jcaiilfolpj"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=7 learning=4
+	add_trait=grey_eminence add_trait=zealous add_trait=arbitrary add_trait=paranoid add_trait=envious 
+	add_trait=greedy 
+	father=1019917877	#Scarhuhadigh
+	1202.4.1={ birth=yes }
+	1279.8.4={ death=yes }
+}
+1019917888={
+	name=Satékon
+	female=yes
+	dynasty=1009990145
+	dna="panhlhdinoj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917877	#Scarhuhadigh
+	1206.4.2={ birth=yes }
+	1268.11.24={ death=yes }
+}
+1019917889={
+	name=Satékon
+	female=yes
+	dynasty=1009990145
+	dna="pfnhlhboioj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917877	#Scarhuhadigh
+	1210.10.9={ birth=yes }
+	1293.9.1={ death=yes }
+}
+1019917890={
+	name=Andra
+	dynasty=1009990145
+	dna="jcnhfgkilmm"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=5 intrigue=4 learning=8
+	add_trait=elusive_shadow add_trait=gregarious  add_trait=envious 
+	father=1019917885	#Saraqundett
+	1221.3.19={ birth=yes }
+	1305.4.23={ death=yes }
+}
+1019917891={
+	name=Dahadaghesa
+	dynasty=1009990145
+	dna="npbalgdebph"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	add_trait=misguided_warrior add_trait=brave add_trait=honest  
+	father=1019917885	#Saraqundett
+	1226.6.6={ birth=yes }
+	1314.3.4={ death=yes }
+}
+1019917892={
+	name=Dahadaghesa
+	dynasty=1009990145
+	dna="gcnhlmmonpk"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	add_trait=skilled_tactician  add_trait=paranoid add_trait=wroth add_trait=lustful 
+	father=1019917885	#Saraqundett
+	1230.3.2={ birth=yes }
+	1303.10.30={ death=yes }
+}
+1019917893={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990145
+	dna="ndnhlmkgfbj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917885	#Saraqundett
+	1235.1.18={ birth=yes }
+	1290.1.10={ death=yes }
+}
+1019917894={
+	name=Nathheldaneh
+	dynasty=1009990145
+	dna="icnhmkkiaam"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=shy add_trait=envious add_trait=wroth 
+	father=1019917890	#Andra
+	1247.12.10={ birth=yes }
+	1301.5.8={ death=yes }
+}
+1019917895={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990145
+	dna="ecknfpeimmf"
+	culture=susquehannock religion=algic_pagan
+	father=1019917890	#Andra
+	1253.4.13={ birth=yes }
+	1335.7.12={ death=yes }
+}
+1019917896={
+	name=Wastahanda
+	dynasty=1009990145
+	dna="jljhogialcm"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=8 learning=4
+	add_trait=elusive_shadow add_trait=arbitrary add_trait=gluttonous add_trait=lustful add_trait=deceitful 
+	 
+	father=1019917890	#Andra
+	1258.11.11={ birth=yes }
+	1318.11.24={ death=yes }
+}
+1019917897={
+	name=Genessee
+	female=yes
+	dynasty=1009990145
+	dna="nanjfgclamm"
+	culture=susquehannock religion=algic_pagan
+	father=1019917890	#Andra
+	1265.5.16={ birth=yes }
+	1324.6.12={ death=yes }
+}
+1019917898={
+	name=Auroghteregh
+	dynasty=1009990145
+	dna="iknbfkkifam"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=7 learning=4
+	add_trait=elusive_shadow  add_trait=charitable add_trait=just add_trait=slothful 
+	father=1019917894	#Nathheldaneh
+	1279.2.18={ birth=yes }
+	1365.11.15={ death=yes }
+}
+1019917899={
+	name=Scarhuhadigh
+	dynasty=1009990145
+	dna="bcnhnhbmaam"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=4 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=lustful add_trait=gregarious  
+	father=1019917894	#Nathheldaneh
+	1284.6.16={ birth=yes }
+	1346.9.11={ death=yes }
+}
+1019917900={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990145
+	dna="kcpgmgbpaam"
+	culture=susquehannock religion=algic_pagan
+	father=1019917894	#Nathheldaneh
+	1290.1.19={ birth=yes }
+	1367.3.18={ death=yes }
+}
+1019917901={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990145
+	dna="ijjfaojcibp"
+	culture=susquehannock religion=algic_pagan
+	father=1019917894	#Nathheldaneh
+	1296.4.13={ birth=yes }
+	1394.4.23={ death=yes }
+}
+1019917902={
+	name=Sonque
+	dynasty=1009990145
+	dna="jkndfkdhcao"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=8
+	add_trait=charismatic_negotiator add_trait=gardener add_trait=honest add_trait=diligent add_trait=chaste 
+	add_trait=craven 
+	father=1019917898	#Auroghteregh
+	1310.1.9={ birth=yes }
+	1376.7.4={ death=yes }
+}
+1019917903={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990145
+	dna="ibnhfkpjfam"
+	culture=susquehannock religion=algic_pagan
+	father=1019917898	#Auroghteregh
+	1313.5.19={ birth=yes }
+	1386.1.4={ death=yes }
+}
+1019917904={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990145
+	dna="pfajfkokfim"
+	culture=susquehannock religion=algic_pagan
+	father=1019917898	#Auroghteregh
+	1318.12.22={ birth=yes }
+	1376.8.7={ death=yes }
+}
+1019917905={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990145
+	dna="bkgbfkkijpm"
+	culture=susquehannock religion=algic_pagan
+	father=1019917898	#Auroghteregh
+	1325.1.6={ birth=yes }
+	1401.1.13={ death=yes }
+}
+1019917906={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990145
+	dna="mmndmgfhcpd"
+	culture=susquehannock religion=algic_pagan
+	father=1019917902	#Sonque
+	1337.3.20={ birth=yes }
+	1421.2.15={ death=yes }
+}
+1019917907={
+	name=Wanahedana
+	dynasty=1009990145
+	dna="jpkmfkdjcao"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	add_trait=mastermind_theologian add_trait=deceitful add_trait=shy add_trait=proud add_trait=drunkard 
+	father=1019917902	#Sonque
+	1342.12.19={ birth=yes }
+	1414.10.31={ death=yes }
+}
+1019917908={
+	name=Genessee
+	female=yes
+	dynasty=1009990145
+	dna="mpndfpdenao"
+	culture=susquehannock religion=algic_pagan
+	father=1019917902	#Sonque
+	1347.2.22={ birth=yes }
+	1431.3.10={ death=yes }
+}
+1019917909={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990145
+	dna="jkeafhoecaa"
+	culture=susquehannock religion=algic_pagan
+	father=1019917902	#Sonque
+	1350.4.15={ birth=yes }
+	1392.11.5={ death=yes }
+}
+1019917910={
+	name=Auroghteregh
+	dynasty=1009990145
+	dna="jikmjodjefa"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=patient add_trait=gregarious add_trait=envious 
+	father=1019917907	#Wanahedana
+	1375.8.25={ birth=yes }
+	1458.3.3={ death=yes }
+}
+1019917911={
+	name=Sonque
+	dynasty=1009990145
+	dna="jpkhfadopmk"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=gluttonous add_trait=charitable add_trait=stutter 
+	father=1019917907	#Wanahedana
+	1380.8.11={ birth=yes }
+	1457.8.8={ death=yes }
+}
+1019917912={
+	name=Genessee
+	female=yes
+	dynasty=1009990145
+	dna="jmamgkcpbho"
+	culture=susquehannock religion=algic_pagan
+	father=1019917907	#Wanahedana
+	1385.10.22={ birth=yes }
+	1443.9.14={ death=yes }
+}
+1019917913={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990145
+	dna="apmlfknncao"
+	culture=susquehannock religion=algic_pagan
+	father=1019917907	#Wanahedana
+	1387.6.17={ birth=yes }
+	1455.10.21={ death=yes }
+}
+1019917914={
+	name=Auroghteregh
+	dynasty=1009990146
+	dna="oogjgkigfol"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=arbitrary add_trait=cynical add_trait=craven 
+	720.7.4={ birth=yes }
+	764.8.20={ death=yes }
+}
+1019917915={
+	name=Uwhanhierelera
+	dynasty=1009990146
+	dna="ongjfkjfhpl"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=8 learning=8
+	add_trait=flamboyant_schemer add_trait=ambitious add_trait=arbitrary add_trait=greedy add_trait=wroth 
+	father=1019917914	#Auroghteregh
+	745.12.5={ birth=yes }
+	825.1.30={ death=yes }
+}
+1019917916={
+	name=Uwhanhierelera
+	dynasty=1009990146
+	dna="oekjgkifpol"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=honest add_trait=charitable add_trait=wroth add_trait=slothful 
+	add_trait=just add_trait=zealous 
+	father=1019917914	#Auroghteregh
+	750.11.1={ birth=yes }
+	821.10.7={ death=yes }
+}
+1019917917={
+	name=Wastahanda
+	dynasty=1009990146
+	dna="kgggakjdhpl"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=honest add_trait=gluttonous add_trait=depressed 
+	father=1019917915	#Uwhanhierelera
+	776.12.11={ birth=yes }
+	839.3.6={ death=yes }
+}
+1019917918={
+	name=Hago
+	dynasty=1009990146
+	dna="nbgjpijfemm"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=temperate add_trait=brave 
+	father=1019917915	#Uwhanhierelera
+	780.2.26={ birth=yes }
+	859.12.27={ death=yes }
+}
+1019917919={
+	name=Wanahedana
+	dynasty=1009990146
+	dna="nngjkaihhpl"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=7 learning=4
+	add_trait=charismatic_negotiator  add_trait=wroth add_trait=envious 
+	father=1019917915	#Uwhanhierelera
+	786.10.26={ birth=yes }
+	842.1.22={ death=yes }
+}
+1019917920={
+	name=Sawahegeh
+	dynasty=1009990146
+	dna="incmgkcoipl"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=5 learning=5
+	add_trait=intricate_webweaver  add_trait=humble 
+	father=1019917917	#Wastahanda
+	803.7.23={ birth=yes }
+	858.1.11={ death=yes }
+}
+1019917921={
+	name=Sawahegeh
+	dynasty=1009990146
+	dna="kgdmjjjohpl"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=6 learning=8
+	add_trait=detached_priest add_trait=slothful add_trait=arbitrary  add_trait=charitable 
+	father=1019917917	#Wastahanda
+	811.9.6={ birth=yes }
+	865.8.15={ death=yes }
+}
+1019917922={
+	name=Rutchogah
+	dynasty=1009990146
+	dna="kgdcckjdhpl"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=paranoid add_trait=humble add_trait=zealous add_trait=temperate 
+	 
+	father=1019917917	#Wastahanda
+	815.2.18={ birth=yes }
+	880.12.10={ death=yes }
+}
+1019917923={
+	name=Genessee
+	female=yes
+	dynasty=1009990146
+	dna="pcghjajnbph"
+	culture=susquehannock religion=algic_pagan
+	father=1019917917	#Wastahanda
+	821.12.5={ birth=yes }
+	875.11.14={ death=yes }
+}
+1019917924={
+	name=Kagoregago
+	dynasty=1009990146
+	dna="obdgmhnoidp"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=5
+	add_trait=intricate_webweaver  add_trait=slothful add_trait=honest add_trait=gregarious 
+	add_trait=patient 
+	father=1019917920	#Sawahegeh
+	824.6.7={ birth=yes }
+	896.3.24={ death=yes }
+}
+1019917925={
+	name=Scarhuhadigh
+	dynasty=1009990146
+	dna="oicloipoijl"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=content add_trait=proud add_trait=chaste 
+	father=1019917920	#Sawahegeh
+	832.2.22={ birth=yes }
+	891.5.24={ death=yes }
+}
+1019917926={
+	name=Satékon
+	female=yes
+	dynasty=1009990146
+	dna="iecmhgflehl"
+	culture=susquehannock religion=algic_pagan
+	father=1019917920	#Sawahegeh
+	835.10.22={ birth=yes }
+	898.4.29={ death=yes }
+}
+1019917927={
+	name=Hago
+	dynasty=1009990146
+	dna="inepgjceipl"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=4 learning=7
+	add_trait=charismatic_negotiator add_trait=just add_trait=brave add_trait=chaste add_trait=deceitful 
+	father=1019917920	#Sawahegeh
+	839.2.24={ birth=yes }
+	887.6.19={ death=yes }
+}
+1019917928={
+	name=Rutchogah
+	dynasty=1009990146
+	dna="olfeleboijj"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=hedonist add_trait=shy add_trait=diligent add_trait=patient 
+	add_trait=charitable 
+	father=1019917924	#Kagoregago
+	844.9.24={ birth=yes }
+	917.1.15={ death=yes }
+}
+1019917929={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990146
+	dna="pjdgflbagcp"
+	culture=susquehannock religion=algic_pagan
+	father=1019917924	#Kagoregago
+	848.6.17={ birth=yes }
+	932.4.24={ death=yes }
+}
+1019917930={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990146
+	dna="cbcgphjfkni"
+	culture=susquehannock religion=algic_pagan
+	father=1019917924	#Kagoregago
+	856.12.23={ birth=yes }
+	921.7.5={ death=yes }
+}
+1019917931={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990146
+	dna="olfeleboilj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917928	#Rutchogah
+	872.9.13={ birth=yes }
+	938.3.29={ death=yes }
+}
+1019917932={
+	name=Uwhanhierelera
+	dynasty=1009990146
+	dna="olfddhaoijl"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=6
+	add_trait=intricate_webweaver add_trait=just add_trait=paranoid  
+	father=1019917928	#Rutchogah
+	876.2.15={ birth=yes }
+	948.8.15={ death=yes }
+}
+1019917933={
+	name=Genessee
+	female=yes
+	dynasty=1009990146
+	dna="oldldlbbgjj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917928	#Rutchogah
+	881.12.10={ birth=yes }
+	939.7.19={ death=yes }
+}
+1019917934={
+	name=Kagoregago
+	dynasty=1009990146
+	dna="pmhhkkncijj"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=trusting add_trait=ambitious  
+	father=1019917928	#Rutchogah
+	888.12.3={ birth=yes }
+	961.7.24={ death=yes }
+}
+1019917935={
+	name=Saraqundett
+	dynasty=1009990146
+	dna="omeelmeaijj"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=4 learning=7
+	add_trait=indulgent_wastrel add_trait=deceitful add_trait=shy add_trait=just add_trait=trusting 
+	add_trait=patient add_trait=temperate 
+	father=1019917928	#Rutchogah
+	891.6.4={ birth=yes }
+	976.5.22={ death=yes }
+}
+1019917936={
+	name=Sonque
+	dynasty=1009990146
+	dna="llgclegfgje"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=5
+	add_trait=elusive_shadow add_trait=brave add_trait=slothful add_trait=content add_trait=arbitrary 
+	father=1019917928	#Rutchogah
+	897.9.10={ birth=yes }
+	961.12.16={ death=yes }
+}
+1019917937={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990146
+	dna="egfekebkojm"
+	culture=susquehannock religion=algic_pagan
+	father=1019917928	#Rutchogah
+	901.11.18={ birth=yes }
+	950.12.17={ death=yes }
+}
+1019917938={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990146
+	dna="olfdmhaopmc"
+	culture=susquehannock religion=algic_pagan
+	father=1019917932	#Uwhanhierelera
+	896.4.17={ birth=yes }
+	969.12.10={ death=yes }
+}
+1019917939={
+	name=Genessee
+	female=yes
+	dynasty=1009990146
+	dna="olanfcaoijl"
+	culture=susquehannock religion=algic_pagan
+	father=1019917932	#Uwhanhierelera
+	900.5.8={ birth=yes }
+	968.5.17={ death=yes }
+}
+1019917940={
+	name=Kagoregago
+	dynasty=1009990146
+	dna="odfdngkilff"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	add_trait=martial_cleric  add_trait=deceitful add_trait=paranoid add_trait=gregarious 
+	father=1019917932	#Uwhanhierelera
+	907.3.15={ birth=yes }
+	990.11.11={ death=yes }
+}
+1019917941={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990146
+	dna="fdcdngfibff"
+	culture=susquehannock religion=algic_pagan
+	father=1019917940	#Kagoregago
+	938.9.10={ birth=yes }
+	1019.3.7={ death=yes }
+}
+1019917942={
+	name=Uwhanhierelera
+	dynasty=1009990146
+	dna="opfiebjilaf"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=6 learning=4
+	add_trait=martial_cleric add_trait=humble add_trait=paranoid add_trait=zealous add_trait=stressed 
+	father=1019917940	#Kagoregago
+	942.12.10={ birth=yes }
+	1010.10.21={ death=yes }
+}
+1019917943={
+	name=Genessee
+	female=yes
+	dynasty=1009990146
+	dna="onfilgdheff"
+	culture=susquehannock religion=algic_pagan
+	father=1019917940	#Kagoregago
+	945.12.20={ birth=yes }
+	1012.5.6={ death=yes }
+}
+1019917944={
+	name=Rutchogah
+	dynasty=1009990146
+	dna="odflngddfbf"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	add_trait=indulgent_wastrel add_trait=gregarious add_trait=humble add_trait=zealous add_trait=arbitrary 
+	add_trait=greedy  add_trait=ill 
+	father=1019917940	#Kagoregago
+	949.2.20={ birth=yes }
+	1011.9.15={ death=yes }
+}
+1019917945={
+	name=Saraqundett
+	dynasty=1009990146
+	dna="odmdnlkgamf"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=humble add_trait=brave add_trait=arbitrary 
+	father=1019917940	#Kagoregago
+	953.9.7={ birth=yes }
+	1042.11.14={ death=yes }
+}
+1019917946={
+	name=Genessee
+	female=yes
+	dynasty=1009990146
+	dna="ojohbhkilfj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917940	#Kagoregago
+	956.9.12={ birth=yes }
+	1011.1.2={ death=yes }
+}
+1019917947={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990146
+	dna="oefdngplfff"
+	culture=susquehannock religion=algic_pagan
+	father=1019917940	#Kagoregago
+	963.1.26={ birth=yes }
+	1032.7.10={ death=yes }
+}
+1019917948={
+	name=Hago
+	dynasty=1009990146
+	dna="olnieijhlhf"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=7 learning=6
+	add_trait=elusive_shadow add_trait=paranoid add_trait=wroth 
+	father=1019917942	#Uwhanhierelera
+	973.3.8={ birth=yes }
+	1030.12.26={ death=yes }
+}
+1019917949={
+	name=Uwhanhierelera
+	dynasty=1009990146
+	dna="opfjefjklaf"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=6 learning=7
+	add_trait=grey_eminence add_trait=zealous add_trait=diligent add_trait=drunkard 
+	father=1019917942	#Uwhanhierelera
+	978.5.13={ birth=yes }
+	1026.12.17={ death=yes }
+}
+1019917950={
+	name=Waskanecqua
+	dynasty=1009990146
+	dna="onfmebfflbb"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=trusting add_trait=ambitious  add_trait=shy 
+	add_trait=honest 
+	father=1019917942	#Uwhanhierelera
+	983.5.18={ birth=yes }
+	1056.6.24={ death=yes }
+}
+1019917951={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990146
+	dna="cfhiibjplaf"
+	culture=susquehannock religion=algic_pagan
+	father=1019917942	#Uwhanhierelera
+	989.4.7={ birth=yes }
+	1037.6.20={ death=yes }
+}
+1019917952={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990146
+	dna="ofninodhehf"
+	culture=susquehannock religion=algic_pagan
+	father=1019917948	#Hago
+	1001.7.20={ birth=yes }
+	1071.11.7={ death=yes }
+}
+1019917953={
+	name=Dahadaghesa
+	dynasty=1009990146
+	dna="ogdbjighhhf"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=slothful add_trait=lustful add_trait=just add_trait=zealous 
+	add_trait=gluttonous 
+	father=1019917948	#Hago
+	1004.9.12={ birth=yes }
+	1090.7.29={ death=yes }
+}
+1019917954={
+	name=Auroghteregh
+	dynasty=1009990146
+	dna="olkbnijilbc"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=gregarious  add_trait=gluttonous add_trait=deceitful 
+	add_trait=hunchback 
+	father=1019917948	#Hago
+	1009.3.12={ birth=yes }
+	1089.7.14={ death=yes }
+}
+1019917955={
+	name=Scarhuhadigh
+	dynasty=1009990146
+	dna="okeieojhfhf"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	add_trait=tough_soldier add_trait=honest add_trait=wroth add_trait=lustful add_trait=gregarious 
+	father=1019917948	#Hago
+	1014.2.7={ birth=yes }
+	1092.10.31={ death=yes }
+}
+1019917956={
+	name=Saraqundett
+	dynasty=1009990146
+	dna="oinikikhlko"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=humble add_trait=content add_trait=chaste 
+	father=1019917948	#Hago
+	1020.7.18={ birth=yes }
+	1106.6.25={ death=yes }
+}
+1019917957={
+	name=Uwhanhierelera
+	dynasty=1009990146
+	dna="ognjbighhhf"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=6 learning=4
+	add_trait=martial_cleric add_trait=gregarious  add_trait=ambitious add_trait=paranoid 
+	father=1019917953	#Dahadaghesa
+	1032.3.5={ birth=yes }
+	1100.12.2={ death=yes }
+}
+1019917958={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990146
+	dna="opdbjdljahf"
+	culture=susquehannock religion=algic_pagan
+	father=1019917953	#Dahadaghesa
+	1039.12.3={ birth=yes }
+	1120.9.27={ death=yes }
+}
+1019917959={
+	name=Hago
+	dynasty=1009990146
+	dna="oddbjignhln"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=scholar add_trait=charitable add_trait=shy add_trait=deceitful 
+	add_trait=trusting add_trait=stressed 
+	father=1019917953	#Dahadaghesa
+	1045.3.6={ birth=yes }
+	1109.7.30={ death=yes }
+}
+1019917960={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990146
+	dna="adabjinhhaj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917953	#Dahadaghesa
+	1050.11.8={ birth=yes }
+	1133.2.23={ death=yes }
+}
+1019917961={
+	name=Saraqundett
+	dynasty=1009990146
+	dna="opncbigehab"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=7 learning=7
+	add_trait=mastermind_theologian add_trait=poet add_trait=envious add_trait=zealous add_trait=lustful 
+	add_trait=gregarious 
+	father=1019917957	#Uwhanhierelera
+	1053.9.24={ birth=yes }
+	1127.4.3={ death=yes }
+}
+1019917962={
+	name=Satékon
+	female=yes
+	dynasty=1009990146
+	dna="oplkpjhgfpd"
+	culture=susquehannock religion=algic_pagan
+	father=1019917957	#Uwhanhierelera
+	1058.11.12={ birth=yes }
+	1145.1.29={ death=yes }
+}
+1019917963={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990146
+	dna="gpncpigehba"
+	culture=susquehannock religion=algic_pagan
+	father=1019917961	#Saraqundett
+	1085.8.12={ birth=yes }
+	1144.8.26={ death=yes }
+}
+1019917964={
+	name=Satékon
+	female=yes
+	dynasty=1009990146
+	dna="fpakbngloag"
+	culture=susquehannock religion=algic_pagan
+	father=1019917961	#Saraqundett
+	1087.9.14={ birth=yes }
+	1166.1.8={ death=yes }
+}
+1019917965={
+	name=Gosweinquecrakqua
+	dynasty=1009990146
+	dna="imnibikeeoa"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	add_trait=grey_eminence  add_trait=shy add_trait=patient 
+	father=1019917961	#Saraqundett
+	1093.11.22={ birth=yes }
+	1153.7.9={ death=yes }
+}
+1019917966={
+	name=Scarhuhadigh
+	dynasty=1009990146
+	dna="imnifidceif"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	add_trait=scholarly_theologian add_trait=diligent add_trait=zealous add_trait=lustful add_trait=brave 
+	father=1019917965	#Gosweinquecrakqua
+	1119.5.8={ birth=yes }
+	1199.10.18={ death=yes }
+}
+1019917967={
+	name=Auroghteregh
+	dynasty=1009990146
+	dna="pmhibaddeoa"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=5 intrigue=7 learning=7
+	add_trait=thrifty_clerk add_trait=brave add_trait=greedy add_trait=fair 
+	father=1019917965	#Gosweinquecrakqua
+	1124.5.19={ birth=yes }
+	1207.5.24={ death=yes }
+}
+1019917968={
+	name=Hago
+	dynasty=1009990146
+	dna="lmjbapkecaf"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=4 learning=6
+	add_trait=thrifty_clerk add_trait=arbitrary add_trait=deceitful add_trait=wroth add_trait=zealous 
+	add_trait=gregarious 
+	father=1019917965	#Gosweinquecrakqua
+	1131.6.27={ birth=yes }
+	1184.7.24={ death=yes }
+}
+1019917969={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990146
+	dna="imhfbfjeknh"
+	culture=susquehannock religion=algic_pagan
+	father=1019917965	#Gosweinquecrakqua
+	1134.2.15={ birth=yes }
+	1215.8.23={ death=yes }
+}
+1019917970={
+	name=Satékon
+	female=yes
+	dynasty=1009990146
+	dna="gdgifbmclif"
+	culture=susquehannock religion=algic_pagan
+	father=1019917966	#Scarhuhadigh
+	1150.4.22={ birth=yes }
+	1225.12.26={ death=yes }
+}
+1019917971={
+	name=Satékon
+	female=yes
+	dynasty=1009990146
+	dna="ijccaidieih"
+	culture=susquehannock religion=algic_pagan
+	father=1019917966	#Scarhuhadigh
+	1152.1.22={ birth=yes }
+	1232.2.16={ death=yes }
+}
+1019917972={
+	name=Gosweinquecrakqua
+	dynasty=1009990146
+	dna="igeifhllepb"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=paranoid add_trait=zealous add_trait=ambitious 
+	father=1019917966	#Scarhuhadigh
+	1160.4.19={ birth=yes }
+	1233.11.2={ death=yes }
+}
+1019917973={
+	name=Genessee
+	female=yes
+	dynasty=1009990146
+	dna="iclmfidceia"
+	culture=susquehannock religion=algic_pagan
+	father=1019917966	#Scarhuhadigh
+	1167.11.26={ birth=yes }
+	1234.8.31={ death=yes }
+}
+1019917974={
+	name=Dahadaghesa
+	dynasty=1009990146
+	dna="jgilhpjlenh"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	add_trait=tough_soldier  add_trait=content add_trait=deceitful add_trait=humble 
+	father=1019917972	#Gosweinquecrakqua
+	1190.8.6={ birth=yes }
+	1246.3.30={ death=yes }
+}
+1019917975={
+	name=Nathheldaneh
+	dynasty=1009990146
+	dna="ibeefhllepp"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=5
+	add_trait=misguided_warrior add_trait=poet add_trait=shy add_trait=humble add_trait=content 
+	  
+	father=1019917972	#Gosweinquecrakqua
+	1195.10.14={ birth=yes }
+	1270.12.3={ death=yes }
+}
+1019917976={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990146
+	dna="ileiffllobl"
+	culture=susquehannock religion=algic_pagan
+	father=1019917972	#Gosweinquecrakqua
+	1202.7.18={ birth=yes }
+	1289.9.8={ death=yes }
+}
+1019917977={
+	name=Genessee
+	female=yes
+	dynasty=1009990146
+	dna="jgaokpohenj"
+	culture=susquehannock religion=algic_pagan
+	father=1019917974	#Dahadaghesa
+	1216.11.27={ birth=yes }
+	1308.10.17={ death=yes }
+}
+1019917978={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990146
+	dna="hgiplgjgaih"
+	culture=susquehannock religion=algic_pagan
+	father=1019917974	#Dahadaghesa
+	1218.7.17={ birth=yes }
+	1294.1.15={ death=yes }
+}
+1019917979={
+	name=Saraqundett
+	dynasty=1009990146
+	dna="idclhhjlenh"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=6
+	add_trait=martial_cleric add_trait=slothful add_trait=gregarious add_trait=honest add_trait=charitable 
+	add_trait=craven 
+	father=1019917974	#Dahadaghesa
+	1223.10.2={ birth=yes }
+	1299.11.1={ death=yes }
+}
+1019917980={
+	name=Uwhanhierelera
+	dynasty=1009990146
+	dna="ilchimjllna"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=4 learning=5
+	add_trait=naive_appeaser add_trait=ambitious add_trait=wroth  add_trait=brave 
+	father=1019917979	#Saraqundett
+	1256.8.22={ birth=yes }
+	1330.4.21={ death=yes }
+}
+1019917981={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990146
+	dna="icclhopcpnf"
+	culture=susquehannock religion=algic_pagan
+	father=1019917979	#Saraqundett
+	1260.8.17={ birth=yes }
+	1329.2.25={ death=yes }
+}
+1019917982={
+	name=Wanahedana
+	dynasty=1009990146
+	dna="ecelnhnhenp"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=patient add_trait=zealous add_trait=envious add_trait=temperate 
+	add_trait=stressed add_trait=possessed 
+	father=1019917979	#Saraqundett
+	1264.12.14={ birth=yes }
+	1322.11.17={ death=yes }
+}
+1019917983={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990146
+	dna="djdkhhblcah"
+	culture=susquehannock religion=algic_pagan
+	father=1019917979	#Saraqundett
+	1269.2.26={ birth=yes }
+	1336.9.6={ death=yes }
+}
+1019917984={
+	name=Nathheldaneh
+	dynasty=1009990146
+	dna="idclhhjfeba"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=7 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=patient add_trait=content add_trait=just add_trait=charitable 
+	add_trait=gregarious add_trait=trusting add_trait=lunatic 
+	father=1019917979	#Saraqundett
+	1272.1.7={ birth=yes }
+	1356.8.23={ death=yes }
+}
+1019917985={
+	name=Kagoregago
+	dynasty=1009990146
+	dna="hdcmpmllhnh"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=zealous add_trait=deceitful add_trait=greedy 
+	father=1019917979	#Saraqundett
+	1279.6.5={ birth=yes }
+	1349.4.21={ death=yes }
+}
+1019917986={
+	name=Satékon
+	female=yes
+	dynasty=1009990146
+	dna="ipcpbhnmeed"
+	culture=susquehannock religion=algic_pagan
+	father=1019917979	#Saraqundett
+	1284.7.1={ birth=yes }
+	1365.5.29={ death=yes }
+}
+1019917987={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990146
+	dna="gpkiomjhlng"
+	culture=susquehannock religion=algic_pagan
+	father=1019917980	#Uwhanhierelera
+	1283.12.14={ birth=yes }
+	1370.8.8={ death=yes }
+}
+1019917988={
+	name=Wastahanda
+	dynasty=1009990146
+	dna="glchgmjljne"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=5 learning=5
+	add_trait=martial_cleric  add_trait=brave add_trait=temperate add_trait=slothful 
+	add_trait=chaste add_trait=greedy 
+	father=1019917980	#Uwhanhierelera
+	1288.10.15={ birth=yes }
+	1386.9.16={ death=yes }
+}
+1019917989={
+	name=Genessee
+	female=yes
+	dynasty=1009990146
+	dna="fbchiaallna"
+	culture=susquehannock religion=algic_pagan
+	father=1019917980	#Uwhanhierelera
+	1295.12.27={ birth=yes }
+	1379.7.29={ death=yes }
+}
+1019917990={
+	name=Auroghteregh
+	dynasty=1009990146
+	dna="glaggmjljnp"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=8
+	add_trait=grey_eminence add_trait=envious add_trait=slothful add_trait=honest add_trait=gregarious 
+	add_trait=just add_trait=gluttonous add_trait=possessed 
+	father=1019917988	#Wastahanda
+	1315.4.1={ birth=yes }
+	1372.3.31={ death=yes }
+}
+1019917991={
+	name=Wanahedana
+	dynasty=1009990146
+	dna="heehgmbhiie"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=7
+	add_trait=elusive_shadow add_trait=envious add_trait=content  add_trait=lustful 
+	add_trait=gregarious add_trait=deceitful 
+	father=1019917988	#Wastahanda
+	1323.11.21={ birth=yes }
+	1404.1.5={ death=yes }
+}
+1019917992={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990146
+	dna="chcengmljce"
+	culture=susquehannock religion=algic_pagan
+	father=1019917988	#Wastahanda
+	1326.1.26={ birth=yes }
+	1388.1.7={ death=yes }
+}
+1019917993={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990146
+	dna="gbaggmbljdn"
+	culture=susquehannock religion=algic_pagan
+	father=1019917990	#Auroghteregh
+	1336.2.7={ birth=yes }
+	1400.6.11={ death=yes }
+}
+1019917994={
+	name=Dahadaghesa
+	dynasty=1009990146
+	dna="dnknemfdonk"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=7 learning=5
+	add_trait=intricate_webweaver add_trait=temperate add_trait=patient add_trait=just add_trait=deceitful 
+	father=1019917990	#Auroghteregh
+	1343.9.13={ birth=yes }
+	1419.6.6={ death=yes }
+}
+1019917995={
+	name=Wastahanda
+	dynasty=1009990146
+	dna="gpaadmiblnp"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=4 learning=4
+	add_trait=thrifty_clerk add_trait=celibate add_trait=ambitious add_trait=just add_trait=deceitful 
+	father=1019917990	#Auroghteregh
+	1347.1.15={ birth=yes }
+	1415.1.23={ death=yes }
+}
+1019917996={
+	name=Wastahanda
+	dynasty=1009990146
+	dna="glligijljnp"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=scholar add_trait=slothful add_trait=temperate add_trait=humble 
+	add_trait=ambitious 
+	father=1019917990	#Auroghteregh
+	1352.10.23={ birth=yes }
+	1426.8.5={ death=yes }
+}
+1019917997={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990146
+	dna="dnknbbjdohc"
+	culture=susquehannock religion=algic_pagan
+	father=1019917994	#Dahadaghesa
+	1372.12.9={ birth=yes }
+	1441.1.23={ death=yes }
+}
+1019917998={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990146
+	dna="hfknndfconk"
+	culture=susquehannock religion=algic_pagan
+	father=1019917994	#Dahadaghesa
+	1376.5.15={ birth=yes }
+	1445.5.18={ death=yes }
+}
+1019917999={
+	name=Kagoregago
+	dynasty=1009990146
+	dna="djkokmndobf"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=poet add_trait=humble  add_trait=craven 
+	add_trait=greedy 
+	father=1019917994	#Dahadaghesa
+	1381.6.26={ birth=yes }
+	1435.11.3={ death=yes }
+}
+1019918000={
+	name=Waskanecqua
+	dynasty=1009990146
+	dna="fkpoamndocf"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	add_trait=intricate_webweaver add_trait=deceitful add_trait=gregarious add_trait=envious add_trait=humble 
+	add_trait=greedy 
+	father=1019917999	#Kagoregago
+	1405.7.16={ birth=yes }
+	1465.9.20={ death=yes }
+}
+1019918001={
+	name=Genessee
+	female=yes
+	dynasty=1009990146
+	dna="djnokjndobf"
+	culture=susquehannock religion=algic_pagan
+	father=1019917999	#Kagoregago
+	1410.7.8={ birth=yes }
+	1481.8.21={ death=yes }
+}
+1019918002={
+	name=Uwhanhierelera
+	dynasty=1009990146
+	dna="bmkpnmnmggf"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	add_trait=naive_appeaser add_trait=shy add_trait=zealous add_trait=honest add_trait=just 
+	father=1019917999	#Kagoregago
+	1414.9.23={ birth=yes }
+	1488.3.12={ death=yes }
+}
+1019918003={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990146
+	dna="djbkkmndobm"
+	culture=susquehannock religion=algic_pagan
+	father=1019917999	#Kagoregago
+	1418.6.27={ birth=yes }
+	1474.7.29={ death=yes }
+}
+1019918004={
+	name=Sawahegeh
+	dynasty=1009990146
+	dna="djkocmndocg"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=4
+	add_trait=intricate_webweaver add_trait=just add_trait=zealous  add_trait=lunatic 
+	father=1019917999	#Kagoregago
+	1424.7.26={ birth=yes }
+	1494.3.27={ death=yes }
+}
+1019918005={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990146
+	dna="digjkopdobf"
+	culture=susquehannock religion=algic_pagan
+	father=1019917999	#Kagoregago
+	1427.1.5={ birth=yes }
+	1483.7.11={ death=yes }
+}
+1019918006={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990146
+	dna="dkkpkmjgeme"
+	culture=susquehannock religion=algic_pagan
+	father=1019917999	#Kagoregago
+	1432.6.26={ birth=yes }
+	1509.12.15={ death=yes }
+}
+1019918007={
+	name=Waskanecqua
+	dynasty=1009990146
+	dna="fkgoadedoab"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=gregarious add_trait=humble add_trait=zealous add_trait=chaste 
+	father=1019918000	#Waskanecqua
+	1435.12.20={ birth=yes }
+	1513.12.26={ death=yes }
+}
+1019918008={
+	name=Wastahanda
+	dynasty=1009990146
+	dna="feooammblcf"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=4
+	add_trait=intricate_webweaver add_trait=impaler  add_trait=ambitious add_trait=craven 
+	add_trait=wroth add_trait=envious add_trait=slothful 
+	father=1019918000	#Waskanecqua
+	1438.12.3={ birth=yes }
+	1526.6.26={ death=yes }
+}
+1019918009={
+	name=Sonque
+	dynasty=1009990146
+	dna="fepojmndood"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=6 learning=5
+	add_trait=tough_soldier add_trait=gardener add_trait=envious add_trait=honest add_trait=slothful 
+	add_trait=charitable add_trait=stressed 
+	father=1019918000	#Waskanecqua
+	1441.2.25={ birth=yes }
+	1493.12.8={ death=yes }
+}
+1019918010={
+	name=Wastahanda
+	dynasty=1009990146
+	dna="fkgofmmkojf"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=gardener add_trait=cynical add_trait=just  
+	father=1019918000	#Waskanecqua
+	1446.3.14={ birth=yes }
+	1541.6.10={ death=yes }
+}
+1019918011={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990146
+	dna="pkggahnmbcf"
+	culture=susquehannock religion=algic_pagan
+	father=1019918000	#Waskanecqua
+	1452.4.25={ birth=yes }
+	1527.11.1={ death=yes }
+}
+1019918012={
+	name=Wanahedana
+	dynasty=1009990147
+	dna="faogmdiglfg"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=4 intrigue=5 learning=6
+	add_trait=elusive_shadow add_trait=impaler add_trait=brave  add_trait=gregarious 
+	add_trait=chaste add_trait=wroth 
+	720.9.6={ birth=yes }
+	777.6.13={ death=yes }
+}
+1019918013={
+	name=Kagoregago
+	dynasty=1009990147
+	dna="faaimdigjdg"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=4 learning=6
+	add_trait=detached_priest add_trait=just add_trait=lustful add_trait=zealous 
+	father=1019918012	#Wanahedana
+	746.11.24={ birth=yes }
+	832.8.31={ death=yes }
+}
+1019918014={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990147
+	dna="baogodiglkp"
+	culture=susquehannock religion=algic_pagan
+	father=1019918012	#Wanahedana
+	752.3.9={ birth=yes }
+	836.1.24={ death=yes }
+}
+1019918015={
+	name=Auroghteregh
+	dynasty=1009990147
+	dna="choniaiifdg"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=4
+	add_trait=midas_touched add_trait=lustful add_trait=diligent 
+	father=1019918013	#Kagoregago
+	766.5.15={ birth=yes }
+	849.2.25={ death=yes }
+}
+1019918016={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990147
+	dna="fkbkijogjdo"
+	culture=susquehannock religion=algic_pagan
+	father=1019918013	#Kagoregago
+	771.10.4={ birth=yes }
+	826.5.8={ death=yes }
+}
+1019918017={
+	name=Waddon
+	dynasty=1009990147
+	dna="inoeiafnjdf"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=6 intrigue=8 learning=5
+	add_trait=tough_soldier  add_trait=temperate add_trait=greedy add_trait=chaste 
+	father=1019918015	#Auroghteregh
+	795.10.4={ birth=yes }
+	856.4.12={ death=yes }
+}
+1019918018={
+	name=Nathheldaneh
+	dynasty=1009990147
+	dna="cpoimachfdg"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=4 intrigue=4 learning=4
+	add_trait=scholarly_theologian add_trait=poet add_trait=greedy add_trait=honest add_trait=wounded 
+	father=1019918015	#Auroghteregh
+	801.11.22={ birth=yes }
+	869.2.11={ death=yes }
+}
+1019918019={
+	name=Uwhanhierelera
+	dynasty=1009990147
+	dna="hhbnihmicpg"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=temperate add_trait=ambitious 
+	father=1019918015	#Auroghteregh
+	806.11.27={ birth=yes }
+	849.5.12={ death=yes }
+}
+1019918020={
+	name=Sawahegeh
+	dynasty=1009990147
+	dna="lhoniaicdbe"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=7
+	add_trait=charismatic_negotiator add_trait=paranoid add_trait=envious add_trait=honest 
+	father=1019918015	#Auroghteregh
+	809.1.13={ birth=yes }
+	891.10.28={ death=yes }
+}
+1019918021={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990147
+	dna="ehoelaipfmb"
+	culture=susquehannock religion=algic_pagan
+	father=1019918015	#Auroghteregh
+	814.2.14={ birth=yes }
+	881.8.1={ death=yes }
+}
+1019918022={
+	name=Gosweinquecrakqua
+	dynasty=1009990147
+	dna="ineniaicbkk"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=5 learning=8
+	add_trait=scholarly_theologian add_trait=hedonist add_trait=greedy add_trait=content add_trait=lustful 
+	father=1019918015	#Auroghteregh
+	818.11.15={ birth=yes }
+	874.5.23={ death=yes }
+}
+1019918023={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990147
+	dna="pbofildifig"
+	culture=susquehannock religion=algic_pagan
+	father=1019918015	#Auroghteregh
+	822.5.23={ birth=yes }
+	904.6.28={ death=yes }
+}
+1019918024={
+	name=Uwhanhierelera
+	dynasty=1009990147
+	dna="onocinenhdf"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=5 learning=7
+	add_trait=tough_soldier add_trait=wroth add_trait=brave 
+	father=1019918017	#Waddon
+	826.8.11={ birth=yes }
+	903.11.29={ death=yes }
+}
+1019918025={
+	name=Andra
+	dynasty=1009990147
+	dna="ifkbikfnadf"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=8 intrigue=6 learning=7
+	add_trait=intricate_webweaver  add_trait=ambitious add_trait=cynical add_trait=patient 
+	add_trait=lustful 
+	father=1019918017	#Waddon
+	830.7.8={ birth=yes }
+	889.6.10={ death=yes }
+}
+1019918026={
+	name=Auroghteregh
+	dynasty=1009990147
+	dna="hnoniabhjdf"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=5
+	add_trait=charismatic_negotiator add_trait=shy add_trait=just  add_trait=brave 
+	add_trait=drunkard 
+	father=1019918017	#Waddon
+	835.2.7={ birth=yes }
+	927.7.17={ death=yes }
+}
+1019918027={
+	name=Wastahanda
+	dynasty=1009990147
+	dna="onchiefhjdg"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	add_trait=scholarly_theologian  add_trait=wroth add_trait=greedy add_trait=gregarious 
+	father=1019918017	#Waddon
+	840.10.15={ birth=yes }
+	898.8.16={ death=yes }
+}
+1019918028={
+	name=Gosweinquecrakqua
+	dynasty=1009990147
+	dna="cdgahdlnedf"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=shy add_trait=trusting add_trait=wroth add_trait=greedy 
+	add_trait=lustful add_trait=arbitrary 
+	father=1019918024	#Uwhanhierelera
+	853.1.8={ birth=yes }
+	920.9.15={ death=yes }
+}
+1019918029={
+	name=Genessee
+	female=yes
+	dynasty=1009990147
+	dna="lpohiaeckdf"
+	culture=susquehannock religion=algic_pagan
+	father=1019918024	#Uwhanhierelera
+	859.3.1={ birth=yes }
+	957.9.21={ death=yes }
+}
+1019918030={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990147
+	dna="adedhlpgedf"
+	culture=susquehannock religion=algic_pagan
+	father=1019918028	#Gosweinquecrakqua
+	873.5.25={ birth=yes }
+	945.3.6={ death=yes }
+}
+1019918031={
+	name=Uwhanhierelera
+	dynasty=1009990147
+	dna="fckajhechbf"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=hedonist add_trait=deceitful add_trait=paranoid add_trait=humble 
+	add_trait=charitable add_trait=arbitrary  
+	father=1019918028	#Gosweinquecrakqua
+	881.11.22={ birth=yes }
+	954.12.28={ death=yes }
+}
+1019918032={
+	name=Andra
+	dynasty=1009990147
+	dna="cdkchdbnjhb"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=7 learning=5
+	add_trait=martial_cleric add_trait=temperate add_trait=slothful  add_trait=shy 
+	add_trait=depressed 
+	father=1019918028	#Gosweinquecrakqua
+	883.6.11={ birth=yes }
+	970.11.22={ death=yes }
+}
+1019918033={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990147
+	dna="aagchdlaedf"
+	culture=susquehannock religion=algic_pagan
+	father=1019918028	#Gosweinquecrakqua
+	890.10.11={ birth=yes }
+	949.9.16={ death=yes }
+}
+1019918034={
+	name=Gosweinquecrakqua
+	dynasty=1009990147
+	dna="fblilhmchif"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=6 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=hedonist add_trait=arbitrary  add_trait=paranoid 
+	add_trait=wroth add_trait=deceitful add_trait=ill 
+	father=1019918031	#Uwhanhierelera
+	902.2.3={ birth=yes }
+	960.10.9={ death=yes }
+}
+1019918035={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990147
+	dna="dckadhpchod"
+	culture=susquehannock religion=algic_pagan
+	father=1019918031	#Uwhanhierelera
+	906.5.26={ birth=yes }
+	975.5.11={ death=yes }
+}
+1019918036={
+	name=Genessee
+	female=yes
+	dynasty=1009990147
+	dna="bclajlecibn"
+	culture=susquehannock religion=algic_pagan
+	father=1019918031	#Uwhanhierelera
+	912.2.20={ birth=yes }
+	1008.12.16={ death=yes }
+}
+1019918037={
+	name=Andra
+	dynasty=1009990147
+	dna="jcimbngaebf"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=5 learning=4
+	add_trait=indulgent_wastrel add_trait=wroth add_trait=content add_trait=trusting add_trait=deceitful 
+	add_trait=depressed add_trait=weak 
+	father=1019918031	#Uwhanhierelera
+	918.4.1={ birth=yes }
+	1018.12.13={ death=yes }
+}
+1019918038={
+	name=Nathheldaneh
+	dynasty=1009990147
+	dna="lbeichacnjp"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=4
+	add_trait=scholarly_theologian add_trait=brave add_trait=chaste add_trait=cynical add_trait=proud 
+	add_trait=slothful add_trait=gregarious 
+	father=1019918034	#Gosweinquecrakqua
+	930.12.11={ birth=yes }
+	1008.9.11={ death=yes }
+}
+1019918039={
+	name=Saraqundett
+	dynasty=1009990147
+	dna="fbgilemkhff"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=hunter add_trait=lustful add_trait=slothful  
+	add_trait=trusting add_trait=zealous add_trait=arbitrary 
+	father=1019918034	#Gosweinquecrakqua
+	937.8.5={ birth=yes }
+	1019.10.22={ death=yes }
+}
+1019918040={
+	name=Waddon
+	dynasty=1009990147
+	dna="jblimhmchff"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=4
+	add_trait=indulgent_wastrel add_trait=gregarious add_trait=honest add_trait=trusting add_trait=gluttonous 
+	add_trait=brave add_trait=possessed 
+	father=1019918034	#Gosweinquecrakqua
+	941.7.4={ birth=yes }
+	1024.6.20={ death=yes }
+}
+1019918041={
+	name=Kagoregago
+	dynasty=1009990147
+	dna="pjnplhflobm"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=5 learning=8
+	add_trait=skilled_tactician  add_trait=proud add_trait=patient 
+	father=1019918034	#Gosweinquecrakqua
+	945.8.8={ birth=yes }
+	1039.11.22={ death=yes }
+}
+1019918042={
+	name=Gosweinquecrakqua
+	dynasty=1009990147
+	dna="lbdgchaahmp"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=5 intrigue=5 learning=4
+	add_trait=grey_eminence add_trait=greedy add_trait=trusting add_trait=gregarious add_trait=content 
+	add_trait=arbitrary 
+	father=1019918038	#Nathheldaneh
+	951.6.4={ birth=yes }
+	1005.12.13={ death=yes }
+}
+1019918043={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990147
+	dna="cbenmngmnjn"
+	culture=susquehannock religion=algic_pagan
+	father=1019918038	#Nathheldaneh
+	955.3.9={ birth=yes }
+	1016.12.25={ death=yes }
+}
+1019918044={
+	name=Wanahedana
+	dynasty=1009990147
+	dna="ocebchapnbp"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=just  add_trait=charitable add_trait=trusting 
+	father=1019918038	#Nathheldaneh
+	961.7.4={ birth=yes }
+	1041.4.30={ death=yes }
+}
+1019918045={
+	name=Auroghteregh
+	dynasty=1009990147
+	dna="lbmichgcpjk"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=5 learning=7
+	add_trait=scholarly_theologian add_trait=charitable add_trait=proud add_trait=gregarious add_trait=just 
+	add_trait=craven add_trait=depressed add_trait=clubfooted 
+	father=1019918038	#Nathheldaneh
+	966.9.8={ birth=yes }
+	1065.5.26={ death=yes }
+}
+1019918046={
+	name=Auroghteregh
+	dynasty=1009990147
+	dna="lkeichpcnhi"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=7
+	add_trait=detached_priest add_trait=craven add_trait=wroth add_trait=zealous add_trait=wounded 
+	father=1019918038	#Nathheldaneh
+	970.7.3={ birth=yes }
+	1031.12.10={ death=yes }
+}
+1019918047={
+	name=Sawahegeh
+	dynasty=1009990147
+	dna="dbeipiacnjp"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=7 learning=7
+	add_trait=martial_cleric add_trait=wroth add_trait=zealous add_trait=gregarious 
+	father=1019918038	#Nathheldaneh
+	973.10.26={ birth=yes }
+	1028.2.5={ death=yes }
+}
+1019918048={
+	name=Dahadaghesa
+	dynasty=1009990147
+	dna="lbefcdlinop"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=craven add_trait=arbitrary add_trait=lustful 
+	father=1019918038	#Nathheldaneh
+	978.12.7={ birth=yes }
+	1067.11.1={ death=yes }
+}
+1019918049={
+	name=Kagoregago
+	dynasty=1009990147
+	dna="ebpgmhoaekd"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=8 intrigue=6 learning=5
+	add_trait=detached_priest add_trait=scholar add_trait=craven add_trait=cynical add_trait=arbitrary 
+	add_trait=content add_trait=depressed 
+	father=1019918042	#Gosweinquecrakqua
+	978.11.8={ birth=yes }
+	1032.6.25={ death=yes }
+}
+1019918050={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990147
+	dna="lbdgchadhpp"
+	culture=susquehannock religion=algic_pagan
+	father=1019918042	#Gosweinquecrakqua
+	982.10.23={ birth=yes }
+	1054.3.17={ death=yes }
+}
+1019918051={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990147
+	dna="gbdgegaahmi"
+	culture=susquehannock religion=algic_pagan
+	father=1019918042	#Gosweinquecrakqua
+	987.2.25={ birth=yes }
+	1046.8.1={ death=yes }
+}
+1019918052={
+	name=Hago
+	dynasty=1009990147
+	dna="dggechaaoma"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=6 intrigue=6 learning=8
+	add_trait=naive_appeaser  add_trait=lustful add_trait=craven add_trait=arbitrary 
+	add_trait=patient 
+	father=1019918042	#Gosweinquecrakqua
+	992.4.22={ birth=yes }
+	1052.7.31={ death=yes }
+}
+1019918053={
+	name=Genessee
+	female=yes
+	dynasty=1009990147
+	dna="nhjochapllp"
+	culture=susquehannock religion=algic_pagan
+	father=1019918042	#Gosweinquecrakqua
+	995.4.7={ birth=yes }
+	1078.8.19={ death=yes }
+}
+1019918054={
+	name=Kagoregago
+	dynasty=1009990147
+	dna="njmohpaahma"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=cynical add_trait=envious add_trait=craven add_trait=humble 
+	add_trait=trusting 
+	father=1019918042	#Gosweinquecrakqua
+	1002.3.19={ birth=yes }
+	1078.6.5={ death=yes }
+}
+1019918055={
+	name=Genessee
+	female=yes
+	dynasty=1009990147
+	dna="odpgnhpaacl"
+	culture=susquehannock religion=algic_pagan
+	father=1019918049	#Kagoregago
+	1004.1.14={ birth=yes }
+	1084.2.25={ death=yes }
+}
+1019918056={
+	name=Wastahanda
+	dynasty=1009990147
+	dna="lbpkdhoajeo"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=arbitrary add_trait=temperate  add_trait=hunchback 
+	father=1019918049	#Kagoregago
+	1010.10.1={ birth=yes }
+	1064.5.24={ death=yes }
+}
+1019918057={
+	name=Gosweinquecrakqua
+	dynasty=1009990147
+	dna="lbppdholjde"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=5 learning=5
+	add_trait=elusive_shadow add_trait=honest add_trait=craven add_trait=ambitious 
+	father=1019918056	#Wastahanda
+	1037.8.24={ birth=yes }
+	1093.12.23={ death=yes }
+}
+1019918058={
+	name=Rutchogah
+	dynasty=1009990147
+	dna="lbpkdkolnih"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=8
+	add_trait=martial_cleric add_trait=honest add_trait=craven add_trait=content add_trait=gluttonous 
+	father=1019918056	#Wastahanda
+	1042.5.11={ birth=yes }
+	1102.9.1={ death=yes }
+}
+1019918059={
+	name=Hago
+	dynasty=1009990147
+	dna="lbmgdhmkjgo"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=4 intrigue=7 learning=7
+	add_trait=intricate_webweaver add_trait=shy add_trait=content add_trait=brave add_trait=charitable 
+	father=1019918056	#Wastahanda
+	1047.1.8={ birth=yes }
+	1114.6.21={ death=yes }
+}
+1019918060={
+	name=Sawahegeh
+	dynasty=1009990147
+	dna="ljjddebejeo"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=6
+	add_trait=tough_soldier add_trait=content add_trait=craven add_trait=trusting add_trait=humble 
+	father=1019918056	#Wastahanda
+	1053.9.2={ birth=yes }
+	1126.9.7={ death=yes }
+}
+1019918061={
+	name=Sawahegeh
+	dynasty=1009990147
+	dna="lipldmolcde"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=6 stewardship=4 intrigue=4 learning=7
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=envious add_trait=slothful  
+	father=1019918057	#Gosweinquecrakqua
+	1067.2.19={ birth=yes }
+	1135.9.19={ death=yes }
+}
+1019918062={
+	name=Sonque
+	dynasty=1009990147
+	dna="pcppdadldfm"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=arbitrary add_trait=zealous add_trait=patient add_trait=shy 
+	add_trait=craven add_trait=gluttonous 
+	father=1019918057	#Gosweinquecrakqua
+	1073.4.20={ birth=yes }
+	1148.1.9={ death=yes }
+}
+1019918063={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990147
+	dna="nabpneodjde"
+	culture=susquehannock religion=algic_pagan
+	father=1019918061	#Sawahegeh
+	1089.3.16={ birth=yes }
+	1145.5.5={ death=yes }
+}
+1019918064={
+	name=Sonque
+	dynasty=1009990147
+	dna="capldmclfke"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=trusting add_trait=craven add_trait=gluttonous add_trait=zealous 
+	add_trait=wroth add_trait=shy 
+	father=1019918061	#Sawahegeh
+	1095.5.24={ birth=yes }
+	1171.8.29={ death=yes }
+}
+1019918065={
+	name=Wanahedana
+	dynasty=1009990147
+	dna="hiabkminfdg"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=8 intrigue=4 learning=5
+	add_trait=mastermind_theologian add_trait=poet add_trait=paranoid add_trait=cynical  
+	add_trait=brave 
+	father=1019918061	#Sawahegeh
+	1099.9.17={ birth=yes }
+	1176.9.10={ death=yes }
+}
+1019918066={
+	name=Auroghteregh
+	dynasty=1009990147
+	dna="jkclpnllcde"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=5 intrigue=5 learning=8
+	add_trait=intricate_webweaver add_trait=trusting add_trait=zealous add_trait=temperate add_trait=greedy 
+	add_trait=ill 
+	father=1019918061	#Sawahegeh
+	1104.6.1={ birth=yes }
+	1189.9.25={ death=yes }
+}
+1019918067={
+	name=Wanahedana
+	dynasty=1009990147
+	dna="lfgldmoopdd"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=8 stewardship=8 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=charitable add_trait=zealous add_trait=proud 
+	father=1019918061	#Sawahegeh
+	1108.2.20={ birth=yes }
+	1161.12.11={ death=yes }
+}
+1019918068={
+	name=Waddon
+	dynasty=1009990147
+	dna="defadmjlfkd"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=4 learning=5
+	add_trait=scholarly_theologian add_trait=honest add_trait=cynical add_trait=craven add_trait=ambitious 
+	father=1019918064	#Sonque
+	1115.8.19={ birth=yes }
+	1185.12.14={ death=yes }
+}
+1019918069={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990147
+	dna="blpldiollkh"
+	culture=susquehannock religion=algic_pagan
+	father=1019918064	#Sonque
+	1120.5.7={ birth=yes }
+	1206.8.18={ death=yes }
+}
+1019918070={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990147
+	dna="kcnafbmlfkd"
+	culture=susquehannock religion=algic_pagan
+	father=1019918068	#Waddon
+	1140.10.15={ birth=yes }
+	1204.5.22={ death=yes }
+}
+1019918071={
+	name=Uwhanhierelera
+	dynasty=1009990147
+	dna="nefaemjjnkl"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=7 intrigue=7 learning=4
+	add_trait=skilled_tactician  add_trait=wroth add_trait=temperate add_trait=paranoid 
+	father=1019918068	#Waddon
+	1145.6.10={ birth=yes }
+	1230.10.3={ death=yes }
+}
+1019918072={
+	name=Waddon
+	dynasty=1009990147
+	dna="defpenmkfad"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=ambitious add_trait=arbitrary add_trait=trusting add_trait=lustful 
+	father=1019918068	#Waddon
+	1152.2.15={ birth=yes }
+	1219.10.31={ death=yes }
+}
+1019918073={
+	name=Genessee
+	female=yes
+	dynasty=1009990147
+	dna="dgimmjadfld"
+	culture=susquehannock religion=algic_pagan
+	father=1019918068	#Waddon
+	1159.12.18={ birth=yes }
+	1246.11.1={ death=yes }
+}
+1019918074={
+	name=Uwhanhierelera
+	dynasty=1009990147
+	dna="nmfopmjlmkn"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	add_trait=scholarly_theologian add_trait=deceitful add_trait=temperate 
+	father=1019918071	#Uwhanhierelera
+	1171.5.26={ birth=yes }
+	1237.2.21={ death=yes }
+}
+1019918075={
+	name=Gosweinquecrakqua
+	dynasty=1009990147
+	dna="neoaemgleko"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=7
+	add_trait=grey_eminence  add_trait=charitable add_trait=deceitful add_trait=humble 
+	add_trait=patient add_trait=wounded 
+	father=1019918071	#Uwhanhierelera
+	1177.9.26={ birth=yes }
+	1243.5.27={ death=yes }
+}
+1019918076={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990147
+	dna="fofoppjlmcb"
+	culture=susquehannock religion=algic_pagan
+	father=1019918074	#Uwhanhierelera
+	1195.3.20={ birth=yes }
+	1258.7.27={ death=yes }
+}
+1019918077={
+	name=Sonque
+	dynasty=1009990147
+	dna="nhfopjjlfkd"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=4 intrigue=5 learning=8
+	add_trait=naive_appeaser add_trait=duelist add_trait=brave add_trait=cynical add_trait=ambitious 
+	add_trait=gluttonous add_trait=chaste 
+	father=1019918074	#Uwhanhierelera
+	1198.6.20={ birth=yes }
+	1283.3.12={ death=yes }
+}
+1019918078={
+	name=Satékon
+	female=yes
+	dynasty=1009990147
+	dna="jmfolmalmmn"
+	culture=susquehannock religion=algic_pagan
+	father=1019918074	#Uwhanhierelera
+	1205.10.12={ birth=yes }
+	1264.8.23={ death=yes }
+}
+1019918079={
+	name=Genessee
+	female=yes
+	dynasty=1009990147
+	dna="nhaopjelimh"
+	culture=susquehannock religion=algic_pagan
+	father=1019918077	#Sonque
+	1217.2.17={ birth=yes }
+	1282.4.11={ death=yes }
+}
+1019918080={
+	name=Wastahanda
+	dynasty=1009990147
+	dna="mbfacfjphkg"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=5
+	add_trait=thrifty_clerk add_trait=envious add_trait=lustful add_trait=shy add_trait=proud 
+	add_trait=charitable add_trait=stutter 
+	father=1019918077	#Sonque
+	1222.9.16={ birth=yes }
+	1308.8.2={ death=yes }
+}
+1019918081={
+	name=Uwhanhierelera
+	dynasty=1009990147
+	dna="mkfdgjjffip"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=midas_touched add_trait=diligent add_trait=content add_trait=just add_trait=gregarious 
+	add_trait=proud  
+	father=1019918077	#Sonque
+	1227.7.15={ birth=yes }
+	1292.7.29={ death=yes }
+}
+1019918082={
+	name=Satékon
+	female=yes
+	dynasty=1009990147
+	dna="ahcoejjnglh"
+	culture=susquehannock religion=algic_pagan
+	father=1019918077	#Sonque
+	1231.6.20={ birth=yes }
+	1298.3.7={ death=yes }
+}
+1019918083={
+	name=Uwhanhierelera
+	dynasty=1009990147
+	dna="nhfiphjogkd"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=5
+	add_trait=thrifty_clerk add_trait=zealous add_trait=gluttonous add_trait=just add_trait=proud 
+	father=1019918077	#Sonque
+	1236.4.20={ birth=yes }
+	1301.12.4={ death=yes }
+}
+1019918084={
+	name=Genessee
+	female=yes
+	dynasty=1009990147
+	dna="phdojjnlfkd"
+	culture=susquehannock religion=algic_pagan
+	father=1019918077	#Sonque
+	1243.4.23={ birth=yes }
+	1314.6.27={ death=yes }
+}
+1019918085={
+	name=Wanahedana
+	dynasty=1009990147
+	dna="nhfoajilikd"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=arbitrary add_trait=diligent add_trait=craven 
+	father=1019918077	#Sonque
+	1247.5.9={ birth=yes }
+	1322.8.26={ death=yes }
+}
+1019918086={
+	name=Nathheldaneh
+	dynasty=1009990147
+	dna="mifecnjabkg"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=7 intrigue=4 learning=5
+	add_trait=indulgent_wastrel add_trait=chaste add_trait=honest add_trait=gluttonous 
+	father=1019918080	#Wastahanda
+	1253.9.2={ birth=yes }
+	1320.8.19={ death=yes }
+}
+1019918087={
+	name=Satékon
+	female=yes
+	dynasty=1009990147
+	dna="lbmapfimeag"
+	culture=susquehannock religion=algic_pagan
+	father=1019918080	#Wastahanda
+	1257.8.19={ birth=yes }
+	1340.12.3={ death=yes }
+}
+1019918088={
+	name=Waskanecqua
+	dynasty=1009990147
+	dna="mbbcdokfpkg"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=4 intrigue=7 learning=4
+	add_trait=tough_soldier add_trait=humble add_trait=craven add_trait=honest add_trait=trusting 
+	father=1019918080	#Wastahanda
+	1262.4.15={ birth=yes }
+	1307.6.23={ death=yes }
+}
+1019918089={
+	name=Wanahedana
+	dynasty=1009990147
+	dna="mmkacfjeakg"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=7 learning=7
+	add_trait=indulgent_wastrel add_trait=wroth add_trait=temperate add_trait=ambitious add_trait=lunatic 
+	father=1019918080	#Wastahanda
+	1266.6.7={ birth=yes }
+	1343.11.27={ death=yes }
+}
+1019918090={
+	name=Saraqundett
+	dynasty=1009990147
+	dna="lffdcfogkkg"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=8 learning=7
+	add_trait=flamboyant_schemer add_trait=envious add_trait=wroth add_trait=diligent 
+	father=1019918080	#Wastahanda
+	1271.5.8={ birth=yes }
+	1328.9.14={ death=yes }
+}
+1019918091={
+	name=Waskanecqua
+	dynasty=1009990147
+	dna="cbfiofjlofg"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=6 intrigue=8 learning=5
+	add_trait=indulgent_wastrel add_trait=humble add_trait=deceitful add_trait=gluttonous add_trait=zealous 
+	add_trait=chaste 
+	father=1019918080	#Wastahanda
+	1275.12.23={ birth=yes }
+	1363.8.23={ death=yes }
+}
+1019918092={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990147
+	dna="mlgacfjpikg"
+	culture=susquehannock religion=algic_pagan
+	father=1019918080	#Wastahanda
+	1279.5.6={ birth=yes }
+	1345.9.8={ death=yes }
+}
+1019918093={
+	name=Sawahegeh
+	dynasty=1009990147
+	dna="ngmeinebbig"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	add_trait=grey_eminence add_trait=gregarious add_trait=greedy add_trait=just  
+	father=1019918086	#Nathheldaneh
+	1285.9.3={ birth=yes }
+	1366.6.5={ death=yes }
+}
+1019918094={
+	name=Auroghteregh
+	dynasty=1009990147
+	dna="manecnjabpg"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=8 learning=5
+	add_trait=martial_cleric add_trait=greedy add_trait=craven add_trait=gregarious add_trait=chaste 
+	father=1019918086	#Nathheldaneh
+	1289.9.20={ birth=yes }
+	1378.6.13={ death=yes }
+}
+1019918095={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990147
+	dna="mdaecnddbkg"
+	culture=susquehannock religion=algic_pagan
+	father=1019918086	#Nathheldaneh
+	1294.6.5={ birth=yes }
+	1353.7.30={ death=yes }
+}
+1019918096={
+	name=Auroghteregh
+	dynasty=1009990147
+	dna="mkpcnnjpakb"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=diligent  add_trait=gregarious  
+	father=1019918086	#Nathheldaneh
+	1297.10.19={ birth=yes }
+	1387.7.10={ death=yes }
+}
+1019918097={
+	name=Hago
+	dynasty=1009990147
+	dna="mijccnjgbpd"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=proud add_trait=arbitrary 
+	father=1019918086	#Nathheldaneh
+	1301.1.3={ birth=yes }
+	1381.11.16={ death=yes }
+}
+1019918098={
+	name=Hago
+	dynasty=1009990147
+	dna="mjfjmenahkg"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	add_trait=elusive_shadow  add_trait=patient add_trait=drunkard 
+	father=1019918086	#Nathheldaneh
+	1308.9.22={ birth=yes }
+	1372.10.28={ death=yes }
+}
+1019918099={
+	name=Waddon
+	dynasty=1009990147
+	dna="eifegnmfbgm"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=5 intrigue=7 learning=6
+	add_trait=grey_eminence add_trait=arbitrary add_trait=chaste add_trait=trusting 
+	father=1019918086	#Nathheldaneh
+	1311.5.6={ birth=yes }
+	1383.11.30={ death=yes }
+}
+1019918100={
+	name=Hago
+	dynasty=1009990147
+	dna="ngpeiphpbef"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=chaste add_trait=content add_trait=diligent add_trait=arbitrary 
+	father=1019918093	#Sawahegeh
+	1307.9.16={ birth=yes }
+	1359.2.17={ death=yes }
+}
+1019918101={
+	name=Saraqundett
+	dynasty=1009990147
+	dna="egooeneebig"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=8 intrigue=6 learning=8
+	add_trait=elusive_shadow  add_trait=craven add_trait=trusting add_trait=wroth 
+	father=1019918093	#Sawahegeh
+	1312.5.7={ birth=yes }
+	1379.3.29={ death=yes }
+}
+1019918102={
+	name=Saraqundett
+	dynasty=1009990147
+	dna="epmjinbbbig"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=7 learning=5
+	add_trait=tough_soldier add_trait=greedy add_trait=honest add_trait=gregarious add_trait=craven 
+	 add_trait=possessed 
+	father=1019918093	#Sawahegeh
+	1317.4.22={ birth=yes }
+	1390.11.26={ death=yes }
+}
+1019918103={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990147
+	dna="nlbiindfcig"
+	culture=susquehannock religion=algic_pagan
+	father=1019918093	#Sawahegeh
+	1322.9.10={ birth=yes }
+	1408.4.16={ death=yes }
+}
+1019918104={
+	name=Sawahegeh
+	dynasty=1009990147
+	dna="lhmkpneabkf"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=5 intrigue=6 learning=7
+	add_trait=elusive_shadow add_trait=diligent add_trait=patient  add_trait=just 
+	add_trait=lunatic 
+	father=1019918093	#Sawahegeh
+	1328.4.15={ birth=yes }
+	1400.5.23={ death=yes }
+}
+1019918105={
+	name=Kagoregago
+	dynasty=1009990147
+	dna="ngiejphggoa"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=4 intrigue=6 learning=6
+	add_trait=tough_soldier add_trait=hunter add_trait=honest add_trait=cynical add_trait=just 
+	add_trait=lustful add_trait=ugly 
+	father=1019918100	#Hago
+	1337.12.3={ birth=yes }
+	1410.8.10={ death=yes }
+}
+1019918106={
+	name=Satékon
+	female=yes
+	dynasty=1009990147
+	dna="lgmekmnnmff"
+	culture=susquehannock religion=algic_pagan
+	father=1019918100	#Hago
+	1342.8.7={ birth=yes }
+	1438.7.17={ death=yes }
+}
+1019918107={
+	name=Sonque
+	dynasty=1009990147
+	dna="nieejeigcoo"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=6 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=brave add_trait=envious add_trait=patient 
+	father=1019918105	#Kagoregago
+	1370.5.16={ birth=yes }
+	1431.11.2={ death=yes }
+}
+1019918108={
+	name=Wanahedana
+	dynasty=1009990147
+	dna="hgiemhhfeoa"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=brave add_trait=content add_trait=proud add_trait=honest 
+	add_trait=zealous  
+	father=1019918105	#Kagoregago
+	1375.8.25={ birth=yes }
+	1458.1.29={ death=yes }
+}
+1019918109={
+	name=Gosweinquecrakqua
+	dynasty=1009990147
+	dna="igiejlnphom"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=6
+	add_trait=flamboyant_schemer add_trait=patient add_trait=temperate add_trait=trusting add_trait=wounded 
+	father=1019918105	#Kagoregago
+	1379.6.17={ birth=yes }
+	1446.7.27={ death=yes }
+}
+1019918110={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990147
+	dna="njiijpbggha"
+	culture=susquehannock religion=algic_pagan
+	father=1019918105	#Kagoregago
+	1384.4.24={ birth=yes }
+	1448.9.29={ death=yes }
+}
+1019918111={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990147
+	dna="godacpljpfa"
+	culture=susquehannock religion=algic_pagan
+	father=1019918105	#Kagoregago
+	1389.2.14={ birth=yes }
+	1471.2.7={ death=yes }
+}
+1019918112={
+	name=Genessee
+	female=yes
+	dynasty=1009990147
+	dna="nglekihkjhc"
+	culture=susquehannock religion=algic_pagan
+	father=1019918105	#Kagoregago
+	1394.7.27={ birth=yes }
+	1491.8.3={ death=yes }
+}
+1019918113={
+	name=Gosweinquecrakqua
+	dynasty=1009990147
+	dna="nnfejoifioa"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=6 learning=7
+	add_trait=flamboyant_schemer add_trait=temperate add_trait=just 
+	father=1019918105	#Kagoregago
+	1400.4.10={ birth=yes }
+	1459.6.26={ death=yes }
+}
+1019919145={
+	name=Sonque
+	dynasty=1009990158
+	dna="idobibbaola"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=8 intrigue=7 learning=7
+	add_trait=tough_soldier add_trait=mystic add_trait=humble add_trait=chaste add_trait=deceitful 
+	add_trait=wounded 
+	719.6.22={ birth=yes }
+	766.12.29={ death=yes }
+}
+1019919146={
+	name=Wastahanda
+	dynasty=1009990158
+	dna="idooigmaola"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=just add_trait=zealous add_trait=envious add_trait=possessed 
+	father=1019919145	#Sonque
+	747.2.7={ birth=yes }
+	832.1.1={ death=yes }
+}
+1019919147={
+	name=Genessee
+	female=yes
+	dynasty=1009990158
+	dna="icokaclacla"
+	culture=susquehannock religion=algic_pagan
+	father=1019919145	#Sonque
+	754.7.9={ birth=yes }
+	822.11.29={ death=yes }
+}
+1019919148={
+	name=Dahadaghesa
+	dynasty=1009990158
+	dna="hgojibkaola"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=charitable add_trait=temperate add_trait=cynical 
+	father=1019919145	#Sonque
+	761.4.24={ birth=yes }
+	831.3.25={ death=yes }
+}
+1019919149={
+	name=Nathheldaneh
+	dynasty=1009990158
+	dna="idooigmahla"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	add_trait=misguided_warrior add_trait=hedonist add_trait=trusting add_trait=zealous  
+	father=1019919146	#Wastahanda
+	771.8.7={ birth=yes }
+	850.5.12={ death=yes }
+}
+1019919150={
+	name=Sonque
+	dynasty=1009990158
+	dna="ldomigmaoda"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=8 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=duelist add_trait=zealous add_trait=paranoid  
+	add_trait=temperate add_trait=possessed 
+	father=1019919146	#Wastahanda
+	775.9.12={ birth=yes }
+	845.4.29={ death=yes }
+}
+1019919151={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990158
+	dna="ieiohmdakla"
+	culture=susquehannock religion=algic_pagan
+	father=1019919146	#Wastahanda
+	781.10.25={ birth=yes }
+	836.1.25={ death=yes }
+}
+1019919152={
+	name=Sawahegeh
+	dynasty=1009990158
+	dna="hdoocimando"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=6 intrigue=7 learning=7
+	add_trait=midas_touched add_trait=chaste add_trait=paranoid add_trait=slothful add_trait=lunatic 
+	father=1019919146	#Wastahanda
+	785.7.4={ birth=yes }
+	865.12.22={ death=yes }
+}
+1019919153={
+	name=Scarhuhadigh
+	dynasty=1009990158
+	dna="idcofgijoab"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=7 stewardship=4 intrigue=4 learning=5
+	add_trait=flamboyant_schemer add_trait=proud add_trait=chaste  add_trait=patient 
+	add_trait=just add_trait=ill 
+	father=1019919146	#Wastahanda
+	791.2.26={ birth=yes }
+	860.6.25={ death=yes }
+}
+1019919154={
+	name=Sawahegeh
+	dynasty=1009990158
+	dna="bdooimmahlj"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=6 learning=8
+	add_trait=charismatic_negotiator  add_trait=craven add_trait=gluttonous add_trait=cynical 
+	father=1019919149	#Nathheldaneh
+	797.3.5={ birth=yes }
+	861.7.12={ death=yes }
+}
+1019919155={
+	name=Wastahanda
+	dynasty=1009990158
+	dna="gcoligmgflg"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=impaler  add_trait=brave add_trait=honest 
+	father=1019919149	#Nathheldaneh
+	803.4.16={ birth=yes }
+	868.11.12={ death=yes }
+}
+1019919156={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990158
+	dna="mdojiambhia"
+	culture=susquehannock religion=algic_pagan
+	father=1019919149	#Nathheldaneh
+	807.9.20={ birth=yes }
+	883.6.27={ death=yes }
+}
+1019919157={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990158
+	dna="gdhokgffglg"
+	culture=susquehannock religion=algic_pagan
+	father=1019919149	#Nathheldaneh
+	814.12.15={ birth=yes }
+	868.3.10={ death=yes }
+}
+1019919158={
+	name=Sawahegeh
+	dynasty=1009990158
+	dna="djaoijnnglj"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=proud add_trait=patient add_trait=charitable 
+	father=1019919154	#Sawahegeh
+	820.3.25={ birth=yes }
+	905.12.5={ death=yes }
+}
+1019919159={
+	name=Wanahedana
+	dynasty=1009990158
+	dna="bdioommaolo"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=6 learning=4
+	add_trait=charismatic_negotiator add_trait=humble add_trait=temperate   
+	father=1019919154	#Sawahegeh
+	825.1.21={ birth=yes }
+	882.10.30={ death=yes }
+}
+1019919160={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990158
+	dna="jfooimmghcf"
+	culture=susquehannock religion=algic_pagan
+	father=1019919154	#Sawahegeh
+	828.6.27={ birth=yes }
+	923.9.21={ death=yes }
+}
+1019919161={
+	name=Rutchogah
+	dynasty=1009990158
+	dna="fddolmnafkl"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=4
+	add_trait=martial_cleric add_trait=gardener add_trait=paranoid add_trait=craven add_trait=just 
+	father=1019919154	#Sawahegeh
+	830.7.25={ birth=yes }
+	912.3.23={ death=yes }
+}
+1019919162={
+	name=Nathheldaneh
+	dynasty=1009990158
+	dna="bfhoimknhlh"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=6
+	add_trait=grey_eminence add_trait=gluttonous add_trait=arbitrary add_trait=trusting add_trait=chaste 
+	add_trait=wounded add_trait=lisp 
+	father=1019919154	#Sawahegeh
+	834.9.8={ birth=yes }
+	910.3.10={ death=yes }
+}
+1019919163={
+	name=Sonque
+	dynasty=1009990158
+	dna="kjaiijnnglj"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=7 intrigue=7 learning=7
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=deceitful add_trait=patient add_trait=slothful 
+	father=1019919158	#Sawahegeh
+	840.5.15={ birth=yes }
+	921.9.26={ death=yes }
+}
+1019919164={
+	name=Auroghteregh
+	dynasty=1009990158
+	dna="djajflnhdlj"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=7 learning=8
+	add_trait=detached_priest add_trait=lustful add_trait=arbitrary 
+	father=1019919158	#Sawahegeh
+	845.9.7={ birth=yes }
+	907.12.12={ death=yes }
+}
+1019919165={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990158
+	dna="jogcijbpgnj"
+	culture=susquehannock religion=algic_pagan
+	father=1019919158	#Sawahegeh
+	849.4.5={ birth=yes }
+	922.9.5={ death=yes }
+}
+1019919166={
+	name=Scarhuhadigh
+	dynasty=1009990158
+	dna="eeapejnljlf"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=4 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=brave add_trait=content add_trait=deceitful add_trait=diligent 
+	 add_trait=gregarious 
+	father=1019919158	#Sawahegeh
+	855.3.3={ birth=yes }
+	940.5.8={ death=yes }
+}
+1019919167={
+	name=Waddon
+	dynasty=1009990158
+	dna="njgohjnjgmj"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=8 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=celibate add_trait=paranoid add_trait=brave add_trait=just 
+	add_trait=lustful add_trait=content add_trait=gregarious 
+	father=1019919158	#Sawahegeh
+	860.10.24={ birth=yes }
+	950.4.9={ death=yes }
+}
+1019919168={
+	name=Nathheldaneh
+	dynasty=1009990158
+	dna="mjbollnngmo"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=5 intrigue=5 learning=4
+	add_trait=tough_soldier add_trait=patient add_trait=humble add_trait=gregarious 
+	father=1019919158	#Sawahegeh
+	864.3.22={ birth=yes }
+	940.11.6={ death=yes }
+}
+1019919169={
+	name=Hago
+	dynasty=1009990158
+	dna="djnofjgnhfj"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=5 learning=7
+	add_trait=scholarly_theologian add_trait=gluttonous add_trait=shy add_trait=patient add_trait=lustful 
+	add_trait=cynical add_trait=honest 
+	father=1019919158	#Sawahegeh
+	869.4.25={ birth=yes }
+	932.7.21={ death=yes }
+}
+1019919170={
+	name=Sonque
+	dynasty=1009990158
+	dna="kjghgjhnglk"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	add_trait=misguided_warrior add_trait=patient add_trait=paranoid add_trait=just add_trait=humble 
+	add_trait=envious 
+	father=1019919163	#Sonque
+	865.10.22={ birth=yes }
+	920.5.14={ death=yes }
+}
+1019919171={
+	name=Sawahegeh
+	dynasty=1009990158
+	dna="knjiiejngcn"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=7 intrigue=7 learning=4
+	add_trait=grey_eminence add_trait=brave add_trait=slothful add_trait=arbitrary add_trait=depressed 
+	add_trait=strong 
+	father=1019919163	#Sonque
+	869.4.23={ birth=yes }
+	937.7.20={ death=yes }
+}
+1019919172={
+	name=Kagoregago
+	dynasty=1009990158
+	dna="kaaiijnablj"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=hedonist add_trait=cynical add_trait=deceitful 
+	father=1019919163	#Sonque
+	875.1.6={ birth=yes }
+	955.2.2={ death=yes }
+}
+1019919173={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990158
+	dna="bjalijnngfj"
+	culture=susquehannock religion=algic_pagan
+	father=1019919163	#Sonque
+	877.4.23={ birth=yes }
+	920.11.18={ death=yes }
+}
+1019919174={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990158
+	dna="klenijnngbp"
+	culture=susquehannock religion=algic_pagan
+	father=1019919163	#Sonque
+	882.11.20={ birth=yes }
+	945.7.10={ death=yes }
+}
+1019919175={
+	name=Uwhanhierelera
+	dynasty=1009990158
+	dna="kegggbhkgod"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=8 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=gregarious add_trait=proud add_trait=diligent  
+	add_trait=lustful 
+	father=1019919170	#Sonque
+	891.2.11={ birth=yes }
+	955.10.5={ death=yes }
+}
+1019919176={
+	name=Genessee
+	female=yes
+	dynasty=1009990158
+	dna="khgmgjfepcn"
+	culture=susquehannock religion=algic_pagan
+	father=1019919170	#Sonque
+	899.2.16={ birth=yes }
+	954.3.18={ death=yes }
+}
+1019919177={
+	name=Nathheldaneh
+	dynasty=1009990158
+	dna="kmjhgihnghp"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=5
+	add_trait=naive_appeaser add_trait=brave add_trait=just 
+	father=1019919170	#Sonque
+	905.4.2={ birth=yes }
+	958.5.28={ death=yes }
+}
+1019919178={
+	name=Dahadaghesa
+	dynasty=1009990158
+	dna="jnbigfofgnk"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=6 stewardship=6 intrigue=6 learning=7
+	add_trait=scholarly_theologian add_trait=diligent add_trait=chaste add_trait=content add_trait=charitable 
+	 
+	father=1019919170	#Sonque
+	913.10.20={ birth=yes }
+	976.10.24={ death=yes }
+}
+1019919179={
+	name=Waddon
+	dynasty=1009990158
+	dna="keibgbhddmd"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=6 intrigue=4 learning=5
+	add_trait=detached_priest add_trait=zealous add_trait=charitable add_trait=chaste add_trait=temperate 
+	add_trait=proud add_trait=content 
+	father=1019919175	#Uwhanhierelera
+	915.8.13={ birth=yes }
+	981.4.10={ death=yes }
+}
+1019919180={
+	name=Satékon
+	female=yes
+	dynasty=1009990158
+	dna="keieobakgno"
+	culture=susquehannock religion=algic_pagan
+	father=1019919175	#Uwhanhierelera
+	918.12.9={ birth=yes }
+	955.7.8={ death=yes }
+}
+1019919181={
+	name=Genessee
+	female=yes
+	dynasty=1009990158
+	dna="kogggbpndob"
+	culture=susquehannock religion=algic_pagan
+	father=1019919175	#Uwhanhierelera
+	923.11.15={ birth=yes }
+	979.4.25={ death=yes }
+}
+1019919182={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990158
+	dna="kegmgbhkgod"
+	culture=susquehannock religion=algic_pagan
+	father=1019919175	#Uwhanhierelera
+	927.8.15={ birth=yes }
+	1012.10.11={ death=yes }
+}
+1019919183={
+	name=Scarhuhadigh
+	dynasty=1009990158
+	dna="opibgmhdgmp"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=5
+	add_trait=intricate_webweaver add_trait=temperate add_trait=proud add_trait=lustful add_trait=arbitrary 
+	father=1019919179	#Waddon
+	945.3.23={ birth=yes }
+	1005.8.9={ death=yes }
+}
+1019919184={
+	name=Satékon
+	female=yes
+	dynasty=1009990158
+	dna="degbgfdddmc"
+	culture=susquehannock religion=algic_pagan
+	father=1019919179	#Waddon
+	953.4.17={ birth=yes }
+	1023.1.24={ death=yes }
+}
+1019919185={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990158
+	dna="oeipjbgldma"
+	culture=susquehannock religion=algic_pagan
+	father=1019919179	#Waddon
+	958.8.19={ birth=yes }
+	995.3.2={ death=yes }
+}
+1019919186={
+	name=Wanahedana
+	dynasty=1009990158
+	dna="ofcajhhdmmn"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=4 stewardship=8 intrigue=5 learning=8
+	add_trait=grey_eminence add_trait=chaste add_trait=wroth add_trait=cynical  
+	father=1019919183	#Scarhuhadigh
+	969.8.17={ birth=yes }
+	1032.8.22={ death=yes }
+}
+1019919187={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990158
+	dna="opibgabjgch"
+	culture=susquehannock religion=algic_pagan
+	father=1019919183	#Scarhuhadigh
+	974.10.1={ birth=yes }
+	1062.2.7={ death=yes }
+}
+1019919188={
+	name=Wastahanda
+	dynasty=1009990158
+	dna="haiankhgggp"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=4 intrigue=6 learning=6
+	add_trait=midas_touched add_trait=mystic add_trait=diligent add_trait=just add_trait=gregarious 
+	add_trait=cynical add_trait=trusting 
+	father=1019919183	#Scarhuhadigh
+	979.10.24={ birth=yes }
+	1017.1.10={ death=yes }
+}
+1019919189={
+	name=Hago
+	dynasty=1009990158
+	dna="naiinmpdomn"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=7 intrigue=8 learning=4
+	add_trait=intricate_webweaver add_trait=chaste add_trait=craven add_trait=cynical add_trait=wroth 
+	add_trait=humble add_trait=gluttonous 
+	father=1019919183	#Scarhuhadigh
+	984.12.8={ birth=yes }
+	1042.4.14={ death=yes }
+}
+1019919190={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990158
+	dna="opjecfhnpmk"
+	culture=susquehannock religion=algic_pagan
+	father=1019919183	#Scarhuhadigh
+	990.5.7={ birth=yes }
+	1066.9.23={ death=yes }
+}
+1019919191={
+	name=Wanahedana
+	dynasty=1009990158
+	dna="ohcadghdmlm"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=8 intrigue=5 learning=4
+	add_trait=thrifty_clerk add_trait=charitable add_trait=patient add_trait=ambitious add_trait=trusting 
+	add_trait=honest 
+	father=1019919186	#Wanahedana
+	996.2.14={ birth=yes }
+	1068.12.13={ death=yes }
+}
+1019919192={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990158
+	dna="dfjajhpjcan"
+	culture=susquehannock religion=algic_pagan
+	father=1019919186	#Wanahedana
+	1002.1.17={ birth=yes }
+	1084.7.14={ death=yes }
+}
+1019919193={
+	name=Satékon
+	female=yes
+	dynasty=1009990158
+	dna="ondajphdmmh"
+	culture=susquehannock religion=algic_pagan
+	father=1019919186	#Wanahedana
+	1007.4.13={ birth=yes }
+	1088.5.25={ death=yes }
+}
+1019919194={
+	name=Uwhanhierelera
+	dynasty=1009990158
+	dna="lebijhhgmfn"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=7
+	add_trait=misguided_warrior add_trait=just add_trait=honest add_trait=brave add_trait=paranoid 
+	add_trait=possessed 
+	father=1019919186	#Wanahedana
+	1012.7.12={ birth=yes }
+	1093.12.19={ death=yes }
+}
+1019919195={
+	name=Hago
+	dynasty=1009990158
+	dna="nhoadddbjmo"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=5 stewardship=8 intrigue=4 learning=7
+	add_trait=misguided_warrior  add_trait=diligent add_trait=chaste 
+	father=1019919191	#Wanahedana
+	1021.5.13={ birth=yes }
+	1105.9.12={ death=yes }
+}
+1019919196={
+	name=Waddon
+	dynasty=1009990158
+	dna="dhcnohiobgm"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=5 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=hunter add_trait=temperate add_trait=diligent add_trait=craven 
+	 add_trait=ambitious add_trait=possessed 
+	father=1019919191	#Wanahedana
+	1025.1.21={ birth=yes }
+	1097.4.18={ death=yes }
+}
+1019919197={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990158
+	dna="ohcaahhcdjm"
+	culture=susquehannock religion=algic_pagan
+	father=1019919191	#Wanahedana
+	1032.1.8={ birth=yes }
+	1087.4.15={ death=yes }
+}
+1019919198={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990158
+	dna="ohcadgpdmjf"
+	culture=susquehannock religion=algic_pagan
+	father=1019919191	#Wanahedana
+	1036.4.15={ birth=yes }
+	1098.4.23={ death=yes }
+}
+1019919199={
+	name=Waskanecqua
+	dynasty=1009990158
+	dna="dgcagchlmml"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=gardener add_trait=brave add_trait=slothful add_trait=charitable 
+	add_trait=proud add_trait=just add_trait=possessed 
+	father=1019919191	#Wanahedana
+	1041.10.7={ birth=yes }
+	1096.11.3={ death=yes }
+}
+1019919200={
+	name=Scarhuhadigh
+	dynasty=1009990158
+	dna="ohcmdpcicfm"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=6 stewardship=5 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=temperate add_trait=charitable add_trait=deceitful add_trait=arbitrary 
+	add_trait=possessed 
+	father=1019919191	#Wanahedana
+	1046.8.9={ birth=yes }
+	1126.2.19={ death=yes }
+}
+1019919201={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990158
+	dna="ohfmmghdnln"
+	culture=susquehannock religion=algic_pagan
+	father=1019919191	#Wanahedana
+	1049.6.8={ birth=yes }
+	1129.8.14={ death=yes }
+}
+1019919202={
+	name=Sonque
+	dynasty=1009990158
+	dna="nhocdgdfjjo"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=7 stewardship=7 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=temperate  add_trait=arbitrary add_trait=envious 
+	add_trait=deceitful 
+	father=1019919195	#Hago
+	1048.4.22={ birth=yes }
+	1112.9.1={ death=yes }
+}
+1019919203={
+	name=Genessee
+	female=yes
+	dynasty=1009990158
+	dna="jloedkpjdmo"
+	culture=susquehannock religion=algic_pagan
+	father=1019919195	#Hago
+	1053.12.25={ birth=yes }
+	1127.4.12={ death=yes }
+}
+1019919204={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990158
+	dna="njlnddmjjmd"
+	culture=susquehannock religion=algic_pagan
+	father=1019919195	#Hago
+	1056.11.11={ birth=yes }
+	1117.4.7={ death=yes }
+}
+1019919205={
+	name=Auroghteregh
+	dynasty=1009990158
+	dna="npjcdgdfjjo"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=hunter add_trait=humble add_trait=zealous add_trait=honest 
+	add_trait=weak 
+	father=1019919202	#Sonque
+	1077.8.7={ birth=yes }
+	1141.4.15={ death=yes }
+}
+1019919206={
+	name=Konwatsitiaienni
+	female=yes
+	dynasty=1009990158
+	dna="obkbigdhcjk"
+	culture=susquehannock religion=algic_pagan
+	father=1019919202	#Sonque
+	1084.2.19={ birth=yes }
+	1165.5.29={ death=yes }
+}
+1019919207={
+	name=Wastahanda
+	dynasty=1009990158
+	dna="ojohdghjbje"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=4 intrigue=6 learning=8
+	add_trait=naive_appeaser add_trait=zealous add_trait=brave add_trait=chaste 
+	father=1019919202	#Sonque
+	1090.11.16={ birth=yes }
+	1133.6.2={ death=yes }
+}
+1019919208={
+	name=Waddon
+	dynasty=1009990158
+	dna="opicpgofpdg"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=8 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=celibate add_trait=greedy add_trait=gregarious add_trait=brave 
+	 
+	father=1019919205	#Auroghteregh
+	1100.7.8={ birth=yes }
+	1153.6.3={ death=yes }
+}
+1019919209={
+	name=Waskanecqua
+	dynasty=1009990158
+	dna="ngjnkgifdme"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=4 stewardship=4 intrigue=6 learning=4
+	add_trait=grey_eminence  add_trait=cynical add_trait=honest add_trait=trusting 
+	add_trait=greedy 
+	father=1019919205	#Auroghteregh
+	1105.12.13={ birth=yes }
+	1192.10.8={ death=yes }
+}
+1019919210={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990158
+	dna="ppocllldjie"
+	culture=susquehannock religion=algic_pagan
+	father=1019919205	#Auroghteregh
+	1109.1.1={ birth=yes }
+	1177.12.19={ death=yes }
+}
+1019919211={
+	name=Auroghteregh
+	dynasty=1009990158
+	dna="nmjcdgmcjio"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=6 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=envious add_trait=diligent add_trait=deceitful 
+	father=1019919205	#Auroghteregh
+	1114.11.22={ birth=yes }
+	1184.11.20={ death=yes }
+}
+1019919212={
+	name=Sawahegeh
+	dynasty=1009990158
+	dna="npmcddiejdo"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=mystic  add_trait=gregarious add_trait=arbitrary 
+	add_trait=proud add_trait=content 
+	father=1019919205	#Auroghteregh
+	1120.3.21={ birth=yes }
+	1179.9.15={ death=yes }
+}
+1019919213={
+	name=Genessee
+	female=yes
+	dynasty=1009990158
+	dna="nmjglldgjjo"
+	culture=susquehannock religion=algic_pagan
+	father=1019919205	#Auroghteregh
+	1125.10.9={ birth=yes }
+	1182.8.22={ death=yes }
+}
+1019919214={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990158
+	dna="mpikcinfbpn"
+	culture=susquehannock religion=algic_pagan
+	father=1019919208	#Waddon
+	1124.5.6={ birth=yes }
+	1181.7.8={ death=yes }
+}
+1019919215={
+	name=Auroghteregh
+	dynasty=1009990158
+	dna="pkpbdgoffdn"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=4 stewardship=7 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=content add_trait=trusting add_trait=chaste add_trait=cynical 
+	 add_trait=shy 
+	father=1019919208	#Waddon
+	1128.4.20={ birth=yes }
+	1226.4.1={ death=yes }
+}
+1019919216={
+	name=Satékon
+	female=yes
+	dynasty=1009990158
+	dna="opicpiohlda"
+	culture=susquehannock religion=algic_pagan
+	father=1019919208	#Waddon
+	1132.12.5={ birth=yes }
+	1190.5.14={ death=yes }
+}
+1019919217={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990158
+	dna="bpifpiofpmo"
+	culture=susquehannock religion=algic_pagan
+	father=1019919208	#Waddon
+	1139.4.15={ birth=yes }
+	1199.9.27={ death=yes }
+}
+1019919218={
+	name=Auroghteregh
+	dynasty=1009990158
+	dna="okjcpgoiddm"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=6
+	add_trait=misguided_warrior  add_trait=patient add_trait=paranoid add_trait=zealous 
+	add_trait=slow 
+	father=1019919208	#Waddon
+	1144.3.12={ birth=yes }
+	1210.8.22={ death=yes }
+}
+1019919219={
+	name=Hago
+	dynasty=1009990158
+	dna="ckpbdagffeb"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=8 intrigue=6 learning=8
+	add_trait=midas_touched add_trait=cynical  add_trait=honest add_trait=greedy 
+	father=1019919215	#Auroghteregh
+	1149.1.18={ birth=yes }
+	1242.7.5={ death=yes }
+}
+1019919220={
+	name=Hago
+	dynasty=1009990158
+	dna="pfpbklbbejm"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=7 stewardship=5 intrigue=7 learning=8
+	add_trait=charismatic_negotiator add_trait=content add_trait=gregarious add_trait=trusting  
+	add_trait=lustful add_trait=fair 
+	father=1019919215	#Auroghteregh
+	1157.10.17={ birth=yes }
+	1216.2.3={ death=yes }
+}
+1019919221={
+	name=Gosweinquecrakqua
+	dynasty=1009990158
+	dna="flphdgffadm"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=6
+	add_trait=martial_cleric add_trait=proud add_trait=greedy add_trait=honest  
+	add_trait=depressed add_trait=possessed 
+	father=1019919215	#Auroghteregh
+	1161.10.22={ birth=yes }
+	1231.5.1={ death=yes }
+}
+1019919222={
+	name=Auroghteregh
+	dynasty=1009990158
+	dna="cfoddiofieb"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	add_trait=martial_cleric add_trait=arbitrary add_trait=chaste add_trait=content add_trait=diligent 
+	 
+	father=1019919219	#Hago
+	1181.3.27={ birth=yes }
+	1265.9.18={ death=yes }
+}
+1019919223={
+	name=Scarhuhadigh
+	dynasty=1009990158
+	dna="edkbdolpfkk"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=7
+	add_trait=detached_priest add_trait=hedonist add_trait=slothful add_trait=content  
+	add_trait=possessed 
+	father=1019919219	#Hago
+	1186.12.12={ birth=yes }
+	1265.12.27={ death=yes }
+}
+1019919224={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990158
+	dna="cfphdajgmeb"
+	culture=susquehannock religion=algic_pagan
+	father=1019919219	#Hago
+	1190.11.14={ birth=yes }
+	1273.9.24={ death=yes }
+}
+1019919225={
+	name=Gosweinquecrakqua
+	dynasty=1009990158
+	dna="niakdaglfob"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=7 intrigue=7 learning=8
+	add_trait=detached_priest add_trait=gregarious add_trait=arbitrary add_trait=deceitful add_trait=possessed 
+	father=1019919219	#Hago
+	1194.8.4={ birth=yes }
+	1272.6.14={ death=yes }
+}
+1019919226={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990158
+	dna="cofbdihceeb"
+	culture=susquehannock religion=algic_pagan
+	father=1019919219	#Hago
+	1200.12.20={ birth=yes }
+	1279.8.31={ death=yes }
+}
+1019919227={
+	name=Hago
+	dynasty=1009990158
+	dna="cknopjoefkb"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=proud add_trait=arbitrary add_trait=gluttonous add_trait=shy 
+	add_trait=wounded 
+	father=1019919219	#Hago
+	1203.7.14={ birth=yes }
+	1264.8.28={ death=yes }
+}
+1019919228={
+	name=Wastahanda
+	dynasty=1009990158
+	dna="pohajngpfed"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=8 stewardship=8 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=envious add_trait=ambitious 
+	father=1019919219	#Hago
+	1207.12.13={ birth=yes }
+	1282.10.22={ death=yes }
+}
+1019919229={
+	name=Uwhanhierelera
+	dynasty=1009990158
+	dna="efbideojidb"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=humble add_trait=envious add_trait=wroth add_trait=gregarious 
+	add_trait=brave add_trait=diligent 
+	father=1019919222	#Auroghteregh
+	1208.4.17={ birth=yes }
+	1287.7.22={ death=yes }
+}
+1019919230={
+	name=Waddon
+	dynasty=1009990158
+	dna="omocdioimeb"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	add_trait=skilled_tactician add_trait=proud add_trait=arbitrary add_trait=trusting add_trait=cynical 
+	add_trait=gregarious 
+	father=1019919222	#Auroghteregh
+	1212.4.12={ birth=yes }
+	1298.5.16={ death=yes }
+}
+1019919231={
+	name=Andra
+	dynasty=1009990158
+	dna="oibddiofgpj"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=honest add_trait=trusting add_trait=arbitrary add_trait=wroth 
+	add_trait=charitable 
+	father=1019919222	#Auroghteregh
+	1219.8.1={ birth=yes }
+	1288.9.1={ death=yes }
+}
+1019919232={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990158
+	dna="afipdcociec"
+	culture=susquehannock religion=algic_pagan
+	father=1019919222	#Auroghteregh
+	1225.9.16={ birth=yes }
+	1309.4.15={ death=yes }
+}
+1019919233={
+	name=Scarhuhadigh
+	dynasty=1009990158
+	dna="hebieodkaib"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	add_trait=tough_soldier add_trait=proud  add_trait=chaste 
+	father=1019919229	#Uwhanhierelera
+	1226.4.17={ birth=yes }
+	1323.4.14={ death=yes }
+}
+1019919234={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990158
+	dna="apbmaionido"
+	culture=susquehannock religion=algic_pagan
+	father=1019919229	#Uwhanhierelera
+	1230.8.25={ birth=yes }
+	1333.9.9={ death=yes }
+}
+1019919235={
+	name=Nathheldaneh
+	dynasty=1009990158
+	dna="bfpfdeppndb"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=5 stewardship=7 intrigue=4 learning=6
+	add_trait=grey_eminence add_trait=gluttonous  add_trait=trusting add_trait=gregarious 
+	father=1019919229	#Uwhanhierelera
+	1233.11.10={ birth=yes }
+	1305.1.13={ death=yes }
+}
+1019919236={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990158
+	dna="efcdnepjieb"
+	culture=susquehannock religion=algic_pagan
+	father=1019919229	#Uwhanhierelera
+	1239.5.8={ birth=yes }
+	1304.3.3={ death=yes }
+}
+1019919237={
+	name=Nathheldaneh
+	dynasty=1009990158
+	dna="ebbideoflnb"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=7 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=cynical add_trait=honest 
+	father=1019919229	#Uwhanhierelera
+	1242.3.5={ birth=yes }
+	1312.5.2={ death=yes }
+}
+1019919238={
+	name=Waskanecqua
+	dynasty=1009990158
+	dna="efcfhjpjihb"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	add_trait=indulgent_wastrel add_trait=hedonist add_trait=patient add_trait=brave add_trait=humble 
+	add_trait=shy add_trait=deceitful add_trait=ambitious 
+	father=1019919229	#Uwhanhierelera
+	1247.8.26={ birth=yes }
+	1318.4.9={ death=yes }
+}
+1019919239={
+	name=Alliquippa
+	female=yes
+	dynasty=1009990158
+	dna="cmbadmojfdb"
+	culture=susquehannock religion=algic_pagan
+	father=1019919229	#Uwhanhierelera
+	1252.9.13={ birth=yes }
+	1325.10.19={ death=yes }
+}
+1019919240={
+	name=Sonque
+	dynasty=1009990158
+	dna="hebibcdkaib"
+	culture=susquehannock religion=algic_pagan
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=hedonist add_trait=envious add_trait=zealous add_trait=just 
+	add_trait=proud add_trait=slothful add_trait=lustful 
+	father=1019919233	#Scarhuhadigh
+	1249.12.8={ birth=yes }
+	1314.1.23={ death=yes }
+}
+1019919241={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990158
+	dna="oebieadppgh"
+	culture=susquehannock religion=algic_pagan
+	father=1019919233	#Scarhuhadigh
+	1254.3.22={ birth=yes }
+	1313.6.30={ death=yes }
+}
+1019919242={
+	name=Sonque
+	dynasty=1009990158
+	dna="oebiaoddamb"
+	culture=susquehannock religion=algic_pagan
+	martial=8 diplomacy=8 stewardship=7 intrigue=4 learning=7
+	add_trait=detached_priest add_trait=duelist add_trait=greedy add_trait=trusting add_trait=wroth 
+	add_trait=content add_trait=just 
+	father=1019919233	#Scarhuhadigh
+	1257.5.9={ birth=yes }
+	1342.10.10={ death=yes }
+}
+1019919243={
+	name=Auroghteregh
+	dynasty=1009990158
+	dna="becieokkaib"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=7 stewardship=6 intrigue=5 learning=6
+	add_trait=flamboyant_schemer add_trait=impaler add_trait=charitable add_trait=just add_trait=humble 
+	add_trait=stressed 
+	father=1019919233	#Scarhuhadigh
+	1262.11.20={ birth=yes }
+	1332.11.8={ death=yes }
+}
+1019919244={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990158
+	dna="cebicodeiib"
+	culture=susquehannock religion=algic_pagan
+	father=1019919233	#Scarhuhadigh
+	1268.8.2={ birth=yes }
+	1346.5.23={ death=yes }
+}
+1019919245={
+	name=Rutchogah
+	dynasty=1009990158
+	dna="bebdbcdmadp"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=4 intrigue=4 learning=5
+	add_trait=intricate_webweaver add_trait=poet add_trait=ambitious add_trait=chaste add_trait=shy 
+	add_trait=brave 
+	father=1019919240	#Sonque
+	1277.8.1={ birth=yes }
+	1346.4.5={ death=yes }
+}
+1019919246={
+	name=Genessee
+	female=yes
+	dynasty=1009990158
+	dna="hanijcdkaib"
+	culture=susquehannock religion=algic_pagan
+	father=1019919240	#Sonque
+	1283.4.5={ birth=yes }
+	1357.10.9={ death=yes }
+}
+1019919247={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990158
+	dna="nebgbndiaka"
+	culture=susquehannock religion=algic_pagan
+	father=1019919240	#Sonque
+	1287.12.6={ birth=yes }
+	1341.4.22={ death=yes }
+}
+1019919248={
+	name=Sonque
+	dynasty=1009990158
+	dna="hbbcbcnmmdp"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=6
+	add_trait=grey_eminence add_trait=duelist add_trait=just add_trait=zealous add_trait=charitable 
+	father=1019919245	#Rutchogah
+	1304.3.17={ birth=yes }
+	1377.4.14={ death=yes }
+}
+1019919249={
+	name=Sonque
+	dynasty=1009990158
+	dna="bhedhcjmamp"
+	culture=susquehannock religion=algic_pagan
+	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=trusting add_trait=honest add_trait=slothful 
+	father=1019919245	#Rutchogah
+	1310.7.8={ birth=yes }
+	1368.6.19={ death=yes }
+}
+1019919250={
+	name=Rutchogah
+	dynasty=1009990158
+	dna="bemdjcbkabn"
+	culture=susquehannock religion=algic_pagan
+	martial=4 diplomacy=6 stewardship=8 intrigue=5 learning=5
+	add_trait=tough_soldier add_trait=hunter add_trait=cynical add_trait=gluttonous add_trait=proud 
+	add_trait=ambitious 
+	father=1019919245	#Rutchogah
+	1314.10.6={ birth=yes }
+	1400.12.12={ death=yes }
+}
+1019919251={
+	name=Tyonajanegen
+	female=yes
+	dynasty=1009990158
+	dna="nlbokmkgmjf"
+	culture=susquehannock religion=algic_pagan
+	father=1019919248	#Sonque
+	1331.9.14={ birth=yes }
+	1422.12.13={ death=yes }
+}
+1019919252={
+	name=Wanahedana
+	dynasty=1009990158
+	dna="obocioogmkb"
+	culture=susquehannock religion=algic_pagan
+	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=content add_trait=proud add_trait=charitable add_trait=gregarious 
+	add_trait=patient  add_trait=lunatic add_trait=genius 
+	father=1019919248	#Sonque
+	1337.6.21={ birth=yes }
+	1420.10.30={ death=yes }
+}
+1019919253={
+	name=Tekakwitha
+	female=yes
+	dynasty=1009990158
+	dna="hbbhgcngmip"
+	culture=susquehannock religion=algic_pagan
+	father=1019919248	#Sonque
+	1342.6.27={ birth=yes }
+	1413.12.9={ death=yes }
+}
+1019919254={
+	name=Satékon
+	female=yes
+	dynasty=1009990158
+	dna="iabmkenmkah"
+	culture=susquehannock religion=algic_pagan
+	father=1019919248	#Sonque
+	1348.6.21={ birth=yes }
+	1415.1.18={ death=yes }
+}

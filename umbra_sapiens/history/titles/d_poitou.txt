@@ -1,0 +1,163 @@
+769.1.1 = {
+	de_jure_liege = k_france
+}
+852.1.1 = {
+	de_jure_liege = k_aquitaine
+	liege=k_france
+}
+852.1.1 = {
+	holder = 90129 #Ramnulf I
+}
+866.10.1 = {
+	holder = 90128 #Ramnulf II
+}
+884.12.12={
+	de_jure_liege=k_france
+}
+#889.12.12 = {
+#	liege = "k_france"
+#}
+890.10.1 = {
+	holder = 168057 #Ramnulf III
+}
+901.1.1 = {
+	holder = 90127 #Ebles
+}
+934.1.1 = {
+	holder = 230 #Guillaume Ier
+}
+963.4.3 = {
+	holder = 232 #Guillaume II
+}
+995.2.3 = {
+	holder = 234 #Guillaume III
+}
+1030.1.31 = {
+	holder = 236 #Guillaume IV
+}
+1038.12.15 = {
+	holder = 238 #Guillaume V
+}
+1058.1.1 = {
+	holder = 240 #Guillaume VI
+}
+1086.9.25 = {
+	holder = 205733 #Guillaume VII
+}
+1126.2.10 = {
+	holder = 205731 #Guillaume VIII
+}
+1137.4.9 = {
+	holder = 205730 #Alienor
+}
+1137.7.22 = {
+	holder = 205500 #Louis VII
+}
+1152.3.21 = {
+	holder = 205730 #Alienor
+}
+1152.5.18 = {
+	liege = "k_england"
+}
+1152.5.18 = {
+	holder = 204500 #Henry II
+}
+1189.7.6 = {
+	holder = 204510 #Richard I
+}
+1199.4.6 = {
+	holder = 204514 #John
+}
+1205.1.1 = {
+	liege = "k_france"
+}
+1205.1.1 = {
+	holder = 205506 # Philippe II
+}
+1223.7.14 = {
+	holder = 455402 #Louis VIII
+}
+1226.11.8 = {
+	holder = 455404 #Louis IX
+}
+1241.6.24 = {
+	holder = 127000 #Alphonse, brother of Louis IX
+}
+1271.8.21 = {
+	holder = 455528 # Philippe III
+}
+1285.10.5 = {
+	holder = 455526 # Philippe IV
+}
+1311.12.1 = {
+	holder= 455509 # Philippe, V in 1316 
+}
+1322.1.3 = {
+	holder = 455414 # Charles IV
+}
+1328.2.1 = {
+	holder = 455500 # Philippe VI
+}
+1336.12.01={
+	holder=455650
+}
+1341.1.22 = {
+	holder=455651	#Pierre Ier de Bourbon
+}
+1356.9.19 = {
+	holder=455658	#Louis II de Bourbon
+}
+1410.8.10 = {
+	holder=370631	#Jean Ier de Bourbon
+}	
+1434.2.5 = {
+	holder=370651	#Charles I, Duke of Bourbon
+}
+1456.12.4 = {
+	holder=370681	#Jean II de Bourbon
+}
+1488.4.1 = {
+	holder=370684	#Charles II de Bourbon
+}
+1488.9.13 = {
+	holder=370689	#Pierre II de Bourbon
+}
+1503.10.10 = {
+	holder=381393	#Suzanne de Bourbon
+}
+1521.4.28 = {
+	holder=370967	#Louise de Savoy
+}
+1531.9.22={
+	holder=370977 #Francis I
+}
+1544.1.1={
+	holder=371102	#Charles II d'Orléans
+}
+1545.9.9 = {
+	holder=370977 #Francis I
+}
+1547.3.31={
+	holder=371100 #Henry II
+}
+1559.7.10={
+	holder=375095 #Francis II
+}
+1560.12.5={
+	holder=371693 #Charles IX
+}
+1566.1.1={
+	holder=371694 #Henry III
+}
+1573.5.11={
+	holder=371693 #Charles IX
+}
+1574.5.30={
+	holder=371694 #Henry III
+}
+1589.8.2={
+	holder=371464 #Henry IV the Great
+}
+1610.5.14={
+	holder=371859 #Louis XIII the Just
+}

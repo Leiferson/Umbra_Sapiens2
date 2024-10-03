@@ -1,0 +1,26 @@
+# 679 - Kartli
+
+# County Title
+title = c_kartli
+
+# Settlements
+max_settlements = 5
+b_narikala = castle
+b_tbilisi = city
+b_svetitskhoveli = temple
+#b_mtskheta = castle
+#b_bebristsikhe = castle
+#b_gori = castle 
+#b_djvari = temple 
+#b_sioni = temple
+
+# Misc
+culture = georgian
+religion = orthodox
+
+# History
+350.1.1 = {
+	build_wonder = wonder_fortress
+	set_wonder_stage = 4
+}
+1187.1.1 = { b_gori = castle }

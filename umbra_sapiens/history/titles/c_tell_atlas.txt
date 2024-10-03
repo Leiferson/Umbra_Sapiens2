@@ -1,0 +1,209 @@
+767.1.1={
+	liege="d_kabylia"
+	holder=210035
+}
+823.1.1={
+	liege="d_alger"
+}
+823.1.1={
+	holder = 163097
+}
+866.1.1={
+	holder = 163149
+}
+877.1.1={
+	liege="d_kabylia"
+}
+936.1.1 = {
+	holder = 260860
+	liege = d_tunis
+}
+1066.1.1 = {
+	holder = 155024
+	liege = d_kabylia
+}
+1109.1.1=
+{
+holder=155025
+}
+1152.1.1=
+{
+liege="d_kabylia"
+}
+1152.1.1=
+{
+holder=155087
+}
+1185.1.1=
+{
+liege="d_mallorca"
+}
+1185.1.1=
+{
+holder=32976
+}
+1185.7.1=
+{
+liege="d_kabylia"
+}
+1185.7.1=
+{
+holder=155087
+}
+1190.1.1=
+{
+holder=32985
+}
+1223.1.1=
+{
+holder=32977
+}
+1227.1.1=
+{
+holder=32985
+}
+1229.1.1=
+{
+holder=33021
+}
+1251.1.1=
+{
+holder=33024
+}
+1253.1.1=
+{
+holder=155095
+}
+1263.1.1=
+{
+holder=155096
+}
+1269.1.1=
+{
+liege="d_tlemcen"
+}
+1269.1.1=
+{
+holder=155097
+}
+1278.1.1=
+{
+holder=155098
+}
+1294.1.1=
+{
+holder=155099
+}
+1295.1.1=
+{
+holder=155100
+}
+1299.1.1=
+{
+liege=0
+}
+1299.1.1=
+{
+holder=155102
+}
+1302.1.1=
+{
+liege="k_africa"
+}
+1302.1.1=
+{
+holder=155100
+}
+1310.1.1=
+{
+liege="d_tlemcen"
+}
+1310.1.1=
+{
+holder=155103
+}
+1337.1.1=
+{
+holder=33049
+}
+1337.5.1=
+{
+	holder=33004	#First Marinid Conquest
+	liege=k_mauretania
+}
+1348.1.1={
+	holder=378622	#Abu Saeed bin Abi Zaid Abd al-Rahman bin Abi Zakaria Yahya bin Yaghmrasan
+	liege=k_tlemcen
+}
+1352.1.1={
+	holder=378623	#Abu Thabit bin Abi Zaid Abd al-Rahman bin Abi Zakaria Yahya bin Yaghmrasan
+}
+1352.6.1={
+	holder=33007	#Abu Anan Faris Al-Marini Second Marinid Conquest
+	liege=k_mauretania
+}
+1358.1.10={
+	holder=378625 #Abu Hammu Musa II bin Abi Yaqoub Yusuf bin Abi Zaid Abd al-Rahman bin Yahya bin Yaghmrasan
+	liege=k_tlemcen
+}
+1389.1.1={
+	holder=378626	#Abu Tashfin II Abd al-Rahman bin Abi Hammu Musa II
+}
+1393.5.29={
+	holder=378630	#Abu Al-Hajjaj Yusuf bin Abi Hammu Musa II (Ibn Al-Zabiya) 
+}
+1394.1.1={
+	holder=378633	#Abu Zayan II Abd al-Rahman bin Abi Hamo Musa II  
+}
+1399.1.1={
+	holder=378635	#Abu Muhammad Abdullah I bin Abu Hamo Musa II 
+}
+1402.1.1={
+	holder=378634	#Abu Abdullah Muhammad I bin Abi Hammu Musa II (Ibn Khawla) 
+}
+1411.1.1={
+	holder=378636	#Abdul Rahman III bin Abi Abdullah Muhammad I 
+}
+1411.6.1={
+	holder=378627	#Al-Saeed bin Abi Hamo Musa II 
+}
+1412.11.1={
+	holder=378632	#Abu Malik Abdul Wahid bin Abi Hamo Musa II 
+}
+1424.1.1={
+	holder=378628	#Abu Abdullah Muhammad II bin Abu Tashfin II (Ibn Al-Hamra) 
+}
+1428.1.1={
+	holder=378632	#Abu Malik Abdul Wahid bin Abi Hamo Musa II (for the second time) 
+}
+1430.1.1={
+	holder=378628	#Abu Abdullah Muhammad II bin Abi Tashfin II (for the second time) 
+}
+1431.1.1={
+	holder=378631	#Abu Al-Abbas Ahmad Al-Mu'tasim (Al-Aqil) bin Abi Hammu Musa II 
+}
+1461.1.1={
+	holder=378638	#Abu Abdullah Muhammad III, Al-Mutawakkil Ali Allah bin Abi Zayan bin Abi Thabit bin Abi Tashfin II 
+}
+1468.1.1={
+	holder=378639	#Abu Tashfin III bin Abi Abdullah Muhammad III Al-Mutawakkil  
+}
+1468.6.1={
+	holder=378640	#Abu Abdullah Muhammad IV Al-Thabiti bin Abi Abdullah Muhammad III Al-Mutawakkil 
+}
+1505.1.1={
+	holder=378641	#Abu Abdullah Muhammad V bin Abi Abdullah IV Al-Thabiti 
+}
+1510.1.1={
+		holder=378662	#Abdelaziz ibn Ahmed 
+		liege=0
+}
+1559.1.1={
+		holder=378663	#Ahmed el-Moqrani ibn Ahmed  
+}
+1596.1.1={
+		holder=378665	#Sidi Naceur el-Moqrani ibn Ahmed el-Moqrani 
+}
+1620.1.1={
+		holder=378666	#Betka el-Moqrani ibn Sidi Naceur
+}	

@@ -1,0 +1,37 @@
+objectTypes = {
+
+	#GALLEYS
+
+	#######################################################
+	#######################################################
+	#####											  #####
+	#####					GALLEYS 				  #####
+	#####											  #####
+	#######################################################
+	#######################################################
+	
+	pdxmesh = {
+		name = "japanesegfx_GALLEYS"
+		file = "gfx\models\atakebune.mesh"
+		
+#		idle   = "gfx\models\Cog_Moving.xsm"
+		scale = 0.7f
+	}
+	
+	pdxmesh = {
+		name = "ainugfx_GALLEYS"
+		file = "gfx\models\atakebune.mesh"
+		
+#		idle   = "gfx\models\Cog_Moving.xsm"
+		scale = 0.7f
+	}
+	
+	pdxmesh = {
+		name = "ryukyugfx_GALLEYS"
+		file = "gfx\models\atakebune.mesh"
+		
+#		idle   = "gfx\models\Cog_Moving.xsm"
+		scale = 0.7f
+	}
+
+}

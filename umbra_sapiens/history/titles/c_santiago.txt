@@ -1,0 +1,226 @@
+745.1.1={
+	holder=200058 # Luifredo de Suevonia
+	liege=k_asturias
+}
+770.1.1={
+	holder=70012 # Aurelio Froilaz de Cantabria
+}
+773.1.1={
+	holder=70118 # Silo, King of Asturias
+}
+783.1.1={
+	holder=70116 # Mauregato Alfónsez de Cantabria
+}
+788.1.1={
+	holder=70013 # Bermudo I de Cantabria
+}
+791.1.1={
+	holder=70006 # Alfonso II de Asturias
+}
+842.3.20={
+	holder=70015 # Ramiro I de Cantabria
+	law = succ_gavelkind
+}
+850.2.1={
+	holder=70017 # Ordoño I de Cantabria
+}
+866.5.27={
+	holder=73855 # Guterre Hermenegildes I
+}
+875.1.1={
+	holder=73857 # Hermenegildo Guterres
+}
+900.1.1={
+	liege=d_galicia
+}
+910.12.20={
+	liege=k_spanish_galicia
+}
+920.1.1={
+	holder=73871 # Guterre Hermenegildes II
+}
+924.1.1={
+	liege=d_galicia
+}
+929.6.10={
+	liege=k_spanish_galicia
+}
+934.1.1={
+	holder=73891 # Monio Guterres
+}
+960.1.1={
+	holder=73894 # Guterre Monis
+}
+999.1.1={
+	holder=73895 # Nuno Guterres
+}
+1065.12.27={
+	holder=109500 # García I Jimena
+}
+1071.2.1={
+	holder=107500 # Sancho II Jimena
+}
+1072.10.7={
+	holder=108500 # Alfonso VI Jimena
+}
+1092.5.1={
+	holder=298 # Raymond de Bourgogne
+	liege=d_galicia
+}
+1107.9.20={
+	holder=207500 # Alfonso VII de Borgoña
+}
+
+#Bishops of Santiago
+
+1126.3.8={
+	holder=232021 # Diego Gelmirez
+	liege=k_leon
+}
+1140.1.1={
+	holder=458004 # Berenguel
+}
+1142.1.1={
+	holder=210510 # Pedro Helías
+}
+1149.1.1={
+	holder=72939 # Bernardo I
+}
+1152.1.1={
+	holder=72940 # Pelayo Camundo
+}
+1156.1.1={
+	holder=72941 # Martín Martínez
+}
+1167.1.1={
+	holder=72942 # Pedro Gundestéiz
+}
+1173.1.1={
+	holder=208520 # Pedro Suárez de Deza
+}
+1207.1.1={
+	holder=72943 # Pedro Muñiz
+}
+1224.1.1={
+	holder=72944 # Bernardo II
+}
+1230.9.24={
+	liege=k_cas_and_leon
+}
+1238.1.1={
+	holder=72850 # Juan Arias
+}
+1266.1.1={
+	holder=72945 # Gonzalo Gómez
+}
+1283.1.1={
+	holder=72946 # Rodrigo González
+}
+1304.1.1={
+	holder=72947 # Rodrigo de Padrón
+}
+1316.1.1={
+	holder=72948 # Berenguel de Landoria
+}
+1331.1.1={
+	holder=458003 # Juan Fernández de Limia
+}
+1338.1.1={
+	holder=381127 # Martín Fernández (1339-1343)
+}
+1343.1.1={
+	holder=381128 # Pedro V (1344-1351)
+}
+1351.1.1={
+	holder=381129 # Gómez Manrique (1351-1362)
+}
+1351.1.1={
+	holder=381130 # Suero Gómez de Toledo (1362-1366)
+}
+1366.1.1={
+	holder=381131 # Alonso Sánchez de Moscoso (1367-1367)
+}
+1367.1.1={
+	holder=381132 # Rodrigo de Moscoso (1368-1382)
+}
+1369.3.23={
+	liege=k_portugal_4
+}
+1373.3.19={
+	liege=k_cas_and_leon
+}
+1382.1.1={
+	holder=381133 # Juan III (Juan García Manrique) (1383-1388)
+}
+1388.1.1={
+	holder=381134 # Lope de Mendoza (1399-1445)
+}
+1445.1.1={
+	holder=381135 # Álvaro Núnez de Isorna (1445-1449)
+}
+1449.1.1={
+	holder=381136 # Rodrigo de Luna (1451-1460)
+}
+1460.1.1={
+	holder=381137 # Alonso I de Fonseca (1460-1464)
+}
+1464.1.1={
+	holder=381138 # Alonso II de Fonseca (1464-1506)
+}
+1506.1.1={
+	holder=381139 # Alonso III de Fonseca (1506-1524)
+}
+1524.1.1={
+	holder=381140 # Juan Pardo de Tavera (1524-1534)
+}
+1534.1.1={
+	holder=381141 # Pedro Gómez Sarmiento de Villandrando (1534-1541)
+}
+1541.1.1={
+	holder=381142 # Gaspar de Ávalos da Cueva (1542-1545)
+}
+1545.1.1={
+	holder=381143 # Pedro Manuel (1546-1550)
+}
+1550.1.1={
+	holder=381144 # Juan IV (Juan Alvarez de Toledo) (1550-1557)
+}
+1557.9.15={
+	holder=381145 # Frei Alfonso de Castro, O.F.M. (1558)
+}
+1559.1.1={
+	holder=381146 # Gaspar de Zúñiga y Avellaneda (1559-1569)
+}
+1569.1.1={
+	holder=381147 # Cristóbal Fernández de Valtodano (1570-1572)
+}
+1572.1.1={
+	holder=381148 # Francisco Blanco Salcedo (1574-1581)
+}
+1581.1.1={
+	holder=381149 # Juan de Yermo y Hermosa (1582-1583)
+}
+1583.1.1={
+	holder=381150 # Alonso Velázquez (1583-1587)
+}
+1587.1.1={
+	holder=381151 # Juan V (Juan de Sanclemente Torquemada) (1587-1602)
+}
+1602.1.1={
+	holder=381152 # Maximiliano de Áustria (1603-1614)
+}
+1614.7.1={
+	holder=381153 # Juan VI (Juan Beltrán de Guevara) (1615-1622)
+}
+1622.1.1={
+	holder=381154 # Luis Fernández de Córdoba (1622-1624)
+}
+1624.1.1={
+	holder=381155 # Agustín Antolínez, O.S.A. (1624-1626)
+}
+1626.1.1={
+	holder=381156 # José González Villalobos, O.P. (1627-1630)
+}
+1630.1.1={
+	holder=458003 # Agustín Spínola (1630-1645)
+}

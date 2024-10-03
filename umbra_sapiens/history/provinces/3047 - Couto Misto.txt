@@ -1,0 +1,16 @@
+# County Title
+title = c_coutomisto
+
+# Settlements
+max_settlements = 3
+b_coutomisto = city
+#b_coutomisto-ii = temple
+#b_coutomisto-iii = castle
+# Misc
+culture = suebi
+religion = catholic
+
+# History
+926.1.1={
+	culture = portuguese
+}

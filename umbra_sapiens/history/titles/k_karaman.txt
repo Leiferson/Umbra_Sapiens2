@@ -1,0 +1,75 @@
+1256.1.1=
+{
+holder=71875
+}
+1261.1.1=
+{
+holder=71876
+}
+1277.9.1=
+{
+holder=71877
+}
+1300.1.1=
+{
+holder=71878
+}
+1308.1.1=
+{
+holder=71879
+}
+1312.1.1=
+{
+holder=71880
+}
+1333.1.1=
+{
+holder=476300	#Alaeddin Halil
+}
+1348.1.1={
+holder=71880	#Ibrahim was backed by egypt
+set_tribute_suzerain = {
+		who = k_egypt
+		type = permanent 
+	}
+}
+1349.1.1={
+holder=379471	#Fahreddin Ahmed Bey 
+clear_tribute_suzerain = k_egypt
+}
+1350.1.1={
+holder=379472	#Shemseddin Bey
+}
+1352.1.1={
+holder=71881	#Hacı Sufi Burhanettin Musa
+}
+1356.1.1={
+holder=71884	#Suleyman Bey
+}
+1361.1.1={
+holder=71883	#Alaeddin Ali Bey
+}
+1397.1.1={
+holder=379240	#Mehmed II of Karaman
+}
+1423.1.1={
+holder=379239	#Bengi Ali Bey
+}
+1424.1.1={
+holder=379241	#Ibrahim II Bey
+}
+1464.1.1={
+holder=379245	#Ishak Bey
+}
+1465.1.1={
+holder=379246	#Pir Ahmad Bey
+}
+1474.1.1={
+holder=379247	#Kasim Bey
+}
+1483.1.1={
+holder=379249	#Turgutoglu Mahmut Bey
+}
+1487.1.1={
+holder=0	#Ottoman conquest
+}

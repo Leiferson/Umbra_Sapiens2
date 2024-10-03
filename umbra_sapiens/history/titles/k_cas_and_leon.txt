@@ -1,0 +1,63 @@
+20.1.1={
+	active = no
+}
+1230.9.24={
+	active = yes
+	holder=457620 # Fernando III de Borgoña
+	effect={
+		insert_title_history=k_castille
+	}
+	de_jure_liege=e_spain
+}
+1252.5.30={
+	holder=457540 # Alfonso X de Borgoña
+}
+1284.4.4={
+	holder=457530 # Sancho IV de Borgoña
+	law = succ_primogeniture
+}	
+1295.4.25={
+	holder=457520 # Fernando IV de Borgoña
+}
+1312.9.7={
+	holder=457500 # Alfonso XI de Borgoña
+}
+1350.3.27={
+	holder=457501	#Peter the Cruel
+}
+1369.3.23={
+	holder=457510	#Henry II 
+}
+1379.5.29={
+	holder=370145	#John I
+}
+1390.10.9={
+	holder=370169	#Henry III the Infirm
+}
+1406.12.25={
+	holder=370174	#John II
+}
+1454.7.21={
+	holder=370193	#Henry IV the Impotent 
+}
+1474.12.11={
+	holder=370189	#Isabella I
+}
+1504.11.26={
+	holder=370344	#Joanna of Castile
+}
+1516.1.23={
+	de_jure_liege=e_espana_burgona
+}
+1516.3.13={
+	holder=370714	#Charles I the Emperor
+}
+1556.1.16={
+	holder=370718 #Philip II
+}
+1598.9.13={
+	holder=371850 #Philip III
+}
+1621.3.31={
+	holder=372606 #Philip IV
+}

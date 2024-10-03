@@ -1,0 +1,605 @@
+technology = {
+	titles = {
+		d_beothuk
+		d_akadie
+		d_epekwitk
+		d_kespek
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+
+technology = {
+	titles = {
+		d_qikiqtaaluk
+		d_nunavik
+		d_eeyou_istchee
+		d_nunatsiavut
+		d_gjoa
+		d_victorianew
+		d_vuntut
+		d_anchorage
+		d_kodiak
+		d_anchor_point
+		d_akutan
+		d_naknek
+		d_ekuk
+		d_togiak
+		d_tuntuliak
+		d_nome
+		d_utqiagvik
+		d_coral_harbour
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.1
+	}
+}
+
+technology = {
+	titles = {
+		d_nitassinan
+		d_neenoilno
+		d_tabadabor
+		d_kakapakho
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1.0
+		economy = 1.1
+		culture = 1.0
+	}
+}
+
+technology = {
+	titles = {
+		d_abitibi
+		d_ontario
+		d_huronia
+		d_skwentna
+		d_sahtu
+		d_fox_lake
+		d_edmonton
+		d_mckay
+		d_black_lake
+		d_dawson
+		d_dehcho
+		d_peawanuck
+		d_the_pass
+		d_neepawa
+		d_bienfait
+		d_manitou
+		d_ituna
+		d_assiniboia
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1500= {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+	}
+}
+
+technology = {
+	titles = {
+		d_madawaska
+		d_kennebec
+		d_iroquoisia
+	}
+	
+	769 = {
+		military = 0.2
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1500= {
+		military = 1.5
+		economy = 1.6
+		culture = 1.5
+	}
+	
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+	}
+}
+
+technology = {
+	titles = {
+		d_mahican
+		d_onondaga
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1500= {
+		military = 1.1
+		economy = 1.5
+		culture = 1.5
+	}
+	
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+	}
+}
+
+technology = {
+	titles = {
+		d_manhattan
+		d_delaware
+		d_powhatan
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1500= {
+		military = 1.6
+		economy = 1.4
+		culture = 1.2
+	}
+	
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+	}
+}
+technology = {
+	titles = {
+		d_littlerock
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.2
+		
+	}
+	
+	1500= {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	
+	1640 = {
+		military = 3
+		economy = 3
+		culture = 3
+	}
+}
+
+technology = {
+	titles = {
+		d_ohio
+		d_susquehanna
+		d_elkhart
+		d_whiteoak
+		d_chicago
+		d_greenbay
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+technology = {
+	titles = {
+		d_longmont
+		d_silverthorne
+		d_copper_hill
+		d_salt_lake
+		d_silver_peak
+		d_hennessey
+		d_black_canyon
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+technology = {
+	titles = {
+		d_arbon
+		d_heavens_peak
+		d_bowmont
+		d_brazens_rest
+		d_wolfswood
+		d_indians_circle
+		d_athol
+		d_whitefish
+		d_washtucna
+		d_kamloops
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+technology = {
+	titles = {
+		d_haida_gwaii
+		d_skagway
+		d_gingolx
+		d_vancouver
+		d_kyuquot
+		d_monmouth
+		d_elkton
+		d_pleasant_hill
+		d_great_burrow
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+technology = {
+	titles = {
+		d_pequop
+		d_longmont
+		d_silverthorne
+		d_copper_hill
+		d_salt_lake
+		d_silver_peak
+		d_hennessey
+		d_black_canyon
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+technology = {
+	titles = {
+		d_blackhill
+		d_brokenarrow
+		d_southhaven
+		d_olathe
+		d_tribune
+		d_anamoose
+		d_meriden
+		d_blackgrass
+		d_devils_tower
+		d_castor_rock
+		d_clearbrook
+		d_ancient_way
+		d_chippewa
+		d_villegreen
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_georgia2
+		d_florida
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_carolina
+		d_piedmont
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_vandalia
+		d_akron
+		d_eton
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_alabama
+		d_coahuila
+		d_louisiana
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_mississippi
+		d_tennessee
+		d_west_florida
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_the_mojave
+		d_yosemite
+		d_petaluma
+		d_timber_cove
+		d_fremont
+		d_long_beach
+		d_black_mesa
+		d_death_valley
+		d_cali
+		d_guachichil
+		d_tahues
+		d_cosala
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}	
+technology = {
+	titles = {
+		d_alamos
+		d_mescalero
+		d_redrock
+		d_greenvalley
+		d_tombstone
+		d_stagshead
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}		
+technology = {
+	titles = {
+		d_tamaulipas
+		d_tejas
+		d_tejas_plains
+		d_guasave
+		d_tehues
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_west_cuba
+		d_east_cuba
+		d_haiti
+		d_dominica
+		d_jamaica
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}
+
+technology = {
+	titles = {
+		d_antilles
+		d_leeward
+		d_windward
+		d_south_caribbean
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1640 = {
+		military = 1
+		economy = 1
+		culture = 1
+	}
+}

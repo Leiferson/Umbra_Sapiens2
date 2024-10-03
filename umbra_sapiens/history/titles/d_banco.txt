@@ -1,0 +1,63 @@
+20.1.1={
+	active = no
+	law = revoke_title_law_2
+	law = ze_administration_laws_1
+	law = law_voting_power_0
+	law = war_voting_power_0
+	law = revoke_title_voting_power_1
+	law = imprison_voting_power_1
+	law = grant_title_voting_power_1
+	law = banish_voting_power_1
+	law = execution_voting_power_1
+	law = succession_voting_power_1	
+	law = centralization_3
+}
+1407.4.27 ={
+	active = yes
+	liege="d_genoa"
+}
+1413.3.27={
+	liege=k_genoa
+}
+1421.11.23={
+	liege=k_france
+}
+1458.1.1={
+	liege=d_milan
+}
+1461.3.12={
+	liege="k_genoa"
+}
+1464.4.16={
+	liege=d_milan
+}
+1477.8.17={
+	liege="k_genoa"
+}
+1488.1.6={
+	liege=d_milan
+}
+1499.1.1={
+	liege=k_france
+}
+1507.4.10={
+	liege="k_genoa"
+}
+1507.4.27={
+	liege=k_france
+}
+1512.6.29={
+	liege="k_genoa"
+}
+1515.9.7={
+	liege=k_france
+}
+1522.5.31={
+	liege="k_genoa"
+}
+1527.8.1={
+	liege=k_france
+}
+1528.10.12={
+	liege="k_genoa"
+}

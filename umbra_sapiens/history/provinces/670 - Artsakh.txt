@@ -1,0 +1,19 @@
+# 670 - Artsakh
+
+# County Title
+title = c_artsakh
+
+# Settlements
+max_settlements = 4
+b_goroz = castle
+b_khachen = city
+b_amaras = temple
+
+#b_vaykunik = city
+
+# Misc
+culture = armenian
+religion = miaphysite
+
+# History
+

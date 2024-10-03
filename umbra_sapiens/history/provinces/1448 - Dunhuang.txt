@@ -1,0 +1,34 @@
+# County Title
+title = c_dunhuang
+
+# Settlements
+max_settlements = 6
+
+b_fangpan = castle
+b_dunhuang = city
+b_mogao = temple
+#b_yumenquan = castle
+#b_yueyaquan = castle
+#b_hongliuwan =
+#b_xuanquanzhi =
+
+# Misc
+culture = han
+religion = taoist
+1.1.1 = {
+build_wonder = wonder_wall
+set_wonder_stage = 1
+set_wonder_name = JADEGATE
+set_wonder_description = JADEGATEDESC
+build_wonder_upgrade = upgrade_gatehouse_forts
+build_wonder_upgrade = upgrade_deep_defense_architecture
+b_fangpan = ca_jd_wall_1
+}
+599.1.1 = {
+set_wonder_damaged = yes
+}
+# History
+1032.1.1 = {
+	culture = tangut
+	religion = buddhist
+}#Western Xia

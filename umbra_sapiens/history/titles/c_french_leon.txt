@@ -1,0 +1,133 @@
+550.1.1={
+	holder = 252337 #Withur
+}
+570.1.1={
+	holder = 252338 #Ausoch
+}
+769.1.1={
+	holder = 189431 #Morvan
+}
+788.1.1={
+	holder = 189432 #Concar
+}
+824.1.1={
+	holder = 159687 # Guyomarch of Leon
+}
+857.1.1={
+	holder = 163105
+}
+867.1.1={
+	holder = 159687
+}
+907.1.1={
+	liege=0
+}
+931.1.1={
+	liege=d_brittany
+}
+936.1.1={
+	holder=50002 #Alain II 'Barbe-Torte'
+}
+1021.1.1={
+	holder=10058 #Guyomar I
+}
+1050.1.1={
+	holder=10059 #Morvan
+}
+1067.1.1={
+	holder=91214 #Ehuarn
+}
+
+1085.1.1={
+	holder=91254 #Alan
+}
+
+1100.1.1={
+	holder=10060 #Guyomar II
+}
+
+1103.1.1={
+	holder=91215 #Hervé II
+}
+
+1168.1.1={
+	holder=205780 #Guyomar III
+}
+1179.1.1={
+	holder=205781 #Guyomar IV
+}
+
+1218.3.14={
+	holder=91218 #Guyomar de Léon
+}
+
+1231.5.1 ={
+	holder=91219 #Hervé III de Léon
+}
+
+1265.1.1={
+	holder=91220 #Hervé IV de Léon
+}
+
+1298.6.7={
+	holder=455789 #Jean II buy the viscounty of Léon
+}
+1305.11.18={
+	holder=455751 #Arthur II
+}
+1312.8.27={
+	holder=455750 #Jean III le Bon
+}
+1341.4.30 = {
+	liege=0
+	holder=455755	#Jean IV de Bretagne
+}
+1345.9.26 = {
+	holder=370725	#Jean V de Bretagne
+}
+1365.4.12 = {
+	holder=370725	#John IV, Duke of Brittany
+	liege=d_brittany
+}
+1399.11.1 = {
+	holder=370729	#John V, Duke of Brittany
+}
+1442.8.29 = {
+	holder=370792	#Francis I, Duke of Brittany
+}
+1450.7.17 = {
+	holder=370794	#Peter II, Duke of Brittany
+}
+1457.9.22 = {
+	holder=370732	#Arthur III, Duke of Brittany
+}
+1458.12.26 = {
+	holder=370797	#Francis II, Duke of Brittany
+}
+1488.9.9 = {
+	holder=371047	#Anne de Bretagne
+}
+1514.1.9 = {
+	holder=371094	#Claude de France (1499-1524)
+}
+1524.7.20 = {
+	holder=371099	#François de France (1518-1536)
+}
+1536.8.10 = {
+	holder=371100	#Henry II of France
+}
+1559.7.10={
+	holder=375095 #Francis II
+}
+1560.12.5={
+	holder=371693 #Charles IX
+}
+1574.5.30={
+	holder=371694 #Henry III
+}
+1589.8.2={
+	holder=371464 #Henry IV the Great
+}
+1610.5.14={
+	holder=371859 #Louis XIII the Just
+}
