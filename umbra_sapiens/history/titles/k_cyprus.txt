@@ -59,7 +59,7 @@
 }
 1473.7.10={
 	holder= 376154 #Catherine Cornaro
-	clr_tribute_suzerain=k_egypt
+	clear_tribute_suzerain = k_egypt
 	set_tribute_suzerain = {
 		who = k_venice
 		type = permanent 
@@ -67,5 +67,5 @@
 }
 1489.2.26={
 	holder=0	#Venetian take over
-	clr_tribute_suzerain=k_venice
+	clear_tribute_suzerain = k_venice
 }

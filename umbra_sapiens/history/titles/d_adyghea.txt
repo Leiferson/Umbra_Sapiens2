@@ -16,7 +16,7 @@
 # 769 START -----------------------------------------------------------------------------------------------
 741.1.1 = {
 	liege = 0
-	set_tribute_suzerain = { who = k_khazaria }
+	set_tribute_suzerain = { who = k_khazaria type = nomadic }
 	holder = 555101
 }
 768.1.1={

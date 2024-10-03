@@ -16,7 +16,7 @@
 # 769 START -----------------------------------------------------------------------------------------------
 758.1.1 = {
 	liege = 0
-	set_tribute_suzerain = { who = k_armenia }
+	set_tribute_suzerain = { who = d_kartli type = permanent }
 	holder = 555201
 }
 800.1.1={
@@ -25,6 +25,7 @@
 
 # 867 START -----------------------------------------------------------------------------------------------
 832.1.1={
+	clear_tribute_suzerain = d_kartli
 	clear_tribute_suzerain = e_arabia
 	holder=555203
 }
@@ -49,7 +50,7 @@
 	holder=555209
 }
 1124.4.18={
-	set_tribute_suzerain = { who = k_georgia }
+	set_tribute_suzerain = { who = k_georgia type = permanent }
 }
 1136.1.1={
 	holder=555210
@@ -70,6 +71,6 @@
 	holder=555214
 }
 1331.1.1={
-	set_tribute_suzerain = { who = c_kumukh }
+	set_tribute_suzerain = { who = c_kumukh type = permanent }
 	holder=555215
 }
