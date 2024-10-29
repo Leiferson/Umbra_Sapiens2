@@ -1,0 +1,117 @@
+769.1.1={
+	holder = 260385 # Prince Valhun of Carantania
+	liege = "d_carinthia"
+}
+863.1.1={
+	liege = "d_friuli"
+	holder = 168302
+}
+930.1.2=
+{
+	holder=32002
+	liege = d_carinthia
+}
+1000.4.14=
+{
+liege="d_carinthia"
+}
+1000.4.14={
+	holder = 1618
+}
+1039.1.1=
+{
+	holder=70622
+}
+1076.6.16 ={
+	holder = 70623
+}
+1090.5.12={
+	holder = 7674
+}
+1122.12.4={
+	holder = 7681
+}
+1123.1.1={
+	holder = 212997
+}
+1134.1.1={
+	holder = 7682
+}
+1144.1.1={
+	holder = 7683
+}
+1161.10.12={
+	holder= 212995
+}
+1181.10.4=
+{
+	holder=212990
+}
+1201.1.1={
+	holder = 7517
+}
+1256.1.4={
+	holder = 7519
+}
+1269.10.27={
+	holder = 96001
+}
+1278.8.26={
+	holder = 462021
+}
+1286.1.1=
+{
+	holder = 462711
+}
+1295.10.1=
+{
+	holder=462714 
+}
+1310.3.28=
+{
+	holder = 462720
+}
+1335.4.2=
+{
+	holder=462035
+}
+1339.2.17 = {
+	holder = 462020	#Albert II, Duke of Austria
+	law = succ_primogeniture
+}
+1358.8.16 = {
+	holder = 370388 #Rudolf IV, Duke of Austria
+}
+1365.7.27 = {
+	holder = 370393	#Leopold III, Duke of Austria
+}
+1386.7.9 = {
+	holder = 370472	#William, Duke of Austria
+}
+1406.7.15 = {
+	holder = 370474	#Ernest, Duke of Austria
+}
+1424.6.10 = {
+	holder = 370513	#Albert VI, Archduke of Austria
+}
+1463.12.2 = {
+	holder = 370511	#Frederick III, Holy Roman Emperor
+}
+1493.8.19 = {
+	holder = 371949	#Maximilian I, Holy Roman Emperor
+}
+1519.1.12 = {
+	holder = 370714	#Charles V, Holy Roman Emperor
+}
+1521.4.21 = {
+	holder = 370716	#Ferdinand I, Holy Roman Emperor
+}
+1564.7.25 = {
+	holder = 371822	#Charles II, Archduke of Austria
+}
+1590.7.10 = {
+	holder = 372594	#Ferdinand II, Holy Roman Emperor
+}
+1637.1.1={
+	holder = 372648 #Ferdinand IV, King of the Romans
+}

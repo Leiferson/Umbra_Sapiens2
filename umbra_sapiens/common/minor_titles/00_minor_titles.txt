@@ -5834,3 +5834,37 @@ title_silahdar_agha = {
 
 	message = yes
 }
+
+#raadpensionaris
+title_raadpensionaris = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 7
+	
+	monthly_salary = 0.1
+	monthly_prestige = 0.5
+	is_voter=yes
+
+	allowed_to_hold = {
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+		NOT = { trait = incapable } 
+	}
+	
+	allowed_to_grant = {
+	OR = {
+	has_landed_title = k_union
+	has_landed_title = e_union_netherlands
+	}
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}

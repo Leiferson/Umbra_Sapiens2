@@ -1,0 +1,186 @@
+750.1.1 = {
+	holder = 194071
+	liege = d_pommerania
+}
+799.1.1 = {
+	holder = 194072
+}
+822.1.1 = {
+	holder = 194073
+}
+867.1.1={
+holder=168589
+}
+936.1.1 = {
+	holder = 260571
+	liege = d_pomeralia
+}
+1066.1.1={
+	holder=30522
+	liege = d_pommerania
+}
+1068.1.1={	
+	holder=30523 
+}
+1092.1.1={
+	holder=30524
+}
+1106.1.1={
+	holder=221703
+}
+1122.1.1={
+	holder=221700
+}
+1136.1.1=
+{
+holder=221718 #Ratibor I
+}
+1155.1.1=
+{
+liege="d_pomeralia"
+}
+1155.1.1=
+{
+holder=221760 #Subislaw I
+}
+1187.1.29=
+{
+holder=221750 #Sambor I
+}
+1207.2.7=
+{
+holder=221755 #Mszczuj I
+}
+1219.5.1=
+{
+holder=221751 #Subislaw II
+}
+1223.12.28=
+{
+holder=30450 #Swietopelk I
+}
+1227.1.1=
+{
+holder=30452 #Wartislaw I
+}
+1233.5.4=
+{
+holder=30451 #Swietopelk II
+}
+1266.1.10=
+{
+holder=30453 #Sambor II
+}
+1270.1.1=
+{
+holder=30459 #Wartislaw II
+}
+1271.1.1=
+{
+holder=30458 #Mszczuj II
+}
+1294.12.25=
+{
+holder=125977 #Przemyslaw Piast
+}
+1296.2.8=
+{
+holder=471510 #Wladyslaw Piast
+}
+
+###Teutonic Order
+
+1308.11.13=
+{
+liege="d_teutonic_order"
+}
+1308.11.13=
+{
+holder=30414 #Siegfried von Feuchtwangen
+}
+1311.5.3=
+{
+holder=30415 #Karl von Trier
+}
+1324.2.11=
+{
+holder=30416 #Werner von Orseln
+}
+1330.11.18=
+{
+holder=30417 #Luther Welf
+}
+1335.4.18=
+{
+holder=474000 #Dietrich von Altenburg
+}
+1341.10.1 = {
+	holder=382759 #Ludolf König von Wattzau 	1342–1345 	
+}
+1345.1.1={
+	holder=382758	#Heinrich Dusemer 	1345–1351 	
+}
+1351.1.1={
+	holder=382757	#Winrich von Kniprode 	1351–1382 		
+}
+1382.6.24={
+	holder=382756	#Konrad Zöllner von Rotenstein 	1382–1390 		
+}
+1390.8.20={
+	holder=382755	#Konrad von Wallenrode 	1391–1393 		
+}
+1393.7.23={
+	holder=382754	#Konrad von Jungingen 	1393–1407 	
+}
+1407.3.30={
+	holder=382753	#Ulrich von Jungingen 	1407–1410
+}
+1410.7.15={
+	holder=382752	#Heinrich von Plauen 	1410–1413
+}
+1413.1.1={
+	holder=382751	#Michael Küchmeister von Sternberg 	1414–1422
+}
+1423.12.15={
+	holder=382750	#Paul von Rusdorf 	1422–1441
+}
+1441.1.1={
+	holder=382749	#Konrad von Erlichshausen 	1441–1449 
+}
+1449.1.1={
+	holder=382748	#Ludwig von Erlichshausen 	1449 or 1450–1467
+}
+1454.3.6={
+holder=371730	#Casimir IV Jagiellon
+liege=k_poland
+}
+1492.6.7={
+holder=371734	#John I Albert
+}
+1501.6.17={
+holder=371735	#Alexander Jagiellon
+}
+1506.8.19={
+holder=371737	#Sigismund I the Old
+}
+1548.4.1={
+holder=374084	#Sigismund II Augustus
+}
+1572.7.7={
+holder=371694	#Henry III of France
+}
+1575.5.12={
+holder=374086	#Anna Jagiellon
+}
+1576.5.1={
+holder=377211	#Stephen Báthory
+}
+1586.12.12 = {
+holder=374086	#Anna Jagiellon
+}
+1587.8.19={
+holder=375208	#Sigismund III Vasa
+}
+1632.4.30 = {
+holder=375217	#Wladyslaw IV Vasa
+}

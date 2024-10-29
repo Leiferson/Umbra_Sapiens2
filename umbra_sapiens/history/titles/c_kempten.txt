@@ -1,0 +1,142 @@
+757.1.1={
+	liege=k_bavaria
+}
+757.1.1={
+	holder = 190369 #Hahilingis
+}
+788.1.1={
+	liege = "k_bavaria"
+	holder = 6392 #Charlemagne
+}
+814.1.28={
+	holder = 30227 #Lothair I
+}
+817.1.1={
+	holder = 90095 #Louis I the Pious
+}
+829.1.1={
+	holder = 90107 #Louis II the German
+}
+864.1.1={
+	holder = 168310
+}
+
+895.1.1={
+	liege="d_bavaria"
+}
+899.1.1={
+	holder = 7969
+}
+907.1.1={
+	holder = 10097
+}
+923.1.1 = {
+	holder = 260582
+}
+973.1.1={
+	holder = 1294
+}
+976.1.1={
+	holder = 7965
+}
+983.1.1={
+	holder = 7972
+}
+985.1.1={
+	holder = 1294
+}
+995.1.1={
+	holder = 1296
+}
+1004.1.1={
+	holder = 1254
+}
+1009.1.1={
+	holder = 1296
+}
+1017.1.1={
+	holder = 1254
+}
+1026.1.1={
+	holder = 1314
+}
+1042.1.1={
+	holder = 1258
+}
+1047.1.1 = {	
+	holder = 30729
+}
+1053.1.1= {
+	holder = 1316
+} 
+1061.1.1={
+	holder=112600
+}
+1066.1.1=
+{
+	holder=33511
+}
+1095.1.1=
+{
+	holder=33513
+}
+1102.1.1=
+{
+	holder=212966
+}
+1161.1.1=
+{
+	holder=212964
+}
+1206.1.1=
+{
+	holder=33527
+}
+
+1247.1.1 = 
+{
+	holder = 462756
+}
+1253.11.29={
+	holder = 462750
+}
+1294.2.2={
+	holder = 462736
+}
+1317.1.12={
+	holder = 462740
+}
+1347.10.11 = {
+	holder = 462730	#Stephen II, Duke of Bavaria
+}
+1375.5.19 = {
+	holder = 370770	#Stephen III, Duke of Bavaria
+}
+1413.9.26 = {
+	holder = 370774	#Louis VII, Duke of Bavaria
+}
+1447.5.1 = {
+	holder = 371973	#Henry XVI, Duke of Bavaria
+}
+1450.7.30 = {
+	holder = 372376	#Louis IX, Duke of Bavaria
+}
+1479.2.18 = {
+	holder = 372384	#George, Duke of Bavaria
+}
+1503.12.1 = {
+	holder = 372181	#Albert IV, Duke of Bavaria
+	law = succ_primogeniture
+}
+1508.3.10 = {
+	holder = 372318	#William IV, Duke of Bavaria
+}
+1550.3.7 = {
+	holder = 372407	#Albert V, Duke of Bavaria
+}
+1579.10.24 = {
+	holder = 372411	#William V, Duke of Bavaria
+}
+1626.2.7 = {
+	holder = 372625	#Maximilian I, Elector of Bavaria
+}

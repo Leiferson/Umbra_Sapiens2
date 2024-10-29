@@ -1,0 +1,135 @@
+769.1.1 = {
+	holder = 194133
+}
+860.1.1 = {
+	holder = 6859
+}
+936.1.1 = {
+	holder = 260714
+	liege = k_ruthenia
+}
+989.1.2={
+	liege = 0
+	holder = 616
+}
+1001.1.2={
+	holder = 125000
+}
+1003.1.2={
+	holder=642
+}
+1044.1.2={
+	holder=650
+}
+1054.2.20 = {		#Death of Yaroslav the Wise, Rus' was pretty much less united than before but still governed by Kiev
+	set_tribute_suzerain = {
+		who = k_ruthenia
+		type = permanent 
+	}
+}
+1101.4.14={
+	holder=676
+}
+1127.1.2={
+	holder=680
+}
+1128.1.2={
+	holder=676
+}
+1129.1.2={
+	holder=222525
+}
+1132.1.2={
+	holder=222554
+}
+1144.1.2={
+	holder=125003
+}
+1151.1.2={
+	holder=222795
+}
+1159.1.2={
+	holder=125003
+}
+1162.1.2={
+	holder=222552
+}
+1169.1.2 = {		#When Kiev lost too much legitimacy to be a proper suzerain of the Rus principalities
+	clear_tribute_suzerain = k_ruthenia
+}
+1180.1.2={
+	holder=222562
+}
+1185.1.2={
+	holder=222550
+}
+1215.1.2={
+	holder=222560
+}
+1221.1.2={
+	holder=125136
+}
+1232.1.2={
+	holder=125010
+}
+1241.1.2={
+	holder=125306
+	liege="k_lithuania"
+}
+1264.1.2={
+	holder=125014
+}
+1280.1.2={
+	holder=125015
+}
+1282.1.2={
+	holder=125312
+}
+1299.1.2={
+	holder=472351
+}
+1334.1.1={
+	holder=473504
+}
+1348.1.1={
+	holder=382893	#Mikhail Glebovich Narymuntovich (1348-?)
+}
+1380.1.1={
+	holder=382894	#Vasili Mikhailovich Narymuntovich (14th century)
+}
+1398.1.1={
+	holder=382895	#Yuri Nos Vasilievich Narymuntovich (before 1398- after 1410)
+}
+1410.1.1={
+	holder=382897	#Yuri Semenovich (before 1440-after 1471)
+}
+1471.1.1={
+	holder=382896	#Vasili Olelkovich (1480–1495)
+}
+1495.6.4={
+	holder=382902	#Fyodor Ivanovich Borovsky 
+}
+1521.1.1={
+	holder=371737	#Sigismund I the Old
+}
+1548.4.1={
+holder=374084	#Sigismund II Augustus
+}
+1572.7.7={
+holder=371694	#Henry III of France
+}
+1575.5.12={
+holder=374086	#Anna Jagiellon
+}
+1576.5.1={
+holder=377211	#Stephen Báthory
+}
+1586.12.12 = {
+holder=374086	#Anna Jagiellon
+}
+1587.8.19={
+holder=375208	#Sigismund III Vasa
+}
+1632.4.30 = {
+holder=375217	#Wladyslaw IV Vasa
+}

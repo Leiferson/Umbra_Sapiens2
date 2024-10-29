@@ -1,0 +1,134 @@
+#County of Burgundy
+
+#Royal Domain
+769.1.1 = {
+	holder = 144999
+}
+855.8.23={
+	liege = "k_burgundy"
+	holder = 91383
+}
+859.1.1=
+{
+	holder=91384
+}
+880.1.1={
+	holder = 90105
+}
+888.1.14={
+	holder=7984
+}
+911.10.25={
+	holder=1144
+}
+936.1.1 = {
+	holder = 30245
+}
+937.12.1={
+	holder=1146
+}
+#House of Ivrée
+986.1.1 = {
+	liege="d_burgundy"
+	holder=272 #Otte-Guillaume
+}
+1026.1.1={
+	liege="e_hre"
+	holder=276 #Renaud I de Bourgogne
+}
+1042.1.1=
+{
+	holder=11000 #Ludwig
+}
+1073.1.1=
+{
+	holder = 20250 #Thierry
+}
+1103.1.2=
+{
+	holder = 7656 #Friedrich
+}
+1160.8.19=
+{
+	holder = 7658 #Ludwig
+}
+1180.1.1=
+{
+	holder = 34321 #Ulrich
+}
+1194.1.1=
+{
+	holder = 34325 #Ludwig
+}
+1198.1.1=
+{
+	holder = 7659 #Friedrich
+}
+
+1234.1.1=
+{
+	holder = 7661 #Ulrich
+}
+1268.10.29={
+	liege="e_hre"
+}
+1275.2.1=
+{
+	holder = 462307 #Theobald
+}
+1310.1.1=
+{
+	holder = 462034 #Ulrich
+}
+1324.11.3=
+{
+	holder=462020
+}
+1358.8.16 = {
+	holder = 370388	#Rudolf IV, Duke of Austria
+}
+1365.7.27 = {
+	holder = 370392	#Albert III, Duke of Austria
+}
+1395.8.29 = {
+	holder = 370416	#Albert IV, Duke of Austria
+}
+1404.9.14 = {
+	holder = 370473	#Leopold IV, Duke of Austria
+}
+1411.6.3 = {
+	holder = 370475	#Frederick IV, Duke of Austria
+}
+1439.6.24 = {
+	holder = 373120	#Sigismund, Archduke of Austria
+}
+1490.1.1={
+	holder=371949	#Maximilian I
+}
+1519.1.12={
+	holder=370714	#Charles V
+}
+1556.8.27={
+	holder=370716	#Ferdinand I
+}
+1564.7.25={
+	holder=371814	#Ferdinand II, Archduke of Austria
+}
+1595.1.24 = {
+	holder=371833	#Matthias, Holy Roman Emperor
+}
+1612.1.1={
+	holder=371834	#Maximilian III, Archduke of Austria
+}
+1618.11.2 = {
+	holder=371833	#Matthias, Holy Roman Emperor
+}
+1619.3.20 = {
+	holder=372594	#Ferdinand II, Holy Roman Emperor
+}
+1623.1.1={
+	holder=372600	#Leopold V, Archduke of Austria
+}
+1632.9.13 = {
+	holder=372642	#Ferdinand Charles, Archduke of Austria
+}

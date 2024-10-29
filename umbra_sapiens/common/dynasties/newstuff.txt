@@ -727,11 +727,6 @@
 	culture = frankish
 	religion = catholic
 }  
-1010043170= {
-	name="de Joinville"
-	culture = frankish
-	religion = catholic
-}  
 1010043171= {
 	name="de Harcourt"
 	culture = frankish
@@ -869,11 +864,6 @@
 }
 1010043200= {
 	name="Pilecki"
-	culture = polish
-	religion = catholic
-}
-1010043201= {
-	name="Olshansky"
 	culture = polish
 	religion = catholic
 }
@@ -1348,7 +1338,7 @@
 	religion = catholic
 }
 1010043296= {
-	name="Olshansky"
+	name="Alshenishkis"
 	culture = lithuanian
 	religion = catholic
 }
@@ -1378,8 +1368,8 @@
 	religion = catholic
 }
 1010043302= {
-	name="de Fürstenberg"
-	culture = frankish
+	name="von Fürstenberg"
+	culture = german
 	religion = catholic
 }
 1010043303= {
@@ -1439,11 +1429,6 @@
 }
 1010043315= {
 	name="von Hohengeroldseck"
-	culture = german
-	religion = catholic
-}
-1010043316= {
-	name="von Leiningen"
 	culture = german
 	religion = catholic
 }
@@ -2034,11 +2019,6 @@
 }
 1010043439= {
 	name="de Lalaing" 
-	culture = frankish
-	religion = catholic
-}
-1010043440= {
-	name="de Berlaymont" 
 	culture = frankish
 	religion = catholic
 }
@@ -6202,5 +6182,1515 @@
 1010044234= {
 	name="Gyllenstierna"
 	culture = swedish
+	religion = catholic
+}
+1010044235= {
+	name="Slagheck"
+	culture = swedish
+	religion = catholic
+}
+1010044236= {
+	name="Jacobi"
+	culture = swedish
+	religion = catholic
+}
+1010044237= {
+	name="Hjort"
+	culture = swedish
+	religion = catholic
+}
+1010044238= {
+	name="Falck"
+	culture = swedish
+	religion = catholic
+}
+1010044239= {
+	name="Hwass"
+	culture = swedish
+	religion = catholic
+}
+1010044240= {
+	name="Swart"
+	culture = swedish
+	religion = catholic
+}
+1010044241= {
+	name="Johannis"
+	culture = swedish
+	religion = catholic
+}
+1010044242= {
+	name="Kenicius"
+	culture = swedish
+	religion = catholic
+}
+1010044243= {
+	name="Wexionensis"
+	culture = swedish
+	religion = catholic
+}
+1010044244= {
+	name="van Virneburg"
+	culture = dutch
+	religion = catholic
+}
+1010044245= {
+	name="van Horne"
+	culture = dutch
+	religion = catholic
+}
+1010044246= {
+	name="van Wevelinkhoven"
+	culture = dutch
+	religion = catholic
+}
+1010044247= {
+	name="van Diepholt"
+	culture = dutch
+	religion = catholic
+}
+1010044248= {
+	name="van Culemborg"
+	culture = dutch
+	religion = catholic
+}
+1010044249= {
+	name="van Brederode"
+	culture = dutch
+	religion = catholic
+}
+1010044250= {
+	name="van Enckevoirt"
+	culture = dutch
+	religion = catholic
+}
+1010044251= {
+	name="van Toutenburg"
+	culture = dutch
+	religion = catholic
+}
+1010044252= {
+	name="von Mansfeld"
+	culture = german
+	religion = catholic
+}
+1010044253= {
+	name="Welser"
+	culture = german
+	religion = catholic
+}
+1010044254= {
+	name="von Villanders"
+	culture = german
+	religion = catholic
+}
+1010044255= {
+	name="von Hertenberg"
+	culture = german
+	religion = catholic
+}
+1010044256= {
+	name="de Vergy"
+	culture = frankish
+	religion = catholic
+}
+1010044257= {
+	name="de Rye"
+	culture = frankish
+	religion = catholic
+}
+1010044258= {
+	name="de La Baume"
+	culture = frankish
+	religion = catholic
+}
+1010044259= {
+	name="de Hénin"
+	culture = frankish
+	religion = catholic
+}
+1010044260= {
+	name="de Noircarmes"
+	culture = frankish
+	religion = catholic
+}
+1010044261= {
+	name="van Berlaymont"
+	culture = dutch
+	religion = catholic
+}
+1010044262= {
+	name="van Nieuwenaar"
+	culture = dutch
+	religion = catholic
+}
+1010044263= {
+	name="van Lalaing"
+	culture = dutch
+	religion = catholic
+}
+1010044264= {
+	name="van Borselen"
+	culture = dutch
+	religion = catholic
+}
+1010044265= {
+	name="van Gruuthuse"
+	culture = dutch
+	religion = catholic
+}
+1010044266= {
+	name="de Wilde"
+	culture = dutch
+	religion = catholic
+}
+1010044267= {
+	name="de Robles"
+	culture = dutch
+	religion = catholic
+}
+1010044268= {
+	name="Verdugo"
+	culture = castillan
+	religion = catholic
+}
+1010044269= {
+	name="van den Bergh"
+	culture = dutch
+	religion = catholic
+}
+1010044270= {
+	name="van Marwijck"
+	culture = dutch
+	religion = catholic
+}
+1010044271= {
+	name="van Hembyse"
+	culture = dutch
+	religion = catholic
+}
+1010044272= {
+	name="von Walenrode"
+	culture = german
+	religion = catholic
+}
+1010044273= {
+	name="von Grœsbeek"
+	culture = german
+	religion = catholic
+}
+1010044274= {
+	name="de Bourbon-Montperoux"
+	culture = frankish
+	religion = catholic
+}
+1010044275= {
+	name="de Dampierre Saint-Dizier"
+	culture = frankish
+	religion = catholic
+}
+1010044276= {
+	name="de Cousance"
+	culture = frankish
+	religion = catholic
+}
+1010044277= {
+	name="de Sarrebruck"
+	culture = frankish
+	religion = catholic
+}
+1010044278= {
+	name="de Haraucourt"
+	culture = frankish
+	religion = catholic
+}
+1010044279= {
+	name="Fillâtre"
+	culture = frankish
+	religion = catholic
+}
+1010044280= {
+	name="de Dommartin"
+	culture = frankish
+	religion = catholic
+}
+1010044281= {
+	name="Psaume"
+	culture = frankish
+	religion = catholic
+}
+1010044282= {
+	name="Bousmard"
+	culture = frankish
+	religion = catholic
+}
+1010044283= {
+	name="Boucher"
+	culture = frankish
+	religion = catholic
+}
+1010044284= {
+	name="von Waldburg"
+	culture = german
+	religion = catholic
+}
+1010044285= {
+	name="von Wied"
+	culture = german
+	religion = catholic
+}
+1010044286= {
+	name="von Saarwerden"
+	culture = german
+	religion = catholic
+}
+1010044287= {
+	name="von Gennep"
+	culture = german
+	religion = catholic
+}
+1010044288= {
+	name="von Ziegenhain"
+	culture = german
+	religion = catholic
+}
+1010044289= {
+	name="von Helmstadt"
+	culture = german
+	religion = catholic
+}
+1010044290= {
+	name="von Greiffenclau zu Vollrads"
+	culture = german
+	religion = catholic
+}
+1010044291= {
+	name="von Metzenhausen"
+	culture = german
+	religion = catholic
+}
+1010044292= {
+	name="von Hagen"
+	culture = german
+	religion = catholic
+}
+1010044293= {
+	name="von Eltz"
+	culture = german
+	religion = catholic
+}
+1010044294= {
+	name="von Schönenberg"
+	culture = german
+	religion = catholic
+}
+1010044295= {
+	name="von Metternich"
+	culture = german
+	religion = catholic
+}
+1010044296= {
+	name="von Sötern"
+	culture = german
+	religion = catholic
+}
+1010044297= {
+	name="von Liebenstein"
+	culture = german
+	religion = catholic
+}
+1010044298= {
+	name="von Gemmingen"
+	culture = german
+	religion = catholic
+}
+1010044299= {
+	name="von Heusenstamm"
+	culture = german
+	religion = catholic
+}
+1010044300= {
+	name="von Homburg"
+	culture = german
+	religion = catholic
+}
+1010044301= {
+	name="von Dalberg"
+	culture = german
+	religion = catholic
+}
+1010044302= {
+	name="von Bicken"
+	culture = german
+	religion = catholic
+}
+1010044303= {
+	name="von Cronberg"
+	culture = german
+	religion = catholic
+}
+1010044304= {
+	name="von Umstadt"
+	culture = german
+	religion = catholic
+}
+1010044305= {
+	name="von Bardeleben"
+	culture = german
+	religion = catholic
+}
+1010044306= {
+	name="von Man"
+	culture = german
+	religion = catholic
+}
+1010044307= {
+	name="Woepelitz"
+	culture = german
+	religion = catholic
+}
+1010044308= {
+	name="von Rohr"
+	culture = german
+	religion = catholic
+}
+1010044309= {
+	name="von Lintorff"
+	culture = german
+	religion = catholic
+}
+1010044310= {
+	name="Gans zu Putlitz"
+	culture = german
+	religion = catholic
+}
+1010044311= {
+	name="von Alvensleben"
+	culture = german
+	religion = catholic
+}
+1010044312= {
+	name="von Königsmarck"
+	culture = german
+	religion = catholic
+}
+1010044313= {
+	name="von Schlabrendorf"
+	culture = german
+	religion = catholic
+}
+1010044314= {
+	name="von Blumenthal"
+	culture = german
+	religion = catholic
+}
+1010044315= {
+	name="von Schultz"
+	culture = german
+	religion = catholic
+}
+1010044316= {
+	name="von Portitz"
+	culture = german
+	religion = catholic
+}
+1010044317= {
+	name="von Leisnig"
+	culture = german
+	religion = catholic
+}
+1010044318= {
+	name="von Schalksberg"
+	culture = german
+	religion = catholic
+}
+1010044319= {
+	name="von Randegg"
+	culture = german
+	religion = catholic
+}
+1010044320= {
+	name="von Büschen"
+	culture = german
+	religion = catholic
+}
+1010044321= {
+	name="von Rietberg"
+	culture = german
+	religion = catholic
+}
+1010044322= {
+	name="von Hallermund"
+	culture = german
+	religion = catholic
+}
+1010044323= {
+	name="von Wevelinghoven"
+	culture = german
+	religion = catholic
+}
+1010044324= {
+	name="von Pothenstein"
+	culture = german
+	religion = catholic
+}
+1010044325= {
+	name="von Lüdinghausen"
+	culture = german
+	religion = catholic
+}
+1010044326= {
+	name="von Raesfeld"
+	culture = german
+	religion = catholic
+}
+1010044327= {
+	name="von Slamstorp"
+	culture = german
+	religion = catholic
+}
+1010044328= {
+	name="von Wenden"
+	culture = german
+	religion = catholic
+}
+1010044329= {
+	name="von Wale"
+	culture = german
+	religion = catholic
+}
+1010044330= {
+	name="von Hut"
+	culture = german
+	religion = catholic
+}
+1010044331= {
+	name="von Schencking"
+	culture = german
+	religion = catholic
+}
+1010044332= {
+	name="Bayer von Bopard"
+	culture = german
+	religion = catholic
+}
+1010044333= {
+	name="Beaucaire de Péguillon"
+	culture = frankish
+	religion = catholic
+}
+1010044334= {
+	name="d'Escars de Givry"
+	culture = frankish
+	religion = catholic
+}
+1010044335= {
+	name="de Balzac d'Entragues"
+	culture = frankish
+	religion = catholic
+}
+1010044336= {
+	name="von Hohenberg"
+	culture = german
+	religion = catholic
+}
+1010044337= {
+	name="von Egloffstein"
+	culture = german
+	religion = catholic
+}
+1010044338= {
+	name="von Brunn"
+	culture = german
+	religion = catholic
+}
+1010044339= {
+	name="von Grumbach"
+	culture = german
+	religion = catholic
+}
+1010044340= {
+	name="von Scherenberg"
+	culture = german
+	religion = catholic
+}
+1010044341= {
+	name="von Thüngen"
+	culture = german
+	religion = catholic
+}
+1010044342= {
+	name="von Giebelstadt"
+	culture = german
+	religion = catholic
+}
+1010044343= {
+	name="von Wirsberg"
+	culture = german
+	religion = catholic
+}
+1010044344= {
+	name="von Mespelbrunn"
+	culture = german
+	religion = catholic
+}
+1010044345= {
+	name="von Aschhausen"
+	culture = german
+	religion = catholic
+}
+1010044346= {
+	name="von Ehrenberg"
+	culture = german
+	religion = catholic
+}
+1010044347= {
+	name="von Hatzfeld"
+	culture = german
+	religion = catholic
+}
+1010044348= {
+	name="Gelyto"
+	culture = german
+	religion = catholic
+}
+1010044349= {
+	name="von Erdingen"
+	culture = german
+	religion = catholic
+}
+1010044350= {
+	name="von Werdenberg"
+	culture = german
+	religion = catholic
+}
+1010044351= {
+	name="von Ambundi"
+	culture = german
+	religion = catholic
+}
+1010044352= {
+	name="von Naso"
+	culture = german
+	religion = catholic
+}
+1010044353= {
+	name="von Rechberg"
+	culture = german
+	religion = catholic
+}
+1010044354= {
+	name="von Höwen"
+	culture = german
+	religion = catholic
+}
+1010044355= {
+	name="von Wyssmayer"
+	culture = german
+	religion = catholic
+}
+1010044356= {
+	name="von Brandis"
+	culture = german
+	religion = catholic
+}
+1010044357= {
+	name="von Höwen"
+	culture = german
+	religion = catholic
+}
+1010044358= {
+	name="von Hake"
+	culture = german
+	religion = catholic
+}
+1010044359= {
+	name="von Jägerndorf"
+	culture = german
+	religion = catholic
+}
+1010044360= {
+	name="von Sturmberg"
+	culture = german
+	religion = catholic
+}
+1010044361= {
+	name="von Wehingen"
+	culture = german
+	religion = catholic
+}
+1010044362= {
+	name="von Hebenstreit"
+	culture = german
+	religion = catholic
+}
+1010044363= {
+	name="von Schlick"
+	culture = german
+	religion = catholic
+}
+1010044364= {
+	name="von Grünwald"
+	culture = german
+	religion = catholic
+}
+1010044365= {
+	name="von Tulbeck"
+	culture = german
+	religion = catholic
+}
+1010044366= {
+	name="von Tannberg"
+	culture = german
+	religion = catholic
+}
+1010044367= {
+	name="von Hilkertshausen"
+	culture = german
+	religion = catholic
+}
+1010044368= {
+	name="von Sandizell"
+	culture = german
+	religion = catholic
+}
+1010044369= {
+	name="von Seiboldsdorf"
+	culture = german
+	religion = catholic
+}
+1010044370= {
+	name="von Arnsbach"
+	culture = german
+	religion = catholic
+}
+1010044371= {
+	name="von Pirnbrunn"
+	culture = german
+	religion = catholic
+}
+1010044372= {
+	name="von Wiesseneck"
+	culture = german
+	religion = catholic
+}
+1010044373= {
+	name="von Puchheim"
+	culture = german
+	religion = catholic
+}
+1010044374= {
+	name="von Osterwitz"
+	culture = german
+	religion = catholic
+}
+1010044375= {
+	name="von Neuhaus"
+	culture = german
+	religion = catholic
+}
+1010044376= {
+	name="von Starhemberg"
+	culture = german
+	religion = catholic
+}
+1010044377= {
+	name="von Reisberg"
+	culture = german
+	religion = catholic
+}
+1010044378= {
+	name="von Emmerberg"
+	culture = german
+	religion = catholic
+}
+1010044379= {
+	name="von Volkersdorf"
+	culture = german
+	religion = catholic
+}
+1010044380= {
+	name="von Weißpriach"
+	culture = german
+	religion = catholic
+}
+1010044381= {
+	name="von Beckenschlager"
+	culture = german
+	religion = catholic
+}
+1010044382= {
+	name="von Schaumberg"
+	culture = german
+	religion = catholic
+}
+1010044383= {
+	name="von Hollenegg"
+	culture = german
+	religion = catholic
+}
+1010044384= {
+	name="von Keutschach"
+	culture = german
+	religion = catholic
+}
+1010044385= {
+	name="von Wellenburg"
+	culture = german
+	religion = catholic
+}
+1010044386= {
+	name="von Kuenburg"
+	culture = german
+	religion = catholic
+}
+1010044387= {
+	name="von Kuen-Belasy"
+	culture = german
+	religion = catholic
+}
+1010044388= {
+	name="von Raitenau"
+	culture = german
+	religion = catholic
+}
+1010044389= {
+	name="von Hohenems"
+	culture = german
+	religion = catholic
+}
+1010044390= {
+	name="von Lodron"
+	culture = german
+	religion = catholic
+}
+1010044391= {
+	name="Caetani"
+	culture = italian
+	religion = catholic
+}
+1010044392= {
+	name="Panciera"
+	culture = italian
+	religion = catholic
+}
+1010044393= {
+	name="von Teck"
+	culture = german
+	religion = catholic
+}
+1010044394= {
+	name="Scarampi"
+	culture = italian
+	religion = catholic
+}
+1010044395= {
+	name="Barbo"
+	culture = italian
+	religion = catholic
+}
+1010044396= {
+	name="Barbaro"
+	culture = italian
+	religion = catholic
+}
+1010044397= {
+	name="Donati"
+	culture = italian
+	religion = catholic
+}
+1010044398= {
+	name="di Magnoco"
+	culture = italian
+	religion = catholic
+}
+1010044399= {
+	name="di Pistoia"
+	culture = italian
+	religion = catholic
+}
+1010044400= {
+	name="von Liechtenstein"
+	culture = german
+	religion = catholic
+}
+1010044401= {
+	name="von Flechtel"
+	culture = german
+	religion = catholic
+}
+1010044402= {
+	name="von Themeswald"
+	culture = german
+	religion = catholic
+}
+1010044403= {
+	name="von Hinderbach"
+	culture = german
+	religion = catholic
+}
+1010044404= {
+	name="von Frundsberg"
+	culture = german
+	religion = catholic
+}
+1010044405= {
+	name="von Neideck"
+	culture = german
+	religion = catholic
+}
+1010044406= {
+	name="Clesio"
+	culture = italian
+	religion = catholic
+}
+1010044407= {
+	name="von Coesfeld"
+	culture = german
+	religion = catholic
+}
+1010044408= {
+	name="von Güstrow"
+	culture = german
+	religion = catholic
+}
+1010044409= {
+	name="von Pleskow"
+	culture = german
+	religion = catholic
+}
+1010044410= {
+	name="von Swerting"
+	culture = german
+	religion = catholic
+}
+1010044411= {
+	name="von Attendorn"
+	culture = german
+	religion = catholic
+}
+1010044412= {
+	name="von Morkerke"
+	culture = german
+	religion = catholic
+}
+1010044413= {
+	name="von Travelmann"
+	culture = german
+	religion = catholic
+}
+1010044414= {
+	name="von Westhof"
+	culture = german
+	religion = catholic
+}
+1010044415= {
+	name="von Brekewoldt"
+	culture = german
+	religion = catholic
+}
+1010044416= {
+	name="von Pleskow"
+	culture = german
+	religion = catholic
+}
+1010044417= {
+	name="von Bere"
+	culture = german
+	religion = catholic
+}
+1010044418= {
+	name="von Klingenberg"
+	culture = german
+	religion = catholic
+}
+1010044419= {
+	name="von Lüneburg"
+	culture = german
+	religion = catholic
+}
+1010044420= {
+	name="von Calven"
+	culture = german
+	religion = catholic
+}
+1010044421= {
+	name="von Witig"
+	culture = german
+	religion = catholic
+}
+1010044422= {
+	name="von Stiten"
+	culture = german
+	religion = catholic
+}
+1010044423= {
+	name="von Castorp"
+	culture = german
+	religion = catholic
+}
+1010044424= {
+	name="von Wickinghof"
+	culture = german
+	religion = catholic
+}
+1010044425= {
+	name="von Thuenen"
+	culture = german
+	religion = catholic
+}
+1010044426= {
+	name="von Brömse"
+	culture = german
+	religion = catholic
+}
+1010044427= {
+	name="von Hertze"
+	culture = german
+	religion = catholic
+}
+1010044429= {
+	name="von Meyer"
+	culture = german
+	religion = catholic
+}
+1010044430= {
+	name="von Falcke"
+	culture = german
+	religion = catholic
+}
+1010044431= {
+	name="von Gercken"
+	culture = german
+	religion = catholic
+}
+1010044432= {
+	name="von Hoeveln"
+	culture = german
+	religion = catholic
+}
+1010044433= {
+	name="von Bardewik"
+	culture = german
+	religion = catholic
+}
+1010044434= {
+	name="von Tode"
+	culture = german
+	religion = catholic
+}
+1010044435= {
+	name="von Ploennies"
+	culture = german
+	religion = catholic
+}
+1010044436= {
+	name="von Brokes"
+	culture = german
+	religion = catholic
+}
+1010044437= {
+	name="von Broemse"
+	culture = german
+	religion = catholic
+}
+1010044438= {
+	name="von Dorne"
+	culture = german
+	religion = catholic
+}
+1010044439= {
+	name="von Garmers"
+	culture = german
+	religion = catholic
+}
+1010044440= {
+	name="von Bording"
+	culture = german
+	religion = catholic
+}
+1010044441= {
+	name="von Vinhagen"
+	culture = german
+	religion = catholic
+}
+1010044442= {
+	name="von Moeller"
+	culture = german
+	religion = catholic
+}
+1010044443= {
+	name="von Koehler"
+	culture = german
+	religion = catholic
+}
+1010044444= {
+	name="Sitzsch"
+	culture = polish
+	religion = catholic
+}
+1010044445= {
+	name="von Tiefen"
+	culture = german
+	religion = catholic
+}
+1010044446= {
+	name="von Wetzhausen zu Dachsbach"
+	culture = german
+	religion = catholic
+}
+1010044447= {
+	name="von Richtenberg"
+	culture = german
+	religion = catholic
+}
+1010044448= {
+	name="von Plauen"
+	culture = german
+	religion = catholic
+}
+1010044449= {
+	name="von Erlichshausen"
+	culture = german
+	religion = catholic
+}
+1010044450= {
+	name="von Rusdorf"
+	culture = german
+	religion = catholic
+}
+1010044451= {
+	name="von Sternberg"
+	culture = german
+	religion = catholic
+}
+1010044452= {
+	name="von Jungingen"
+	culture = german
+	religion = catholic
+}
+1010044453= {
+	name="von Wallenrode"
+	culture = german
+	religion = catholic
+}
+1010044454= {
+	name="Zoellner von Rotenstein"
+	culture = german
+	religion = catholic
+}
+1010044455= {
+	name="von Kniprode"
+	culture = german
+	religion = catholic
+}
+1010044456= {
+	name="von Arfberg"
+	culture = german
+	religion = catholic
+}
+1010044457= {
+	name="von Wattzau"
+	culture = german
+	religion = catholic
+}
+1010044458= {
+	name="von Balk"
+	culture = german
+	religion = catholic
+}
+1010044459= {
+	name="von Grüningen"
+	culture = german
+	religion = catholic
+}
+1010044460= {
+	name="von Stierland"
+	culture = german
+	religion = catholic
+}
+1010044461= {
+	name="von Sangershausen"
+	culture = german
+	religion = catholic
+}
+1010044462= {
+	name="von Hornhausen"
+	culture = german
+	religion = catholic
+}
+1010044463= {
+	name="von Breithausen"
+	culture = german
+	religion = catholic
+}
+1010044464= {
+	name="von Mandern"
+	culture = german
+	religion = catholic
+}
+1010044465= {
+	name="von Lutterberg"
+	culture = german
+	religion = catholic
+}
+1010044466= {
+	name="von Nortecken"
+	culture = german
+	religion = catholic
+}
+1010044467= {
+	name="von Rassburg"
+	culture = german
+	religion = catholic
+}
+1010044468= {
+	name="von Feuchtwangen"
+	culture = german
+	religion = catholic
+}
+1010044469= {
+	name="von Endorp"
+	culture = german
+	religion = catholic
+}
+1010044470= {
+	name="von Herzogenstein"
+	culture = german
+	religion = catholic
+}
+1010044471= {
+	name="von Hohembach"
+	culture = german
+	religion = catholic
+}
+1010044472= {
+	name="von Dinkelaghe"
+	culture = german
+	religion = catholic
+}
+1010044473= {
+	name="von Rogga"
+	culture = german
+	religion = catholic
+}
+1010044474= {
+	name="von Joeck"
+	culture = german
+	religion = catholic
+}
+1010044475= {
+	name="Ungenade"
+	culture = german
+	religion = catholic
+}
+1010044476= {
+	name="Hane"
+	culture = german
+	religion = catholic
+}
+1010044477= {
+	name="von Monheim"
+	culture = german
+	religion = catholic
+}
+1010044478= {
+	name="von Dreileben"
+	culture = german
+	religion = catholic
+}
+1010044479= {
+	name="von Hercke"
+	culture = german
+	religion = catholic
+}
+1010044480= {
+	name="von Vietinghof"
+	culture = german
+	religion = catholic
+}
+1010044481= {
+	name="von Vrymersheim"
+	culture = german
+	religion = catholic
+}
+1010044482= {
+	name="Hasenkamp von Brueggeneye"
+	culture = german
+	religion = catholic
+}
+1010044483= {
+	name="Tork"
+	culture = german
+	religion = catholic
+}
+1010044484= {
+	name="von Spanheim"
+	culture = german
+	religion = catholic
+}
+1010044485= {
+	name="von Rutenberg"
+	culture = german
+	religion = catholic
+}
+1010044486= {
+	name="von Kerskorff"
+	culture = german
+	religion = catholic
+}
+1010044487= {
+	name="von Bockenvorde"
+	culture = german
+	religion = catholic
+}
+1010044488= {
+	name="von Overbergen"
+	culture = german
+	religion = catholic
+}
+1010044489= {
+	name="von Mengede"
+	culture = german
+	religion = catholic
+}
+1010044490= {
+	name="von Herse"
+	culture = german
+	religion = catholic
+}
+1010044491= {
+	name="von der Borch"
+	culture = german
+	religion = catholic
+}
+1010044492= {
+	name="Freytag von Loringhoven"
+	culture = german
+	religion = catholic
+}
+1010044493= {
+	name="von Plettenberg"
+	culture = german
+	religion = catholic
+}
+1010044494= {
+	name="von der Recke"
+	culture = german
+	religion = catholic
+}
+1010044495= {
+	name="von Galen"
+	culture = german
+	religion = catholic
+}
+1010044496= {
+	name="Kettler"
+	culture = german
+	religion = catholic
+}
+1010044497= {
+	name="von Vyffhusen"
+	culture = german
+	religion = catholic
+}
+1010044498= {
+	name="von Blomberg"
+	culture = german
+	religion = catholic
+}
+1010044499= {
+	name="von Sinten"
+	culture = german
+	religion = catholic
+}
+1010044500= {
+	name="von Wallenrodt"
+	culture = german
+	religion = catholic
+}
+1010044501= {
+	name="von Scharpenberg"
+	culture = german
+	religion = catholic
+}
+1010044502= {
+	name="von Stodewescher"
+	culture = german
+	religion = catholic
+}
+1010044503= {
+	name="von Hildebrand"
+	culture = german
+	religion = catholic
+}
+1010044504= {
+	name="von Linde"
+	culture = german
+	religion = catholic
+}
+1010044505= {
+	name="von Blankenfeld"
+	culture = german
+	religion = catholic
+}
+1010044506= {
+	name="von Schöning"
+	culture = german
+	religion = catholic
+}
+1010044507= {
+	name="von Velde"
+	culture = german
+	religion = catholic
+}
+1010044508= {
+	name="von Damerow"
+	culture = german
+	religion = catholic
+}
+1010044509= {
+	name="von Wrangel"
+	culture = german
+	religion = catholic
+}
+1010044510= {
+	name="von Buelow"
+	culture = german
+	religion = catholic
+}
+1010044511= {
+	name="von Resler"
+	culture = german
+	religion = catholic
+}
+1010044512= {
+	name="von Savijerwe"
+	culture = german
+	religion = catholic
+}
+1010044513= {
+	name="von Mallinckrodt"
+	culture = german
+	religion = catholic
+}
+1010044514= {
+	name="von Pepler"
+	culture = german
+	religion = catholic
+}
+1010044515= {
+	name="von Bertkow"
+	culture = german
+	religion = catholic
+}
+1010044516= {
+	name="von der Rope"
+	culture = german
+	religion = catholic
+}
+1010044517= {
+	name="von Schrove"
+	culture = german
+	religion = catholic
+}
+1010044518= {
+	name="von Duesborg"
+	culture = german
+	religion = catholic
+}
+1010044519= {
+	name="von Bomhower"
+	culture = german
+	religion = catholic
+}
+1010044520= {
+	name="von Wesel"
+	culture = german
+	religion = catholic
+}
+1010044521= {
+	name="von Kniprode"
+	culture = german
+	religion = catholic
+}
+1010044522= {
+	name="von Schuwenflug"
+	culture = german
+	religion = catholic
+}
+1010044523= {
+	name="von Kuband"
+	culture = german
+	religion = catholic
+}
+1010044524= {
+	name="von Schutte"
+	culture = german
+	religion = catholic
+}
+1010044525= {
+	name="von Kreuwel"
+	culture = german
+	religion = catholic
+}
+1010044526= {
+	name="von Grove"
+	culture = german
+	religion = catholic
+}
+1010044527= {
+	name="von Hoenstein"
+	culture = german
+	religion = catholic
+}
+1010044528= {
+	name="von Wetberg"
+	culture = german
+	religion = catholic
+}
+1010044529= {
+	name="von Orgas"
+	culture = german
+	religion = catholic
+}
+1010044530= {
+	name="von Kievel"
+	culture = german
+	religion = catholic
+}
+1010044531= {
+	name="von Tiesenhausen"
+	culture = german
+	religion = catholic
+}
+1010044532= {
+	name="von Buxhoeveden"
+	culture = german
+	religion = catholic
+}
+1010044533= {
+	name="von Muenchhausen"
+	culture = german
+	religion = catholic
+}
+1010044534= {
+	name="Astikas"
+	culture = lithuanian
+	religion = catholic
+}
+1010044535= {
+	name="Stoertebeker"
+	culture = german
+	religion = catholic
+}
+1010044536= {
+	name="Michaelsen"
+	culture = swedish
+	religion = catholic
+}
+1010044537= {
+	name="Wygbold"
+	culture = german
 	religion = catholic
 }

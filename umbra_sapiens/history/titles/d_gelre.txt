@@ -1,0 +1,60 @@
+769.1.1 = {
+	name = DUCHY_CHAMAVIA
+	adjective = DUCHY_CHAMAVIA_ADJ
+}
+1046.1.1 = { #County of Gelre formed
+	reset_name = yes
+	reset_adjective = yes
+	set_global_flag = hamaland_renamed
+}
+1337.1.1 = {
+	liege = "e_hre"
+	#law = agnatic_succession
+	#law = succ_primogeniture
+}
+1337.1.1 = {
+	holder=30039
+}
+1343.10.12={
+	holder=30048	#Reginald III, Duke of Guelders
+}
+1361.1.1={
+	holder=30049	#Edward, Duke of Guelders
+}
+1371.8.22={
+	holder=30048	#Reginald III, Duke of Guelders
+}
+1371.12.4={
+	holder=30046	#Mechteld of Guelders
+}
+1377.1.1={
+	holder=381769	#William I of Guelders and Jülich
+}
+1402.2.16 = {
+	holder=381770	#Reinald IV, Duke of Guelders and Jülich
+}
+1423.6.25 = {
+	holder=372439	#Arnold, Duke of Guelders
+}
+1465.1.1={
+	holder=372444	#Adolf, Duke of Guelders
+}
+1471.1.1 = {
+	holder=372439	#Arnold, Duke of Guelders
+}
+1473.2.23 = {
+	holder=0	#Charles the Bold
+}
+1492.1.1 = {
+	holder=372447 	#Charles II, Duke of Guelders
+}
+1538.6.30 = {
+	holder=373062 	#William, Duke of Jülich-Cleves-Berg
+}
+1543.9.7={
+	holder=0	#Charles V
+	de_jure_liege=k_seventeen
+}
+1581.7.26={
+	de_jure_liege=k_union
+}

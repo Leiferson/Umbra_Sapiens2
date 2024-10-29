@@ -1,0 +1,160 @@
+769.1.1 = {
+	holder = 6392
+	name = HAMALAND
+	adjective = HAMALAND_ADJ
+}
+800.1.1 = {
+	holder = 263001
+}
+820.1.1 = {
+	holder = 263002
+}
+841.1.1={
+	liege = "k_lotharingia"
+}
+848.1.1 = {
+	holder = 263003
+}
+855.11.11 = {
+	holder = 167775
+}
+881.1.1 = {
+	holder = 263005
+}
+898.1.1 = {
+	holder = 263008
+}
+902.1.1 = {
+	holder = 263009
+}
+923.1.1={
+	liege="k_germany"
+}
+955.3.15 = {
+	holder = 263013
+	liege = d_lower_lorraine
+}
+1046.1.1 = { #Gelre formed
+	name = COUNTY_GELRE
+	adjective = COUNTY_GELRE_ADJ
+}
+1057.1.11=
+{
+	holder=106540
+}
+1082.10.19={
+	holder = 41720
+}
+
+1129.10.16={
+	holder = 30013
+}
+1131.10.24={
+	holder = 30015
+}
+1182.9.10=
+{
+	holder=30019
+}
+1190.8.21=
+{
+liege="e_hre"
+}
+1207.10.22=
+{
+	holder=30023
+}
+
+1229.10.22=
+{
+	holder=30031
+}
+1271.1.10=
+{
+	holder=30035
+}
+1318.1.1=
+{
+	holder=30039
+}
+1337.1.1=
+{
+	liege="d_gelre"
+}
+1343.10.12={
+	holder=30048	#Reginald III, Duke of Guelders
+}
+1361.1.1={
+	holder=30049	#Edward, Duke of Guelders
+}
+1371.8.22={
+	holder=30048	#Reginald III, Duke of Guelders
+}
+1371.12.4={
+	holder=30046	#Mechteld of Guelders
+}
+1377.1.1={
+	holder=381769	#William I of Guelders and Jülich
+}
+1402.2.16 = {
+	holder=381770	#Reinald IV, Duke of Guelders and Jülich
+}
+1423.6.25 = {
+	holder=372439	#Arnold, Duke of Guelders
+}
+1465.1.1={
+	holder=372444	#Adolf, Duke of Guelders
+}
+1471.1.1 = {
+	holder=372439	#Arnold, Duke of Guelders
+}
+1473.2.23 = {
+	holder=370558 #Charles the Bold
+	liege=d_burgundy
+}
+1477.1.5 = {
+	holder=370866 #Mary of Burgundy
+}
+1482.3.27 = {
+	holder=370697	#Philip I of Castille
+	liege=e_hre
+}
+1492.1.1 = {
+	holder=372447 	#Charles II, Duke of Guelders
+	liege=d_gelre
+}
+1538.6.30 = {
+	holder=373062 	#William, Duke of Jülich-Cleves-Berg
+}
+1543.9.7={
+	holder=376581	#René of Châlon
+	liege=k_seventeen
+}
+1544.7.18={
+	holder=381846	#Philip de Lalaing
+}
+1555.1.1 = {
+	holder=381872	#Philip de Montmorency, Count of Horn
+}
+1560.1.1 = {
+	holder=381867	#Charles de Brimeu
+}
+1572.1.1={
+	holder=381835	#1572–1573: Gillis van Berlaymont
+}
+1577.1.1={
+	holder=374621	#Johann VI, Count of Nassau-Dillenburg
+}
+1581.1.1={
+	holder=381873	#Willem IV van den Bergh
+}
+1584.1.1={
+	holder=381836	#Adolf van Nieuwenaar
+	liege=k_union
+}
+1589.10.18 = {
+	holder=374671	#Maurice, Prince of Orange
+}
+1625.4.23 = {
+	holder=374679	#Frederick Henry, Prince of Orange
+}

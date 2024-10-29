@@ -1,0 +1,135 @@
+765.1.1={
+	holder=170349
+	liege="d_livonia"
+}
+867.1.1={
+	holder=167737
+}
+936.1.1 = {
+	holder = 260761
+}
+1066.1.1={
+	holder=28023
+}
+1089.1.1={
+	holder=143150
+}
+1139.1.1={
+	holder=143151
+}
+
+#Archbishop of Riga
+1186.1.1={
+	holder=256040	#Saint Meinhard
+	liege = 0
+}
+1196.1.1=
+{
+	holder=256041	#Berthold of Hannover
+}
+1199.1.1=
+{
+	holder=30421 #Albrecht von Buxthoeven
+}
+
+1202.1.1=
+{
+	liege="d_livonian_order"
+}
+
+1229.1.17=
+{
+holder=30422 #Nikolaus von Nauen
+}
+
+1236.9.22=
+{
+liege="k_teutonic_state"
+}
+1254.1.1=
+{
+holder=30423 #Albrecht Suerbeer
+}
+1273.3.1=
+{
+holder=30424 #Johann von Lunen
+}
+1284.1.1=
+
+{
+holder=30425 #Johann von Vechta
+}
+1294.2.4=
+{
+holder=30426 #Johann von Schwerin
+}
+1300.12.19=
+{
+holder=30427 #Isarno de Fenties
+}
+1302.1.1=
+{
+holder=30313 #Jens Grand
+}
+1304.1.1=
+{
+holder=30428 #Friedrich von Pernstein
+}
+1341.3.22 = {
+holder=30445 #1341–1347 	Engelbert von Dolen
+}
+1347.1.1={
+holder=382804 #1347–1369 	Bromhold von Vyffhusen
+}
+1369.1.1={
+holder=382805 #1370–1374 	Siegfried Blomberg
+}
+1374.1.1={
+holder=382806 #1374–1393 	Johannes IV von Sinten
+}
+1393.1.1={
+holder=382807 #1393–1418 	Johannes V von Wallenrodt
+}
+1410.7.15={
+	liege=d_livonian_order
+}
+1418.1.1={
+holder=382808 #1418–1424 	Johannes VI Ambundi
+}
+1424.1.1={
+holder=382809 #1424–1448 	Henning Scharpenberg
+}
+1448.1.1={
+holder=382810 #1448–1479 	Silvester Stodewescher
+}
+1479.1.1={
+holder=382811 #1484–1509 	Michael Hildebrand
+}
+1509.1.1={
+holder=382812 #1509–1524 	Jasper Linde
+}
+1524.1.1={
+holder=382813 #1524–1527 	Johannes VII Blankenfeld
+}
+1527.1.1={
+holder=382814 #1528–1539 	Thomas Schöning
+}
+1539.8.11={
+holder=373971 #1539–1563 	Wilhelm von Brandenburg
+}
+1561.11.28={
+	holder=382815
+	liege=e_hre
+}
+1581.1.14={
+	liege=e_commonwealth
+}
+1587.1.1={
+	holder=382816
+}
+1618.1.1={
+	holder=382817
+}
+1621.9.25={
+	liege=k_sweden
+}

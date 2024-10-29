@@ -30459,3 +30459,21 @@ abdicate_holy_order_if_religion_changes_effect = {
 		}
 	}
 }
+princely_elective_dutch_elector_setup_effect = {
+	k_union = { 
+		#County of Holland
+		#County of Zeeland
+		#Lordship of Overijssel
+		#Lordship of Utrecht
+		#Lordship of Frisia
+		#Duchy of Gelre
+		#Lordship of Groningen
+		save_persistent_event_target = { name = netherlands_title_1_per scope = c_holland }
+		save_persistent_event_target = { name = netherlands_title_2_per scope = c_zeeland }
+		save_persistent_event_target = { name = netherlands_title_3_per scope = c_overijssel }
+		save_persistent_event_target = { name = netherlands_title_4_per scope = c_sticht }
+		save_persistent_event_target = { name = netherlands_title_5_per scope = c_frisia }
+		save_persistent_event_target = { name = netherlands_title_6_per scope = c_gelre }
+		save_persistent_event_target = { name = netherlands_title_7_per scope = b_groningen }
+	}
+}

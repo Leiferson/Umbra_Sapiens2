@@ -1,0 +1,146 @@
+750.1.1 = {
+	holder = 194133
+	liege = d_polotsk
+}
+799.1.1 = {
+	holder = 160049
+}
+830.1.1 = {
+	holder = 160050
+}
+862.1.2={
+	holder=6859
+	liege = d_polotsk
+}
+936.1.1 = {
+	holder = 260714
+}
+989.1.2={
+	holder = 616
+}
+1001.1.2={
+	holder = 125000
+}
+1003.1.2=
+{
+holder=642
+}
+1044.1.2=
+{
+holder=650
+}
+1101.4.14=
+{
+liege="d_vitebsk"
+set_tribute_suzerain = {
+		who = k_ruthenia
+		type = permanent 
+	}
+}
+1101.4.14=
+{
+holder=682
+}
+1129.1.2=
+{
+holder=222554
+}
+1144.1.2=
+{
+holder=222552
+}
+1168.1.2=
+{
+holder=222562
+}
+1169.1.2 = {		#When Kiev lost too much legitimacy to be a proper suzerain of the Rus principalities
+	clear_tribute_suzerain = k_ruthenia
+}
+1185.1.2=
+{
+holder=222560
+}
+1221.1.2=
+{
+holder=125010
+}
+1232.1.2=
+{
+holder=125012
+}
+1264.1.2=
+{
+holder=125014
+}
+1280.1.2=
+{
+holder=125015
+}
+1297.1.2=
+{
+holder=125016
+}
+1320.1.2=
+{
+holder=473506
+}
+1377.5.1={
+holder=370479	#Wladyslaw II Jagiello
+liege=k_lithuania
+}
+1381.8.1={
+holder=473508	#Kestutis
+}
+1382.8.3={
+holder=370479	#Wladyslaw II Jagiello
+}
+1386.1.1={
+holder=370480	#Skirgaila
+}
+1392.8.4={
+holder=374009	#Vytautas
+	set_tribute_suzerain = {
+		who = k_poland
+		type = permanent 
+	}
+}
+1430.10.27={
+holder=370485	#Švitrigaila
+}
+1432.8.1={
+holder=374011	#Sigismund Kestutaitis
+}
+1440.3.20={
+holder=371730	#Casimir IV Jagiellon
+clear_tribute_suzerain = k_poland
+}
+1492.6.7={
+holder=371734	#John I Albert
+}
+1501.6.17={
+holder=371735	#Alexander Jagiellon
+}
+1506.8.19={
+holder=371737	#Sigismund I the Old
+}
+1548.4.1={
+holder=374084	#Sigismund II Augustus
+}
+1572.7.7={
+holder=371694	#Henry III of France
+}
+1575.5.12={
+holder=374086	#Anna Jagiellon
+}
+1576.5.1={
+holder=377211	#Stephen Báthory
+}
+1586.12.12 = {
+holder=374086	#Anna Jagiellon
+}
+1587.8.19={
+holder=375208	#Sigismund III Vasa
+}
+1632.4.30 = {
+holder=375217	#Wladyslaw IV Vasa
+}

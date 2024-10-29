@@ -1,0 +1,147 @@
+903.1.1={
+	holder = 7961 #Gebhard I Conradine
+}
+910.6.22={
+	holder = 7812 #Reginar I
+}
+915.1.1={
+	holder = 7813 #Giselbert I
+	liege = k_germany
+}
+936.7.2 = {
+	liege = 0
+	set_tribute_suzerain = {
+		who = k_france
+		type = permanent
+	}
+}
+939.10.2={
+	clear_tribute_suzerain = k_france
+	liege = k_germany
+	holder = 1292 #Heinrich I
+}
+940.1.1={
+	holder = 144993 #Otto I
+}
+942.1.1={
+	#law = agnatic_succession
+	#law = succ_primogeniture
+}
+944.1.1={
+	holder = 1306 #Konrad I
+}
+953.1.1={
+	holder = 1290 #Bruno I
+}
+959.1.1={
+	holder = 11008 #Friedrich I Wigeriche
+}
+978.5.18={
+	holder=11004 #Dietrich Wigeriche (22007)
+}
+1019.1.1={
+	holder=11002 #Friedrich II Wigeriche
+}
+1024.7.13={
+	liege = e_hre
+}
+1026.1.1={
+	holder = 7974 #Friedrich III Wigeriche
+}
+1033.1.1={
+	holder=11032 #Gozelo Wigeriche (22007)
+}
+1044.4.19={
+	holder=11030 #Gottfried Wigeriche (22007)
+}
+1047.1.1={
+	holder=6640 #Adalbert Chatenois (667)
+}
+1048.11.11={
+	holder=6642 #Gerhard Chatenois (667)
+}
+1070.4.14={
+	holder=6644 #Dietrich Chatenois (667)
+}
+1115.12.30={
+	holder=394999 #Simon Chatenois (667)
+}
+1139.1.13={
+	holder=212581 #Matthias Chatenois (667)
+}
+1176.5.13={
+	holder=212580 #Simon Chatenois (667)
+}
+1206.4.1={
+	holder=212583 #Ferry Chatenois (667)
+}
+1207.4.7={
+	holder=212594 #Ferry Chatenois (667)
+}
+1213.10.8={	
+	holder=129005 #Theobold Chatenois (667)
+}
+1220.1.2={	
+	holder=129006 #Matthias Chatenois (667)
+}
+1251.2.9=
+{	
+	holder=129008 #Ferry Chatenois (667)
+}
+1302.12.31={
+	holder=129010 #Theobold Chatenois (667)
+}
+1312.5.13={
+	holder=129013 #Ferry Chatenois (667)
+}
+1328.8.23={
+	holder=129014 #Rudolf Chatenois (667)
+}
+1346.8.26 = {
+	holder=371392 #John I, Duke of Lorraine
+}
+1390.9.23 = {
+	holder=371395 #Charles II, Duke of Lorraine
+}
+1431.1.25 = {
+	holder=371424 #Isabella, Duchess of Lorraine
+}
+1453.2.28 = {
+	holder=371428 #John II, Duke of Lorraine
+}
+1470.12.16 = {
+	holder=371428 #Nicholas I, Duke of Lorraine
+}
+1473.7.27 = {
+	holder=371431 #Yolande, Duchess of Lorraine
+}
+1483.3.23 = {
+	holder=371441 #René II, Duke of Lorraine
+}
+1508.12.10 = {
+	holder=372450 #Antoine, Duke of Lorraine
+}
+1544.6.14 = {
+	holder=372557 #Francis I, Duke of Lorraine
+}
+1545.6.12 = {
+	holder=372568 #Charles III, Duke of Lorraine
+}
+1608.4.14 = {
+	holder=372571 #Henry II, Duke of Lorraine
+}
+1624.7.31 = {
+	holder=381506 #Nicole, Duchess of Lorraine
+}
+1625.11.25 = {
+	holder=372576 #Francis II, Duke of Lorraine
+}
+1625.12.1 = {
+	holder=381510 #Charles IV, Duke of Lorraine
+}
+1634.1.19 = {
+	holder=381512 #Nicholas Francis, Duke of Lorraine
+}
+1634.4.1 = {
+	holder=381510 #Charles IV, Duke of Lorraine
+}

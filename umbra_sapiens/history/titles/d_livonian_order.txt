@@ -1,0 +1,169 @@
+20.1.1={
+	active=no
+	law = revoke_title_law_2
+	law = ze_administration_laws_1
+	law = law_voting_power_0
+	law = war_voting_power_0
+	law = revoke_title_voting_power_0
+	law = imprison_voting_power_0
+	law = grant_title_voting_power_0
+	law = banish_voting_power_0
+	law = execution_voting_power_0
+	law = succession_voting_power_0	
+	law = centralization_3
+}
+
+1202.1.1=
+{
+active = yes
+holder=30443 #Vinno von Rohrbach
+}
+
+1209.1.1=
+{
+holder=30444 #Volkwin von Naumburg
+}
+1236.9.22=
+{
+	holder=382760	#Hermann Balk 1237–1238
+	liege=k_teutonic_state
+} 
+1238.1.1={
+	holder=382761	#Dietrich von Grüningen 1238–1242
+}
+1246.1.1={
+	holder=382762	#Andreas von Stierland 1248–1253
+}
+1253.1.1={
+	holder=382763	#Anno von Sangershausen 1253–1256
+}
+1256.1.1={
+	holder=382764	#Burkhard von Hornhausen 1256–1260
+}
+1260.7.13={
+	holder=382765	#Werner von Breithausen 1261–1263
+}
+1263.1.1={
+	holder=382766	#Konrad von Mandern 1263–1266
+}
+1266.1.1={
+	holder=382767	#Otto von Lutterberg 1266–1270
+}
+1270.2.16={
+	holder=382768	#Walther von Nortecken 1270–1273
+}
+1273.1.1={
+	holder=382769	#Ernst von Rassburg 1273–1279
+}
+1279.3.5={
+	holder=382770	#Konrad von Feuchtwangen 1279–1281
+}
+1281.1.1={
+	holder=382771	#Wilken von Endorp 1281–1287
+}
+1287.1.1={
+	holder=382772	#Konrad von Herzogenstein 1288–1290
+}
+1290.1.1={
+	holder=382773	#Halt von Hohembach –1293
+}
+1293.1.1={
+	holder=382774	#Heinrich von Dinkelaghe 1295–1296
+}
+1296.1.1={
+	holder=382775	#Bruno 1296–1298
+}
+1298.1.1={
+	holder=382776	#Gottfried von Rogga 1298–1307
+}
+1307.1.1={
+	holder=382777	#Gerhard van Joeck 1309–1322
+}
+1322.1.1={
+	holder=382778	#Johannes Ungenade 1322–1324
+}
+1324.1.1={
+	holder=382779	#Reimar Hane 1324–1328
+}
+1328.1.1={
+	holder=382780	#Everhard von Monheim 1328–1340
+}
+1340.1.1={
+	holder=382781	#Burchard von Dreileben 1340–1345
+}
+1345.1.1={
+	holder=382782	#Goswin von Hercke 1345–1359
+}
+1359.1.1={
+	holder=382783	#Arnold von Vietinghof 1359–1364
+}
+1364.1.1={
+	holder=382784	#Wilhelm von Vrymersheim 1364–1385
+}
+1385.1.1={
+	holder=382785	#Robin von Eltz 1385–1389
+}
+1389.1.1={
+	holder=382786	#Wennemar Hasenkamp von Brüggeneye 1389–1401
+}
+1401.1.1={
+	holder=382787	#Konrad von Vietinghof 1401–1413
+}
+1410.7.15={
+	liege=0
+}
+1413.1.1={
+	holder=382788	#Diderick Tork 1413–1415
+}
+1415.1.1={
+	holder=382789	#Siegfried Lander von Spanheim 1415–1424
+}
+1424.1.1={
+	holder=382790	#Zisse von Rutenberg 1424–1433
+}
+1433.1.1={
+	holder=382791	#Franco Kerskorff 1433–1435
+}
+1435.1.1={
+	holder=382792	#Heinrich von Bockenvorde 1435–1437
+}
+1437.1.1={
+	holder=382793	#Heinrich Vinke von Overbergen 1438–1450
+}
+1450.1.1={
+	holder=382794	#Johann Osthoff von Mengede 1450–1469
+}
+1469.8.15={
+	holder=382795	#Johann Wolthuss von Herse 1470–1471
+}
+1471.1.1={
+	holder=382796	#Bernd von der Borch 1471–1483
+}
+1483.1.1={
+	holder=382797	#Johann Freytag von Loringhoven 1483–1494
+}
+1494.1.1={
+	holder=382798	#Wolter von Plettenberg 1494–1535
+}
+1525.4.10={
+	liege=0
+}
+1535.1.1={
+	holder=382799	#Hermann Hasenkamp von Brüggeneye 1535–1549
+}
+1549.1.1={
+	holder=382800	#Johann von der Recke 1549–1551
+}
+1551.1.1={
+	holder=382801	#Heinrich von Galen 1551–1557
+}
+1557.1.1={
+	holder=382802	#Johann Wilhelm von Fürstenberg 1557–1559
+}
+1559.1.1={
+	holder=382803	#Godert (Gotthard) Kettler 1559–1561
+}
+1561.11.28={
+holder=0	
+active=no
+}

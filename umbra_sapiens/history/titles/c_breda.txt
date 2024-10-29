@@ -1,0 +1,209 @@
+769.1.1 = {
+	holder = 194170
+	liege = d_brabant
+	name = TOXANDRIA
+	adjective = TOXANDRIA_ADJ
+}
+817.1.1={
+	liege = "k_lotharingia"
+}
+841.1.1={
+	holder = 7815
+}
+863.1.1={
+	holder = 167788
+}
+868.1.1={
+	holder = 7815
+}
+892.1.1={
+	holder = 7812
+}
+903.1.1={
+	liege="d_lower_lorraine"
+}
+903.1.1={
+	holder = 168213
+}
+916.1.1={
+	holder = 168214
+}
+940.1.1={
+	holder = 168215
+}
+956.5.19 ={
+	holder = 168216
+}
+969.1.1 ={
+	holder = 168217
+}
+975.1.1 ={
+	holder = 168218
+} 
+990.1.1={
+	holder = 90121 #Charles Carolingian
+}
+991.1.1={
+	holder = 7902 #Otto Carolingian
+}	
+1012.1.10={
+	holder = 11036 #Gottfried Wigeriche
+}
+1023.1.1={
+	holder = 11032 #Gozelo Wigeriche
+}
+1044.1.1={
+	holder = 11035 #Gozelo II
+}
+1046.1.1={
+	holder = 7975 #Friedrich Wigeriche
+}
+1065.8.28=
+{
+	holder=11030  #Gottfried Wigeriche
+}
+1069.1.2=
+{
+	holder=20248  #Gottfried Wigeriche
+}
+1076.2.27= 
+{
+	holder=30202 #Konrad Salian
+}
+1087.1.1=
+{
+	holder = 10072 #Godefroy de Boulogne
+}
+1099.7.15=
+{
+	holder = 33140 #Heinrich von Limburg
+}
+1106.1.1=
+{
+	holder = 106604 #Godfried I Reginar
+}
+1128.2.2=
+{
+
+	holder = 33141 #Walram von Limburg
+}
+1139.7.16=
+{
+	holder = 206851 #Godfried II Reginar
+}
+1142.6.13=
+{
+	holder=206850 #Godfried III Reginar
+}
+1190.8.21=
+{
+	liege="d_brabant"
+}
+1190.8.21=
+{
+	holder=206852 #Hendrik I
+}
+1235.9.5=
+{
+	holder=487057 #Hendrik II
+}
+1248.2.1=
+{
+	holder=487056 #Hendrik III
+}
+1252.1.1={ #Breda granted city rights
+	name = COUNTY_BREDA
+	adjective = COUNTY_BREDA_ADJ
+	set_global_flag = toxandria_renamed
+}
+1261.2.28=
+{
+	holder=33188 #Hendrik IV
+}
+1267.1.1=
+{
+	holder=487040 #Jan I
+}
+1294.5.2=
+{
+	holder=487042 #Jan II
+}
+1312.10.27=
+{
+	holder=487044 #Jan III
+}
+1355.12.5 = {
+	holder=487054 #Joanna, Duchess of Brabant
+}
+1406.12.1 = {
+	holder=370531 #Anthony, Duke of Brabant
+}
+1415.10.25 = {
+	holder=381750 #John IV, Duke of Brabant
+}
+1427.4.17 = {
+	holder=381750 #Philip I, Duke of Brabant
+}
+1430.8.4 = {
+	holder=370536 #Philip the Good
+	liege=d_burgundy
+}
+1467.6.15 = {
+	holder=370558 #Charles the Bold
+}
+1477.1.5 = {
+	holder=370866 #Mary of Burgundy
+}
+1482.3.27 = {
+	holder=370697	#Philip I of Castille
+	liege=e_hre
+}
+1506.9.25 = {
+	holder=370714	#Charles V, Holy Roman Emperor
+}
+1516.1.23={
+	holder=370698	#Margarita de Austria (1507-1515; 1517-1530)
+	liege=k_seventeen
+}
+1530.12.1 = {
+	holder=370717	#María de Hungría (1531-1555)
+}
+1555.1.1={
+	holder=375617	#Manuel Filiberto de Saboya (1555-1559)
+}
+1559.1.1={
+	holder=371538	#Margarita de Parma (1559-1567)
+}
+1567.1.1={
+	holder=379598	#Fernando Álvarez de Toledo y Pimentel, III duque de Alba (1567-1573)
+}
+1573.1.1={
+	holder=380936	#Luis de Requesens y de Zúñiga (1573-1576)
+}
+1576.3.5={
+	holder=371541	#Juan de Austria (1576-1578)
+}
+1578.10.1 = {
+	holder=375782	#Alejandro Farnesio, III duque de Parma (1578-1592)
+}
+1590.1.1={
+	holder=374671	#Maurice, Prince of Orange
+	liege=k_union
+}
+1625.4.23 = {
+	holder=374679	#Frederick Henry, Prince of Orange
+}
+1625.6.5={
+	holder=371844	#Isabel Clara Eugenia(1621-1633)
+	liege=k_seventeen
+}
+1633.12.1 = {
+	holder=381816	#Francisco de Moncada, marqués de Aytona (interino) (1633-1634)
+}
+1634.1.1={
+	holder=372609	#Fernando de Austria, el «Cardenal-Infante» (1634-1641)
+}
+1637.10.11 = {
+	holder=374679	#Frederick Henry, Prince of Orange
+	liege=k_union
+}

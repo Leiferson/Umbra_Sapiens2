@@ -141,10 +141,10 @@ k_cas_and_leon_adj;Castillian;;;;;;;;;;;;;x
 UNITEDKINGDOM;United Kingdom of;;;;;;;;;;;;;x
 COMMONWEALTH;Commonwealth of;;;;;;;;;;;;;x
 KINGGRANDDUKE;King-Grand Duke;;;;;;;;;;;;;x
-KINGGRANDDUCHESS;Queen-Grand Duchess;;;;;;;;;;;;;x
+QUEENGRANDDUCHESS;Queen-Grand Duchess;;;;;;;;;;;;;x
 UNION;Union of;;;;;;;;;;;;;x
 e_commonwealth;Poland and the Grand Duchy of Lithuania;;;;;;;;;;;;;x
-e_commonwealth_adj;Polish lithuanian;;;;;;;;;;;;;x
+e_commonwealth_adj;Polish-Lithuanian;;;;;;;;;;;;;x
 e_kalmar;Kalmar Union;;;;;;;;;;;;;x
 e_kalmar_adj;Kalmar Union;;;;;;;;;;;;;x
 e_espana_burgona;Spain;;;;;;;;;;;;;x
@@ -219,3 +219,13 @@ d_banco;Banco di San Giorgio;;;;;;;;;;;;;x
 d_banco_adj;Banco di San Giorgio;;;;;;;;;;;;;x
 create_banco;Create the Banco di San Giorgio;;;;;;;;;;;;;x
 create_banco_desc;The Banco di San Giorgio was a was a financial institution founded in 1407 to consolidate the public debt, which had been escalating due to the war with Venice for trading and financial dominance.;;;;;;;;;;;;;x
+k_seventeen;Seventeen Provinces;;;;;;;;;;;;;x
+k_seventeen_adj;Seventeen Provinces;;;;;;;;;;;;;x
+k_union;United Provinces;;;;;;;;;;;;;x
+k_union_adj;Dutch;;;;;;;;;;;;;x
+e_union_netherlands;United Provinces;;;;;;;;;;;;;x
+e_union_netherlands_adj;Dutch;;;;;;;;;;;;;x
+STADHOUDER;Stadhouder;;;;;;;;;;;;;x
+title_raadpensionaris;Raadpensionaris;;;;;;;;;;;;;x
+ARCHDUKE;Archduke;;;;;;;;;;;;;x
+ARCHDUCHY;Archduchy of;;;;;;;;;;;;;x

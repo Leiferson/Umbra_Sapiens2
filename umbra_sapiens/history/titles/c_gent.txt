@@ -113,13 +113,54 @@ liege="d_flanders"
 1506.9.25 = {
 	holder=370714	#Charles V of Castille and Holy Roman Emperor
 }
-1556.1.16={
-	holder=370718 #Philip II
-	liege=e_espana_burgona
+1516.1.23={
+	holder=370698	#Margarita de Austria (1507-1515; 1517-1530)
+	liege=k_seventeen
 }
-1598.9.13={
-	holder=371850 #Philip III
+1530.12.1 = {
+	holder=370717	#María de Hungría (1531-1555)
 }
-1621.3.31={
-	holder=372606 #Philip IV
+1555.1.1={
+	holder=375617	#Manuel Filiberto de Saboya (1555-1559)
+}
+1559.1.1={
+	holder=371538	#Margarita de Parma (1559-1567)
+}
+1567.1.1={
+	holder=379598	#Fernando Álvarez de Toledo y Pimentel, III duque de Alba (1567-1573)
+}
+1573.1.1={
+	holder=380936	#Luis de Requesens y de Zúñiga (1573-1576)
+}
+1576.3.5={
+	holder=371541	#Juan de Austria (1576-1578)
+}
+1577.10.28={
+	holder=381915	#Jan van Hembyse
+	liege=0
+}
+1584.8.8={
+	holder=375782	#Alejandro Farnesio, III duque de Parma (1578-1592)
+	liege=k_seventeen
+}
+1592.12.3 = {
+	holder=381815	#Pedro Ernesto de Mansfeld, conde de Mansfeld (1592-1594)
+}
+1594.1.1={
+	holder=371830	#Ernesto de Austria (1594-1595)
+}
+1595.2.20 = {
+	holder=380099	#Pedro Enríquez de Acevedo, conde de Fuentes (interino) (1595-1596)
+}
+1596.1.1={
+	holder=371835	#Alberto de Austria, cardenal (1596-1598)
+}
+1621.7.13={
+	holder=371844	#Isabel Clara Eugenia(1621-1633)
+}
+1633.12.1 = {
+	holder=381816	#Francisco de Moncada, marqués de Aytona (interino) (1633-1634)
+}
+1634.1.1={
+	holder=372609	#Fernando de Austria, el «Cardenal-Infante» (1634-1641)
 }

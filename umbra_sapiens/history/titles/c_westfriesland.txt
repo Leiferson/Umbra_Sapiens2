@@ -1,0 +1,166 @@
+760.1.1 = {
+	holder = 194170
+	liege = d_holland
+	name = KENNEMERLAND #Among the titles of the 936 and 867 counts; well-known regional name. West-Friesland used to refer to a much larger area than this one province.
+	adjective = KENNEMERLAND_ADJ
+}
+860.1.1={
+	holder = 167782
+}
+880.1.1={
+	holder = 168336
+}
+
+885.1.1={
+	holder = 31060 #Gerolf I
+}
+896.1.1={
+	holder = 106551 #Dirk I
+}
+939.1.1={
+	holder = 106550 #Dirk II
+}
+988.5.6={
+	holder = 40712 #Arnulf I
+}
+993.1.20={
+	holder = 40713 #Dirk III
+}
+1039.5.27={
+	holder = 106523 #Dirk IV
+}
+1049.1.13={
+	holder = 106522 #Floris I
+}
+1061.6.28={
+	holder=106520 #Dirk V
+}
+1091.6.17={
+	holder = 106555 #Floris II
+}
+1101.1.1 = { #First mention of 'occidentalis Fresia'
+	name = COUNTY_WESTFRIESLAND
+	adjective = COUNTY_WESTFRIESLAND_ADJ
+}
+1121.3.2={
+	holder= 206841 #Dirk VI
+}
+1157.8.5={
+holder=206840 #Floris III
+}
+1190.8.1={
+	holder=206842 #Dirk VII
+}
+1203.11.4={
+	holder=206843 #Willem I
+}
+1222.2.4={
+	holder=106558 #Floris IV
+}
+1234.7.19={
+	holder=94003 #Willem II
+}
+1256.1.28={
+	holder=94005 #Floris V
+}
+1296.6.27={
+	holder=94007 #Jan I
+}
+1299.11.10={
+	holder=94008 #Jan II
+}
+1304.8.22={
+holder=462742 #Willem III
+}
+1337.6.7={
+	holder=487011 #Willem IV
+}
+1345.9.26={
+	holder=462741 #Margaret II, Countess of Hainaut
+}
+1356.6.23 = {
+	holder=462745 #William I, Duke of Bavaria
+}
+1388.4.15 = {
+	holder=462746 #Albert I, Duke of Bavaria
+}
+1404.12.13 = {
+	holder=370426 #William II, Duke of Bavaria
+}
+1417.5.31 = {
+	holder=381747 #Jacqueline, Countess of Hainaut
+}
+1428.7.3 = {
+	holder=370536	#Philip the Good
+	liege=d_burgundy
+}
+1433.1.1={
+	holder=381865	#Hugo van Lannoy
+}
+1440.1.1={
+	holder=381864	#Willem van Lalaing
+}
+1445.1.1={
+	holder=381863	#Gozewijn de Wilde
+}
+1448.1.1={
+	holder=381862	#Jean de Lannoy
+}
+1462.1.1={
+	holder=381860	#Louis de Gruuthuse
+}
+1477.1.1={
+	holder=381860	#Wolfert VI of Borselen
+}
+1480.1.1={
+	holder=381839	#Joost de Lalaing
+}
+1482.3.27 = {
+	liege=e_hre
+}
+1483.1.1={
+	holder=374601	#John III of Egmont
+}
+1515.1.1={
+	holder=374593	#Henry III of Nassau-Breda
+}
+1516.1.23={
+	liege=k_seventeen
+}
+1522.1.1={
+	holder=381838	#Antoine of Lalaing, 1st Count of Hoogstraeten
+}
+1540.4.12={
+	holder=376581	#René of Chalon
+}
+1544.7.18={
+	holder=381837	#Louis of Praet
+}
+1555.10.7={
+	holder=375617	#Manuel Filiberto de Saboya (1555-1559)
+}
+1559.1.1={
+	holder=374619	#William the Silent
+}
+1567.1.1={
+	holder=381833	#Maximilien de Hénin, 3rd Count of Bossu
+}
+1573.10.1={
+	holder=381834	#Philip of Noircarmes
+}
+1574.3.5 = {
+	holder=381835	#Gillis van Berlaymont
+}
+1577.9.24={
+	holder=374619	#William the Silent
+	liege=0
+}
+1584.1.1={
+	holder=381836	#Adolf van Nieuwenaar
+}
+1589.10.18 = {
+	holder=374671	#Maurice, Prince of Orange
+}
+1625.4.23 = {
+	holder=374679	#Frederick Henry, Prince of Orange
+}

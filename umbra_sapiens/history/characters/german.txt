@@ -15283,8 +15283,8 @@
 	1285.1.1 = {
 		birth="1285.1.1"
 	}
-	1341.1.1 = {
-		death="1341.1.1"
+	1347.1.1 = {
+		death="1347.1.1"
 	}
 }
 
@@ -15632,8 +15632,8 @@
 	1318.1.1 = {
 		add_spouse=462820 #Mechthild von Braunschweig
 	}
-	1337.8.7 = {
-		death="1337.8.7"
+	1352.8.28 = {
+		death="1352.8.28"
 	}
 }
 
@@ -15693,7 +15693,7 @@
 }
 
 30580 = {
-	name="Nikolaus"
+	name="Nikolaus"	#Nicholas III of Werle
 	dynasty=101893 #Niklotid
 	religion="catholic"
 	culture="german"
@@ -15702,8 +15702,11 @@
 	1320.1.1 = {
 		birth="1320.1.1"
 	}
-	1360.1.1 = {
-		death="1360.1.1"
+	1338.1.6 = {
+		add_spouse=451985
+	}
+	1361.8.1 = {
+		death="1361.8.1"
 	}
 }
 
@@ -19069,8 +19072,8 @@
 	1272.1.1 = {
 		birth="1272.1.1"
 	}
-	1344.1.1 = {
-		death="1344.1.1"
+	1344.8.12 = {
+		death="1344.8.12"
 	}
 }
 
@@ -20062,8 +20065,8 @@
 	1322.1.1 = {
 		birth="1322.1.1"
 	}
-	1341.1.1 = {
-		death="1341.1.1"
+	1340.1.1 = {
+		death="1340.1.1"
 	}
 }
 
@@ -21425,7 +21428,7 @@
 	1273.1.1 = {
 		birth="1273.1.1"
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death="1350.1.1"
 	}
 }
@@ -21456,8 +21459,8 @@
 	1332.1.1 = {
 		add_spouse=462108
 	}
-	1340.1.1 = {
-		death="1340.1.1"
+	1356.3.12 = {
+		death="1356.3.12"
 	}
 }
 
@@ -21652,8 +21655,8 @@
 		birth="1333.1.4"
 	}
 	1376.1.23 = { add_spouse=372141 }
-	1383.1.4 = {
-		death="1383.1.4"
+	1388.5.15 = {
+		death="1388.5.15"
 	}
 }
 
@@ -22509,8 +22512,8 @@
 	1336.1.1 = {
 		add_spouse=33729
 	} 
-	1392.1.1 = {
-		death="1392.1.1"
+	1392.3.15 = {
+		death="1392.3.15"
 	}
 }
 
@@ -22599,8 +22602,8 @@
 	1291.1.1 = {
 		birth="1291.1.1"
 	}
-	1341.1.1 = {
-		death="1341.1.1"
+	1335.8.17 = {
+		death="1335.8.17"
 	}
 }
 
@@ -23158,8 +23161,8 @@
 	1313.1.1 = {
 		birth="1313.1.1"
 	}
-	1363.1.1 = {
-		death="1363.1.1"
+	1363.2.23 = {
+		death="1363.2.23"
 	}
 }
 
@@ -23286,7 +23289,7 @@
 	1323.1.1 = {
 		birth=yes
 	}
-	1378.1.1 = {
+	1379.1.1 = {
 		death=yes
 	}
 }
@@ -23498,8 +23501,8 @@
 	1332.1.2 = {
 		add_spouse=487027
 	}
-	1357.1.1 = {
-		death="1357.1.1"
+	1370.1.17 = {
+		death="1370.1.17"
 	}
 }
 
@@ -23544,8 +23547,8 @@
 		add_spouse=462367
 	}
 	1353.1.2 = { add_spouse=374448 }
-	1359.1.1 = {
-		death="1359.1.1"
+	1371.1.1 = {
+		death="1371.1.1"
 	}
 }
 
@@ -23583,11 +23586,12 @@
 	trait="martial_cleric"
 	father=462362
 	mother=462363
+	trait=monk
 	1322.1.1 = {
 		birth="1322.1.1"
 	}
-	1372.1.1 = {
-		death="1372.1.1"
+	1371.2.12 = {
+		death="1371.2.12"
 	}
 }
 
@@ -24004,13 +24008,13 @@
 	1325.1.1 = {
 		birth="1325.1.1"
 	}
-	1375.1.1 = {
-		death="1375.1.1"
+	1354.6.28 = {
+		death="1354.6.28"
 	}
 }
 
 462393 = {
-	name="Heinrich"
+	name="Heinrich"	#Henry IV, Prince of Anhalt-Bernburg
 	dynasty=226
 	martial=6
 	diplomacy=3
@@ -24024,8 +24028,8 @@
 	1327.1.1 = {
 		birth="1327.1.1"
 	}
-	1377.1.1 = {
-		death="1377.1.1"
+	1374.7.7 = {
+		death="1374.7.7"
 	}
 }
 
@@ -24147,8 +24151,8 @@
 	1323.1.2 = {
 		add_spouse=462732
 	}
-	1360.1.1 = {
-		death="1360.1.1"
+	1349.11.18 = {
+		death="1349.11.18"
 	}
 }
 
@@ -24460,7 +24464,7 @@
 }
 
 462616 = {
-	name="Johann-Heinrich"
+	name="Johann-Heinrich"	#John Henry, Margrave of Moravia
 	dynasty=61
 	martial=7
 	diplomacy=7
@@ -24476,6 +24480,9 @@
 	}
 	1330.9.16 = {
 		add_spouse=462710
+	}
+	1349.1.1={
+		add_spouse=381756
 	}
 	1342.1.1 = {
 		remove_spouse=462710
@@ -24954,6 +24961,9 @@
 	1324.1.2 = {
 		add_spouse=451522
 	}
+	1342.2.10={
+		add_spouse=462710
+	}
 	1361.9.18 = {
 		death="1361.9.18"
 	}
@@ -25124,12 +25134,12 @@
 	trait="tough_soldier"
 	father=462737
 	mother=462738
-	1325.1.2 = {
-		birth="1325.1.2"
+	1325.5.12 = {
+		birth="1325.5.12"
 	}
 	1345.1.1 = { add_spouse=461506 }
-	1375.1.2 = {
-		death="1375.1.2"
+	1398.1.6 = {
+		death="1398.1.6"
 	}
 }
 
@@ -25163,7 +25173,7 @@
 }
 
 462744 = {
-	name="Ludwig"
+	name="Ludwig"	#Louis II, Elector of Brandenburg
 	dynasty=217
 	martial=5
 	diplomacy=5
@@ -25176,11 +25186,11 @@
 	trait="tough_soldier"
 	father=462740
 	mother=462741
-	1330.5.12 = {
-		birth="1330.5.12"
+	1330.5.7 = {
+		birth="1330.5.7"
 	}
-	1365.5.14 = {
-		death="1365.5.14"
+	1365.5.17 = {
+		death="1365.5.17"
 	}
 }
 
@@ -25372,11 +25382,11 @@
 	trait="charismatic_negotiator"
 	father=462736
 	mother=462376
-	1309.1.2 = {
-		birth="1309.1.2"
+	1309.6.9 = {
+		birth="1309.6.9"
 	}
-	1359.1.2 = {
-		death="1359.1.2"
+	1390.2.16 = {
+		death="1390.2.16"
 	}
 }
 
@@ -25733,8 +25743,8 @@
 	#1326.1.1 = {
 	#	add_spouse=462814
 	#}
-	1339.1.2 = {
-		death="1339.1.2"
+	1351.1.2 = {
+		death="1351.1.2"
 	}
 }
 
@@ -25773,8 +25783,8 @@
 	1320.1.2 = {
 		birth="1320.1.2"
 	}
-	1370.1.2 = {
-		death="1370.1.2"
+	1398.12.1 = {
+		death="1398.12.1"
 	}
 }
 
@@ -26035,11 +26045,11 @@
 	trait="charismatic_negotiator"
 	father=462821
 	mother=462822
-	1290.1.2 = {
-		birth="1290.1.2"
+	1290.6.24 = {
+		birth="1290.6.24"
 	}
-	1340.1.2 = {
-		death="1340.1.2"
+	1344.8.30 = {
+		death="1344.8.30"
 	}
 }
 
@@ -26109,8 +26119,8 @@
 	1320.1.2 = {
 		add_spouse=462827
 	}
-	1354.1.2 = {
-		death="1354.1.2"
+	1369.1.2 = {
+		death="1369.1.2"
 	}
 }
 
@@ -26146,12 +26156,12 @@
 	trait="thrifty_clerk"
 	father=462826
 	mother=462827
-	1328.1.2 = {
-		birth="1328.1.2"
+	1324.1.2 = {
+		birth="1324.1.2"
 	}
 	1356.10.6 = { add_spouse=462397 } 
-	1378.1.2 = {
-		death="1378.1.2"
+	1373.7.25 = {
+		death="1373.7.25"
 	}
 }
 
@@ -26284,8 +26294,8 @@
 	1312.1.2 = {
 		add_spouse=451984
 	}
-	1346.1.2 = {
-		death="1346.1.2"
+	1352.8.19 = {
+		death="1352.8.19"
 	}
 }
 
@@ -26353,8 +26363,8 @@
 	1328.1.2 = {
 		add_spouse=462839
 	}
-	1347.1.2 = {
-		death="1347.1.2"
+	1369.11.23 = {
+		death="1369.11.23"
 	}
 }
 
@@ -26379,8 +26389,7 @@
 }
 
 462840 = {
-	name="Hedwig"
-	# AKA: Hedwig von Ravensburg
+	name="Elizabeth"
 	female=yes
 	dynasty=650
 	martial=7
@@ -26392,11 +26401,11 @@
 	trait="thrifty_clerk"
 	father=462838
 	mother=462839
-	1331.1.2 = {
-		birth="1331.1.2"
+	1331.1.1 = {
+		birth="1331.1.1"
 	}
-	1381.1.2 = {
-		death="1381.1.2"
+	1384.1.1 = {
+		death="1384.1.1"
 	}
 }
 
@@ -26416,8 +26425,8 @@
 	1297.1.2 = {
 		birth="1297.1.2"
 	}
-	1347.1.2 = {
-		death="1347.1.2"
+	1346.7.18 = {
+		death="1346.7.18"
 	}
 }
 
@@ -26679,8 +26688,8 @@
 	1284.1.2 = {
 		birth="1284.1.2"
 	}
-	1334.1.2 = {
-		death="1334.1.2"
+	1348.1.2 = {
+		death="1348.1.2"
 	}
 }
 
@@ -26947,14 +26956,14 @@
 	trait="thrifty_clerk"
 	father=462940
 	mother=462941
-	1287.1.1 = {
-		birth="1287.1.1"
+	1299.1.1 = {
+		birth="1299.1.1"
 	}
 	1324.2.26 = {
 		add_spouse=462931
 	}
-	1362.1.1 = {
-		death="1362.1.1"
+	1361.2.25 = {
+		death="1361.2.25"
 	}
 }
 
@@ -27046,7 +27055,7 @@
 }
 
 462936 = {
-	name="Wilhelm"
+	name="Wilhelm"	#William II, Duke of Jülich
 	dynasty=285
 	martial=4
 	diplomacy=6
@@ -27058,6 +27067,9 @@
 	mother=462931
 	1333.1.1 = {
 		birth="1333.1.1"
+	}
+	1362.12.1={
+		add_spouse=30047
 	}
 	1393.12.13 = {
 		death="1393.12.13"
@@ -34910,7 +34922,7 @@
 }
 
 33287 = {
-	name="Otto" 
+	name="Otto" #Otto I, Count of Schwerin
 	dynasty=7154 #von Schwerin
 	religion="catholic"
 	culture="german"
@@ -34975,7 +34987,7 @@
 }
 
 33293 = {
-	name="Johann"
+	name="Bernhard"
 	dynasty=101893 #Niklotid
 	religion="catholic"
 	culture="german"
@@ -34984,8 +34996,8 @@
 	1322.1.1 = {
 		birth="1322.1.1"
 	}
-	1341.1.1 = {
-		death="1341.1.1"
+	1382.1.16 = {
+		death="1382.1.16"
 	}
 }
 
@@ -36196,16 +36208,16 @@
 }
 
 33187= {
-	name="Eberhard" 
+	name="Eberhard" #Évrard I de La Marck-Arenberg
 	dynasty=248
 	religion="catholic"
 	culture="german"
 	father=33185
-	1320.1.1 = {
-		birth="1320.1.1"
+	1304.1.1 = {
+		birth="1304.1.1"
 	}
-	1378.1.1 = {
-		death="1378.1.1"
+	1368.8.25 = {
+		death="1368.8.25"
 	}
 }
 
@@ -36927,8 +36939,8 @@
 	1317.1.1 = {
 		birth="1317.1.1"
 	}
-	1344.1.1 = {
-		death="1344.1.1"
+	1343.1.1 = {
+		death="1343.1.1"
 	}
 }
 
@@ -38888,6 +38900,7 @@
 	1297.1.1={
 		birth="1297.1.1"
 	}
+	#spouse Heilwig zur Lippe
 	1353.10.9={
 		death="1353.10.9"
 	}
@@ -38911,6 +38924,7 @@
 	religion="catholic"
 	culture="german"
 	father=31761
+	trait=monk
 	1323.1.1={
 		birth="1323.1.1"
 	}
@@ -39397,7 +39411,7 @@
 
 31803 = {
 	name="Otto" 
-	dynasty=7123 #von Tecklenburg	religion="catholic"
+	dynasty=7123 #von Tecklenburg
 	culture="german"
 	religion="catholic"
 	father=30350 #Simon von Tecklenburg
@@ -40078,6 +40092,9 @@
 	mother=462763
 	1323.1.1 = {
 		birth="1323.1.1"
+	}
+	1334.1.1={
+		add_spouse=462026
 	}
 	1338.3.17 = {
 		death="1338.3.17"
@@ -54595,7 +54612,7 @@
 }
 
 170343 = {
-	name="L�deke"
+	name="Ledeke"
 	dynasty=1040224
 	religion="catholic"
 	culture="german"

@@ -1,0 +1,107 @@
+768.1.1={
+	holder=168600
+	liege = d_brandenburg
+}
+867.1.1={
+	holder=168584
+}
+898.1.1={
+	holder=168590
+}
+936.1.1 = {
+	holder = 260568
+}
+965.5.20={
+	holder=168524
+}
+985.8.25={
+	holder=168528
+}
+1018.1.1={
+	holder=168529
+}
+1051.1.1={
+	holder=168531
+}
+1056.9.10=
+{
+	holder=1350 #Lothar-Udo I
+}
+1057.11.7={
+	holder=7032 #Lothar-Udo II
+}
+1082.1.2={
+	holder=7034 #Heinrich I
+}
+
+1087.6.27={
+	holder=30229 #Lothar-Udo III
+}
+
+1106.6.2={
+	holder=30230 #Rudolf I
+}
+
+#Rudolf I deposed
+
+1114.1.1={
+	holder=30231 #Heinrich II
+}
+
+1123.9.2={
+	holder = 212908
+}
+1170.11.18={
+	holder = 212905
+}
+1212.2.2={
+	holder = 462118
+}
+1252.1.26={
+	holder = 462120
+}
+1287.1.1={
+	holder = 462122
+}
+
+1323.12.26=
+{
+	holder = 462390
+}
+1348.8.20 = {
+	holder = 462392	#Bernhard IV, Prince of Anhalt-Bernburg
+}
+1354.6.28 = {
+	holder = 462393	#Henry IV, Prince of Anhalt-Bernburg
+}
+1374.7.7 = {
+	holder = 462398	#Otto III, Prince of Anhalt-Bernburg
+}
+1404.2.27 = {
+	holder = 382099	#Bernhard V, Prince of Anhalt-Bernburg
+}
+1420.6.24 = {
+	holder = 382103	#Bernhard VI, Prince of Anhalt-Bernburg
+}
+1468.2.2 = {
+	holder = 372211	#George I, Prince of Anhalt-Dessau
+	liege=d_saxony
+}
+1474.9.21 = {
+	holder = 372244	#Ernest I, Prince of Anhalt-Dessau
+}
+1516.6.12 = {
+	holder = 374118	#John V, Prince of Anhalt-Zerbst
+}
+1551.2.4 = {
+	holder = 374121	#Karl I, Prince of Anhalt-Zerbst
+}
+1561.5.4 = {
+	holder = 374122	#Joachim Ernest, Prince of Anhalt
+}
+1586.12.6 = {
+	holder = 374307	#Rudolph, Prince of Anhalt-Zerbst
+}
+1621.7.30 = {
+	holder = 376805	#John VI, Prince of Anhalt-Zerbst
+}

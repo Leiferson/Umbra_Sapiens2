@@ -1168,7 +1168,7 @@ e_union_jack = {
 		color={ 200 16 46 }
 		color2={ 255 255 255 }
 		
-		capital = 197 # Toledo
+		capital = 32 
 		
 		culture = english
 		dignity = 200
@@ -1253,14 +1253,7 @@ e_commonwealth = {
 				e_commonwealth = {
 					is_titular = no
 				}
-			}
-			hidden_tooltip = {
-			OR = {
-				ai = no
-				culture_group = west_slavic
-				culture_group = baltic
-			}
-		}		
+			}		
 		}
 		
 }
@@ -1956,4 +1949,70 @@ d_banco = {
 	assimilate = no
 	can_be_usurped = no
 	can_be_claimed = no
+}
+k_seventeen = {
+	color={ 128 0 32 }
+	color2={ 255 255 255 }
+	
+	culture = dutch
+	capital	= 117
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_seventeen = {
+						is_titular = yes
+					}
+				}
+				k_seventeen = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_union = {
+	color={ 255 153 0 }
+	color2={ 255 255 255 }
+	
+	
+	title = "STADHOUDER"
+	short_name = yes
+	culture = dutch
+	capital	= 80
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_union = {
+						is_titular = yes
+					}
+				}
+				k_union = {
+					is_titular = no
+				}
+			}
+		}	
+}
+e_union_netherlands = {
+	color={ 255 153 0 }
+	color2={ 255 255 255 }
+	
+	
+	title = "STADHOUDER"
+	short_name = yes
+	culture = dutch
+	capital	= 80
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					e_union = {
+						is_titular = yes
+					}
+				}
+				e_union = {
+					is_titular = no
+				}
+			}
+		}	
 }

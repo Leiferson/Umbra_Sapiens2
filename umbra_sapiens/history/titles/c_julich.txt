@@ -1,0 +1,139 @@
+740.1.1={
+	holder = 131717 #Agnerald de Chaumontis
+	liege = k_france
+}
+817.1.1={
+	liege = "k_lotharingia"
+}
+817.1.1={
+	holder = 30227
+}
+841.1.1={
+	holder = 7815
+}
+867.1.1={
+	holder = 161525
+}
+892.1.1={
+	holder = 7812
+}
+903.1.1={
+	liege="d_lower_lorraine"
+}
+903.1.1={
+	holder = 7961 
+}
+910.1.1={
+	holder = 31705
+}
+949.1.1={
+	holder = 1306
+}
+953.1.1={
+	holder = 1290
+}
+959.1.1={
+	holder = 144992
+}
+964.1.1={
+	holder = 144991
+}
+973.1.1={
+	holder=90121
+}
+990.1.1=
+{
+holder=30090 #Gerhard I
+}
+1029.6.2=
+{
+holder=20252 #Eberhard I
+}
+1051.1.1=
+{
+holder=20253 #Gerhard II
+}
+1085.1.1=
+{
+holder=20254 #Gerhard III
+}
+1126.1.1=
+{
+holder=30091 #Gerhard IV
+}
+
+1143.1.1=
+{
+holder=30089 #Wilhelm I
+}
+1176.1.1=
+{
+holder=206900 #Wilhelm II
+}
+1190.8.21=
+{
+liege="d_koln"
+}
+
+1207.1.1=
+{
+holder=30611 #Wilhelm III
+}
+1218.1.1=
+{
+holder=30623 #Wilhelm IV
+}
+1278.3.6=
+{
+holder=30626 #Walram I
+}
+1297.11.1=
+
+{
+holder=462940	#Gerhard V
+}
+1328.1.31=
+{
+holder=462930	#Wilhelm V
+}
+1361.2.25 = {
+holder=462936	#William II, Duke of Jülich
+}
+1393.12.13 = {
+holder=381769	#William I of Guelders and Jülich
+}
+1402.2.16 = {
+holder=381770	#Reinald IV, Duke of Guelders and Jülich
+}
+1423.6.25 = {
+holder=371966	#Adolf, Duke of Jülich-Berg
+}
+1437.7.14 = {
+holder=373052	#Gerhard VII, Duke of Jülich-Berg
+}
+1475.8.19 = {
+holder=373055	#William IV, Duke of Jülich-Berg
+}
+1511.9.6 = {
+holder=373059	#Maria of Jülich-Berg
+}
+1543.8.29 = {
+holder=373062	#William, Duke of Jülich-Cleves-Berg
+}
+1592.1.5 = {
+holder=373993	#John William, Duke of Jülich-Cleves-Berg
+}
+1609.3.25 = {
+holder=373993	#Archduke Leopold Wilhelm of Austria
+}
+1610.9.2={
+	holder=374844	#Wolfgang Wilhelm, Count Palatine of Neuburg
+}
+1614.5.1={
+	holder=374671 	#Maurice, Prince of Orange
+	liege=k_union
+}
+1622.2.3={
+	holder=374844	#Wolfgang Wilhelm, Count Palatine of Neuburg
+	liege=e_hre
+}

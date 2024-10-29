@@ -1,0 +1,152 @@
+750.1.1 = {
+	holder = 194084
+	liege = d_silesia
+}
+799.1.1 = {
+	holder = 194085
+}
+822.1.1={
+	holder = 82291
+}
+859.1.1={
+	holder = 82304
+}
+880.1.1={
+	holder = 82307
+}
+900.1.1={
+	holder = 82308
+}
+920.1.1={
+	holder = 82309
+}
+936.1.1={
+	liege = 0
+	set_tribute_suzerain = {
+		who = d_bohemia
+		type = permanent
+	}
+}
+960.1.1={
+	holder = 82310
+}
+970.1.2={
+	clear_tribute_suzerain = d_bohemia
+	liege = d_bohemia
+}
+990.1.1={
+	liege = d_silesia
+	holder = 82311
+}
+1036.1.1={
+	holder = 82312
+}
+1058.11.28=
+{
+	holder=96093
+}
+1116.1.1=
+{
+	holder=96094
+}
+1153.4.16=
+{
+	holder=96096
+}
+1163.1.1=
+{
+	holder=221530
+}
+1201.12.7=
+{
+	holder=221537
+}
+1238.3.19=
+{
+	holder=125905
+}
+1241.4.9=
+{
+	holder=471734
+}
+1248.1.1=
+{
+	holder=471652
+}
+1266.12.3=
+{
+	holder=125909
+}
+1290.6.24=
+{
+	holder=471732
+}
+1296.2.22=
+{
+	holder=471730
+}
+1311.1.1=
+{
+	holder=125931
+}
+1335.11.24=
+{
+	holder=471730
+}
+1352.4.21={
+	holder=471737	#Wenceslaus I of Legnica
+}
+1364.6.2={
+	holder=382700	#Rupert I of Legnica
+}
+1409.1.12={
+	holder=382701	#Wenceslaus II of Legnica
+}
+1419.12.30={
+	holder=374332	#Louis II of Brieg
+}
+1436.5.30={
+	holder=371978	#Elisabeth of Brandenburg, Duchess of Brzeg-Legnica and Cieszyn
+}
+1449.10.31 = {
+	holder=371947	#Ladislaus the Posthumous
+}
+1454.1.1 = {
+	holder=374355	#Frederick I of Liegnitz
+}
+1488.5.9={
+	holder=374356	#John II of Legnica
+}
+1495.3.6={
+	holder=374357	#Frederick II of Legnica
+}
+1547.9.17={
+	holder=374360	#Frederick III of Legnica
+}
+1551.1.1={
+	holder=376607	#Henry XI of Legnica
+}
+1556.1.1={
+	holder=374360	#Frederick III of Legnica
+}
+1559.1.1={
+	holder=376607	#Henry XI of Legnica
+}
+1576.3.13={
+	holder=376612	#Frederick IV of Liegnitz
+}
+1580.10.5={
+	holder=376607	#Henry XI of Legnica
+}
+1581.1.1={
+	holder=376612	#Frederick IV of Liegnitz
+}
+1596.3.27={
+	holder=382706	#Joachim Frederick of Brieg
+}
+1602.3.25={
+	holder=382712	#John Christian of Brieg
+}
+1639.12.25={
+	holder=382720	#George III of Brieg
+}

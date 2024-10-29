@@ -115,13 +115,34 @@
 	holder=370697	#Philip I of Castille
 	liege=e_hre
 }
-1556.1.16={
-	holder=370718 #Philip II
-	liege=e_espana_burgona
+1506.9.25 = {
+	holder=370714	#Charles V of Castille and Holy Roman Emperor
 }
-1598.9.13={
-	holder=371850 #Philip III
+1516.1.23={
+	holder=376580	#Filiberto de Chalôns
+	liege=d_franche_comte
 }
-1621.3.31={
-	holder=372606 #Philip IV
+1530.8.3={
+	holder=376581	#Renato de Châlon
+}
+1544.7.18 = {
+	holder=381827	#Claude de Vergy
+}
+1560.1.1 = {
+	holder=374619	#William the Silent
+}
+1567.1.1={
+	holder=381828	#François de Vergy
+}
+1591.1.1 = {
+	holder=381829	#Claude II de Vergy
+}
+1602.1.1 = {
+	holder=381830	#Clériard de Vergy
+}
+1630.1.1={
+	holder=381831	#Ferdinand de Rye
+}
+1636.8.20 = {
+	holder=381832	#Jean Baptiste de La Baume
 }

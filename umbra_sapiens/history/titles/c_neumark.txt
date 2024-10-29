@@ -1,0 +1,133 @@
+750.1.1 = {
+	holder = 194071
+	liege = d_pommerania
+}
+799.1.1 = {
+	holder = 194072
+}
+822.1.1 = {
+	holder = 194073
+}
+867.1.1={
+holder=168588
+}
+936.1.1 = {
+	holder = 260570
+	liege = d_pommerania
+}
+1066.1.1=
+{
+holder=30522 #Siemomysl 
+}
+1068.1.1=
+{
+holder=30523 #Swantibor
+}
+1092.1.1=
+{
+holder=30524 #Gwienomir
+}
+
+1106.1.1=
+{
+holder=221703 #Swietopelk I
+}
+1122.1.1=
+{
+holder=221718 #Ratibor I
+}
+1156.5.7=
+{
+holder=221723 #Swietopelk II
+}
+1175.1.20=
+{
+holder=221719 #Wratislaw I
+}
+1182.1.1=
+{
+holder=221720 #Bogislaw
+}
+1224.1.1=
+{
+holder=221721 #Ratibor II
+}
+
+
+1228.1.1=
+{
+liege="d_pomeralia"
+} 
+1228.1.1=
+{
+holder=30452 #Wartislaw I
+}
+1233.5.4=
+{
+holder=30451 #Swietopelk II
+}
+1261.1.1={
+	holder = 7688
+	liege="d_brandenburg"
+}
+1267.2.2={
+	holder = 7558
+}
+1318.2.14={
+	holder = 7560
+}
+1320.8.20={
+	holder=462731
+}
+1351.9.18={
+	holder=462744	#Louis II the Roman
+}
+1365.5.17={
+	holder=382093	#Otto V, Duke of Bavaria
+}
+1373.10.2={
+	holder=370399	#Wenceslaus IV of Bohemia
+}
+1378.11.29 = {
+	holder=370403	#Sigismund, Holy Roman Emperor
+}
+1388.1.1={
+	holder=381757	#Jobst of Moravia
+}
+1402.1.1={
+	liege=k_teutonic_state
+}
+1455.1.1={
+	holder=371979	#John, Margrave of Brandenburg-Kulmbach
+	liege=d_brandenburg
+}
+1464.11.16 = {
+	holder=371983	#Frederick II, Elector of Brandenburg
+}
+1471.2.10 = {
+	holder=371984	#Albrecht III Achilles
+}
+1486.3.11 = {
+	holder=372092	#John Cicero, Elector of Brandenburg
+}
+1499.1.9 = {
+	holder=372109	#Joachim I Nestor, Elector of Brandenburg
+}
+1535.7.11 = {
+	holder=372314	#John, Margrave of Brandenburg-Küstrin
+}
+1571.1.13 = {
+	holder=374090	#John George, Elector of Brandenburg
+}
+1598.1.8 = {
+	holder=374363	#Joachim Frederick, Elector of Brandenburg
+}
+1608.7.18 = {
+	holder=374412	#John Sigismund, Elector of Brandenburg
+}
+1619.12.23 = {
+	holder=374422	#George William, Elector of Brandenburg
+}
+1640.12.1 = {
+	holder=374708	#Frederick William, Elector of Brandenburg
+}

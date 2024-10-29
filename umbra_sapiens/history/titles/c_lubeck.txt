@@ -1,0 +1,250 @@
+761.1.1 = {
+	liege = d_holstein
+}
+761.1.1={
+	holder = 190470 #Abo
+}
+782.1.1={
+	holder = 0
+}
+867.1.1={
+liege=d_mecklemburg
+holder=168583
+}
+936.1.1 = {
+	holder = 1410
+}
+1066.1.1={
+	liege=0
+	holder=8400 #Budivoj Nakonid
+}
+1073.1.1={
+	holder=8402 #Henrik Nakonid
+}
+1093.1.1={
+	liege=d_mecklemburg
+}
+1127.6.7={
+	holder=30507 #Przybyslaw Nakonid
+}
+1129.7.1={
+	holder=201513 #Knud Lavard
+}
+1131.1.13={
+	liege="d_saxony"
+}
+1131.1.13={
+	holder = 30219
+}
+1137.12.4 = {
+	holder=212602
+}
+1139.10.20={
+	holder = 212908
+}
+1142.1.1={
+	holder = 212600
+}
+1143.1.1={
+	holder=31784 #Heinrich von Badewide
+}
+1164.1.2={
+	holder=31785 #Bernhard I von Badewide
+}
+1168.1.1={
+	liege="k_denmark"
+}
+1190.1.2={
+	holder=31788 #Bernhard II von Badewide
+}
+1199.1.2={
+	holder=31789 #Bernhard III von Badewide
+}
+1200.1.1={
+	holder=31791 #Adolf I von Dassel
+}
+1202.1.1={
+	liege="d_holstein"
+}
+1202.1.1={
+	holder=31795 #Albrecht Askanien
+}
+1227.1.1=
+{
+	liege="k_hansa"
+}
+1227.1.1=
+{
+	holder=167102 #Gottschalk von Bardewik
+}
+1238.1.1=
+{
+	holder=167219 #Heinrich Vorrade
+}
+1263.1.1=
+{
+	holder=167254 #Heinrich von Wittenborg
+}
+1275.1.1=
+{
+	holder=167103 #Johann von Bardewik
+}
+1287.1.1=
+{
+	holder=167220 #Dietrich Vorrade
+}
+1291.1.1=
+{
+	holder=167237 #Alexander Lüneburg
+}
+1303.1.1=
+{
+	holder=167104 #Albrecht von Bardewik
+}
+1307.1.1=
+{
+	holder=167222 #Markward Vorrade
+}
+1310.1.1=
+{
+	holder=167168 #Bruno Warendorp
+}
+1318.1.1=
+{
+	holder=167256 #Heinrich von Wittenborg
+}
+1321.1.1=
+{
+	holder=167168 #Bruno Warendorp
+}
+1325.1.1=
+{
+	holder=167169 #Hermann Warendorp
+}
+1328.1.1=
+{
+	holder=167168 #Bruno Warendorp
+}
+1341.1.1={
+	holder=382609	#Marquard von Coesfeld  	1341–1342 
+}
+1342.1.1={
+	holder=382610	#Tidemann von Güstrow  	1347  
+}
+1351.1.1={
+	holder=382611	#Tidemann Warendorp 	 	1351 
+}
+1366.1.1={
+	holder=382612	#Jakob Pleskow	1364 
+}
+1364.1.1={
+	holder=382613	#Simon Swerting	1370
+}
+1370.1.1={
+	holder=382614	#Gerhard von Attendorn	1382 
+}
+1382.1.1={
+	holder=382615	#Thomas Morkerke		1386 
+}
+1386.1.1={
+	holder=382616	#Gottfried Travelmann 	1390 
+}
+1390.1.1={
+	holder=382617	#Hinrich Westhof		1392 
+}
+1397.1.1={
+	holder=382618	#Jordan Pleskow 	1400–1425 
+}
+1425.1.1={
+	holder=382619	#Konrad Brekewoldt	1407–1436 
+}
+1436.1.1={
+	holder=382620	#Johann Bere	1436–1451 
+}
+1451.1.1={
+	holder=382621	#Johann Klingenberg		1432–1454 
+}
+1454.1.1={
+	holder=382622	#Johann Lüneburg	1442–1461 
+}
+1461.1.1={
+	holder=382623	#Wilhelm von Calven	1441–1465 
+}
+1465.1.1={
+	holder=382624	#Bertold Witig	1457–1474 
+}
+1474.1.1={
+	holder=382625	#Heinrich von Stiten	1466–1484 
+}
+1484.1.1={
+	holder=382626	#Hinrich Castorp	1462–1488  
+}
+1488.1.1={
+	holder=382627	#Johann Wickinghof	1484–1493   
+}
+1493.1.1={
+	holder=382628	#Ludeke von Thünen	1475–1501   
+}
+1501.1.1={
+	holder=382629	#Heinrich Brömse 	1487–1502    
+}
+1502.6.6={
+	holder=382630	#Johann Hertze 	1498–1510    
+}
+1510.8.18={
+	holder=382631	#Hartwig von Stiten	1502–1511     
+}
+1511.1.1={
+	holder=382632	#Hermann Meyer	1510–1528
+}
+1528.8.19={
+	holder=382633	#Hermann Falcke 	1522–1530 
+}
+1530.1.1={
+	holder=382634	#Joachim Gercken	1531–1544 
+}
+1544.1.1={
+	holder=382635	#Gotthard III. von Hoeveln	1531–1552  
+}
+1555.5.4={
+	holder=382636	#Nikolaus Bardewik	1544–1560 
+}
+1560.1.1={
+	holder=382637	#Anton von Stiten 	1540–1564 
+}
+1564.6.18={
+	holder=382638	#Christoph Tode 	1560–1566  
+}
+1566.1.1={
+	holder=382639	#Heinrich Plönnies 	1572  
+}
+1572.1.1={
+	holder=382640	#Johann Brokes 	1573  
+}
+1573.1.1={
+	holder=382641	#Dietrich von Broemse	1588  
+}
+1588.1.1={
+	holder=382642	#Hermann von Dorne  	1579–1594   
+}
+1594.4.2={
+	holder=382643	#Alexander Lüneburg 	1599 
+}
+1599.1.1={
+	holder=382644	#Conrad Garmers 	1601–1612 
+}
+1612.1.1={
+	holder=382645	#Jakob Bording d. J.	1600–1616 
+}
+1616.1.1={
+	holder=382646	#Heinrich Brokes	1609–1623
+}
+1623.12.19={
+	holder=382647	#Johann Vinhagen 	1619–1630 
+}
+1630.6.17={
+	holder=382648	#Lorenz Möller	1612–1634 
+}
+1634.3.8={
+	holder=382649	#Heinrich Köhler	1624–1641 
+}

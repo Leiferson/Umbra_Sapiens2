@@ -115,6 +115,14 @@ holder=371833	#Matthias, Holy Roman Emperor
 1619.3.20 = {
 holder=372594	#Ferdinand II, Holy Roman Emperor
 }
+1621.1.1={
+	holder=377251	#Gabriel Bethlen
+	liege=d_transylvania
+}
+1629.11.15={
+	holder=372594	#Ferdinand II, Holy Roman Emperor
+	liege=e_hre
+}
 1637.2.15 = {
 holder=372637	#Ferdinand III, Holy Roman Emperor
-}
+}	

@@ -7135,7 +7135,7 @@
 }
 
 212782 = {
-	name="Aymar" #Aymar de Poitiers Valentinois
+	name="Aymar" #Aymar II de Poitiers-Valentinois
 	dynasty=233
 	religion="catholic"
 	culture="frankish"
@@ -7144,8 +7144,8 @@
 	1166.1.6 = {
 		birth="1166.1.6"
 	}
-	1216.1.6 = {
-		death="1216.1.6"
+	1250.1.6 = {
+		death="1250.1.6"
 	}
 }
 
@@ -20939,11 +20939,14 @@
 	religion="catholic"
 	culture="frankish"
 	trait="amateurish_plotter"
-	1298.1.2 = {
-		birth="1298.1.2"
+	1265.1.2 = {
+		birth="1265.1.2"
 	}
-	1348.1.2 = {
-		death="1348.1.2"
+	1323.1.1={
+		add_spouse=462633
+	}
+	1343.1.2 = {
+		death="1343.1.2"
 	}
 }
 
@@ -39238,6 +39241,9 @@
 	father=7570
 	1263.1.1 = {
 		birth="1263.1.1"
+	}
+	1313.1.1={
+	 add_spouse=381788
 	}
 	1336.1.1 = {
 		death="1336.1.1"

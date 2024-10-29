@@ -1,0 +1,193 @@
+760.1.1 = {
+	holder = 194170
+	liege = d_holland
+}
+841.1.1 = { 
+	holder = 167783 #Haraldr
+}
+853.1.1 = {
+	holder = 167782 #Hrörekr
+}
+873.1.1 = {
+	holder = 90104 #Charles I the Bald
+	liege = k_lotharingia
+}
+877.6.10 ={ 
+	holder = 42019 #Louis I the Younger
+}
+882.1.20={
+	holder = 90105 #Charles II the Fat
+}
+888.1.1={
+	holder = 7945 #Arnulf of Carinthia
+}
+895.1.1={
+	holder = 144997 #Zwentibold
+}
+900.8.13={
+	holder = 7949 #Louis III the Child
+}
+911.9.20={
+	holder = 90111 #Charles III the Simple
+}
+923.1.1={
+	holder = 1280 #Heinrich I
+}
+918.12.23={
+	holder = 1280 #Heinrich I
+}
+936.7.2={
+	holder = 1282 #Otto I
+}
+973.5.7={
+	holder = 1286 #Otto II
+}
+983.12.7={
+	holder = 1288 #Otto III
+}
+1002.1.12={
+	holder = 1296 #Heinrich II 
+}
+1024.7.13={
+	holder = 1312 #Konrad II
+	liege = e_hre
+}
+1039.6.4={
+	holder = 1314 #Heinrich III 
+}
+1056.5.10 = {	
+	holder = 1316 #Heinrich IV 
+}
+1061.6.28={
+	liege="d_flanders"
+	holder=368 #Robert van Vlaanderen
+}
+1071.2.22={
+	liege="d_holland"
+	holder=106520 #Dirk V
+}
+1091.6.17={
+	holder = 106555 #Floris II
+}
+1121.3.2={
+	holder= 206841 #Dirk VI
+}
+1157.8.5={
+holder=206840 #Floris III
+}
+1190.8.1={
+	holder=206842 #Dirk VII
+}
+1203.11.4={
+	holder=206843 #Willem I
+}
+1222.2.4={
+	holder=106558 #Floris IV
+}
+1234.7.19={
+	holder=94003 #Willem II
+}
+1256.1.28={
+	holder=94005 #Floris V
+}
+1296.6.27={
+	holder=94007 #Jan I
+}
+1299.11.10={
+	holder=94008 #Jan II
+}
+1304.8.22={
+holder=462742 #Willem III
+}
+1337.6.7={
+	holder=487011 #Willem IV
+}
+1345.9.26={
+	holder=462741 #Margaret II, Countess of Hainaut
+}
+1356.6.23 = {
+	holder=462745 #William I, Duke of Bavaria
+}
+1388.4.15 = {
+	holder=462746 #Albert I, Duke of Bavaria
+}
+1404.12.13 = {
+	holder=370426 #William II, Duke of Bavaria
+}
+1417.5.31 = {
+	holder=381747 #Jacqueline, Countess of Hainaut
+}
+1428.7.3 = {
+	holder=370536	#Philip the Good
+	liege=d_burgundy
+}
+1433.1.1={
+	holder=381865	#Hugo van Lannoy
+}
+1440.1.1={
+	holder=381864	#Willem van Lalaing
+}
+1445.1.1={
+	holder=381863	#Gozewijn de Wilde
+}
+1448.1.1={
+	holder=381862	#Jean de Lannoy
+}
+1462.1.1={
+	holder=381860	#Louis de Gruuthuse
+}
+1477.1.1={
+	holder=381860	#Wolfert VI of Borselen
+}
+1480.1.1={
+	holder=381839	#Joost de Lalaing
+}
+1482.3.27 = {
+	liege=e_hre
+}
+1483.1.1={
+	holder=374601	#John III of Egmont
+}
+1515.1.1={
+	holder=374593	#Henry III of Nassau-Breda
+}
+1516.1.23={
+	liege=k_seventeen
+}
+1522.1.1={
+	holder=381838	#Antoine of Lalaing, 1st Count of Hoogstraeten
+}
+1540.4.12={
+	holder=376581	#René of Chalon
+}
+1544.7.18={
+	holder=381837	#Louis of Praet
+}
+1555.10.7={
+	holder=375617	#Manuel Filiberto de Saboya (1555-1559)
+}
+1559.1.1={
+	holder=374619	#William the Silent
+}
+1567.1.1={
+	holder=381833	#Maximilien de Hénin, 3rd Count of Bossu
+}
+1573.10.1={
+	holder=381834	#Philip of Noircarmes
+}
+1574.3.5 = {
+	holder=381835	#Gillis van Berlaymont
+}
+1577.9.24={
+	holder=374619	#William the Silent
+	liege=0
+}
+1584.1.1={
+	holder=381836	#Adolf van Nieuwenaar
+}
+1589.10.18 = {
+	holder=374671	#Maurice, Prince of Orange
+}
+1625.4.23 = {
+	holder=374679	#Frederick Henry, Prince of Orange
+}

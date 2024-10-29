@@ -1,0 +1,168 @@
+750.1.1 = {
+	holder = 194134
+}
+799.1.1 = {
+	holder = 194135
+}
+822.1.1 = {
+	holder = 160064
+}
+865.1.1={
+	holder=159720
+}
+900.1.1={
+	holder=0
+}
+936.1.1 = {
+	holder = 260708
+	liege = k_ruthenia
+}
+970.1.2={
+	holder=606
+	#law = agnatic_succession
+	#law = succ_gavelkind
+}
+977.1.2={
+	holder=608
+}
+988.1.2={
+	holder=610
+}
+1019.1.2={
+	holder = 612
+}
+1034.1.2={
+	holder=626
+}
+1052.1.2={
+	holder=612
+}
+1054.2.20={
+	holder=626
+}
+1073.1.2 = {
+	set_tribute_suzerain = {
+		who = k_ruthenia
+		type = permanent 
+	}
+}
+1078.10.4={
+	holder=684
+}
+1086.12.5={
+	holder=125028
+}
+1105.1.2={
+	holder=652
+}
+1113.4.16={
+	holder=125098
+}
+1119.1.2={
+	holder=125030
+}
+1123.1.2={
+	holder=125031
+}
+1127.1.2={
+	holder=125102
+}
+1132.4.14={
+	holder=222525
+}
+1134.1.2={
+	holder=125102
+}
+1142.1.2={
+	holder=222650
+}
+1143.1.2={
+	holder=125102
+}
+1146.1.2={
+	holder=222622
+}
+1154.1.2={
+	holder=222650
+}
+1155.1.2={
+	holder=222678
+}
+1157.1.2={
+	holder=222542
+}
+1168.1.2={
+	holder=222540
+}
+1169.1.2 = {		#When Kiev lost too much legitimacy to be a proper suzerain of the Rus principalities
+	clear_tribute_suzerain = k_ruthenia
+}
+1190.1.2={
+	holder=125036
+}
+1195.1.2={
+	holder=222540
+}
+1207.1.2={
+	holder=125039
+}
+1242.1.2={
+	holder=125040
+}
+1262.1.2={
+	holder=125041
+}
+1292.1.2={
+	holder=125042
+}
+1305.1.2={
+	holder=125043
+}
+1333.1.2={
+liege="k_lithuania"
+}
+1333.1.2={
+	holder=473504
+}
+1348.1.1={
+	holder=382893	#Mikhail Glebovich Narymuntovich (1348-?)
+}
+1380.1.1={
+	holder=382894	#Vasili Mikhailovich Narymuntovich (14th century)
+}
+1398.1.1={
+	holder=382895	#Yuri Nos Vasilievich Narymuntovich (before 1398- after 1410)
+}
+1410.1.1={
+	holder=382897	#Yuri Semenovich (before 1440-after 1471)
+}
+1471.1.1={
+	holder=382896	#Vasili Olelkovich (1480–1495)
+}
+1495.6.4={
+	holder=382902	#Fyodor Ivanovich Borovsky 
+}
+1521.1.1={
+	holder=371737	#Sigismund I the Old
+}
+1548.4.1={
+holder=374084	#Sigismund II Augustus
+}
+1572.7.7={
+holder=371694	#Henry III of France
+}
+1575.5.12={
+holder=374086	#Anna Jagiellon
+}
+1576.5.1={
+holder=377211	#Stephen Báthory
+}
+1586.12.12 = {
+holder=374086	#Anna Jagiellon
+}
+1587.8.19={
+holder=375208	#Sigismund III Vasa
+}
+1632.4.30 = {
+holder=375217	#Wladyslaw IV Vasa
+}

@@ -86,13 +86,24 @@
 	holder=370764	#Charles, Duke of Orléans
 }
 1435.9.20={
-	liege="d_burgundy"
+	holder=370536 #Philip the Good
+	liege=d_burgundy
 }
-1465.1.5 = {
-	holder=371092	#Louis II of Orléans
+1467.6.15 = {
+	holder=370558 #Charles the Bold
+}
+1477.1.5 = {
+	holder=370866 #Mary of Burgundy
+}
+1482.3.27 = {
+	holder=370841 #Louis XI
+}
+1483.8.30={
+	holder=370997 #Charles VIII
 }
 1493.5.23 = {
 	liege=k_france
+	holder=371092	#Louis II of Orléans
 }
 1515.1.1={
 	holder=370977 #Francis I

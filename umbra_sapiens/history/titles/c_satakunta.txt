@@ -1,0 +1,148 @@
+755.1.1={
+	holder=170306
+	liege="d_finland"
+}
+800.1.1={
+	holder=170307
+}
+835.1.1={
+	holder=170308
+}
+867.1.1={
+	holder=170131
+}
+901.1.1={
+	holder=170132
+}
+957.1.1={
+	holder=170133
+}
+978.1.1={
+	holder=170134
+}
+1020.1.1={
+	holder=170135
+}
+1066.1.1={
+	holder=28011
+}
+1120.1.1={
+	holder = 144641
+}
+1158.1.1={
+	liege="k_sweden" # Erik the Holy's crusade
+	holder=200490 # Erik the Holy
+}
+
+## Horn ancestors
+1160.6.6 = {
+	holder=194229
+}
+1210.1.1 = {
+	holder=194230
+}
+1250.1.1 = {
+	holder=194231
+}
+##
+
+
+1284.1.1={
+	liege="d_finland"
+	holder=33338 # Bengt Duke of Finland
+}
+1291.5.25={
+	liege="k_sweden"
+	holder=450504 # Birger Magnusson
+}
+1302.1.1={
+	liege="d_finland"
+	holder=450607 # Valdemar Magnusson
+}
+1318.2.16={
+	holder=450504 # King Birger
+}
+1320.1.1={
+	holder=450760
+}
+1340.1.1={
+	holder=450520
+}
+1396.12.26={
+	holder=381582 # Margaret I of Denmark
+}
+1412.10.29={
+	holder=381587 # Eric of Pomerania
+}
+1441.10.1={
+	holder=372138	#Christian I of Denmark
+}
+1448.1.6={
+	holder=381638 #Bengt Jönsson (Oxenstierna)
+}
+1448.6.20={
+	holder=381602	#Karl Knutsson
+}
+1457.2.24={
+	holder=381640	#Jöns Bengtsson Oxenstierna
+}
+1457.6.23={
+	holder=372138	#Christian I of Denmark
+}
+1464.8.9={
+	holder=381602	#Karl Knutsson
+}
+1464.12.26={
+	holder=381710	#Kettil Karlsson Vasa
+}
+1465.8.11={
+	holder=381640	#Jöns Bengtsson Oxenstierna
+}
+1466.10.18={
+	holder=381618	#Erik Axelsson Tott 
+}
+1467.11.12={
+	holder=381602	#Karl Knutsson
+}
+1470.5.15={
+	holder=381644	#Sten Sture the Elder 
+}
+1497.10.6={
+	holder=372165	#John, King of Denmark
+}
+1501.8.1={
+	holder=381644	#Sten Sture the Elder 
+}
+1504.1.21={
+	holder=381646	#Svante Nilsson (regent of Sweden)
+}
+1512.1.2={
+	holder=381711	#Eric Trolle
+}
+1512.7.23={
+	holder=381647	#Sten Sture the Younger
+}
+1520.2.3={
+	holder=372306	#Christian II of Denmark
+}
+1521.8.23={
+	holder=375134	#Gustav Vasa
+}
+1560.9.29={
+	holder=375144	#Eric XIV of Sweden
+}
+1569.1.26={
+	holder=375145	#John III of Sweden
+}
+1592.11.17 = {
+	holder=375208	#Sigismund III Vasa
+}
+1599.7.24 = {
+	holder=375154	#Charles IX
+}
+1611.10.30 = {
+	holder=375171	#Gustavus Adolphus
+}
+1632.11.6 = {
+	holder=375178	#Christina, Queen of Sweden
+}
