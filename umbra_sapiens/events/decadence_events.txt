@@ -1739,7 +1739,7 @@ character_event = {
 					is_offmap_ruler = no
 					ai = no
 					OR = {
-						Or= {
+						OR= {
 					religion_group = muslim
 					religion = taoist
 					religion = shingyo
@@ -1909,7 +1909,7 @@ character_event = {
 					NOT = { trait = decadent }
 					NOT = { character = FROM }
 					OR = {
-						Or= {
+						OR= {
 	religion_group = muslim
 	religion = taoist
 	religion = shingyo
@@ -2129,7 +2129,7 @@ character_event = {
 					NOT = { trait = decadent }
 					NOT = { character = FROM }
 					OR = {
-						Or= {
+						OR= {
 	religion_group = muslim
 	religion = taoist
 	religion = shingyo
@@ -2189,7 +2189,7 @@ character_event = {
 	}
 	
 	option = {
-		name = EVTOPTB91360 # Join the Bektashi Order
+		name = EVTOPTB91360 # Join the Bektashi ORder
 		
 		trigger = {
 			is_ruler = no
@@ -2611,7 +2611,7 @@ character_event = {
 					NOT = { trait = decadent }
 					NOT = { character = FROM }
 					OR = {
-						Or= {
+						OR= {
 	religion_group = muslim
 	religion = taoist
 	religion = shingyo
@@ -2749,7 +2749,7 @@ character_event = {
 					NOT = { trait = decadent }
 					NOT = { character = ROOT }
 					OR = {
-						Or= {
+						OR= {
 	religion_group = muslim
 	religion = taoist
 	religion = shingyo
@@ -2785,7 +2785,7 @@ character_event = {
 					NOT = { trait = decadent }
 					NOT = { character = ROOT }
 					OR = {
-						Or= {
+						OR= {
 	religion_group = muslim
 	religion = taoist
 	religion = shingyo
@@ -2827,7 +2827,7 @@ character_event = {
 					NOT = { trait = decadent }
 					NOT = { character = ROOT }
 					OR = {
-						Or= {
+						OR= {
 	religion_group = muslim
 	religion = taoist
 	religion = shingyo
@@ -2863,7 +2863,7 @@ character_event = {
 					NOT = { trait = decadent }
 					NOT = { character = ROOT }
 					OR = {
-						Or= {
+						OR= {
 	religion_group = muslim
 	religion = taoist
 	religion = shingyo
@@ -2961,7 +2961,7 @@ character_event = {
 					NOT = { trait = decadent }
 					NOT = { character = ROOT }
 					OR = {
-						Or= {
+						OR= {
 	religion_group = muslim
 	religion = taoist
 	religion = shingyo
@@ -3002,7 +3002,7 @@ character_event = {
 					NOT = { trait = decadent }
 					NOT = { character = ROOT }
 					OR = {
-						Or= {
+						OR= {
 	religion_group = muslim
 	religion = taoist
 	religion = shingyo
@@ -3052,7 +3052,7 @@ character_event = {
 					NOT = { trait = decadent }
 					NOT = { character = ROOT }
 					OR = {
-						Or= {
+						OR= {
 	religion_group = muslim
 	religion = taoist
 	religion = shingyo

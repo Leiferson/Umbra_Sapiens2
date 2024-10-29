@@ -3055,7 +3055,7 @@ character_event = {
 					is_offmap_ruler = no
 					ai = no
 					OR = {
-						Or= {
+						OR= {
 					religion = taoist
 					
 					religion = shingyo
@@ -3360,10 +3360,9 @@ character_event = {
 					is_offmap_ruler = no
 					ai = no
 					OR = {
-						Or= {
-					religion = taoist
-					
-					religion = shingyo
+						OR = {
+							religion = taoist
+							religion = shingyo
 						}
 						religion_group = ROOT
 					}

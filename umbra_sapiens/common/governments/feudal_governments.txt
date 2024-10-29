@@ -103,7 +103,7 @@ feudal_government = {
 		frame_suffix = "_mandala"
 		potential = {
 			AND = {
-			Capital_scope ={ 
+			capital_scope ={ 
 				region = world_southeast_asia
 				}
 				OR = {
@@ -311,7 +311,7 @@ feudal_government = {
 		potential = {
 			independent = yes	
 			tier = EMPEROR
-			Or ={
+			OR ={
 			culture_group = far_east
 				religion = nihon_shinto
 				religion = ryukyu_shinto
@@ -345,7 +345,7 @@ feudal_government = {
 			TRIBAL
 		}
 		accepts_liege_governments = { 
-		japanese_imperial_government​
+		japanese_imperial_government
 		japanese_feudalism
 		}
 		forced_contract = {
@@ -354,7 +354,7 @@ feudal_government = {
 		frame_suffix = "_japanesefeudalism"
 		potential = {
 		NOT = { is_government_potential = japanese_imperial_government }
-			Or ={
+			OR ={
 				culture_group = far_east
 				religion = nihon_shinto
 				}
@@ -561,7 +561,7 @@ feudal_government = {
 				government = chinese_imperial_government
 				government = korean_imperial_government
 				}
-				Or= {
+				OR= {
 				religion = taoist
 				religion = shingyo
 				}
@@ -614,7 +614,7 @@ feudal_government = {
 		NOT = { is_government_potential = chinese_imperial_government }
 				e_china = { has_holder = no}
 				capital_scope = {
-				Or = {
+				OR = {
 		    	region = custom_civilized_steppe
 				region = world_far_east 
 				region = world_indochina
