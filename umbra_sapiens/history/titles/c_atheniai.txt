@@ -106,12 +106,6 @@
 1441.1.1={
 	holder=379483 #Nerio II Acciaioli
 }
-1444.1.1={
-	set_tribute_suzerain = {
-		who = d_achaia
-		type = permanent 
-	}
-}
 1451.1.1={
 	holder=379485 #Francesco I Acciaioli
 }

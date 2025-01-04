@@ -2,6 +2,60 @@
 
 technology = {
 	titles = {
+		d_strymon
+		d_ohrid
+		d_cephalonia
+		d_optimatoi
+		d_bucellarian
+		d_cappadocia
+		d_kartli
+		d_abkhazia
+		d_tmutarakan
+		d_kakheti
+		d_egrisi
+		d_cambysene
+		d_shirvan
+		d_derbent
+		d_sarir
+		d_vainakhia
+		d_adyghea
+		d_cherson 
+		d_alania
+	}
+	
+	769 = {
+		military = 1.2		
+		economy = 1.5
+		culture = 1.5
+		TECH_RECRUITMENT = 3
+		TECH_CASTLE_CONSTRUCTION = 3
+		TECH_CITY_CONSTRUCTION = 3
+		TECH_CONSTRUCTION = 3
+		TECH_MAJESTY = 2
+		TECH_LEGALISM = 3
+	}
+		
+	1337 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+	
+	1500 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+	
+	1640 = {
+		military = 5.5
+		economy = 5.5
+		culture = 5.5
+	}
+}
+
+technology = {
+	titles = {
 		d_nikaea
 		d_samos
 		d_aegean_islands
@@ -38,25 +92,6 @@ technology = {
 		d_abydos
 		d_kakheti
 		d_tao
-		d_strymon
-		d_ohrid
-		d_cephalonia
-		d_optimatoi
-		d_bucellarian
-		d_cappadocia
-		d_kartli
-		d_abkhazia
-		d_tmutarakan
-		d_kakheti
-		d_egrisi
-		d_cambysene
-		d_shirvan
-		d_derbent
-		d_sarir
-		d_vainakhia
-		d_adyghea
-		d_cherson 
-		d_alania
 	}
 	
 	769 = {

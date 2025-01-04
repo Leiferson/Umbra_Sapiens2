@@ -1,0 +1,193 @@
+743.1.1=
+{
+	holder=83531
+}
+850.1.1={
+	holder = 83533 #Tigernán Ua Briúin
+}
+892.7.1={
+	holder = 83534 #Ruarc mac Tigernáin Ua Briúin
+}
+898.7.1={
+	holder = 83535 #Art mac Ruairc Ua Briúin
+	liege = d_connacht
+}
+955.7.1={
+	holder = 83536 #Fergal Ua Ruairc
+	liege = 0
+}
+967.7.1={
+	holder = 83537 #Áed nac Fergaile
+}
+1015.7.1={
+	holder = 1001 #Art Uallach mac Áeda
+}
+1046.7.1={
+	holder= 1000 #Áed mac Airt
+}
+1067.7.1={
+	liege="d_connacht"
+}
+1087.7.1={
+	holder= 1003 #Tigernán mac Ualgairg
+}
+1091.7.1={
+	holder= 1004 #Domnall mac Tigernáin
+}
+1102.7.1={
+	holder= 7287 #Domnall mac Ualgairg
+}
+1108.7.1={
+	holder= 214024 #Áed son of Domnall mac Ualgairg
+}
+1122.7.1={
+	holder= 83549 #Gilla-Braite son of Domnall mac Tigernáin
+}
+1125.7.1={
+	holder= 214022 #Tigernán Mór mac Áeda
+}
+1152.3.1={
+	holder= 83550 #Áed son of Gilla-Braite
+}
+1152.9.1={
+	holder= 214022 #Tigernán Mór mac Áeda
+}
+1172.1.1={
+	liege=0
+}
+1172.7.1={
+	holder= 83550 #Áed son of Gilla-Braite
+}
+1176.7.1={
+	holder= 83555 #Amlaíb mac Fergaile
+}
+1184.7.1={
+	holder =214020 # Aed mac Mael-Sechlainn
+}
+1187.7.1={
+	holder= 214027 #Ualgarg mac Cathail
+}
+1209.7.1={
+	holder= 83561 #Art mac Domnaill
+}
+1210.7.1={
+	holder= 214027 #Ualgarg mac Cathail
+}
+1231.7.1={
+	holder= 83552 #Cathal Riabach
+}
+1236.7.1={
+	holder= 83544 #Conchobar son of Tigernán
+}
+1256.7.1={
+	holder= 83541 #Sihtric son of Ualgarg
+}
+1257.7.1={
+	holder= 83562 #Amlaíb son of Art son of Domnall
+}
+1258.7.1={
+	holder= 83545 #Domnall son of Conchobar son of Tigernán
+}
+1258.11.1={
+	holder= 83553 #Art son of Cathal Riabach
+}
+1259.7.1={
+	holder= 83545 #Domnall son of Conchobar son of Tigernán
+}
+1260.7.1={
+	holder= 83553 #Art son of Cathal Riabach
+}
+1266.7.1={
+	holder= 83566 #Conchobar Buide mac Amlaíb
+}
+1273.7.1={
+	holder= 83542 #Tigernán mac Áéda
+}
+1274.7.1={
+	holder= 83554 #Amlaíb mac Airt
+}
+1307.7.1={
+	holder= 454161 #Domnall Carrach mac Amlaíb
+}
+1311.7.1={
+	holder= 454160 #Ualgarg mac Domnaill Charraigh
+}
+1346.7.1={
+	holder= 454162 #Flaithbheartach Ó Ruairc, king of Breifne: 1346–1349 (deposed) – son of Domnall carrach
+}
+1349.1.1={
+	holder= 83570	#Aodh Bán Ó Ruairc, king of Breifne: 1349–1352 – son of Ualgarg mór, son of Domnall
+}
+1352.1.1={
+	holder= 454162 #Flaithbheartach Ó Ruairc, king of Breifne: 1352–1352 (died) – son of Domnall carrach
+}
+1353.7.1={
+	holder= 83571 #Tadhg na gCaor Ó Ruairc, king of Breifne: 1352–1376 – son of Ualgarg mór son of Domnall carrach
+}
+1376.1.1={
+	holder= 454165 #Tigernán mór Ó Ruairc, king of Breifne: 1376–1418 – son of Ualgarg mór, son of Domnall carrach
+}
+1418.1.1={
+	holder= 383051 #Aodh buidhe Ó Ruairc, king of Breifne: 1418–1419 – son of Tigernán mór
+}
+1419.1.1={
+	holder= 383052 #Tadhg Ó Ruairc, king of West Breifne: 1419–1435 – son of Tigernán mór
+}
+1435.1.1={
+	holder= 383053 #Donnchadh bacagh Ó Ruairc, king of West Breifne: 1435–1445 – son of Tigernán mór?
+}
+1445.1.1={
+	holder=	383055 #Donnchadh Ó Ruairc, king of West Breifne: 1445–1449 – son of Tigernán óg, son of Tigernán mór
+}
+1449.1.1={
+	holder= 383056 #Tigernán óg Ó Ruairc, king of Breifne: 1449–1468 – son of Tadhg, son of Tigernán mór
+}
+1468.1.1={
+	holder= 383057 #Donnchadh losc Ó Ruairce, king of Breifne: 1468–1476 – son of Tigernán mór, son of Ualgarg mór
+}
+1476.1.1={
+	holder= 383058 #Feidhlimidh Ó Ruairc, king of Breifne: 1476–1500 – son of Donnchadh son of Tigernán óg
+}
+1500.1.1={
+	holder= 383059 #Eóghan Ó Ruairc, king of Breifne: 1500–1528 – son of Tigernán óg son of Tadhg
+}
+1528.1.1={
+	holder= 383060 #Feidhlimidh Ó Ruairc, king of Breifne: 1528–1536 – son of Feidhlimidh, son of Donnchadh
+}
+1536.1.1={
+	holder= 383061 #Brian ballach mór Ó Ruairc, king of Bréifne, 1528–1559, 1560–1562 – son of Eóghan, son of Tigernán óg
+}
+1559.1.1={
+	holder= 383062 #Tadhg Ó Ruairc, king of Breifne: 1559–1560 – son of Brian ballach
+}
+1560.1.1={
+	holder= 383061 #Brian ballach mór Ó Ruairc, king of Bréifne, 1560–1562 – son of Eóghan, son of Tigernán óg
+}
+1562.1.1={
+	holder= 383063 #Aodh gallda Ó Ruairc, king of Breifne: 1562–1564 – son of Brian ballach
+}
+1564.1.1={
+	holder= 383064 #Aodh buidhe Ó Ruairc, king of Breifne: 1564–1566 – son of Brian ballach
+}
+1566.1.1={
+	holder= 383065 #Brian na múrtha O'Rourke, king of Breifne: 1566–1591 – son of Brian ballach
+}
+1585.1.1={
+	liege=k_england
+}
+1590.5.1={
+	liege=0
+}
+1591.11.1={
+	holder= 383066 #Brian óg na samhthach O'Rourke, king of Breifne: 1591–1600 – son of Brian na múrtha
+}
+1603.3.1={
+	holder= 383067 #Tadhg Ó Ruairc, lord of Breifne: 1600–1605 – son of Brian na múrtha
+	liege=k_england
+}
+1605.8.1={
+	holder=373380	#James VI and I of England
+}
+1625.3.27={
+	holder=373462	#Charles I of England
+}

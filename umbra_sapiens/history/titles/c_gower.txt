@@ -1,0 +1,236 @@
+#Demetia
+360.1.1={
+	liege = d_deheubarth
+	holder = 159807 #Macsen Wledig
+}
+380.1.1={
+	holder = 159808 #Annwn Dynod
+}
+428.1.1={
+	holder = 159816 #Ednyfed ap Annwn
+}
+431.1.1={
+	holder = 159817 #Glotguin ap Ednyfed
+}
+451.1.1={
+	holder = 159818 #Clotri
+}
+471.1.1={
+	holder = 159819 #Maelgwn
+}
+#Dyfed
+475.1.1={
+	holder = 159322 #Aircol Lawhir
+}
+495.1.1={
+	holder = 159324 #Gwerthefyr
+}
+540.1.1={
+	holder = 159340 #Cyngar
+}
+570.1.1={
+	holder = 159341 #Pedr
+}
+595.1.1={
+	holder = 159342 #Arthwyr
+}
+620.1.1={
+	holder = 159343 #Nowy Hen
+}
+650.1.1={
+	holder = 159344 #Cloten
+}
+670.1.1={
+	holder = 159345 #Cathen
+}
+#Kingdom of Seisyllwg
+680.1.1={
+	liege = d_deheubarth
+	holder = 159798 #Seisyll ap Clydog
+}#Conquered the Ystrad Tywi region from Dyfed
+700.1.1={
+	holder = 159799 #Arthwyr ap Seisyll
+}
+735.1.1={
+	holder = 159806 #Dyfnwal ap Arthwyr
+}
+770.1.1={
+	holder = 159800 #Meurig ap Dyfnwal
+}
+837.1.1={
+	holder = 159801 #Gwgan ap Meurig
+}
+872.1.1={
+	holder = 81824 #Cadell ap Rhodri Mawr
+}
+909.1.1={
+	holder = 252351 #Clydog ap Cadell
+}
+920.1.1={
+	holder = 81823 #Hywel Dda
+}
+950.1.1={
+	holder = 159362 #Rhodri ap Hywel
+}
+953.1.1={
+	holder = 81822 #Owain ap Hywel
+}
+987.1.1={
+	holder = 81821 #Maredudd ap Owain
+}
+999.1.2={
+	holder = 159001 # Cynan ap Hywel, Idwal Foel (the bald)'s great-grandson
+}
+1005.1.1={
+	holder = 138490 #Cadell ap Einion, joint reign
+}
+1011.1.1={
+	holder = 138494 #Owain ap Einion, joint reign
+}
+1018.1.1={
+	holder = 40500 #Llywelyn ap Seisyll
+}
+1023.1.1={
+	holder = 81863 #Rhydderch ap Iestyn, father Iestyn ap Owain ap Morgan Hen (son of #40510, Owain Morgan) is missing
+}
+1033.1.1={
+	holder = 40512 #Placeholder for correct naming sequence, Hywel ab Edwin (correct ruler of Deheubarth) and Maredudd ab Edwin, sons of Edwin ab Einion (#138492), are missing
+}
+1045.1.1={
+	holder = 81862 #Gruffydd ap Rhydderch
+}
+1055.1.1={
+	holder = 40502 #Gruffydd ap Llywelyn
+}
+1066.1.1={
+	holder=138496 #Maredudd ap Owain ap Edwin
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+1070.1.1={
+	holder = 81815 #Rhys ap Owain ap Edwin
+}
+1076.1.1={
+	holder = 81816 #Rhys ap Tewdwr
+}
+1093.4.1={
+	holder = 152
+}
+1094.1.1={
+	holder = 41032
+}
+1098.1.1={
+	holder = 41004
+}
+1102.1.1={
+	holder = 202992
+} 
+1135.1.1={
+	holder = 214810 #Gruffyd ap Rhys
+}
+1137.1.1={
+	holder = 138498 #Anarawd ap Gruffyd
+}
+1143.1.1={
+	holder = 138500 #Cadell ap Gruffyd
+}
+1153.1.1={
+	holder = 81814 #Maredudd ap Gruffyd
+}
+1157.1.1={
+	holder = 214800 #Rhys ap Gruffyd
+}
+1197.4.28={
+	holder = 214803 # Gruffydd ap Rhys
+}
+1201.8.1={
+	holder = 332039 #Maelgwn ap Rhys
+}
+1231.1.1={
+	holder = 7357 #Richard Marshal
+}
+1234.4.16={
+	holder = 7356 #Gilbert Marshal
+}
+1241.6.27={
+	holder = 7355 #Walter Marshal
+}
+1245.11.1={
+	holder = 7354 #Anselm MArshal
+}
+1245.12.22=
+{
+holder=138013 #William de Valence/Lusignan
+}
+1296.5.16=
+{
+holder=138031 #Aymar de Valence/Lusignan
+}
+1324.6.24=
+{
+holder= 453401
+}
+1325.1.20=
+{
+holder=453400	#Laurence Hastings, 1st Earl of Pembroke
+}
+1348.8.30 = {
+holder=383514	#John Hastings, 2nd Earl of Pembroke
+}
+1389.12.30 = {
+holder=372786	#Humphrey, Duke of Gloucester
+}
+1447.2.23 = {
+holder=383518	#William de la Pole, 1st Duke of Suffolk
+}
+1450.5.2 = {
+holder=372790	#Henry VI of England
+}
+1452.11.23 = {
+holder=372754	#Jasper Tudor, Duke of Bedford
+}
+1461.3.4={
+holder=372857	#Edward IV
+}
+1468.1.1={
+holder=383526	#William Herbert, 1st Earl of Pembroke (1423–1469)
+}
+1469.7.27={
+holder=383530	#William Herbert, 2nd Earl of Pembroke
+}
+1479.1.1 = {
+holder=370034	#Henry IV of England
+}
+1483.4.9 = {
+holder=372888	#Edward V
+}
+1485.1.1={
+holder=372754	#Jasper Tudor, Duke of Bedford
+}
+1495.12.21 ={
+holder=372758	#Henry VII of England
+}
+1509.4.21 = {
+holder=372978	#Henry VIII of England
+}
+1532.9.1={
+holder=372987	#Anne Boleyn
+}
+1536.5.19 ={
+holder=372978	#Henry VIII of England
+}
+1547.1.28 = {
+	holder=373114	#Edward VI of England
+}
+1551.1.1={
+	holder=383526	#William Herbert, 1st Earl of Pembroke (died 1570)
+}
+1570.3.17={
+	holder=383545	#Henry Herbert, 2nd Earl of Pembroke
+}
+1601.1.19={
+	holder=383557	#William Herbert, 3rd Earl of Pembroke
+}
+1630.4.10={
+	holder=383558	#Philip Herbert, 4th Earl of Pembroke
+}

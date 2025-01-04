@@ -796,7 +796,7 @@ e_timurids = {
 	
 #	tribe = yes
 	
-	culture = mongol
+	culture = karluk
 	religion = sunni
 }
 k_yenisia = {
@@ -843,6 +843,82 @@ k_yakut = {
 	
 	culture = evenk
 	religion = tengri_pagan
+}
+k_qara_qoyunlu = {
+	color = { 80 187 190 }
+	
+	short_name = yes
+	
+	
+	allow = {
+		always = no
+	}
+	
+#	tribe = yes
+	
+	culture = turkish
+	religion = sunni
+}
+k_aq_qoyunlu = {
+	color = { 32 58 137 }
+	
+	short_name = yes
+	
+	
+	allow = {
+		always = no
+	}
+	
+#	tribe = yes
+	
+	culture = turkish
+	religion = sunni
+}
+k_kalmyk = {
+	color = { 255 174 201 }
+	
+	short_name = yes
+	
+	
+	allow = {
+		always = no
+	}
+	
+#	tribe = yes
+	
+	culture = mongol
+	religion = buddhist
+}
+k_astrakhan = {
+	color = { 255 237 92 }
+	
+	short_name = yes
+	
+	
+	allow = {
+		always = no
+	}
+	
+#	tribe = yes
+	
+	culture = cuman
+	religion = sunni
+}
+
+k_nogai = {
+	color = { 50 149 208 }
+	
+	short_name = yes
+	
+	
+	allow = {
+		always = no
+	}
+	
+#	tribe = yes
+	
+	culture = cuman
+	religion = sunni
 }
 # HOLY ORDERS
 
@@ -7580,7 +7656,9 @@ e_byzantium = {
 		d_ohrid = {
 			color={ 150 30 70 }
 			color2={ 255 255 20 }
-
+			
+			capital = 471 # ochrid
+			
 			greek = "Lychnidos"
 			arberian = "Ohri"
 
@@ -9139,7 +9217,9 @@ e_byzantium = {
 		d_strymon = {
 			color={ 175 50 170 }
 			color2={ 255 255 255 }
-
+			
+			capital = 492	#Strymon
+			
 			c_strymon = {
 				color={ 139 29 101 }
 				color2={ 255 255 20 }

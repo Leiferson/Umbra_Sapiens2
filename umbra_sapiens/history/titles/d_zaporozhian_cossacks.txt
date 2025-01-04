@@ -4,7 +4,99 @@
 1400.1.1={
 	active = yes
 	set_global_flag = zaporozhian_cossacks_formed
-	liege="k_lithuania"
+}
+1534.1.1={
+	holder=384853	#Wezyk Chmielnicki (1534–1569)
+}
+1569.1.1={
+	holder=384854	#Michal Wisniowiecki (1529–1584) (1569–1570)
+}
+1570.1.1={
+	holder=384856	#Iwan Swiergowski (1574)
+}
+1572.6.5={
+	liege="e_commonwealth"
+}
+1574.1.1={
+	holder=384858	#Bohdan Ruzhynski (1575–1576)
+}
+1576.1.1={
+	holder=384859	#Jacub Szach (1576–1578)
+}
+1578.1.1={
+	holder=384861	#Lukyan Chornynsky (1578)
+}
+1581.1.1={
+	holder=384863	#Samuel Zborowski (1581–1584)
+}
+1584.1.1={
+	holder=384865	#Mykhailo Ruzhynski (1585)
+}
+1585.1.1={
+	holder=384861	#Lukyan Chornynsky (1586)
+}
+1586.1.1={
+	holder=384869	#Demyan Skalozub (1585–1589)
+}
+1589.1.1={
+	holder=384870	#Krzysztof Kosinski (-1593)
+}
+1593.1.1={
+	holder=384871	#Hryhoriy Loboda (1593–1596)
+}
+1596.1.1={
+	holder=384871	#Khrystofor Netkovsky (1596–1597)
+}
+1597.1.1={
+	holder=384877	#Tykhin Baybuza (1597–1598)
+}
+1598.1.1={
+	holder=384879	#Semen Skalozub (1599)
+}
+1599.1.1={
+	holder=384880	#Samiylo Kishka (1600–1602)
+}
+1602.1.1={
+	holder=384881	#Havrylo Krutnevych (1602–1603)
+}
+1603.1.1={
+	holder=384883	#Ivan Kosyi (1603)
+}
+1609.1.1={
+	holder=384887	#Kaletnyk Andriyevych (1609–1610)
+}
+1610.1.1={
+	holder=384885	#Olifer Holub (1622–1623)
+}
+1623.1.1={
+	holder=384890	#Mykhailo Doroshenko (1623–1625)
+}
+1625.1.1={
+	holder=384889	#Mykhailo Doroshenko (1625–1628)
+}
+1628.1.1={
+	holder=384890	#Hryhoriy Chorny (1628–1630)
+}
+1630.1.1={
+	holder=384894	#Timothy Orendarenko (1630–1631)
+}
+1631.1.1={
+	holder=384895	#Semen Perevyazka (1632)
+}
+1632.1.1={
+	holder=384894	#Timothy Orendarenko (1632–1633)
+}
+1633.1.1={
+	holder=384899	#Ivan Sulyma (1633–1635)
+}
+1635.1.1={
+	holder=384900	#Sava Kononovych (1637)
+}
+1637.1.1={
+	holder=384902	#Illyash Karayimovych (1638)
+}
+1638.1.1={
+	holder=384905	#Karpo Pivtora-Kozhukha (1639–1642)
 }
 1654.1.1={ liege="e_russia_2" }
 1775.5.7={

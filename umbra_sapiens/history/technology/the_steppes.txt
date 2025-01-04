@@ -12,6 +12,7 @@ technology = {
 		d_crimea
 		d_alania
 		d_azov
+		d_siracena
 		d_turkestan
 		d_zhetysu
 		d_syr_darya
@@ -19,26 +20,6 @@ technology = {
 		d_kazan
 		d_cheremisa
 		d_cherson
-		d_beloozero
-		d_wild_fields
-		d_usturt
-		d_emba
-		d_chuy
-		d_ili
-		d_caspian_steppe
-		d_bandja
-		d_atyrau
-		d_aqtobe
-		d_sakmara
-		d_tobol
-		d_ishim
-		d_ubagan
-		d_turgay
-		d_kazakh
-		d_ob
-		d_tarbagatai
-		d_irtysh
-		d_siracena
 	}
 
 	769 = {
@@ -46,8 +27,8 @@ technology = {
 		economy = 0.1
 		culture = 0.1
 		
-		TECH_CAVALRY = 2
-		TECH_SKIRMISH = 2
+		TECH_CAVALRY = 2.0
+		TECH_SKIRMISH = 2.0
 	}
 	
 	1337 = {
@@ -69,6 +50,88 @@ technology = {
 	}
 }
 
+technology = {
+	titles = {
+		d_atyrau
+		d_aqtobe
+		d_sakmara
+		d_tobol
+		d_ishim
+		d_ubagan
+		d_turgay
+		d_kazakh
+		d_ob
+		d_tarbagatai
+		d_irtysh
+	}
+
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+		TECH_CAVALRY = 2.0
+		TECH_SKIRMISH = 2.0
+	}
+	
+	1337 = {
+		military = 2.5
+		economy = 2.5
+		culture = 2.5
+	}
+	
+	1500 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+	
+	1640 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+technology = {
+	titles = {
+		d_beloozero
+		d_wild_fields
+		d_usturt
+		d_emba
+		d_chuy
+		d_ili
+		d_caspian_steppe
+		d_bandja
+	}
+
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+		TECH_CAVALRY = 2.0
+		TECH_SKIRMISH = 2.0
+	}
+	
+	1337 = {
+		military = 2.5
+		economy = 2.5
+		culture = 2.5
+	}
+	
+	1500 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+	
+	1640 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
 #SOGDIA + TARIM
 
 technology = {

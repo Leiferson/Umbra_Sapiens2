@@ -661,7 +661,7 @@
 93047= {
 	name="Aspar" 
 	dynasty=100606
-	religion="sunni"
+	religion="orthodox"
 	culture="alan"
 	father=93039
 	1295.1.1={
@@ -675,30 +675,29 @@
 194416= {
 	name="Itaz" 
 	dynasty=100606
-	religion="sunni"
+	religion="orthodox"
 	culture="alan"
 	father=93047
 	1317.1.1={
 		birth=yes
-	}
-		
-	1345.1.1={
-		death="1345.1.1"
+	}	
+	1380.1.1={
+		death="1380.1.1"
 	}
 }
 194415= {
 	name="Lela"
 	female=yes	
 	dynasty=100606
-	religion="sunni"
+	religion="orthodox"
 	culture="alan"
 	father=93047
 	1315.1.1={
 		birth=yes
 	}
 		
-	1345.1.1={
-		death="1345.1.1"
+	1370.1.1={
+		death="1370.1.1"
 	}
 }
 

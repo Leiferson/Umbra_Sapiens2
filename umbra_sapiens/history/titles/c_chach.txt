@@ -1,0 +1,210 @@
+767.1.1={
+	liege = d_zhetysu # represents Karluk advances against Transoxania
+	holder = 188774
+}
+
+864.1.1={
+	holder = 163099
+	liege = k_khiva
+}
+936.1.1 = {
+	holder = 188838
+	liege = d_zhetysu
+}
+1052.1.1={
+	holder=3014
+	liege = k_khiva
+}
+1068.1.1=
+{
+	holder = 3016
+}
+1080.1.1=
+{
+	holder = 3018
+}
+1081.1.1=
+{
+	holder = 3020
+}
+1089.1.1=
+{
+	holder = 3022
+}
+1095.1.1=
+{
+	holder = 3024
+}
+1097.1.1=
+{
+	holder = 144110
+}
+1097.6.1=
+{
+	holder = 144108
+}
+1099.1.1=
+{
+	holder = 144109
+}
+1102.1.1=
+{
+	holder = 144111
+}
+1129.1.1=
+{
+	holder = 144112
+}
+1129.6.1=
+{
+	holder = 144113
+}
+1130.1.1={
+	holder = 144116
+}
+1132.1.1=
+{
+	holder = 144117
+}
+1132.6.1=
+{
+	holder = 144118
+}
+1141.1.1=
+{
+	holder = 144119
+}
+1156.1.1=
+{
+	holder = 144120
+}
+1161.1.1=
+{
+	holder = 144121
+}
+1178.1.1=
+{
+	holder = 144122
+}
+1204.1.1=
+{
+	holder = 93051
+}
+1212.1.1={
+	liege = d_khiva
+	holder=93053
+}
+1220.2.1=
+{
+	liege="e_mongol_empire"
+	holder = 125501
+}
+
+1227.12.2={
+	holder = 93062
+}
+1228.1.1={
+	liege=e_chagatai
+	holder = 248181
+}
+1250.1.1={
+	holder = 248182
+}
+1290.1.1={
+	holder = 248184
+}
+1305.1.1={
+	holder = 248186
+}
+1330.1.1={
+	holder = 248188
+}
+1338.1.1={
+	holder = 385111	#Yesun Temur
+}
+1339.1.1={
+	holder = 166918 #Ali Sultan
+}
+1342.1.1={
+	holder = 385109 #Muhammad I ibn Pulad
+}
+1343.1.1={
+	holder = 385111 #Qazan Khan ibn Yasaur	
+}
+1346.1.1={
+    holder = 385112 #Danishmendji
+}
+1347.1.1={
+	holder=385120	#Tughlugh Timur
+	liege=k_zhetysu
+}
+1363.1.1={
+	holder=385121	#Ilyas Khoja
+}
+1368.1.1={
+	holder=248237	#Qamar-ud-din Khan Dughlat
+}
+1390.1.1 = {
+	holder=385122	#Khizr Khoja	
+}
+1399.1.1={
+	holder=385123	#Shams-i-Jahan	
+}
+1408.1.1={
+	holder=385124	#Muhammad Khan (Khan of Moghulistan)
+}
+1415.1.1={
+	holder=385127	#Naqsh-i-Jahan
+}
+1418.1.1={
+	holder=385135	#Uwais Khan
+}
+1421.1.1={
+	holder=385130	#Sher Muhammad
+}
+1425.1.1={
+	holder=385135	#Uwais Khan
+}
+1429.1.1={
+	holder=385164	#Satuq Khan
+}
+1434.1.1={
+	holder=385137	#Esen Buqa II
+}
+1458.1.1={
+	holder=385051	#Kerei Khan
+	liege="d_chuy"
+}
+1471.1.1={
+	liege="k_cuman"
+}
+1474.1.1={
+	holder=384779	#Zhanibek Khan (1474-1480) 
+}
+1480.1.1={
+	holder=385052	#Burunduk Khan
+}
+1511.1.1={
+	holder=385063	#Kasym Khan (Kazakh Khanate) 
+}
+1521.1.1={
+	holder=385070	#Mamash-khan 
+}
+1523.1.1={
+	holder=385077	#Tahir Khan 
+}
+1533.1.1={
+	holder=385071	#Hak-Nazar-khan 
+}
+1580.5.18={
+	holder=385085	#Shigai-khan (Kazakh Khanate) 
+}
+1582.1.1={
+	holder=385089	#Taukekel Khan 
+}
+1598.1.1={
+	holder=385090	#Yesim Khan (Kazakh Khanate)  
+}
+1628.1.1={
+	holder=385104	#Janibek Khan Yesimuly   
+}

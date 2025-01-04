@@ -113,19 +113,68 @@ holder=70467
 }
 1231.1.2=
 {
-	holder=232769
+	holder = 466518
 }
-1250.1.1=
+1245.1.1={
+	holder = 466519
+}
+1259.1.1={
+	holder = 466514
+}
+1270.1.1={
+	holder = 466501
+}
+1289.3.12={
+	holder = 144009
+}
+1292.1.1={
+	holder = 466511
+}
+1311.1.1={	
+	holder = 466512
+}
+1313.1.1=
 {
-	holder=466750
+holder=466500 
 }
-1306.1.1=
-{
-	holder=466752
+1346.1.2={
+	holder = 466503 #David IX
 }
-1334.1.2=
-{
-	holder=466753
+1360.1.2={
+	holder = 378207 #Bagrat V the Great
 }
-
-
+1393.1.2={
+	holder = 378210 #George VII of Georgia
+}
+1396.1.1={
+	holder = 378220	#Constantine II of Imereti
+	liege="d_egrisi"
+}
+1401.1.2={
+	holder = 378221	#Demetrius, Duke of Imereti
+}
+1412.1.1={
+	liege="d_kakheti"
+}
+1455.1.2={
+	holder = 378226 #George VIII
+}
+1463.1.1={
+	holder = 386251 	#Svaneti
+	liege=0
+}
+1490.1.1={
+	holder = 386252 	#Svaneti
+}
+1510.1.1={
+	holder = 386253 	#Svaneti
+}
+1546.1.1={
+	holder = 386254 	#Svaneti
+}
+1589.1.1={
+	holder = 386255 	#Svaneti
+}
+1614.1.1={
+	holder = 386256 	#Svaneti
+}

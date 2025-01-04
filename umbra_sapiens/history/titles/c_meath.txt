@@ -135,3 +135,41 @@
 1336.12.01={
 	holder=454122
 }
+1390.8.25 = {
+	holder = 383308 #Gerald FitzGerald, 5th Earl of Kildare
+}
+1428.6.24 = {
+	holder = 383315 #Thomas FitzGerald, 7th Earl of Kildare
+}
+1477.3.25 = {
+	holder = 383317 #Gerald FitzGerald, 8th Earl of Kildare
+}
+1513.9.3 = {
+	holder = 383327 #Gerald FitzGerald, 9th Earl of Kildare
+}
+1534.6.11 = {
+	holder = 383337 #Thomas FitzGerald, 10th Earl of Kildare 
+	liege=0
+}
+1536.7.18={
+	holder=372978	#Henry VIII of England
+	liege=k_england
+}
+1547.1.28 = {
+	holder=373114	#Edward VI of England
+}
+1553.7.6 = {
+	holder=373676	#Lady Jane Grey
+}
+1553.7.19 = {
+	holder=373111	#Mary I of England
+}
+1558.11.17 ={
+	holder=373113	#Elizabeth I of England
+}
+1603.3.24 ={
+	holder=373380	#James VI and I of England
+}
+1625.3.27={
+	holder=373462	#Charles I of England
+}

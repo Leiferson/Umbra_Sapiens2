@@ -125,12 +125,59 @@
 1317.1.1={
 	holder=144574
 }
+1338.7.2={
+	liege=0
+}
 1348.1.1={
-	holder=146121
+	holder=146121	#Kavus I 146121
 }
 1372.1.1={
-	holder=146124
+	holder=146124	#Hushang of Shirvan 146124
 }
 1382.1.1={
-	holder=146125
+	holder=146125	#Ibrahim I of Shirvan
+}
+1394.1.1={
+	liege="e_timurids"
+}
+1405.1.1={
+	liege=0
+}
+1410.1.1={
+	liege="k_qara_qoyunlu"
+}
+1417.9.15={
+	holder=386015	#Khalilullah I of Shirvan
+}
+1465.1.1={
+	holder=386028	#Farrukh Yassar I
+}
+1469.10.22={
+	liege="k_aq_qoyunlu"
+}
+1500.1.1={
+	holder=386032	#Gazi Beg
+}
+1500.6.1={
+	holder=386033	#Shirvanshah Bahram Beg
+}
+1501.1.1={
+	holder=386036	#Sultan Mahmud (Shirvanshah)
+	liege=0
+}
+1501.12.1={
+	holder=386034	#Ibrahim II Sheykhshah
+	liege="k_persia"
+}
+1524.1.1={
+	holder=386037	#Khalilullah II
+}
+1535.1.1={
+	holder=386040	#Farrukh Yassar II 
+}
+1535.6.1={
+	holder=386047	#Shahrukh De Shirvan 
+}
+1538.1.1={
+	holder=0	#Safavid Conquest
 }

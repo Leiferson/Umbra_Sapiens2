@@ -132,4 +132,50 @@ liege="d_abkhazia"
 1313.1.1={
 	holder=466500
 }
-
+1346.1.2={
+	holder = 466503 #David IX
+}
+1360.1.2={
+	holder = 378207 #Bagrat V the Great
+}
+1393.1.2={
+	holder = 378210 #George VII of Georgia
+}
+1396.1.1={
+	holder = 378220	#Constantine II of Imereti
+	liege="d_egrisi"
+}
+1401.1.2={
+	holder = 378221	#Demetrius, Duke of Imereti
+}
+1412.1.1={
+	liege="d_kakheti"
+}
+1455.1.2={
+	holder = 378226 #George VIII
+}
+1463.1.1={
+	holder = 386188	#Rabia Sharvashidze
+	liege=0
+}
+1465.1.1={
+	holder = 386189	#Solomon Sharvashidze
+}
+1480.1.1={
+	holder = 386190	#Arazkhan Sharvashidze
+}
+1511.1.1={
+	holder = 386191	#Beslak Sharvashidze
+}
+1563.1.1={
+	holder = 386192	#Karabey Sharvashidze
+}
+1580.1.1={
+	holder = 386193	#Putu Sharvashidze (circa 1580–1620)
+}
+1620.1.1={
+	holder = 386194	#Seteman Sharvashidze (circa 1620–1640)
+}
+1640.1.1={
+	holder = 386195	#Sustar Sharvashidze (circa 1640–1665)
+}

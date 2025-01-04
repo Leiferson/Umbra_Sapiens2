@@ -2842,7 +2842,7 @@
 	1322.1.1={
 		add_spouse = 450825
 	}
-	1346.10.17={
+	1357.1.1={
 		death=yes
 	}
 }
@@ -3081,8 +3081,8 @@
 	1347.1.2={
 		add_spouse=453057
 	}
-	1359.1.1={
-		death="1359.1.1"
+	1346.1.1={
+		death="1346.1.1"
 	}
 }
 
@@ -4140,82 +4140,6 @@
 	}
 }
 
-453077 = {  	
-	name="Dugald"
-	dynasty=3128
-	religion="catholic"
-	culture="scottish"
-	trait="tough_soldier"
-	father=453009
-	mother=453076
-	1328.1.1={
-		birth=yes
-	}
-	1376.1.1={
-		death=yes
-	}
-}
-
-453078 = {  	
-	name="Archibald"
-	dynasty=3128
-	religion="catholic"
-	culture="scottish"
-	trait="proud"
-	trait="tough_soldier"
-	father=453009
-	mother=453076
-	1326.1.1={
-		birth=yes
-	}
-	1378.1.1={
-		death=yes
-	}
-}
-
-453079 = {  	
-	name="John"
-	dynasty=3128
-	martial=7
-	diplomacy=4
-	intrigue=4
-	stewardship=2
-	religion="catholic"
-	culture="scottish"
-	trait="proud"
-	trait="tough_soldier"
-	father=453009
-	mother=453076
-	1331.1.1={
-		birth="1331.1.1"
-	}
-	1381.1.1={
-		death="1381.1.1"
-	}
-}
-
-453080 = {  	
-	name="Neil"
-	dynasty=3128
-	martial=5
-	diplomacy=4
-	intrigue=4
-	stewardship=8
-	religion="catholic"
-	culture="scottish"
-	trait="bastard"
-	trait="honest"
-	trait="proud"
-	trait="tough_soldier"
-	father=453009
-	1321.1.1={
-		birth="1321.1.1"
-	}
-	1369.1.1={
-		death="1369.1.1"
-	}
-}
-
 453500 = {  	
 	name="David"
 	dynasty=3123
@@ -4232,8 +4156,8 @@
 	1324.1.2={
 		birth="1324.1.2"
 	}
-	1374.1.2={
-		death="1374.1.2"
+	1374.2.22={
+		death="1374.2.22"
 	}
 }
 
@@ -4857,8 +4781,8 @@
 	1292.1.1={
 		birth="1292.1.1"
 	}
-	1342.1.1={
-		death="1342.1.1"
+	1346.1.1={
+		death="1346.1.1"
 	}
 }
 
@@ -6554,11 +6478,11 @@
 	trait="thrifty_clerk"
 	father=453010
 	mother=453067
-	1318.1.1 = {
-		birth="1318.1.1"
+	1320.1.1 = {
+		birth="1320.1.1"
 	}
-	1368.1.1 = {
-		death="1368.1.1"
+	1389.1.1 = {
+		death="1389.1.1"
 	}
 }
 
@@ -6577,8 +6501,8 @@
 	trait="naive_appeaser"
 	father=453010
 	mother=453067
-	1320.1.1 = {
-		birth="1320.1.1"
+	1321.1.1 = {
+		birth="1321.1.1"
 	}
 	1370.1.1 = {
 		death="1370.1.1"

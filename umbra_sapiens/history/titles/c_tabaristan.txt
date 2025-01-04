@@ -1,0 +1,147 @@
+755.1.1={
+	liege=d_mazandaran
+	holder = 160290 # Surkhab Bavand II
+}
+
+867.1.1={
+	#liege="d_mazandaran"
+	holder = 45105 # Rostam II
+}
+930.1.1 = {
+	holder = 220996
+}
+1066.1.1={
+holder=20704
+}
+1074.1.1=
+{
+holder=41606
+}
+1114.1.1=
+{
+holder=93162
+}
+1117.1.1=
+{
+holder=93163
+}
+1118.1.1=
+{
+liege="d_dihistan"
+}
+1118.1.1=
+{
+holder=93164
+}
+1142.1.1=
+{
+holder=93165
+}
+1165.1.1=
+{
+holder=93166
+}
+1173.1.1=
+{
+holder=93167
+}
+1206.1.1=
+{
+holder=93168
+}
+1210.1.1={
+holder=93169
+}
+1228.1.1={
+liege=d_khorasan
+}
+1238.1.1={
+	liege=d_mazandaran # restores Bavandid authority over Tabaristan
+}
+1249.1.1=
+{
+holder=93170
+}
+1267.1.1=
+{
+holder=93171
+}
+1271.1.1=
+{
+holder=93172
+}
+1300.1.1=
+{
+holder=93173
+}
+1310.1.1=
+{
+holder=93174
+}
+1328.1.1=
+{
+holder=93175
+}
+1334.1.1=
+{
+holder=93176
+}
+1349.1.1=
+{
+holder=385740	#Kiya Afrasiyab
+}
+1359.1.1={
+holder=385768	#Mir Bozur
+}
+1379.1.1={
+holder=385769	#Rida al-Din
+}
+1384.1.1={
+	liege="e_timurids"
+}
+1392.1.1={
+holder=385789	#Ali Sari
+}
+1418.1.1={
+holder=385792	#Morteza
+}
+1434.1.1={
+holder=385793	#Mohammad Marashi 
+}
+1452.1.1={
+holder=385794	#Abdul Kareem
+}
+1461.1.1={
+holder=385799	#Abdullah
+}
+1479.1.1={
+holder=385796	#Zainul Abdin
+}
+1492.1.1={
+holder=385797	#Shamsuddin
+}
+1500.1.1={
+holder=385798	#Kamaluddin
+}
+1502.1.1={
+holder=385813	#Agha Rostam
+}
+1521.1.1={
+holder=385806	#Abdullah
+}
+1563.1.1={
+holder=385805	#Mirsultan Murad Khan 
+}
+1575.1.1={
+holder=385808	#Mirza Khan 
+}
+1580.1.1={
+	holder = 385946	#Sultan Mohammad Khudabandeh
+	liege="k_persia"
+}
+1588.9.9={
+	holder = 385972	#Shah Abbas I
+}
+1629.1.19={
+	holder = 385995	#Shah Safi I
+}

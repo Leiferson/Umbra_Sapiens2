@@ -1,0 +1,187 @@
+
+
+864.1.1={
+	liege="k_khiva"
+	holder = 163099
+	clear_tribute_suzerain = e_arabia
+}
+890.1.1={
+	holder=188599 # Muhammad
+}
+1052.1.1=
+{
+	holder=3014
+}
+1068.1.1=
+{
+	holder = 3016
+}
+1080.1.1=
+{
+	holder = 3018
+}
+1081.1.1=
+{
+	holder = 3020
+}
+1089.1.1=
+{
+	holder = 3022
+}
+1095.1.1=
+{
+	holder = 3024
+}
+1097.1.1=
+{
+	holder = 144110
+}
+1097.6.1={
+	holder = 144108
+}
+1099.1.1=
+{
+	holder = 144109
+}
+1102.1.1={
+	holder = 144111
+}
+1129.1.1=
+{
+	holder = 144112
+}
+1129.6.1=
+{
+	holder = 144113
+}
+1130.1.1={
+	holder = 144116
+}
+1132.1.1=
+{
+	holder = 144117
+}
+1132.6.1=
+{
+	holder = 144118
+}
+1141.1.1=
+{
+	holder = 144119
+}
+1156.1.1=
+{
+	holder = 144120
+}
+1161.1.1=
+{
+	holder = 144121
+}
+1178.1.1=
+{
+	holder = 144122
+}
+1194.3.1=
+{
+	liege="k_persia" 
+}
+1204.1.1=
+{
+	holder = 93051
+}
+1212.1.1=
+{
+	liege="k_persia"
+	holder=93053
+}
+1221.1.1={
+	liege="e_mongol_empire"
+	holder=248212
+}
+
+#Chagatai Khanate
+
+1227.12.2={
+	liege=e_chagatai
+}
+1271.1.1={
+	holder = 248213
+}
+1300.1.1={
+	holder = 248214
+}
+1338.1.1={
+	holder = 242111	#Yesun Temur
+}
+1339.1.1={
+	holder = 166918 #Ali Sultan
+}
+1342.1.1={
+	holder = 385109 #Muhammad I ibn Pulad
+}
+1343.1.1={
+	holder = 385111 #Qazan Khan ibn Yasaur	
+}
+1346.1.1={
+    holder = 385112 #Danishmendji
+}
+1348.1.1 = {
+	holder = 385118 #Bayan Qulï
+}
+1358.1.1={
+	holder = 385119 #Temurshah Khan 
+}
+1359.1.1={
+	holder = 385461	#Aq Sufii (1359–1361)
+}
+1361.1.1={
+	holder = 385462	#Husain (1361–1372)
+	liege=0
+}
+1372.1.1={
+	holder = 385463	#Yusuf (1372–1379)
+}
+1379.1.1={
+	holder = 0
+	liege=e_timuridis
+}
+1510.12.2={
+	holder=385534	#Ilbars
+	liege=0
+}
+1518.1.1={
+	holder=385535	#Sultan Haji Khan 
+}
+1519.1.1={
+	holder=385536	#Hasankuli Khan  
+}
+1519.6.1={
+	holder=385537	#Sufiyan Khan 
+}
+1522.1.1={
+	holder=385538	#Budjuga Khan 
+}
+1526.1.1={
+	holder=385539	#Avanesh Khan 
+}
+1540.1.1={
+	holder=385551	#Kal Khan 
+}
+1547.1.1={
+	holder=385552	#Agatai-han  
+}
+1557.1.1={
+	holder=385547	#Dost-khan
+}
+1558.1.1={
+	holder=385559	#Haji Muhammad Khan
+}
+1602.1.1={
+	holder=385560	#Arab Muhammad Khan 
+}
+1621.1.1={
+	holder=385564	#Ilbars-sultan 
+}
+1623.1.1={
+	holder=385562	#Isfandiyar Khan
+}

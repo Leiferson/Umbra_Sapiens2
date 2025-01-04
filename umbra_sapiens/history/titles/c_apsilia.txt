@@ -109,27 +109,62 @@ liege="d_abkhazia"
 }
 1243.1.1=
 {
-	holder = 466518
+	holder=386246
 }
-1245.1.1={
-	holder = 466519
+1260.1.2={
+	holder=386247
 }
-1259.1.1={
-	holder = 466514
+1290.1.2={
+	holder=386248	#Giorgi I Dadiani
 }
-1270.1.1={
-	holder = 466501
+1323.1.2={
+	holder=386249	#Mamia I Dadiani
 }
-1289.3.12={
-	holder = 144009
+1345.1.2={
+	holder=386196	#Giorgi II Dadiani
 }
-1292.1.1={
-	holder = 466511
+1384.1.1={
+	holder=386199	#Vameq I Dadiani
 }
-1311.1.1={	
-	holder = 466512
+1396.1.1={
+	holder=386200	#Mamia II Dadiani (1396–1414)
 }
-1313.1.1={
-	holder=466500
+1414.1.1={
+	holder=386201	#Liparit I Dadiani (1414–1470)
 }
-
+1463.1.1={
+	liege=0
+}
+1470.1.1={
+	holder=386202	#Shamadavle Dadiani (1470–1473)
+}
+1474.1.1={
+	holder=386243	#Vameq II Dadiani (1474–1482)
+}
+1482.1.1={
+	holder=386232	#Liparit II Dadiani (1482–1512)
+}
+1512.1.1={
+	holder=386250	#Mamia III Dadiani (1512–1533)
+}
+1533.1.31={
+	holder=386233	#Levan I Dadiani
+}
+1546.1.1={
+	holder=386244	#George III Dadiani
+}
+1573.1.1={
+	holder=386235	#Mamia IV Dadiani
+}
+1574.1.1={
+	holder=386244	#George III Dadiani
+}
+1582.1.1={
+	holder=386235	#Mamia IV Dadiani
+}
+1590.1.1={
+	holder=386236	#Manuchar I Dadiani
+}
+1611.1.1={
+	holder=386239	#Levan II Dadiani (1611–1657)
+}

@@ -75,8 +75,8 @@ liege=k_germany
 	holder = 370388	#Rudolf IV, Duke of Austria
 }
 1359.1.1 = {
-	title="ARCHDUKE"
-	title_prefix="ARCHDUCHY"
+	#title="ARCHDUKE"
+	#title_prefix="ARCHDUCHY"
 }
 1365.7.27 = {
 	holder = 370392	#Albert III, Duke of Austria

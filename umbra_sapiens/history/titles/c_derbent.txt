@@ -150,9 +150,6 @@ holder=93024
 {
 holder=93025
 }
-1124.4.18={
-	set_tribute_suzerain = { who = k_georgia }
-}
 1140.1.1=
 {
 holder=93026
@@ -170,8 +167,8 @@ holder=93028
 holder=93029
 }
 1225.1.1={
-	clear_tribute_suzerain = k_georgia
 	holder=144571
+	liege="d_shirvan"
 }
 1243.1.1={
 	holder=144572
@@ -187,4 +184,70 @@ holder=93029
 }
 1317.1.1={
 	holder=144574
+}
+1348.1.1={
+	holder=146121	#Kavus I 146121
+}
+1372.1.1={
+	holder=146124	#Hushang of Shirvan 146124
+}
+1382.1.1={
+	holder=146125	#Ibrahim I of Shirvan
+}
+1417.9.15={
+	holder=386015	#Khalilullah I of Shirvan
+}
+1465.1.1={
+	holder=386028	#Farrukh Yassar I
+}
+1500.1.1={
+	holder=386032	#Gazi Beg
+}
+1500.6.1={
+	holder=386033	#Shirvanshah Bahram Beg
+}
+1501.1.1={
+	holder=386036	#Sultan Mahmud (Shirvanshah)
+}
+1501.12.1={
+	holder=386034	#Ibrahim II Sheykhshah
+}
+1524.1.1={
+	holder=386037	#Khalilullah II
+}
+1535.1.1={
+	holder=386040	#Farrukh Yassar II 
+}
+1535.6.1={
+	holder=386047	#Shahrukh De Shirvan 
+}
+1538.1.1={
+	liege="k_persia"
+	holder = 385937	#Shah Tahmasab I
+}
+1576.5.14={
+	holder = 385947	#Shah Ismail II
+}
+1577.11.25={
+	holder = 385957	#Miss Parikhan(Queen of Time
+}
+1578.2.11={
+	holder = 385946	#Sultan Mohammad Khudabandeh
+}
+1579.6.6={
+	holder=378092	#Murad III
+	liege="e_ottomans"
+}
+1595.1.2={
+	holder=378103	#Mehmed III 
+}
+1603.12.22={
+	holder=378139	#Ahmed I
+}
+1607.11.1={
+	holder = 385972	#Shah Abbas I
+	liege="k_persia"
+}
+1629.1.19={
+	holder = 385995	#Shah Safi I
 }

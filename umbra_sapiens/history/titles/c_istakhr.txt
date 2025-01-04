@@ -1,0 +1,165 @@
+644.1.1={
+	liege=d_fars
+}
+
+769.1.1={
+	holder=188607
+}
+
+862.1.1={
+	liege="d_khorasan"
+	holder = 163161
+}
+936.1.1 = {
+	holder = 261014
+	liege = d_fars
+}
+1066.1.1=
+{
+holder=3854
+}
+1069.1.1=
+{
+holder=93229
+}
+1080.1.1=
+{
+holder=93230
+}
+1110.1.1=
+{
+holder=93231
+}
+1160.1.1=
+{
+holder=93232
+}
+1190.1.1=
+{
+holder=93233
+}
+1227.1.1=
+{
+holder=93234
+}
+1260.1.1=
+{
+holder=93235
+}
+1261.1.1=
+{
+holder=93236
+}
+1264.1.1=
+{
+holder=93237
+}
+1266.1.1=
+{
+holder=93238
+}
+1289.1.1=
+{
+holder=93239
+}
+1314.1.1=
+{
+holder=93240
+}
+1355.1.1={
+	holder = 478023
+	liege="d_kerman"
+}
+1375.1.1={
+	holder = 478024	#Jalaluddin Shahshajaa 
+}
+1384.10.9={
+	holder = 385710	#Mujahiduddin Sultan Zainul Abdin
+}
+1387.10.1={
+	holder = 385720	#Sultan Abu Ishaq
+	liege=0
+}
+1393.1.1={
+	holder = 385179	#Timur
+	liege="e_timurids"
+}
+1405.2.18={
+	holder = 385215	#Pir Muhammad (son of Umar Shaikh)
+}
+1409.5.18={
+	holder = 385216 #Iskandar (Timurid dynasty)
+}
+1414.7.21={
+	holder = 385183	#Shah Rukh
+}
+1447.3.13={
+	holder = 385313	#Abdullah Mirza
+}
+1447.10.5={
+	holder = 385318	#Sultan Muhammad (Timurid)
+	liege=k_persia
+}
+1452.1.1={
+	holder=385317	#Abul-Qasim Babur Mirza
+	liege=k_khorasan
+}
+1452.9.1={
+	holder=385826	#Jahan Shah ibn Yusuf
+	liege=k_qara_qoyunlu
+}
+1467.11.11={
+	holder=385844	#Hasan Ali ibn Jahan Shah
+}
+1468.1.1={
+	holder=385846	#Mirza Yusuf
+}
+1469.10.22={
+	liege=k_aq_qoyunlu
+	holder=385869	#Uzun Hasan
+}
+1478.1.6={
+	holder=385877	#Sultan-Khalil
+}
+1478.6.15={
+	holder=385878	#Yaqub Aq Qoyunlu
+}
+1490.12.24={
+	holder=385887	#Baysunqur
+}
+1491.1.1={
+	holder=385897	#Rustam Beg
+}
+1497.1.1={
+	holder=385886	#Ahmad Beg
+}
+1497.12.14={
+	holder=385899	#Muhammad Beg
+	liege=k_persia
+}
+1501.1.1={
+	holder=385888	#Sultan Murad (Aq Qoyunlu)
+	liege=k_aq_qoyunlu
+}
+1503.1.1={
+	holder = 385928	#Shah Ismail I
+	liege="k_persia"
+}
+1524.5.23={
+	holder = 385937	#Shah Tahmasab I
+}
+1576.5.14={
+	holder = 385947	#Shah Ismail II
+}
+1577.11.25={
+	holder = 385957	#Miss Parikhan(Queen of Time
+}
+1578.2.11={
+	holder = 385946	#Sultan Mohammad Khudabandeh
+}
+1588.9.9={
+	holder = 385972	#Shah Abbas I
+}
+1629.1.19={
+	holder = 385995	#Shah Safi I
+}

@@ -1,0 +1,235 @@
+20.1.1 = {
+	historical_nomad = yes
+}
+766.1.1={
+	liege=d_zhetysu
+	holder=258108
+}
+#766.1.1={
+#	holder=188772
+#}
+800.1.1={
+	holder=188830
+}
+815.1.1={
+	holder=188831
+}
+830.1.1={
+	holder=188833
+}
+860.1.1={
+	liege=d_zhetysu
+	holder=188834
+}
+885.1.1={
+	holder=188835
+}
+890.1.1={
+	holder=188836
+}
+910.1.1={
+	holder=188837
+}
+935.1.1={
+	holder=188838
+}
+965.1.1={
+	holder=188839
+}
+985.1.1={
+	holder=188840
+}
+1010.1.1={
+	holder=188841
+}
+1035.1.1={
+	holder=188842
+}
+1060.1.1={
+	liege=0
+	holder=188843
+}
+1085.1.1={
+	holder=188844
+}
+1110.1.1={
+	holder=188845
+}
+1135.1.1={
+	holder=188846
+}
+1137.1.1={
+	liege=d_samarkand # Kara Khitan conquest
+}
+1160.1.1={
+	holder=188847
+}
+1185.1.1={
+	holder=188848
+}
+1210.1.1={
+	holder=188849
+}
+1218.1.1={
+	liege=0
+}
+1220.2.1={
+	liege=e_mongol_empire
+	holder = 34852
+}
+1227.12.2={
+	liege = d_zhetysu
+	holder = 93062
+}
+1242.1.1={
+	holder = 93064
+}
+1246.1.1={
+	holder = 93065
+}
+1252.1.1={
+	holder = 166904
+}
+1261.1.1={
+	holder = 93068
+}
+1266.1.1=
+{
+	holder = 93066
+}
+1266.9.1=
+{
+	holder = 93070
+}
+1271.1.1={
+	holder = 93072
+}
+1272.1.1=
+{
+	holder = 93074
+}
+1282.1.1={
+	holder = 93075
+}
+1307.1.1={
+	holder = 93076
+}
+1308.1.1={
+	holder = 93078
+}
+1309.1.1={
+	holder = 93079
+}
+1310.1.1=
+{
+	holder = 93080
+}
+1318.1.1={
+	holder = 93079
+}
+1326.1.1={
+	holder = 93081 # apparently reigned only for months
+}
+1327.1.1={
+	holder = 93082 # apparently reigned only for months
+}
+1328.1.1={
+	holder = 93083
+}
+1334.1.1={
+	holder = 93084
+}
+1335.1.1={
+	holder = 93086	#Changshi
+}
+1338.1.1={
+	holder = 385111	#Yesun Temur
+}
+1339.1.1={
+	holder = 166918 #Ali Sultan
+}
+1342.1.1={
+	holder = 385109 #Muhammad I ibn Pulad
+}
+1343.1.1={
+	holder = 385111 #Qazan Khan ibn Yasaur	
+}
+1346.1.1={
+    holder = 385112 #Danishmendji
+}
+1347.1.1={
+	holder=385120	#Tughlugh Timur
+	liege=k_zhetysu
+}
+1363.1.1={
+	holder=385121	#Ilyas Khoja
+}
+1368.1.1={
+	holder=248237	#Qamar-ud-din Khan Dughlat
+}
+1390.1.1 = {
+	holder=385122	#Khizr Khoja	
+}
+1399.1.1={
+	holder=385123	#Shams-i-Jahan	
+}
+1408.1.1={
+	holder=385124	#Muhammad Khan (Khan of Moghulistan)
+}
+1415.1.1={
+	holder=385127	#Naqsh-i-Jahan
+}
+1418.1.1={
+	holder=385135	#Uwais Khan
+}
+1421.1.1={
+	holder=385130	#Sher Muhammad
+}
+1425.1.1={
+	holder=385135	#Uwais Khan
+}
+1429.1.1={
+	holder=385164	#Satuq Khan
+}
+1434.1.1={
+	holder=385137	#Esen Buqa II
+}
+1462.1.1={
+	holder=385136	#Yunus Khan
+}
+1487.1.1={
+	holder=385140	#Mahmud Khan (Moghul Khan)
+}
+1508.1.1={
+	holder=385146	#Mansur Khan (Moghul Khan)
+}
+1514.1.1={
+	holder=385148	#Sultan Said Khan
+}
+1533.7.9={
+	holder=385158	#Abdurashid Khan
+}
+1560.1.1={
+	holder=385159	#Abdul Karim Khan (Yarkand)
+}
+1591.1.1={
+	holder=385160	#Muhammad Sultan
+}
+1610.1.1={
+	holder=385163	#Shudja ad Din Ahmad Khan
+}
+1618.1.1={
+	holder=385174	#Abd al-Latif Khan I
+}
+1630.1.1={
+	holder=385176	#Sultan Ahmad Khan (Pulat Khan) 1630–1633
+}
+1633.1.1={
+	holder=385177	#Mahmud Sultan (Qilich Khan) 1633–1636
+}
+1636.1.1={
+	holder=385176	#Sultan Ahmad Khan (Pulat Khan) 1630–1633
+}
+1638.1.1={
+	holder=385178	#Abdallah (Moghul Khan)
+}

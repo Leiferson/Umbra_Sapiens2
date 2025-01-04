@@ -1,0 +1,217 @@
+663.1.1={
+	liege=d_khorasan
+}
+671.1.1={
+	liege=0 # Nazak Tarkhan's rule
+}
+715.1.1={
+	liege=d_khorasan
+}
+
+737.1.1={
+	holder=188637 # Saman-Khuda Samanid
+}
+785.1.1={
+	holder=163153 # Asad Samanid
+}
+825.1.1={
+	holder=163154 # Ahmad Samanid
+}
+866.1.1={
+	liege=d_kabul
+	holder=1059734
+}
+936.1.1 = {
+	holder = 261036
+	liege = d_balkh
+}
+977.1.1 = {
+	liege="d_zabulistan"
+}
+977.1.1 = {
+	holder = 144123
+}
+997.1.1={
+	holder = 144124
+}
+998.1.1={
+	holder = 144125
+}
+1030.1.1={
+	holder = 144126
+}
+1031.1.1={
+	holder = 144127
+}
+1041.1.1={
+	holder = 144128
+}
+1050.1.1={
+	holder = 144129
+}
+1050.6.1={
+	holder = 144130
+}
+1050.9.1={
+	holder = 144131
+}
+1053.1.1={
+	holder = 144132
+}
+1059.1.1={
+	holder = 144133
+}
+1099.1.1={
+	holder = 144134
+}
+1100.1.1=
+{
+	liege="d_khorasan"
+	holder=93139
+}
+1140.1.1=
+{
+	holder=93140
+}
+1149.1.1=
+{
+	holder=93150
+}
+
+1180.1.1=
+{
+	holder=93151
+}
+1186.1.1={
+	liege = d_zabulistan
+	holder = 144141
+}
+1203.1.1={
+	holder = 144142
+}
+1206.3.15={
+	liege=d_kabul
+	holder = 170302
+}
+1212.1.1={
+	liege="d_khiva"
+	holder=93053
+}
+1220.2.1={
+	liege="e_mongol_empire"
+	holder = 248204
+}
+1228.1.1={
+	liege="e_chagatai"
+}
+1260.1.1={
+	holder = 248205
+}
+1290.1.1={
+	holder = 248207
+}
+1318.1.1={
+	holder = 248209
+}
+1338.1.1={
+	holder = 242111	#Yesun Temur
+}
+1339.1.1={
+	holder = 166918 #Ali Sultan
+}
+1342.1.1={
+	holder = 385109 #Muhammad I ibn Pulad
+}
+1343.1.1={
+	holder = 385111 #Qazan Khan ibn Yasaur	
+}
+1346.1.1={
+    holder = 385112 #Danishmendji
+}
+1348.1.1 = {
+	holder = 385118 #Bayan Qulï
+}
+1358.1.1={
+	holder = 385119 #Temurshah Khan 
+}
+1359.1.1={
+	holder = 385120	#Tughlugh Timur
+}
+1363.1.1={
+	holder = 385448	#Amir Husayn
+}
+1369.2.1={
+	holder = 385179	#Timur
+}
+1370.4.9={
+	liege="e_timurids"
+}
+1405.2.18={
+	holder = 385183	#Shah Rukh
+}
+1447.3.13={
+	holder = 385316	#Ala al-Dawla Mirza
+	liege=k_khorasan
+}
+1448.4.1={
+	holder = 385291	#Ulugh Beg
+	liege=k_khiva
+}
+1449.10.27={
+	holder=385317	#Abul-Qasim Babur Mirza
+	liege=k_khorasan
+}
+1449.12.1={
+	holder = 385318	#Sultan Muhammad (Timurid)
+	liege=k_persia
+}
+1451.4.1={
+	holder = 385317	#Abul-Qasim Babur Mirza
+	liege=k_khorasan
+}
+1457.1.1={
+	holder=385329	#Mirza Shah Mahmud
+}
+1457.2.1={
+	holder=385331	#Ibrahim Mirza (Timurid)
+}
+1458.8.1={
+	holder=385335 #Abu Sa'id Mirza
+}
+1469.2.8={
+	holder=385252 #Sultan Husayn Bayqara
+}
+1470.1.1={
+	holder=385327 #Yadgar Muhammad Mirza
+}
+1470.2.15={
+	holder=385252 #Sultan Husayn Bayqara
+}
+1506.5.4={
+	holder=385572 #Badi' al-Zaman Mirza
+}
+1507.1.1={
+	holder=385009	#Muhammad Shaybani
+}
+1510.12.2={
+	holder = 385928	#Shah Ismail I
+	liege="k_persia"
+}
+1524.5.23={
+	holder = 385937	#Shah Tahmasab I
+}
+1576.5.14={
+	holder = 385947	#Shah Ismail II
+}
+1577.11.25={
+	holder = 385957	#Miss Parikhan(Queen of Time
+}
+1578.2.11={
+	holder = 385946	#Sultan Mohammad Khudabandeh
+}
+1588.9.9={
+	holder = 385972	#Shah Abbas I
+}
+1629.1.19={
+	holder = 385995	#Shah Safi I
+}

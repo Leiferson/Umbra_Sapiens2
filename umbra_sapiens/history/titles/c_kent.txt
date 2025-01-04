@@ -1,0 +1,183 @@
+35.1.1={
+	liege=d_canterbury
+	holder=252138 # Adminius
+}
+425.1.1={
+	holder=252163 # Gwyrangon
+}
+455.1.1={
+	holder=205026 # Hengist
+}
+460.1.1={
+	holder=205027 # Horsa
+}
+500.1.1={
+	holder=205028 # Oisc
+}
+516.1.1={
+	holder=205029 # Octa
+}
+540.1.1={
+	holder=205030 # Eormenric
+}
+590.1.1={
+	holder=205031 # Æthelberht I
+}
+616.2.24={
+	holder=205032 # Eadbald
+}
+640.1.28 = {
+	holder = 205036 # Eorcenberht
+}
+664.7.1={
+	holder=205039 # Ecgberht I
+}
+673.1.1={
+	holder=205040 # Hlothere
+}
+685.1.1={
+	holder=205041 # Eadric
+}
+686.8.1={
+	holder=205160 # Mul of Kent
+}
+687.1.1={ #693.1.1={
+	holder=205043 # Wihtraed
+}
+725.1.1={
+	holder=205045 # Eadberht I
+}
+748.1.1={
+	holder = 205044 # Aethelberht II
+}
+762.1.1={
+	holder=205047 # Eardwulf
+}
+763.1.1={
+	holder=205048 # Eadberht II
+}
+765.1.1={
+	holder=205049 # Ecgberht II
+}
+796.1.1={
+	holder=205050 # Eadberht III
+}
+
+865.1.1={
+	liege="k_england"
+	holder=33358 
+}
+936.1.1 = {
+	liege = d_canterbury
+	holder = 260530
+}
+1066.1.1={
+	liege="d_canterbury"
+	holder = 260530
+}
+1066.1.5={
+	holder=130
+}
+1066.10.14={
+	liege="k_england"
+	holder=148
+}
+1088.7.1={
+	holder = 146
+}
+1100.8.3= {
+	holder = 202992
+} 
+1135.12.2={
+	holder = 31128
+}
+1155.1.1={
+	holder = 204500
+}
+1189.7.6={
+	holder = 204510
+}
+1199.4.6={
+	holder = 204514
+}
+1216.10.28={
+	holder = 144237
+}
+1227.1.1={
+	holder = 7458
+}
+1243.5.5={
+	holder = 454522
+}
+1272.11.16={
+	holder = 454520
+}
+1307.1.2 = {
+	holder = 454510
+}
+1321.7.28={
+   holder = 454511 # Edmund of Woodstock
+}
+1330.3.19={
+   holder = 183076 # Edmund, 2nd Earl of Kent
+}
+1331.10.2={
+   holder=454513 # John of Kent
+}
+1352.12.26 = {
+	holder=454515 # Joan of Kent
+}
+1378.1.2 = {
+	holder=372676	#Thomas Holland, 2nd Earl of Kent
+}
+1397.4.25 = {
+	holder=372689	#Thomas Holland, 1st Duke of Surrey
+}
+1400.1.7 = {
+	holder=372694	#Edmund Holland, 4th Earl of Kent
+}
+1408.9.15= {
+	holder=370034 #Henry IV of England
+}
+1413.3.20 = {
+	holder=372783 #Henry V of England
+}
+1422.8.31 = {
+	holder=372790 #Henry VI of England
+}
+1461.3.4 = {
+	holder=372857	#Edward IV
+}
+1461.11.1={
+	holder=372846	#William Neville, Earl of Kent
+}
+1463.1.9 = {
+	holder=372857	#Edward IV
+}
+1465.5.30={
+	holder=383677	#Edmund Grey, 1st Earl of Kent
+}
+1490.5.22={
+	holder=383681	#George Grey, 2nd Earl of Kent
+}
+1505.12.25={
+	holder=383685	#Richard Grey, 3rd Earl of Kent
+}
+1524.5.3={
+	holder=383687	#Henry Grey, 4th Earl of Kent 
+}
+1562.9.24={
+	holder=383692	#Reginald Grey, 5th Earl of Kent
+}
+1573.3.17={
+	holder=383693	#Henry Grey, 6th Earl of Kent
+}
+1615.1.31={
+	holder=383694	#Charles Grey, 7th Earl of Kent
+}
+1623.9.26={
+	holder=383695	#Henry Grey, 8th Earl of Kent
+}
+1639.11.21={
+	holder=383698	#Charles Longueville, 12th Baron Grey de Ruthyn
+}

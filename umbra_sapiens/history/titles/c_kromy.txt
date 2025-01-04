@@ -1,0 +1,213 @@
+760.1.1 = {
+	holder = 258085
+	liege = d_burtas
+}
+799.1.1 = {
+	holder = 194143
+}
+822.1.1 = {
+	holder = 194144
+}
+865.1.1={
+	holder=159721
+	liege = 0
+	set_tribute_suzerain = { who = k_khazaria type = nomadic }
+}
+936.1.1 = {
+	clear_tribute_suzerain = k_khazaria
+	holder = 260749
+}
+1024.1.2=
+{
+	liege="d_novgorod-seversk"
+}
+1024.1.2={
+holder = 618
+}
+1036.1.2=
+{
+holder=612
+}
+1054.2.20={
+	holder=256120
+}
+1077.1.2=
+{
+holder=9134
+}
+1077.2.2=
+{
+holder=630
+}
+1078.10.3=
+{
+holder=666
+}
+1093.4.13=
+{
+holder=660
+}
+1095.1.2=
+{
+holder=125032
+}
+1097.1.2=
+{
+holder=660
+}
+1115.8.1=
+{
+holder=222602
+}
+1127.1.2=
+{
+holder=125045
+}
+1139.3.4=
+{
+holder=125069
+}
+1146.8.1=
+{
+holder=222632
+}
+1157.5.15=
+{
+holder=222650
+}
+1164.2.15=
+{
+holder=125070
+}
+1180.1.18=
+{
+holder=222630
+}
+1198.1.2=
+{
+holder=222635
+}
+1208.1.2=
+{
+holder=125072
+}
+1235.1.2=
+{
+holder=222654
+}
+1241.1.2=
+{
+holder=98015
+}
+1243.1.2=
+{
+holder=222654
+}
+1246.9.20=
+{
+holder=125059
+}
+1289.1.2=
+{
+holder=125060
+}
+1290.1.2=
+{
+holder=125061
+}
+1308.1.2=
+{
+holder=472506
+}
+1309.1.2=
+{
+holder=472511
+}
+1310.1.2=
+{
+holder=472506
+}
+1314.1.2=
+{
+holder=472507
+}
+1330.1.2=
+{
+holder=472510
+}
+1340.12.6={
+holder=472507	#Dmitry (Prince of Bryansk) 
+}
+1352.1.2={
+holder=472509	#Vasily Ivanovich (Prince of Bryansk) 
+}
+1356.1.2={
+holder=473506	#Dmitry Olgerdovich 
+}
+1377.5.1={
+holder=370479	#Władysław II Jagiełło
+}
+1381.8.1={
+holder=473508	#Kęstutis
+}
+1382.8.3={
+holder=370479	#Władysław II Jagiełło
+}
+1386.1.1={
+holder=370480	#Skirgaila
+}
+1392.8.4={
+holder=374009	#Vytautas
+}
+1430.10.27={
+holder=370485	#Švitrigaila
+}
+1432.8.1={
+holder=374011	#Sigismund Kęstutaitis
+}
+1440.3.20={
+holder=371730	#Casimir IV Jagiellon
+}
+1492.6.7={
+holder=371734	#John I Albert
+}
+1501.6.17={
+holder=371735	#Alexander Jagiellon
+}
+1503.3.25={
+holder=374961	#Ivan III of Russia
+liege=d_moskva
+}
+1505.10.27={
+holder=375004	#Vasili III of Russia
+}
+1533.12.3={
+holder=375015	#Ivan the Terrible
+}
+1584.3.28={
+holder=375031	#Feodor I of Russia
+}
+1598.1.6={
+holder=375035	#Irina Godunova
+}
+1598.2.21={
+holder=375036	#Boris Feodorovich Godunov 
+}
+1605.4.23={
+holder=375042	#Feodor II of Russia
+}
+1605.6.20={
+holder=375043	#False Dmitry I
+}
+1606.5.17={
+holder=375056	#Vasili IV of Russia
+}
+1610.7.17={
+holder=375052	#False Dmitry II
+}
+1610.12.21={
+holder=375055	#False Dmitry III
+}
+1612.7.2={
+holder=375078	#Michael of Russia
+}

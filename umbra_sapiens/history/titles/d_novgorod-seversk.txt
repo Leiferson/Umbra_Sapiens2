@@ -1,0 +1,211 @@
+# Called Bryansk in-game
+760.1.1 = {
+	holder = 0
+}
+867.1.1={
+	holder = 256057
+	liege = k_khazaria
+}
+900.1.1 = {
+	holder = 0
+	liege = 0
+	historical_nomad = no
+}
+936.1.1 = {
+	holder = 260750
+}
+1024.1.2={
+	holder = 618
+}
+1036.1.2=
+{
+	holder=612
+}
+1054.2.20=
+{
+holder=628
+}
+1054.2.20 = {		#Death of Yaroslav the Wise, Rus' was pretty much less united than before but still governed by Kiev
+	set_tribute_suzerain = {
+		who = k_ruthenia
+		type = permanent 
+	}
+}
+1073.1.2=
+{
+holder=630
+}
+1077.1.2=
+{
+holder=9134
+}
+1077.2.2=
+{
+holder=630
+}
+1078.10.3=
+{
+holder=666
+}
+1093.4.13=
+{
+holder=660
+}
+1095.1.2=
+{
+holder=125032
+}
+1097.1.2=
+{
+holder=660
+}
+1115.8.1=
+{
+holder=222602
+}
+1127.1.2=
+{
+holder=125045
+}
+1139.3.4=
+{
+holder=125069
+}
+1146.8.1=
+{
+holder=222632
+}
+1157.5.15=
+{
+holder=222650
+}
+1164.2.15=
+{
+holder=125070
+}
+1169.1.2 = {		#When Kiev lost too much legitimacy to be a proper suzerain of the Rus principalities
+	clear_tribute_suzerain = k_ruthenia
+}
+1180.1.18=
+{
+holder=222630
+}
+1198.1.2=
+{
+holder=222635
+}
+1208.1.2=
+{
+holder=125072
+}
+1235.1.2=
+{
+holder=222654
+}
+1239.10.15={
+liege="e_golden_horde"
+}
+1241.1.2=
+{
+holder=98015
+}
+1243.1.2=
+{
+holder=222654
+}
+1246.9.20=
+{
+holder=125059
+}
+1289.1.2=
+{
+holder=125060
+}
+1290.1.2=
+{
+holder=125061
+}
+1308.1.2=
+{
+holder=472506
+}
+1309.1.2=
+{
+holder=472511
+}
+1310.1.2=
+{
+holder=472506
+}
+1314.1.2=
+{
+holder=472507
+}
+1330.1.2=
+{
+holder=472510
+}
+1340.12.6={
+holder=472507	#Dmitry (Prince of Bryansk) 
+}
+1352.1.2={
+holder=472509	#Vasily Ivanovich (Prince of Bryansk) 
+}
+1356.1.2={
+holder=473506	#Dmitry Olgerdovich 
+liege=k_lithuania
+}
+1377.5.1={
+holder=370479	#Władysław II Jagiełło
+}
+1381.8.1={
+holder=473508	#Kęstutis
+}
+1382.8.3={
+holder=370479	#Władysław II Jagiełło
+}
+1386.1.1={
+holder=370480	#Skirgaila
+}
+1392.8.4={
+holder=374009	#Vytautas
+}
+1430.10.27={
+holder=370485	#Švitrigaila
+}
+1432.8.1={
+holder=374011	#Sigismund Kęstutaitis
+}
+1440.3.20={
+holder=371730	#Casimir IV Jagiellon
+}
+1492.6.7={
+holder=371734	#John I Albert
+}
+1501.6.17={
+holder=371735	#Alexander Jagiellon
+}
+1506.8.19={
+holder=371737	#Sigismund I the Old
+}
+1548.4.1={
+holder=374084	#Sigismund II Augustus
+}
+1572.7.7={
+holder=371694	#Henry III of France
+}
+1575.5.12={
+holder=374086	#Anna Jagiellon
+}
+1576.5.1={
+holder=377211	#Stephen Báthory
+}
+1586.12.12 = {
+holder=374086	#Anna Jagiellon
+}
+1587.8.19={
+holder=375208	#Sigismund III Vasa
+}
+1632.4.30 = {
+holder=375217	#Wladyslaw IV Vasa
+}

@@ -1,0 +1,199 @@
+420.1.1={
+	liege = "d_york"
+	holder=252173 # Saebald
+}#Angle vassals of Ebrauc
+438.1.1={
+	holder=252172 # Saefugel
+}
+452.1.1={
+	holder=252171 # Soemel
+}
+471.1.1={
+	holder=252170 # Westerfalea
+}
+489.1.1={
+	holder=252169 # Wilgils
+}
+511.1.1={
+	holder=252168 # Usfrey
+}
+525.1.1={
+	holder=205192 # Yffe
+}
+559.1.1={
+	holder=205193 # ∆lla
+	liege=0
+}#Angle vassals of Ebrauc break away and form their own kingdom of Deira
+#Kingdom of Deira
+580.1.1={
+	liege = "d_york"
+}
+588.1.1={
+	holder=205197 # ∆thelric
+}
+604.1.1={
+	holder=205209 # ∆thelfrith
+}
+616.1.1={
+	holder=205198 # Eadwine
+}
+633.10.12={
+	holder=205195 # Osric
+}
+634.1.1={
+	holder=205212 # Oswald
+}
+642.8.5={
+	holder=205213 # Oswiu
+}
+644.1.1={
+	holder=205196 # Oswine
+}
+651.1.1={
+	holder=252174 # Œthelwald
+}
+655.1.1={
+	holder=205213 # Oswiu
+}
+670.2.15={
+	liege="d_northumberland"
+	holder=252181 # Ælfwine
+}
+
+700.1.1={
+	holder=214039 # Eanfrith
+}
+740.1.1={
+	holder=214038 # Eatta
+}
+765.1.1={
+	holder = 214037 # Aldfrith
+}
+
+852.1.1={
+	holder = 163102
+}
+866.11.1={
+	liege = "d_york"
+	holder = 163112
+}
+936.1.1 = {
+	liege = d_northumberland
+	holder = 260524
+}
+
+1055.1.1={
+	liege = d_york
+	holder=124 #Tostig Godwinson
+}
+1066.1.1={
+	holder=5660 #Morcar
+}
+1066.10.14={
+	holder=140 #William the Conqueror
+}
+1087.9.9={
+	holder=146 #William II Rufus
+}
+1100.8.3={
+	holder=202992 #Henry I
+}
+1135.12.2={
+	holder=205851 #Stephen
+}
+1140.12.1={
+	holder=82056 #William de Roumare
+}
+1150.6.1={
+	holder=161440 #Gilbert de Gand
+}
+1156.1.1={
+	holder=204500 #Henry II
+}
+1187.1.1={
+	holder=155241
+}
+1190.1.1={
+	holder=204582 #Robert (IV) de Beaumont
+}
+1204.10.21={
+	holder=204586 #Simon (I) de Montfort
+}
+1217.5.23={
+	holder=204680 #Ranulf de Blondeville
+}
+1232.1.1={
+	holder=204684 #Hawise of Chester
+}
+1232.6.1={
+	holder=454045 #John de Lacy
+}
+1240.1.1={
+	holder=454046 #Margaret de Quincy
+}
+1265.1.1={
+	holder=454040 #Henry de Lacy
+}
+1311.1.1={
+	holder=454023 #Alice de Lacy
+}
+1348.10.2 = {
+	holder=454527 #Henry of Grosmont, Duke of Lancaster
+}
+1361.3.23 = {
+	holder=454500 #Edward III
+}
+1377.6.21 = {
+	holder=372760 #Richard II
+}
+1399.9.29 = {
+	holder=370034 #Henry IV of England
+}
+1413.3.20 = {
+	holder=372783 #Henry V of England
+}
+1422.8.31 = {
+	holder=372790 #Henry VI of England
+}
+1461.3.4 = {
+	holder=372857	#Edward IV
+}
+1467.3.13={
+	holder=384058	#John de la Pole, Earl of Lincoln
+}
+1487.6.16={
+	holder=372758	#Henry VII of England
+}
+1509.4.21 = {
+	holder=372978	#Henry VIII of England
+}
+1525.6.18={
+	holder=373562	#Henry Brandon, Earl of Lincoln
+}
+1534.3.1={
+	holder=372978	#Henry VIII of England
+}
+1547.1.28 = {
+	holder=373114	#Edward VI of England
+}
+1553.7.6 = {
+	holder=373676	#Lady Jane Grey
+}
+1553.7.19 = {
+	holder=373111	#Mary I of England
+}
+1558.11.17 ={
+	holder=373113	#Elizabeth I of England
+}
+1572.1.1={
+	holder=384068	#Edward Clinton, 1st Earl of Lincoln
+}
+1584.1.16={
+	holder=384072	#Henry Clinton, 2nd Earl of Lincoln
+}
+1616.9.29={
+	holder=384077	#Thomas Clinton, 3rd Earl of Lincoln
+}
+1619.1.15={
+	holder=384083	#Theophilus Clinton, 4th Earl of Lincoln
+}

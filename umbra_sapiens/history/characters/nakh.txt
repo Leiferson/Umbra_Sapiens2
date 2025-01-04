@@ -262,7 +262,7 @@
 	}
 }
 555321 = {
-	name="Gayurkhan "
+	name="Gayurkhan"
 	dynasty=5557903
 	religion="nakh_pagan"
 	culture="nakh"
@@ -275,9 +275,9 @@
 	}
 }
 555322 = {
-	name="Muhammad"
+	name="Taymaskhan"
 	dynasty=5557903
-	religion="sunni"
+	religion="orthodox"
 	culture="nakh"
 	father=555321
 	1253.1.1={
@@ -290,7 +290,7 @@
 555323 = {
 	name="Maadiy "
 	dynasty=5557903
-	religion="sunni"
+	religion="orthodox"
 	culture="nakh"
 	father=555322
 	1271.1.1={
@@ -303,7 +303,7 @@
 555324 = {
 	name="Azdin"
 	dynasty=5557903
-	religion="sunni"
+	religion="orthodox"
 	culture="nakh"
 	father=555314
 	1288.1.1={

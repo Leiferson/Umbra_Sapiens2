@@ -1,0 +1,129 @@
+383.1.1={
+	liege = "d_york"
+	holder=159038 #Coel Hen
+}
+460.1.1={
+	holder=159037 #Ceneu ap Coel
+}
+450.1.1={
+	holder=252217 #Mor ap Ceneu
+}
+470.1.1={
+	holder=252218 #Einion ap Ceneu
+}
+#Guendoleu
+505.1.1={
+	liege = 0
+	holder=252220 #Ceidio ap Einion
+}
+555.1.1={
+	holder=252221 #Guenddolau ap Ceidio
+}
+573.1.1={
+	holder=252222 #Llew ap Cynfarch
+}
+616.1.1={
+	holder=252223 #Arawn ap Cynfarch
+}
+#Northumberland
+765.1.1 = {
+	holder = 205250
+	liege = d_northumberland
+}
+862.1.1={
+	holder = 163103
+}
+936.1.1 = {
+	holder = 260542
+}
+1066.1.1={
+	liege="d_lothian"
+}
+1066.1.1=
+{
+	holder=82001
+}
+1087.1.1={
+	holder = 963
+}
+1099.5.1={
+	holder = 202998
+}
+1153.5.24={
+	holder = 203000
+}
+1165.5.24={
+	holder = 202999
+}
+1174.1.1={
+	holder = 7291
+}
+1214.1.1={
+	holder = 7290
+}
+1240.1.1={
+	holder = 7289
+}
+1274.1.1={
+	holder = 453600
+}
+1298.1.1={
+	holder = 453603
+}
+1330.8.25={
+	holder = 453605
+}
+1333.1.1={
+	holder = 453607	#Hugh the Dull, Lord of Douglas
+}
+1342.1.1={
+	holder=453611	#William Douglas, 1st Earl of Douglas
+}
+1384.5.1={
+	holder=373335	#James Douglas, 2nd Earl of Douglas
+}
+1388.8.19={
+	holder=453606	#Archibald Douglas, 3rd Earl of Douglas
+}
+1400.12.24={
+	holder=373255	#Archibald Douglas, 4th Earl of Douglas
+}
+1424.8.17={
+	holder=373263	#Archibald Douglas, 5th Earl of Douglas
+}
+1439.6.26={
+	holder=373268	#William Douglas, 6th Earl of Douglas
+}
+1440.11.24={
+	holder=373256	#James Douglas, 7th Earl of Douglas
+}
+1443.3.24={
+	holder=384558	#William Douglas, 8th Earl of Douglas
+}
+1452.2.22={
+	holder=384559	#James Douglas, 9th Earl of Douglas
+}
+1455.5.1={
+	holder=373343	#George Douglas, 4th Earl of Angus
+}
+1463.3.12={
+	holder=373348	#Archibald Douglas, 5th Earl of Angus
+}
+1513.10.1={
+	holder=373367	#Archibald Douglas, 6th Earl of Angus
+}
+1557.1.22={
+	holder=384565	#David Douglas, 7th Earl of Angus
+}
+1558.1.1={
+	holder=384567	#Archibald Douglas, 8th Earl of Angus
+}
+1588.8.4={
+	holder=384571	#William Douglas, 9th Earl of Angus
+}
+1591.7.1={
+	holder=384572	#William Douglas, 10th Earl of Angus
+}
+1611.3.3={
+	holder=384585	#William Douglas, 1st Marquess of Douglas
+}

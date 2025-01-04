@@ -1,0 +1,229 @@
+750.1.1={
+	liege=d_jibal
+}
+
+768.1.1={
+	holder = 34003 # al-Mahdi Abbasid (fictitious assignment)
+}
+
+840.1.1={
+	holder = 163098
+}
+867.1.1={
+	liege="d_mazandaran"
+	holder = 248695 # under Pro-Alid rebels at this time
+}
+936.1.1 ={
+	holder = 261053
+}
+955.1.1={
+	liege=d_jibal
+}
+1063.9.4={
+	holder=3040
+}
+1072.11.1=
+{
+	holder = 3042
+}
+1092.11.1=
+{
+	holder = 144012
+}
+1094.1.1=
+{
+	holder = 144013
+}
+1105.3.1=
+{
+	holder = 144014
+}
+1118.4.18=
+{
+	holder = 144043
+}
+1131.1.1=
+{
+	holder = 144048
+}
+1132.1.1=
+{
+	holder = 144050
+}
+1133.1.1=
+{
+	holder = 144049
+}
+1152.10.2=
+{
+	holder = 144053
+}
+1153.1.1=
+{
+	holder = 144054
+} 
+1159.1.1=
+{
+	holder = 144055
+}
+1175.12.31=
+{
+	holder = 144056
+}
+1194.3.1=
+{
+	
+	holder=230000
+}
+1200.1.1=
+{
+	holder=93052
+}
+1210.1.1=
+{
+	holder=93054
+}
+1221.1.1=
+{
+
+	holder=125520
+}
+1232.1.1={
+	holder = 478011
+}
+1265.2.8={
+	holder = 478010
+}
+1282.1.1={
+	holder = 125523
+}
+1284.1.1={
+	holder = 478008
+}
+1291.1.1={
+	holder = 125525
+}
+1295.1.1={
+	holder = 125522
+}
+1295.8.1={
+	holder = 125524
+}
+1304.5.11={
+	holder = 478007
+}
+1316.12.16={
+	holder = 478006
+}	
+1335.12.1={
+	holder = 125528
+}
+1336.4.10=
+{
+	holder=478000
+}
+1336.7.24=
+{
+	holder = 34433
+}
+1344.1.1={
+	holder = 478034
+	liege="d_jibal"
+}
+1357.1.1={
+	holder=34520	#Shaykh Uways Jalayir
+	liege=d_mosul
+}
+1374.10.10={
+	holder=385722	#Shaikh Hussain Jalayir
+}
+1382.5.1={
+	holder=385723	#Bayazid (Jalayirids)
+	liege=d_jibal
+}
+1384.1.1={
+	holder=385724	#Sultan Ahmed Jalayir
+}
+1384.4.1={
+	holder = 385179	#Timur
+	liege="e_timurids"
+}
+1405.2.18={
+	holder = 385216	#Iskandar (Timurid dynasty)
+}
+1414.7.21={
+	holder = 385183	#Shah Rukh
+}
+1446.1.1={
+	holder = 385318	#Sultan Muhammad (Timurid)
+}
+1446.12.12={
+	holder = 385183	#Shah Rukh
+}
+1447.3.13={
+	holder = 385318	#Sultan Muhammad (Timurid)
+	liege=k_persia
+}
+1452.1.1={
+	holder=385317	#Abul-Qasim Babur Mirza
+	liege=k_khorasan
+}
+1452.3.1={
+	holder=385826	#Jahan Shah ibn Yusuf
+	liege=k_qara_qoyunlu
+}
+1467.11.11={
+	holder=385844	#Hasan Ali ibn Jahan Shah
+}
+1468.1.1={
+	holder=385846	#Mirza Yusuf
+}
+1469.10.22={
+	liege=k_aq_qoyunlu
+	holder=385869	#Uzun Hasan
+}
+1478.1.6={
+	holder=385877	#Sultan-Khalil
+}
+1478.6.15={
+	holder=385878	#Yaqub Aq Qoyunlu
+}
+1490.12.24={
+	holder=385887	#Baysunqur
+}
+1491.1.1={
+	holder=385897	#Rustam Beg
+}
+1497.1.1={
+	holder=385886	#Ahmad Beg
+}
+1497.12.14={
+	holder=385899	#Muhammad Beg
+	liege=k_persia
+}
+1501.1.1={
+	holder=385888	#Sultan Murad (Aq Qoyunlu)
+	liege=k_aq_qoyunlu
+}
+1503.1.1={
+	holder = 385928	#Shah Ismail I
+	liege="k_persia"
+}
+1524.5.23={
+	holder = 385937	#Shah Tahmasab I
+}
+1576.5.14={
+	holder = 385947	#Shah Ismail II
+}
+1577.11.25={
+	holder = 385957	#Miss Parikhan(Queen of Time
+}
+1578.2.11={
+	holder = 385946	#Sultan Mohammad Khudabandeh
+}
+1588.9.9={
+	holder = 385972	#Shah Abbas I
+}
+1629.1.19={
+	holder = 385995	#Shah Safi I
+}

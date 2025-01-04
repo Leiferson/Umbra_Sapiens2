@@ -1,0 +1,93 @@
+1441.1.1={
+	holder=384790	#Hacı I Giray
+	historical_nomad = yes
+}
+1456.1.1={
+	holder=384794	#Hayder of Crimea
+}
+1456.6.1={
+	holder=384790	#Hacı I Giray
+}
+1466.8.1={
+	holder=384793	#Nur Devlet
+}
+1468.6.1={
+	holder=384796	#Meñli I Giray
+}
+1475.1.1={
+set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+}
+}
+1476.1.1={
+	holder=384852	#Janibeg
+clear_tribute_suzerain = e_ottomans
+}
+1477.1.1={
+	holder=384793	#Nur Devlet
+set_tribute_suzerain = {
+		who = e_ottomans
+		type = permanent 
+}
+}
+1478.1.1={
+	holder=384796	#Meñli I Giray
+}
+1515.4.17={
+	holder=384804	#Mehmed I Giray
+}
+1523.10.1={
+	holder=384811	#Ğazı I Giray
+}
+1524.4.1={
+	holder=384805	#Saadet I Giray
+}
+1532.5.1={
+	holder=384812	#İslâm I Giray
+}
+1537.1.1={
+	holder=384806	#Sahib I Giray
+}
+1551.1.1={
+	holder=384819	#Devlet I Giray
+}
+1577.6.25={
+	holder=384824	#Mehmed II Giray
+}
+1584.5.1={
+	holder=384832	#Saadet II Giray
+}
+1584.8.1={
+	holder=384825	#Islâm II Giray
+}
+1588.1.1={
+	holder=384826	#Ğazı II Giray
+}
+1596.1.1={
+	holder=384827	#Fetih I Giray
+}
+1597.6.1={
+	holder=384826	#Ğazı II Giray
+}
+1607.11.1={
+	holder=384846	#Toqtamış Giray
+}
+1608.1.1={
+	holder=384828	#Selâmet I Giray
+}
+1610.5.1={
+	holder=384845	#Canibek Giray
+}
+1623.1.1={
+	holder=384838	#Mehmed III Giray
+}
+1628.1.1={
+	holder=384845	#Canibek Giray
+}
+1635.1.1={
+	holder=384847	#İnayet Giray
+}
+1637.6.13={
+	holder=384839	#Bahadır I Giray
+}

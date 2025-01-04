@@ -1,0 +1,224 @@
+370.1.1=
+{
+holder=83607 #Conall Corc
+}
+420.1.1=
+{
+holder=83608 #Nad Froich son of Conall
+}
+450.1.1=
+{
+holder=83609 #Óengus son of Nad Froich
+}
+492.1.1=
+{
+holder=83611 #Feidelmid son of Óengus son of Nad Froich
+}
+533.1.1=
+{
+holder=83612 #Bressal son of Óengus son of Nad Froich
+}
+544.1.1=
+{
+holder=83617 #Crimthann son of Feidelmid
+}
+560.1.1=
+{
+holder=83618 #Áed Dub son of Crimthann
+}
+600.1.1=
+{
+holder=83619 #Fíngen son of Áed Dub
+}
+619.1.1=
+{
+holder=83620 #Faílbe Fland son of Áed Dub
+}
+639.1.1=
+{
+holder=83621 #Máenach son of Fíngen
+}
+662.1.1=
+{
+holder=83628 #Colgú son of Faílbe Fland
+}
+678.1.1=
+{
+holder=83626 #Tnúthgal son of Fogartach
+}
+701.1.1=
+{
+holder=83624 #Cormac son of Ailill
+}
+713.1.1=
+{
+holder=83631 #Dub-dá-Crích son of Colmán
+}
+752.1.1=
+{
+holder=83640 #Indrechtach son of Flann
+}
+795.1.1=
+{
+holder=83655 #Tnúthgal son of Donngus
+}
+820.1.1=
+{
+holder=83633 #Feidlimid mac Crimthainn, High-King of Ireland
+}
+847.1.1=
+{
+holder=83657 #Áilgenán son of Donngal
+}
+853.1.1=
+{
+holder=83658 #Máel-Gualae son of Donngal
+}
+859.1.1=
+{
+holder=83672 #Dúnchad son of Dub-dá-Bairenn
+}
+888.1.1=
+{
+holder=83659 #Dub-Lachtna son of Máel-Gualae
+}
+895.1.1=
+{
+holder=83675 #Finguine Cenn nGécán son of Láegaire
+}
+902.1.1=
+{
+holder=83685 #Cormac son of Cuilennán
+}
+908.1.1=
+{
+holder=83692 #Lorcán son Condlígan
+}
+922.1.1=
+{
+holder=83666 #Cellachán Caisil son of Buadachán
+liege = d_munster
+}
+954.1.1=
+{
+holder=83646 #Máel-Fathardaig son of Flann
+liege = 0
+}
+957.1.1=
+{
+holder=83662 #Fer-Gráid son of Clérech
+}
+961.1.1=
+{
+holder=83667 #Donnchad son of Cellachán Caisil
+}
+963.1.1=
+{
+holder=83365 #Ivar of Waterford
+}
+978.7.1=
+{
+liege="d_munster"
+}
+1000.7.1=
+{
+holder=83366 #Sigtrygg of Waterford
+}
+1022.7.1=
+{
+holder=83367 #Ragnall of Waterford
+}
+1035.7.1=
+{
+holder=83368 #Cú-Muman
+}
+1038.7.1=
+{
+holder=83370
+}
+1090.7.1=
+{
+holder=83371
+}
+1130.7.1=
+{
+holder=83372
+}
+1155.7.1=
+{
+holder=83373 #last known king of Waterford
+}
+1172.1.1={
+	liege="k_england"
+}
+1185.1.1=
+{
+liege="d_meath"
+}
+1185.1.1=
+{
+holder=204038
+}
+1205.5.1=
+{
+holder=204041
+}
+1230.7.1=
+{
+holder=83376
+}
+1248.7.1=
+{
+holder=83377
+}
+1285.7.1=
+{
+holder=83378
+}
+1299.7.1=
+{
+holder=454111
+}
+1321.7.1=
+{
+holder=454110	#James Butler, 1st Earl of Ormond (c. 1305–1338)
+}
+1338.1.6 = {
+holder=454113	#James Butler, 2nd Earl of Ormond (1331–1382)
+}
+1382.10.18 = {
+holder=383366	#James Butler, 3rd Earl of Ormond (1361–1405)
+}
+1405.9.7 = {
+holder=383371	#James Butler, 4th Earl of Ormond (1392–1452)
+}
+1452.8.23 = {
+holder=383382	#James Butler, 5th Earl of Ormond and 1st Earl of Wiltshire (1420–1461)
+}
+1461.5.1 = {
+holder=383383	#John Butler, 6th Earl of Ormond (1422–1478)
+}
+1476.12.14 = {
+holder=383384	#Thomas Butler, 7th Earl of Ormond (c. 1426–1515)
+}
+1515.8.3 = {
+holder=383410	#Piers Butler, 8th Earl of Ormond
+}
+1528.2.17 = {
+holder=372983	#Thomas Boleyn, 1st Earl of Wiltshire
+}
+1538.1.22={
+holder=383410	#Piers Butler, 8th Earl of Ormond
+}
+1539.8.26 = {
+holder=383411	#James Butler, 9th Earl of Ormond
+}
+1546.1.1 = {
+holder=383419	#Thomas Butler, 10th Earl of Ormond
+}
+1614.1.1 = {
+holder=383436	#Walter Butler, 11th Earl of Ormond
+}
+1633.2.24 = {
+holder=383450	#James Butler, 1st Duke of Ormond
+}

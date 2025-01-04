@@ -1,0 +1,101 @@
+750.1.1 = {
+	holder = 194150
+}
+799.1.1 = {
+	holder = 194151
+}
+822.1.1={
+	holder=159711
+}
+855.1.1={
+	holder=159714
+}
+860.1.1 = {
+	holder = 6852
+}
+936.1.1 = {
+	holder = 260771
+}
+987.1.2={
+	holder=0
+}
+1218.2.2={
+holder=125174
+#law = agnatic_succession
+#law = succ_gavelkind
+}
+1238.3.4={
+liege="e_golden_horde"
+}
+1238.3.4={
+holder=125175
+}
+1249.1.2={
+holder=125176
+}
+1257.1.2={
+holder=125177
+}
+1261.1.2={
+holder=472794
+}
+1299.9.19={
+holder=472792
+}
+1321.1.2={
+holder=472790	#Vasily Davidovich Terrible Eyes 
+}
+1345.1.2={
+holder=384693	#Vasily Vasilyevich (Prince of Yaroslavl)  
+}
+1380.1.2={
+holder=384696	#Ivan Vasilievich Bolshoy 
+}
+1380.9.8={
+liege=0
+}
+1426.1.2={
+holder=384697	#Fyodor Vasilievich (Prince of Yaroslavl) 
+}
+1435.1.2={
+holder=384700	#Fyodor Vasilievich (Prince of Yaroslavl) 
+}
+1471.1.2={
+holder=374961	#Ivan III of Russia
+}
+1505.10.27={
+holder=375004	#Vasili III of Russia
+}
+1533.12.3={
+holder=375015	#Ivan the Terrible
+}
+1547.1.26={
+liege=e_russia_2
+}
+1584.3.28={
+holder=375031	#Feodor I of Russia
+}
+1598.1.6={
+holder=375035	#Irina Godunova
+}
+1598.2.21={
+holder=375036	#Boris Feodorovich Godunov 
+}
+1605.4.23={
+holder=375042	#Feodor II of Russia
+}
+1605.6.20={
+holder=375043	#False Dmitry I
+}
+1606.5.17={
+holder=375056	#Vasili IV of Russia
+}
+1610.7.17={
+holder=375052	#False Dmitry II
+}
+1610.12.21={
+holder=375055	#False Dmitry III
+}
+1612.7.2={
+holder=375078	#Michael of Russia
+}

@@ -1,0 +1,75 @@
+960.1.1={
+	set_global_flag = seljuk_spawned
+}
+
+1037.1.1={
+	holder = 3038
+	law = crown_authority_2
+}
+1063.9.4=
+{
+	holder=3040
+}
+1072.11.1={
+	holder = 3042
+}
+1092.11.1={
+	holder = 144012
+}
+1094.1.1={
+	holder = 144013
+}
+1105.3.1={
+	holder = 144014
+}
+1118.4.18={
+	holder = 144015
+}
+1157.5.8={
+	holder = 0 # End of the Seljuk Turks
+}
+1194.3.1=
+{
+	holder=230000
+}
+1200.1.1=
+{
+	holder=93052
+}
+1221.1.1=
+{
+	holder=0
+}
+1447.3.13={
+	holder = 385318	#Sultan Muhammad (Timurid)
+}
+1452.1.1={
+	holder = 0
+}
+1497.12.14={
+	holder=385899	#Muhammad Beg
+}
+1501.1.1={
+	holder=0
+}
+1503.1.1={
+	holder = 385928	#Shah Ismail I
+}
+1524.5.23={
+	holder = 385937	#Shah Tahmasab I
+}
+1576.5.14={
+	holder = 385947	#Shah Ismail II
+}
+1577.11.25={
+	holder = 385957	#Miss Parikhan(Queen of Time
+}
+1578.2.11={
+	holder = 385946	#Sultan Mohammad Khudabandeh
+}
+1588.9.9={
+	holder = 385972	#Shah Abbas I
+}
+1629.1.19={
+	holder = 385995	#Shah Safi I
+}

@@ -1,0 +1,187 @@
+748.1.1={
+	liege = d_samarkand
+	holder = 248305
+}
+751.1.1={
+	holder = 188681  # al-muqannas rebellion against Abbasids starting few years early and this also represents the earlier rebellions in the area
+}
+
+848.1.1={
+	liege=d_khuttal
+	holder = 248306
+}
+857.1.1={
+	holder = 248307
+}
+873.1.1={
+	holder = 248308
+}
+899.1.1={
+	holder = 248309
+}
+915.1.1={
+	liege=k_khiva
+	holder=248003
+}
+1030.1.1={
+	holder = 248023
+	liege = d_khuttal
+}
+1067.1.1={
+	holder=248024
+}
+1084.1.1={
+	holder = 248025
+}
+1110.1.1={
+	holder = 248026
+}
+1130.1.1={
+	holder = 248027
+}
+1161.1.1={
+	liege=d_khiva
+	holder = 144121
+}
+1178.1.1=
+{
+	holder = 144122
+}
+1204.1.1=
+{
+	holder = 93051
+}
+1212.1.1=
+{
+	holder=93053
+}
+1220.2.1={
+	liege="e_mongol_empire"
+	holder = 248204
+}
+1228.1.1={
+	liege="e_chagatai"
+}
+1260.1.1={
+	holder = 248205
+}
+1290.1.1={
+	holder = 248207
+}
+1318.1.1={
+	holder = 248209
+}
+1338.1.1={
+	holder = 242111	#Yesun Temur
+}
+1339.1.1={
+	holder = 166918 #Ali Sultan
+}
+1342.1.1={
+	holder = 385109 #Muhammad I ibn Pulad
+}
+1343.1.1={
+	holder = 385111 #Qazan Khan ibn Yasaur	
+}
+1346.1.1={
+    holder = 385112 #Danishmendji
+}
+1348.1.1 = {
+	holder = 385118 #Bayan Qulï
+}
+1358.1.1={
+	holder = 385119 #Temurshah Khan 
+}
+1359.1.1={
+	holder = 385120	#Tughlugh Timur
+}
+1363.1.1={
+	holder = 385133	#Adil-Sultan
+}
+1363.10.1={
+	holder = 385448	#Emir Hussayn
+}
+1369.2.1={
+	holder = 385179	#Timur
+}
+1370.4.9={
+	liege="e_timurids"
+}
+1405.2.18={
+	holder = 385275	#Khalil Sultan
+}
+1407.1.1={
+	holder = 385815	#Khydaidad Hussayni
+}
+1409.5.13={
+	holder = 385183	#Shah Rukh
+}
+1447.3.13={
+	holder = 385291	#Ulugh Beg
+}
+1449.10.27={
+	holder=385409	#Abdal-Latif Mirza
+	liege=k_khiva
+}
+1450.5.9={
+	holder=385313	#Abdullah Mirza
+}
+1451.6.1={
+	holder=385335	#Abu Sa'id Mirza
+}
+1469.2.8={
+	holder=385342	#Sultan Mahmud Mirza
+	liege=d_balkh
+}
+1495.1.1={
+	holder=385529	#Khusrau Shah 
+}
+1504.1.1={
+	holder=385009	#Muhammad Shaybani
+	liege=k_khiva
+}
+1510.12.2={
+	holder=384993	#Suyunchhoja Khan 
+}
+1511.10.8={
+	holder=385430	#Babur
+}
+1512.4.1={
+	holder=384992	#Kuchkunji Khan
+}
+1530.1.1={
+	holder=385470	#Abu Sa'id bin Kochkunju
+}
+1534.1.1={
+	holder=385478	#Ubaidullah Khan
+}
+1540.1.1={
+	holder=385479	#Abdulaziz Khan (Sheybanid) 
+}
+1550.1.1={
+	holder=385486	#Burhon sulton
+}
+1557.1.1={
+	holder=385490	#Pirmuhammed Khan 
+}
+1561.1.1={
+	holder=385505	#Iskander Khan 
+}
+1583.1.1={
+	holder=385506	#Abdullah Khan II 
+}
+1598.2.8={
+	holder=385511	#Pirmuhammed Khan II
+}
+1599.1.1={
+	holder=385516	#Jani Muhammad 
+}
+1603.12.11={
+	holder=385518	#Baki Muhammad  
+}
+1605.1.1={
+	holder=385519	#Wali Muhammad
+}
+1611.12.2={
+	holder=385522	#Imamkuli-khan 
+}

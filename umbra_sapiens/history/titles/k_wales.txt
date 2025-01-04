@@ -9,6 +9,10 @@
 }
 1301.2.9={
 	holder = 454520
+	law = succ_primogeniture
+	law = centralization_1
+	law = crown_authority_2
+	law = investiture_law_1
 }
 1307.7.8={
 	holder = 454510 #Edward II of England
@@ -35,7 +39,7 @@
 	holder=372790	#Henry VI of England
 }
 1471.4.11 = {
-	holder=370034	#Henry IV of England
+	holder=372857	#Edward IV
 }
 1483.4.9 = {
 	holder=372888	#Edward V
@@ -46,24 +50,9 @@
 1485.8.22 = {
 	holder=372758	#Henry VII of England
 }
-1509.4.21 = {
-	holder=372978	#Henry VIII of England
-}
-1547.1.28 = {
-	holder=373114	#Edward VI of England
-}
-1553.7.6 = {
-	holder=373676	#Lady Jane Grey
-}
-1553.7.19 = {
-	holder=373111	#Mary I of England
-}
-1558.11.17 ={
-	holder=373113	#Elizabeth I of England
+1536.4.14={
+	holder=0
 }
 1603.3.24 ={
-	holder=373380	#James VI and I of England
-}
-1625.3.27={
-	holder=373462	#Charles I of England
+	de_jure_liege=e_great_britain
 }

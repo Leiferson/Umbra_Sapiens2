@@ -1,0 +1,297 @@
+764.1.1={
+	liege = "k_magyar"
+	holder=146214
+}
+803.1.1={
+	holder=146215
+}
+826.1.1={
+	holder=146230
+}
+845.1.1={
+	holder=159137
+}
+896.1.1={
+	liege = 0
+}
+936.1.1 = {
+	holder = 260695
+	liege = d_wild_fields
+}
+1066.1.1=
+{
+	liege=d_moldau
+}
+1066.1.1=
+{
+	holder=20635
+}
+1091.1.1=
+{
+	liege="d_crimea"
+	holder=34845
+}
+1120.1.1=
+{
+	holder=34846
+}
+1150.1.1=
+{
+	holder=34847
+}
+1170.1.1=
+{
+	holder=228033
+}
+1200.1.1=
+{
+	holder=34848
+}
+1220.1.1=
+{
+	holder=34849
+}
+1238.1.1=
+{
+	holder=34850
+}
+1246.1.1=
+{
+	holder=125507
+}
+1266.1.2=
+{
+	holder=125510
+}
+1286.1.2=
+{
+	holder=125518
+}
+1299.1.2=
+{
+	holder=125513
+}
+1302.1.2=
+{
+	holder=480000
+}
+1312.1.2=
+{
+	holder=34853
+}
+1337.1.1=
+{
+	holder=125514
+}
+1342.1.2={
+holder=125515	#Jani Beg
+}
+1357.1.2={
+holder=384709	#Berdi Beg
+}
+1359.1.2={
+holder=384711	#Qulpa
+}
+1360.2.28={
+holder=384712	#Nawruz
+}
+1360.6.1={
+holder=384713	#Khidr Khan
+}
+1361.8.1={
+holder=384718	#Timur Khwaja
+}
+1361.9.1={
+holder=384725	#Ordu Malik
+}
+1361.10.1={
+holder=384727	#Kildi Beg
+}
+1362.9.2={
+holder=384730	#Abdallah
+}
+1370.6.1={
+holder=384731	#Muhammad Sultan (Golden Horde)
+}
+1379.1.1={
+holder=384733	#Tulak (Golden Horde)
+}
+1380.1.1={
+holder=384738	#Tokhtamysh
+}
+1395.1.1={
+holder=384777	#Quyurchuq
+}
+1397.1.1={
+holder=384759	#Temür Qutlugh
+}
+1399.1.1={
+holder=384763	#Shadi Beg
+}
+1407.1.1={
+holder=384761	#Pulad
+}
+1410.1.1={
+holder=384760	#Timur (Golden Horde)
+}
+1412.1.1={
+holder=384739	#Jalal al-Din Khan ibn Tokhtamysh
+}
+1412.10.27={
+holder=384740	#Karim Berdi
+}
+1413.1.1={
+holder=384741	#Kebek (Golden Horde)
+}
+1414.1.1={
+holder=384740	#Karim Berdi
+}
+1415.1.1={
+holder=384765	#Chekre
+}
+1416.1.1={
+holder=384742	#Jabbar Berdi
+}
+1417.1.1={
+holder=384768	#Darwish (Golden Horde)
+}
+1419.8.1={
+holder=384774	#Hajji Muhammad (Golden Horde)
+}
+1423.1.1={
+holder=384778	#Barak Khan
+}
+1429.1.1={
+holder=384780	#Ulugh Muhammad
+}
+1437.1.1={
+holder=384744	#Sayid Ahmad I
+}
+1441.1.1={
+	holder=384790	#Hacı I Giray
+	liege=k_crimea
+}
+1456.1.1={
+	holder=384794	#Hayder of Crimea
+}
+1456.6.1={
+	holder=384790	#Hacı I Giray
+}
+1466.8.1={
+	holder=384793	#Nur Devlet
+}
+1468.6.1={
+	holder=384796	#Meñli I Giray
+}
+1476.1.1={
+	holder=384852	#Janibeg
+}
+1477.1.1={
+	holder=384793	#Nur Devlet
+}
+1478.1.1={
+	holder=384796	#Meñli I Giray
+}
+1515.4.17={
+	holder=384804	#Mehmed I Giray
+}
+1523.10.1={
+	holder=384811	#Ğazı I Giray
+}
+1524.4.1={
+	holder=384805	#Saadet I Giray
+}
+1532.5.1={
+	holder=384812	#İslâm I Giray
+}
+1534.1.1={
+	holder=384853	#Wezyk Chmielnicki (1534–1569)
+	liege=d_zaporozhian_cossacks
+}
+1569.1.1={
+	holder=384854	#Michal Wisniowiecki (1529–1584) (1569–1570)
+}
+1570.1.1={
+	holder=384856	#Iwan Swiergowski (1574)
+}
+1574.1.1={
+	holder=384858	#Bohdan Ruzhynski (1575–1576)
+}
+1576.1.1={
+	holder=384859	#Jacub Szach (1576–1578)
+}
+1578.1.1={
+	holder=384861	#Lukyan Chornynsky (1578)
+}
+1581.1.1={
+	holder=384863	#Samuel Zborowski (1581–1584)
+}
+1584.1.1={
+	holder=384865	#Mykhailo Ruzhynski (1585)
+}
+1585.1.1={
+	holder=384861	#Lukyan Chornynsky (1586)
+}
+1586.1.1={
+	holder=384869	#Demyan Skalozub (1585–1589)
+}
+1589.1.1={
+	holder=384870	#Krzysztof Kosinski (-1593)
+}
+1593.1.1={
+	holder=384871	#Hryhoriy Loboda (1593–1596)
+}
+1596.1.1={
+	holder=384871	#Khrystofor Netkovsky (1596–1597)
+}
+1597.1.1={
+	holder=384877	#Tykhin Baybuza (1597–1598)
+}
+1598.1.1={
+	holder=384879	#Semen Skalozub (1599)
+}
+1599.1.1={
+	holder=384880	#Samiylo Kishka (1600–1602)
+}
+1602.1.1={
+	holder=384881	#Havrylo Krutnevych (1602–1603)
+}
+1603.1.1={
+	holder=384883	#Ivan Kosyi (1603)
+}
+1609.1.1={
+	holder=384887	#Kaletnyk Andriyevych (1609–1610)
+}
+1610.1.1={
+	holder=384885	#Olifer Holub (1622–1623)
+}
+1623.1.1={
+	holder=384890	#Mykhailo Doroshenko (1623–1625)
+}
+1625.1.1={
+	holder=384889	#Mykhailo Doroshenko (1625–1628)
+}
+1628.1.1={
+	holder=384890	#Hryhoriy Chorny (1628–1630)
+}
+1630.1.1={
+	holder=384894	#Timothy Orendarenko (1630–1631)
+}
+1631.1.1={
+	holder=384895	#Semen Perevyazka (1632)
+}
+1632.1.1={
+	holder=384894	#Timothy Orendarenko (1632–1633)
+}
+1633.1.1={
+	holder=384899	#Ivan Sulyma (1633–1635)
+}
+1635.1.1={
+	holder=384900	#Sava Kononovych (1637)
+}
+1637.1.1={
+	holder=384902	#Illyash Karayimovych (1638)
+}
+1638.1.1={
+	holder=384905	#Karpo Pivtora-Kozhukha (1639–1642)
+}

@@ -3846,23 +3846,24 @@
 	culture="english"
 	father=454594
 	mother=454565
+	trait=monk
 	1328.1.1 = {
 		birth="1328.1.1"
 	}
-	1350.1.1 = {
-		death="1350.1.1"
+	1369.1.1 = {
+		death="1369.1.1"
 	}
 }
 
 31007 = {
-	name="Edward"
+	name="Edward"	#Sir Edward Courtenay 
 	dynasty=23100
 	religion="catholic"
 	culture="english"
 	father=454594
 	mother=454565
-	1329.1.1 = {
-		birth="1329.1.1"
+	1331.1.1 = {
+		birth="1331.1.1"
 	}
 	1375.9.20 = {
 		death="1375.9.20"
@@ -4371,8 +4372,8 @@
 	1315.1.2 = {
 		add_spouse=454031
 	}
-	1345.1.1 = {
-		death="1345.1.1"
+	1369.11.4 = {
+		death="1369.11.4"
 	}
 }
 
@@ -4449,11 +4450,11 @@
 	trait="tough_soldier"
 	father=454030
 	mother=454031
-	1318.1.1 = {
-		birth="1318.1.1"
+	1338.5.30 = {
+		birth="1338.5.30"
 	}
-	1368.1.1 = {
-		death="1368.1.1"
+	1382.2.15 = {
+		death="1382.2.15"
 	}
 }
 
@@ -5071,8 +5072,8 @@
 	1327.1.1 = {
 		add_spouse=454564
 	}
-	1338.7.1 = {
-		death="1338.7.1"
+	1338.1.6 = {
+		death="1338.1.6"
 	}
 }
 
@@ -5120,7 +5121,7 @@
 }
 
 454113 = {
-	name="James"
+	name="James"	#James Butler, 2nd Earl of Ormond
 	dynasty=4040
 	martial=7
 	diplomacy=3
@@ -5131,16 +5132,16 @@
 	trait="tough_soldier"
 	father=454110
 	mother=454564
-	1331.1.1 = {
-		birth=yes
+	1331.10.4 = {
+		birth="1331.10.4"
 	}
-	1382.7.1 = {
-		death="1382.7.1"
+	1382.10.18 = {
+		death="1382.10.18"
 	}
 }
 
 454114 = {
-	name="Petronilla"
+	name="Anne"
 	female = yes
 	dynasty=4040
 	martial=5
@@ -5152,11 +5153,11 @@
 	trait="thrifty_clerk"
 	father=454110
 	mother=454564
-	1335.1.1 = {
+	1328.1.1 = {
 		birth=yes
 	}
-	1382.7.1 = {
-		death="1382.7.1"
+	1329.1.1 = {
+		death="1329.1.1"
 	}
 }
 
@@ -5218,8 +5219,8 @@
 	1318.1.1 = {
 		birth="1318.1.1"
 	}
-	1368.1.1 = {
-		death="1368.1.1"
+	1390.8.25 = {
+		death="1390.8.25"
 	}
 }
 
@@ -5386,7 +5387,7 @@
 }
 
 454155 = {
-	name="William"
+	name="William"	#William Saxonagh Bourke, died 1368
 	dynasty=4034
 	martial=5
 	diplomacy=5
@@ -5395,11 +5396,12 @@
 	religion="catholic"
 	culture="english"
 	father=454150
+	trait=bastard
 	1335.1.1 = {
 		birth="1335.1.1"
 	}
-	1385.1.1 = {
-		death="1385.1.1"
+	1368.1.1 = {
+		death="1368.1.1"
 	}
 }
 
@@ -5928,7 +5930,7 @@
 }
 
 454527 = {
-	name="Henry"
+	name="Henry"	#Henry of Grosmont, Duke of Lancaster
 	dynasty=106
 	martial=7
 	diplomacy=7
@@ -5940,14 +5942,14 @@
 	trait="tough_soldier"
 	father=454525
 	mother=454526
-	1314.1.2 = {
-		birth="1314.1.2"
+	1310.1.2 = {
+		birth="1310.1.2"
 	}
 	1334.1.2 = {
 		add_spouse=454528
 	}
-	1364.1.2 = {
-		death="1364.1.2"
+	1361.3.23 = {
+		death="1361.3.23"
 	}
 }
 
@@ -6073,11 +6075,11 @@
 	trait="amateurish_plotter"
 	father=454525
 	mother=454526
-	1310.1.2 = {
-		birth="1310.1.2"
+	1320.1.2 = {
+		birth="1320.1.2"
 	}
-	1377.5.5 = {
-		death="1377.5.5"
+	1362.9.1 = {
+		death="1362.9.1"
 	}
 }
 
@@ -6193,7 +6195,7 @@
 }
 
 454560 = {
-	name="Humphrey"
+	name="Humphrey"	#Humphrey de Bohun, 6th Earl of Hereford
 	dynasty=359
 	martial=7
 	diplomacy=5
@@ -6206,11 +6208,11 @@
 	trait="tough_soldier"
 	father=454561
 	mother=454516
-	1309.1.2 = {
-		birth="1309.1.2"
+	1309.12.6 = {
+		birth="1309.12.6"
 	}
-	1359.1.2 = {
-		death="1359.1.2"
+	1361.10.15 = {
+		death="1361.10.15"
 	}
 }
 
@@ -6237,7 +6239,7 @@
 }
 
 454562 = {
-	name="William"
+	name="William"	#William de Bohun, 1st Earl of Northampton
 	dynasty=359
 	martial=7
 	diplomacy=8
@@ -6253,8 +6255,8 @@
 		birth="1311.1.2"
 	}
 	1335.1.1 = { add_spouse=454563 }
-	1361.1.2 = {
-		death="1361.1.2"
+	1360.9.16 = {
+		death="1360.9.16"
 	}
 }
 
@@ -6296,8 +6298,8 @@
 	1304.10.17 = {
 		birth=yes
 	}
-	1354.7.1 = {
-		death="1354.7.1"
+	1363.10.7 = {
+		death="1363.10.7"
 	}
 }
 
@@ -6599,7 +6601,7 @@
 }
 
 454586 = {
-	name="John"
+	name="John"	#John de Vere, 7th Earl of Oxford
 	dynasty=365
 	martial=8
 	diplomacy=5
@@ -6690,7 +6692,7 @@
 }
 
 454594 = {
-	name="Hugh"
+	name="Hugh"	#Hugh de Courtenay, 2nd/10th Earl of Devon
 	dynasty=23100
 	martial=8
 	diplomacy=5
@@ -6702,8 +6704,8 @@
 	trait="tough_soldier"
 	father=31004
 	mother=31005 
-	1303.1.1 = {
-		birth="1303.1.1"
+	1303.7.12 = {
+		birth="1303.7.12"
 	}
 	1325.1.1 = {
 		add_spouse=454565
@@ -6714,7 +6716,7 @@
 }
 
 454595 = {
-	name="Hugh"
+	name="Hugh"	#Hugh Courtenay (died 1348)
 	dynasty=23100
 	martial=5
 	diplomacy=5
@@ -6727,8 +6729,11 @@
 	1327.3.22 = {
 		birth="1327.3.22"
 	}
-	1349.9.2 = {
-		death="1349.9.2"
+	1341.9.3={
+		add_spouse=384209
+	}
+	1348.9.2 = {
+		death="1348.9.2"
 	}
 }
 
@@ -6809,11 +6814,11 @@
 	trait="tough_soldier"
 	father=454600
 	mother=454601
-	1305.1.1 = {
-		birth="1305.1.1"
+	1300.1.21 = {
+		birth="1300.1.21"
 	}
-	1355.1.1 = {
-		death="1355.1.1"
+	1322.3.23 = {
+		death="1322.3.23"
 	}
 }
 
@@ -7010,8 +7015,8 @@
 	1320.1.1 = {
 		birth="1320.1.1"
 	}
-	1370.1.1 = {
-		death="1370.1.1"
+	1349.9.7 = {
+		death="1349.9.7"
 	}
 }
 
@@ -10509,7 +10514,7 @@
 }
 
 161454 = {
-	name="Thomas"
+	name="Thomas"	#Thomas FitzMaurice FitzGerald
 	dynasty=4041
 	religion="catholic"
 	culture="english"
@@ -11284,7 +11289,7 @@
 	1317.1.1 = {
 		birth=yes
 	}
-	1348.1.1 = {
+	1368.7.25 = {
 		death=yes
 	}
 }
@@ -12295,7 +12300,7 @@
 }
 
 183202 = {
-	name="William"
+	name="William"	#William de la Pole (Chief Baron of the Exchequer)
 	# AKA: William de la Pole
 	dynasty=1042610
 	religion="catholic"
@@ -12330,7 +12335,7 @@
 }
 
 183204 = {
-	name="Michael"
+	name="Michael"	#Michael de la Pole, 1st Earl of Suffolk
 	# AKA: Michael de la Pole
 	dynasty=1042610
 	religion="catholic"

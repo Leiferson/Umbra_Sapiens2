@@ -1,0 +1,186 @@
+755.1.1={
+	liege=d_pamir
+	holder=247692
+}
+798.1.1={
+	holder=247693
+}
+824.1.1={
+	holder=247694
+}
+830.1.1={
+	holder=247695
+}
+842.1.1 = {
+	liege=0
+}#Fall of Tibetan Empire
+
+846.1.1={
+	holder=247696
+}
+847.1.1={
+	holder=248001
+	set_tribute_suzerain = { who = k_khiva type = permanent }
+}
+900.1.1={
+	holder=248002
+	clear_tribute_suzerain = k_khiva
+}
+915.1.1={
+	liege=k_khiva
+	holder=248003
+}
+965.1.1={
+	holder=248004
+}
+997.1.1={
+	liege=0 # collapse of Samanid authority
+	holder=248005
+}
+1021.1.1={
+	holder=248006
+}
+1038.1.1={
+	holder=248007
+}
+1068.1.1={
+	holder=248012 
+}
+1072.1.1={
+	holder=248008  #elected as new Amir
+}
+1077.1.1={
+	holder=248008  # amir of Qataghan invades
+	set_tribute_suzerain = { who = c_khuttal type = permanent }
+}
+1081.1.1={
+	holder=248012 #returns from India, defeats Amir of Qataghan, kills Emad.
+	clear_tribute_suzerain = c_khuttal
+}
+1095.1.1={
+	liege=d_zhetysu # supposedly under nominal authority of Princes of Kashgar which means Kara-Khanids.
+}
+1118.1.1={
+	holder=248013
+}
+1135.1.1={
+	liege=0
+	holder=248015  #civil war collapses the realm, new rulers come forth.
+}
+1137.1.1={
+	liege=k_khiva # turkish invasion
+}
+1141.1.1={
+	liege=0 # Kara-Khitai defeat Kara-Khanids
+}
+1157.1.1={
+	holder=248016 
+}
+1197.1.1={
+	holder=248017
+}
+1221.1.1={
+	liege=e_mongol_empire
+}
+1226.1.1={
+	holder=248018 
+}
+1228.1.1={
+	liege=e_chagatai
+}
+1239.1.1={
+	holder=248019
+}
+1275.1.1={
+	holder=248020
+}
+1325.1.1={
+	holder=248021
+}
+1363.10.1={
+	holder = 385448	#Emir Hussayn
+}
+1369.2.1={
+	holder = 385179	#Timur
+}
+1370.4.9={
+	liege="e_timurids"
+}
+1405.2.18={
+	holder = 385275	#Khalil Sultan
+}
+1407.1.1={
+	holder = 385815	#Khydaidad Hussayni
+}
+1409.5.13={
+	holder = 385183	#Shah Rukh
+}
+1447.3.13={
+	holder = 385291	#Ulugh Beg
+}
+1449.10.27={
+	holder=385409	#Abdal-Latif Mirza
+	liege=k_khiva
+}
+1450.5.9={
+	holder=385313	#Abdullah Mirza
+}
+1451.6.1={
+	holder=385335	#Abu Sa'id Mirza
+}
+1469.2.8={
+	holder=385342	#Sultan Mahmud Mirza
+	liege=d_balkh
+}
+1495.1.1={
+	holder=385529	#Khusrau Shah 
+}
+1504.1.1={
+	holder=385009	#Muhammad Shaybani
+	liege=k_khiva
+}
+1510.12.2={
+	holder=384993	#Suyunchhoja Khan 
+}
+1511.10.8={
+	holder=385430	#Babur
+}
+1512.4.1={
+	holder=384992	#Kuchkunji Khan
+}
+1530.1.1={
+	holder=385470	#Abu Sa'id bin Kochkunju
+}
+1534.1.1={
+	holder=385478	#Ubaidullah Khan
+}
+1540.1.1={
+	holder=385479	#Abdulaziz Khan (Sheybanid) 
+}
+1550.1.1={
+	holder=385486	#Burhon sulton
+}
+1557.1.1={
+	holder=385490	#Pirmuhammed Khan 
+}
+1561.1.1={
+	holder=385505	#Iskander Khan 
+}
+1583.1.1={
+	holder=385506	#Abdullah Khan II 
+}
+1598.2.8={
+	holder=385511	#Pirmuhammed Khan II
+}
+1599.1.1={
+	holder=385516	#Jani Muhammad 
+}
+1603.12.11={
+	holder=385518	#Baki Muhammad  
+}
+1605.1.1={
+	holder=385519	#Wali Muhammad
+}
+1611.12.2={
+	holder=385522	#Imamkuli-khan 
+}

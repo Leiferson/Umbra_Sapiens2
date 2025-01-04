@@ -232,5 +232,34 @@
 	holder = 453055 # Angus Og
 }
 1330.1.1={
-	holder=420019
+	holder=420019	#John of Islay, Lord of the Isles
+}
+1386.1.1={
+	holder=373188	#Donald of Islay, Lord of the Isles
+}
+1423.1.1={
+	holder=384432	#Alexander of Islay, Earl of Ross
+}
+1449.1.1={
+	holder=384438	#John of Islay, Earl of Ross
+}
+1483.1.1={
+	holder=384481	#Aonghas Óg
+	liege=0
+}
+1490.1.1={
+	liege="k_scotland"
+	holder=372720	#James IV of Scotland
+}
+1513.9.9 ={
+	holder=373123	#James V
+}
+1542.12.14 ={
+	holder=373143	#Mary, Queen of Scots
+}
+1567.7.24 ={
+	holder=373380	#James VI and I
+}
+1625.3.27={
+	holder=373462	#Charles I of England
 }

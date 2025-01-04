@@ -1,0 +1,242 @@
+660.1.1 = {
+	holder = 217314 # Bindu
+}
+681.5.10 = {
+	holder = 217315 # Tughshada (Regency by mother)
+}
+706.1.1 = {
+	holder = 217319 # Khunuk (Rebellion)
+}
+710.1.1={
+	liege=d_samarkand
+	holder = 217315 # Tughshada (Reinstated by Qutayba)
+}
+739.6.4 = {
+	holder = 217316 # Qutayba (Son of Tughshada not the arabic warlord)
+}
+750.8.21 = {
+	holder = 217317 # Sukan (Son of Tughshada)
+}
+757.3.12 = {
+	holder = 217318 # Bunyat (Son of Tughshada)
+}
+#769.1.1={
+#	holder=188603
+#}
+783.5.25 = {
+	holder = 217328 # fictional line from Bunyat
+}
+835.1.17 = {
+	holder = 217329 # fictional line from Bunyat
+}
+842.11.15 = {
+	holder = 217330 # fictional line from Bunyat
+}
+
+#864.1.1={
+#	holder = 163157
+#}
+907.1.1 = {
+	holder = 261016
+}
+914.1.1 = {
+	holder = 261017
+}
+943.1.1 = {
+	holder = 261018
+}
+1066.1.1={
+	liege="d_merv"
+}
+1066.1.1=
+{
+	holder = 93107
+}
+1106.1.1=
+{
+	holder = 93108
+}
+1141.1.1=
+{
+	holder = 93109
+}
+1165.1.1=
+{
+	holder = 93110
+}
+1170.1.1=
+{
+	holder = 93111
+}
+1178.1.1=
+{
+	holder = 93112
+}
+1185.1.1=
+{
+	holder = 93113
+}
+1190.1.1=
+{
+	holder = 93114
+}
+1191.1.1=
+{
+	holder = 93115
+}
+1206.1.1=
+{
+	holder = 93116
+}
+1207.1.1={
+	liege=d_khiva
+	holder = 93051
+}
+1212.1.1={
+	holder=93053
+}
+#Il-Khanate
+1221.1.1={
+	liege=d_khorasan
+	holder = 125520
+}
+#Chagatai khanate
+1227.12.2=
+{
+
+	holder = 93062
+}
+1228.1.1={
+	liege=e_chagatai
+	holder = 248165
+}
+1240.1.1={
+	holder = 248166
+}
+1290.1.1={
+	holder = 248167
+}
+1298.1.1={
+	holder = 248168
+}
+1303.1.1={
+	holder = 248169
+}
+1338.1.1={
+	holder = 242111	#Yesun Temur
+}
+1339.1.1={
+	holder = 166918 #Ali Sultan
+}
+1342.1.1={
+	holder = 385109 #Muhammad I ibn Pulad
+}
+1343.1.1={
+	holder = 385111 #Qazan Khan ibn Yasaur	
+}
+1346.1.1={
+    holder = 385112 #Danishmendji
+}
+1348.1.1 = {
+	holder = 385118 #Bayan Qulï
+}
+1358.1.1={
+	holder = 385119 #Temurshah Khan 
+}
+1359.1.1={
+	holder = 385120	#Tughlugh Timur
+}
+1363.1.1={
+	holder = 385133	#Adil-Sultan
+}
+1364.1.1={
+	holder = 385134	#Kabul Shah
+}
+1364.2.1={
+	holder = 385448	#Emir Hussayn
+}
+1369.2.1={
+	holder = 385179	#Timur
+}
+1370.4.9={
+	liege="e_timurids"
+}
+1405.2.18={
+	holder = 385275	#Khalil Sultan
+}
+1409.5.13={
+	holder = 385183	#Shah Rukh
+}
+1447.3.13={
+	holder = 385291	#Ulugh Beg
+}
+1449.10.27={
+	holder=385409	#Abdal-Latif Mirza
+	liege=k_khiva
+}
+1450.5.9={
+	holder=385313	#Abdullah Mirza
+}
+1451.6.1={
+	holder=385335	#Abu Sa'id Mirza
+}
+1459.3.1={
+	liege=e_timurids
+}
+1469.2.8={
+	holder=385341	#Sultan Ahmed Mirza
+	liege=d_samarkand
+}
+1494.1.1={
+	holder=385419	#Sultan Ali bin Mahmud Mirza
+	liege=0
+}
+1500.1.1={
+	holder=385009	#Muhammad Shaybani
+	liege=d_samarkand
+}
+1510.12.2={
+	holder=384993	#Suyunchhoja Khan 
+}
+1511.10.8={
+	holder=385430	#Babur
+}
+1512.4.1={
+	holder=384992	#Kuchkunji Khan
+}
+1530.1.1={
+	holder=385470	#Abu Sa'id bin Kochkunju
+}
+1534.1.1={
+	holder=385478	#Ubaidullah Khan
+}
+1540.1.1={
+	holder=385479	#Abdulaziz Khan (Sheybanid) 
+}
+1550.1.1={
+	holder=385486	#Burhon sulton
+}
+1557.1.1={
+	holder=385490	#Pirmuhammed Khan 
+}
+1561.1.1={
+	holder=385505	#Iskander Khan 
+}
+1583.1.1={
+	holder=385506	#Abdullah Khan II 
+}
+1598.2.8={
+	holder=385511	#Pirmuhammed Khan II
+}
+1599.1.1={
+	holder=385516	#Jani Muhammad 
+}
+1603.12.11={
+	holder=385518	#Baki Muhammad  
+}
+1605.1.1={
+	holder=385519	#Wali Muhammad
+}
+1611.12.2={
+	holder=385522	#Imamkuli-khan 
+}

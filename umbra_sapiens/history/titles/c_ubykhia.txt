@@ -128,5 +128,51 @@ liege="k_georgia"
 1313.1.1={
 	holder=466500
 }
-
-
+1346.1.2={
+	holder = 466503 #David IX
+}
+1360.1.2={
+	holder = 378207 #Bagrat V the Great
+}
+1393.1.2={
+	holder = 378210 #George VII of Georgia
+}
+1396.1.1={
+	holder = 378220	#Constantine II of Imereti
+	liege="d_egrisi"
+}
+1401.1.2={
+	holder = 378221	#Demetrius, Duke of Imereti
+}
+1412.1.1={
+	liege="d_kakheti"
+}
+1455.1.2={
+	holder = 378226 #George VIII
+}
+1463.1.1={
+	holder = 378236	#Bagrat VI of Georgia
+	liege="d_egrisi"
+}
+1476.1.1={
+	liege="d_adyghea"
+	holder=386072
+}
+1492.1.1={
+	holder=386078
+}
+1530.1.1={
+	holder=386079
+}
+1542.1.1={
+	holder=386080
+}
+1559.1.1={
+	holder=386081
+}
+1595.1.1={
+	holder=386082
+}
+1629.1.1={
+	holder=386083
+}

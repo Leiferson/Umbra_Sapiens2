@@ -1,0 +1,240 @@
+757.1.1={
+	liege="d_palmyra"
+	holder=146129
+}
+799.1.1={
+	holder=146130
+}
+827.1.1={
+	holder=146131
+}
+866.1.1={
+	liege="d_jazira"
+}
+866.1.1={
+	holder = 163133
+}
+874.1.1={
+	liege = 0
+}
+936.1.1 = {
+	holder = 261003
+	liege = d_mosul
+}
+1066.1.1=
+{
+	holder=3822
+}
+1085.1.1=
+{
+	holder = 144016
+}
+1093.1.1=
+{
+	holder = 144017
+}
+1096.1.1=
+{
+	holder = 93402
+}
+1102.1.1=
+{
+	holder = 93403
+}
+1107.1.1=
+{
+	holder = 93404
+}
+1109.1.1=
+{
+	holder = 93405
+}
+1113.1.1=
+{
+	holder = 93406
+}
+1115.1.1=
+{
+	holder = 93407
+}
+1121.1.1=
+{
+	holder = 93408
+}
+1126.1.1=
+{
+	holder = 93409
+}
+1127.1.1=
+{
+	holder = 144029
+}
+1146.9.14=
+{
+	holder = 144030
+}
+1149.1.1=
+{
+	holder = 144032
+} 
+1170.9.16=
+{
+	holder = 144041
+}
+1180.1.1={
+	holder = 248139
+}
+1208.1.1={
+	holder = 248140
+}
+1241.1.1={
+	holder = 248141
+}
+1242.1.1={
+	holder = 248143 # Taken over by Yezidis somewhere around this time
+}
+1254.1.1={
+	holder = 248144
+}
+1258.1.1={
+	holder = 248146
+}
+1282.1.1={
+	holder = 248146
+}
+1284.1.1={
+	holder = 478008
+}
+1289.1.1={
+	holder = 248133 # Appointment by al-Dawla
+}
+1291.1.1=
+{
+	holder = 125525
+}
+1295.1.1=
+{
+	holder = 125522
+}
+1295.8.1=
+{
+	holder = 125524
+}
+1304.5.11=
+{
+	holder = 478007
+}
+1316.12.16=
+{
+	holder = 478006
+}	
+1320.1.1=
+{
+	holder=93307
+}
+1330.1.1=
+{
+	holder=478040
+	liege="d_baghdad"
+}
+1356.7.1={
+	holder=34520	#Shaykh Uways Jalayir
+}
+1374.10.10={
+	holder=385722	#Shaikh Hussain Jalayir
+}
+1382.5.1={
+	holder=385724	#Sultan Ahmed Jalayir
+}
+1407.1.1={
+	holder=385820	#Qara Yusuf
+	liege=k_qara_qoyunlu
+}
+1420.11.17={
+	holder=385824	#Qara Iskander ibn Yusuf
+}
+1436.1.1={
+	holder=385828	#Ispend bin Yusuf
+}
+1445.3.8={
+	holder=385826	#Jahan Shah ibn Yusuf
+}
+1467.11.11={
+	holder=385844	#Hasan Ali ibn Jahan Shah
+}
+1468.1.1={
+	holder=385857	#Uthman Beg
+	liege=k_aq_qoyunlu
+}
+1435.1.1={
+	holder=385863	#Ali Beg
+}
+1438.1.1={
+	holder=385864	#Hamza Beg
+}
+1444.1.1={
+	holder=385868	#Jahangir Aq Qoyunlu
+}
+1469.1.1={
+	holder=385869	#Uzun Hasan
+}
+1478.1.6={
+	holder=385877	#Sultan-Khalil
+}
+1478.6.15={
+	holder=385878	#Yaqub Aq Qoyunlu
+}
+1490.12.24={
+	holder=385887	#Baysunqur
+}
+1491.1.1={
+	holder=385897	#Rustam Beg
+}
+1497.1.1={
+	holder=385886	#Ahmad Beg
+}
+1497.12.14={
+	holder=385898	#Qasim Beg
+	liege="d_mesopotamia"
+}
+1501.1.1={
+	holder=385893	#Zayn al-Abidin 
+}
+1504.1.1={
+	holder = 385928	#Shah Ismail I
+	liege="k_persia"
+}
+1524.5.23={
+	holder = 385937	#Shah Tahmasab I
+}
+1534.1.1={
+	holder=378056	#Suleiman I
+	liege="e_ottomans"
+}
+1566.9.6={
+	holder=378068	#Selim II
+}
+1574.12.15={
+	holder=378092	#Murad III
+}
+1595.1.2={
+	holder=378103	#Mehmed III 
+}
+1603.12.22={
+	holder=378139	#Ahmed I
+}
+1617.11.22={
+	holder=378143	#Mustafa I
+}
+1618.2.26={
+	holder=378145	#Osman II
+}
+1622.5.20={
+	holder=378143	#Mustafa I
+}
+1623.9.10={
+	holder=378148	#Murad IV
+}
+1640.2.8={
+	holder=378154	#Ibrahim
+}

@@ -1,0 +1,280 @@
+654.1.1={
+	liege="d_azov"
+	holder=74004
+}
+662.1.1= {
+	holder=74005
+}
+704.1.1= {
+	holder=146195
+}
+743.1.1={
+	holder=146196
+}
+#756.1.1={
+#	holder=146198
+#}
+800.1.1={
+	holder=146199
+}
+801.1.1={
+	holder=146200
+}
+803.1.1={
+	holder=146199
+}
+805.1.1={
+	holder=74013
+}
+810.1.1={
+	holder=74014
+}
+825.1.1={
+	holder=74015
+}
+830.1.1={
+	holder=74016
+}
+861.1.1={
+	holder=74017
+}
+864.1.1={
+	holder=74025
+}
+886.1.1={
+	holder=74025
+}
+888.1.1={
+	holder=74026
+}
+899.1.1={
+	holder=146187
+}
+916.1.1={
+	holder=146188
+}
+920.1.1={
+	holder=146189
+}
+928.1.1={
+	holder=146190
+}
+936.1.1 = {
+	holder = 260702
+	liege = d_azov
+}
+945.1.1={
+	holder=146191
+}
+969.1.1={
+	holder=146193
+}
+993.1.1={
+	holder=146194
+}
+1016.1.1 = {
+	liege=0
+	holder=0
+}	
+1066.1.1=
+{
+liege="d_azov"
+}
+1066.1.1=
+{
+holder=20655
+}
+1089.1.1=
+{
+holder=228059
+}
+1110.1.1=
+{
+holder=479240
+}
+1150.1.1=
+{
+holder=34882
+}
+1180.1.1=
+{
+holder=34883
+}
+1210.1.1=
+{
+holder=34884
+}
+1238.1.1=
+{
+holder=34885
+}
+1270.1.1=
+{
+holder=34886
+}
+1300.1.1=
+{
+holder=34887
+}
+1315.1.1=
+{
+holder=34888
+}
+1340.1.1={
+holder=480000
+}
+1341.1.1={
+holder=125514	#Tinibeg
+}
+1342.1.2={
+holder=125515	#Jani Beg
+}
+1357.1.2={
+holder=384709	#Berdi Beg
+}
+1359.1.2={
+holder=384711	#Qulpa
+}
+1360.2.28={
+holder=384712	#Nawruz
+}
+1360.6.1={
+holder=384713	#Khidr Khan
+}
+1361.8.1={
+holder=384718	#Timur Khwaja
+}
+1361.9.1={
+holder=384725	#Ordu Malik
+}
+1361.10.1={
+holder=384727	#Kildi Beg
+}
+1362.9.2={
+holder=384730	#Abdallah
+}
+1370.6.1={
+holder=384731	#Muhammad Sultan (Golden Horde)
+}
+1379.1.1={
+holder=384733	#Tulak (Golden Horde)
+}
+1380.1.1={
+holder=384738	#Tokhtamysh
+}
+1395.1.1={
+holder=384777	#Quyurchuq
+}
+1397.1.1={
+holder=384759	#Temür Qutlugh
+}
+1399.1.1={
+holder=384763	#Shadi Beg
+}
+1407.1.1={
+holder=384761	#Pulad
+}
+1410.1.1={
+holder=384760	#Timur (Golden Horde)
+}
+1412.1.1={
+holder=384739	#Jalal al-Din Khan ibn Tokhtamysh
+}
+1412.10.27={
+holder=384740	#Karim Berdi
+}
+1413.1.1={
+holder=384741	#Kebek (Golden Horde)
+}
+1414.1.1={
+holder=384740	#Karim Berdi
+}
+1415.1.1={
+holder=384765	#Chekre
+}
+1416.1.1={
+holder=384742	#Jabbar Berdi
+}
+1417.1.1={
+holder=384768	#Darwish (Golden Horde)
+}
+1419.8.1={
+holder=384774	#Hajji Muhammad (Golden Horde)
+}
+1423.1.1={
+holder=384778	#Barak Khan
+}
+1429.1.1={
+holder=384780	#Ulugh Muhammad
+}
+1437.1.1={
+holder=384744	#Sayid Ahmad I
+}
+1455.1.1={
+holder=384747	#Küchük Muhammad
+}
+1459.1.1={
+holder=384786	#Mahmud bin Küchük
+}
+1465.1.1={
+holder=384787	#Ahmed Khan bin Küchük
+}
+1481.1.6={
+holder=384788	#Sheikh Ahmed
+}
+1502.6.1={
+	holder=384907	#Abdal-Karim Khan Astrakhani
+	liege=k_astrakhan
+}
+1504.1.1={
+	holder=384908	#Qasim II of Astrakhan
+}
+1532.1.1={
+	holder=384910	#Aq Kubek of Astrakhan
+}
+1534.1.1={
+	holder=384911	#Abdur Rahman Astrakhani
+}
+1538.1.1={
+	holder=384912	#Sheikh Haydar Astrakhani
+}
+1541.1.1={
+	holder=384910	#Aq Kubek of Astrakhan
+}
+1544.1.1={
+	holder=384914	#Yamghurchi of Astrakhan
+}
+1554.1.1={
+	holder=384915	#Dervish Ali Astrakhani
+}
+1556.1.1={
+holder=375015	#Ivan the Terrible
+liege="e_russia_2"
+}
+1584.3.28={
+holder=375031	#Feodor I of Russia
+}
+1598.1.6={
+holder=375035	#Irina Godunova
+}
+1598.2.21={
+holder=375036	#Boris Feodorovich Godunov 
+}
+1605.4.23={
+holder=375042	#Feodor II of Russia
+}
+1605.6.20={
+holder=375043	#False Dmitry I
+}
+1606.5.17={
+holder=375056	#Vasili IV of Russia
+}
+1610.7.17={
+holder=375052	#False Dmitry II
+}
+1610.12.21={
+holder=375055	#False Dmitry III
+}
+1612.7.2={
+holder=375078	#Michael of Russia
+}

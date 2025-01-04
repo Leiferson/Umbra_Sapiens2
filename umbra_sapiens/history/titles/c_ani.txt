@@ -78,42 +78,75 @@ holder=71865	#Ghiyath al-Din Muhammad
 1365.1.1={
 holder=379292	#Ali of Eretna
 }
-1380.8.1={
-holder=379295	#Muhammad II Chelebi
+1374.1.1={
+	holder=385817	#Bayram Khwaja
+	liege=k_qara_qoyunlu
 }
-1381.1.1={
-holder=379473	#Burhaneddin
+1378.1.1={
+	holder=385819	#Muhammad
 }
-1398.1.1={
-holder=379474	#Zayn al-Abidin
+1389.4.1={
+	holder=385820	#Qara Yusuf
 }
-1399.1.1={
-	holder=377939	#Bayezid I
-	liege=e_ottomans
+1420.11.17={
+	holder=385824	#Qara Iskander ibn Yusuf
 }
-1403.3.8={
-	holder=377952	#Isa Celebi 
+1436.1.1={
+	holder=385828	#Ispend bin Yusuf
 }
-1403.5.1={
-	holder=377954	#Mehmed I
+1445.3.8={
+	holder=385826	#Jahan Shah ibn Yusuf
 }
-1421.5.26={
-	holder=377966	#Murad II
+1467.11.11={
+	holder=385844	#Hasan Ali ibn Jahan Shah
 }
-1444.8.1={
-	holder=377984	#Mehmed II
+1468.1.1={
+	holder=385857	#Uthman Beg
+	liege=k_aq_qoyunlu
 }
-1446.9.1={
-	holder=377966	#Murad II
+1435.1.1={
+	holder=385863	#Ali Beg
 }
-1451.2.3={
-	holder=377984	#Mehmed II
+1438.1.1={
+	holder=385864	#Hamza Beg
 }
-1481.5.3={
-	holder=377993	#Bayezid II
+1444.1.1={
+	holder=385868	#Jahangir Aq Qoyunlu
 }
-1512.6.10={
+1469.1.1={
+	holder=385869	#Uzun Hasan
+}
+1478.1.6={
+	holder=385877	#Sultan-Khalil
+}
+1478.6.15={
+	holder=385878	#Yaqub Aq Qoyunlu
+}
+1490.12.24={
+	holder=385887	#Baysunqur
+}
+1491.1.1={
+	holder=385897	#Rustam Beg
+}
+1497.1.1={
+	holder=385886	#Ahmad Beg
+}
+1497.12.14={
+	holder=385900	#Alwand
+}
+1501.1.1={
+	holder=385888	#Sultan Murad (Aq Qoyunlu)
+}
+1502.1.1={
+	holder = 385928	#Shah Ismail I
+	liege="d_azerbaijan"
+}
+1503.1.1={
+	liege="k_persia"
+}
+1514.8.23={
 	holder=378008	#Selim I
+	liege="e_ottomans"
 }
 1520.9.22={
 	holder=378056	#Suleiman I

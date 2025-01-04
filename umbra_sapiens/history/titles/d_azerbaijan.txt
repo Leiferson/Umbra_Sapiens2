@@ -157,11 +157,19 @@
 {
 	holder = 478006
 }	
-1318.1.1=
-{
-	holder = 478006
-}
 1328.1.1=
 {
 	holder = 478033
+}
+1338.7.2={
+	liege=0
+}
+1343.12.15={
+	holder = 0
+}
+1501.1.1={
+	holder = 385928	#Shah Ismail I
+}
+1503.1.1={
+	holder = 0	#Becomes king of Persia
 }

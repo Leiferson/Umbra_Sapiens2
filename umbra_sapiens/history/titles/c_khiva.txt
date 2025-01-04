@@ -1,0 +1,198 @@
+710.1.1={
+	liege=d_samarkand
+}
+
+769.1.1={
+	holder = 188682 # Sa'id al-Harashi (fictitious holding assignment)
+}
+
+864.1.1={
+	holder = 163157
+}
+890.1.1={
+	holder=188599 # Muhammad
+}
+1041.1.1={
+	liege="k_khiva"
+}
+1041.1.1=
+{
+	holder = 3012
+}
+1052.1.1=
+{
+	holder=3014
+}
+1068.1.1=
+{
+	holder = 3016
+}
+1073.1.1=
+{
+	liege="d_turkestan"
+}
+1073.1.1=
+{
+	holder=20713
+}
+1096.1.1=
+{
+	holder = 144099
+}
+1127.1.1=
+{
+	holder = 144100
+}
+1156.1.1=
+{
+	holder = 144101
+} 
+1172.3.1=
+{
+	holder=230000
+}
+1200.1.1=
+{
+	holder=93052
+}
+1207.1.1=
+{
+	liege="d_merv"
+	holder=93053
+}
+1221.1.1={
+	liege=d_khiva
+	holder=248212
+}
+1271.1.1={
+	holder = 248213
+}
+1300.1.1={
+	holder = 248214
+}
+1338.1.1={
+	holder = 242111	#Yesun Temur
+}
+1339.1.1={
+	holder = 166918 #Ali Sultan
+}
+1342.1.1={
+	holder = 385109 #Muhammad I ibn Pulad
+}
+1343.1.1={
+	holder = 385111 #Qazan Khan ibn Yasaur	
+}
+1346.1.1={
+    holder = 385112 #Danishmendji
+}
+1348.1.1 = {
+	holder = 385118 #Bayan Qulï
+}
+1358.1.1={
+	holder = 385119 #Temurshah Khan 
+}
+1359.1.1={
+	holder = 385461	#Aq Sufii (1359–1361)
+}
+1361.1.1={
+	holder = 385462	#Husain (1361–1372)
+}
+1372.1.1={
+	holder = 385463	#Yusuf (1372–1379)
+}
+1379.1.1={
+	holder = 385179	#Timur
+}
+1405.2.18={
+	holder = 385275	#Khalil Sultan
+}
+1407.1.1={
+	holder = 385815	#Khydaidad Hussayni
+}
+1409.5.13={
+	holder = 385183	#Shah Rukh
+}
+1447.3.13={
+	holder = 385316	#Ala al-Dawla Mirza
+	liege=k_khorasan
+}
+1448.4.1={
+	holder = 385291	#Ulugh Beg
+	liege=k_khiva
+}
+1449.10.27={
+	holder=385317	#Abul-Qasim Babur Mirza
+	liege=k_khorasan
+}
+1449.12.1={
+	holder = 385318	#Sultan Muhammad (Timurid)
+	liege=k_persia
+}
+1451.4.1={
+	holder = 385317	#Abul-Qasim Babur Mirza
+	liege=k_khorasan
+}
+1457.1.1={
+	holder=385329	#Mirza Shah Mahmud
+}
+1457.2.1={
+	holder=385331	#Ibrahim Mirza (Timurid)
+}
+1458.8.1={
+	holder=385335 #Abu Sa'id Mirza
+}
+1469.2.8={
+	holder=385252 #Sultan Husayn Bayqara
+}
+1470.1.1={
+	holder=385327 #Yadgar Muhammad Mirza
+}
+1470.2.15={
+	holder=385252 #Sultan Husayn Bayqara
+}
+1506.5.4={
+	holder=385572 #Badi' al-Zaman Mirza
+}
+1507.1.1={
+	holder=385009	#Muhammad Shaybani
+}
+1510.12.2={
+	holder=385534	#Ilbars
+	liege=d_khiva
+}
+1518.1.1={
+	holder=385535	#Sultan Haji Khan 
+}
+1519.1.1={
+	holder=385536	#Hasankuli Khan  
+}
+1519.6.1={
+	holder=385537	#Sufiyan Khan 
+}
+1522.1.1={
+	holder=385538	#Budjuga Khan 
+}
+1526.1.1={
+	holder=385539	#Avanesh Khan 
+}
+1540.1.1={
+	holder=385551	#Kal Khan 
+}
+1547.1.1={
+	holder=385552	#Agatai-han  
+}
+1557.1.1={
+	holder=385547	#Dost-khan
+}
+1558.1.1={
+	holder=385559	#Haji Muhammad Khan
+}
+1602.1.1={
+	holder=385560	#Arab Muhammad Khan 
+}
+1621.1.1={
+	holder=385564	#Ilbars-sultan 
+}
+1623.1.1={
+	holder=385562	#Isfandiyar Khan
+}

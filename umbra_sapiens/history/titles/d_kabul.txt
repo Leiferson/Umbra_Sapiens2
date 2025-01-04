@@ -136,3 +136,83 @@
 	holder = 248191 # Kebek takes back control of the area
 	liege = e_chagatai
 }
+1338.1.1={
+	holder = 242111	#Yesun Temur
+}
+1339.1.1={
+	holder = 166918 #Ali Sultan
+}
+1342.1.1={
+	holder = 385109 #Muhammad I ibn Pulad
+}
+1343.1.1={
+	holder = 385111 #Qazan Khan ibn Yasaur	
+}
+1346.1.1={
+    holder = 385112 #Danishmendji
+}
+1348.1.1 = {
+	holder = 385118 #Bayan Qulï
+}
+1358.1.1={
+	holder = 385119 #Temurshah Khan 
+}
+1359.1.1={
+	holder = 385120	#Tughlugh Timur
+}
+1363.1.1={
+	holder = 385448	#Amir Husayn
+}
+1369.2.1={
+	holder = 385179	#Timur
+}
+1370.4.9={
+	liege="e_timurids"
+}
+1405.2.18={
+	holder = 385193	#Pir Muhammad (son of Jahangir)
+}
+1407.1.1={
+	holder = 385275	#Khalil Sultan
+}
+1409.1.1={
+	holder = 385183	#Shah Rukh
+}
+1447.3.13={
+	holder = 385291	#Ulugh Beg
+}
+1449.10.27={
+	holder=385409	#Abdal-Latif Mirza
+	liege=k_khiva
+}
+1450.5.9={
+	holder=385313	#Abdullah Mirza
+}
+1451.6.1={
+	holder=385335	#Abu Sa'id Mirza
+}
+1459.3.1={
+	liege=e_timurids
+}
+1469.2.8={
+	holder=385396	#Ulugh Beg Mirza II
+	liege=0
+}
+1502.1.1={
+	holder=385530	#Mukim Beg Arghun
+}
+1504.1.1={
+	holder=385430	#Babur
+}
+1530.12.26={
+	holder=385438	#Humayun
+}
+1556.1.27={
+	holder=385613	#Akbar
+}
+1605.10.27={
+	holder=385628	#Shahzada Salim/Jahangir
+}
+1627.10.28={
+	holder=385648	#Shah Jahan
+}
