@@ -26,7 +26,7 @@
 # 867 START -----------------------------------------------------------------------------------------------
 832.1.1={
 	clear_tribute_suzerain = d_kartli
-	clear_tribute_suzerain = e_arabia
+	set_tribute_suzerain = e_arabia
 	holder=555203
 }
 896.1.1={
