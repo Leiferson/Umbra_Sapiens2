@@ -1,0 +1,82 @@
+741.1.1={
+	holder = 189005
+}
+781.1.1 = {
+	holder = 0
+}
+1017.1.1= {
+liege="k_tamilakam" #Subdued by Cholas
+}
+1056.1.1= {
+liege=0 #Independence
+}
+1212.1.1={
+	holder = 189128
+}
+1215.1.1={
+	holder = 189141
+}
+1236.1.1={
+	holder = 189142
+}
+1258.1.1= {
+liege="k_tamilakam" #Vassalage to Pandyas
+}
+1284.1.1={
+	holder = 189143
+}
+1292.1.1={
+	holder = 189144
+}
+1302.1.1={
+	holder = 189145
+}
+1323.1.1= {
+liege=0 #Fragmentation of Pandyan control
+}
+1325.1.1={
+	holder = 189146
+}
+1348.1.1={
+	holder = 386992
+}
+1371.1.1={
+	holder = 386993
+}
+1380.1.1={
+	holder = 386994
+}
+1410.1.1={
+	holder = 386995
+}
+1440.1.1={
+	holder = 386996
+}
+1450.1.1={
+	holder=386991	#Bhuvanaikabahu VI
+	liege=d_lanka
+}
+1467.1.1={
+	holder=386996
+	liege=0
+}
+1478.1.1={
+	holder = 386997
+}
+1519.1.1={
+	holder = 386998
+}
+1565.1.1={
+	holder = 386999
+}
+1591.1.1={
+	holder = 387000
+}
+1617.1.1={
+	holder = 387001
+	set_tribute_suzerain = k_portuguese_india
+}
+1619.1.1={
+	holder = 0
+	clear_tribute_suzerain = k_portuguese_india
+}

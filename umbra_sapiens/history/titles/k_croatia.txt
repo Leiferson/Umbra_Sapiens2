@@ -120,12 +120,14 @@ holder=370434	#Mary, Queen of Hungary
 }
 1395.5.17={
 holder=370403	#Sigismund, Holy Roman Emperor
+liege = "e_hre"
 }
 1437.12.9 = {
 holder=370431	#Albert II of Germany
 }
 1439.10.27={
 holder=371729	#Wladyslaw III of Poland of Poland
+liege=0
 }
 1440.7.17={
 holder=371947	#Ladislaus the Posthumous

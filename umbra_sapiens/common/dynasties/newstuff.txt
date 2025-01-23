@@ -39,11 +39,11 @@
 	culture = german
 }
 1010043010= {
-	name="Bugenhagen "
+	name="Bugenhagen"
 	culture = german
 }
 1010043011= {
-	name="Karlstadt "
+	name="Karlstadt"
 	culture = german
 }
 1010043012= {
@@ -8263,4 +8263,199 @@
 	name="Dadeshkeliani"
 	religion="orthodox"
 	culture="georgian"
+}
+1010044652= {
+	name="Zaidid"
+	religion="shiite"
+	culture="bedouin_arabic"
+}
+1010044653= {
+	name="Mustafayid"
+	religion="sunni"
+	culture="turkish"
+}
+1010044654= {
+	name="Özdemirid"
+	religion="sunni"
+	culture="turkish"
+}
+1010044655= {
+	name="Ridwanid"
+	religion="sunni"
+	culture="turkish"
+}
+1010044656= {
+	name="Jafarid"
+	religion="sunni"
+	culture="turkish"
+}
+1010044657= {
+	name="Ahmad"
+	religion="sunni"
+	culture="turkish"
+}
+1010044658= {
+	name="Haydarid"
+	religion="sunni"
+	culture="turkish"
+}
+1010044659= {
+	name="Aydinid"
+	religion="sunni"
+	culture="turkish"
+}
+1010044660= {
+	name="Qansuhyid"
+	religion="sunni"
+	culture="turkish"
+}
+1010044661= {
+	name="Qasimid"
+	religion="shiite"
+	culture="bedouin_arabic"
+}
+1010044662= {
+	name="Kathirid"
+	religion="sunni"
+	culture="bedouin_arabic"
+}
+1010044663= {
+	name="Yarubid"
+	religion="ibadi"
+	culture="bedouin_arabic"
+}
+1010044664= {
+	name="Ba Dujana"
+	religion="sunni"
+	culture="bedouin_arabic"
+}
+1010044665= {
+	name="Jabrid"
+	religion="sunni"
+	culture="bedouin_arabic"
+}
+1010044666= {
+	name="Sadoonid"
+	religion="sunni"
+	culture="bedouin_arabic"
+}
+1010044667= {
+	name="de Almeida"
+	religion="catholic"
+	culture="portuguese"
+}
+1010044668= {
+	name="de Albuquerque"
+	religion="catholic"
+	culture="portuguese"
+}
+1010044669= {
+	name="de Alvarenga"
+	religion="catholic"
+	culture="portuguese"
+}
+1010044670= {
+	name="de Sequeira"
+	religion="catholic"
+	culture="portuguese"
+}
+1010044671= {
+	name="da Gama"
+	religion="catholic"
+	culture="portuguese"
+}
+1010044672= {
+	name="de Sampaio"
+	religion="catholic"
+	culture="portuguese"
+}
+1010044673= {
+	name="de Noronha"
+	religion="catholic"
+	culture="portuguese"
+}
+1010044674= {
+	name="Cabral"
+	religion="catholic"
+	culture="portuguese"
+}
+1010044675= {
+	name="Teles de Meneses"
+	religion="catholic"
+	culture="portuguese"
+}
+1010044676= {
+	name="Malafaya"
+	religion="catholic"
+	culture="portuguese"
+}
+1010044677= {
+	name="de Sousa Coutinho"
+	religion="catholic"
+	culture="portuguese"
+}
+1010044678={
+	name="da Silva"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044679={
+	name="Barreto"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044680={
+	name="Moniz Barreto"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044681={
+	name="Furtado"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044682={
+	name="de Brito"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044683={
+	name="de Mendonça Furtado"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044684={
+	name="de Saldanha"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044685={
+	name="de Távora"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044686={
+	name="Botelho"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044687={
+	name="Alagakkonara"
+	culture="sinhala"
+	religion="catholic"
+}
+1010044688={
+	name="Siri Sanga Bo"
+	culture="sinhala"
+	religion="catholic"
+}
+1010044689={
+	name="Bandara"
+	culture="sinhala"
+	religion="catholic"
+}
+1010044690={
+	name="Saluva"
+	culture="kannada"
+	religion="catholic"
 }

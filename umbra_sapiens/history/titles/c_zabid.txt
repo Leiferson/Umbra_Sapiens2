@@ -1,0 +1,239 @@
+# c_zabid
+630.1.1={
+	liege="d_sanaa"
+}
+
+768.1.1={
+	holder = 188742
+}
+
+818.1.1={
+	liege=0
+	holder = 188736 # Muhammad Ziyadid
+}
+859.1.1={
+	holder = 188737 # Ibrahim
+}
+896.1.1={
+	holder = 188738 # Ziyad
+}
+911.1.1={
+	holder = 188739 # Ishaq
+}
+981.1.1={
+	holder = 188740 # Abdallah
+}
+1012.1.1={
+	holder = 188741 # Ibrahim
+}
+1022.1.1={ #Nadjahid takeover after Ziyadids
+	holder=220846 # Nadjah Nadjahid
+}
+1060.3.1 = {
+	holder=45035 # Ali Sulayhid - Murdered Nadjah and ousted the dynasty
+}
+1067.5.9={
+	holder=220848 # Sa'id Nadjahid - Murdered Ali and took control over Zabid
+}
+1069.10.5={
+	holder=45036 # Al-Mukarram Sulayhid - Drove away Nadjahids to Dahlak
+}
+1074.4.10 = {
+holder=220820 # Arwa Sulayhid - al-Sayyida
+}
+1086.3.19 = {
+	holder=220848 # Sa'id Nadjahid - Returned from Dahlak
+}
+1088.7.15 = {
+	holder=220820 # Arwa Sulayhid - Murdered Sa'id and took control over Zabid
+}
+1089.10.9 = {
+	holder=220849 # Djayyash Nadjahid - Returned from India
+}
+1107.7.15 = { 
+	holder=220820 # Arwa Sulayhid - Murdered Djayyash and took control over Zabid
+}
+1111.4.19 = {
+	liege=d_sanaa
+	holder=220853 # Infant Al-Mansur Nadjahid installed as ruler of Zabid by Arwa
+}
+1124.5.10 = {
+	holder=220854
+}
+1137.10.26 = {
+	holder=220857
+}
+1138.3.12 = { #Death of Arwa Sulayhid
+	liege=0
+}
+1158.6.23 = { # Mahdid takeover of Zabid
+	holder=220862
+}
+1159.9.21 = {
+	holder=220863
+}
+1163.10.5 = {
+	holder=220864
+}
+1164.1.17 = {
+	holder=220865
+}
+1164.6.1 = {
+	holder=220864
+}
+1173.1.1 = { # Ayyubid conquest by Turanshah brother of Saladin
+	liege = d_sanaa
+	holder = 32914
+}
+1176.1.1={
+	holder = 32916
+}
+1197.1.1={
+	holder = 144092
+}
+1202.1.1={
+	holder = 144093
+}
+1203.1.1={
+	holder = 32929
+}
+1229.1.1={
+	holder = 144094
+}
+1250.1.1={
+	holder = 144095
+}
+1295.1.1={
+	holder = 144096
+}
+1296.1.1={
+	holder = 144097
+}
+1322.1.1={
+	holder = 144098
+}	
+1363.1.1={
+	holder = 386297
+}
+1377.1.1={
+	holder = 386298
+}
+1400.1.1={
+	holder = 386299
+}
+1424.1.1={
+	holder = 386300
+}
+1427.1.1={
+	holder = 386301
+}
+1428.1.1={
+	holder = 386302
+}
+1439.1.1={
+	holder = 386303
+}
+1441.1.1={
+	holder = 386304
+}
+1443.1.1={
+	holder = 386305
+}
+1454.1.1={
+	holder = 386307	#Az-Zafir Amir I bin Tahir (1454–1460)
+}
+1460.1.1={
+	holder = 386308	#Al-Mujahid Ali bin Tahir (1460–1479), brother
+}
+1479.1.1={
+	holder = 386310	#Al-Mansur Abd al-Wahhab bin Da'ud bin Tahir (1479–1489)
+}
+1489.1.1={
+	holder = 386311	#Az-Zafir Amir II bin Abd al-Wahhab (1489–1517)
+}
+1506.9.1={
+	liege="k_yemen"
+}
+1517.5.15={
+	holder=379191	#Yunus Pasha (c. 1516)
+	liege=e_ottomans
+}
+1517.9.13={
+	holder=379091	#Hayir Bey
+}
+1522.1.1={
+	holder=379092	#Çoban Mustafa Pasha
+}
+1523.1.1={
+	holder=379093	#Hain Ahmed Pasha
+}
+1524.1.1={
+	holder=379094	#Güzelce Kasim Pasha
+}
+1525.1.1={
+	holder=379095	#Pargalı Ibrahim Pasha
+}
+1525.3.1={
+	holder=379094	#Güzelce Kasim Pasha
+}
+1525.6.1={
+	holder=379096	#Hadim Süleyman Pasha
+}
+1535.1.1={
+	holder=379097	#Divane Hüsrev Pasha
+}
+1537.1.1={
+	holder=379096	#Hadim Süleyman Pasha
+}
+1538.1.1={
+	holder=379098	#Davud Pasha
+}
+1538.8.3={
+	holder = 386321	#Mustafa Pasha al-Nashshar
+	liege="k_yemen"
+}
+1549.1.1={
+	holder = 386322	#Özdemir Pasha (1549–1554)
+}
+1554.1.1={
+	holder = 386321	#Mustafa Pasha al-Nashshar (1554–1555/56)
+}
+1556.1.1={
+	holder = 379103	#Kara Shahin Mustafa Pasha (1556–1560)	379103
+}
+1560.1.1={
+	holder = 379105	#Mahmud Pasha (1561–1565) 379105
+}
+1565.1.1={
+	holder = 386323	#Ridwan Pasha (1565–1567)
+}
+1567.1.1={
+	holder = 386324	#Özdemiroglu Osman Pasha (1569–1573)
+}
+1573.1.1={
+	holder = 379046	#Murad Pasha (1576–1580) 379046
+}
+1580.1.1={
+	holder = 379119	#Hasan Pasha (1580–1604) 379119
+}
+1604.1.1={
+	holder = 386325	#Hasan Pasha (1580–1604) 379119
+}
+1620.1.1={
+	holder = 379121	#Mehmed Pasha (1616–1621) 379121
+}
+1621.1.1={
+	holder = 386326	#Ahmad Fadli Pasha (1622–1624)
+}
+1624.1.1={
+	holder = 386327	#Haydar Pasha (1624–1629)
+}
+1629.1.1={
+	holder = 386328 #Aydin Pasha (1628–1630)
+}
+1630.1.1={
+	holder = 386329	#Qansuh Pasha (1629–1636)
+}
+1635.1.1={
+	holder= 386331	#Al-Mu'ayyad Muhammad
+}

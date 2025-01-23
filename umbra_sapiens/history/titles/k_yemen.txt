@@ -1,0 +1,134 @@
+1063.1.1 = {
+holder=45035 # Ali Sulayhid
+}
+1067.5.9 = {
+holder=45036 # Al-Mukarram Sulayhid
+}
+1074.4.10 = {
+holder=220820 # Arwa Sulayhid - al-Sayyida
+}
+1138.3.12 = {
+holder=0 #Yemen was split between local rulers after Arwa until the Ayyubid conquest
+}
+### Rassulids
+1229.1.1={
+	holder = 144094
+}
+1250.1.1={
+	holder = 144095
+}
+1295.1.1={
+	holder = 144096
+}
+1296.1.1={
+	holder = 144097
+}
+1322.1.1={
+	holder = 144098
+}
+1363.1.1={
+	holder = 386297
+}
+1377.1.1={
+	holder = 386298
+}
+1400.1.1={
+	holder = 386299
+}
+1424.1.1={
+	holder = 386300
+}
+1427.1.1={
+	holder = 386301
+}
+1428.1.1={
+	holder = 386302
+}
+1439.1.1={
+	holder = 386303
+}
+1441.1.1={
+	holder = 386304
+}
+1443.1.1={
+	holder = 386305
+}
+1454.1.1={
+	holder = 386307	#Az-Zafir Amir I bin Tahir (1454–1460)
+}
+1460.1.1={
+	holder = 386308	#Al-Mujahid Ali bin Tahir (1460–1479), brother
+}
+1479.1.1={
+	holder = 386310	#Al-Mansur Abd al-Wahhab bin Da'ud bin Tahir (1479–1489)
+}
+1489.1.1={
+	holder = 386311	#Az-Zafir Amir II bin Abd al-Wahhab (1489–1517)
+}
+1517.5.15={
+	holder = 386312	#Ahmad bin Amir (1517–1518) Entire realm falls to Mamluks
+}
+1518.1.1={
+	holder = 386318	#Amir bin Abd al-Malik (1518–1519)
+}
+1519.1.1={
+	holder = 386314	#Ahmad bin Muhammad (1519–1520)
+}
+1520.1.1={
+	holder = 386315	#Abd al-Malik bin Muhammad (1520–1527)
+}
+1527.1.1={
+	holder = 386317	#Amir bin Da'ud (1527?–1538)
+}
+1538.8.3={
+	holder = 386321	#Mustafa Pasha al-Nashshar
+	liege="e_ottomans"
+	vice_royalty = yes
+}
+1549.1.1={
+	holder = 386322	#Özdemir Pasha (1549–1554)
+}
+1554.1.1={
+	holder = 386321	#Mustafa Pasha al-Nashshar (1554–1555/56)
+}
+1556.1.1={
+	holder = 379103	#Kara Shahin Mustafa Pasha (1556–1560)	379103
+}
+1560.1.1={
+	holder = 379105	#Mahmud Pasha (1561–1565) 379105
+}
+1565.1.1={
+	holder = 386323	#Ridwan Pasha (1565–1567)
+}
+1567.1.1={
+	holder = 386324	#Özdemiroglu Osman Pasha (1569–1573)
+}
+1573.1.1={
+	holder = 379046	#Murad Pasha (1576–1580) 379046
+}
+1580.1.1={
+	holder = 379119	#Hasan Pasha (1580–1604) 379119
+}
+1604.1.1={
+	holder = 386325	#Hasan Pasha (1580–1604) 379119
+}
+1620.1.1={
+	holder = 379121	#Mehmed Pasha (1616–1621) 379121
+}
+1621.1.1={
+	holder = 386326	#Ahmad Fadli Pasha (1622–1624)
+}
+1624.1.1={
+	holder = 386327	#Haydar Pasha (1624–1629)
+}
+1629.1.1={
+	holder = 386328 #Aydin Pasha (1628–1630)
+}
+1630.1.1={
+	holder = 386329	#Qansuh Pasha (1629–1636)
+}
+1635.1.1={
+	holder= 386331	#Al-Mu'ayyad Muhammad
+	vice_royalty = no
+	liege=0
+}

@@ -1556,6 +1556,14 @@ e_china = {
 				b_kuokonzsih = {
 				}
 			}
+		}
+			d_macau={
+			
+				capital = 4868 # Macau
+				
+				color={ 218 66 55 }
+				color2={ 255 255 255 }
+				
 			c_hongkong = {
 				color={ 208 76 45 }
 				color2={ 255 255 255 }

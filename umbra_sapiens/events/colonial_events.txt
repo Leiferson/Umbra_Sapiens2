@@ -1088,9 +1088,15 @@ narrative_event = {
 		}
 		prestige = 500
 		wealth = 500
+		k_portuguese_india = {
+		de_jure_liege=PREV
 		}
 		}
-
+		activate_title = {
+		title = k_portuguese_india
+		status = yes
+		}
+		}
 	option = {
 		name = {
 			text = EVTOPTAcolonialevents.32
@@ -1138,8 +1144,30 @@ narrative_event = {
 		limit = {
 		is_portugal = yes
 		}
+		k_portuguese_brasil = {
+		de_jure_liege=PREV
+		}
 		prestige = 500
 		wealth = 500
+		}
+		activate_title = {
+		title = k_portuguese_brasil
+		status = yes
+		}
+		d_sao_paulo={
+			de_jure_liege=k_portuguese_brasil
+		}
+		d_rio_de_janeiro={
+			de_jure_liege=k_portuguese_brasil
+		}
+		d_bahia={
+			de_jure_liege=k_portuguese_brasil
+		}
+		d_pernambuco={
+			de_jure_liege=k_portuguese_brasil
+		}
+		d_ceara={
+			de_jure_liege=k_portuguese_brasil
 		}
 		}
 

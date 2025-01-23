@@ -1,0 +1,173 @@
+# c_al_ahqaf
+
+768.1.1={
+	liege="d_sanaa"
+	holder = 251003
+}
+
+775.1.1={
+	liege=0
+	holder = 251004
+}
+
+847.1.1={
+	holder = 251005
+}
+
+# Yufirids should continue ruling until 997 with a brief Rassid rule from 905-916
+
+881.1.1={
+	liege="d_sanaa"
+	holder=159399 # Rassids
+}
+911.1.1={
+	holder=159400
+}
+922.1.1={
+	holder=159401
+}
+934.1.1 = {
+	holder = 159403
+}
+968.1.1={
+	holder=159405
+}
+998.1.1={
+	holder=159409
+}
+1010.1.1={
+	holder=159410
+}
+1066.1.1 = {
+liege = "d_sanaa"
+holder=45049
+}
+1068.1.1 = {
+holder=45050
+}
+1099.1.1 = {
+liege=0
+holder=45051
+}
+1101.5.10 = { # death of Arwa's second husband Saba
+	liege = d_sanaa
+}
+1109.1.1 = {
+holder=45052
+}
+1111.1.1 = {
+holder=45053
+}
+1116.1.1 = {
+holder=45054
+}
+1117.1.1 = {
+holder=45055
+}
+1137.1.1 = {
+holder=45058
+}
+1138.1.1 = {
+holder=45059
+liege=0
+}
+1173.1.1 = { # Ayyubid conquest by Turanshah brother of Saladin
+	liege = d_sanaa
+	holder = 32914
+}
+1176.1.1={
+	holder = 32916
+}
+1197.1.1={
+	holder = 144092
+}
+1202.1.1={
+	holder = 144093
+}
+1203.1.1={
+	holder = 32929
+}
+1229.1.1={
+	holder = 144094
+}
+1250.1.1={
+	holder = 144095
+}
+1295.1.1={
+	holder = 144096
+}
+1296.1.1={
+	holder = 144097
+}
+1322.1.1={
+	holder = 144098
+}
+1363.1.1={
+	holder = 386297
+}
+1377.1.1={
+	holder = 386298
+}
+1400.1.1={
+	holder = 386299
+}
+1424.1.1={
+	holder = 386300
+}
+1427.1.1={
+	holder = 386301
+}
+1428.1.1={
+	holder = 386302
+}
+1439.1.1={
+	holder = 386303
+}
+1441.1.1={
+	holder = 386304
+}
+1443.1.1={
+	holder = 386305
+}
+1454.1.1={
+	holder = 386307	#Az-Zafir Amir I bin Tahir (1454–1460)
+}
+1460.1.1={
+	holder = 386308	#Al-Mujahid Ali bin Tahir (1460–1479), brother
+}
+1479.1.1={
+	holder = 386310	#Al-Mansur Abd al-Wahhab bin Da'ud bin Tahir (1479–1489)
+}
+1489.1.1={
+	holder = 386311	#Az-Zafir Amir II bin Abd al-Wahhab (1489–1517)
+}
+1506.9.1={
+	holder=386319	#Al-Mutawakkil Yahya Sharaf ad-Din
+	liege=d_sanaa
+}
+1555.3.27={
+	holder=386320	#Al-Mutahhar bin Yahya Sharaf ad-Din
+}
+1572.11.9={
+	holder = 386324	#Özdemiroglu Osman Pasha (1569–1573)
+	liege="k_yemen"
+}
+1573.1.1={
+	holder = 379046	#Murad Pasha (1576–1580) 379046
+}
+1580.1.1={
+	holder = 379119	#Hasan Pasha (1580–1604) 379119
+}
+1604.1.1={
+	holder = 386325	#Hasan Pasha (1580–1604) 379119
+}
+1607.1.1={
+	holder= 386330	#Al-Mansur al-Qasim
+	liege="d_sanaa"
+}
+1620.2.19={
+	holder= 386331	#Al-Mu'ayyad Muhammad
+}
+1635.1.1={
+	liege="k_yemen"
+}

@@ -1,0 +1,212 @@
+# c_bayda
+630.1.1={
+	liege="d_sanaa"
+}
+
+768.1.1={
+	holder = 188743
+}
+
+840.1.1={
+	holder=159397
+}
+851.1.1={
+	holder=159398
+}
+881.1.1={
+	holder=159399
+}
+911.1.1={
+	holder=159400
+}
+922.1.1 = {
+	holder = 159401
+}
+934.1.1 = {
+	holder = 159402
+}
+937.1.1 = {
+	holder = 159403
+}
+968.1.1={
+	holder=159405
+}
+998.1.1={
+	holder=159409
+}
+1010.1.1={
+	holder=159410
+}
+1018.1.1={
+	holder = 220847 # Nadjahids
+	liege = d_sanaa
+}
+
+1038.1.1 = { # Seized by Banu Man
+	holder = 220858
+}
+1059.3.30 = {
+	holder = 220859
+}
+1078.5.1 = {
+	holder = 220860
+}
+1083.1.1 = {
+	liege = 0 # Banu Man stopped paying tribute
+}
+1084.1.1 = { # Recaptured by Arwa Sulayhid
+	holder = 220836 # Abbas Zurayid
+	liege = d_sanaa
+}
+1087.1.2 = {
+	holder = 220838
+}	
+1110.3.19 = {
+	holder = 220839
+	liege = 0 # stopped paying tribute to Sulayhid
+}
+1111.4.17 = {
+	liege = d_sanaa # Forced to pay (half) tribute again
+}	
+# Stopped and forced to pay half tribute again, which even this tribute was ignored after that
+1125.6.17 = {
+	holder = 220861
+}
+1137.11.22 = {
+	holder = 220843
+}	
+1139.11.22 = {
+	holder = 220844
+}	
+1153.1.17 = {
+	holder = 220868
+}	
+1166.12.10 = {
+	holder = 220869
+}
+1174.6.22 = { # Ayyubid conquest by Turanshah brother of Saladin
+	liege = d_sanaa
+	holder = 32914
+}
+1176.1.1 = {
+	holder = 32916
+}
+1197.1.1={
+	holder = 144092
+}
+1202.1.1={
+	holder = 144093
+}
+1203.1.1={
+	holder = 32929
+}
+1229.1.1={
+	holder = 144094
+}
+1250.1.1={
+	holder = 144095
+}
+1295.1.1={
+	holder = 144096
+}
+1296.1.1={
+	holder = 144097
+}
+1322.1.1={
+	holder = 144098
+}	
+1363.1.1={
+	holder = 386297
+}
+1377.1.1={
+	holder = 386298
+}
+1400.1.1={
+	holder = 386299
+}
+1424.1.1={
+	holder = 386300
+}
+1427.1.1={
+	holder = 386301
+}
+1428.1.1={
+	holder = 386302
+}
+1439.1.1={
+	holder = 386303
+}
+1441.1.1={
+	holder = 386304
+}
+1443.1.1={
+	holder = 386305
+}
+1454.1.1={
+	holder = 386307	#Az-Zafir Amir I bin Tahir (1454–1460)
+}
+1460.1.1={
+	holder = 386308	#Al-Mujahid Ali bin Tahir (1460–1479), brother
+}
+1479.1.1={
+	holder = 386310	#Al-Mansur Abd al-Wahhab bin Da'ud bin Tahir (1479–1489)
+}
+1489.1.1={
+	holder = 386311	#Az-Zafir Amir II bin Abd al-Wahhab (1489–1517)
+}
+1506.9.1={
+	liege="k_yemen"
+}
+1517.5.15={
+	holder = 386312	#Ahmad bin Amir (1517–1518) Entire realm falls to Mamluks
+}
+1518.1.1={
+	holder = 386318	#Amir bin Abd al-Malik (1518–1519)
+}
+1519.1.1={
+	holder = 386314	#Ahmad bin Muhammad (1519–1520)
+}
+1520.1.1={
+	holder = 386315	#Abd al-Malik bin Muhammad (1520–1527)
+}
+1527.1.1={
+	holder = 386317	#Amir bin Da'ud (1527?–1538)
+}
+1534.1.1={
+	holder=386319	#Al-Mutawakkil Yahya Sharaf ad-Din
+	liege=d_sanaa
+}
+1555.3.27={
+	holder=386320	#Al-Mutahhar bin Yahya Sharaf ad-Din
+}
+1572.11.9={
+	holder = 386324	#Özdemiroglu Osman Pasha (1569–1573)
+	liege="k_yemen"
+}
+1573.1.1={
+	holder = 379046	#Murad Pasha (1576–1580) 379046
+}
+1580.1.1={
+	holder = 379119	#Hasan Pasha (1580–1604) 379119
+}
+1604.1.1={
+	holder = 386325	#Hasan Pasha (1580–1604) 379119
+}
+1620.1.1={
+	holder = 379121	#Mehmed Pasha (1616–1621) 379121
+}
+1621.1.1={
+	holder = 386326	#Ahmad Fadli Pasha (1622–1624)
+}
+1624.1.1={
+	holder = 386327	#Haydar Pasha (1624–1629)
+}
+1629.1.1={
+	holder = 386328 #Aydin Pasha (1628–1630)
+}
+1630.1.1={
+	holder = 386329	#Qansuh Pasha (1629–1636)
+}
+1635.1.1={
+	holder= 386331	#Al-Mu'ayyad Muhammad
+}

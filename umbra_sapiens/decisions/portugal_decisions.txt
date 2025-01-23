@@ -394,6 +394,7 @@ create_avis_order = {
 		
 		potential = {
 			year > 1174
+			year < 1383
 			is_portugal = yes
 			NOT = { is_title_active = d_knights_avis }
 			NOR = {
@@ -2568,12 +2569,12 @@ change_portugal_empire_7 = {
 			}
 			any_title = {
 			limit = {
-			de_jure_liege = e_portugal_13
+			de_jure_liege = e_portugal_14
 			}
 				show_scope_change = no
-				de_jure_liege = e_portugal_14
+				de_jure_liege = e_portugal_15
 			}
-			destroy_landed_title = e_portugal_13
+			destroy_landed_title = e_portugal_14
 		}
 		ai_will_do = {
 			factor = 1
@@ -2632,6 +2633,934 @@ change_portugal_empire_7 = {
 				de_jure_liege = e_portugal_16
 			}
 			destroy_landed_title = e_portugal_15
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_rio_grande_do_sul = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_rio_grande_do_sul
+			d_rio_grande_do_sul={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_rio_grande_do_sul={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_guayra = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_guayra
+			d_guayra={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_guayra={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_minas_gerais = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_minas_gerais
+			d_minas_gerais={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_minas_gerais={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_diamantina = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_diamantina
+			d_diamantina={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_diamantina={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_sao_francisco = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_sao_francisco
+			d_sao_francisco={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_sao_francisco={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_piaui = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_piaui
+			d_piaui={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_piaui={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_maranhao = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_maranhao
+			d_maranhao={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_maranhao={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_goias = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_goias
+			d_goias={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_goias={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_pontal = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_pontal
+			d_pontal={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_pontal={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_grao_para = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_grao_para
+			d_grao_para={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_grao_para={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_ofaie = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_ofaie
+			d_ofaie={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_ofaie={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_mato_grosso = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_mato_grosso
+			d_mato_grosso={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_mato_grosso={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_amapa = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_amapa
+			d_amapa={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_amapa={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_eastern_amazon = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_eastern_amazon
+			d_eastern_amazon={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_eastern_amazon={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_guapore = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_guapore
+			d_guapore={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_guapore={
+				de_jure_liege = k_portuguese_brasil
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expand_brasil_uruguay = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+			is_portugal=yes
+			OR = {
+			has_landed_title = k_portuguese_brasil
+			any_realm_character = {
+			has_landed_title = k_portuguese_brasil
+			}
+			}
+			completely_controls = d_uruguay
+			d_uruguay={
+				NOT = { de_jure_liege = k_portuguese_brasil }
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			d_uruguay={
+				de_jure_liege = k_portuguese_brasil
+			}
 		}
 		ai_will_do = {
 			factor = 1

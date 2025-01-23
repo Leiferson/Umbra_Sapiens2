@@ -26699,15 +26699,23 @@ e_persia = {
 				}
 			}
 		}
-		d_kerman = {
-			color={ 98 118 63 }
+		d_hormuz = {
+			
+			color={ 116 136 81 }
 			color2={ 255 255 255 }
 			
-			capital = 639 # Kerman
+			capital = 641 # Hormuz
+			portuguese="Ormuz"
+			
 			c_qeshm = {
+			
 				color={ 150 164 90 }
 				color2={ 255 255 255 }
+				
+				portuguese="Queixume"
+				
 				b_qeshm = {
+				portuguese="Queixume"
 				} 
 				b_tabl = {
 				}
@@ -26720,6 +26728,36 @@ e_persia = {
 				b_salakh = {
 				}
 			}
+			c_hormuz = {
+			
+				color={ 106 126 71 }
+				color2={ 255 255 255 }
+				
+				portuguese="Ormuz"
+				
+				b_gombroon = {
+				}
+				b_abarkawan = {
+				}
+				b_jiroth = {
+				}
+				b_abu_musa = {
+				}
+				b_minab = {
+				}
+				b_kish = {
+				}
+				b_bam = {
+				}
+				b_fin = {
+				}
+			}
+		}
+		d_kerman = {
+			color={ 98 118 63 }
+			color2={ 255 255 255 }
+			
+			capital = 639 # Kerman
 			c_kerman = {
 				color={ 110 130 75 }
 				color2={ 255 255 255 }
@@ -26763,27 +26801,6 @@ e_persia = {
 				}
 			}
 			
-			c_hormuz = {
-				color={ 106 126 71 }
-				color2={ 255 255 255 }
-				
-				b_gombroon = {
-				}
-				b_abarkawan = {
-				}
-				b_jiroth = {
-				}
-				b_abu_musa = {
-				}
-				b_minab = {
-				}
-				b_kish = {
-				}
-				b_bam = {
-				}
-				b_fin = {
-				}
-			}
 			c_sirjan = {
 				color={ 118 138 83 }
 				color2={ 255 255 255 }
@@ -37819,8 +37836,10 @@ e_maghreb = {
 
 				#holy_site = aztec
 				#holy_site = aztec_reformed
+				portuguese="Marraquexe"
 				
 				b_marrakech = {
+				portuguese="Marraquexe"
 				}
 				b_sidirahhal = {
 				}
@@ -37838,8 +37857,11 @@ e_maghreb = {
 			c_anti-atlas = { # Safi
 				color={ 51 158 40 }
 				color2={ 255 255 255 }
+				portuguese="Safim"
 				
-				b_safi = {}
+				b_safi = {
+					portuguese="Safim"
+				}
 				b_agadir = {}
 				b_argana = {}
 				b_illrh = {}
@@ -37853,9 +37875,12 @@ e_maghreb = {
 			c_massat = { # Anfa
 				color={ 53 160 42 }
 				color2={ 255 255 255 }
+				portuguese="Mazagao"
 				
 				b_anfa = {}
-				b_mazaghan = {}
+				b_mazaghan = {
+				portuguese="Mazagao"
+				}
 				b_fadala = {}
 				b_azammut = {}
 				b_amerchen = {} # Fictional, for prosperity
@@ -37896,16 +37921,20 @@ e_maghreb = {
 			c_tangiers = {
 				color={ 51 255 9 }
 				color2={ 255 255 255 }
-			
+				portuguese="Tanger"
 				b_tangiers = {
+				portuguese="Tanger"
 				}
 				b_laraiche = {
+				portuguese="Larache"
 				}
 				b_mulaybuselham = {
 				}
 				b_alcazarquivir = {
+				portuguese="Alcacer-quibir"
 				}
 				b_asilah = {
+				portuguese="Arzila"
 				}
 				b_ainbenamar = {
 				}
@@ -37919,9 +37948,11 @@ e_maghreb = {
 				color2={ 255 255 255 }
 				
 				maghreb_arabic = "Sebta"
+				portuguese="Ceuta"
 				
 				b_cueta = {
 					maghreb_arabic = "Sebta"
+					portuguese="Ceuta"
 				}
 				b_tetouan = {
 				}
@@ -37942,7 +37973,9 @@ e_maghreb = {
 				color={ 28 240 63 }
 				color2={ 255 255 255 }
 			
-				b_melilla = {}
+				b_melilla = {
+					portuguese="Melilha"
+				}
 				b_alhoceima = {}
 				b_midar = {}
 				b_ketama = {} #Cebta/Fes
@@ -37960,8 +37993,11 @@ e_maghreb = {
 			c_fes = {
 				color={ 24 236 59 }
 				color2={ 255 255 255 }
-			
-				b_fes = {}
+				portuguese="Fez"
+				
+				b_fes = {
+				portuguese="Fez"
+				}
 				b_zerhoun = {}
 				b_elhajeb = {}
 				b_enjil = {}
@@ -38013,12 +38049,14 @@ e_maghreb = {
 				b_rabat = {
 				}
 				b_sale = {
+				portuguese="Salé"
 				}
 				b_tiflet = {
 				}
 				b_berrechid = {
 				}
 				b_azemmour = {
+				portuguese="Azamor"
 				}
 				b_khouribga = {
 				}

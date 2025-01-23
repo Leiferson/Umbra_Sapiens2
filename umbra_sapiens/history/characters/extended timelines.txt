@@ -1001,7 +1001,7 @@
 	}
 }
 370065 = {
-	name="Afonso" #Fernando I, Duque de Bragança
+	name="Afonso" #Afonso I, Duque de Bragança
 	dynasty=1010043106
 	religion="catholic"
 	culture="portuguese"
@@ -2291,8 +2291,8 @@
 	}
 }
 371180 = {
-	name="Alfonso"
-	dynasty=774
+	name="Alfonso"	#Alfonso Enríquez (conde de Gijón y de Noreña)
+	dynasty=1010044673
 	religion="catholic"
 	culture="castillan"
 	trait=bastard
@@ -3692,7 +3692,7 @@
 	}
 }
 370232 = {
-	name="Fernando"	#Fernando I de Braganza y Pereira
+	name="Fernando"	#Fernando I, Duque de Bragança
 	dynasty=1010043106
 	religion="catholic"
 	culture="portuguese"
@@ -3850,8 +3850,8 @@
 	culture="castillan"
 	father=370237
 	mother=370266
-	1372.1.1={
-		birth="1372.1.1"
+	1383.1.1={
+		birth="1383.1.1"
 	}
 	1432.1.1={
 		death="1432.1.1"
@@ -4251,21 +4251,6 @@
 		death="1484.4.30"
 	}
 }
-370272 = {
-	name="Beatriz"
-	female=yes
-	dynasty=1010043106
-	religion="catholic"
-	culture="portuguese"
-	father=370232
-	mother=370268
-	1432.1.1 = {
-		birth="1432.1.1"
-	}
-	1479.1.1 = {
-		death="1479.1.1"
-	}
-}
 370273 = {
 	name="Beatriz"
 	female=yes
@@ -4354,6 +4339,7 @@
 }
 370279 = {
 	name="Guiomar"
+	female=yes
 	dynasty=1010043106
 	religion="catholic"
 	culture="portuguese"
@@ -4442,7 +4428,7 @@
 	}
 }
 370285 = {
-	name="Diogo"
+	name="Diogo"	#Diogo, Duque de Viseu
 	dynasty=1010043090
 	religion="catholic"
 	culture="portuguese"
@@ -5083,7 +5069,7 @@
 	}
 }
 370329 = {
-	name="Constantino" #Vice-Roy of India
+	name="Constantino" #Constantino de Bragança
 	dynasty=1010043106
 	religion="catholic"
 	culture="portuguese"
@@ -5092,8 +5078,8 @@
 	1528.1.1 = {
 		birth="1528.1.1"
 	}
-	1575.1.1 = {
-		death="1575.1.1"
+	1575.7.14 = {
+		death="1575.7.14"
 	}
 }
 370330 = {
@@ -5536,7 +5522,7 @@
 	}
 }
 370360 = { 
-	name="Fernando" # Duque de Guarda 
+	name="Fernando" #Fernando de Portugal, Duque da Guarda
 	dynasty=1010043090
 	religion="catholic"
 	culture="portuguese"
@@ -5544,6 +5530,9 @@
 	mother=370345
 	1507.6.5 = {
 		birth="1507.6.5"
+	}
+	1530.1.1={
+		add_spouse=386438
 	}
 	1534.11.7 = {
 		death="1534.11.7"
@@ -37777,7 +37766,6 @@
 		birth="1605.4.8"
 	}
 	1615.10.18 = { add_spouse=371860 }
-	1649.10.7 = { add_spouse=372649 }
 	1665.9.17 = {
 		death="1665.9.17"
 	}
@@ -38480,6 +38468,7 @@
 	}
 }
 #Issue of Philip IV
+	1649.10.7 = { add_spouse=372649 }
 372655 = {
 	name="Margarita" 
 	female=yes
@@ -138633,10 +138622,11 @@
 	}
 }  
 379671 = {
-	name="António"	#António de Ataíde, conde de Castanheira y de Castro Daire (presidente)
+	name="António"	#António de Ataíde, 5.º Conde da Castanheira
 	dynasty=1010044006
 	religion="catholic"
 	culture="portuguese"
+	father=386790
 	1564.1.1={
 		birth="1564.1.1"
 	}
@@ -143147,12 +143137,11 @@
 	religion="catholic"
 	culture="portuguese"
 	father=379966
-	trait=bastard
-	1446.1.1={
-		birth="1446.1.1"
+	1419.1.1={
+		birth="1419.1.1"
 	}
-	1505.8.15={
-		death="1505.8.15"
+	1501.8.15={
+		death="1501.8.15"
 	}
 }
 #Issue of Pedro de Eça
@@ -143207,11 +143196,11 @@
 	religion="catholic"
 	culture="portuguese"
 	father=379991
-	1472.1.1={
-		birth="1472.1.1"
+	1445.1.1={
+		birth="1445.1.1"
 	}
-	1537.1.1={
-		death="1537.1.1"
+	1508.6.28={
+		death="1508.6.28"
 	}
 }
 379996 = {
@@ -143221,8 +143210,8 @@
 	culture="portuguese"
 	father=379991
 	trait=bastard
-	1470.1.1={
-		birth="1470.1.1"
+	1460.1.1={
+		birth="1460.1.1"
 	}
 	1536.1.1={
 		death="1536.1.1"
@@ -164102,6 +164091,7 @@
 	name="Christina" #Christina of Salm
 	female=yes
 	dynasty=12437
+	female=yes
 	religion="catholic"
 	culture="frankish"
 	1575.1.1 = {
@@ -228509,3 +228499,10033 @@
 		death="1650.1.1"
 	}
 }
+#Rasulid
+386297 = {
+	name="al-Afdal al-Abbas"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 144098
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1377.1.1={
+		death="1377.1.1"
+	}
+}
+386298 = {
+	name="al-Ashraf Isma'il"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 386297
+	1343.1.1={
+		birth="1343.1.1"
+	}
+	1400.1.1={
+		death="1400.1.1"
+	}
+}
+386299 = {
+	name="an-Nasir Ahmad"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 386298
+	1368.1.1={
+		birth="1368.1.1"
+	}
+	1424.1.1={
+		death="1424.1.1"
+	}
+}
+386300 = {
+	name="al-Mansur Abdullah"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 386299
+	1388.1.1={
+		birth="1388.1.1"
+	}
+	1427.1.1={
+		death="1427.1.1"
+	}
+}
+386301 = {
+	name="al-Ashraf Isma'il"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 386299
+	1389.1.1={
+		birth="1389.1.1"
+	}
+	1428.1.1={
+		death="1428.1.1"
+	}
+}
+386302 = {
+	name="Az-Zahir Yahya"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 386299
+	1390.1.1={
+		birth="1390.1.1"
+	}
+	1439.1.1={
+		death="1439.1.1"
+	}
+}
+386303 = {
+	name="al-Ashraf Isma'il"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 386302
+	1419.1.1={
+		birth="1419.1.1"
+	}
+	1441.1.1={
+		death="1441.1.1"
+	}
+}
+386304 = {
+	name="al-Muzaffar Yusuf"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 386302
+	1420.1.1={
+		birth="1420.1.1"
+	}
+	1443.1.1={
+		death="1443.1.1"
+	}
+}
+386305 = {
+	name="al-Mas'ud Abu al-Qasim"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father = 386302
+	1422.1.1={
+		birth="1422.1.1"
+	}
+	1454.1.1={
+		death="1454.1.1"
+	}
+}
+#Tahirids
+386306 = {
+	name="Tahir"
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	1384.1.1={
+		birth="1384.1.1"
+	}
+	1435.1.1={
+		death="1435.1.1"
+	}
+}
+386307 = {
+	name="Az-Zafir Amir"	#Az-Zafir Amir I bin Tahir (1454–1460)
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386306
+	1404.1.1={
+		birth="1404.1.1"
+	}
+	1460.1.1={
+		death="1460.1.1"
+	}
+}
+386308 = {
+	name="Al-Mujahid Ali"	#Al-Mujahid Ali bin Tahir (1460–1479), brother
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386306
+	1411.1.1={
+		birth="1411.1.1"
+	}
+	1479.1.1={
+		death="1479.1.1"
+	}
+}
+386309 = {
+	name="Da'ud"	#Da'ud
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386306
+	1413.1.1={
+		birth="1413.1.1"
+	}
+	1464.1.1={
+		death="1464.1.1"
+	}
+}
+386310 = {
+	name="Al-Mansur Abd al-Wahhab"	#Al-Mansur Abd al-Wahhab bin Da'ud bin Tahir (1479–1489)
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386309
+	1433.1.1={
+		birth="1433.1.1"
+	}
+	1489.1.1={
+		death="1489.1.1"
+	}
+}
+386311 = {
+	name="Az-Zafir Amir"	#Az-Zafir Amir II bin Abd al-Wahhab (1489–1517)
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386310
+	1453.1.1={
+		birth="1453.1.1"
+	}
+	1517.1.1={
+		death="1517.1.1"
+	}
+}
+386312 = {
+	name="Ahmad"	#Ahmad bin Amir (1517–1518)
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386311
+	1472.1.1={
+		birth="1472.1.1"
+	}
+	1518.1.1={
+		death="1518.1.1"
+	}
+}
+386313 = {
+	name="Muhammad"	#Muhammad
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386311
+	1473.1.1={
+		birth="1473.1.1"
+	}
+	1531.1.1={
+		death="1531.1.1"
+	}
+}
+386314 = {
+	name="Ahmad"	#Ahmad bin Muhammad (1519–1520)
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386313
+	1492.1.1={
+		birth="1492.1.1"
+	}
+	1520.1.1={
+		death="1520.1.1"
+	}
+}
+386315 = {
+	name="Abd al-Malik"	#Abd al-Malik bin Muhammad (1520–1527)
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386313
+	1493.1.1={
+		birth="1493.1.1"
+	}
+	1527.1.1={
+		death="1527.1.1"
+	}
+}
+386316 = {
+	name="Da'ud"	#Da'ud
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386311
+	1471.1.1={
+		birth="1471.1.1"
+	}
+	1532.1.1={
+		death="1532.1.1"
+	}
+}
+386317 = {
+	name="Amir"	#Amir bin Da'ud (1527?–1538)
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386316
+	1500.1.1={
+		birth="1500.1.1"
+	}
+	1538.8.3={
+		death="1538.8.3"
+	}
+}
+386318 = {
+	name="Amir"	#Amir bin Abd al-Malik (1518–1519)
+	dynasty=139
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386313
+	1491.1.1={
+		birth="1491.1.1"
+	}
+	1519.1.1={
+		death="1519.1.1"
+	}
+}
+#Zaidi Yemen
+386319 = {
+	name="Al-Mutawakkil Yahya Sharaf ad-Din"	#Al-Mutawakkil Yahya Sharaf ad-Din
+	dynasty=1010044652	#Zaidid
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait=sayyid
+	1473.2.25={
+		birth="1473.2.25"
+	}
+	1555.3.27={
+		death="1555.3.27"
+	}
+}
+386320 = {
+	name="Al-Mutahhar bin Yahya Sharaf ad-Din"	#Al-Mutahhar bin Yahya Sharaf ad-Din
+	dynasty=1010044652	#Zaidid
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=386319
+	trait=sayyid
+	1503.1.3={
+		birth="1503.1.3"
+	}
+	1572.11.9={
+		death="1572.11.9"
+	}
+}
+#Ottoman Yemen
+386321 = {
+	name="Mustafa al-Nashshar"	#Mustafa Pasha al-Nashshar (1539/40–1549)
+	dynasty=1010044653
+	religion="sunni"
+	culture="turkish"
+	1500.1.1={
+		birth="1500.1.1"
+	}
+	1556.1.1={
+		death="1556.1.1"
+	}
+}
+386322 = {
+	name="Özdemir"	#Özdemir Pasha (1549–1554)
+	dynasty=1010044654
+	religion="sunni"
+	culture="turkish"
+	1501.1.1={
+		birth="1501.1.1"
+	}
+	1554.1.1={
+		death="1554.1.1"
+	}
+}
+#Kara Shahin Mustafa Pasha (1556–1560)	379103
+#Mahmud Pasha (1561–1565) 379105
+386323 = {
+	name="Ridwan"	#Ridwan Pasha (1565–1567)
+	dynasty=1010044655
+	religion="sunni"
+	culture="turkish"
+	1503.1.1={
+		birth="1503.1.1"
+	}
+	1567.1.1={
+		death="1567.1.1"
+	}
+}
+386324 = {
+	name="Osman"	#Özdemiroglu Osman Pasha (1569–1573)
+	dynasty=1010044654
+	religion="sunni"
+	culture="turkish"
+	father=386322
+	1519.1.1={
+		birth="1519.1.1"
+	}
+	1573.1.1={
+		death="1573.1.1"
+	}
+}
+#Murad Pasha (1576–1580) 379046
+#Hasan Pasha (1580–1604) 379119
+386325 = {
+	name="Jafar"	#Jafar Pasha (1607–1616)
+	dynasty=1010044656
+	religion="sunni"
+	culture="turkish"
+	1573.1.1={
+		birth="1573.1.1"
+	}
+	1620.1.1={
+		death="1620.1.1"
+	}
+}
+#Mehmed Pasha (1616–1621) 379121
+386326 = {
+	name="Ahmad Fadl"	#Ahmad Fadli Pasha (1622–1624)
+	dynasty=1010044657
+	religion="sunni"
+	culture="turkish"
+	1574.1.1={
+		birth="1574.1.1"
+	}
+	1629.1.1={
+		death="1629.1.1"
+	}
+}
+386327 = {
+	name="Haydar"	#Haydar Pasha (1624–1629)
+	dynasty=1010044658
+	religion="sunni"
+	culture="turkish"
+	1585.1.1={
+		birth="1585.1.1"
+	}
+	1637.1.1={
+		death="1637.1.1"
+	}
+}
+386328 = {
+	name="Aydin"	#Aydin Pasha (1628–1630)
+	dynasty=1010044659
+	religion="sunni"
+	culture="turkish"
+	1588.1.1={
+		birth="1588.1.1"
+	}
+	1639.1.1={
+		death="1639.1.1"
+	}
+}
+386329 = {
+	name="Qansuh"	#Qansuh Pasha (1629–1635)
+	dynasty=1010044660
+	religion="sunni"
+	culture="turkish"
+	1592.1.1={
+		birth="1592.1.1"
+	}
+	1645.1.1={
+		death="1645.1.1"
+	}
+}
+#Qasimid State 
+386330 = {
+	name="Al-Mansur al-Qasim"	#Al-Mansur al-Qasim
+	dynasty=1010044661
+	religion="shiite"
+	culture="bedouin_arabic"
+	trait=sayyid
+	1559.11.13={
+		birth="1559.11.13"
+	}
+	1620.2.19={
+		death="1620.2.19"
+	}
+}
+386331 = {
+	name="Al-Mu'ayyad Muhammad"	#Al-Mu'ayyad Muhammad
+	dynasty=1010044661
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=386330
+	trait=sayyid
+	1582.1.1={
+		birth="1582.1.1"
+	}
+	1644.9.1={
+		death="1644.9.1"
+	}
+}
+386332 = {
+	name="Hasan"
+	dynasty=1010044661
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=386330
+	trait=sayyid
+	1584.1.1={
+		birth="1584.1.1"
+	}
+	1639.1.1={
+		death="1639.1.1"
+	}
+}
+386333 = {
+	name="Husayn"
+	dynasty=1010044661
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=386330
+	trait=sayyid
+	1590.1.1={
+		birth="1590.1.1"
+	}
+	1640.1.1={
+		death="1640.1.1"
+	}
+}
+386334 = {
+	name="Ahmad"
+	dynasty=1010044661
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=386330
+	trait=sayyid
+	1600.1.1={
+		birth="1600.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+386335 = {
+	name="Isma'il"	#Al-Mutawakkil Isma'il
+	dynasty=1010044661
+	religion="shiite"
+	culture="bedouin_arabic"
+	father=386330
+	trait=sayyid
+	1610.1.1={
+		birth="1610.1.1"
+	}
+	1676.8.15={
+		death="1676.8.15"
+	}
+}
+#Kathirid
+386336 = {
+	name="Jafar"	#Dscha'far ibn 'Abdallah 
+	dynasty=1010044662
+	religion="sunni"
+	culture="bedouin_arabic"
+	1436.1.1={
+		birth="1436.1.1"
+	}
+	1493.1.1={
+		death="1493.1.1"
+	}
+}
+386337 = {
+	name="Ali"
+	dynasty=1010044662
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386336
+	1470.1.1={
+		birth="1470.1.1"
+	}
+	1516.1.1={
+		death="1516.1.1"
+	}
+}
+386338 = {
+	name="Badr"	#Badr ibn 'Abdallah 
+	dynasty=1010044662
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386337
+	1499.1.1={
+		birth="1499.1.1"
+	}
+	1565.1.1={
+		death="1565.1.1"
+	}
+}
+386339 = {
+	name="Abdallah"	#Abdallah ibn Badr 
+	dynasty=1010044662
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386338
+	1519.1.1={
+		birth="1519.1.1"
+	}
+	1582.1.1={
+		death="1582.1.1"
+	}
+}
+386340 = {
+	name="Umar"	#Umar ibn Badr Bu Tuwairiq 
+	dynasty=1010044662
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386339
+	1555.1.1={
+		birth="1555.1.1"
+	}
+	1612.1.1={
+		death="1612.1.1"
+	}
+}
+386341 = {
+	name="Muhammad"	
+	dynasty=1010044662
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386340
+	1590.1.1={
+		birth="1590.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+#Nabhanids
+386342 = {
+	name="Zaid"
+	dynasty=100690
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father = 144564
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1397.1.1={
+		death="1397.1.1"
+	}
+}
+386343 = {
+	name="Ahmad"	#Ahmad
+	dynasty=100690
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father = 386342
+	1343.1.1={
+		birth="1343.1.1"
+	}
+	1406.1.1={
+		death="1406.1.1"
+	}
+}
+386344 = {
+	name="Muhammed al-Fallah"	#Muhammed al-Fallah 	
+	dynasty=100690
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father = 386343
+	1369.1.1={
+		birth="1369.1.1"
+	}
+	1435.1.1={
+		death="1435.1.1"
+	}
+}
+386345 = {
+	name="Abul Hassan"	#Abul Hassan of Oman
+	dynasty=100690
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father = 386344
+	1400.1.1={
+		birth="1400.1.1"
+	}
+	1451.1.1={
+		death="1451.1.1"
+	}
+}
+386346 = {
+	name="Omar"	#Omar bin al Khattab
+	dynasty=100690
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father = 386345
+	1434.1.1={
+		birth="1434.1.1"
+	}
+	1490.1.1={
+		death="1490.1.1"
+	}
+}
+386347 = {
+	name="Omar"	#Omar al Sharif
+	dynasty=100690
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father = 386346
+	1454.1.1={
+		birth="1454.1.1"
+	}
+	1500.1.1={
+		death="1500.1.1"
+	}
+}
+386348 = {
+	name="Muhammad"	#Muhammad bin Ismail
+	dynasty=100690
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father = 386347
+	1473.1.1={
+		birth="1473.1.1"
+	}
+	1529.1.1={
+		death="1529.1.1"
+	}
+}
+386349 = {
+	name="Barakat"	#Barakat bin Muhammad 	
+	dynasty=100690
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father = 386348
+	1500.1.1={
+		birth="1500.1.1"
+	}
+	1560.1.1={
+		death="1560.1.1"
+	}
+}
+386350 = {
+	name="Abdulla"	#Abdulla bin Muhammad
+	dynasty=100690
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father = 386349
+	1550.1.1={
+		birth="1550.1.1"
+	}
+	1624.1.1={
+		death="1624.1.1"
+	}
+}
+#Yarubid 1010044663
+386351 = {
+	name="Murshid"
+	dynasty=1010044663
+	religion="ibadi"
+	culture="bedouin_arabic"
+	1550.1.1={
+		birth="1550.1.1"
+	}
+	1605.1.1={
+		death="1605.1.1"
+	}
+}
+386352 = {
+	name="Nasir"	#Nasir bin Murshid
+	dynasty=1010044663
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father=386351
+	1590.1.1={
+		birth="1590.1.1"
+	}
+	1649.4.14={
+		death="1649.4.14"
+	}
+}
+386353 = {
+	name="Sultan"	#Sultan bin Saif
+	dynasty=1010044663
+	religion="ibadi"
+	culture="bedouin_arabic"
+	father=386352
+	1611.1.1={
+		birth="1611.1.1"
+	}
+	1679.1.1={
+		death="1679.1.1"
+	}
+}
+#Ba Dujana 1010044664
+386354 = {
+	name="Muhammad"
+	dynasty=1010044664
+	religion="sunni"
+	culture="bedouin_arabic"
+	1403.1.1={
+		birth="1403.1.1"
+	}
+	1478.1.1={
+		death="1478.1.1"
+	}
+}
+386355 = {
+	name="Ali"
+	dynasty=1010044664
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386354
+	1455.1.1={
+		birth="1455.1.1"
+	}
+	1517.1.1={
+		death="1517.1.1"
+	}
+}
+386356 = {
+	name="Ismail"
+	dynasty=1010044664
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386355
+	1496.1.1={
+		birth="1496.1.1"
+	}
+	1569.1.1={
+		death="1569.1.1"
+	}
+}
+386357 = {
+	name="Farrukh"
+	dynasty=1010044664
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386356
+	1540.1.1={
+		birth="1540.1.1"
+	}
+	1607.1.1={
+		death="1607.1.1"
+	}
+}
+386358 = {
+	name="Jibril"
+	dynasty=1010044664
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386357
+	1590.1.1={
+		birth="1590.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+#Socotran placeholders
+386359 = { 
+	name="Abdul-Qadir" 
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=145596
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1390.1.1={
+		death="1390.1.1"
+	}
+}
+386360 = { 
+	name="Ghalib" 
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=386359
+	1370.1.1={
+		birth="1370.1.1"
+	}
+	1437.1.1={
+		death="1437.1.1"
+	}
+}
+386361 = { 
+	name="Nasr" 
+	dynasty=1022234
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=386360
+	1415.1.1={
+		birth="1415.1.1"
+	}
+	1480.1.1={
+		death="1480.1.1"
+	}
+}
+#Jabrids
+386362 = { 
+	name="Jabr"	#Zamil bin Hussein bin Jabr 
+	dynasty=1010044665
+	religion="sunni"
+	culture="bedouin_arabic"
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1385.1.1={
+		death="1385.1.1"
+	}
+}
+386363 = { 
+	name="Hussein"	#Zamil bin Hussein bin Jabr 
+	dynasty=1010044665
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386362
+	1367.1.1={
+		birth="1367.1.1"
+	}
+	1413.1.1={
+		death="1413.1.1"
+	}
+}
+386364 = { 
+	name="Zamil"	#Zamil bin Hussein bin Jabr 
+	dynasty=1010044665
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386363
+	1400.1.1={
+		birth="1400.1.1"
+	}
+	1463.1.1={
+		death="1463.1.1"
+	}
+}
+386365 = { 
+	name="Ajwad"	#Ajwad ibn Zamil
+	dynasty=1010044665
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386364
+	1418.1.1={
+		birth="1418.1.1"
+	}
+	1496.1.1={
+		death="1496.1.1"
+	}
+}
+386366 = { 
+	name="Saif"
+	dynasty=1010044665
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386364
+	1440.1.1={
+		birth="1440.1.1"
+	}
+	1505.1.1={
+		death="1505.1.1"
+	}
+}
+386367 = { 
+	name="Muhammad"	#Muhammad ibn Ajwad bin Zamil bin Saif Al Khaldi
+	dynasty=1010044665
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386365
+	1470.1.1={
+		birth="1470.1.1"
+	}
+	1539.1.1={
+		death="1539.1.1"
+	}
+}
+#Al-Muntafiq Sadoon 1010044666
+386368 = { 
+	name="Sadoon"	
+	dynasty=1010044666
+	religion="sunni"
+	culture="bedouin_arabic"
+	1500.1.1={
+		birth="1500.1.1"
+	}
+	1569.1.1={
+		death="1569.1.1"
+	}
+}
+386369 = { 
+	name="Ahmad"	
+	dynasty=1010044666
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386368
+	1540.1.1={
+		birth="1540.1.1"
+	}
+	1611.1.1={
+		death="1611.1.1"
+	}
+}
+386370 = { 
+	name="Zaid"	
+	dynasty=1010044666
+	religion="sunni"
+	culture="bedouin_arabic"
+	father=386369
+	1590.1.1={
+		birth="1590.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+#Vice Reis da India
+#Issue of Gil Vasques da Cunha 
+386371 = {
+	name="Gil"	#Gil Vasques da Cunha 
+	dynasty=7048
+	religion="catholic"
+	culture="portuguese"
+	1344.1.1={
+		birth="1344.1.1"
+	}
+	1406.1.1={
+		death="1406.1.1"
+	}
+}
+386372 = {
+	name="João"	#João Pereira "Agostim" 
+	dynasty=7048
+	religion="catholic"
+	culture="portuguese"
+	father=386371
+	1385.1.1={
+		birth="1385.1.1"
+	}
+	1444.1.1={
+		death="1444.1.1"
+	}
+}
+#Issue of João Pereira "Agostim"
+386373 = {
+	name="Nuno"	#Nuno da Cunha, o Velho
+	dynasty=7048
+	religion="catholic"
+	culture="portuguese"
+	father=386372
+	#D. Catarina de Albuquerque
+	1434.1.1={
+		birth="1434.1.1"
+	}
+	1480.6.1={
+		death="1480.6.1"
+	}
+}
+#Issue of Nuno da Cunha, o Velho
+386374 = {
+	name="Tristão"	#Tristão da Cunha
+	dynasty=7048
+	religion="catholic"
+	culture="portuguese"
+	father=386373
+	1460.1.1={
+		birth="1460.1.1"
+	}
+	1540.1.1={
+		death="1540.1.1"
+	}
+}
+386375 = {
+	name="Simão"	#Simão da Cunha
+	dynasty=7048
+	religion="catholic"
+	culture="portuguese"
+	father=386373
+	1462.1.1={
+		birth="1462.1.1"
+	}
+	1524.1.1={
+		death="1524.1.1"
+	}
+}
+386376 = {
+	name="Ana"	#D. Ana de Albuquerque
+	female=yes
+	dynasty=7048
+	religion="catholic"
+	culture="portuguese"
+	father=386373
+	1463.1.1={
+		birth="1463.1.1"
+	}
+	1525.1.1={
+		death="1525.1.1"
+	}
+}
+386377 = {
+	name="Pero"	#Pero Vaz Bisagudo
+	dynasty=7048
+	religion="catholic"
+	culture="portuguese"
+	father=386373
+	trait=bastard
+	1459.1.1={
+		birth="1459.1.1"
+	}
+	1530.1.1={
+		death="1530.1.1"
+	}
+}
+#Issue of Tristão da Cunha
+386378 = {
+	name="Nuno"	#Nuno da Cunha, 2.º senhor de Gestaçô e Panóias, 9.º governador da Índia
+	dynasty=7048
+	religion="catholic"
+	culture="portuguese"
+	father=386374
+	1487.1.1={
+		birth="1487.1.1"
+	}
+	1539.1.1={
+		death="1539.1.1"
+	}
+}
+386379 = {
+	name="Simão"	#Simão da Cunha, trinchante-mor de D. João III e general do mar da Índia
+	dynasty=7048
+	religion="catholic"
+	culture="portuguese"
+	father=386374
+	1488.1.1={
+		birth="1488.1.1"
+	}
+	1541.1.1={
+		death="1541.1.1"
+	}
+}
+386380 = {
+	name="Pedro"	#Pedro Vaz da Cunha, estribeiro-mor de D. João III
+	dynasty=7048
+	religion="catholic"
+	culture="portuguese"
+	father=386374
+	1490.1.1={
+		birth="1490.1.1"
+	}
+	1545.1.1={
+		death="1545.1.1"
+	}
+}
+#Issue of Lopo de Almeida
+386381 = {
+	name="Lopo"	#Lopo de Almeida
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	1416.1.1={
+		birth="1416.1.1"
+	}
+	1486.1.1={
+		death="1486.1.1"
+	}
+}
+386382 = {
+	name="João"	#João de Almeida
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	1443.1.1={
+		birth="1443.1.1"
+	}
+	1512.1.1={
+		death="1512.1.1"
+	}
+}
+386383 = {
+	name="Pedro"	#D. Pedro da Silva (m.1512)
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	1444.1.1={
+		birth="1444.1.1"
+	}
+	1512.1.1={
+		death="1512.1.1"
+	}
+}
+386384 = {
+	name="Fernando"	#D. Fernando de Almeida
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	trait=monk
+	1467.1.1={
+		birth="1467.1.1"
+	}
+	1500.1.1={
+		death="1500.1.1"
+	}
+}
+386385 = {
+	name="Diogo"	#D. Diogo Fernandes de Almeida (m.1508) prior do Crato
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	trait=monk
+	1468.1.1={
+		birth="1468.1.1"
+	}
+	1508.1.1={
+		death="1508.1.1"
+	}
+}
+386386 = {
+	name="Jorge"	#Jorge de Almeida
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	trait=monk
+	1458.1.1={
+		birth="1458.1.1"
+	}
+	1543.7.25={
+		death="1543.7.25"
+	}
+}
+386387 = {
+	name="Francisco"	#D.Francisco de Almeida (vice-rei da Índia)
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	1450.1.1={
+		birth="1450.1.1"
+	}
+	1510.3.1={
+		death="1510.3.1"
+	}
+}
+386388 = {
+	name="Afonso"	#D. Afonso de Almeida, morre em 1482, aos 17 anos.
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	1465.1.1={
+		birth="1465.1.1"
+	}
+	1482.1.1={
+		death="1482.1.1"
+	}
+}
+386389 = {
+	name="Duarte"	#D. Duarte de Almeida
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	1460.1.1={
+		birth="1460.1.1"
+	}
+	1504.1.1={
+		death="1504.1.1"
+	}
+}
+386390 = {
+	name="Isabel"	#D. Isabel da Silva, 1.ª Condessa de Penela
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	1461.1.1={
+		birth="1461.1.1"
+	}
+	1511.1.1={
+		death="1511.1.1"
+	}
+}
+386391 = {
+	name="Catarina"	#D. Catarina da Silva, subprioresa no Mosteiro de Jesus de Aveiro.
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	trait=nun
+	1457.1.1={
+		birth="1457.1.1"
+	}
+	1504.1.1={
+		death="1504.1.1"
+	}
+}
+386392 = {
+	name="Branca"	#D. Branca Gil de Almeida
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	1455.1.1={
+		birth="1455.1.1"
+	}
+	1500.1.1={
+		death="1500.1.1"
+	}
+}
+386393 = {
+	name="Briolanja"	#D. Briolanja de Almeida (ca 1430 - ca 1480)
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386381
+	trait=bastard
+	1430.1.1={
+		birth="1430.1.1"
+	}
+	1480.1.1={
+		death="1480.1.1"
+	}
+}
+#Issue of Francisco de Almeida (vice-rei da Índia)
+386394 = {
+	name="Lourenço"	#Lourenço de Almeida (capitão-mor)
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386387
+	1480.1.1={
+		birth="1480.1.1"
+	}
+	1508.3.1={
+		death="1508.3.1"
+	}
+}
+386395 = {
+	name="Leonor"	#D. Leonor de Almeida
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386387
+	1481.1.1={
+		birth="1481.1.1"
+	}
+	1528.1.1={
+		death="1528.1.1"
+	}
+}
+386396 = {
+	name="Susana"	#D. Susana de Almeida
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386387
+	1482.1.1={
+		birth="1482.1.1"
+	}
+	1533.1.1={
+		death="1533.1.1"
+	}
+}
+#Issue of Diogo Fernandes de Almeida, prior do Crato
+386397 = {
+	name="Lopo"	#D. Lopo de Almeida
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386385
+	trait=bastard
+	1490.1.1={
+		birth="1490.1.1"
+	}
+	1577.1.1={
+		death="1577.1"
+	}
+}
+386398 = {
+	name="Pedro"	#D. Pedro de Almeida, Alcaide-Mor do Castelo de Torres Novas
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386385
+	trait=bastard
+	1492.1.1={
+		birth="1492.1.1"
+	}
+	1574.1.1={
+		death="1574.1"
+	}
+}
+386399 = {
+	name="Estêvão"	#D. Estêvão de Almeida, Bispo de Astorga
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386385
+	trait=bastard
+	trait=monk
+	1494.1.1={
+		birth="1494.1.1"
+	}
+	1579.1.1={
+		death="1579.1"
+	}
+}
+#Issue of João de Almeida, 2.º conde de Abrantes
+386400 = {
+	name="Lopo"	#D. Lopo de Almeida, 3º conde de Abrantes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	1480.1.1={
+		birth="1480.1.1"
+	}
+	1536.1.1={
+		death="1536.1.1"
+	}
+}
+386401 = {
+	name="Pedro"	#Pedro
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	1481.1.1={
+		birth="1481.1.1"
+	}
+	1535.1.1={
+		death="1535.1.1"
+	}
+}
+386402 = {
+	name="Bernardim"	#Bernardim
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	1482.1.1={
+		birth="1482.1.1"
+	}
+	1540.1.1={
+		death="1540.1.1"
+	}
+}
+386403 = {
+	name="António"	#António
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	1483.1.1={
+		birth="1483.1.1"
+	}
+	1544.1.1={
+		death="1544.1.1"
+	}
+}
+386404 = {
+	name="Cristóvão"	#Cristóvão
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	1484.1.1={
+		birth="1484.1.1"
+	}
+	1537.1.1={
+		death="1537.1.1"
+	}
+}
+386405 = {
+	name="Tristão"	#Tristão
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	1485.1.1={
+		birth="1485.1.1"
+	}
+	1538.1.1={
+		death="1538.1.1"
+	}
+}
+386406 = {
+	name="Duarte"	#Duarte
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	1486.1.1={
+		birth="1486.1.1"
+	}
+	1542.1.1={
+		death="1542.1.1"
+	}
+}
+386407 = {
+	name="Joana"	#Joana
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	1487.1.1={
+		birth="1487.1.1"
+	}
+	1535.1.1={
+		death="1535.1.1"
+	}
+}
+386408 = {
+	name="Isabel"	#Isabel
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	1488.1.1={
+		birth="1488.1.1"
+	}
+	1533.1.1={
+		death="1533.1.1"
+	}
+}
+386409 = {
+	name="Leonor"	#Leonor
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	1489.1.1={
+		birth="1489.1.1"
+	}
+	1539.1.1={
+		death="1539.1.1"
+	}
+}
+386410 = {
+	name="Leonor"	#Leonor
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	1490.1.1={
+		birth="1490.1.1"
+	}
+	1534.1.1={
+		death="1534.1.1"
+	}
+}
+386411 = {
+	name="Brites"	#Brites
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	trait=nun
+	1491.1.1={
+		birth="1491.1.1"
+	}
+	1537.1.1={
+		death="1537.1.1"
+	}
+}
+386412 = {
+	name="Maria"	#Maria
+	female=yes
+	dynasty=1010044667
+	religion="catholic"
+	culture="portuguese"
+	father=386382
+	trait=nun
+	1492.1.1={
+		birth="1492.1.1"
+	}
+	1544.1.1={
+		death="1544.1.1"
+	}
+}
+386413 = {
+	name="Afonso"	#Afonso de Albuquerque
+	dynasty=1010044668
+	religion="catholic"
+	culture="portuguese"
+	1452.1.1={
+		birth="1452.1.1"
+	}
+	1515.12.16={
+		death="1515.12.16"
+	}
+}
+#Issue of Afonso de Albuquerque
+386414 = {
+	name="Brás"	#Brás de Albuquerque
+	dynasty=1010044668
+	religion="catholic"
+	culture="portuguese"
+	trait=legit_bastard
+	father=386413
+	1501.1.1={
+		birth="1501.1.1"
+	}
+	1581.1.1={
+		death="1581.1.1"
+	}
+}
+#Issue of Rui Gomes de Alvarenga 1010044669
+386414 = {
+	name="Rui"	#Rui Gomes de Alvarenga
+	dynasty=1010044669
+	religion="catholic"
+	culture="portuguese"
+	1409.1.1={
+		birth="1409.1.1"
+	}
+	1475.1.1={
+		death="1475.1.1"
+	}
+}
+386415 = {
+	name="Gomes"	#Gomes Soares de Melo
+	dynasty=1010044669
+	religion="catholic"
+	culture="portuguese"
+	father=386414
+	1450.1.1={
+		birth="1450.1.1"
+	}
+	1510.1.1={
+		death="1510.1.1"
+	}
+}
+386416 = {
+	name="Lopo"	#Lopo Soares de Albergaria
+	dynasty=1010044669
+	religion="catholic"
+	culture="portuguese"
+	father=386414
+	1460.1.1={
+		birth="1460.1.1"
+	}
+	1484.1.1={
+		add_spouse=386376
+	}
+	1520.1.1={
+		death="1520.1.1"
+	}
+}
+386417 = {
+	name="Fernando"	#Fernando de Melo
+	dynasty=1010044669
+	religion="catholic"
+	culture="portuguese"
+	father=386414
+	1461.1.1={
+		birth="1461.1.1"
+	}
+	1515.1.1={
+		death="1515.1.1"
+	}
+}
+386418 = {
+	name="Afonso"	#Afonso Rodrigues de Melo
+	dynasty=1010044669
+	religion="catholic"
+	culture="portuguese"
+	father=386414
+	1465.1.1={
+		birth="1465.1.1"
+	}
+	1519.1.1={
+		death="1519.1.1"
+	}
+}
+386419 = {
+	name="Beatriz"	#Beatriz Soares de Melo
+	female=yes
+	dynasty=1010044669
+	religion="catholic"
+	culture="portuguese"
+	father=386414
+	1468.1.1={
+		birth="1468.1.1"
+	}
+	1525.1.1={
+		death="1525.1.1"
+	}
+}
+#Issue of Lopo Soares de Albergaria
+386420 = {
+	name="Guiomar"	#D. Guiomar de Albuquerque
+	female=yes
+	dynasty=1010044669
+	religion="catholic"
+	culture="portuguese"
+	father=386416
+	mother=386376
+	1485.1.1={
+		birth="1485.1.1"
+	}
+	1549.1.1={
+		death="1549.1.1"
+	}
+}
+386421 = {
+	name="Catarina"	#D. Catarina de Albuquerque
+	female=yes
+	dynasty=1010044669
+	religion="catholic"
+	culture="portuguese"
+	father=386416
+	mother=386376
+	1487.1.1={
+		birth="1487.1.1"
+	}
+	1551.1.1={
+		death="1551.1.1"
+	}
+}
+386422 = {
+	name="Diogo"	#Diogo Lopes de Sequeira
+	dynasty=1010044670
+	religion="catholic"
+	culture="portuguese"
+	1465.1.1={
+		birth="1465.1.1"
+	}
+	1530.1.1={
+		death="1530.1.1"
+	}
+}
+#Issue of João Afonso Telo de Meneses, conde de Viana do Alentejo 
+386423 = {
+	name="Pedro" #Pedro de Meneses, 1.º Conde de Vila Real
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=370265
+	1370.1.1={
+		birth="1370.1.1"
+	}
+	1437.9.22={
+		death="1437.9.22"
+	}
+}
+386424 = {
+	name="Maria" #D. Maria de Menezes ill
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=370265
+	trait=bastard
+	1372.1.1={
+		birth="1372.1.1"
+	}
+	1430.1.1={
+		death="1430.1.1"
+	}
+}
+#Issue of Pedro de Meneses, 1.º Conde de Vila Real
+386425 = {
+	name="Beatriz" #Beatriz de Meneses, 2.ª condessa de Vila Real
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386423
+	1400.1.1={
+		birth="1400.1.1"
+	}
+	1461.1.1={
+		death="1461.1.1"
+	}
+}
+386426 = {
+	name="Leonor" #Leonor de Meneses
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386423
+	1401.1.1={
+		birth="1401.1.1"
+	}
+	1457.1.1={
+		death="1457.1.1"
+	}
+}
+386427 = {
+	name="Isabel" #Isabel Coutinho
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386423
+	1404.1.1={
+		birth="1404.1.1"
+	}
+	1461.1.1={
+		death="1461.1.1"
+	}
+}
+386428 = {
+	name="Inês" #Inês de Meneses ill
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386423
+	trait=bastard
+	1410.1.1={
+		birth="1410.1.1"
+	}
+	1470.1.1={
+		death="1470.1.1"
+	}
+}
+386429 = {
+	name="Duarte" #Duarte de Meneses, Conde de Viana
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386423
+	1414.1.1={
+		birth="1414.1.1"
+	}
+	1464.1.29={
+		death="1464.1.29"
+	}
+}
+386430 = {
+	name="Aldonça" #Aldonça de Meneses
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386423
+	1415.1.1={
+		birth="1415.1.1"
+	}
+	1480.1.1={
+		death="1480.1.1"
+	}
+}
+386431 = {
+	name="Isabel" #Isabel de Meneses
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386423
+	1410.1.1={
+		birth="1410.1.1"
+	}
+	1477.1.1={
+		death="1477.1.1"
+	}
+}
+#Issue of Duarte de Meneses, Conde de Viana
+386432 = {
+	name="Maria" #D. Maria de Meneses
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386429
+	1434.1.1={
+		birth="1434.1.1"
+	}
+	1490.1.1={
+		death="1490.1.1"
+	}
+}
+386433 = {
+	name="Henrique" #D. Henrique de Meneses, 4.º conde de Viana (do Alentejo)
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386429
+	1450.1.1={
+		birth="1450.1.1"
+	}
+	1470.1.1={
+		add_spouse=370279
+	}
+	1480.2.17={
+		death="1480.2.17"
+	}
+}
+386434 = {
+	name="Garcia" #Garcia de Meneses, bispo de Évora
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386429
+	trait=monk
+	1436.1.1={
+		birth="1436.1.1"
+	}
+	1484.1.1={
+		death="1484.1.1"
+	}
+}
+386435 = {
+	name="Fernando" #D. Fernando de Meneses, o Narize
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386429
+	1437.1.1={
+		birth="1437.1.1"
+	}
+	1497.1.1={
+		death="1497.1.1"
+	}
+}
+386436 = {
+	name="João" #João de Meneses, 1.º Conde de Tarouca
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386429
+	1460.1.1={
+		birth="1460.1.1"
+	}
+	1522.7.12={
+		death="1522.7.12"
+	}
+}
+386437 = {
+	name="Leonor" #D. Leonor
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386429
+	trait=nun
+	1450.1.1={
+		birth="1450.1.1"
+	}
+	1516.1.1={
+		death="1516.1.1"
+	}
+}
+#Issue of D. Henrique de Meneses, 4.º conde de Viana (do Alentejo)
+386438 = {
+	name="Beatriz" #D. Beatriz de Meneses, que veio a ser 2.ª Condessa de Loulé
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386433
+	mother=370279
+	1470.1.1={
+		birth="1470.1.1"
+	}
+	1538.1.1={
+		death="1538.1.1"
+	}
+}
+#Issue of Fernando de Portugal, Duque da Guarda
+386439 = {
+	name="Luísa" #Luísa de Portugal (1531 - 3 de outubro de 1534)
+	female=yes
+	dynasty=1010043090
+	religion="catholic"
+	culture="portuguese"
+	father=370360
+	mother=386438
+	1531.1.1 = {
+		birth="1531.1.1"
+	}
+	1534.10.3 = {
+		death="1534.10.3"
+	}
+}
+#Issue of D. Fernando de Meneses, o Narize
+386440 = {
+	name="Duarte" #Duarte de Meneses, o d'Évora
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386435
+	1470.1.1={
+		birth="1470.1.1"
+	}
+	1532.1.1={
+		death="1532.1.1"
+	}
+}
+386441 = {
+	name="Garcia" #D. Garcia de Meneses o Lamparinho
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386435
+	1471.1.1={
+		birth="1471.1.1"
+	}
+	1530.1.1={
+		death="1530.1.1"
+	}
+}
+386442 = {
+	name="Inácia" #D. Inácia/Joana de Meneses
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386435
+	1472.1.1={
+		birth="1472.1.1"
+	}
+	1535.1.1={
+		death="1535.1.1"
+	}
+}
+386443 = {
+	name="Beatriz" #D. Beatriz de Meneses
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386435
+	1474.1.1={
+		birth="1474.1.1"
+	}
+	1539.1.1={
+		death="1539.1.1"
+	}
+}
+#Issue of Duarte de Meneses, o d'Évora
+386444 = {
+	name="Garcia" #D. Garcia De Meneses
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386441
+	1500.1.1={
+		birth="1500.1.1"
+	}
+	1567.1.1={
+		death="1567.1.1"
+	}
+}
+386445 = {
+	name="Isabel"
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386441
+	1502.1.1={
+		birth="1502.1.1"
+	}
+	1576.1.1={
+		death="1576.1.1"
+	}
+}
+#Issue of D. João de Meneses, 1.º conde de Tarouca
+386446 = {
+	name="Duarte" #D. Duarte de Meneses
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386436
+	1488.1.1={
+		birth="1488.1.1"
+	}
+	1539.3.1={
+		death="1539.3.1"
+	}
+}
+386447 = {
+	name="Henrique" #Henrique de Meneses, capitão de Tânger
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386436
+	1490.1.1={
+		birth="1490.1.1"
+	}
+	1536.1.1={
+		death="1536.1.1"
+	}
+}
+#Issue of Duarte de Meneses
+386448 = {
+	name="João" #D. João de Meneses, Alcaide-mor de Albufeira
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386446
+	1520.1.1={
+		birth="1520.1.1"
+	}
+	1557.1.1={
+		death="1557.1.1"
+	}
+}
+386449 = {
+	name="Pedro" #D. Pedro de Meneses
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386446
+	1520.1.1={
+		birth="1520.1.1"
+	}
+	1550.6.16={
+		death="1550.6.16"
+	}
+}
+#Issue of D. Pedro de Meneses
+386450 = {
+	name="Duarte" #D. Duarte de Menezes (c. 1550)
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386449
+	1545.1.1={
+		birth="1545.1.1"
+	}
+	1603.1.1={
+		death="1603.1.1"
+	}
+}
+386451 = {
+	name="Joana" #D. Joana de Vilhena
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386449
+	1547.1.1={
+		birth="1547.1.1"
+	}
+	1601.1.1={
+		death="1601.1.1"
+	}
+}
+386452 = {
+	name="Brites" #D. Brites de Menezes
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386449
+	1549.1.1={
+		birth="1549.1.1"
+	}
+	1607.1.1={
+		death="1607.1.1"
+	}
+}
+#Issue of D. João de Meneses, Alcaide-mor de Albufeira
+386453 = {
+	name="Duarte" #Duarte de Meneses, 14.º vice-rei da Índia
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386448
+	1537.12.6={
+		birth="1537.12.6"
+	}
+	1588.5.4={
+		death="1588.5.4"
+	}
+}
+386454 = {
+	name="Pedro" #D. Pedro de Meneses
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386448
+	1539.1.1={
+		birth="1539.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386455 = {
+	name="Inês" #D. Inês de Castro
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386448
+	1540.1.1={
+		birth="1540.1.1"
+	}
+	1614.1.1={
+		death="1614.1.1"
+	}
+}
+#Issue of Duarte de Meneses, 14.º vice-rei da Índia
+386456 = {
+	name="João" #D. João, morto sem descendência
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386453
+	1557.1.1={
+		birth="1557.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386457 = {
+	name="Luís" #D. Luís de Meneses, 2.º Conde de Tarouca
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386453
+	1570.1.1={
+		birth="1570.1.1"
+	}
+	1614.10.1={
+		death="1614.10.1"
+	}
+}
+386458 = {
+	name="António" #D. António de Meneses
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386453
+	1571.1.1={
+		birth="1571.1.1"
+	}
+	1609.1.1={
+		death="1609.1.1"
+	}
+}
+386459 = {
+	name="Maria" #Dona Maria de Vilhena (c. 1570)
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386453
+	1572.1.1={
+		birth="1572.1.1"
+	}
+	1620.1.1={
+		death="1620.1.1"
+	}
+}
+386460 = {
+	name="Luísa" #Dona Luísa e D. Antónia de Meneses, freiras
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386453
+	trait=nun
+	1573.1.1={
+		birth="1573.1.1"
+	}
+	1627.1.1={
+		death="1627.1.1"
+	}
+}
+386461 = {
+	name="Antónia" #Dona Luísa e D. Antónia de Meneses, freiras
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386453
+	trait=nun
+	1574.1.1={
+		birth="1574.1.1"
+	}
+	1620.1.1={
+		death="1620.1.1"
+	}
+}
+386462 = {
+	name="Francisca" #Dona Francisca, religiosa na Anunciada
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386453
+	trait=nun
+	1575.1.1={
+		birth="1575.1.1"
+	}
+	1629.1.1={
+		death="1629.1.1"
+	}
+}
+#Issue of Luís de Meneses, 2.º Conde de Tarouca
+386463 = {
+	name="Juliana" #Dona Juliana de Meneses
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386457
+	1592.1.1={
+		birth="1592.1.1"
+	}
+	1657.1.1={
+		death="1657.1.1"
+	}
+}
+386464 = {
+	name="Duarte Luís" #D. Duarte Luís de Meneses, 3.° conde de Tarouca
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386457
+	1593.1.1={
+		birth="1593.1.1"
+	}
+	1646.1.1={
+		death="1646.1.1"
+	}
+}
+386465 = {
+	name="João" #D. João de Meneses ficou maluco a estudar
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386457
+	1594.1.1={
+		birth="1594.1.1"
+	}
+	1612.1.1={
+		trait=lunatic
+	}
+	1660.1.1={
+		death="1660.1.1"
+	}
+}
+386466 = {
+	name="Pedro" #D. Pedro de Meneses que morreu sem posteridade
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386457
+	1595.1.1={
+		birth="1595.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+386467 = {
+	name="Violante" #Dona Violante de Meneses
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386457
+	1596.1.1={
+		birth="1596.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+386468 = {
+	name="Estefânia" #Dona Estefânia, religiosa
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386457
+	trait=nun
+	1597.1.1={
+		birth="1597.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+#Issue of Henrique de Meneses, capitão de Tânger
+386469 = {
+	name="João" #João Telo de Menezes, senhor de Aveiras
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386447
+	1510.1.1={
+		birth="1510.1.1"
+	}
+	1595.1.1={
+		death="1595.1.1"
+	}
+}
+386470 = {
+	name="Rodrigo" #D. Rodrigo / Afonso de Melo, padre, que ingressou a Sociedade de Jesus
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386447
+	trait=monk
+	1511.1.1={
+		birth="1511.1.1"
+	}
+	1548.8.9={
+		death="1548.8.9"
+	}
+}
+386471 = {
+	name="Francisco" #D. Francisco de Meneses, o trombeta
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386447
+	1512.1.1={
+		birth="1512.1.1"
+	}
+	1590.1.1={
+		death="1590.1.1"
+	}
+}
+386472 = {
+	name="Miguel" #D. Miguel de Meneses
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386447
+	1515.1.1={
+		birth="1515.1.1"
+	}
+	1594.1.1={
+		death="1594.1.1"
+	}
+}
+386473 = {
+	name="António" #D. António de Meneses, que foi deão
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386447
+	trait=monk
+	1518.1.1={
+		birth="1518.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386474 = {
+	name="Filipe" #D. Filipe de Meneses
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386447
+	1519.1.1={
+		birth="1519.1.1"
+	}
+	1588.1.1={
+		death="1588.1.1"
+	}
+}
+386475 = {
+	name="Jerónimo" #D. Jerónimo de Meneses
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386447
+	1521.1.1={
+		birth="1521.1.1"
+	}
+	1580.1.1={
+		death="1580.1.1"
+	}
+}
+386476 = {
+	name="Branca" #D. Branca de Vilhena
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386447
+	1522.1.1={
+		birth="1522.1.1"
+	}
+	1586.1.1={
+		death="1586.1.1"
+	}
+}
+386477 = {
+	name="Maria" #D. Maria de Vilhena
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386447
+	1524.1.1={
+		birth="1524.1.1"
+	}
+	1589.1.1={
+		death="1589.1.1"
+	}
+}
+#Issue of Francisco de Meneses, o trombeta
+386478 = {
+	name="Henrique" #D. Henrique de Menezes que foi morto na batalha de Alcácer Quibir
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386471
+	1540.1.1={
+		birth="1540.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386479 = {
+	name="Bernardino" #Bernardino de Menezes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386471
+	1541.1.1={
+		birth="1541.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386480 = {
+	name="Diogo" #D. Diogo de Menezes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386471
+	1542.1.1={
+		birth="1542.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386481 = {
+	name="João" #D. João que igualmente morreu em Alcácer Quibir
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386471
+	1543.1.1={
+		birth="1543.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386482 = {
+	name="Jorge" #D. Jorge que morreu em iguais circunstancias
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386471
+	1544.1.1={
+		birth="1544.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386483 = {
+	name="Margarida" #D. Margarida, freira
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386471
+	1545.1.1={
+		birth="1545.1.1"
+	}
+	1599.1.1={
+		death="1599.1.1"
+	}
+}
+386484 = {
+	name="Luisa" #D. Luisa, religiosa
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386471
+	1545.1.1={
+		birth="1545.1.1"
+	}
+	1603.1.1={
+		death="1603.1.1"
+	}
+}
+386485 = {
+	name="Beatriz" #Beatriz de Vilhena
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386471
+	1546.1.1={
+		birth="1546.1.1"
+	}
+	1610.1.1={
+		death="1610.1.1"
+	}
+}
+#Issue of João Telo de Menezes, senhor de Aveiras
+386486 = {
+	name="Henrique" #D. Henrique, que em 1578 morreu na Batalha de Alcácer Quibir
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386469
+	1536.1.1={
+		birth="1536.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386487 = {
+	name="João" #D. João, que, tal como seu irmão, morreu na Batalha de Alcácer Quibir
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386469
+	1538.1.1={
+		birth="1538.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386488 = {
+	name="Margarida" #D. Margarida
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386469
+	1539.1.1={
+		birth="1539.1.1"
+	}
+	1600.1.1={
+		death="1600.1.1"
+	}
+}
+#Issue of Bernardino de Menezes
+386489 = {
+	name="Francisca" #D. Francisca Sá de Menezes
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386479
+	1562.1.1={
+		birth="1562.1.1"
+	}
+	1610.1.1={
+		death="1610.1.1"
+	}
+}
+386490 = {
+	name="Ana" #D. Ana de Vilhena
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386479
+	1564.1.1={
+		birth="1564.1.1"
+	}
+	1611.1.1={
+		death="1611.1.1"
+	}
+}
+386491 = {
+	name="Francisco" #D. Francisco de Menezes, o Barrabás
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386479
+	1568.1.1={
+		birth="1568.1.1"
+	}
+	1659.1.1={
+		death="1659.1.1"
+	}
+}
+#Issue of Francisco de Menezes, o Barrabás
+386492 = {
+	name="Luísa" #D. Luísa de Meneses
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386491
+	1590.1.1={
+		birth="1590.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+386493 = {
+	name="Francisco" #D. Francisco ill
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386491
+	trait=bastard
+	1595.1.1={
+		birth="1595.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+386494 = {
+	name="Filipa" #D. Filipa freira
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386491
+	trait=nun
+	trait=bastard
+	1592.1.1={
+		birth="1592.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+386495 = {
+	name="Serafina" #D. Serafina freira
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386491
+	trait=nun
+	trait=bastard
+	1594.1.1={
+		birth="1594.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+386496 = {
+	name="Lourença" #D. Lourença de Vilhena
+	female=yes
+	dynasty=400 #de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=386491
+	trait=bastard
+	1597.1.1={
+		birth="1597.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+#Issue of Fernando de MENEZES (3rd Seigneur de CANTANHEDE) again
+386497 = {
+	name="Telo" 
+	dynasty=400 #D. Telo de Menezes, senhor de Oliveira do Bairro
+	religion="catholic"
+	culture="portuguese"
+	father=379650
+	1415.1.1={
+		birth="1415.1.1"
+	}
+	1469.1.1={
+		death="1469.1.1"
+	}
+}
+386498 = {
+	name="Martinho" 
+	dynasty=400 #D. Martinho de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=379650
+	1419.1.1={
+		birth="1419.1.1"
+	}
+	1475.1.1={
+		death="1475.1.1"
+	}
+}
+386499 = {
+	name="Martinho" 
+	dynasty=400 #D. Martinho de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=379650
+	1414.1.1={
+		birth="1414.1.1"
+	}
+	1480.1.1={
+		death="1480.1.1"
+	}
+}
+386500 = {
+	name="Fernando" 
+	dynasty=400 #D. Fernando de Menezes, 1º senhor do Louriçal
+	religion="catholic"
+	culture="portuguese"
+	father=379650
+	1435.1.1={
+		birth="1435.1.1"
+	}
+	1500.1.1={
+		death="1500.1.1"
+	}
+}
+386501 = {
+	name="Cecília" 
+	female=yes
+	dynasty=400 #D. Cecília de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=379650
+	1430.1.1={
+		birth="1430.1.1"
+	}
+	1480.1.1={
+		death="1480.1.1"
+	}
+}
+386502 = {
+	name="Brites" 
+	female=yes
+	dynasty=400 #D. Brites de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=379650
+	1428.1.1={
+		birth="1428.1.1"
+	}
+	1470.1.1={
+		death="1470.1.1"
+	}
+}
+386503 = {
+	name="Maria" 
+	female=yes
+	dynasty=400 #D. Maria de Menezes
+	religion="catholic"
+	culture="portuguese"
+	father=379650
+	1423.1.1={
+		birth="1423.1.1"
+	}
+	1467.1.1={
+		death="1467.1.1"
+	}
+}
+#Issue of D. Fernando de Menezes, 1º senhor do Louriçal
+386501 = {
+	name="Henrique" #Henrique de Meneses
+	dynasty=400
+	religion="catholic"
+	culture="portuguese"
+	father=386500
+	trait=bastard
+	1496.1.1={
+		birth="1496.1.1"
+	}
+	1526.2.2={
+		death="1526.2.2"
+	}
+}
+#Issue of Estêvão da Gama (pai de Vasco da Gama)
+386502 = {
+	name="Estêvão" #Vasco da Gama
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	1385.1.1={
+		birth="1385.1.1"
+	}
+	1447.1.1={
+		death="1447.1.1"
+	}
+}
+386503 = {
+	name="Estêvão" #Estêvão da Gama (pai de Vasco da Gama)
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386502
+	1430.1.1={
+		birth="1430.1.1"
+	}
+	1497.1.1={
+		death="1497.1.1"
+	}
+}
+386504 = {
+	name="Vasco" #D. Vasco da Gama, 1.º conde da Vidigueira
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386503
+	1460.1.1={
+		birth="1460.1.1"
+	}
+	1524.12.24={
+		death="1524.12.24"
+	}
+}
+386505 = {
+	name="Paulo" #Paulo da Gama
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386503
+	1465.1.1={
+		birth="1465.1.1"
+	}
+	1499.6.1={
+		death="1499.6.1"
+	}
+}
+#Issue of D. Vasco da Gama, 1.º conde da Vidigueira
+386506 = {
+	name="Estêvão" #Estêvão da Gama (1505–1576). 12° Governador da Índia Portuguesa
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386504
+	1505.1.1={
+		birth="1505.1.1"
+	}
+	1576.1.1={
+		death="1576.1.1"
+	}
+}
+386507 = {
+	name="Isabel" #Isabel de Ataide (1506–?)
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386504
+	1506.1.1={
+		birth="1506.1.1"
+	}
+	1570.1.1={
+		death="1570.1.1"
+	}
+}
+386508 = {
+	name="Pedro" #Pedro da Gama (1507–?)
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386504
+	1507.1.1={
+		birth="1507.1.1"
+	}
+	1574.1.1={
+		death="1574.1.1"
+	}
+}
+386509 = {
+	name="Francisco" #Francisco da Gama (1510–?). 2° Conde da Vidigueira
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386504
+	1510.1.1={
+		birth="1510.1.1"
+	}
+	1580.1.1={
+		death="1580.1.1"
+	}
+}
+386510 = {
+	name="Cristóvão" #Cristóvão da Gama (1516–1542)
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386504
+	1516.1.1={
+		birth="1516.1.1"
+	}
+	1542.1.1={
+		death="1542.1.1"
+	}
+}
+386511 = {
+	name="Álvaro" #Álvaro da Gama (1517–?). Capitão de Malaca
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386504
+	1517.1.1={
+		birth="1517.1.1"
+	}
+	1575.1.1={
+		death="1575.1.1"
+	}
+}
+386512 = {
+	name="Paulo" #Paulo da Gama (1518–?)
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386504
+	1518.1.1={
+		birth="1518.1.1"
+	}
+	1583.1.1={
+		death="1583.1.1"
+	}
+}
+386513 = {
+	name="Juliana" #Juliana da Gama (1519–?)
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386504
+	1519.1.1={
+		birth="1519.1.1"
+	}
+	1579.1.1={
+		death="1579.1.1"
+	}
+}
+#Issue of Francisco da Gama, 2.º Conde da Vidigueira
+386514 = {
+	name="Vasco" #Vasco da Gama, 3.º Conde da Vidigueira
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386509
+	1530.1.1={
+		birth="1530.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386515 = {
+	name="Francisco" #Francisco de Portugal, comendador de Fronteira
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386509
+	1532.1.1={
+		birth="1532.1.1"
+	}
+	1579.1.1={
+		death="1579.1.1"
+	}
+}
+386516 = {
+	name="Catarina" #D. Catarina de Ataíde
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386509
+	1534.1.1={
+		birth="1534.1.1"
+	}
+	1572.1.1={
+		death="1572.1.1"
+	}
+}
+386517 = {
+	name="Manuel" #D. Manuel de Portugal, Prior da Vidigueira
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386509
+	1535.1.1={
+		birth="1535.1.1"
+	}
+	1580.1.1={
+		death="1580.1.1"
+	}
+}
+386518 = {
+	name="Miguel" #D. Miguel de Portugal
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386509
+	1538.1.1={
+		birth="1538.1.1"
+	}
+	1575.1.1={
+		death="1575.1.1"
+	}
+}
+386519 = {
+	name="João" #D. João da Gama, Capitão de Malaca
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386509
+	1540.1.1={
+		birth="1540.1.1"
+	}
+	1591.1.1={
+		death="1591.1.1"
+	}
+}
+386520 = {
+	name="Maria" #D. Maria de Vilhena
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386509
+	1541.1.1={
+		birth="1541.1.1"
+	}
+	1591.1.1={
+		death="1591.1.1"
+	}
+}
+386521 = {
+	name="Paula" #D. Paula de Ataíde
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386509
+	1542.1.1={
+		birth="1542.1.1"
+	}
+	1585.1.1={
+		death="1585.1.1"
+	}
+}
+386522 = {
+	name="Ana" #D. Ana de Ataíde, freira
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386509
+	trait=nun
+	1543.1.1={
+		birth="1543.1.1"
+	}
+	1587.1.1={
+		death="1587.1.1"
+	}
+}
+#Issue of Francisco de Portugal, comendador de Fronteira
+386523 = {
+	name="Lucas" #D. Lucas de Portugal, alcaide-mor e comendador de Fronteira na Ordem de Avis
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386515
+	1550.1.1={
+		birth="1550.1.1"
+	}
+	1604.1.1={
+		death="1604.1.1"
+	}
+}
+386524 = {
+	name="João" #D. João de Portugal
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386515
+	1551.1.1={
+		birth="1551.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386525 = {
+	name="Sebastião" #D. Sebastião de Portugal
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386515
+	1552.1.1={
+		birth="1552.1.1"
+	}
+	1560.1.1={
+		death="1560.1.1"
+	}
+}
+386526 = {
+	name="Sebastião" #D. Filipe de Portugal
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386515
+	1553.1.1={
+		birth="1553.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386527 = {
+	name="Vasco" #D. Vasco da Gama
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386515
+	1554.1.1={
+		birth="1554.1.1"
+	}
+	1608.1.1={
+		death="1608.1.1"
+	}
+}
+386528 = {
+	name="Paulo" #D. Paulo da Gama
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386515
+	1555.1.1={
+		birth="1555.1.1"
+	}
+	1609.1.1={
+		death="1609.1.1"
+	}
+}
+386529 = {
+	name="Margarida" #D. Margarida de Vilhena
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386515
+	1556.1.1={
+		birth="1556.1.1"
+	}
+	1604.1.1={
+		death="1604.1.1"
+	}
+}
+386530 = {
+	name="Catarina" #D. Catarina de Ataíde
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386515
+	1557.1.1={
+		birth="1557.1.1"
+	}
+	1606.1.1={
+		death="1606.1.1"
+	}
+}
+386531 = {
+	name="Maria" #D. Maria de Portugal
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386515
+	trait=nun
+	1558.1.1={
+		birth="1558.1.1"
+	}
+	1610.1.1={
+		death="1610.1.1"
+	}
+}
+386532 = {
+	name="Guiomar" #D. Guiomar de Vilhena
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386515
+	trait=nun
+	1559.1.1={
+		birth="1559.1.1"
+	}
+	1604.1.1={
+		death="1604.1.1"
+	}
+}
+386533 = {
+	name="Francisca" #D. Francisca de Ataíde
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386515
+	trait=nun
+	1560.1.1={
+		birth="1560.1.1"
+	}
+	1613.1.1={
+		death="1613.1.1"
+	}
+}
+#Issue of Lucas de Portugal
+386534 = {
+	name="Francisco" #Francisco de Portugal (1585-5 de Julho de 1632)
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386523
+	1585.1.1={
+		birth="1585.1.1"
+	}
+	1632.7.5={
+		death="1632.7.5"
+	}
+}
+386535 = {
+	name="Isabel" #Isabel da Silva
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386523
+	1586.1.1={
+		birth="1586.1.1"
+	}
+	1626.1.1={
+		death="1626.1.1"
+	}
+}
+386536 = {
+	name="Álvaro" #D. Álvaro, frade franciscano
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386523
+	trait=monk
+	trait=bastard
+	1587.1.1={
+		birth="1587.1.1"
+	}
+	1633.1.1={
+		death="1633.1.1"
+	}
+}
+386537 = {
+	name="João" #D. João de Portugal
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386523
+	trait=bastard
+	1588.1.1={
+		birth="1588.1.1"
+	}
+	1600.1.1={
+		death="1600.1.1"
+	}
+}
+386538 = {
+	name="Vasco" #D. Vasco de Portugal
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386523
+	trait=bastard
+	1589.1.1={
+		birth="1589.1.1"
+	}
+	1601.1.1={
+		death="1601.1.1"
+	}
+}
+386539 = {
+	name="Margarida" #D. Margarida, freira em Estremoz
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386523
+	trait=nun
+	trait=bastard
+	1590.1.1={
+		birth="1590.1.1"
+	}
+	1632.1.1={
+		death="1632.1.1"
+	}
+}
+386540 = {
+	name="Archangela" #D. Archangela
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386523
+	trait=nun
+	trait=bastard
+	1591.1.1={
+		birth="1591.1.1"
+	}
+	1637.1.1={
+		death="1637.1.1"
+	}
+}
+#Issue of Francisco de Portugal (1585-1632)
+386541 = {
+	name="Lucas" #D. Lucas de Portugal
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386534
+	1603.1.1={
+		birth="1603.1.1"
+	}
+	1684.10.23={
+		death="1684.10.23"
+	}
+}
+386542 = {
+	name="António" #D. António de Portugal, religioso da Ordem dos Pregadores
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386534
+	1604.1.1={
+		birth="1604.1.1"
+	}
+	1670.1.1={
+		death="1670.1.1"
+	}
+}
+386543 = {
+	name="António" #D. António de Portugal, religioso da Ordem dos Pregadores
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386534
+	1605.1.1={
+		birth="1605.1.1"
+	}
+	1642.1.1={
+		death="1642.1.1"
+	}
+}
+386544 = {
+	name="Lourenço" #D. Lourenço de Portugal
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386534
+	trait=monk
+	1606.1.1={
+		birth="1606.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+386545 = {
+	name="Carlos" #D. Carlos de Portugal, religioso na Ordem de Cristo
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386534
+	trait=monk
+	1607.1.1={
+		birth="1607.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+386546 = {
+	name="Maria" #D. Maria de Portugal casada com Paulo da Gama, primo direito de seu pai.
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386534
+	1608.1.1={
+		birth="1608.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+386547 = {
+	name="Mariana" #D. Mariana de Portugal
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386534
+	1609.1.1={
+		birth="1609.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+386548 = {
+	name="Margarida" #D. Margarida de Portugal.
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386534
+	1610.1.1={
+		birth="1610.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+#Issue of Vasco da Gama, 3.º Conde da Vidigueira
+386549 = {
+	name="António" #D. António da Gama, religioso.
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386514
+	trait=monk
+	1564.1.1={
+		birth="1564.1.1"
+	}
+	1614.1.1={
+		death="1614.1.1"
+	}
+}
+386550 = {
+	name="Francisco" #D. Francisco da Gama, 4º conde da Vidigueira
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386514
+	1565.1.1={
+		birth="1565.1.1"
+	}
+	1632.7.1={
+		death="1632.7.1"
+	}
+}
+386551 = {
+	name="Jorge" #D. Jorge da Gama
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386514
+	1566.1.1={
+		birth="1566.1.1"
+	}
+	1620.1.1={
+		death="1620.1.1"
+	}
+}
+386552 = {
+	name="António" #D. António da Gama
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386514
+	1567.1.1={
+		birth="1567.1.1"
+	}
+	1621.1.1={
+		death="1621.1.1"
+	}
+}
+386553 = {
+	name="João" #D. João da Gama
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386514
+	trait=monk
+	1568.1.1={
+		birth="1568.1.1"
+	}
+	1629.1.1={
+		death="1629.1.1"
+	}
+}
+386554 = {
+	name="Violante" #D. Violante de Ataíde
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386514
+	1569.1.1={
+		birth="1569.1.1"
+	}
+	1633.1.1={
+		death="1633.1.1"
+	}
+}
+386555 = {
+	name="Guiomar" #D. Guiomar de Vilhena, D. Eufrásia de Ataíde, D. Ana, D. Paula e D. Barbara, todas clarissas
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386514
+	trait=nun
+	1570.1.1={
+		birth="1570.1.1"
+	}
+	1620.1.1={
+		death="1620.1.1"
+	}
+}
+386556 = {
+	name="Eufrásia" #D. Guiomar de Vilhena, D. Eufrásia de Ataíde, D. Ana, D. Paula e D. Barbara, todas clarissas
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386514
+	trait=nun
+	1571.1.1={
+		birth="1571.1.1"
+	}
+	1627.1.1={
+		death="1627.1.1"
+	}
+}
+386557 = {
+	name="Ana" #D. Guiomar de Vilhena, D. Eufrásia de Ataíde, D. Ana, D. Paula e D. Barbara, todas clarissas
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386514
+	trait=nun
+	1572.1.1={
+		birth="1572.1.1"
+	}
+	1622.1.1={
+		death="1622.1.1"
+	}
+}
+#Issue of Francisco da Gama, 4.º Conde da Vidigueira
+386558 = {
+	name="Maria" #Maria Coutinho
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386550
+	1583.1.1={
+		birth="1583.1.1"
+	}
+	1630.1.1={
+		death="1630.1.1"
+	}
+}
+386559 = {
+	name="Eufrázia" #Eufrázia Maria de Tavora
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386550
+	1584.1.1={
+		birth="1584.1.1"
+	}
+	1635.1.1={
+		death="1635.1.1"
+	}
+}
+386560 = {
+	name="Catarina" #Catarina Coutinho
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386550
+	1585.1.1={
+		birth="1585.1.1"
+	}
+	1638.1.1={
+		death="1638.1.1"
+	}
+}
+386561 = {
+	name="Vasco Luís" #Vasco Luís da Gama, 5.º Conde da Vidigueira
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386550
+	1586.1.1={
+		birth="1586.1.1"
+	}
+	1641.1.1={
+		death="1641.1.1"
+	}
+}
+386562 = {
+	name="Guiomar" #Guiomar Coutinho
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386550
+	1587.1.1={
+		birth="1587.1.1"
+	}
+	1640.1.1={
+		death="1640.1.1"
+	}
+}
+386563 = {
+	name="Teresa Maria" #Teresa Maria Coutinho
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386550
+	1588.1.1={
+		birth="1588.1.1"
+	}
+	1630.1.1={
+		death="1630.1.1"
+	}
+}
+386564 = {
+	name="Inês Domingas" #Inês Domingas Coutinho
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386550
+	1589.1.1={
+		birth="1589.1.1"
+	}
+	1638.1.1={
+		death="1638.1.1"
+	}
+}
+386565 = {
+	name="Ana Maria" #Ana Maria Coutinho
+	female=yes
+	dynasty=1010044671
+	religion="catholic"
+	culture="portuguese"
+	father=386550
+	1590.1.1={
+		birth="1590.1.1"
+	}
+	1633.1.1={
+		death="1633.1.1"
+	}
+}
+386566 = {
+	name="Lopo Vaz" #Lopo Vaz de Sampaio
+	dynasty=1010044672
+	religion="catholic"
+	culture="portuguese"
+	1480.1.1={
+		birth="1480.1.1"
+	}
+	1534.1.1={
+		death="1534.1.1"
+	}
+}
+#Issue of Vasco Martins de Sousa Chichorro
+386568 = {
+	name="Martim Afonso" #Martim Afonso de Sousa (1343), 2º Senhor de Mortágua
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=459554
+	1343.1.1={
+		birth="1343.1.1"
+	}
+	1415.1.1={
+		death="1415.1.1"
+	}
+}
+386569 = {
+	name="Beatriz" #Beatriz de Sousa (1345)
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=459554
+	1345.1.1={
+		birth="1345.1.1"
+	}
+	1410.1.1={
+		death="1410.1.1"
+	}
+}
+386570 = {
+	name="Isabel" #Isabel Vasques de Sousa (1360)
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=459554
+	1348.1.1={
+		birth="1348.1.1"
+	}
+	1409.1.1={
+		death="1409.1.1"
+	}
+}
+386571 = {
+	name="Violante" #Violante Vasques de Sousa (1350)
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=459554
+	1350.1.1={
+		birth="1350.1.1"
+	}
+	1413.1.1={
+		death="1413.1.1"
+	}
+}
+386572 = {
+	name="Afonso" #Afonso Vasques de Sousa (1370), O Cavaleiro
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=459554
+	1370.1.1={
+		birth="1370.1.1"
+	}
+	1425.1.1={
+		death="1425.1.1"
+	}
+}
+#Issue of Afonso Vasques de Sousa
+386573 = {
+	name="Afonso" #Afonso Vasques de Sousa II (1400), cavaleiro da Ordem de Cristo
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386572
+	1400.1.1={
+		birth="1400.1.1"
+	}
+	1467.1.1={
+		death="1467.1.1"
+	}
+}
+386574 = {
+	name="Branca" #Branca de Sousa (1405)
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386572
+	1405.1.1={
+		birth="1405.1.1"
+	}
+	1473.1.1={
+		death="1473.1.1"
+	}
+}
+386575 = {
+	name="Mécia" #Mécia de Sousa (1410)
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386572
+	1410.1.1={
+		birth="1410.1.1"
+	}
+	1469.1.1={
+		death="1469.1.1"
+	}
+}
+386576 = {
+	name="Isabel" #Isabel de Sousa (1410)
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386572
+	1410.1.1={
+		birth="1410.1.1"
+	}
+	1479.1.1={
+		death="1479.1.1"
+	}
+}
+#Issue of Martim Afonso de Sousa (1343), 2º Senhor de Mortágua
+386577 = {
+	name="Gonçalo" #Gonçalo Anes de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386568
+	1366.1.1={
+		birth="1366.1.1"
+	}
+	1415.9.1={
+		death="1415.9.1"
+	}
+}
+386578 = {
+	name="Briolanja" #D. Briolanja de Sousa
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386568
+	1367.1.1={
+		birth="1367.1.1"
+	}
+	1419.1.1={
+		death="1419.1.1"
+	}
+}
+386579 = {
+	name="Inês" #D. Inês de Sousa
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386568
+	1368.1.1={
+		birth="1368.1.1"
+	}
+	1413.1.1={
+		death="1413.1.1"
+	}
+}
+386580 = {
+	name="Catarina" #D. Catarina de Sousa
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386568
+	1369.1.1={
+		birth="1369.1.1"
+	}
+	1404.1.1={
+		death="1404.1.1"
+	}
+}
+386581 = {
+	name="Martim" #Martim Afonso de Sousa, o Cavalheiro da Casa Real
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386568
+	trait=bastard
+	1401.1.1={
+		birth="1401.1.1"
+	}
+	1405.1.1={
+		remove_trait=bastard
+		trait=legit_bastard
+	}
+	1455.5.1={
+		death="1455.5.1"
+	}
+}
+386582 = {
+	name="Pedro" #Pedro Vasques de Sousa, fidalgo da Casa Real
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386568
+	trait=bastard
+	1402.1.1={
+		birth="1402.1.1"
+	}
+	1405.1.1={
+		remove_trait=bastard
+		trait=legit_bastard
+	}
+	1453.1.1={
+		death="1453.1.1"
+	}
+}
+386583 = {
+	name="Beatriz" #D. Beatriz de Sousa
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386568
+	trait=bastard
+	1403.1.1={
+		birth="1403.1.1"
+	}
+	1405.1.1={
+		remove_trait=bastard
+		trait=legit_bastard
+	}
+	1461.1.1={
+		death="1461.1.1"
+	}
+}
+#Issue of Gonçalo Anes de Sousa
+386584 = {
+	name="Mécia" #D. Mécia de Sousa
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386577
+	1401.1.1={
+		birth="1401.1.1"
+	}
+	1468.1.1={
+		death="1468.1.1"
+	}
+}
+386585 = {
+	name="Gonçalo" #D. Frei Gonçalo de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386577
+	trait=bastard
+	1394.1.1={
+		birth="1394.1.1"
+	}
+	1463.1.1={
+		death="1463.1.1"
+	}
+}
+#Issue of D. Frei Gonçalo de Sousa
+386586 = {
+	name="João" #João de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386585
+	trait=bastard
+	1431.1.1={
+		birth="1431.1.1"
+	}
+	1485.1.1={
+		death="1485.1.1"
+	}
+}
+386587 = {
+	name="Gonçalo" #Gonçalo de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386585
+	trait=bastard
+	1432.1.1={
+		birth="1432.1.1"
+	}
+	1481.1.1={
+		death="1481.1.1"
+	}
+}
+386588 = {
+	name="Cid" #Cid de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386585
+	trait=bastard
+	1433.1.1={
+		birth="1433.1.1"
+	}
+	1486.1.1={
+		death="1486.1.1"
+	}
+}
+386589 = {
+	name="Leonor" #Leonor de Sousa
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386585
+	trait=bastard
+	1434.1.1={
+		birth="1434.1.1"
+	}
+	1482.1.1={
+		death="1482.1.1"
+	}
+}
+386590 = {
+	name="Fernão" #Fernão de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386585
+	trait=bastard
+	1435.1.1={
+		birth="1435.1.1"
+	}
+	1485.1.1={
+		death="1485.1.1"
+	}
+}
+386591 = {
+	name="Duarte" #Duarte de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386585
+	trait=bastard
+	1436.1.1={
+		birth="1436.1.1"
+	}
+	1488.1.1={
+		death="1488.1.1"
+	}
+}
+386592 = {
+	name="Pedro" #Pedro de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386585
+	trait=bastard
+	1437.1.1={
+		birth="1437.1.1"
+	}
+	1495.1.1={
+		death="1495.1.1"
+	}
+}
+386593 = {
+	name="Nuno" #Nuno de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386585
+	trait=bastard
+	1438.1.1={
+		birth="1438.1.1"
+	}
+	1503.1.1={
+		death="1503.1.1"
+	}
+}
+386594 = {
+	name="Henrique" #Henrique de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386585
+	trait=bastard
+	1439.1.1={
+		birth="1439.1.1"
+	}
+	1490.1.1={
+		death="1490.1.1"
+	}
+}
+386595 = {
+	name="Cristóvão" #Cristóvão de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386585
+	trait=bastard
+	1440.1.1={
+		birth="1440.1.1"
+	}
+	1499.1.1={
+		death="1499.1.1"
+	}
+}
+386596 = {
+	name="Simão" #Simão de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386585
+	trait=bastard
+	1441.1.1={
+		birth="1441.1.1"
+	}
+	1504.1.1={
+		death="1504.1.1"
+	}
+}
+#Issue of Martim Afonso de Sousa, o Cavalheiro da Casa Real
+386597 = {
+	name="Fernão" #Fernão de Sousa (c. 1421 – c. 1492)
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386581
+	1421.1.1={
+		birth="1421.1.1"
+	}
+	1492.1.1={
+		death="1492.1.1"
+	}
+}
+386598 = {
+	name="Pedro" #Pedro de Sousa, 1.º Senhor de Prado (c. 1425 – antes de 07.08.1512)
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386581
+	1425.1.1={
+		birth="1425.1.1"
+	}
+	1512.8.7={
+		death="1512.8.7"
+	}
+}
+386599 = {
+	name="Rui" #Rui de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386581
+	1426.1.1={
+		birth="1426.1.1"
+	}
+	1500.1.1={
+		death="1500.1.1"
+	}
+}
+386600 = {
+	name="Vasco" #Vasco Martins de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386581
+	1428.1.1={
+		birth="1428.1.1"
+	}
+	1495.1.1={
+		death="1495.1.1"
+	}
+}
+386601 = {
+	name="João" #João de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386581
+	1429.1.1={
+		birth="1429.1.1"
+	}
+	1493.1.1={
+		death="1493.1.1"
+	}
+}
+386602 = {
+	name="Brites" #D. Brites de Sousa
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386581
+	1430.1.1={
+		birth="1430.1.1"
+	}
+	1498.1.1={
+		death="1498.1.1"
+	}
+}
+#Issue of Pedro de Sousa, 1.º Senhor de Prado
+386603 = {
+	name="Lopo" #Lopo de Sousa, 2º senhor do Prado
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386598
+	1460.1.1={
+		birth="1460.1.1"
+	}
+	1515.1.1={
+		death="1515.1.1"
+	}
+}
+386604 = {
+	name="João" #João de Souza
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386598
+	1463.1.1={
+		birth="1463.1.1"
+	}
+	1510.1.1={
+		death="1510.1.1"
+	}
+}
+#Issue of Lopo de Sousa, 2º senhor do Prado
+386605 = {
+	name="Martim Afonso" #D. Martim Afonso de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386603
+	1500.1.1={
+		birth="1500.1.1"
+	}
+	1564.7.21={
+		death="1564.7.21"
+	}
+}
+386606 = {
+	name="Pero" #Pero Lopes de Sousa (Lisboa, 1497 — Madagascar, 1539) 
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386603
+	1497.1.1={
+		birth="1497.1.1"
+	}
+	1539.1.1={
+		death="1539.1.1"
+	}
+}
+386607 = {
+	name="João" #João Rodrigues de Sousa, faleceu na Índia.
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386603
+	1501.1.1={
+		birth="1501.1.1"
+	}
+	1543.1.1={
+		death="1543.1.1"
+	}
+}
+386608 = {
+	name="Isabel" #Isabel de Albuquerque
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386603
+	1502.1.1={
+		birth="1502.1.1"
+	}
+	1560.1.1={
+		death="1560.1.1"
+	}
+}
+386609 = {
+	name="Catarina" #Catarina de Albuquerque, foi freira
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386603
+	trait=nun
+	1504.1.1={
+		birth="1504.1.1"
+	}
+	1555.1.1={
+		death="1555.1.1"
+	}
+}
+#Issue of Martim Afonso de Sousa
+386610 = {
+	name="Lopo" #Lopo Rodrigues de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386605
+	1534.1.1={
+		birth="1534.1.1"
+	}
+	1550.1.1={
+		death="1550.1.1"
+	}
+}
+386611 = {
+	name="Pero" #Pero Lopes de Sousa, Senhor de Alcoentre e Tabarro
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386605
+	1536.1.1={
+		birth="1536.1.1"
+	}
+	1578.8.4={
+		death="1578.8.4"
+	}
+}
+386612 = {
+	name="Rodrigo Afonso" #Rodrigo Afonso de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386605
+	trait=monk
+	1540.1.1={
+		birth="1540.1.1"
+	}
+	1596.5.1={
+		death="1596.5.1"
+	}
+}
+386613 = {
+	name="Gonçalo" #Gonçalo Rodrigues de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386605
+	trait=monk
+	1541.1.1={
+		birth="1541.1.1"
+	}
+	1590.1.1={
+		death="1590.1.1"
+	}
+}
+386614 = {
+	name="Inês" #Inês Pimentel
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386605
+	1542.1.1={
+		birth="1542.1.1"
+	}
+	1595.1.1={
+		death="1595.1.1"
+	}
+}
+386615 = {
+	name="Brites" #Brites Pimentel
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386605
+	1543.1.1={
+		birth="1543.1.1"
+	}
+	1591.1.1={
+		death="1591.1.1"
+	}
+}
+386616 = {
+	name="Tristão" #Tristão de Sousa, que passou pela Índia e foi capitão de Maluco
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386605
+	trait=bastard
+	1530.1.1={
+		birth="1530.1.1"
+	}
+	1575.1.1={
+		death="1575.1.1"
+	}
+}
+386617 = {
+	name="Isabel" #Isabel Lopes de Sousa
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386605
+	trait=bastard
+	1533.1.1={
+		birth="1533.1.1"
+	}
+	1579.1.1={
+		death="1579.1.1"
+	}
+}
+#Issue of Pero Lopes de Sousa, Senhor de Alcoentre e Tabarro
+386618 = {
+	name="Lopo" #Lopo de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386611
+	1555.1.1={
+		birth="1555.1.1"
+	}
+	1604.1.1={
+		death="1604.1.1"
+	}
+}
+386619 = {
+	name="Mariana" #Mariana de Sousa Guerra, Condessa de Vimieiro
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386611
+	1557.1.1={
+		birth="1557.1.1"
+	}
+	1609.1.1={
+		death="1609.1.1"
+	}
+}
+#Issue of Pero Lopes de Sousa (Lisboa, 1497 — Madagascar, 1539) 
+386620 = {
+	name="Martim Afonso" #Martim Afonso de Sousa
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386606
+	1520.1.1={
+		birth="1520.1.1"
+	}
+	1587.1.1={
+		death="1587.1.1"
+	}
+}
+386621 = {
+	name="Pero" #Pero Lopes de Sousa (filho)
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386606
+	1521.1.1={
+		birth="1521.1.1"
+	}
+	1592.1.1={
+		death="1592.1.1"
+	}
+}
+386622 = {
+	name="Jerônima" #Jerônima de Albuquerque e Sousa
+	female=yes
+	dynasty=1020117 #de Sousa Chichorro
+	religion="catholic"
+	culture="portuguese"
+	father=386606
+	1522.1.1={
+		birth="1522.1.1"
+	}
+	1590.1.1={
+		death="1590.1.1"
+	}
+}
+386623 = {
+	name="João" #D. João de Castro
+	dynasty=1010043998 #de Castro
+	religion="catholic"
+	culture="portuguese"
+	1500.2.27={
+		birth="1500.2.27"
+	}
+	1548.6.6={
+		death="1548.6.6"
+	}
+}
+386624 = {
+	name="Garcia" #Garcia de Sá
+	dynasty=9009 #de Sá
+	religion="catholic"
+	culture="portuguese"
+	1486.1.1={
+		birth="1486.1.1"
+	}
+	1549.6.13={
+		death="1549.6.13"
+	}
+}
+386625 = {
+	name="Jorge" #Jorge Cabral
+	dynasty=1010044674 #de Cabral
+	religion="catholic"
+	culture="portuguese"
+	1500.1.1={
+		birth="1500.1.1"
+	}
+	1557.1.1={
+		death="1557.1.1"
+	}
+}
+#Issue of João de Eça Saldaña
+386626 = {
+	name="Beatriz"	#D. Beatriz de Eça (c. 1465 - ?)
+	female=yes
+	dynasty=1010044017
+	religion="catholic"
+	culture="portuguese"
+	father=379995
+	1465.1.1={
+		birth="1465.1.1"
+	}
+	1514.1.1={
+		death="1514.1.1"
+	}
+}
+386627 = {
+	name="Vasco"	#D. Vasco de Eça
+	dynasty=1010044017
+	religion="catholic"
+	culture="portuguese"
+	father=379995
+	1445.1.1={
+		birth="1445.1.1"
+	}
+	1532.1.1={
+		death="1532.1.1"
+	}
+}
+386628 = {
+	name="Francisco"	#D. Francisco de Eça (c. 1468 - Conquista de Azamor, 1514)
+	dynasty=1010044017
+	religion="catholic"
+	culture="portuguese"
+	father=379995
+	1468.1.1={
+		birth="1468.1.1"
+	}
+	1514.1.1={
+		death="1514.1.1"
+	}
+}
+386629 = {
+	name="Guiomar"	#D. Guiomar de Eça
+	female=yes
+	dynasty=1010044017
+	religion="catholic"
+	culture="portuguese"
+	father=379995
+	1447.1.1={
+		birth="1447.1.1"
+	}
+	1500.1.1={
+		death="1500.1.1"
+	}
+}
+386630 = {
+	name="Madalena"	#D. Madalena de Eça
+	female=yes
+	dynasty=1010044017
+	religion="catholic"
+	culture="portuguese"
+	father=379995
+	1448.1.1={
+		birth="1448.1.1"
+	}
+	1508.1.1={
+		death="1508.1.1"
+	}
+}
+386631 = {
+	name="Fernando"	#D. Fernando de Eça (c. 1475 - d. 22 de Fevereiro de 1512)
+	dynasty=1010044017
+	religion="catholic"
+	culture="portuguese"
+	father=379995
+	1475.1.1={
+		birth="1475.1.1"
+	}
+	1512.2.22={
+		death="1512.2.22"
+	}
+}
+386632 = {
+	name="Pedro"	#D. Pedro de Eça (c. 1480 - ?)
+	dynasty=1010044017
+	religion="catholic"
+	culture="portuguese"
+	father=379995
+	1480.1.1={
+		birth="1480.1.1"
+	}
+	1501.1.1={
+		death="1501.1.1"
+	}
+}
+386633 = {
+	name="Duarte"	#D. Duarte de Eça
+	dynasty=1010044017
+	religion="catholic"
+	culture="portuguese"
+	father=379995
+	1481.1.1={
+		birth="1481.1.1"
+	}
+	1539.1.1={
+		death="1539.1.1"
+	}
+}
+#Issue of Vasco de Eça
+386634 = {
+	name="Duarte"	#Duarte de Eça
+	dynasty=1010044017
+	religion="catholic"
+	culture="portuguese"
+	father=386627
+	1500.1.1={
+		birth="1500.1.1"
+	}
+	1555.1.1={
+		death="1555.1.1"
+	}
+}
+386635 = {
+	name="João"	#D. João de Eça
+	dynasty=1010044017
+	religion="catholic"
+	culture="portuguese"
+	father=386627
+	1505.1.1={
+		birth="1505.1.1"
+	}
+	1560.1.1={
+		death="1560.1.1"
+	}
+}
+386636 = {
+	name="Maria"	#D. Maria de Eça
+	female=yes
+	dynasty=1010044017
+	religion="catholic"
+	culture="portuguese"
+	father=386627
+	1510.1.1={
+		birth="1510.1.1"
+	}
+	1544.1.1={
+		death="1544.1.1"
+	}
+}
+#Issue of Alfonso Enríquez (conde de Gijón y de Noreña)
+386637 = {
+	name="Pedro" #Pedro de Noroña
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	mother=370015
+	trait=monk
+	1382.1.1 = {
+		birth="1382.1.1"
+	}
+	1452.8.12 = {
+		death="1452.8.12"
+	}
+}
+386638 = {
+	name="Fernando" #Fernando de Noronha, 2.º Conde de Vila Real
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	mother=370015
+	1378.1.1 = {
+		birth="1378.1.1"
+	}
+	1420.1.1={
+		add_spouse=386425
+	}
+	1445.6.1 = {
+		death="1445.6.1"
+	}
+}
+386639 = {
+	name="Sancho" #Sancho de Noronha, 1.º conde de Odemira
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	mother=370015
+	1380.1.1 = {
+		birth="1380.1.1"
+	}
+	1471.5.6 = {
+		death="1471.5.6"
+	}
+}
+386640 = {
+	name="Henrique" #Henrique de Noronha
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	mother=370015
+	1384.1.1 = {
+		birth="1384.1.1"
+	}
+	1415.8.21 = {
+		death="1415.8.21"
+	}
+}
+386641 = {
+	name="João" #João de Noroña
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	mother=370015
+	1387.1.1 = {
+		birth="1387.1.1"
+	}
+	1416.1.1 = {
+		death="1416.1.1"
+	}
+}
+386642 = {
+	name="Constança" #Constanza de Noroña
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	mother=370015
+	1395.1.1 = {
+		birth="1395.1.1"
+	}
+	1480.1.26 = {
+		death="1480.1.26"
+	}
+}
+386643 = {
+	name="Juana" #Juana Enríquez, freira
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	trait=bastard
+	trait=nun
+	1375.1.1 = {
+		birth="1375.1.1"
+	}
+	1430.1.1 = {
+		death="1430.1.1"
+	}
+}
+386644 = {
+	name="João" #Juan Enríquez de Noroña
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	trait=bastard
+	1377.1.1 = {
+		birth="1377.1.1"
+	}
+	1425.1.1 = {
+		death="1425.1.1"
+	}
+}
+386645 = {
+	name="Beatriz" #Beatriz de Noroña
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	trait=bastard
+	1378.1.1 = {
+		birth="1378.1.1"
+	}
+	1433.1.1 = {
+		death="1433.1.1"
+	}
+}
+386646 = {
+	name="Diego" #Diego Enríquez de Noroña. santiago
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	trait=bastard
+	trait=monk
+	1379.1.1 = {
+		birth="1379.1.1"
+	}
+	1429.1.1 = {
+		death="1429.1.1"
+	}
+}
+386647 = {
+	name="Martim" #Martín Enríquez
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	trait=bastard
+	1395.1.1 = {
+		birth="1395.1.1"
+	}
+	1450.1.1 = {
+		death="1450.1.1"
+	}
+}
+386648 = {
+	name="Leão Afonso" #Leon Alfonso
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=371180
+	trait=bastard
+	1375.1.1 = {
+		birth="1375.1.1"
+	}
+	1420.1.1 = {
+		death="1420.1.1"
+	}
+}
+#Issue of Pedro de Noroña
+386649 = {
+	name="João" #João de Noronha (alcaide-mor)
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386637
+	trait=legit_bastard
+	1410.1.1 = {
+		birth="1410.1.1"
+	}
+	1475.1.1 = {
+		death="1475.1.1"
+	}
+}
+386650 = {
+	name="Pedro" #Pedro de Noroña (c. 1442-entre septiembre de 1491 y 14 de febrero de 1492)
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386637
+	trait=legit_bastard
+	1442.1.1 = {
+		birth="1442.1.1"
+	}
+	1492.2.14 = {
+		death="1492.2.14"
+	}
+}
+386651 = {
+	name="Isabel" #Isabel de Noronha
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386637
+	trait=legit_bastard
+	1441.1.1 = {
+		birth="1441.1.1"
+	}
+	1529.9.25 = {
+		death="1529.9.25"
+	}
+}
+386652 = {
+	name="Fernando" #Fernando de Noronha (alcaide-mor)
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386637
+	trait=legit_bastard
+	1443.1.1 = {
+		birth="1443.1.1"
+	}
+	1509.1.1 = {
+		death="1509.1.1"
+	}
+}
+386653 = {
+	name="Inés" #Inés de Noroña (c. 1446-27 de abril de 1495) 
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386637
+	trait=legit_bastard
+	1446.1.1 = {
+		birth="1446.1.1"
+	}
+	1495.4.27 = {
+		death="1495.4.27"
+	}
+}
+386654 = {
+	name="Leão" #León de Noroña
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386637
+	trait=legit_bastard
+	1447.1.1 = {
+		birth="1447.1.1"
+	}
+	1476.3.1 = {
+		death="1476.3.1"
+	}
+}
+386655 = {
+	name="Leonor" #Leonor de Noroña (c. 1451–a. 1519)
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386637
+	trait=legit_bastard
+	1451.1.1 = {
+		birth="1451.1.1"
+	}
+	1519.1.1 = {
+		death="1519.1.1"
+	}
+}
+#Issue of Fernando de Noronha, 2.º Conde de Vila Real
+386656 = {
+	name="Pedro" #D. Pedro de Meneses, 1.º Marquês de Vila Real 
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386638
+	mother=386425
+	1425.1.1 = {
+		birth="1425.1.1"
+	}
+	1462.8.6={
+		add_spouse=370273
+	}
+	1499.1.1 = {
+		death="1499.1.1"
+	}
+}
+386657 = {
+	name="João" #D. João de Noronha, "o Dentes", senhor de Sortelha
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386638
+	mother=386425
+	1420.1.1 = {
+		birth="1420.1.1"
+	}
+	1485.1.1 = {
+		death="1485.1.1"
+	}
+}
+#Issue of Sancho de Noroña
+386658 = {
+	name="María" #María de Noroña y Sousa (1440-¿?), V señora de Mortágua
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386639
+	1440.1.1 = {
+		birth="1440.1.1"
+	}
+	1501.1.1 = {
+		death="1501.1.1"
+	}
+}
+386659 = {
+	name="Luis" #Luis de Noroña (1420-¿?), comendador de Sines en la Orden de Santiago
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386639
+	trait=bastard
+	trait=monk
+	1420.1.1 = {
+		birth="1420.1.1"
+	}
+	1487.1.1 = {
+		death="1487.1.1"
+	}
+}
+#Issue of Henrique de Noronha
+386660 = {
+	name="Nuno" #D. Nuno de Noronha
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386640
+	trait=bastard
+	1400.1.1 = {
+		birth="1400.1.1"
+	}
+	1469.1.1 = {
+		death="1469.1.1"
+	}
+}
+386661 = {
+	name="Maria" #D. Maria de Noronha
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386640
+	trait=bastard
+	1401.1.1 = {
+		birth="1401.1.1"
+	}
+	1476.1.1 = {
+		death="1476.1.1"
+	}
+}
+#Issue of Pedro de Meneses, 1.º Marquês de Vila Real
+386662 = {
+	name="Fernando" #Fernando de Meneses, 2.º Marquês de Vila Real
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386656
+	mother=370273
+	1463.1.1 = {
+		birth="1463.1.1"
+	}
+	1524.1.1 = {
+		death="1524.1.1"
+	}
+}
+386663 = {
+	name="António" #António de Noronha, 1.º Conde de Linhares
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386656
+	mother=370273
+	1464.1.1 = {
+		birth="1464.1.1"
+	}
+	1551.3.1 = {
+		death="1551.3.1"
+	}
+}
+386664 = {
+	name="Henrique" #Henrique de Meneses
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386656
+	mother=370273
+	1465.1.1 = {
+		birth="1465.1.1"
+	}
+	1514.1.1 = {
+		death="1514.1.1"
+	}
+}
+386665 = {
+	name="Joana" #Joana de Noronha
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386656
+	mother=370273
+	1466.1.1 = {
+		birth="1466.1.1"
+	}
+	1522.1.1 = {
+		death="1522.1.1"
+	}
+}
+386666 = {
+	name="Diogo" #Diogo de Noronha
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386656
+	mother=370273
+	trait=monk	#christ
+	1467.1.1 = {
+		birth="1467.1.1"
+	}
+	1533.1.1 = {
+		death="1533.1.1"
+	}
+}
+386667 = {
+	name="João" #João de Noronha (? - depois de 1505), prior-mor de Santa Cruz de Coimbra
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386656
+	mother=370273
+	trait=monk
+	1468.1.1 = {
+		birth="1468.1.1"
+	}
+	1521.1.1 = {
+		death="1521.1.1"
+	}
+}
+#Issue of João de Noronha, senhor de Sortelha
+386668 = {
+	name="Pedro" #Pedro de Castro, 3.º Conde de Monsanto
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386657
+	1460.1.1 = {
+		birth="1460.1.1"
+	}
+	1529.2.5 = {
+		death="1529.2.5"
+	}
+}
+#Issue of Pedro de Castro, 3.º Conde de Monsanto
+386669 = {
+	name="Luís" #D. Luís de Castro, senhor de Cascais e Monsanto (c. 1500 -?)
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386668
+	1500.1.1 = {
+		birth="1500.1.1"
+	}
+	1561.1.1 = {
+		death="1561.1.1"
+	}
+}
+386670 = {
+	name="Maria" #D. Maria de Castro e Ayala
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386668
+	1501.1.1 = {
+		birth="1501.1.1"
+	}
+	1565.1.1 = {
+		death="1565.1.1"
+	}
+}
+386671 = {
+	name="Luísa" #D. Luísa de Castro
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386668
+	1502.1.1 = {
+		birth="1502.1.1"
+	}
+	1575.1.1 = {
+		death="1575.1.1"
+	}
+}
+386672 = {
+	name="Luísa" #D. Luísa de Castro, a Beça
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386668
+	1503.1.1 = {
+		birth="1503.1.1"
+	}
+	1571.1.1 = {
+		death="1571.1.1"
+	}
+}
+#Issue of D. Luís de Castro, senhor de Cascais e Monsanto (c. 1500 -?)
+386673 = {
+	name="António" #António de Castro, 4.º Conde de Monsanto
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386669
+	1530.1.1 = {
+		birth="1530.1.1"
+	}
+	1602.1.1 = {
+		death="1602.1.1"
+	}
+}
+#Issue of António de Castro, 4.º Conde de Monsanto
+386674 = {
+	name="Luís" #D. Luís de Castro, 5.º Conde de Monsanto.
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386673
+	1560.1.1 = {
+		birth="1560.1.1"
+	}
+	1612.1.1 = {
+		death="1612.1.1"
+	}
+}
+386675 = {
+	name="Martim Afonso" #D. Martim Afonso de Castro
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386673
+	1562.1.1 = {
+		birth="1562.1.1"
+	}
+	1607.6.3 = {
+		death="1607.6.3"
+	}
+}
+386676 = {
+	name="Álvaro" #D. Álvaro de Castro
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386673
+	1563.1.1 = {
+		birth="1563.1.1"
+	}
+	1609.1.1 = {
+		death="1609.1.1"
+	}
+}
+#Issue of Luís de Castro, 5.º Conde de Monsanto
+386677 = {
+	name="Álvaro" #D. Álvaro Pires de Castro e Sousa, 1.º Marquês de Cascais e 6.º Conde de Monsanto
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386674
+	1590.1.1 = {
+		birth="1590.1.1"
+	}
+	1674.7.11 = {
+		death="1674.7.11"
+	}
+}
+386678 = {
+	name="Francisco" #D. Francisco de Castro
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386674
+	1591.1.1 = {
+		birth="1591.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+386679 = {
+	name="Rodrigo" #D. Rodrigo de Castro
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386674
+	1592.1.1 = {
+		birth="1592.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+386680 = {
+	name="Francisco" #D. Francisco de Noronha
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386674
+	1592.1.1 = {
+		birth="1592.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+386681 = {
+	name="Joana" #D. Joana de Castro e Noronha, freira na Encarnação de Lisboa
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386674
+	trait=nun
+	1593.1.1 = {
+		birth="1593.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+386682 = {
+	name="Ana" #D. Ana de Castro e Noronha, freira na Encarnação de Lisboa
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386674
+	trait=nun
+	1594.1.1 = {
+		birth="1594.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+#Issue of Álvaro Pires de Castro e Sousa, 1.º Marquês de Cascais
+386683 = {
+	name="Joana Inês" #D. Joana Inês de Portugal
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386677
+	1610.1.1 = {
+		birth="1610.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+386684 = {
+	name="Mécia" #D. Mécia de Noronha
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386677
+	1612.1.1 = {
+		birth="1612.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+#Issue of António de Noronha, 1.º Conde de Linhares
+386685 = {
+	name="Inácio" #Inácio de Noronha, o Berguilha
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386663
+	1506.1.1 = {
+		birth="1506.1.1"
+	}
+	1560.1.1 = {
+		death="1560.1.1"
+	}
+}
+386686 = {
+	name="Francisco" #Francisco de Noronha, 2.º Conde de Linhares
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386663
+	1507.1.1 = {
+		birth="1507.1.1"
+	}
+	1574.6.13 = {
+		death="1574.6.13"
+	}
+}
+386687 = {
+	name="Francisco" #Pedro de Meneses
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386663
+	1508.1.1 = {
+		birth="1508.1.1"
+	}
+	1570.1.1 = {
+		death="1570.1.1"
+	}
+}
+386688 = {
+	name="Maria" #Maria de Noronha e Ayala
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386663
+	1509.1.1 = {
+		birth="1509.1.1"
+	}
+	1588.1.1 = {
+		death="1588.1.1"
+	}
+}
+386689 = {
+	name="Margarida" #Margarida da Silva de Meneses
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386663
+	1510.1.1 = {
+		birth="1510.1.1"
+	}
+	1585.1.1 = {
+		death="1585.1.1"
+	}
+}
+#Issue of Fernando de Meneses, 2.º Marquês de Vila Real
+386690 = {
+	name="Pedro" #Pedro de Meneses (c1486-1543), 3.º Marquês de Vila Real
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386662
+	1486.1.1 = {
+		birth="1486.1.1"
+	}
+	1521.1.1={
+		add_spouse=386697
+	}
+	1543.1.1 = {
+		death="1543.1.1"
+	}
+}
+386691 = {
+	name="João" #João de Noronha (?-1524), Capitão de Ceuta
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386662
+	1485.1.1 = {
+		birth="1485.1.1"
+	}
+	1524.8.16 = {
+		death="1524.8.16"
+	}
+}
+386692 = {
+	name="Leonor" #Leonor de Noronha
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386662
+	trait=nun
+	1488.1.1 = {
+		birth="1488.1.1"
+	}
+	1563.2.17 = {
+		death="1563.2.17"
+	}
+}
+386693 = {
+	name="Nuno" #Nuno Álvares Pereira de Noronha (c.1490-?)
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386662
+	1493.1.1 = {
+		birth="1493.1.1"
+	}
+	1547.1.1 = {
+		death="1547.1.1"
+	}
+}
+386694 = {
+	name="Afonso" #Afonso de Noronha, 5.º vice-rei da Índia
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386662
+	1510.1.1 = {
+		birth="1510.1.1"
+	}
+	1529.1.1={
+		add_spouse=386636
+	}
+	1573.1.1 = {
+		death="1573.1.1"
+	}
+}
+386695 = {
+	name="Maria" #Maria de Meneses, casou com Álvaro Velho
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386662
+	1500.1.1 = {
+		birth="1500.1.1"
+	}
+	1568.1.1 = {
+		death="1568.1.1"
+	}
+}
+#Issue of Diogo, Duque de Viseu
+386696 = {
+	name="Afonso"	#Afonso de Viseu
+	dynasty=1010043090
+	religion="catholic"
+	culture="portuguese"
+	father=370285
+	trait=bastard
+	1480.1.1 = {
+		birth="1480.1.1"
+	}
+	1500.6.2={
+		add_spouse=386665
+	}
+	1504.1.1 = {
+		death="1504.1.1"
+	}
+}
+#Issue of Afonso de Viseu
+386697 = {
+	name="Brites"	#Brites de Lara
+	female=yes
+	dynasty=1010043090
+	religion="catholic"
+	culture="portuguese"
+	father=386696
+	mother=386665
+	1502.1.1 = {
+		birth="1502.1.1"
+	}
+	1555.1.1 = {
+		death="1555.1.1"
+	}
+}
+#Issue of Pedro de Meneses, 3.º Marquês de Vila Real
+386698 = {
+	name="Juliana" #Juliana de Lara, casada com João de Lencastre, Duque de Aveiro
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386690
+	mother=386697
+	1521.1.1 = {
+		birth="1521.1.1"
+	}
+	1590.1.1 = {
+		death="1590.1.1"
+	}
+}
+386699 = {
+	name="Miguel" #Miguel de Meneses, 4.º Marquês de Vila Real
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386690
+	mother=386697
+	1522.1.1 = {
+		birth="1522.1.1"
+	}
+	1564.1.1 = {
+		death="1564.1.1"
+	}
+}
+386700 = {
+	name="Maria" #Maria de Lara (1535-?)
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386690
+	mother=386697
+	1524.1.1 = {
+		birth="1524.1.1"
+	}
+	1570.1.1 = {
+		death="1570.1.1"
+	}
+}
+386701 = {
+	name="Maria" #Bárbara de Lara (1536-?)
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386690
+	mother=386697
+	1527.1.1 = {
+		birth="1527.1.1"
+	}
+	1589.1.1 = {
+		death="1589.1.1"
+	}
+}
+386702 = {
+	name="Manuel" #Manuel de Meneses, 5.º Marquês de Vila Real
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386690
+	mother=386697
+	1535.1.1 = {
+		birth="1535.1.1"
+	}
+	1590.1.1 = {
+		death="1590.1.1"
+	}
+}
+#Issue of João de Noronha, Capitão de Ceuta
+386703 = {
+	name="Antão" #Antão de Noronha
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386691
+	trait=bastard
+	1520.1.1 = {
+		birth="1520.1.1"
+	}
+	1569.1.1 = {
+		death="1569.1.1"
+	}
+}
+#Issue of Manuel de Meneses, 5.º Marquês de Vila Real
+386704 = {
+	name="Miguel Luís" #Dom Miguel Luís de Meneses, 1.º Duque de Caminha
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386702
+	1565.1.1 = {
+		birth="1565.1.1"
+	}
+	1637.8.10 = {
+		death="1637.8.10"
+	}
+}
+386705 = {
+	name="Luís" #Dom Luís de Noronha e Meneses, 7.º Marquês de Vila Real
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386702
+	1570.1.1 = {
+		birth="1570.1.1"
+	}
+	1641.8.29 = {
+		death="1641.8.29"
+	}
+}
+386706 = {
+	name="Brites" #Dona Brites de Lara e Meneses, que casou-se com Pedro de Médici, Príncipe da Toscana
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386702
+	1572.1.1 = {
+		birth="1572.1.1"
+	}
+	1638.1.1 = {
+		death="1638.1.1"
+	}
+}
+386707 = {
+	name="Juliana" #Dona Juliana de Lara
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386702
+	1574.1.1 = {
+		birth="1574.1.1"
+	}
+	1633.1.1 = {
+		death="1633.1.1"
+	}
+}
+386708 = {
+	name="Filipa" #Dona Filipa de Lara
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386702
+	1575.1.1 = {
+		birth="1575.1.1"
+	}
+	1639.1.1 = {
+		death="1639.1.1"
+	}
+}
+386709 = {
+	name="Maria" #Dona Maria de Lara
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386702
+	trait=nun
+	1578.1.1 = {
+		birth="1578.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+386710 = {
+	name="Joana" #Dona Joana de Lara
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386702
+	1580.1.1 = {
+		birth="1580.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+#Issue of Dom Luís de Noronha e Meneses, 7.º Marquês de Vila Real
+386711 = {
+	name="Miguel Luís" #Miguel Luís de Meneses, 2.º Duque de Caminha
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386705
+	1614.1.1 = {
+		birth="1614.1.1"
+	}
+	1641.8.29 = {
+		death="1641.8.29"
+	}
+}
+#Issue of João de Noronha (alcaide-mor)
+386712 = {
+	name="João" #D. João de Noronha (1440 -?)
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386649
+	1440.1.1 = {
+		birth="1440.1.1"
+	}
+	1513.1.1 = {
+		death="1513.1.1"
+	}
+}
+386713 = {
+	name="Sancho" #D. Sancho de Noronha
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386649
+	1441.1.1 = {
+		birth="1441.1.1"
+	}
+	1510.1.1 = {
+		death="1510.1.1"
+	}
+}
+386714 = {
+	name="Joana" #D. Joana de Castro
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386649
+	1443.1.1 = {
+		birth="1443.1.1"
+	}
+	1511.1.1 = {
+		death="1511.1.1"
+	}
+}
+#Issue of Fernando de Noronha (alcaide-mor)
+386715 = {
+	name="Afonso" #D. Afonso de Noronha (1480 -?)
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386652
+	1480.1.1 = {
+		birth="1480.1.1"
+	}
+	1554.1.1 = {
+		death="1554.1.1"
+	}
+}
+386716 = {
+	name="Isabel" #D. Isabel de Castro (1470 -?)
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386652
+	1470.1.1 = {
+		birth="1470.1.1"
+	}
+	1521.1.1 = {
+		death="1521.1.1"
+	}
+}
+386717 = {
+	name="Álvaro" #D. Álvaro de Noronha (1475 -?)
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386652
+	1475.1.1 = {
+		birth="1475.1.1"
+	}
+	1533.1.1 = {
+		death="1533.1.1"
+	}
+}
+386718 = {
+	name="Garcia" #D. Garcia de Noronha (1480 -?), 3.º vice-rei da Índia casou com D. Inês de Castro.
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386652
+	1479.1.1 = {
+		birth="1479.1.1"
+	}
+	1540.4.3 = {
+		death="1540.4.3"
+	}
+}
+386719 = {
+	name="Jorge" #D. Jorge de Noronha
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386652
+	1481.1.1 = {
+		birth="1481.1.1"
+	}
+	1544.1.1 = {
+		death="1544.1.1"
+	}
+}
+386720 = {
+	name="António" #D. António de Noronha (?- 1510)
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386652
+	1483.1.1 = {
+		birth="1483.1.1"
+	}
+	1510.1.1 = {
+		death="1510.1.1"
+	}
+}
+386721 = {
+	name="Leonor" #D. Leonor de Noronha (c. 1480 -?)
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386652
+	1480.1.1 = {
+		birth="1480.1.1"
+	}
+	1536.1.1 = {
+		death="1536.1.1"
+	}
+}
+386722 = {
+	name="Fernão" #Fernão Teles de Meneses, Governador da Índia
+	dynasty=1010044675
+	religion="catholic"
+	culture="portuguese"
+	1530.1.1 = {
+		birth="1530.1.1"
+	}
+	1605.11.26 = {
+		death="1605.11.26"
+	}
+}
+386723 = {
+	name="António" #António Teles de Meneses
+	dynasty=1010044675
+	religion="catholic"
+	culture="portuguese"
+	1600.1.1 = {
+		birth="1600.1.1"
+	}
+	1657.7.1 = {
+		death="1657.7.1"
+	}
+}
+386724 = {
+	name="Fernão"	#Fernão de Albuquerque
+	dynasty=1010044668
+	religion="catholic"
+	culture="portuguese"
+	1540.1.1={
+		birth="1540.1.1"
+	}
+	1623.1.29={
+		death="1623.1.29"
+	}
+}
+#Issue of Gonçalo Peres, Regedor da Casa do Cível e senhor de Belas
+386725 = {
+	name="Gonçalo"	#Gonçalo Peres, Regedor da Casa do Cível e senhor de Belas
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	1337.1.1={
+		birth="1337.1.1"
+	}
+	1402.1.1={
+		death="1402.1.1"
+	}
+} 
+386726 = {
+	name="Luís"	#Luís Gonçalves Malafaia
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386725
+	1389.1.1={
+		birth="1389.1.1"
+	}
+	1464.1.1={
+		death="1464.1.1"
+	}
+} 
+386727 = {
+	name="Pedro"	#Pedro Gonçalves Malafaia
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386725
+	1390.1.1={
+		birth="1390.1.1"
+	}
+	1435.1.1={
+		death="1435.1.1"
+	}
+} 
+#Issue of Pedro Gonçalves Malafaia
+386728 = {
+	name="Beatriz"	#D. Beatriz ou Brites da Silva (? – c. 1502)
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386727
+	1415.1.1={
+		birth="1415.1.1"
+	}
+	1502.1.1={
+		death="1502.1.1"
+	}
+} 
+386729 = {
+	name="Leonor"	#D. Leonor da Silva
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386727
+	1419.1.1={
+		birth="1419.1.1"
+	}
+	1503.1.1={
+		death="1503.1.1"
+	}
+} 
+386730 = {
+	name="Maria"	#D. Maria da Silva
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386727
+	1421.1.1={
+		birth="1421.1.1"
+	}
+	1504.1.1={
+		death="1504.1.1"
+	}
+} 
+#Issue of Luís Gonçalves Malafaia
+386731 = {
+	name="João"	#D. João de Azevedo, (nasceu c. 1430 – faleceu em Lisboa, 27.07.1517)
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386726
+	trait=bastard
+	1430.1.1={
+		birth="1430.1.1"
+	}
+	1517.7.27={
+		death="1517.7.27"
+	}
+} 
+386732 = {
+	name="Filipa"	#D. Filipa de Azevedo (c. 1430 - c. 1519)
+	female=yes
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386726
+	1431.1.1={
+		birth="1431.1.1"
+	}
+	1510.1.1={
+		death="1510.1.1"
+	}
+} 
+386733 = {
+	name="Joana"	#D. Joana de Azevedo
+	female=yes
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386726
+	1432.1.1={
+		birth="1432.1.1"
+	}
+	1500.1.1={
+		death="1500.1.1"
+	}
+} 
+386734 = {
+	name="Rodrigo"	#Rodrigo Malafaia
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386726
+	1433.1.1={
+		birth="1433.1.1"
+	}
+	1495.1.1={
+		death="1495.1.1"
+	}
+} 
+#Issue of João de Azevedo
+386735 = {
+	name="Pedro"	#D. Pedro de Azevedo
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386731
+	trait=legit_bastard
+	1430.1.1={
+		birth="1430.1.1"
+	}
+	1517.7.27={
+		death="1517.7.27"
+	}
+} 
+386736 = {
+	name="Manuel"	#D. Manuel da Silva (1486–1578)
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386731
+	trait=legit_bastard
+	1486.1.1={
+		birth="1486.1.1"
+	}
+	1578.1.1={
+		death="1578.1.1"
+	}
+} 
+386737 = {
+	name="Luís"	#D. Luís Gonçalves de Azevedo
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386731
+	trait=legit_bastard
+	1487.1.1={
+		birth="1487.1.1"
+	}
+	1512.1.1={
+		death="1512.1.1"
+	}
+} 
+386738 = {
+	name="Francisco"	#D. Francisco da Silva
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386731
+	trait=legit_bastard
+	1488.1.1={
+		birth="1488.1.1"
+	}
+	1516.5.20={
+		death="1516.5.20"
+	}
+} 
+386739 = {
+	name="António"	#D. António de Azevedo
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386731
+	trait=legit_bastard
+	1489.1.1={
+		birth="1489.1.1"
+	}
+	1515.1.1={
+		death="1515.1.1"
+	}
+} 
+#Issue of D. António de Azevedo
+386740 = {
+	name="António"	#D. António de Azevedo
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386739
+	trait=monk
+	1510.1.1={
+		birth="1510.1.1"
+	}
+	1596.5.10={
+		death="1596.5.10"
+	}
+} 
+#Issue of Manuel de Azevedo, senhor das honras de Barbosa e Ataíde
+386741 = {
+	name="Inácio"	#D. Inácio de Ataíde
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	trait=monk
+	1526.1.1={
+		birth="1526.1.1"
+	}
+	1580.7.15={
+		death="1580.7.15"
+	}
+} 
+386742 = {
+	name="João"	#D. João de Azevedo
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	trait=monk
+	1544.1.1={
+		birth="1544.1.1"
+	}
+	1615.1.1={
+		death="1615.1.1"
+	}
+} 
+386743 = {
+	name="Francisco"	#D. Francisco de Ataíde e Azevedo (n. antes de 1554 e f. em 11.05.1619) christ
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	trait=monk
+	1550.1.1={
+		birth="1550.1.1"
+	}
+	1619.5.11={
+		death="1619.5.11"
+	}
+} 
+386744 = {
+	name="Briolanja"	#D. Briolanja de Azevedo (1550 – 09.01.1595)
+	female=yes
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	1550.1.1={
+		birth="1550.1.1"
+	}
+	1595.1.9={
+		death="1595.1.9"
+	}
+} 
+386745 = {
+	name="Jerónimo"	#D. Jerónimo de Azevedo (c. 1560 – f. Lisboa, Castelo de São Jorge, 09.03.1625)
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	1560.1.1={
+		birth="1560.1.1"
+	}
+	1625.3.9={
+		death="1625.3.9"
+	}
+} 
+386746 = {
+	name="Manuel"	#D. Manuel de Azevedo
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	1570.1.1={
+		birth="1570.1.1"
+	}
+	1653.1.1={
+		death="1653.1.1"
+	}
+} 
+386747 = {
+	name="Luís"	#D. Luís de Azevedo
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	trait=monk
+	1562.1.1={
+		birth="1562.1.1"
+	}
+	1634.1.1={
+		death="1634.1.1"
+	}
+} 
+386748 = {
+	name="Guiomar"	#D. Guiomar de Ataíde
+	female=yes
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	trait=nun
+	1563.1.1={
+		birth="1563.1.1"
+	}
+	1612.1.1={
+		death="1612.1.1"
+	}
+} 
+386749 = {
+	name="Joana"	#D. Joana de Azevedo
+	female=yes
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	trait=nun
+	1564.1.1={
+		birth="1564.1.1"
+	}
+	1622.1.1={
+		death="1622.1.1"
+	}
+} 
+386750 = {
+	name="Catarina"	#D. Catarina de Ataíde, freira no mosteiro de Odivelas.
+	female=yes
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	trait=nun
+	1565.1.1={
+		birth="1565.1.1"
+	}
+	1631.1.1={
+		death="1631.1.1"
+	}
+} 
+386751 = {
+	name="Isabel"	#D. Isabel de Azevedo, freira no convento de Odivelas
+	female=yes
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	trait=nun
+	1566.1.1={
+		birth="1566.1.1"
+	}
+	1635.1.1={
+		death="1635.1.1"
+	}
+} 
+386752 = {
+	name="Maria"	#D. Maria de Azevedo, prioresa da Rosa, em Lisboa
+	female=yes
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	trait=nun
+	1567.1.1={
+		birth="1567.1.1"
+	}
+	1637.1.1={
+		death="1637.1.1"
+	}
+} 
+386753 = {
+	name="Francisca"	#D. Francisca da Silva, prioresa da Rosa, em Lisboa
+	female=yes
+	dynasty=1010044676
+	religion="catholic"
+	culture="portuguese"
+	father=386736
+	trait=legit_bastard
+	trait=nun
+	1568.1.1={
+		birth="1568.1.1"
+	}
+	1632.1.1={
+		death="1632.1.1"
+	}
+} 
+#Issue of Gonçalo Coelho 1010043067
+386754 = {
+	name="Gonçalo"	#Gonçalo Coelho
+	dynasty=1010043067
+	religion="catholic"
+	culture="portuguese"
+	1451.1.1={
+		birth="1451.1.1"
+	}
+	1512.1.1={
+		death="1512.1.1"
+	}
+} 
+386755 = {
+	name="Duarte"	#Duarte Coelho
+	dynasty=1010043067
+	religion="catholic"
+	culture="portuguese"
+	father=386754
+	trait=bastard
+	1485.1.1={
+		birth="1485.1.1"
+	}
+	1554.8.7={
+		death="1554.8.7"
+	}
+} 
+#Issue of Duarte Coelho
+386756 = {
+	name="Duarte"	#Duarte Coelho de Albuquerque
+	dynasty=1010043067
+	religion="catholic"
+	culture="portuguese"
+	father=386755
+	1537.1.1={
+		birth="1537.1.1"
+	}
+	1579.1.1={
+		death="1579.1.1"
+	}
+} 
+386757 = {
+	name="Jorge"	#Jorge de Albuquerque Coelho
+	dynasty=1010043067
+	religion="catholic"
+	culture="portuguese"
+	father=386755
+	1539.4.23={
+		birth="1539.4.23"
+	}
+	1596.1.1={
+		death="1596.1.1"
+	}
+} 
+#Issue of Jorge de Albuquerque Coelho
+386758 = {
+	name="Duarte"	#Duarte de Albuquerque Coelho
+	dynasty=1010043067
+	religion="catholic"
+	culture="portuguese"
+	father=386757
+	1591.12.22={
+		birth="1591.12.22"
+	}
+	1658.9.24={
+		death="1658.9.24"
+	}
+} 
+386759 = {
+	name="Matias"	#Matias de Albuquerque, 1º conde de Alegrete
+	dynasty=1010043067
+	religion="catholic"
+	culture="portuguese"
+	father=386757
+	1580.1.1={
+		birth="1580.1.1"
+	}
+	1647.6.9={
+		death="1647.6.9"
+	}
+} 
+#Issue of Duarte de Albuquerque Coelho
+386760 = {
+	name="Jorge"	#Jorge de Albuquerque Coelho
+	dynasty=1010043067
+	religion="catholic"
+	culture="portuguese"
+	father=386758
+	1617.1.1={
+		birth="1617.1.1"
+	}
+	1680.1.1={
+		death="1680.1.1"
+	}
+} 
+386761 = {
+	name="Maria Margarida"	#D. Maria Margarida de Castro
+	female=yes
+	dynasty=1010043067
+	religion="catholic"
+	culture="portuguese"
+	father=386758
+	1618.1.1={
+		birth="1618.1.1"
+	}
+	1675.1.1={
+		death="1675.1.1"
+	}
+}
+#Issue of Martim Gonçalves de Ataíde
+386761 = {
+	name="Gil"	#Gil Martins de Ataíde, senhor da honra e torre de Ataíde 
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1366.1.1={
+		death="1366.1.1"
+	}
+}
+386762 = {
+	name="Martim"	#Martim Gonçalves de Ataíde
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386761
+	1350.1.1={
+		birth="1350.1.1"
+	}
+	1392.1.1={
+		death="1392.1.1"
+	}
+}
+386763 = {
+	name="Álvaro"	#Álvaro Gonçalves de Ataíde (f. fevereiro 1452), 1.º conde de Atouguia
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386762
+	1385.1.1={
+		birth="1385.1.1"
+	}
+	1412.1.1={
+		add_spouse=370241
+	}
+	1452.2.14={
+		death="1452.2.14"
+	}
+}
+386764 = {
+	name="Vasco"	#Vasco Fernandes de Ataíde
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386762
+	1386.1.1={
+		birth="1386.1.1"
+	}
+	1415.8.21={
+		death="1415.8.21"
+	}
+}
+386765 = {
+	name="Isabel"	#D. Isabel de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386762
+	1387.1.1={
+		birth="1387.1.1"
+	}
+	1441.1.1={
+		death="1441.1.1"
+	}
+}
+386766 = {
+	name="Helena"	#D. Helena de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386762
+	1388.1.1={
+		birth="1388.1.1"
+	}
+	1444.1.1={
+		death="1444.1.1"
+	}
+}
+386767 = {
+	name="Felipa"	#D. Felipa de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386762
+	1389.1.1={
+		birth="1389.1.1"
+	}
+	1444.1.1={
+		death="1444.1.1"
+	}
+}
+386768 = {
+	name="Catarina"	#D. Catarina de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386762
+	1390.1.1={
+		birth="1390.1.1"
+	}
+	1444.1.1={
+		death="1444.1.1"
+	}
+}
+#Issue of Álvaro Gonçalves de Ataíde, 1.º Conde de Atouguia
+386769 = {
+	name="Martinho"	#D. Martinho de Ataíde (c. 1415 - c. 1499)
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386763
+	mother=370241
+	1415.1.1={
+		birth="1415.1.1"
+	}
+	1457.4.18={
+		add_spouse=386732
+	}
+	1499.1.1={
+		death="1499.1.1"
+	}
+}
+386770 = {
+	name="João"	#D. João de Ataíde (n. ? - f. 1448), Prior do Crato, sem geração;
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386763
+	mother=370241
+	trait=monk
+	1416.1.1={
+		birth="1416.1.1"
+	}
+	1448.1.1={
+		death="1448.1.1"
+	}
+}
+386771 = {
+	name="Vasco"	#D. Vasco de Ataíde (n. ? - f. 1483), Prior do Crato, sem geração;
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386763
+	mother=370241
+	trait=monk
+	1417.1.1={
+		birth="1417.1.1"
+	}
+	1483.1.1={
+		death="1483.1.1"
+	}
+}
+386772 = {
+	name="Álvaro"	#D. Álvaro de Ataíde (n. ? - f. 1505), senhor da Castanheira,
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386763
+	mother=370241
+	1420.1.1={
+		birth="1420.1.1"
+	}
+	1505.1.1={
+		death="1505.1.1"
+	}
+}
+386773 = {
+	name="Joana"	#D. Joana de Castro
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386763
+	mother=370241
+	1421.1.1={
+		birth="1421.1.1"
+	}
+	1479.1.1={
+		death="1479.1.1"
+	}
+}
+386774 = {
+	name="Filipa"	#D. Filipa de Castro
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386763
+	mother=370241
+	1422.1.1={
+		birth="1422.1.1"
+	}
+	1484.1.1={
+		death="1484.1.1"
+	}
+}
+386775 = {
+	name="Mécia"	#D. Mécia de Castro
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386763
+	mother=370241
+	1423.1.1={
+		birth="1423.1.1"
+	}
+	1487.1.1={
+		death="1487.1.1"
+	}
+}
+386776 = {
+	name="Leonor"	#D. Leonor de Menezes
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386763
+	mother=370241
+	1424.1.1={
+		birth="1424.1.1"
+	}
+	1495.1.1={
+		death="1495.1.1"
+	}
+}
+386777 = {
+	name="Isabel"	#D. Isabel de Ataíde, Abadessa do Mosteiro de Arouca
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386763
+	mother=370241
+	trait=nun
+	1425.1.1={
+		birth="1425.1.1"
+	}
+	1504.1.1={
+		death="1504.1.1"
+	}
+}
+386778 = {
+	name="Pedro"	#D. Pedro de Ataíde, abade de Penalva
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386763
+	mother=370241
+	trait=monk
+	trait=bastard
+	1430.1.1={
+		birth="1430.1.1"
+	}
+	1499.1.1={
+		death="1499.1.1"
+	}
+}
+#Issue of D. Pedro de Ataíde, abade de Penalva
+386779 = {
+	name="Vasco"	#Vasco de Ataíde 
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386778
+	trait=bastard
+	1460.1.1={
+		birth="1460.1.1"
+	}
+	1500.3.24={
+		death="1500.3.24"
+	}
+}
+386780 = {
+	name="Pêro"	#Pêro de Ataíde
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386778
+	trait=bastard
+	1450.1.1={
+		birth="1450.1.1"
+	}
+	1504.1.1={
+		death="1504.1.1"
+	}
+}
+#Issue of D. Martinho de Ataíde (c. 1415 - c. 1499)
+386781 = {
+	name="João"	#D. João de Ataíde
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386769
+	mother=386732
+	1458.1.1={
+		birth="1458.1.1"
+	}
+	1480.1.1={
+	trait=monk
+	}
+	1507.1.1={
+		death="1507.1.1"
+	}
+}
+#Issue of D. João de Ataíde
+386782 = {
+	name="Afonso"	#D. Afonso de Ataíde
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386781
+	1478.1.1={
+		birth="1478.1.1"
+	}
+	1555.1.1={
+		death="1555.1.1"
+	}
+}
+#Issue of D. Afonso de Ataíde
+386783 = {
+	name="Martim"	#D. Martim Gonçalves de Ataíde
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386782
+	1515.1.1={
+		birth="1515.1.1"
+	}
+	1541.3.12={
+		death="1541.3.12"
+	}
+}
+386784 = {
+	name="Luís"	#D. Luís de Ataíde, 3.º conde de Atouguia
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386782
+	1516.1.1={
+		birth="1516.1.1"
+	}
+	1581.3.10={
+		death="1581.3.10"
+	}
+}
+386785 = {
+	name="Helena"	#D. Helena de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386782
+	1517.1.1={
+		birth="1517.1.1"
+	}
+	1580.1.1={
+		death="1580.1.1"
+	}
+}
+386786 = {
+	name="Brites"	#D. Brites de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386782
+	1518.1.1={
+		birth="1518.1.1"
+	}
+	1574.1.1={
+		death="1574.1.1"
+	}
+}
+#Issue of D. Álvaro de Ataíde (c. 1420 - 1505), senhor da Castanheira
+386787 = {
+	name="Pedro"	#D. Pedro de Ataíde (?, c. 1456 - Setúbal, 1485)
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386772
+	1456.1.1={
+		birth="1456.1.1"
+	}
+	1485.1.1={
+		death="1485.1.1"
+	}
+}
+386788 = {
+	name="António"	#D. António de Ataíde (1500 - 1563), 1.º conde da Castanheira
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386772
+	1500.1.1={
+		birth="1500.1.1"
+	}
+	1563.1.1={
+		death="1563.1.1"
+	}
+}
+386789 = {
+	name="Álvaro"	#D. Álvaro de Ataíde
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386772
+	trait=bastard
+	1500.1.1={
+		birth="1480.1.1"
+	}
+	1543.1.1={
+		death="1543.1.1"
+	}
+}
+#Issue of D. António de Ataíde (1500 - 1563), 1.º conde da Castanheira
+386790 = {
+	name="António"	#D. António de Ataíde, 2.º Conde de Castanheira (c. 1530 - 20 de janeiro de 1603)
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386788
+	1530.1.1={
+		birth="1530.1.1"
+	}
+	1603.1.20={
+		death="1603.1.20"
+	}
+}
+386791 = {
+	name="Jorge"	#D. Jorge de Ataíde, Bispo de Viseu, capelão-mor e inquisidor-geral (c. 1535 - 17.11.1611)
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386788
+	trait=monk
+	1535.1.1={
+		birth="1535.1.1"
+	}
+	1611.11.17={
+		death="1611.11.17"
+	}
+}
+386792 = {
+	name="Jerônimo"	#Jerônimo de Ataíde, Comendador de Vila Franca (c. 1530 - 1568)
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386788
+	1532.1.1={
+		birth="1532.1.1"
+	}
+	1568.1.1={
+		death="1568.1.1"
+	}
+}
+386793 = {
+	name="Violante"	#D. Violante de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386788
+	1533.1.1={
+		birth="1533.1.1"
+	}
+	1579.1.1={
+		death="1579.1.1"
+	}
+}
+386794 = {
+	name="Joana"	#D. Joana de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386788
+	1534.1.1={
+		birth="1534.1.1"
+	}
+	1587.1.1={
+		death="1587.1.1"
+	}
+}
+386795 = {
+	name="Ana"	#D. Ana de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386788
+	1535.1.1={
+		birth="1535.1.1"
+	}
+	1591.1.1={
+		death="1591.1.1"
+	}
+}
+386796 = {
+	name="Maria"	#D. Maria de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386788
+	1537.1.1={
+		birth="1537.1.1"
+	}
+	1598.1.1={
+		death="1598.1.1"
+	}
+}
+386797 = {
+	name="Guiomar"	#Guiomar do Espírito Santo
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386788
+	trait=nun
+	1538.1.1={
+		birth="1538.1.1"
+	}
+	1603.5.22={
+		death="1603.5.22"
+	}
+}
+#Issue of António de Ataíde, 2.º Conde da Castanheira
+386798 = {
+	name="Ana"	#D. Ana de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386790
+	1554.1.1={
+		birth="1554.1.1"
+	}
+	1610.1.1={
+		death="1610.1.1"
+	}
+}
+386799 = {
+	name="Catarina"	#D. Catarina de Ataíde
+	female=yes
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386790
+	1555.1.1={
+		birth="1555.1.1"
+	}
+	1604.1.1={
+		death="1604.1.1"
+	}
+}
+386800 = {
+	name="Manuel"	#D. Manuel de Ataíde, 3.º conde da Castanheira
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386790
+	1560.1.1={
+		birth="1560.1.1"
+	}
+	1623.1.1={
+		death="1623.1.1"
+	}
+}
+#Issue of D. Manuel de Ataíde, 3.º conde da Castanheira
+386801 = {
+	name="João"	#D. João de Ataíde, 4º conde da Castanheira
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386800
+	1600.1.1={
+		birth="1600.1.1"
+	}
+	1637.9.14={
+		death="1637.9.14"
+	}
+}
+#Issue of António de Ataíde, 5.º Conde da Castanheira
+386802 = {
+	name="Jerónimo"	#Jerónimo de Ataíde, 6.º Conde da Castanheira
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=379671
+	1579.1.1={
+		birth="1579.1.1"
+	}
+	1669.1.1={
+		death="1669.1.1"
+	}
+}   
+#Issue of Jerónimo de Ataíde, 6.º Conde da Castanheira
+386803 = {
+	name="Jorge"	#D. Jorge de Ataíde, 3.º Conde de Castro Daire 
+	dynasty=1010044006
+	religion="catholic"
+	culture="portuguese"
+	father=386802
+	1600.1.1={
+		birth="1600.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}   
+386804 = {
+	name="Manuel"	#Manuel de Sousa Coutinho, governador da Índia
+	dynasty=1010044677
+	religion="catholic"
+	culture="portuguese"
+	1540.1.1={
+		birth="1540.1.1"
+	}
+	1591.5.15={
+		death="1591.5.15"
+	}
+}   
+386805 = {
+	name="Jerónimo"	#D. Jerónimo Coutinho
+	dynasty=1010043063
+	religion="catholic"
+	culture="portuguese"
+	1545.1.1={
+		birth="1545.1.1"
+	}
+	1620.1.1={
+		death="1620.1.1"
+	}
+}   
+#Issue of Francisco de Noronha, 2.º Conde de Linhares
+386806 = {
+	name="Fernando" #Fernando de Noronha, 3.º Conde de Linhares
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386686
+	1548.1.1 = {
+		birth="1548.1.1"
+	}
+	1610.1.1 = {
+		death="1610.1.1"
+	}
+}
+386807 = {
+	name="Margarida" #Margarida de São Paulo
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386686
+	trait=nun
+	1550.1.1 = {
+		birth="1550.1.1"
+	}
+	1636.1.2 = {
+		death="1636.1.2"
+	}
+}
+#Issue of Afonso de Noronha, 5.º vice-rei da Índia
+386808 = {
+	name="Miguel" #Miguel de Noronha 
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386694
+	mother=386636
+	1528.1.1 = {
+		birth="1528.1.1"
+	}
+	1570.1.1 = {
+		death="1570.1.1"
+	}
+}
+#Issue of Miguel de Noronha 
+386809 = {
+	name="Afonso" #Afonso de Noronha, Capitão de Ceuta e de Tânger
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386808
+	1550.1.1 = {
+		birth="1550.1.1"
+	}
+	1627.1.1 = {
+		death="1627.1.1"
+	}
+}
+#Issue of Afonso de Noronha, Capitão de Ceuta e de Tânger
+386810 = {
+	name="Joana" #D. Joana de Noronha (c. 1580)
+	female=yes
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386809
+	1580.1.1 = {
+		birth="1580.1.1"
+	}
+	1638.1.1 = {
+		death="1638.1.1"
+	}
+}
+386811 = {
+	name="Miguel" #Miguel de Noronha, 4.º Conde de Linhares
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	father=386809
+	1585.1.1 = {
+		birth="1585.1.1"
+	}
+	1647.1.1 = {
+		death="1647.1.1"
+	}
+}
+386812 = {
+	name="Francisco" #Francisco Barreto
+	dynasty=1010044679
+	religion="catholic"
+	culture="portuguese"
+	 1520.1.1 = {
+		birth="1520.1.1"
+	}
+	1573.7.9 = {
+		death="1573.7.9"
+	}
+}
+386813 = {
+	name="António" #António Moniz Barreto
+	dynasty=1010044680
+	religion="catholic"
+	culture="portuguese"
+	1530.1.1 = {
+		birth="1530.1.1"
+	}
+	1600.1.1 = {
+		death="1600.1.1"
+	}
+}
+386814 = {
+	name="André" #André Furtado de Mendonça
+	dynasty=1010044681
+	religion="catholic"
+	culture="portuguese"
+	1558.1.1 = {
+		birth="1558.1.1"
+	}
+	1611.4.1 = {
+		death="1611.4.1"
+	}
+}
+386815 = {
+	name="Luís" #D. Frei Luís de Brito e Meneses, Bispo de Meliapor
+	dynasty=1010044682
+	religion="catholic"
+	culture="portuguese"
+	trait=monk
+	1570.1.1 = {
+		birth="1570.1.1"
+	}
+	1629.7.29 = {
+		death="1629.7.29"
+	}
+}
+#Issue of João de Mendonça Furtado
+386816 = {
+	name="João" #João de Mendonça Furtado 
+	dynasty=1010044683
+	religion="catholic"
+	culture="portuguese"
+	1530.1.1 = {
+		birth="1530.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386818 = {
+	name="Nuno" #Nuno de Mendoça, 1º conde de Vale de Reis
+	dynasty=1010044683
+	religion="catholic"
+	culture="portuguese"
+	father=386816
+	1560.1.1 = {
+		birth="1560.1.1"
+	}
+	1633.5.12 = {
+		death="1633.5.12"
+	}
+}
+#Issue of Nuno de Mendoça, 1º conde de Vale de Reis
+386819 = {
+	name="João" #Frei João de Mendonça, frade de Santo Agostinho da Correa e foi louco
+	dynasty=1010044683
+	religion="catholic"
+	culture="portuguese"
+	father=386818
+	trait=monk
+	trait=lunatic
+	1595.1.1 = {
+		birth="1595.1.1"
+	}
+	1629.1.1 = {
+		death="1629.1.1"
+	}
+}
+386820 = {
+	name="Lourenço" #Lourenço de Mendonça
+	dynasty=1010044683
+	religion="catholic"
+	culture="portuguese"
+	father=386818
+	1600.1.1 = {
+		birth="1600.1.1"
+	}
+	1639.1.1 = {
+		death="1639.1.1"
+	}
+}
+386821 = {
+	name="António" #António de Mendonça
+	dynasty=1010044683
+	religion="catholic"
+	culture="portuguese"
+	father=386818
+	trait=monk
+	1604.1.1 = {
+		birth="1604.1.1"
+	}
+	1675.2.13 = {
+		death="1675.2.13"
+	}
+}
+#bastards
+386822 = {
+	name="Francisco" #Frei Francisco de Mendonça
+	dynasty=1010044683
+	religion="catholic"
+	culture="portuguese"
+	father=386818
+	trait=monk
+	1605.1.1 = {
+		birth="1605.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+386823 = {
+	name="Joana" #Joana
+	female=yes
+	dynasty=1010044683
+	religion="catholic"
+	culture="portuguese"
+	father=386818
+	1606.1.1 = {
+		birth="1606.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+
+#Issue of António de Saldanha
+386824 = {
+	name="António" #António de Saldanha
+	dynasty=1010044684
+	religion="catholic"
+	culture="portuguese"
+	1480.1.1 = {
+		birth="1480.1.1"
+	}
+	1550.1.1 = {
+		death="1550.1.1"
+	}
+}
+386825 = {
+	name="Aires" #Aires de Saldanha
+	dynasty=1010044684
+	religion="catholic"
+	culture="portuguese"
+	father=386824
+	1542.1.1 = {
+		birth="1542.1.1"
+	}
+	1605.1.1 = {
+		death="1605.1.1"
+	}
+}
+#Issue of Aires de Saldanha
+386826 = {
+	name="António" #António de Saldanha, o Cativo
+	dynasty=1010044684
+	religion="catholic"
+	culture="portuguese"
+	father=386825
+	1570.1.1 = {
+		birth="1570.1.1"
+	}
+	1635.1.1 = {
+		death="1635.1.1"
+	}
+}
+386827 = {
+	name="Diogo" #Diogo de Saldanha
+	dynasty=1010044684
+	religion="catholic"
+	culture="portuguese"
+	father=386825
+	1571.1.1 = {
+		birth="1571.1.1"
+	}
+	1632.1.1 = {
+		death="1632.1.1"
+	}
+}
+386828 = {
+	name="Isabel" #Isabel de Albuquerque
+	female=yes
+	dynasty=1010044684
+	religion="catholic"
+	culture="portuguese"
+	father=386825
+	1572.1.1 = {
+		birth="1572.1.1"
+	}
+	1625.1.1 = {
+		death="1625.1.1"
+	}
+}
+386829 = {
+	name="Luísa" #D. Luísa de Saldanha
+	female=yes
+	dynasty=1010044684
+	religion="catholic"
+	culture="portuguese"
+	father=386825
+	trait=bastard
+	1580.1.1 = {
+		birth="1580.1.1"
+	}
+	1637.1.1 = {
+		death="1637.1.1"
+	}
+}
+#Issue of Lourenço Pires de Távora
+386830 = {
+	name="Lourenço" #Lourenço Pires de Távora
+	dynasty=1010044685
+	religion="catholic"
+	culture="portuguese"
+	1510.1.1 = {
+		birth="1510.1.1"
+	}
+	1573.2.15 = {
+		death="1573.2.15"
+	}
+}
+386831 = {
+	name="Cristóvão" #Cristóvão de Távora (1548–1578)
+	dynasty=1010044685
+	religion="catholic"
+	culture="portuguese"
+	father=386830
+	1548.1.1 = {
+		birth="1548.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386832 = {
+	name="Álvaro" #Álvaro Pires de Távora (1554-1578)
+	dynasty=1010044685
+	religion="catholic"
+	culture="portuguese"
+	father=386830
+	1551.1.1 = {
+		birth="1551.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386833 = {
+	name="António" #António de Tavora, pajem de lança do rei Sebastião, que morreu em África.
+	dynasty=1010044685
+	religion="catholic"
+	culture="portuguese"
+	father=386830
+	1554.1.1 = {
+		birth="1554.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386834 = {
+	name="Rui Lourenço" #Rui Lourenço de Távora, 19º vice-rei da Índia
+	dynasty=1010044685
+	religion="catholic"
+	culture="portuguese"
+	father=386830
+	1556.1.1 = {
+		birth="1556.1.1"
+	}
+	1616.6.19 = {
+		death="1616.6.19"
+	}
+}
+386835 = {
+	name="Joana" #Joana de Távora
+	female=yes
+	dynasty=1010044685
+	religion="catholic"
+	culture="portuguese"
+	father=386830
+	1557.1.1 = {
+		birth="1557.1.1"
+	}
+	1628.1.1 = {
+		death="1628.1.1"
+	}
+}
+386836 = {
+	name="Antónia" #Antónia de Távora
+	female=yes
+	dynasty=1010044685
+	religion="catholic"
+	culture="portuguese"
+	father=386830
+	1559.1.1 = {
+		birth="1559.1.1"
+	}
+	1633.1.1 = {
+		death="1633.1.1"
+	}
+}
+386837 = {
+	name="Francisca" #Francisca de Távora
+	female=yes
+	dynasty=1010044685
+	religion="catholic"
+	culture="portuguese"
+	father=386830
+	1560.1.1 = {
+		birth="1560.1.1"
+	}
+	1624.1.1 = {
+		death="1624.1.1"
+	}
+}
+386838 = {
+	name="Maria" #Maria de Távora
+	female=yes
+	dynasty=1010044685
+	religion="catholic"
+	culture="portuguese"
+	father=386830
+	1561.1.1 = {
+		birth="1561.1.1"
+	}
+	1629.1.1 = {
+		death="1629.1.1"
+	}
+}
+386839 = {
+	name="Paula" #Paula da Silva
+	female=yes
+	dynasty=1010044685
+	religion="catholic"
+	culture="portuguese"
+	father=386830
+	1563.1.1 = {
+		birth="1563.1.1"
+	}
+	1638.1.1 = {
+		death="1638.1.1"
+	}
+}
+#Issue of Rui Lourenço de Távora
+386840 = {
+	name="Leonor" #Leonor Coutinho
+	female=yes
+	dynasty=1010044685
+	religion="catholic"
+	culture="portuguese"
+	father=386834
+	1593.1.1 = {
+		birth="1593.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+#Issue of Vasco Coutinho, capitão de Arzila
+386841 = {
+	name="Vasco" #Vasco Coutinho, capitão de Arzila
+	dynasty=1010043063
+	religion="catholic"
+	culture="portuguese"
+	father=386834
+	1450.1.1 = {
+		birth="1450.1.1"
+	}
+	1522.4.1 = {
+		death="1522.4.1"
+	}
+}
+386842 = {
+	name="João" #João Coutinho, capitão de Arzila
+	dynasty=1010043063
+	religion="catholic"
+	culture="portuguese"
+	father=386841
+	1480.1.1 = {
+		birth="1480.1.1"
+	}
+	1549.1.1 = {
+		death="1549.1.1"
+	}
+}
+#Issue of João Coutinho, capitão de Arzila
+386843 = {
+	name="Francisco" #Francisco Coutinho, 3.º Conde de Redondo
+	dynasty=1010043063
+	religion="catholic"
+	culture="portuguese"
+	father=386842
+	1517.1.1 = {
+		birth="1517.1.1"
+	}
+	1564.2.19 = {
+		death="1564.2.19"
+	}
+}
+#Issue of Francisco Coutinho, 3.º Conde de Redondo
+386844 = {
+	name="Luís" #Luís Coutinho, 4.º Conde de Redondo
+	dynasty=1010043063
+	religion="catholic"
+	culture="portuguese"
+	father=386843
+	1538.1.1 = {
+		birth="1538.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386845 = {
+	name="João" #João Coutinho, 5.º Conde de Redondo, 21.º Vice-Rei da Índia
+	dynasty=1010043063
+	religion="catholic"
+	culture="portuguese"
+	father=386843
+	1540.1.1 = {
+		birth="1540.1.1"
+	}
+	1619.11.10 = {
+		death="1619.11.10"
+	}
+}
+#Issue of Nuno Mascarenhas
+386846 = {
+	name="Nuno" #Nuno Mascarenhas
+	dynasty=1010044000
+	religion="catholic"
+	culture="portuguese"
+	1369.1.1 = {
+		birth="1369.1.1"
+	}
+	1424.1.1 = {
+		death="1424.1.1"
+	}
+}
+386847 = {
+	name="Fernão" #Fernão Martins de Mascarenhas (capitão de ginetes)
+	dynasty=1010044000
+	religion="catholic"
+	culture="portuguese"
+	father=386846
+	1416.1.1 = {
+		birth="1416.1.1"
+	}
+	1495.1.1 = {
+		death="1495.1.1"
+	}
+}
+#Issue of Fernão Martins de Mascarenhas (capitão de ginetes)
+386848 = {
+	name="João" #João Mascarenhas
+	dynasty=1010044000
+	religion="catholic"
+	culture="portuguese"
+	father=386847
+	1478.1.1 = {
+		birth="1478.1.1"
+	}
+	1532.1.1 = {
+		death="1532.1.1"
+	}
+}
+386849 = {
+	name="Nuno" #Nuno Mascarenhas, comendador de Almodôvar e governador de Safim. 
+	dynasty=1010044000
+	religion="catholic"
+	culture="portuguese"
+	father=386847
+	1481.1.1 = {
+		birth="1481.1.1"
+	}
+	1540.1.1 = {
+		death="1540.1.1"
+	}
+}
+386850 = {
+	name="Pedro" #Pedro Mascarenhas
+	dynasty=1010044000
+	religion="catholic"
+	culture="portuguese"
+	father=386847
+	1484.1.1 = {
+		birth="1484.1.1"
+	}
+	1555.6.16 = {
+		death="1555.6.16"
+	}
+}
+386851 = {
+	name="António" #António Mascarenhas
+	dynasty=1010044000
+	religion="catholic"
+	culture="portuguese"
+	father=386847
+	1485.1.1 = {
+		birth="1485.1.1"
+	}
+	1516.1.1 = {
+		death="1516.1.1"
+	}
+}
+386852 = {
+	name="Manuel" #Manuel Mascarenhas
+	dynasty=1010044000
+	religion="catholic"
+	culture="portuguese"
+	father=386847
+	1487.1.1 = {
+		birth="1487.1.1"
+	}
+	1540.1.1 = {
+		death="1540.1.1"
+	}
+}
+386853 = {
+	name="Isabel" #Isabel Henriques 
+	female=yes
+	dynasty=1010044000
+	religion="catholic"
+	culture="portuguese"
+	father=386847
+	1488.1.1 = {
+		birth="1488.1.1"
+	}
+	1538.1.1 = {
+		death="1538.1.1"
+	}
+}
+386854 = {
+	name="Leonor" #Leonor Henriques
+	female=yes
+	dynasty=1010044000
+	religion="catholic"
+	culture="portuguese"
+	father=386847
+	1489.1.1 = {
+		birth="1489.1.1"
+	}
+	1539.1.1 = {
+		death="1539.1.1"
+	}
+}
+#Issue of Gonçalo Gomes da Silva, senhor de Vagos, alcaide-mor de Sabugal e Montemor-o-Velho
+386855 = {
+	name="Gonçalo" #Gonçalo Gomes da Silva, senhor de Vagos, alcaide-mor de Sabugal e Montemor-o-Velho
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	1314.1.1 = {
+		birth="1314.1.1"
+	}
+	1378.1.1 = {
+		death="1378.1.1"
+	}
+}
+386856 = {
+	name="João" #João Gomes da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386855
+	1360.1.1 = {
+		birth="1360.1.1"
+	}
+	1431.1.1 = {
+		death="1431.1.1"
+	}
+}
+#Issue of João Gomes da Silva
+386857 = {
+	name="Aires" #Aires Gomes da Silva, 3.º senhor de Vagos
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386856
+	1391.1.1 = {
+		birth="1391.1.1"
+	}
+	1457.1.1 = {
+		death="1457.1.1"
+	}
+}
+386858 = {
+	name="Teresa" #Teresa da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386856
+	1392.1.1 = {
+		birth="1392.1.1"
+	}
+	1431.1.1 = {
+		death="1431.1.1"
+	}
+}
+386859 = {
+	name="Isabel" #Isabel Gomes da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386856
+	1393.1.1 = {
+		birth="1393.1.1"
+	}
+	1439.1.1 = {
+		death="1439.1.1"
+	}
+}
+386860 = {
+	name="Diogo" #Diogo Gomes da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386856
+	trait=bastard
+	1394.1.1 = {
+		birth="1394.1.1"
+	}
+	1455.1.1 = {
+		death="1455.1.1"
+	}
+}
+386861 = {
+	name="Pero" #Pero Gomes da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386856
+	trait=bastard
+	1395.1.1 = {
+		birth="1395.1.1"
+	}
+	1450.1.1 = {
+		death="1450.1.1"
+	}
+}
+386862 = {
+	name="Fernão" #Fernão da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386856
+	trait=bastard
+	1396.1.1 = {
+		birth="1396.1.1"
+	}
+	1463.1.1 = {
+		death="1463.1.1"
+	}
+}
+386863 = {
+	name="Joana" #Joana Gomes da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386856
+	trait=bastard
+	1397.1.1 = {
+		birth="1397.1.1"
+	}
+	1457.1.1 = {
+		death="1457.1.1"
+	}
+}
+#Issue of Aires Gomes da Silva, 3.º senhor de Vagos
+386864 = {
+	name="Leonor" #Leonor da Silva 
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386857
+	1425.1.1 = {
+		birth="1425.1.1"
+	}
+	1483.1.1 = {
+		death="1483.1.1"
+	}
+}
+386865 = {
+	name="João" #João da Silva, 4º senhor de Vagos
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386864
+	1429.1.1 = {
+		birth="1429.1.1"
+	}
+	1475.6.1 = {
+		death="1475.6.1"
+	}
+}
+386866 = {
+	name="Fernão" #Fernão Teles de Meneses, 4º senhor de Unhão
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386864
+	1431.1.1 = {
+		birth="1431.1.1"
+	}
+	1477.4.1 = {
+		death="1477.4.1"
+	}
+}
+386867 = {
+	name="Isabel" #Isabel de Meneses ( - 12 de Agosto de 1482)
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386864
+	1432.1.1 = {
+		birth="1432.1.1"
+	}
+	1482.8.12 = {
+		death="1482.8.12"
+	}
+}
+386868 = {
+	name="Margarida" #Margarida de Meneses, abadessa
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386864
+	trait=nun
+	1434.1.1 = {
+		birth="1434.1.1"
+	}
+	1478.1.1 = {
+		death="1478.1.1"
+	}
+}
+#Issue of Fernão Teles de Meneses, 4.º senhor de Unhão
+386869 = {
+	name="André" #André Teles, o mais velho
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386866
+	1457.1.1 = {
+		birth="1457.1.1"
+	}
+	1475.1.1 = {
+		death="1475.1.1"
+	}
+}
+386870 = {
+	name="Rui" #Rui Teles de Meneses
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386866
+	1458.1.1 = {
+		birth="1458.1.1"
+	}
+	1528.10.13 = {
+		death="1528.10.13"
+	}
+}
+386871 = {
+	name="Aires" #Frei Aires Teles, da Ordem de São Francisco
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386866
+	trait=monk
+	1459.1.1 = {
+		birth="1459.1.1"
+	}
+	1516.1.1 = {
+		death="1516.1.1"
+	}
+}
+386872 = {
+	name="Joana" #D. Joana de Vilhena
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386866
+	1460.1.1 = {
+		birth="1460.1.1"
+	}
+	1519.1.1 = {
+		death="1519.1.1"
+	}
+}
+#Issue of Rui Teles de Meneses
+386873 = {
+	name="Fernão" #Fernão Teles de Meneses (? - Mazagão)
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386870
+	1479.1.1 = {
+		birth="1479.1.1"
+	}
+	1515.1.1 = {
+		death="1515.1.1"
+	}
+}
+386874 = {
+	name="Aires" #Aires Teles de Meneses (c. 1480 -?)
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386870
+	1480.1.1 = {
+		birth="1480.1.1"
+	}
+	1533.1.1 = {
+		death="1533.1.1"
+	}
+}
+386875 = {
+	name="Manuel" #Manuel Teles de Meneses (1500 -?)
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386870
+	1500.1.1 = {
+		birth="1500.1.1"
+	}
+	1575.1.1 = {
+		death="1575.1.1"
+	}
+}
+386876 = {
+	name="Brás" #Brás Teles de Meneses (1485 -?)
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386870
+	1485.1.1 = {
+		birth="1485.1.1"
+	}
+	1548.1.1 = {
+		death="1548.1.1"
+	}
+}
+386877 = {
+	name="André" #André Teles de Meneses (c. 1485 -?)
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386870
+	1485.1.1 = {
+		birth="1485.1.1"
+	}
+	1541.1.1 = {
+		death="1541.1.1"
+	}
+}
+386878 = {
+	name="António" #António Teles de Meneses
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386870
+	1486.1.1 = {
+		birth="1486.1.1"
+	}
+	1537.1.1 = {
+		death="1537.1.1"
+	}
+}
+386879 = {
+	name="Brites" #Brites de Vilhena de Menezes (c. 1480 - 1515)
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386870
+	1480.1.1 = {
+		birth="1480.1.1"
+	}
+	1515.1.1 = {
+		death="1515.1.1"
+	}
+}
+386880 = {
+	name="Maria" #Maria de Noronha (c. 1480 -?)
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386870
+	1481.1.1 = {
+		birth="1481.1.1"
+	}
+	1537.1.1 = {
+		death="1537.1.1"
+	}
+}
+386881 = {
+	name="Teresa" #Teresa de Noronha (c. 1500 -?)
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386870
+	1488.1.1 = {
+		birth="1488.1.1"
+	}
+	1541.1.1 = {
+		death="1541.1.1"
+	}
+}
+#Issue of João da Silva, 4º senhor de Vagos
+386882 = {
+	name="Aires" #Aires da Silva, 5.º senhor de Vagos casado com D. Guiomar de Castro
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386865
+	1458.1.1 = {
+		birth="1458.1.1"
+	}
+	1530.3.25 = {
+		death="1530.3.25"
+	}
+}
+386883 = {
+	name="Fernando" #D. Fernando Coutinho, bispo de Lamego e do Algarve
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386865
+	trait=monk
+	1465.1.1 = {
+		birth="1465.1.1"
+	}
+	1538.5.16 = {
+		death="1538.5.16"
+	}
+}
+386884 = {
+	name="Beatriz" #Beatriz da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386865
+	1467.1.1 = {
+		birth="1467.1.1"
+	}
+	1538.5.16 = {
+		death="1538.5.16"
+	}
+}
+386885 = {
+	name="Gonçalo" #Gonçalo da Silva, alcaide-mor de Abiul casado com Joana da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386865
+	1468.1.1 = {
+		birth="1468.1.1"
+	}
+	1538.5.16 = {
+		death="1538.5.16"
+	}
+}
+386886 = {
+	name="Maria" #Maria da Silva casada com Diogo Lopes de Sousa
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386865
+	1469.1.1 = {
+		birth="1469.1.1"
+	}
+	1530.1.1 = {
+		death="1530.1.1"
+	}
+}
+386887 = {
+	name="Isabel" #Isabel da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386865
+	1470.1.1 = {
+		birth="1470.1.1"
+	}
+	1538.1.1 = {
+		death="1538.1.1"
+	}
+}
+386888 = {
+	name="Leonor" #Leonor da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386865
+	1471.1.1 = {
+		birth="1471.1.1"
+	}
+	1535.1.1 = {
+		death="1535.1.1"
+	}
+}
+#Issue of Aires da Silva, 5.º senhor de Vagos
+386889 = {
+	name="João" #João da Silva, 6º senhor de Vagos
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386882
+	1482.1.1 = {
+		birth="1482.1.1"
+	}
+	1557.6.10 = {
+		death="1557.6.10"
+	}
+}
+386890 = {
+	name="Francisco" #Francisco da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386882
+	trait=monk
+	1483.1.1 = {
+		birth="1483.1.1"
+	}
+	1540.1.1 = {
+		death="1540.1.1"
+	}
+}
+386891 = {
+	name="Beatriz" #Beatriz de Castro
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386882
+	1484.1.1 = {
+		birth="1484.1.1"
+	}
+	1533.1.1 = {
+		death="1533.1.1"
+	}
+}
+386892 = {
+	name="Joana" #D. Joana de Castro e Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386882
+	1485.1.1 = {
+		birth="1485.1.1"
+	}
+	1537.1.1 = {
+		death="1537.1.1"
+	}
+}
+#Issue of Fernando Coutinho
+386893 = {
+	name="Isabel" #D. Isabel da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386883
+	trait=bastard
+	1504.1.1 = {
+		birth="1504.1.1"
+	}
+	1569.1.1 = {
+		death="1569.1.1"
+	}
+}
+#Issue of João da Silva, 6º senhor de Vagos
+386894 = {
+	name="Diogo" #Diogo da Silva (1511-1556)
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386889
+	1513.1.1 = {
+		birth="1513.1.1"
+	}
+	1556.10.20 = {
+		death="1556.10.20"
+	}
+}
+386895 = {
+	name="Jorge" #Jorge da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386889
+	1516.1.1 = {
+		birth="1516.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386896 = {
+	name="Rui" #Rui Pereira da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386889
+	1518.1.1 = {
+		birth="1518.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386897 = {
+	name="Luís" #Luís da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386889
+	1520.1.1 = {
+		birth="1520.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386898 = {
+	name="João" #João Gomes da Silva, clérigo
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386889
+	1521.1.1 = {
+		birth="1521.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386899 = {
+	name="Guiomar" #D. Guiomar de Castro
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386889
+	1522.1.1 = {
+		birth="1522.1.1"
+	}
+	1570.1.1 = {
+		death="1570.1.1"
+	}
+}
+386900 = {
+	name="Ana" #D. Ana de Menezes
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386889
+	1523.1.1 = {
+		birth="1523.1.1"
+	}
+	1575.1.1 = {
+		death="1575.1.1"
+	}
+}
+386901 = {
+	name="Ana" #D. Antónia de Castro
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386889
+	1524.1.1 = {
+		birth="1524.1.1"
+	}
+	1566.1.1 = {
+		death="1566.1.1"
+	}
+}
+386902 = {
+	name="Maria" #D. Maria
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386889
+	trait=nun
+	1525.1.1 = {
+		birth="1525.1.1"
+	}
+	1577.1.1 = {
+		death="1577.1.1"
+	}
+}
+386903 = {
+	name="Leonor" #D. Leonor da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386889
+	trait=nun
+	1525.1.1 = {
+		birth="1526.1.1"
+	}
+	1579.1.1 = {
+		death="1579.1.1"
+	}
+}
+386904 = {
+	name="Francisca" #D. Francisca, todas três freiras
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386889
+	trait=nun
+	1527.1.1 = {
+		birth="1527.1.1"
+	}
+	1559.1.1 = {
+		death="1559.1.1"
+	}
+}
+#Issue of Diogo da Silva (1511-1556)
+386905 = {
+	name="Lourenço" #Lourenço da Silva, 7.º Senhor de Vagos e regedor das Justiças
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386894
+	1532.1.1 = {
+		birth="1532.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386906 = {
+	name="Luís" #Luís da Silva, «o Donzel»
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386894
+	1533.1.1 = {
+		birth="1533.1.1"
+	}
+	1588.1.1 = {
+		death="1588.1.1"
+	}
+}
+386907 = {
+	name="Fernando" #Fernando da Silva, «o Rico Feitio», Cónego da Sé de Lisboa;
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386894
+	trait=monk
+	1534.1.1 = {
+		birth="1534.1.1"
+	}
+	1590.1.1 = {
+		death="1590.1.1"
+	}
+}
+386908 = {
+	name="Pedro" #Pedro da Silva, capitão geral de Tanger;
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386894
+	1535.1.1 = {
+		birth="1535.1.1"
+	}
+	1585.1.1 = {
+		death="1585.1.1"
+	}
+}
+386909 = {
+	name="André" #André da Silva, que morreu em Alcacer-Quebir;
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386894
+	1536.1.1 = {
+		birth="1536.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386910 = {
+	name="Tomé" #Tomé da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386894
+	1537.1.1 = {
+		birth="1537.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386911 = {
+	name="Bartolomeu" #Bartolomeu da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386894
+	1538.1.1 = {
+		birth="1538.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386912 = {
+	name="Leonor" #D. Leonor da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386894
+	1539.1.1 = {
+		birth="1539.1.1"
+	}
+	1605.1.1 = {
+		death="1605.1.1"
+	}
+}
+386913 = {
+	name="Joana" #D. Joana da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386894
+	1540.1.1 = {
+		birth="1540.1.1"
+	}
+	1608.1.1 = {
+		death="1608.1.1"
+	}
+}
+386914 = {
+	name="Ana" #D. Ana da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386894
+	1541.1.1 = {
+		birth="1541.1.1"
+	}
+	1603.1.1 = {
+		death="1603.1.1"
+	}
+}
+#Issue of Lourenço da Silva, 7.º Senhor de Vagos
+386915 = {
+	name="Diogo" #Diogo da Silva, 8.º Senhor de Vagos e regedor das Justiças
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386905
+	1561.1.1 = {
+		birth="1561.1.1"
+	}
+	1595.1.1 = {
+		death="1595.1.1"
+	}
+}
+386916 = {
+	name="Luiz" #Luiz da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386905
+	1563.1.1 = {
+		birth="1563.1.1"
+	}
+	1589.1.1 = {
+		death="1589.1.1"
+	}
+}
+386917 = {
+	name="Ayres" #Ayres da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386905
+	1567.1.1 = {
+		birth="1567.1.1"
+	}
+	1595.1.1 = {
+		death="1595.1.1"
+	}
+}
+386918 = {
+	name="Pedro" #Pedro da Silva, 1.º conde de São Lourenço, regedor das Justiças
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386905
+	1570.1.1 = {
+		birth="1570.1.1"
+	}
+	1629.1.1 = {
+		death="1629.1.1"
+	}
+}
+386919 = {
+	name="Jorge" #Jorge da Silva, cativo na batalha de Alcácer, falecendo depois em África;
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386905
+	1560.1.1 = {
+		birth="1560.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386920 = {
+	name="João" #Frey João da Silva, frade carmelita da Observância;
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386905
+	trait=monk
+	1563.1.1 = {
+		birth="1563.1.1"
+	}
+	1615.1.1 = {
+		death="1615.1.1"
+	}
+}
+386921 = {
+	name="Leonor" #D. Leonor da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386905
+	1569.1.1 = {
+		birth="1569.1.1"
+	}
+	1625.1.1 = {
+		death="1625.1.1"
+	}
+}
+#Issue of Diogo da Silva, 8.º Senhor de Vagos
+386922 = {
+	name="Lourenço" #Lourenço da Silva, 2.° do nome, 9.º Senhor de Vagos
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386915
+	1585.1.1 = {
+		birth="1585.1.1"
+	}
+	1646.1.1 = {
+		death="1646.1.1"
+	}
+}
+386923 = {
+	name="João" #João da Silva Telo de Menezes, 1.º conde de Aveiras, 10.º Senhor de Vagos
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386915
+	1600.1.1 = {
+		birth="1600.1.1"
+	}
+	1651.1.1 = {
+		death="1651.1.1"
+	}
+}
+386924 = {
+	name="Isabel" #D. Isabel de Mendonça
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386915
+	1603.1.1 = {
+		birth="1603.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+#Issue of João da Silva Telo e Meneses, 1.º Conde de Aveiras 
+386925 = {
+	name="Luís" #Luís da Silva Telo de Menezes, 2.º Conde de Aveiras
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386923
+	1622.1.1 = {
+		birth="1622.1.1"
+	}
+	1650.1.1 = {
+		death="1650.1.1"
+	}
+}
+#Issue of Pedro da Silva, 1.º Conde de São Lourenço
+386926 = {
+	name="Madalena" #D. Madalena da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386918
+	1595.1.1 = {
+		birth="1595.1.1"
+	}
+	1645.1.1 = {
+		death="1645.1.1"
+	}
+}
+#Issue of Rui Pereira da Silva
+386927 = {
+	name="Vicência" #Vicência de Castro casada com D. Antão Soares de Almada, 5.º conde de Abranches
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386896
+	1540.1.1 = {
+		birth="1540.1.1"
+	}
+	1609.1.1 = {
+		death="1609.1.1"
+	}
+}
+386928 = {
+	name="Juliana" #Juliana de Meneses
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386896
+	1541.1.1 = {
+		birth="1541.1.1"
+	}
+	1620.1.1 = {
+		death="1620.1.1"
+	}
+}
+386929 = {
+	name="Maria" #Maria da Silva
+	female=yes
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386896
+	1542.1.1 = {
+		birth="1542.1.1"
+	}
+	1625.1.1 = {
+		death="1625.1.1"
+	}
+}
+386930 = {
+	name="Fernão" #Fernão da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386896
+	1544.1.1 = {
+		birth="1544.1.1"
+	}
+	1633.1.1 = {
+		death="1633.1.1"
+	}
+}
+386931 = {
+	name="Nuno" #Nuno Álvares Pereira
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386896
+	1545.1.1 = {
+		birth="1545.1.1"
+	}
+	1621.1.1 = {
+		death="1621.1.1"
+	}
+}
+386932 = {
+	name="Aires" #D. Aires da Silva, bispo do Porto
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386896
+	trait=monk
+	1546.1.1 = {
+		birth="1546.1.1"
+	}
+	1579.1.1 = {
+		death="1579.1.1"
+	}
+}
+386933 = {
+	name="João" #Frei João da Silva, pregador de Dom Sebastião[14].
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386896
+	trait=monk
+	1547.1.1 = {
+		birth="1547.1.1"
+	}
+	1578.8.4 = {
+		death="1578.8.4"
+	}
+}
+386934 = {
+	name="Jorge" #Jorge da Silva
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386896
+	1548.1.1 = {
+		birth="1548.1.1"
+	}
+	1612.1.1 = {
+		death="1612.1.1"
+	}
+}
+386935 = {
+	name="Jerónimo" #Jerónimo da Silva, religioso
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386896
+	trait=monk
+	1549.1.1 = {
+		birth="1549.1.1"
+	}
+	1620.1.1 = {
+		death="1620.1.1"
+	}
+}
+#Issue of Fernão da Silva
+386936 = {
+	name="Pedro" #Pedro da Silva (vice-rei da Índia)
+	dynasty=1010044678
+	religion="catholic"
+	culture="portuguese"
+	father=386930
+	1580.1.1 = {
+		birth="1580.1.1"
+	}
+	1639.6.24 = {
+		death="1639.6.24"
+	}
+}
+386937 = {
+	name="Diogo" #Diogo Botelho
+	dynasty=1010044686
+	religion="catholic"
+	culture="portuguese"
+	1551.1.1 = {
+		birth="1551.1.1"
+	}
+	1613.1.1 = {
+		death="1613.1.1"
+	}
+}
+386938 = {
+	name="Nuno" #Nuno Álvares Botelho
+	dynasty=1010044686
+	religion="catholic"
+	culture="portuguese"
+	father=386937
+	1590.1.1 = {
+		birth="1590.1.1"
+	}
+	1631.5.5 = {
+		death="1631.5.5"
+	}
+}
+386939 = {
+	name="Afonso"	#Matias de Albuquerque, 15.º vice-rei da Índia
+	dynasty=1010044668
+	religion="catholic"
+	culture="portuguese"
+	1547.1.1={
+		birth="1547.1.1"
+	}
+	1609.1.1={
+		death="1609.1.1"
+	}
+}
+386940 = {
+	name="António" #António de Noronha, 11.º vice-rei da Índia
+	dynasty=1010044673
+	religion="catholic"
+	culture="portuguese"
+	1510.1.1 = {
+		birth="1510.1.1"
+	}
+	1574.1.1 = {
+		death="1574.1.1"
+	}
+}
+#Ceilao
+#Vijayabahu V 217396
+#Issue of Vijayabahu V
+386941 = {
+	name="Bhuvanaikabahu" #Bhuvanaikabahu IV
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	father = 217396 # Unknown relation
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1339.1.1 = { birth="1339.1.1" }
+	1354.1.1 = { death="1354.1.1" }
+}
+386942 = {
+	name="Parakkamabahu" #Parakkamabahu V
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	father = 217396 # Unknown relation
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1340.1.1 = { birth="1340.1.1" }
+	1359.1.1 = { death="1359.1.1" }
+}
+
+#Issue of Bhuvanaikabahu IV
+386943 = {
+	name="Vikramabahu" #Vikramabahu III
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	father = 386941 # Unknown relation
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1357.1.1 = { birth="1357.1.1" }
+	1374.1.1 = { death="1374.1.1" }
+}
+386944 = {
+	name="Kitaka"
+	female=yes
+	dynasty = 1029174
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1358.1.1 = { birth="1358.1.1" }
+	1410.1.1 = { death="1410.1.1" }
+}
+#Issue of Nissanka Alakeswara
+386945 = {
+	name="Nissanka"
+	dynasty = 1010044687
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	
+	1338.1.1 = { birth="1338.1.1" }
+	1399.1.1 = { death="1399.1.1" }
+}
+386946 = {
+	name="Bhuvanaikabahu"	#Bhuvanaikabahu V
+	dynasty = 1010044687
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386945
+	mother=386944
+	1376.1.1 = { birth="1376.1.1" }
+	1408.1.1 = { death="1408.1.1" }
+}
+386947 = {
+	name="Virabahu"	#Vira Bahu II
+	dynasty = 1010044687
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386945
+	mother=386944
+	1377.1.1 = { birth="1377.1.1" }
+	1397.1.1 = { death="1397.1.1" }
+}
+386948 = {
+	name="Vira Alakesvara"	#Vira Alakesvara
+	dynasty = 1010044687
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386945
+	mother=386944
+	1378.1.1 = { birth="1378.1.1" }
+	1411.1.1 = { death="1411.1.1" }
+}
+386949 = {
+	name="Parakramabahu"	#Parakramabahu Epa
+	dynasty = 1010044687
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386945
+	mother=386944
+	1379.1.1 = { birth="1379.1.1" }
+	1412.1.1 = { death="1412.1.1" }
+}
+#Issue of Parakramabahu VI
+386950 = {
+	name="Parakramabahu"	#Parakramabahu VI
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	1392.1.1 = { birth="1392.1.1" }
+	1467.1.1 = { death="1467.1.1" }
+}
+386951 = {
+	name="Ulakudaya"	#Ulakudaya
+	female=yes
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386950
+	trait=legit_bastard
+	1415.1.1 = { birth="1415.1.1" }
+	1475.1.1 = { death="1475.1.1" }
+}
+386952 = {
+	name="Parakramabahu"	#Parakramabahu VII
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386950
+	1435.1.1 = { birth="1435.1.1" }
+	1484.1.1 = { death="1484.1.1" }
+}
+386953 = {
+	name="Viraparakramabahu"	#Vira Parakramabahu VIII
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386950
+	1440.1.1 = { birth="1440.1.1" }
+	1518.1.1 = { death="1518.1.1" }
+}
+386991 = {
+	name="Bhuvanaikabahu"	#Bhuvanaikabahu VI
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386950
+	1413.1.1 = { birth="1413.1.1" }
+	1477.1.1 = { death="1477.1.1" }
+}
+#Issue of Ulakudaya
+386954 = {
+	name="Jayabahu"	#Jayabahu II
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386951
+	1435.1.1 = { birth="1435.1.1" }
+	1473.1.1 = { death="1473.1.1" }
+}
+#Issue of Parakramabahu VIII
+386955 = {
+	name="Parakramabahu"	#Parakramabahu IX
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386953
+	1459.1.1 = { birth="1459.1.1" }
+	1513.1.1 = { death="1513.1.1" }
+}
+386956 = {
+	name="Vijayabahu"	#Vijayabahu VI
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386953
+	1445.1.1 = { birth="1445.1.1" }
+	1521.1.1 = { death="1521.1.1" }
+}
+#Issue of Vijayabahu VI
+386957 = {
+	name="Bhuvanekabahu"	#Bhuvanekabahu VII
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386956
+	1468.1.1 = { birth="1468.1.1" }
+	1550.12.29 = { death="1550.12.29" }
+}
+386958 = {
+	name="Pararajasinghe"	#Raigama Bandara
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386956
+	1469.1.1 = { birth="1469.1.1" }
+	1538.1.1 = { death="1538.1.1" }
+}
+386959 = {
+	name="Mayadunne"	#Mayadunne of Sitawaka
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386956
+	1501.1.1 = { birth="1501.1.1" }
+	1581.1.1 = { death="1581.1.1" }
+}
+386960 = {
+	name="Maha"	#Prince Maha Raigam Bandara
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386956
+	1504.1.1 = { birth="1504.1.1" }
+	1570.1.1 = { death="1570.1.1" }
+}
+386961 = {
+	name="Devaraja"	#Prince Devaraja
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386956
+	1506.1.1 = { birth="1506.1.1" }
+	1576.1.1 = { death="1576.1.1" }
+}
+#Issue of Bhuvanekabahu VII 	
+386962 = {
+	name="Samudra"	#Samudra Devi
+	female=yes
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386957
+	1522.1.1 = { birth="1522.1.1" }
+	1545.1.1 = { death="1545.1.1" }
+}
+#Issue of Samudra Devi+Veediya Bandara Son of Kumara Bandara
+386963 = {
+	name="Veediya"	#Veediya Bandara
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	1515.1.1 = { birth="1515.1.1" }
+	1540.1.1={
+		add_spouse=386962
+	}
+	1570.1.1 = { death="1570.1.1" }
+}
+386964 = {
+	name="Dharmapala"	#Dharmapala of Kotte
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386963
+	mother=386962
+	1541.1.1 = { birth="1541.1.1" }
+	1551.1.1={
+		name="João"
+		religion="catholic"
+	}
+	1597.5.27 = { death="1597.5.27" }
+}
+386965 = {
+	name="Wijayapala"	#Wijayapala of Kotte
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386963
+	mother=386962
+	1542.1.1 = { birth="1542.1.1" }
+	1597.5.27 = { death="1597.5.27" }
+}
+#Issue of Dharmapala of Kotte
+386966 = {
+	name="Alingosse"	#Princess Alingosse
+	female=yes
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386965
+	1561.1.1 = { birth="1561.1.1" }
+	1597.5.27 = { death="1597.5.27" }
+}
+#Issue of Mayadunne of Sitawaka 	
+386967 = {
+	name="Maha Rajjuru"	#Crown Prince Maha Rajjuru Bandara
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386959
+	1520.1.1 = { birth="1520.1.1" }
+	1571.1.1 = { death="1571.1.1" }
+}
+386968 = {
+	name="Thibiripola"	#Prince Thibiripola Rajjuru Bandara
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386959
+	1521.1.1 = { birth="1521.1.1" }
+	1579.1.1 = { death="1579.1.1" }
+}
+386969 = {
+	name="Santana"	#Prince Santana Bandara
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386959
+	1522.1.1 = { birth="1522.1.1" }
+	1577.1.1 = { death="1577.1.1" }
+}
+386970 = {
+	name="Suriya"	#Princess Suriya Devi
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386959
+	1523.1.1 = { birth="1523.1.1" }
+	1581.1.1 = { death="1581.1.1" }
+}
+386971 = {
+	name="Tikiri"	#Princess Tikiri Devi (Queen Maha Biso Bandara of Sitawaka)
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386959
+	1524.1.1 = { birth="1524.1.1" }
+	1586.1.1 = { death="1586.1.1" }
+}
+386972 = {
+	name="Rajasinha"	#Prince Tikiri Bandara 
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386959
+	1532.8.15 = { birth="1532.8.15" }
+	1593.3.17 = { death="1593.3.17" }
+}
+#Issue of Rajasinha I
+386973 = {
+	name="Rajasuriya"	#Prince Rajasuriya
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386972
+	1560.1.1 = { birth="1560.1.1" }
+	1594.1.1 = { death="1594.1.1" }
+}
+386974 = {
+	name="Jayasuriya"	#Prince Jayasuriya
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386972
+	1562.1.1 = { birth="1562.1.1" }
+	1594.1.1 = { death="1594.1.1" }
+}
+#Issue of Senasammata Vikramabahu
+386975 = {
+	name="Senasammata Vikramabahu"	#Senasammata Vikramabahu
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386950
+	1424.1.1 = { birth="1424.1.1" }
+	1511.1.1 = { death="1511.1.1" }
+}
+386976 = {
+	name="Jayavira"	#Jayavira Bandara
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386975
+	1488.1.1 = { birth="1488.1.1" }
+	1551.1.1 = { death="1551.1.1" }
+}
+#Issue of Jayavira Bandara
+386977 = {
+	name="Karalliyadde"	#Karalliyadde Bandara
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386976
+	1530.1.1 = { birth="1530.1.1" }
+	1580.1.1={
+		religion="catholic"
+	}
+	1592.1.1 = { death="1592.1.1" }
+}
+386978 = {
+	name="Kumarasinghe"	#Prince Kumarasinghe 
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386976
+	1532.1.1 = { birth="1532.1.1" }
+	1588.1.1 = { death="1588.1.1" }
+}
+386979 = {
+	name="Leelawathi"
+	female=yes
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386976
+	1533.1.1 = { birth="1533.1.1" }
+	1588.1.1 = { death="1588.1.1" }
+}
+386980 = {
+	name="Isabella"
+	female=yes
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386976
+	1534.1.1 = { birth="1534.1.1" }
+	1583.1.1 = { death="1583.1.1" }
+}
+#Issue of Karalliyadde Bandara
+386981 = {
+	name="Cusumasana"	#Kusumasana Devi
+	female=yes
+	dynasty = 1010044688
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386977
+	1572.1.1 = { birth="1572.1.1" }
+	1580.1.1={
+		religion="catholic"
+		name="Catarina"
+	}
+	1613.7.10 = { death="1613.7.10" }
+}
+386982 = {
+	name="Yamasinghe"	#Yamasinghe Bandara
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	1563.1.1 = { birth="1563.1.1" }
+	1590.1.1={
+		add_spouse=386981
+	}
+	1594.1.1 = { death="1594.1.1" }	#93/94
+}
+#Issue of Yamasinghe Bandara
+386983 = {
+	name="Konappu"	#Konappu Bandara
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	1578.1.1 = { birth="1578.1.1" }
+	1591.1.1 = { 
+		name="João"
+		religion="catholic"
+		remove_trait=theravada_buddhist
+	}
+	1594.1.1={
+		add_spouse="386981"
+		religion="buddhist"
+		trait=theravada_buddhist
+		name="Vimaladharmasuriya"
+	}
+	1604.1.1 = { death="1604.1.1" }
+}
+386984 = {
+	name="Senarath"	#Senarat of Kandy
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	1580.1.1 = { birth="1580.1.1" }
+	1604.1.1={
+		add_spouse="386981"
+	}
+	1623.1.1={
+		add_spouse="386986"
+	}
+	1624.1.1={
+		add_spouse="386987"
+	}
+	1635.1.1 = { death="1635.1.1" }
+}
+#Issue of Vimaladharmasuriya I
+386985 = {
+	name="Mahastenne"	#Crown Prince Mahastenne (died 1612)
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386983
+	mother=386981
+	1594.1.1 = { birth="1594.1.1" }
+	1612.1.1 = { death="1612.1.1" }
+}
+386986 = {
+	name="Suriya Mahadasin"	#Princess Suriya Mahadasin/Suriya Devi (died 1617)
+	female=yes
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386983
+	mother=386981
+	1595.1.1 = { birth="1595.1.1" }
+	1617.1.1 = { death="1617.1.1" }
+}
+386987 = {
+	name="Sampala Mahadasin"	#Princess Sampala Mahadasin/ Sama Devi
+	female=yes
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386983
+	mother=386981
+	1596.1.1 = { birth="1596.1.1" }
+	1649.1.1 = { death="1649.1.1" }
+}
+#Issue of Senarat of Kandy
+386988 = {
+	name="Rajasingha"	#Rajasingha II
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386984
+	mother=386981
+	1608.1.1 = { birth="1608.1.1" }
+	1687.12.6 = { death="1687.12.6" }
+}
+386989 = {
+	name="Wijayapala"	#Prince Wijayapala, Prince of Matale
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386984
+	mother=386981
+	1609.1.1 = { birth="1609.1.1" }
+	1680.1.1 = { death="1680.1.1" }
+}
+386990 = {
+	name="Kumarasinghe"	#Kumarasinghe
+	dynasty = 1010044689
+	religion="buddhist"
+	culture="sinhala"
+	trait=kshatriya
+	trait=theravada_buddhist
+	father=386984
+	mother=386981
+	1610.1.1 = { birth="1610.1.1" }
+	1674.1.1 = { death="1674.1.1" }
+}
+#386991 taken
+#Martanda Cinkaiariyan
+386992 = {
+	name="Gunabhooshana" #Gunabhooshana Cinkaiariyan
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=189146
+	1317.1.1={
+		birth="1317.1.1"
+	}
+	1371.1.1={
+		death="1371.1.1"
+	}
+}
+386993 = {
+	name="Virodaya" #Virodaya Cinkaiariyan
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=386992
+	1339.1.1={
+		birth="1339.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+386994 = {
+	name="Jeyaveera" #Jeyaveera Cinkaiariyan
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=386993
+	1365.1.1={
+		birth="1365.1.1"
+	}
+	1410.1.1={
+		death="1410.1.1"
+	}
+}
+386995 = {
+	name="Gunaveera" #Gunaveera Cinkaiariyan
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=386994
+	1386.1.1={
+		birth="1386.1.1"
+	}
+	1440.1.1={
+		death="1440.1.1"
+	}
+}
+386996 = {
+	name="Kanakasooriya" #Kanakasooriya Cinkaiariyan
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=386995
+	1415.1.1={
+		birth="1415.1.1"
+	}
+	1478.1.1={
+		death="1478.1.1"
+	}
+}
+386997 = {
+	name="Kanakasooriya" #Singai Pararasasegaram
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=386996
+	1462.1.1={
+		birth="1462.1.1"
+	}
+	1519.1.1={
+		death="1519.1.1"
+	}
+}
+386998 = {
+	name="Cankili" #Cankili I
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=386997
+	1500.1.1={
+		birth="1500.1.1"
+	}
+	1565.1.1={
+		death="1565.1.1"
+	}
+}
+386999 = {
+	name="Puviraja" #Puviraja Pandaram
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=386998
+	1537.1.1={
+		birth="1537.1.1"
+	}
+	1591.1.1={
+		death="1591.1.1"
+	}
+}
+387000 = {
+	name="Ethirimana" #Ethirimana Cinkam
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=386999
+	1574.1.1={
+		birth="1574.1.1"
+	}
+	1617.1.1={
+		death="1617.1.1"
+	}
+}
+387001 = {
+	name="Cankili" #Cankili II
+	dynasty=1029178
+	religion="hindu"
+	culture="tamil"
+	trait=kshatriya
+	trait=shaivist_hindu
+	father=387000
+	1600.1.1={
+		birth="1600.1.1"
+	}
+	1619.1.1={
+		death="1619.1.1"
+	}
+}
+#Vijayanagara
+Harihara I
+Bukka Raya I	74402
+#Issue of Bukka Raya I
+387002 = {
+	name="Kumara Kampana" #Kumara Kampana
+	dynasty=12318
+	religion="hindu"
+	culture="kannada"
+	father=74402
+	mother=74406
+	trait=kshatriya
+	trait=smartist_hindu
+	1340.1.1={
+		birth="1340.1.1"
+	}
+	1409.1.1={
+		death="1409.1.1"
+	}
+}
+#Harihara II	74407
+#Issue of Harihara II
+387003 = {
+	name="Virupaksha" #Virupaksha Raya
+	dynasty=12318
+	religion="hindu"
+	culture="kannada"
+	father=74407
+	trait=kshatriya
+	trait=smartist_hindu
+
+	1355.1.1={
+		birth="1355.1.1"
+	}
+	1405.1.1={
+		death="1405.1.1"
+	}
+}
+387004 = {
+	name="Bukka" #Bukka Raya II
+	dynasty=12318
+	religion="hindu"
+	culture="kannada"
+	father=74407
+	trait=kshatriya
+	trait=smartist_hindu
+
+	1356.1.1={
+		birth="1356.1.1"
+	}
+	1406.11.1={
+		death="1406.11.1"
+	}
+}
+387005 = {
+	name="Deva" #Deva Raya I
+	dynasty=12318
+	religion="hindu"
+	culture="kannada"
+	father=74407
+	trait=kshatriya
+	trait=smartist_hindu
+
+	1357.1.1={
+		birth="1357.1.1"
+	}
+	1423.2.25={
+		death="1423.2.25"
+	}
+}
+#Issue of Deva Raya I
+387006 = {
+	name="Ramachandra" #Ramachandra Raya
+	dynasty=12318
+	religion="hindu"
+	culture="kannada"
+	father=387005
+	trait=kshatriya
+	trait=smartist_hindu
+
+	1375.1.1={
+		birth="1375.1.1"
+	}
+	1423.6.1={
+		death="1423.6.1"
+	}
+}
+387007 = {
+	name="Bukka" #Bukka Raya III/Veera Vijaya Bukka Raya
+	dynasty=12318
+	religion="hindu"
+	culture="kannada"
+	father=387005
+	trait=kshatriya
+	trait=smartist_hindu
+
+	1375.1.1={
+		birth="1375.1.1"
+	}
+	1424.1424.1={
+		death="1424.1.1"
+	}
+}
+#Issue of Bukka Raya III/Veera Vijaya Bukka Raya
+387008 = {
+	name="Deva" #Deva Raya II
+	dynasty=12318
+	religion="hindu"
+	culture="kannada"
+	father=387007
+	trait=kshatriya
+	trait=smartist_hindu
+
+	1400.1.1={
+		birth="1400.1.1"
+	}
+	1456.1424.1={
+		death="1456.1.1"
+	}
+}
+#Issue of Deva Raya II
+387009 = {
+	name="Deva" #Deva Raya III/Mallikarjuna Raya
+	dynasty=12318
+	religion="hindu"
+	culture="kannada"
+	father=387008
+	trait=kshatriya
+	trait=smartist_hindu
+
+	1400.1.1={
+		birth="1400.1.1"
+	}
+	1465.7.14={
+		death="1465.7.14"
+	}
+}
+387010 = {
+	name="Jagaraya" #fictional
+	dynasty=12318
+	religion="hindu"
+	culture="kannada"
+	father=387008
+	trait=kshatriya
+	trait=smartist_hindu
+
+	1404.1.1={
+		birth="1404.1.1"
+	}
+	1459.1.1={
+		death="1459.1.1"
+	}
+}
+#Issue of fictional 
+387011 = {
+	name="Virupaksha" #Virupaksha Raya II nephew of previous
+	dynasty=12318
+	religion="hindu"
+	culture="kannada"
+	father=387010
+	trait=kshatriya
+	trait=smartist_hindu
+
+	1422.1.1={
+		birth="1422.1.1"
+	}
+	1485.1.1={
+		death="1485.1.1"
+	}
+}
+#Issue of Virupaksha Raya II
+387012 = {
+	name="Praudha" #Praudha Raya
+	dynasty=12318
+	religion="hindu"
+	culture="kannada"
+	father=387011
+	trait=kshatriya
+	trait=smartist_hindu
+
+	1452.1.1={
+		birth="1452.1.1"
+	}
+	1485.6.1={
+		death="1485.6.1"
+	}
+}
+#Issue of Saluva Narasimha Deva Raya
+387013 = {
+	name="Narasimha Deva" #Saluva Narasimha Deva Raya
+	dynasty=1010044690
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	1431.1.1={
+		birth="1431.1.1"
+	}
+	1491.1.1={
+		death="1491.1.1"
+	}
+}
+387014 = {
+	name="Thimma Bhupala" #Thimma Bhupala
+	dynasty=1010044690
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387013
+	1461.1.1={
+		birth="1461.1.1"
+	}
+	1491.1.1={
+		death="1491.1.1"
+	}
+}
+387015 = {
+	name="Narasimha" #Narasimha Raya II
+	dynasty=1010044690
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387013
+	1468.1.1={
+		birth="1468.1.1"
+	}
+	1505.1.1={
+		death="1505.1.1"
+	}
+}
+
+
+Tuluva Narasa Nayaka
+#Issue of Tuluva Narasa Nayaka
+#Viranarasimha Raya
+#Krishnadevaraya
+#Achyuta Deva Ray
+#Issue of Achyuta Deva Raya
+Venkata I
+#Issue of Krishnadevaraya
+Tirumalumba (from Tirumala Devi)
+Vengalamba (from Chinna Devi)
+Tirumala Raya (from Tirumala Dev
+
+#Sadasiva Raya
+
+#Rama Raya
+#Tirumala Deva Raya
+#Issue of Tirumala Deva Raya
+Sriranga Deva Raya 
+Venkatapati Deva Raya/Venkata II
+Rama
+#Issue of Rama
+Sriranga II
+Timma Raja
+#Issue of Sriranga II
+Rama Deva Raya
+#Issue of Timma Raja
+#Sriranga III
+
+#Peda Venkata Raya

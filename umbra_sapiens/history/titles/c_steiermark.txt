@@ -52,9 +52,11 @@
 }
 1439.10.27 = {
 	holder = 371947	#Ladislaus the Posthumous
+	liege="k_bohemia"
 }
 1457.11.23 = {
 	holder = 370511	#Frederick III, Holy Roman Emperor
+	liege="e_hre"
 }
 1493.8.19 = {
 	holder = 371949	#Maximilian I, Holy Roman Emperor

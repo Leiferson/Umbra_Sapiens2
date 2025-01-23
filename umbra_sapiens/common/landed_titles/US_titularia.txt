@@ -2016,3 +2016,45 @@ e_union_netherlands = {
 			}
 		}	
 }
+k_portuguese_india = {
+	color={ 204 51 51 }
+	color2={ 255 255 255 }
+	
+	culture = portuguese
+	capital	= 1220
+	
+		allow = {
+		is_portugal=yes
+			conditional_tooltip = {
+				trigger = {
+					k_portuguese_india = {
+						is_titular = yes
+					}
+				}
+				k_portuguese_india = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_portuguese_brasil = {
+	color={ 204 51 51 }
+	color2={ 255 255 255 }
+	
+	culture = portuguese
+	capital	= 4013
+	
+		allow = {  
+		is_portugal=yes
+			conditional_tooltip = {
+				trigger = {
+					k_portuguese_brasil = {
+						is_titular = yes
+					}
+				}
+				k_portuguese_brasil = {
+					is_titular = no
+				}
+			}
+		}	
+}

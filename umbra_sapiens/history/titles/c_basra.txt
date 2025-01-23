@@ -175,48 +175,13 @@
 	holder = 385928	#Shah Ismail I
 	liege="k_persia"
 }
-1524.5.23={
-	holder = 385937	#Shah Tahmasab I
+1524.1.1={
+	holder=386368
+	liege="d_amman"
 }
-1534.8.1={
-	holder=378056	#Suleiman I
-	liege="e_ottomans"
+1569.1.1={
+	holder=386369
 }
-1566.9.6={
-	holder=378068	#Selim II
-}
-1574.12.15={
-	holder=378092	#Murad III
-}
-1595.1.2={
-	holder=378103	#Mehmed III 
-}
-1603.12.22={
-	holder=378139	#Ahmed I
-}
-1617.11.22={
-	holder=378143	#Mustafa I
-}
-1618.2.26={
-	holder=378145	#Osman II
-}
-1622.5.20={
-	holder=378143	#Mustafa I
-}
-1623.9.10={
-	holder=378148	#Murad IV
-}
-1624.5.1={
-	holder = 385972	#Shah Abbas I
-	liege="k_persia"
-}
-1629.1.19={
-	holder = 385995	#Shah Safi I
-}
-1638.12.1={
-	holder=378148	#Murad IV
-	liege="e_ottomans"
-}
-1640.2.8={
-	holder=378154	#Ibrahim
+1611.1.1={
+	holder=386370
 }

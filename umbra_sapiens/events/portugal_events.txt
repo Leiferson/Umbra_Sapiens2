@@ -224,6 +224,9 @@ narrative_event = {
 		}
 		prestige = 100
 		set_global_flag = portugal_mozambique
+		d_kilwa={
+			de_jure_liege=k_portuguese_india
+		}
 	}
 }
 narrative_event = {
@@ -256,6 +259,10 @@ narrative_event = {
 		}
 		prestige = 100
 		set_global_flag = portugal_oman
+		d_oman={
+			de_jure_liege=k_portuguese_india
+		}
+		gain_title=k_portuguese_india
 	}
 }
 narrative_event = {
@@ -286,6 +293,9 @@ narrative_event = {
 		}
 		gain_title = FROM
 		religion = FROM
+		}
+		d_konkana={
+			de_jure_liege=k_portuguese_india
 		}
 		prestige = 100
 		set_global_flag = portugal_goa
@@ -319,6 +329,9 @@ narrative_event = {
 		}
 		gain_title = FROM
 		religion = FROM
+		}
+		c_somnath={
+			de_jure_liege=d_konkana
 		}
 		prestige = 100
 		set_global_flag = portugal_diu
@@ -355,6 +368,9 @@ narrative_event = {
 		}
 		prestige = 100
 		set_global_flag = portugal_daman
+		c_daman={
+			de_jure_liege=d_konkana
+		}
 	}
 }
 narrative_event = {
@@ -388,6 +404,9 @@ narrative_event = {
 		}
 		prestige = 100
 		set_global_flag = portugal_melaka
+		d_melaka={
+			de_jure_liege=k_portuguese_india
+		}
 	}
 }
 narrative_event = {
@@ -453,6 +472,12 @@ narrative_event = {
 		}
 		prestige = 100
 		set_global_flag = portugal_ceylon
+		d_lanka={
+			de_jure_liege=k_portuguese_india
+		}
+		d_sinhala={
+			de_jure_liege=k_portuguese_india
+		}
 	}
 }
 narrative_event = {
@@ -486,6 +511,9 @@ narrative_event = {
 		}
 		prestige = 100
 		set_global_flag = portugal_macau
+		d_macau={
+			de_jure_liege=k_portuguese_india
+		}
 	}
 }
 narrative_event = {
@@ -518,6 +546,9 @@ narrative_event = {
 		}
 		prestige = 100
 		set_global_flag = portugal_ternate
+		d_ternate={
+			de_jure_liege=k_portuguese_india
+		}
 	}
 }
 narrative_event = {
@@ -550,6 +581,9 @@ narrative_event = {
 		}
 		prestige = 100
 		set_global_flag = portugal_timor
+		d_timur={
+			de_jure_liege=k_portuguese_india
+		}
 	}
 }
 narrative_event = {
@@ -1012,7 +1046,8 @@ narrative_event = {
 		 }
 		 set_defacto_vassal = new_character
 		prestige = 100
-		set_global_flag = portugal_azores
+		set_global_flag = portugal_brazil
+		gain_title=k_portuguese_brasil
 	}
 }
 narrative_event = {
@@ -1207,5 +1242,37 @@ narrative_event = {
 		}
 		prestige = 100
 		set_global_flag = portugal_ajuda
+	}
+}
+narrative_event = {
+	id = portugalevents.26
+	title = EVTNAMEportugalevents.26
+	desc = EVTDESCportugaleventsR.26
+	picture = GFX_evt_magnificent_castle_wol
+	is_triggered_only = yes
+	trigger = {
+		is_alternate_start = no
+		year = 1619
+		NOT = { has_global_flag = portugal_qeshm }
+		is_portugal = yes
+		religion_group = christian
+		
+		
+		c_qeshm = {
+		any_de_jure_vassal_title = {
+		owner = { NOT = { religion_group = christian }} }
+			}
+	}
+	option = {
+		name = EVTOPTAportugalevents.26
+		any_title = {
+		limit = {
+		de_jure_liege_or_above = c_qeshm
+		owner = { NOT = { religion_group = christian }}
+		}
+		gain_title = FROM
+		}
+		prestige = 100
+		set_global_flag = portugal_qeshm
 	}
 }
