@@ -238267,8 +238267,8 @@
 	}
 }
 #Vijayanagara
-Harihara I
-Bukka Raya I	74402
+#Harihara I
+#Bukka Raya I	74402
 #Issue of Bukka Raya I
 387002 = {
 	name="Kumara Kampana" #Kumara Kampana
@@ -238365,7 +238365,7 @@ Bukka Raya I	74402
 	1375.1.1={
 		birth="1375.1.1"
 	}
-	1424.1424.1={
+	1424.1.1={
 		death="1424.1.1"
 	}
 }
@@ -238498,34 +238498,324 @@ Bukka Raya I	74402
 		death="1505.1.1"
 	}
 }
-
-
-Tuluva Narasa Nayaka
 #Issue of Tuluva Narasa Nayaka
-#Viranarasimha Raya
-#Krishnadevaraya
-#Achyuta Deva Ray
+387016 = {
+	name="Narasa Nayaka" #Tuluva Narasa Nayaka 1010044691
+	dynasty=1010044691
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	1447.1.1={
+		birth="1447.1.1"
+	}
+	1503.1.1={
+		death="1503.1.1"
+	}
+}
+387017 = {
+	name="Viranarasimha" #Viranarasimha Raya
+	dynasty=1010044691
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387016
+	1466.1.1={
+		birth="1466.1.1"
+	}
+	1509.7.26={
+		death="1509.7.26"
+	}
+}
+387018 = {
+	name="Krishnadeva" #Krishnadevaraya
+	dynasty=1010044691
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387016
+	1471.1.1={
+		birth="1471.1.1"
+	}
+	1529.10.17={
+		death="1529.10.17"
+	}
+}
+387019 = {
+	name="Achyuta Deva" #Achyuta Deva Ray
+	dynasty=1010044691
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387016
+	1475.1.1={
+		birth="1475.1.1"
+	}
+	1542.1.1={
+		death="1542.1.1"
+	}
+}
+387024 = {
+	name="Ranga" #Ranga Raya
+	dynasty=1010044691
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387016
+	1478.1.1={
+		birth="1478.1.1"
+	}
+	1538.1.1={
+		death="1538.1.1"
+	}
+}
 #Issue of Achyuta Deva Raya
-Venkata I
+387020 = {
+	name="Venkata" #Venkata I
+	dynasty=1010044691
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387019
+	1500.1.1={
+		birth="1500.1.1"
+	}
+	1543.1.1={
+		death="1543.1.1"
+	}
+}
 #Issue of Krishnadevaraya
-Tirumalumba (from Tirumala Devi)
-Vengalamba (from Chinna Devi)
-Tirumala Raya (from Tirumala Dev
-
-#Sadasiva Raya
-
-#Rama Raya
-#Tirumala Deva Raya
+387021 = {
+	name="Tirumalumba" #Tirumalumba (from Tirumala Devi)
+	dynasty=1010044691
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387018
+	1519.1.1={
+		birth="1519.1.1"
+	}
+	1542.1.1={
+		death="1542.1.1"
+	}
+}
+387022 = {
+	name="Vengalamba" #Vengalamba (from Chinna Devi)
+	dynasty=1010044691
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387018
+	1524.1.1={
+		birth="1524.1.1"
+	}
+	1542.1.1={
+		death="1542.1.1"
+	}
+}
+387023 = {
+	name="Tirumala" #Tirumala Raya (from Tirumala Dev
+	dynasty=1010044691
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387018
+	1528.1.1={
+		birth="1528.1.1"
+	}
+	1542.1.1={
+		death="1542.1.1"
+	}
+}
+#Issue of Sadasiva Raya 387024
+387025 = {
+	name="Sadasiva" #Sadasiva Raya
+	dynasty=1010044691
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387024
+	1530.1.1={
+		birth="1530.1.1"
+	}
+	1570.1.1={
+		death="1570.1.1"
+	}
+}
+387026 = {
+	name="Rama" #Rama Raya
+	dynasty=1010044692
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	1484.1.1={
+		birth="1484.1.1"
+	}
+	1565.1.23={
+		death="1565.1.23"
+	}
+}
+387027 = {
+	name="Tirumala Deva" #Tirumala Deva Raya
+	dynasty=1010044692
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	1495.1.1={
+		birth="1495.1.1"
+	}
+	1572.1.1={
+		death="1572.1.1"
+	}
+}
 #Issue of Tirumala Deva Raya
-Sriranga Deva Raya 
-Venkatapati Deva Raya/Venkata II
-Rama
+387028 = {
+	name="Sriranga Deva" #Sriranga Deva Raya 
+	dynasty=1010044692
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387027
+	1517.1.1={
+		birth="1517.1.1"
+	}
+	1586.1.1={
+		death="1586.1.1"
+	}
+}
+387029 = {
+	name="Venkatapati Deva" #Venkatapati Deva Raya/Venkata II
+	dynasty=1010044692
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387027
+	1547.1.1={
+		birth="1547.1.1"
+	}
+	1614.10.1={
+		death="1614.10.1"
+	}
+}
+387030 = {
+	name="Rama" #Rama
+	dynasty=1010044692
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387027
+	1540.1.1={
+		birth="1540.1.1"
+	}
+	1603.1.1={
+		death="1603.1.1"
+	}
+}
 #Issue of Rama
-Sriranga II
-Timma Raja
+387031 = {
+	name="Sriranga" #Sriranga II
+	dynasty=1010044692
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387030
+	1562.1.1={
+		birth="1562.1.1"
+	}
+	1615.2.1={
+		death="1615.2.1"
+	}
+}
+387033 = {
+	name="Timma" #Timma Raja
+	dynasty=1010044692
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387030
+	1568.1.1={
+		birth="1568.1.1"
+	}
+	1610.1.1={
+		death="1610.1.1"
+	}
+}
+387035 = {
+	name="Pulakesi" #placeholder
+	dynasty=1010044692
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387030
+	1573.1.1={
+		birth="1573.1.1"
+	}
+	1633.1.1={
+		death="1633.1.1"
+	}
+}
 #Issue of Sriranga II
-Rama Deva Raya
+387032 = {
+	name="Rama Deva" #Rama Deva Raya
+	dynasty=1010044692
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387031
+	1588.1.1={
+		birth="1588.1.1"
+	}
+	1632.1.1={
+		death="1632.1.1"
+	}
+}
 #Issue of Timma Raja
-#Sriranga III
-
-#Peda Venkata Raya
+387034 = {
+	name="Sriranga" #Sriranga III
+	dynasty=1010044692
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387033
+	1600.1.1={
+		birth="1600.1.1"
+	}
+	1681.1.1={
+		death="1681.1.1"
+	}
+}
+#Issue of Pulakesi
+387036 = {
+	name="Peda Venkata" #Peda Venkata Raya
+	dynasty=1010044692
+	religion="hindu"
+	culture="kannada"
+	trait=kshatriya
+	trait=smartist_hindu
+	father=387035
+	1610.1.1={
+		birth="1610.1.1"
+	}
+	1642.10.10={
+		death="1642.10.10"
+	}
+}
