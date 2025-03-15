@@ -35,3 +35,6 @@ religion = norse_pagan
 	b_lauenburg=castle
 }
 1237.1.1 = { trade_post = b_vorrade }
+1520.1.1={
+	religion="lutheran"
+}

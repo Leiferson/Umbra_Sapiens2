@@ -9291,10 +9291,10 @@
 	dynasty=1044389	#Multani
 	religion="sunni"
 	culture="turkish"
-	1280.1.1={
+	1260.1.1={
 		birth=yes
 	}
-	1360.1.1={
+	1325.1.1={
 		death=yes
 	}
 }
@@ -10234,7 +10234,7 @@
 247712 = {
 	name="Chilis"
 	dynasty=105851 #Trakhan
-	religion="buddhist"
+	religion="sunni"
 	culture="turkish"
 	father=247711
 	1295.1.1={
@@ -10251,8 +10251,8 @@
 247713 = {
 	name="Firdaws"
 	dynasty=105851 #Trakhan
-	religion="buddhist"
-	culture="turkish"
+	religion="sunni"
+	culture="panjabi"
 	father=247712
 	mother=247717
 	1325.1.1={
@@ -10267,8 +10267,8 @@
 	name="Peksen"
 	female=yes
 	dynasty=105851 #Trakhan
-	religion="buddhist"
-	culture="turkish"
+	religion="sunni"
+	culture="panjabi"
 	father=247712
 	mother=247717
 	1320.1.1={

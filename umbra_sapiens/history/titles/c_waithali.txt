@@ -297,7 +297,7 @@
 1279.1.1 = {
 	holder=1000080283 #Mengdi
 }
-1385.1.1 = {
+1374.1.1 = {
 	holder=1000080284 #Utstsanangay
 }
 1387.1.1 = {
@@ -305,4 +305,104 @@
 }
 1390.1.1 = {
 	holder=1000080286 #Thintse
+}
+1394.1.1={
+	holder=387882 #Razathu II 
+}
+1395.1.1={
+	holder=387884 #Sithabin II 
+}
+1397.1.1={
+	holder=387885 #Myinhseingyi 
+}
+1397.6.1={
+	holder=387882 #Razathu II
+}
+1401.1.1={
+	holder=387886 #Theinkhathu
+}
+1404.1.1={
+	holder=387883 #Saw Mon II 
+}
+1406.11.29={ #Ava Conquest
+	holder=387929
+}
+1408.3.1={ #Hanthawaddy Conquest
+	holder=387883 #Saw Mon II 
+}
+1411.1.1={
+	holder=387930	#Letya 
+	liege="k_sagaing"
+}
+1412.1.1={
+	holder=387931	#Naranu 
+	liege="k_pegu"
+}
+1429.4.18={
+	holder=387883 #Saw Mon II 
+	liege="d_arakan"
+	name="Mrauk U"
+}
+1433.5.9={
+	holder=387887 #Min Khayi
+}
+1459.1.1={
+	holder=387894 #Ba Saw Phyu
+}
+1482.8.5={
+	holder=387897 #Min Dawlya
+}
+1492.1.1={
+	holder=387895 #Ba Saw Nyo
+}
+1494.1.1={
+	holder=387902 #Min Ran Aung
+}
+1494.7.1={
+	holder=387906 #Salingathu
+}
+1502.1.1={
+	holder=387907 #Min Raza of Mrauk-U
+}
+1514.1.1={
+	holder=387908 #Gazapati
+}
+1515.1.1={
+	holder=387927 #Min Saw O
+}
+1515.7.1={
+	holder=387905 #Thazata
+}
+1521.4.1={
+	holder=387928 #Minkhaung of Mrauk-U
+}
+1531.5.27={
+	holder=387910 #Min Bin
+}
+1554.1.11={
+	holder=387912 #Min Dikkha
+}
+1556.3.6={
+	holder=387914 #Min Saw Hla
+}
+1564.7.24={
+	holder=387915 #Min Sekkya
+}
+1572.2.7={
+	holder=387913 #Min Phalaung
+}
+1593.7.4={
+	holder=387916 #Min Razagyi
+}
+1612.1.1={
+	holder=387921 #Min Khamaung
+}
+1622.6.1={
+	holder=387922 #Thiri Thudhamma
+}
+1638.5.31={
+	holder=387923 #Min Sanay
+}
+1638.6.17={
+	holder=387924 #Narapati of Mrauk-U
 }

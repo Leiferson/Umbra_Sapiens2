@@ -1,0 +1,175 @@
+730.1.1={
+	holder = 188001 # Nagabhata
+	liege = d_dadhipadra
+}
+765.1.1={
+	holder = 188003 # Kakustha
+}
+770.1.1={
+	holder = 188004 # Devasakti
+}
+780.1.1={
+	holder = 188005 # Vatsraja
+}
+800.1.1={
+	holder = 188006 # Nagabhata II
+	liege = k_malwa
+}
+815.1.1={
+	liege = k_kosala
+}
+833.1.1={
+	holder = 188007 # Ramabhadra
+}
+836.1.1={
+	holder = 188008 # Bhoja I
+}
+885.1.1={
+	holder = 188009 # Mahendrapala I
+}
+910.1.1={
+	holder = 188010 # Bhoja II
+}
+912.1.1={
+	holder = 188011 # Mahipala
+}
+# Paramara conquest
+918.1.1={
+	holder = 188180 # Vairisimha II
+	liege = d_dadhipadra
+}
+955.1.1={
+	holder = 188181 # Siyaka II
+}
+973.1.1={
+	holder = 188182 # Vakpati II
+}
+995.1.1={
+	holder = 188183 # Sindhu
+}
+1010.1.1={
+	holder = 188184 # Bhoja I
+}
+1055.1.1={
+	holder = 188185 # Jayasimha
+}
+1069.1.1={
+	holder = 188186 # Udayaditya
+}
+1087.1.1={
+	holder = 188187 # Lakshamanadeva
+}
+1094.1.1={
+	holder = 188188 # Naravarmandeva
+}
+1133.1.1={
+	holder = 188189 # Yasovarman
+}
+1142.1.1={
+	holder = 188190 # Jayavarman I
+}
+1143.1.1={
+	holder = 188191 # Ballala of Malwa
+}
+1151.1.1={
+	liege = k_gujarat
+	holder = 188088 # Kumarapala Solanki
+}
+1160.1.1={
+	liege = d_dadhipadra
+	holder = 188197 # Vindhyavarman Paramara
+}
+1193.1.1={
+	holder = 188198 # Subhatavarman
+}
+1210.1.1={
+	holder = 188199 # Arjunavarman I
+}
+1218.1.1={
+	holder = 188196 # Devapala
+}
+1239.1.1={
+	holder = 188200 # Jaitugideva
+}
+1256.1.1={
+	holder = 188201 # Jayavarman II
+}
+1269.1.1={
+	holder = 188202 # Jayasimha II
+}
+1274.1.1={
+	holder = 188203 # Arjunavarman II
+}
+1283.1.1={
+	holder = 188204 # Bhoja II
+}
+1298.1.1={
+	holder = 188205 # Mahlakadeva
+}
+1305.1.1={
+	holder = 191927 # Ain-ul-Mulk Multani
+}
+1325.1.1={
+	holder = 170257 #Ghiyath al-Din Tughluq
+}
+1325.2.1={
+	holder = 170258 #Muhammad
+}
+1351.3.20={
+	holder = 387274 #Firuz Shah Tughlaq
+}
+1388.9.20={
+	holder = 387276 #Ghiyath al-Din Tughluq Shah II
+}
+1389.3.14={
+	holder = 387278 #Abu Bakr Shah
+}
+1390.8.31={
+	holder = 387279 #Nasir-ud-din Muhammad Shah III
+}
+1392.1.1={
+	holder = 387458	#Dilawar Khan
+	liege="k_malwa"
+}
+1406.1.1={
+	holder = 387449	#Husam-ud-Din Hoshang Shah 1406–1435
+}
+1435.1.1={
+	holder = 387450	#Taj-ud-Din Muhammad Shah I 1435–1436
+}
+1436.1.1={
+	holder = 387451	#Ala-ud-Din Mahmud Shah I 1436–1469
+}
+1469.1.1={
+	holder = 387452	#Ghiyas-ud-Din Shah 1469–1500
+}
+1501.2.1={
+	holder = 387453	#Nasir-ud-Din Shah 1500–1510
+}
+1510.1.1={
+	holder = 387454	#Shihab-ud-Din Mahmud Shah II 1510–1531
+}
+1531.1.1={
+	holder = 387442	#Bahadur Shah of Gujarat
+}
+1537.2.13={
+	holder = 385438	#Humayun (Mughal emperor) 1535–1540
+}
+1540.1.1={
+	holder = 387456	#Qadir Shah 1540–1542
+}
+1542.1.1={
+	holder = 387457	#Shuja'at Khan (the governor of Sher Shah Suri) 1542–1555
+}
+1555.1.1={
+	holder = 387459	#Baz Bahadur 1555–1562
+}
+1562.1.1={
+	holder=385613	#Akbar
+}
+1605.10.27={
+	holder=385628	#Shahzada Salim/Jahangir
+}
+1627.10.28={
+	holder=385648	#Shah Jahan
+}

@@ -99,6 +99,25 @@ tai_kadai = {
 
 		modifier = default_culture_modifier
 	}
+	ahom = {
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.20 0.3 0.5 }
+		
+		male_names = {
+			Sukaphaa Suteuphaa Subinphaa Sukhaangphaa Sukhrangpha Sutuphaa "Tyao Khamti" Sudangphaa Sujangphaa Suphakphaa Susenphaa Suhenphaa
+			Supimphaa Suhungmung Suklenmung Sukhaamphaa Susenghphaa Suramphaa Sutingphaa Sutamla Supangmung Sunyatphaa Suklamphaa Suhung Sujinphaa
+			Sudoiphaa Sulikphaa Supaatphaa Sukhrungphaa Sutanphaa Sunenphaa Suremphaa Sunyeophaa Suhitpangphaa Suklingphaa Sudingphaa 
+		}
+		female_names = {
+			Nangsheng Tipam Jaintia Mangaldahi Pakhori Ramani Bauli Kalia Dighala Dhala Saru
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
 }
 
 hmong_mien = {

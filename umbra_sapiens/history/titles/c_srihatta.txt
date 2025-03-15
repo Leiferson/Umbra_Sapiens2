@@ -1,0 +1,193 @@
+645.1.1={
+	holder = 191100 #Khadgodyama
+	liege = d_vanga
+}
+675.1.1={
+	holder = 191101 #Jatakhadga
+}
+700.1.1={
+	holder = 191102 #Devakhadga
+}
+725.1.1={
+	holder = 190084 #Shantideva Shantideva
+}
+750.1.1={
+	holder = 190085 #Viradeva Shantideva
+}
+802.1.1={
+	holder = 190086 #Ananadeva Shantideva
+}
+841.1.1={
+	holder = 190087 #Bhavadeva Shantideva
+}
+856.1.1= {
+	holder = 190095 #Jarasandha
+}
+856.1.1={
+	liege=k_bengal
+}
+891.1.1= {
+	holder = 190096 #Sahadeva
+}#907 return to Pala
+936.1.1 = {
+	holder = 261130
+}
+1031.1.1= {
+	holder = 190120 #Skanda dies 1076
+}
+1031.1.1= {
+	liege=d_vanga
+}
+1076.1.1= {
+	holder = 190074 #Harivarman Bengala Varman
+}
+1140.1.1={
+	holder = 154002 #Vijay Sena
+	liege=k_bengal
+}
+1159.1.1= {
+	holder = 154004 #Valla Sena
+}
+1179.1.1= {
+	holder = 154005 #Laksmana Sena
+}
+1204.1.1={
+	holder = 191547 #Kharavana
+	liege = d_vanga
+}
+1250.1.1={
+	holder = 191548 #Gokuladeva
+}
+1270.1.1={
+	holder = 191549 #Narayanadeva
+}
+1290.1.1={
+	holder = 191550 #Isanadeva
+}
+1303.1.1={
+	holder = 170278 #Ghiyasuddin Bahadur
+	liege=d_vanga
+}
+1328.6.1={
+	holder=170282 #Bahram Khan
+	liege=k_bengal
+}
+1338.1.1={
+	holder=387040	#Alauddin Ali Shah
+	liege=d_gauda
+}
+1342.1.1={
+	holder=387039	#Shamsuddin Ilyas Shah
+	liege=k_bihar
+}
+1358.1.1={
+	holder=387041	#Sikandar Shah
+}
+1390.1.1={
+	holder=387042	#Ghiyasuddin Azam Shah
+}
+1411.11.1={
+	holder=387043	#Saifuddin Hamza Shah
+}
+1412.1.1={
+	holder=387044	#Shihabuddin Bayazid Shah
+}
+1414.1.1={
+	holder=387045	#Raja Ganesha
+}
+1415.1.1={
+	holder=387046	#Jalaluddin Muhammad Shah
+}
+1416.1.1={
+	holder=387045	#Raja Ganesha
+}
+1418.1.1={
+	holder=387046	#Jalaluddin Muhammad Shah
+}
+1433.1.1={
+	holder=387047	#Shamsuddin Ahmad Shah
+}
+1435.1.1={
+	holder=387093	#Mahmud Shah of Bengal
+}
+1459.2.1={
+	holder=387094	#Ruknuddin Barbak Shah
+}
+1474.1.1={
+	holder=387049	#Shamsuddin Yusuf Shah
+}
+1481.1.1={
+	holder=387096	#Nuruddin Sikandar Shah
+}
+1481.2.1={
+	holder=387095	#Jalaluddin Fateh Shah
+}
+1487.1.1={
+	holder=387097	#Shahzada Barbak
+}
+1487.6.1={
+	holder=387050	#Saifuddin Firuz Shah
+}
+1489.1.1={
+	holder=387051	#Mahmud Shah II
+}
+1490.1.1={
+	holder=387052	#Shamsuddin Muzaffar Shah
+}
+1493.1.1={
+	holder=387053	#Alauddin Husain Shah
+}
+1519.1.1={
+	holder=387055	#Nasiruddin Nasrat Shah
+}
+1533.1.1={
+	holder=387057	#Alauddin Firuz Shah
+}
+1533.3.1={
+	holder=387056	#Ghiyasuddin Mahmud Shah
+	liege="k_bengal"
+}
+1538.4.6={
+	holder=385438	#Humayun
+}
+1539.6.26={
+	holder=387062	#Khidr Khan Surak
+	liege="k_bengal"
+}
+1541.1.1={
+	holder=387083	#Qazi Fazilat
+}
+1545.1.1={
+	holder=387084	#Muhammad Khan Sur
+}
+1555.12.1={
+	holder=387085	#Ghiyasuddin Bahadur Shah II
+}
+1561.1.1={
+	holder=387086	#Ghiyasuddin Jalal Shah
+}
+1563.1.1={
+	holder=387098	#Ghiyasuddin Bahadur Shah III 
+}
+1564.1.1={
+	holder=387088	#Taj Khan Karrani 
+}
+1565.1.1={
+	holder=387089	#Sulaiman Khan Karrani
+}
+1572.10.11={
+	holder=387090	#Bayazid Khan Karrani
+}
+1572.12.1={
+	holder=387091	#Daud Khan Karrani
+}
+1576.7.12={
+	holder=387064	#Isa Khan of Bengal
+	liege="d_nadia"
+}
+1599.8.29={
+	holder=387067	#Musa Khan of Bengal
+}
+1623.4.1={
+	holder=387072	#Masum Khan
+}

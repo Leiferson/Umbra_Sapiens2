@@ -1,0 +1,290 @@
+#Up to 670 under the Sendrakas and then the Maitrakas
+670.1.1={
+	holder = 191632 #Jayasimha Chalukya (of Lata)
+	liege = d_nasikya
+}
+690.1.1={
+	holder = 191634 #Mangalarasa
+}
+738.1.1={
+	holder = 191635 #Pulakesin
+}
+747.1.1={
+	holder = 74409 #Conquered by Dantidurga
+	liege=d_lata
+}
+756.1.1={
+	holder = 191623 #Karka Rashtrakuta, grant by Dantidurga
+}
+800.1.1={
+	holder=74416#Govinda III, back to main branch
+}
+807.1.1={
+	holder=74430 #Indra Rashtrakuta (Start of Lata branch)
+}
+818.1.1={
+	holder=74431 #Karka
+}
+826.1.1={
+	holder=74432 #Govinda
+}
+835.1.1={
+	holder=74433 #Dhruva
+}
+845.1.1={
+	holder=74434 #Akalavarsha
+}
+867.1.1={
+	holder=74435 #Dhruva
+}
+871.1.1={
+	holder = 74634
+	liege = d_devagiri
+}
+874.1.1={
+	holder = 74635
+}
+900.1.1={
+	holder = 74636
+}
+925.1.1={
+	holder = 74637
+}
+950.1.1={
+	holder = 74638
+}
+974.1.1={
+	holder = 74639
+}
+975.1.1={
+	holder = 74640
+}
+1005.1.1={
+	holder = 74641
+}
+1020.1.1={
+	holder = 74642
+}
+1055.1.1={
+	holder = 74645
+}
+1085.1.1={
+	holder = 74646
+}
+1115.1.1={
+	holder = 74648
+}
+1145.1.1={
+	holder = 74649
+}
+1150.1.1={
+	holder = 74652
+}
+1165.1.1={
+	holder = 74653
+}
+1173.1.1={
+	holder = 74654
+	liege = k_maharastra
+}
+1192.1.1={
+	holder = 74655
+}
+1200.1.1={
+	holder = 74656
+}
+1220.1.1 = {
+	holder = 74514
+}
+1247.1.1={
+	holder = 74657
+}
+1261.1.1={
+	holder = 74658
+}
+1271.1.1={
+	holder = 74659
+}
+1272.1.1={
+	holder = 74660
+}
+1311.1.1={
+	holder = 74661
+}
+1312.1.1={
+	holder = 74662
+}
+1317.1.1={
+	holder = 170248 #Mubarak
+	liege="e_rajastan"
+}
+1318.1.1={
+	holder = 170250
+}
+1318.6.1={
+	holder = 170248
+}
+1320.6.1={
+	holder = 170251
+}
+1320.10.1={
+	holder = 170257
+}
+1325.2.1={
+	holder = 170258
+}
+1351.3.20={
+	holder = 387274 #Firuz Shah Tughlaq
+}
+1388.9.20={
+	holder = 387276 #Ghiyath al-Din Tughluq Shah II
+}
+1389.3.14={
+	holder = 387278 #Abu Bakr Shah
+}
+1390.8.31={
+	holder = 387279 #Nasir-ud-din Muhammad Shah III
+}
+1391.1.1={
+	holder = 387430	#Muzaffar Shah I
+	liege="k_gujarat"
+}
+1403.1.1={
+	holder = 387431	#Muhammad Shah I
+}
+1404.1.1={
+	holder = 387430	#Muzaffar Shah I
+}
+1411.1.10={
+	holder = 387432	#Ahmad Shah I
+}
+1442.1.1={
+	holder = 387433	#Muhammad Shah II
+}
+1451.1.1={
+	holder = 387436	#Ahmad Shah II
+}
+1458.5.1={
+	holder = 387434	#Daud Shah of Gujarat
+}
+1458.6.1={
+	holder = 387437	#Mahmud Begada
+}
+1511.11.23={
+	holder = 387438	#Muzaffar Shah II
+}
+1526.4.5={
+	holder = 387443	#Sikandar Shah of Gujarat
+}
+1526.5.30={
+	holder = 387448	#Mahmud Shah II (1526)
+}
+1526.8.1={
+	holder = 387442	#Bahadur Shah of Gujarat
+}
+1537.2.13={
+	holder = 0	#Miran Muhammad Shah I (1537) Farokid ruler
+}
+1538.5.10={
+	holder = 387445	#Mahmud Shah III (1537–1554)
+}
+1554.1.1={
+	holder = 387446	#Ahmad Shah III
+}
+1559.2.2={
+	holder=370329	#D. Constantino de Bragança
+	liege="k_portuguese_india"
+}
+1561.1.1={
+	holder=386843	#D. Francisco Coutinho,3.º conde de Redondo
+}
+1564.2.19 = {
+	holder=386816	#João de Mendonça Furtado
+}
+1564.6.1={
+	holder=386703	#D. Antão de Noronha
+}
+1568.1.1={
+	holder=386784	#D. Luís de Ataíde,3.º conde de Atouguia
+}
+1571.3.1={
+	holder=386940	#António de Noronha, 11.º vice-rei da Índia
+}
+1573.1.1={
+	holder=386813	#António Moniz Barreto
+}
+1576.1.1={
+	holder=386834	#Rui Lourenço de Távora
+}
+1576.6.1={
+	holder=386834	#D. Diogo de Meneses?
+}
+1578.1.1={
+	holder=386784	#D. Luís de Ataíde,3.º conde de Atouguia
+}
+1581.3.10={
+	holder=386722	#Fernão Teles de Meneses, Governador da Índia
+}
+1581.8.18={
+	holder=379619	#Francisco de Mascarenhas
+}
+1584.1.1={
+	holder=386453	#Duarte de Meneses, 14.º vice-rei da Índia
+}
+1588.5.4={
+	holder=386804	#Manuel de Sousa Coutinho
+}
+1591.5.15={
+	holder=386939	#Matias de Albuquerque
+}
+1597.1.1={
+	holder=386550	#D. Francisco da Gama, 4.º conde da Vidigueira
+}
+1600.1.1={
+	holder=386825	#Aires de Saldanha
+}
+1605.1.1 = {
+	holder=386675	#D. Martim Afonso de Castro
+}
+1607.6.3 = {
+	holder=379662	#D. Frei Aleixo de Meneses,Arcebispo de Goa e Primaz das Índias
+}
+1609.1.1={
+	holder=386834	#Rui Lourenço de Távora, neto
+}
+1612.1.1={
+	holder=386745	#D. Jerónimo de Azevedo
+}
+1617.1.1={
+	holder=386845	#D. João Coutinho,5.º conde de Redondo
+}
+1619.11.10={
+	holder=386805	#D. Jerónimo Coutinho
+}
+1619.12.1={
+	holder=386715	#D. Afonso de Noronha
+}
+1619.12.15={
+	holder=386724	#Fernão de Albuquerque
+}
+1622.1.1={
+	holder=386550	#D. Francisco da Gama, 4.º conde da Vidigueira
+}
+1628.1.1={
+	holder=386815	#D. Frei Luís de Brito e Meneses,Bispo de Meliapor
+}
+1629.7.29={
+	holder=386938	#Nuno Álvares Botelho
+}
+1629.10.1={
+	holder=386811	#Miguel de Noronha, 4.º Conde de Linhares
+}
+1635.1.1={
+	holder=386936	#Pêro da Silva
+}
+1639.1.1={
+	holder=386723	#António Teles de Meneses
+}
+1640.12.1={
+	holder=386923	#João da Silva Telo e Meneses
+}

@@ -1,0 +1,22 @@
+# 1131 - Karmanta
+
+# County Title
+title = c_karmanta
+
+# Settlements
+max_settlements = 4
+b_karmanta = castle
+#b_mainamati = castle
+#b_unakoti = temple
+#b_udaipur = city
+
+# Misc
+culture = tripuri
+religion = buddhist
+terrain = jungle
+
+# History
+1350.1.1={
+	b_udaipur = city
+	b_unakoti = temple
+}

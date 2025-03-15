@@ -1,0 +1,128 @@
+725.1.1={
+	holder = 191303	#Ramagupta
+	liege=k_bihar
+}
+846.1.1= {
+	holder = 190103 #Ajatashatru
+}
+846.1.1={
+	liege=k_bengal
+}
+870.1.1= {
+	holder = 190104 #Udayin
+}
+882.1.1= {
+	holder = 190105 #Bimbisara
+} #912 return to Pala
+936.1.1 = {
+	holder = 261124
+}
+1026.1.1={
+	holder = 191067	#Mathanadeva Rashtrakuta
+	liege=d_tirabhukti
+}
+1097.1.1={
+	holder = 191062	#Nanyadeva Karnata
+	liege=d_tirabhukti
+}
+1147.1.1={
+	holder = 191063	#Gangadeva Karnata
+}
+1180.1.1={
+	holder = 191064	#Narsinhadeva Karnata
+}
+1230.1.1={
+	holder = 191065	#Shakrasinhadeva Karnata
+}
+1280.1.1={
+	holder = 191066	#Harisinhadeva Karnata
+}
+1324.1.1={
+	holder = 170257 #Ghiyath al-Din Tughluq
+	liege="e_rajastan"
+}
+1325.2.1={
+	holder = 170258 #Muhammad
+}
+1351.3.20={
+	holder = 387274 #Firuz Shah Tughlaq
+}
+1388.9.20={
+	holder = 387276 #Ghiyath al-Din Tughluq Shah II
+}
+1389.3.14={
+	holder = 387278 #Abu Bakr Shah
+}
+1390.8.31={
+	holder = 387279 #Nasir-ud-din Muhammad Shah III
+}
+1394.1.1={
+	holder = 387412 #Malik Sarwar
+	liege="k_kosala"
+}
+1399.1.1={
+	holder = 387413 #Malik Qaranfal 	1399–1402 
+}
+1402.1.1={
+	holder = 387414 #Ibrahim Khan 	1402–1440 
+}
+1440.1.1={
+	holder = 387415 #Mahmud Khan 	1440–1457
+}
+1457.9.12={
+	holder = 387420 #Bhi Khan 	1457–1458 
+}
+1458.1.1={
+	holder = 387416 #Husain Shah of Jaunpur
+}
+1479.1.1={
+	holder = 387657 #Bahlul Khan Lodi
+	liege="e_rajastan"
+}
+1489.7.12={
+	holder = 387658 #Sikandar Khan Lodi
+}
+1517.11.21={
+	holder = 387662 #Ibrahim Khan Lodi
+}
+1526.4.21={
+	holder = 385430 #Babur
+}
+1530.12.26={
+	holder=385438	#Humayun
+}
+1538.9.8={
+	holder = 387073 #Sher Shah Suri
+	liege="k_bihar"
+}
+1545.5.22={
+	holder = 387074 #Islam Shah Suri (Jalal Khan)
+}
+1554.11.24={
+	holder = 387077 #Firuz Shah Suri
+}
+1554.12.1={
+	holder = 387079 #Muhammad Adil Shah (died 1557)
+}
+1555.1.1={
+	holder = 387080 #Ibrahim Shah Suri
+}
+1555.2.1={
+	holder = 387081	#Sikandar Shah Suri
+}
+1555.6.22={
+	holder = 387082	#Adil Shah Suri
+}
+1555.12.1={
+	holder = 387700	#Hemu
+}
+1556.11.5={
+	holder=385613	#Akbar
+	liege=e_rajastan
+}
+1605.10.27={
+	holder=385628	#Shahzada Salim/Jahangir
+}
+1627.10.28={
+	holder=385648	#Shah Jahan
+}

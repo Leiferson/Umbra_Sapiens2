@@ -1,0 +1,109 @@
+725.1.1={
+	holder = 191000 #Yasovarman
+}
+733.8.14={
+	liege = e_rajastan
+}
+744.1.1={
+	liege = 0
+}
+752.1.1={
+	holder = 191002 #Ama
+}
+762.1.1={
+	holder = 191003 #Dundaka
+}
+769.1.1={
+	holder = 191005 #Vajrayudha
+}
+783.1.1={
+	holder = 191007 #Indrayudha
+}
+790.1.1={
+	holder = 0 #Palas install Cakrayudha, vassal Raja of Kanyakubja
+}
+815.1.1={
+	holder = 188006 # Nagabhata II
+}
+833.1.1={
+	holder = 188007 # Ramabhadra
+}
+836.1.1={
+	holder = 188008 # Bhoja I
+}
+885.1.1={
+	holder = 188009 # Mahendrapala I
+}
+910.1.1={
+	holder = 188010 # Bhoja II
+}
+912.1.1={
+	holder = 188011 # Mahipala
+}
+944.1.1={
+	holder = 188012 # Mahendrapala II
+}
+948.1.1={
+	holder = 0
+}
+1089.1.1={
+	holder = 190216 #Candradeva Gahadvala
+}
+1104.1.1= {
+	holder = 190217 #Madanacandra Gahadvala
+}
+1114.1.1= {
+	holder = 190218 #Govindacandra Gahadvala
+}
+1168.1.1= {
+	holder = 190219 #Vijayacandra Gahadvala
+}
+1170.1.1= {
+	holder = 190220 #Jayacandra Gahadvala dies 1193
+}
+1193.1.1={
+	holder = 0 #Muslim conquest
+}
+1394.1.1={
+	holder = 387412 #Malik Sarwar
+}
+1399.1.1={
+	holder = 387413 #Malik Qaranfal 	1399–1402 
+}
+1402.1.1={
+	holder = 387414 #Ibrahim Khan 	1402–1440 
+}
+1440.1.1={
+	holder = 387415 #Mahmud Khan 	1440–1457
+}
+1457.9.12={
+	holder = 387420 #Bhi Khan 	1457–1458 
+}
+1458.1.1={
+	holder = 387416 #Husain Shah of Jaunpur
+}
+1479.1.1={
+	holder = 387657 #Bahlul Khan Lodi
+	liege="e_rajastan"
+}
+1489.7.12={
+	holder = 387658 #Sikandar Khan Lodi
+}
+1517.11.21={
+	holder = 387662 #Ibrahim Khan Lodi
+}
+1526.4.21={
+	holder = 385430 #Babur
+}
+1530.12.26={
+	holder=385438	#Humayun
+}
+1556.1.27={
+	holder=385613	#Akbar
+}
+1605.10.27={
+	holder=385628	#Shahzada Salim/Jahangir
+}
+1627.10.28={
+	holder=385648	#Shah Jahan
+}

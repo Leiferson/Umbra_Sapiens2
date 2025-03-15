@@ -1,0 +1,106 @@
+765.1.1={
+	liege = d_tondai_nadu
+	holder = 189423
+}
+846.1.1={
+	holder = 175070
+}
+936.1.1 = {
+	holder = 189036
+	liege = k_tamilakam
+}
+1063.1.1={
+	holder = 189104
+	liege = d_vengi
+}
+1075.1.1 = {
+	holder = 260096
+}
+1149.1.1 = {
+	holder = 260097
+}
+1189.1.1={
+	holder = 189148
+	liege = d_tondai_nadu
+}
+1220.1.1={
+	holder = 189243
+	liege = d_vengi
+}
+1280.1.1={
+	holder = 189248
+}
+1292.1.1={
+	holder = 189249
+}
+1323.11.9={
+	holder = 170257 #Muhammad
+	liege=e_rajastan
+}
+1325.2.1={
+	holder = 170258 #Muhammad
+}
+1335.1.1={
+	holder = 387270
+	liege=0
+}
+1368.1.1={
+	holder = 74402	#Bukka Raya I
+	liege="e_deccan"
+}
+1377.1.1={
+	holder = 74407	#Harihara II
+}
+1404.1.1={
+	holder = 387003	#Virupaksha Raya
+}
+1405.1.1={
+	holder = 387004	#Bukka Raya II
+}
+1406.11.1={
+	holder = 387005	#Deva Raya I
+}
+1423.2.25={
+	holder = 387006	#Ramachandra Raya
+}
+1423.6.1={
+	holder = 387007	#Veera Vijaya Bukka Raya
+}
+1424.1.1={
+	holder = 387008	#Deva Raya II
+}
+1446.5.1={
+	holder = 387009	#Mallikarjuna Raya
+}
+1465.7.14={
+	holder = 387011	#Virupaksha Raya II
+}
+1469.1.1={
+	holder=387299	#Muhammad Shah III Lashkari
+	liege=k_maharastra
+}
+1482.3.26={
+	holder=387300	#Mahmood Shah Bahmani II
+}
+1518.12.2={
+	holder=385853	#Quli Qutb Shah
+	liege="d_warangal"
+}
+1543.9.2={
+	holder=387391	#Jamsheed Quli Qutb Shah
+}
+1550.1.22={
+	holder=387396	#Subhan Quli Qutb Shah
+}
+1550.7.27={
+	holder=387395	#Ibrahim Quli Qutb Shah Wali
+}
+1580.6.5={
+	holder=387397	#Muhammad Quli Qutb Shah
+}
+1612.1.11={
+	holder=387405	#Sultan Muhammad Qutb Shah
+}
+1626.2.9={
+	holder=387406	#Abdullah Qutb Shah
+}

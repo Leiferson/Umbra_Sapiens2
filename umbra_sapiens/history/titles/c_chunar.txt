@@ -1,0 +1,223 @@
+700.1.1={
+	liege = d_jejakabhukti
+	holder = 191018 #Karamchand
+}
+
+720.1.1={
+	holder = 191019 #Ranasimha
+}
+
+730.1.1={
+	holder = 191020 #Naranath
+}
+
+750.1.1={
+	holder = 191021 #Jayasimha
+}
+
+780.1.1={
+	holder = 191022 #Jagannatharaya
+}
+
+800.1.1={
+	holder = 191023	#Narasimha
+}
+
+820.1.1={
+	holder = 191024	#Indrajit
+}
+##
+837.1.1={
+	holder = 188008
+}
+859.1.1= {
+	holder = 190111 #Ghosha
+}
+859.1.1={
+	liege=d_kasi
+}
+902.1.1= {
+	holder = 190113 #Manava
+}#910 return to rajastan
+936.1.1 = {
+	holder = 261128
+}
+954.1.1={
+	liege = d_jejakabhukti
+	holder = 188035 # Dhanga
+}
+1002.1.1={
+	holder = 188037 # Ganda
+}
+1015.1.1={
+	holder = 188038 # Vidyadhara
+}
+1046.1.1= {
+	holder = 191393 #Kamalapala Singara
+	liege = d_kasi
+}
+1085.1.1= {
+	holder = 191394 #Sulhana Singara
+}
+1104.1.1= {
+	holder = 191395 #Kumara Singara
+}
+1114.1.1= {
+	holder = 191396 #Lohadeva Singara
+}
+1168.1.1= {
+	holder = 190219 #Vijayacandra Gahadvala
+}
+1170.1.1= {
+	holder = 190220 #Jayacandra Gahadvala dies 1193
+}
+1193.1.1={
+	holder = 170190 #Battle of Chandwar
+	liege=k_delhi
+}
+1206.3.15={
+	liege=e_rajastan
+}
+1210.11.4={
+	holder = 170191 #Aram
+}
+1211.6.1={
+	holder = 170193 #Iltutmish
+}
+1220.1.1 = {
+	holder = 194287
+}
+1236.5.1={
+	holder = 170194 #Firuz I
+}
+1236.11.20={
+	holder = 170195 #Raziyya
+}
+1239.10.1={
+	holder = 170198 #Bahram
+}
+1242.5.15={
+	holder = 170199 #Masud
+}
+1246.6.11={
+	holder = 170201 #Mahmud
+}
+1266.2.19={
+	holder = 170204 #Ghiyasuddin Balban
+}
+1286.1.1={
+	holder = 170213 #Muizz ud-din Qaiqabad
+}
+1290.10.1={
+	holder = 170243 #Jalal ud din Firuz Khilji
+}
+1296.7.21={
+	holder = 170245 #Ibrahim
+}
+1296.11.1={
+	holder = 170246 #Ala-ud-din Muhammad
+}
+1316.1.3={
+	holder = 170247 #Umar
+}
+1316.4.1={
+	holder = 170248 #Mubarak
+}
+1318.1.1={
+	holder = 170250 #Mahmud
+}
+1318.6.1={
+	holder = 170248 #Mubarak
+}
+1320.6.1={
+	holder = 170251 #Husraw Kushru
+}
+1320.10.1={
+	holder = 170257 #Ghiyath al-Din Tughluq
+}
+1325.2.1={
+	holder = 170258 #Muhammad
+}
+1351.3.20={
+	holder = 387274 #Firuz Shah Tughlaq
+}
+1388.9.20={
+	holder = 387276 #Ghiyath al-Din Tughluq Shah II
+}
+1389.3.14={
+	holder = 387278 #Abu Bakr Shah
+}
+1390.8.31={
+	holder = 387279 #Nasir-ud-din Muhammad Shah III
+}
+1394.1.1={
+	holder = 387412 #Malik Sarwar
+	liege="k_kosala"
+}
+1399.1.1={
+	holder = 387413 #Malik Qaranfal 	1399–1402 
+}
+1402.1.1={
+	holder = 387414 #Ibrahim Khan 	1402–1440 
+}
+1440.1.1={
+	holder = 387415 #Mahmud Khan 	1440–1457
+}
+1457.9.12={
+	holder = 387420 #Bhi Khan 	1457–1458 
+}
+1458.1.1={
+	holder = 387416 #Husain Shah of Jaunpur
+}
+1479.1.1={
+	holder = 0
+}
+1530.1.1={
+	holder = 387073 #Sher Shah Suri
+	liege="k_bengal"
+}
+1532.12.1={
+	liege="e_rajastan"
+}
+1534.3.1={
+	liege="k_bihar"
+}
+1538.5.1={
+	holder=385438	#Humayun
+	liege="e_rajastan"
+}
+1538.9.8={
+	holder = 387073 #Sher Shah Suri
+	liege="k_bihar"
+}
+1545.5.22={
+	holder = 387074 #Islam Shah Suri (Jalal Khan)
+}
+1554.11.24={
+	holder = 387077 #Firuz Shah Suri
+}
+1554.12.1={
+	holder = 387079 #Muhammad Adil Shah (died 1557)
+}
+1555.1.1={
+	holder = 387080 #Ibrahim Shah Suri
+}
+1555.2.1={
+	holder = 387081	#Sikandar Shah Suri
+}
+1555.6.22={
+	holder = 387082	#Adil Shah Suri
+}
+1555.12.1={
+	holder = 387700	#Hemu
+}
+1556.11.5={
+	holder=385613	#Akbar
+	liege=e_rajastan
+}
+1605.10.27={
+	holder=385628	#Shahzada Salim/Jahangir
+}
+1627.10.28={
+	holder=385648	#Shah Jahan
+}

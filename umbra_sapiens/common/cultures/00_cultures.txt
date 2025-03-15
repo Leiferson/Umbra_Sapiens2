@@ -4942,6 +4942,60 @@ tibetan_group = {
 
 		modifier = default_culture_modifier
 	}
+	tripuri = {
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.5 0.4 0.3 }
+		
+		male_names = {
+			Maha Dharma Ratna Pratap Vijaya Mukut Dhanya Dhwaja Deva Indra Vijaya Ananta
+			Udai Joy Amar Rajdhar Ishwar Yashodhar Kalyan Govinda Chhatra Govinda Rama Narendra Mahendra
+			Jagat Mukunda Lakshman Krishna "Rama Ganga" Durga "Kashi Chandra" "Bir Chandra" Radha
+			Birendra Bakram Kirit Raja Agar Dungar Jujhar Rajadurlabha
+		}
+		female_names = {
+			Satyavati Subhadra Hira Sundari Lakshmi Mahadevi Ratnavati Machhatri Kamala Vijaya Sarasvati Vamadevi
+			Ishwari
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	rakhine = {
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.6 0.5 0.3 }
+		
+		male_names = {
+			Khittathin Sandathin "Yin Phyu" "Naga Thuriya" "Thuriya Raza" Ponnaka Gyiphyu Sithabin
+			Nangyi Lade Kala Bilu Thinkhaya Than Pati Letya Thihaba Razagyi Thagiwin Kawliya Datharaza
+			Ananthiri Minpunsa Pyinsakawa Danayupok Salinkabo Misuthin Ngaranman Ngapogan Ngarakhaing
+			Ngakyon Ngasu Swethin Minkhaung Kabalaung Thanabin Nganathin Nganalon Alawmaphyu Razathu
+			"Saw Lu" Uzana Sawmongyi Nankyargyi Hti Thiwarit Thinhse Myinhseingyi Theinkhathu "Saw Mon"
+			Narameikhla Naranu Basawphyu Dawlya Basawnyo Ranaung Salingathu Raza Gazapati "Saw O" Thazata
+			Bin Dikkha "Saw Hla" Sekkya Hpalaung Khamaung Hari Sanay Ngakuthala Thado Sanda Uggabala "Wara Dhamma"
+			"Mani Dhamma" Nawrahta Mayuppiya Kalamandat Naradipati Wimala Wizaya Narapawara Wizala Madarit
+			"Nara Apaya" Thirithu Parama Thumana Thammada Thaditha
+		}
+		female_names = {
+			"Saw Mae Pon" "Mya Thandar" "Sein Khine" "Aung Mae" "Gaung Pon Mae" "Chi Mae" "Dar Phyu" Panthuzar
+			"Saw Shwe Kya" "Aung Kyawt San" "Tansaung Miphaya" "Saw Thandar Wai" "Shwe Yi" "Nan Htet Mibaya"
+			"Hmauk Taw Ma" "Shwe Ku" "Phwar Thway" "Phwar Saw" "Nan Htet-Miphya" "Phwar-May" Kanadamar Thukhuma
+			Thubarabin "Thubara-Dewi" Thukumariya "Thuwanna Kayla" Radanar-Piya "Yadanar Konmaryi" "Shin lat" "Saw Bot Mae"
+			"Miphaya Phyu" "Nat Shin Mae" "Nanhtet Miphaya" "Natshinmae" "Dhamma" "Shin Htwe" Thupaba Wizala
+			"Saw Mi Taw" "Saw Thanda" "Saw Latt" "Saw Oo" "Saw Thanda" "Saw Bon-Htut" "Saw Mi Latt" "Saw Min Hla"
+			"Saw Kauk Ma" "Minkhaung Medaw" "Saw Mae Kyi" "Saw Shin" "Saw Nan-Hset" "Taung-Nan Mibara" "Saw Thuza"
+			"Saw Thuba" "Shin Phwa" "Shin Pyo" "Saw Nandi" "Saw Manaw" "Saw Mi Saw" "Saw Shin Saw" "Min Gahna"
+			"Saw Pan-Phya" "Min Pan Hla" "Saw Ru Saw" "Saw Htin" "Saw Pa-Ba" "Saw Pyinsa" "Saw Yin Mi" "Saw Khamout"
+			"Saw Sit" "Saw Pu Nyo" "Saw Pyauk" "Saw Nyet Htwa" "Saw Hla Mway" "Saw Nyo" "Saw Thanda Phyu" " Saw Mar-La"
+			"Saw Shwe-Thit" "Shwe Sin Pyaung" Thabula "Shwe Gu-Tha"
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
 	lolo = {
 		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
 		

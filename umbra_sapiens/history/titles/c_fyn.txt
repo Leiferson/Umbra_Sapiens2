@@ -52,7 +52,6 @@
 1332.8.2={
 	holder=451500 # Valdemar Atterdag
 }
-
 1337.1.1=
 {
 liege="d_holstein"
@@ -62,18 +61,22 @@ liege="d_holstein"
 holder=451940
 }
 1340.4.1 = {
-holder=451941 #Henry II, Count of Holstein-Rendsburg
+	holder=451500 # Valdemar Atterdag
+	liege="k_denmark"
 }
-1384.10.16 = {
-holder=372128 #Gerhard VI, Count of Holstein-Rendsburg
+1375.10.24={
+	holder=381591 # Olaf II of Denmark
 }
-1404.1.1 = {
-holder=372132 #Henry IV, Count of Holstein-Rendsburg
+1387.8.3={
+	holder=381582 # Margaret I of Denmark
 }
-1427.5.28= {
-holder=372135 #Adolph VIII, Count of Holstein
+1412.10.29={
+	holder=381587 # Eric of Pomerania
 }
-1459.12.4= {
+1440.4.9={
+	holder=381592 # Christopher of Bavaria
+}
+1448.1.5={
 	holder=372138	#Christian I of Denmark
 }
 1481.5.21 = {

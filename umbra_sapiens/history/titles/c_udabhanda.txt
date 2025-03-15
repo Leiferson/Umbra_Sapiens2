@@ -1,0 +1,196 @@
+763.1.1={
+	liege=d_kabul
+	holder=188565 # Surendravirkramaditya Nandin of Kabul Shahi
+}
+
+860.1.1={
+	holder=178021
+}
+936.1.1 = {
+	liege=d_gandhara
+	holder = 261103
+}
+1021.1.1={
+	liege = d_lahore
+	holder = 144125
+}
+1030.1.1={
+	holder = 144126
+}
+1031.1.1={
+	holder = 144127
+}
+1041.1.1={
+	holder = 144128
+}
+1050.1.1={
+	holder = 144129
+}
+1050.6.1={
+	holder = 144130
+}
+1050.9.1={
+	holder = 144131
+}
+1053.1.1={
+	holder = 144132
+}
+1059.1.1={
+	holder = 144133
+}
+1099.1.1={
+	holder = 144134
+}
+1115.1.1={
+	holder = 144135
+}
+1115.6.1={
+	holder = 144136
+}
+1118.1.1={
+	holder = 144137
+}
+1152.1.1={
+	holder = 144138
+}
+1160.1.1={
+	holder = 144139
+}
+1175.1.1={
+	liege = k_afghanistan
+	holder = 144142 # Mu'izz Ghurid
+}
+1186.1.1={
+	holder = 170190 #Mu'izz al-Din conquered Lahore and made Qutb-ud-din Aibak governor
+}
+1192.1.1={
+	liege=k_delhi
+}
+1206.3.15={
+	liege=e_rajastan
+}
+1210.11.4={
+	holder = 170191 #Aram
+}
+1211.6.1={
+	holder = 170193 #Iltutmish
+}
+1220.1.1={
+	holder = 191981 #Mang Han
+}
+1236.5.1={
+	holder = 170194 #Firuz I
+}
+1236.11.20={
+	holder = 170195 #Raziyya
+}
+1239.10.1={
+	holder = 170198 #Bahram
+}
+1242.5.15={
+	holder = 170199 #Masud
+}
+1246.6.11={
+	holder = 170201 #Mahmud
+}
+1266.2.19={
+	holder = 170204 #Ghiyasuddin Balban
+}
+1286.1.1={
+	holder = 170213 #Muizz ud-din Qaiqabad
+}
+1290.10.1={
+	holder = 170243 #Jalal ud din Firuz Khilji
+}
+1296.7.21={
+	holder = 170245 #Ibrahim
+}
+1296.11.1={
+	holder = 170246 #Ala-ud-din Muhammad
+}
+1316.1.3={
+	holder = 170247 #Umar
+}
+1316.4.1={
+	holder = 170248 #Mubarak
+}
+1318.1.1={
+	holder = 170250 #Mahmud
+}
+1318.6.1={
+	holder = 170248 #Mubarak
+}
+1320.6.1={
+	holder = 170251 #Husraw Kushru
+}
+1320.10.1={
+	holder = 170257 #Ghiyath al-Din Tughluq
+}
+1325.2.1={
+	holder = 170258 #Muhammad
+}
+1351.3.20={
+	holder = 387274 #Firuz Shah Tughlaq
+}
+1388.9.20={
+	holder = 387276 #Ghiyath al-Din Tughluq Shah II
+}
+1389.3.14={
+	holder = 387278 #Abu Bakr Shah
+}
+1390.8.31={
+	holder = 387279 #Nasir-ud-din Muhammad Shah III
+}
+1394.1.20={
+	holder = 387280 #Ala ud-din Sikandar Shah
+}
+1394.3.8={
+	holder = 387281 #Nasir-ud-Din Mahmud Shah II
+}
+1414.5.28={
+	holder = 387653 #Khizr Khan
+}
+1421.5.20={
+	holder = 387654 #Mubarak Shah II
+}
+1434.2.19={
+	holder = 387655 #Muhammad Shah IV
+}
+1445.1.1={
+	holder = 387656 #Alam Shah
+}
+1451.4.19={
+	holder = 387657 #Bahlul Khan Lodi
+}
+1489.7.12={
+	holder = 387658 #Sikandar Khan Lodi
+}
+1517.11.21={
+	holder = 387662 #Ibrahim Khan Lodi
+}
+1526.4.21={
+	holder = 385430 #Babur
+}
+1530.12.26={
+	holder=385438	#Humayun
+}
+1541.1.1={
+	holder = 387073 #Sher Shah Suri
+	liege="e_bengal"
+}
+1545.5.22={
+	holder = 387074 #Islam Shah Suri (Jalal Khan)
+}
+1554.11.24={
+	holder=385438	#Humayun
+	liege="e_rajastan"
+}
+1556.1.27={
+	holder=385613	#Akbar
+}
+1605.10.27={
+	holder=385628	#Shahzada Salim/Jahangir
+}
+1627.10.28={
+	holder=385648	#Shah Jahan
+}

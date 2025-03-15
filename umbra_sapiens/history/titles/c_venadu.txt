@@ -115,36 +115,159 @@
 1491.1.1={
 	holder = 387015	#Narasimha Raya II
 }
-1505.1.1={
-	holder = 387017	#Viranarasimha Raya
+1503.1.1={
+	holder=386413	#Afonso de Albuquerque
+	name="Kochim"
+	liege="e_portugal_7"
 }
-1509.7.26={
-	holder = 387018	#Krishnadevaraya
+1505.9.12={
+	holder=386387	#D. Francisco de Almeida
+	liege="k_portuguese_india"
 }
-1529.10.17={
-	holder = 387019	#Achyuta Deva Raya
+1509.11.4={
+	holder=386413	#Afonso de Albuquerque
 }
-1542.1.1={
-	holder = 387020	#Venkata I
+1515.9.8={
+	holder=386416	#Lopo Soares de Albergaria
 }
-1543.1.1={
-	holder = 387025	#Sadasiva Raya
+1518.9.8={
+	holder=386422	#Diogo Lopes de Sequeira
 }
-1570.1.1={
-	holder = 387027	#Tirumala Deva Raya
+1522.1.22={
+	holder=386446	#D. Duarte de Menezes
 }
-1572.1.1={
-	holder = 387028	#Sriranga Deva Raya
+1524.9.5={
+	holder=386504	#D. Vasco da Gama
 }
-1586.1.1={
-	holder = 387029	#Venkatapati Raya
+1524.12.1={
+	holder=386501	#D. Henrique de Menezes (o Roxo)
 }
-1614.10.1={
-	holder = 387031	#Sriranga II
+1526.2.1={
+	holder=386566	#Lopo Vaz de Sampaio
 }
-1615.2.1={
-	holder = 387032	#Rama Deva Raya
+1529.11.1={
+	holder=386378	#Nuno da Cunha
 }
-1632.1.1={
-	holder = 387036	#Peda Venkata Raya
+1538.9.1={
+	holder=386718	#D. Garcia de Noronha
+}
+1540.4.3 = {
+	holder=386506	#D. Estêvão da Gama
+}
+1542.5.1={
+	holder=386605	#Martim Afonso de Sousa
+}
+1545.1.1={
+	holder=386623	#D. João de Castro
+}
+1548.6.6={
+	holder=386624	#Garcia de Sá
+}
+1549.6.13={
+	holder=386625	#Jorge Cabral
+}
+1550.11.1={
+	holder=386715	#D. Afonso de Noronha
+}
+1554.1.1={
+	holder=386850	#D. Pedro Mascarenhas
+}
+1555.6.16 = {
+	holder=386812	#Francisco Barreto
+}
+1558.1.1={
+	holder=370329	#D. Constantino de Bragança
+}
+1561.1.1={
+	holder=386843	#D. Francisco Coutinho,3.º conde de Redondo
+}
+1564.2.19 = {
+	holder=386816	#João de Mendonça Furtado
+}
+1564.6.1={
+	holder=386703	#D. Antão de Noronha
+}
+1568.1.1={
+	holder=386784	#D. Luís de Ataíde,3.º conde de Atouguia
+}
+1571.3.1={
+	holder=386940	#António de Noronha, 11.º vice-rei da Índia
+}
+1573.1.1={
+	holder=386813	#António Moniz Barreto
+}
+1576.1.1={
+	holder=386834	#Rui Lourenço de Távora
+}
+1576.6.1={
+	holder=386834	#D. Diogo de Meneses?
+}
+1578.1.1={
+	holder=386784	#D. Luís de Ataíde,3.º conde de Atouguia
+}
+1581.3.10={
+	holder=386722	#Fernão Teles de Meneses, Governador da Índia
+}
+1581.8.18={
+	holder=379619	#Francisco de Mascarenhas
+}
+1584.1.1={
+	holder=386453	#Duarte de Meneses, 14.º vice-rei da Índia
+}
+1588.5.4={
+	holder=386804	#Manuel de Sousa Coutinho
+}
+1591.5.15={
+	holder=386939	#Matias de Albuquerque
+}
+1597.1.1={
+	holder=386550	#D. Francisco da Gama, 4.º conde da Vidigueira
+}
+1600.1.1={
+	holder=386825	#Aires de Saldanha
+}
+1605.1.1 = {
+	holder=386675	#D. Martim Afonso de Castro
+}
+1607.6.3 = {
+	holder=379662	#D. Frei Aleixo de Meneses,Arcebispo de Goa e Primaz das Índias
+}
+1609.1.1={
+	holder=386834	#Rui Lourenço de Távora, neto
+}
+1612.1.1={
+	holder=386745	#D. Jerónimo de Azevedo
+}
+1617.1.1={
+	holder=386845	#D. João Coutinho,5.º conde de Redondo
+}
+1619.11.10={
+	holder=386805	#D. Jerónimo Coutinho
+}
+1619.12.1={
+	holder=386715	#D. Afonso de Noronha
+}
+1619.12.15={
+	holder=386724	#Fernão de Albuquerque
+}
+1622.1.1={
+	holder=386550	#D. Francisco da Gama, 4.º conde da Vidigueira
+}
+1628.1.1={
+	holder=386815	#D. Frei Luís de Brito e Meneses,Bispo de Meliapor
+}
+1629.7.29={
+	holder=386938	#Nuno Álvares Botelho
+}
+1629.10.1={
+	holder=386811	#Miguel de Noronha, 4.º Conde de Linhares
+}
+1635.1.1={
+	holder=386936	#Pêro da Silva
+}
+1639.1.1={
+	holder=386723	#António Teles de Meneses
+}
+1640.12.1={
+	holder=386923	#João da Silva Telo e Meneses
 }

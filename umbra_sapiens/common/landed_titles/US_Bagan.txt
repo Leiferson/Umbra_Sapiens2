@@ -681,6 +681,48 @@ k_thaton = {
 
 }
 
+k_ava = {
+
+	color= { 241 189 101 }
+	color2= { 255 255 255 }
+
+	capital	= 2153
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_ava = {
+						is_titular = yes
+					}
+				}
+				k_ava = {
+					is_titular = no
+				}
+			}
+		}	
+}
+
+k_prome = {
+
+	color= { 0 81 186 }
+	color2= { 255 255 255 }
+
+	capital	= 2160
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_prome = {
+						is_titular = yes
+					}
+				}
+				k_prome = {
+					is_titular = no
+				}
+			}
+		}	
+}
+
 #Pyu City States
 
 d_binnaka = {

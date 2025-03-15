@@ -1,0 +1,335 @@
+755.1.1={
+	holder = 190027 #Gopala Pala
+}
+769.1.1={
+	holder = 190028 #Dharamapala Pala
+}
+810.1.1={
+	holder = 190004 #Devapala Pala
+}
+850.1.1={
+	holder = 190005 #Mahendrapala Pala
+}
+854.1.1={
+	holder = 190008 #Vigrahapala Pala
+}
+855.1.1={
+	holder = 190009 #Narayanapala Pala
+}
+908.1.1={
+	holder = 190010 #Rajyapala Pala
+}
+940.1.1={
+	holder = 190011 #Gopala II Pala
+}
+960.1.1={
+	holder = 190012 #Vigrahapala II Pala
+}
+988.1.1={
+	holder = 190013 #Mahipala Pala
+}
+1038.1.1={
+	holder = 190016 #Nayapala Pala
+}
+1055.1.1={
+	holder = 190017 #Vigrahapala III Pala
+}
+1070.1.1={
+	holder = 190018 #Mahipala II Pala
+}
+1075.1.1={
+	holder = 190019 #Surapala Pala
+}
+1077.1.1={
+	holder = 190020 #Ramapala Pala
+}
+1120.1.1={
+	holder = 190021 #Kumarapala Pala
+}
+1125.1.1={
+	holder = 190022 #Gopala III Pala
+}
+1140.1.1={
+	holder = 154002 #Vijay Sena
+}
+1159.1.1= {
+	holder = 154004 #Valla Sena
+}
+1179.1.1= {
+	holder = 154005 #Laksmana Sena
+}
+1204.1.1={
+	holder = 170252 #Muhammad Bakhtiyar
+	liege = e_rajastan
+}
+1206.1.1={
+	holder = 170253 #Muhammad Shiran
+}
+1208.1.1={
+	holder = 170255 #Ghiyasuddin Iwaj
+}
+1210.1.1={
+	holder = 170254 #Ali Mardan (Muhammad Bakhtiyars murderer)
+}
+1211.1.1={
+	holder = 170255 #Ghiyasuddin Iwaj
+	liege = 0
+}
+1227.1.1={
+	holder = 170200 #Nasiruddin Mahmud	(Also Governor of Oudh)
+	liege=e_rajastan
+}
+1229.1.1={
+	holder = 170263 #Alauddin Daulat
+}
+1229.6.1={
+	holder = 170262 #Malik Balkha
+	liege=0
+}
+1232.1.1={
+	holder = 170264 #Alauddin Jani
+	liege=e_rajastan
+}
+1233.1.1={
+	holder = 170265 #Saifuddin Aibak
+}
+1236.1.1={
+	holder = 170266 #Awar Khan Aibak
+}
+1236.12.1={
+	holder = 170267 #Tughral Tughan Khan (also governor of Bihar)
+}
+1246.1.1={
+	holder = 170268 #Tughlaq Tamar Khan (governor of Oudh, Tughral Tughan Khan gets that instead from Sultan)
+}
+1247.1.1={
+	holder = 170269 #Jalaluddin Masud Jani
+}
+1251.1.1={
+	holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+	liege=0
+}
+1257.1.1={
+	holder = 170271 #Ijjauddin Balban Iuzbaki
+	liege=e_rajastan
+}
+1259.1.1={
+	holder = 170272 #Tatar Khan
+	liege=0
+}
+1266.2.19={
+	liege=e_rajastan
+}
+1268.1.1={
+	holder = 170273 #Sher Khan
+}
+1272.1.1={
+	holder = 170274 #Amin Khan
+}
+1272.12.1={
+	holder = 170267 #Tughral Tughan Khan
+	liege = 0
+}
+1281.1.1={
+	holder = 170211 #Bughra Khan
+	liege = e_rajastan
+}
+1286.1.1={	#Death of Ghiyasuddin Balban
+	liege=0
+}
+1291.1.1={
+	holder = 170215 #Rukunuddin Kaikaus
+}
+1300.1.1={
+	holder = 170275 #Shamsuddin Firoz Shah
+}
+1322.1.1={
+	holder = 170278 #Ghiyasuddin Bahadur
+}
+1325.1.1={
+	liege=e_rajastan	#Ghiyasuddin Bahadur continues as governor
+}
+1328.6.1={
+	holder=170282 #Bahram Khan
+}
+1338.1.1={
+	holder=387037	#Fakhruddin Mubarak Shah
+	liege=0
+}
+1349.1.1={
+	holder=387038	#Ikhtiyaruddin Ghazi Shah
+}
+1352.1.1={
+	holder=387039	#Shamsuddin Ilyas Shah
+}
+1358.1.1={
+	holder=387041	#Sikandar Shah
+}
+1390.1.1={
+	holder=387042	#Ghiyasuddin Azam Shah
+}
+1411.11.1={
+	holder=387043	#Saifuddin Hamza Shah
+}
+1412.1.1={
+	holder=387044	#Shihabuddin Bayazid Shah
+}
+1414.1.1={
+	holder=387045	#Raja Ganesha
+}
+1415.1.1={
+	holder=387046	#Jalaluddin Muhammad Shah
+}
+1416.1.1={
+	holder=387045	#Raja Ganesha
+}
+1418.1.1={
+	holder=387046	#Jalaluddin Muhammad Shah
+}
+1433.1.1={
+	holder=387047	#Shamsuddin Ahmad Shah
+}
+1435.1.1={
+	holder=387093	#Mahmud Shah of Bengal
+}
+1459.2.1={
+	holder=387094	#Ruknuddin Barbak Shah
+}
+1474.1.1={
+	holder=387049	#Shamsuddin Yusuf Shah
+}
+1481.1.1={
+	holder=387096	#Nuruddin Sikandar Shah
+}
+1481.2.1={
+	holder=387095	#Jalaluddin Fateh Shah
+}
+1487.1.1={
+	holder=387097	#Shahzada Barbak
+}
+1487.6.1={
+	holder=387050	#Saifuddin Firuz Shah
+}
+1489.1.1={
+	holder=387051	#Mahmud Shah II
+}
+1490.1.1={
+	holder=387052	#Shamsuddin Muzaffar Shah
+}
+1493.1.1={
+	holder=387053	#Alauddin Husain Shah
+}
+1519.1.1={
+	holder=387055	#Nasiruddin Nasrat Shah
+}
+1533.1.1={
+	holder=387057	#Alauddin Firuz Shah
+}
+1533.3.1={
+	holder=387056	#Ghiyasuddin Mahmud Shah
+}
+1538.4.6={
+	holder=385438	#Humayun
+}
+1539.6.26={
+	holder=387062	#Khidr Khan Surak
+	liege="e_bengal"
+}
+1541.1.1={
+	holder=387083	#Qazi Fazilat
+}
+1545.1.1={
+	holder=387084	#Muhammad Khan Sur
+}
+1554.11.22={
+	liege="0"
+}
+1555.12.1={
+	holder=387085	#Ghiyasuddin Bahadur Shah II
+}
+1561.1.1={
+	holder=387086	#Ghiyasuddin Jalal Shah
+}
+1563.1.1={
+	holder=387098	#Ghiyasuddin Bahadur Shah III 
+}
+1564.1.1={
+	holder=387088	#Taj Khan Karrani 
+}
+1565.1.1={
+	holder=387089	#Sulaiman Khan Karrani
+}
+1572.10.11={
+	holder=387090	#Bayazid Khan Karrani
+}
+1572.12.1={
+	holder=387091	#Daud Khan Karrani
+}
+1576.7.12={
+	holder=387100	#Hussain Quli Khan
+	liege="e_rajastan"
+	vice_royalty = yes
+}
+1578.12.19={
+	holder=387101	#Muzaffar Khan Turbati
+}
+1582.1.1={
+	holder=387103	#Mirza Aziz Koka
+}
+1583.1.1={
+	holder=387104	#Wazir Khan Tajik
+}
+1583.6.1={
+	holder=387105	#Shahbaz Khan Kamboh
+}
+1585.1.1={
+	holder=387106	#Sadiq Khan
+}
+1586.1.1={
+	holder=387105	#Shahbaz Khan Kamboh
+}
+1588.1.1={
+	holder=387107	#Sa'id Khan
+}
+1594.1.1={
+	holder=387108	#Raja Man Singh I
+}
+1606.9.2={
+	holder=387109	#Qutubuddin Koka
+}
+1607.5.20={
+	holder=387110	#Jahangir Quli Beg
+}
+1608.1.1={
+	holder=387111	#Islam Khan Chishti
+}
+1613.5.4={
+	holder=387112	#Qasim Khan Chishti
+}
+1617.1.1={
+	holder=387113	#Ibrahim Khan Fath-i-Jang
+}
+1624.4.20={
+	holder=387114	#Darab Khan 
+}
+1625.1.1={
+	holder=387115	#Mahabat Khan
+}
+1626.1.1={
+	holder=387116	#Mukarram Khan
+}
+1627.1.1={
+	holder=387117	#Fidai Khan
+}
+1628.1.19={
+	holder=387118	#Qasim Khan Juvayni
+}
+1632.1.1={
+	holder=387119	#Mir Muhammad Baqir
+}
+1635.1.1={
+	holder=387120	#Mir Abdus Salam
+}
+1639.1.1={
+	holder=385672	#Prince Shah Shuja
+}

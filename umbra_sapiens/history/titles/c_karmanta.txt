@@ -1,0 +1,170 @@
+645.1.1={
+	holder = 191100 #Khadgodyama
+	liege = d_vanga
+}
+675.1.1={
+	holder = 191101 #Jatakhadga
+}
+700.1.1={
+	holder = 191102 #Devakhadga
+}
+730.1.1={
+	holder = 191103 #Rajarabhata
+}
+755.1.1={
+	holder = 191105 #Lokhanata
+}
+802.1.1={
+	holder = 190086 #Ananadeva Shantideva
+}
+841.1.1={
+	holder = 190087 #Bhavadeva Shantideva
+}
+866.1.1={
+	holder = 190088 #Kantideva Harikela
+	liege = 0
+}
+900.1.1={
+	holder = 190068 #Traillokyachandra Chandra
+}
+931.1.1={
+	holder = 190069 #Srichandra Chandra
+}
+975.1.1={
+	holder = 190070 #Kalyanachandra Chandra
+}
+998.1.1={
+	holder = 190071 #Ladachandra Chandra
+}
+1020.1.1={
+	holder = 190072 #Govindachandra Chandra
+}
+1052.1.1={
+	holder = 190073 #Jatavarman Bangala Varman
+	liege = d_vanga
+}
+1067.1.1={
+	holder = 190074 #Harivarman Bangala Varman
+}
+1097.1.1={
+	holder = 190049 #Samalavarman Bangala Varman
+}
+1124.1.1={
+	holder = 190083 #Bhojavarman Bangala Varman
+}
+1140.1.1={
+	holder = 154002 #Vijay Sena
+	liege=k_bengal
+}
+1159.1.1= {
+	holder = 154004 #Valla Sena
+}
+1179.1.1= {
+	holder = 154005 #Laksmana Sena
+}
+1204.1.1={
+	holder = 191546 #Harikaladeva Ranavankamalla
+	liege = d_vanga
+}
+1221.1.1={
+	liege = 0
+}
+1231.1.1={
+	holder = 191541 #Vasudeva
+	liege = d_vanga
+}
+1250.1.1={
+	holder = 191542 #Damodaradeva
+}
+1270.1.1={
+	holder = 191543 #Unkown Deva
+}
+1285.1.1={
+	holder = 191544 #Dasarathadeva
+}
+1300.1.1={
+	liege = 0
+}
+1340.1.1={
+	holder=387037	#Fakhruddin Mubarak Shah
+	liege=k_bengal
+}
+1349.1.1={
+	holder=387038	#Ikhtiyaruddin Ghazi Shah
+}
+1352.1.1={
+	holder=387039	#Shamsuddin Ilyas Shah
+}
+1358.1.1={
+	holder=387041	#Sikandar Shah
+}
+1390.1.1={
+	holder=387042	#Ghiyasuddin Azam Shah
+}
+1400.1.1={
+	holder=387936	#Maha Manikya
+	name="Twipra"
+	liege="d_vanga"
+}
+1431.1.1={
+	holder=387938	#Ratna Manikya I
+}
+1487.1.1={
+	holder=387939	#Pratap Manikya
+}
+1487.6.1={
+	holder=387942	#Vijaya Manikya I
+}
+1488.1.1={
+	holder=387941	#Mukut Manikya
+}
+1489.1.1={
+	holder=387940	#Dhanya Manikya
+}
+1515.1.1={
+	holder=387944	#Dhwaja Manikya
+}
+1520.1.1={
+	holder=387945	#Deva Manikya
+}
+1530.1.1={
+	holder=387946	#Indra Manikya I
+}
+1532.1.1={
+	holder=387947	#Vijaya Manikya II
+}
+1563.1.1={
+	holder=387949	#Ananta Manikya
+}
+1567.1.1={
+	holder=387957	#Udai Manikya I
+}
+1573.1.1={
+	holder=387958	#Joy Manikya I
+}
+1577.1.1={
+	holder=387948	#Amar Manikya
+}
+1586.1.1={
+	holder=387951	#Rajdhar Manikya I
+}
+1600.1.1={
+	holder=387952	#Ishwar Manikya 	1600 	1600
+}
+1600.6.1={
+	holder=387953	#Yashodhar Manikya 	1600 	1618
+}
+1623.1.1={
+	holder=387113	#Ibrahim Khan Fath-i-Jang
+	liege="k_bengal"
+}
+1624.4.20={
+	holder=387114	#Darab Khan 
+}
+1625.1.1={
+	holder=387115	#Mahabat Khan
+}
+1626.1.1={
+	holder=387954	#Kalyan Manikya 	1626 	1660
+	liege="d_vanga"
+}

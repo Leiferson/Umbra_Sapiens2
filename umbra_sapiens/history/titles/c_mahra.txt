@@ -76,6 +76,12 @@
 1480.1.1={
 	liege=d_socotra
 }
+1507.4.1={
+	liege="0"
+}
+1510.1.1={
+	liege="d_socotra"
+}
 1517.1.1={
 	holder=386356
 }
@@ -84,4 +90,26 @@
 }
 1607.1.1={
 	holder=386358
+}
+1624.5.1={
+	holder=386550	#D. Francisco da Gama, 4.º conde da Vidigueira
+	liege="k_portuguese_india"
+}
+1628.1.1={
+	holder=386815	#D. Frei Luís de Brito e Meneses,Bispo de Meliapor
+}
+1629.7.29={
+	holder=386938	#Nuno Álvares Botelho
+}
+1629.10.1={
+	holder=386811	#Miguel de Noronha, 4.º Conde de Linhares
+}
+1635.1.1={
+	holder=386936	#Pêro da Silva
+}
+1639.1.1={
+	holder=386723	#António Teles de Meneses
+}
+1640.12.1={
+	holder=386923	#João da Silva Telo e Meneses
 }

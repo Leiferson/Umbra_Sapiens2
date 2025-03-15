@@ -1,0 +1,163 @@
+711.1.1={
+	liege=k_sindh
+}
+
+# 711-747: Umayyad governors
+# 747-768: Abbasid governors
+
+768.1.1={
+	holder=188533 # Hisham ibn 'Amr al-Taghlibi
+}
+
+# 768-854: Abbasid governors
+
+855.1.1={
+	holder = 175050
+}
+
+913.1.1={
+	holder = 261107 # Umar II
+}
+
+## To be filled
+
+1011.1.1= {
+	holder = 188349 # Khafif I
+}
+1026.1.1={
+	holder = 188350 # Soomra
+}
+1053.1.1={
+	holder = 188351 # Bhoongar I
+	liege = k_sindh
+}
+1068.1.1={
+	holder = 188352 # Doda I
+}
+1092.1.1={
+	holder = 188353 # Zainab Tari
+}
+1102.1.1={
+	holder = 188354 # Sanghar
+}
+1107.1.1={
+	holder = 188357 # Khafif II
+}
+1140.1.1={
+	holder = 188358 # Umar I
+}
+1180.1.1={
+	holder = 188359 # Doda II
+}
+
+ # To be filled
+
+1182.1.1={
+	holder = 144142
+	liege=d_kabul
+}
+1186.1.1={
+	liege=k_sindh
+}
+1203.1.1={
+	holder=170300
+}
+1228.5.30={
+	holder = 188363 # Gunero I
+}
+1242.1.1={
+	holder= 188364 # Muhammed-Tur
+}
+1256.1.1={
+	holder = 188365 # Gunero II
+}
+1259.1.1={
+	holder = 188366 # Doda III
+}
+1273.1.1 = {
+	holder = 188367 # Tai
+}
+1283.1.1={
+	holder = 188368 # Chanesar
+}
+1300.1.1={
+	holder = 188369 # Bhoongar III
+}
+1315.1.1={
+	holder = 188370 # Khafif III
+}
+1333.1.1={
+	holder = 188371 # Doda IV
+}
+1336.1.1={
+	holder = 387513 #Bhungar IV bin Dodo IV
+}
+1338.1.1={
+	holder = 188372 #Umar II bin Dodo IV
+}
+1341.1.1={
+	holder = 387514 #Hamir bin Dodo IV
+}
+1351.1.1={
+	holder = 387515 #Jam Junan Ibn Bambhina 
+}
+1352.1.1={
+	holder = 387517 #Jam Banhabina (1352-1367)
+}
+1367.1.1={
+	holder = 387516 #Jam Tamachi (1367-1379)
+}
+1379.1.1={
+	holder = 387518 #Jam Salahuddin (1379-1389)
+}
+1389.1.1={
+	holder = 387534 #Jam Nizamuddin I (1389-1391)
+}
+1391.1.1={
+	holder = 387519 #Jam Ali Sher
+}
+1398.1.1={
+	holder = 387520 #Jam Karn (1398)
+}
+1398.6.1={
+	holder = 387521 #Jam Fath Khan (1398-1414)
+}
+1414.1.1={
+	holder = 387522 #Jam Tughluq (1414-1442)
+}
+1442.1.1={
+	holder = 387526 #Jam Mubarak (1442)
+}
+1442.6.1={
+	holder = 387523 #Jam Sikandar (1442-1444)
+}
+1444.1.1={
+	holder = 387524 #Jam Raidhan (1444-1453)
+}
+1453.1.1={
+	holder = 387525 #Jam Sanjar (1453-1461)
+}
+1461.1.1={
+	holder = 387527 #Jam Nizamuddin II (1461-1508)
+}
+1508.1.1={
+	holder = 387528 #Jam Feruzudin (1508-1527)
+}
+1520.1.1={
+	holder = 387529 #Shah Beg Arghun
+}
+1524.6.26={
+	holder = 387530 #Shah Husayn
+}
+1554.1.1={
+	holder = 387531 #Muhammad 'Isa Tarkhan 1554–1567 AD
+}
+1567.1.1={
+	holder = 387532 #Muhammad Baqi Tarkhan 1567–1585 AD
+}
+1585.1.1={
+	holder = 387533 #Jani Beg Tarkhan 1585–1593 AD 
+}
+1593.1.1={
+	holder = 0	#Mughal Conquest
+}

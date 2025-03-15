@@ -82,23 +82,60 @@
 	holder = 74556
 }
 1317.1.1={
-	liege = e_rajastan
+	liege = k_maharastra
 }
 1325.1.1={
 	holder = 74557
 }
+1357.1.1={
+	holder = 74705
+}
+1390.1.1={
+	holder=387291	#Mohammad Shah II 
+}
+1397.4.20={
+	holder=387305	#Ghiyath-ad-din Shah 
+}
+1397.6.14={
+	holder=387306	#Shams-ud-Din Shah
+}
+1397.11.15={
+	holder=387289	#Taj ud-Din Firuz Shah
+}
+1422.10.1={
+	holder=387290	#Ahmad Shah I Wali
+}
+1436.4.17={
+	holder=387294	#Alau'd-din Ahmad Shah
+}
+1458.4.3={
+	holder=387295	#Humayun Shah
+}
+1461.9.1={
+	holder=387298	#Nizam-Ud-Din Ahmad III
+}
+1463.7.30={
+	holder=387299	#Muhammad Shah III Lashkari
+}
+1482.3.26={
+	holder=387300	#Mahmood Shah Bahmani II
+}
+1490.1.1={
+	holder=387341	#Yusuf Adil Shah 
+	liege="d_rattapadi"
+}
+1510.12.5={
+	holder=387342	#Ismail Adil Shah
+}
 1510.12.10={
 	holder=386413	#Afonso de Albuquerque
-	liege=e_portugal_7
+	liege="k_portuguese_india"
 }
 1515.9.8={
 	holder=386416	#Lopo Soares de Albergaria
 }
 1518.9.8={
 	holder=386422	#Diogo Lopes de Sequeira
-}
-1521.12.13={
-	liege=e_portugal_8
 }
 1522.1.22={
 	holder=386446	#D. Duarte de Menezes
@@ -142,9 +179,6 @@
 1555.6.16 = {
 	holder=386812	#Francisco Barreto
 }
-1557.6.11={
-	liege=e_portugal_9
-}
 1558.1.1={
 	holder=370329	#D. Constantino de Bragança
 }
@@ -178,9 +212,6 @@
 1581.3.10={
 	holder=386722	#Fernão Teles de Meneses, Governador da Índia
 }
-1581.4.16={
-	liege=e_espana_burgona
-}
 1581.8.18={
 	holder=379619	#Francisco de Mascarenhas
 }
@@ -210,9 +241,6 @@
 }
 1612.1.1={
 	holder=386745	#D. Jerónimo de Azevedo
-}
-1616.1.1={
-	liege=e_portugal_10
 }
 1617.1.1={
 	holder=386845	#D. João Coutinho,5.º conde de Redondo
@@ -246,5 +274,4 @@
 }
 1640.12.1={
 	holder=386923	#João da Silva Telo e Meneses
-	liege=e_portugal_11
 }

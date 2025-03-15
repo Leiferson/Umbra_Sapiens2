@@ -1,0 +1,159 @@
+720.1.1={
+	holder = 191013	#Matsyas
+	liege = k_kosala
+}
+760.1.1={
+	holder = 191014	#Matsyas
+}
+790.1.1={
+	liege = k_bengal
+}
+810.1.1={
+	holder = 188148 #Mahisarama
+}
+825.1.1={
+	holder = 188149 #Chandamahasena
+}
+845.1.1={
+	liege = d_kanyakubja
+}
+860.1.1={
+	holder = 191936 #Narapala Jadon
+}
+880.1.1={
+	holder = 191937 #Sangramapala
+}
+900.1.1={
+	holder = 191946 #Kunthapala
+}
+920.1.1={
+	holder = 191938 #Bhaumapala
+}
+940.1.1={
+	holder = 191939 #Sukhapala
+}
+960.1.1={
+	holder = 191940 #Pukhapala
+}
+980.1.1={
+	holder = 191941 #Viramapala
+}
+1000.1.1={
+	holder = 191942 #Jaitapala
+}
+1040.1.1={
+	liege = d_jejakabhukti
+}
+1043.1.1={
+	holder = 191689 #Vijayapala
+}
+1058.1.1={
+	holder = 191690 #Timanpal
+}
+1080.1.1={
+	holder = 191691 #Ksitipala
+}
+1120.1.1={
+	holder = 191943 #Dharmapala
+}
+1155.1.1={
+	liege = d_ajmer
+}
+1160.1.1={
+	holder = 191692 #Ajayapala
+}
+1192.1.1={
+	holder = 191873 #Baha al-Din Toghril - Muslim governor	
+	liege = k_delhi
+}
+1206.3.15={
+	liege=e_rajastan
+	holder = 191822 #Arsalan Khan
+}
+1220.1.1={
+	holder = 191694 #Haripal
+}
+1250.1.1={
+	holder = 191695 #Sohanpal
+}
+1270.1.1={
+	holder = 191696 #Anangapal
+}
+1300.1.1={
+	holder = 191697 #Prithvipal
+}
+1320.1.1={
+	holder = 191944 #Rajapala
+}
+1372.1.1={
+	holder= 387588
+}
+1402.1.1={
+	holder= 387589
+}
+1412.1.1={
+	holder= 387591
+}
+1414.5.28={
+	liege="0"
+}
+1417.1.1={
+	holder= 387592
+}
+1422.1.1={
+	holder= 387593
+}
+1443.1.1={
+	holder= 387594
+}
+1468.1.1={
+	holder= 387595
+}
+1485.1.1={
+	holder= 387596
+}
+1504.1.1={
+	holder= 387597
+}
+1527.3.17={
+	holder = 385430 #Babur
+	liege="e_rajastan"
+}
+1530.12.26={
+	holder=385438	#Humayun
+}
+1540.1.1={
+	holder = 387073 #Sher Shah Suri
+	liege="e_bengal"
+}
+1545.5.22={
+	holder = 387074 #Islam Shah Suri (Jalal Khan)
+}
+1554.11.24={
+	holder = 387077 #Firuz Shah Suri
+}
+1554.12.1={
+	holder = 387079 #Muhammad Adil Shah (died 1557)
+}
+1555.1.1={
+	holder = 387080 #Ibrahim Shah Suri
+}
+1555.2.1={
+	holder = 387081	#Sikandar Shah Suri
+}
+1555.6.22={
+	holder = 387082	#Adil Shah Suri
+}
+1555.12.1={
+	holder = 387700	#Hemu
+}
+1556.11.5={
+	holder=385613	#Akbar
+	liege=e_rajastan
+}
+1605.10.27={
+	holder=385628	#Shahzada Salim/Jahangir
+}
+1627.10.28={
+	holder=385648	#Shah Jahan
+}
