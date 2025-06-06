@@ -4,8 +4,8 @@
 title = c_geelong
 
 # Settlements
-max_settlements = 3
-b_geelong = tribal
+max_settlements = 1
+b_geelong-i = tribal
 
 # Misc
 culture = australian

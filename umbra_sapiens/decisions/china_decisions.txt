@@ -1,4 +1,41 @@
 decisions = {
+order_eunuch = {
+		is_high_prio = yes
+		ai_check_interval = 1
+		potential = {
+			society_member_of = the_changwei
+		}
+		allow = {
+			NOT = {
+				is_society_rank_full = {
+							society = the_changwei
+							rank = 1
+				}
+				}
+		}
+		effect = {
+		e_china={
+		create_character = {
+		random_traits = yes
+		dynasty = actually_culture
+		religion = ROOT
+		culture = ROOT
+		female = no
+		trait = eunuch
+		attributes = {
+		intrigue = 15
+		}
+		}
+		new_character = {
+		join_society = the_changwei
+		set_character_flag = is_special_character
+		}
+		}
+		}
+		ai_will_do = {
+		factor = 1
+		}
+}
 repress_buddhists = {
 		is_high_prio = yes
 		ai_check_interval = 60
@@ -180,6 +217,9 @@ repress_buddhists = {
 		month == 0
 		age >= 14
 		is_female = no
+		NOT = {
+			trait = eunuch
+		}
 		OR = {
 		NOR = {
 			trait = tongsheng

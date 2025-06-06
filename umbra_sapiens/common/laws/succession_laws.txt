@@ -158,6 +158,7 @@ succession_laws = {
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { holder_scope = { government = vietnamese_imperial_government } }
 		}
 		allow = {
 			custom_tooltip = {
@@ -204,6 +205,7 @@ succession_laws = {
 				NOT = { religion = nihon_shinto }
 				NOT = { religion = taoist }
 				NOT = { religion = shingyo }
+				NOT = { religion = thangiao }
 				is_merchant_republic = no
 				is_patrician = no
 				OR = {
@@ -387,6 +389,7 @@ succession_laws = {
 				religion = nihon_shinto
 				religion = taoist
 				religion = shingyo
+				religion = thangiao
 				religion = chimuan_pagan
 				religion = inti
 				}
@@ -416,6 +419,7 @@ succession_laws = {
 			is_primary_type_title = no
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { holder_scope = { government = vietnamese_imperial_government } }
 			}
 		allow = {
 			conditional_tooltip = {
@@ -526,6 +530,7 @@ succession_laws = {
 				religion = nihon_shinto
 				religion = taoist
 				religion = shingyo
+				religion = thangiao
 				}
 				NOR = { 
 					religion_group = muslim 
@@ -558,6 +563,7 @@ succession_laws = {
 			is_primary_type_title = no
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { holder_scope = { government = vietnamese_imperial_government } }
 		}
 		allow = {
 			conditional_tooltip = {
@@ -816,6 +822,7 @@ succession_laws = {
 				OR = {
 				holder_scope = { religion = taoist }
 				holder_scope = { religion = shingyo }
+				holder_scope = { religion = thangiao }
 				holder_scope = { religion = nihon_shinto }
 				}
 				is_merchant_republic = no
@@ -844,6 +851,7 @@ succession_laws = {
 				OR = {
 				holder_scope = { religion = taoist }
 				holder_scope = { religion = shingyo }
+				holder_scope = { religion = thangiao }
 				holder_scope = { religion = nihon_shinto }
 				}
 				is_merchant_republic = no
@@ -920,6 +928,7 @@ succession_laws = {
 				OR = {
 				holder_scope = { religion = taoist }
 				holder_scope = { religion = shingyo }
+				holder_scope = { religion = thangiao }
 				holder_scope = { religion = nihon_shinto }
 				}
 				is_merchant_republic = no
@@ -960,6 +969,7 @@ succession_laws = {
 				  holder_scope = { religion = nihon_shinto }
 					holder_scope = { religion = taoist }
 					holder_scope = { religion = shingyo } 
+					holder_scope = { religion = thangiao }
 					holder_scope = { # Viceroyalties can always have primogeniture if not muslim
 						show_scope_change = no
 						any_demesne_title = {
@@ -1136,6 +1146,7 @@ succession_laws = {
 			NOT = { holder_scope = { government = japanese_imperial_government } }
 			NOT = { holder_scope = { government = korean_imperial_government } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { holder_scope = { government = vietnamese_imperial_government } }
 			NOR = {  #Special Elective.
 				title = e_hre 
 				title = k_union
@@ -1252,6 +1263,7 @@ succession_laws = {
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { holder_scope = { government = vietnamese_imperial_government } }
 		}
 		allow = {
 			custom_tooltip = {
@@ -1312,6 +1324,7 @@ succession_laws = {
 			NOT = { holder_scope = { religion = taoist } }
 			NOT = { holder_scope = { religion = nihon_shinto } }
 			NOT = { holder_scope = { religion = shingyo } }
+			NOT = { holder_scope = { religion = thangiao } }
 		}
 		allow = {
 			custom_tooltip = {
@@ -1397,6 +1410,7 @@ succession_laws = {
 			NOT = { holder_scope = { religion = taoist } }
 			NOT = { holder_scope = { religion = nihon_shinto } }
 			NOT = { holder_scope = { religion = shingyo } }
+			NOT = { holder_scope = { religion = thangiao } }
 		}
 		allow = {
 			OR = {
@@ -1791,6 +1805,7 @@ succession_laws = {
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { holder_scope = { government = vietnamese_imperial_government } }
 		}
 		effect = {
 			succession = appointment
@@ -1865,6 +1880,7 @@ succession_laws = {
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { holder_scope = { government = vietnamese_imperial_government } }
 		}
 		
 		effect = {
@@ -1904,6 +1920,7 @@ succession_laws = {
 			is_primary_type_title = no
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { holder_scope = { government = vietnamese_imperial_government } }
 		}
 		effect = {
 			succession = catholic_bishopric
@@ -1929,6 +1946,7 @@ succession_laws = {
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { holder_scope = { government = vietnamese_imperial_government } }
 		}
 		effect = {
 			succession = patrician_elective

@@ -1,64 +1,91 @@
-#Hayati Dynasty (placeholders)
+#Ishak Dynasty (placeholders)
 750.1.1={
-	holder=1000205017 #Andika
+	holder=1000203993 #Bongsu
 }
 780.1.1={
-	holder=1000205018 #Dumadi
+	holder=1000203994 #Agung
 }
 810.1.1={
-	holder=1000205019 #Adiputra
+	holder=1000203995 #Fajar
 }
 840.1.1={
-	holder=1000201287 #Usop
+	holder=1000201151 #Demang
 }
 870.1.1={
-	holder=1000201288 #Selamat
+	holder=1000201152 #Rabu
 }
 900.1.1={
-	holder=1000201289 #Embong
+	holder=1000201153 #Noh
 }
 930.1.1={
-	holder=1000201290 #Fajar
+	holder=1000201154 #Teh
 }
 960.1.1={
-	holder=1000201291 #Kuning
+	holder=1000201155 #Elyas
 }
 990.1.1={
-	holder=1000201292 #Leman
+	holder=1000201156 #Embong
 }
 1020.1.1={
-	holder=1000201293 #Lokman
+	holder=1000201157 #Dumadi
 }
 1050.1.1={
-	holder=1000076206 #Teruna
+	holder=1000076198 #Uda
 }
 1080.1.1={
-	holder=1000201294 #Ishak
+	holder=1000201158 #Daud
 }
 1110.1.1={
-	holder=1000201295 #Daud
+	holder=1000201159 #Jebat
 }
 1140.1.1={
-	holder=1000201296 #Deraman
+	holder=1000201160 #Megat
 }
 1170.1.1={
-	holder=1000201297 #Deris
+	holder=1000201161 #Jiwa
 }
 1200.1.1={
-	holder=1000201298 #Che
+	holder=1000201162 #Hitam
 }
 1230.1.1={
-	holder=1000201299 #Awang
+	holder=1000201163 #Haron
 }
 1260.1.1={
-	holder=1000201300 #Selasa
+	holder=1000201164 #Budiarto
 }
 1290.1.1={
-	holder=1000201301 #Shuib
+	holder=1000201165 #Gombak
 }
 1320.1.1={
-	holder=1000201302 #Senin
+	holder=1000201166 #Budi
 }
 1350.1.1={
-	holder=1000201303 #Sulong
+	holder=1000201167 #Hamengku
+}
+1384.1.1={
+	holder=390453
+}
+1442.1.1={
+	holder=390454
+}
+1488.1.1={
+	holder=390455
+}
+1526.9.24={
+	liege="k_demak"
+}
+1534.1.1={
+	holder=390456
+}
+1548.1.1={
+	liege="d_banjarmasin"
+}
+1580.1.1={
+	holder=390457
+}
+1618.1.1={
+	holder=390458
+}
+1638.1.1={
+	liege="d_makassar"
 }

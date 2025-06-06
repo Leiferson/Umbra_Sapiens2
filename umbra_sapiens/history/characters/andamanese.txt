@@ -2,7 +2,7 @@
 
 1000203960 = {
 	name="Tsokbi-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	720.1.1={
@@ -15,7 +15,7 @@
 
 1000203961 = {
 	name="Elpe-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000203960
@@ -29,7 +29,7 @@
 
 1000203962 = {
 	name="Yega-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000203961
@@ -43,7 +43,7 @@
 
 1000201746 = {
 	name="Bora-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000203962
@@ -57,7 +57,7 @@
 
 1000201747 = {
 	name="Yega-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201746
@@ -71,7 +71,7 @@
 
 1000201748 = {
 	name="Chormila-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201747
@@ -85,7 +85,7 @@
 
 1000201749 = {
 	name="Lipa-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201748
@@ -99,7 +99,7 @@
 
 1000201750 = {
 	name="Bani-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201749
@@ -113,7 +113,7 @@
 
 1000201751 = {
 	name="Kea-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201750
@@ -127,7 +127,7 @@
 
 1000201752 = {
 	name="Meo-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201751
@@ -141,7 +141,7 @@
 
 1000076208 = {
 	name="Golat-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201752
@@ -155,7 +155,7 @@
 
 1000201753 = {
 	name="Tsop-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000076208
@@ -169,7 +169,7 @@
 
 1000201754 = {
 	name="Maro-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201753
@@ -183,7 +183,7 @@
 
 1000201755 = {
 	name="Buio-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201754
@@ -197,7 +197,7 @@
 
 1000201756 = {
 	name="Tsokbi-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201755
@@ -211,7 +211,7 @@
 
 1000201757 = {
 	name="Kidseri-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201756
@@ -225,7 +225,7 @@
 
 1000201758 = {
 	name="Nggongala-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201757
@@ -239,7 +239,7 @@
 
 1000201759 = {
 	name="Birola-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201758
@@ -253,7 +253,7 @@
 
 1000201760 = {
 	name="Jaro-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201759
@@ -267,7 +267,7 @@
 
 1000201761 = {
 	name="Tseo-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201760
@@ -281,14 +281,14 @@
 
 1000201762 = {
 	name="Nimi-dala"
-	dynasty=1000028316 #Akar-Bale
+	dynasty=3000 #Akar-Bale
 	religion="melanesian_religion"
 	culture="andamanese"
 	father=1000201761
 	1320.1.1={
 		birth="1320.1.1"
 	}
-	1380.1.1={
-		death="1380.1.1"
+	1383.1.1={
+		death="1383.1.1"
 	}
 }

@@ -89,14 +89,34 @@
 	holder=1000080781 #Buhayati I
 }
 1350.1.1={
-	holder=1000080782 #Ngoloma-Kaya
+	holder=390136
+	liege=0
 }
-1357.1.1={
-	holder=1000080776 #Momole
+1400.1.1={
+	holder=390135
 }
-1359.1.1={
-	holder=1000080777 #Gapi-Malamo
+1428.1.1={
+	holder=390134
 }
-1372.1.1={
-	holder=1000080778 #Gapi-Baguna
+1466.1.1={
+	holder=390133
+}
+1490.1.1={
+	holder=390131
+}
+1530.1.1={
+	holder=390132
+}
+1551.1.1={
+	holder=390137
+	liege="d_ternate"
+}
+1560.1.1={
+	holder=390138
+}
+1605.1.1={
+	holder=390139
+}
+1613.1.1={
+	holder=390140
 }

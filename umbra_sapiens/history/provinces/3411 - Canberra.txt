@@ -4,10 +4,9 @@
 title = c_canberra
 
 # Settlements
-max_settlements = 3
-b_canberra = tribal
-b_orangee = tribal
-b_dubbo = temple
+max_settlements = 2
+b_canberra-i = tribal
+b_canberra-ii = temple
 
 # Misc
 culture = australian

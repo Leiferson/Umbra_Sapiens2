@@ -4,9 +4,8 @@
 title = c_exmouth
 
 # Settlements
-max_settlements = 3
-b_exmouth = tribal
-b_huyepeksan = tribal
+max_settlements = 1
+b_exmouth-i = tribal
 
 # Misc
 culture = australian

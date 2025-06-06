@@ -1,11 +1,88 @@
 technology = {
 	titles = {
 		d_geralkun
-		d_pernors
-		d_northern_territory
-		d_south_australia
-		d_queensland
+		d_ngarla
+		d_amangu
+		d_penikura
+		d_yinhawangka
+		d_jaburrara
+		d_broome
+		d_worora
+		d_umida
+		d_darumbal
+		d_yawuru
+		d_derbyy
+		d_wailwan
+		d_biripii
+		d_gubbi_gubbi
+		d_badimaya
+		d_winglath
+		d_kooma
+		d_nguri
+		d_baraba_baraba
+		d_barindji
+		d_madi_madi
+		d_gunu
+		d_mithaka
+		d_maiawali
+		d_biri
+		d_bidjara
+		d_garawa
+		d_bundaberg
+		d_agwamin
+		d_waanyi
+		d_kuthant
+		d_alyawarre
+		d_birria
+		d_kukatja
+		d_kununurra
+		d_uutaalnganu
+		d_lutnigh
+		d_wik
+		d_yupangathi
+		d_koknar
+		d_kunjen
+		d_lamalama
+		d_ngawaygi
+		d_miyan
+		d_yuru
+		d_kaytej
 		d_victoria
+		d_gulidjan
+		d_bourke
+		d_tasmania
+		d_perthh
+		d_ngatjumay
+		d_carnarvon
+		d_nana
+		d_albany2
+		d_kaniyang
+		d_yandruwandha
+		d_yolngu
+		d_ngaliwuru
+		d_warumungu
+		d_alawa
+		d_tiwi
+		d_wunigark
+		d_doolboong
+		d_malakmalak
+		d_bukurnidja
+		d_kuwema
+		d_taungurong
+		d_dieri
+		d_pirlatapa
+		d_gundungurra
+		d_turuwal
+		d_gunai
+		d_giraiwurung
+		d_meru
+		d_kaurna
+		d_marringarr
+		d_darwin
+		d_northern_territory
+		d_donggali
+		d_south_australia
+		d_southern_territory
 	}
 	
 	769 = {
@@ -23,29 +100,5 @@ technology = {
 		military = 0.1
 		economy = 0.1
 		culture = 0.1
-	}
-}
-
-technology = {
-	titles = {
-                            d_winglath
-                            d_carnbro
-                            d_southern_territory
-
-	}
-	
-	769 = {
-		military = 1.0
-		economy = 0.6
-		culture = 0.6
-		
-		TECH_NAVAL = 2.0
-	}
-	1640 = {
-		military = 1.0
-		economy = 0.6
-		culture = 0.6
-		
-		TECH_NAVAL = 2.0
 	}
 }

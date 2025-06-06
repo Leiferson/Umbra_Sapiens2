@@ -199,14 +199,107 @@
 1288.1.1={
 	holder = 1000080055 #Jaya-Sinhavarman III
 }
-1307.1.1={
-	holder = 1000080056 #Jaya-Sinhavarman IV
+1306.1.1={
+	holder=1000080082 #Tran Anh Tong
+	liege="k_dai_viet"
 }
-
-1312.1.1={
-	holder = 1000080057 #Nang
+1314.1.1={
+	holder=1000080083 #Tran Minh Tong
 }
-
-1318.1.1={
-	holder = 1000080058 #A-Nan
+1329.1.1={
+	holder=1000080084 #Tran Hien Tong
+}
+1341.1.1={
+	holder=1000080087 #Tran Du Tong
+}
+1370.1.1={
+	holder=1000080086 #Tran Nghe Tong
+}
+1373.1.1={
+	holder=1000080085 #Tran Due Tong
+}
+1377.3.15={
+	holder=388350 #Tran Due Tông 
+}
+1388.12.6={
+	holder=388358 #Tran Thuan Tong 
+}
+1398.3.15={
+	holder=388360 #Tran Thieu De
+}
+1400.1.1={
+	holder=388361 #Ho Quy Ly
+}
+1401.1.1={
+	holder=388363 #Ho Han Thuong
+}
+1407.1.1={
+	holder=389296 #Chinese conquest
+}
+1424.8.12 = {
+	holder = 389616 # Hongxi Emperor
+}
+1425.5.29 = {
+	holder = 389624 # Xuande Emperor
+}
+1426.1.1={
+	holder=388367	#Tran Cao (king)
+}
+1428.4.29={
+	holder=388368	#Lê Loi
+}
+1433.10.5={
+	holder=388370	#Lê Thai Tong
+}
+1442.9.7={
+	holder=388371	#Le Nhan Tong
+}
+1459.10.25={
+	holder=388373	#Le Nghi Dan
+}
+1460.6.6={
+	holder=388372	#Le Thanh Tong
+}
+1497.3.3={
+	holder=388375	#Le Hien Tong
+}
+1504.5.24={
+	holder=388382	#Le Tuc Tong
+}
+1505.1.12={
+	holder=388383	#Le Uy Muc
+}
+1510.1.20={
+	holder=388376	#Le Tuong Duc
+}
+1516.5.8={
+	holder=388385	#Le Chieu Tong
+}
+1526.12.18={
+	holder=388389	#Le Cung Hoang
+}
+1527.6.15={
+	holder=388390	#Mac Dang Dung
+}
+1529.1.1={
+	holder=388391	#Mac Thai Tong
+}
+1533.1.1={
+	holder=388401	#Le Trang Tong
+}
+1548.1.1={
+	holder=388402	#Le Trung Tong (Revival Lê dynasty)
+}
+1556.1.1={
+	holder=388403	#Le Anh Tong
+}
+1558.2.14={
+	holder=388413	#Nguyen Hoang
+	liege="d_ha_tinh"
+}
+1613.7.20={
+	holder=388414	#Nguyen Phuc Nguyen
+}
+1635.11.19={
+	holder=388416	#Nguyen Phuc Lan
 }

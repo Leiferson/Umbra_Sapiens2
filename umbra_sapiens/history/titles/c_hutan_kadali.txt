@@ -65,3 +65,37 @@
 1350.1.1={
 	holder=1000201660 #Aprian
 }
+1392.1.1={
+	holder=390193
+}
+1438.1.1={
+	holder=390194
+}
+1490.1.1={
+	holder=390195
+}
+1511.1.1={
+	liege="d_ternate"
+}
+1545.1.1={
+	holder=390196
+}
+1576.3.25={
+	set_tribute_suzerain = {
+		who = k_portuguese_india
+		type = permanent
+	}
+}
+1588.1.1={
+	holder=390197
+}
+1605.2.23={
+	clear_tribute_suzerain = k_portuguese_india
+	set_tribute_suzerain = {
+		who = k_union
+		type = permanent
+	}
+}
+1632.1.1={
+	holder=390198
+}

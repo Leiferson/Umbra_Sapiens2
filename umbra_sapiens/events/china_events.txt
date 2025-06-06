@@ -1572,3 +1572,249 @@ character_event = {
 			}
 				}
 	}
+character_event = {
+    id = chinaevents.17
+	hide_window = yes
+    is_triggered_only = yes
+    trigger = {
+    	FROM = { leader = { society_member_of = the_changwei } }
+    }
+    immediate = {
+    	if = { #Find a non-prisoner member
+    		limit = { FROM = { leader = { prisoner = yes } } }
+    		FROM = {
+    			any_society_member = {
+    				limit = { 
+    					society_member_of = the_changwei 
+    					society_rank == 4
+    					prisoner = no
+    				}
+    				character_event = { id = chinaevents.18 }
+    				break = yes
+    			}
+    			any_society_member = {
+    				limit = { 
+    					society_member_of = the_changwei 
+    					society_rank == 3
+    					prisoner = no
+    				}
+    				character_event = { id = chinaevents.18 }
+    				break = yes
+    			}
+    			any_society_member = {
+    				limit = { 
+    					society_member_of = the_changwei 
+    					society_rank == 2
+    					prisoner = no
+    				}
+    				character_event = { id = chinaevents.18 }
+    				break = yes
+    			}
+    			any_society_member = {
+    				limit = { 
+    					society_member_of = the_changwei 
+    					society_rank == 1
+    					prisoner = no
+    				}
+    				character_event = { id = chinaevents.18 }
+    				break = yes
+    			}
+    		}
+			#Everyone is somehow in prison so just use teh leader anyway
+    	}
+    	FROM = { leader = { character_event = { id = chinaevents.18 } } }
+    }
+}
+#Ping event
+character_event = {
+    id = chinaevents.18
+	hide_window = yes
+    is_triggered_only = yes
+    immediate = {
+    	FROM = { letter_event = { id = chinaevents.19 } }
+    }
+}
+
+#Welcome letter
+letter_event = {
+    id = chinaevents.19
+    desc = EVTDESC_MNM_102 #Shamefully borrowing from the Pomandres
+    border = GFX_event_letter_frame_religion
+
+    is_triggered_only = yes
+	
+	immediate = { set_character_flag = society_join_block }
+
+    option = {
+        name = EVTOPTA_MNM_102
+
+		join_society = the_changwei
+		
+		clr_character_flag = society_join_block
+    }
+}
+character_event = {
+	id = chinaevents.20
+	title = EVTNAMEchinaevents.20
+	desc = EVTDESCchinaevents.20
+	is_triggered_only = yes
+	hide_window = yes
+	trigger = {
+	has_landed_title = e_china 
+	}
+	immediate = {
+		e_china={
+		create_character = {
+		random_traits = yes
+		dynasty = actually_culture
+		religion = ROOT
+		culture = ROOT
+		female = no
+		trait = eunuch
+		attributes = {
+		intrigue = 20
+		}
+		}
+		new_character = {
+		join_society = the_changwei
+		set_society_grandmaster = yes
+		set_character_flag = is_special_character
+		}
+		create_character = {
+		random_traits = yes
+		dynasty = actually_culture
+		religion = ROOT
+		culture = ROOT
+		female = no
+		trait = eunuch
+		attributes = {
+		intrigue = 15
+		}
+		}
+		new_character = {
+		join_society = the_changwei
+		set_character_flag = is_special_character
+		}
+		create_character = {
+		random_traits = yes
+		dynasty = actually_culture
+		religion = ROOT
+		culture = ROOT
+		female = no
+		trait = eunuch
+		attributes = {
+		intrigue = 15
+		}
+		}
+		new_character = {
+		join_society = the_changwei
+		set_character_flag = is_special_character
+		}
+		create_character = {
+		random_traits = yes
+		dynasty = actually_culture
+		religion = ROOT
+		culture = ROOT
+		female = no
+		trait = eunuch
+		attributes = {
+		intrigue = 15
+		}
+		}
+		new_character = {
+		join_society = the_changwei
+		set_character_flag = is_special_character
+		}
+		create_character = {
+		random_traits = yes
+		dynasty = actually_culture
+		religion = ROOT
+		culture = ROOT
+		female = no
+		trait = eunuch
+		attributes = {
+		intrigue = 15
+		}
+		}
+		new_character = {
+		join_society = the_changwei
+		set_character_flag = is_special_character
+		}
+		create_character = {
+		random_traits = yes
+		dynasty = actually_culture
+		religion = ROOT
+		culture = ROOT
+		female = no
+		trait = eunuch
+		attributes = {
+		intrigue = 15
+		}
+		}
+		new_character = {
+		join_society = the_changwei
+		set_character_flag = is_special_character
+		}
+		create_character = {
+		random_traits = yes
+		dynasty = actually_culture
+		religion = ROOT
+		culture = ROOT
+		female = no
+		trait = eunuch
+		attributes = {
+		intrigue = 15
+		}
+		}
+		new_character = {
+		join_society = the_changwei
+		set_character_flag = is_special_character
+		}
+		create_character = {
+		random_traits = yes
+		dynasty = actually_culture
+		religion = ROOT
+		culture = ROOT
+		female = no
+		trait = eunuch
+		attributes = {
+		intrigue = 15
+		}
+		}
+		new_character = {
+		join_society = the_changwei
+		set_character_flag = is_special_character
+		}
+		create_character = {
+		random_traits = yes
+		dynasty = actually_culture
+		religion = ROOT
+		culture = ROOT
+		female = no
+		trait = eunuch
+		attributes = {
+		intrigue = 15
+		}
+		}
+		new_character = {
+		join_society = the_changwei
+		set_character_flag = is_special_character
+		}
+		create_character = {
+		random_traits = yes
+		dynasty = actually_culture
+		religion = ROOT
+		culture = ROOT
+		female = no
+		trait = eunuch
+		attributes = {
+		intrigue = 15
+		}
+		}
+		new_character = {
+		join_society = the_changwei
+		set_character_flag = is_special_character
+		}
+		}
+	}
+}

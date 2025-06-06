@@ -27,3 +27,6 @@ set_wonder_description = MYSONTEMPLEDESC
 build_wonder_upgrade = upgrade_temple_complex
 build_wonder_upgrade = upgrade_mandapa
 }
+1510.1.1={
+	religion="sunni"
+}

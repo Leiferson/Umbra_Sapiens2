@@ -1,9 +1,20 @@
 e_china = {
 
 	capital = 2550 # Bienh
+	dynasty_title_names = no
 	#capital =  # Ghang
 	color={ 162 32 65 }
 	color2={ 255 255 255 }
+	
+	# Regnal names
+	male_names = {
+		Taizong Gaozong Zhongzong Ruizong Zhongzong Shang Xuanzong Suzong Ningzong Lizong Duzong Duanzong Daozong
+		Daizong Dezong Shunzong Xianzong Muzong Jingzong Wenzong Wuzong Yizong Gongzong Shizong Xingzong
+		Xizong Zhaozong Zhenzong Renzong Yingzong Shenzong Zhezong Huizong Qinzong Xiaozong Guangzong Shengzong
+		Chongzong Huanzong Xiangzong Zhangzong Aizong Chengzong Mingzong Sizong
+		
+		Taizu Chengzu Shizu Shengzu Gaozu
+	}
 
 	k_liang = { #Liang
 

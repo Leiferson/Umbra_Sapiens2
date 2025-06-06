@@ -8806,24 +8806,6 @@ indian_group = {
 		intermarry = zun_pagan_reformed
 		intermarry = bon
 		intermarry = bon_reformed
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed
 	}
 	taoist = {
 		graphical_culture = chinesegfx
@@ -8870,30 +8852,22 @@ indian_group = {
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0	
 		intermarry = buddhist
-		intermarry = nestorian
 		intermarry = manichean
 		intermarry = zun_pagan
 		intermarry = zun_pagan_reformed
 		intermarry = bon
 		intermarry = bon_reformed
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
+		intermarry = nihon_shinto
+		intermarry = shingyo
+		intermarry = thangiao
+		intermarry = ryukyu_shinto
+		intermarry = nat
+		intermarry = sastsana_phi
+		intermarry = rmagao
+		intermarry = benzhujiao
+		intermarry = bimojiao
+		intermarry = ua_dab
+		intermarry = nugyauq
 	}
 	
 	#Eastern Folk Religions
@@ -8932,24 +8906,6 @@ indian_group = {
 		religious_clothing_priest = 10
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
 		
 	}
 	
@@ -8989,24 +8945,6 @@ indian_group = {
 		religious_clothing_priest = 10
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
 		
 	}
 	
@@ -9044,24 +8982,6 @@ indian_group = {
 		religious_clothing_priest = 10
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
 		
 	}
 	benzhujiao = { #Bai folk religion
@@ -9101,24 +9021,6 @@ indian_group = {
 		religious_clothing_priest = 10
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
 
 	}
 	
@@ -9157,24 +9059,6 @@ indian_group = {
 		religious_clothing_priest = 10
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
 
 	}
 	
@@ -9214,24 +9098,6 @@ indian_group = {
 		religious_clothing_priest = 10
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
 
 	}
 	
@@ -9269,24 +9135,6 @@ indian_group = {
 		religious_clothing_priest = 10
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
 
 	}
 	
@@ -9295,7 +9143,7 @@ indian_group = {
 		graphical_culture = chinesegfx
 		secondary_event_pictures = sunni
 
-		icon = 60
+		icon = 137
 
 		color = { 0.7 0.9 0.4 }
 		
@@ -9315,7 +9163,9 @@ indian_group = {
 			stewardship = 2
 		}
 
+		has_heir_designation = yes
 		can_grant_divorce = yes
+		uses_decadence = yes
 		priests_can_inherit = no
 		max_consorts = 3
 		
@@ -9325,24 +9175,6 @@ indian_group = {
 		religious_clothing_priest = 10
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
 
 	}
 	
@@ -9382,27 +9214,6 @@ indian_group = {
 		religious_clothing_priest = 10
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0
-		
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
-		intermarry = ainu_pantheism
-		intermarry = ainu_pantheism_reformed
 		
 	}
 	
@@ -9452,27 +9263,6 @@ indian_group = {
 		religious_clothing_priest = 10
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0
-		
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
-		intermarry = ainu_pantheism
-		intermarry = ainu_pantheism_reformed
 
 	}
 	ryukyu_shinto = {
@@ -9512,25 +9302,5 @@ indian_group = {
 		religious_clothing_priest = 10
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0
-		intermarry = melanesian_religion
-		intermarry = melanesian_religion_reformed
-		intermarry = taiwanese_religion
-		intermarry = taiwanese_religion_reformed
-		intermarry = philippine_religion
-		intermarry = philippine_religion_reformed
-		intermarry = bornean_religion
-		intermarry = bornean_religion_reformed	
-		intermarry = sulawesi_religion
-		intermarry = sulawesi_religion_reformed
-		intermarry = flores_religion
-		intermarry = flores_religion_reformed
-		intermarry = java_religion
-		intermarry = java_religion_reformed	
-		intermarry = sumatran_religion
-		intermarry = sumatran_religion_reformed	
-		intermarry = malagasy_religion
-		intermarry = malagasy_religion_reformed	
-		intermarry = ainu_pantheism
-		intermarry = ainu_pantheism_reformed
 	}
 }

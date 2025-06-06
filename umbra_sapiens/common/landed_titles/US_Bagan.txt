@@ -421,13 +421,14 @@ e_bagan = {
 				}
 			}
 			c_dagon = {
-
+				
     				color= { 115 172 148  }
     				color2= { 255 255 255 }
-
+					portuguese = Siriam
 				b_dagon = {
 				}
 				b_siriam = {
+					portuguese = Siriam
 				}
 				b_gwa_ywa = {
 				}

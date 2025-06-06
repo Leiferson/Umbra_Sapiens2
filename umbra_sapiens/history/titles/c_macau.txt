@@ -1,0 +1,268 @@
+618.6.18 ={
+	liege = d_drieux-khiengh
+}
+
+618.6.18 ={
+	holder = 1000452634
+}
+
+640.8.19 ={
+	holder = 1000452635
+}
+
+667.1.7 ={
+	holder = 1000452636
+}
+
+696.11.18 ={
+	holder = 1000452637
+}
+
+717.11.21 ={
+	holder = 1000452638
+}
+
+743.9.21 ={
+	holder = 1000452639
+}
+
+769.8.12 ={
+	holder = 1000452640
+}
+
+794.12.4 ={
+	holder = 1000452641
+}
+
+818.3.7 ={
+	holder = 1000452642
+}
+
+841.12.10 ={
+	holder = 1000452643
+}
+
+861.4.17 ={
+	holder = 1000452644
+}
+
+887.3.3 ={
+	holder = 1000452645
+	liege = e_china
+}
+
+#907.5.12 ={
+#	holder = 0
+#}
+
+936.2.4 ={
+	holder = 1000452646
+}
+
+982.2.2 ={
+	holder = 1000452647
+}
+
+1006.3.1 ={
+	holder = 1000452648
+}
+
+1028.4.26 ={
+	holder = 1000452649
+}
+
+1056.12.1 ={
+	holder = 1000452650
+}
+
+1077.10.24 ={
+	holder = 1000452651
+}
+
+1099.7.19 ={
+	holder = 1000452652
+}
+
+1121.1.16 ={
+	holder = 1000452653
+}
+
+1141.9.20 ={
+	holder = 1000452654
+}
+
+1166.6.17 ={
+	holder = 1000452655
+}
+
+1192.2.25 ={
+	holder = 1000452656
+}
+
+1215.5.25 ={
+	holder = 1000452657
+}
+
+1240.9.21 ={
+	holder = 1000452658
+}
+
+1260.12.2 ={
+	holder = 1000452659
+}
+
+1284.10.11 ={
+	holder = 1000452660
+}
+
+1308.7.18 ={
+	holder = 1000452661
+}
+
+1328.2.7 ={
+	holder = 1000452662
+}
+
+1356.4.2 ={
+	holder = 217284 # Toghon Temür Khan
+}
+1363.1.1={
+	holder = 389789 #He Zhen (count)
+	liege = d_ekuangxnom
+}
+1368.1.23 = {
+    holder = 389289 # Hongwu Emperor
+}
+1398.6.24 = {
+	holder = 389481 # Jianwen Emperor
+}
+1402.7.13 = {
+	holder = 389296 # Yongle Emperor
+}
+1424.8.12 = {
+	holder = 389616 # Hongxi Emperor
+}
+1425.5.29 = {
+	holder = 389624 # Xuande Emperor
+}
+1435.1.31 = {
+	holder = 389661 # Emperor Yingzong of Ming
+}
+1449.9.22 = {
+	holder = 389662 # Jingtai Emperor
+}
+1457.2.11 = {
+	holder = 389661 # Emperor Yingzong of Ming
+}
+1464.2.23 = {
+	holder = 389665 # Chenghua Emperor
+}
+1487.9.9 = {
+	holder = 389684 # Hongzhi Emperor
+}
+1505.6.9 = {
+	holder = 389702 # Zhengde Emperor
+}
+1521.4.20 = {
+	holder = 389706 # Jiajing Emperor
+}
+1557.1.1={
+	holder=386812	#Francisco Barreto
+	liege="k_portuguese_india"
+}
+1558.1.1={
+	holder=370329	#D. Constantino de Bragança
+}
+1561.1.1={
+	holder=386843	#D. Francisco Coutinho,3.º conde de Redondo
+}
+1564.2.19 = {
+	holder=386816	#João de Mendonça Furtado
+}
+1564.6.1={
+	holder=386703	#D. Antão de Noronha
+}
+1568.1.1={
+	holder=386784	#D. Luís de Ataíde,3.º conde de Atouguia
+}
+1571.3.1={
+	holder=386940	#António de Noronha, 11.º vice-rei da Índia
+}
+1573.1.1={
+	holder=386813	#António Moniz Barreto
+}
+1576.1.1={
+	holder=386834	#Rui Lourenço de Távora
+}
+1576.6.1={
+	holder=386834	#D. Diogo de Meneses?
+}
+1578.1.1={
+	holder=386784	#D. Luís de Ataíde,3.º conde de Atouguia
+}
+1581.3.10={
+	holder=386722	#Fernão Teles de Meneses, Governador da Índia
+}
+1581.8.18={
+	holder=379619	#Francisco de Mascarenhas
+}
+1584.1.1={
+	holder=386453	#Duarte de Meneses, 14.º vice-rei da Índia
+}
+1588.5.4={
+	holder=386804	#Manuel de Sousa Coutinho
+}
+1591.5.15={
+	holder=386939	#Matias de Albuquerque
+}
+1597.1.1={
+	holder=386550	#D. Francisco da Gama, 4.º conde da Vidigueira
+}
+1600.1.1={
+	holder=386825	#Aires de Saldanha
+}
+1605.1.1 = {
+	holder=386675	#D. Martim Afonso de Castro
+}
+1607.6.3 = {
+	holder=379662	#D. Frei Aleixo de Meneses,Arcebispo de Goa e Primaz das Índias
+}
+1609.1.1={
+	holder=386834	#Rui Lourenço de Távora, neto
+}
+1612.1.1={
+	holder=386745	#D. Jerónimo de Azevedo
+}
+1617.1.1={
+	holder=386845	#D. João Coutinho,5.º conde de Redondo
+}
+1619.11.10={
+	holder=386805	#D. Jerónimo Coutinho
+}
+1619.12.1={
+	holder=386715	#D. Afonso de Noronha
+}
+1619.12.15={
+	holder=386724	#Fernão de Albuquerque
+}
+1622.1.1={
+	holder=386550	#D. Francisco da Gama, 4.º conde da Vidigueira
+}
+1628.1.1={
+	holder=386815	#D. Frei Luís de Brito e Meneses,Bispo de Meliapor
+}
+1629.7.29={
+	holder=386938	#Nuno Álvares Botelho
+}
+1629.10.1={
+	holder=386811	#Miguel de Noronha, 4.º Conde de Linhares
+}
+1635.1.1={
+	holder=386936	#Pêro da Silva
+}
+1639.1.1={
+	holder=386723	#António Teles de Meneses
+}
+1640.12.1={
+	holder=386923	#João da Silva Telo e Meneses
+}

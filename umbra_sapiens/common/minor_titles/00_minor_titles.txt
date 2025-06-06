@@ -3003,6 +3003,7 @@ title_zhangshi = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 
 	allowed_to_grant = {
@@ -3044,6 +3045,7 @@ title_canjun = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -3085,6 +3087,7 @@ title_yuhou = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -4772,6 +4775,7 @@ title_libu = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -4808,6 +4812,7 @@ title_gongbu = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -4844,6 +4849,7 @@ title_menxiashizong = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -4880,6 +4886,7 @@ title_menxiashilang = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -4916,6 +4923,7 @@ title_taichang = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -4952,6 +4960,7 @@ title_guangluxun = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -4988,6 +4997,7 @@ title_langzheng = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5024,6 +5034,7 @@ title_taifu = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5060,6 +5071,7 @@ title_shaofu = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5096,6 +5108,7 @@ title_weiwei = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5132,6 +5145,7 @@ title_dahonglu = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5168,6 +5182,7 @@ title_dasinong = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5204,6 +5219,7 @@ title_tingwei = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5240,6 +5256,7 @@ title_dushuijian = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5276,6 +5293,7 @@ title_shaofujian = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5312,6 +5330,7 @@ title_jiangzuojian = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5348,6 +5367,7 @@ title_junqijian = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5384,6 +5404,7 @@ title_changqiujian = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5420,6 +5441,7 @@ title_guozijian = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5456,6 +5478,7 @@ title_sitianjian = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5492,6 +5515,7 @@ title_shangshuling = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5528,6 +5552,7 @@ title_shangshupuye = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5565,6 +5590,7 @@ title_shangshuchengling = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5601,6 +5627,7 @@ title_shangshuchengpuye = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5637,6 +5664,7 @@ title_dianzhongshiyushi = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5673,6 +5701,7 @@ title_chayuan = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5709,6 +5738,7 @@ title_shiyushi = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		NOT = { trait = eunuch }
 	}
 	
 	allowed_to_grant = {
@@ -5859,6 +5889,781 @@ title_raadpensionaris = {
 	has_landed_title = k_union
 	has_landed_title = e_union_netherlands
 	}
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+#Eununch posts in China
+title_neiguanjian = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_yuyongjian = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_sishejian = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_yumajian = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_shengongjian = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_shangshanjian = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_shangbaojian = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_yinshoujian = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_zhidianjian = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_shangyijian = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_duzhijian = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_silijian = {
+	dignity = 3
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 2
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_xixinsi = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_zhonggusi = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_baochaosi = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_huntangsi = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_bingzhangju = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_jinmaoju = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_zhengongju = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_neiranzhiju = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_jiukumianju = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_siyuanju = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_huanyiju = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_yinzuochu = {
+	dignity = 1
+	is_unique = yes
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 1
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_bingbi = {
+	dignity = 3
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 50
+	show_as_title = yes
+	
+	monthly_salary = 0.1
+	monthly_prestige = 2
+	is_unique = yes
+
+	allowed_to_hold = {
+		trait = eunuch
+		NOT = { 
+			primary_title = { temporary = yes } 
+		}
+		is_adult = yes
+	}
+	
+	allowed_to_grant = {
+			government = chinese_imperial_government
 	}
 	
 	gain_effect = {

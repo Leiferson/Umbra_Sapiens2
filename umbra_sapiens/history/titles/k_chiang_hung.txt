@@ -24,8 +24,73 @@
 	holder=1000201992 #Cao-Ai
 }
 1292.1.1 = {
-	liege="e_china"
+	set_tribute_suzerain = {
+		who = e_china
+		type = permanent 
+	}
 }
 1347.1.1 = {
 	holder=1000201993 #Cao-Khan-Moeng
+}
+1368.1.1={
+	clear_tribute_suzerain = e_china
+	set_tribute_suzerain = {
+		who = k_lanna
+		type = permanent 
+	}
+}
+1391.1.1={
+	holder=388429
+}
+1413.1.1={
+	holder=388430
+}
+1414.1.1={
+	holder=388431
+}
+1415.1.1={
+	holder=388432
+}
+1416.1.1={
+	holder=388433
+}
+1431.1.1={
+	holder=388434
+}
+1434.1.1={
+	holder=388435
+}
+1457.1.1={
+	holder=388436
+}
+1490.1.1={
+	holder=388437
+}
+1504.1.1={
+	holder=388438
+}
+1538.1.1={
+	holder=388439
+}
+1558.1.1={
+	clear_tribute_suzerain = k_lanna
+	set_tribute_suzerain = {
+		who = e_bagan
+		type = permanent 
+	}
+}
+1561.1.1={
+	holder=388440
+}
+1578.1.1={
+	holder=388441
+}
+1579.1.1={
+	holder=388442
+}
+1583.1.1={
+	holder=388443
+}
+1628.1.1={
+	holder=388444
 }

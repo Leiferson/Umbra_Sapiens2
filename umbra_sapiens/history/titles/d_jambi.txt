@@ -59,6 +59,13 @@
 1316.1.1={
 	holder=1000080640 #Akarendrawarman
 }
+1340.1.1={
+	liege="e_java"
+}
 1347.1.1={
-	holder=1000080496 #Adityawarman
+	holder=1000080496
+	liege=0
+}
+1365.1.1={
+	holder=0
 }

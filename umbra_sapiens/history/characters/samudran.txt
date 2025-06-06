@@ -59,7 +59,7 @@
 
 1000080707 = {
 	name="Abdul-Kadir"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="shiite"
 	culture="samudran"
 	870.1.1={
@@ -72,7 +72,7 @@
 
 1000080708 = {
 	name="Muhammad-Amin"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="shiite"
 	culture="samudran"
 	father=1000080707
@@ -86,7 +86,7 @@
 
 1000080709 = {
 	name="Abdul"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="shiite"
 	culture="samudran"
 	father=1000080708
@@ -100,7 +100,7 @@
 
 1000080710 = {
 	name="Ibrahim"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000080709
@@ -114,7 +114,7 @@
 
 1000080711 = {
 	name="Mahmud"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000080710
@@ -128,7 +128,7 @@
 
 1000076194 = {
 	name="Mansur"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000080711
@@ -145,7 +145,7 @@
 
 1000080712 = {
 	name="Abdullah"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000076194
@@ -159,7 +159,7 @@
 
 1000080713 = {
 	name="Ahmad"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000080712
@@ -173,7 +173,7 @@
 
 1000080714 = {
 	name="Mahmud"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000080713
@@ -187,7 +187,7 @@
 
 1000080715 = {
 	name="Usman"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000080714
@@ -201,7 +201,7 @@
 
 1000080716 = {
 	name="Muhammad"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000080715
@@ -215,7 +215,7 @@
 
 1000080717 = {
 	name="Abdul-Jalil"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000080716
@@ -229,7 +229,7 @@
 
 1000080718 = {
 	name="Muhammad-Amin"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000080717
@@ -243,7 +243,7 @@
 
 1000080719 = {
 	name="Abdul-Aziz"
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000080718
@@ -258,7 +258,7 @@
 1000080720 = {
 	name="Ganggang"
 	female=yes
-	dynasty=1000028302 #Johan Berdaulat
+	dynasty=1000028282 #Johan Berdaulat
 	religion="sunni"
 	culture="samudran"
 	father=1000080718
@@ -274,7 +274,7 @@
 
 1000203978 = {
 	name="Kefli"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	720.1.1={
@@ -288,7 +288,7 @@
 
 1000203979 = {
 	name="Ungu"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000203978
@@ -303,7 +303,7 @@
 
 1000203980 = {
 	name="Yunos"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000203979
@@ -318,7 +318,7 @@
 
 1000080785 = {
 	name="Ubit"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000203980
@@ -333,7 +333,7 @@
 
 1000080786 = {
 	name="Agam"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080785
@@ -348,7 +348,7 @@
 
 1000080787 = {
 	name="Itam"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080786
@@ -363,7 +363,7 @@
 
 1000080788 = {
 	name="Gapeueh"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080787
@@ -378,7 +378,7 @@
 
 1000080789 = {
 	name="Bintang"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080788
@@ -393,7 +393,7 @@
 
 1000080790 = {
 	name="Rayek"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080789
@@ -408,7 +408,7 @@
 
 1000080791 = {
 	name="Teguh-Agam-Meutuwah"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080790
@@ -423,7 +423,7 @@
 
 1000076207 = {
 	name="Banta"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080791
@@ -438,7 +438,7 @@
 
 1000080792 = {
 	name="Puteh"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000076207
@@ -453,7 +453,7 @@
 
 1000080793 = {
 	name="Jeumpa"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080792
@@ -468,7 +468,7 @@
 
 1000080794 = {
 	name="Meurah"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080793
@@ -483,7 +483,7 @@
 
 1000080795 = {
 	name="Gapi"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080794
@@ -498,7 +498,7 @@
 
 1000080796 = {
 	name="Agam-Na-Rahmat"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080795
@@ -513,7 +513,7 @@
 
 1000080797 = {
 	name="Muda"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="hindu"
 	culture="samudran"
 	father=1000080796
@@ -528,7 +528,7 @@
 
 1000080721 = {
 	name="Malik"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="sunni"
 	culture="samudran"
 	father=1000080797
@@ -545,7 +545,7 @@
 
 1000080722 = {
 	name="Muhammad"
-	dynasty=1000028315 #Samudra
+	dynasty=1000028283 #Samudra
 	religion="sunni"
 	culture="samudran"
 	father=1000080721
@@ -558,30 +558,16 @@
 	}
 }
 
-1000080723 = {
-	name="Mahmud"
-	dynasty=1000028315 #Samudra
+1000080724 = {
+	name="Ahmad"
+	dynasty=1000028283 #Samudra
 	religion="sunni"
 	culture="samudran"
 	father=1000080722
-	1290.1.1={
-		birth="1290.1.1"
+	1280.1.1={
+		birth="1280.1.1"
 	}
-	1345.1.1={
-		death="1345.1.1"
-	}
-}
-
-1000080724 = {
-	name="Ahmad"
-	dynasty=1000028315 #Samudra
-	religion="sunni"
-	culture="samudran"
-	father=1000080723
-	1320.1.1={
-		birth="1320.1.1"
-	}
-	1383.1.1={
-		death="1383.1.1"
+	1330.1.1={
+		death="1330.1.1"
 	}
 }

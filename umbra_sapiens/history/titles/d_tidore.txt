@@ -1,0 +1,40 @@
+1500.1.1={
+	holder=390158
+}
+1512.1.1={
+	holder=390159
+}
+1526.1.1={
+	holder=390163
+}
+1550.1.1={
+	holder=390165
+}
+1560.1.1={
+	holder=390166
+}
+1578.1.6={
+	set_tribute_suzerain = {
+		who = k_portuguese_india
+		type = permanent
+	}
+}
+1599.4.29={
+	holder=390167
+}
+1613.7.9={
+	clear_tribute_suzerain = k_portuguese_india
+	set_tribute_suzerain = {
+		who = k_union
+		type = permanent
+	}
+}
+1627.5.23={
+	holder=390169
+}
+1634.1.1={
+	holder=390170
+}
+1639.8.10={
+	holder=390174
+}

@@ -3264,6 +3264,7 @@
 	}
 	1332.1.1={
 		capital=c_prusa
+		add_claim="e_china"
 		effect = {
 		spawn_unit = {
 			province = 742 # Bursa

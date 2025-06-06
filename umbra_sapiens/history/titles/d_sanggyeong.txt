@@ -1,0 +1,36 @@
+1355.1.1={
+	holder=1000076406 #Agu
+	historical_nomad = yes
+	set_tribute_suzerain = { who = d_leujang type = nomadic }
+}
+1387.1.1={
+	clear_tribute_suzerain = d_leujang
+}
+1393.1.1={
+	holder=389339
+}
+1409.1.1={
+	set_tribute_suzerain = {
+		who = e_china
+		type = nomadic
+	}
+}
+1437.1.1={
+	holder=389340
+}
+1470.1.1={
+	holder=389341
+}
+1516.1.1={
+	holder=389342
+}
+1558.1.1={
+	holder=389343
+}
+1597.1.1={
+	holder=389344
+}
+1599.1.1={
+	holder=0
+	clear_tribute_suzerain = e_china
+}

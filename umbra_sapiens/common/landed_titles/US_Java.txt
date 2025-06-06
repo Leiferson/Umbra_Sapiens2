@@ -343,7 +343,98 @@ e_java = {
     			color2= { 0 0 0  }
 
 			capital = 2258 #Tiwu
+			c_kaualima = {
 
+   				color= { 233 251 163 }
+    			color2= { 0 0 0  }
+				b_suai = {
+				}
+				b_mape = {
+				}
+				b_betano = {
+				}
+				b_same = {
+				}
+				
+			}
+			c_baucau = {
+
+   				color= { 277 244 156 }
+    			color2= { 0 0 0  }
+				b_baucau = {
+				}
+				b_baguia = {
+				}
+				b_viqueque = {
+				}
+				b_lacluta = {
+				}
+				b_quelicai = {
+				}
+				
+			}
+			c_lauteinu = {
+
+   				color= { 237 275 160 }
+    			color2= { 0 0 0  }
+				b_lauteinu = {
+				}
+				b_lohoasupala = {
+				}
+				b_iliomar = {
+				}
+				b_luru = {
+				}
+				b_tutuala = {
+				}
+				
+			}
+			c_atambua = {
+
+   				color= { 231 240 174 }
+    			color2= { 0 0 0  }
+				b_atambua = {
+				}
+				b_betun = {
+				}
+				b_kefamenanu = {
+				}
+				b_halilulik = {
+				}
+				b_atapupu = {
+				}
+			}
+			c_oecusse = {
+
+   				color= { 243 233 167 }
+    			color2= { 0 0 0  }
+				b_oecusse = {
+				}
+				b_lifau = {
+				}
+				b_oesilo = {
+				}
+				b_passabe = {
+				}
+				b_bitibe = {
+				}
+			}
+			c_kupang = {
+
+   				color= { 250 225 157 }
+    				color2= { 0 0 0  }
+
+				b_kupang = {
+				}
+				b_soe = {
+				}
+				b_oetune = {
+				}
+				b_baun = {
+				}
+				b_pariti = {
+				}
+			}
 			c_tiwu = {
 
    				color= { 236 240 147 }
@@ -352,21 +443,27 @@ e_java = {
 				holy_site = flores_religion
 				holy_site = flores_religion_reformed
 
-				b_dili = {
-				}
 				b_kupano = {
-				}
-				b_baucau = {
-				}
-				b_suai = {
 				}
 				b_baa = {
 				}
 				b_tuluala = {
 				}
-				b_soe = {
-				}
 				b_besikama = {
+				}
+			}
+			c_rote_timur = {
+
+   				color= { 200 250 155 }
+    			color2= { 0 0 0  }
+
+				b_bolatena = {
+				}
+				b_daiama = {
+				}
+				b_faifua = {
+				}
+				b_hundi_hopo = {
 				}
 			}
 			c_kalabahi = {
@@ -383,12 +480,6 @@ e_java = {
 				b_laliki = {
 				}
 				b_ilwaki = {
-				}
-				b_ilpokil = {
-				}
-				b_kolane = {
-				}
-				b_mataroe = {
 				}
 			}
 		}
@@ -478,7 +569,39 @@ e_java = {
     			color2= { 0 0 0  }
 
 			capital = 2291 #Takang
+			
+			c_wetar = {
 
+   				color= { 137 190 234 }
+    			color2= { 0 0 0  }
+
+				b_lalikki = {
+				}
+				b_hila = {
+				}
+				b_tiakur = {
+				}
+				b_arwala = {
+				}
+			}
+			
+			c_alor = {
+
+   				color= { 120 185 222 }
+    				color2= { 0 0 0  }
+
+				b_lamakera = {
+				}
+				b_witihama = {
+				}
+				b_lewoleba = {
+				}
+				b_liko = {
+				}
+				b_lewohajong = {
+				}
+			}
+			
 			c_takang = {
 
    				color= { 105 190 207 }

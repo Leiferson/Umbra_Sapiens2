@@ -62,6 +62,64 @@
 1320.1.1={
 	holder=1000201080 #Budi
 }
-1350.1.1={
-	holder=1000201081 #Khamis
+1347.1.1={
+	holder=1000080496
+	liege="d_pagarruyung"
+}
+1375.1.1={
+	holder=390710
+}
+1377.1.1={
+	holder=1000080697 #Rajasanagara
+	liege="e_java"
+}
+1389.1.1={
+	holder=390552	#WIKRAMAWARDHANA
+}
+1429.1.1={
+	holder=390558	#Suhita
+}
+1447.1.1={
+	holder=390557	#KERTAWIJAYA
+}
+1451.1.1={
+	holder=390559	#Rajasawardhana
+}
+1453.1.1={
+	holder=390560	#GIRISAWARDHANA
+}
+1466.1.1={
+	holder=390561	#Singhawikramawardhana
+}
+1468.1.1={
+	holder=390566	#Girindrawardhana
+}
+1498.1.1={
+	holder=390567	#Girindrawardhana
+}
+1512.1.1={
+	holder=390595	#Raden Patah
+	liege="k_demak"
+}
+1518.1.1={
+	holder=390596	#Pati Unus
+}
+1521.1.1={
+	holder=390600	#Trenggana
+}
+1546.1.1={
+	holder=390601	#Sunan Mukmin
+}
+1549.1.1={
+	holder=390607	#Arya Penangsang
+}
+1550.1.1={
+	holder=390749
+	liege=0
+}
+1592.1.1={
+	holder=390750
+}
+1630.1.1={
+	holder=390751
 }

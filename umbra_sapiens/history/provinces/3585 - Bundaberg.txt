@@ -4,9 +4,8 @@
 title = c_bundaberg
 
 # Settlements
-max_settlements = 3
-b_bundaberg = tribal
-b_pupupulurata = tribal
+max_settlements = 1
+b_bundaberg-i = tribal
 
 # Misc
 culture = australian

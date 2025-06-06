@@ -2512,7 +2512,6 @@ jingtuzong_buddhist;Jingtuzong;;;;;;;;;;;;;x
 jingtuzong_buddhist_desc;Jingtuzong or Amidism is a broad branch of Mahayana Buddhism focused on achieving rebirth in a Buddha-field or Pure Land.;;;;;;;;;;;;;x
 chan_buddhist;Chan;;;;;;;;;;;;;x
 chan_buddhist_desc;Chan Buddhism is a major Chinese Buddhist sect attributed to Bodhidharma that emphasizes attaining Buddhahood, the supreme Buddhist religious goal, through enlightenment of one's own mind, which subsequently spreaded to Japan and named as Zen;;;;;;;;;;;;;x
-chan_buddhist;Chan;;;;;;;;;;;;;x
 EVTDESCchinaevents.1;There are several competing belief systems in China that often form synchretic relationships with eachother and with traditional folk belief. Which one should we follow?;;;;;;;;;;;;;x
 EVTOPTAchinaevents.1;The reinvigorated teachings of Confucius;;;;;;;;;;;;;x
 EVTOPTBchinaevents.1;The mystical schools of Tao;;;;;;;;;;;;;x
@@ -2588,3 +2587,66 @@ EVTNAMEjapanevents.15;Civil Exam Results;;;;;;;;;;;;;x
 EVTNAMEjapanevents.14;Military Exam Results;;;;;;;;;;;;;x
 EVTNAMEjapanevents.09;The Examination Season;;;;;;;;;;;;;x
 city_opinion;City Opinion;;;;;;;;;;;;;x
+title_neiguanjian;Neiguanjian Taijian;;;;;;;;;;;;;x
+title_neiguanjian_desc;The Neiguanjian Taijian is the responsible for the Directorate of Palace Eunuchs.;;;;;;;;;;;;;x
+title_yuyongjian;Yuyongjian Taijian;;;;;;;;;;;;;x
+title_yuyongjian_desc;The Yuyongjian Taijian is the responsible for the Directorate for Palace Accoutrements.;;;;;;;;;;;;;x
+title_sishejian;Sishejian Taijian;;;;;;;;;;;;;x
+title_sishejian_desc;The Sishejian Taijian is the responsible for the Directorate for Imperial Regalia.;;;;;;;;;;;;;x
+title_yumajian;Yumajian Taijian;;;;;;;;;;;;;x
+title_yumajian_desc;The Yumajian Taijian is the responsible for the Directorate of the Imperial Horses.;;;;;;;;;;;;;x
+title_shengongjian;Shengongjian Taijian;;;;;;;;;;;;;x
+title_shengongjian_desc;The Shengongjian Taijian is the responsible for the Directorate for Imperial Temples.;;;;;;;;;;;;;x
+title_shangshanjian;Shangshanjian Taijian;;;;;;;;;;;;;x
+title_shangshanjian_desc;The Shangshanjian Taijian is the responsible for the Directorate for Palace Delicacies.;;;;;;;;;;;;;x
+title_shangbaojian;Shangbaojian Taijian;;;;;;;;;;;;;x
+title_shangbaojian_desc;The Shangbaojian Taijian is the responsible for the Directorate of Palace Seals.;;;;;;;;;;;;;x
+title_yinshoujian;Yinshoujian Taijian;;;;;;;;;;;;;x
+title_yinshoujian_desc;The Yinshoujian Taijian is the responsible for the Directorate for Credentials.;;;;;;;;;;;;;x
+title_zhidianjian;Zhidianjian Taijian;;;;;;;;;;;;;x
+title_zhidianjian_desc;The Zhidianjian Taijian is the responsible for the Directorate for Palace Maintenance.;;;;;;;;;;;;;x
+title_shangyijian;Shangyijian Taijian;;;;;;;;;;;;;x
+title_shangyijian_desc;The Shangyijian Taijian is the responsible for the Directorate for Imperial Apparel.;;;;;;;;;;;;;x
+title_duzhijian;Duzhijian Taijian;;;;;;;;;;;;;x
+title_duzhijian_desc;The Duzhijian Taijian is the responsible for the Directorate for Intimate Attendance.;;;;;;;;;;;;;x
+title_silijian;Silijian Taijian;;;;;;;;;;;;;x
+title_silijian_desc;The Silijian Taijian is the responsible for the Directorate of Ceremonial.;;;;;;;;;;;;;x
+title_xixinsi;Xixinsi Zhengsi;;;;;;;;;;;;;x
+title_xixinsi_desc;The Xixinsi Zhengsi is the responsible for the Firewood Office.;;;;;;;;;;;;;x
+title_zhonggusi;Zhonggusi Zhengsi;;;;;;;;;;;;;x
+title_zhonggusi_desc;The Zhonggusi Zhengsi is the responsible for the Bells-and-Drums Office.;;;;;;;;;;;;;x
+title_baochaosi;Baochaosi Zhengsi;;;;;;;;;;;;;x
+title_baochaosi_desc;The Baochaosi Zhengsi is the responsible for the Paper Money Office.;;;;;;;;;;;;;x
+title_huntangsi;Huntangsi Zhengsi;;;;;;;;;;;;;x
+title_huntangsi_desc;The Huntangsi Zhengsi is the responsible for the Bathing Office.;;;;;;;;;;;;;x
+title_bingzhangju;Bingzhangju Dashi;;;;;;;;;;;;;x
+title_bingzhangju_desc;The Bingzhangju Dashi is the responsible for the Palace Armory.;;;;;;;;;;;;;x
+title_jinmaoju;Jinmaoju Dashi;;;;;;;;;;;;;x
+title_jinmaoju_desc;The Jinmaoju Dashi is the responsible for the Caps and Kerchief Service.;;;;;;;;;;;;;x
+title_zhengongju;Zhengongju Dashi;;;;;;;;;;;;;x
+title_zhengongju_desc;The Zhengongju Dashi is the responsible for the Sewing Service.;;;;;;;;;;;;;x
+title_neiranzhiju;Neiranzhiju Dashi;;;;;;;;;;;;;x
+title_neiranzhiju_desc;The Neiranzhiju Dashi is the responsible for the Palace Weaving and Dyeing Service.;;;;;;;;;;;;;x
+title_jiukumianju;Jiukumianju Dashi;;;;;;;;;;;;;x
+title_jiukumianju_desc;The Jiukumianju Dashi is the responsible for the Condiments Service.;;;;;;;;;;;;;x
+title_siyuanju;Siyuanju Dashi;;;;;;;;;;;;;x
+title_siyuanju_desc;The Siyuanju Dashi is the responsible for the Garden Service.;;;;;;;;;;;;;x
+title_huanyiju;Huanyiju Dashi;;;;;;;;;;;;;x
+title_huanyiju_desc;The Huanyiju Dashi is the responsible for the Palace Laundry Service.;;;;;;;;;;;;;x
+title_yinzuochu;Yinzuochu Dashi;;;;;;;;;;;;;x
+title_yinzuochu_desc;The Yinzuochu Dashi is the responsible for the Jewelry Service.;;;;;;;;;;;;;x
+title_bingbi;Bingbi;;;;;;;;;;;;;x
+title_bingbi_adj;The Bingbi is an eunuch that had the right to comment on incoming memorials.;;;;;;;;;;;;;x
+order_eunuch;Order a Eununch;;;;;;;;;;;;;x
+order_eunuch_desc;Eunuchs are a fundamental instrument of our administration, plus they are extremelly devoted to the Emperor, we can order some.;;;;;;;;;;;;;x
+the_changwei;The Changwei;;;;;;;;;;;;;x
+string_the_changwei;The Changwei;;;;;;;;;;;;;x
+the_changwei_desc;The Eastern and Western Depots and the Brocade Guards were security and surveillance units created during the Ming period. They were supervised by high court eunuchs and wielded considerable power. Historians say they were the eyes and ears of the emperor because they had particularly been designed for the purpose of spying out state officials and eliminating potential rivals.;;;;;;;;;;;;;x
+the_changwei_leader_desc;The description of the leader of the society.;;;;;;;;;;;;;x
+the_changwei_rank_1_male;Jishi;;;;;;;;;;;;;x
+the_changwei_rank_2_male;Liyi;;;;;;;;;;;;;x
+the_changwei_rank_3_male;Shaojian;;;;;;;;;;;;;x
+the_changwei_rank_4_male;Taijian;;;;;;;;;;;;;x
+the_changwei_currency;Influence;;;;;;;;;;;;;x
+request_to_rank_up_within_the_changwei;Request to rank up.;;;;;;;;;;;;;x
+IS_the_changwei_TRIGGER;Is a member of the Changwei.;;;;;;;;;;;;;x

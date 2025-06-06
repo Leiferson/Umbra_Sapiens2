@@ -1,0 +1,589 @@
+namespace = vietnameseevents
+# Converted within Shinto - choose branch
+character_event = {
+	id = vietnameseevents.1
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCvietnameseevents.1
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCvietnameseevents.1
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	
+	option = {	#Confucionism
+		name = {
+			text = EVTOPTAvietnameseevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTAvietnameseevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = nho_giao }
+		}
+		add_trait = nho_giao
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = thangiao
+				NOT = { trait = nho_giao }
+			}
+			add_trait = nho_giao
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = thangiao
+				NOT = { trait = nho_giao }
+			}
+			add_trait = nho_giao
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_TODAIJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = nho_giao
+		}
+	}
+}
+	}
+
+	option = {	#Daoism
+		name = {
+			text = EVTOPTBvietnameseevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBvietnameseevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = dao_giao }
+		}
+		add_trait = dao_giao
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = thangiao
+				NOT = { trait = dao_giao }
+			}
+			add_trait = dao_giao
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = thangiao
+				NOT = { trait = dao_giao }
+			}
+			add_trait = dao_giao
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_ENRYAKUJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = dao_giao
+		}
+	}
+}
+	}
+
+	option = {
+		name = {
+			text = EVTOPTGvietnameseevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTGvietnameseevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = vietnameseevents.4
+    days = 1
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+		OR = {
+			trait = thien_thai_buddhist
+			trait = hoa_nghiem_buddhist
+			trait = thien_tong_buddhist
+			}
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTIvietnameseevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTIvietnameseevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		clr_character_flag = india_branch_converted
+	}
+	
+}
+# Converted within Shinto - choose branch part 3
+character_event = {
+	id = vietnameseevents.3
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCvietnameseevents.1
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCvietnameseevents.1
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	option = {
+		name = {
+			text = EVTOPTCvietnameseevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCvietnameseevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = tinh_do_buddhist }
+		}
+		add_trait = tinh_do_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = buddhist
+				NOT = { trait = tinh_do_buddhist }
+			}
+			add_trait = tinh_do_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = buddhist
+				NOT = { trait = tinh_do_buddhist }
+			}
+			add_trait = tinh_do_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_KOYASAN
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = tinh_do_buddhist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTHvietnameseevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTGvietnameseevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = vietnameseevents.1
+		}
+		
+	}
+}
+# Converted within Shinto - choose branch part 2
+character_event = {
+	id = vietnameseevents.4
+	desc = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		text = EVTDESCvietnameseevents.1
+    }
+	desc = {
+		trigger = {
+			has_alternate_start_parameter = {
+				key = religion_names
+				value = random
+			}
+		}
+		text = EVTDESCvietnameseevents.1
+    }
+	picture = GFX_evt_bishop
+	border = GFX_event_normal_frame_religion
+
+	is_triggered_only = yes
+	option = {
+		name = {
+			text = EVTOPTDvietnameseevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTDvietnameseevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = thien_thai_buddhist }
+		}
+		add_trait = thien_thai_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = thangiao
+				NOT = { trait = thien_thai_buddhist }
+			}
+			add_trait = thien_thai_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = thangiao
+				NOT = { trait = thien_thai_buddhist }
+			}
+			add_trait = thien_thai_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_JODOSHINSHU
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTFvietnameseevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTFvietnameseevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = hoa_nghiem_buddhist }
+		}
+		add_trait = hoa_nghiem_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = thangiao
+				NOT = { trait = hoa_nghiem_buddhist }
+			}
+			add_trait = hoa_nghiem_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = thangiao
+				NOT = { trait = hoa_nghiem_buddhist }
+			}
+			add_trait = hoa_nghiem_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_NANZENJI
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+			ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = hoa_nghiem_buddhist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTEvietnameseevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTEvietnameseevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		trigger = {
+			NOT = { trait = thien_tong_buddhist }
+		}
+		add_trait = thien_tong_buddhist
+		any_courtier = {
+			limit = { 
+				is_close_relative = ROOT
+				NOT = { trait = zealous }
+				religion = thangiao
+				NOT = { trait = thien_tong_buddhist }
+			}
+			add_trait = thien_tong_buddhist
+		}
+		any_spouse = {
+			limit = { 
+				is_consort = no
+				NOT = { trait = zealous }
+				religion = thangiao
+				NOT = { trait = thien_tong_buddhist }
+			}
+			add_trait = thien_tong_buddhist
+		}
+		if = {
+			limit = { ai = no }
+			chronicle = {
+				entry = CHRONICLE_CHANGE_BUDDHIST_BRANCH_TO_NICHIREN
+				picture = GFX_evt_bishop_indian_group
+			}
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = thien_tong_buddhist
+		}
+	}
+}
+	}
+	option = {
+		name = {
+			text = EVTOPTJvietnameseevents.1
+			trigger = {
+				NOT = {
+					has_alternate_start_parameter = {
+						key = religion_names
+						value = random
+					}
+				}
+			}
+		}
+		name = {
+			text = EVTOPTJvietnameseevents.1
+			trigger = {
+				has_alternate_start_parameter = {
+					key = religion_names
+					value = random
+				}
+			}
+		}
+		character_event = {
+    id = vietnameseevents.3
+    days = 1
+		}
+		ai_chance = {
+	factor = 1
+	modifier = {
+		factor = 1000
+		any_close_relative = {
+			trait = tinh_do_buddhist
+		}
+	}
+}
+	}
+}
+character_event = {
+	id = vietnameseevents.5
+	hide_window = yes
+	is_triggered_only = yes
+	weight_multiplier = {
+	days = 1
+	}
+	trigger = {
+	religion = thangiao
+	NOR = {
+	trait = thien_thai_buddhist
+	trait = hoa_nghiem_buddhist
+	trait = thien_tong_buddhist
+	trait = tinh_do_buddhist
+	trait = dao_giao
+	trait = nho_giao
+	}
+	}
+	immediate = {
+	character_event = {
+    id = vietnameseevents.1
+    days = 1
+	}
+	}
+}

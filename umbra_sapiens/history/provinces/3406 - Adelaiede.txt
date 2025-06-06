@@ -4,9 +4,8 @@
 title = c_adelaiede
 
 # Settlements
-max_settlements = 6
-b_adelaiede = tribal
-b_port_lincoln = tribal
+max_settlements = 1
+b_adelaiede-i = tribal
 
 # Misc
 culture = australian

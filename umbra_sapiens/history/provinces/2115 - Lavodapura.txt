@@ -4,7 +4,7 @@
 title = c_lavodayapura
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 b_thanon_yai = castle
 b_lavodayapura = city
 b_pho_kao_ton = temple
@@ -12,10 +12,18 @@ b_tha_wung = castle
 #b_ban_mi =
 #b_khok_samrong =
 #b_sa_bot =
-#b_phatthana_nikhon =
+#b_phatthana_nikhon=castle
 
 # Misc
 culture = mon
 religion = buddhist
 
 # History
+1340.1.1={
+	culture="thai"
+}
+1350.1.1={
+	b_phatthana_nikhon=castle
+	name="Ayutthaya"
+	capital=b_phatthana_nikhon
+}

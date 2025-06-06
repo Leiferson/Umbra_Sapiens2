@@ -1618,7 +1618,7 @@
 }
 
 1000201607 = {
-	name="Ilat"
+	name="Sahjati"
 	dynasty=1000028257 #Luntungan
 	religion="hindu"
 	culture="malukan"
@@ -1632,7 +1632,7 @@
 }
 
 1000201608 = {
-	name="Wenas"
+	name="Busamuangi"
 	dynasty=1000028257 #Luntungan
 	religion="hindu"
 	culture="malukan"
@@ -1646,7 +1646,7 @@
 }
 
 1000201609 = {
-	name="Sumuan"
+	name="Suhu"
 	dynasty=1000028257 #Luntungan
 	religion="hindu"
 	culture="malukan"
@@ -2222,7 +2222,7 @@
 }
 
 1000201642 = {
-	name="Naray"
+	name="Buka"
 	dynasty=1000028259 #Latumahina
 	religion="melanesian_religion"
 	culture="malukan"
@@ -2230,22 +2230,8 @@
 	1290.1.1={
 		birth="1290.1.1"
 	}
-	1350.1.1={
-		death="1350.1.1"
-	}
-}
-
-1000201643 = {
-	name="Mapaliey"
-	dynasty=1000028259 #Latumahina
-	religion="melanesian_religion"
-	culture="malukan"
-	father=1000201642
-	1320.1.1={
-		birth="1320.1.1"
-	}
-	1380.1.1={
-		death="1380.1.1"
+	1340.1.1={
+		death="1340.1.1"
 	}
 }
 
@@ -2541,8 +2527,8 @@
 	1320.1.1={
 		birth="1320.1.1"
 	}
-	1380.1.1={
-		death="1380.1.1"
+	1392.1.1={
+		death="1392.1.1"
 	}
 }
 
@@ -2836,8 +2822,8 @@
 	1320.1.1={
 		birth="1320.1.1"
 	}
-	1380.1.1={
-		death="1380.1.1"
+	1385.1.1={
+		death="1385.1.1"
 	}
 }
 
@@ -3131,8 +3117,8 @@
 	1320.1.1={
 		birth="1320.1.1"
 	}
-	1380.1.1={
-		death="1380.1.1"
+	1398.1.1={
+		death="1398.1.1"
 	}
 }
 
@@ -3426,7 +3412,7 @@
 	1320.1.1={
 		birth="1320.1.1"
 	}
-	1380.1.1={
-		death="1380.1.1"
+	1390.1.1={
+		death="1390.1.1"
 	}
 }

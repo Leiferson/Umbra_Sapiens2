@@ -829,6 +829,19 @@ k_even = {
 	culture = even
 	religion = tengri_pagan
 }
+k_oirats = {
+	color = { 157 25 29 }
+	
+	short_name = yes
+	
+	
+	allow = {
+		always = no
+	}
+	
+#	tribe = yes
+	
+}
 k_yakut = {
 	color = { 17 153 255 }
 	
@@ -7997,8 +8010,6 @@ e_byzantium = {
 				color2={ 255 255 20 }
 				
 				turkish = "Ayasoluk"
-
-				holy_site = orthodox
 				
 				b_ephesos = {
 					turkish = "Ayasoluk"
@@ -19840,6 +19851,8 @@ e_russia = {
 				color={ 163 179 119 }
 				color2={ 255 255 255 }
 						
+				holy_site = orthodox
+				
 				b_pereyaslavlzalessky = {
 				}
 				b_sergiyevposad = {
@@ -22454,7 +22467,44 @@ e_tartaria = {
 			color = { 130 120 240 }
 			
 			capital = 1456 # Ikh Bogd
-			
+			c_barkul = {
+				color={ 120 120 250 }
+
+				b_barkul = {
+					turkish = "Barköl"
+					uyghur = "Barköl"
+				}
+				b_khoid = {
+				}
+				b_zhangpeng = { # Fictional, for prosperity
+				}
+				b_xiaoguantian = { # Fictional, for prosperity
+				}
+				b_jiuxian = { # Fictional, for prosperity
+				}
+				b_shiniu = { # Fictional, for prosperity
+				}
+				b_tiantoucun = { # Fictional, for prosperity
+				}
+			}
+			c_aj_bogd = {
+				color = { 130 168 240 }
+				
+				b_aj_bogd = {
+				}
+				b_balikun = {
+				}
+				b_qian_pulei = {
+				}
+				b_erdene = {
+				}
+				b_gurvantes = {
+				}
+				b_nanlizhuang = { # Fictional, for prosperity
+				}
+				b_changcun = { # Fictional, for prosperity
+				}
+			}
 			c_ikh_bogd = {
 				color = { 115 160 240 }
 				
@@ -22568,46 +22618,8 @@ e_tartaria = {
 		d_barkul = {
 			color = { 140 80 230 }
 
-			capital = 1516 # Barkul
+			capital = 2446 # Brak-mra
 
-			c_barkul = {
-				color={ 120 120 250 }
-
-				b_barkul = {
-					turkish = "Barköl"
-					uyghur = "Barköl"
-				}
-				b_khoid = {
-				}
-				b_zhangpeng = { # Fictional, for prosperity
-				}
-				b_xiaoguantian = { # Fictional, for prosperity
-				}
-				b_jiuxian = { # Fictional, for prosperity
-				}
-				b_shiniu = { # Fictional, for prosperity
-				}
-				b_tiantoucun = { # Fictional, for prosperity
-				}
-			}
-			c_aj_bogd = {
-				color = { 130 168 240 }
-				
-				b_aj_bogd = {
-				}
-				b_balikun = {
-				}
-				b_qian_pulei = {
-				}
-				b_erdene = {
-				}
-				b_gurvantes = {
-				}
-				b_nanlizhuang = { # Fictional, for prosperity
-				}
-				b_changcun = { # Fictional, for prosperity
-				}
-			}
 			c_brakmrax = {
 
 				color={ 196 133 145 }

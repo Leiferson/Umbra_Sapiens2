@@ -4,9 +4,8 @@
 title = c_geraldton
 
 # Settlements
-max_settlements = 6
-b_geraldton = tribal
-b_denham = tribal
+max_settlements = 1
+b_geraldton-i = tribal
 
 # Misc
 culture = australian

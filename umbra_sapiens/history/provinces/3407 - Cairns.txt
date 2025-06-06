@@ -4,10 +4,9 @@
 title = c_cairns
 
 # Settlements
-max_settlements = 6
+max_settlements = 2
 b_cairns = tribal
-b_coen = tribal
-
+b_coen = temple
 # Misc
 culture = australian
 religion = dreamtime_religion

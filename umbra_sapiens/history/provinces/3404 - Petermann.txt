@@ -4,9 +4,8 @@
 title = c_petermann
 
 # Settlements
-max_settlements = 4
-b_petermann = tribal
-b_mount_woodroffe = tribal
+max_settlements = 1
+b_petermann-i = tribal
 
 # Misc
 culture = australian

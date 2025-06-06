@@ -4,9 +4,8 @@
 title = c_brisbane
 
 # Settlements
-max_settlements = 6
-b_brisbane = tribal
-b_townsville = tribal
+max_settlements = 1
+b_brisbane-i = tribal
 
 # Misc
 culture = australian

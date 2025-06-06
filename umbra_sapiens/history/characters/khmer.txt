@@ -755,6 +755,7 @@
 	name="Dharanindravarman"
 	dynasty=1000028214 #Mahidharapura
 	religion="buddhist"
+	trait=mahayana_buddhist
 	culture="khmer"
 	father=1000080094
 	1090.1.1={
@@ -784,6 +785,7 @@
 	name="Jayavarman"
 	dynasty=1000028214 #Mahidharapura
 	religion="buddhist"
+	trait=mahayana_buddhist
 	culture="khmer"
 	father=1000080095
 	1125.1.1={
@@ -798,6 +800,7 @@
 	name="Indravarman"
 	dynasty=1000028214 #Mahidharapura
 	religion="buddhist"
+	trait=mahayana_buddhist
 	culture="khmer"
 	father=1000080098
 	1180.1.1={
@@ -812,6 +815,7 @@
 	name="Jayavarman"
 	dynasty=1000028214 #Mahidharapura
 	religion="buddhist"
+	trait=mahayana_buddhist
 	culture="khmer"
 	father=1000080099
 	1220.1.1={
@@ -844,6 +848,7 @@
 	name="Indravarman"
 	dynasty=1000027607 #Indravarman
 	religion="buddhist"
+	trait=mahayana_buddhist
 	culture="khmer"
 	1260.1.1={
 		birth="1260.1.1"
@@ -857,6 +862,7 @@
 	name="Indrajayavarman"
 	dynasty=1000027607 #Indravarman
 	religion="buddhist"
+	trait=mahayana_buddhist
 	culture="khmer"
 	father=1000080101
 	1280.1.1={
@@ -871,6 +877,7 @@
 	name="Jayavarman"
 	dynasty=1000027607 #Indravarman
 	religion="buddhist"
+	trait=mahayana_buddhist
 	culture="khmer"
 	father=1000080102
 	1300.1.1={
@@ -887,6 +894,7 @@
 	name="Trasac-Paem"
 	dynasty=1000027608 #Trasac Paem
 	religion="buddhist"
+	trait=mahayana_buddhist
 	culture="khmer"
 	1280.1.1={
 		birth="1280.1.1"
@@ -900,6 +908,7 @@
 	name="Nippean-Bat"
 	dynasty=1000027608 #Trasac Paem
 	religion="buddhist"
+	trait=mahayana_buddhist
 	culture="khmer"
 	father=1000080104
 	1300.1.1={
@@ -914,6 +923,7 @@
 	name="Sithean-Reachea"
 	dynasty=1000027608 #Trasac Paem
 	religion="buddhist"
+	trait=mahayana_buddhist
 	culture="khmer"
 	father=1000080104
 	1301.1.1={
@@ -928,6 +938,7 @@
 	name="Lampong-Reachea"
 	dynasty=1000027608 #Trasac Paem
 	religion="buddhist"
+	trait=mahayana_buddhist
 	culture="khmer"
 	father=1000080105
 	1320.1.1={

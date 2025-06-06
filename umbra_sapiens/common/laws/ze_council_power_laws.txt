@@ -170,6 +170,12 @@ laws = {
 			additive_modifier = { 
 				value = 10		
 				holder_scope = {				
+				government = vietnamese_imperial_government
+				}				 	
+			}
+			additive_modifier = { 
+				value = 10		
+				holder_scope = {				
 				government = confucian_bureaucracy
 				}				
 			}
@@ -393,6 +399,12 @@ laws = {
 			additive_modifier = { 
 				value = 10		
 				holder_scope = {				
+				government = vietnamese_imperial_government
+				}				 	
+			}
+			additive_modifier = { 
+				value = 10		
+				holder_scope = {				
 				government = confucian_bureaucracy
 				}				
 			}
@@ -597,6 +609,12 @@ laws = {
 			additive_modifier = { 
 				value = 10		
 				holder_scope = {				
+				government = vietnamese_imperial_government
+				}				 	
+			}
+			additive_modifier = { 
+				value = 10		
+				holder_scope = {				
 				government = confucian_bureaucracy
 				}				
 			}
@@ -780,6 +798,12 @@ laws = {
 				holder_scope = {				
 				government = chinese_imperial_government
 				}		
+			}
+			additive_modifier = { 
+				value = 10		
+				holder_scope = {				
+				government = vietnamese_imperial_government
+				}				 	
 			}
 			additive_modifier = { 
 				value = 10		
@@ -978,6 +1002,12 @@ laws = {
 				holder_scope = {				
 				government = chinese_imperial_government
 				}		
+			}
+			additive_modifier = { 
+				value = 10		
+				holder_scope = {				
+				government = vietnamese_imperial_government
+				}				 	
 			}
 			additive_modifier = { 
 				value = 10		
@@ -1181,6 +1211,12 @@ laws = {
 			additive_modifier = { 
 				value = 10		
 				holder_scope = {				
+				government = vietnamese_imperial_government
+				}				 	
+			}
+			additive_modifier = { 
+				value = 10		
+				holder_scope = {				
 				government = confucian_bureaucracy
 				}				
 			}
@@ -1375,6 +1411,12 @@ laws = {
 				holder_scope = {				
 				government = chinese_imperial_government
 				}	
+			}
+			additive_modifier = { 
+				value = 10		
+				holder_scope = {				
+				government = vietnamese_imperial_government
+				}				 	
 			}
 			additive_modifier = { 
 				value = 10		

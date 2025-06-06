@@ -327,6 +327,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_castle_siberiangfx"
+		texturefile = "gfx\\interface\\placeholder_castle_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_castle_easternslavicgfx"
 		texturefile = "gfx\\interface\\placeholder_castle_norse.tga"
 		noOfFrames = 1
@@ -657,6 +664,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_city_siberiangfx"
+		texturefile = "gfx\\interface\\placeholder_city_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_city_easternslavicgfx"
 		texturefile = "gfx\\interface\\placeholder_city_norse.tga"
 		noOfFrames = 1
@@ -769,6 +783,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_westerngfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_westerngfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
@@ -868,6 +889,13 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_jewishgfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_jewishgfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -979,6 +1007,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_muslimgfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_muslimgfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
@@ -1078,6 +1113,13 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_norsegfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_norsegfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1252,6 +1294,20 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_mongolgfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_bodpagfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_mongolgfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
@@ -1397,6 +1453,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_mesoamericangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_mesoamericangfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
@@ -1496,6 +1559,13 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_persiangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_persiangfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1602,6 +1672,13 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_westafricangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_westafricangfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1776,6 +1853,20 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_indiangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_southindiangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_indiangfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
@@ -1922,6 +2013,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_hellenicgfx"
+		texturefile = "gfx\\interface\\placeholder_temple_hellenic_western.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_hellenicgfx"
 		texturefile = "gfx\\interface\\placeholder_temple_hellenic_western.tga"
 		noOfFrames = 1
@@ -2023,6 +2121,13 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_settlement_castle_ugricgfx_looted"
+		texturefile = "gfx\\interface\\placeholder_castle_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_castle_siberiangfx_looted"
 		texturefile = "gfx\\interface\\placeholder_castle_norse_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -2269,6 +2374,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_city_siberiangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_city_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_city_easternslavicgfx_looted"
 		texturefile = "gfx\\interface\\placeholder_city_norse_looted.tga"
 		noOfFrames = 1
@@ -2368,6 +2480,13 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_westerngfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_westerngfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -2479,6 +2598,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_muslimgfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_muslimgfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
@@ -2578,6 +2704,13 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_norsegfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_norsegfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -2746,6 +2879,20 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_mongolgfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_bodpagfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_mongolgfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
@@ -2891,6 +3038,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_mesoamericangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_mesoamericangfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
@@ -2996,6 +3150,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_persiangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_persiangfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
@@ -3095,6 +3256,13 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_westafricangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_westafricangfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -3269,6 +3437,20 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_indiangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_hellenicgfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_hellenic_western_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_indiangfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
@@ -3408,6 +3590,13 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_hellenicgfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_hellenic_western_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_hellenicgfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_hellenic_western_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -4996,6 +5185,13 @@ spriteTypes = {
 		noOfFrames = 1
 		norefcount = yes
 	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_tibetangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
 
 	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_tibetangfx"
@@ -5132,6 +5328,13 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_tibetangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_tibetangfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -5303,6 +5506,13 @@ spriteTypes = {
 		noOfFrames = 1
 		norefcount = yes
 	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_ainugfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
 
 	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_ainugfx"
@@ -5445,6 +5655,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_ainugfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_ainugfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
@@ -5581,6 +5798,13 @@ spriteType = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_mesoamericangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_aztec.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_mesoamericangfx"
 		texturefile = "gfx\\interface\\placeholder_temple_aztec.tga"
 		noOfFrames = 1
@@ -5670,6 +5894,13 @@ spriteType = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_carangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_caran.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_carangfx"
 		texturefile = "gfx\\interface\\placeholder_temple_caran.tga"
 		noOfFrames = 1
@@ -5747,6 +5978,13 @@ spriteType = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_chachapoyangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_chachapoyan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_chachapoyangfx"
 		texturefile = "gfx\\interface\\placeholder_temple_chachapoyan.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -5836,6 +6074,13 @@ spriteType = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_incagfx"
+		texturefile = "gfx\\interface\\placeholder_temple_inca.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_incagfx"
 		texturefile = "gfx\\interface\\placeholder_temple_inca.tga"
 		noOfFrames = 1
@@ -5912,6 +6157,13 @@ spriteType = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_chimugfx"
+		texturefile = "gfx\\interface\\placeholder_temple_chimu.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_chimugfx"
 		texturefile = "gfx\\interface\\placeholder_temple_chimu.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -6013,6 +6265,13 @@ spriteType = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_northernnativegfx"
+		texturefile = "gfx\\interface\\placeholder_temple_northernnative.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_northernnativegfx"
 		texturefile = "gfx\\interface\\placeholder_temple_northernnative.tga"
 		noOfFrames = 1
@@ -6108,6 +6367,13 @@ spriteType = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_zapotecangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_zapotecan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_zapotecangfx"
 		texturefile = "gfx\\interface\\placeholder_temple_zapotecan.tga"
 		noOfFrames = 1
@@ -6197,6 +6463,13 @@ spriteType = {
 	}
 	
 	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_tiwanacangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_tiwanacan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_tiwanacangfx"
 		texturefile = "gfx\\interface\\placeholder_temple_tiwanacan.tga"
 		noOfFrames = 1
@@ -6280,6 +6553,13 @@ spriteType = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_southerngfx"
+		texturefile = "gfx\\interface\\placeholder_temple_southern.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_southerngfx"
 		texturefile = "gfx\\interface\\placeholder_temple_southern.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -6398,6 +6678,13 @@ spriteType = {
 
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_indochinesegfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_indochinesegfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -6524,6 +6811,13 @@ spriteType = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_indochinesegfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_indochinesegfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -6682,6 +6976,13 @@ spriteType = {
 		noOfFrames = 1
 		norefcount = yes
 	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_indonesiangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
 
 	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_indonesiangfx"
@@ -6804,6 +7105,13 @@ spriteType = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_indonesiangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_indonesiangfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -6987,7 +7295,14 @@ spriteType = {
 		noOfFrames = 1
 		norefcount = yes
 	}
-
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_hangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
 	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_hangfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
@@ -7123,6 +7438,13 @@ spriteType = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_hangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_hangfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -7306,7 +7628,14 @@ spriteType = {
 		noOfFrames = 1
 		norefcount = yes
 	}
-
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_koreangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
 	spriteType = {
 		name = "GFX_settlement_temple_easternslavicgfx_koreangfx"
 		texturefile = "gfx\\interface\\placeholder_temple_norse.tga"
@@ -7442,6 +7771,13 @@ spriteType = {
 	
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_koreangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_siberiangfx_koreangfx_looted"
 		texturefile = "gfx\\interface\\placeholder_temple_norse_looted.tga"
 		noOfFrames = 1
 		norefcount = yes

@@ -17,3 +17,66 @@
 1355.1.1 = {
 	holder=1000202031 #Kue-Na
 }
+1385.1.1={
+	holder=388138 #Saenmueangma, 1385–1401
+}
+1401.1.1={
+	holder=388139 #Samfangkaen, 1402–1441
+}
+1441.1.1={
+	holder=388140 #Tilokkarat, 1441–1487
+}
+1487.5.27={
+	holder=388141 #Yotchiangrai, 1487–1495
+}
+1495.1.1={
+	holder=388142 #Kaeo or Mueangkaeo, 1495–1525
+}
+1525.1.1={
+	holder=388143 #Ket or Muangketklao, 1525–1538 (1st reign)
+}
+1538.1.1={
+	holder=388144 #Saikham, 1538–1543
+}
+1543.1.1={
+	holder=388143 #Ket or Mueangketklao, 1543–1545 (2nd reign)
+}
+1545.1.1={
+	holder=388145 #Chiraprapha, 1545–1546 (queen's reign)
+}
+1546.1.1={
+	holder=388283 #Chaiyachettha, 1546–1547, also king of Lan Xang
+}
+1551.1.1={
+	holder=388146 #Mekuti, 1551–1558
+}
+1558.1.1={
+	set_tribute_suzerain = {
+		who = e_bagan
+		type = permanent 
+	}
+}
+1564.1.1={
+	holder=388147 #Wisutthithewi, 1565–1578 (Mangrai line)
+}
+1578.10.1={
+	holder=388148 #Nawrahta Minsaw, 1579–1607/08
+}
+1597.1.1={
+	clear_tribute_suzerain = e_bagan
+}
+1608.1.1={
+	holder=388149 #Thado Minsaw, 1607/08–1608/09
+}
+1609.1.1={
+	holder=388150 #Minye Deibba, 1608/09–1614
+}
+1614.1.1={
+	holder=388151 #Thado Kyaw, 1614
+}
+1614.6.1={
+	holder=388152 #Si Songmueang, 1615–1631
+}
+1631.1.1={
+	holder=388153 #Lord Thipphanet, 1631–1655
+}

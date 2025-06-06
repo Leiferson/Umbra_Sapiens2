@@ -19,7 +19,7 @@ e_khmer_empire = {
 
 		culture = khmer
 
-		capital = 2126 #Angkor Wat
+		capital = 2128 #Hariharalaya
 
 		# Regnal names
 		#male_names = {
@@ -871,4 +871,12 @@ d_supannabhum = {
     	color2= { 255 255 255 }
 
 	capital = 2116 #U Thong
+}
+
+e_ayutthaya = {
+
+    	color= { 178 0 0 }
+    	color2= { 255 191 0 }
+
+	capital = 2115 #Lavo or Ayutthaya
 }

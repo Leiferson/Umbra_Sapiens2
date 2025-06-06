@@ -438,7 +438,7 @@
 	religion = catholic
 } 
 1010043106= {
-	name="de Bragança"
+	name="de Braganza"
 	culture = portuguese
 	religion = catholic
 }  
@@ -468,7 +468,7 @@
 	religion = catholic
 }
 1010043112= {
-	name="de Mendonça"
+	name="de Mendonza"
 	culture = portuguese
 	religion = catholic
 }
@@ -488,7 +488,7 @@
 	religion = catholic
 }
 1010043117= {
-	name="de Mendonça"
+	name="de Mendonza"
 	culture = portuguese
 	religion = catholic
 }
@@ -533,7 +533,7 @@
 	religion = catholic
 }
 1010043126= {
-	name="de Montluçon"
+	name="de Montlucon"
 	culture = frankish
 	religion = catholic
 }
@@ -1708,7 +1708,7 @@
 	religion = catholic
 }
 1010043373= {
-	name="Llançol"
+	name="Llancol"
 	culture = catalan
 	religion = catholic
 }
@@ -5095,7 +5095,7 @@
 	religion="catholic"
 }
 1010044017={
-	name="de Eça"
+	name="de Eza"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -5310,7 +5310,7 @@
 	religion="catholic"
 }
 1010044060={
-	name="de Liçana"
+	name="de Lizana"
 	culture="catalan"
 	religion="catholic"
 }
@@ -6115,7 +6115,7 @@
 	religion = catholic
 }
 1010044221= {
-	name="de Briçonnet"
+	name="de Brizonnet"
 	culture = frankish
 	religion = catholic
 }
@@ -8420,7 +8420,7 @@
 	religion="catholic"
 }
 1010044683={
-	name="de Mendonça Furtado"
+	name="de Mendonza Furtado"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -8998,4 +8998,859 @@
 	name="Toungoo"
 	culture="bamar"
 	religion="buddhist"
+}
+1010044799={
+	name="Byattaba"
+	culture="bamar"
+	religion="buddhist"
+}
+1010044800={
+	name="Byatkaman"
+	culture="bamar"
+	religion="buddhist"
+}
+1010044801={
+	name="Sawbinnya"
+	culture="bamar"
+	religion="buddhist"
+}
+1010044802={
+	name="de Brito e Nicote"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044803={
+	name="Wisutthithewi"
+	culture="thai"
+	religion="buddhist"
+}
+1010044804={
+	name="Uthong"
+	culture="thai"
+	religion="buddhist"
+}
+1010044805={
+	name="Nakhon"
+	culture="thai"
+	religion="buddhist"
+}
+1010044806={
+	name="Maharacha"
+	culture="thai"
+	religion="buddhist"
+}
+1010044807={
+	name="Pontheparat"
+	culture="thai"
+	religion="buddhist"
+}
+1010044808={
+	name="Sri Thammarachadet"
+	culture="thai"
+	religion="buddhist"
+}
+1010044809={
+	name="Nagamasa"
+	culture="japanese"
+	religion="nihon_shinto"
+}
+1010044810={
+	name="Sukhothai"
+	culture="thai"
+	religion="buddhist"
+}
+1010044811={
+	name="Prasat Thong"
+	culture="thai"
+	religion="buddhist"
+}
+1010044812={
+	name="Sdach Korn"
+	culture="khmer"
+	religion="buddhist"
+}
+1010044813={
+	name="Chung Prey"
+	culture="khmer"
+	religion="buddhist"
+}
+1010044814={
+	name="Khun Lo"
+	culture="lao"
+	religion="buddhist"
+}
+1010044815={
+	name="Sourintha"
+	culture="lao"
+	religion="buddhist"
+}
+1010044816={
+	name="Mahadevi"
+	culture="lao"
+	religion="buddhist"
+}
+1010044817={
+	name="Tra Hoa"
+	religion="hindu"
+	culture="cham"
+}
+1010044818={
+	name="Cei Bunga"
+	religion="hindu"
+	culture="cham"
+}
+1010044819={
+	name="Vrsu"
+	religion="hindu"
+	culture="cham"
+}
+1010044820={
+	name="Makha"
+	religion="hindu"
+	culture="cham"
+}
+1010044821={
+	name="Sri Banay"
+	religion="hindu"
+	culture="cham"
+}
+1010044822={
+	name="Bal Hangau"
+	religion="hindu"
+	culture="cham"
+}
+1010044823={
+	name="Bal Anguai"
+	religion="hindu"
+	culture="cham"
+}
+1010044824={
+	name="Bal Anguai"
+	religion="hindu"
+	culture="cham"
+}
+1010044825={
+	name="Bal Cau"
+	religion="hindu"
+	culture="cham"
+}
+1010044826={
+	name="Bal Cau"
+	religion="hindu"
+	culture="cham"
+}
+1010044827={
+	name="Bal Canar"
+	religion="hindu"
+	culture="cham"
+}
+1010044828={
+	name="Bal Canar"
+	religion="hindu"
+	culture="cham"
+}
+1010044829={
+	name="Ho"
+	culture="viet"
+	religion="thangiao"
+}
+1010044830={
+	name="Tran"
+	culture="viet"
+	religion="thangiao"
+}
+1010044831={
+	name="Lê"
+	culture="viet"
+	religion="thangiao"
+}
+1010044832={
+	name="Mac"
+	culture="viet"
+	religion="thangiao"
+}
+1010044833={
+	name="Le"
+	culture="viet"
+	religion="thangiao"
+}
+1010044834={
+	name="Trinh"
+	culture="viet"
+	religion="thangiao"
+}
+1010044835={
+	name="Nguyen"
+	culture="viet"
+	religion="thangiao"
+}
+1010044836={
+	name="Sri Wangsa"
+	culture="malay"
+	religion="sunni"
+}
+1010044837={
+	name="Perak"
+	culture="malay"
+	religion="sunni"
+}
+1010044838={
+	name="Johor"
+	culture="malay"
+	religion="sunni"
+}
+1010044839={
+	name="de Brito Patalim"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044840={
+	name="Vaz de Pereira"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044841={
+	name="da Costa"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044842={
+	name="de Faria"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044843={
+	name="Marramaque"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044844={
+	name="Botelho de Andrade"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044845={
+	name="Botelho de Andrade"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044846={
+	name="da Silva da Gama"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044847={
+	name="Alvares"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044848={
+	name="de Ataide da Gama"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044849={
+	name="de Ataide da Gama"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044850={
+	name="Vaz da Veiga"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044851={
+	name="Ribeiro Gaio"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044852={
+	name="Lobo"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044853={
+	name="da Silva Meneses"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044854={
+	name="de Melo Coutinho"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044855={
+	name="Henriques"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044856={
+	name="Afonso de Melo"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044857={
+	name="Calado de Gamboa"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044858={
+	name="Pinto da Fonseca"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044859={
+	name="da Silveira"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044860={
+	name="Lopes de Sousa"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044861={
+	name="de Melo Sampaio"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044862={
+	name="de Melo e Castro"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044863={
+	name="de Sousa de Castro"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044864={
+	name="Coutinho Docem"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044865={
+	name="de Sousa Coutinho"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044866={
+	name="Jameelid"
+	culture="sinhala"
+	religion="sunni"
+}
+1010044867={
+	name="Abdullahid"
+	culture="sinhala"
+	religion="sunni"
+}
+1010044868={
+	name="Maakurathu"
+	culture="sinhala"
+	religion="sunni"
+}
+1010044869={
+	name="Abdullahid"
+	culture="sinhala"
+	religion="sunni"
+}
+1010044870={
+	name="Osmanid"
+	culture="sinhala"
+	religion="sunni"
+}
+1010044871={
+	name="Hilaalee"
+	culture="sinhala"
+	religion="sunni"
+}
+1010044872={
+	name="Makkid"
+	culture="bedouin_arabic"
+	religion="sunni"
+}
+1010044873={
+	name="Rasgefaan"
+	culture="sinhala"
+	religion="sunni"
+}
+1010044874={
+	name="Thakurufaanu"
+	culture="sinhala"
+	religion="sunni"
+}
+1010044875={
+	name="Utheemu"
+	culture="sinhala"
+	religion="sunni"
+}
+1010044876={
+	name="Benizelos"
+	culture="greek"
+	religion="orthodox"
+}
+1010044877={
+	name="Loukaris"
+	culture="greek"
+	religion="orthodox"
+}
+1010044878={
+	name="Kontares"
+	culture="greek"
+	religion="orthodox"
+}
+1010044879={
+	name="Yi"
+	culture="korean"
+	religion="shingyo"
+}
+1010044880={
+	name="Choros"
+	culture="mongol"
+	religion="buddhist"
+}
+1010044881={
+	name="Zhu"
+	culture="han"
+	religion="taoist"
+}
+1010044882={
+	name="Aisin Gioro"
+	culture="jurchen"
+	religion="jurchen_pagan"
+}
+1010044883={
+	name="Badan"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1010044884={
+	name="Nugandashiri"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1010044885={
+	name="Sechen"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1010044886={
+	name="Altan"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1010044887={
+	name="Zasagt"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1010044888={
+	name="Tuesheet"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1010044889={
+	name="Ispah"
+	culture="persian"
+	religion="shiite"
+}
+1010044890={
+	name="He"
+	culture="han"
+	religion="taoist"
+}
+1010044891={
+	name="Chen"
+	culture="han"
+	religion="taoist"
+}
+1010044892={
+	name="Fang"
+	culture="han"
+	religion="taoist"
+}
+1010044893={
+	name="Han"
+	culture="han"
+	religion="taoist"
+}
+1010044894={
+	name="Liu"
+	culture="han"
+	religion="taoist"
+}
+1010044895={
+	name="Zhang"
+	culture="han"
+	religion="taoist"
+}
+1010044896={
+	name="Li"
+	culture="han"
+	religion="taoist"
+}
+1010044897={
+	name="Zhang"
+	culture="han"
+	religion="taoist"
+}
+1010044898={
+	name="Uriankhai"
+	culture="mongol"
+	religion="buddhist"
+}
+1010044899={
+	name="Xu"
+	culture="han"
+	religion="taoist"
+}
+1010044900={
+	name="Chen Han"
+	culture="han"
+	religion="taoist"
+}
+1010044901={
+	name="Ming"
+	culture="han"
+	religion="taoist"
+}
+1010044902={
+	name="Bayad"
+	culture="mongol"
+	religion="buddhist"
+}
+1010044903={
+	name="Aydarus"
+	culture="bedouin_arabic"
+	religion="sunni"
+}
+1010044904={
+	name="Buayan"
+	culture="cebuan"
+	religion="sunni"
+}
+1010044905={
+	name="de Legazpi"
+	culture="castillan"
+	religion="catholic"
+}
+1010044906={
+	name="de Lavezaris"
+	culture="castillan"
+	religion="catholic"
+}
+1010044907={
+	name="de Ronquillo"
+	culture="castillan"
+	religion="catholic"
+}
+1010044908={
+	name="de Vera"
+	culture="castillan"
+	religion="catholic"
+}
+1010044909={
+	name="de Dasmarinas"
+	culture="castillan"
+	religion="catholic"
+}
+1010044910={
+	name="de Rojas"
+	culture="castillan"
+	religion="catholic"
+}
+1010044911={
+	name="de Tello de Guzman"
+	culture="castillan"
+	religion="catholic"
+}
+1010044912={
+	name="Bravo"
+	culture="castillan"
+	religion="catholic"
+}
+1010044913={
+	name="Téllez"
+	culture="castillan"
+	religion="catholic"
+}
+1010044914={
+	name="de Vivero"
+	culture="castillan"
+	religion="catholic"
+}
+1010044915={
+	name="de Alcaraz"
+	culture="castillan"
+	religion="catholic"
+}
+1010044916={
+	name="Fajardo"
+	culture="castillan"
+	religion="catholic"
+}
+1010044917={
+	name="Nino"
+	culture="castillan"
+	religion="catholic"
+}
+1010044918={
+	name="de Olaso"
+	culture="castillan"
+	religion="catholic"
+}
+1010044919={
+	name="Cerezo de Salamanca"
+	culture="castillan"
+	religion="catholic"
+}
+1010044920={
+	name="Hurtado de Corcuera"
+	culture="castillan"
+	religion="catholic"
+}
+1010044921={
+	name="Carreno Valdes"
+	culture="castillan"
+	religion="catholic"
+}
+1010044922={
+	name="de Alcarazo"
+	culture="castillan"
+	religion="catholic"
+}
+1010044923={
+	name="Diaz Barrera"
+	culture="castillan"
+	religion="catholic"
+}
+1010044924={
+	name="Romero"
+	culture="castillan"
+	religion="catholic"
+}
+1010044925={
+	name="Hernandez"
+	culture="castillan"
+	religion="catholic"
+}
+1010044926={
+	name="Palomino"
+	culture="castillan"
+	religion="catholic"
+}
+1010044927={
+	name="Marquez"
+	culture="castillan"
+	religion="catholic"
+}
+1010044928={
+	name="Portillo"
+	culture="castillan"
+	religion="catholic"
+}
+1010044929={
+	name="Sonck"
+	culture="dutch"
+	religion="reformed"
+}
+1010044930={
+	name="de With"
+	culture="dutch"
+	religion="reformed"
+}
+1010044931={
+	name="Nuyts"
+	culture="dutch"
+	religion="reformed"
+}
+1010044932={
+	name="Putmans"
+	culture="dutch"
+	religion="reformed"
+}
+1010044933={
+	name="van der Burg"
+	culture="dutch"
+	religion="reformed"
+}
+1010044934={
+	name="Trauden"
+	culture="dutch"
+	religion="reformed"
+}
+1010044935={
+	name="Dem"
+	culture="papuan"
+	religion="melanesian_religion"
+}
+1010044936={
+	name="Komoro"
+	culture="papuan"
+	religion="melanesian_religion"
+}
+1010044937={
+	name="Madang"
+	culture="papuan"
+	religion="melanesian_religion"
+}
+1010044938={
+	name="Pauwasi"
+	culture="papuan"
+	religion="melanesian_religion"
+}
+1010044939={
+	name="Jailolo"
+	culture="malukan"
+	religion="sunni"
+}
+1010044940={
+	name="Bacan"
+	culture="malukan"
+	religion="sunni"
+}
+1010044941={
+	name="Tidore"
+	culture="malukan"
+	religion="sunni"
+}
+1010044942={
+	name="Kupang"
+	culture="tenggaran"
+	religion="flores_religion"
+}
+1010044943={
+	name="Rote"
+	culture="tenggaran"
+	religion="flores_religion"
+}
+1010044944={
+	name="Atambua"
+	culture="tenggaran"
+	religion="flores_religion"
+}
+1010044945={
+	name="Lifau"
+	culture="tenggaran"
+	religion="flores_religion"
+}
+1010044946={
+	name="Sulu"
+	culture="cebuan"
+	religion="sunni"
+}
+1010044947={
+	name="Sulu"
+	culture="cebuan"
+	religion="sunni"
+}
+1010044948={
+	name="Bolkiah"
+	culture="dayak"
+	religion="sunni"
+}
+1010044949={
+	name="Cirebon"
+	culture="sundanese"
+	religion="sunni"
+}
+1010044950={
+	name="Demak"
+	culture="sundanese"
+	religion="sunni"
+}
+1010044951={
+	name="Blambangan"
+	culture="sundanese"
+	religion="hindu"
+}
+1010044952={
+	name="Kalinyamat"
+	culture="han"
+	religion="sunni"
+}
+1010044953={
+	name="Barabudur"
+	culture="sundanese"
+	religion="hindu"
+}
+1010044954={
+	name="Prambanan"
+	culture="sundanese"
+	religion="hindu"
+}
+1010044955={
+	name="Palah"
+	culture="sundanese"
+	religion="hindu"
+}
+1010044956={
+	name="Palah"
+	culture="sundanese"
+	religion="sunni"
+}
+1010044957={
+	name="Daha"
+	culture="sundanese"
+	religion="sunni"
+}
+1010044958={
+	name="Kahuripan"
+	culture="sundanese"
+	religion="hindu"
+}
+1010044959={
+	name="Mataram"
+	culture="sundanese"
+	religion="sunni"
+}
+1010044960={
+	name="Sumenep"
+	culture="sundanese"
+	religion="hindu"
+}
+1010044961={
+	name="Lambri"
+	culture="samudran"
+	religion="sunni"
+}
+1010044962={
+	name="Aru"
+	culture="samudran"
+	religion="hindu"
+}
+1010044963={
+	name="Meukuta Alam"
+	culture="samudran"
+	religion="sunni"
+}
+1010044964={
+	name="Inderapura"
+	culture="minangkabau"
+	religion="sunni"
+}
+1010044965={
+	name="Jambi"
+	culture="malay"
+	religion="sunni"
+}
+1010044966={
+	name="Palembang"
+	culture="malay"
+	religion="sunni"
+}
+1010044967={
+	name="Mukomuko"
+	culture="malay"
+	religion="sunni"
+}
+1010044968={
+	name="Bengkulu"
+	culture="malay"
+	religion="sunni"
+}
+1010044969={
+	name="Bengkulu"
+	culture="malay"
+	religion="sumatran_religion"
 }

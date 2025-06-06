@@ -4,9 +4,8 @@
 title = c_cloncurry
 
 # Settlements
-max_settlements = 4
-b_cloncurry = tribal
-b_mount_isa = temple
+max_settlements = 3
+b_cloncurry-i = tribal
 
 # Misc
 culture = australian

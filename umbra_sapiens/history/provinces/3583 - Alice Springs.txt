@@ -4,9 +4,8 @@
 title = c_alice_springs
 
 # Settlements
-max_settlements = 3
-b_alice_springs = tribal
-b_dusulkapanth = tribal
+max_settlements = 1
+b_alice_springs-i = tribal
 
 # Misc
 culture = australian

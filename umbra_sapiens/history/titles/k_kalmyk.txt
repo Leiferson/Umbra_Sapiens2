@@ -1,4 +1,7 @@
 1634.1.1={
 	holder=384975	#Kho Orluk
 	historical_nomad = yes
+	set_tribute_suzerain = {
+		who = e_russia_2
+	}
 }

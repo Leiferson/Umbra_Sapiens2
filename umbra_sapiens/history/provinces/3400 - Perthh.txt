@@ -4,9 +4,9 @@
 title = c_perthh
 
 # Settlements
-max_settlements = 6
-b_perthh = tribal
-b_northam = temple
+max_settlements = 2
+b_perthh-i = tribal
+b_perthh-ii = temple
 
 # Misc
 culture = australian

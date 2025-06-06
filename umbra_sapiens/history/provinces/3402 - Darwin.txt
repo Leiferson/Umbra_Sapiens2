@@ -4,9 +4,8 @@
 title = c_darwin
 
 # Settlements
-max_settlements = 5
-b_darwin = tribal
-b_alexraprand = tribal
+max_settlements = 1
+b_darwin-i = tribal
 
 # Misc
 culture = australian

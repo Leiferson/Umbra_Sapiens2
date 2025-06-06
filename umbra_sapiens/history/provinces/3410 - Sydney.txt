@@ -4,9 +4,8 @@
 title = c_sydney
 
 # Settlements
-max_settlements = 6
-b_sydney = tribal
-b_moree = temple
+max_settlements = 1
+b_sydney-i = tribal
 
 # Misc
 culture = australian

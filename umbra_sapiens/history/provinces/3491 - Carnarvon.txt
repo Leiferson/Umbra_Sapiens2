@@ -4,9 +4,8 @@
 title = c_carnarvon
 
 # Settlements
-max_settlements = 6
-b_carnarvon = tribal
-b_feuploeopa = tribal
+max_settlements = 1
+b_carnarvon-i = tribal
 
 # Misc
 culture = australian

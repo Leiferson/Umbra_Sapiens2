@@ -4,8 +4,8 @@
 title = c_port_pirie
 
 # Settlements
-max_settlements = 3
-b_port_pirie = tribal
+max_settlements = 1
+b_port_pirie-i = tribal
 
 # Misc
 culture = australian

@@ -589,8 +589,11 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 2280;2261;sea;2760;-1;-1;-1;-1;Taliwang - Bima
 2261;2291;sea;2760;-1;-1;-1;-1;Bima - Takang
 2261;2292;sea;2760;-1;-1;-1;-1;Bima - Larantuka
-2292;2316;sea;2762;-1;-1;-1;-1;Larantuka - Kalabahi
+2292;2419;sea;2762;-1;-1;-1;-1;Larantuka - Alor
+2419;2316;sea;2762;-1;-1;-1;-1;Alor - Kalabahi
 2316;2258;sea;2762;-1;-1;-1;-1;Kalabahi - Timor
+2316;2418;sea;2762;-1;-1;-1;-1;Kalabahi - Wetar
+2418;2258;sea;2764;-1;-1;-1;-1;Wetar - Timor
 2013;2010;sea;2718;-1;-1;-1;-1;Kusuri - Karput
 2009;2019;sea;2719;-1;-1;-1;-1;Kuye - Hurha
 2013;4267;sea;3216;-1;-1;-1;-1;Kusuri - Kunashir

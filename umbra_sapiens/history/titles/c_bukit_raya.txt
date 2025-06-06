@@ -63,5 +63,55 @@
 	holder=1000080640 #Akarendrawarman
 }
 1347.1.1={
-	holder=1000080496 #Adityawarman
+	holder=1000080496
+	liege=0
+}
+1375.1.1={
+	holder=390710
+}
+1377.1.1={
+	holder=1000080697 #Rajasanagara
+	liege="e_java"
+}
+1389.1.1={
+	holder=390552	#WIKRAMAWARDHANA
+}
+1411.1.1={
+	holder=390710
+	liege="d_pagarruyung"
+}
+1423.1.1={
+	holder=390711
+}
+1459.1.1={
+	holder=388513	#Mansur Shah of Malacca
+	liege="d_melaka"
+}
+1477.1.1={
+	holder=388514	#Alauddin Riayat Shah of Malacca
+}
+1488.1.1={
+	holder=388518	#Mahmud Shah of Malacca
+}
+1528.1.1={
+	holder=388519	#Alauddin Riayat Shah II of Johor
+	liege="d_johor"
+}
+1564.1.1={
+	holder=388522	#Muzaffar II of Johor
+}
+1570.1.1={
+	holder=388573	#Abdul Jalil I of Johor
+}
+1571.1.1={
+	holder=388571	#Ali Jalla Abdul Jalil Shah II 
+}
+1597.1.1={
+	holder=388574	#Alauddin Riayat Shah III of Johor
+}
+1615.1.1={
+	holder=388575	#Abdullah Maayat Shah of Johor
+}
+1623.3.1={
+	holder=388576	#Abdul Jalil Shah III of Johor
 }

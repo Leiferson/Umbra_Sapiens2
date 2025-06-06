@@ -4,9 +4,8 @@
 title = c_gladstone
 
 # Settlements
-max_settlements = 6
-b_gladstone = tribal
-b_mackay = tribal
+max_settlements = 1
+b_gladstone-i = tribal
 
 # Misc
 culture = australian

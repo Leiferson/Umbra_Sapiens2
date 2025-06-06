@@ -119,97 +119,43 @@ holder=384727	#Kildi Beg
 1362.9.2={
 holder=384730	#Abdallah
 }
-1370.6.1={
-holder=384731	#Muhammad Sultan (Golden Horde)
+1368.1.1={
+	holder=389441
+	liege="k_oirats"
 }
-1379.1.1={
-holder=384733	#Tulak (Golden Horde)
-}
-1380.1.1={
-holder=384738	#Tokhtamysh
-}
-1395.1.1={
-holder=384777	#Quyurchuq
-}
-1397.1.1={
-holder=384759	#Temür Qutlugh
+1390.1.1={
+	holder=389442
 }
 1399.1.1={
-holder=384763	#Shadi Beg
-}
-1407.1.1={
-holder=384761	#Pulad
-}
-1410.1.1={
-holder=384760	#Timur (Golden Horde)
-}
-1412.1.1={
-holder=384739	#Jalal al-Din Khan ibn Tokhtamysh
-}
-1412.10.27={
-holder=384740	#Karim Berdi
-}
-1413.1.1={
-holder=384741	#Kebek (Golden Horde)
-}
-1414.1.1={
-holder=384740	#Karim Berdi
+	holder=389443
 }
 1415.1.1={
-holder=384765	#Chekre
+	holder=389444
 }
-1416.1.1={
-holder=384742	#Jabbar Berdi
+1424.1.1={
+	holder=389445
 }
-1417.1.1={
-holder=384768	#Darwish (Golden Horde)
+1438.1.1={
+	holder=389446
 }
-1419.8.1={
-holder=384774	#Hajji Muhammad (Golden Horde)
+1454.1.1={
+	holder=389447
 }
-1423.1.1={
-holder=384778	#Barak Khan
-}
-1428.1.1={
-	holder=384979	#Abulkhair Khan (Uzbek Khanate) 
-	liege=k_cuman
-}
-1468.1.1={
-	holder=385019	#Yadgar Khan 
+1455.1.1={
+	holder=389448
 }
 1469.1.1={
-	holder=384990	#Sheikh Haidar  
+	holder=389449
 }
-1471.1.1={
-	holder=385051	#Kerei Khan 
+1506.1.1={
+	holder=389450
 }
-1474.1.1={
-	holder=384779	#Zhanibek Khan (1474-1480) 
+1537.1.1={
+	holder=389451
 }
-1480.1.1={
-	holder=385052	#Burunduk Khan
+1568.1.1={
+	holder=389452
 }
-1511.1.1={
-	holder=385063	#Kasym Khan (Kazakh Khanate) 
-}
-1521.1.1={
-	holder=385070	#Mamash-khan 
-}
-1523.1.1={
-	holder=385077	#Tahir Khan 
-}
-1533.1.1={
-	holder=385071	#Hak-Nazar-khan 
-}
-1580.5.18={
-	holder=385085	#Shigai-khan (Kazakh Khanate) 
-}
-1582.1.1={
-	holder=385089	#Taukekel Khan 
-}
-1598.1.1={
-	holder=385090	#Yesim Khan (Kazakh Khanate)  
-}
-1628.1.1={
-	holder=385104	#Janibek Khan Yesimuly   
+1609.1.1={
+	holder=389453
 }

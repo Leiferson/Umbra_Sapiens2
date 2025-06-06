@@ -30,6 +30,7 @@ build_wonder_upgrade = upgrade_mandapa
 }
 1177.1.1 = {
 destroy_wonder = yes
+religion=buddhist
 }
 1178.1.1 = {
 build_wonder = wonder_temple_buddhist

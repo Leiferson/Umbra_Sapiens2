@@ -66,26 +66,44 @@
 1200.1.1={
 	holder=1000080717 #Abdul-Jalil
 }
+1225.1.1={
+	holder=390698
+	liege=0
+}
 1230.1.1={
-	holder=1000080718 #Muhammad-Amin II
+	holder=390699
 }
-1267.1.1={
-	holder=1000080719 #Abdul-Aziz II
+1260.1.1={
+	holder=390700
 }
-
-#Samudra Dynasty
-1292.1.1={
+1290.1.1={
+	holder=390701
+}
+1320.1.1={
+	holder=390702
+}
+1350.1.1={
+	holder=390703
+}
+1383.1.1={
+	holder=390704
+}
+1437.1.1={
+	holder=390705
+}
+1482.1.1={
+	holder=390706
+}
+1521.1.1={
+	holder=390707
+}
+1573.1.1={
+	holder=390708
+}
+1613.1.1={
+	holder=390735	#Iskandar Muda
 	liege="k_samudra_pasai"
 }
-1292.1.1={
-	holder=1000080721 #Malik
-}
-1297.1.1={
-	holder=1000080722 #Muhammad
-}
-1326.1.1={
-	holder=1000080723 #Mahmud
-}
-1345.1.1={
-	holder=1000080724 #Ahmad
+1636.12.27={
+	holder=388556	#Iskandar Thani
 }

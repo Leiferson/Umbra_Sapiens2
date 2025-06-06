@@ -68,3 +68,59 @@
 1350.1.1={
 	holder=1000080919 #Jebat
 }
+1385.1.1={
+	holder=388559
+}
+1420.1.1={
+	holder=388560
+}
+1454.1.1={
+	holder=388512	#Muzaffar Shah of Malacca
+	liege="d_melaka"
+}
+1459.1.1={
+	holder=388513	#Mansur Shah of Malacca
+}
+1470.1.1={
+	holder=388516	#Muhammad Shah of Pahang
+	liege="d_pekan"
+}
+1475.1.1={
+	holder=388515	#Ahmad Shah I of Pahang
+}
+1495.1.1={
+	holder=388531	#Mansur Shah I of Pahang
+}
+1519.1.1={
+	holder=388529	#Mahmud Shah I of Pahang
+}
+1530.1.1={
+	holder=388533	#Muzaffar Shah of Pahang
+}
+1540.1.1={
+	holder=388534	#Zainal Abidin Shah of Pahang
+}
+1555.1.1={
+	holder=388535	#Mansur Shah II of Pahang
+}
+1560.1.1={
+	holder=388536	#Abdul Jamal Shah of Pahang
+}
+1575.1.1={
+	holder=388537	#Abdul Kadir Alauddin Shah of Pahang
+}
+1590.1.1={
+	holder=388551	#Ahmad Shah II of Pahang
+}
+1592.1.1={
+	holder=388549	#Abdul Ghafur Muhiuddin Shah of Pahang
+}
+1614.1.1={
+	holder=388555	#Alauddin Riayat Shah of Pahang
+}
+1615.1.1={
+	holder=388576	#Abdul Jalil Shah III of Johor
+}
+1623.3.1={
+	liege="d_johor"
+}

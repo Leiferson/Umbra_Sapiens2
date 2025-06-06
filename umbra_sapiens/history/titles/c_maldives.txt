@@ -25,127 +25,197 @@
 1117.1.1={
 	holder = 189164
 }
-1126.1.1={
-	holder=74446
+1141.1.1={
+	holder = 388620
 }
-1138.1.1={
-	holder=74447
+1165.1.1={
+	holder = 388621	#Sultan Muthey
 }
-1151.1.1={
-	holder=74448
-}
-1156.1.1={
-	holder=74462
-}
-1167.1.1={
-	holder=74463
-}
-1173.1.1={
-	holder=74654
-	effect={
-		insert_title_history=d_devagiri
-	}
-}
-1176.1.1={
-	holder=74464
-}
-1177.1.1={
-	holder=74465
-}
-1180.1.1={
-	holder=74466
-}
-1183.1.1={
-	holder=74467
-}
-1185.1.1={
-	holder=74450
+1184.1.1={
+	holder = 388622	
 }
 1192.1.1={
-	holder=74655
+	holder = 388623	
 }
-1200.1.1={
-	holder=74656
+1199.1.1={
+	holder = 388624	
 }
-1247.1.1={
-	holder=74657
+1214.1.1={
+	holder = 388625	
 }
-1261.1.1={
-	holder=74658
+1232.1.1={
+	holder = 388626	
 }
-1271.1.1={
-	holder=74659
+1258.1.1={
+	holder = 388627
 }
-1272.1.1={
-	holder=74660
+1263.1.1={
+	holder = 388628
 }
-1307.1.1={
-	liege=e_rajastan
+1266.1.1={
+	holder = 388629
 }
-1311.1.1={
-	holder=74661
+1268.1.1={
+	holder = 388630
 }
-1312.1.1={
-	holder=74662
+1269.1.1={
+	holder = 388631
 }
-1317.1.1={
-	holder=0
+1277.1.1={
+	holder = 388632
 }
-1317.1.1={
-	holder = 74723
-	liege = k_maharastra
+1287.1.1={
+	holder = 388633
 }
-1358.2.10={
-	holder=387283	#Mohammed Shah I
+1293.1.1={
+	holder = 388634
 }
-1375.4.21={
-	holder=387286	#Mujahid Shah
+1301.1.1={
+	holder = 388681
 }
-1378.4.16={
-	holder=387288	#Daud Shah Bahmani
+1306.1.1={
+	holder = 388635
 }
-1378.5.21={
-	holder=387291	#Mohammad Shah II 
+1341.1.1={
+	holder = 388636
 }
-1397.4.20={
-	holder=387305	#Ghiyath-ad-din Shah 
+1347.1.1={
+	holder = 388637
 }
-1397.6.14={
-	holder=387306	#Shams-ud-Din Shah
+1362.1.1={
+	holder = 388638
 }
-1397.11.15={
-	holder=387289	#Taj ud-Din Firuz Shah
+1363.1.1={
+	holder = 388637
 }
-1422.10.1={
-	holder=387290	#Ahmad Shah I Wali
+1373.1.1={
+	holder = 388639
 }
-1436.4.17={
-	holder=387294	#Alau'd-din Ahmad Shah
+1376.1.1={
+	holder = 388637
 }
-1458.4.3={
-	holder=387295	#Humayun Shah
+1379.1.1={
+	holder = 388640
 }
-1461.9.1={
-	holder=387298	#Nizam-Ud-Din Ahmad III
+1380.1.1={
+	holder = 388641
 }
-1463.7.30={
-	holder=387299	#Muhammad Shah III Lashkari
+1385.1.1={
+	holder = 388642
 }
-1482.3.26={
-	holder=387300	#Mahmood Shah Bahmani II
+1388.1.1={
+	holder = 388643
 }
-1518.12.27={
-	holder=387301	#Ahmed Shah Bahmani II
+1388.2.1={
+	holder = 388644
 }
-1520.12.15={
-	holder=387302	#Ala-ud-Din Shah Bahmani II
+1388.6.1={
+	holder = 388645
 }
-1522.3.5={
-	holder=387303	#Waliullah Shah Bahmani
+1398.1.1={
+	holder = 388646
 }
-1526.1.1={
-	holder=387304	#Kaleemullah Shah Bahmani
+1398.6.1={
+	holder = 388647
 }
-1527.1.1={
-	holder=0
+1409.1.1={
+	holder = 388648
+}
+1411.1.1={
+	holder = 388649
+}
+1411.4.1={
+	holder = 388650
+}
+1411.8.1={
+	holder = 388646
+}
+1420.1.1={
+	holder = 388651
+}
+1421.1.1={
+	holder = 388652
+}
+1421.11.1={
+	holder = 388653
+}
+1443.1.1={
+	holder = 388654
+}
+1443.6.1={
+	holder = 388655
+}
+1468.1.1={
+	holder = 388656	
+}
+1481.1.1={
+	holder = 388657	#Hassan IV of the Maldives
+}
+1481.6.1={
+	holder = 388658	#Omar II of the Maldives
+}
+1484.1.1={
+	holder = 388682	#Hassan V of the Maldives
+}
+1485.1.1={
+	holder = 388657	#Hassan IV of the Maldives
+}
+1491.1.1={
+	holder = 388659	#Hassan VI of the Maldives
+}
+1492.1.1={
+	holder = 388660	#Sultan Ibrahim II of the Maldives
+}
+1492.6.1={
+	holder = 388661	#Sultan Kalu Muhammad
+}
+1492.9.1={
+	holder = 388662	#Sultan Yusuf III of the Maldives
+}
+1493.1.1={
+	holder = 388663	#Sultan Ali II
+}
+1495.1.1={
+	holder = 388661	#Sultan Kalu Muhammad
+}
+1510.1.1={
+	holder = 388664	#Sultan Hasan VII
+}
+1511.1.1={
+	holder = 388665	#Sultan Hasan VII
+}
+1513.1.1={
+	holder = 388666	#Sultan Ali III
+}
+1513.6.1={
+	holder = 388661	#Sultan Kalu Muhammad
+}
+1529.1.1={
+	holder = 388668 #Sultan Hasan al-Shirazi VIII
+}
+1549.1.1={
+	holder = 388669 #Sultan Muhammad III
+}
+1551.1.1={
+	holder = 388670 #Sultan Hasan IX
+}
+1552.1.1={
+	holder = 388671 #Sultan Abu Bakr II
+}
+1557.1.1={
+	holder = 388672 #Sultan Ali IV
+}
+1558.1.1={
+	holder = 388670 #Sultan Hasan IX
+	liege="k_portuguese_india"
+}
+1583.1.1={
+	holder = 388674 #King Dom João
+}
+1603.1.1={
+	holder = 388677 #King Dom Philippe
+}
+1632.1.1={
+	holder = 388679 #Muhammad Imaduddin I
+	liege=0
 }

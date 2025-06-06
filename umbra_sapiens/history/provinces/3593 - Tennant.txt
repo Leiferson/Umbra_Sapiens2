@@ -4,8 +4,8 @@
 title = c_tennant
 
 # Settlements
-max_settlements = 3
-b_tennant = tribal
+max_settlements = 1
+b_tennant-i = tribal
 
 # Misc
 culture = australian

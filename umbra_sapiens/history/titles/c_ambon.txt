@@ -65,3 +65,37 @@
 1350.1.1={
 	holder=1000201677 #Piay
 }
+1385.1.1={
+	holder=390187
+}
+1424.1.1={
+	holder=390188
+}
+1490.1.1={
+	holder=390189
+}
+1511.1.1={
+	liege="d_ternate"
+}
+1542.1.1={
+	holder=390190
+}
+1576.3.25={
+	set_tribute_suzerain = {
+		who = k_portuguese_india
+		type = permanent
+	}
+}
+1587.1.1={
+	holder=390191
+}
+1605.2.23={
+	clear_tribute_suzerain = k_portuguese_india
+	set_tribute_suzerain = {
+		who = k_union
+		type = permanent
+	}
+}
+1637.1.1={
+	holder=390192
+}

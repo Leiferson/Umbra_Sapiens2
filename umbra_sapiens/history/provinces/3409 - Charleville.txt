@@ -4,8 +4,8 @@
 title = c_charleville
 
 # Settlements
-max_settlements = 6
-b_charleville = tribal
+max_settlements = 1
+b_charleville-i = tribal
 
 # Misc
 culture = australian

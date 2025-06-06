@@ -9448,3 +9448,19 @@ is_american_religion = {
 			religion=algic_pagan
 		}
 }
+is_far_eastern_religion = {
+	OR = {
+			religion = taoist
+			religion = nihon_shinto
+			religion = ryukyu_shinto
+			religion = thangiao
+			religion = shingyo
+			religion = nugyauq
+			religion = ua_dab
+			religion = bimojiao
+			religion = benzhujiao
+			religion = rmagao
+			religion = sastsana_phi
+			religion = nat
+		}
+}

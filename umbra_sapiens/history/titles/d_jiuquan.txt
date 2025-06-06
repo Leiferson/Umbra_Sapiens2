@@ -11,3 +11,11 @@
 	holder = 0
 	clear_tribute_suzerain = e_china 
 }
+1368.1.23 = {
+    holder = 389807 # Köke Temür
+	liege="k_mongolia"
+}
+1372.1.1={
+	holder=0
+	historical_nomad = no
+}

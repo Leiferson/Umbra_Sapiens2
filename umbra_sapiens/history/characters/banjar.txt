@@ -2,7 +2,7 @@
 
 1000205005 = {
 	name="Khamis"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	720.1.1={
@@ -15,7 +15,7 @@
 
 1000205006 = {
 	name="Perang"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205005
@@ -29,7 +29,7 @@
 
 1000205007 = {
 	name="Rabu"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205006
@@ -43,7 +43,7 @@
 
 1000201219 = {
 	name="Gombak"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205007
@@ -57,7 +57,7 @@
 
 1000201220 = {
 	name="Baba"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201219
@@ -71,7 +71,7 @@
 
 1000201221 = {
 	name="Anuar"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201220
@@ -85,7 +85,7 @@
 
 1000201222 = {
 	name="Kesuma"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201221
@@ -99,7 +99,7 @@
 
 1000201223 = {
 	name="Puteh"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201222
@@ -113,7 +113,7 @@
 
 1000201224 = {
 	name="Yeop"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201223
@@ -127,7 +127,7 @@
 
 1000201225 = {
 	name="Basuki"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201224
@@ -141,7 +141,7 @@
 
 1000076202 = {
 	name="Kefli"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201225
@@ -155,7 +155,7 @@
 
 1000201226 = {
 	name="Jebat"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000076202
@@ -169,7 +169,7 @@
 
 1000201227 = {
 	name="Jiwa"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201226
@@ -183,7 +183,7 @@
 
 1000201228 = {
 	name="Fajar"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201227
@@ -197,7 +197,7 @@
 
 1000201229 = {
 	name="Embong"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201228
@@ -211,7 +211,7 @@
 
 1000201230 = {
 	name="Jusoh"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201229
@@ -225,7 +225,7 @@
 
 1000201231 = {
 	name="Jumaat"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201230
@@ -239,7 +239,7 @@
 
 1000201232 = {
 	name="Tuah"
-	dynasty=1000028310 #Arifin
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201231
@@ -252,8 +252,8 @@
 }
 
 1000201233 = {
-	name="Uda"
-	dynasty=1000028310 #Arifin
+	name="Japutra Laya"
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201232
@@ -266,8 +266,8 @@
 }
 
 1000201234 = {
-	name="Atan"
-	dynasty=1000028310 #Arifin
+	name="Neno"
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201233
@@ -280,8 +280,8 @@
 }
 
 1000201235 = {
-	name="Perwira"
-	dynasty=1000028310 #Arifin
+	name="Anyan"
+	dynasty=1000027274 #Arifin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201234
@@ -297,7 +297,7 @@
 
 1000205008 = {
 	name="Puteh"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	720.1.1={
@@ -310,7 +310,7 @@
 
 1000205009 = {
 	name="Ujang"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205008
@@ -324,7 +324,7 @@
 
 1000205010 = {
 	name="Teh"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205009
@@ -338,7 +338,7 @@
 
 1000201236 = {
 	name="Elyas"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205010
@@ -352,7 +352,7 @@
 
 1000201237 = {
 	name="Demang"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201236
@@ -366,7 +366,7 @@
 
 1000201238 = {
 	name="Deraman"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201237
@@ -380,7 +380,7 @@
 
 1000201239 = {
 	name="Desa"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201238
@@ -394,7 +394,7 @@
 
 1000201240 = {
 	name="Anuar"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201239
@@ -408,7 +408,7 @@
 
 1000201241 = {
 	name="Bagus"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201240
@@ -422,7 +422,7 @@
 
 1000201242 = {
 	name="Ujang"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201241
@@ -436,7 +436,7 @@
 
 1000076203 = {
 	name="Perang"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201242
@@ -450,7 +450,7 @@
 
 1000201243 = {
 	name="Ungu"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000076203
@@ -464,7 +464,7 @@
 
 1000201244 = {
 	name="Kechik"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201243
@@ -478,7 +478,7 @@
 
 1000201245 = {
 	name="Izzat"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201244
@@ -492,7 +492,7 @@
 
 1000201246 = {
 	name="Wira"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201245
@@ -506,7 +506,7 @@
 
 1000201247 = {
 	name="Leman"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201246
@@ -520,7 +520,7 @@
 
 1000201248 = {
 	name="Luncai"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201247
@@ -534,7 +534,7 @@
 
 1000201249 = {
 	name="Mad"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201248
@@ -548,7 +548,7 @@
 
 1000201250 = {
 	name="Mail"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201249
@@ -562,7 +562,7 @@
 
 1000201251 = {
 	name="Megat"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201250
@@ -576,15 +576,15 @@
 
 1000201252 = {
 	name="Hijau"
-	dynasty=1000028311 #Gazali
+	dynasty=1000027275 #Gazali
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201251
 	1320.1.1={
 		birth="1320.1.1"
 	}
-	1380.1.1={
-		death="1380.1.1"
+	1387.1.1={
+		death="1387.1.1"
 	}
 }
 
@@ -592,7 +592,7 @@
 
 1000205011 = {
 	name="Wira"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	720.1.1={
@@ -605,7 +605,7 @@
 
 1000205012 = {
 	name="Selasa"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205011
@@ -619,7 +619,7 @@
 
 1000205013 = {
 	name="Fajar"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205012
@@ -633,7 +633,7 @@
 
 1000201253 = {
 	name="Indera"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205013
@@ -647,7 +647,7 @@
 
 1000201254 = {
 	name="Jati"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201253
@@ -661,7 +661,7 @@
 
 1000201255 = {
 	name="Jaya"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201254
@@ -675,7 +675,7 @@
 
 1000201256 = {
 	name="Budiarto"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201255
@@ -689,7 +689,7 @@
 
 1000201257 = {
 	name="Anuar"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201256
@@ -703,7 +703,7 @@
 
 1000201258 = {
 	name="Atan"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201257
@@ -717,7 +717,7 @@
 
 1000201259 = {
 	name="Agung"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201258
@@ -731,7 +731,7 @@
 
 1000076204 = {
 	name="Ungu"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201259
@@ -745,7 +745,7 @@
 
 1000201260 = {
 	name="Adi"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000076204
@@ -759,7 +759,7 @@
 
 1000201261 = {
 	name="Adiputra"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201260
@@ -773,7 +773,7 @@
 
 1000201262 = {
 	name="Bongsu"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201261
@@ -787,7 +787,7 @@
 
 1000201263 = {
 	name="Bachok"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201262
@@ -801,7 +801,7 @@
 
 1000201264 = {
 	name="Bestari"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201263
@@ -815,7 +815,7 @@
 
 1000201265 = {
 	name="Bintang"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201264
@@ -829,7 +829,7 @@
 
 1000201266 = {
 	name="Ishak"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201265
@@ -843,7 +843,7 @@
 
 1000201267 = {
 	name="Rabu"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201266
@@ -857,7 +857,7 @@
 
 1000201268 = {
 	name="Putra"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201267
@@ -871,7 +871,7 @@
 
 1000201269 = {
 	name="Perang"
-	dynasty=1000028312 #Muhidin
+	dynasty=1000027276 #Muhidin
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201268
@@ -887,7 +887,7 @@
 
 1000205014 = {
 	name="Budiarto"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	720.1.1={
@@ -900,7 +900,7 @@
 
 1000205015 = {
 	name="Elyas"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205014
@@ -914,7 +914,7 @@
 
 1000205016 = {
 	name="Bongsu"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205015
@@ -928,7 +928,7 @@
 
 1000201270 = {
 	name="Rabu"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205016
@@ -942,7 +942,7 @@
 
 1000201271 = {
 	name="Kefli"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201270
@@ -956,7 +956,7 @@
 
 1000201272 = {
 	name="Elyas"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201271
@@ -970,7 +970,7 @@
 
 1000201273 = {
 	name="Kechik"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201272
@@ -984,7 +984,7 @@
 
 1000201274 = {
 	name="Perang"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201273
@@ -998,7 +998,7 @@
 
 1000201275 = {
 	name="Noh"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201274
@@ -1012,7 +1012,7 @@
 
 1000201276 = {
 	name="Teh"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201275
@@ -1026,7 +1026,7 @@
 
 1000076205 = {
 	name="Kesuma"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201276
@@ -1040,7 +1040,7 @@
 
 1000201277 = {
 	name="Bujang"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000076205
@@ -1054,7 +1054,7 @@
 
 1000201278 = {
 	name="Budi"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201277
@@ -1068,7 +1068,7 @@
 
 1000201279 = {
 	name="Andika"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201278
@@ -1082,7 +1082,7 @@
 
 1000201280 = {
 	name="Demang"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201279
@@ -1096,7 +1096,7 @@
 
 1000201281 = {
 	name="Yunos"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201280
@@ -1110,7 +1110,7 @@
 
 1000201282 = {
 	name="Hitam"
-	dynasty=1000028313 #Muzaki
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201281
@@ -1123,8 +1123,8 @@
 }
 
 1000201283 = {
-	name="Merdeka"
-	dynasty=1000028313 #Muzaki
+	name="Patinggi Bordir Bordir"
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201282
@@ -1137,44 +1137,44 @@
 }
 
 1000201284 = {
-	name="Suria"
-	dynasty=1000028313 #Muzaki
+	name="Dewa Sakti"
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201283
 	1260.1.1={
 		birth="1260.1.1"
 	}
-	1320.1.1={
-		death="1320.1.1"
+	1325.1.1={
+		death="1325.1.1"
 	}
 }
 
 1000201285 = {
-	name="Jiwa"
-	dynasty=1000028313 #Muzaki
+	name="Nira"
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201284
 	1290.1.1={
 		birth="1290.1.1"
 	}
-	1350.1.1={
-		death="1350.1.1"
+	1360.1.1={
+		death="1360.1.1"
 	}
 }
 
 1000201286 = {
-	name="Leman"
-	dynasty=1000028313 #Muzaki
+	name="Shakti"
+	dynasty=1000027277 #Muzaki
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201285
-	1320.1.1={
-		birth="1320.1.1"
+	1314.1.1={
+		birth="1314.1.1"
 	}
-	1380.1.1={
-		death="1380.1.1"
+	1359.1.1={
+		death="1359.1.1"
 	}
 }
 
@@ -1182,7 +1182,7 @@
 
 1000205017 = {
 	name="Andika"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	720.1.1={
@@ -1195,7 +1195,7 @@
 
 1000205018 = {
 	name="Dumadi"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205017
@@ -1209,7 +1209,7 @@
 
 1000205019 = {
 	name="Adiputra"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205018
@@ -1223,7 +1223,7 @@
 
 1000201287 = {
 	name="Usop"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000205019
@@ -1237,7 +1237,7 @@
 
 1000201288 = {
 	name="Selamat"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201287
@@ -1251,7 +1251,7 @@
 
 1000201289 = {
 	name="Embong"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201288
@@ -1265,7 +1265,7 @@
 
 1000201290 = {
 	name="Fajar"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201289
@@ -1279,7 +1279,7 @@
 
 1000201291 = {
 	name="Kuning"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201290
@@ -1293,7 +1293,7 @@
 
 1000201292 = {
 	name="Leman"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201291
@@ -1307,7 +1307,7 @@
 
 1000201293 = {
 	name="Lokman"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201292
@@ -1321,7 +1321,7 @@
 
 1000076206 = {
 	name="Teruna"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201293
@@ -1335,7 +1335,7 @@
 
 1000201294 = {
 	name="Ishak"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000076206
@@ -1349,7 +1349,7 @@
 
 1000201295 = {
 	name="Daud"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201294
@@ -1363,7 +1363,7 @@
 
 1000201296 = {
 	name="Deraman"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201295
@@ -1377,7 +1377,7 @@
 
 1000201297 = {
 	name="Deris"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201296
@@ -1391,7 +1391,7 @@
 
 1000201298 = {
 	name="Che"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201297
@@ -1405,7 +1405,7 @@
 
 1000201299 = {
 	name="Awang"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201298
@@ -1419,7 +1419,7 @@
 
 1000201300 = {
 	name="Selasa"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201299
@@ -1433,7 +1433,7 @@
 
 1000201301 = {
 	name="Shuib"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201300
@@ -1447,7 +1447,7 @@
 
 1000201302 = {
 	name="Senin"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201301
@@ -1461,7 +1461,7 @@
 
 1000201303 = {
 	name="Sulong"
-	dynasty=1000028314 #Hayati
+	dynasty=1000027278 #Hayati
 	religion="bornean_religion"
 	culture="banjar"
 	father=1000201302

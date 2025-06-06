@@ -6148,7 +6148,29 @@ bhikkhu = {
 	potential = {
 		is_ruler = no
 		is_female = no
-		religion = buddhist
+		OR={
+		   	religion = buddhist
+			AND={
+			religion = thangiao
+			OR={
+			trait = thien_thai_buddhist
+			trait = hoa_nghiem_buddhist
+			trait = thien_tong_buddhist
+			trait = tinh_do_buddhist
+			}
+			}
+			religion = nihon_shinto
+			religion = shingyo
+			AND={
+			religion = taoist
+			OR={
+			trait = tiantai_buddhist
+			trait = huayan_buddhist
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+			}
+			}
+			}
 	}
 	
 	monthly_character_piety = 0.3
@@ -6167,7 +6189,29 @@ bhikkhuni = {
 	potential = {
 		is_ruler = no
 		is_female = yes
-		religion = buddhist
+		OR={
+		   	religion = buddhist
+			AND={
+			religion = thangiao
+			OR={
+			trait = thien_thai_buddhist
+			trait = hoa_nghiem_buddhist
+			trait = thien_tong_buddhist
+			trait = tinh_do_buddhist
+			}
+			}
+			religion = nihon_shinto
+			religion = shingyo
+			AND={
+			religion = taoist
+			OR={
+			trait = tiantai_buddhist
+			trait = huayan_buddhist
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+			}
+			}
+			}
 	}
 	
 	monthly_character_piety = 0.3
@@ -8087,7 +8131,7 @@ jingtuzong_buddhist = {
 	religious = yes
 	ruler_designer_cost = 0
 }
- chan_buddhist = {
+chan_buddhist = {
 	opposites = {
 		neo_confucian
 		zhengyi_taoist
@@ -8342,4 +8386,113 @@ kuge = {
 	caste_tier = 3
 	monthly_character_prestige = 0.5
 	ruler_designer_cost = 25
+}
+thien_thai_buddhist = {
+	opposites = {
+		hoa_nghiem_buddhist
+		thien_tong_buddhist
+		tinh_do_buddhist
+		nho_giao
+		dao_giao
+	}
+	opposite_opinion = -5
+	learning = 3
+	potential = { religion = thangiao }
+	religious_branch = thangiao
+	random = no
+	religious = yes
+	ruler_designer_cost = 0
+}
+hoa_nghiem_buddhist = {
+	opposites = {
+		thien_thai_buddhist
+		thien_tong_buddhist
+		tinh_do_buddhist
+		nho_giao
+		dao_giao
+	}
+	opposite_opinion = -5
+	diplomacy = 3
+	potential = { religion = thangiao }
+	religious_branch = thangiao
+	random = no
+	religious = yes
+	ruler_designer_cost = 0
+}
+thien_tong_buddhist = {
+	opposites = {
+		thien_thai_buddhist
+		hoa_nghiem_buddhist
+		tinh_do_buddhist
+		nho_giao
+		dao_giao
+	}
+	opposite_opinion = -5
+	learning = 2
+    stewardship = 2
+	prevent_decadence = yes
+	potential = { religion = thangiao }
+	religious_branch = thangiao
+	random = no
+	religious = yes
+	ruler_designer_cost = 0
+}
+tinh_do_buddhist = {
+	opposites = {
+		thien_thai_buddhist
+		hoa_nghiem_buddhist
+		thien_tong_buddhist
+		nho_giao
+		dao_giao
+	}
+	city_opinion = 12
+	global_levy_size = 0.5
+	opposite_opinion = -5
+	global_tax_modifier = -0.125
+	global_revolt_risk = -0.0125
+	potential = { religion = thangiao }
+	religious_branch = thangiao
+	random = no
+	religious = yes
+	ruler_designer_cost = 0
+}
+nho_giao = {
+	opposites = {
+		thien_thai_buddhist
+		hoa_nghiem_buddhist
+		thien_tong_buddhist
+		tinh_do_buddhist
+		dao_giao
+	}
+	opposite_opinion = -5
+	global_revolt_risk = -0.025
+	diplomacy = 2
+	learning = -2
+	liege_opinion = 25
+	vassal_opinion = 25
+	potential = { religion = thangiao }
+	religious_branch = thangiao
+	random = no
+	religious = yes
+	ruler_designer_cost = 0
+}
+dao_giao = {
+	opposites = {
+		thien_thai_buddhist
+		hoa_nghiem_buddhist
+		thien_tong_buddhist
+		tinh_do_buddhist
+		nho_giao
+	}
+	opposite_opinion = -5
+	fertility = -0.25
+	martial = -2
+	health = 1
+	build_time_modifier = -0.1
+	build_cost_modifier = -0.1
+	potential = { religion = thangiao }
+	religious_branch = thangiao
+	random = no
+	religious = yes
+	ruler_designer_cost = 0
 }

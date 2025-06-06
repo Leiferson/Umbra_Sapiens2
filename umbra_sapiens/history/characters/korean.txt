@@ -636,6 +636,7 @@
 	culture="korean"
 	father=1000202759
 	mother=1000450905
+	trait=homosexual
 	1330.5.23={
 		birth=yes
 	}
@@ -644,16 +645,6 @@
 	}
 	1349.1.1={
 		add_spouse=1000450909
-	}
-	1351.1.1={
-		name="Gongmin"
-		effect={ add_lover=1000450909 }
-	}
-	1359.4.24={
-		effect={c_1000450923={add_consort=ROOT}}
-		effect={c_1000450924={add_consort=ROOT}}
-		effect={c_1000450928={add_consort=ROOT}}
-		effect={c_1000450929={add_consort=ROOT}}
 	}
 	1374.10.27={
 		death=yes
@@ -14622,7 +14613,7 @@
 	}
 }
 1000450906 = {
-	name="Heun"
+	name="Heun"	#Chungmok of Goryeo
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
@@ -14639,13 +14630,13 @@
 	}
 }
 1000450907 = {
-	name="Jeo"
+	name="Jeo"	#Chungjeong of Goryeo
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
 	father=1000202760
 	mother=1000450904
-	1338.1.1={
+	1338.1.9={
 		birth=yes
 	}
 	1348.12.25={
@@ -14991,7 +14982,7 @@
 	}
 }
 1000450935 = {
-	name="Yeo"
+	name="Seo"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
@@ -15069,7 +15060,7 @@
 	}
 }
 1000450941 = {
-	name="Yo"
+	name="Yo"	#Gongyang of Goryeo
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"

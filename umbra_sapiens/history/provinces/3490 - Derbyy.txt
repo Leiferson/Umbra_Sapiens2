@@ -4,9 +4,8 @@
 title = c_derbyy
 
 # Settlements
-max_settlements = 6
-b_derbyy = tribal
-b_newman = temple
+max_settlements = 1
+b_derbyy-i = tribal
 
 # Misc
 culture = australian

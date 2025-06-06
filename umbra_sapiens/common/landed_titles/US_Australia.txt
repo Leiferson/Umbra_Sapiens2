@@ -6,31 +6,34 @@ e_australia = {
 	color2={ 255 255 255 }
 	allow={
 	is_colonial = no
-	}
-	k_western_australia = { #Liang
+	}	
+	k_western_australia = { 
 
 		capital = 3400 # Perthh
 
 		color={ 54 69 135 }
 		color2={ 255 255 255 }		
-
 		d_geralkun = {
 
 			color={ 142 175 221 }
 			color2={ 255 255 255 }
 
 			capital = 3398 # Geraldton
+			
+			c_tharrgari = {
 
+				color={ 30 141 45 }
+				color2={ 255 255 255 }
+
+				b_tharrgari-i = {
+				}
+			}
 			c_geraldton = {
 
 				color={ 12 135 31 }
 				color2={ 255 255 255 }
 
-				b_geraldton = {
-				}
-				b_denham = {
-				}
-				b_derrelerenth = {
+				b_geraldton-i = {
 				}
 			}
 			c_onslow = {
@@ -38,11 +41,7 @@ e_australia = {
 				color={ 142 15 61 }
 				color2={ 255 255 255 }
 
-				b_onslow = {
-				}
-				b_muslearean = {
-				}
-				b_juyletcerk = {
+				b_onslow-i = {
 				}
 			}
 			c_kalbarri = {
@@ -50,33 +49,23 @@ e_australia = {
 				color={ 122 165 141 }
 				color2={ 255 255 255 }
 
-				b_kalbarri = {
-				}
-				b_ferthperlen = {
+				b_kalbarri-i = {
 				}
 			}
-			c_paraburdoo = {
+			c_thalanyii = {
 
-				color={ 32 125 191 }
+				color={ 110 186 145 }
 				color2={ 255 255 255 }
 
-				b_paraburdoo = {
-				}
-				b_uthlemen = {
-				}
-				b_wvayradaman = {
+				b_thalanyii-i = {
 				}
 			}
-			c_wiluna = {
+			c_purduna = {
 
-				color={ 122 135 111 }
+				color={ 137 176 155 }
 				color2={ 255 255 255 }
 
-				b_wiluna = {
-				}
-				b_wurranlakapa = {
-				}
-				b_meunsterent = {
+				b_purduna-i = {
 				}
 			}
 			c_exmouth = {
@@ -84,58 +73,210 @@ e_australia = {
 				color={ 12 65 138 }
 				color2={ 255 255 255 }
 
-				b_exmouth = {
-				}
-				b_huyepeksan = {
-				}
-				b_munpueraka = {
+				b_exmouth-i = {
 				}
 			}
 		}
-		d_carnbro = {
+		d_ngarla = {
 
-			color={ 64 64 244 }
+			color={ 200 111 180 }
 			color2={ 255 255 255 }
 
-			capital = 3490 # Derbyy
+			capital = 4885
+			c_ngarla = {
 
-			c_carnarvon = {
-
-				color={ 82 15 18 }
+				color={ 205 115 160 }
 				color2={ 255 255 255 }
 
-				b_carnarvon = {
-				}
-				b_feuploeopa = {
-				}
-				b_manjimup = {
+				b_ngarla-i = {
 				}
 			}
-			c_derbyy = {
+			c_nyamal = {
 
-				color={ 52 65 181 }
+				color={ 219 118 168 }
 				color2={ 255 255 255 }
 
-				b_derbyy = {
-				}
-				b_newman = {
-				}
-				b_ujalanthe = {
+				b_nyamal-i = {
 				}
 			}
-			c_loungston = {
+			c_kariyarra = {
+
+				color={ 219 118 168 }
+				color2={ 255 255 255 }
+
+				b_kariyarra-i = {
+				}
+			}
+			c_nyangumarda = {
+
+				color={ 227 124 177 }
+				color2={ 255 255 255 }
+
+				b_nyangumarda-i = {
+				}
+			}
+		}
+		d_amangu = {
+
+			color={ 150 90 180 }
+			color2={ 255 255 255 }
+
+			capital = 2393
+			c_amangu = {
+
+				color={ 140 160 170 }
+				color2={ 255 255 255 }
+
+				b_amangu-i = {
+				}
+			}
+			c_nhanta = {
+
+				color={ 151 168 179 }
+				color2={ 255 255 255 }
+
+				b_nhanta-i = {
+				}
+			}
+			c_malkana = {
+
+				color={ 143 175 188 }
+				color2={ 255 255 255 }
+
+				b_malkana-i = {
+				}
+			}
+		}
+		d_penikura = {
+
+			color={ 108 200 55 }
+			color2={ 255 255 255 }
+			capital=4888
+		c_penikura = {
+
+				color={ 128 200 55 }
+				color2={ 255 255 255 }
+
+				b_penikura-i = {
+				}
+			}
+		c_jurruru = {
+
+				color={ 118 210 55 }
+				color2={ 255 255 255 }
+
+				b_jurruru-i = {
+				}
+			}
+		c_jiwarli = {
+
+				color={ 122 215 59 }
+				color2={ 255 255 255 }
+
+				b_jiwarli-i = {
+				}
+			}
+		c_thiin = {
+
+				color={ 112 222 80 }
+				color2={ 255 255 255 }
+
+				b_thiin-i = {
+				}
+			}
+		c_warriyangga = {
+
+				color={ 104 235 85 }
+				color2={ 255 255 255 }
+
+				b_warriyangga-i = {
+				}
+			}
+		}
+		d_yinhawangka = {
+
+			color={ 174 110 161 }
+			color2={ 255 255 255 }
+			capital=4891
+		c_yinhawangka = {
+
+				color={ 160 118 155 }
+				color2={ 255 255 255 }
+
+				b_yinhawangka-i = {
+				}
+			}
+		c_ngalawangka = {
+
+				color={ 160 118 155 }
+				color2={ 255 255 255 }
+
+				b_ngalawangka-i = {
+				}
+			}
+		}
+		d_jaburrara = {
+
+			color={ 104 96 150 }
+			color2={ 255 255 255 }
+			capital=1510
+		c_ngarluma = {
+
+				color={ 120 96 140 }
+				color2={ 255 255 255 }
+
+				b_ngarluma-i = {
+				}
+			}
+		c_jaburrara = {
+
+				color={ 128 110 154 }
+				color2={ 255 255 255 }
+
+				b_jaburrara-i = {
+				}
+			}
+		c_martuthunira = {
+
+				color={ 137 122 167 }
+				color2={ 255 255 255 }
+
+				b_martuthunira-i = {
+				}
+			}
+		c_nhuwala = {
+
+				color={ 144 129 172 }
+				color2={ 255 255 255 }
+
+				b_nhuwala-i = {
+				}
+			}
+		}
+		d_broome = {
+		
+			color={ 160 150 100 }
+			color2={ 255 255 255 }
+			
+			capital=3584
+			
+		c_yulparitja = {
+
+				color={ 170 160 110 }
+				color2={ 255 255 255 }
+
+				b_yulparitja-i = {
+				}
+			}
+		c_loungston = {
 
 				color={ 142 25 111 }
 				color2={ 255 255 255 }
 
-				b_loungston = {
-				}
-				b_wehlalerth = {
-				}
-				b_pturanmanthe = {
+				b_loungston-i = {
 				}
 			}
-			c_broome = {
+		c_broome = {
 
 				color={ 32 35 171 }
 				color2={ 255 255 255 }
@@ -143,110 +284,411 @@ e_australia = {
 				holy_site = dreamtime_religion
 				holy_site = dreamtime_religion_reformed
 
-				b_broome = {
+				b_broome-i = {
 				}
-				b_heukkente = {
-				}
-				b_emequaelle = {
+				b_broome-ii = {
 				}
 			}
-			c_kununurra = {
+		c_mangala= {
 
-				color={ 142 15 101 }
+				color={ 125 45 122 }
 				color2={ 255 255 255 }
 
-				b_kununurra = {
+				b_mangala-i = {
 				}
-				b_halls_creek = {
+		}
+		c_djawi= {
+
+				color={ 166 67 141 }
+				color2={ 255 255 255 }
+
+				b_djawi-i = {
 				}
-				b_bullocanpe = {
+		}
+		}
+		d_worora = {
+
+			color={ 114 78 144 }
+			color2={ 255 255 255 }
+			
+			capital=4919
+			
+		c_worora  = {
+
+				color={ 138 99 170 }
+				color2={ 255 255 255 }
+
+				b_worora-i = {
+				}
+		}
+		c_wunambul  = {
+
+				color={ 149 118 157 }
+				color2={ 255 255 255 }
+
+				b_wunambul-i = {
+				}
+		}
+		c_gamberre  = {
+
+				color={ 155 134 167 }
+				color2={ 255 255 255 }
+
+				b_gamberre-i = {
+				}
+		}
+		c_miwa  = {
+
+				color={ 168 111 179 }
+				color2={ 255 255 255 }
+
+				b_miwa-i = {
+				}
+		}
+		c_kwini  = {
+
+				color={ 190 130 166 }
+				color2={ 255 255 255 }
+
+				b_kwini-i = {
+				}
+		}
+		c_yiiji  = {
+
+				color={ 205 111 179 }
+				color2={ 255 255 255 }
+
+				b_yiiji-i = {
+				}
+		}
+		}
+		d_umida = {
+
+			color={ 240 144 101 }
+			color2={ 255 255 255 }
+			
+			capital=4916
+			
+		c_umida  = {
+
+				color={ 230 125 145 }
+				color2={ 255 255 255 }
+
+				b_umida-i = {
+				}
+		}
+		c_bardi  = {
+
+				color={ 205 99 140 }
+				color2={ 255 255 255 }
+
+				b_bardi-i = {
+				}
+		}
+		c_unggarangi  = {
+
+				color={ 192 104 148 }
+				color2={ 255 255 255 }
+
+				b_unggarangi-i = {
+				}
+		}
+		c_nimanburu  = {
+
+				color={ 180 122 165 }
+				color2={ 255 255 255 }
+
+				b_nimanburu-i = {
+				}
+		}
+		}
+		d_darumbal = {
+
+			color={ 250 75 166 }
+			color2={ 255 255 255 }
+			
+			capital=5021
+			
+		c_darumbal = {
+
+				color={ 199 98 190 }
+				color2={ 255 255 255 }
+
+				b_darumbal-i = {
+				}
+		}
+		c_guwinmal = {
+
+				color={ 240 11 170 }
+				color2={ 255 255 255 }
+
+				b_guwinmal-i = {
+				}
+		}
+		c_yuwi = {
+
+				color={ 266 40 220 }
+				color2={ 255 255 255 }
+
+				b_yuwi-i = {
+				}
+		}
+		c_giya = {
+
+				color={ 278 65 230 }
+				color2={ 255 255 255 }
+
+				b_giya-i = {
+				}
+		}
+		}
+		d_yawuru = {
+
+			color={ 222 99 133 }
+			color2={ 255 255 255 }
+			
+			capital=4910
+			
+		c_yawuru = {
+
+				color={ 199 98 190 }
+				color2={ 255 255 255 }
+
+				b_yawuru-i = {
+				}
+		}
+		c_jukun = {
+
+				color={ 215 88 114 }
+				color2={ 255 255 255 }
+
+				b_jukun-i = {
+				}
+		}
+		c_ngumbarl = {
+
+				color={ 236 74 140 }
+				color2={ 255 255 255 }
+
+				b_ngumbarl-i = {
+				}
+		}
+		c_jabirrjabirr = {
+
+				color={ 255 65 161 }
+				color2={ 255 255 255 }
+
+				b_jabirrjabirr-i = {
+				}
+		}
+		}
+		d_derbyy = {
+
+			color={ 70 80 200 }
+			color2={ 255 255 255 }
+			capital=3490
+		c_derbyy = {
+
+				color={ 74 89 210 }
+				color2={ 255 255 255 }
+
+				b_derbyy-i = {
+				}
+			}
+		c_palyku = {
+
+				color={ 74 89 210 }
+				color2={ 255 255 255 }
+
+				b_palyku-i = {
+				}
+			}
+		c_banjima = {
+
+				color={ 74 89 210 }
+				color2={ 255 255 255 }
+
+				b_banjima-i = {
+				}
+			}
+		c_kurrama = {
+
+				color={ 90 95 205 }
+				color2={ 255 255 255 }
+
+				b_kurrama-i = {
+				}
+			}	
+		}
+		d_wailwan = {
+
+			color={ 112 140 90 }
+			color2={ 255 255 255 }
+
+			capital = 5135
+			c_wailwan = {
+
+				color={ 118 144 80 }
+				color2={ 255 255 255 }
+
+				b_wailwan-i = {
+				}
+			}
+			c_sydney = {
+
+				color={ 66 68 97 }
+				color2={ 255 255 255 }
+
+				b_sydney-i = {
+				}
+			}
+			c_nganyaywana = {
+
+				color={ 140 120 70 }
+				color2={ 255 255 255 }
+
+				b_nganyaywana-i = {
+				}
+			}
+			c_bigambul = {
+
+				color={ 159 135 87 }
+				color2={ 255 255 255 }
+
+				b_bigambul-i = {
+				}
+			}
+			c_ngarabal = {
+
+				color={ 170 144 60 }
+				color2={ 255 255 255 }
+
+				b_ngarabal-i = {
 				}
 			}
 		}
-		d_pernors = { #Guide
+		d_biripii = {
 
-			color={ 121 45 187 }
+			color={ 177 133 99 }
 			color2={ 255 255 255 }
 
-			capital = 3400
+			capital = 3596 # Derbyy
+			c_biripi = {
 
-			c_perthh = {
-
-				color={ 141 115 57 }
+				color={ 166 110 80 }
 				color2={ 255 255 255 }
 
-				holy_site = dreamtime_religion
-				holy_site = dreamtime_religion_reformed
-
-				b_perthh = {
-				}
-				b_northam = {
-				}
-				b_mandurah = {
+				b_biripi-i = {
 				}
 			}
-			c_bunbury = {
+			c_yuggera = {
 
-				color={ 51 145 27 }
+				color={ 155 135 74 }
 				color2={ 255 255 255 }
 
-				b_bunbury = {
-				}
-				b_jurien_bay = {
-				}
-				b_humphesoroth = {
-				}
-				b_qyenmenra = {
-				}
-				b_geyulerenthe = {
+				b_yuggera-i = {
 				}
 			}
-			c_norseman = {
+			c_dainggatji = {
 
-				color={ 21 35 17 }
+				color={ 140 149 99 }
 				color2={ 255 255 255 }
 
-				b_norseman = {
-				}
-				b_esperance = {
-				}
-				b_cape_arid = {
+				b_dainggatji-i = {
 				}
 			}
-			c_madura = {
+			c_gumbainggin = {
 
-				color={ 151 135 127 }
+				color={ 148 170 70 }
 				color2={ 255 255 255 }
 
-				b_madura = {
-				}
-				b_huabanperent = {
-				}
-				b_zaklotere = {
+				b_gumbainggin-i = {
 				}
 			}
-			c_ravensthorpe = {
+			c_bundjalung = {
 
-				color={ 71 15 77 }
+				color={ 170 144 80 }
 				color2={ 255 255 255 }
 
-				b_ravensthorpe = {
-				}
-				b_laverton = {
-				}
-				b_merredin = {
+				b_bundjalung-i = {
 				}
 			}
-			c_albany = {
+		}
+		d_gubbi_gubbi = {
 
-				color={ 141 55 97 }
+			color={ 200 144 214 }
+			color2={ 255 255 255 }
+
+			capital = 3596 # Derbyy
+			c_gubbi_gubbi = {
+
+				color={ 140 170 240 }
 				color2={ 255 255 255 }
 
-				b_albany = {
+				b_gubbi_gubbi-i = {
 				}
-				b_quanpank = {
+			}
+			c_waka_waka = {
+
+				color={ 155 185 251 }
+				color2={ 255 255 255 }
+
+				b_waka_waka-i = {
 				}
-				b_werrionlaph = {
+			}
+			c_goreng_goreng = {
+
+				color={ 168 201 230 }
+				color2={ 255 255 255 }
+
+				b_goreng_goreng-i = {
+				}
+			}
+			c_bayali = {
+
+				color={ 174 218 215 }
+				color2={ 255 255 255 }
+
+				b_bayali-i = {
+				}
+			}
+		}
+		d_badimaya = {
+
+			color={ 64 64 244 }
+			color2={ 255 255 255 }
+
+			capital = 3596 # Derbyy
+			c_badimaya = {
+
+				color={ 61 151 164 }
+				color2={ 255 255 255 }
+
+				b_badimaya-i = {
+				}
+			}
+			c_yinggarda = {
+
+				color={ 50 141 174 }
+				color2={ 255 255 255 }
+
+				b_yinggarda-i = {
+				}
+			}
+			c_paraburdoo = {
+
+				color={ 32 125 191 }
+				color2={ 255 255 255 }
+
+				b_paraburdoo-i = {
+				}
+			}
+			c_wiluna = {
+
+				color={ 122 135 111 }
+				color2={ 255 255 255 }
+
+				b_wiluna-i = {
 				}
 			}
 		}
@@ -262,73 +704,7 @@ e_australia = {
 				color={ 226 178 27 }
 				color2={ 255 255 255 }
 
-				b_gladstone = {
-				}
-				b_mackay = {
-				}
-				b_ruhthmerkempi = {
-				}
-			}
-			c_rockhampton = {
-
-				color={ 17 128 77 }
-				color2={ 255 255 255 }
-
-				b_rockhampton = {
-				}
-				b_murreykenth = {
-				}
-				b_lucklaeamph = {
-				}
-			}
-			c_thargomindah = {
-
-				color={ 66 88 97 }
-				color2={ 255 255 255 }
-
-				b_thargomindah = {
-				}
-				b_feuropenketh= {
-				}
-				b_klampentenpe = {
-				}
-			}
-			c_winton = {
-
-				color={ 176 8 47 }
-				color2={ 255 255 255 }
-
-				b_winton = {
-				}
-				b_st_george = {
-				}
-				b_yekkampla = {
-				}
-			}
-			c_cbarcaldine = {
-
-				color={ 176 8 47 }
-				color2={ 255 255 255 }
-
-				b_cbarcaldine = {
-				}
-				b_luxlepeth = {
-				}
-				b_cullantere = {
-				}
-			}
-			c_sydney = {
-
-				color={ 66 68 97 }
-				color2={ 255 255 255 }
-
-				b_sydney = {
-				}
-				b_moree = {
-				}
-				b_walgett = {
-				}
-				b_coffs_harbour = {
+				b_gladstone-i = {
 				}
 			}
 			c_tamworthh = {
@@ -336,43 +712,567 @@ e_australia = {
 				color={ 156 38 37 }
 				color2={ 255 255 255 }
 
-				b_tamworthh = {
+				b_tamworthh-i = {
 				}
-				b_ballina = {
+			}
+			c_yiman = {
+
+				color={ 170 34 47 }
+				color2={ 255 255 255 }
+
+				b_yiman-i = {
 				}
-				b_maitland = {
+			}
+			c_wuli_wuli = {
+
+				color={ 155 70 82 }
+				color2={ 255 255 255 }
+
+				b_wuli_wuli-i = {
+				}
+			}
+			c_wadjigu = {
+
+				color={ 187 83 70 }
+				color2={ 255 255 255 }
+
+				b_wadjigu-i = {
 				}
 			}
 		}
-		d_queensland = { 
+		d_kooma = {
+		
+		color={ 190 185 49 }
+		color2={ 255 255 255 }
 
-			color={ 186 188 47 }
-			color2={ 255 255 255 }
+		capital = 5091
+		
+		c_kooma = {
 
-			capital = 3585 # Bundaberg
-
-			c_charleville = {
-
-				color={ 16 18 27 }
+				color={ 190 155 61 }
 				color2={ 255 255 255 }
 
-				b_charleville = {
+				b_kooma-i = {
 				}
-				b_romaa = {
+		}
+		c_kunja = {
+
+				color={ 174 120 40 }
+				color2={ 255 255 255 }
+
+				b_kunja-i = {
 				}
-				b_xeterpurph = {
+		}
+		c_budjari = {
+
+				color={ 199 145 70 }
+				color2={ 255 255 255 }
+
+				b_budjari-i = {
+				}
+		}
+		c_rockhampton = {
+
+				color={ 17 128 77 }
+				color2={ 255 255 255 }
+
+				b_rockhampton-i = {
 				}
 			}
-			c_brisbane = {
+		}
+		d_nguri = {
+		
+		color={ 111 170 25 }
+		color2={ 255 255 255 }
 
-				color={ 196 78 77 }
+		capital = 5037
+		
+		c_nguri = {
+
+				color={ 150 192 34 }
 				color2={ 255 255 255 }
 
-				b_brisbane = {
+				b_nguri-i = {
 				}
-				b_townsville = {
+		}
+		c_garingbal = {
+
+				color={ 174 155 55 }
+				color2={ 255 255 255 }
+
+				b_garingbal-i = {
 				}
-				b_ayrr = {
+		}
+		c_gungabula = {
+
+				color={ 141 161 55 }
+				color2={ 255 255 255 }
+
+				b_gungabula-i = {
+				}
+		}
+		c_mandandanji = {
+
+				color={ 120 179 71 }
+				color2={ 255 255 255 }
+
+				b_mandandanji-i = {
+				}
+		}
+		}
+		d_baraba_baraba = {
+		
+		color={ 140 150 90 }
+		color2={ 255 255 255 }
+
+		capital = 3154
+		
+		c_baraba_baraba = {
+
+				color={ 176 8 47 }
+				color2={ 255 255 255 }
+
+				b_baraba_baraba-i = {
+				}
+		}
+		c_wemba_wemba = {
+
+				color={ 160 30 60 }
+				color2={ 255 255 255 }
+
+				b_wemba_wemba-i = {
+				}
+		}
+		c_wadi_wadi = {
+
+				color={ 170 55 60 }
+				color2={ 255 255 255 }
+
+				b_wadi_wadi-i = {
+				}
+		}
+		c_djadjawurun = {
+
+				color={ 165 85 68 }
+				color2={ 255 255 255 }
+
+				b_djadjawurun-i = {
+				}
+		}
+		c_dadi_dadi = {
+
+				color={ 160 97 77 }
+				color2={ 255 255 255 }
+
+				b_dadi_dadi-i = {
+				}
+		}
+		}
+		d_barindji = {
+		
+		color={ 14 14 200 }
+		color2={ 255 255 255 }
+
+		capital = 5150
+		
+		c_barindji = {
+
+				color={ 80 40 200 }
+				color2={ 255 255 255 }
+
+				b_barindji-i = {
+				}
+		}
+		c_wergaia = {
+
+				color={ 50 60 208 }
+				color2={ 255 255 255 }
+
+				b_wergaia-i = {
+				}
+		}
+		c_bourke = {
+
+				color={ 166 119 61 }
+				color2={ 255 255 255 }
+
+				b_bourke-i = {
+				}
+		}
+		c_kureinji = {
+
+				color={ 80 90 180 }
+				color2={ 255 255 255 }
+
+				b_kureinji-i = {
+				}
+		}
+		}
+		d_madi_madi = {
+		
+		color={ 144 100 109 }
+		color2={ 255 255 255 }
+
+		capital = 5158
+		
+		c_madi_madi = {
+
+				color={ 190 80 99 }
+				color2={ 255 255 255 }
+
+				b_madi_madi-i = {
+				}
+		}
+		c_yitha_yitha = {
+
+				color={ 180 72 104 }
+				color2={ 255 255 255 }
+
+				b_yitha_yitha-i = {
+				}
+		}
+		c_nari_nari = {
+
+				color={ 187 60 128 }
+				color2={ 255 255 255 }
+
+				b_nari_nari-i = {
+				}
+		}
+		}
+		d_gunu = {
+		
+		color={ 111 144 55 }
+		color2={ 255 255 255 }
+
+		capital = 3504
+		
+		c_winton = {
+
+				color={ 176 8 47 }
+				color2={ 255 255 255 }
+
+				b_winton-i = {
+				}
+			}
+		c_cbarcaldine = {
+
+				color={ 176 8 47 }
+				color2={ 255 255 255 }
+
+				b_cbarcaldine-i = {
+				}
+		}
+		c_gunu = {
+
+				color={ 144 67 8 }
+				color2={ 255 255 255 }
+
+				b_gunu-i = {
+				}
+		}
+		c_barranbinya = {
+
+				color={ 160 77 18 }
+				color2={ 255 255 255 }
+
+				b_barranbinya-i = {
+				}
+		}
+		c_wongaibon = {
+
+				color={ 155 89 25 }
+				color2={ 255 255 255 }
+
+				b_wongaibon-i = {
+				}
+		}
+		}
+		d_mithaka = {
+
+			color={ 144 99 77 }
+			color2={ 255 255 255 }
+
+			capital = 5078
+			
+			c_mithaka = {
+
+				color={ 155 111 99 }
+				color2={ 255 255 255 }
+
+				b_mithaka-i = {
+				}
+			}
+			c_yarluyandi = {
+
+				color={ 169 133 104 }
+				color2={ 255 255 255 }
+
+				b_yarluyandi-i = {
+				}
+			}
+			c_wangkamana = {
+
+				color={ 130 169 122 }
+				color2={ 255 255 255 }
+
+				b_wangkamana-i = {
+				}
+			}
+			c_pitta-pitta = {
+
+				color={ 190 155 107 }
+				color2={ 255 255 255 }
+
+				b_pitta-pitta-i = {
+				}
+			}
+			c_andegerebenha = {
+
+				color={ 205 180 144 }
+				color2={ 255 255 255 }
+
+				b_andegerebenha-i = {
+				}
+			}
+		}
+		d_maiawali = {
+
+			color={ 201 180 110 }
+			color2={ 255 255 255 }
+
+			capital = 5078
+			
+			c_dharawala = {
+
+				color={ 207 155 161 }
+				color2={ 255 255 255 }
+
+				b_dharawala-i = {
+				}
+			}
+			c_maiawali = {
+
+				color={ 199 180 144 }
+				color2={ 255 255 255 }
+
+				b_maiawali-i = {
+				}
+			}
+			c_kuungkari = {
+
+				color={ 190 170 133 }
+				color2={ 255 255 255 }
+
+				b_kuungkari-i = {
+				}
+			}
+			c_iningai = {
+
+				color={ 170 190 144 }
+				color2={ 255 255 255 }
+
+				b_iningai-i = {
+				}
+			}
+			c_guwa = {
+
+				color={ 150 181 111 }
+				color2={ 255 255 255 }
+
+				b_guwa-i = {
+				}
+			}
+		}
+		d_biri = { 
+
+			color={ 201 180 110 }
+			color2={ 255 255 255 }
+
+			capital = 5020
+
+			c_biri = {
+
+				color={ 221 170 105 }
+				color2={ 255 255 255 }
+
+				b_biri-i = {
+				}
+			}
+			c_barna = {
+
+				color={ 233 160 95 }
+				color2={ 255 255 255 }
+
+				b_barna-i = {
+				}
+			}
+			c_baradha = {
+
+				color={ 245 149 80 }
+				color2={ 255 255 255 }
+
+				b_baradha-i = {
+				}
+			}
+			c_gabalbara = {
+
+				color={ 220 166 85 }
+				color2={ 255 255 255 }
+
+				b_gabalbara-i = {
+				}
+			}
+		}
+		d_bidjara = { 
+
+			color={ 155 125 70 }
+			color2={ 255 255 255 }
+
+			capital = 5040
+
+			c_bidjara = {
+
+				color={ 155 99 80 }
+				color2={ 255 255 255 }
+
+				b_bidjara-i = {
+				}
+			}
+			c_gayiri = {
+
+				color={ 129 155 80 }
+				color2={ 255 255 255 }
+
+				b_gayiri-i = {
+				}
+			}
+			c_yagalingu = {
+
+				color={ 140 140 99 }
+				color2={ 255 255 255 }
+
+				b_yagalingu-i = {
+				}
+			}
+			c_yambina = {
+
+				color={ 135 166 111 }
+				color2={ 255 255 255 }
+
+				b_yambina-i = {
+				}
+			}
+		}
+		d_garawa = { 
+
+			color={ 255 150 100 }
+			color2={ 255 255 255 }
+
+			capital = 4975 
+
+			c_garawa = {
+
+				color={ 240 140 90 }
+				color2={ 255 255 255 }
+
+				b_garawa-i = {
+				}
+			}
+			c_binbinga = {
+
+				color={ 220 120 70 }
+				color2={ 255 255 255 }
+
+				b_binbinga-i = {
+				}
+			}
+			c_warnindilyakwa = {
+
+				color={ 200 100 50 }
+				color2={ 255 255 255 }
+
+				b_warnindilyakwa-i = {
+				}
+			}
+		}
+		d_bundaberg = { 
+
+			color={ 190 195 210 }
+			color2={ 255 255 255 }
+
+			capital = 3585 
+
+			c_bundaberg = {
+
+				color={ 136 42 147 }
+				color2={ 255 255 255 }
+
+				b_bundaberg-i = {
+				}
+			}
+			c_walangama = {
+
+				color={ 159 62 167 }
+				color2={ 255 255 255 }
+
+				b_walangama-i = {
+				}
+			}
+			c_mayi-kulan = {
+
+				color={ 144 77 188 }
+				color2={ 255 255 255 }
+
+				b_mayi-kulan-i = {
+				}
+			}
+			c_mayi-thakurti = {
+
+				color={ 170 44 248 }
+				color2={ 255 255 255 }
+
+				b_mayi-thakurti-i = {
+				}
+			}
+		}
+		d_agwamin = { 
+
+			color={ 190 195 210 }
+			color2={ 255 255 255 }
+
+			capital = 5065 
+
+			c_agwamin = {
+
+				color={ 200 185 219 }
+				color2={ 255 255 255 }
+
+				b_agwamin-i = {
+				}
+			}
+			c_mbara = {
+
+				color={ 190 170 240 }
+				color2={ 255 255 255 }
+
+				b_mbara-i = {
+				}
+			}
+			c_yanga = {
+
+				color={ 77 170 99 }
+				color2={ 255 255 255 }
+
+				b_yanga-i = {
+				}
+			}
+			c_yirandali = {
+
+				color={ 219 160 231 }
+				color2={ 255 255 255 }
+
+				b_yirandali-i = {
 				}
 			}
 			c_cooktown = {
@@ -380,38 +1280,342 @@ e_australia = {
 				color={ 216 2 217 }
 				color2={ 255 255 255 }
 
-				b_cooktown = {
-				}
-				b_bamaga = {
-				}
-				b_innisfail = {
+				b_cooktown-i = {
 				}
 			}
-			c_hughenden = {
+		}
+		d_waanyi = { 
 
-				color={ 36 42 57 }
+			color={ 100 55 78 }
+			color2={ 255 255 255 }
+
+			capital = 5057 
+
+			c_mayi-kutuna = {
+
+				color={ 200 4 4 }
 				color2={ 255 255 255 }
 
-				b_hughenden = {
-				}
-				b_aebemega = {
-				}
-				b_ruklyleppe = {
+				b_mayi-kutuna-i = {
 				}
 			}
-			c_bundaberg = {
+			c_nguburinji = {
 
-				color={ 136 42 147 }
+				color={ 192 79 42 }
 				color2={ 255 255 255 }
 
-				b_bundaberg = {
-				}
-				b_pupupulurata = {
-				}
-				b_mannisturg = {
+				b_nguburinji-i = {
 				}
 			}
-			c_cairns = {
+			c_waanyi = {
+
+				color={ 147 201 68 }
+				color2={ 255 255 255 }
+
+				b_waanyi-i = {
+				}
+			}
+			c_gunindiri = {
+
+				color={ 99 88 77 }
+				color2={ 255 255 255 }
+
+				b_gunindiri-i = {
+				}
+			}
+			c_ngandji = {
+
+				color={ 17 176 203 }
+				color2={ 255 255 255 }
+
+				b_ngandji-i = {
+				}
+			}
+		}
+		d_kuthant = { 
+
+			color={ 141 99 1 }
+			color2={ 255 255 255 }
+
+			capital = 4980 
+
+			c_kuthant = {
+
+				color={ 124 77 99 }
+				color2={ 255 255 255 }
+
+				b_kuthant-i = {
+				}
+			}
+			c_kukati = {
+
+				color={ 133 88 99 }
+				color2={ 255 255 255 }
+
+				b_kukati-i = {
+				}
+			}
+			c_mingiri = {
+
+				color={ 166 66 99 }
+				color2={ 255 255 255 }
+
+				b_mingiri-i = {
+				}
+			}
+			c_ganggalida = {
+
+				color={ 177 111 77 }
+				color2={ 255 255 255 }
+
+				b_ganggalida-i = {
+				}
+			}
+			c_ganaggalanda = {
+
+				color={ 128 222 11 }
+				color2={ 255 255 255 }
+
+				b_ganaggalanda-i = {
+				}
+			}
+			c_lardil = {
+
+				color={ 200 135 24 }
+				color2={ 255 255 255 }
+
+				b_lardil-i = {
+				}
+			}
+		}
+		d_alyawarre = { 
+
+			color={ 205 170 188 }
+			color2={ 255 255 255 }
+
+			capital = 5075
+			
+			c_yalarruga = {
+
+				color={ 99 170 144 }
+				color2={ 255 255 255 }
+
+				b_yalarruga-i = {
+				}
+			}
+			c_yanda = {
+
+				color={ 133 189 177 }
+				color2={ 255 255 255 }
+
+				b_yanda-i = {
+				}
+			}
+			c_warluwarra = {
+
+				color={ 111 208 209 }
+				color2={ 255 255 255 }
+
+				b_warluwarra-i = {
+				}
+			}
+			c_kalkadoon = {
+
+				color={ 100 222 140 }
+				color2={ 255 255 255 }
+
+				b_kalkadoon-i = {
+				}
+			}
+		}
+		d_birria = { 
+
+			color={ 186 188 47 }
+			color2={ 255 255 255 }
+
+			capital = 5082 
+
+			c_charleville = {
+
+				color={ 16 18 27 }
+				color2={ 255 255 255 }
+
+				b_charleville-i = {
+				}
+			}
+			c_birria = {
+
+				color={ 50 104 99 }
+				color2={ 255 255 255 }
+
+				b_birria-i = {
+				}
+			}
+			c_wangkumara = {
+
+				color={ 74 80 150 }
+				color2={ 255 255 255 }
+
+				b_wangkumara-i = {
+				}
+			}
+			c_margany = {
+
+				color={ 88 99 170 }
+				color2={ 255 255 255 }
+
+				b_margany-i = {
+				}
+			}
+		}
+		d_kukatja = {
+
+			color={ 230 189 170 }
+			color2={ 255 255 255 }
+
+			capital = 5070
+		c_kukatja = {
+
+				color={ 211 140 160 }
+				color2={ 255 255 255 }
+
+				b_kukatja-i = {
+				}
+		}
+		c_ngarti = {
+
+				color={ 197 130 135 }
+				color2={ 255 255 255 }
+
+				b_ngarti-i = {
+				}
+		}
+		c_jaru = {
+
+				color={ 177 140 160 }
+				color2={ 255 255 255 }
+
+				b_jaru-i = {
+				}
+		}
+		c_ewihsemport = {
+
+				color={ 199 148 163 }
+				color2={ 255 255 255 }
+
+				b_ewihsemport-i = {
+				}
+		}
+		c_gurindji = {
+
+				color={ 188 138 153 }
+				color2={ 255 255 255 }
+
+				b_gurindji-i = {
+				}
+		}
+		}
+		d_kununurra = {
+
+			color={ 142 30 121 }
+			color2={ 255 255 255 }
+
+			capital = 3399
+		c_kununurra = {
+
+				color={ 142 15 101 }
+				color2={ 255 255 255 }
+
+				b_kununurra-i = {
+				}
+			}
+		c_worla = {
+
+				color={ 162 25 111 }
+				color2={ 255 255 255 }
+
+				b_worla-i = {
+				}
+			}
+		c_katherine = {
+
+				color={ 28 78 14 }
+				color2={ 255 255 255 }
+
+				b_katherine-i = {
+				}
+			}
+		c_klampeken = {
+
+				color={ 68 138 54 }
+				color2={ 255 255 255 }
+
+				b_klampeken-i = {
+				}
+			}
+		}
+		d_uutaalnganu = {
+
+			color={ 220 70 100 }
+			color2={ 255 255 255 }
+
+			capital = 4998
+		c_uutaalnganu = {
+
+				color={ 211 90 130 }
+				color2={ 255 255 255 }
+
+				b_uutaalnganu-i = {
+				}
+		}
+		c_kuuku-yau = {
+
+				color={ 222 106 200 }
+				color2={ 255 255 255 }
+
+				b_kuuku-yau-i = {
+				}
+		}
+		c_wuthathi = {
+
+				color={ 180 90 174 }
+				color2={ 255 255 255 }
+
+				b_wuthathi-i = {
+				}
+		}
+		c_yadhaigana = {
+
+				color={ 190 80 170 }
+				color2={ 255 255 255 }
+
+				b_yadhaigana-i = {
+				}
+		}
+		}
+		d_lutnigh = {
+
+			color={ 211 111 172 }
+			color2={ 255 255 255 }
+
+			capital = 4987
+		c_lutnigh = {
+
+				color={ 144 140 150 }
+				color2={ 255 255 255 }
+
+				b_lutnigh-i = {
+				}
+		}
+		c_awngthim = {
+
+				color={ 170 199 134 }
+				color2={ 255 255 255 }
+
+				b_awngthim-i = {
+				}
+		}
+		c_cairns = {
 
 				color={ 16 72 117 }
 				color2={ 255 255 255 }
@@ -423,19 +1627,404 @@ e_australia = {
 				}
 				b_coen = {
 				}
-				b_wluachemp = {
-				}
-			}
-			c_weipa = {
+		}
+		c_winda_winda = {
 
-				color={ 125 12 47 }
+				color={ 111 111 204 }
 				color2={ 255 255 255 }
 
-				b_weipa = {
+				b_winda_winda-i = {
 				}
-				b_adelenktha = {
+		}
+		c_anguthimri = {
+
+				color={ 144 170 247 }
+				color2={ 255 255 255 }
+
+				b_anguthimri-i = {
 				}
-				b_juxlekemt = {
+		}
+		}
+		d_wik = {
+
+			color={ 240 170 109 }
+			color2={ 255 255 255 }
+
+			capital = 4987
+		c_wik = {
+
+				color={ 240 150 129 }
+				color2={ 255 255 255 }
+
+				b_wik-i = {
+				}
+		}
+		c_bakanh = {
+
+				color={ 229 130 151 }
+				color2={ 255 255 255 }
+
+				b_bakanh-i = {
+				}
+		}
+		c_kaantju = {
+
+				color={ 211 99 170 }
+				color2={ 255 255 255 }
+
+				b_kaantju-i = {
+				}
+		}
+		c_kuuku-yani = {
+
+				color={ 219 80 161 }
+				color2={ 255 255 255 }
+
+				b_kuuku-yani-i = {
+				}
+		}
+		c_umbindhamu = {
+
+				color={ 170 100 189 }
+				color2={ 255 255 255 }
+
+				b_umbindhamu-i = {
+				}
+		}
+		}
+		d_yupangathi = {
+
+			color={ 222 210 100 }
+			color2={ 255 255 255 }
+
+			capital = 5008
+		c_yupangathi = {
+
+				color={ 230 230 110 }
+				color2={ 255 255 255 }
+
+				b_yupangathi-i = {
+				}
+		}
+		c_mpalitjanh = {
+
+				color={ 210 170 110 }
+				color2={ 255 255 255 }
+
+				b_mpalitjanh-i = {
+				}
+		}
+		c_anggamudi = {
+
+				color={ 201 110 119 }
+				color2={ 255 255 255 }
+
+				b_anggamudi-i = {
+				}
+		}
+		}
+		d_koknar = {
+
+			color={ 222 170 78 }
+			color2={ 255 255 255 }
+
+			capital = 4983
+		c_koknar = {
+
+				color={ 210 180 68 }
+				color2={ 255 255 255 }
+
+				b_koknar-i = {
+				}
+		}
+		c_koko-bera = {
+
+				color={ 190 140 200 }
+				color2={ 255 255 255 }
+
+				b_koko-bera-i = {
+				}
+		}
+		c_yir_yoront = {
+
+				color={ 170 149 210 }
+				color2={ 255 255 255 }
+
+				b_yir_yoront-i = {
+				}
+		}
+		c_thaayorre = {
+
+				color={ 150 166 219 }
+				color2={ 255 255 255 }
+
+				b_thaayorre-i = {
+				}
+		}
+		}
+		d_kunjen = {
+
+			color={ 240 190 99 }
+			color2={ 255 255 255 }
+
+			capital = 4988
+		c_kunjen = {
+
+				color={ 211 166 90 }
+				color2={ 255 255 255 }
+
+				b_kunjen-i = {
+				}
+		}
+		c_kokomini = {
+
+				color={ 195 170 111 }
+				color2={ 255 255 255 }
+
+				b_kokomini-i = {
+				}
+		}
+		c_kurtjar = {
+
+				color={ 160 201 166 }
+				color2={ 255 255 255 }
+
+				b_kurtjar-i = {
+				}
+		}
+		c_takalak = {
+
+				color={ 179 231 144 }
+				color2={ 255 255 255 }
+
+				b_takalak-i = {
+				}
+		}
+		}
+		d_lamalama = {
+
+			color={ 240 190 99 }
+			color2={ 255 255 255 }
+
+			capital = 4993
+		c_lamalama = {
+
+				color={ 230 170 79 }
+				color2={ 255 255 255 }
+
+				b_lamalama-i = {
+				}
+		}
+		c_mutumi = {
+
+				color={ 231 140 99 }
+				color2={ 255 255 255 }
+
+				b_mutumi-i = {
+				}
+		}
+		c_kokowarra = {
+
+				color={ 210 131 70 }
+				color2={ 255 255 255 }
+
+				b_kokowarra-i = {
+				}
+		}
+		c_guugu_yimithirr = {
+
+				color={ 219 110 90 }
+				color2={ 255 255 255 }
+
+				b_guugu_yimithirr-i = {
+				}
+		}
+		c_kuku-yalami = {
+
+				color={ 198 139 94 }
+				color2={ 255 255 255 }
+
+				b_kuku-yalami-i = {
+				}
+		}
+		}
+		d_ngawaygi = {
+
+			color={ 215 201 115 }
+			color2={ 255 255 255 }
+
+			capital = 5014
+		c_nyawaygi = {
+
+				color={ 199 180 160 }
+				color2={ 255 255 255 }
+
+				b_nyawaygi-i = {
+				}
+		}
+		c_wargamaygan = {
+
+				color={ 209 199 142 }
+				color2={ 255 255 255 }
+
+				b_wargamaygan-i = {
+				}
+		}
+		c_djirbalngan = {
+
+				color={ 219 190 174 }
+				color2={ 255 255 255 }
+
+				b_djirbalngan-i = {
+				}
+		}
+		c_yidinjiji = {
+
+				color={ 241 180 142 }
+				color2={ 255 255 255 }
+
+				b_yidinjiji-i = {
+				}
+		}
+		c_djubugandji = {
+
+				color={ 230 169 121 }
+				color2={ 255 255 255 }
+
+				b_djubugandji-i = {
+				}
+		}
+		}
+		d_miyan = { 
+
+			color={ 240 230 190 }
+			color2={ 255 255 255 }
+
+			capital = 5047
+		c_miyan = {
+
+				color={ 233 210 180 }
+				color2={ 255 255 255 }
+
+				b_miyan-i = {
+				}
+		}
+		c_yagalingu = {
+
+				color={ 215 199 200 }
+				color2={ 255 255 255 }
+
+				b_yagalingu-i = {
+				}
+		}
+		c_yambina = {
+
+				color={ 249 180 170 }
+				color2={ 255 255 255 }
+
+				b_yambina-i = {
+				}
+		}
+		c_wangan = {
+
+				color={ 222 198 142 }
+				color2={ 255 255 255 }
+
+				b_wangan-i = {
+				}
+		}
+		}
+		d_yuru = { 
+
+			color={ 250 99 55 }
+			color2={ 255 255 255 }
+
+			capital = 5016
+		c_bindal = {
+
+				color={ 211 124 166 }
+				color2={ 255 255 255 }
+
+				b_bindal-i = {
+				}
+		}
+		c_weipa = {
+
+				color={ 200 155 172 }
+				color2={ 255 255 255 }
+
+				b_weipa-i = {
+				}
+		}
+		c_yuru = {
+
+				color={ 177 136 140 }
+				color2={ 255 255 255 }
+
+				b_yuru-i = {
+				}
+		}
+		c_brisbane = {
+
+				color={ 196 78 77 }
+				color2={ 255 255 255 }
+
+				b_brisbane-i = {
+				}
+			}
+		}
+		d_kaytej = {
+		
+			color={ 186 188 47 }
+			color2={ 255 255 255 }
+
+			capital = 3585 # Bundaberg
+		c_kaytej = {
+
+				color={ 140 24 97 }
+				color2={ 255 255 255 }
+
+				b_kaytej-i = {
+				}
+		}
+		c_bularna = {
+
+				color={ 200 69 111 }
+				color2={ 255 255 255 }
+
+				b_bularna-i = {
+				}
+		}
+		c_alyawarre = {
+
+				color={ 200 44 120 }
+				color2={ 255 255 255 }
+
+				b_alyawarre-i = {
+				}
+		}
+		c_anmatyerre = {
+
+				color={ 212 77 142 }
+				color2={ 255 255 255 }
+
+				b_anmatyerre-i = {
+				}
+		}
+		c_hughenden = {
+
+				color={ 36 42 57 }
+				color2={ 255 255 255 }
+
+				b_hughenden-i = {
+				}
+			}
+		c_alice_springs = {
+
+				color={ 48 80 54 }
+				color2={ 255 255 255 }
+
+				b_alice_springs-i = {
 				}
 			}
 		}
@@ -459,9 +2048,7 @@ e_australia = {
 
 				b_canberra = {
 				}
-				b_orangee = {
-				}
-				b_dubbo = {
+				b_canberra-ii = {
 				}
 			}
 			c_goulburn = {
@@ -469,49 +2056,7 @@ e_australia = {
 				color={ 155 129 111 }
 				color2={ 255 255 255 }
 
-				b_goulburn = {
-				}
-				b_vurklaper = {
-				}
-				b_quarentepalle = {
-				}
-			}
-			c_bourke = {
-
-				color={ 166 119 61 }
-				color2={ 255 255 255 }
-
-				b_bourke = {
-				}
-				b_bathurst = {
-				}
-				b_wollongong = {
-				}
-			}
-			c_gilgandra = {
-
-				color={ 36 159 21 }
-				color2={ 255 255 255 }
-
-				b_gilgandra = {
-				}
-				b_veunpuantapha = {
-				}
-				b_golotorosolon = {
-				}
-			}
-			c_melbourne = {
-
-				color={ 223 65 136 }
-				color2={ 255 255 255 }
-
-				b_melbourne = {
-				}
-				b_bendigo = {
-				}
-				b_ballarat = {
-				}
-				b_tibooburra = {
+				b_goulburn-i = {
 				}
 			}
 			c_geelong = {
@@ -519,11 +2064,103 @@ e_australia = {
 				color={ 133 85 46 }
 				color2={ 255 255 255 }
 
-				b_geelong = {
+				b_geelong-i = {
 				}
-				b_portland = {
+			}
+			c_ngarigo = {
+
+				color={ 115 65 86 }
+				color2={ 255 255 255 }
+
+				b_ngarigo-i = {
 				}
-				b_wilcannia = {
+			}
+		}
+		d_gulidjan ={
+			color={ 155 170 200 }
+			color2={ 255 255 255 }
+
+			capital = 5109
+			c_gadubanud = {
+
+				color={ 110 170 160 }
+				color2={ 255 255 255 }
+
+				b_gadubanud-i = {
+				}
+			}
+			c_gulidjan = {
+
+				color={ 140 140 150 }
+				color2={ 255 255 255 }
+
+				b_gulidjan-i = {
+				}
+			}
+			c_wathaurong = {
+
+				color={ 151 135 165 }
+				color2={ 255 255 255 }
+
+				b_wathaurong-i = {
+				}
+			}
+			c_wurundjeri = {
+
+				color={ 160 151 189 }
+				color2={ 255 255 255 }
+
+				b_wurundjeri-i = {
+				}
+			}
+			c_bunurong = {
+
+				color={ 180 165 170 }
+				color2={ 255 255 255 }
+
+				b_bunurong-i = {
+				}
+			}
+		}
+		d_bourke ={
+			color={ 140 139 101 }
+			color2={ 255 255 255 }
+
+			capital = 3412
+			c_melbourne = {
+
+				color={ 223 65 136 }
+				color2={ 255 255 255 }
+
+				b_melbourne-i = {
+				}
+			}
+		}
+		d_tasmania = {
+			color={ 140 139 101 }
+			color2={ 255 255 255 }
+
+			capital = 2415
+			c_tyerremotepanner = {
+
+				color={ 49 131 185 }
+				color2={ 255 255 255 }
+
+				b_kinimathatakinta = {
+				}
+				b_launceston_2 = {
+				}
+				b_campbell_town = {
+				}
+			}
+			c_lairmairrener = {
+
+				color={ 32 145 174 }
+				color2={ 255 255 255 }
+
+				b_waddamana = {
+				}
+				b_wayatinah = {
 				}
 			}
 			c_tasmania = {
@@ -531,15 +2168,348 @@ e_australia = {
 				color={ 20 139 171 }
 				color2={ 255 255 255 }
 
+				b_southwest = {
+				}
+			}
+			c_tommeginne = {
+
+				color={ 47 141 131 }
+				color2={ 255 255 255 }
+
+				b_tommeginne = {
+				}
+				b_burnie = {
+				}
+				b_devonport = {
+				}
+				b_ulverstone = {
+				}
+			}
+			c_pyemmairre = {
+
+				color={ 34 125 151 }
+				color2={ 255 255 255 }
+
+				b_pyemmairre = {
+				}
+				b_st_helens_2 = {
+				}
+				b_bicheno = {
+				}
+				b_bridport = {
+				}
+			}
+			c_paredarerma = {
+
+				color={ 67 148 147 }
+				color2={ 255 255 255 }
 				b_hobart = {
 				}
-				b_strathgordon = {
+				b_paredarerma = {
 				}
-				b_launcestonn = {
+				b_triabunna = {
 				}
-				b_scottsdale = {
+				b_swansea_2 = {
+				}
+				b_rheban = {
+				}
+			}
+			c_nuenonne = {
+
+				color={ 55 158 132 }
+				color2={ 255 255 255 }
+
+				b_southport = {
+				}
+				b_cygnet = {
+				}
+				b_geeveston = {
+				}
+			}
+			c_peerapper = {
+
+				color={ 40 145 163 }
+				color2={ 255 255 255 }
+
+				b_peerapper = {
 				}
 				b_marrawah = {
+				}
+				b_redpa = {
+				}
+			}
+		}
+		d_perthh = {
+			color={ 150 100 200 }
+			color2={ 255 255 255 }
+			capital = 3400 # Perthh	
+			c_perthh = {
+				color={ 144 53 119 }
+				color2={ 255 255 255 }
+				holy_site = dreamtime_religion
+				holy_site = dreamtime_religion_reformed
+				b_perthh-i={
+				}
+				b_perthh-ii={
+				}
+			}
+			c_bunbury = {
+				color={ 135 60 125 }
+				color2={ 255 255 255 }
+				b_bunbury-i={
+				}
+			}
+			c_balardung = {
+				color={ 150 72 111 }
+				color2={ 255 255 255 }
+				b_balardung-i={
+				}
+				b_balardung-ii={
+				}
+			}
+			c_nyaki-nyaki = {
+				color={ 111 80 118 }
+				color2={ 255 255 255 }
+				b_nyaki-nyaki-i={
+				}
+			}
+			c_wudjari = {
+				color={ 99 87 133 }
+				color2={ 255 255 255 }
+				b_wudjari-i={
+				}
+				b_wudjari-ii={
+				}
+			}
+		}
+		d_ngatjumay = {
+			color={ 170 79 149 }
+			color2={ 255 255 255 }
+			capital = 4896 	
+			c_ngatjumay = {
+				color={ 175 87 132 }
+				color2={ 255 255 255 }
+				b_ngatjumay-i={
+				}
+			}
+			c_ravensthorpe = {
+				color={ 71 15 77 }
+				color2={ 255 255 255 }
+				b_ravensthorpe-i = {
+				}
+			}
+			c_norseman = {
+				color={ 21 35 17 }
+				color2={ 255 255 255 }
+				b_norseman-i = {
+				}
+			}
+			c_madura = {
+				color={ 151 135 127 }
+				color2={ 255 255 255 }
+				b_madura-i = {
+				}
+			}
+		}
+		d_carnarvon ={
+			color={ 200 155 144 }
+			color2={ 255 255 255 }
+			capital = 3491	
+			c_carnarvon = {
+
+				color={ 210 160 149 }
+				color2={ 255 255 255 }
+
+				b_carnarvon-i = {
+				}
+			}
+			c_exmouth = {
+
+				color={ 212 168 141 }
+				color2={ 255 255 255 }
+
+				b_exmouth-i = {
+				}
+			}
+			c_pintupi = {
+
+				color={ 222 140 120 }
+				color2={ 255 255 255 }
+
+				b_pintupi-i = {
+				}
+			}
+			c_ngatatjara = {
+
+				color={ 216 148 138 }
+				color2={ 255 255 255 }
+
+				b_ngatatjara-i = {
+				}
+			}
+			c_anangu = {
+
+				color={ 208 141 147 }
+				color2={ 255 255 255 }
+
+				b_anangu-i = {
+				}
+			}
+		}
+		d_nana ={
+			color={ 155 141 150 }
+			color2={ 255 255 255 }
+			capital = 3577	
+			c_nana = {
+
+				color={ 160 127 90 }
+				color2={ 255 255 255 }
+
+				b_nana-i = {
+				}
+			}
+			c_kuwarra = {
+
+				color={ 162 122 96 }
+				color2={ 255 255 255 }
+
+				b_kuwarra-i = {
+				}
+			}
+			c_kalbarri = {
+
+				color={ 170 114 99 }
+				color2={ 255 255 255 }
+
+				b_kalbarri-i = {
+				}
+			}
+			c_walula = {
+
+				color={ 178 100 80 }
+				color2={ 255 255 255 }
+
+				b_walula-i = {
+				}
+			}
+		}
+		d_albany2 ={
+			color={ 130 111 166 }
+			color2={ 255 255 255 }
+			capital = 3577	
+			c_albany = {
+
+				color={ 141 55 97 }
+				color2={ 255 255 255 }
+
+				b_albany-i = {
+				}
+			}
+			c_ngalea = {
+
+				color={ 121 70 70 }
+				color2={ 255 255 255 }
+
+				b_ngalea-i = {
+				}
+			}
+			c_nakako = {
+
+				color={ 108 79 60 }
+				color2={ 255 255 255 }
+
+				b_nakako-i = {
+				}
+			}
+			c_mandji = {
+
+				color={ 129 92 68 }
+				color2={ 255 255 255 }
+
+				b_mandji-i = {
+				}
+			}
+			c_tjalkanti = {
+
+				color={ 144 98 70 }
+				color2={ 255 255 255 }
+
+				b_tjalkanti-i = {
+				}
+			}
+		}
+		d_kaniyang = {
+			color={ 210 33 141 }
+			color2={ 255 255 255 }
+			capital = 2398 # Goreng	
+			c_goreng = {
+				color={ 150 45 111 }
+				color2={ 255 255 255 }
+				b_goreng-i={
+				}
+				b_goreng-ii={
+				}
+				b_goreng-iii={
+				}
+			}
+			c_pinjarup = {
+				color={ 124 51 122 }
+				color2={ 255 255 255 }
+				b_pinjarup-i={
+				}
+				b_pinjarup-ii={
+				}
+			}
+			c_wiiman = {
+				color={ 113 46 129 }
+				color2={ 255 255 255 }
+				b_wiiman-i={
+				}
+				b_wiiman-ii={
+				}
+			}
+			c_minang = {
+				color={ 110 55 133 }
+				color2={ 255 255 255 }
+				b_minang-i={
+				}
+				b_minang-ii={
+				}
+				b_minang-iii={
+				}
+			}
+			c_kaniyang = {
+				color={ 125 67 138 }
+				color2={ 255 255 255 }
+				b_kaniyang-i={
+				}
+				b_kaniyang-ii={
+				}
+				b_kaniyang-iii={
+				}
+				b_kaniyang-iv={
+				}
+			}
+			c_wardandi = {
+				color={ 101 71 141 }
+				color2={ 255 255 255 }
+				b_wardandi-i={
+				}
+				b_wardandi-ii={
+				}
+				b_wardandi-iii={
+				}
+			}
+			c_bibbulman = {
+				color={ 97 71 148 }
+				color2={ 255 255 255 }
+				b_bibbulman-i={
+				}
+				b_bibbulman-ii={
+				}
+				b_bibbulman-iii={
+				}
+				b_bibbulman-iv={
 				}
 			}
 		}
@@ -555,35 +2525,7 @@ e_australia = {
 				color={ 18 210 104 }
 				color2={ 255 255 255 }
 
-				b_cloncurry = {
-				}
-				b_mount_isa = {
-				}
-				b_garonsuena = {
-				}
-			}
-			c_augustaa = {
-
-				color={ 168 230 24 }
-				color2={ 255 255 255 }
-
-				b_augustaa = {
-				}
-				b_cunkupusta = {
-				}
-				b_jeilandarhan = {
-				}
-			}
-			c_ewihsemport = {
-
-				color={ 43 140 54 }
-				color2={ 255 255 255 }
-
-				b_ewihsemport = {
-				}
-				b_tenypensah = {
-				}
-				b_zelithkech = {
+				b_cloncurry-i = {
 				}
 			}
 			c_petermann = {
@@ -591,23 +2533,11 @@ e_australia = {
 				color={ 48 160 127 }
 				color2={ 255 255 255 }
 
-				b_petermann = {
+				b_petermann-i = {
 				}
-				b_mount_woodroffe = {
+				b_petermann-ii = {
 				}
-				b_tennant_creek = {
-				}
-			}
-			c_tennant = {
-
-				color={ 178 120 35 }
-				color2={ 255 255 255 }
-
-				b_tennant = {
-				}
-				b_woodroffe = {
-				}
-				b_tueannape = {
+				b_petermann-iii = {
 				}
 			}
 			c_maria = {
@@ -635,47 +2565,151 @@ e_australia = {
 				}
 			}
 		}
-		d_northern_territory = { 
+		d_yandruwandha = { 
 
-			color={ 28 130 144 }
+			color={ 111 132 85 }
 			color2={ 255 255 255 }
 
-			capital = 3402 #
+			capital = 5142
+			c_yandruwandha = {
 
-			c_katherine = {
-
-				color={ 28 78 14 }
+				color={ 137 144 96 }
 				color2={ 255 255 255 }
 
-				b_katherine = {
-				}
-				b_sexinpropr = {
-				}
-				b_lexaxpiwe = {
+				b_yandruwandha-i = {
 				}
 			}
-			c_davenport = {
+			c_karenggapa = {
 
-				color={ 168 30 164 }
+				color={ 141 166 79 }
 				color2={ 255 255 255 }
 
-				b_davenport = {
-				}
-				b_lekpenmente = {
-				}
-				b_quanepinai = {
+				b_karenggapa-i = {
 				}
 			}
-			c_darwin = {
+			c_kullila = {
 
-				color={ 118 120 34 }
+				color={ 157 191 73 }
 				color2={ 255 255 255 }
 
-				b_darwin = {
+				b_kullila-i = {
 				}
-				b_alexraprand = {
+			}
+			c_yawrawarka = {
+
+				color={ 172 141 66 }
+				color2={ 255 255 255 }
+
+				b_yawrawarka-i = {
 				}
-				b_top_springs = {
+			}
+		}
+		d_yolngu = { 
+
+			color={ 175 125 90 }
+			color2={ 255 255 255 }
+
+			capital = 5063
+			c_yolngu = {
+
+				color={ 44 145 80 }
+				color2={ 255 255 255 }
+
+				b_yolngu-i = {
+				}
+			}
+			c_ngandi = {
+
+				color={ 80 133 90 }
+				color2={ 255 255 255 }
+
+				b_ngandi-i = {
+				}
+			}
+			c_ngalkbun = {
+
+				color={ 114 74 140 }
+				color2={ 255 255 255 }
+
+				b_ngalkbun-i = {
+				}
+			}
+			c_rembarnga = {
+
+				color={ 138 55 166 }
+				color2={ 255 255 255 }
+
+				b_rembarnga-i = {
+				}
+			}
+			c_dangbon = {
+
+				color={ 177 80 111 }
+				color2={ 255 255 255 }
+
+				b_dangbon-i = {
+				}
+			}
+		}
+		d_ngaliwuru = { 
+
+			color={ 250 25 100 }
+			color2={ 255 255 255 }
+
+			capital = 4957
+			c_karangpurru = {
+
+				color={ 212 79 131 }
+				color2={ 255 255 255 }
+
+				b_karangpurru-i = {
+				}
+			}
+			c_ngaliwuru = {
+
+				color={ 230 66 110 }
+				color2={ 255 255 255 }
+
+				b_ngaliwuru-i = {
+				}
+			}
+			c_wardaman = {
+
+				color={ 215 88 138 }
+				color2={ 255 255 255 }
+
+				b_wardaman-i = {
+				}
+			}
+			c_yangman = {
+
+				color={ 183 76 158 }
+				color2={ 255 255 255 }
+
+				b_yangman-i = {
+				}
+			}
+		}
+		d_warumungu = { 
+
+			color={ 215 78 41 }
+			color2={ 255 255 255 }
+
+			capital = 5063
+			c_warumungu = {
+
+				color={ 222 100 50 }
+				color2={ 255 255 255 }
+
+				b_warumungu-i = {
+				}
+			}
+			c_augustaa = {
+
+				color={ 168 230 24 }
+				color2={ 255 255 255 }
+
+				b_augustaa-i = {
 				}
 			}
 			c_hurelthport = {
@@ -683,55 +2717,882 @@ e_australia = {
 				color={ 38 60 194 }
 				color2={ 255 255 255 }
 
-				b_hurelthport = {
-				}
-				b_teyleppe = {
-				}
-				b_quarmeareo = {
+				b_hurelthport-i = {
 				}
 			}
-			c_alice_springs = {
+			c_mudburra = {
 
-				color={ 48 80 54 }
+				color={ 90 75 140 }
 				color2={ 255 255 255 }
 
-				b_alice_springs = {
-				}
-				b_dusulkapanth = {
-				}
-				b_cazuperlaeon = {
+				b_mudburra-i = {
 				}
 			}
-			c_klampeken = {
+			c_warlmanpa = {
 
-				color={ 68 138 54 }
+				color={ 103 170 160 }
 				color2={ 255 255 255 }
 
-				b_klampeken = {
+				b_warlmanpa-i = {
 				}
-				b_faheuplek = {
+			}
+			c_bilinara = {
+
+				color={ 140 190 134 }
+				color2={ 255 255 255 }
+
+				b_bilinara-i = {
 				}
-				b_neneyelem = {
+			}
+			}
+		d_alawa = {
+
+			color={ 123 210 66 }
+			color2={ 255 255 255 }
+
+			capital = 4961
+			c_alawa = {
+
+				color={ 150 180 54 }
+				color2={ 255 255 255 }
+
+				b_alawa-i = {
+				}
+			}
+			c_mara = {
+
+				color={ 188 45 214 }
+				color2={ 255 255 255 }
+
+				b_mara-i = {
+				}
+			}
+			c_mangarayi = {
+
+				color={ 144 99 123 }
+				color2={ 255 255 255 }
+
+				b_mangarayi-i = {
+				}
+			}
+			c_ngalakan = {
+
+				color={ 142 70 169 }
+				color2={ 255 255 255 }
+
+				b_ngalakan-i = {
 				}
 			}
 		}
-		d_south_australia = { #
+		d_tiwi = { 
+
+			color={ 140 166 68 }
+			color2={ 255 255 255 }
+
+			capital = 4946
+			c_tiwi = {
+
+				color={ 190 144 98 }
+				color2={ 255 255 255 }
+
+				b_tiwi-i = {
+				}
+			}
+			c_woolna = {
+
+				color={ 174 168 74 }
+				color2={ 255 255 255 }
+
+				b_woolna-i = {
+				}
+			}
+			c_larrakia = {
+
+				color={ 100 145 114 }
+				color2={ 255 255 255 }
+
+				b_larrakia-i = {
+				}
+			}
+			c_kungarakany = {
+
+				color={ 130 166 20 }
+				color2={ 255 255 255 }
+
+				b_kungarakany-i = {
+				}
+			}
+		}
+		d_wunigark = {
+
+			color={ 200 150 90 }
+			color2={ 255 255 255 }
+
+			capital = 4947
+		c_wunigark = {
+
+				color={ 220 125 79 }
+				color2={ 255 255 255 }
+
+				b_wunigark-i = {
+				}
+		}
+		c_gunwinggu = {
+
+				color={ 170 160 90 }
+				color2={ 255 255 255 }
+
+				b_gunwinggu-i = {
+				}
+		}
+		c_klundjeymi = {
+
+				color={ 166 144 111 }
+				color2={ 255 255 255 }
+
+				b_klundjeymi-i = {
+				}
+		}
+		c_amarak = {
+
+				color={ 144 126 201 }
+				color2={ 255 255 255 }
+
+				b_amarak-i = {
+				}
+		}
+		c_iwaidja = {
+
+				color={ 192 111 99 }
+				color2={ 255 255 255 }
+
+				b_iwaidja-i = {
+				}
+		}
+		}
+		d_doolboong = { 
+
+			color={ 140 199 70 }
+			color2={ 255 255 255 }
+
+			capital = 4926
+		c_doolboong = {
+
+				color={ 44 150 198 }
+				color2={ 255 255 255 }
+
+				b_doolboong-i = {
+				}
+		}
+		c_jaminjung = {
+
+				color={ 230 55 34 }
+				color2={ 255 255 255 }
+
+				b_jaminjung-i = {
+				}
+		}
+		c_nangah = {
+
+				color={ 200 25 12 }
+				color2={ 255 255 255 }
+
+				b_nangah-i = {
+				}
+		}
+		c_ngarinman = {
+
+				color={ 190 40 80 }
+				color2={ 255 255 255 }
+
+				b_ngarinman-i = {
+				}
+		}
+		}
+		d_malakmalak = { 
+
+			color={ 199 180 201 }
+			color2={ 255 255 255 }
+
+			capital = 4935
+		c_malakmalak = {
+
+				color={ 180 110 249 }
+				color2={ 255 255 255 }
+
+				b_malakmalak-i = {
+				}
+		}
+		c_ngangiwumirri = {
+
+				color={ 84 74 254 }
+				color2={ 255 255 255 }
+
+				b_ngangiwumirri-i = {
+				}
+		}
+		c_marramanindjdji = {
+
+				color={ 101 74 254 }
+				color2={ 255 255 255 }
+
+				b_marramanindjdji-i = {
+				}
+		}
+		c_murrinh-patha = {
+
+				color={ 201 104 199 }
+				color2={ 255 255 255 }
+
+				b_murrinh-patha-i = {
+				}
+		}
+		}
+		d_bukurnidja = { 
+
+			color={ 230 220 235 }
+			color2={ 255 255 255 }
+
+			capital = 4950
+		c_bukurnidja = {
+
+				color={ 150 190 244 }
+				color2={ 255 255 255 }
+
+				b_bukurnidja-i = {
+				}
+		}
+		c_ngombur = {
+
+				color={ 130 140 222 }
+				color2={ 255 255 255 }
+
+				b_ngombur-i = {
+				}
+		}
+		c_konbudj = {
+
+				color={ 155 163 211 }
+				color2={ 255 255 255 }
+
+				b_konbudj-i = {
+				}
+		}
+		c_mbukarla = {
+
+				color={ 170 140 160 }
+				color2={ 255 255 255 }
+
+				b_mbukarla-i = {
+				}
+		}
+		c_limilngan = {
+
+				color={ 165 170 110 }
+				color2={ 255 255 255 }
+
+				b_limilngan-i = {
+				}
+		}
+		}
+		d_kuwema = { 
+
+			color={ 178 200 135 }
+			color2={ 255 255 255 }
+
+			capital = 4933
+		c_kuwema = {
+
+				color={ 160 207 140 }
+				color2={ 255 255 255 }
+
+				b_kuwema-i = {
+				}
+		}
+		c_tjerrati = {
+
+				color={ 140 190 111 }
+				color2={ 255 255 255 }
+
+				b_tjerrati-i = {
+				}
+		}
+		c_wadyiginy = {
+
+				color={ 35 174 100 }
+				color2={ 255 255 255 }
+
+				b_wadyiginy-i = {
+				}
+		}
+		c_maranunggu = {
+
+				color={ 69 99 130 }
+				color2={ 255 255 255 }
+
+				b_maranunggu-i = {
+				}
+		}
+		}
+		d_taungurong = { 
+
+			color={ 140 166 68 }
+			color2={ 255 255 255 }
+
+			capital = 5113
+			c_taungurong = {
+
+				color={ 150 180 54 }
+				color2={ 255 255 255 }
+
+				b_taungurong-i = {
+				}
+			}
+			c_waveroo = {
+
+				color={ 167 141 49 }
+				color2={ 255 255 255 }
+
+				b_waveroo-i = {
+				}
+			}
+			c_yorta_yorta = {
+
+				color={ 179 125 40 }
+				color2={ 255 255 255 }
+
+				b_yorta_yorta-i = {
+				}
+			}
+			c_ngurrailam = {
+
+				color={ 170 101 54 }
+				color2={ 255 255 255 }
+
+				b_ngurrailam-i = {
+				}
+			}
+		}
+		d_dieri = { 
+
+			color={ 200 189 85 }
+			color2={ 255 255 255 }
+
+			capital = 5143
+			c_dieri = {
+
+				color={ 180 140 60 }
+				color2={ 255 255 255 }
+
+				b_dieri-i = {
+				}
+			}
+			c_tennant = {
+
+				color={ 178 120 35 }
+				color2={ 255 255 255 }
+
+				b_tennant-i = {
+				}
+			}
+			c_thargomindah = {
+
+				color={ 66 88 97 }
+				color2={ 255 255 255 }
+
+				b_thargomindah-i = {
+				}
+			}
+			c_dhirari = {
+
+				color={ 140 180 77 }
+				color2={ 255 255 255 }
+
+				b_dhirari-i = {
+				}
+			}
+			c_karangura = {
+
+				color={ 151 170 88 }
+				color2={ 255 255 255 }
+
+				b_karangura-i = {
+				}
+			}
+			c_ngamini = {
+
+				color={ 170 149 66 }
+				color2={ 255 255 255 }
+
+				b_ngamini-i = {
+				}
+			}
+		}
+		d_pirlatapa = { 
+
+			color={ 140 166 68 }
+			color2={ 255 255 255 }
+
+			capital = 5143
+			c_pirlatapa = {
+
+				color={ 111 144 29 }
+				color2={ 255 255 255 }
+
+				b_pirlatapa-i = {
+				}
+			}
+			c_gilgandra = {
+
+				color={ 36 159 21 }
+				color2={ 255 255 255 }
+
+				b_gilgandra-i = {
+				}
+			}
+			c_bandjigali = {
+
+				color={ 75 156 32 }
+				color2={ 255 255 255 }
+
+				b_bandjigali-i = {
+				}
+			}
+		}
+		d_gundungurra = { 
+
+			color={ 200 170 209 }
+			color2={ 255 255 255 }
+
+			capital = 5130
+			c_gundungurra = {
+
+				color={ 180 150 200 }
+				color2={ 255 255 255 }
+
+				b_gundungurra-i = {
+				}
+			}
+			c_geawegal = {
+
+				color={ 155 155 20 }
+				color2={ 255 255 255 }
+
+				b_geawegal-i = {
+				}
+			}
+			c_dharug = {
+
+				color={ 171 159 213 }
+				color2={ 255 255 255 }
+
+				b_dharug-i = {
+				}
+			}
+			c_darkinung = {
+
+				color={ 149 167 222 }
+				color2={ 255 255 255 }
+
+				b_darkinung-i = {
+				}
+			}
+			c_wonnarua = {
+
+				color={ 135 177 211 }
+				color2={ 255 255 255 }
+
+				b_wonnarua-i = {
+				}
+			}
+		}
+		d_turuwal = { 
+
+			color={ 166 177 45 }
+			color2={ 255 255 255 }
+
+			capital = 5124
+
+			c_turuwal = {
+
+				color={ 160 180 60 }
+				color2={ 255 255 255 }
+
+				b_turuwal-i = {
+				}
+			}
+			c_eora = {
+
+				color={ 168 188 40 }
+				color2={ 255 255 255 }
+
+				b_eora-i = {
+				}
+			}
+			c_kuring-gai = {
+
+				color={ 160 192 49 }
+				color2={ 255 255 255 }
+
+				b_kuring-gai-i = {
+				}
+			}
+			c_awabakal = {
+
+				color={ 180 174 80 }
+				color2={ 255 255 255 }
+
+				b_awabakal-i = {
+				}
+			}
+			c_worimi = {
+
+				color={ 145 184 74 }
+				color2={ 255 255 255 }
+
+				b_worimi-i = {
+				}
+			}
+		}
+		d_gunai = { 
+
+			color={ 141 190 90 }
+			color2={ 255 255 255 }
+
+			capital = 5121
+
+			c_gunai = {
+
+				color={ 144 170 82 }
+				color2={ 255 255 255 }
+
+				b_gunai-i = {
+				}
+			}
+			c_bidwell = {
+
+				color={ 130 199 75 }
+				color2={ 255 255 255 }
+
+				b_bidwell-i = {
+				}
+			}
+			c_yuin = {
+
+				color={ 135 215 66 }
+				color2={ 255 255 255 }
+
+				b_yuin-i = {
+				}
+			}
+		}
+		d_giraiwurung = { 
+
+			color={ 190 170 120 }
+			color2={ 255 255 255 }
+
+			capital = 5106
+
+			c_giraiwurung = {
+
+				color={ 170 158 128 }
+				color2={ 255 255 255 }
+
+				b_giraiwurung-i = {
+				}
+			}
+			c_djabwurung = {
+
+				color={ 185 140 140 }
+				color2={ 255 255 255 }
+
+				b_djabwurung-i = {
+				}
+			}
+			c_jardwadjali = {
+
+				color={ 199 121 169 }
+				color2={ 255 255 255 }
+
+				b_jardwadjali-i = {
+				}
+			}
+			c_djargurdwurung = {
+
+				color={ 222 138 160 }
+				color2={ 255 255 255 }
+
+				b_djargurdwurung-i = {
+				}
+			}
+		}
+		d_meru = { 
+
+			color={ 41 155 105 }
+			color2={ 255 255 255 }
+
+			capital = 5119
+			c_peramangk = {
+
+				color={ 100 136 95 }
+				color2={ 255 255 255 }
+
+				b_peramangk-i = {
+				}
+			}
+			
+			c_meru = {
+
+				color={ 55 136 95 }
+				color2={ 255 255 255 }
+
+				b_meru-i = {
+				}
+			}
+			c_ngargad = {
+
+				color={ 70 141 84 }
+				color2={ 255 255 255 }
+
+				b_ngargad-i = {
+				}
+			}
+			c_ngarrindjeri = {
+
+				color={ 88 166 90 }
+				color2={ 255 255 255 }
+
+				b_ngarrindjeri-i = {
+				}
+			}
+			c_bindjali = {
+
+				color={ 99 155 104 }
+				color2={ 255 255 255 }
+
+				b_bindjali-i = {
+				}
+			}
+			c_buandig = {
+
+				color={ 110 130 122 }
+				color2={ 255 255 255 }
+
+				b_buandig-i = {
+				}
+			}
+		}
+		d_kaurna = { 
+
+			color={ 28 130 144 }
+			color2={ 255 255 255 }
+
+			capital = 5102
+
+			c_kaurna = {
+
+				color={ 28 78 14 }
+				color2={ 255 255 255 }
+
+				b_kaurna-i = {
+				}
+			}
+			c_kartan = {
+
+				color={ 55 109 200 }
+				color2={ 255 255 255 }
+
+				b_kartan-i = {
+				}
+			}
+			c_narangga = {
+
+				color={ 70 121 180 }
+				color2={ 255 255 255 }
+
+				b_narangga-i = {
+				}
+			}
+			c_ngadjuri = {
+
+				color={ 80 90 166 }
+				color2={ 255 255 255 }
+
+				b_ngadjuri-i = {
+				}
+			}
+			c_nukunu = {
+
+				color={ 84 88 144 }
+				color2={ 255 255 255 }
+
+				b_nukunu-i = {
+				}
+			}
+		}
+		d_marringarr = { 
+
+			color={ 28 130 144 }
+			color2={ 255 255 255 }
+
+			capital = 4929
+			
+			c_marringarr = {
+
+				color={ 175 140 160 }
+				color2={ 255 255 255 }
+
+				b_marringarr-i = {
+				}
+			}
+			c_ngangikurunggurr = {
+
+				color={ 180 112 148 }
+				color2={ 255 255 255 }
+
+				b_ngangikurunggurr-i = {
+				}
+			}
+			c_marrithiyel = {
+
+				color={ 166 206 140 }
+				color2={ 255 255 255 }
+
+				b_marrithiyel-i = {
+				}
+			}
+		}
+		d_darwin = { 
+
+			color={ 28 130 144 }
+			color2={ 255 255 255 }
+
+			capital = 3402
+			
+			c_darwin = {
+
+				color={ 118 120 34 }
+				color2={ 255 255 255 }
+
+				b_darwin-i = {
+				}
+			}
+			c_warray = {
+
+				color={ 140 133 66 }
+				color2={ 255 255 255 }
+
+				b_warray-i = {
+				}
+			}
+			c_wagiman = {
+
+				color={ 187 127 79 }
+				color2={ 255 255 255 }
+
+				b_wagiman-i = {
+				}
+			}
+		}
+		d_northern_territory = { 
+
+			color={ 28 130 144 }
+			color2={ 255 255 255 }
+
+			capital = 3403
+
+			c_davenport = {
+
+				color={ 168 30 164 }
+				color2={ 255 255 255 }
+
+				b_davenport-i = {
+				}
+			}
+			c_nakara = {
+
+				color={ 166 125 144 }
+				color2={ 255 255 255 }
+
+				b_nakara-i = {
+				}
+			}
+			c_gungurugomi = {
+
+				color={ 133 100 122 }
+				color2={ 255 255 255 }
+
+				b_gungurugomi-i = {
+				}
+			}
+			c_gunbalang = {
+
+				color={ 155 112 139 }
+				color2={ 255 255 255 }
+
+				b_gunbalang-i = {
+				}
+			}
+		}
+		d_donggali = {
+			color={ 100 48 71 }
+			color2={ 255 255 255 }
+
+			capital = 3406
+		c_adelaiede = {
+
+				color={ 154 8 41 }
+				color2={ 255 255 255 }
+
+				b_adelaiede-i = {
+				}
+            }
+		c_wiljali = {
+
+				color={ 140 50 80 }
+				color2={ 255 255 255 }
+
+				b_wiljali-i = {
+				}
+            }
+		c_wandjiwalgu = {
+
+				color={ 170 80 80 }
+				color2={ 255 255 255 }
+
+				b_wandjiwalgu-i = {
+				}
+            }
+		c_malyangaba = {
+
+				color={ 179 90 77 }
+				color2={ 255 255 255 }
+
+				b_malyangaba-i = {
+				}
+            }
+		c_danggali = {
+
+				color={ 160 70 40 }
+				color2={ 255 255 255 }
+
+				b_danggali-i = {
+				}
+            }
+		}
+		d_south_australia = {
 
 			color={ 14 48 71 }
 			color2={ 255 255 255 }
 
-			capital = 3406 #
+			capital = 3576
 
 			c_ceduna = {
 
 				color={ 234 138 61 }
 				color2={ 255 255 255 }
 
-				b_ceduna = {
-				}
-				b_coober_pedy = {
-				}
-				b_streaky_bay = {
+				b_ceduna-i = {
 				}
 			}
 			c_woomera = {
@@ -746,28 +3607,20 @@ e_australia = {
 				b_lernleseth = {
 				}
 			}
-			c_adelaiede = {
-
-				color={ 154 8 41 }
-				color2={ 255 255 255 }
-
-				b_adelaiede = {
-				}
-				b_port_lincoln = {
-				}
-				b_hlaplors = {
-				}
-                                          }
 			c_port_pirie = {
 
 				color={ 14 58 91 }
 				color2={ 255 255 255 }
 
-				b_port_pirie = {
+				b_port_pirie-i = {
 				}
-				b_port_augusta = {
-				}
-				b_coarkpyer = {
+			}
+			c_banggarla = {
+
+				color={ 50 66 108 }
+				color2={ 255 255 255 }
+
+				b_banggarla-i = {
 				}
 			}
 			c_whyalla = {
@@ -775,11 +3628,7 @@ e_australia = {
 				color={ 64 88 141 }
 				color2={ 255 255 255 }
 
-				b_whyalla = {
-				}
-				b_hawker = {
-				}
-				b_heyweleper = {
+				b_whyalla-i = {
 				}
 			}
 			c_renmark = {
@@ -787,11 +3636,7 @@ e_australia = {
 				color={ 84 148 111 }
 				color2={ 255 255 255 }
 
-				b_renmark = {
-				}
-				b_daodunpa = {
-				}
-				b_lorkeplea = {
+				b_renmark-i = {
 				}
 			}
 		}

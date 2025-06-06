@@ -23,4 +23,8 @@ spriteType = {
   name = "GFX_icon_korean_imperial_government"
   texturefile = "gfx\\interface\\government_icon_korean_imperial_government.dds"
 }
+spriteType = {
+  name = "GFX_icon_vietnamese_imperial_government"
+  texturefile = "gfx\\interface\\government_icon_vietnamese_imperial_government.dds"
+}
 }

@@ -170,7 +170,4 @@ holder=384738	#Tokhtamysh
 1634.1.1={
 	holder=384975	#Kho Orluk
 	liege=k_kalmyk
-	set_tribute_suzerain = {
-		who = e_russia_2
-	}
 }

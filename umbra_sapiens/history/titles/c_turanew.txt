@@ -87,10 +87,6 @@
 
 1279.3.19={
               holder=1019200039
-	set_tribute_suzerain = {
-		who = e_china
-		type = nomadic
-	}
 }
 
 1290.1.1={
@@ -99,12 +95,30 @@
 
 1320.1.1={
 	holder = 1019200041 # The Western Governor is now holder
-	set_tribute_suzerain = {
-		who = e_china
-		type = nomadic
-	}
 }
 
 1350.1.1={
 	holder=1019200042 #Rhulani
+}
+1380.1.1={
+	holder=388812
+}
+1420.1.1={
+	holder=388813
+}
+1484.1.1={
+	holder=388814
+}
+1517.1.1={
+	holder=388815
+}
+1566.1.1={
+	holder=388816
+}
+1613.1.1={
+	holder=388817
+}
+1620.1.1={
+	holder=375078	#Michael of Russia
+	liege="e_russia_2"
 }

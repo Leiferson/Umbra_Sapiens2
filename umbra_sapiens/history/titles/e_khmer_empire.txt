@@ -145,3 +145,29 @@
 1347.1.1 = {
 	holder = 1000080107 #Lampong-Reachea
 }
+1352.1.1 = {
+	holder = 388214 #Ramathibodi's Son
+	set_tribute_suzerain = {
+		who = e_ayutthaya
+		type = permanent 
+	}
+}
+1357.1.1={
+	holder = 388215 #Soryavong
+	clear_tribute_suzerain = e_ayutthaya
+}
+1363.1.1={
+	holder = 388216 #Borom Reachea I
+}
+1373.1.1={
+	holder = 388217 #Thommasaok Reachea
+}
+1393.1.1={
+	holder = 388218 #In Reachea
+}
+1421.1.1={
+	holder = 388219 #Barom Reachea II
+}
+1431.1.1={
+	holder = 0
+}

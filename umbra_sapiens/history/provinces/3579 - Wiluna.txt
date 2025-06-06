@@ -4,8 +4,8 @@
 title = c_wiluna
 
 # Settlements
-max_settlements = 3
-b_wiluna = tribal
+max_settlements = 1
+b_wiluna-i = tribal
 
 # Misc
 culture = australian

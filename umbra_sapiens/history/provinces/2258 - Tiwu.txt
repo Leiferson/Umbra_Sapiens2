@@ -6,12 +6,8 @@ title = c_tiwu
 # Settlements
 max_settlements = 4
 b_kupano = tribal
-b_dili = tribal
-b_baucau = temple
-#b_suai =
-#b_baa =
+b_baa = temple
 #b_tuluala =
-#b_soe =
 #b_besikama =
 
 # Misc
@@ -19,3 +15,6 @@ culture = tenggaran
 religion = flores_religion
 
 # History
+1514.1.6={
+	religion="catholic"
+}

@@ -4,9 +4,8 @@
 title = c_whyalla
 
 # Settlements
-max_settlements = 6
-b_whyalla = tribal
-b_hawker = tribal
+max_settlements = 1
+b_whyalla-i = tribal
 
 # Misc
 culture = australian

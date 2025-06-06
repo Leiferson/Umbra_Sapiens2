@@ -4,8 +4,8 @@
 title = c_ewihsemport
 
 # Settlements
-max_settlements = 3
-b_ewihsemport = tribal
+max_settlements = 1
+b_ewihsemport-i = tribal
 
 # Misc
 culture = australian

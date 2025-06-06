@@ -68,3 +68,47 @@
 1350.1.1={
 	holder=1000080955 #Haron
 }
+1380.1.1={
+	holder=390538
+}
+1454.1.1={
+	holder=390539
+}
+1472.1.1={
+	holder=390540
+}
+1487.1.1={
+	holder=390541
+	name="Sukadana"
+}
+1504.1.1={
+	holder=390542
+}
+1518.1.1={
+	holder=390543
+	liege="k_demak"
+}
+1533.1.1={
+	holder=390544
+}
+1533.6.1={
+	holder=390545
+}
+1548.1.1={
+	set_tribute_suzerain = {
+		who = d_banjarmasin
+		type = permanent 
+	}
+}
+1590.1.1={
+	holder=390546
+}
+1604.1.1={
+	holder=390547
+}
+1610.1.1={
+		clear_tribute_suzerain = d_banjarmasin
+}
+1622.1.1={
+	holder=390548
+}

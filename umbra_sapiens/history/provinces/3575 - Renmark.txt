@@ -4,8 +4,8 @@
 title = c_renmark
 
 # Settlements
-max_settlements = 3
-b_renmark = tribal
+max_settlements = 1
+b_renmark-i = tribal
 
 # Misc
 culture = australian

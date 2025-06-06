@@ -1,13 +1,9 @@
-# 1063 - Bagan
-
 # County Title
 title = c_tasmania
 
 # Settlements
-max_settlements = 6
-b_hobart = tribal
-b_strathgordon = tribal
-b_launcestonn = temple
+max_settlements = 1
+b_southwest = tribal
 
 # Misc
 culture = australian

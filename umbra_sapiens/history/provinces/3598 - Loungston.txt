@@ -4,8 +4,8 @@
 title = c_loungston
 
 # Settlements
-max_settlements = 3
-b_loungston = tribal
+max_settlements = 1
+b_loungston-i = tribal
 
 # Misc
 culture = australian

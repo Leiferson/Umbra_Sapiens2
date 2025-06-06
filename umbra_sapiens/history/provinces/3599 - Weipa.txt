@@ -4,8 +4,8 @@
 title = c_weipa
 
 # Settlements
-max_settlements = 3
-b_weipa = tribal
+max_settlements = 1
+b_weipa-i = tribal
 
 # Misc
 culture = australian

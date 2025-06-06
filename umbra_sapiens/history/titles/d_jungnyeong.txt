@@ -1,0 +1,37 @@
+1370.1.1={
+	holder=389353
+	historical_nomad = yes
+	liege="d_buyeo"
+}
+1433.1.1={
+	holder=389354
+}
+1458.1.1={
+	holder=389356
+}
+1506.1.1={
+	holder=389360
+}
+1516.1.1={
+	holder=389358
+}
+1522.1.1={
+	holder=389361
+}
+1542.1.1={
+	holder=389365
+}
+1583.1.1={
+	holder=389373
+	set_tribute_suzerain = {
+		who = e_china
+		type = nomadic
+	}
+}
+1616.2.17={
+	liege="e_anchuhu"
+	clear_tribute_suzerain = e_china
+}
+1626.9.30={
+	holder=389380	#Hong Taiji
+}

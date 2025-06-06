@@ -4,6 +4,7 @@
 	name="Myinsaing"
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	1240.1.1={
 		birth="1240.1.1"
@@ -17,6 +18,7 @@
 	name="Athinhkaya"
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080194
 	1261.1.1={
@@ -32,6 +34,7 @@
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
 	culture="shan"
+	trait=theravada_buddhist
 	father=1000080194
 	1262.1.1={
 		birth="1262.1.1"
@@ -46,6 +49,7 @@
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
 	culture="shan"
+	trait=theravada_buddhist
 	father=1000080194
 	1265.1.1={
 		birth="1265.1.1"
@@ -65,6 +69,7 @@
 	name="Kyawswa"
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080197
 	mother=1000080202
@@ -83,6 +88,7 @@
 	name="Kyawswa"
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080200
 	mother=1000080214
@@ -98,6 +104,7 @@
 	name="Narathu"
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080200
 	mother=1000080214
@@ -113,6 +120,7 @@
 	name="Uzana"
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080200
 	mother=1000080214
@@ -128,6 +136,7 @@
 	name="Sawyun"
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080197
 	mother=1000080206
@@ -143,6 +152,7 @@
 	name="Kyaswa"
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080205
 	1318.3.4={
@@ -157,6 +167,7 @@
 	name="Nawrahta-Minye"
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080205
 	1319.9.26={
@@ -171,6 +182,7 @@
 	name="Tarabya"
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080205
 	1321.11.16={
@@ -186,6 +198,7 @@
 	female=yes
 	dynasty=1000027617 #Myinsaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080205
 	1321.1.1={
@@ -203,6 +216,7 @@
 	female=yes
 	dynasty=1000027618 #Sagaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	1278.1.1={
 		birth="1278.1.1"
@@ -216,6 +230,7 @@
 	name="Tarabya"
 	dynasty=1000027618 #Sagaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	mother=1000080206
 	1297.7.8={
@@ -230,6 +245,7 @@
 	name="Shwetaungtet"
 	dynasty=1000027618 #Sagaing
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080207
 	1313.9.23={
@@ -246,6 +262,7 @@
 	name="Minbyauk-Thihapate"
 	dynasty=1000027619 #Minbyauk
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	1309.10.15={
 		birth="1309.10.15"
@@ -264,6 +281,7 @@
 	name="Yaw-Pan-Kyung"
 	dynasty=1000027636 #Mogaung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	1195.1.1={
 		birth="1195.1.1"
@@ -277,6 +295,7 @@
 	name="Sao-Hswe-Cheng"
 	dynasty=1000027636 #Mogaung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080337
 	1215.1.1={
@@ -291,6 +310,7 @@
 	name="Sao-Hso-Kaw"
 	dynasty=1000027636 #Mogaung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080338
 	1235.1.1={
@@ -305,6 +325,7 @@
 	name="Sao-Naw-Mong"
 	dynasty=1000027636 #Mogaung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080339
 	1255.1.1={
@@ -319,6 +340,7 @@
 	name="Hkun-Hkam-Hkawt"
 	dynasty=1000027636 #Mogaung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080340
 	1275.1.1={
@@ -333,27 +355,29 @@
 	name="Sao-Hkam-Pak"
 	dynasty=1000027636 #Mogaung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080341
 	1295.1.1={
 		birth="1295.1.1"
 	}
-	1345.1.1={
-		death="1345.1.1"
+	1335.1.1={
+		death="1335.1.1"
 	}
 }
 
 1000080343 = {
-	name="Sao-Hkam-Nan"
+	name="Sao Pu Rieng"
 	dynasty=1000027636 #Mogaung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080342
 	1315.1.1={
 		birth="1315.1.1"
 	}
-	1365.1.1={
-		death="1365.1.1"
+	1344.1.1={
+		death="1344.1.1"
 	}
 }
 
@@ -363,6 +387,7 @@
 	name="Mang-Kun"
 	dynasty=1000027637 #Kengtung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	1193.1.1={
 		birth="1193.1.1"
@@ -376,6 +401,7 @@
 	name="Mang-Kyin"
 	dynasty=1000027637 #Kengtung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080344
 	1213.1.1={
@@ -390,6 +416,7 @@
 	name="Mang-Rai"
 	dynasty=1000027637 #Kengtung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080345
 	1214.1.1={
@@ -404,6 +431,7 @@
 	name="Sao-Nam-Nam"
 	dynasty=1000027637 #Kengtung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080345
 	1233.1.1={
@@ -418,6 +446,7 @@
 	name="Sao-Hsam-Mun-Hwe"
 	dynasty=1000027637 #Kengtung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080347
 	1253.1.1={
@@ -432,6 +461,7 @@
 	name="Sao-Lak"
 	dynasty=1000027637 #Kengtung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080348
 	1273.1.1={
@@ -446,6 +476,7 @@
 	name="Sao-Hsai-Nan"
 	dynasty=1000027637 #Kengtung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080349
 	1293.1.1={
@@ -460,6 +491,7 @@
 	name="Sao-Yu"
 	dynasty=1000027637 #Kengtung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080350
 	1313.1.1={
@@ -474,6 +506,7 @@
 	name="Sao-Sit-Pan-Tu"
 	dynasty=1000027637 #Kengtung
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000080351
 	1333.1.1={
@@ -490,6 +523,7 @@
 	name="Maung-Tha-U"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	720.1.1={
 		birth="720.1.1"
@@ -503,6 +537,7 @@
 	name="U-Ma-Nga"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000203865
 	750.1.1={
@@ -517,6 +552,7 @@
 	name="Win-Hmu"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000203866
 	780.1.1={
@@ -531,6 +567,7 @@
 	name="Maung-Hpo"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000203867
 	810.1.1={
@@ -545,6 +582,7 @@
 	name="Sao-Kan-Mun"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202229
 	840.1.1={
@@ -559,6 +597,7 @@
 	name="Sao-Hkam-Nan"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202230
 	867.1.1={
@@ -573,6 +612,7 @@
 	name="Maung-Tha-U"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202231
 	900.1.1={
@@ -587,6 +627,7 @@
 	name="Sao-Naw-Mong"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202232
 	930.1.1={
@@ -601,6 +642,7 @@
 	name="Sao-Hswe-Cheng"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202233
 	960.1.1={
@@ -615,6 +657,7 @@
 	name="Sao-Hso-Hom"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202234
 	990.1.1={
@@ -629,6 +672,7 @@
 	name="Hkum-Daw"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202235
 	1020.1.1={
@@ -643,6 +687,7 @@
 	name="Maung-Paw"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202236
 	1050.1.1={
@@ -657,6 +702,7 @@
 	name="Natsu-Letya"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202237
 	1080.1.1={
@@ -671,6 +717,7 @@
 	name="Hkun-Hsang-Ton-Hong"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202238
 	1110.1.1={
@@ -685,6 +732,7 @@
 	name="Sao-Song"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202239
 	1140.1.1={
@@ -699,6 +747,7 @@
 	name="Win-Hmu"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202240
 	1170.1.1={
@@ -713,6 +762,7 @@
 	name="Hkun-Hpe"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202241
 	1200.1.1={
@@ -727,6 +777,7 @@
 	name="Sao-Hom-Hpa"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202242
 	1230.1.1={
@@ -741,6 +792,7 @@
 	name="Sao-On-Kya"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202243
 	1260.1.1={
@@ -755,6 +807,7 @@
 	name="Sao-Kya-Htun"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202244
 	1290.1.1={
@@ -769,6 +822,7 @@
 	name="Hpaya-Mong-Hkon"
 	dynasty=1000027685 #Mookjai
 	religion="buddhist"
+	trait=theravada_buddhist
 	culture="shan"
 	father=1000202245
 	1320.1.1={

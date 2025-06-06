@@ -59,6 +59,46 @@
 1320.1.1={
 	holder=1000201642 #Naray
 }
-1350.1.1={
-	holder=1000201643 #Mapaliey
+1340.1.1={
+	holder=390142
+}
+1389.1.1={
+	holder=390143
+}
+1429.1.1={
+	holder=390144
+}
+1468.1.1={
+	holder=390145
+}
+1512.1.1={
+	holder=390087 #Bayan Sirrullah
+	liege="d_ternate"
+}
+1515.1.1={
+	holder=390146
+	liege=0
+}
+1520.1.1={
+	holder=390147
+}
+1557.1.1={
+	holder=390148
+	set_tribute_suzerain = {
+		who = k_portuguese_india
+		type = permanent
+	}
+}
+1575.1.1={
+	clear_tribute_suzerain = k_portuguese_india
+}
+1577.1.1={
+	holder=390149
+}
+1581.1.1={
+	holder=390150
+}
+1609.1.1={
+	holder=390151
+	liege="d_ternate"
 }

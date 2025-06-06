@@ -74,3 +74,7 @@
 	set_tribute_suzerain = { who = c_kumukh type = permanent }
 	holder=555215
 }
+1362.1.1={
+	holder=0
+	clear_tribute_suzerain = c_kumukh
+}

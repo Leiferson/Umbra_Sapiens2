@@ -458,11 +458,17 @@ wonder_temple_confucian = {
 	picture = GFX_wonder_strip_buddhist_temple
 	model = wonder_temple
 	potential = {
+		OR={
 		religion = taoist
+		religion = thangiao
+		}
 	}
 	active = {
 		ROOT = {
+			OR={
 			religion = taoist
+			religion = thangiao
+			}
 		}
 	}
 	flags = {
@@ -568,11 +574,17 @@ wonder_temple_taoist = {
 	picture = GFX_wonder_strip_buddhist_temple
 	model = wonder_temple
 	potential = {
+		OR={
 		religion = taoist
+		religion = thangiao
+		}
 	}
 	active = {
 		ROOT = {
+			OR={
 			religion = taoist
+			religion = thangiao
+			}
 		}
 	}
 	flags = {

@@ -68,6 +68,12 @@ de_jure_laws = {
 			additive_modifier = { 
 				value = 10		
 				holder_scope = {				
+				government = vietnamese_imperial_government
+				}				 	
+			}
+			additive_modifier = { 
+				value = 10		
+				holder_scope = {				
 				government = korean_imperial_government
 				}				
 			}
@@ -230,6 +236,12 @@ de_jure_laws = {
 				holder_scope = {				
 				government = chinese_imperial_government
 				}					
+			}
+			additive_modifier = { 
+				value = 10		
+				holder_scope = {				
+				government = vietnamese_imperial_government
+				}				 	
 			}
 			}
 		potential = {

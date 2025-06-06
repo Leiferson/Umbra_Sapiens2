@@ -4,8 +4,8 @@
 title = c_cbarcaldine
 
 # Settlements
-max_settlements = 3
-b_cbarcaldine = tribal
+max_settlements = 1
+b_cbarcaldine-i = tribal
 
 # Misc
 culture = australian

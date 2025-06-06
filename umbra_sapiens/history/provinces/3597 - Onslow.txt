@@ -4,9 +4,8 @@
 title = c_onslow
 
 # Settlements
-max_settlements = 3
-b_onslow = tribal
-b_muslearean = tribal
+max_settlements = 1
+b_onslow-i = tribal
 
 # Misc
 culture = australian

@@ -1,22 +1,27 @@
 1009990051 = {
 	name="Yamatji"
 	culture=australian
+	religion="dreamtime_religion"
 }
 1009990052 = {
 	name="Anangu"
 	culture=australian
+	religion="dreamtime_religion"
 }
 1009990053 = {
 	name="Noongar"
 	culture=australian
+	religion="dreamtime_religion"
 }
 1009990054 = {
 	name="Murri"
 	culture=australian
+	religion="dreamtime_religion"
 }
 1009990055 = {
 	name="Koori"
 	culture=australian
+	religion="dreamtime_religion"
 }
 1009990056 = {
 	name="Chandaler"
@@ -29,18 +34,22 @@
 1009990062 = {
 	name="Nunga"
 	culture=australian
+	religion="dreamtime_religion"
 }
 1009990063 = {
 	name="Palawah"
 	culture=australian
+	religion="dreamtime_religion"
 }
 1009990064 = {
 	name="Yapa"
 	culture=australian
+	religion="dreamtime_religion"
 }
 1009990065 = {
 	name="Yolngu"
 	culture=australian
+	religion="dreamtime_religion"
 }
 
 ########
@@ -48,4 +57,680 @@
 1009990066 = {
 	name="Ansperri"
 	culture=australian
+	religion="dreamtime_religion"
+}
+30000 = {
+	name="Airiman"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30001 = {
+	name="Ajabakan"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30002 = {
+	name="Ajabatha"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30003 = {
+	name="Alawa"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30004 = {
+	name="Alura"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30005 = {
+	name="Amangu"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30006 = {
+	name="Amarak"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30007 = {
+	name="Amijangal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30008 = {
+	name="Anaiwan"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30009 = {
+	name="Andakerebina"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30010 = {
+	name="Anmatjera"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30011 = {
+	name="Ankamuti"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30012 = {
+	name="Antakirinja"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30013 = {
+	name="Araba"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30014 = {
+	name="Arabana"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30015 = {
+	name="Arakwal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30016 = {
+	name="Aranda"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30017 = {
+	name="Arnga"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30018 = {
+	name="Atjinuri"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30019 = {
+	name="Awabakal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30020 = {
+	name="Awarai"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30021 = {
+	name="Awinmul"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30022 = {
+	name="Baada"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30023 = {
+	name="Badjalang"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30024 = {
+	name="Badjiri"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30025 = {
+	name="Banbai"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30026 = {
+	name="Baranbinja"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30027 = {
+	name="Baraparapa"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30028 = {
+	name="Barara"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30029 = {
+	name="Baiali"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30030 = {
+	name="Baijungu"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30031 = {
+	name="Bailgu"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30032 = {
+	name="Bakanambia"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30033 = {
+	name="Barindji"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30034 = {
+	name="Barkindji"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30035 = {
+	name="Beriguruk"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30036 = {
+	name="Bilingara"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30037 = {
+	name="Binbinga"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30038 = {
+	name="Bingongina"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30039 = {
+	name="Birpai"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30040 = {
+	name="Daii"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30041 = {
+	name="Dainggati"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30042 = {
+	name="Dalabon"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30043 = {
+	name="Dangbon"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30044 = {
+	name="Dangu"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30045 = {
+	name="Darkinjang"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30046 = {
+	name="Daruk"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30047 = {
+	name="Diakui"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30048 = {
+	name="Djalakuru"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30049 = {
+	name="Djamindjung"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30050 = {
+	name="Djangu"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30051 = {
+	name="Djauan"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30052 = {
+	name="Djerait"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30053 = {
+	name="Djerimanga"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30054 = {
+	name="Djinang"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30055 = {
+	name="Djinba"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30056 = {
+	name="Djiringanj"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30057 = {
+	name="Djowei"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30058 = {
+	name="Duwal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30059 = {
+	name="Duwala"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30060 = {
+	name="Eora"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30061 = {
+	name="Gaari"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30062 = {
+	name="Gadjalivia"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30063 = {
+	name="Gambalang"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30064 = {
+	name="Gandangara"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30065 = {
+	name="Geawegal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30066 = {
+	name="Gunavidji"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30067 = {
+	name="Gungorogone"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30068 = {
+	name="Gunwinggu"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30069 = {
+	name="Iliaura"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30070 = {
+	name="Indjilandji"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30071 = {
+	name="Ingura"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30072 = {
+	name="Iwaidja"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30073 = {
+	name="Jaako"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30074 = {
+	name="Jangman"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30075 = {
+	name="Janjula"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30076 = {
+	name="Jaroinga"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30077 = {
+	name="Jeithi"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30078 = {
+	name="Jiegara"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30079 = {
+	name="Jitajita"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30080 = {
+	name="Jotijota"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30081 = {
+	name="Jukambal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30082 = {
+	name="Kalibal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30083 = {
+	name="Kamilaroi"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30084 = {
+	name="Karenggapa"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30085 = {
+	name="Kawambarai"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30086 = {
+	name="Kitabal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30087 = {
+	name="Kula"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30088 = {
+	name="Kumbainggiri"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30089 = {
+	name="Kureinji"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30090 = {
+	name="Kwiambal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30091 = {
+	name="Maljangapa"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30092 = {
+	name="Maraura"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30093 = {
+	name="Milpulo"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30094 = {
+	name="Minjungbal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30095 = {
+	name="Morowari"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30096 = {
+	name="Muthimuthi"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30097 = {
+	name="Narinari"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30098 = {
+	name="Naualko"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30099 = {
+	name="Ngaku"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30100 = {
+	name="Ngamba"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30101 = {
+	name="Ngarabal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30102 = {
+	name="Ngarigo"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30103 = {
+	name="Ngemba"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30104 = {
+	name="Ngunawal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30105 = {
+	name="Parundji"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30106 = {
+	name="Tharawal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30107 = {
+	name="Thaua"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30108 = {
+	name="Ualarai"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30109 = {
+	name="Wadikali"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30110 = {
+	name="Walbanga"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30111 = {
+	name="Walgalu"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30112 = {
+	name="Wandandian"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30113 = {
+	name="Wanjiwalku"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30114 = {
+	name="Weilwan"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30115 = {
+	name="Wembawemba"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30116 = {
+	name="Weraerai"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30117 = {
+	name="Widjabal"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30118 = {
+	name="Wiljakali"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30119 = {
+	name="Wiradjuri"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30120 = {
+	name="Wodiwodi"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30121 = {
+	name="Wongaibon"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30122 = {
+	name="Wonnarua"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30123 = {
+	name="Worimi"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30124 = {
+	name="Warrimee"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30125 = {
+	name="Warramie"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30126 = {
+	name="Gadang"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30127 = {
+	name="Kattang"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30128 = {
+	name="Kutthung"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30130 = {
+	name="Guttahn"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30131 = {
+	name="Cottong"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30133 = {
+	name="Wattung"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30134 = {
+	name="Kutthack"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30135 = {
+	name="Gringai"
+	culture=australian
+	religion="dreamtime_religion"
+}
+30136 = {
+	name="Gooreenggai"
+	culture=australian
+	religion="dreamtime_religion"
 }

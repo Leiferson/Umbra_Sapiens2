@@ -76,5 +76,63 @@
 	holder=1000080640 #Akarendrawarman
 }
 1347.1.1={
-	holder=1000080496 #Adityawarman
+	holder=1000080496
+	liege=0
+}
+1375.1.1={
+	holder=390710
+}
+1377.1.1={
+	holder=1000080697 #Rajasanagara
+	liege="e_java"
+}
+1389.1.1={
+	holder=390552	#WIKRAMAWARDHANA
+}
+1429.1.1={
+	holder=390558	#Suhita
+}
+1447.1.1={
+	holder=390557	#KERTAWIJAYA
+}
+1451.1.1={
+	holder=390559	#Rajasawardhana
+}
+1453.1.1={
+	holder=390560	#GIRISAWARDHANA
+}
+1466.1.1={
+	holder=390561	#Singhawikramawardhana
+}
+1468.1.1={
+	holder=390566	#Girindrawardhana
+}
+1498.1.1={
+	holder=390567	#Girindrawardhana
+}
+1512.1.1={
+	holder=390595	#Raden Patah
+	liege="k_demak"
+}
+1518.1.1={
+	holder=390596	#Pati Unus
+}
+1521.1.1={
+	holder=390600	#Trenggana
+}
+1546.1.1={
+	holder=390601	#Sunan Mukmin
+}
+1549.1.1={
+	holder=390607	#Arya Penangsang
+}
+1550.1.1={
+	holder=390746
+	liege="d_palembang"
+}
+1592.1.1={
+	holder=390747
+}
+1630.1.1={
+	holder=390748
 }

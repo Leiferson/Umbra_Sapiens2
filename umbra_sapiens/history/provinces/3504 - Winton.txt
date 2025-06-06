@@ -4,9 +4,8 @@
 title = c_winton
 
 # Settlements
-max_settlements = 6
-b_winton = tribal
-b_st_george = tribal
+max_settlements = 1
+b_winton-i = tribal
 
 # Misc
 culture = australian

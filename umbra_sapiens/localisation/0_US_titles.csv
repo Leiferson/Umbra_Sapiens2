@@ -479,7 +479,7 @@ c_hariharalaya_adj;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharal
 b_hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;x
 b_kampong_chhnang;Kampong Chhnang;Kampong Chhnang;Kampong Chhnang;Kampong Chhnang;Kampong Chhnang;Kampong Chhnang;Kampong Chhnang;Kampong Chhnang;Kampong Chhnang;Kampong Chhnang;Kampong Chhnang;Kampong Chhnang;Kampong Chhnang;x
 b_prey_khmer;Prey Khmer;Prey Khmer;Prey Khmer;Prey Khmer;Prey Khmer;Prey Khmer;Prey Khmer;Prey Khmer;Prey Khmer;Prey Khmer;Prey Khmer;Prey Khmer;Prey Khmer;x
-b_tuek_phos;Tuek Phos;Tuek Phos;Tuek Phos;Tuek Phos;Tuek Phos;Tuek Phos;Tuek Phos;Tuek Phos;Tuek Phos;Tuek Phos;Tuek Phos;Tuek Phos;Tuek Phos;x
+b_tuek_phos;Phnom Penh;Phnom Penh;Phnom Penh;Phnom Penh;Phnom Penh;Phnom Penh;Phnom Penh;Phnom Penh;Phnom Penh;Phnom Penh;Phnom Penh;Phnom Penh;Phnom Penh;x
 b_udong;Udong;Udong;Udong;Udong;Udong;Udong;Udong;Udong;Udong;Udong;Udong;Udong;Udong;x
 b_kampong_stoeng;Kampong Stoeng;Kampong Stoeng;Kampong Stoeng;Kampong Stoeng;Kampong Stoeng;Kampong Stoeng;Kampong Stoeng;Kampong Stoeng;Kampong Stoeng;Kampong Stoeng;Kampong Stoeng;Kampong Stoeng;Kampong Stoeng;x
 b_krakor;Krakor;Krakor;Krakor;Krakor;Krakor;Krakor;Krakor;Krakor;Krakor;Krakor;Krakor;Krakor;Krakor;x
@@ -657,7 +657,7 @@ b_tha_wung;Tha Wung;Tha Wung;Tha Wung;Tha Wung;Tha Wung;Tha Wung;Tha Wung;Tha Wu
 b_ban_mi;Ban Mi;Ban Mi;Ban Mi;Ban Mi;Ban Mi;Ban Mi;Ban Mi;Ban Mi;Ban Mi;Ban Mi;Ban Mi;Ban Mi;Ban Mi;x
 b_khok_samrong;Khok Samrong;Khok Samrong;Khok Samrong;Khok Samrong;Khok Samrong;Khok Samrong;Khok Samrong;Khok Samrong;Khok Samrong;Khok Samrong;Khok Samrong;Khok Samrong;Khok Samrong;x
 b_sa_bot;Sa Bot;Sa Bot;Sa Bot;Sa Bot;Sa Bot;Sa Bot;Sa Bot;Sa Bot;Sa Bot;Sa Bot;Sa Bot;Sa Bot;Sa Bot;x
-b_phatthana_nikhon;Phatthana Nikhon;Phatthana Nikhon;Phatthana Nikhon;Phatthana Nikhon;Phatthana Nikhon;Phatthana Nikhon;Phatthana Nikhon;Phatthana Nikhon;Phatthana Nikhon;Phatthana Nikhon;Phatthana Nikhon;Phatthana Nikhon;Phatthana Nikhon;x
+b_phatthana_nikhon;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;x
 c_si_thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;x
 c_si_thep_adj;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;x
 b_si_thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;x
@@ -2072,15 +2072,61 @@ b_bayan_gurun;Bayan;Bayan;Bayan;Bayan;Bayan;Bayan;Bayan;Bayan;Bayan;Bayan;Bayan;
 b_gangga;Gangga;Gangga;Gangga;Gangga;Gangga;Gangga;Gangga;Gangga;Gangga;Gangga;Gangga;Gangga;Gangga;x
 d_timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;x
 d_timur_adj;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;Timur;x
+c_kaualima;Kaualima;;;;;;;;;;;;;x
+c_kaualima_adj;Kaualima;;;;;;;;;;;;;x
+b_suai;Suai;;;;;;;;;;;;;x
+b_mape;Mape;;;;;;;;;;;;;x
+b_betano;Betano;;;;;;;;;;;;;x
+b_same;Same;;;;;;;;;;;;;x
+c_baucau;Baucau;;;;;;;;;;;;;x
+c_baucau_adj;Baucau;;;;;;;;;;;;;x
+b_baucau;Baucau;;;;;;;;;;;;;x
+b_baguia;Baguia;;;;;;;;;;;;;x
+b_viqueque;Viqueque;;;;;;;;;;;;;x
+b_lacluta;Lacluta;;;;;;;;;;;;;x
+b_quelicai;Quelicai;;;;;;;;;;;;;x
+c_lauteinu;Lauteinu;;;;;;;;;;;;;x
+c_lauteinu_adj;Lauteinu;;;;;;;;;;;;;x
+b_lauteinu;Lauteinu;;;;;;;;;;;;;x
+b_lohoasupala;Lohoasupala;;;;;;;;;;;;;x
+b_iliomar;Iliomar;;;;;;;;;;;;;x
+b_luru;Luru;;;;;;;;;;;;;x
+b_tutuala;Tutuala;;;;;;;;;;;;;x
 c_tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;x
 c_tiwu_adj;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;x
+c_oecusse;Oecusse;;;;;;;;;;;;;x
+c_oecusse_adj;Oecusse;;;;;;;;;;;;;x
+b_oecusse;Oecusse;;;;;;;;;;;;;x
+b_lifau;Lifau;;;;;;;;;;;;;x
+b_oesilo;Oesilo;;;;;;;;;;;;;x
+b_passabe;Passabe;;;;;;;;;;;;;x
+b_bitibe;Bitibe;;;;;;;;;;;;;x
+c_rote_timur;Rote;;;;;;;;;;;;;x
+c_rote_timur_adj;Rote;;;;;;;;;;;;;x
+b_bolatena;Bolatena;;;;;;;;;;;;;x
+b_daiama;Daiama;;;;;;;;;;;;;x
+b_faifua;Faifua;;;;;;;;;;;;;x
+b_hundi_hopo;Hundi Hopo;;;;;;;;;;;;;x
+c_kupang;Kupang;;;;;;;;;;;;;x
+c_kupang_adj;Kupang;;;;;;;;;;;;;x
+b_kupang;Kupang;;;;;;;;;;;;;x
+b_soe;Soe;;;;;;;;;;;;;x
+b_pariti;Pariti;;;;;;;;;;;;;x
+b_oetune;Oetune;;;;;;;;;;;;;x
+b_baun;Baun;;;;;;;;;;;;;x
+c_atambua;Atambua;;;;;;;;;;;;;x
+c_atambua_adj;Atambua;;;;;;;;;;;;;x
+b_atambua;Atambua;;;;;;;;;;;;;x
+b_betun;Betun;;;;;;;;;;;;;x
+b_kefamenanu;Kefamenanu;;;;;;;;;;;;;x
+b_halilulik;Halilulik;;;;;;;;;;;;;x
+b_atapupu;Atapupu;;;;;;;;;;;;;x
 b_dili;Dili;Dili;Dili;Dili;Dili;Dili;Dili;Dili;Dili;Dili;Dili;Dili;Dili;x
 b_kupano;Kupano;Kupano;Kupano;Kupano;Kupano;Kupano;Kupano;Kupano;Kupano;Kupano;Kupano;Kupano;Kupano;x
 b_baucau;Baucau;Baucau;Baucau;Baucau;Baucau;Baucau;Baucau;Baucau;Baucau;Baucau;Baucau;Baucau;Baucau;x
 b_suai;Suai;Suai;Suai;Suai;Suai;Suai;Suai;Suai;Suai;Suai;Suai;Suai;Suai;x
 b_baa;Baa;Baa;Baa;Baa;Baa;Baa;Baa;Baa;Baa;Baa;Baa;Baa;Baa;x
 b_tuluala;Tuluala;Tuluala;Tuluala;Tuluala;Tuluala;Tuluala;Tuluala;Tuluala;Tuluala;Tuluala;Tuluala;Tuluala;Tuluala;x
-b_soe;Soe;Soe;Soe;Soe;Soe;Soe;Soe;Soe;Soe;Soe;Soe;Soe;Soe;x
 b_besikama;Besikama;Besikama;Besikama;Besikama;Besikama;Besikama;Besikama;Besikama;Besikama;Besikama;Besikama;Besikama;Besikama;x
 c_kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;x
 c_kalabahi_adj;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;x
@@ -2094,6 +2140,19 @@ b_kolane;Kolane;Kolane;Kolane;Kolane;Kolane;Kolane;Kolane;Kolane;Kolane;Kolane;K
 b_mataroe;Mataroe;Mataroe;Mataroe;Mataroe;Mataroe;Mataroe;Mataroe;Mataroe;Mataroe;Mataroe;Mataroe;Mataroe;Mataroe;x
 d_sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;x
 d_sumba_adj;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;Sumba;x
+c_wetar;Wetar;;;;;;;;;;;;;x
+c_wetar_adj;Wetar;;;;;;;;;;;;;x
+b_lalikki;Lalikki;;;;;;;;;;;;;x
+b_hila;Hila;;;;;;;;;;;;;x
+b_tiakur;Tiakur;;;;;;;;;;;;;x
+b_arwala;Arwala;;;;;;;;;;;;;x
+c_alor;Alor;;;;;;;;;;;;;x
+c_alor_adj;Alor;;;;;;;;;;;;;x
+b_lamakera;Lamakera;;;;;;;;;;;;;x
+b_witihama;Witihama;;;;;;;;;;;;;x
+b_lewoleba;Lewoleba;;;;;;;;;;;;;x
+b_liko;Liko;;;;;;;;;;;;;x
+b_lewohajong;Lewohajong;;;;;;;;;;;;;x
 c_takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;x
 c_takang_adj;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;x
 b_waingapu;Waingapu;Waingapu;Waingapu;Waingapu;Waingapu;Waingapu;Waingapu;Waingapu;Waingapu;Waingapu;Waingapu;Waingapu;Waingapu;x
@@ -2255,7 +2314,7 @@ c_tidore_adj;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tido
 b_tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;x
 b_cobodu;Cobodu;Cobodu;Cobodu;Cobodu;Cobodu;Cobodu;Cobodu;Cobodu;Cobodu;Cobodu;Cobodu;Cobodu;Cobodu;x
 b_doyado;Doyado;Doyado;Doyado;Doyado;Doyado;Doyado;Doyado;Doyado;Doyado;Doyado;Doyado;Doyado;Doyado;x
-b_maftutu;Maftutu;Maftutu;Maftutu;Maftutu;Maftutu;Maftutu;Maftutu;Maftutu;Maftutu;Maftutu;Maftutu;Maftutu;Maftutu;x
+b_maftutu;Tahula;Tahula;Tahula;Tahula;Tahula;Tahula;Tahula;Tahula;Tahula;Tahula;Tahula;Tahula;Tahula;x
 b_gamgau;Gamgau;Gamgau;Gamgau;Gamgau;Gamgau;Gamgau;Gamgau;Gamgau;Gamgau;Gamgau;Gamgau;Gamgau;Gamgau;x
 b_mafugoya;Mafugoya;Mafugoya;Mafugoya;Mafugoya;Mafugoya;Mafugoya;Mafugoya;Mafugoya;Mafugoya;Mafugoya;Mafugoya;Mafugoya;Mafugoya;x
 b_rum;Rum;Rum;Rum;Rum;Rum;Rum;Rum;Rum;Rum;Rum;Rum;Rum;Rum;x
@@ -2384,3 +2443,7 @@ d_hormuz;Hormuz;;;;;;;;;;;;;x
 d_hormuz_adj;Hormuz;;;;;;;;;;;;;x
 b_mahanagakula;Mahanuwara;;;;;;;;;;;;;x
 b_rayigama;Colombo;;;;;;;;;;;;;x
+e_ayutthaya;Ayutthaya;;;;;;;;;;;;;x
+e_ayutthaya_adj;Ayutthaya;;;;;;;;;;;;;x
+k_oirats;Oirats;;;;;;;;;;;;;x
+k_oirats_adj;Oirat;;;;;;;;;;;;;x

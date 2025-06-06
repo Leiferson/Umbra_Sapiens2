@@ -127,4 +127,28 @@ spriteType = {
   name = "GFX_trait_military_jinshi"
   texturefile = "gfx/traits/military_jinshi.tga"
 }
+spriteType = {
+  name = "GFX_trait_thien_thai_buddhist"
+  texturefile = "gfx/traits/thien_thai.tga"
+}
+spriteType = {
+  name = "GFX_trait_hoa_nghiem_buddhist"
+  texturefile = "gfx/traits/hoa_nghiem.tga"
+}
+spriteType = {
+  name = "GFX_trait_thien_tong_buddhist"
+  texturefile = "gfx/traits/thien_tong.tga"
+}	
+spriteType = {
+  name = "GFX_trait_tinh_do_buddhist"
+  texturefile = "gfx/traits/tinh_do.tga"
+}		
+spriteType = {
+  name = "GFX_trait_nho_giao"
+  texturefile = "gfx/traits/nho_giao.tga"
+}		
+spriteType = {
+  name = "GFX_trait_dao_giao"
+  texturefile = "gfx/traits/dao_giao.tga"
+}		
 }

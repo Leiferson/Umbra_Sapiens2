@@ -4,9 +4,8 @@
 title = c_albany
 
 # Settlements
-max_settlements = 3
-b_albany = tribal
-b_quanpank = tribal
+max_settlements = 1
+b_albany-i = tribal
 
 # Misc
 culture = australian

@@ -2,7 +2,7 @@
 
 1000076487 = {
 	name="Mandresy"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="vazimba"
 	720.1.1={
@@ -15,7 +15,7 @@
 
 1000076488 = {
 	name="Niaina"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076487
@@ -29,7 +29,7 @@
 
 1000076489 = {
 	name="Haja"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076488
@@ -43,7 +43,7 @@
 
 1000076490 = {
 	name="Andrianjaka"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076489
@@ -57,7 +57,7 @@
 
 1000076491 = {
 	name="Narisoa"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076490
@@ -71,7 +71,7 @@
 
 1000076492 = {
 	name="Lova"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076491
@@ -85,7 +85,7 @@
 
 1000076493 = {
 	name="Rano"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076492
@@ -99,7 +99,7 @@
 
 1000076494 = {
 	name="Andrianantoandro"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076493
@@ -113,7 +113,7 @@
 
 1000076495 = {
 	name="Andriantsitakatrandriana"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076494
@@ -127,7 +127,7 @@
 
 1000076496 = {
 	name="Andriantsimitoviaminandriana"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076495
@@ -141,7 +141,7 @@
 
 1000076497 = {
 	name="Andrianavalona"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076496
@@ -158,7 +158,7 @@
 
 1000076498 = {
 	name="Tombovelo"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076497
@@ -172,7 +172,7 @@
 
 1000076499 = {
 	name="Haja"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076498
@@ -186,7 +186,7 @@
 
 1000076500 = {
 	name="Solofo"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076499
@@ -200,7 +200,7 @@
 
 1000076501 = {
 	name="Tsilavohery"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076500
@@ -214,7 +214,7 @@
 
 1000076502 = {
 	name="Tovohery"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076501
@@ -228,7 +228,7 @@
 
 1000076503 = {
 	name="Zazaharivelo"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076502
@@ -242,7 +242,7 @@
 
 1000076504 = {
 	name="Mandresy"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076503
@@ -256,7 +256,7 @@
 
 1000076505 = {
 	name="Andriantsimitoviaminandriandehibe"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076504
@@ -270,7 +270,7 @@
 
 1000076506 = {
 	name="Niaina"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076505
@@ -284,7 +284,7 @@
 
 1000076507 = {
 	name="Sedera"
-	dynasty=1000028277 #Harifanja
+	dynasty=3002 #Harifanja
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076506
@@ -300,7 +300,7 @@
 
 1000076508 = {
 	name="Toavina"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="vazimba"
 	720.1.1={
@@ -313,7 +313,7 @@
 
 1000076509 = {
 	name="Rano"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076508
@@ -327,7 +327,7 @@
 
 1000076510 = {
 	name="Andrianampoinimerina"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076509
@@ -341,7 +341,7 @@
 
 1000076511 = {
 	name="Andrianavalona"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076510
@@ -355,7 +355,7 @@
 
 1000076512 = {
 	name="Jaona"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076511
@@ -369,7 +369,7 @@
 
 1000076513 = {
 	name="Tsimisotry"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076512
@@ -383,7 +383,7 @@
 
 1000076514 = {
 	name="Hamada"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076513
@@ -397,7 +397,7 @@
 
 1000076515 = {
 	name="Mamisoa"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076514
@@ -411,7 +411,7 @@
 
 1000076516 = {
 	name="Andrianantoandro"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076515
@@ -425,7 +425,7 @@
 
 1000076517 = {
 	name="Zazaharivelo"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076516
@@ -439,7 +439,7 @@
 
 1000076518 = {
 	name="Andriambelomasina"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076517
@@ -456,7 +456,7 @@
 
 1000076519 = {
 	name="Odon"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076518
@@ -470,7 +470,7 @@
 
 1000076520 = {
 	name="Mandresy"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076519
@@ -484,7 +484,7 @@
 
 1000076521 = {
 	name="Faneva"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076520
@@ -498,7 +498,7 @@
 
 1000076522 = {
 	name="Andriantsitakatrandriana"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076521
@@ -512,7 +512,7 @@
 
 1000076523 = {
 	name="Zazaharivelo"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076522
@@ -526,7 +526,7 @@
 
 1000076524 = {
 	name="Lova"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076523
@@ -540,7 +540,7 @@
 
 1000076525 = {
 	name="Mamisoa"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076524
@@ -554,7 +554,7 @@
 
 1000076526 = {
 	name="Andrianjaka"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076525
@@ -568,7 +568,7 @@
 
 1000076527 = {
 	name="Odon"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076526
@@ -582,7 +582,7 @@
 
 1000076528 = {
 	name="Andrianasy"
-	dynasty=1000028278 #Rakotondramboa
+	dynasty=3003 #Rakotondramboa
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076527
@@ -597,7 +597,7 @@
 
 1000076529 = {
 	name="Narisoa"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="vazimba"
 	720.1.1={
@@ -610,7 +610,7 @@
 
 1000076530 = {
 	name="Andrianantoandro"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076529
@@ -624,7 +624,7 @@
 
 1000076531 = {
 	name="Tsilavohery"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076530
@@ -638,7 +638,7 @@
 
 1000076532 = {
 	name="Haja"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076531
@@ -652,7 +652,7 @@
 
 1000076533 = {
 	name="Andriamasinavalona"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076532
@@ -666,7 +666,7 @@
 
 1000076534 = {
 	name="Jaona"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076533
@@ -680,7 +680,7 @@
 
 1000076535 = {
 	name="Zafiamiarina"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076534
@@ -694,7 +694,7 @@
 
 1000076536 = {
 	name="Hamada"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076535
@@ -708,7 +708,7 @@
 
 1000076537 = {
 	name="Andrianavalona"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076536
@@ -722,7 +722,7 @@
 
 1000076538 = {
 	name="Niaina"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076537
@@ -736,7 +736,7 @@
 
 1000076539 = {
 	name="Andrianantoandro"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076538
@@ -753,7 +753,7 @@
 
 1000076540 = {
 	name="Tsimisotry"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076539
@@ -767,7 +767,7 @@
 
 1000076541 = {
 	name="Andriambelomasina"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076540
@@ -781,7 +781,7 @@
 
 1000076542 = {
 	name="Mandresy"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076541
@@ -795,7 +795,7 @@
 
 1000076543 = {
 	name="Andriamasinavalona"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076542
@@ -809,7 +809,7 @@
 
 1000076544 = {
 	name="Mandresy"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076543
@@ -823,7 +823,7 @@
 
 1000076545 = {
 	name="Mampihao"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076544
@@ -837,7 +837,7 @@
 
 1000076546 = {
 	name="Mandresy"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076545
@@ -851,7 +851,7 @@
 
 1000076547 = {
 	name="Solofo"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076546
@@ -865,7 +865,7 @@
 
 1000076548 = {
 	name="Ralambo"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076547
@@ -879,7 +879,7 @@
 
 1000076549 = {
 	name="Solofo"
-	dynasty=1000028279 #Zakaheloy
+	dynasty=3004 #Zakaheloy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076548
@@ -895,7 +895,7 @@
 
 1000076550 = {
 	name="Andriambelomasina"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="vazimba"
 	720.1.1={
@@ -908,7 +908,7 @@
 
 1000076551 = {
 	name="Andriamasinavalona"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076550
@@ -922,7 +922,7 @@
 
 1000076552 = {
 	name="Haja"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076551
@@ -936,7 +936,7 @@
 
 1000076553 = {
 	name="Mamisoa"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076552
@@ -950,7 +950,7 @@
 
 1000076554 = {
 	name="Mandresy"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076553
@@ -964,7 +964,7 @@
 
 1000076555 = {
 	name="Solofo"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076554
@@ -978,7 +978,7 @@
 
 1000076556 = {
 	name="Solofo"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076555
@@ -992,7 +992,7 @@
 
 1000076557 = {
 	name="Jaona"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076556
@@ -1006,7 +1006,7 @@
 
 1000076558 = {
 	name="Andrianantoandro"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076557
@@ -1020,7 +1020,7 @@
 
 1000076559 = {
 	name="Tsilavohery"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076558
@@ -1034,7 +1034,7 @@
 
 1000076560 = {
 	name="Tovohery"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076559
@@ -1051,7 +1051,7 @@
 
 1000076561 = {
 	name="Mandresy"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076560
@@ -1065,7 +1065,7 @@
 
 1000076562 = {
 	name="Tsilavohery"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076561
@@ -1079,7 +1079,7 @@
 
 1000076563 = {
 	name="Andrianantoandro"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076562
@@ -1093,7 +1093,7 @@
 
 1000076564 = {
 	name="Andriantsimitoviaminandriana"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076563
@@ -1107,7 +1107,7 @@
 
 1000076565 = {
 	name="Anja"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076564
@@ -1121,7 +1121,7 @@
 
 1000076566 = {
 	name="Rano"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076565
@@ -1135,7 +1135,7 @@
 
 1000076567 = {
 	name="Andriamasinavalona"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076566
@@ -1149,7 +1149,7 @@
 
 1000076568 = {
 	name="Lova"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076567
@@ -1163,7 +1163,7 @@
 
 1000076569 = {
 	name="Niaina"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076568
@@ -1177,7 +1177,7 @@
 
 1000076570 = {
 	name="Radama"
-	dynasty=1000028280 #Rasoarizay
+	dynasty=3005 #Rasoarizay
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076569
@@ -1193,7 +1193,7 @@
 
 1000076571 = {
 	name="Andrianampoinimerina"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="vazimba"
 	720.1.1={
@@ -1206,7 +1206,7 @@
 
 1000076572 = {
 	name="Lova"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076571
@@ -1220,7 +1220,7 @@
 
 1000076573 = {
 	name="Jaona"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076572
@@ -1234,7 +1234,7 @@
 
 1000076574 = {
 	name="Jaona"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076573
@@ -1248,7 +1248,7 @@
 
 1000076575 = {
 	name="Andrianary"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076574
@@ -1262,7 +1262,7 @@
 
 1000076576 = {
 	name="Andriantsimitoviaminandriana"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076575
@@ -1276,7 +1276,7 @@
 
 1000076577 = {
 	name="Zafiamiarina"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076576
@@ -1290,7 +1290,7 @@
 
 1000076578 = {
 	name="Narisoa"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076577
@@ -1304,7 +1304,7 @@
 
 1000076579 = {
 	name="Andrianampoinimerina"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076578
@@ -1318,7 +1318,7 @@
 
 1000076580 = {
 	name="Hamada"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076579
@@ -1332,7 +1332,7 @@
 
 1000076581 = {
 	name="Andrianavalona"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076580
@@ -1349,7 +1349,7 @@
 
 1000076582 = {
 	name="Andrianavalona"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076581
@@ -1363,7 +1363,7 @@
 
 1000076583 = {
 	name="Andrianavalona"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076582
@@ -1377,7 +1377,7 @@
 
 1000076584 = {
 	name="Andriambelomasina"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076583
@@ -1391,7 +1391,7 @@
 
 1000076585 = {
 	name="Anja"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076584
@@ -1405,7 +1405,7 @@
 
 1000076586 = {
 	name="Andrianampoinimerina"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076585
@@ -1419,7 +1419,7 @@
 
 1000076587 = {
 	name="Andriantsimitoviaminandriana"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076586
@@ -1433,7 +1433,7 @@
 
 1000076588 = {
 	name="Andrianavalona"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076587
@@ -1447,7 +1447,7 @@
 
 1000076589 = {
 	name="Andriambelomasina"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076588
@@ -1461,7 +1461,7 @@
 
 1000076590 = {
 	name="Andriantsimitoviaminandriandehibe"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076589
@@ -1475,7 +1475,7 @@
 
 1000076591 = {
 	name="Andrianavalona"
-	dynasty=1000028281 #Saholinirina
+	dynasty=3006 #Saholinirina
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076590
@@ -1491,7 +1491,7 @@
 
 1000076592 = {
 	name="Tombovelo"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="vazimba"
 	720.1.1={
@@ -1504,7 +1504,7 @@
 
 1000076593 = {
 	name="Andrianantoandro"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076592
@@ -1518,7 +1518,7 @@
 
 1000076594 = {
 	name="Andriantsimitoviaminandriandehibe"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076593
@@ -1532,7 +1532,7 @@
 
 1000076595 = {
 	name="Tsimisotry"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076594
@@ -1546,7 +1546,7 @@
 
 1000076596 = {
 	name="Andrianjafynandriamanitra"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076595
@@ -1560,7 +1560,7 @@
 
 1000076597 = {
 	name="Rano"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076596
@@ -1574,7 +1574,7 @@
 
 1000076598 = {
 	name="Tsiory"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076597
@@ -1588,7 +1588,7 @@
 
 1000076599 = {
 	name="Andriantsimitoviaminandriana"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076598
@@ -1602,7 +1602,7 @@
 
 1000076600 = {
 	name="Faneva"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076599
@@ -1616,7 +1616,7 @@
 
 1000076601 = {
 	name="Tsiory"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076600
@@ -1630,7 +1630,7 @@
 
 1000076602 = {
 	name="Andriantsimitoviaminandriana"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076601
@@ -1647,7 +1647,7 @@
 
 1000076603 = {
 	name="Andriambelomasina"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076602
@@ -1661,7 +1661,7 @@
 
 1000076604 = {
 	name="Andrianjafynandriamanitra"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076603
@@ -1675,7 +1675,7 @@
 
 1000076605 = {
 	name="Niaina"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076604
@@ -1689,7 +1689,7 @@
 
 1000076606 = {
 	name="Mampihao"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076605
@@ -1703,7 +1703,7 @@
 
 1000076607 = {
 	name="Andrianary"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076606
@@ -1717,7 +1717,7 @@
 
 1000076608 = {
 	name="Jaona"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076607
@@ -1731,7 +1731,7 @@
 
 1000076609 = {
 	name="Radama"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076608
@@ -1745,7 +1745,7 @@
 
 1000076610 = {
 	name="Andrianantoandro"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076609
@@ -1759,7 +1759,7 @@
 
 1000076611 = {
 	name="Radama"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076610
@@ -1773,7 +1773,7 @@
 
 1000076612 = {
 	name="Mandresy"
-	dynasty=1000028283 #Rabarivony
+	dynasty=3008 #Rabarivony
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076611
@@ -1789,7 +1789,7 @@
 
 1000076613 = {
 	name="Tombovelo"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="vazimba"
 	720.1.1={
@@ -1802,7 +1802,7 @@
 
 1000076614 = {
 	name="Mamisoa"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076613
@@ -1816,7 +1816,7 @@
 
 1000076615 = {
 	name="Toavina"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076614
@@ -1830,7 +1830,7 @@
 
 1000076616 = {
 	name="Andriantsimitoviaminandriana"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076615
@@ -1844,7 +1844,7 @@
 
 1000076617 = {
 	name="Narisoa"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076616
@@ -1858,7 +1858,7 @@
 
 1000076618 = {
 	name="Andrianavalona"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076617
@@ -1872,7 +1872,7 @@
 
 1000076619 = {
 	name="Tovohery"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076618
@@ -1886,7 +1886,7 @@
 
 1000076620 = {
 	name="Andrianavalona"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076619
@@ -1900,7 +1900,7 @@
 
 1000076621 = {
 	name="Narisoa"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076620
@@ -1914,7 +1914,7 @@
 
 1000076622 = {
 	name="Mamisoa"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076621
@@ -1928,7 +1928,7 @@
 
 1000076623 = {
 	name="Niaina"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076622
@@ -1945,7 +1945,7 @@
 
 1000076624 = {
 	name="Anja"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076623
@@ -1959,7 +1959,7 @@
 
 1000076625 = {
 	name="Andriantsimitoviaminandriandehibe"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076624
@@ -1973,7 +1973,7 @@
 
 1000076626 = {
 	name="Toavina"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076625
@@ -1987,7 +1987,7 @@
 
 1000076627 = {
 	name="Mampihao"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076626
@@ -2001,7 +2001,7 @@
 
 1000076628 = {
 	name="Andriantsitakatrandriana"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076627
@@ -2015,7 +2015,7 @@
 
 1000076629 = {
 	name="Lova"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076628
@@ -2029,7 +2029,7 @@
 
 1000076630 = {
 	name="Andrianampoinimerina"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076629
@@ -2043,7 +2043,7 @@
 
 1000076631 = {
 	name="Narisoa"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076630
@@ -2057,7 +2057,7 @@
 
 1000076632 = {
 	name="Rano"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076631
@@ -2071,7 +2071,7 @@
 
 1000076633 = {
 	name="Tsimisotry"
-	dynasty=1000028284 #Rakotomanga
+	dynasty=3009 #Rakotomanga
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076632
@@ -2087,7 +2087,7 @@
 
 1000076634 = {
 	name="Andrianantoandro"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="vazimba"
 	720.1.1={
@@ -2100,7 +2100,7 @@
 
 1000076635 = {
 	name="Tsilavohery"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076634
@@ -2114,7 +2114,7 @@
 
 1000076636 = {
 	name="Andriantsimitoviaminandriandehibe"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076635
@@ -2128,7 +2128,7 @@
 
 1000076637 = {
 	name="Andrianjaka"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076636
@@ -2142,7 +2142,7 @@
 
 1000076638 = {
 	name="Andriamasinavalona"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076637
@@ -2156,7 +2156,7 @@
 
 1000076639 = {
 	name="Zazaharivelo"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076638
@@ -2170,7 +2170,7 @@
 
 1000076640 = {
 	name="Zafiamiarina"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076639
@@ -2184,7 +2184,7 @@
 
 1000076641 = {
 	name="Andriantsimitoviaminandriandehibe"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076640
@@ -2198,7 +2198,7 @@
 
 1000076642 = {
 	name="Tovohery"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076641
@@ -2212,7 +2212,7 @@
 
 1000076643 = {
 	name="Anja"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076642
@@ -2226,7 +2226,7 @@
 
 1000076644 = {
 	name="Odon"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076643
@@ -2243,7 +2243,7 @@
 
 1000076645 = {
 	name="Zazaharivelo"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076644
@@ -2257,7 +2257,7 @@
 
 1000076646 = {
 	name="Hamada"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076645
@@ -2271,7 +2271,7 @@
 
 1000076647 = {
 	name="Lova"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076646
@@ -2285,7 +2285,7 @@
 
 1000076648 = {
 	name="Andriamasinavalona"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076647
@@ -2299,7 +2299,7 @@
 
 1000076649 = {
 	name="Narisoa"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076648
@@ -2313,7 +2313,7 @@
 
 1000076650 = {
 	name="Mandresy"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076649
@@ -2327,7 +2327,7 @@
 
 1000076651 = {
 	name="Andrianantoandro"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076650
@@ -2341,7 +2341,7 @@
 
 1000076652 = {
 	name="Jaona"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076651
@@ -2355,7 +2355,7 @@
 
 1000076653 = {
 	name="Andrianjaka"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076652
@@ -2369,7 +2369,7 @@
 
 1000076654 = {
 	name="Andrianjafynandriamanitra"
-	dynasty=1000028285 #Andrianaivo
+	dynasty=3010 #Andrianaivo
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076653
@@ -2385,7 +2385,7 @@
 
 1000076655 = {
 	name="Haja"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="vazimba"
 	720.1.1={
@@ -2398,7 +2398,7 @@
 
 1000076656 = {
 	name="Andrianampoinimerina"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076655
@@ -2412,7 +2412,7 @@
 
 1000076657 = {
 	name="Ralambo"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076656
@@ -2426,7 +2426,7 @@
 
 1000076658 = {
 	name="Andriantsitakatrandriana"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076657
@@ -2440,7 +2440,7 @@
 
 1000076659 = {
 	name="Razafitiana"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076658
@@ -2454,7 +2454,7 @@
 
 1000076660 = {
 	name="Tsilavohery"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076659
@@ -2468,7 +2468,7 @@
 
 1000076661 = {
 	name="Tovohery"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076660
@@ -2482,7 +2482,7 @@
 
 1000076662 = {
 	name="Mandresy"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076661
@@ -2496,7 +2496,7 @@
 
 1000076663 = {
 	name="Tsiory"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076662
@@ -2510,7 +2510,7 @@
 
 1000076664 = {
 	name="Andriantsitakatrandriana"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076663
@@ -2524,7 +2524,7 @@
 
 1000076665 = {
 	name="Andrianasy"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076664
@@ -2541,7 +2541,7 @@
 
 1000076666 = {
 	name="Mamisoa"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076665
@@ -2555,7 +2555,7 @@
 
 1000076667 = {
 	name="Andriantsimitoviaminandriandehibe"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076666
@@ -2569,7 +2569,7 @@
 
 1000076668 = {
 	name="Andriantsitakatrandriana"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076667
@@ -2583,7 +2583,7 @@
 
 1000076669 = {
 	name="Tombovelo"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076668
@@ -2597,7 +2597,7 @@
 
 1000076670 = {
 	name="Tsilavohery"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076669
@@ -2611,7 +2611,7 @@
 
 1000076671 = {
 	name="Andrianasy"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076670
@@ -2625,7 +2625,7 @@
 
 1000076672 = {
 	name="Radama"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076671
@@ -2639,7 +2639,7 @@
 
 1000076673 = {
 	name="Tombovelo"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076672
@@ -2653,7 +2653,7 @@
 
 1000076674 = {
 	name="Andriantsitakatrandriana"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076673
@@ -2667,7 +2667,7 @@
 
 1000076675 = {
 	name="Andrianasy"
-	dynasty=1000028286 #Rajaozara
+	dynasty=3011 #Rajaozara
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076674
@@ -2683,7 +2683,7 @@
 
 1000076445 = {
 	name="Haja"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="vazimba"
 	720.1.1={
@@ -2696,7 +2696,7 @@
 
 1000076446 = {
 	name="Andrianjaka"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076445
@@ -2710,7 +2710,7 @@
 
 1000076447 = {
 	name="Rano"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076446
@@ -2724,7 +2724,7 @@
 
 1000076448 = {
 	name="Jaona"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076447
@@ -2738,7 +2738,7 @@
 
 1000076449 = {
 	name="Tsilavohery"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076448
@@ -2752,7 +2752,7 @@
 
 1000076450 = {
 	name="Odon"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076449
@@ -2766,7 +2766,7 @@
 
 1000076451 = {
 	name="Toavina"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076450
@@ -2780,7 +2780,7 @@
 
 1000076452 = {
 	name="Andrianantoandro"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076451
@@ -2794,7 +2794,7 @@
 
 1000076453 = {
 	name="Andrianasy"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076452
@@ -2808,7 +2808,7 @@
 
 1000076454 = {
 	name="Mamisoa"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076453
@@ -2822,7 +2822,7 @@
 
 1000076455 = {
 	name="Anja"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076454
@@ -2839,7 +2839,7 @@
 
 1000076456 = {
 	name="Mandresy"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076455
@@ -2853,7 +2853,7 @@
 
 1000076457 = {
 	name="Rano"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076456
@@ -2867,7 +2867,7 @@
 
 1000076458 = {
 	name="Anja"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076457
@@ -2881,7 +2881,7 @@
 
 1000076459 = {
 	name="Mamisoa"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076458
@@ -2895,7 +2895,7 @@
 
 1000076460 = {
 	name="Faneva"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076459
@@ -2909,7 +2909,7 @@
 
 1000076461 = {
 	name="Zafiamiarina"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076460
@@ -2923,7 +2923,7 @@
 
 1000076462 = {
 	name="Sedera"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076461
@@ -2937,7 +2937,7 @@
 
 1000076463 = {
 	name="Anja"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076462
@@ -2951,7 +2951,7 @@
 
 1000076464 = {
 	name="Niaina"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076463
@@ -2965,7 +2965,7 @@
 
 1000076465 = {
 	name="Solofo"
-	dynasty=1000028276 #Tsiandopy
+	dynasty=3001 #Tsiandopy
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076464
@@ -2981,7 +2981,7 @@
 
 1000076466 = {
 	name="Rano"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="vazimba"
 	720.1.1={
@@ -2994,7 +2994,7 @@
 
 1000076467 = {
 	name="Andriambelomasina"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076466
@@ -3008,7 +3008,7 @@
 
 1000076468 = {
 	name="Mamisoa"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076467
@@ -3022,7 +3022,7 @@
 
 1000076469 = {
 	name="Anja"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076468
@@ -3036,7 +3036,7 @@
 
 1000076470 = {
 	name="Lova"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076469
@@ -3050,7 +3050,7 @@
 
 1000076471 = {
 	name="Tovohery"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076470
@@ -3064,7 +3064,7 @@
 
 1000076472 = {
 	name="Lova"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076471
@@ -3078,7 +3078,7 @@
 
 1000076473 = {
 	name="Andrianampoinimerina"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076472
@@ -3092,7 +3092,7 @@
 
 1000076474 = {
 	name="Tsilavohery"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076473
@@ -3106,7 +3106,7 @@
 
 1000076475 = {
 	name="Andrianary"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076474
@@ -3120,7 +3120,7 @@
 
 1000076476 = {
 	name="Hamada"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="vazimba"
 	father=1000076475
@@ -3137,7 +3137,7 @@
 
 1000076477 = {
 	name="Andrianjaka"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076476
@@ -3151,7 +3151,7 @@
 
 1000076478 = {
 	name="Tsilavohery"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076477
@@ -3165,7 +3165,7 @@
 
 1000076479 = {
 	name="Mampihao"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076478
@@ -3179,7 +3179,7 @@
 
 1000076480 = {
 	name="Odon"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076479
@@ -3193,7 +3193,7 @@
 
 1000076481 = {
 	name="Zafiamiarina"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076480
@@ -3207,7 +3207,7 @@
 
 1000076482 = {
 	name="Andrianavalona"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076481
@@ -3221,7 +3221,7 @@
 
 1000076483 = {
 	name="Mampihao"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076482
@@ -3235,7 +3235,7 @@
 
 1000076484 = {
 	name="Radama"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076483
@@ -3249,7 +3249,7 @@
 
 1000076485 = {
 	name="Tsimisotry"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076484
@@ -3263,7 +3263,7 @@
 
 1000076486 = {
 	name="Sedera"
-	dynasty=1000028282 #Randrianekena
+	dynasty=3007 #Randrianekena
 	religion="malagasy_religion"
 	culture="malagasy"
 	father=1000076485

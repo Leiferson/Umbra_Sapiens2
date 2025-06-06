@@ -4,9 +4,8 @@
 title = c_ceduna
 
 # Settlements
-max_settlements = 5
-b_ceduna = tribal
-b_coober_pedy = tribal
+max_settlements = 1
+b_ceduna-i = tribal
 
 # Misc
 culture = australian

@@ -2,7 +2,7 @@
 
 1000080458 = {
 	name="Santanu"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="hindu"
 	culture="javanese"
 	600.1.1={
@@ -16,7 +16,7 @@
 
 1000080459 = {
 	name="Dapunta"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="hindu"
 	culture="javanese"
 	father=1000080458
@@ -32,7 +32,7 @@
 1000080460 = {
 	name="Shima"
 	female=yes
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="hindu"
 	culture="javanese"
 	father=1000080459
@@ -48,7 +48,7 @@
 1000080461 = {
 	name="Dewi-Parwati"
 	female=yes
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="hindu"
 	culture="javanese"
 	mother=1000080460
@@ -64,7 +64,7 @@
 1000080462 = {
 	name="Sanaha"
 	female=yes
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="hindu"
 	culture="javanese"
 	mother=1000080461
@@ -79,7 +79,7 @@
 
 1000080463 = {
 	name="Narayana"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="javanese"
 	mother=1000080460
@@ -93,7 +93,7 @@
 
 1000080464 = {
 	name="Bhanu"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="javanese"
 	father=1000080463
@@ -107,7 +107,7 @@
 
 1000080465 = {
 	name="Wisnu"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="javanese"
 	father=1000080464
@@ -122,7 +122,7 @@
 1000080466 = {
 	name="Sudiwara"
 	female=yes
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="hindu"
 	culture="javanese"
 	father=1000080464
@@ -137,7 +137,7 @@
 
 1000080467 = {
 	name="Dharanindra"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="javanese"
 	father=1000080465
@@ -151,7 +151,7 @@
 
 1000080468 = {
 	name="Samaragrawira"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="javanese"
 	father=1000080467
@@ -168,7 +168,7 @@
 
 1000080469 = {
 	name="Samaratungga"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="javanese"
 	father=1000080468
@@ -184,7 +184,7 @@
 1000080471 = {
 	name="Pramodawardhani"
 	female=yes
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="javanese"
 	father=1000080469
@@ -862,8 +862,8 @@
 		birth="1305.1.1"
 		add_trait = kshatriya
 	}
-	1343.1.1={
-		death="1343.1.1"
+	1387.1.1={
+		death="1387.1.1"
 	}
 }
 

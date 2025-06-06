@@ -180,7 +180,7 @@
 	1310.7.8 = {
 		birth = yes
 	}
-	1342.8.24 = {
+	1368.1.1 = {
 		death = yes
 	}
 }
@@ -1072,6 +1072,7 @@
    add_trait="sympathy_judaism"
    add_trait="sympathy_pagans"
    add_trait="child_of_consort"
+   trait="vajrayana_buddhist"
    1257.1.1={
      birth=yes
    }
@@ -1410,6 +1411,7 @@
    }
    1290.1.2={
      religion="buddhist" #Buddhism
+	 trait="vajrayana_buddhist"
      name="Öljeitü"
    }
    1295.6.16={
@@ -1486,6 +1488,7 @@
    add_trait="sympathy_zoroastrianism"
    add_trait="sympathy_judaism"
    add_trait="sympathy_christendom"
+   trait="vajrayana_buddhist"
    1234.1.1={
      birth=yes
    }
@@ -4343,6 +4346,7 @@
    }
    1247.1.1={
      religion="buddhist"
+	 trait="vajrayana_buddhist"
    }#converted to Tibetan Buddhism by Sakya Pandita
    1251.1.1={
      death=yes
@@ -4536,6 +4540,7 @@
    1253.1.1 = {
      religion="buddhist"
      add_trait="sympathy_pagans"
+	 trait="vajrayana_buddhist"
    }#Initiated by Drogön Chögyal Phagpa
    1259.1.1 = {
      effect={add_rival=125526}
@@ -4572,6 +4577,7 @@
    1253.1.1 = {
      religion="buddhist"
      add_trait="sympathy_pagans"
+	 trait="vajrayana_buddhist"
    }#Initiated by Drogön Chögyal Phagpa
    1281.6.6 = {
      death=yes
@@ -4581,6 +4587,7 @@
    name="Jingim Zhenjin" # Zhenjin, Son of Kublai Khan
    dynasty=11100
    religion="buddhist" #supporter of Confucianism
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -4603,6 +4610,7 @@
    name="Temür Öljeytü" # Temür Khan
    dynasty=11100
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -4625,6 +4633,7 @@
    name="Darmabala" # Grandson of Kublai Khan
    dynasty=11100
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -4647,6 +4656,7 @@
    name="Külüg" # Külüg Khan
    dynasty=11100
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -4666,6 +4676,7 @@
    name="Ayurbarwada" # Buyantu Khan
    dynasty=11100
    religion="buddhist" #favored Confucian systems
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -4692,6 +4703,7 @@
    female=yes
    dynasty=1051125 # Khunggirad
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    father=217278
    1284.5.5 = {
@@ -4705,6 +4717,7 @@
    name="Shidibala" # Gegeen Khan
    dynasty=11100
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -4733,6 +4746,7 @@
    add_trait="sympathy_zoroastrianism"
    add_trait="sympathy_judaism"
    add_trait="sympathy_pagans"
+   trait="vajrayana_buddhist"
    father=217268
    mother=166971
    1260.3.3 = {
@@ -4761,6 +4775,7 @@
    name="Buyan Kelmish"
    dynasty=1051125 # Khunggirad
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    female=yes
    father=217276
@@ -4775,6 +4790,7 @@
    name="Guchu" # fictional
    dynasty=1051125 # Khunggirad
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    1267.5.5 = {
      birth=yes
@@ -4787,6 +4803,7 @@
    name="Yesün Temür" # Yesün Temür Khan
    dynasty=11100
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -4809,6 +4826,7 @@
    name="Ragibagh" # Ragibagh Khan
    dynasty=11100
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -4830,6 +4848,7 @@
    name="Jayaatu" # Jayaatu Khan
    dynasty=11100
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -4851,6 +4870,7 @@
    name="Khutughtu" # Khutughtu Khan Kusala
    dynasty=11100
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -4875,6 +4895,7 @@
    name="Rinchinbal" # Rinchinbal Khan
    dynasty=11100
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -4894,6 +4915,7 @@
    name="Toghon Temür" # Toghon Temür Khan
    dynasty=11100
    religion="buddhist"
+   trait="vajrayana_buddhist"
    culture="mongol"
    add_trait="sympathy_christendom"
    add_trait="sympathy_islam"
@@ -5089,7 +5111,7 @@
 	1316.3.15 = {
 		birth = yes
 	}
-	1346.2.8 = {
+	1368.1.1 = {
 		death = yes
 	}
 }
@@ -5103,7 +5125,7 @@
 	1318.5.12 = {
 		birth = yes
 	}
-	1341.5.27 = {
+	1375.1.1 = {
 		death = yes
 	}
 }
@@ -7891,6 +7913,7 @@
 	name="Manggala" # Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217266
 	mother=217267
@@ -7950,6 +7973,7 @@
 	name="Saqulghachi" # Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217266
 	mother=217267
@@ -7964,6 +7988,7 @@
 	name="Qughchu" # Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217266
 	mother=217267
@@ -7978,6 +8003,7 @@
 	name="Toghan" # Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217266
 	mother=217267
@@ -7993,6 +8019,7 @@
 	female=yes
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217266
 	mother=166957
@@ -8048,6 +8075,7 @@
 	name="Khulan Temür" # Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217266
 	mother=166968
@@ -8062,6 +8090,7 @@
 	name="Tsever" # Son of Kublai Khan
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217266
 	mother=166968
@@ -8077,6 +8106,7 @@
 	female=yes
 	dynasty=1040080
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	1242.1.1 = {
 		birth=yes
@@ -8090,6 +8120,7 @@
 	female=yes
 	dynasty=1051138
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	1265.1.1 = {
 		birth=yes
@@ -8102,6 +8133,7 @@
 	name="Teshou" # son of Temür Khan
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217269
 	mother=166972
@@ -8117,6 +8149,7 @@
 	female=yes
 	dynasty=1051125
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	1264.1.1 = {
 		birth=yes
@@ -8143,6 +8176,7 @@
 	female=yes
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217270
 	mother=166974
@@ -8210,6 +8244,7 @@
 	female=yes
 	dynasty=1051125
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	1301.1.1 = {
 		birth=yes
@@ -8223,6 +8258,7 @@
 	female=yes
 	dynasty=1051125
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	1303.1.1 = {
 		birth=yes
@@ -8235,6 +8271,7 @@
 	name="El Tegüs" # son of Tugh Temur Khan
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217281
 	mother=166982
@@ -8262,6 +8299,7 @@
 	name="Aratnadara" # son of Tugh Temur Khan
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217281
 	mother=166982
@@ -8277,6 +8315,7 @@
 	female=yes
 	dynasty=11100
 	religion="buddhist"
+	trait="vajrayana_buddhist"
 	culture="mongol"
 	father=217281
 	mother=166982
