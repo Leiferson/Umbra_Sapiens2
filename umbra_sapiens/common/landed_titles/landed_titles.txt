@@ -33043,6 +33043,7 @@ e_spain = {
 				b_atouguia = {}
 				b_lisboa-ii = {}
 				b_lisboa-iii = {}
+				b_lisboa-iv = {}
 			}
 			c_almada = {
 				color={ 185 90 5 }
@@ -39054,6 +39055,8 @@ e_abyssinia = {
 		culture = ethiopian
 		
 		jewish_group = 100
+		title = "NAGAST"
+		title_female = "NAGASTAT"
 		
 		d_axum = {
 			color={ 186 135 70 }
@@ -43306,186 +43309,19 @@ e_mali = {
 	allow = {
 		is_colonial = no
 	}
-	k_cotedivoire = {
+	k_nigeria = {
 
-		color = { 175 85 52 }
+		color = { 194 24 90 }
 		color2 = { 250 250 250 }
-
-		capital = 3341 #
-		muslim = 80
-		d_senegal = {
-		color={ 155 120 70 }
-		color2={ 255 255 255 }
-		c_kaolack = {
-				color={ 4 137 87 }
-				color2={ 255 255 255 }
-				
-				b_kaolack = {}
-				b_kaolack-ii = {}
-				b_kaolack-iii = {}
-				b_kaolack-iv = {}
-			}
-		c_mbacke = {
-				color={ 10 167 87 }
-				color2={ 255 255 255 }
-				
-				b_mbacke = {}
-				b_mbacke-ii = {}
-				b_mbacke-iii = {}
-				b_mbacke-iv = {}
-			}
-		c_fatick = {
-				color={ 20 167 87 }
-				color2={ 255 255 255 }
-				
-				b_fatick = {}
-				b_fatick-ii = {}
-				b_fatick-iii = {}
-				b_fatick-iv = {}
-			}
-		c_thies = {
-				color={ 30 167 87 }
-				color2={ 255 255 255 }
-				
-				b_thies = {}
-				b_thies-ii = {}
-				b_thies-iii = {}
-				b_thies-iv = {}
-			}
-		c_portodeale = {
-				color={ 40 167 87 }
-				color2={ 255 255 255 }
-				
-				b_portodeale = {}
-				b_portodeale-ii = {}
-				b_portodeale-iii = {}
-				b_portodeale-iv = {}
-			}
-		c_dakar = {
-				color={ 50 167 87 }
-				color2={ 255 255 255 }
-				
-				b_dakar = {}
-				b_dakar-ii = {}
-				b_dakar-iii = {}
-				b_dakar-iv = {}
-				b_dakar-v = {}
-				b_dakar-vi = {}
-			}
-			}
-		d_gambia = {
-		color={ 155 120 70 }
-		color2={ 255 255 255 }
-		c_banjul = {
-				color={ 145 20 87 }
-				color2={ 255 255 255 }
-				
-				b_banjul = {}
-				b_banjul-ii = {}
-				b_banjul-iii = {}
-				b_banjul-iv = {}
-			}
-		c_basse = {
-				color={ 145 30 87 }
-				color2={ 255 255 255 }
-				
-				b_basse = {}
-				b_basse-ii = {}
-				b_basse-iii = {}
-				b_basse-iv = {}
-			}
-			}
-		d_ziguinchor = {
-		color={ 155 120 70 }
-		color2={ 255 255 255 }
-		c_kolda = {
-				color={ 145 167 150 }
-				color2={ 255 255 255 }
-				
-				b_kolda = {}
-				b_kolda-ii = {}
-				b_kolda-iii = {}
-				b_kolda-iv = {}
-			}
-		c_sedhiou = {
-				color={ 145 167 160 }
-				color2={ 255 255 255 }
-				
-				b_sedhiou = {}
-				b_sedhiou-ii = {}
-				b_sedhiou-iii = {}
-				b_sedhiou-iv = {}
-			}
-		c_ziguinchor = {
-				color={ 145 167 170 }
-				color2={ 255 255 255 }
-				
-				b_ziguinchor = {}
-				b_ziguinchor-ii = {}
-				b_ziguinchor-iii = {}
-				b_ziguinchor-iv = {}
-				b_ziguinchor-v = {}
-			}
-		}
-		d_guinebissau = {
-				color={ 145 187 97 }
-				color2={ 255 255 255 }
-		c_bissau = {
-				color={ 145 177 97 }
-				color2={ 255 255 255 }
-				
-				b_bissau = {}
-				b_bissau-ii = {}
-				b_bissau-iii = {}
-			}
-			c_cacheu = {
-				color={ 145 167 87 }
-				color2={ 255 255 255 }
-				
-				b_cacheu = {}
-				b_cacheu-ii = {}
-				b_cacheu-iii = {}
-				b_cacheu-iv = {}
-			}
-			c_oio = {
-				color={ 145 157 87 }
-				color2={ 255 255 255 }
-				
-				b_oio = {}
-				b_oio-ii = {}
-				b_oio-iii = {}
-				b_oio-iv = {}
-			}
-			c_batafa = {
-				color={ 145 147 77 }
-				color2={ 255 255 255 }
-				
-				b_batafa = {}
-				b_batafa-ii = {}
-				b_batafa-iii = {}
-				b_batafa-iv = {}
-			}
-			c_tombali = {
-				color={ 145 137 67 }
-				color2={ 255 255 255 }
-				
-				b_tombali = {}
-				b_tombali-ii = {}
-				b_tombali-iii = {}
-				b_tombali-iv = {}
-			}
-			c_gabu = {
-				color={ 145 197 77 }
-				color2={ 255 255 255 }
-				
-				b_gabu = {}
-				b_dayankara = {}
-				b_dubaduhanda = {}
-			}
-		}
+		
+		capital = 2814	#Ife
+		yoruba="Yorubaland"
 		d_abuja = {
 				color = { 184 14 80 }
 				color2 = { 250 250 250 }
+				
+				capital = 2814	#Ife
+				
 		c_abuja = {
 
 				color = { 184 14 80 }
@@ -43531,7 +43367,7 @@ e_mali = {
 			}
 			}
 			d_calabar = {
-				color = { 184 14 80 }
+				color = { 122 38 77 }
 				color2 = { 250 250 250 }
 				c_diobu = {
 
@@ -43600,7 +43436,7 @@ e_mali = {
 				}
 				}
 			d_enugu = {
-				color = { 184 14 80 }
+				color = { 168 80 33 }
 				color2 = { 250 250 250 }
 				c_enugu = {
 
@@ -43834,9 +43670,22 @@ e_mali = {
 				}
 			}
 			}
+	}
+	k_akkan = {
+
+		color = { 98 180 190 }
+		color2 = { 250 250 250 }
+
+		capital = 2887	#Accra
+		
 		d_ouidah = {
 				color = { 166 188 177 }
 				color2 = { 250 250 250 }
+				
+		fon="Dahomey"
+		ewe="Dahomey"
+		phla="Dahomey"
+		aja="Dahomey"
 		c_ouidah = {
 
 				color = { 188 177 166 }
@@ -44092,6 +43941,419 @@ e_mali = {
 				}
 			}
 		}
+		d_kumasi = {
+
+			color = { 170 160 110 }
+			color2 = { 250 250 250 }
+			c_kumasi = {
+
+				color = { 175 165 115 }
+				color2 = { 250 250 250 }
+
+				b_kumasi = {
+				}
+				b_kumasi-ii = {
+				}
+				b_kumasi-iii = {
+				}
+				b_kumasi-iv = {
+			}
+			}
+			c_techiman = {
+
+				color = { 195 175 115 }
+				color2 = { 250 250 250 }
+
+				b_techiman = {
+				}
+				b_techiman-ii = {
+				}
+				b_techiman-iii = {
+				}
+				b_techiman-iv = {
+			}
+			}
+			c_sunyani = {
+
+				color = { 185 145 135 }
+				color2 = { 250 250 250 }
+
+				b_sunyani = {
+				}
+				b_sunyani-ii = {
+				}
+				b_sunyani-iii = {
+				}
+				b_sunyani-iv = {
+			}
+			}
+			c_sefwiwiawso = {
+
+				color = { 165 145 125 }
+				color2 = { 250 250 250 }
+
+				b_sefwiwiawso = {
+				}
+				b_sefwiwiawso-ii = {
+				}
+				b_sefwiwiawso-iii = {
+				}
+				b_sefwiwiawso-iv = {
+			}
+			}
+			}
+		d_layabaza = {
+
+			color = { 213 150 105 }
+			color2 = { 250 250 250 }
+
+			capital = 3341 #Yamoussoukro
+			
+			c_osu = {
+
+				color = { 223 47 28 }
+				color2 = { 250 250 250 }
+
+				b_osu = {
+				}
+				b_tema = {
+				}
+				b_kasoa = {
+				}
+				b_madinanew = {
+				}
+				b_taifa = {
+				}
+				b_amasaman = {
+				}
+			}
+			
+			c_axim = {
+
+				color = { 223 47 28 }
+				color2 = { 250 250 250 }
+
+				b_axim = {
+				}
+				b_anaji = {
+				}
+				b_akwidaa = {
+				}
+				b_domunli = {
+				}
+				b_esiama = {
+				}
+				b_adefekezo = {
+				}
+				b_kokofri = {
+				}
+			}
+			
+			c_elmina= {
+
+				color = { 233 45 22 }
+				color2 = { 250 250 250 }
+
+				b_elmina = {
+				}
+				b_bantuma = {
+				}
+				b_amisanu = {
+				}
+				b_etufu = {
+				}
+				b_komenda = {
+				}
+				b_kisi = {
+				}
+				b_simiw = {
+				}
+			}
+			
+			c_shama= {
+
+				color = { 223 49 24 }
+				color2 = { 250 250 250 }
+
+				b_shama = {
+				}
+				b_tokoradi = {
+				}
+				b_aboadze = {
+				}
+				b_nikwanta = {
+				}
+				b_anto = {
+				}
+				b_beposo = {
+				}
+				b_daboase = {
+				}
+			}
+		}
+		d_lagunes = {
+
+			color = { 200 155 95 }
+			color2 = { 250 250 250 }
+		c_abengourou = {
+
+				color = { 199 54 32 }
+				color2 = { 250 250 250 }
+
+				b_abengourou = {
+				}
+				b_abengourou-ii = {
+				}
+				b_abengourou-iii = {
+				}
+				b_abengourou-iv = {
+				}
+				b_abengourou-v = {
+				}
+			}
+		c_abidjan = {
+
+				color = { 210 43 28 }
+				color2 = { 250 250 250 }
+
+				b_abidjan = {
+				}
+				b_abidjan-ii = {
+				}
+				b_abidjan-iii = {
+				}
+				b_abidjan-iv = {
+				}
+				b_abidjan-v = {
+				}
+			}
+		c_lagunes = {
+
+				color = { 243 40 20 }
+				color2 = { 250 250 250 }
+				b_tiassale = {
+				}
+				b_agbowille = {
+				}
+				b_adzope = {
+				}
+				b_lahou = {
+				}
+				b_aboisso = {
+				}
+				b_bebou = {
+				}
+				b_toumodi = {
+				}
+			}
+			c_yamoussoukro = {
+
+				color = { 153 27 55 }
+				color2 = { 250 250 250 }
+
+				b_yamoussoukro = {
+				}
+				b_daoukro = {
+				}
+				b_bahiacro = {
+				}
+				b_toumbo = {
+				}
+				b_sakassou = {
+				}
+				b_dimbokro = {
+				}
+				b_lacs = {
+				}
+			}
+			}
+			
+	}
+	k_cotedivoire = {
+
+		color = { 175 85 52 }
+		color2 = { 250 250 250 }
+
+		capital = 3932
+		muslim = 80
+	}
+	k_cotedivoire = {
+
+		color = { 175 85 52 }
+		color2 = { 250 250 250 }
+
+		capital = 3341 #
+		muslim = 80
+		d_senegal = {
+		color={ 155 120 70 }
+		color2={ 255 255 255 }
+		c_kaolack = {
+				color={ 4 137 87 }
+				color2={ 255 255 255 }
+				
+				b_kaolack = {}
+				b_kaolack-ii = {}
+				b_kaolack-iii = {}
+				b_kaolack-iv = {}
+			}
+		c_mbacke = {
+				color={ 10 167 87 }
+				color2={ 255 255 255 }
+				
+				b_mbacke = {}
+				b_mbacke-ii = {}
+				b_mbacke-iii = {}
+				b_mbacke-iv = {}
+			}
+		c_fatick = {
+				color={ 20 167 87 }
+				color2={ 255 255 255 }
+				
+				b_fatick = {}
+				b_fatick-ii = {}
+				b_fatick-iii = {}
+				b_fatick-iv = {}
+			}
+		c_thies = {
+				color={ 30 167 87 }
+				color2={ 255 255 255 }
+				
+				b_thies = {}
+				b_thies-ii = {}
+				b_thies-iii = {}
+				b_thies-iv = {}
+			}
+		c_portodeale = {
+				color={ 40 167 87 }
+				color2={ 255 255 255 }
+				
+				b_portodeale = {}
+				b_portodeale-ii = {}
+				b_portodeale-iii = {}
+				b_portodeale-iv = {}
+			}
+		c_dakar = {
+				color={ 50 167 87 }
+				color2={ 255 255 255 }
+				
+				b_dakar = {}
+				b_dakar-ii = {}
+				b_dakar-iii = {}
+				b_dakar-iv = {}
+				b_dakar-v = {}
+				b_dakar-vi = {}
+			}
+			}
+		d_gambia = {
+		color={ 155 120 70 }
+		color2={ 255 255 255 }
+		c_banjul = {
+				color={ 145 20 87 }
+				color2={ 255 255 255 }
+				
+				b_banjul = {}
+				b_banjul-ii = {}
+				b_banjul-iii = {}
+				b_banjul-iv = {}
+			}
+		c_basse = {
+				color={ 145 30 87 }
+				color2={ 255 255 255 }
+				
+				b_basse = {}
+				b_basse-ii = {}
+				b_basse-iii = {}
+				b_basse-iv = {}
+			}
+			}
+		d_ziguinchor = {
+		color={ 155 120 70 }
+		color2={ 255 255 255 }
+		c_kolda = {
+				color={ 145 167 150 }
+				color2={ 255 255 255 }
+				
+				b_kolda = {}
+				b_kolda-ii = {}
+				b_kolda-iii = {}
+				b_kolda-iv = {}
+			}
+		c_sedhiou = {
+				color={ 145 167 160 }
+				color2={ 255 255 255 }
+				
+				b_sedhiou = {}
+				b_sedhiou-ii = {}
+				b_sedhiou-iii = {}
+				b_sedhiou-iv = {}
+			}
+		c_ziguinchor = {
+				color={ 145 167 170 }
+				color2={ 255 255 255 }
+				
+				b_ziguinchor = {}
+				b_ziguinchor-ii = {}
+				b_ziguinchor-iii = {}
+				b_ziguinchor-iv = {}
+				b_ziguinchor-v = {}
+			}
+		}
+		d_guinebissau = {
+				color={ 145 187 97 }
+				color2={ 255 255 255 }
+		c_bissau = {
+				color={ 145 177 97 }
+				color2={ 255 255 255 }
+				
+				b_bissau = {}
+				b_bissau-ii = {}
+				b_bissau-iii = {}
+			}
+			c_cacheu = {
+				color={ 145 167 87 }
+				color2={ 255 255 255 }
+				
+				b_cacheu = {}
+				b_cacheu-ii = {}
+				b_cacheu-iii = {}
+				b_cacheu-iv = {}
+			}
+			c_oio = {
+				color={ 145 157 87 }
+				color2={ 255 255 255 }
+				
+				b_oio = {}
+				b_oio-ii = {}
+				b_oio-iii = {}
+				b_oio-iv = {}
+			}
+			c_batafa = {
+				color={ 145 147 77 }
+				color2={ 255 255 255 }
+				
+				b_batafa = {}
+				b_batafa-ii = {}
+				b_batafa-iii = {}
+				b_batafa-iv = {}
+			}
+			c_tombali = {
+				color={ 145 137 67 }
+				color2={ 255 255 255 }
+				
+				b_tombali = {}
+				b_tombali-ii = {}
+				b_tombali-iii = {}
+				b_tombali-iv = {}
+			}
+			c_gabu = {
+				color={ 145 197 77 }
+				color2={ 255 255 255 }
+				
+				b_gabu = {}
+				b_dayankara = {}
+				b_dubaduhanda = {}
+			}
+		}
 		d_conakry = {
 		
 			color = { 122 111 100 }
@@ -44317,232 +44579,6 @@ e_mali = {
 			}
 			}
 			}
-		d_kumasi = {
-
-			color = { 170 160 110 }
-			color2 = { 250 250 250 }
-			c_kumasi = {
-
-				color = { 175 165 115 }
-				color2 = { 250 250 250 }
-
-				b_kumasi = {
-				}
-				b_kumasi-ii = {
-				}
-				b_kumasi-iii = {
-				}
-				b_kumasi-iv = {
-			}
-			}
-			c_techiman = {
-
-				color = { 195 175 115 }
-				color2 = { 250 250 250 }
-
-				b_techiman = {
-				}
-				b_techiman-ii = {
-				}
-				b_techiman-iii = {
-				}
-				b_techiman-iv = {
-			}
-			}
-			c_sunyani = {
-
-				color = { 185 145 135 }
-				color2 = { 250 250 250 }
-
-				b_sunyani = {
-				}
-				b_sunyani-ii = {
-				}
-				b_sunyani-iii = {
-				}
-				b_sunyani-iv = {
-			}
-			}
-			c_sefwiwiawso = {
-
-				color = { 165 145 125 }
-				color2 = { 250 250 250 }
-
-				b_sefwiwiawso = {
-				}
-				b_sefwiwiawso-ii = {
-				}
-				b_sefwiwiawso-iii = {
-				}
-				b_sefwiwiawso-iv = {
-			}
-			}
-			}
-		d_lagunes = {
-
-			color = { 200 155 95 }
-			color2 = { 250 250 250 }
-		c_abengourou = {
-
-				color = { 199 54 32 }
-				color2 = { 250 250 250 }
-
-				b_abengourou = {
-				}
-				b_abengourou-ii = {
-				}
-				b_abengourou-iii = {
-				}
-				b_abengourou-iv = {
-				}
-				b_abengourou-v = {
-				}
-			}
-		c_abidjan = {
-
-				color = { 210 43 28 }
-				color2 = { 250 250 250 }
-
-				b_abidjan = {
-				}
-				b_abidjan-ii = {
-				}
-				b_abidjan-iii = {
-				}
-				b_abidjan-iv = {
-				}
-				b_abidjan-v = {
-				}
-			}
-		c_lagunes = {
-
-				color = { 243 40 20 }
-				color2 = { 250 250 250 }
-				b_tiassale = {
-				}
-				b_agbowille = {
-				}
-				b_adzope = {
-				}
-				b_lahou = {
-				}
-				b_aboisso = {
-				}
-				b_bebou = {
-				}
-				b_toumodi = {
-				}
-			}
-			c_yamoussoukro = {
-
-				color = { 153 27 55 }
-				color2 = { 250 250 250 }
-
-				b_yamoussoukro = {
-				}
-				b_daoukro = {
-				}
-				b_bahiacro = {
-				}
-				b_toumbo = {
-				}
-				b_sakassou = {
-				}
-				b_dimbokro = {
-				}
-				b_lacs = {
-				}
-			}
-			}
-		d_layabaza = {
-
-			color = { 213 150 105 }
-			color2 = { 250 250 250 }
-
-			capital = 3341 #Yamoussoukro
-			
-			c_osu = {
-
-				color = { 223 47 28 }
-				color2 = { 250 250 250 }
-
-				b_osu = {
-				}
-				b_tema = {
-				}
-				b_kasoa = {
-				}
-				b_madinanew = {
-				}
-				b_taifa = {
-				}
-				b_amasaman = {
-				}
-			}
-			
-			c_axim = {
-
-				color = { 223 47 28 }
-				color2 = { 250 250 250 }
-
-				b_axim = {
-				}
-				b_anaji = {
-				}
-				b_akwidaa = {
-				}
-				b_domunli = {
-				}
-				b_esiama = {
-				}
-				b_adefekezo = {
-				}
-				b_kokofri = {
-				}
-			}
-			
-			c_elmina= {
-
-				color = { 233 45 22 }
-				color2 = { 250 250 250 }
-
-				b_elmina = {
-				}
-				b_bantuma = {
-				}
-				b_amisanu = {
-				}
-				b_etufu = {
-				}
-				b_komenda = {
-				}
-				b_kisi = {
-				}
-				b_simiw = {
-				}
-			}
-			
-			c_shama= {
-
-				color = { 223 49 24 }
-				color2 = { 250 250 250 }
-
-				b_shama = {
-				}
-				b_tokoradi = {
-				}
-				b_aboadze = {
-				}
-				b_nikwanta = {
-				}
-				b_anto = {
-				}
-				b_beposo = {
-				}
-				b_daboase = {
-				}
-			}
-		}
 	}
 	k_mali = {
 		color={ 158 188 61 }
@@ -44655,7 +44691,9 @@ e_mali = {
 		d_malle = {
 			color={ 40 170 16 }
 			color2={ 255 255 255 }
-	
+			serer="Takrur"
+			wolof="Jolof"
+			fula="Great Fula"
 			capital = 3333 # Gabu
 			c_nouakshott = {
 				color={ 25 97 167 }
@@ -44709,6 +44747,8 @@ e_mali = {
 			color2={ 255 255 255 }
 			
 			capital = 1757 # Yatenga
+			
+			gur="Mossi"
 			
 			c_yatenga = {
 				color={ 108 148 13 }

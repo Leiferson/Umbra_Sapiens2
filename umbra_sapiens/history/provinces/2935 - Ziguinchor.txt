@@ -5,7 +5,7 @@ title = c_ziguinchor
 max_settlements = 5
 b_ziguinchor = tribal
 
-#b_ziguinchor-ii = temple
+#b_ziguinchor-ii = tribal
 #b_ziguinchor-iii = city
 #b_ziguinchor-iv = castle
 #b_ziguinchor-v = castle
@@ -15,3 +15,9 @@ culture = ajamat
 religion = west_african_pagan
 
 # History
+
+1621.1.1={
+	b_ziguinchor-ii=tribal
+	capital=b_ziguinchor-ii
+	b_ziguinchor=castle
+}

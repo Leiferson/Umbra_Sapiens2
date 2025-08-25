@@ -26,3 +26,9 @@ set_wonder_description = ElloraCavesTEMPLEDESC
 build_wonder_upgrade = upgrade_temple_complex
 build_wonder_upgrade = upgrade_mandapa
 }
+1300.1.1={
+	religion = hindu
+}
+1350.1.1={
+	religion = shiite
+}

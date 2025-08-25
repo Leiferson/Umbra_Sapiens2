@@ -11,3 +11,10 @@ culture = taino
 religion = caribic_pagan
 
 # History
+1527.1.1={
+	b_curacao=castle
+	b_curacao-ii=temple
+	b_curacao-iii=city
+	culture = castillan
+	religion = catholic
+}

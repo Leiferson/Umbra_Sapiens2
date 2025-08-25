@@ -4,7 +4,7 @@
 title = c_goa
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
 b_gopakapattana = castle
 b_kapardikadvipa = city
 b_mathagram = temple
@@ -19,4 +19,13 @@ religion = jain
 # History
 1510.12.10={
 	religion="catholic"
+}
+1530.1.1={
+	b_chandrapur = city
+}
+1550.1.1={
+	b_chitrakul = temple
+}
+1580.1.1={
+	b_kapurgarh = city
 }

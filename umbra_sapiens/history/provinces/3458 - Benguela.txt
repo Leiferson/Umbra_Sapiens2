@@ -7,7 +7,7 @@ title = c_benguela
 max_settlements = 5
 
 b_benguela = tribal
-
+b_cachingues = tribal
 #b_anka
 #b_gusau
 
@@ -16,3 +16,9 @@ culture = angolan
 religion = west_african_pagan
 
 # History
+1617.5.17={
+	capital = b_cachingues
+	b_benguela = castle
+	religion=catholic
+}
+

@@ -850,7 +850,7 @@ castle = {
 	#Stable, gives light cavalry and some heavy cavalry
 	ca_stable_1 = {
 		desc = ca_stable_1_desc
-		potential = { NOT = { region = world_nohorses } }
+		potential = { has_no_horses = no }
 		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
 		gold_cost = 100
 		build_time = 365
@@ -861,7 +861,7 @@ castle = {
 	}
 	ca_stable_2 = {
 		desc = ca_stable_1_desc
-		potential = { NOT = { region = world_nohorses } }
+		potential = { has_no_horses = no }
 		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
 		prerequisites = { ca_wall_1 }
 		upgrades_from = ca_stable_1
@@ -874,7 +874,7 @@ castle = {
 	}
 	ca_stable_3 = {
 		desc = ca_stable_1_desc
-		potential = { NOT = { region = world_nohorses } }
+		potential = { has_no_horses = no }
 		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
 		prerequisites = { ca_wall_2 }
 		upgrades_from = ca_stable_2
@@ -887,7 +887,7 @@ castle = {
 	}
 	ca_stable_4 = {
 		desc = ca_stable_1_desc
-		potential = { NOT = { region = world_nohorses } }
+		potential = { has_no_horses = no }
 		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
 		upgrades_from = ca_stable_3
 		gold_cost = 300
@@ -900,7 +900,7 @@ castle = {
 	}
 	ca_stable_5 = {
 		desc = ca_stable_1_desc
-		potential = { NOT = { region = world_nohorses } }
+		potential = { has_no_horses = no }
 		trigger = { TECH_CASTLE_CONSTRUCTION = 6 }
 		upgrades_from = ca_stable_4
 		gold_cost = 400
@@ -913,7 +913,7 @@ castle = {
 	}
 	ca_stable_6 = {
 		desc = ca_stable_1_desc
-		potential = { NOT = { region = world_nohorses } }
+		potential = { has_no_horses = no }
 		trigger = { TECH_CASTLE_CONSTRUCTION = 8 }
 		upgrades_from = ca_stable_5
 		gold_cost = 500

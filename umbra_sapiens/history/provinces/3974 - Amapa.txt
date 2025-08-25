@@ -11,3 +11,10 @@ culture = lokono
 religion = amazonian_pagan
 
 # History
+1637.6.14={
+	culture = portuguese
+	religion = catholic
+	b_amapa = castle
+	b_amapa-ii = temple
+	b_amapa-iii = city
+}

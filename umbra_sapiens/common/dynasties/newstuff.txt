@@ -238,10 +238,6 @@
 	name="Tetzel"
 	culture = german
 } 
-1010043060= {
-	name="de Sousa"
-	culture = portuguese
-} 
 1010043061= {
 	name="de Sousa"
 	culture = portuguese
@@ -9205,7 +9201,7 @@
 	religion="catholic"
 }
 1010044840={
-	name="Vaz de Pereira"
+	name="Vaz Pereira"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -9853,4 +9849,414 @@
 	name="Bengkulu"
 	culture="malay"
 	religion="sumatran_religion"
+}
+1010044970={
+	name="Anaia"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044971={
+	name="Fernandes"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044972={
+	name="de Abreu"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044973={
+	name="de Miranda de Azevedo"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044974={
+	name="de Sepulveda"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044975={
+	name="Pegado"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044976={
+	name="de Sousa de Tavora"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044977={
+	name="de Mesquita"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044978={
+	name="Rolim"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044979={
+	name="Homem"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044980={
+	name="de Almada"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044981={
+	name="de Abranches"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044982={
+	name="de Macedo"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044983={
+	name="de Madeira"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044984={
+	name="de Melo e Sampaio"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044985={
+	name="de Souto-Maior"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044986={
+	name="Salema"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044987={
+	name="da Veiga"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044988={
+	name="Barreiros"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044989={
+	name="Giraldes"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044990={
+	name="Giraldes"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044991={
+	name="de Oliveira"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044992={
+	name="de La Touche"
+	culture="portuguese"
+	religion="catholic"
+}
+1010044993={
+	name="Colombo"
+	culture="italian"
+	religion="catholic"
+}
+1010044994={
+	name="Perestrello"
+	culture="italian"
+	religion="catholic"
+}
+1010044995={
+	name="de Bobadilla"
+	culture="castillan"
+	religion="catholic"
+}
+1010044996={
+	name="de Ovando"
+	culture="castillan"
+	religion="catholic"
+}
+1010044997={
+	name="von Ehinger"
+	culture="german"
+	religion="catholic"
+}
+1010044998={
+	name="von Key"
+	culture="german"
+	religion="catholic"
+}
+1010044999={
+	name="Sayler"
+	culture="german"
+	religion="catholic"
+}
+1010045000={
+	name="Federmann"
+	culture="german"
+	religion="catholic"
+}
+1010045001={
+	name="von Speyer"
+	culture="german"
+	religion="catholic"
+}
+1010045002={
+	name="Remboldt"
+	culture="german"
+	religion="catholic"
+}
+1010045003={
+	name="von Hutten"
+	culture="german"
+	religion="catholic"
+}
+1010045004={
+	name="Grübel"
+	culture="german"
+	religion="catholic"
+}
+1010045005={
+	name="de Ampies"
+	culture="catalan"
+	religion="catholic"
+}
+1010045006={
+	name="de Tolosa"
+	culture="castillan"
+	religion="catholic"
+}
+1010045007={
+	name="de Villegas Maldonado"
+	culture="castillan"
+	religion="catholic"
+}
+1010045008={
+	name="Arias de Villasinda"
+	culture="castillan"
+	religion="catholic"
+}
+1010045009={
+	name="de la Pena Langayo"
+	culture="castillan"
+	religion="catholic"
+}
+1010045010={
+	name="Collado"
+	culture="castillan"
+	religion="catholic"
+}
+1010045011={
+	name="Perez de Manzanedo"
+	culture="castillan"
+	religion="catholic"
+}
+1010045012={
+	name="Bernaldez de Quiros"
+	culture="castillan"
+	religion="catholic"
+}
+1010045013={
+	name="Ponce de Leon"
+	culture="castillan"
+	religion="catholic"
+}
+1010045014={
+	name="Hernandez de Chaves"
+	culture="castillan"
+	religion="catholic"
+}
+1010045015={
+	name="de Mazariegos"
+	culture="castillan"
+	religion="catholic"
+}
+1010045016={
+	name="de Pimentel"
+	culture="castillan"
+	religion="catholic"
+}
+1010045017={
+	name="de Rojas"
+	culture="castillan"
+	religion="catholic"
+}
+1010045018={
+	name="de Osorio"
+	culture="castillan"
+	religion="catholic"
+}
+1010045019={
+	name="de Pina"
+	culture="castillan"
+	religion="catholic"
+}
+1010045020={
+	name="Arias Vaca"
+	culture="castillan"
+	religion="catholic"
+}
+1010045021={
+	name="Suarez del Castillo"
+	culture="castillan"
+	religion="catholic"
+}
+1010045022={
+	name="Mejia de Godoy"
+	culture="castillan"
+	religion="catholic"
+}
+1010045023={
+	name="de Alquiza"
+	culture="castillan"
+	religion="catholic"
+}
+1010045024={
+	name="Giron de Loayza"
+	culture="castillan"
+	religion="catholic"
+}
+1010045025={
+	name="de la Hoz Berrio"
+	culture="castillan"
+	religion="catholic"
+}
+1010045026={
+	name="Trevino Guillamas"
+	culture="castillan"
+	religion="catholic"
+}
+1010045027={
+	name="de la Sierpe"
+	culture="castillan"
+	religion="catholic"
+}
+1010045028={
+	name="de Meneses"
+	culture="castillan"
+	religion="catholic"
+}
+1010045029={
+	name="Nunez Melian"
+	culture="castillan"
+	religion="catholic"
+}
+1010045030={
+	name="Fernandez de Fuenmayor"
+	culture="castillan"
+	religion="catholic"
+}
+1010045031={
+	name="de Bastidas"
+	culture="castillan"
+	religion="catholic"
+}
+1010045032={
+	name="de Heredia"
+	culture="castillan"
+	religion="catholic"
+}
+1010045033={
+	name="de Belalcazar"
+	culture="castillan"
+	religion="catholic"
+}
+1010045034={
+	name="Jimenez de Quesada"
+	culture="castillan"
+	religion="catholic"
+}
+1010045035={
+	name="de Aldana"
+	culture="castillan"
+	religion="catholic"
+}
+1010045036={
+	name="Suarez Rendon"
+	culture="castillan"
+	religion="catholic"
+}
+1010045037={
+	name="Robledo"
+	culture="castillan"
+	religion="catholic"
+}
+1010045038={
+	name="de Ursua"
+	culture="castillan"
+	religion="catholic"
+}
+1010045039={
+	name="de Berrio"
+	culture="castillan"
+	religion="catholic"
+}
+1010045040={
+	name="Diaz Venero"
+	culture="castillan"
+	religion="catholic"
+}
+1010045041={
+	name="Briceno"
+	culture="castillan"
+	religion="catholic"
+}
+1010045042={
+	name="Diez de Aux"
+	culture="castillan"
+	religion="catholic"
+}
+1010045043={
+	name="Guillen"
+	culture="castillan"
+	religion="catholic"
+}
+1010045044={
+	name="Gonzalez"
+	culture="castillan"
+	religion="catholic"
+}
+1010045046={
+	name="de Borja"
+	culture="castillan"
+	religion="catholic"
+}
+1010045047={
+	name="Giron de Narvaez"
+	culture="castillan"
+	religion="catholic"
+}
+1010045048={
+	name="de Saavedra"
+	culture="castillan"
+	religion="catholic"
+}
+1010045049={
+	name="Ladrillero"
+	culture="castillan"
+	religion="catholic"
+}
+1010045050={
+	name="de Castellanos"
+	culture="castillan"
+	religion="catholic"
+}
+1010045051={
+	name="de Santana"
+	culture="castillan"
+	religion="catholic"
+}
+1010045052={
+	name="Lopez de Galarza"
+	culture="castillan"
+	religion="catholic"
 }

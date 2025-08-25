@@ -11,3 +11,9 @@ culture = lokono
 religion = caribic_pagan
 
 # History
+1536.7.25={
+	b_cauca=castle
+	b_cauca-ii=temple
+	culture=castillan
+	religion=catholic
+}

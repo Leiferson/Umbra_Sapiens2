@@ -12,3 +12,10 @@ culture = carib
 religion = caribic_pagan
 
 # History
+1567.7.25={
+	b_caracas=castle
+	b_caracas-ii=temple
+	b_caracas-iii=city
+	culture = castillan
+	religion = catholic
+}

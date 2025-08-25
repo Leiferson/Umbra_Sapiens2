@@ -1984,3 +1984,115 @@ province_event = {
 		top_liege = { ROOT = { culture = PREV } }
 	}
 }
+province_event = {
+	id = colonialevents.52
+	hide_window = yes
+	mean_time_to_happen = {
+		years = 2
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = {
+			religion_group = christian
+			}
+			}
+		modifier = {
+			factor = 0.25
+			religion_group = christian
+			}
+		modifier = {
+			factor = 0.9
+			top_liege = { religion_group = christian }
+			}
+						}
+	trigger = {
+		is_alternate_start = no 
+		top_liege = { 
+		is_colonial = yes 
+		capital_scope = {  
+			has_higher_tech_than = FROM 
+		}
+		}
+		NOR = {
+		region = world_europe
+		region = world_africa_north
+		region = world_asia_minor
+		region = world_middle_east
+		}
+	}
+	immediate = {
+		THIS = {
+		change_tech = {
+		technology = TECH_INFANTRY
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_CAVALRY
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_SKIRMISH
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_MELEE
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_SIEGE_EQUIPMENT
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_RECRUITMENT
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_CASTLE_CONSTRUCTION
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_CITY_CONSTRUCTION
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_FORTIFICATIONS_CONSTRUCTION
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_TRADE_PRACTICES
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_CONSTRUCTION
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_NAVAL
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_NOBLE_CUSTOMS
+		value = 0.25
+			}	
+		change_tech = {
+		technology = TECH_POPULAR_CUSTOMS
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_RELIGIOUS_CUSTOMS
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_MAJESTY
+		value = 0.25
+			}
+		change_tech = {
+		technology = TECH_CULTURE_FLEX
+		value = 0.25
+			}
+			change_tech = {
+		technology = TECH_LEGALISM
+		value = 0.25
+			}
+	}
+	}
+}

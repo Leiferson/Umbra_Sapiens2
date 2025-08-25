@@ -392,7 +392,7 @@ PROV2361;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;S
 PROV2362;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;x
 PROV2363;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;x
 PROV2364;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;x
-PROV2365;Mwanza;Mwanza;Mwanza;Mwanza;Mwanza;Mwanza;Mwanza;Mwanza;Mwanza;Mwanza;Mwanza;Mwanza;Mwanza;x
+PROV2365;Mwanza;;;;;;;;;;;;;x
 PROV2366;Masindi;Masindi;Masindi;Masindi;Masindi;Masindi;Masindi;Masindi;Masindi;Masindi;Masindi;Masindi;Masindi;x
 PROV2367;Mubende;Mubende;Mubende;Mubende;Mubende;Mubende;Mubende;Mubende;Mubende;Mubende;Mubende;Mubende;Mubende;x
 PROV2368;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;x
@@ -526,7 +526,7 @@ PROV2495;Mbazwana;;;;;;;;;;;;;x
 PROV2496;Tombua;;;;;;;;;;;;;x
 PROV2497;Dongo;;;;;;;;;;;;;x
 PROV2498;Kikwit;;;;;;;;;;;;;x
-PROV2499;Mbanza;;;;;;;;;;;;;x
+PROV2499;Tchibanga;;;;;;;;;;;;;x
 PROV2500;Cabinda;;;;;;;;;;;;;x
 PROV2501;Matadi;;;;;;;;;;;;;x
 PROV2502;Kahemba;;;;;;;;;;;;;x
@@ -1373,18 +1373,18 @@ PROV3342;Yaounde;;;;;;;;;;;;x;
 PROV3343;Douala;;;;;;;;;;;;x;
 PROV3344;Kogi;Kogi;Kogi;Kogi;;;;;;;;;x;
 PROV3345;Abuja;Abuja;Abuja;Abuja;;;;;;;;;x;
-PROV3346;Ngaoundere;;;;;;;;;;;;x;
-PROV3347;Kaduna;Kaduna;Kaduna;Kaduna;;;;;;;;;x;
-PROV3348;Jalingo;;;;;;;;;;;;x;
-PROV3349;Bauchin;Bauchin;Bauchin;Bauchin;;;;;;;;;x;
-PROV3350;Adamawa;Adamawa;Adamawa;Adamawa;;;;;;;;;x;
-PROV3351;Borno;Borno;Borno;Borno;;;;;;;;;x;
+PROV3346;Bafoussam;;;;;;;;;;;;x;
+PROV3347;Ngaoundere;;;;;;;;;;;;x;
+PROV3348;Kribi;;;;;;;;;;;;x;
+PROV3349;Bertoua;;;;;;;;;;;;x;
+PROV3350;Jimeta;;;;;;;;;;;;x;
+PROV3351;Maroua;;;;;;;;;;;;x;
 PROV3352;Libreville;;;;;;;;;;;;x;
-PROV3353;Yaounde;Yaounde;Yaounde;Yaounde;;;;;;;;;x;
-PROV3354;Bertoua;Bertoua;Bertoua;Bertoua;;;;;;;;;x;
-PROV3355;Garoua;Garoua;Garoua;Garoua;;;;;;;;;x;
-PROV3356;Nyala;Nyala;Nyala;Nyala;;;;;;;;;x;
-PROV3357;Dongola;Dongola;Dongola;Dongola;;;;;;;;;x;
+PROV3353;Bangui;;;;;;;;;;;;x;
+PROV3354;Kabo;;;;;;;;;;;;x;
+PROV3355;Paoua;;;;;;;;;;;;x;
+PROV3356;Mbomou;;;;;;;;;;;;x;
+PROV3357;Am Dafok;;;;;;;;;;;;x;
 PROV3358;Albara;Albara;Albara;Albara;;;;;;;;;x;
 PROV3359;Khartoum;Khartoum;Khartoum;Khartoum;;;;;;;;;x;
 PROV3360;Kassalaa;Kassalaa;Kassalaa;Kassalaa;;;;;;;;;x;
@@ -1393,9 +1393,9 @@ PROV3362;Mwinilunga;;;;;;;;;;;;x;
 PROV3363;Kananga;;;;;;;;;;;;x;
 PROV3364;Mansa;Mansa;Mansa;Mansa;;;;;;;;;x;
 PROV3365;Mbuji-Mayi;;;;;;;;;;;;x;
-PROV3366;Port Gentil;;;;;;;;;;;;x;
+PROV3366;Loango;;;;;;;;;;;;x;
 PROV3367;Moanda;;;;;;;;;;;;x;
-PROV3368;Tchibanga;Tchibanga;Tchibanga;Tchibanga;;;;;;;;;x;
+PROV3368;Mbanza;;;;;;;;;;;;x;
 PROV3369;Makokou;Makokou;Makokou;Makokou;;;;;;;;;x;
 PROV3370;Masuku;Masuku;Masuku;Masuku;;;;;;;;;x;
 PROV3371;Luanda;Luanda;Luanda;Luanda;;;;;;;;;x;
@@ -1505,13 +1505,13 @@ PROV3474;Antimmony;Antimmony;Antimmony;Antimmony;Antimmony;Antimmony;Antimmony;A
 PROV3475;Belayaa;Belayaa;Belayaa;Belayaa;Belayaa;Belayaa;Belayaa;Belayaa;Belayaa;Belayaa;Belayaa;Belayaa;Belayaa;x
 PROV3476;Kolyma;Kolyma;Kolyma;Kolyma;Kolyma;Kolyma;Kolyma;Kolyma;Kolyma;Kolyma;Kolyma;Kolyma;Kolyma;x
 PROV3477;Chorlky;Chorlky;Chorlky;Chorlky;Chorlky;Chorlky;Chorlky;Chorlky;Chorlky;Chorlky;Chorlky;Chorlky;Chorlky;x
-PROV3478;Menawashel;Menawashel;Menawashel;Menawashel;Menawashel;Menawashel;Menawashel;Menawashel;Menawashel;Menawashel;Menawashel;Menawashel;Menawashel;x
-PROV3479;Khandaq;Khandaq;Khandaq;Khandaq;Khandaq;Khandaq;Khandaq;Khandaq;Khandaq;Khandaq;Khandaq;Khandaq;Khandaq;x
+PROV3478;Bagassou;;;;;;;;;;;;;x
+PROV3479;Ndele;;;;;;;;;;;;;x
 PROV3480;Zeidab;Zeidab;Zeidab;Zeidab;Zeidab;Zeidab;Zeidab;Zeidab;Zeidab;Zeidab;Zeidab;Zeidab;Zeidab;x
 PROV3481;Shabasha;Shabasha;Shabasha;Shabasha;Shabasha;Shabasha;Shabasha;Shabasha;Shabasha;Shabasha;Shabasha;Shabasha;Shabasha;x
 PROV3482;Malawiya;Malawiya;Malawiya;Malawiya;Malawiya;Malawiya;Malawiya;Malawiya;Malawiya;Malawiya;Malawiya;Malawiya;Malawiya;x
 PROV3483;Bandundu;;;;;;;;;;;;;x
-PROV3484;Ngaoundere;Ngaoundere;Ngaoundere;Ngaoundere;Ngaoundere;Ngaoundere;Ngaoundere;Ngaoundere;Ngaoundere;Ngaoundere;Ngaoundere;Ngaoundere;Ngaoundere;x
+PROV3484;Bambari;;;;;;;;;;;;;x
 PROV3485;Kuka;Kuka;Kuka;Kuka;Kuka;Kuka;Kuka;Kuka;Kuka;Kuka;Kuka;Kuka;Kuka;x
 PROV3486;Wara;Wara;Wara;Wara;Wara;Wara;Wara;Wara;Wara;Wara;Wara;Wara;Wara;x
 PROV3487;Kobbai;Kobbai;Kobbai;Kobbai;Kobbai;Kobbai;Kobbai;Kobbai;Kobbai;Kobbai;Kobbai;Kobbai;Kobbai;x

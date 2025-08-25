@@ -1,4 +1,4 @@
-1000027000 = {
+27000 = {
 	name="Yamato"
 	culture = japanese
 	used_for_random = no
@@ -14,7 +14,7 @@
 		}
 	}
 }
-1000027001 = {
+27001 = {
 	name="Fujiwara"
 	culture = japanese
 	used_for_random = no
@@ -30,7 +30,7 @@
 		}
 	}
 }
-1000027002 = {
+27002 = {
 	name="Minamoto"
 	culture = japanese
 	used_for_random = no
@@ -46,7 +46,7 @@
 		}
 	}
 }
-1000027003 = {
+27003 = {
 	name="Taira"
 	culture = japanese
 	used_for_random = no
@@ -62,7 +62,7 @@
 		}
 	}
 }
-1000027004 = {
+27004 = {
 	name="Tachibana"
 	culture = japanese
 	used_for_random=no
@@ -78,7 +78,7 @@
 		}
 	}
 }
-1000027005 = {
+27005 = {
 	name="Saga=Minamoto"
 	culture = japanese
 	used_for_random=no
@@ -94,7 +94,7 @@
 		}
 	}
 }
-1000027006 = {
+27006 = {
 	name="Seiwa-Minamoto"
 	culture = japanese
 	used_for_random=no
@@ -110,1026 +110,1026 @@
 		}
 	}
 }
-1000027007 = {
+27007 = {
 	name="Seiwa-Kiyohara"
 	used_for_random=no
 	culture = japanese
 }
-1000027008 = {
+27008 = {
 	name="Kofukuji"
 	culture = japanese
 }
-1000027009 = {
+27009 = {
 	name="Enryakuji"
 	culture = japanese
 }
 
-1000027010 = {
+27010 = {
 	name="Oshmaushi"
 	culture = ainu
 }
-1000027011 = {
+27011 = {
 	name="Ishkarun"
 	culture = ainu
 }
-1000027012 = {
+27012 = {
 	name="Kushru"
 	culture = ainu
 }
-1000027013 = {
+27013 = {
 	name="Karput"
 	culture = ainu
 }
-1000078073 = {
+78073 = {
 	name="Kuye"
 	culture = ainu
 }
-1000027014 = {
+27014 = {
 	name="Uchinaa"
 	culture = ryukyuan
 }
-1000027015 = {
+27015 = {
 	name="Amamikiyo"
 	culture = ryukyuan
 }
-1000027016 = {
+27016 = {
 	name="Sachishima"
 	culture = ryukyuan
 }
-1000078074 = {
+78074 = {
 	name="Shunten"
 	culture = ryukyuan
 }
-1000078075 = {
+78075 = {
 	name="Eiso"
 	culture = ryukyuan
 }
 
-1000028266 = {
+28266 = {
     name="Fujita"
     culture= japanese
 }
-1000028267 = {
+28267 = {
     name="Matsumoto"
     culture= japanese
 }
-1000028268 = {
+28268 = {
     name="Yamashita"
     culture= japanese
 }
-1000028269 = {
+28269 = {
     name="Abe"
     culture= japanese
 }
-1000028270 = {
+28270 = {
     name="Aya"
     culture= japanese
 }
-1000028271 = {
+28271 = {
     name="Hashiji"
     culture= japanese
 }
-1000028272 = {
+28272 = {
     name="Ki"
     culture= japanese
 }
-1000028273 = {
+28273 = {
     name="Kusakabe"
     culture= japanese
 }
-1000028274 = {
+28274 = {
     name="Mononobe"
     culture= japanese
 }
-1000028275 = {
+28275 = {
     name="Nakatomi"
 }
-1000028276 = {
+28276 = {
     name="O"
     culture= japanese
 }
-1000028277 = {
+28277 = {
     name="Ochi"
     culture= japanese
 }
-1000028278 = {
+28278 = {
     name="Oe"
     culture= japanese
 }
-1000028279 = {
+28279 = {
     name="Otomo"
     culture= japanese
 }
-1000028280 = {
+28280 = {
     name="Soga"
     culture= japanese
 }
-1000028281 = {
+28281 = {
     name="Sugawara"
     culture= japanese
 }
-1000028282 = {
+28282 = {
     name="Takahashi"
     culture= japanese
 }
-1000028283 = {
+28283 = {
     name="Adachi"
     culture= japanese
 }
-1000028284 = {
+28284 = {
     name="Akamatsu"
     culture= japanese
 }
-1000028285 = {
+28285 = {
     name="Akechi"
     culture= japanese
 }
-1000028286 = {
+28286 = {
     name="Akita"
     culture= japanese
 }
-1000028287 = {
+28287 = {
     name="Akiyama"
     culture= japanese
 }
-1000028288 = {
+28288 = {
     name="Akizuki"
     culture= japanese
 }
-1000028289 = {
+28289 = {
     name="Amago"
     culture= japanese
 }
-1000028290 = {
+28290 = {
     name="Amakusa"
     culture= japanese
 }
-1000028291 = {
+28291 = {
     name="Anayama"
     culture= japanese
 }
-1000028292 = {
+28292 = {
     name="Ando"
     culture= japanese
 }
-1000028293 = {
+28293 = {
     name="Asakura"
     culture= japanese
 }
-1000028294 = {
+28294 = {
     name="Asano"
     culture= japanese
 }
-1000028288 = {
+28288 = {
     name="Ashikaga"
     culture= japanese
 }
-1000028295 = {
+28295 = {
     name="Ashina"
     culture= japanese
 }
-1000028296 = {
+28296 = {
     name="Aso"
     culture= japanese
 }
-1000028297 = {
+28297 = {
     name="Atagi"
     culture= japanese
 }
-1000028298 = {
+28298 = {
     name="Azai"
     culture= japanese
 }
-1000028299 = {
+28299 = {
     name="Bito"
     culture= japanese
 }
-1000028300 = {
+28300 = {
     name="Chiba"
     culture= japanese
 }
-1000028301 = {
+28301 = {
     name="Date"
     culture= japanese
 }
-1000028302 = {
+28302 = {
     name="Doi"
     culture= japanese
 }
-1000028288 = {
+28288 = {
     name="Fuji"
     culture= japanese
 }
-1000028303 = {
+28303 = {
     name="Goto"
     culture= japanese
 }
-1000028304 = {
+28304 = {
     name="Hachisuka"
     culture= japanese
 }
-1000028305 = {
+28305 = {
     name="Haga"
     culture= japanese
 }
-1000028306 = {
+28306 = {
     name="Hashiba"
     culture= japanese
 }
-1000028307 = {
+28307 = {
     name="Hatakeyama"
     culture= japanese
 }
 
-1000028308 = {
+28308 = {
     name="Hatano"
     culture= japanese
 }
 
-1000028309 = {
+28309 = {
     name="Hayashi"
     culture= japanese
 }
 
-1000028310 = {
+28310 = {
     name="Hiki"
     culture= japanese
 }
 
-1000028311 = {
+28311 = {
     name="Hirano"
     culture= japanese
 }
 
-1000028312 = {
+28312 = {
     name="Hisamatsu"
     culture= japanese
 }
 
-1000028313 = {
+28313 = {
     name="Hitotsuyanagi"
     culture= japanese
 }
 
-1000028314 = {
+28314 = {
     name="Hojo"
     culture= japanese
 }
 
-1000028315 = {
+28315 = {
     name="Honma"
     culture= japanese
 }
 
-1000028316 = {
+28316 = {
     name="Honda"
     culture= japanese
 }
 
-1000028317 = {
+28317 = {
     name="Hosokawa"
     culture= japanese
 }
 
-1000028318 = {
+28318 = {
     name="Hotta"
     culture= japanese
 }
 
-1000028319 = {
+28319 = {
     name="Ichijo"
     culture= japanese
 }
 
-1000028320 = {
+28320 = {
     name="Ide"
     culture= japanese
 }
 
-1000028321 = {
+28321 = {
     name="Ii"
     culture= japanese
 }
 
-1000028322 = {
+28322 = {
     name="Ikeda"
     culture= japanese
 }
 
-1000028323 = {
+28323 = {
     name="Imagawa"
     culture= japanese
 }
 
-1000028324 = {
+28324 = {
     name="Inaba"
     culture= japanese
 }
 
-1000028325 = {
+28325 = {
     name="Inoue"
     culture= japanese
 }
 
-1000028326 = {
+28326 = {
     name="Ishida"
     culture= japanese
 }
 
-1000028327 = {
+28327 = {
     name="Ishikawa"
     culture= japanese
 }
 
-1000028328 = {
+28328 = {
     name="Ishimaki"
     culture= japanese
 }
-1000028329 = {
+28329 = {
     name="Ito"
     culture= japanese
 }
-1000028330 = {
+28330 = {
     name="Kamiizumi"
     culture= japanese
 }
-1000028331 = {
+28331 = {
     name="Kanamaru"
     culture= japanese
 }
-1000028332 = {
+28332 = {
     name="Kagawa"
     culture= japanese
 }
-1000028333 = {
+28333 = {
     name="Kikkawa"
     culture= japanese
 }
-1000028334 = {
+28334 = {
     name="Kikuchi"
     culture= japanese
 }
-1000028335 = {
+28335 = {
     name="Kira"
     culture= japanese
 }
-1000028336 = {
+28336 = {
     name="Kiso"
     culture= japanese
 }
-1000028337 = {
+28337 = {
     name="Kitabatake"
     culture= japanese
 }
-1000028338 = {
+28338 = {
     name="Kitajo"
     culture= japanese
 }
-1000028339 = {
+28339 = {
     name="Kiyowara"
     culture= japanese
 }
-1000028340 = {
+28340 = {
     name="Kobayakawa"
     culture= japanese
 }
-1000028341 = {
+28341 = {
     name="Kodama"
     culture= japanese
 }
-1000028342 = {
+28342 = {
     name="Koga"
     culture= japanese
 }
-1000028343 = {
+28343 = {
     name="Kono"
     culture= japanese
 }
-1000028344 = {
+28344 = {
     name="Konoe"
     culture= japanese
 }
-1000028345 = {
+28345 = {
     name="Kudo"
     culture= japanese
 }
-1000028346 = {
+28346 = {
     name="Kujo"
     culture= japanese
 }
-1000028347 = {
+28347 = {
     name="Kuzuyama"
     culture= japanese
 }
-1000028348 = {
+28348 = {
     name="Kyōgoku"
     culture= japanese
 }
-1000028349 = {
+28349 = {
     name="Maeda"
     culture= japanese
 }
-1000028350 = {
+28350 = {
     name="Makino"
     culture= japanese
 }
-1000028351 = {
+28351 = {
     name="Manabe"
     culture= japanese
 }
-1000028352 = {
+28352 = {
     name="Matsuda"
     culture= japanese
 }
-1000028353 = {
+28353 = {
     name="Matsudaira"
     culture= japanese
 }
-1000028354 = {
+28354 = {
     name="Matsumae"
     culture= japanese
 }
-1000028355 = {
+28355 = {
     name="Matsunaga"
     culture= japanese
 }
-1000028356 = {
+28356 = {
     name="Matsuura"
     culture= japanese
 }
-1000028357 = {
+28357 = {
     name="Miura"
     culture= japanese
 }
-1000028358 = {
+28358 = {
     name="Mikumo"
     culture= japanese
 }
-1000028359 = {
+28359 = {
     name="Miyahara"
     culture= japanese
 }
-1000028360 = {
+28360 = {
     name="Miyoshi"
     culture= japanese
 }
-1000028361 = {
+28361 = {
     name="Mizuryu"
     culture= japanese
 }
-1000028362 = {
+28362 = {
     name="Mogami"
     culture= japanese
 }
-1000028363 = {
+28363 = {
     name="Mori"
     culture= japanese
 }
-1000028364 = {
+28364 = {
     name="Murakami"
     culture= japanese
 }
-1000028365 = {
+28365 = {
     name="Nagao"
     culture= japanese
 }
-1000028366 = {
+28366 = {
     name="Nabeshima"
     culture= japanese
 }
-1000028367 = {
+28367 = {
     name="Niiro"
     culture= japanese
 }
-1000028368 = {
+28368 = {
     name="Nakamura"
     culture= japanese
 }
-1000028369 = {
+28369 = {
     name="Nanbu"
     culture= japanese
 }
-1000028370 = {
+28370 = {
     name="Nijo"
     culture= japanese
 }
-1000028371 = {
+28371 = {
     name="Nitta"
     culture= japanese
 }
-1000028372 = {
+28372 = {
     name="Niwa"
     culture= japanese
 }
-1000028373 = {
+28373 = {
     name="Oda"
     culture= japanese
 }
-1000028374 = {
+28374 = {
     name="Oishi"
     culture= japanese
 }
-1000028375 = {
+28375 = {
     name="Okochi"
     culture= japanese
 }
-1000028376 = {
+28376 = {
     name="Ota"
     culture= japanese
 }
-1000028377 = {
+28377 = {
     name="Ogasawara"
     culture= japanese
 }
-1000028378 = {
+28378 = {
     name="Otomo"
     culture= japanese
 }
-1000028379 = {
+28379 = {
     name="Ouchi"
     culture= japanese
 }
-1000028380 = {
+28380 = {
     name="Rokkaku"
     culture= japanese
 }
-1000028381 = {
+28381 = {
     name="Sagara"
     culture= japanese
 }
-1000028382 = {
+28382 = {
     name="Akizuki"
     culture= japanese
 }
-1000028383 = {
+28383 = {
     name="Saito"
     culture= japanese
 }
-1000028384 = {
+28384 = {
     name="Sakai"
     culture= japanese
 }
-1000028385 = {
+28385 = {
     name="Sakuma"
     culture= japanese
 }
-1000028386 = {
+28386 = {
     name="Sanjo"
     culture= japanese
 }
-1000028387 = {
+28387 = {
     name="Sasaki"
     culture= japanese
 }
-1000028388 = {
+28388 = {
     name="Satake"
     culture= japanese
 }
-1000028389 = {
+28389 = {
     name="Satomi"
     culture= japanese
 }
-1000028390 = {
+28390 = {
     name="Shiba"
     culture= japanese
 }
-1000028391 = {
+28391 = {
     name="Shimizu"
     culture= japanese
 }
-1000028392 = {
+28392 = {
     name="Shimazu"
     culture= japanese
 }
-1000028393 = {
+28393 = {
     name="Shinmen"
     culture= japanese
 }
-1000028394 = {
+28394 = {
     name="Shoni"
     culture= japanese
 }
-1000028395 = {
+28395 = {
     name="So"
     culture= japanese
 }
-1000028396 = {
+28396 = {
     name="Sogo"
     culture= japanese
 }
-1000028397 = {
+28397 = {
     name="Soma"
     culture= japanese
 }
-1000028398 = {
+28398 = {
     name="Suda"
     culture= japanese
 }
-1000028399 = {
+28399 = {
     name="Sue"
     culture= japanese
 }
-1000028400 = {
+28400 = {
     name="Sugi"
     culture= japanese
 }
-1000028401 = {
+28401 = {
     name="Suwa"
     culture= japanese
 }
-1000028402 = {
+28402 = {
     name="Tachibana"
     culture= japanese
 }
-1000028403 = {
+28403 = {
     name="Takanashi"
     culture= japanese
 }
-1000028404 = {
+28404 = {
     name="Takaoka"
     culture= japanese
 }
-1000028405 = {
+28405 = {
     name="Takatsuji"
     culture= japanese
 }
-1000028406 = {
+28406 = {
     name="Takatsukasa"
     culture= japanese
 }
-1000028407 = {
+28407 = {
     name="Takeda"
     culture= japanese
 }
-1000028408 = {
+28408 = {
     name="Takenaka"
     culture= japanese
 }
-1000028409 = {
+28409 = {
     name="Takigawa"
     culture= japanese
 }
-1000028410 = {
+28410 = {
     name="Tanegashima"
     culture= japanese
 }
-1000028411 = {
+28411 = {
     name="To"
     culture= japanese
 }
-1000028412 = {
+28412 = {
     name="Toda"
     culture= japanese
 }
-1000028413 = {
+28413 = {
     name="Todo"
     culture= japanese
 }
-1000028414 = {
+28414 = {
     name="Toki"
     culture= japanese
 }
-1000028415 = {
+28415 = {
     name="Tokugawa"
     culture= japanese
 }
-1000028416 = {
+28416 = {
     name="Tomuro"
     culture= japanese
 }
-1000028417 = {
+28417 = {
     name="Torii"
     culture= japanese
 }
-1000028418 = {
+28418 = {
     name="Toyotomi"
     culture= japanese
 }
-1000028419 = {
+28419 = {
     name="Tsugaru"
     culture= japanese
 }
-1000028420 = {
+28420 = {
     name="Tsuru"
     culture= japanese
 }
-1000028421 = {
+28421 = {
     name="Tsutsui"
     culture= japanese
 }
-1000028422 = {
+28422 = {
     name="Uesugi"
     culture= japanese
 }
-1000028423 = {
+28423 = {
     name="Ukita"
     culture= japanese
 }
-1000028424 = {
+28424 = {
     name="Urakami"
     culture= japanese
 }
-1000028425 = {
+28425 = {
     name="Utsunomiya"
     culture= japanese
 }
-1000028426 = {
+28426 = {
     name="Wakiya"
     culture= japanese
 }
-1000028427 = {
+28427 = {
     name="Watanabe"
     culture= japanese
 }
-1000028428 = {
+28428 = {
     name="Yagyu"
     culture= japanese
 }
-1000028429 = {
+28429 = {
     name="Yamana"
     culture= japanese
 }
-1000028430 = {
+28430 = {
     name="Yamanouchi"
     culture= japanese
 }
-1000028431 = {
+28431 = {
     name="Yanagisawa"
     culture= japanese
 }
-1000028432 = {
+28432 = {
     name="Yonekura"
     culture= japanese
 }
-1000028433 = {
+28433 = {
     name="Yuki"
     culture= japanese
 }
-1000028434 = {
+28434 = {
     name="Kamo"
     culture= japanese
 }
-1000028435 = {
+28435 = {
     name="Urabe"
     culture= japanese
 }
-1000028436 = {
+28436 = {
     name="Asukabe"
     culture= japanese
 }
-1000028437 = {
+28437 = {
     name="Fuha"
     culture= japanese
 }
-1000028438 = {
+28438 = {
     name="Funa"
     culture= japanese
 }
-1000028439 = {
+28439 = {
     name="Hirota"
     culture= japanese
 }
-1000028440 = {
+28440 = {
     name="Ka"
     culture= japanese
 }
-1000028441 = {
+28441 = {
     name="Kaguyama"
     culture= japanese
 }
-1000028442 = {
+28442 = {
     name="Kazurai"
     culture= japanese
 }
-1000028443 = {
+28443 = {
     name="Kinunui"
     culture= japanese
 }
-1000028444 = {
+28444 = {
     name="Kudara"
     culture= japanese
 }
-1000028445 = {
+28445 = {
     name="Sugano"
     culture= japanese
 }
-1000028446 = {
+28446 = {
     name="Tsu"
     culture= japanese
 }
-1000028447 = {
+28447 = {
     name="Kifumi"
     culture= japanese
 }
-1000028448 = {
+28448 = {
     name="Koma"
     culture= japanese
 }
-1000028449 = {
+28449 = {
     name="Kuwabara"
     culture= japanese
 }
-1000028450 = {
+28450 = {
     name="Sena"
     culture= japanese
 }
-1000028451 = {
+28451 = {
     name="Toyohara"
     culture= japanese
 }
-1000028452 = {
+28452 = {
     name="Yasaka"
     culture= japanese
 }
-1000028453 = {
+28453 = {
     name="Yahamara"
     culture= japanese
 }
-1000028454 = {
+28454 = {
     name="Fushimaru"
     culture= japanese
 }
-1000028455 = {
+28455 = {
     name="Hine"
     culture= japanese
 }
-1000028456 = {
+28456 = {
     name="Itoi"
     culture= japanese
 }
-1000028457 = {
+28457 = {
     name="Maki"
     culture= japanese
 }
-1000028458 = {
+28458 = {
     name="Tachibanamori"
     culture= japanese
 }
-1000028459 = {
+28459 = {
     name="Tajima"
     culture= japanese
 }
-1000028460 = {
+28460 = {
     name="Unabara"
     culture= japanese
 }
-1000028461 = {
+28461 = {
     name="Arara"
     culture= japanese
 }
-1000028462 = {
+28462 = {
     name="Hirata"
     culture= japanese
 }
-1000028463 = {
+28463 = {
     name="Karabito"
     culture= japanese
 }
-1000028464 = {
+28464 = {
     name="Michita"
     culture= japanese
 }
-1000028465 = {
+28465 = {
     name="Tatara"
     culture= japanese
 }
-1000028466 = {
+28466 = {
     name="Toyotsu"
     culture= japanese
 }
-1000028467 = {
+28467 = {
     name="Hata"
     culture= japanese
 }
-1000028468 = {
+28468 = {
     name="Koremune"
     culture= japanese
 }
-1000028469 = {
+28469 = {
     name="Takamuko"
     culture= japanese
 }
-1000028470 = {
+28470 = {
     name="Choshi"
     culture= japanese
 }
-1000028471 = {
+28471 = {
     name="Fujiki"
     culture= japanese
 }
-1000028472 = {
+28472 = {
     name="Hakura"
     culture= japanese
 }
-1000028473 = {
+28473 = {
     name="Hirata"
     culture= japanese
 }
-1000028474 = {
+28474 = {
     name="Kada"
     culture= japanese
 }
-1000028475 = {
+28475 = {
     name="Kawakatsu"
     culture= japanese
 }
-1000028476 = {
+28476 = {
     name="Matsumuro"
     culture= japanese
 }
-1000028477 = {
+28477 = {
     name="Matsuo"
     culture= japanese
 }
-1000028478 = {
+28478 = {
     name="Matsushita"
     culture= japanese
 }
-1000028479 = {
+28479 = {
     name="Mikami"
     culture= japanese
 }
-1000028480 = {
+28480 = {
     name="Minami"
     culture= japanese
 }
-1000028481 = {
+28481 = {
     name="Mokusei"
     culture= japanese
 }
-1000028482 = {
+28482 = {
     name="Nishioji"
     culture= japanese
 }
-1000028483 = {
+28483 = {
     name="Obata"
     culture= japanese
 }
-1000028484 = {
+28484 = {
     name="Okura"
     culture= japanese
 }
-1000028485 = {
+28485 = {
     name="Onishi"
     culture= japanese
 }
-1000028486 = {
+28486 = {
     name="Seo"
     culture= japanese
 }
-1000028487 = {
+28487 = {
     name="Togi"
     culture= japanese
 }
-1000028488 = {
+28488 = {
     name="Tsuchiyama"
     culture= japanese
 }
-1000028489 = {
+28489 = {
     name="Kawachi"
     culture= japanese
 }
-1000028490 = {
+28490 = {
     name="Haruda"
     culture= japanese
 }
-1000028491 = {
+28491 = {
     name="Sakanoue"
     culture= japanese
 }
-1000028492 = {
+28492 = {
     name="Tamura"
     culture= japanese
 }
-1000028493 = {
+28493 = {
     name="Tamura"
     culture= japanese
 }
-1000028494 = {
+28494 = {
 	name="Eiso"
 	culture = ryukyuan
 }
-1000028495 = {
+28495 = {
 	name="Haniji"
 	culture = ryukyuan
 }
-1000028496 = {
+28496 = {
 	name="Ozato"
 	culture = ryukyuan
 }
-1000028497 = {
+28497 = {
 	name="Satto"
 	culture = ryukyuan
 }
-1000028498 = {
+28498 = {
 	name="Sho"
 	culture = ryukyuan
 }
-1000028499 = {
+28499 = {
 	name="Minshi Kameya"
 	culture = ryukyuan
 }
-1000028500 = {
+28500 = {
 	name="Eiso"
 	culture = ryukyuan
 }

@@ -11,3 +11,8 @@ culture = muisca
 religion = muisca_pagan
 
 # History
+1550.10.14={
+	b_pijaos = castle
+	culture = castillan
+	religion = catholic
+}

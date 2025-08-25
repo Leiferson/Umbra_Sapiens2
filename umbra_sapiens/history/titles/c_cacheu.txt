@@ -22,3 +22,90 @@
 1300.1.1 = {
 	holder = 360119
 }
+1350.1.1={
+	holder=395551
+}
+1388.1.1={
+	holder=395552
+}
+1446.1.1={
+	holder=395553
+}
+1479.1.1={
+	holder=395554
+}
+1515.1.1={
+	holder=395555
+}
+1558.1.1={
+	holder=395556
+}
+1588.1.1={
+	holder=371835	#Albert VII, Archduke of Austria
+	liege=e_espana_burgona
+}
+1593.7.5={
+	holder=379615	#Miguel de Castro, arzobispo de Lisboa
+}
+1598.1.1={
+	holder=379623	#Francisco Gómez de Sandoval y Rojas
+}
+1600.1.29={
+	holder=379645	#Cristóvão de Moura, primer marqués de Castel Rodrigo
+}
+1603.1.1={
+	holder=379646	#Afonso de Castelo Branco, obispo de Coímbra
+}
+1603.4.1={
+	holder=379645	#Cristóvão de Moura, primer marqués de Castel Rodrigo
+}
+1603.8.1={
+	holder=379646	#Afonso de Castelo Branco, obispo de Coímbra
+}
+1605.5.24={
+	holder=379647	#Pedro de Castilho, Bishop of Leiria
+}
+1608.2.1={
+	holder=379645	#Cristóvão de Moura
+}
+1612.1.1={
+	holder=379647	#Pedro de Castilho, obispo de Leiría (segunda vez)
+}
+1612.6.1={
+	holder=379662	#Aleixo de Meneses, obispo de Braga
+}
+1615.1.1={
+	holder=379615	#Miguel de Castro, arzobispo de Lisboa
+}
+1616.1.1={
+	liege=e_portugal_10
+}
+1619.1.1={
+	holder=379666	#Diego de Silva y Mendoza
+}
+1621.1.1={
+	holder=379667	#Martim Afonso Mexia, obispo de Coímbra
+}
+1623.8.30={
+	holder=379668	#Diogo de Castro, conde de Basto
+}
+1631.1.1={
+	holder=379671	#António de Ataíde, conde de Castanheira
+}
+1632.1.1={
+	holder=379672	#Nuno de Mendonça, conde de Vale de Reis
+}
+1633.1.1={
+	holder=379673	#João Manuel de Ataíde, arzobispo de Lisbona
+}
+1633.7.4={
+	holder=379668	#Diogo de Castro, conde de Basto
+}
+1634.1.1={
+	holder=375629	#Margarita de Saboya
+}
+1640.12.1={
+	holder=370381 # John IV de Braganza
+	vice_royalty=no
+	liege=e_portugal_11
+}

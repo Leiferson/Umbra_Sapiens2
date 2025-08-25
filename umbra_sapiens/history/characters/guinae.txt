@@ -96,7 +96,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -197,7 +197,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -298,7 +298,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -399,7 +399,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -500,7 +500,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -601,7 +601,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -702,7 +702,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -803,108 +803,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
-		death = yes
-	}
-}
-#Lagos
-360064 = {
-	name = "Majan"
-	dynasty = 1069101
-	religion = west_african_pagan
-	culture = yoruba
-	730.1.1 = {
-		birth = yes
-	}
-	796.1.1 = {
-		death = yes
-	}
-}
-360065 = {
-	name = "Musa"
-	dynasty = 1069101
-	religion = west_african_pagan
-	culture = yoruba
-	825.1.1 = {
-		birth = yes
-	}
-	885.1.1 = {
-		death = yes
-	}
-}
-360066 = {
-	name = "Kalabi"
-	dynasty = 1069101
-	religion = west_african_pagan
-	culture = yoruba
-	914.1.1 = {
-		birth = yes
-	}
-	990.1.1 ={
-		death = yes
-	}
-}
-360067 = {
-	name = "Demba"
-	dynasty = 1069101
-	religion = west_african_pagan
-	culture = yoruba
-	1040.1.1 = {
-		birth = yes
-	}
-	1120.1.1 = {
-		death = yes
-	}
-}
-360068 = {
-	name = "Ali-Kolon"
-	dynasty = 1069101
-	religion = west_african_pagan
-	culture = yoruba
-	father = 360067
-	1100.1.1 = {
-		birth = yes
-	}
-	1189.1.1 = {
-		death = yes
-	}
-}
-360069 = {
-	name = "Birama"
-	dynasty = 1069100
-	religion = west_african_pagan
-	culture = yoruba
-	father = 360068
-	1150.1.1 = {
-		birth = yes
-	}
-	1231.1.1 = {
-		death = yes
-	}
-}
-360070 = {
-	name = "Zenku"
-	dynasty = 1069101
-	religion = west_african_pagan
-	culture = yoruba
-	father = 360069
-	1210.1.1 = {
-		birth = yes
-	}
-	1300.1.1 = {
-		death = yes
-	}
-}
-360071 = {
-	name = "Biyu"
-	dynasty = 1069101
-	religion = west_african_pagan
-	culture = yoruba
-	father = 360070
-	1281.1.1 = {
-		birth = yes
-	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -913,7 +812,7 @@
 	name = "Lahiltoul"
 	dynasty = 1069102
 	religion = west_african_pagan
-	culture = nupe
+	culture = gbari
 	730.1.1 = {
 		birth = yes
 	}
@@ -925,7 +824,7 @@
 	name = "Demba"
 	dynasty = 1069102
 	religion = west_african_pagan
-	culture = nupe
+	culture = gbari
 	825.1.1 = {
 		birth = yes
 	}
@@ -937,7 +836,7 @@
 	name = "Yama"
 	dynasty = 1069102
 	religion = west_african_pagan
-	culture = nupe
+	culture = gbari
 	914.1.1 = {
 		birth = yes
 	}
@@ -949,7 +848,7 @@
 	name = "Dankaran"
 	dynasty = 1069102
 	religion = west_african_pagan
-	culture = nupe
+	culture = gbari
 	1040.1.1 = {
 		birth = yes
 	}
@@ -961,7 +860,7 @@
 	name = "Igoumou"
 	dynasty = 1069102
 	religion = west_african_pagan
-	culture = nupe
+	culture = gbari
 	father = 360075
 	1100.1.1 = {
 		birth = yes
@@ -974,7 +873,7 @@
 	name = "Dankaran"
 	dynasty = 1069102
 	religion = west_african_pagan
-	culture = nupe
+	culture = gbari
 	father = 360076
 	1150.1.1 = {
 		birth = yes
@@ -987,7 +886,7 @@
 	name = "Sakoura"
 	dynasty = 1069102
 	religion = west_african_pagan
-	culture = nupe
+	culture = gbari
 	father = 360077
 	1210.1.1 = {
 		birth = yes
@@ -1000,21 +899,21 @@
 	name = "Dankaran"
 	dynasty = 1069102
 	religion = west_african_pagan
-	culture = nupe
+	culture = gbari
 	father = 360078
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
 #Oyo
 360080 = {
-	name = "Maammarou"
+	name = "Tekena"
 	dynasty = 1069103
 	religion = west_african_pagan
-	culture = edo
+	culture = ijaw
 	730.1.1 = {
 		birth = yes
 	}
@@ -1023,10 +922,10 @@
 	}
 }
 360081 = {
-	name = "Cisse"
+	name = "Pere"
 	dynasty = 1069103
 	religion = west_african_pagan
-	culture = edo
+	culture = ijaw
 	825.1.1 = {
 		birth = yes
 	}
@@ -1035,10 +934,10 @@
 	}
 }
 360082 = {
-	name = "Akoi"
+	name = "Kromor"
 	dynasty = 1069103
 	religion = west_african_pagan
-	culture = edo
+	culture = ijaw
 	914.1.1 = {
 		birth = yes
 	}
@@ -1047,10 +946,10 @@
 	}
 }
 360083 = {
-	name = "Ouati"
+	name = "Ebieya"
 	dynasty = 1069103
 	religion = west_african_pagan
-	culture = edo
+	culture = ijaw
 	1040.1.1 = {
 		birth = yes
 	}
@@ -1059,10 +958,10 @@
 	}
 }
 360084 = {
-	name = "Kassa"
+	name = "Enibra"
 	dynasty = 1069103
 	religion = west_african_pagan
-	culture = edo
+	culture = ijaw
 	father = 360083
 	1100.1.1 = {
 		birth = yes
@@ -1072,10 +971,10 @@
 	}
 }
 360085 = {
-	name = "Bannu"
+	name = "Seimieghan"
 	dynasty = 1069103
 	religion = west_african_pagan
-	culture = edo
+	culture = ijaw
 	father = 360084
 	1150.1.1 = {
 		birth = yes
@@ -1085,10 +984,10 @@
 	}
 }
 360086 = {
-	name = "Nuh"
+	name = "Brasiun"
 	dynasty = 1069103
 	religion = west_african_pagan
-	culture = edo
+	culture = ijaw
 	father = 360085
 	1210.1.1 = {
 		birth = yes
@@ -1098,24 +997,24 @@
 	}
 }
 360087 = {
-	name = "Sulayman"
+	name = "Ebiarede"
 	dynasty = 1069103
 	religion = west_african_pagan
-	culture = edo
+	culture = ijaw
 	father = 360086
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
 #Akwa-Ibom
 360088 = {
-	name = "Maammarou"
+	name = "Vershima"
 	dynasty = 1069104
 	religion = west_african_pagan
-	culture = igbo
+	culture = tiv
 	730.1.1 = {
 		birth = yes
 	}
@@ -1124,10 +1023,10 @@
 	}
 }
 360089 = {
-	name = "Cisse"
+	name = "Ishughun"
 	dynasty = 1069104
 	religion = west_african_pagan
-	culture = igbo
+	culture = tiv
 	825.1.1 = {
 		birth = yes
 	}
@@ -1136,10 +1035,10 @@
 	}
 }
 360090 = {
-	name = "Akoi"
+	name = "Bem"
 	dynasty = 1069104
 	religion = west_african_pagan
-	culture = igbo
+	culture = tiv
 	914.1.1 = {
 		birth = yes
 	}
@@ -1148,10 +1047,10 @@
 	}
 }
 360091 = {
-	name = "Ouati"
+	name = "Bemshima"
 	dynasty = 1069104
 	religion = west_african_pagan
-	culture = igbo
+	culture = tiv
 	1040.1.1 = {
 		birth = yes
 	}
@@ -1160,10 +1059,10 @@
 	}
 }
 360092 = {
-	name = "Kassa"
+	name = "Sekav"
 	dynasty = 1069104
 	religion = west_african_pagan
-	culture = igbo
+	culture = tiv
 	father = 360091
 	1100.1.1 = {
 		birth = yes
@@ -1173,10 +1072,10 @@
 	}
 }
 360093 = {
-	name = "Bannu"
+	name = "Cieryol"
 	dynasty = 1069104
 	religion = west_african_pagan
-	culture = igbo
+	culture = tiv
 	father = 360092
 	1150.1.1 = {
 		birth = yes
@@ -1186,10 +1085,10 @@
 	}
 }
 360094 = {
-	name = "Nuh"
+	name = "Gowon"
 	dynasty = 1069104
 	religion = west_african_pagan
-	culture = igbo
+	culture = tiv
 	father = 360093
 	1210.1.1 = {
 		birth = yes
@@ -1199,15 +1098,15 @@
 	}
 }
 360095 = {
-	name = "Sulayman"
+	name = "Kator"
 	dynasty = 1069104
 	religion = west_african_pagan
-	culture = igbo
+	culture = tiv
 	father = 360094
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -1308,13 +1207,13 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
 #Ife
 360104 = {
-	name = "Abi-Bakr"
+	name = "Ayetise"
 	dynasty = 1069106
 	religion = west_african_pagan
 	culture = yoruba
@@ -1326,7 +1225,7 @@
 	}
 }
 360105 = {
-	name = "Bonga"
+	name = "Obatala"
 	dynasty = 1069106
 	religion = west_african_pagan
 	culture = yoruba
@@ -1338,7 +1237,7 @@
 	}
 }
 360106 = {
-	name = "Bonga"
+	name = "Oseganderuku"
 	dynasty = 1069106
 	religion = west_african_pagan
 	culture = yoruba
@@ -1350,7 +1249,7 @@
 	}
 }
 360107 = {
-	name = "Mari-Djata"
+	name = "Owodo"
 	dynasty = 1069106
 	religion = west_african_pagan
 	culture = yoruba
@@ -1362,7 +1261,7 @@
 	}
 }
 360108 = {
-	name = "Badä"
+	name = "Efon Ayioye"
 	dynasty = 1069106
 	religion = west_african_pagan
 	culture = yoruba
@@ -1375,7 +1274,7 @@
 	}
 }
 360109 = {
-	name = "Ouati"
+	name = "Ajimuda"
 	dynasty = 1069106
 	religion = west_african_pagan
 	culture = yoruba
@@ -1388,7 +1287,7 @@
 	}
 }
 360110 = {
-	name = "Mahmud"
+	name = "Otaran"
 	dynasty = 1069106
 	religion = west_african_pagan
 	culture = yoruba
@@ -1401,7 +1300,7 @@
 	}
 }
 360111 = {
-	name = "Düru"
+	name = "Lapeleke"
 	dynasty = 1069106
 	religion = west_african_pagan
 	culture = yoruba
@@ -1409,7 +1308,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -1510,7 +1409,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -1611,7 +1510,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -1712,7 +1611,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -1914,7 +1813,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -2015,7 +1914,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -2116,7 +2015,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -2217,7 +2116,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -2318,7 +2217,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -2419,7 +2318,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -2621,7 +2520,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -2722,7 +2621,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -2823,7 +2722,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -2924,7 +2823,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -3025,7 +2924,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -3227,7 +3126,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }

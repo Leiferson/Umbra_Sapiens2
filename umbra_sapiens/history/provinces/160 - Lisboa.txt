@@ -7,7 +7,7 @@ title = c_lisboa
 terrain = hills
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
 b_lisboa = castle
 b_sintra = city
 b_alenquer = temple
@@ -33,4 +33,16 @@ religion = catholic
 1163.1.1 = {
 	culture = portuguese
 	religion = catholic
+}
+1400.1.1={
+	b_atouguia = castle
+}
+1500.1.1={
+	b_lisboa-ii = temple
+}
+1550.1.1={
+	b_lisboa-iii = city
+}
+1600.1.1={
+	b_lisboa-iv = city
 }

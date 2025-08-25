@@ -11,3 +11,10 @@ culture = lokono
 religion = caribic_pagan
 
 # History
+1535.1.1={
+	b_guajira=castle
+	b_guajira-ii=temple
+	b_guajira-iii=city
+	culture = castillan
+	religion = catholic
+}

@@ -11,3 +11,9 @@ culture = paez
 religion = caribic_pagan
 
 # History
+1537.1.1={
+	b_pastos=castle
+	b_pastos-ii=temple
+	culture = castillan
+	religion = catholic
+}

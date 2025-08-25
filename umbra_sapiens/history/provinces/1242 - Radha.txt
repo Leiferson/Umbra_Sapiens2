@@ -32,4 +32,5 @@ religion = buddhist
 1200.1.1 = {
 	set_wonder_damaged = yes
 	set_wonder_stage = 2
+	religion = hindu
 }

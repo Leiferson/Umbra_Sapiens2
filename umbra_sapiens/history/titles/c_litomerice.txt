@@ -95,6 +95,24 @@
 1378.11.29 = {
 	holder=370399	#Wenceslaus IV of Bohemia
 }
+1412.10.18={
+	effect = {
+	location={
+	add_province_modifier = {
+			name = religious_unrest
+			years = 15
+						}
+	add_province_modifier = {
+			name = cultural_unrest
+			years = 15
+						}
+	add_province_modifier = {
+			name = peasant_unrest
+			years = 15
+						}
+	}
+	}
+}
 1419.8.16 = {
 	holder=370403	#Sigismund, Holy Roman Emperor
 }

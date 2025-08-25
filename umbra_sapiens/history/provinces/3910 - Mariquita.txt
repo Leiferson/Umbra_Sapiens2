@@ -11,3 +11,10 @@ culture = lokono
 religion = caribic_pagan
 
 # History
+1551.8.20={
+	b_mariquita=castle
+	b_mariquita-ii = temple
+	b_mariquita-iii = city
+	culture = castillan
+	religion = catholic
+}

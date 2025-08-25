@@ -1,0 +1,19 @@
+1590.1.1={
+	holder=394253
+}
+1609.1.1={
+	holder=394254
+}
+1617.5.17={
+	set_tribute_suzerain = { 
+		who = e_portugal_10
+		type = permanent 
+	}
+}
+1640.12.1={
+	clear_tribute_suzerain = e_portugal_10
+	set_tribute_suzerain = { 
+		who = e_portugal_11
+		type = permanent 
+	}
+}

@@ -288,14 +288,14 @@
 	1320.1.1={
 		birth="1320.1.1"
 	}
-	1380.1.1={
-		death="1380.1.1"
+	1395.1.1={
+		death="1395.1.1"
 	}
 }
 
 1013000022 = {
 	name="Martialakd"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	720.1.1={
@@ -308,7 +308,7 @@
 
 1013000023 = {
 	name="Loic"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000022
@@ -322,7 +322,7 @@
 
 1013000024 = {
 	name="Glorie"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000023
@@ -336,7 +336,7 @@
 
 1013000025 = {
 	name="Fripe"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000024
@@ -350,7 +350,7 @@
 
 1013000026 = {
 	name="Arold"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000025
@@ -364,7 +364,7 @@
 
 1013000027 = {
 	name="Prosper"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000026
@@ -378,7 +378,7 @@
 
 1013000028 = {
 	name="Boupenga"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000027
@@ -392,7 +392,7 @@
 
 1013000029 = {
 	name="Tresor Armand"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000028
@@ -406,7 +406,7 @@
 
 1013000030 = {
 	name="Odin"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000029
@@ -420,7 +420,7 @@
 
 1013000031 = {
 	name="Rody"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000030
@@ -434,7 +434,7 @@
 
 1013000032 = {
 	name="Omer"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000031
@@ -448,7 +448,7 @@
 
 1013000033 = {
 	name="Igotsu"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000032
@@ -462,7 +462,7 @@
 
 1013000034 = {
 	name="Mohammed"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000033
@@ -476,7 +476,7 @@
 
 1013000035 = {
 	name="Abdel"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000034
@@ -490,7 +490,7 @@
 
 1013000036 = {
 	name="Yohann"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000035
@@ -504,7 +504,7 @@
 
 1013000037 = {
 	name="Mohamed"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000036
@@ -518,7 +518,7 @@
 
 1013000038 = {
 	name="Valère"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000037
@@ -532,7 +532,7 @@
 
 1013000039 = {
 	name="Jemuel"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000038
@@ -546,7 +546,7 @@
 
 1013000040 = {
 	name="Orphee"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000039
@@ -560,7 +560,7 @@
 
 1013000041 = {
 	name="Hazany"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000040
@@ -574,7 +574,7 @@
 
 1013000042 = {
 	name="Moise"
-	dynasty=1009990039 #Netulamela
+	dynasty=1072302
 	religion="west_african_pagan"
 	culture="gabonese"
 	father=1013000041

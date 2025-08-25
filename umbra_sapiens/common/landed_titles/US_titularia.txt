@@ -1261,7 +1261,7 @@ e_kalmar = {
 	color={ 255 205 0 }
 	color2={ 255 255 0 }
 	
-	capital = 290 # Uppland
+	capital = 266
 	
 	culture = swedish
 	dignity = 200
@@ -1400,7 +1400,7 @@ k_venezuela_2 = {
 	
 	culture = castillan
 	capital	= 3880
-	
+	german="Klein Venedig"
 		allow = {
 			conditional_tooltip = {
 				trigger = {

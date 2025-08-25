@@ -723,6 +723,187 @@ e_kongo = {
 			}
 		}
 	}
+	k_kongo = {
+
+		capital = 3368
+
+		color={ 146 79 243 }
+		color2={ 255 255 255 }
+	d_ligetchi = { #
+
+			color={ 132 75 241 }
+			color2={ 255 255 255 }
+
+			capital = 3368
+			c_cabinda = {
+
+				color={ 212 25 21 }
+				color2={ 255 255 255 }
+
+				b_cabinda = {
+				}
+				b_cabinda-ii = {
+				}
+				b_cabinda-iii = {
+				}
+				b_cabinda-iv = {
+				}
+				b_cabinda-v = {
+				}
+			}
+			c_matadi = {
+
+				color={ 212 45 31 }
+				color2={ 255 255 255 }
+
+				b_matadi = {
+				}
+				b_matadi-ii = {
+				}
+				b_matadi-iii = {
+				}
+				b_matadi-iv = {
+				}
+				b_matadi-v = {
+				}
+			}
+			c_mbanza = {
+
+				color={ 212 65 41 }
+				color2={ 255 255 255 }
+
+				b_mbanza = {
+				}
+				b_mbanza-ii = {
+				}
+				b_mbanza-iii = {
+				}
+				b_mbanza-iv = {
+				}
+				b_mbanza-v = {
+				}
+			}
+			c_libreville = {
+
+				color={ 212 15 11 }
+				color2={ 255 255 255 }
+
+				b_libreville = {
+				}
+				b_ntoum = {
+				}
+				b_foulenzem = {
+				}
+				b_abounn = {
+				}
+				b_lambarene = {
+				}
+				b_ndjole = {
+				}
+				b_bifoun = {
+				}
+				b_assok = {
+				}
+			}
+			c_tchibanga = {
+
+				color={ 141 215 217 }
+				color2={ 255 255 255 }
+
+				b_tchibanga = {
+				}
+				b_difounda = {
+				}
+				b_mabanda = {
+				}
+				b_mourindi = {
+				}
+				b_doussala = {
+				}
+			}
+		}
+		d_makomasu = { #Guide
+
+			color={ 11 95 247 }
+			color2={ 255 255 255 }
+
+			capital = 3370
+			c_gentill = {
+
+				color={ 122 185 151 }
+				color2={ 255 255 255 }
+
+				b_gentill = {
+				}
+				b_omboue = {
+				}
+				b_moulia = {
+				}
+				b_sounga = {
+				}
+				b_mandji = {
+				}
+			}
+			c_makokou = {
+
+				color={ 151 245 207 }
+				color2={ 255 255 255 }
+
+				b_makokou = {
+				}
+				b_indombo = {
+				}
+				b_scierie = {
+				}
+				b_belinga = {
+				}
+				b_mekambo = {
+				}
+				b_mazingo = {
+				}
+				b_minvoul = {
+				}
+			}
+			c_masuku = {
+
+				color={ 111 115 7 }
+				color2={ 255 255 255 }
+
+				b_masuku = {
+				}
+				b_moanda = {
+				}
+				b_mbounga = {
+				}
+				b_okondja = {
+				}
+				b_lekila = {
+				}
+				b_ndjounou = {
+				}
+				b_lifouta = {
+				}
+				b_koulamoutou = {
+				}
+			}
+			c_kikwit = {
+
+				color={ 111 135 27 }
+				color2={ 255 255 255 }
+
+				b_kikwit = {
+				}
+				b_kikwit-ii = {
+				}
+				b_kikwit-iii = {
+				}
+				b_kikwit-iv = {
+				}
+				b_kikwit-v = {
+				}
+			}
+		}
+	}
 	k_gabon = { #
 
 		capital = 3366 # Bienh
@@ -972,180 +1153,6 @@ e_kongo = {
 				b_oukanki = {
 				}
 				b_klawanpra = {
-				}
-			}
-		}
-		d_ligetchi = { #
-
-			color={ 132 75 241 }
-			color2={ 255 255 255 }
-
-			capital = 3366 #
-			c_cabinda = {
-
-				color={ 212 25 21 }
-				color2={ 255 255 255 }
-
-				b_cabinda = {
-				}
-				b_cabinda-ii = {
-				}
-				b_cabinda-iii = {
-				}
-				b_cabinda-iv = {
-				}
-				b_cabinda-v = {
-				}
-			}
-			c_matadi = {
-
-				color={ 212 45 31 }
-				color2={ 255 255 255 }
-
-				b_matadi = {
-				}
-				b_matadi-ii = {
-				}
-				b_matadi-iii = {
-				}
-				b_matadi-iv = {
-				}
-				b_matadi-v = {
-				}
-			}
-			c_mbanza = {
-
-				color={ 212 65 41 }
-				color2={ 255 255 255 }
-
-				b_mbanza = {
-				}
-				b_mbanza-ii = {
-				}
-				b_mbanza-iii = {
-				}
-				b_mbanza-iv = {
-				}
-				b_mbanza-v = {
-				}
-			}
-			c_libreville = {
-
-				color={ 212 15 11 }
-				color2={ 255 255 255 }
-
-				b_libreville = {
-				}
-				b_ntoum = {
-				}
-				b_foulenzem = {
-				}
-				b_abounn = {
-				}
-				b_lambarene = {
-				}
-				b_ndjole = {
-				}
-				b_bifoun = {
-				}
-				b_assok = {
-				}
-			}
-			c_tchibanga = {
-
-				color={ 141 215 217 }
-				color2={ 255 255 255 }
-
-				b_tchibanga = {
-				}
-				b_difounda = {
-				}
-				b_mabanda = {
-				}
-				b_mourindi = {
-				}
-				b_doussala = {
-				}
-			}
-		}
-		d_makomasu = { #Guide
-
-			color={ 11 95 247 }
-			color2={ 255 255 255 }
-
-			capital = 3370
-			c_gentill = {
-
-				color={ 122 185 151 }
-				color2={ 255 255 255 }
-
-				b_gentill = {
-				}
-				b_omboue = {
-				}
-				b_moulia = {
-				}
-				b_sounga = {
-				}
-				b_mandji = {
-				}
-			}
-			c_makokou = {
-
-				color={ 151 245 207 }
-				color2={ 255 255 255 }
-
-				b_makokou = {
-				}
-				b_indombo = {
-				}
-				b_scierie = {
-				}
-				b_belinga = {
-				}
-				b_mekambo = {
-				}
-				b_mazingo = {
-				}
-				b_minvoul = {
-				}
-			}
-			c_masuku = {
-
-				color={ 111 115 7 }
-				color2={ 255 255 255 }
-
-				b_masuku = {
-				}
-				b_moanda = {
-				}
-				b_mbounga = {
-				}
-				b_okondja = {
-				}
-				b_lekila = {
-				}
-				b_ndjounou = {
-				}
-				b_lifouta = {
-				}
-				b_koulamoutou = {
-				}
-			}
-			c_kikwit = {
-
-				color={ 111 135 27 }
-				color2={ 255 255 255 }
-
-				b_kikwit = {
-				}
-				b_kikwit-ii = {
-				}
-				b_kikwit-iii = {
-				}
-				b_kikwit-iv = {
-				}
-				b_kikwit-v = {
 				}
 			}
 		}
@@ -2225,8 +2232,10 @@ e_kongo = {
 		color = { 150 178 244 }
 		color2 = { 250 250 250 }
 
-		capital = 3325 #
-
+		capital = 2376
+		
+		venda_bonga="Marawi"
+		
 		d_mazanta = {
 
 			color = { 170 41 171 }
@@ -2390,8 +2399,30 @@ e_kongo = {
 			color = { 28 118 33 }
 			color2 = { 250 250 250 }
 
-			capital = 3331 #
+			capital = 2376
+			
+			c_mankhamba = {
 
+				color = { 20 181 151 }
+				color2 = { 250 250 250 }
+
+				b_mankhamba = {
+				}
+				b_manakuti = {
+				}
+				b_kerisite = {
+				}
+				b_wankonka = {
+				}
+				b_zamonini = {
+				}
+				b_kesimidi = {
+				}
+				b_zemkere = {
+				}
+				b_vunavuna = {
+				}
+			}
 			c_gaza = {
 
 				color = { 58 78 111 }

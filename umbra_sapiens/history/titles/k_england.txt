@@ -143,6 +143,10 @@
 1509.4.21 = {
 	holder=372978	#Henry VIII of England
 }
+1534.11.3 = { 
+	religion = anglican 
+	set_global_flag = anglican_work
+}
 1547.1.28 = {
 	holder=373114	#Edward VI of England
 }

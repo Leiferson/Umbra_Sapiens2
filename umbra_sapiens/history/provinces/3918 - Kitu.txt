@@ -15,3 +15,10 @@ culture = caran
 religion = caran_pagan
 
 # History
+1534.8.15={
+	remove_settlement=b_kitu-v
+	remove_settlement=b_kitu-vi
+	remove_settlement=b_kitu-vii
+	culture = castillan
+	religion = catholic
+}

@@ -11,3 +11,8 @@ culture = lokono
 religion = caribic_pagan
 
 # History
+1610.1.1={
+	b_magangue=castle
+	culture = castillan
+	religion = catholic
+}

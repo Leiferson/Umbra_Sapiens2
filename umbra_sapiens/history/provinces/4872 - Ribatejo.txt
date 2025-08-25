@@ -5,7 +5,7 @@ title = c_ribatejo
 max_settlements = 5
 b_ribatejo = castle
 b_ribatejo-ii = temple
-b_ribatejo-iii = castle
+b_ribatejo-iii = city
 #b_ribatejo-iv = city
 #b_ribatejo-v = temple
 # Misc
@@ -21,4 +21,7 @@ terrain = farmlands
 1147.1.1 = {
 	culture = portuguese
 	religion = catholic
+}
+1500.1.1={
+	b_ribatejo-iv=city
 }

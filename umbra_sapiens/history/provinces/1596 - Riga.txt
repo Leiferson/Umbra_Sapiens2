@@ -44,6 +44,9 @@ religion = finnish_pagan
 }
 
 1305.1.1= { trade_post = b_pat_luneburg }
+1522.1.1={
+	religion = lutheran
+}
 1561.11.28={
 	b_riga=city
 }

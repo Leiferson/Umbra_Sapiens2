@@ -18,6 +18,9 @@ culture = hindustani
 religion = buddhist
 
 # History
+1200.1.1={
+	religion = sunni
+}
 1220.1.1 = {
 build_wonder = wonder_mosque
 set_wonder_stage = 1

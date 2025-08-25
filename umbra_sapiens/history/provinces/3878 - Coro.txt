@@ -11,3 +11,10 @@ culture = lokono
 religion = caribic_pagan
 
 # History
+1527.7.26={
+	b_coro=castle
+	b_coro-ii=temple
+	b_coro-iii=city
+	culture = castillan
+	religion = catholic
+}

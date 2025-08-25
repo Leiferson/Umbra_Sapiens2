@@ -15,3 +15,10 @@ religion = west_african_pagan
 
 
 # History
+1420.1.1={
+	b_madeira=castle
+	b_madeira-ii=temple
+	b_madeira-iii=city
+	religion="catholic"
+	culture="portuguese"
+}

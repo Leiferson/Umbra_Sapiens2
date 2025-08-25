@@ -18,3 +18,9 @@ culture = ambundu
 religion = west_african_pagan
 
 # History
+
+1576.1.1={
+	religion=catholic
+	capital=b_ambriz
+	b_luanda = castle
+}

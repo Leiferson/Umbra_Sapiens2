@@ -16,6 +16,9 @@ religion = buddhist
 terrain = jungle
 
 # History
+1300.1.1={
+	religion = hindu
+}
 1350.1.1={
 	b_udaipur = city
 	b_unakoti = temple

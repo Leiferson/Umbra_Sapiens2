@@ -1,5 +1,3 @@
-#Mpfumo Dynasty (Placeholders)
-
 750.1.1={
 	holder=1017000001 #Nyeleti
 }
@@ -35,7 +33,6 @@
 }
 1080.1.1={
 	holder=1017000012 #Ntosvelo
-              liege=e_big_african_empire
 }
 1110.1.1={
 	holder=1017000013 #Nyeleti
@@ -48,7 +45,6 @@
 }
 1200.1.1={
 	holder=1017000016 #Rhulani
-              liege=0
 }
 1230.1.1={
 	holder=1017000017 #Rhulani
@@ -64,4 +60,22 @@
 }
 1350.1.1={
 	holder=1017000021 #Rhulani
+}
+1388.1.1={
+	holder=394276
+}
+1446.1.1={
+	holder=394277
+}
+1479.1.1={
+	holder=394278
+}
+1515.1.1={
+	holder=394279
+}
+1558.1.1={
+	holder=394280
+}
+1609.1.1={
+	holder=394281
 }

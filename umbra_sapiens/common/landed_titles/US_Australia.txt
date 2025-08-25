@@ -232,8 +232,11 @@ e_australia = {
 
 				color={ 128 110 154 }
 				color2={ 255 255 255 }
-
+				holy_site = dreamtime_religion
+				holy_site = dreamtime_religion_reformed
 				b_jaburrara-i = {
+				}
+				b_jaburrara-ii = {
 				}
 			}
 		c_martuthunira = {
@@ -280,9 +283,6 @@ e_australia = {
 
 				color={ 32 35 171 }
 				color2={ 255 255 255 }
-
-				holy_site = dreamtime_religion
-				holy_site = dreamtime_religion_reformed
 
 				b_broome-i = {
 				}
@@ -1620,9 +1620,6 @@ e_australia = {
 				color={ 16 72 117 }
 				color2={ 255 255 255 }
 
-				holy_site = dreamtime_religion
-				holy_site = dreamtime_religion_reformed
-
 				b_cairns = {
 				}
 				b_coen = {
@@ -2040,13 +2037,11 @@ e_australia = {
 				color={ 40 189 191 }
 				color2={ 255 255 255 }
 
-				holy_site = dreamtime_religion
-				holy_site = dreamtime_religion_reformed
 				holy_site = maori_religion
 				holy_site = maori_religion_reformed
 
 
-				b_canberra = {
+				b_canberra-i = {
 				}
 				b_canberra-ii = {
 				}
@@ -2119,20 +2114,6 @@ e_australia = {
 				color2={ 255 255 255 }
 
 				b_bunurong-i = {
-				}
-			}
-		}
-		d_bourke ={
-			color={ 140 139 101 }
-			color2={ 255 255 255 }
-
-			capital = 3412
-			c_melbourne = {
-
-				color={ 223 65 136 }
-				color2={ 255 255 255 }
-
-				b_melbourne-i = {
 				}
 			}
 		}
@@ -2246,8 +2227,6 @@ e_australia = {
 			c_perthh = {
 				color={ 144 53 119 }
 				color2={ 255 255 255 }
-				holy_site = dreamtime_religion
-				holy_site = dreamtime_religion_reformed
 				b_perthh-i={
 				}
 				b_perthh-ii={
@@ -2335,8 +2314,13 @@ e_australia = {
 
 				color={ 222 140 120 }
 				color2={ 255 255 255 }
-
+				
+				holy_site = dreamtime_religion
+				holy_site = dreamtime_religion_reformed
+				
 				b_pintupi-i = {
+				}
+				b_pintupi-ii = {
 				}
 			}
 			c_ngatatjara = {
@@ -2841,8 +2825,13 @@ e_australia = {
 
 				color={ 170 160 90 }
 				color2={ 255 255 255 }
-
+				
+				holy_site = dreamtime_religion
+				holy_site = dreamtime_religion_reformed
+				
 				b_gunwinggu-i = {
+				}
+				b_gunwinggu-ii = {
 				}
 		}
 		c_klundjeymi = {
@@ -3193,8 +3182,11 @@ e_australia = {
 
 				color={ 149 167 222 }
 				color2={ 255 255 255 }
-
+				holy_site = dreamtime_religion
+				holy_site = dreamtime_religion_reformed
 				b_darkinung-i = {
+				}
+				b_darkinung-ii = {
 				}
 			}
 			c_wonnarua = {
@@ -3321,8 +3313,13 @@ e_australia = {
 
 				color={ 222 138 160 }
 				color2={ 255 255 255 }
-
+				
+				holy_site = dreamtime_religion
+				holy_site = dreamtime_religion_reformed
+				
 				b_djargurdwurung-i = {
+				}
+				b_djargurdwurung-ii = {
 				}
 			}
 		}

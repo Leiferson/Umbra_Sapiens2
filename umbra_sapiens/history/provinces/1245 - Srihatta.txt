@@ -1,0 +1,21 @@
+# 1245 - Srihatta
+
+# County Title
+title = c_srihatta
+
+# Settlements
+max_settlements = 3
+b_srihatta = castle
+b_habiganj = city
+#b_egarosindur = temple
+#b_nasirabad = city
+#b_jangalbari = castle
+
+# Misc
+culture = assamese
+religion = buddhist
+
+# History
+1300.1.1={
+	religion = hindu
+}

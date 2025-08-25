@@ -6296,31 +6296,6 @@ is_blood_relative_of_root_trigger = {
 		dynasty = ROOT
 	}
 }
-kangoo_road_trade_post_trigger = {
-	custom_tooltip = {
-		text = kangoo_road_province_desc
-		hidden_tooltip = {
-			OR = {
-			province_id = 3410
-			province_id = 3408
-			province_id = 3407
-			province_id = 3403
-			province_id = 3402
-			province_id = 3399
-			province_id = 3398
-			province_id = 3400
-			province_id = 3401
-			province_id = 3405
-			province_id = 3406
-			province_id = 3411
-			province_id = 3412
-			province_id = 3413
-			province_id = 3415
-			province_id = 3416
-			}
-		}
-	}
-}
 america_road_trade_post_trigger = {
 	custom_tooltip = {
 		text = america_road_province_desc
@@ -9364,6 +9339,15 @@ is_colonial = {
 				}
 		}
 	religion_group = christian 
+}
+
+has_no_horses = {
+	AND = {
+	capital_scope = {
+			region = world_nohorses
+		}
+	 is_colonial = no
+	}
 }
 
 is_portugal = {

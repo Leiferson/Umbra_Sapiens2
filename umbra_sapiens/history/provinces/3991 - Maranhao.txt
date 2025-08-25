@@ -11,3 +11,14 @@ culture = ge
 religion = amazonian_pagan
 
 # History
+1612.9.8={
+	culture = frankish
+	religion = reformed
+	b_maranhao=castle
+	b_maranhao-ii=city
+	b_maranhao-iii=temple
+}
+1615.11.3={
+	culture = portuguese
+	religion = catholic
+}

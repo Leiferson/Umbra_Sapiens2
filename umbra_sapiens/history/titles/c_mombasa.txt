@@ -69,3 +69,41 @@
 1350.1.1={
 	holder=1000076759 #Elea
 }
+1388.1.1={
+	holder=394952
+}
+1446.1.1={
+	holder=394953
+}
+1479.1.1={
+	holder=394954
+}
+1515.1.1={
+	holder=394955
+}
+1558.1.1={
+	holder=394956
+}
+1585.1.1={
+	liege="e_ottomans"
+}
+1589.1.1={
+	liege=0
+	holder=394950	#Turned over to malindi
+}
+1609.1.1={
+	holder=394951
+}
+1632.6.1={
+	holder=394905	#Diogo de Sousa de Meneses 	1632 	1633
+	liege="d_sofala"
+}
+1633.1.1={
+	holder=394907	#Filipe de Mascarenhas 	1633 	1634
+}
+1634.1.1={
+	holder=394908	#Lourenço de Souto-Maior 	1634 	1639
+}
+1639.1.1={
+	holder=394909	#Diogo de Vasconcelos 	1639 	1640
+}

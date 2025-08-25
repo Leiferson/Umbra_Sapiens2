@@ -25,4 +25,8 @@ religion = baltic_pagan
 	b_osterode = city
 }
 1290.1.1 = { b_nikelshagen = temple }
-1290.1.1 = { religion = catholic }
+1290.1.1 = { 
+	religion = catholic 
+	culture = german
+}
+1525.4.10 = { religion = lutheran }

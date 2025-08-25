@@ -1,140 +1,163 @@
-767.1.1={
-	holder=251110
-        liege="k_mali"
+750.1.1={
+	holder=395430
+	liege="d_malle"
 }
-806.1.1={
-	holder=251113
-        liege="k_mali"
+780.1.1={
+	holder=395431
 }
-815.1.1={
-	holder=251114
-        liege="k_mali"
+810.1.1={
+	holder=395432
 }
-860.1.1={
-	holder=251115
-        liege="k_mali"
+840.1.1={
+	holder=395433
 }
-897.1.1={
-	holder=251116
-        liege="k_mali"
+870.1.1={
+	holder=395434
+}
+900.1.1={
+	holder=395435
 }
 930.1.1={
-	holder=251117
-        liege="k_mali"
+	holder=395436
 }
-970.1.1={
-	holder=251118
-        liege="k_mali"
+960.1.1={
+	holder=395437
 }
-984.1.1={
-	holder=251119
-        liege="k_mali"
+990.1.1={
+	holder=395438
 }
-1032.1.1={
-	holder=251120
-        liege="k_mali"
+1020.1.1={
+	holder=395439
 }
-1064.1.1={
-        liege="k_mali"
-	holder=161011
+1050.1.1={
+	holder=395440
 }
-1100.1.1=
-{
-holder=161012
-liege="k_mali"
+1080.1.1={
+	holder=395441
 }
-1120.1.1=
-{
-holder=161013
-liege="k_mali"
+1110.1.1={
+	holder=395442
 }
-1140.1.1=
-{
-holder=161014
-liege="k_mali"
+1140.1.1={
+	holder=395443
 }
-1160.1.1=
-{
-holder=161015
-liege="k_mali"
+1170.1.1={
+	holder=395444
 }
-1180.1.1=
-{
-holder=161016
-liege="k_mali"
+1200.1.1={
+	holder=395445
 }
-1190.1.1=
-{
-holder=161017
-liege="k_mali"
+1230.1.1={
+	holder=395446
 }
-1200.1.1=
-{
-holder=161018
-liege="k_mali"
+1260.1.1={
+	holder=395447
 }
-1218.1.1=
-{
-holder=161020
-liege="k_mali"
+1290.1.1={
+	holder=395448
 }
-1219.1.1=
-{
-holder=161010
-liege="k_mali"
+1320.1.1={
+	holder=395449
 }
-1234.1.1=
-{
-holder=161022
-liege="k_mali"
+1350.1.1={
+	holder=395450
 }
-1255.1.1=
-{
-holder=161026
-liege="k_mali"
+1388.1.1={
+	holder=395451
 }
-1270.1.1=
-{
-holder=161027
-liege="k_mali"
+1445.1.1={
+	holder=370205 # Alphonse V de Borgonha
+	liege=e_portugal_5
 }
-1274.1.1=
-{
-holder=161028
-liege="k_mali"
+1477.11.11={
+	holder=370227 # John II de Borgonha
 }
-1275.1.1=
-{
-holder=161025
-liege="k_mali"
+1485.1.1={
+	liege=e_portugal_6
 }
-1285.1.1=
-{
-holder=161029
-liege="k_mali"
+1495.10.25={
+	holder=370292 # D.Manuel
+	liege=e_portugal_7
 }
-1300.1.1=
-{
-holder=161031
-liege="k_mali"
+1521.12.13={
+	holder=370356 # D.João III
+	liege=e_portugal_8
 }
-1305.1.1=
-{
-holder=161032
-liege="k_mali"
+1557.6.11={
+	holder=371944 # D.Sebastião
+	liege=e_portugal_9
 }
-1310.1.1=
-{
-holder=161034
-liege="k_mali"
+1578.8.4={
+	holder=370362 # D.Henrique
 }
-1312.1.1=
-{
-holder=161035
-liege="k_mali"
+1580.1.31={
+	holder=373146 # D. António, Prior do Crato
 }
-1337.1.1=
-{
-holder=161036
-liege="k_mali"
+1581.4.16={
+	holder=379598	#Fernando Álvarez de Toledo
+	liege=e_espana_burgona
+}
+1582.12.11={
+	holder=370718	#Philip II
+}
+1583.2.11={
+	holder=371835	#Albert VII, Archduke of Austria
+}
+1593.7.5={
+	holder=379615	#Miguel de Castro, arzobispo de Lisboa
+}
+1598.1.1={
+	holder=379623	#Francisco Gómez de Sandoval y Rojas
+}
+1600.1.29={
+	holder=379645	#Cristóvão de Moura, primer marqués de Castel Rodrigo
+}
+1603.1.1={
+	holder=379646	#Afonso de Castelo Branco, obispo de Coímbra
+}
+1603.4.1={
+	holder=379645	#Cristóvão de Moura, primer marqués de Castel Rodrigo
+}
+1603.8.1={
+	holder=379646	#Afonso de Castelo Branco, obispo de Coímbra
+}
+1605.5.24={
+	holder=379647	#Pedro de Castilho, Bishop of Leiria
+}
+1608.2.1={
+	holder=379645	#Cristóvão de Moura
+}
+1612.1.1={
+	holder=379647	#Pedro de Castilho, obispo de Leiría (segunda vez)
+}
+1612.6.1={
+	holder=379662	#Aleixo de Meneses, obispo de Braga
+}
+1615.1.1={
+	holder=379615	#Miguel de Castro, arzobispo de Lisboa
+}
+1616.1.1={
+	liege=e_portugal_10
+}
+1619.1.1={
+	holder=379666	#Diego de Silva y Mendoza
+}
+1621.1.1={
+	holder=379667	#Martim Afonso Mexia, obispo de Coímbra
+}
+1623.8.30={
+	holder=379668	#Diogo de Castro, conde de Basto
+}
+1631.1.1={
+	holder=379671	#António de Ataíde, conde de Castanheira
+}
+1632.1.1={
+	holder=379672	#Nuno de Mendonça, conde de Vale de Reis
+}
+1633.1.1={
+	holder=379673	#João Manuel de Ataíde, arzobispo de Lisbona
+}
+1633.1.29={
+	holder=374679	#Frederick Henry, Prince of Orange
+	liege="k_union"
 }

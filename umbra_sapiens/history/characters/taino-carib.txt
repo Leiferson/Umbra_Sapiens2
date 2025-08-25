@@ -75,7 +75,7 @@
 	840.6.8={ death=yes }
 }
 1019918121={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990148
 	dna="ahkfhfdbild"
@@ -85,7 +85,7 @@
 	861.8.14={ death=yes }
 }
 1019918122={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990148
 	dna="pmkcdfjbnil"
@@ -170,7 +170,7 @@
 	897.3.5={ death=yes }
 }
 1019918130={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990148
 	dna="dfgapiceilf"
 	culture=taino religion=caribic_pagan
@@ -182,7 +182,7 @@
 	918.11.24={ death=yes }
 }
 1019918131={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990148
 	dna="jgoahajfilj"
 	culture=taino religion=caribic_pagan
@@ -200,7 +200,7 @@
 	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=6
 	add_trait=intricate_webweaver add_trait=mystic  add_trait=cynical 
 	add_trait=slothful add_trait=trusting 
-	father=1019918130	#Pirijá
+	father=1019918130	#Pirija
 	860.4.15={ birth=yes }
 	944.3.23={ death=yes }
 }
@@ -212,7 +212,7 @@
 	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=5
 	add_trait=charismatic_negotiator add_trait=scholar add_trait=gluttonous add_trait=lustful add_trait=deceitful 
 	add_trait=paranoid add_trait=cynical 
-	father=1019918130	#Pirijá
+	father=1019918130	#Pirija
 	866.10.4={ birth=yes }
 	923.10.29={ death=yes }
 }
@@ -222,7 +222,7 @@
 	dynasty=1009990148
 	dna="khgaeikcili"
 	culture=taino religion=caribic_pagan
-	father=1019918130	#Pirijá
+	father=1019918130	#Pirija
 	871.6.3={ birth=yes }
 	968.3.30={ death=yes }
 }
@@ -232,7 +232,7 @@
 	dynasty=1009990148
 	dna="nagkpfcbhlf"
 	culture=taino religion=caribic_pagan
-	father=1019918130	#Pirijá
+	father=1019918130	#Pirija
 	875.6.25={ birth=yes }
 	937.5.22={ death=yes }
 }
@@ -244,7 +244,7 @@
 	martial=7 diplomacy=5 stewardship=4 intrigue=7 learning=5
 	add_trait=martial_cleric add_trait=hedonist add_trait=slothful add_trait=proud 
 	add_trait=possessed 
-	father=1019918130	#Pirijá
+	father=1019918130	#Pirija
 	880.11.24={ birth=yes }
 	954.11.8={ death=yes }
 }
@@ -260,7 +260,7 @@
 	950.12.18={ death=yes }
 }
 1019918138={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990148
 	dna="dfeamemledc"
@@ -347,7 +347,7 @@
 	985.5.22={ death=yes }
 }
 1019918146={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990148
 	dna="nfdkogmljhf"
@@ -390,7 +390,7 @@
 	993.5.15={ death=yes }
 }
 1019918150={
-	name=Toruí
+	name=Torui
 	dynasty=1009990148
 	dna="ijebdkpjaaf"
 	culture=taino religion=caribic_pagan
@@ -401,7 +401,7 @@
 	1015.6.28={ death=yes }
 }
 1019918151={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990148
 	dna="lceajkkbfcp"
@@ -431,14 +431,14 @@
 	1035.5.23={ death=yes }
 }
 1019918154={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990148
 	dna="ljgbfkppoaf"
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=6 stewardship=5 intrigue=6 learning=8
 	add_trait=grey_eminence  add_trait=slothful add_trait=content add_trait=brave 
 	add_trait=lustful 
-	father=1019918150	#Toruí
+	father=1019918150	#Torui
 	987.12.8={ birth=yes }
 	1048.9.5={ death=yes }
 }
@@ -448,18 +448,18 @@
 	dynasty=1009990148
 	dna="ojojdapdaaf"
 	culture=taino religion=caribic_pagan
-	father=1019918150	#Toruí
+	father=1019918150	#Torui
 	992.9.25={ birth=yes }
 	1054.10.22={ death=yes }
 }
 1019918156={
-	name=Toruí
+	name=Torui
 	dynasty=1009990148
 	dna="ikokodmafae"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=8 stewardship=5 intrigue=6 learning=7
 	add_trait=martial_cleric add_trait=humble add_trait=envious add_trait=wounded 
-	father=1019918150	#Toruí
+	father=1019918150	#Torui
 	996.9.26={ birth=yes }
 	1070.10.30={ death=yes }
 }
@@ -471,7 +471,7 @@
 	martial=6 diplomacy=4 stewardship=8 intrigue=8 learning=6
 	add_trait=misguided_warrior add_trait=hedonist add_trait=diligent  
 	add_trait=gregarious add_trait=cynical add_trait=depressed 
-	father=1019918150	#Toruí
+	father=1019918150	#Torui
 	999.1.16={ birth=yes }
 	1080.2.13={ death=yes }
 }
@@ -482,7 +482,7 @@
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=8 stewardship=6 intrigue=4 learning=8
 	add_trait=midas_touched add_trait=greedy add_trait=chaste 
-	father=1019918154	#Pirijá
+	father=1019918154	#Pirija
 	1017.6.8={ birth=yes }
 	1069.8.7={ death=yes }
 }
@@ -493,7 +493,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=4
 	add_trait=grey_eminence add_trait=proud add_trait=greedy add_trait=deceitful 
-	father=1019918154	#Pirijá
+	father=1019918154	#Pirija
 	1023.11.18={ birth=yes }
 	1110.5.19={ death=yes }
 }
@@ -503,7 +503,7 @@
 	dynasty=1009990148
 	dna="ljkbioppdaf"
 	culture=taino religion=caribic_pagan
-	father=1019918154	#Pirijá
+	father=1019918154	#Pirija
 	1028.12.3={ birth=yes }
 	1095.3.4={ death=yes }
 }
@@ -514,7 +514,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=4 stewardship=6 intrigue=8 learning=4
 	add_trait=scholarly_theologian add_trait=charitable add_trait=trusting add_trait=chaste 
-	father=1019918154	#Pirijá
+	father=1019918154	#Pirija
 	1033.9.20={ birth=yes }
 	1123.11.22={ death=yes }
 }
@@ -526,17 +526,17 @@
 	martial=6 diplomacy=8 stewardship=4 intrigue=6 learning=5
 	add_trait=indulgent_wastrel add_trait=honest add_trait=shy add_trait=trusting add_trait=zealous 
 	add_trait=lisp 
-	father=1019918154	#Pirijá
+	father=1019918154	#Pirija
 	1038.9.5={ birth=yes }
 	1094.11.27={ death=yes }
 }
 1019918163={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990148
 	dna="lfgbfkppoaf"
 	culture=taino religion=caribic_pagan
-	father=1019918154	#Pirijá
+	father=1019918154	#Pirija
 	1041.6.13={ birth=yes }
 	1094.8.7={ death=yes }
 }
@@ -548,7 +548,7 @@
 	martial=7 diplomacy=8 stewardship=8 intrigue=6 learning=5
 	add_trait=scholarly_theologian add_trait=celibate add_trait=just  add_trait=charitable 
 	add_trait=zealous add_trait=ambitious 
-	father=1019918154	#Pirijá
+	father=1019918154	#Pirija
 	1046.7.26={ birth=yes }
 	1101.10.23={ death=yes }
 }
@@ -853,7 +853,7 @@
 	1313.12.28={ death=yes }
 }
 1019918193={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990148
 	dna="knbknoobmbi"
@@ -875,7 +875,7 @@
 	1336.10.23={ death=yes }
 }
 1019918195={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990148
 	dna="hmhkkcihhmi"
@@ -885,7 +885,7 @@
 	1340.10.12={ death=yes }
 }
 1019918196={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990148
 	dna="hahkkcbdmaj"
@@ -1042,7 +1042,7 @@
 	1439.7.28={ death=yes }
 }
 1019921924={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990187
 	dna="dmdmhopinmd"
 	culture=taino religion=caribic_pagan
@@ -1059,7 +1059,7 @@
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=8
 	add_trait=martial_cleric add_trait=gluttonous add_trait=arbitrary add_trait=stressed 
-	father=1019921924	#Pirijá
+	father=1019921924	#Pirija
 	748.3.3={ birth=yes }
 	806.7.15={ death=yes }
 }
@@ -1069,7 +1069,7 @@
 	dynasty=1009990187
 	dna="iodmhgiibib"
 	culture=taino religion=caribic_pagan
-	father=1019921924	#Pirijá
+	father=1019921924	#Pirija
 	752.9.1={ birth=yes }
 	834.1.17={ death=yes }
 }
@@ -1079,7 +1079,7 @@
 	dynasty=1009990187
 	dna="dmdmhonkdmd"
 	culture=taino religion=caribic_pagan
-	father=1019921924	#Pirijá
+	father=1019921924	#Pirija
 	757.7.15={ birth=yes }
 	822.10.2={ death=yes }
 }
@@ -1089,7 +1089,7 @@
 	dynasty=1009990187
 	dna="lmdmjbcibmf"
 	culture=taino religion=caribic_pagan
-	father=1019921924	#Pirijá
+	father=1019921924	#Pirija
 	761.7.1={ birth=yes }
 	848.1.13={ death=yes }
 }
@@ -1105,7 +1105,7 @@
 	849.7.8={ death=yes }
 }
 1019921930={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990187
 	dna="pefphbnnhcd"
 	culture=taino religion=caribic_pagan
@@ -1309,7 +1309,7 @@
 	962.9.5={ death=yes }
 }
 1019921949={
-	name=Áhari
+	name=ahari
 	dynasty=1009990187
 	dna="mokpefbbpbh"
 	culture=taino religion=caribic_pagan
@@ -1330,7 +1330,7 @@
 	968.6.7={ death=yes }
 }
 1019921951={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990187
 	dna="cdkljbgbfec"
@@ -1350,7 +1350,7 @@
 	1008.2.13={ death=yes }
 }
 1019921953={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990187
 	dna="cgjpkmbdpmj"
@@ -1371,13 +1371,13 @@
 	990.7.18={ death=yes }
 }
 1019921955={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990187
 	dna="mofpefibpgh"
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=8
 	add_trait=flamboyant_schemer add_trait=cynical add_trait=just add_trait=wounded 
-	father=1019921949	#Áhari
+	father=1019921949	#ahari
 	922.8.17={ birth=yes }
 	986.6.13={ death=yes }
 }
@@ -1387,7 +1387,7 @@
 	dynasty=1009990187
 	dna="mdkpefmbcbh"
 	culture=taino religion=caribic_pagan
-	father=1019921949	#Áhari
+	father=1019921949	#ahari
 	926.7.6={ birth=yes }
 	1001.3.4={ death=yes }
 }
@@ -1398,7 +1398,7 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=4 intrigue=7 learning=6
 	add_trait=elusive_shadow add_trait=arbitrary add_trait=humble add_trait=wroth 
-	father=1019921949	#Áhari
+	father=1019921949	#ahari
 	933.4.1={ birth=yes }
 	1018.1.8={ death=yes }
 }
@@ -1408,7 +1408,7 @@
 	dynasty=1009990187
 	dna="mombigbbeom"
 	culture=taino religion=caribic_pagan
-	father=1019921949	#Áhari
+	father=1019921949	#ahari
 	938.8.6={ birth=yes }
 	1002.4.17={ death=yes }
 }
@@ -1419,7 +1419,7 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=5 stewardship=4 intrigue=5 learning=4
 	add_trait=intricate_webweaver add_trait=patient add_trait=deceitful add_trait=diligent add_trait=lustful 
-	father=1019921949	#Áhari
+	father=1019921949	#ahari
 	942.10.5={ birth=yes }
 	1011.12.7={ death=yes }
 }
@@ -1430,19 +1430,19 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=4 stewardship=7 intrigue=5 learning=8
 	add_trait=martial_cleric add_trait=poet add_trait=charitable add_trait=honest add_trait=craven 
-	father=1019921949	#Áhari
+	father=1019921949	#ahari
 	948.9.13={ birth=yes }
 	1011.2.21={ death=yes }
 }
 1019921961={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990187
 	dna="mhghpfobpge"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=6 stewardship=8 intrigue=6 learning=8
 	add_trait=midas_touched add_trait=hunter add_trait=slothful add_trait=lustful  
 	add_trait=deceitful 
-	father=1019921955	#Pirijá
+	father=1019921955	#Pirija
 	947.5.3={ birth=yes }
 	1001.6.18={ death=yes }
 }
@@ -1452,7 +1452,7 @@
 	dynasty=1009990187
 	dna="mofcnhikegh"
 	culture=taino religion=caribic_pagan
-	father=1019921955	#Pirijá
+	father=1019921955	#Pirija
 	953.10.6={ birth=yes }
 	1018.11.1={ death=yes }
 }
@@ -1464,7 +1464,7 @@
 	martial=7 diplomacy=6 stewardship=7 intrigue=6 learning=5
 	add_trait=thrifty_clerk add_trait=wroth add_trait=zealous add_trait=humble add_trait=brave 
 	add_trait=just add_trait=chaste add_trait=stressed 
-	father=1019921961	#Pirijá
+	father=1019921961	#Pirija
 	980.2.12={ birth=yes }
 	1061.7.4={ death=yes }
 }
@@ -1474,7 +1474,7 @@
 	dynasty=1009990187
 	dna="moghpkolgjk"
 	culture=taino religion=caribic_pagan
-	father=1019921961	#Pirijá
+	father=1019921961	#Pirija
 	986.1.7={ birth=yes }
 	1051.10.10={ death=yes }
 }
@@ -1484,7 +1484,7 @@
 	dynasty=1009990187
 	dna="mhcogfobonj"
 	culture=taino religion=caribic_pagan
-	father=1019921961	#Pirijá
+	father=1019921961	#Pirija
 	993.6.7={ birth=yes }
 	1033.5.17={ death=yes }
 }
@@ -1494,7 +1494,7 @@
 	dynasty=1009990187
 	dna="phcbphofmge"
 	culture=taino religion=caribic_pagan
-	father=1019921961	#Pirijá
+	father=1019921961	#Pirija
 	999.8.2={ birth=yes }
 	1086.7.29={ death=yes }
 }
@@ -1521,7 +1521,7 @@
 	1098.6.5={ death=yes }
 }
 1019921969={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990187
 	dna="dknjgkaiine"
 	culture=taino religion=caribic_pagan
@@ -1576,12 +1576,12 @@
 	1138.6.22={ death=yes }
 }
 1019921974={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990187
 	dna="donpnkfiine"
 	culture=taino religion=caribic_pagan
-	father=1019921969	#Pirijá
+	father=1019921969	#Pirija
 	1073.5.11={ birth=yes }
 	1135.5.2={ death=yes }
 }
@@ -1591,19 +1591,19 @@
 	dynasty=1009990187
 	dna="dgnjgbaiinn"
 	culture=taino religion=caribic_pagan
-	father=1019921969	#Pirijá
+	father=1019921969	#Pirija
 	1080.3.25={ birth=yes }
 	1135.5.9={ death=yes }
 }
 1019921976={
-	name=Toruí
+	name=Torui
 	dynasty=1009990187
 	dna="ckgjgkaginj"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=4 stewardship=4 intrigue=4 learning=5
 	add_trait=martial_cleric add_trait=celibate add_trait=greedy add_trait=envious add_trait=chaste 
 	add_trait=wroth add_trait=trusting add_trait=humble 
-	father=1019921969	#Pirijá
+	father=1019921969	#Pirija
 	1084.7.18={ birth=yes }
 	1140.3.14={ death=yes }
 }
@@ -1614,27 +1614,27 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=8 stewardship=4 intrigue=4 learning=5
 	add_trait=scholarly_theologian add_trait=paranoid add_trait=diligent add_trait=gregarious add_trait=slow 
-	father=1019921976	#Toruí
+	father=1019921976	#Torui
 	1108.12.3={ birth=yes }
 	1167.10.13={ death=yes }
 }
 1019921978={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990187
 	dna="ejghikagpjj"
 	culture=taino religion=caribic_pagan
-	father=1019921976	#Toruí
+	father=1019921976	#Torui
 	1111.3.14={ birth=yes }
 	1193.4.19={ death=yes }
 }
 1019921979={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990187
 	dna="gkgoakdginm"
 	culture=taino religion=caribic_pagan
-	father=1019921976	#Toruí
+	father=1019921976	#Torui
 	1117.4.27={ birth=yes }
 	1196.1.25={ death=yes }
 }
@@ -1645,7 +1645,7 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=6 stewardship=5 intrigue=4 learning=6
 	add_trait=elusive_shadow add_trait=cynical add_trait=arbitrary 
-	father=1019921976	#Toruí
+	father=1019921976	#Torui
 	1123.6.15={ birth=yes }
 	1175.11.9={ death=yes }
 }
@@ -1657,7 +1657,7 @@
 	martial=5 diplomacy=8 stewardship=5 intrigue=5 learning=8
 	add_trait=martial_cleric add_trait=ambitious add_trait=just add_trait=wroth add_trait=slothful 
 	add_trait=deceitful add_trait=possessed 
-	father=1019921976	#Toruí
+	father=1019921976	#Torui
 	1129.12.14={ birth=yes }
 	1213.4.23={ death=yes }
 }
@@ -1667,18 +1667,18 @@
 	dynasty=1009990187
 	dna="aigjacaldnc"
 	culture=taino religion=caribic_pagan
-	father=1019921976	#Toruí
+	father=1019921976	#Torui
 	1132.1.21={ birth=yes }
 	1215.4.27={ death=yes }
 }
 1019921983={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990187
 	dna="ckjcpkabigi"
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=6
 	add_trait=misguided_warrior add_trait=envious add_trait=proud 
-	father=1019921976	#Toruí
+	father=1019921976	#Torui
 	1138.9.24={ birth=yes }
 	1181.10.31={ death=yes }
 }
@@ -1716,7 +1716,7 @@
 	1188.9.25={ death=yes }
 }
 1019921987={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990187
 	dna="lpcnbkacmbj"
@@ -1759,7 +1759,7 @@
 	1236.3.10={ death=yes }
 }
 1019921991={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990187
 	dna="cnpcpkdbhif"
 	culture=taino religion=caribic_pagan
@@ -1781,7 +1781,7 @@
 	1259.2.3={ death=yes }
 }
 1019921993={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990187
 	dna="ihpaecklcia"
@@ -1853,7 +1853,7 @@
 	1329.2.7={ death=yes }
 }
 1019922000={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990187
 	dna="lbgpjfkdcbe"
 	culture=taino religion=caribic_pagan
@@ -1995,7 +1995,7 @@
 	1380.7.29={ death=yes }
 }
 1019922013={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990187
 	dna="lgckffefgco"
 	culture=taino religion=caribic_pagan
@@ -2107,7 +2107,7 @@
 	1462.6.18={ death=yes }
 }
 1019922023={
-	name=Toruí
+	name=Torui
 	dynasty=1009990187
 	dna="lhkadhemjmi"
 	culture=taino religion=caribic_pagan
@@ -2119,7 +2119,7 @@
 	1458.4.19={ death=yes }
 }
 1019922024={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990187
 	dna="fhkfhfeijdk"
 	culture=taino religion=caribic_pagan
@@ -2216,7 +2216,7 @@
 	795.4.24={ death=yes }
 }
 1019922033={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="mnmbbofalgh"
@@ -2238,7 +2238,7 @@
 	823.5.21={ death=yes }
 }
 1019922035={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="ljjkfojdleh"
@@ -2260,7 +2260,7 @@
 	852.7.13={ death=yes }
 }
 1019922037={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990188
 	dna="inblfodclhh"
 	culture=taino religion=caribic_pagan
@@ -2282,7 +2282,7 @@
 	833.7.11={ death=yes }
 }
 1019922039={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="lobpfoghafm"
@@ -2309,18 +2309,18 @@
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=4 stewardship=5 intrigue=8 learning=5
 	add_trait=naive_appeaser add_trait=humble add_trait=honest add_trait=slothful 
-	father=1019922037	#Pirijá
+	father=1019922037	#Pirija
 	803.2.16={ birth=yes }
 	880.10.12={ death=yes }
 }
 1019922042={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990188
 	dna="iejibodclhn"
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=7 stewardship=7 intrigue=4 learning=6
 	add_trait=flamboyant_schemer add_trait=trusting add_trait=honest add_trait=craven add_trait=shy 
-	father=1019922037	#Pirijá
+	father=1019922037	#Pirija
 	806.5.23={ birth=yes }
 	874.3.16={ death=yes }
 }
@@ -2330,18 +2330,18 @@
 	dynasty=1009990188
 	dna="ingafonchab"
 	culture=taino religion=caribic_pagan
-	father=1019922037	#Pirijá
+	father=1019922037	#Pirija
 	809.3.22={ birth=yes }
 	879.10.17={ death=yes }
 }
 1019922044={
-	name=Toruí
+	name=Torui
 	dynasty=1009990188
 	dna="dnbkeodlfjp"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=7 stewardship=8 intrigue=8 learning=4
 	add_trait=martial_cleric add_trait=brave add_trait=proud add_trait=temperate add_trait=wroth 
-	father=1019922037	#Pirijá
+	father=1019922037	#Pirija
 	816.7.6={ birth=yes }
 	876.11.8={ death=yes }
 }
@@ -2351,7 +2351,7 @@
 	dynasty=1009990188
 	dna="oiblcnaclha"
 	culture=taino religion=caribic_pagan
-	father=1019922037	#Pirijá
+	father=1019922037	#Pirija
 	821.2.9={ birth=yes }
 	907.5.19={ death=yes }
 }
@@ -2362,7 +2362,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=8 stewardship=6 intrigue=6 learning=6
 	add_trait=flamboyant_schemer add_trait=zealous add_trait=greedy 
-	father=1019922037	#Pirijá
+	father=1019922037	#Pirija
 	823.10.2={ birth=yes }
 	886.6.20={ death=yes }
 }
@@ -2444,7 +2444,7 @@
 	973.8.14={ death=yes }
 }
 1019922054={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="ppblnimcldl"
@@ -2466,7 +2466,7 @@
 	987.9.22={ death=yes }
 }
 1019922056={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990188
 	dna="gpbkhicclfh"
 	culture=taino religion=caribic_pagan
@@ -2489,7 +2489,7 @@
 	994.12.13={ death=yes }
 }
 1019922058={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990188
 	dna="hpblnbldbda"
 	culture=taino religion=caribic_pagan
@@ -2500,7 +2500,7 @@
 	995.9.19={ death=yes }
 }
 1019922059={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="gefaacchhbi"
@@ -2522,7 +2522,7 @@
 	1034.8.13={ death=yes }
 }
 1019922061={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="gjnnghbdgpj"
@@ -2584,7 +2584,7 @@
 	1060.7.31={ death=yes }
 }
 1019922067={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="lhahgcjjboc"
@@ -2618,7 +2618,7 @@
 	1107.12.21={ death=yes }
 }
 1019922070={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="giipneodbnd"
@@ -2649,7 +2649,7 @@
 	1170.4.29={ death=yes }
 }
 1019922073={
-	name=Áhari
+	name=ahari
 	dynasty=1009990188
 	dna="cjchbiihcnd"
 	culture=taino religion=caribic_pagan
@@ -2660,7 +2660,7 @@
 	1164.5.15={ death=yes }
 }
 1019922074={
-	name=Áhari
+	name=ahari
 	dynasty=1009990188
 	dna="dckhiijlcfd"
 	culture=taino religion=caribic_pagan
@@ -2672,7 +2672,7 @@
 	1166.8.25={ death=yes }
 }
 1019922075={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="iabaebjlcne"
@@ -2705,7 +2705,7 @@
 	1173.11.16={ death=yes }
 }
 1019922078={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="ogelfjffonn"
@@ -2725,7 +2725,7 @@
 	1197.8.11={ death=yes }
 }
 1019922080={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="oeeandkbiea"
@@ -2735,7 +2735,7 @@
 	1179.11.7={ death=yes }
 }
 1019922081={
-	name=Áhari
+	name=ahari
 	dynasty=1009990188
 	dna="gjedfhdfknm"
 	culture=taino religion=caribic_pagan
@@ -2785,17 +2785,17 @@
 	dynasty=1009990188
 	dna="cjjdfhnfmfm"
 	culture=taino religion=caribic_pagan
-	father=1019922081	#Áhari
+	father=1019922081	#ahari
 	1165.11.2={ birth=yes }
 	1238.12.7={ death=yes }
 }
 1019922086={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="dobhfhdbnnk"
 	culture=taino religion=caribic_pagan
-	father=1019922081	#Áhari
+	father=1019922081	#ahari
 	1169.2.8={ birth=yes }
 	1258.11.1={ death=yes }
 }
@@ -2807,12 +2807,12 @@
 	martial=4 diplomacy=7 stewardship=4 intrigue=8 learning=5
 	add_trait=detached_priest add_trait=scholar add_trait=craven add_trait=slothful add_trait=arbitrary 
 	add_trait=greedy add_trait=content 
-	father=1019922081	#Áhari
+	father=1019922081	#ahari
 	1174.9.3={ birth=yes }
 	1251.7.9={ death=yes }
 }
 1019922088={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="odkdfhekidf"
@@ -2844,7 +2844,7 @@
 	1339.4.3={ death=yes }
 }
 1019922091={
-	name=Toruí
+	name=Torui
 	dynasty=1009990188
 	dna="nkmhpfjnmll"
 	culture=taino religion=caribic_pagan
@@ -2885,7 +2885,7 @@
 	1324.3.16={ death=yes }
 }
 1019922095={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="plmmfodfofg"
@@ -2919,7 +2919,7 @@
 	1365.12.12={ death=yes }
 }
 1019922098={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990188
 	dna="dbfkhfjclac"
 	culture=taino religion=caribic_pagan
@@ -2942,7 +2942,7 @@
 	1388.10.10={ death=yes }
 }
 1019922100={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="hljkgfdclfi"
@@ -2996,7 +2996,7 @@
 	1458.5.21={ death=yes }
 }
 1019922105={
-	name=Áhari
+	name=ahari
 	dynasty=1009990188
 	dna="ohpkjaicalh"
 	culture=taino religion=caribic_pagan
@@ -3055,7 +3055,7 @@
 	1478.6.9={ death=yes }
 }
 1019922110={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="hhaeafifalc"
@@ -3099,7 +3099,7 @@
 	1483.10.9={ death=yes }
 }
 1019922114={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990188
 	dna="ncffifjkjji"
@@ -3226,7 +3226,7 @@
 	843.10.4={ death=yes }
 }
 1019922126={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990189
 	dna="eigdmmocpgl"
 	culture=taino religion=caribic_pagan
@@ -3249,7 +3249,7 @@
 	826.3.30={ death=yes }
 }
 1019922128={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990189
 	dna="bimgaanokal"
 	culture=taino religion=caribic_pagan
@@ -3261,7 +3261,7 @@
 	838.8.16={ death=yes }
 }
 1019922129={
-	name=Toruí
+	name=Torui
 	dynasty=1009990189
 	dna="himlfbkaogl"
 	culture=taino religion=caribic_pagan
@@ -3280,7 +3280,7 @@
 	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=7
 	add_trait=misguided_warrior add_trait=proud add_trait=just add_trait=slothful add_trait=deceitful 
 	 add_trait=trusting 
-	father=1019922126	#Pirijá
+	father=1019922126	#Pirija
 	805.6.19={ birth=yes }
 	851.2.3={ death=yes }
 }
@@ -3290,17 +3290,17 @@
 	dynasty=1009990189
 	dna="nbcjapodpob"
 	culture=taino religion=caribic_pagan
-	father=1019922126	#Pirijá
+	father=1019922126	#Pirija
 	809.6.5={ birth=yes }
 	871.10.27={ death=yes }
 }
 1019922132={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990189
 	dna="eigokmocmgd"
 	culture=taino religion=caribic_pagan
-	father=1019922126	#Pirijá
+	father=1019922126	#Pirija
 	816.7.15={ birth=yes }
 	895.2.21={ death=yes }
 }
@@ -3310,12 +3310,12 @@
 	dynasty=1009990189
 	dna="lfgfmmjmofn"
 	culture=taino religion=caribic_pagan
-	father=1019922126	#Pirijá
+	father=1019922126	#Pirija
 	820.5.18={ birth=yes }
 	903.7.1={ death=yes }
 }
 1019922134={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990189
 	dna="dhdebbkcdeh"
@@ -3389,7 +3389,7 @@
 	913.10.27={ death=yes }
 }
 1019922141={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990189
 	dna="bggeahcmclp"
@@ -3636,7 +3636,7 @@
 	1129.5.1={ death=yes }
 }
 1019922164={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990189
 	dna="aoigmoakkle"
@@ -3670,7 +3670,7 @@
 	1169.9.29={ death=yes }
 }
 1019922167={
-	name=Toruí
+	name=Torui
 	dynasty=1009990189
 	dna="fcmndjacbne"
 	culture=taino religion=caribic_pagan
@@ -3782,7 +3782,7 @@
 	1225.12.6={ death=yes }
 }
 1019922177={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990189
 	dna="lkgkdmoijkg"
@@ -3792,7 +3792,7 @@
 	1241.10.1={ death=yes }
 }
 1019922178={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990189
 	dna="cogogmahlkb"
@@ -3895,7 +3895,7 @@
 	1313.10.10={ death=yes }
 }
 1019922188={
-	name=Toruí
+	name=Torui
 	dynasty=1009990189
 	dna="ojokaeohbeh"
 	culture=taino religion=caribic_pagan
@@ -3967,13 +3967,13 @@
 	1355.6.14={ death=yes }
 }
 1019922195={
-	name=Áhari
+	name=ahari
 	dynasty=1009990189
 	dna="kjnkoeohcop"
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=6 intrigue=6 learning=8
 	add_trait=elusive_shadow add_trait=diligent add_trait=greedy  
-	father=1019922188	#Toruí
+	father=1019922188	#Torui
 	1277.12.12={ birth=yes }
 	1352.1.2={ death=yes }
 }
@@ -3983,7 +3983,7 @@
 	dynasty=1009990189
 	dna="jfgcaclnboh"
 	culture=taino religion=caribic_pagan
-	father=1019922188	#Toruí
+	father=1019922188	#Torui
 	1282.7.2={ birth=yes }
 	1344.6.23={ death=yes }
 }
@@ -3993,7 +3993,7 @@
 	dynasty=1009990189
 	dna="lepiaeohejc"
 	culture=taino religion=caribic_pagan
-	father=1019922188	#Toruí
+	father=1019922188	#Torui
 	1289.5.8={ birth=yes }
 	1354.9.21={ death=yes }
 }
@@ -4005,7 +4005,7 @@
 	martial=8 diplomacy=6 stewardship=8 intrigue=5 learning=5
 	add_trait=flamboyant_schemer add_trait=envious add_trait=brave add_trait=gluttonous add_trait=shy 
 	add_trait=greedy add_trait=lunatic 
-	father=1019922195	#Áhari
+	father=1019922195	#ahari
 	1309.12.15={ birth=yes }
 	1385.9.5={ death=yes }
 }
@@ -4016,7 +4016,7 @@
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=7 stewardship=5 intrigue=6 learning=6
 	add_trait=indulgent_wastrel add_trait=proud add_trait=paranoid add_trait=just add_trait=wounded 
-	father=1019922195	#Áhari
+	father=1019922195	#ahari
 	1314.12.8={ birth=yes }
 	1400.3.22={ death=yes }
 }
@@ -4026,7 +4026,7 @@
 	dynasty=1009990189
 	dna="koneoehkcop"
 	culture=taino religion=caribic_pagan
-	father=1019922195	#Áhari
+	father=1019922195	#ahari
 	1322.10.11={ birth=yes }
 	1387.3.13={ death=yes }
 }
@@ -4036,12 +4036,12 @@
 	dynasty=1009990189
 	dna="bjnageokpop"
 	culture=taino religion=caribic_pagan
-	father=1019922195	#Áhari
+	father=1019922195	#ahari
 	1326.12.14={ birth=yes }
 	1407.9.25={ death=yes }
 }
 1019922202={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990189
 	dna="kjlcieghphp"
 	culture=taino religion=caribic_pagan
@@ -4092,7 +4092,7 @@
 	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=6
 	add_trait=naive_appeaser add_trait=zealous  add_trait=gluttonous add_trait=arbitrary 
 	add_trait=shy 
-	father=1019922202	#Pirijá
+	father=1019922202	#Pirija
 	1362.10.15={ birth=yes }
 	1432.3.30={ death=yes }
 }
@@ -4102,19 +4102,19 @@
 	dynasty=1009990189
 	dna="kklhfeghghe"
 	culture=taino religion=caribic_pagan
-	father=1019922202	#Pirijá
+	father=1019922202	#Pirija
 	1369.8.17={ birth=yes }
 	1436.7.26={ death=yes }
 }
 1019922208={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990189
 	dna="kjlpdekhphp"
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=5 intrigue=8 learning=4
 	add_trait=tough_soldier add_trait=slothful add_trait=content add_trait=paranoid  
 	add_trait=cynical add_trait=brave add_trait=fair 
-	father=1019922202	#Pirijá
+	father=1019922202	#Pirija
 	1373.12.21={ birth=yes }
 	1467.12.12={ death=yes }
 }
@@ -4126,7 +4126,7 @@
 	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=7
 	add_trait=charismatic_negotiator add_trait=envious add_trait=greedy add_trait=paranoid add_trait=cynical 
 	add_trait=ugly 
-	father=1019922202	#Pirijá
+	father=1019922202	#Pirija
 	1380.1.12={ birth=yes }
 	1436.11.6={ death=yes }
 }
@@ -4206,7 +4206,7 @@
 	1512.8.8={ death=yes }
 }
 1019922217={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990190
 	dna="fbalgjlkpbp"
 	culture=taino religion=caribic_pagan
@@ -4216,12 +4216,12 @@
 	798.1.23={ death=yes }
 }
 1019922218={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="lbelgcldpcp"
 	culture=taino religion=caribic_pagan
-	father=1019922217	#Pirijá
+	father=1019922217	#Pirija
 	742.3.20={ birth=yes }
 	802.2.9={ death=yes }
 }
@@ -4232,19 +4232,19 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=5 intrigue=8 learning=8
 	add_trait=martial_cleric add_trait=charitable add_trait=wroth  add_trait=arbitrary 
-	father=1019922217	#Pirijá
+	father=1019922217	#Pirija
 	747.5.17={ birth=yes }
 	799.7.26={ death=yes }
 }
 1019922220={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990190
 	dna="fgalgjmkpkp"
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=5 stewardship=8 intrigue=8 learning=7
 	add_trait=midas_touched add_trait=trusting add_trait=charitable add_trait=envious 
 	add_trait=depressed 
-	father=1019922217	#Pirijá
+	father=1019922217	#Pirija
 	749.2.13={ birth=yes }
 	817.8.23={ death=yes }
 }
@@ -4254,17 +4254,17 @@
 	dynasty=1009990190
 	dna="lbalhkfgfmj"
 	culture=taino religion=caribic_pagan
-	father=1019922217	#Pirijá
+	father=1019922217	#Pirija
 	754.11.24={ birth=yes }
 	848.9.15={ death=yes }
 }
 1019922222={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="fcjlkilkpkp"
 	culture=taino religion=caribic_pagan
-	father=1019922217	#Pirijá
+	father=1019922217	#Pirija
 	760.10.27={ birth=yes }
 	815.9.14={ death=yes }
 }
@@ -4290,7 +4290,7 @@
 	820.10.19={ death=yes }
 }
 1019922225={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990190
 	dna="mbjlfphkhca"
 	culture=taino religion=caribic_pagan
@@ -4357,7 +4357,7 @@
 	863.8.10={ death=yes }
 }
 1019922231={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="oglobeflpik"
@@ -4442,7 +4442,7 @@
 	961.5.9={ death=yes }
 }
 1019922239={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="cebbjilnaog"
@@ -4538,7 +4538,7 @@
 	1047.11.28={ death=yes }
 }
 1019922248={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="chalgnibloi"
@@ -4570,7 +4570,7 @@
 	1060.3.7={ death=yes }
 }
 1019922251={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="ccganhgbbek"
@@ -4580,7 +4580,7 @@
 	1045.6.28={ death=yes }
 }
 1019922252={
-	name=Áhari
+	name=ahari
 	dynasty=1009990190
 	dna="copmpfdbjfc"
 	culture=taino religion=caribic_pagan
@@ -4632,7 +4632,7 @@
 	1079.8.18={ death=yes }
 }
 1019922257={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="ohhmpnlanbe"
@@ -4652,7 +4652,7 @@
 	1107.1.13={ death=yes }
 }
 1019922259={
-	name=Áhari
+	name=ahari
 	dynasty=1009990190
 	dna="cedakjlbpij"
 	culture=taino religion=caribic_pagan
@@ -4703,29 +4703,29 @@
 	martial=5 diplomacy=8 stewardship=6 intrigue=8 learning=8
 	add_trait=midas_touched add_trait=arbitrary add_trait=trusting add_trait=temperate add_trait=wroth 
 	add_trait=deceitful add_trait=lunatic add_trait=clubfooted 
-	father=1019922259	#Áhari
+	father=1019922259	#ahari
 	1070.5.2={ birth=yes }
 	1127.7.14={ death=yes }
 }
 1019922264={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="endagglbpik"
 	culture=taino religion=caribic_pagan
-	father=1019922259	#Áhari
+	father=1019922259	#ahari
 	1075.2.7={ birth=yes }
 	1154.3.25={ death=yes }
 }
 1019922265={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990190
 	dna="iepjkjkbpnj"
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=6 stewardship=6 intrigue=7 learning=8
 	add_trait=flamboyant_schemer add_trait=hedonist add_trait=patient add_trait=ambitious 
 	add_trait=temperate 
-	father=1019922259	#Áhari
+	father=1019922259	#ahari
 	1078.7.17={ birth=yes }
 	1139.9.26={ death=yes }
 }
@@ -4735,12 +4735,12 @@
 	dynasty=1009990190
 	dna="cedakblnpaj"
 	culture=taino religion=caribic_pagan
-	father=1019922259	#Áhari
+	father=1019922259	#ahari
 	1085.7.13={ birth=yes }
 	1169.4.2={ death=yes }
 }
 1019922267={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990190
 	dna="ciomjdafpil"
 	culture=taino religion=caribic_pagan
@@ -4751,7 +4751,7 @@
 	1175.8.9={ death=yes }
 }
 1019922268={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="jfdaodpfloe"
@@ -4761,13 +4761,13 @@
 	1177.4.9={ death=yes }
 }
 1019922269={
-	name=Áhari
+	name=ahari
 	dynasty=1009990190
 	dna="ciomjdajpdk"
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=8
 	add_trait=intricate_webweaver add_trait=greedy add_trait=trusting add_trait=lustful 
-	father=1019922267	#Pirijá
+	father=1019922267	#Pirija
 	1121.8.11={ birth=yes }
 	1171.11.20={ death=yes }
 }
@@ -4777,7 +4777,7 @@
 	dynasty=1009990190
 	dna="chocjfjjkdl"
 	culture=taino religion=caribic_pagan
-	father=1019922267	#Pirijá
+	father=1019922267	#Pirija
 	1124.9.1={ birth=yes }
 	1197.8.11={ death=yes }
 }
@@ -4789,7 +4789,7 @@
 	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=8
 	add_trait=flamboyant_schemer add_trait=brave add_trait=content  add_trait=slothful 
 	add_trait=ill 
-	father=1019922267	#Pirijá
+	father=1019922267	#Pirija
 	1128.3.19={ birth=yes }
 	1201.7.22={ death=yes }
 }
@@ -4801,7 +4801,7 @@
 	martial=5 diplomacy=7 stewardship=7 intrigue=8 learning=4
 	add_trait=elusive_shadow add_trait=arbitrary add_trait=trusting add_trait=deceitful add_trait=zealous 
 	add_trait=possessed 
-	father=1019922267	#Pirijá
+	father=1019922267	#Pirija
 	1133.9.6={ birth=yes }
 	1227.7.3={ death=yes }
 }
@@ -4811,7 +4811,7 @@
 	dynasty=1009990190
 	dna="cdimjdefpin"
 	culture=taino religion=caribic_pagan
-	father=1019922267	#Pirijá
+	father=1019922267	#Pirija
 	1139.1.27={ birth=yes }
 	1210.10.1={ death=yes }
 }
@@ -4821,7 +4821,7 @@
 	dynasty=1009990190
 	dna="ciofmdfffii"
 	culture=taino religion=caribic_pagan
-	father=1019922267	#Pirijá
+	father=1019922267	#Pirija
 	1143.7.25={ birth=yes }
 	1206.10.29={ death=yes }
 }
@@ -4832,19 +4832,19 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=4
 	add_trait=charismatic_negotiator add_trait=charitable add_trait=craven add_trait=deceitful 
-	father=1019922269	#Áhari
+	father=1019922269	#ahari
 	1149.10.11={ birth=yes }
 	1233.9.12={ death=yes }
 }
 1019922276={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990190
 	dna="gkoigdajpdk"
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=6 stewardship=8 intrigue=8 learning=6
 	add_trait=detached_priest add_trait=humble add_trait=chaste add_trait=ambitious add_trait=trusting 
 	add_trait=honest add_trait=cynical add_trait=ill 
-	father=1019922269	#Áhari
+	father=1019922269	#ahari
 	1153.4.14={ birth=yes }
 	1207.8.20={ death=yes }
 }
@@ -4856,17 +4856,17 @@
 	martial=8 diplomacy=5 stewardship=8 intrigue=8 learning=5
 	add_trait=charismatic_negotiator add_trait=zealous add_trait=gluttonous add_trait=chaste add_trait=craven 
 	add_trait=stutter 
-	father=1019922269	#Áhari
+	father=1019922269	#ahari
 	1158.12.2={ birth=yes }
 	1228.7.16={ death=yes }
 }
 1019922278={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="haajpdihplk"
 	culture=taino religion=caribic_pagan
-	father=1019922269	#Áhari
+	father=1019922269	#ahari
 	1161.4.23={ birth=yes }
 	1214.11.22={ death=yes }
 }
@@ -4878,12 +4878,12 @@
 	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=8
 	add_trait=charismatic_negotiator add_trait=celibate add_trait=arbitrary add_trait=cynical add_trait=wroth 
 	add_trait=humble add_trait=deceitful add_trait=paranoid 
-	father=1019922269	#Áhari
+	father=1019922269	#ahari
 	1166.3.11={ birth=yes }
 	1219.6.24={ death=yes }
 }
 1019922280={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990190
 	dna="cejnolhjija"
 	culture=taino religion=caribic_pagan
@@ -4948,7 +4948,7 @@
 	1257.1.11={ death=yes }
 }
 1019922286={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="kejbenofioa"
@@ -4958,12 +4958,12 @@
 	1279.4.22={ death=yes }
 }
 1019922287={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="decnclhdpka"
 	culture=taino religion=caribic_pagan
-	father=1019922280	#Pirijá
+	father=1019922280	#Pirija
 	1200.9.17={ birth=yes }
 	1289.9.11={ death=yes }
 }
@@ -4974,7 +4974,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=4 stewardship=8 intrigue=6 learning=7
 	add_trait=detached_priest add_trait=deceitful add_trait=shy add_trait=paranoid 
-	father=1019922280	#Pirijá
+	father=1019922280	#Pirija
 	1206.3.9={ birth=yes }
 	1263.5.17={ death=yes }
 }
@@ -5012,7 +5012,7 @@
 	1313.2.2={ death=yes }
 }
 1019922292={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="edmhjlajijo"
@@ -5044,7 +5044,7 @@
 	1357.11.27={ death=yes }
 }
 1019922295={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="ckclolfdipg"
@@ -5054,7 +5054,7 @@
 	1348.1.10={ death=yes }
 }
 1019922296={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990190
 	dna="nmldllakpib"
 	culture=taino religion=caribic_pagan
@@ -5076,7 +5076,7 @@
 	1357.8.25={ death=yes }
 }
 1019922298={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="geljliaehea"
@@ -5093,7 +5093,7 @@
 	martial=6 diplomacy=4 stewardship=7 intrigue=6 learning=5
 	add_trait=charismatic_negotiator add_trait=scholar add_trait=cynical add_trait=gluttonous 
 	add_trait=paranoid add_trait=charitable add_trait=slothful 
-	father=1019922296	#Pirijá
+	father=1019922296	#Pirija
 	1305.3.26={ birth=yes }
 	1360.1.26={ death=yes }
 }
@@ -5104,7 +5104,7 @@
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=7 stewardship=5 intrigue=4 learning=5
 	add_trait=intricate_webweaver add_trait=shy add_trait=diligent add_trait=zealous add_trait=humble 
-	father=1019922296	#Pirijá
+	father=1019922296	#Pirija
 	1309.2.16={ birth=yes }
 	1384.6.7={ death=yes }
 }
@@ -5116,7 +5116,7 @@
 	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=6
 	add_trait=misguided_warrior add_trait=celibate add_trait=just add_trait=greedy add_trait=ill 
 	add_trait=lunatic 
-	father=1019922296	#Pirijá
+	father=1019922296	#Pirija
 	1315.6.27={ birth=yes }
 	1374.5.7={ death=yes }
 }
@@ -5126,7 +5126,7 @@
 	dynasty=1009990190
 	dna="cmplllhknol"
 	culture=taino religion=caribic_pagan
-	father=1019922296	#Pirijá
+	father=1019922296	#Pirija
 	1320.2.3={ birth=yes }
 	1406.1.5={ death=yes }
 }
@@ -5163,7 +5163,7 @@
 	1405.7.17={ death=yes }
 }
 1019922306={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990190
 	dna="ifolihkkmle"
@@ -5195,7 +5195,7 @@
 	1411.1.7={ death=yes }
 }
 1019922309={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990191
 	dna="flngjnhneee"
 	culture=taino religion=caribic_pagan
@@ -5212,17 +5212,17 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=5
 	add_trait=naive_appeaser add_trait=temperate add_trait=trusting 
-	father=1019922309	#Pirijá
+	father=1019922309	#Pirija
 	746.5.21={ birth=yes }
 	825.5.29={ death=yes }
 }
 1019922311={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990191
 	dna="jcngjnhnpeh"
 	culture=taino religion=caribic_pagan
-	father=1019922309	#Pirijá
+	father=1019922309	#Pirija
 	749.2.27={ birth=yes }
 	821.11.5={ death=yes }
 }
@@ -5234,18 +5234,18 @@
 	martial=7 diplomacy=5 stewardship=4 intrigue=7 learning=8
 	add_trait=misguided_warrior add_trait=impaler add_trait=honest add_trait=diligent add_trait=paranoid 
 	 add_trait=content add_trait=craven 
-	father=1019922309	#Pirijá
+	father=1019922309	#Pirija
 	753.7.7={ birth=yes }
 	811.5.19={ death=yes }
 }
 1019922313={
-	name=Áhari
+	name=ahari
 	dynasty=1009990191
 	dna="ngnejnhneee"
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=7 stewardship=7 intrigue=8 learning=6
 	add_trait=intricate_webweaver add_trait=content add_trait=patient add_trait=trusting add_trait=slothful 
-	father=1019922309	#Pirijá
+	father=1019922309	#Pirija
 	760.8.1={ birth=yes }
 	817.4.13={ death=yes }
 }
@@ -5601,7 +5601,7 @@
 	1091.3.12={ death=yes }
 }
 1019922346={
-	name=Áhari
+	name=ahari
 	dynasty=1009990191
 	dna="gaahfngembg"
 	culture=taino religion=caribic_pagan
@@ -5633,7 +5633,7 @@
 	1085.7.20={ death=yes }
 }
 1019922349={
-	name=Áhari
+	name=ahari
 	dynasty=1009990191
 	dna="ginohclombk"
 	culture=taino religion=caribic_pagan
@@ -5665,7 +5665,7 @@
 	1086.5.18={ death=yes }
 }
 1019922352={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990191
 	dna="mcipechaapn"
 	culture=taino religion=caribic_pagan
@@ -5676,7 +5676,7 @@
 	1121.6.16={ death=yes }
 }
 1019922353={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990191
 	dna="mlllhchjfan"
@@ -5821,7 +5821,7 @@
 	1180.7.4={ death=yes }
 }
 1019922366={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990191
 	dna="cnajglhkcgb"
@@ -5843,7 +5843,7 @@
 	1183.1.17={ death=yes }
 }
 1019922368={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990191
 	dna="bhlegmbffkb"
 	culture=taino religion=caribic_pagan
@@ -5867,7 +5867,7 @@
 	1189.8.31={ death=yes }
 }
 1019922370={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990191
 	dna="beobnflcbia"
 	culture=taino religion=caribic_pagan
@@ -5990,7 +5990,7 @@
 	1282.9.15={ death=yes }
 }
 1019922381={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990191
 	dna="aehhohadmil"
 	culture=taino religion=caribic_pagan
@@ -6021,7 +6021,7 @@
 	1329.4.20={ death=yes }
 }
 1019922384={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990191
 	dna="ccoeomodige"
@@ -6050,7 +6050,7 @@
 	martial=4 diplomacy=8 stewardship=7 intrigue=6 learning=8
 	add_trait=flamboyant_schemer add_trait=gregarious add_trait=trusting add_trait=lustful add_trait=proud 
 	add_trait=patient 
-	father=1019922381	#Pirijá
+	father=1019922381	#Pirija
 	1253.11.11={ birth=yes }
 	1307.10.28={ death=yes }
 }
@@ -6060,7 +6060,7 @@
 	dynasty=1009990191
 	dna="nddhohfdmhl"
 	culture=taino religion=caribic_pagan
-	father=1019922381	#Pirijá
+	father=1019922381	#Pirija
 	1258.6.5={ birth=yes }
 	1336.1.24={ death=yes }
 }
@@ -6071,7 +6071,7 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=6 intrigue=7 learning=6
 	add_trait=intricate_webweaver add_trait=hedonist add_trait=wroth add_trait=honest add_trait=paranoid 
-	father=1019922381	#Pirijá
+	father=1019922381	#Pirija
 	1262.7.2={ birth=yes }
 	1328.1.27={ death=yes }
 }
@@ -6098,7 +6098,7 @@
 	1370.8.2={ death=yes }
 }
 1019922391={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990191
 	dna="emndooonngl"
@@ -6120,7 +6120,7 @@
 	1331.8.7={ death=yes }
 }
 1019922393={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990191
 	dna="ekhkhgnfacl"
 	culture=taino religion=caribic_pagan
@@ -6175,7 +6175,7 @@
 	1385.12.17={ death=yes }
 }
 1019922398={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990191
 	dna="poffjmhgggg"
@@ -6197,7 +6197,7 @@
 	1385.9.29={ death=yes }
 }
 1019922400={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990191
 	dna="pdbegcoeghg"
@@ -6219,7 +6219,7 @@
 	1385.9.3={ death=yes }
 }
 1019922402={
-	name=Áhari
+	name=ahari
 	dynasty=1009990191
 	dna="polhmihggjg"
 	culture=taino religion=caribic_pagan
@@ -6231,7 +6231,7 @@
 	1390.9.28={ death=yes }
 }
 1019922403={
-	name=Áhari
+	name=ahari
 	dynasty=1009990191
 	dna="djhfbdhgabn"
 	culture=taino religion=caribic_pagan
@@ -6252,7 +6252,7 @@
 	1434.11.2={ death=yes }
 }
 1019922405={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990191
 	dna="pglcbchghmg"
@@ -6305,7 +6305,7 @@
 	788.9.25={ death=yes }
 }
 1019922410={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990192
 	dna="ebelfcdindf"
 	culture=taino religion=caribic_pagan
@@ -6338,7 +6338,7 @@
 	851.6.1={ death=yes }
 }
 1019922413={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990192
 	dna="odeloakfjob"
@@ -6477,7 +6477,7 @@
 	958.10.1={ death=yes }
 }
 1019922426={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990192
 	dna="knnbhjnhpog"
 	culture=taino religion=caribic_pagan
@@ -6498,7 +6498,7 @@
 	954.5.17={ death=yes }
 }
 1019922428={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990192
 	dna="ilbbhfknnoh"
 	culture=taino religion=caribic_pagan
@@ -6565,7 +6565,7 @@
 	984.9.2={ death=yes }
 }
 1019922434={
-	name=Áhari
+	name=ahari
 	dynasty=1009990192
 	dna="npnbeokleoh"
 	culture=taino religion=caribic_pagan
@@ -6576,13 +6576,13 @@
 	963.1.21={ death=yes }
 }
 1019922435={
-	name=Áhari
+	name=ahari
 	dynasty=1009990192
 	dna="oklfhnknpoh"
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=4 stewardship=5 intrigue=8 learning=5
 	add_trait=flamboyant_schemer add_trait=poet  add_trait=gluttonous 
-	father=1019922428	#Pirijá
+	father=1019922428	#Pirija
 	906.5.5={ birth=yes }
 	971.12.27={ death=yes }
 }
@@ -6594,7 +6594,7 @@
 	martial=8 diplomacy=5 stewardship=4 intrigue=8 learning=6
 	add_trait=elusive_shadow add_trait=gardener add_trait=ambitious add_trait=brave add_trait=gluttonous 
 	add_trait=humble 
-	father=1019922428	#Pirijá
+	father=1019922428	#Pirija
 	912.11.19={ birth=yes }
 	1000.1.7={ death=yes }
 }
@@ -6605,7 +6605,7 @@
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=5 stewardship=6 intrigue=4 learning=6
 	add_trait=misguided_warrior add_trait=temperate add_trait=greedy add_trait=slothful add_trait=wounded 
-	father=1019922428	#Pirijá
+	father=1019922428	#Pirija
 	918.12.10={ birth=yes }
 	1002.5.26={ death=yes }
 }
@@ -6616,7 +6616,7 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=6
 	add_trait=midas_touched add_trait=slothful add_trait=lustful add_trait=charitable add_trait=ambitious 
-	father=1019922428	#Pirijá
+	father=1019922428	#Pirija
 	922.6.17={ birth=yes }
 	983.1.20={ death=yes }
 }
@@ -6626,7 +6626,7 @@
 	dynasty=1009990192
 	dna="glbbdfknnoe"
 	culture=taino religion=caribic_pagan
-	father=1019922428	#Pirijá
+	father=1019922428	#Pirija
 	925.11.17={ birth=yes }
 	996.1.28={ death=yes }
 }
@@ -6638,7 +6638,7 @@
 	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=4
 	add_trait=martial_cleric add_trait=gardener add_trait=deceitful add_trait=gregarious add_trait=envious 
 	add_trait=just add_trait=brave 
-	father=1019922435	#Áhari
+	father=1019922435	#ahari
 	935.10.6={ birth=yes }
 	1014.9.15={ death=yes }
 }
@@ -6650,7 +6650,7 @@
 	martial=7 diplomacy=8 stewardship=6 intrigue=6 learning=4
 	add_trait=detached_priest add_trait=chaste add_trait=envious add_trait=gluttonous 
 	add_trait=depressed 
-	father=1019922435	#Áhari
+	father=1019922435	#ahari
 	939.12.5={ birth=yes }
 	1029.4.9={ death=yes }
 }
@@ -6660,7 +6660,7 @@
 	dynasty=1009990192
 	dna="okffnnkeboh"
 	culture=taino religion=caribic_pagan
-	father=1019922435	#Áhari
+	father=1019922435	#ahari
 	945.11.27={ birth=yes }
 	1020.10.31={ death=yes }
 }
@@ -6670,22 +6670,22 @@
 	dynasty=1009990192
 	dna="ppgfhknngoh"
 	culture=taino religion=caribic_pagan
-	father=1019922435	#Áhari
+	father=1019922435	#ahari
 	950.5.17={ birth=yes }
 	1029.10.26={ death=yes }
 }
 1019922444={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990192
 	dna="oolfjkjdldd"
 	culture=taino religion=caribic_pagan
-	father=1019922435	#Áhari
+	father=1019922435	#ahari
 	956.12.23={ birth=yes }
 	1011.2.15={ death=yes }
 }
 1019922445={
-	name=Áhari
+	name=ahari
 	dynasty=1009990192
 	dna="ckgglnegooh"
 	culture=taino religion=caribic_pagan
@@ -6738,12 +6738,12 @@
 	1033.6.20={ death=yes }
 }
 1019922450={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990192
 	dna="ijgnoneggan"
 	culture=taino religion=caribic_pagan
-	father=1019922445	#Áhari
+	father=1019922445	#ahari
 	981.2.25={ birth=yes }
 	1050.3.26={ death=yes }
 }
@@ -6755,17 +6755,17 @@
 	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=7
 	add_trait=detached_priest add_trait=arbitrary add_trait=lustful add_trait=greedy add_trait=temperate 
 	add_trait=brave 
-	father=1019922445	#Áhari
+	father=1019922445	#ahari
 	987.9.16={ birth=yes }
 	1064.4.16={ death=yes }
 }
 1019922452={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990192
 	dna="anggjdlhjoj"
 	culture=taino religion=caribic_pagan
-	father=1019922445	#Áhari
+	father=1019922445	#ahari
 	994.1.22={ birth=yes }
 	1063.5.19={ death=yes }
 }
@@ -6777,12 +6777,12 @@
 	martial=4 diplomacy=5 stewardship=4 intrigue=8 learning=4
 	add_trait=naive_appeaser add_trait=paranoid add_trait=lustful add_trait=honest add_trait=proud 
 	add_trait=envious 
-	father=1019922445	#Áhari
+	father=1019922445	#ahari
 	1000.1.5={ birth=yes }
 	1054.10.27={ death=yes }
 }
 1019922454={
-	name=Áhari
+	name=ahari
 	dynasty=1009990192
 	dna="gfghephdfih"
 	culture=taino religion=caribic_pagan
@@ -6822,7 +6822,7 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=8 stewardship=6 intrigue=4 learning=7
 	add_trait=midas_touched add_trait=scholar add_trait=cynical add_trait=arbitrary add_trait=slothful 
-	father=1019922454	#Áhari
+	father=1019922454	#ahari
 	1046.4.1={ birth=yes }
 	1127.10.11={ death=yes }
 }
@@ -6833,7 +6833,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=4 stewardship=5 intrigue=5 learning=7
 	add_trait=naive_appeaser add_trait=trusting add_trait=brave add_trait=zealous 
-	father=1019922454	#Áhari
+	father=1019922454	#ahari
 	1051.2.17={ birth=yes }
 	1106.10.31={ death=yes }
 }
@@ -6845,7 +6845,7 @@
 	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=7
 	add_trait=misguided_warrior add_trait=slothful add_trait=temperate add_trait=paranoid add_trait=content 
 	add_trait=genius 
-	father=1019922454	#Áhari
+	father=1019922454	#ahari
 	1055.7.22={ birth=yes }
 	1142.8.21={ death=yes }
 }
@@ -6855,18 +6855,18 @@
 	dynasty=1009990192
 	dna="jijneehffig"
 	culture=taino religion=caribic_pagan
-	father=1019922454	#Áhari
+	father=1019922454	#ahari
 	1060.12.26={ birth=yes }
 	1125.6.11={ death=yes }
 }
 1019922461={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990192
 	dna="gfghocpdmin"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=6
 	add_trait=charismatic_negotiator add_trait=shy add_trait=envious add_trait=ambitious add_trait=drunkard 
-	father=1019922454	#Áhari
+	father=1019922454	#ahari
 	1063.9.11={ birth=yes }
 	1120.12.27={ death=yes }
 }
@@ -6933,7 +6933,7 @@
 	1199.10.28={ death=yes }
 }
 1019922468={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990192
 	dna="eheiemhcpbi"
@@ -7064,7 +7064,7 @@
 	1279.1.29={ death=yes }
 }
 1019922480={
-	name=Áhari
+	name=ahari
 	dynasty=1009990192
 	dna="hfkohmiaklc"
 	culture=taino religion=caribic_pagan
@@ -7085,14 +7085,14 @@
 	1292.5.6={ death=yes }
 }
 1019922482={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990192
 	dna="hkbnhjdakep"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=7
 	add_trait=grey_eminence add_trait=mystic add_trait=diligent add_trait=trusting 
 	 add_trait=lunatic 
-	father=1019922480	#Áhari
+	father=1019922480	#ahari
 	1256.7.20={ birth=yes }
 	1325.4.6={ death=yes }
 }
@@ -7102,19 +7102,19 @@
 	dynasty=1009990192
 	dna="kkkhhmmakkc"
 	culture=taino religion=caribic_pagan
-	father=1019922480	#Áhari
+	father=1019922480	#ahari
 	1259.8.7={ birth=yes }
 	1344.3.13={ death=yes }
 }
 1019922484={
-	name=Toruí
+	name=Torui
 	dynasty=1009990192
 	dna="pggghjlbhbp"
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=6 intrigue=5 learning=5
 	add_trait=martial_cleric add_trait=celibate add_trait=temperate add_trait=craven add_trait=greedy 
 	add_trait=chaste add_trait=slothful 
-	father=1019922482	#Pirijá
+	father=1019922482	#Pirija
 	1280.4.2={ birth=yes }
 	1345.12.1={ death=yes }
 }
@@ -7125,7 +7125,7 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=6 stewardship=4 intrigue=5 learning=7
 	add_trait=charismatic_negotiator add_trait=ambitious add_trait=deceitful 
-	father=1019922482	#Pirijá
+	father=1019922482	#Pirija
 	1283.3.11={ birth=yes }
 	1339.3.17={ death=yes }
 }
@@ -7136,7 +7136,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=6 stewardship=8 intrigue=4 learning=5
 	add_trait=skilled_tactician add_trait=lustful add_trait=cynical add_trait=wroth 
-	father=1019922484	#Toruí
+	father=1019922484	#Torui
 	1301.8.19={ birth=yes }
 	1364.5.6={ death=yes }
 }
@@ -7147,7 +7147,7 @@
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=6 stewardship=6 intrigue=5 learning=5
 	add_trait=midas_touched add_trait=humble add_trait=greedy add_trait=zealous add_trait=brave 
-	father=1019922484	#Toruí
+	father=1019922484	#Torui
 	1308.3.12={ birth=yes }
 	1362.9.18={ death=yes }
 }
@@ -7157,7 +7157,7 @@
 	dynasty=1009990192
 	dna="plkfhnjnhbd"
 	culture=taino religion=caribic_pagan
-	father=1019922484	#Toruí
+	father=1019922484	#Torui
 	1313.4.14={ birth=yes }
 	1389.4.5={ death=yes }
 }
@@ -7168,7 +7168,7 @@
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=8
 	add_trait=flamboyant_schemer add_trait=hunter add_trait=greedy add_trait=content add_trait=fair 
-	father=1019922484	#Toruí
+	father=1019922484	#Torui
 	1317.2.1={ birth=yes }
 	1375.8.28={ death=yes }
 }
@@ -7204,7 +7204,7 @@
 	1396.10.1={ death=yes }
 }
 1019922493={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990192
 	dna="pgcgknlgnhl"
@@ -7246,7 +7246,7 @@
 	1431.5.7={ death=yes }
 }
 1019922497={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990192
 	dna="fgcgbnaghah"
@@ -7311,7 +7311,7 @@
 	772.11.13={ death=yes }
 }
 1019922503={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990193
 	dna="cncdffjhmon"
 	culture=taino religion=caribic_pagan
@@ -7333,7 +7333,7 @@
 	839.4.29={ death=yes }
 }
 1019922505={
-	name=Toruí
+	name=Torui
 	dynasty=1009990193
 	dna="nilmpimbbmn"
 	culture=taino religion=caribic_pagan
@@ -7362,7 +7362,7 @@
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=6 stewardship=4 intrigue=5 learning=5
 	add_trait=intricate_webweaver add_trait=hedonist add_trait=greedy add_trait=content 
-	father=1019922503	#Pirijá
+	father=1019922503	#Pirija
 	772.11.23={ birth=yes }
 	832.12.30={ death=yes }
 }
@@ -7373,7 +7373,7 @@
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=7 stewardship=8 intrigue=6 learning=6
 	add_trait=flamboyant_schemer add_trait=greedy add_trait=gluttonous 
-	father=1019922503	#Pirijá
+	father=1019922503	#Pirija
 	775.9.17={ birth=yes }
 	863.8.27={ death=yes }
 }
@@ -7385,7 +7385,7 @@
 	martial=4 diplomacy=6 stewardship=7 intrigue=6 learning=7
 	add_trait=elusive_shadow add_trait=mystic add_trait=gregarious add_trait=proud add_trait=just 
 	add_trait=cynical add_trait=wounded 
-	father=1019922503	#Pirijá
+	father=1019922503	#Pirija
 	782.10.12={ birth=yes }
 	855.3.12={ death=yes }
 }
@@ -7395,12 +7395,12 @@
 	dynasty=1009990193
 	dna="cdcbfkjjmon"
 	culture=taino religion=caribic_pagan
-	father=1019922503	#Pirijá
+	father=1019922503	#Pirija
 	787.4.21={ birth=yes }
 	822.9.16={ death=yes }
 }
 1019922511={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990193
 	dna="jfdkpbfhkmo"
 	culture=taino religion=caribic_pagan
@@ -7456,7 +7456,7 @@
 	dynasty=1009990193
 	dna="jcmjpbdhkjd"
 	culture=taino religion=caribic_pagan
-	father=1019922511	#Pirijá
+	father=1019922511	#Pirija
 	822.12.15={ birth=yes }
 	886.2.22={ death=yes }
 }
@@ -7466,31 +7466,31 @@
 	dynasty=1009990193
 	dna="endipbdpbok"
 	culture=taino religion=caribic_pagan
-	father=1019922511	#Pirijá
+	father=1019922511	#Pirija
 	827.9.23={ birth=yes }
 	884.6.5={ death=yes }
 }
 1019922518={
-	name=Toruí
+	name=Torui
 	dynasty=1009990193
 	dna="ifckdfahkao"
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=6
 	add_trait=misguided_warrior add_trait=mystic add_trait=lustful add_trait=arbitrary add_trait=greedy 
 	add_trait=harelip 
-	father=1019922511	#Pirijá
+	father=1019922511	#Pirija
 	832.2.6={ birth=yes }
 	915.4.19={ death=yes }
 }
 1019922519={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990193
 	dna="jfeiimopmmk"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=5 stewardship=4 intrigue=8 learning=5
 	add_trait=midas_touched add_trait=celibate add_trait=greedy  add_trait=diligent 
 	add_trait=just add_trait=cynical 
-	father=1019922511	#Pirijá
+	father=1019922511	#Pirija
 	837.8.26={ birth=yes }
 	911.10.24={ death=yes }
 }
@@ -7500,18 +7500,18 @@
 	dynasty=1009990193
 	dna="nndnpabpmmc"
 	culture=taino religion=caribic_pagan
-	father=1019922511	#Pirijá
+	father=1019922511	#Pirija
 	841.3.4={ birth=yes }
 	917.3.13={ death=yes }
 }
 1019922521={
-	name=Áhari
+	name=ahari
 	dynasty=1009990193
 	dna="podkjbfhdia"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=6 stewardship=8 intrigue=5 learning=7
 	add_trait=indulgent_wastrel add_trait=just add_trait=humble add_trait=depressed 
-	father=1019922511	#Pirijá
+	father=1019922511	#Pirija
 	845.8.23={ birth=yes }
 	915.4.14={ death=yes }
 }
@@ -7523,18 +7523,18 @@
 	martial=4 diplomacy=8 stewardship=8 intrigue=4 learning=5
 	add_trait=intricate_webweaver add_trait=content add_trait=shy add_trait=wroth add_trait=arbitrary 
 	 
-	father=1019922511	#Pirijá
+	father=1019922511	#Pirija
 	849.7.20={ birth=yes }
 	909.10.20={ death=yes }
 }
 1019922523={
-	name=Toruí
+	name=Torui
 	dynasty=1009990193
 	dna="ifjgdkacngo"
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=4 stewardship=6 intrigue=5 learning=4
 	add_trait=tough_soldier add_trait=brave add_trait=greedy add_trait=arbitrary add_trait=zealous 
-	father=1019922518	#Toruí
+	father=1019922518	#Torui
 	862.4.2={ birth=yes }
 	935.11.7={ death=yes }
 }
@@ -7544,7 +7544,7 @@
 	dynasty=1009990193
 	dna="ifcodfaflao"
 	culture=taino religion=caribic_pagan
-	father=1019922518	#Toruí
+	father=1019922518	#Torui
 	866.5.27={ birth=yes }
 	943.5.1={ death=yes }
 }
@@ -7556,7 +7556,7 @@
 	martial=8 diplomacy=5 stewardship=5 intrigue=4 learning=7
 	add_trait=flamboyant_schemer add_trait=celibate add_trait=craven add_trait=temperate add_trait=envious 
 	add_trait=greedy 
-	father=1019922518	#Toruí
+	father=1019922518	#Torui
 	870.5.2={ birth=yes }
 	940.10.29={ death=yes }
 }
@@ -7567,18 +7567,18 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=7 stewardship=4 intrigue=8 learning=8
 	add_trait=midas_touched add_trait=honest add_trait=wroth 
-	father=1019922523	#Toruí
+	father=1019922523	#Torui
 	883.7.1={ birth=yes }
 	969.2.3={ death=yes }
 }
 1019922527={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990193
 	dna="igjgfcocncj"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=4
 	add_trait=tough_soldier add_trait=mystic add_trait=brave add_trait=lustful 
-	father=1019922523	#Toruí
+	father=1019922523	#Torui
 	887.6.3={ birth=yes }
 	973.6.16={ death=yes }
 }
@@ -7589,7 +7589,7 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=8
 	add_trait=intricate_webweaver add_trait=zealous add_trait=hunchback 
-	father=1019922523	#Toruí
+	father=1019922523	#Torui
 	892.6.8={ birth=yes }
 	976.8.3={ death=yes }
 }
@@ -7600,12 +7600,12 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=7 stewardship=4 intrigue=4 learning=6
 	add_trait=misguided_warrior add_trait=cynical add_trait=trusting 
-	father=1019922523	#Toruí
+	father=1019922523	#Torui
 	897.10.21={ birth=yes }
 	946.4.16={ death=yes }
 }
 1019922530={
-	name=Áhari
+	name=ahari
 	dynasty=1009990193
 	dna="ohkgdhkfmbi"
 	culture=taino religion=caribic_pagan
@@ -7668,7 +7668,7 @@
 	martial=7 diplomacy=5 stewardship=7 intrigue=8 learning=7
 	add_trait=indulgent_wastrel add_trait=deceitful add_trait=humble add_trait=content add_trait=slothful 
 	add_trait=greedy add_trait=wounded 
-	father=1019922530	#Áhari
+	father=1019922530	#ahari
 	933.8.20={ birth=yes }
 	1020.8.20={ death=yes }
 }
@@ -7680,7 +7680,7 @@
 	martial=4 diplomacy=5 stewardship=6 intrigue=6 learning=6
 	add_trait=naive_appeaser add_trait=charitable add_trait=proud add_trait=lustful add_trait=paranoid 
 	add_trait=envious 
-	father=1019922530	#Áhari
+	father=1019922530	#ahari
 	937.1.6={ birth=yes }
 	998.7.30={ death=yes }
 }
@@ -7690,7 +7690,7 @@
 	dynasty=1009990193
 	dna="oaogdnkfonl"
 	culture=taino religion=caribic_pagan
-	father=1019922530	#Áhari
+	father=1019922530	#ahari
 	940.3.3={ birth=yes }
 	993.3.6={ death=yes }
 }
@@ -7700,7 +7700,7 @@
 	dynasty=1009990193
 	dna="obbgeckgmem"
 	culture=taino religion=caribic_pagan
-	father=1019922530	#Áhari
+	father=1019922530	#ahari
 	946.2.5={ birth=yes }
 	1028.4.23={ death=yes }
 }
@@ -7711,12 +7711,12 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=5 stewardship=6 intrigue=6 learning=6
 	add_trait=intricate_webweaver add_trait=honest add_trait=proud add_trait=envious add_trait=wroth 
-	father=1019922530	#Áhari
+	father=1019922530	#ahari
 	951.1.4={ birth=yes }
 	1021.5.21={ death=yes }
 }
 1019922540={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990193
 	dna="fhmmkhnlfki"
 	culture=taino religion=caribic_pagan
@@ -7742,7 +7742,7 @@
 	dynasty=1009990193
 	dna="fhmmknhkfci"
 	culture=taino religion=caribic_pagan
-	father=1019922540	#Pirijá
+	father=1019922540	#Pirija
 	985.7.19={ birth=yes }
 	1070.10.10={ death=yes }
 }
@@ -7754,7 +7754,7 @@
 	martial=6 diplomacy=5 stewardship=6 intrigue=4 learning=6
 	add_trait=midas_touched add_trait=honest add_trait=slothful add_trait=content add_trait=proud 
 	add_trait=wounded add_trait=possessed 
-	father=1019922540	#Pirijá
+	father=1019922540	#Pirija
 	990.12.7={ birth=yes }
 	1073.1.27={ death=yes }
 }
@@ -7764,7 +7764,7 @@
 	dynasty=1009990193
 	dna="llhmohnlomg"
 	culture=taino religion=caribic_pagan
-	father=1019922540	#Pirijá
+	father=1019922540	#Pirija
 	993.1.13={ birth=yes }
 	1061.10.18={ death=yes }
 }
@@ -7774,19 +7774,19 @@
 	dynasty=1009990193
 	dna="bhgmkanlffm"
 	culture=taino religion=caribic_pagan
-	father=1019922540	#Pirijá
+	father=1019922540	#Pirija
 	998.3.10={ birth=yes }
 	1068.3.16={ death=yes }
 }
 1019922546={
-	name=Áhari
+	name=ahari
 	dynasty=1009990193
 	dna="bfemkhnlfki"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=4
 	add_trait=scholarly_theologian add_trait=greedy add_trait=proud add_trait=diligent add_trait=shy 
 	add_trait=content 
-	father=1019922540	#Pirijá
+	father=1019922540	#Pirija
 	1002.2.2={ birth=yes }
 	1075.4.27={ death=yes }
 }
@@ -7803,7 +7803,7 @@
 	1083.8.6={ death=yes }
 }
 1019922548={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990193
 	dna="ikmoilnfggn"
@@ -7824,7 +7824,7 @@
 	1093.12.20={ death=yes }
 }
 1019922550={
-	name=Áhari
+	name=ahari
 	dynasty=1009990193
 	dna="nkdjedgngge"
 	culture=taino religion=caribic_pagan
@@ -7858,7 +7858,7 @@
 	1121.1.10={ death=yes }
 }
 1019922553={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990193
 	dna="hhlkpijndgo"
@@ -7878,7 +7878,7 @@
 	1110.1.7={ death=yes }
 }
 1019922555={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990193
 	dna="kfkadeklake"
@@ -7921,7 +7921,7 @@
 	1140.12.8={ death=yes }
 }
 1019922559={
-	name=Áhari
+	name=ahari
 	dynasty=1009990193
 	dna="babmmmfckml"
 	culture=taino religion=caribic_pagan
@@ -7943,7 +7943,7 @@
 	1165.12.24={ death=yes }
 }
 1019922561={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990193
 	dna="oafnjhnjkbn"
 	culture=taino religion=caribic_pagan
@@ -7961,7 +7961,7 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=8
 	add_trait=intricate_webweaver add_trait=patient add_trait=temperate add_trait=ambitious 
-	father=1019922559	#Áhari
+	father=1019922559	#ahari
 	1125.5.19={ birth=yes }
 	1194.3.31={ death=yes }
 }
@@ -7972,19 +7972,19 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=5
 	add_trait=grey_eminence add_trait=diligent add_trait=envious add_trait=clubfooted 
-	father=1019922559	#Áhari
+	father=1019922559	#ahari
 	1128.12.6={ birth=yes }
 	1188.6.19={ death=yes }
 }
 1019922564={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990193
 	dna="cgbhfhnlikf"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=7 stewardship=8 intrigue=7 learning=8
 	add_trait=elusive_shadow add_trait=chaste add_trait=humble add_trait=temperate add_trait=trusting 
 	add_trait=patient add_trait=ill 
-	father=1019922559	#Áhari
+	father=1019922559	#ahari
 	1133.9.6={ birth=yes }
 	1218.6.23={ death=yes }
 }
@@ -7995,7 +7995,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=7 stewardship=6 intrigue=4 learning=4
 	add_trait=skilled_tactician add_trait=hedonist add_trait=chaste add_trait=gregarious 
-	father=1019922559	#Áhari
+	father=1019922559	#ahari
 	1138.12.24={ birth=yes }
 	1181.4.22={ death=yes }
 }
@@ -8007,7 +8007,7 @@
 	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=6
 	add_trait=detached_priest add_trait=gardener add_trait=honest add_trait=humble add_trait=lustful 
 	add_trait=gregarious add_trait=ill 
-	father=1019922559	#Áhari
+	father=1019922559	#ahari
 	1142.12.11={ birth=yes }
 	1200.3.8={ death=yes }
 }
@@ -8112,7 +8112,7 @@
 	1281.9.5={ death=yes }
 }
 1019922576={
-	name=Toruí
+	name=Torui
 	dynasty=1009990193
 	dna="bdbofaooehb"
 	culture=taino religion=caribic_pagan
@@ -8142,7 +8142,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=5 stewardship=5 intrigue=8 learning=5
 	add_trait=misguided_warrior add_trait=slothful add_trait=trusting add_trait=zealous add_trait=content 
-	father=1019922576	#Toruí
+	father=1019922576	#Torui
 	1231.3.23={ birth=yes }
 	1283.7.13={ death=yes }
 }
@@ -8152,7 +8152,7 @@
 	dynasty=1009990193
 	dna="bibelgkdlhn"
 	culture=taino religion=caribic_pagan
-	father=1019922576	#Toruí
+	father=1019922576	#Torui
 	1235.12.21={ birth=yes }
 	1309.7.17={ death=yes }
 }
@@ -8163,7 +8163,7 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=6 stewardship=7 intrigue=4 learning=7
 	add_trait=intricate_webweaver add_trait=humble add_trait=just add_trait=envious 
-	father=1019922576	#Toruí
+	father=1019922576	#Torui
 	1239.6.22={ birth=yes }
 	1343.9.2={ death=yes }
 }
@@ -8173,12 +8173,12 @@
 	dynasty=1009990193
 	dna="bmiooaonaha"
 	culture=taino religion=caribic_pagan
-	father=1019922576	#Toruí
+	father=1019922576	#Torui
 	1241.8.25={ birth=yes }
 	1308.6.4={ death=yes }
 }
 1019922582={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990193
 	dna="gdgcocighhg"
 	culture=taino religion=caribic_pagan
@@ -8202,7 +8202,7 @@
 	1349.3.12={ death=yes }
 }
 1019922584={
-	name=Toruí
+	name=Torui
 	dynasty=1009990193
 	dna="gjbcfbogecb"
 	culture=taino religion=caribic_pagan
@@ -8224,12 +8224,12 @@
 	1345.5.17={ death=yes }
 }
 1019922586={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990193
 	dna="gdkbfcgghhg"
 	culture=taino religion=caribic_pagan
-	father=1019922582	#Pirijá
+	father=1019922582	#Pirija
 	1285.2.20={ birth=yes }
 	1359.10.13={ death=yes }
 }
@@ -8240,7 +8240,7 @@
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=7 stewardship=6 intrigue=6 learning=6
 	add_trait=thrifty_clerk add_trait=shy add_trait=honest add_trait=ambitious add_trait=greedy 
-	father=1019922582	#Pirijá
+	father=1019922582	#Pirija
 	1293.3.19={ birth=yes }
 	1364.1.6={ death=yes }
 }
@@ -8250,7 +8250,7 @@
 	dynasty=1009990193
 	dna="gdgcccbghbd"
 	culture=taino religion=caribic_pagan
-	father=1019922582	#Pirijá
+	father=1019922582	#Pirija
 	1296.10.11={ birth=yes }
 	1365.11.6={ death=yes }
 }
@@ -8261,7 +8261,7 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=6
 	add_trait=tough_soldier add_trait=wroth add_trait=honest add_trait=wounded 
-	father=1019922582	#Pirijá
+	father=1019922582	#Pirija
 	1299.5.27={ birth=yes }
 	1372.5.31={ death=yes }
 }
@@ -8277,7 +8277,7 @@
 	1392.11.24={ death=yes }
 }
 1019922591={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990193
 	dna="gdgcpbaohhc"
@@ -8297,7 +8297,7 @@
 	1389.10.4={ death=yes }
 }
 1019922593={
-	name=Áhari
+	name=ahari
 	dynasty=1009990193
 	dna="jdkcfoolehk"
 	culture=taino religion=caribic_pagan
@@ -8402,7 +8402,7 @@
 	826.10.17={ death=yes }
 }
 1019922603={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="imknmglejlf"
@@ -8435,7 +8435,7 @@
 	817.7.13={ death=yes }
 }
 1019922606={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="lknpfbbcdnf"
@@ -8445,7 +8445,7 @@
 	836.3.28={ death=yes }
 }
 1019922607={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="mjocfgijgif"
@@ -8479,7 +8479,7 @@
 	856.10.17={ death=yes }
 }
 1019922610={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="aiabkpcheic"
@@ -8555,7 +8555,7 @@
 	917.1.23={ death=yes }
 }
 1019922617={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990194
 	dna="oicbnemmflp"
 	culture=taino religion=caribic_pagan
@@ -8588,7 +8588,7 @@
 	940.8.30={ death=yes }
 }
 1019922620={
-	name=Toruí
+	name=Torui
 	dynasty=1009990194
 	dna="onbpnnealgb"
 	culture=taino religion=caribic_pagan
@@ -8619,7 +8619,7 @@
 	968.4.7={ death=yes }
 }
 1019922623={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990194
 	dna="dbhnkdgficd"
 	culture=taino religion=caribic_pagan
@@ -8669,7 +8669,7 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=5 intrigue=6 learning=6
 	add_trait=misguided_warrior add_trait=just add_trait=deceitful add_trait=slothful add_trait=proud 
-	father=1019922623	#Pirijá
+	father=1019922623	#Pirija
 	920.11.25={ birth=yes }
 	982.2.9={ death=yes }
 }
@@ -8679,31 +8679,31 @@
 	dynasty=1009990194
 	dna="eoinfdgfpfm"
 	culture=taino religion=caribic_pagan
-	father=1019922623	#Pirijá
+	father=1019922623	#Pirija
 	926.12.25={ birth=yes }
 	1024.1.14={ death=yes }
 }
 1019922629={
-	name=Toruí
+	name=Torui
 	dynasty=1009990194
 	dna="dbknlgcpicd"
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=6 stewardship=6 intrigue=7 learning=8
 	add_trait=martial_cleric add_trait=scholar add_trait=paranoid add_trait=honest add_trait=content 
 	 
-	father=1019922623	#Pirijá
+	father=1019922623	#Pirija
 	929.3.1={ birth=yes }
 	1004.9.6={ death=yes }
 }
 1019922630={
-	name=Toruí
+	name=Torui
 	dynasty=1009990194
 	dna="dahnindbifd"
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=6 stewardship=8 intrigue=8 learning=4
 	add_trait=intricate_webweaver add_trait=hedonist add_trait=charitable add_trait=ambitious 
 	 
-	father=1019922623	#Pirijá
+	father=1019922623	#Pirija
 	936.9.4={ birth=yes }
 	997.7.25={ death=yes }
 }
@@ -8713,7 +8713,7 @@
 	dynasty=1009990194
 	dna="cbhccdgbiii"
 	culture=taino religion=caribic_pagan
-	father=1019922623	#Pirijá
+	father=1019922623	#Pirija
 	939.2.8={ birth=yes }
 	1018.6.19={ death=yes }
 }
@@ -8723,7 +8723,7 @@
 	dynasty=1009990194
 	dna="dbhnjdhnacm"
 	culture=taino religion=caribic_pagan
-	father=1019922623	#Pirijá
+	father=1019922623	#Pirija
 	943.10.25={ birth=yes }
 	1019.6.8={ death=yes }
 }
@@ -8734,12 +8734,12 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=6 stewardship=5 intrigue=4 learning=8
 	add_trait=martial_cleric add_trait=arbitrary add_trait=proud 
-	father=1019922623	#Pirijá
+	father=1019922623	#Pirija
 	948.4.15={ birth=yes }
 	1021.2.15={ death=yes }
 }
 1019922634={
-	name=Toruí
+	name=Torui
 	dynasty=1009990194
 	dna="nepnpdbelci"
 	culture=taino religion=caribic_pagan
@@ -8751,7 +8751,7 @@
 	1028.7.12={ death=yes }
 }
 1019922635={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="dkhmpibeiih"
@@ -8779,7 +8779,7 @@
 	martial=8 diplomacy=8 stewardship=5 intrigue=8 learning=5
 	add_trait=intricate_webweaver add_trait=poet add_trait=patient add_trait=zealous add_trait=ambitious 
 	 add_trait=honest 
-	father=1019922634	#Toruí
+	father=1019922634	#Torui
 	965.1.20={ birth=yes }
 	1040.9.23={ death=yes }
 }
@@ -8791,7 +8791,7 @@
 	martial=5 diplomacy=8 stewardship=8 intrigue=4 learning=6
 	add_trait=charismatic_negotiator add_trait=just add_trait=cynical add_trait=charitable add_trait=humble 
 	add_trait=gregarious add_trait=trusting 
-	father=1019922634	#Toruí
+	father=1019922634	#Torui
 	969.6.5={ birth=yes }
 	1054.6.15={ death=yes }
 }
@@ -8802,7 +8802,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=8
 	add_trait=charismatic_negotiator add_trait=chaste add_trait=gregarious add_trait=craven add_trait=diligent 
-	father=1019922634	#Toruí
+	father=1019922634	#Torui
 	974.4.5={ birth=yes }
 	1034.3.14={ death=yes }
 }
@@ -8814,7 +8814,7 @@
 	martial=5 diplomacy=7 stewardship=5 intrigue=6 learning=7
 	add_trait=detached_priest add_trait=greedy add_trait=envious add_trait=brave 
 	add_trait=gregarious 
-	father=1019922634	#Toruí
+	father=1019922634	#Torui
 	981.2.19={ birth=yes }
 	1039.10.27={ death=yes }
 }
@@ -8825,7 +8825,7 @@
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=5 stewardship=4 intrigue=7 learning=6
 	add_trait=charismatic_negotiator add_trait=gardener add_trait=just add_trait=greedy add_trait=possessed 
-	father=1019922634	#Toruí
+	father=1019922634	#Torui
 	985.7.14={ birth=yes }
 	1070.7.11={ death=yes }
 }
@@ -8842,7 +8842,7 @@
 	1058.1.26={ death=yes }
 }
 1019922643={
-	name=Áhari
+	name=ahari
 	dynasty=1009990194
 	dna="ojpnalcmaci"
 	culture=taino religion=caribic_pagan
@@ -8930,7 +8930,7 @@
 	1134.1.20={ death=yes }
 }
 1019922651={
-	name=Toruí
+	name=Torui
 	dynasty=1009990194
 	dna="fdefehbkiia"
 	culture=taino religion=caribic_pagan
@@ -8951,7 +8951,7 @@
 	1144.10.29={ death=yes }
 }
 1019922653={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990194
 	dna="falgeonieig"
 	culture=taino religion=caribic_pagan
@@ -8995,7 +8995,7 @@
 	1149.7.30={ death=yes }
 }
 1019922657={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="daejkoapedg"
@@ -9005,7 +9005,7 @@
 	1172.10.14={ death=yes }
 }
 1019922658={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="gneghondaig"
@@ -9025,35 +9025,35 @@
 	1156.12.27={ death=yes }
 }
 1019922660={
-	name=Áhari
+	name=ahari
 	dynasty=1009990194
 	dna="iaabeffpeag"
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=4
 	add_trait=martial_cleric add_trait=temperate add_trait=cynical add_trait=proud 
-	father=1019922653	#Pirijá
+	father=1019922653	#Pirija
 	1098.4.10={ birth=yes }
 	1171.7.24={ death=yes }
 }
 1019922661={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990194
 	dna="ejegeonibil"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=5 stewardship=6 intrigue=4 learning=8
 	add_trait=indulgent_wastrel add_trait=wroth add_trait=chaste add_trait=just 
-	father=1019922653	#Pirijá
+	father=1019922653	#Pirija
 	1103.11.4={ birth=yes }
 	1187.11.2={ death=yes }
 }
 1019922662={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990194
 	dna="folnfnnhebg"
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=4 stewardship=6 intrigue=7 learning=6
 	add_trait=tough_soldier add_trait=honest add_trait=content 
-	father=1019922653	#Pirijá
+	father=1019922653	#Pirija
 	1106.3.19={ birth=yes }
 	1159.2.10={ death=yes }
 }
@@ -9063,17 +9063,17 @@
 	dynasty=1009990194
 	dna="kallebkmeie"
 	culture=taino religion=caribic_pagan
-	father=1019922653	#Pirijá
+	father=1019922653	#Pirija
 	1112.7.22={ birth=yes }
 	1167.6.9={ death=yes }
 }
 1019922664={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="fhnikgefoeo"
 	culture=taino religion=caribic_pagan
-	father=1019922653	#Pirijá
+	father=1019922653	#Pirija
 	1116.12.22={ birth=yes }
 	1201.7.13={ death=yes }
 }
@@ -9085,7 +9085,7 @@
 	martial=8 diplomacy=8 stewardship=6 intrigue=7 learning=7
 	add_trait=tough_soldier add_trait=charitable add_trait=arbitrary add_trait=brave add_trait=slothful 
 	add_trait=depressed 
-	father=1019922660	#Áhari
+	father=1019922660	#ahari
 	1127.7.6={ birth=yes }
 	1223.12.9={ death=yes }
 }
@@ -9096,18 +9096,18 @@
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=4
 	add_trait=tough_soldier add_trait=cynical  add_trait=wroth 
-	father=1019922660	#Áhari
+	father=1019922660	#ahari
 	1132.8.13={ birth=yes }
 	1196.12.1={ death=yes }
 }
 1019922667={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990194
 	dna="ifgmiffeeke"
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=6 stewardship=4 intrigue=6 learning=4
 	add_trait=misguided_warrior add_trait=arbitrary add_trait=wroth add_trait=ambitious add_trait=chaste 
-	father=1019922660	#Áhari
+	father=1019922660	#ahari
 	1139.5.23={ birth=yes }
 	1200.2.21={ death=yes }
 }
@@ -9119,7 +9119,7 @@
 	martial=5 diplomacy=5 stewardship=4 intrigue=7 learning=6
 	add_trait=mastermind_theologian add_trait=hunter add_trait=brave add_trait=trusting add_trait=charitable 
 	add_trait=gregarious add_trait=lustful 
-	father=1019922660	#Áhari
+	father=1019922660	#ahari
 	1143.7.14={ birth=yes }
 	1213.7.23={ death=yes }
 }
@@ -9134,7 +9134,7 @@
 	1220.3.27={ death=yes }
 }
 1019922670={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990194
 	dna="lacbdlfhech"
 	culture=taino religion=caribic_pagan
@@ -9173,7 +9173,7 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=7 stewardship=8 intrigue=4 learning=6
 	add_trait=flamboyant_schemer add_trait=arbitrary add_trait=greedy add_trait=envious 
-	father=1019922670	#Pirijá
+	father=1019922670	#Pirija
 	1176.2.3={ birth=yes }
 	1257.8.28={ death=yes }
 }
@@ -9184,7 +9184,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=6 stewardship=5 intrigue=4 learning=8
 	add_trait=flamboyant_schemer add_trait=patient add_trait=diligent 
-	father=1019922670	#Pirijá
+	father=1019922670	#Pirija
 	1182.11.9={ birth=yes }
 	1266.9.10={ death=yes }
 }
@@ -9195,7 +9195,7 @@
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=4 stewardship=5 intrigue=5 learning=5
 	add_trait=misguided_warrior add_trait=temperate add_trait=craven add_trait=cynical 
-	father=1019922670	#Pirijá
+	father=1019922670	#Pirija
 	1188.1.22={ birth=yes }
 	1256.10.20={ death=yes }
 }
@@ -9207,7 +9207,7 @@
 	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=5
 	add_trait=elusive_shadow add_trait=temperate  add_trait=craven add_trait=honest 
 	add_trait=ambitious 
-	father=1019922670	#Pirijá
+	father=1019922670	#Pirija
 	1192.12.22={ birth=yes }
 	1255.11.21={ death=yes }
 }
@@ -9217,27 +9217,27 @@
 	dynasty=1009990194
 	dna="kacbdpkpech"
 	culture=taino religion=caribic_pagan
-	father=1019922670	#Pirijá
+	father=1019922670	#Pirija
 	1196.10.26={ birth=yes }
 	1255.2.15={ death=yes }
 }
 1019922678={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="lacgmdemich"
 	culture=taino religion=caribic_pagan
-	father=1019922670	#Pirijá
+	father=1019922670	#Pirija
 	1202.5.18={ birth=yes }
 	1266.12.23={ death=yes }
 }
 1019922679={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="oacfdghgech"
 	culture=taino religion=caribic_pagan
-	father=1019922670	#Pirijá
+	father=1019922670	#Pirija
 	1208.2.11={ birth=yes }
 	1276.5.10={ death=yes }
 }
@@ -9286,7 +9286,7 @@
 	1299.2.20={ death=yes }
 }
 1019922684={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="nfibelfgpjk"
@@ -9358,7 +9358,7 @@
 	1339.3.24={ death=yes }
 }
 1019922691={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990194
 	dna="knooejecimg"
@@ -9458,7 +9458,7 @@
 	795.11.8={ death=yes }
 }
 1019922700={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990195
 	dna="bmidnlchahm"
@@ -9480,7 +9480,7 @@
 	833.6.13={ death=yes }
 }
 1019922702={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990195
 	dna="bmiaoemcekp"
@@ -9512,7 +9512,7 @@
 	844.10.31={ death=yes }
 }
 1019922705={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990195
 	dna="bjfdndanhel"
 	culture=taino religion=caribic_pagan
@@ -9524,7 +9524,7 @@
 	824.10.10={ death=yes }
 }
 1019922706={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990195
 	dna="pjpkacmjmej"
@@ -9588,7 +9588,7 @@
 	863.4.5={ death=yes }
 }
 1019922712={
-	name=Áhari
+	name=ahari
 	dynasty=1009990195
 	dna="ckhdconedej"
 	culture=taino religion=caribic_pagan
@@ -9600,7 +9600,7 @@
 	878.10.31={ death=yes }
 }
 1019922713={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990195
 	dna="fjkmclckjmj"
@@ -9674,7 +9674,7 @@
 	922.4.25={ death=yes }
 }
 1019922720={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990195
 	dna="edhjlonidcl"
@@ -9757,7 +9757,7 @@
 	986.5.27={ death=yes }
 }
 1019922728={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990195
 	dna="mddbfnbilgj"
@@ -9866,7 +9866,7 @@
 	1080.2.27={ death=yes }
 }
 1019922738={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990195
 	dna="nlhdgkcodae"
 	culture=taino religion=caribic_pagan
@@ -9887,7 +9887,7 @@
 	1092.11.9={ death=yes }
 }
 1019922740={
-	name=Toruí
+	name=Torui
 	dynasty=1009990195
 	dna="ilcecjcjode"
 	culture=taino religion=caribic_pagan
@@ -9898,7 +9898,7 @@
 	1102.10.4={ death=yes }
 }
 1019922741={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990195
 	dna="kkdboomodpl"
@@ -9915,7 +9915,7 @@
 	martial=5 diplomacy=8 stewardship=8 intrigue=5 learning=7
 	add_trait=skilled_tactician add_trait=hunter add_trait=chaste add_trait=slothful 
 	add_trait=humble add_trait=patient add_trait=paranoid 
-	father=1019922738	#Pirijá
+	father=1019922738	#Pirija
 	1051.12.5={ birth=yes }
 	1136.5.18={ death=yes }
 }
@@ -9927,7 +9927,7 @@
 	martial=7 diplomacy=5 stewardship=6 intrigue=8 learning=8
 	add_trait=charismatic_negotiator add_trait=lustful add_trait=greedy add_trait=gluttonous 
 	add_trait=lunatic 
-	father=1019922738	#Pirijá
+	father=1019922738	#Pirija
 	1057.5.18={ birth=yes }
 	1095.2.1={ death=yes }
 }
@@ -9937,7 +9937,7 @@
 	dynasty=1009990195
 	dna="nphpgecpoap"
 	culture=taino religion=caribic_pagan
-	father=1019922738	#Pirijá
+	father=1019922738	#Pirija
 	1064.1.5={ birth=yes }
 	1138.10.5={ death=yes }
 }
@@ -9947,12 +9947,12 @@
 	dynasty=1009990195
 	dna="kleggnikgoh"
 	culture=taino religion=caribic_pagan
-	father=1019922738	#Pirijá
+	father=1019922738	#Pirija
 	1072.9.13={ birth=yes }
 	1154.6.19={ death=yes }
 }
 1019922746={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990195
 	dna="ngaejkcmbop"
 	culture=taino religion=caribic_pagan
@@ -9964,7 +9964,7 @@
 	1151.12.10={ death=yes }
 }
 1019922747={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990195
 	dna="pnlgjjfojkp"
@@ -9996,14 +9996,14 @@
 	1191.9.2={ death=yes }
 }
 1019922750={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990195
 	dna="ngaecffajon"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=6 stewardship=7 intrigue=8 learning=6
 	add_trait=martial_cleric  add_trait=deceitful add_trait=lustful add_trait=temperate 
 	
-	father=1019922746	#Pirijá
+	father=1019922746	#Pirija
 	1097.8.14={ birth=yes }
 	1175.5.4={ death=yes }
 }
@@ -10013,7 +10013,7 @@
 	dynasty=1009990195
 	dna="lgaejkchbop"
 	culture=taino religion=caribic_pagan
-	father=1019922746	#Pirijá
+	father=1019922746	#Pirija
 	1102.1.26={ birth=yes }
 	1177.7.30={ death=yes }
 }
@@ -10025,7 +10025,7 @@
 	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=4
 	add_trait=naive_appeaser add_trait=humble add_trait=cynical add_trait=temperate 
 	add_trait=diligent add_trait=hunchback 
-	father=1019922746	#Pirijá
+	father=1019922746	#Pirija
 	1107.3.23={ birth=yes }
 	1164.8.21={ death=yes }
 }
@@ -10036,7 +10036,7 @@
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=6
 	add_trait=misguided_warrior add_trait=ambitious add_trait=deceitful add_trait=lunatic 
-	father=1019922746	#Pirijá
+	father=1019922746	#Pirija
 	1111.6.26={ birth=yes }
 	1162.3.10={ death=yes }
 }
@@ -10047,7 +10047,7 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=7 stewardship=5 intrigue=8 learning=7
 	add_trait=scholarly_theologian add_trait=content add_trait=brave add_trait=just add_trait=zealous 
-	father=1019922750	#Pirijá
+	father=1019922750	#Pirija
 	1127.6.11={ birth=yes }
 	1199.7.7={ death=yes }
 }
@@ -10057,7 +10057,7 @@
 	dynasty=1009990195
 	dna="dgagcfbajoj"
 	culture=taino religion=caribic_pagan
-	father=1019922750	#Pirijá
+	father=1019922750	#Pirija
 	1131.1.2={ birth=yes }
 	1208.12.5={ death=yes }
 }
@@ -10068,7 +10068,7 @@
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=8
 	add_trait=indulgent_wastrel add_trait=temperate add_trait=greedy add_trait=shy 
-	father=1019922750	#Pirijá
+	father=1019922750	#Pirija
 	1136.6.22={ birth=yes }
 	1183.1.24={ death=yes }
 }
@@ -10080,7 +10080,7 @@
 	martial=8 diplomacy=4 stewardship=8 intrigue=8 learning=7
 	add_trait=indulgent_wastrel add_trait=wroth add_trait=honest add_trait=craven add_trait=content 
 	add_trait=shy add_trait=temperate 
-	father=1019922750	#Pirijá
+	father=1019922750	#Pirija
 	1140.2.18={ birth=yes }
 	1200.9.4={ death=yes }
 }
@@ -10090,7 +10090,7 @@
 	dynasty=1009990195
 	dna="cgaoaffdkoc"
 	culture=taino religion=caribic_pagan
-	father=1019922750	#Pirijá
+	father=1019922750	#Pirija
 	1144.2.24={ birth=yes }
 	1224.9.13={ death=yes }
 }
@@ -10117,7 +10117,7 @@
 	1235.6.10={ death=yes }
 }
 1019922761={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990195
 	dna="gjpjcldbjoi"
@@ -10194,7 +10194,7 @@
 	1271.12.16={ death=yes }
 }
 1019922768={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990195
 	dna="jeojhfiagkf"
@@ -10283,7 +10283,7 @@
 	1321.12.18={ death=yes }
 }
 1019922776={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990195
 	dna="inppeffjnhm"
 	culture=taino religion=caribic_pagan
@@ -10393,7 +10393,7 @@
 	1374.2.16={ death=yes }
 }
 1019922786={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990195
 	dna="inmicnbhken"
 	culture=taino religion=caribic_pagan
@@ -10404,7 +10404,7 @@
 	1379.8.7={ death=yes }
 }
 1019922787={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990195
 	dna="gafgmgenkkn"
@@ -10414,7 +10414,7 @@
 	1402.2.21={ death=yes }
 }
 1019922788={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990195
 	dna="eafimhghpln"
 	culture=taino religion=caribic_pagan
@@ -10526,7 +10526,7 @@
 	783.3.19={ death=yes }
 }
 1019922798={
-	name=Áhari
+	name=ahari
 	dynasty=1009990196
 	dna="bmamkheoooc"
 	culture=taino religion=caribic_pagan
@@ -10549,7 +10549,7 @@
 	815.6.18={ death=yes }
 }
 1019922800={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990196
 	dna="pnafdieifoh"
 	culture=taino religion=caribic_pagan
@@ -10577,17 +10577,17 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=7 stewardship=8 intrigue=6 learning=6
 	add_trait=misguided_warrior add_trait=ambitious add_trait=arbitrary add_trait=brave add_trait=shy 
-	father=1019922798	#Áhari
+	father=1019922798	#ahari
 	770.7.2={ birth=yes }
 	841.8.25={ death=yes }
 }
 1019922803={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="bmahgceobon"
 	culture=taino religion=caribic_pagan
-	father=1019922798	#Áhari
+	father=1019922798	#ahari
 	776.2.6={ birth=yes }
 	846.8.28={ death=yes }
 }
@@ -10603,7 +10603,7 @@
 	860.5.21={ death=yes }
 }
 1019922805={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990196
 	dna="nhlmkobkdoj"
 	culture=taino religion=caribic_pagan
@@ -10636,7 +10636,7 @@
 	875.1.6={ death=yes }
 }
 1019922808={
-	name=Toruí
+	name=Torui
 	dynasty=1009990196
 	dna="adobkheoooe"
 	culture=taino religion=caribic_pagan
@@ -10658,7 +10658,7 @@
 	901.4.24={ death=yes }
 }
 1019922810={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="ladmkhbpokl"
@@ -10690,7 +10690,7 @@
 	927.8.25={ death=yes }
 }
 1019922813={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990196
 	dna="oedkkheooop"
 	culture=taino religion=caribic_pagan
@@ -10701,14 +10701,14 @@
 	941.10.18={ death=yes }
 }
 1019922814={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990196
 	dna="ododjkpdmam"
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=7
 	add_trait=charismatic_negotiator add_trait=hunter add_trait=diligent add_trait=temperate add_trait=ambitious 
 	add_trait=envious add_trait=shy add_trait=humble 
-	father=1019922808	#Toruí
+	father=1019922808	#Torui
 	843.11.16={ birth=yes }
 	924.5.31={ death=yes }
 }
@@ -10719,7 +10719,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=4 stewardship=7 intrigue=4 learning=6
 	add_trait=tough_soldier add_trait=lustful add_trait=arbitrary 
-	father=1019922808	#Toruí
+	father=1019922808	#Torui
 	848.3.9={ birth=yes }
 	934.12.18={ death=yes }
 }
@@ -10729,7 +10729,7 @@
 	dynasty=1009990196
 	dna="adpbkhloaof"
 	culture=taino religion=caribic_pagan
-	father=1019922808	#Toruí
+	father=1019922808	#Torui
 	853.12.8={ birth=yes }
 	922.11.27={ death=yes }
 }
@@ -10739,7 +10739,7 @@
 	dynasty=1009990196
 	dna="doolkheliaf"
 	culture=taino religion=caribic_pagan
-	father=1019922808	#Toruí
+	father=1019922808	#Torui
 	858.9.15={ birth=yes }
 	941.9.10={ death=yes }
 }
@@ -10749,7 +10749,7 @@
 	dynasty=1009990196
 	dna="apbbkbfkole"
 	culture=taino religion=caribic_pagan
-	father=1019922808	#Toruí
+	father=1019922808	#Torui
 	861.5.3={ birth=yes }
 	940.8.5={ death=yes }
 }
@@ -10759,7 +10759,7 @@
 	dynasty=1009990196
 	dna="oeddjhpieae"
 	culture=taino religion=caribic_pagan
-	father=1019922814	#Pirijá
+	father=1019922814	#Pirija
 	874.7.6={ birth=yes }
 	930.11.25={ death=yes }
 }
@@ -10769,29 +10769,29 @@
 	dynasty=1009990196
 	dna="oiodjjbdmnb"
 	culture=taino religion=caribic_pagan
-	father=1019922814	#Pirijá
+	father=1019922814	#Pirija
 	882.9.10={ birth=yes }
 	951.8.20={ death=yes }
 }
 1019922821={
-	name=Áhari
+	name=ahari
 	dynasty=1009990196
 	dna="opocpkpdmpn"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=7 stewardship=8 intrigue=6 learning=8
 	add_trait=grey_eminence add_trait=gregarious add_trait=chaste add_trait=gluttonous add_trait=humble 
 	add_trait=paranoid 
-	father=1019922814	#Pirijá
+	father=1019922814	#Pirija
 	885.11.13={ birth=yes }
 	956.2.13={ death=yes }
 }
 1019922822={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="opocpkedlkn"
 	culture=taino religion=caribic_pagan
-	father=1019922821	#Áhari
+	father=1019922821	#ahari
 	917.4.7={ birth=yes }
 	975.6.16={ death=yes }
 }
@@ -10803,7 +10803,7 @@
 	martial=5 diplomacy=7 stewardship=8 intrigue=4 learning=4
 	add_trait=grey_eminence add_trait=envious add_trait=content add_trait=honest 
 	add_trait=depressed add_trait=lunatic add_trait=quick 
-	father=1019922821	#Áhari
+	father=1019922821	#ahari
 	919.2.13={ birth=yes }
 	964.2.22={ death=yes }
 }
@@ -10813,7 +10813,7 @@
 	dynasty=1009990196
 	dna="npocpkpgopk"
 	culture=taino religion=caribic_pagan
-	father=1019922821	#Áhari
+	father=1019922821	#ahari
 	924.5.26={ birth=yes }
 	1007.10.3={ death=yes }
 }
@@ -10824,7 +10824,7 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=7 stewardship=6 intrigue=4 learning=8
 	add_trait=skilled_tactician add_trait=humble add_trait=brave 
-	father=1019922821	#Áhari
+	father=1019922821	#ahari
 	928.5.15={ birth=yes }
 	993.1.22={ death=yes }
 }
@@ -10861,7 +10861,7 @@
 	1044.9.24={ death=yes }
 }
 1019922829={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990196
 	dna="obippocimmf"
 	culture=taino religion=caribic_pagan
@@ -10883,7 +10883,7 @@
 	1054.2.28={ death=yes }
 }
 1019922831={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="oidfeinknec"
@@ -10893,7 +10893,7 @@
 	1031.5.20={ death=yes }
 }
 1019922832={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="bkpndiccfmj"
@@ -10903,7 +10903,7 @@
 	1015.11.21={ death=yes }
 }
 1019922833={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="nidbmmconmc"
@@ -10924,7 +10924,7 @@
 	1057.8.6={ death=yes }
 }
 1019922835={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="klbbmecnnjm"
@@ -11019,7 +11019,7 @@
 	1150.1.7={ death=yes }
 }
 1019922844={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="kcdlpocifel"
@@ -11102,7 +11102,7 @@
 	1197.3.24={ death=yes }
 }
 1019922852={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="lhfnbkhhakk"
@@ -11124,7 +11124,7 @@
 	1182.6.9={ death=yes }
 }
 1019922854={
-	name=Áhari
+	name=ahari
 	dynasty=1009990196
 	dna="icioeckneap"
 	culture=taino religion=caribic_pagan
@@ -11146,7 +11146,7 @@
 	1182.7.26={ death=yes }
 }
 1019922856={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990196
 	dna="kkeneihljal"
 	culture=taino religion=caribic_pagan
@@ -11190,7 +11190,7 @@
 	1229.7.12={ death=yes }
 }
 1019922860={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="hleeakhccen"
@@ -11221,7 +11221,7 @@
 	1240.7.20={ death=yes }
 }
 1019922863={
-	name=Áhari
+	name=ahari
 	dynasty=1009990196
 	dna="nifecimjbhd"
 	culture=taino religion=caribic_pagan
@@ -11243,7 +11243,7 @@
 	1263.8.16={ death=yes }
 }
 1019922865={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="dohnklhigip"
@@ -11265,7 +11265,7 @@
 	1248.6.18={ death=yes }
 }
 1019922867={
-	name=Áhari
+	name=ahari
 	dynasty=1009990196
 	dna="dphnelhigao"
 	culture=taino religion=caribic_pagan
@@ -11276,7 +11276,7 @@
 	1273.6.23={ death=yes }
 }
 1019922868={
-	name=Toruí
+	name=Torui
 	dynasty=1009990196
 	dna="ihcgelmijaa"
 	culture=taino religion=caribic_pagan
@@ -11307,7 +11307,7 @@
 	1286.6.17={ death=yes }
 }
 1019922871={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="demiggmogei"
@@ -11502,7 +11502,7 @@
 	1430.7.22={ death=yes }
 }
 1019922889={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="cgcfnkedpkk"
@@ -11575,7 +11575,7 @@
 	1447.4.4={ death=yes }
 }
 1019922896={
-	name=Áhari
+	name=ahari
 	dynasty=1009990196
 	dna="pclbnmapgnn"
 	culture=taino religion=caribic_pagan
@@ -11587,7 +11587,7 @@
 	1477.2.1={ death=yes }
 }
 1019922897={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="pgclhaeckhb"
@@ -11609,7 +11609,7 @@
 	1471.8.22={ death=yes }
 }
 1019922899={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="npccenlcfdl"
@@ -11639,7 +11639,7 @@
 	1495.5.27={ death=yes }
 }
 1019922902={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="npigdghgpdm"
@@ -11693,7 +11693,7 @@
 	1499.5.3={ death=yes }
 }
 1019922907={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="nchggijnddd"
@@ -11703,7 +11703,7 @@
 	1491.6.8={ death=yes }
 }
 1019922908={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990196
 	dna="nienalpdpdd"
@@ -11887,7 +11887,7 @@
 	868.3.29={ death=yes }
 }
 1019922925={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="kolabjeelgl"
@@ -11917,7 +11917,7 @@
 	897.3.30={ death=yes }
 }
 1019922928={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990197
 	dna="ehgammikffe"
 	culture=taino religion=caribic_pagan
@@ -11928,7 +11928,7 @@
 	882.2.2={ death=yes }
 }
 1019922929={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990197
 	dna="ingeikoiffe"
 	culture=taino religion=caribic_pagan
@@ -11950,7 +11950,7 @@
 	888.1.8={ death=yes }
 }
 1019922931={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="oeaemkogffn"
@@ -11960,7 +11960,7 @@
 	899.11.13={ death=yes }
 }
 1019922932={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990197
 	dna="omgemanlbfb"
 	culture=taino religion=caribic_pagan
@@ -11976,30 +11976,30 @@
 	dynasty=1009990197
 	dna="elglmiifimp"
 	culture=taino religion=caribic_pagan
-	father=1019922928	#Pirijá
+	father=1019922928	#Pirija
 	832.5.23={ birth=yes }
 	886.7.22={ death=yes }
 }
 1019922934={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990197
 	dna="ehfakmibffb"
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=6
 	add_trait=flamboyant_schemer add_trait=trusting add_trait=arbitrary add_trait=gluttonous add_trait=zealous 
-	father=1019922928	#Pirijá
+	father=1019922928	#Pirija
 	839.4.7={ birth=yes }
 	899.3.31={ death=yes }
 }
 1019922935={
-	name=Áhari
+	name=ahari
 	dynasty=1009990197
 	dna="fpgameikefd"
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=8 stewardship=8 intrigue=8 learning=8
 	add_trait=indulgent_wastrel add_trait=honest add_trait=content add_trait=just 
 	add_trait=craven 
-	father=1019922928	#Pirijá
+	father=1019922928	#Pirija
 	844.11.2={ birth=yes }
 	905.5.5={ death=yes }
 }
@@ -12010,7 +12010,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=5 stewardship=6 intrigue=4 learning=7
 	add_trait=martial_cleric add_trait=trusting add_trait=patient add_trait=charitable 
-	father=1019922928	#Pirijá
+	father=1019922928	#Pirija
 	846.7.8={ birth=yes }
 	933.4.28={ death=yes }
 }
@@ -12020,7 +12020,7 @@
 	dynasty=1009990197
 	dna="bjfekmibfdf"
 	culture=taino religion=caribic_pagan
-	father=1019922934	#Pirijá
+	father=1019922934	#Pirija
 	866.1.9={ birth=yes }
 	930.4.14={ death=yes }
 }
@@ -12031,7 +12031,7 @@
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=6 stewardship=6 intrigue=5 learning=6
 	add_trait=misguided_warrior add_trait=proud add_trait=honest 
-	father=1019922934	#Pirijá
+	father=1019922934	#Pirija
 	871.7.4={ birth=yes }
 	927.2.15={ death=yes }
 }
@@ -12059,7 +12059,7 @@
 	969.4.22={ death=yes }
 }
 1019922941={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="dphbnklolih"
@@ -12079,7 +12079,7 @@
 	983.6.13={ death=yes }
 }
 1019922943={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="apaddgdcebd"
@@ -12155,7 +12155,7 @@
 	1038.1.17={ death=yes }
 }
 1019922950={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="kbhhmnddebg"
@@ -12185,7 +12185,7 @@
 	1042.4.27={ death=yes }
 }
 1019922953={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990197
 	dna="dclapnhemdo"
 	culture=taino religion=caribic_pagan
@@ -12197,24 +12197,24 @@
 	1064.2.13={ death=yes }
 }
 1019922954={
-	name=Toruí
+	name=Torui
 	dynasty=1009990197
 	dna="dckipgnemho"
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=8
 	add_trait=charismatic_negotiator add_trait=proud add_trait=arbitrary 
-	father=1019922953	#Pirijá
+	father=1019922953	#Pirija
 	1007.9.18={ birth=yes }
 	1072.4.15={ death=yes }
 }
 1019922955={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990197
 	dna="bclblnhnmhm"
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=8
 	add_trait=intricate_webweaver add_trait=mystic add_trait=lustful add_trait=gregarious 
-	father=1019922953	#Pirijá
+	father=1019922953	#Pirija
 	1013.3.4={ birth=yes }
 	1066.4.20={ death=yes }
 }
@@ -12226,7 +12226,7 @@
 	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=8
 	add_trait=midas_touched add_trait=paranoid add_trait=wroth add_trait=diligent add_trait=gregarious 
 	add_trait=proud 
-	father=1019922953	#Pirijá
+	father=1019922953	#Pirija
 	1016.10.2={ birth=yes }
 	1095.2.26={ death=yes }
 }
@@ -12237,7 +12237,7 @@
 	culture=taino religion=caribic_pagan
 	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=7
 	add_trait=midas_touched add_trait=celibate add_trait=humble add_trait=diligent add_trait=ambitious 
-	father=1019922953	#Pirijá
+	father=1019922953	#Pirija
 	1022.3.1={ birth=yes }
 	1094.7.23={ death=yes }
 }
@@ -12249,7 +12249,7 @@
 	martial=6 diplomacy=6 stewardship=8 intrigue=8 learning=7
 	add_trait=elusive_shadow add_trait=hunter add_trait=wroth add_trait=slothful add_trait=shy 
 	add_trait=arbitrary add_trait=craven add_trait=paranoid 
-	father=1019922954	#Toruí
+	father=1019922954	#Torui
 	1037.4.10={ birth=yes }
 	1095.4.23={ death=yes }
 }
@@ -12260,7 +12260,7 @@
 	culture=taino religion=caribic_pagan
 	martial=8 diplomacy=6 stewardship=4 intrigue=7 learning=5
 	add_trait=naive_appeaser add_trait=humble add_trait=just add_trait=gregarious add_trait=chaste 
-	father=1019922954	#Toruí
+	father=1019922954	#Torui
 	1044.10.16={ birth=yes }
 	1107.12.13={ death=yes }
 }
@@ -12275,7 +12275,7 @@
 	1161.9.16={ death=yes }
 }
 1019922961={
-	name=Toruí
+	name=Torui
 	dynasty=1009990197
 	dna="opkgjdopihm"
 	culture=taino religion=caribic_pagan
@@ -12297,7 +12297,7 @@
 	1150.3.20={ death=yes }
 }
 1019922963={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="imdepdonfhi"
@@ -12340,12 +12340,12 @@
 	1168.4.8={ death=yes }
 }
 1019922967={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="ophijnfhiip"
 	culture=taino religion=caribic_pagan
-	father=1019922961	#Toruí
+	father=1019922961	#Torui
 	1092.5.1={ birth=yes }
 	1158.8.21={ death=yes }
 }
@@ -12355,7 +12355,7 @@
 	dynasty=1009990197
 	dna="dnndjempimm"
 	culture=taino religion=caribic_pagan
-	father=1019922961	#Toruí
+	father=1019922961	#Torui
 	1096.9.16={ birth=yes }
 	1174.4.18={ death=yes }
 }
@@ -12366,7 +12366,7 @@
 	culture=taino religion=caribic_pagan
 	martial=5 diplomacy=5 stewardship=5 intrigue=8 learning=8
 	add_trait=midas_touched add_trait=proud add_trait=trusting add_trait=content 
-	father=1019922961	#Toruí
+	father=1019922961	#Torui
 	1103.6.21={ birth=yes }
 	1188.5.29={ death=yes }
 }
@@ -12377,7 +12377,7 @@
 	culture=taino religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=8
 	add_trait=misguided_warrior add_trait=temperate add_trait=slothful 
-	father=1019922961	#Toruí
+	father=1019922961	#Torui
 	1110.5.22={ birth=yes }
 	1156.3.23={ death=yes }
 }
@@ -12393,7 +12393,7 @@
 	1195.2.2={ death=yes }
 }
 1019922972={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="ihfnjdcphfa"
@@ -12475,7 +12475,7 @@
 	1245.8.30={ death=yes }
 }
 1019922980={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="geagjkllhbj"
@@ -12485,7 +12485,7 @@
 	1229.10.21={ death=yes }
 }
 1019922981={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="omogjnfnhpf"
@@ -12583,7 +12583,7 @@
 	1297.11.27={ death=yes }
 }
 1019922990={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="cibblhfbmoe"
@@ -12626,7 +12626,7 @@
 	1357.9.4={ death=yes }
 }
 1019922994={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="oebmhafpjbg"
@@ -12636,7 +12636,7 @@
 	1342.2.9={ death=yes }
 }
 1019922995={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="ciejhjegjmi"
@@ -12646,7 +12646,7 @@
 	1366.9.26={ death=yes }
 }
 1019922996={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="opejbdeikgn"
@@ -12703,7 +12703,7 @@
 	1398.8.20={ death=yes }
 }
 1019923001={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990197
 	dna="oeohnofpmol"
 	culture=taino religion=caribic_pagan
@@ -12784,7 +12784,7 @@
 	dynasty=1009990197
 	dna="oedhfojbpol"
 	culture=taino religion=caribic_pagan
-	father=1019923001	#Pirijá
+	father=1019923001	#Pirija
 	1375.1.1={ birth=yes }
 	1460.8.29={ death=yes }
 }
@@ -12796,7 +12796,7 @@
 	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=6
 	add_trait=scholarly_theologian add_trait=deceitful  add_trait=wroth add_trait=slothful 
 	add_trait=greedy 
-	father=1019923001	#Pirijá
+	father=1019923001	#Pirija
 	1381.12.11={ birth=yes }
 	1453.11.22={ death=yes }
 }
@@ -12806,17 +12806,17 @@
 	dynasty=1009990197
 	dna="neolnohnmhc"
 	culture=taino religion=caribic_pagan
-	father=1019923001	#Pirijá
+	father=1019923001	#Pirija
 	1386.12.2={ birth=yes }
 	1458.12.17={ death=yes }
 }
 1019923011={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990197
 	dna="olehncfgmop"
 	culture=taino religion=caribic_pagan
-	father=1019923001	#Pirijá
+	father=1019923001	#Pirija
 	1389.2.26={ birth=yes }
 	1455.7.1={ death=yes }
 }
@@ -12827,7 +12827,7 @@
 	culture=taino religion=caribic_pagan
 	martial=4 diplomacy=8 stewardship=8 intrigue=5 learning=6
 	add_trait=scholarly_theologian add_trait=trusting add_trait=honest add_trait=shy add_trait=wroth 
-	father=1019923001	#Pirijá
+	father=1019923001	#Pirija
 	1392.4.11={ birth=yes }
 	1450.11.12={ death=yes }
 }
@@ -12839,7 +12839,7 @@
 	martial=5 diplomacy=6 stewardship=8 intrigue=6 learning=6
 	add_trait=flamboyant_schemer add_trait=brave add_trait=paranoid add_trait=gluttonous add_trait=honest 
 	add_trait=slow 
-	father=1019923001	#Pirijá
+	father=1019923001	#Pirija
 	1396.8.5={ birth=yes }
 	1452.8.27={ death=yes }
 }
@@ -12849,7 +12849,7 @@
 	dynasty=1009990197
 	dna="bfbhnophgol"
 	culture=taino religion=caribic_pagan
-	father=1019923001	#Pirijá
+	father=1019923001	#Pirija
 	1401.1.24={ birth=yes }
 	1486.7.14={ death=yes }
 }
@@ -12920,7 +12920,7 @@
 	841.7.20={ death=yes }
 }
 1019923021={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990198
 	dna="dgiihelngaf"
 	culture=carib religion=caribic_pagan
@@ -12932,7 +12932,7 @@
 	842.7.20={ death=yes }
 }
 1019923022={
-	name=Toruí
+	name=Torui
 	dynasty=1009990198
 	dna="kfhbhblbgld"
 	culture=carib religion=caribic_pagan
@@ -12977,12 +12977,12 @@
 	874.5.27={ death=yes }
 }
 1019923026={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990198
 	dna="kfgfiblggde"
 	culture=carib religion=caribic_pagan
-	father=1019923022	#Toruí
+	father=1019923022	#Torui
 	829.6.13={ birth=yes }
 	909.11.6={ death=yes }
 }
@@ -12992,7 +12992,7 @@
 	dynasty=1009990198
 	dna="kkhlhbladld"
 	culture=carib religion=caribic_pagan
-	father=1019923022	#Toruí
+	father=1019923022	#Torui
 	832.1.12={ birth=yes }
 	906.11.29={ death=yes }
 }
@@ -13002,7 +13002,7 @@
 	dynasty=1009990198
 	dna="kbkphbpbgje"
 	culture=carib religion=caribic_pagan
-	father=1019923022	#Toruí
+	father=1019923022	#Torui
 	838.10.4={ birth=yes }
 	910.3.13={ death=yes }
 }
@@ -13014,7 +13014,7 @@
 	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=7
 	add_trait=naive_appeaser add_trait=brave add_trait=deceitful add_trait=charitable add_trait=paranoid 
 	add_trait=chaste 
-	father=1019923022	#Toruí
+	father=1019923022	#Torui
 	843.10.8={ birth=yes }
 	923.12.16={ death=yes }
 }
@@ -13053,7 +13053,7 @@
 	951.4.6={ death=yes }
 }
 1019923033={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990198
 	dna="hfhjjplhkld"
@@ -13107,7 +13107,7 @@
 	958.6.25={ death=yes }
 }
 1019923038={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990198
 	dna="leipnicegnf"
 	culture=carib religion=caribic_pagan
@@ -13140,7 +13140,7 @@
 	987.3.11={ death=yes }
 }
 1019923041={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990198
 	dna="lempekojakk"
@@ -13150,7 +13150,7 @@
 	989.4.25={ death=yes }
 }
 1019923042={
-	name=Toruí
+	name=Torui
 	dynasty=1009990198
 	dna="dejpclfhcok"
 	culture=carib religion=caribic_pagan
@@ -13194,23 +13194,23 @@
 	1040.1.30={ death=yes }
 }
 1019923046={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990198
 	dna="aidplmjhaii"
 	culture=carib religion=caribic_pagan
-	father=1019923042	#Toruí
+	father=1019923042	#Torui
 	978.5.24={ birth=yes }
 	1043.6.9={ death=yes }
 }
 1019923047={
-	name=Áhari
+	name=ahari
 	dynasty=1009990198
 	dna="degaclcabjd"
 	culture=carib religion=caribic_pagan
 	martial=8 diplomacy=7 stewardship=5 intrigue=7 learning=6
 	add_trait=scholarly_theologian add_trait=content add_trait=temperate add_trait=paranoid add_trait=diligent 
-	father=1019923042	#Toruí
+	father=1019923042	#Torui
 	981.10.20={ birth=yes }
 	1058.2.6={ death=yes }
 }
@@ -13220,7 +13220,7 @@
 	dynasty=1009990198
 	dna="dejncjficok"
 	culture=carib religion=caribic_pagan
-	father=1019923042	#Toruí
+	father=1019923042	#Torui
 	985.5.13={ birth=yes }
 	1070.5.31={ death=yes }
 }
@@ -13231,7 +13231,7 @@
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=6
 	add_trait=detached_priest add_trait=poet add_trait=deceitful add_trait=zealous add_trait=shy 
-	father=1019923042	#Toruí
+	father=1019923042	#Torui
 	990.11.13={ birth=yes }
 	1034.4.1={ death=yes }
 }
@@ -13242,7 +13242,7 @@
 	culture=carib religion=caribic_pagan
 	martial=7 diplomacy=7 stewardship=6 intrigue=4 learning=8
 	add_trait=scholarly_theologian add_trait=content add_trait=stressed 
-	father=1019923042	#Toruí
+	father=1019923042	#Torui
 	997.9.11={ birth=yes }
 	1070.3.4={ death=yes }
 }
@@ -13254,7 +13254,7 @@
 	martial=4 diplomacy=7 stewardship=8 intrigue=5 learning=8
 	add_trait=intricate_webweaver add_trait=poet add_trait=brave add_trait=honest add_trait=content 
 	add_trait=wounded add_trait=quick 
-	father=1019923042	#Toruí
+	father=1019923042	#Torui
 	1002.10.16={ birth=yes }
 	1082.4.23={ death=yes }
 }
@@ -13264,7 +13264,7 @@
 	dynasty=1009990198
 	dna="dhjpcliopok"
 	culture=carib religion=caribic_pagan
-	father=1019923042	#Toruí
+	father=1019923042	#Torui
 	1009.3.16={ birth=yes }
 	1046.7.22={ death=yes }
 }
@@ -13276,7 +13276,7 @@
 	martial=5 diplomacy=6 stewardship=6 intrigue=4 learning=6
 	add_trait=mastermind_theologian add_trait=slothful add_trait=cynical add_trait=honest add_trait=patient 
 	add_trait=charitable 
-	father=1019923047	#Áhari
+	father=1019923047	#ahari
 	1008.1.21={ birth=yes }
 	1073.6.3={ death=yes }
 }
@@ -13288,7 +13288,7 @@
 	martial=4 diplomacy=6 stewardship=4 intrigue=4 learning=6
 	add_trait=flamboyant_schemer add_trait=trusting add_trait=brave add_trait=gregarious add_trait=honest 
 	add_trait=slothful add_trait=ill add_trait=clubfooted 
-	father=1019923047	#Áhari
+	father=1019923047	#ahari
 	1014.9.14={ birth=yes }
 	1075.10.5={ death=yes }
 }
@@ -13298,7 +13298,7 @@
 	dynasty=1009990198
 	dna="legacohjbed"
 	culture=carib religion=caribic_pagan
-	father=1019923047	#Áhari
+	father=1019923047	#ahari
 	1020.1.24={ birth=yes }
 	1102.6.21={ death=yes }
 }
@@ -13309,7 +13309,7 @@
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=7 stewardship=6 intrigue=5 learning=7
 	add_trait=martial_cleric add_trait=humble add_trait=content 
-	father=1019923047	#Áhari
+	father=1019923047	#ahari
 	1027.9.12={ birth=yes }
 	1108.12.9={ death=yes }
 }
@@ -13517,7 +13517,7 @@
 	1238.5.5={ death=yes }
 }
 1019923076={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990198
 	dna="pbgjagooijn"
 	culture=carib religion=caribic_pagan
@@ -13539,7 +13539,7 @@
 	1268.3.6={ death=yes }
 }
 1019923078={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990198
 	dna="elhnpoanfld"
@@ -13560,7 +13560,7 @@
 	1274.7.28={ death=yes }
 }
 1019923080={
-	name=Áhari
+	name=ahari
 	dynasty=1009990198
 	dna="bkenpcfnflm"
 	culture=carib religion=caribic_pagan
@@ -13603,7 +13603,7 @@
 	1256.4.22={ death=yes }
 }
 1019923084={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990198
 	dna="jnhekkkanlj"
 	culture=carib religion=caribic_pagan
@@ -13630,19 +13630,19 @@
 	dynasty=1009990198
 	dna="aooikkjdllp"
 	culture=carib religion=caribic_pagan
-	father=1019923084	#Pirijá
+	father=1019923084	#Pirija
 	1252.1.8={ birth=yes }
 	1320.3.27={ death=yes }
 }
 1019923087={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990198
 	dna="jihekkkjeho"
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=7 stewardship=8 intrigue=8 learning=7
 	add_trait=misguided_warrior add_trait=scholar add_trait=trusting add_trait=shy add_trait=patient 
 	add_trait=ambitious 
-	father=1019923084	#Pirijá
+	father=1019923084	#Pirija
 	1260.7.3={ birth=yes }
 	1337.1.11={ death=yes }
 }
@@ -13652,7 +13652,7 @@
 	dynasty=1009990198
 	dna="jnheokocnlj"
 	culture=carib religion=caribic_pagan
-	father=1019923084	#Pirijá
+	father=1019923084	#Pirija
 	1264.3.19={ birth=yes }
 	1330.3.14={ death=yes }
 }
@@ -13664,7 +13664,7 @@
 	martial=6 diplomacy=7 stewardship=5 intrigue=4 learning=4
 	add_trait=scholarly_theologian add_trait=greedy add_trait=paranoid add_trait=brave add_trait=wroth 
 	add_trait=temperate add_trait=deceitful 
-	father=1019923084	#Pirijá
+	father=1019923084	#Pirija
 	1267.10.6={ birth=yes }
 	1333.6.4={ death=yes }
 }
@@ -13674,7 +13674,7 @@
 	dynasty=1009990198
 	dna="jenepkgjeao"
 	culture=carib religion=caribic_pagan
-	father=1019923087	#Pirijá
+	father=1019923087	#Pirija
 	1285.2.7={ birth=yes }
 	1361.8.23={ death=yes }
 }
@@ -13684,7 +13684,7 @@
 	dynasty=1009990198
 	dna="effeiikaeho"
 	culture=carib religion=caribic_pagan
-	father=1019923087	#Pirijá
+	father=1019923087	#Pirija
 	1288.10.15={ birth=yes }
 	1350.4.30={ death=yes }
 }
@@ -13696,7 +13696,7 @@
 	martial=7 diplomacy=4 stewardship=6 intrigue=4 learning=4
 	add_trait=charismatic_negotiator add_trait=ambitious add_trait=humble add_trait=gregarious add_trait=zealous 
 	add_trait=wroth 
-	father=1019923087	#Pirijá
+	father=1019923087	#Pirija
 	1291.11.3={ birth=yes }
 	1350.5.28={ death=yes }
 }
@@ -13708,7 +13708,7 @@
 	martial=7 diplomacy=6 stewardship=7 intrigue=8 learning=8
 	add_trait=tough_soldier add_trait=paranoid add_trait=envious add_trait=slothful add_trait=charitable 
 	add_trait=temperate 
-	father=1019923087	#Pirijá
+	father=1019923087	#Pirija
 	1297.12.6={ birth=yes }
 	1393.7.3={ death=yes }
 }
@@ -13719,7 +13719,7 @@
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=7 stewardship=7 intrigue=8 learning=5
 	add_trait=intricate_webweaver  add_trait=charitable add_trait=ambitious add_trait=diligent 
-	father=1019923087	#Pirijá
+	father=1019923087	#Pirija
 	1301.11.27={ birth=yes }
 	1367.10.1={ death=yes }
 }
@@ -13729,7 +13729,7 @@
 	dynasty=1009990198
 	dna="jooekckakpo"
 	culture=carib religion=caribic_pagan
-	father=1019923087	#Pirijá
+	father=1019923087	#Pirija
 	1303.8.9={ birth=yes }
 	1350.8.9={ death=yes }
 }
@@ -13741,7 +13741,7 @@
 	martial=7 diplomacy=5 stewardship=5 intrigue=7 learning=7
 	add_trait=elusive_shadow add_trait=temperate add_trait=envious add_trait=just add_trait=chaste 
 	add_trait=hunchback 
-	father=1019923087	#Pirijá
+	father=1019923087	#Pirija
 	1309.9.8={ birth=yes }
 	1394.12.5={ death=yes }
 }
@@ -13777,7 +13777,7 @@
 	1388.5.13={ death=yes }
 }
 1019923100={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990198
 	dna="gkhlcmkdhna"
 	culture=carib religion=caribic_pagan
@@ -13798,7 +13798,7 @@
 	1399.6.20={ death=yes }
 }
 1019923102={
-	name=Toruí
+	name=Torui
 	dynasty=1009990198
 	dna="deleffogiac"
 	culture=carib religion=caribic_pagan
@@ -13810,7 +13810,7 @@
 	1427.7.5={ death=yes }
 }
 1019923103={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990198
 	dna="ejllfbpioio"
@@ -13847,17 +13847,17 @@
 	dynasty=1009990198
 	dna="demefiobabn"
 	culture=carib religion=caribic_pagan
-	father=1019923102	#Toruí
+	father=1019923102	#Torui
 	1371.5.24={ birth=yes }
 	1455.11.30={ death=yes }
 }
 1019923107={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990198
 	dna="dcapgkodmaf"
 	culture=carib religion=caribic_pagan
-	father=1019923102	#Toruí
+	father=1019923102	#Torui
 	1377.11.17={ birth=yes }
 	1453.9.13={ death=yes }
 }
@@ -13867,7 +13867,7 @@
 	dynasty=1009990198
 	dna="dnddbnoipce"
 	culture=carib religion=caribic_pagan
-	father=1019923102	#Toruí
+	father=1019923102	#Torui
 	1381.12.6={ birth=yes }
 	1465.10.8={ death=yes }
 }
@@ -13878,7 +13878,7 @@
 	culture=carib religion=caribic_pagan
 	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=7
 	add_trait=charismatic_negotiator  add_trait=greedy add_trait=wroth 
-	father=1019923102	#Toruí
+	father=1019923102	#Torui
 	1386.7.1={ birth=yes }
 	1461.11.23={ death=yes }
 }
@@ -13969,7 +13969,7 @@
 	806.3.28={ death=yes }
 }
 1019923118={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990199
 	dna="mlabillchbi"
@@ -13979,7 +13979,7 @@
 	844.4.25={ death=yes }
 }
 1019923119={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990199
 	dna="kdehoanihbo"
@@ -14122,7 +14122,7 @@
 	956.8.9={ death=yes }
 }
 1019923132={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990199
 	dna="niimdodiemk"
@@ -14152,7 +14152,7 @@
 	967.11.17={ death=yes }
 }
 1019923135={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990199
 	dna="boomloiilad"
@@ -14206,7 +14206,7 @@
 	1023.7.24={ death=yes }
 }
 1019923140={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990199
 	dna="hjimggipldm"
 	culture=carib religion=caribic_pagan
@@ -14234,7 +14234,7 @@
 	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=5
 	add_trait=detached_priest add_trait=shy add_trait=deceitful add_trait=envious add_trait=craven 
 	add_trait=ill 
-	father=1019923140	#Pirijá
+	father=1019923140	#Pirija
 	986.12.3={ birth=yes }
 	1052.10.1={ death=yes }
 }
@@ -14246,7 +14246,7 @@
 	martial=4 diplomacy=8 stewardship=8 intrigue=8 learning=4
 	add_trait=charismatic_negotiator add_trait=trusting add_trait=shy add_trait=arbitrary add_trait=ambitious 
 	add_trait=diligent 
-	father=1019923140	#Pirijá
+	father=1019923140	#Pirija
 	990.2.4={ birth=yes }
 	1044.9.17={ death=yes }
 }
@@ -14256,7 +14256,7 @@
 	dynasty=1009990199
 	dna="hdamgmgmcbo"
 	culture=carib religion=caribic_pagan
-	father=1019923140	#Pirijá
+	father=1019923140	#Pirija
 	994.4.17={ birth=yes }
 	1065.9.24={ death=yes }
 }
@@ -14266,7 +14266,7 @@
 	dynasty=1009990199
 	dna="hadaoahpbbm"
 	culture=carib religion=caribic_pagan
-	father=1019923140	#Pirijá
+	father=1019923140	#Pirija
 	998.6.3={ birth=yes }
 	1058.11.3={ death=yes }
 }
@@ -14335,7 +14335,7 @@
 	1100.6.12={ death=yes }
 }
 1019923152={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990199
 	dna="hikabciddep"
@@ -14368,7 +14368,7 @@
 	1138.10.19={ death=yes }
 }
 1019923155={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990199
 	dna="oikkdajdbgp"
 	culture=carib religion=caribic_pagan
@@ -14452,17 +14452,17 @@
 	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=7
 	add_trait=intricate_webweaver add_trait=impaler add_trait=charitable add_trait=paranoid add_trait=arbitrary 
 	add_trait=content 
-	father=1019923155	#Pirijá
+	father=1019923155	#Pirija
 	1097.3.21={ birth=yes }
 	1183.7.27={ death=yes }
 }
 1019923163={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990199
 	dna="biokbapakgp"
 	culture=carib religion=caribic_pagan
-	father=1019923155	#Pirijá
+	father=1019923155	#Pirija
 	1102.8.24={ birth=yes }
 	1170.4.5={ death=yes }
 }
@@ -14474,7 +14474,7 @@
 	martial=7 diplomacy=4 stewardship=6 intrigue=4 learning=4
 	add_trait=grey_eminence add_trait=duelist add_trait=wroth add_trait=deceitful add_trait=slothful 
 	add_trait=chaste 
-	father=1019923155	#Pirijá
+	father=1019923155	#Pirija
 	1107.3.9={ birth=yes }
 	1171.2.26={ death=yes }
 }
@@ -14548,7 +14548,7 @@
 	1202.3.5={ death=yes }
 }
 1019923171={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990199
 	dna="jlmmpaigjni"
@@ -14603,7 +14603,7 @@
 	1258.11.18={ death=yes }
 }
 1019923176={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990199
 	dna="mikmicciloi"
 	culture=carib religion=caribic_pagan
@@ -14637,7 +14637,7 @@
 	1273.7.9={ death=yes }
 }
 1019923179={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990199
 	dna="aakknahjapi"
 	culture=carib religion=caribic_pagan
@@ -14660,7 +14660,7 @@
 	1237.11.17={ death=yes }
 }
 1019923181={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990199
 	dna="aikkdaiibdb"
 	culture=carib religion=caribic_pagan
@@ -14687,7 +14687,7 @@
 	culture=carib religion=caribic_pagan
 	martial=4 diplomacy=8 stewardship=8 intrigue=7 learning=6
 	add_trait=skilled_tactician add_trait=chaste add_trait=slothful add_trait=zealous add_trait=content 
-	father=1019923179	#Pirijá
+	father=1019923179	#Pirija
 	1213.7.1={ birth=yes }
 	1286.6.7={ death=yes }
 }
@@ -14697,7 +14697,7 @@
 	dynasty=1009990199
 	dna="mekkkahjefi"
 	culture=carib religion=caribic_pagan
-	father=1019923179	#Pirijá
+	father=1019923179	#Pirija
 	1219.5.8={ birth=yes }
 	1294.11.7={ death=yes }
 }
@@ -14895,7 +14895,7 @@
 	1428.5.9={ death=yes }
 }
 1019923203={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990199
 	dna="abkjoioldbh"
@@ -14937,7 +14937,7 @@
 	1464.4.14={ death=yes }
 }
 1019923207={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990199
 	dna="gpdnpfcbemn"
@@ -15010,7 +15010,7 @@
 	798.2.17={ death=yes }
 }
 1019923214={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990200
 	dna="fdabjpmdpml"
 	culture=carib religion=caribic_pagan
@@ -15053,7 +15053,7 @@
 	842.4.10={ death=yes }
 }
 1019923218={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990200
 	dna="mkpbcpjhpbm"
@@ -15089,7 +15089,7 @@
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=7
 	add_trait=skilled_tactician add_trait=just add_trait=content  
-	father=1019923214	#Pirijá
+	father=1019923214	#Pirija
 	772.11.3={ birth=yes }
 	846.5.17={ death=yes }
 }
@@ -15099,7 +15099,7 @@
 	dynasty=1009990200
 	dna="fdpbjgmdppj"
 	culture=carib religion=caribic_pagan
-	father=1019923214	#Pirijá
+	father=1019923214	#Pirija
 	776.11.8={ birth=yes }
 	855.11.15={ death=yes }
 }
@@ -15110,7 +15110,7 @@
 	culture=carib religion=caribic_pagan
 	martial=7 diplomacy=5 stewardship=4 intrigue=5 learning=5
 	add_trait=charismatic_negotiator add_trait=envious add_trait=paranoid 
-	father=1019923214	#Pirijá
+	father=1019923214	#Pirija
 	782.7.24={ birth=yes }
 	852.8.7={ death=yes }
 }
@@ -15121,7 +15121,7 @@
 	culture=carib religion=caribic_pagan
 	martial=5 diplomacy=7 stewardship=7 intrigue=5 learning=5
 	add_trait=indulgent_wastrel add_trait=diligent 
-	father=1019923214	#Pirijá
+	father=1019923214	#Pirija
 	785.6.1={ birth=yes }
 	872.10.19={ death=yes }
 }
@@ -15188,7 +15188,7 @@
 	929.9.27={ death=yes }
 }
 1019923231={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990200
 	dna="adhbmhdlfpk"
@@ -15265,7 +15265,7 @@
 	985.5.14={ death=yes }
 }
 1019923238={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990200
 	dna="lkkbghckaao"
@@ -15425,7 +15425,7 @@
 	1090.4.5={ death=yes }
 }
 1019923253={
-	name=Áhari
+	name=ahari
 	dynasty=1009990200
 	dna="bpdocdkpbmk"
 	culture=carib religion=caribic_pagan
@@ -15492,7 +15492,7 @@
 	1124.6.25={ death=yes }
 }
 1019923259={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990200
 	dna="gdddlebfdeo"
 	culture=carib religion=caribic_pagan
@@ -15503,7 +15503,7 @@
 	1142.1.20={ death=yes }
 }
 1019923260={
-	name=Toruí
+	name=Torui
 	dynasty=1009990200
 	dna="hnddlildndl"
 	culture=carib religion=caribic_pagan
@@ -15545,7 +15545,7 @@
 	1180.2.10={ death=yes }
 }
 1019923264={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990200
 	dna="igedbagndeo"
@@ -15572,7 +15572,7 @@
 	martial=6 diplomacy=4 stewardship=6 intrigue=4 learning=4
 	add_trait=charismatic_negotiator add_trait=hedonist add_trait=temperate add_trait=paranoid add_trait=lustful 
 	add_trait=deceitful add_trait=shy 
-	father=1019923259	#Pirijá
+	father=1019923259	#Pirija
 	1097.3.18={ birth=yes }
 	1181.2.1={ death=yes }
 }
@@ -15582,12 +15582,12 @@
 	dynasty=1009990200
 	dna="fdellebideo"
 	culture=carib religion=caribic_pagan
-	father=1019923259	#Pirijá
+	father=1019923259	#Pirija
 	1100.7.23={ birth=yes }
 	1167.9.10={ death=yes }
 }
 1019923268={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990200
 	dna="cddbclbfibm"
@@ -15683,7 +15683,7 @@
 	1261.8.24={ death=yes }
 }
 1019923277={
-	name=Áhari
+	name=ahari
 	dynasty=1009990200
 	dna="nipfemmidhk"
 	culture=carib religion=caribic_pagan
@@ -15737,7 +15737,7 @@
 	1268.6.10={ death=yes }
 }
 1019923282={
-	name=Áhari
+	name=ahari
 	dynasty=1009990200
 	dna="eilhhjiefam"
 	culture=carib religion=caribic_pagan
@@ -15770,7 +15770,7 @@
 	1329.8.6={ death=yes }
 }
 1019923285={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990200
 	dna="idkcidaldad"
@@ -15797,7 +15797,7 @@
 	culture=carib religion=caribic_pagan
 	martial=8 diplomacy=4 stewardship=5 intrigue=5 learning=6
 	add_trait=detached_priest add_trait=paranoid add_trait=greedy add_trait=lunatic 
-	father=1019923282	#Áhari
+	father=1019923282	#ahari
 	1254.4.3={ birth=yes }
 	1330.10.18={ death=yes }
 }
@@ -15808,7 +15808,7 @@
 	culture=carib religion=caribic_pagan
 	martial=7 diplomacy=6 stewardship=8 intrigue=7 learning=4
 	add_trait=intricate_webweaver add_trait=ambitious add_trait=trusting 
-	father=1019923282	#Áhari
+	father=1019923282	#ahari
 	1259.4.11={ birth=yes }
 	1328.5.14={ death=yes }
 }
@@ -15819,7 +15819,7 @@
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=7 stewardship=7 intrigue=4 learning=6
 	add_trait=misguided_warrior add_trait=slothful 
-	father=1019923282	#Áhari
+	father=1019923282	#ahari
 	1264.5.23={ birth=yes }
 	1319.5.1={ death=yes }
 }
@@ -15829,12 +15829,12 @@
 	dynasty=1009990200
 	dna="eigdpjipfaf"
 	culture=carib religion=caribic_pagan
-	father=1019923282	#Áhari
+	father=1019923282	#ahari
 	1269.4.1={ birth=yes }
 	1323.4.3={ death=yes }
 }
 1019923291={
-	name=Áhari
+	name=ahari
 	dynasty=1009990200
 	dna="iignmaeaflb"
 	culture=carib religion=caribic_pagan
@@ -15855,7 +15855,7 @@
 	1346.6.10={ death=yes }
 }
 1019923293={
-	name=Áhari
+	name=ahari
 	dynasty=1009990200
 	dna="nelpmfccfpp"
 	culture=carib religion=caribic_pagan
@@ -15877,14 +15877,14 @@
 	1345.3.18={ death=yes }
 }
 1019923295={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990200
 	dna="iibgcfmaflf"
 	culture=carib religion=caribic_pagan
 	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=8
 	add_trait=tough_soldier add_trait=lustful add_trait=cynical add_trait=just 
 	add_trait=shy 
-	father=1019923291	#Áhari
+	father=1019923291	#ahari
 	1308.3.8={ birth=yes }
 	1359.4.5={ death=yes }
 }
@@ -15895,7 +15895,7 @@
 	culture=carib religion=caribic_pagan
 	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=4
 	add_trait=midas_touched add_trait=gluttonous add_trait=paranoid add_trait=slothful add_trait=gregarious 
-	father=1019923291	#Áhari
+	father=1019923291	#ahari
 	1312.10.20={ birth=yes }
 	1375.8.31={ death=yes }
 }
@@ -15905,17 +15905,17 @@
 	dynasty=1009990200
 	dna="gicjkalaflb"
 	culture=carib religion=caribic_pagan
-	father=1019923291	#Áhari
+	father=1019923291	#ahari
 	1320.12.23={ birth=yes }
 	1392.4.2={ death=yes }
 }
 1019923298={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990200
 	dna="cibglfmammf"
 	culture=carib religion=caribic_pagan
-	father=1019923295	#Pirijá
+	father=1019923295	#Pirija
 	1338.7.17={ birth=yes }
 	1419.8.16={ death=yes }
 }
@@ -15925,7 +15925,7 @@
 	dynasty=1009990200
 	dna="iibnhlaomjf"
 	culture=carib religion=caribic_pagan
-	father=1019923295	#Pirijá
+	father=1019923295	#Pirija
 	1341.8.25={ birth=yes }
 	1423.4.8={ death=yes }
 }
@@ -15936,7 +15936,7 @@
 	culture=carib religion=caribic_pagan
 	martial=8 diplomacy=4 stewardship=7 intrigue=4 learning=8
 	add_trait=misguided_warrior add_trait=zealous add_trait=temperate add_trait=diligent add_trait=charitable 
-	father=1019923295	#Pirijá
+	father=1019923295	#Pirija
 	1345.11.27={ birth=yes }
 	1428.8.16={ death=yes }
 }
@@ -15948,17 +15948,17 @@
 	martial=7 diplomacy=5 stewardship=8 intrigue=6 learning=8
 	add_trait=charismatic_negotiator add_trait=gardener  add_trait=temperate add_trait=diligent 
 	add_trait=brave add_trait=proud add_trait=depressed add_trait=fair 
-	father=1019923295	#Pirijá
+	father=1019923295	#Pirija
 	1348.1.24={ birth=yes }
 	1400.11.20={ death=yes }
 }
 1019923302={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990200
 	dna="iibgifmofkc"
 	culture=carib religion=caribic_pagan
-	father=1019923295	#Pirijá
+	father=1019923295	#Pirija
 	1354.11.21={ birth=yes }
 	1419.8.7={ death=yes }
 }
@@ -15970,7 +15970,7 @@
 	martial=4 diplomacy=4 stewardship=7 intrigue=8 learning=7
 	add_trait=tough_soldier add_trait=arbitrary add_trait=envious add_trait=chaste 
 	add_trait=paranoid 
-	father=1019923295	#Pirijá
+	father=1019923295	#Pirija
 	1356.9.16={ birth=yes }
 	1431.9.15={ death=yes }
 }
@@ -15981,7 +15981,7 @@
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=4 intrigue=8 learning=4
 	add_trait=intricate_webweaver add_trait=arbitrary add_trait=honest add_trait=proud add_trait=stressed 
-	father=1019923295	#Pirijá
+	father=1019923295	#Pirija
 	1363.10.25={ birth=yes }
 	1416.6.23={ death=yes }
 }
@@ -16052,7 +16052,7 @@
 	1458.3.8={ death=yes }
 }
 1019923311={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990200
 	dna="lfcimmplnld"
@@ -16062,7 +16062,7 @@
 	1487.2.1={ death=yes }
 }
 1019923312={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990200
 	dna="lgmcmgpjhld"
@@ -16072,7 +16072,7 @@
 	1502.4.28={ death=yes }
 }
 1019923313={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990200
 	dna="ilmempdkhhd"
 	culture=carib religion=caribic_pagan
@@ -16094,7 +16094,7 @@
 	776.8.5={ death=yes }
 }
 1019923315={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="jhbnghlppli"
@@ -16104,7 +16104,7 @@
 	826.12.9={ death=yes }
 }
 1019923316={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="lockbhfggkn"
@@ -16208,7 +16208,7 @@
 	914.3.7={ death=yes }
 }
 1019923326={
-	name=Toruí
+	name=Torui
 	dynasty=1009990201
 	dna="kdieaecbnik"
 	culture=carib religion=caribic_pagan
@@ -16220,7 +16220,7 @@
 	906.7.20={ death=yes }
 }
 1019923327={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="khhelcabmho"
@@ -16248,7 +16248,7 @@
 	culture=carib religion=caribic_pagan
 	martial=7 diplomacy=8 stewardship=5 intrigue=7 learning=7
 	add_trait=tough_soldier add_trait=patient add_trait=temperate add_trait=craven add_trait=proud 
-	father=1019923326	#Toruí
+	father=1019923326	#Torui
 	872.2.9={ birth=yes }
 	945.9.6={ death=yes }
 }
@@ -16260,7 +16260,7 @@
 	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=8
 	add_trait=charismatic_negotiator add_trait=wroth add_trait=cynical add_trait=humble add_trait=chaste 
 	add_trait=deceitful add_trait=greedy add_trait=possessed 
-	father=1019923326	#Toruí
+	father=1019923326	#Torui
 	878.3.18={ birth=yes }
 	939.8.7={ death=yes }
 }
@@ -16361,7 +16361,7 @@
 	1038.12.23={ death=yes }
 }
 1019923340={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990201
 	dna="hlhjaealagg"
 	culture=carib religion=caribic_pagan
@@ -16383,7 +16383,7 @@
 	1036.6.26={ death=yes }
 }
 1019923342={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990201
 	dna="ohfjhfbbfio"
 	culture=carib religion=caribic_pagan
@@ -16417,34 +16417,34 @@
 	1098.4.4={ death=yes }
 }
 1019923345={
-	name=Toruí
+	name=Torui
 	dynasty=1009990201
 	dna="ehndgfbhfip"
 	culture=carib religion=caribic_pagan
 	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=7
 	add_trait=midas_touched add_trait=lustful add_trait=proud add_trait=brave 
-	father=1019923342	#Pirijá
+	father=1019923342	#Pirija
 	1019.6.25={ birth=yes }
 	1100.10.4={ death=yes }
 }
 1019923346={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="llkppfbbfij"
 	culture=carib religion=caribic_pagan
-	father=1019923342	#Pirijá
+	father=1019923342	#Pirija
 	1021.3.5={ birth=yes }
 	1077.5.31={ death=yes }
 }
 1019923347={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990201
 	dna="ohkjcmbhfij"
 	culture=carib religion=caribic_pagan
 	martial=8 diplomacy=6 stewardship=4 intrigue=8 learning=8
 	add_trait=elusive_shadow add_trait=diligent add_trait=paranoid 
-	father=1019923342	#Pirijá
+	father=1019923342	#Pirija
 	1028.7.13={ birth=yes }
 	1109.7.6={ death=yes }
 }
@@ -16455,19 +16455,19 @@
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=8
 	add_trait=martial_cleric add_trait=arbitrary add_trait=diligent 
-	father=1019923342	#Pirijá
+	father=1019923342	#Pirija
 	1031.11.23={ birth=yes }
 	1091.4.28={ death=yes }
 }
 1019923349={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990201
 	dna="ehlegfnhfkg"
 	culture=carib religion=caribic_pagan
 	martial=7 diplomacy=8 stewardship=7 intrigue=6 learning=4
 	add_trait=grey_eminence add_trait=wroth add_trait=lustful add_trait=just 
 	add_trait=stressed 
-	father=1019923345	#Toruí
+	father=1019923345	#Torui
 	1043.10.23={ birth=yes }
 	1116.10.8={ death=yes }
 }
@@ -16477,7 +16477,7 @@
 	dynasty=1009990201
 	dna="eendgfidmip"
 	culture=carib religion=caribic_pagan
-	father=1019923345	#Toruí
+	father=1019923345	#Torui
 	1049.12.14={ birth=yes }
 	1098.12.8={ death=yes }
 }
@@ -16488,7 +16488,7 @@
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=7 stewardship=7 intrigue=6 learning=5
 	add_trait=flamboyant_schemer add_trait=temperate add_trait=patient add_trait=proud  
-	father=1019923345	#Toruí
+	father=1019923345	#Torui
 	1054.8.21={ birth=yes }
 	1140.6.22={ death=yes }
 }
@@ -16498,7 +16498,7 @@
 	dynasty=1009990201
 	dna="mhndombgfom"
 	culture=carib religion=caribic_pagan
-	father=1019923345	#Toruí
+	father=1019923345	#Torui
 	1059.8.22={ birth=yes }
 	1120.11.26={ death=yes }
 }
@@ -16509,7 +16509,7 @@
 	culture=carib religion=caribic_pagan
 	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=7
 	add_trait=detached_priest add_trait=charitable add_trait=craven add_trait=wroth add_trait=temperate 
-	father=1019923345	#Toruí
+	father=1019923345	#Torui
 	1063.2.11={ birth=yes }
 	1100.9.10={ death=yes }
 }
@@ -16520,29 +16520,29 @@
 	culture=carib religion=caribic_pagan
 	martial=5 diplomacy=5 stewardship=7 intrigue=4 learning=6
 	add_trait=scholarly_theologian add_trait=shy add_trait=patient add_trait=stutter 
-	father=1019923345	#Toruí
+	father=1019923345	#Torui
 	1066.4.14={ birth=yes }
 	1146.2.8={ death=yes }
 }
 1019923355={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="ehlggfnjffk"
 	culture=carib religion=caribic_pagan
-	father=1019923349	#Pirijá
+	father=1019923349	#Pirija
 	1075.10.10={ birth=yes }
 	1134.3.16={ death=yes }
 }
 1019923356={
-	name=Áhari
+	name=ahari
 	dynasty=1009990201
 	dna="dhlegbohokg"
 	culture=carib religion=caribic_pagan
 	martial=7 diplomacy=8 stewardship=7 intrigue=7 learning=7
 	add_trait=intricate_webweaver add_trait=content add_trait=temperate add_trait=deceitful add_trait=lustful 
 	add_trait=depressed 
-	father=1019923349	#Pirijá
+	father=1019923349	#Pirija
 	1079.3.6={ birth=yes }
 	1163.12.6={ death=yes }
 }
@@ -16552,7 +16552,7 @@
 	dynasty=1009990201
 	dna="jklbgeiilgc"
 	culture=carib religion=caribic_pagan
-	father=1019923349	#Pirijá
+	father=1019923349	#Pirija
 	1085.11.18={ birth=yes }
 	1124.5.20={ death=yes }
 }
@@ -16564,7 +16564,7 @@
 	martial=6 diplomacy=6 stewardship=8 intrigue=8 learning=4
 	add_trait=grey_eminence add_trait=envious add_trait=patient add_trait=content add_trait=humble 
 	add_trait=slothful add_trait=trusting 
-	father=1019923356	#Áhari
+	father=1019923356	#ahari
 	1108.7.16={ birth=yes }
 	1167.5.3={ death=yes }
 }
@@ -16576,7 +16576,7 @@
 	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=8
 	add_trait=intricate_webweaver add_trait=envious add_trait=wroth add_trait=chaste add_trait=proud 
 	add_trait=charitable add_trait=genius 
-	father=1019923356	#Áhari
+	father=1019923356	#ahari
 	1115.7.19={ birth=yes }
 	1179.7.19={ death=yes }
 }
@@ -16587,7 +16587,7 @@
 	culture=carib religion=caribic_pagan
 	martial=8 diplomacy=5 stewardship=4 intrigue=5 learning=4
 	add_trait=grey_eminence add_trait=craven add_trait=humble add_trait=gluttonous add_trait=ill 
-	father=1019923356	#Áhari
+	father=1019923356	#ahari
 	1119.4.19={ birth=yes }
 	1201.10.27={ death=yes }
 }
@@ -16598,7 +16598,7 @@
 	culture=carib religion=caribic_pagan
 	martial=7 diplomacy=6 stewardship=6 intrigue=5 learning=7
 	add_trait=flamboyant_schemer add_trait=brave add_trait=trusting add_trait=temperate 
-	father=1019923356	#Áhari
+	father=1019923356	#ahari
 	1125.1.20={ birth=yes }
 	1203.8.12={ death=yes }
 }
@@ -16638,7 +16638,7 @@
 	1214.7.12={ death=yes }
 }
 1019923365={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="idangbodbkn"
@@ -16680,7 +16680,7 @@
 	1215.2.25={ death=yes }
 }
 1019923369={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="dddngbkfokm"
@@ -16733,7 +16733,7 @@
 	1282.7.27={ death=yes }
 }
 1019923374={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="dkadnejgeji"
@@ -16786,7 +16786,7 @@
 	1290.3.30={ death=yes }
 }
 1019923379={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="bbldnihkkoa"
@@ -16830,7 +16830,7 @@
 	1338.10.7={ death=yes }
 }
 1019923383={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990201
 	dna="iflheabfamm"
 	culture=carib religion=caribic_pagan
@@ -16864,7 +16864,7 @@
 	1360.12.20={ death=yes }
 }
 1019923386={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990201
 	dna="goiandpjikn"
 	culture=carib religion=caribic_pagan
@@ -16885,12 +16885,12 @@
 	1366.9.20={ death=yes }
 }
 1019923388={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="gpfajbpjhgc"
 	culture=carib religion=caribic_pagan
-	father=1019923386	#Pirijá
+	father=1019923386	#Pirija
 	1302.12.23={ birth=yes }
 	1368.12.4={ death=yes }
 }
@@ -16900,18 +16900,18 @@
 	dynasty=1009990201
 	dna="goiadpbjekn"
 	culture=carib religion=caribic_pagan
-	father=1019923386	#Pirijá
+	father=1019923386	#Pirija
 	1306.2.22={ birth=yes }
 	1369.6.26={ death=yes }
 }
 1019923390={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990201
 	dna="goiajepjikh"
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=8 stewardship=4 intrigue=4 learning=4
 	add_trait=charismatic_negotiator add_trait=envious add_trait=gluttonous add_trait=content 
-	father=1019923386	#Pirijá
+	father=1019923386	#Pirija
 	1308.6.18={ birth=yes }
 	1363.5.3={ death=yes }
 }
@@ -16922,7 +16922,7 @@
 	culture=carib religion=caribic_pagan
 	martial=8 diplomacy=7 stewardship=8 intrigue=7 learning=5
 	add_trait=mastermind_theologian add_trait=diligent  add_trait=gluttonous add_trait=ambitious 
-	father=1019923386	#Pirijá
+	father=1019923386	#Pirija
 	1314.4.3={ birth=yes }
 	1385.2.15={ death=yes }
 }
@@ -16932,7 +16932,7 @@
 	dynasty=1009990201
 	dna="golmnhpjbnf"
 	culture=carib religion=caribic_pagan
-	father=1019923386	#Pirijá
+	father=1019923386	#Pirija
 	1317.7.24={ birth=yes }
 	1389.11.9={ death=yes }
 }
@@ -16944,27 +16944,27 @@
 	martial=7 diplomacy=8 stewardship=6 intrigue=7 learning=8
 	add_trait=scholarly_theologian add_trait=content add_trait=chaste add_trait=just add_trait=proud 
 	add_trait=wroth 
-	father=1019923390	#Pirijá
+	father=1019923390	#Pirija
 	1334.5.25={ birth=yes }
 	1409.3.29={ death=yes }
 }
 1019923394={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="lmiglahbefm"
 	culture=carib religion=caribic_pagan
-	father=1019923390	#Pirijá
+	father=1019923390	#Pirija
 	1339.4.10={ birth=yes }
 	1392.4.16={ death=yes }
 }
 1019923395={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="coeajmodobg"
 	culture=carib religion=caribic_pagan
-	father=1019923390	#Pirijá
+	father=1019923390	#Pirija
 	1344.6.22={ birth=yes }
 	1414.2.15={ death=yes }
 }
@@ -16981,7 +16981,7 @@
 	1430.3.3={ death=yes }
 }
 1019923397={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="oojljmnjccl"
@@ -17024,7 +17024,7 @@
 	1456.3.9={ death=yes }
 }
 1019923401={
-	name=Toruí
+	name=Torui
 	dynasty=1009990201
 	dna="ifdanmlfpcb"
 	culture=carib religion=caribic_pagan
@@ -17035,7 +17035,7 @@
 	1472.1.17={ death=yes }
 }
 1019923402={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990201
 	dna="madhjdicecl"
@@ -17045,7 +17045,7 @@
 	1480.12.8={ death=yes }
 }
 1019923403={
-	name=Toruí
+	name=Torui
 	dynasty=1009990201
 	dna="gflhjmbgmgf"
 	culture=carib religion=caribic_pagan
@@ -17119,7 +17119,7 @@
 	805.12.27={ death=yes }
 }
 1019923410={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990202
 	dna="gmhnacpnnhh"
 	culture=carib religion=caribic_pagan
@@ -17152,7 +17152,7 @@
 	840.7.9={ death=yes }
 }
 1019923413={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990202
 	dna="nkpkmemjnip"
 	culture=carib religion=caribic_pagan
@@ -17241,7 +17241,7 @@
 	889.7.13={ death=yes }
 }
 1019923421={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990202
 	dna="goiaimibcpe"
@@ -17251,7 +17251,7 @@
 	906.7.5={ death=yes }
 }
 1019923422={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990202
 	dna="ajifkmppike"
@@ -17261,7 +17261,7 @@
 	918.7.3={ death=yes }
 }
 1019923423={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990202
 	dna="ohbpeoppmka"
 	culture=carib religion=caribic_pagan
@@ -17303,7 +17303,7 @@
 	932.12.2={ death=yes }
 }
 1019923427={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990202
 	dna="gllpebpclnk"
@@ -17323,7 +17323,7 @@
 	926.11.15={ death=yes }
 }
 1019923429={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990202
 	dna="kkomepemgnk"
@@ -17339,7 +17339,7 @@
 	culture=carib religion=caribic_pagan
 	martial=7 diplomacy=8 stewardship=5 intrigue=4 learning=6
 	add_trait=midas_touched add_trait=content add_trait=paranoid add_trait=humble 
-	father=1019923423	#Pirijá
+	father=1019923423	#Pirija
 	881.12.13={ birth=yes }
 	946.9.10={ death=yes }
 }
@@ -17350,7 +17350,7 @@
 	culture=carib religion=caribic_pagan
 	martial=8 diplomacy=7 stewardship=8 intrigue=4 learning=6
 	add_trait=grey_eminence add_trait=arbitrary add_trait=brave add_trait=cynical add_trait=diligent 
-	father=1019923423	#Pirijá
+	father=1019923423	#Pirija
 	887.10.5={ birth=yes }
 	964.7.23={ death=yes }
 }
@@ -17361,7 +17361,7 @@
 	culture=carib religion=caribic_pagan
 	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=7
 	add_trait=midas_touched add_trait=trusting add_trait=cynical 
-	father=1019923423	#Pirijá
+	father=1019923423	#Pirija
 	890.3.1={ birth=yes }
 	979.6.24={ death=yes }
 }
@@ -17371,7 +17371,7 @@
 	dynasty=1009990202
 	dna="cabdnoalone"
 	culture=carib religion=caribic_pagan
-	father=1019923423	#Pirijá
+	father=1019923423	#Pirija
 	895.4.11={ birth=yes }
 	951.7.9={ death=yes }
 }
@@ -17419,7 +17419,7 @@
 	987.12.28={ death=yes }
 }
 1019923438={
-	name=Áhari
+	name=ahari
 	dynasty=1009990202
 	dna="khjanfegbam"
 	culture=carib religion=caribic_pagan
@@ -17468,17 +17468,17 @@
 	dynasty=1009990202
 	dna="kbjkcfgkffm"
 	culture=carib religion=caribic_pagan
-	father=1019923438	#Áhari
+	father=1019923438	#ahari
 	969.4.7={ birth=yes }
 	1025.8.27={ death=yes }
 }
 1019923443={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990202
 	dna="klianffblam"
 	culture=carib religion=caribic_pagan
-	father=1019923438	#Áhari
+	father=1019923438	#ahari
 	973.5.14={ birth=yes }
 	1048.2.21={ death=yes }
 }
@@ -17489,7 +17489,7 @@
 	culture=carib religion=caribic_pagan
 	martial=5 diplomacy=6 stewardship=6 intrigue=6 learning=8
 	add_trait=scholarly_theologian add_trait=gregarious add_trait=arbitrary add_trait=wroth 
-	father=1019923438	#Áhari
+	father=1019923438	#ahari
 	979.6.10={ birth=yes }
 	1049.7.10={ death=yes }
 }
@@ -17499,7 +17499,7 @@
 	dynasty=1009990202
 	dna="ohlanfempcm"
 	culture=carib religion=caribic_pagan
-	father=1019923438	#Áhari
+	father=1019923438	#ahari
 	984.2.3={ birth=yes }
 	1064.1.14={ death=yes }
 }
@@ -17509,7 +17509,7 @@
 	dynasty=1009990202
 	dna="khcbnmagbjl"
 	culture=carib religion=caribic_pagan
-	father=1019923438	#Áhari
+	father=1019923438	#ahari
 	989.9.23={ birth=yes }
 	1058.2.1={ death=yes }
 }
@@ -17597,7 +17597,7 @@
 	1131.11.26={ death=yes }
 }
 1019923455={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990202
 	dna="acclbdgdfom"
@@ -17736,7 +17736,7 @@
 	1235.9.12={ death=yes }
 }
 1019923468={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990202
 	dna="chbcdalfbpm"
 	culture=carib religion=caribic_pagan
@@ -17748,7 +17748,7 @@
 	1232.12.26={ death=yes }
 }
 1019923469={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990202
 	dna="dmdinjhlkbf"
@@ -17778,7 +17778,7 @@
 	1272.3.13={ death=yes }
 }
 1019923472={
-	name=Toruí
+	name=Torui
 	dynasty=1009990202
 	dna="nmdnnllkodg"
 	culture=carib religion=caribic_pagan
@@ -17790,7 +17790,7 @@
 	1266.3.12={ death=yes }
 }
 1019923473={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990202
 	dna="nbioblooebf"
@@ -17817,7 +17817,7 @@
 	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=8
 	add_trait=detached_priest add_trait=trusting add_trait=wroth add_trait=arbitrary add_trait=deceitful 
 	add_trait=content 
-	father=1019923472	#Toruí
+	father=1019923472	#Torui
 	1221.6.26={ birth=yes }
 	1305.6.15={ death=yes }
 }
@@ -17827,7 +17827,7 @@
 	dynasty=1009990202
 	dna="pmdiollkomg"
 	culture=carib religion=caribic_pagan
-	father=1019923472	#Toruí
+	father=1019923472	#Torui
 	1227.4.1={ birth=yes }
 	1300.6.14={ death=yes }
 }
@@ -17838,7 +17838,7 @@
 	culture=carib religion=caribic_pagan
 	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=8
 	add_trait=charismatic_negotiator add_trait=ambitious add_trait=cynical add_trait=deceitful 
-	father=1019923472	#Toruí
+	father=1019923472	#Torui
 	1233.1.24={ birth=yes }
 	1308.5.20={ death=yes }
 }
@@ -17848,12 +17848,12 @@
 	dynasty=1009990202
 	dna="kkdeillcoeg"
 	culture=carib religion=caribic_pagan
-	father=1019923472	#Toruí
+	father=1019923472	#Torui
 	1238.2.20={ birth=yes }
 	1301.8.6={ death=yes }
 }
 1019923479={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990202
 	dna="cpplblbgong"
 	culture=carib religion=caribic_pagan
@@ -17914,7 +17914,7 @@
 	culture=carib religion=caribic_pagan
 	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=4
 	add_trait=midas_touched add_trait=cynical add_trait=envious add_trait=stressed 
-	father=1019923479	#Pirijá
+	father=1019923479	#Pirija
 	1268.4.2={ birth=yes }
 	1351.9.7={ death=yes }
 }
@@ -17925,30 +17925,30 @@
 	culture=carib religion=caribic_pagan
 	martial=4 diplomacy=4 stewardship=8 intrigue=5 learning=7
 	add_trait=charismatic_negotiator add_trait=proud add_trait=greedy add_trait=chaste add_trait=patient 
-	father=1019923479	#Pirijá
+	father=1019923479	#Pirija
 	1272.2.19={ birth=yes }
 	1325.4.2={ death=yes }
 }
 1019923486={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990202
 	dna="cjdlaobjoie"
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=6 stewardship=5 intrigue=8 learning=8
 	add_trait=thrifty_clerk add_trait=envious add_trait=wroth add_trait=shy 
-	father=1019923479	#Pirijá
+	father=1019923479	#Pirija
 	1275.11.21={ birth=yes }
 	1379.9.3={ death=yes }
 }
 1019923487={
-	name=Toruí
+	name=Torui
 	dynasty=1009990202
 	dna="cfplbfbdkih"
 	culture=carib religion=caribic_pagan
 	martial=6 diplomacy=7 stewardship=4 intrigue=4 learning=4
 	add_trait=detached_priest add_trait=hunter add_trait=cynical add_trait=greedy add_trait=shy 
 	add_trait=drunkard 
-	father=1019923479	#Pirijá
+	father=1019923479	#Pirija
 	1278.3.17={ birth=yes }
 	1351.7.28={ death=yes }
 }
@@ -17960,7 +17960,7 @@
 	martial=7 diplomacy=5 stewardship=6 intrigue=7 learning=6
 	add_trait=flamboyant_schemer add_trait=gregarious  add_trait=content add_trait=greedy 
 	add_trait=craven 
-	father=1019923479	#Pirijá
+	father=1019923479	#Pirija
 	1283.3.27={ birth=yes }
 	1335.6.9={ death=yes }
 }
@@ -17972,7 +17972,7 @@
 	martial=7 diplomacy=8 stewardship=6 intrigue=5 learning=5
 	add_trait=elusive_shadow add_trait=craven add_trait=humble add_trait=greedy 
 	add_trait=wroth 
-	father=1019923479	#Pirijá
+	father=1019923479	#Pirija
 	1288.11.6={ birth=yes }
 	1368.11.6={ death=yes }
 }
@@ -17983,7 +17983,7 @@
 	culture=carib religion=caribic_pagan
 	martial=5 diplomacy=8 stewardship=5 intrigue=8 learning=5
 	add_trait=detached_priest add_trait=deceitful add_trait=greedy add_trait=paranoid 
-	father=1019923479	#Pirijá
+	father=1019923479	#Pirija
 	1293.12.14={ birth=yes }
 	1371.9.26={ death=yes }
 }

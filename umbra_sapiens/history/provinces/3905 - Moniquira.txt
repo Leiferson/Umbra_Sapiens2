@@ -11,3 +11,7 @@ culture = muisca
 religion = muisca_pagan
 
 # History
+1556.1.1={
+	culture = castillan
+	religion = catholic
+}

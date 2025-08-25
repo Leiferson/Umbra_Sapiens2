@@ -38,7 +38,7 @@
 	840.2.14={ death=yes }
 }
 1019928197={
-	name=Toruí
+	name=Torui
 	dynasty=1009990250
 	dna="hhpaffejipd"
 	culture=bororo religion=amazonian_pagan
@@ -118,7 +118,7 @@
 	901.9.5={ death=yes }
 }
 1019928205={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990250
 	dna="mjcckpnafcp"
@@ -138,7 +138,7 @@
 	897.8.9={ death=yes }
 }
 1019928207={
-	name=Áhari
+	name=ahari
 	dynasty=1009990250
 	dna="oofknjnimbl"
 	culture=bororo religion=amazonian_pagan
@@ -158,7 +158,7 @@
 	918.1.27={ death=yes }
 }
 1019928209={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990250
 	dna="monijjniojf"
@@ -183,7 +183,7 @@
 	dynasty=1009990250
 	dna="coilfpnimdm"
 	culture=bororo religion=amazonian_pagan
-	father=1019928207	#Áhari
+	father=1019928207	#ahari
 	856.1.18={ birth=yes }
 	940.4.5={ death=yes }
 }
@@ -193,7 +193,7 @@
 	dna="ilnknjnimee"
 	culture=bororo religion=amazonian_pagan
 	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=8
-	father=1019928207	#Áhari
+	father=1019928207	#ahari
 	861.10.4={ birth=yes }
 	921.4.2={ death=yes }
 }
@@ -203,7 +203,7 @@
 	dynasty=1009990250
 	dna="gohananlmhm"
 	culture=bororo religion=amazonian_pagan
-	father=1019928207	#Áhari
+	father=1019928207	#ahari
 	865.3.14={ birth=yes }
 	933.10.20={ death=yes }
 }
@@ -213,7 +213,7 @@
 	dynasty=1009990250
 	dna="oofenonbmbl"
 	culture=bororo religion=amazonian_pagan
-	father=1019928207	#Áhari
+	father=1019928207	#ahari
 	868.6.27={ birth=yes }
 	925.9.4={ death=yes }
 }
@@ -223,7 +223,7 @@
 	dna="hofknknikbl"
 	culture=bororo religion=amazonian_pagan
 	martial=5 diplomacy=6 stewardship=6 intrigue=4 learning=6
-	father=1019928207	#Áhari
+	father=1019928207	#ahari
 	874.6.6={ birth=yes }
 	953.9.2={ death=yes }
 }
@@ -398,7 +398,7 @@
 	1070.1.12={ death=yes }
 }
 1019928233={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990250
 	dna="pgoplinkopk"
@@ -438,7 +438,7 @@
 	1074.12.9={ death=yes }
 }
 1019928237={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990250
 	dna="ppcdojkebpo"
 	culture=bororo religion=amazonian_pagan
@@ -458,12 +458,12 @@
 	1082.9.20={ death=yes }
 }
 1019928239={
-	name=Áhari
+	name=ahari
 	dynasty=1009990250
 	dna="ppndgjkcbpo"
 	culture=bororo religion=amazonian_pagan
 	martial=7 diplomacy=7 stewardship=4 intrigue=6 learning=5
-	father=1019928237	#Pirijá
+	father=1019928237	#Pirija
 	1040.11.11={ birth=yes }
 	1105.10.14={ death=yes }
 }
@@ -473,7 +473,7 @@
 	dynasty=1009990250
 	dna="pecgpjdgbjm"
 	culture=bororo religion=amazonian_pagan
-	father=1019928237	#Pirijá
+	father=1019928237	#Pirija
 	1045.12.18={ birth=yes }
 	1132.12.30={ death=yes }
 }
@@ -483,7 +483,7 @@
 	dynasty=1009990250
 	dna="ppjaolllmpa"
 	culture=bororo religion=amazonian_pagan
-	father=1019928237	#Pirijá
+	father=1019928237	#Pirija
 	1050.4.9={ birth=yes }
 	1117.9.26={ death=yes }
 }
@@ -493,7 +493,7 @@
 	dynasty=1009990250
 	dna="pibkfeombbm"
 	culture=bororo religion=amazonian_pagan
-	father=1019928237	#Pirijá
+	father=1019928237	#Pirija
 	1054.7.25={ birth=yes }
 	1107.6.26={ death=yes }
 }
@@ -503,17 +503,17 @@
 	dynasty=1009990250
 	dna="eipmojkdbgo"
 	culture=bororo religion=amazonian_pagan
-	father=1019928237	#Pirijá
+	father=1019928237	#Pirija
 	1058.5.21={ birth=yes }
 	1138.3.15={ death=yes }
 }
 1019928244={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990250
 	dna="kpcbcjdebpo"
 	culture=bororo religion=amazonian_pagan
 	martial=8 diplomacy=7 stewardship=4 intrigue=6 learning=8
-	father=1019928237	#Pirijá
+	father=1019928237	#Pirija
 	1065.12.23={ birth=yes }
 	1133.11.27={ death=yes }
 }
@@ -523,17 +523,17 @@
 	dna="phbdhjjcbpn"
 	culture=bororo religion=amazonian_pagan
 	martial=7 diplomacy=5 stewardship=7 intrigue=4 learning=8
-	father=1019928239	#Áhari
+	father=1019928239	#ahari
 	1066.1.26={ birth=yes }
 	1145.6.24={ death=yes }
 }
 1019928246={
-	name=Áhari
+	name=ahari
 	dynasty=1009990250
 	dna="ffejgjkbfpn"
 	culture=bororo religion=amazonian_pagan
 	martial=4 diplomacy=4 stewardship=4 intrigue=5 learning=4
-	father=1019928239	#Áhari
+	father=1019928239	#ahari
 	1072.6.11={ birth=yes }
 	1135.4.4={ death=yes }
 }
@@ -543,7 +543,7 @@
 	dna="lgcpgghlmpc"
 	culture=bororo religion=amazonian_pagan
 	martial=5 diplomacy=8 stewardship=5 intrigue=7 learning=5
-	father=1019928239	#Áhari
+	father=1019928239	#ahari
 	1076.5.4={ birth=yes }
 	1155.5.5={ death=yes }
 }
@@ -553,12 +553,12 @@
 	dna="opedgjbcbmo"
 	culture=bororo religion=amazonian_pagan
 	martial=6 diplomacy=7 stewardship=7 intrigue=7 learning=7
-	father=1019928239	#Áhari
+	father=1019928239	#ahari
 	1082.11.18={ birth=yes }
 	1140.11.16={ death=yes }
 }
 1019928249={
-	name=Áhari
+	name=ahari
 	dynasty=1009990250
 	dna="phbdhgjobbn"
 	culture=bororo religion=amazonian_pagan
@@ -608,7 +608,7 @@
 	1189.3.9={ death=yes }
 }
 1019928254={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990250
 	dna="pdbchjbmfpn"
 	culture=bororo religion=amazonian_pagan
@@ -633,7 +633,7 @@
 	dynasty=1009990250
 	dna="cbbdldmdkin"
 	culture=bororo religion=amazonian_pagan
-	father=1019928249	#Áhari
+	father=1019928249	#ahari
 	1117.1.2={ birth=yes }
 	1204.5.20={ death=yes }
 }
@@ -643,7 +643,7 @@
 	dna="phidhdjpban"
 	culture=bororo religion=amazonian_pagan
 	martial=7 diplomacy=8 stewardship=5 intrigue=6 learning=4
-	father=1019928249	#Áhari
+	father=1019928249	#ahari
 	1123.4.26={ birth=yes }
 	1188.11.16={ death=yes }
 }
@@ -653,7 +653,7 @@
 	dna="nhbkhgjohbn"
 	culture=bororo religion=amazonian_pagan
 	martial=8 diplomacy=6 stewardship=4 intrigue=4 learning=4
-	father=1019928249	#Áhari
+	father=1019928249	#ahari
 	1130.1.23={ birth=yes }
 	1193.2.4={ death=yes }
 }
@@ -663,7 +663,7 @@
 	dynasty=1009990250
 	dna="phbdjgenbcm"
 	culture=bororo religion=amazonian_pagan
-	father=1019928249	#Áhari
+	father=1019928249	#ahari
 	1137.6.9={ birth=yes }
 	1221.4.26={ death=yes }
 }
@@ -688,7 +688,7 @@
 	1235.9.10={ death=yes }
 }
 1019928262={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990250
 	dna="ilimhdjfapc"
@@ -698,7 +698,7 @@
 	1215.4.8={ death=yes }
 }
 1019928263={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990250
 	dna="liinadjbdao"
@@ -748,7 +748,7 @@
 	1288.10.16={ death=yes }
 }
 1019928268={
-	name=Áhari
+	name=ahari
 	dynasty=1009990250
 	dna="jmihomdmdko"
 	culture=bororo religion=amazonian_pagan
@@ -788,7 +788,7 @@
 	1311.4.17={ death=yes }
 }
 1019928272={
-	name=Toruí
+	name=Torui
 	dynasty=1009990250
 	dna="bdihmkgdkbj"
 	culture=bororo religion=amazonian_pagan
@@ -818,12 +818,12 @@
 	1321.1.6={ death=yes }
 }
 1019928275={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990250
 	dna="idipopdmiik"
 	culture=bororo religion=amazonian_pagan
 	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=5
-	father=1019928268	#Áhari
+	father=1019928268	#ahari
 	1250.6.15={ birth=yes }
 	1328.9.18={ death=yes }
 }
@@ -833,7 +833,7 @@
 	dynasty=1009990250
 	dna="emjhommpcho"
 	culture=bororo religion=amazonian_pagan
-	father=1019928268	#Áhari
+	father=1019928268	#ahari
 	1253.5.3={ birth=yes }
 	1306.1.16={ death=yes }
 }
@@ -843,7 +843,7 @@
 	dna="jgkhamompjo"
 	culture=bororo religion=amazonian_pagan
 	martial=7 diplomacy=6 stewardship=7 intrigue=7 learning=7
-	father=1019928268	#Áhari
+	father=1019928268	#ahari
 	1257.11.1={ birth=yes }
 	1314.3.24={ death=yes }
 }
@@ -853,17 +853,17 @@
 	dna="ndipopdmilk"
 	culture=bororo religion=amazonian_pagan
 	martial=5 diplomacy=5 stewardship=4 intrigue=4 learning=6
-	father=1019928275	#Pirijá
+	father=1019928275	#Pirija
 	1274.1.21={ birth=yes }
 	1347.12.2={ death=yes }
 }
 1019928279={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990250
 	dna="iphhohdmfcc"
 	culture=bororo religion=amazonian_pagan
-	father=1019928275	#Pirijá
+	father=1019928275	#Pirija
 	1281.2.26={ birth=yes }
 	1340.3.6={ death=yes }
 }
@@ -908,7 +908,7 @@
 	1388.4.2={ death=yes }
 }
 1019928284={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990250
 	dna="dbjoiaamehm"
 	culture=bororo religion=amazonian_pagan
@@ -998,7 +998,7 @@
 	1464.8.15={ death=yes }
 }
 1019928293={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990250
 	dna="mhidbbocbmf"
@@ -1018,7 +1018,7 @@
 	1493.4.3={ death=yes }
 }
 1019928295={
-	name=Toruí
+	name=Torui
 	dynasty=1009990251
 	dna="lcjfjoibadj"
 	culture=maipurean religion=amazonian_pagan
@@ -1027,22 +1027,22 @@
 	784.5.28={ death=yes }
 }
 1019928296={
-	name=Áhari
+	name=ahari
 	dynasty=1009990251
 	dna="cgkciogbhaj"
 	culture=maipurean religion=amazonian_pagan
 	martial=7 diplomacy=6 stewardship=4 intrigue=5 learning=5
-	father=1019928295	#Toruí
+	father=1019928295	#Torui
 	751.11.22={ birth=yes }
 	828.3.18={ death=yes }
 }
 1019928297={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990251
 	dna="ncfofkgpieg"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928295	#Toruí
+	father=1019928295	#Torui
 	755.4.11={ birth=yes }
 	822.5.9={ death=yes }
 }
@@ -1052,7 +1052,7 @@
 	dynasty=1009990251
 	dna="mcjcjogoadf"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928295	#Toruí
+	father=1019928295	#Torui
 	760.8.18={ birth=yes }
 	828.6.12={ death=yes }
 }
@@ -1062,7 +1062,7 @@
 	dynasty=1009990251
 	dna="mcifnmifadc"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928295	#Toruí
+	father=1019928295	#Torui
 	765.8.26={ birth=yes }
 	848.10.15={ death=yes }
 }
@@ -1072,7 +1072,7 @@
 	dna="lcjjhoibhdi"
 	culture=maipurean religion=amazonian_pagan
 	martial=4 diplomacy=7 stewardship=7 intrigue=6 learning=6
-	father=1019928295	#Toruí
+	father=1019928295	#Torui
 	770.11.15={ birth=yes }
 	830.1.17={ death=yes }
 }
@@ -1082,17 +1082,17 @@
 	dna="dhlcfogdmdj"
 	culture=maipurean religion=amazonian_pagan
 	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=7
-	father=1019928296	#Áhari
+	father=1019928296	#ahari
 	781.11.6={ birth=yes }
 	850.8.14={ death=yes }
 }
 1019928302={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990251
 	dna="dgaciocbafj"
 	culture=maipurean religion=amazonian_pagan
 	martial=8 diplomacy=8 stewardship=7 intrigue=7 learning=5
-	father=1019928296	#Áhari
+	father=1019928296	#ahari
 	786.10.27={ birth=yes }
 	843.6.15={ death=yes }
 }
@@ -1102,37 +1102,37 @@
 	dna="kedklogiobk"
 	culture=maipurean religion=amazonian_pagan
 	martial=8 diplomacy=5 stewardship=7 intrigue=5 learning=7
-	father=1019928296	#Áhari
+	father=1019928296	#ahari
 	791.12.2={ birth=yes }
 	868.3.12={ death=yes }
 }
 1019928304={
-	name=Áhari
+	name=ahari
 	dynasty=1009990251
 	dna="cdklbhpahaa"
 	culture=maipurean religion=amazonian_pagan
 	martial=6 diplomacy=5 stewardship=7 intrigue=6 learning=4
-	father=1019928296	#Áhari
+	father=1019928296	#ahari
 	795.3.22={ birth=yes }
 	882.1.22={ death=yes }
 }
 1019928305={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990251
 	dna="cndcengbigc"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928296	#Áhari
+	father=1019928296	#ahari
 	800.6.24={ birth=yes }
 	901.11.13={ death=yes }
 }
 1019928306={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990251
 	dna="fokcaomebpj"
 	culture=maipurean religion=amazonian_pagan
 	martial=7 diplomacy=5 stewardship=8 intrigue=5 learning=6
-	father=1019928296	#Áhari
+	father=1019928296	#ahari
 	805.3.6={ birth=yes }
 	867.9.2={ death=yes }
 }
@@ -1142,7 +1142,7 @@
 	dna="cgccioggfjk"
 	culture=maipurean religion=amazonian_pagan
 	martial=5 diplomacy=4 stewardship=7 intrigue=6 learning=7
-	father=1019928296	#Áhari
+	father=1019928296	#ahari
 	810.12.24={ birth=yes }
 	878.2.23={ death=yes }
 }
@@ -1207,7 +1207,7 @@
 	920.8.21={ death=yes }
 }
 1019928314={
-	name=Áhari
+	name=ahari
 	dynasty=1009990251
 	dna="dkhlfoggjda"
 	culture=maipurean religion=amazonian_pagan
@@ -1297,7 +1297,7 @@
 	975.6.25={ death=yes }
 }
 1019928323={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990251
 	dna="bcfedoncckg"
@@ -1407,7 +1407,7 @@
 	1054.10.20={ death=yes }
 }
 1019928334={
-	name=Toruí
+	name=Torui
 	dynasty=1009990251
 	dna="oafpiedmlhn"
 	culture=maipurean religion=amazonian_pagan
@@ -1427,7 +1427,7 @@
 	1044.12.16={ death=yes }
 }
 1019928336={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990251
 	dna="dpdeielfmln"
@@ -1437,7 +1437,7 @@
 	1050.10.31={ death=yes }
 }
 1019928337={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990251
 	dna="efbjifdpjim"
@@ -1462,7 +1462,7 @@
 	dna="oafpibdmocc"
 	culture=maipurean religion=amazonian_pagan
 	martial=8 diplomacy=4 stewardship=7 intrigue=4 learning=4
-	father=1019928334	#Toruí
+	father=1019928334	#Torui
 	1011.3.14={ birth=yes }
 	1092.3.20={ death=yes }
 }
@@ -1472,7 +1472,7 @@
 	dynasty=1009990251
 	dna="ojfpiglmlho"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928334	#Toruí
+	father=1019928334	#Torui
 	1016.10.13={ birth=yes }
 	1077.7.22={ death=yes }
 }
@@ -1482,7 +1482,7 @@
 	dna="ocijjdomhln"
 	culture=maipurean religion=amazonian_pagan
 	martial=5 diplomacy=7 stewardship=8 intrigue=7 learning=7
-	father=1019928334	#Toruí
+	father=1019928334	#Torui
 	1022.8.26={ birth=yes }
 	1080.7.21={ death=yes }
 }
@@ -1492,17 +1492,17 @@
 	dna="onepcedelhj"
 	culture=maipurean religion=amazonian_pagan
 	martial=4 diplomacy=5 stewardship=8 intrigue=6 learning=8
-	father=1019928334	#Toruí
+	father=1019928334	#Torui
 	1026.10.6={ birth=yes }
 	1095.2.2={ death=yes }
 }
 1019928343={
-	name=Toruí
+	name=Torui
 	dynasty=1009990251
 	dna="oaolieeaahp"
 	culture=maipurean religion=amazonian_pagan
 	martial=8 diplomacy=4 stewardship=5 intrigue=5 learning=6
-	father=1019928334	#Toruí
+	father=1019928334	#Torui
 	1033.10.15={ birth=yes }
 	1111.3.17={ death=yes }
 }
@@ -1512,7 +1512,7 @@
 	dna="oafkaeomhcg"
 	culture=maipurean religion=amazonian_pagan
 	martial=7 diplomacy=4 stewardship=8 intrigue=5 learning=7
-	father=1019928334	#Toruí
+	father=1019928334	#Torui
 	1038.8.27={ birth=yes }
 	1120.7.17={ death=yes }
 }
@@ -1527,7 +1527,7 @@
 	1115.3.8={ death=yes }
 }
 1019928346={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990251
 	dna="ealjibdpcpg"
 	culture=maipurean religion=amazonian_pagan
@@ -1557,7 +1557,7 @@
 	1126.1.15={ death=yes }
 }
 1019928349={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990251
 	dna="oahopkldglp"
 	culture=maipurean religion=amazonian_pagan
@@ -1592,7 +1592,7 @@
 	dna="eagondbdglh"
 	culture=maipurean religion=amazonian_pagan
 	martial=7 diplomacy=8 stewardship=7 intrigue=7 learning=5
-	father=1019928349	#Pirijá
+	father=1019928349	#Pirija
 	1095.10.18={ birth=yes }
 	1148.9.13={ death=yes }
 }
@@ -1602,7 +1602,7 @@
 	dynasty=1009990251
 	dna="lakdeklamlp"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928349	#Pirijá
+	father=1019928349	#Pirija
 	1099.2.3={ birth=yes }
 	1156.12.21={ death=yes }
 }
@@ -1612,17 +1612,17 @@
 	dna="oenopbgdcci"
 	culture=maipurean religion=amazonian_pagan
 	martial=4 diplomacy=7 stewardship=6 intrigue=6 learning=6
-	father=1019928349	#Pirijá
+	father=1019928349	#Pirija
 	1105.1.1={ birth=yes }
 	1160.11.28={ death=yes }
 }
 1019928355={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990251
 	dna="iahopelgalk"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928349	#Pirijá
+	father=1019928349	#Pirija
 	1110.5.1={ birth=yes }
 	1180.8.2={ death=yes }
 }
@@ -1667,7 +1667,7 @@
 	1194.5.17={ death=yes }
 }
 1019928360={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990251
 	dna="degdfdddngg"
@@ -1747,7 +1747,7 @@
 	1297.6.9={ death=yes }
 }
 1019928368={
-	name=Áhari
+	name=ahari
 	dynasty=1009990251
 	dna="fnhfomnilef"
 	culture=maipurean religion=amazonian_pagan
@@ -1762,17 +1762,17 @@
 	dna="fdhpnlnmlcc"
 	culture=maipurean religion=amazonian_pagan
 	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=6
-	father=1019928368	#Áhari
+	father=1019928368	#ahari
 	1248.3.11={ birth=yes }
 	1317.2.15={ death=yes }
 }
 1019928370={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990251
 	dna="fnepbmnfcdl"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928368	#Áhari
+	father=1019928368	#ahari
 	1255.4.25={ birth=yes }
 	1325.12.5={ death=yes }
 }
@@ -1782,7 +1782,7 @@
 	dna="jaafkmnilef"
 	culture=maipurean religion=amazonian_pagan
 	martial=8 diplomacy=8 stewardship=4 intrigue=7 learning=7
-	father=1019928368	#Áhari
+	father=1019928368	#ahari
 	1258.2.9={ birth=yes }
 	1312.11.27={ death=yes }
 }
@@ -1792,7 +1792,7 @@
 	dna="fjofpcnilef"
 	culture=maipurean religion=amazonian_pagan
 	martial=6 diplomacy=8 stewardship=6 intrigue=5 learning=4
-	father=1019928368	#Áhari
+	father=1019928368	#ahari
 	1263.12.8={ birth=yes }
 	1342.7.15={ death=yes }
 }
@@ -1802,17 +1802,17 @@
 	dynasty=1009990251
 	dna="fehhcoibjem"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928368	#Áhari
+	father=1019928368	#ahari
 	1269.3.23={ birth=yes }
 	1355.9.27={ death=yes }
 }
 1019928374={
-	name=Toruí
+	name=Torui
 	dynasty=1009990251
 	dna="fienomfpanf"
 	culture=maipurean religion=amazonian_pagan
 	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=5
-	father=1019928368	#Áhari
+	father=1019928368	#ahari
 	1274.6.23={ birth=yes }
 	1348.12.29={ death=yes }
 }
@@ -1837,7 +1837,7 @@
 	1365.1.14={ death=yes }
 }
 1019928377={
-	name=Pirijá
+	name=Pirija
 	dynasty=1009990251
 	dna="fdhpnlfmmhb"
 	culture=maipurean religion=amazonian_pagan
@@ -1852,17 +1852,17 @@
 	dna="ihagnfegmhb"
 	culture=maipurean religion=amazonian_pagan
 	martial=7 diplomacy=7 stewardship=5 intrigue=7 learning=7
-	father=1019928377	#Pirijá
+	father=1019928377	#Pirija
 	1321.2.20={ birth=yes }
 	1379.5.16={ death=yes }
 }
 1019928379={
-	name=Hayá
+	name=Haya
 	female=yes
 	dynasty=1009990251
 	dna="imhpmbodmhn"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928377	#Pirijá
+	father=1019928377	#Pirija
 	1324.6.6={ birth=yes }
 	1387.1.14={ death=yes }
 }
@@ -1872,7 +1872,7 @@
 	dna="ddhmnhflmhb"
 	culture=maipurean religion=amazonian_pagan
 	martial=5 diplomacy=5 stewardship=5 intrigue=5 learning=5
-	father=1019928377	#Pirijá
+	father=1019928377	#Pirija
 	1330.6.25={ birth=yes }
 	1402.7.12={ death=yes }
 }
@@ -1882,12 +1882,12 @@
 	dynasty=1009990251
 	dna="fdncnnemmbd"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928377	#Pirijá
+	father=1019928377	#Pirija
 	1337.8.18={ birth=yes }
 	1416.4.4={ death=yes }
 }
 1019928382={
-	name=Áhari
+	name=ahari
 	dynasty=1009990251
 	dna="ihlgjfegchb"
 	culture=maipurean religion=amazonian_pagan
@@ -1912,17 +1912,17 @@
 	dna="dbofflegihb"
 	culture=maipurean religion=amazonian_pagan
 	martial=4 diplomacy=8 stewardship=5 intrigue=4 learning=8
-	father=1019928382	#Áhari
+	father=1019928382	#ahari
 	1378.5.25={ birth=yes }
 	1429.10.21={ death=yes }
 }
 1019928385={
-	name=Toruí
+	name=Torui
 	dynasty=1009990251
 	dna="bhlgdabccej"
 	culture=maipurean religion=amazonian_pagan
 	martial=5 diplomacy=6 stewardship=7 intrigue=4 learning=7
-	father=1019928382	#Áhari
+	father=1019928382	#ahari
 	1384.2.7={ birth=yes }
 	1453.9.6={ death=yes }
 }
@@ -1932,7 +1932,7 @@
 	dynasty=1009990251
 	dna="phihjmeabhf"
 	culture=maipurean religion=amazonian_pagan
-	father=1019928382	#Áhari
+	father=1019928382	#ahari
 	1387.11.1={ birth=yes }
 	1458.1.22={ death=yes }
 }
@@ -1942,7 +1942,7 @@
 	dna="bhdgjaecmhh"
 	culture=maipurean religion=amazonian_pagan
 	martial=6 diplomacy=5 stewardship=4 intrigue=6 learning=5
-	father=1019928382	#Áhari
+	father=1019928382	#ahari
 	1393.1.14={ birth=yes }
 	1462.8.25={ death=yes }
 }
@@ -2007,7 +2007,7 @@
 	1502.2.24={ death=yes }
 }
 1019928394={
-	name=Áhari
+	name=ahari
 	dynasty=1009990251
 	dna="ofofklkohli"
 	culture=maipurean religion=amazonian_pagan

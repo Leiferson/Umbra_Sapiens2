@@ -11,3 +11,9 @@ culture = muisca
 religion = muisca_pagan
 
 # History
+1550.1.6={
+	b_chimila=castle
+	b_chimila-ii=temple
+	culture = castillan
+	religion = catholic
+}

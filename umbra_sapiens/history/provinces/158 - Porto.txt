@@ -37,4 +37,12 @@ religion = catholic
 }
 
 1147.1.1 = { trade_post = b_spinola }
-
+1400.1.1={
+	b_porto-iii=temple
+}
+1500.1.1={
+	b_porto-iv=castle
+}
+1600.1.1={
+	b_porto-v=city
+}

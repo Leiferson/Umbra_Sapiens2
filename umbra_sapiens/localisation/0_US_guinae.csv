@@ -33,7 +33,7 @@ b_portodeale-iv;Joal Fadiout;;;;;;;;;;;;;x
 c_dakar;Dakar;;;;;;;;;;;;;x
 c_dakar_adj;Dakar;;;;;;;;;;;;;x
 b_dakar;Dakar;;;;;;;;;;;;;x
-b_dakar-ii;Yoff;;;;;;;;;;;;;x
+b_dakar-ii;Goreia;;;;;;;;;;;;;x
 b_dakar-iii;Keur Massar;;;;;;;;;;;;;x
 b_dakar-iv;Sangalkam;;;;;;;;;;;;;x
 b_dakar-v;Sendou;;;;;;;;;;;;;x
@@ -99,8 +99,8 @@ b_tombali;Catio;;;;;;;;;;;;;x
 b_tombali-ii;Bedanda;;;;;;;;;;;;;x
 b_tombali-iii;Cuane;;;;;;;;;;;;;x
 b_tombali-iv;Gansona;;;;;;;;;;;;;x
-d_abuja;Abuja;;;;;;;;;;;;;x
-d_abuja_adj;Abuja;;;;;;;;;;;;;x
+d_abuja;Ife;;;;;;;;;;;;;x
+d_abuja_adj;Ife;;;;;;;;;;;;;x
 c_ife;Ife;;;;;;;;;;;;;x
 c_ife_adj;Ife;;;;;;;;;;;;;x
 b_ife;Ife;;;;;;;;;;;;;x
@@ -168,8 +168,8 @@ b_taraba;Gembu;;;;;;;;;;;;;x
 b_taraba-ii;Takum;;;;;;;;;;;;;x
 b_taraba-iii;Donga;;;;;;;;;;;;;x
 b_taraba-iv;Wukari;;;;;;;;;;;;;x
-d_warri;Warri;;;;;;;;;;;;;x
-d_warri_adj;Warri;;;;;;;;;;;;;x
+d_warri;Benin;;;;;;;;;;;;;x
+d_warri_adj;Benin;;;;;;;;;;;;;x
 c_bayelsa;Bayelsa;;;;;;;;;;;;;x
 c_bayelsa_adj;Bayelsa;;;;;;;;;;;;;x
 b_bayelsa;Amassoma;;;;;;;;;;;;;x
@@ -221,11 +221,11 @@ b_minna;Minna;;;;;;;;;;;;;x
 b_minna-ii;Tegina;;;;;;;;;;;;;x
 b_minna-iii;Bida;;;;;;;;;;;;;x
 b_minna-iv;Zungeru;;;;;;;;;;;;;x
-d_lagosnew;Lagos;;;;;;;;;;;;;x
-d_lagosnew_adj;Lagos;;;;;;;;;;;;;x
-c_lagosnew;Lagos;;;;;;;;;;;;;x
-c_lagosnew_adj;Lagos;;;;;;;;;;;;;x
-b_lagosnew;Lagos;;;;;;;;;;;;;x
+d_lagosnew;Ijebu;;;;;;;;;;;;;x
+d_lagosnew_adj;Ijebu;;;;;;;;;;;;;x
+c_lagosnew;Ijebu;;;;;;;;;;;;;x
+c_lagosnew_adj;Ijebu;;;;;;;;;;;;;x
+b_lagosnew;Ijebu;;;;;;;;;;;;;x
 b_lagosnew-ii;Ikeja;;;;;;;;;;;;;x
 b_lagosnew-iii;Badagry;;;;;;;;;;;;;x
 b_lagosnew-iv;Asunora;;;;;;;;;;;;;x
@@ -243,6 +243,8 @@ b_lekki;Lekki;;;;;;;;;;;;;x
 b_lekki-ii;Ikorodu;;;;;;;;;;;;;x
 b_lekki-iii;Awoyaya;;;;;;;;;;;;;x
 b_lekki-iv;Ijede;;;;;;;;;;;;;x
+k_akkan;Akkan;;;;;;;;;;;;;x
+k_akkan_adj;Akkan;;;;;;;;;;;;;x
 d_ouidah;Benin;;;;;;;;;;;;;x
 d_ouidah_adj;Benin;;;;;;;;;;;;;x
 c_ouidah;Ouidah;;;;;;;;;;;;;x
@@ -472,6 +474,8 @@ b_elmamghar;El Mamghar;;;;;;;;;;;;;x
 b_elmamghar-ii;Iwik;;;;;;;;;;;;;x
 king_ethiopian;Negus;;;;;;;;;;;;;x
 king_female_ethiopian;Nigist;;;;;;;;;;;;;x
+NAGAST;Negusa Nagast;;;;;;;;;;;;;x
+NAGASTAT;Negesta Nagastat;;;;;;;;;;;;;x
 emperor_ethiopian;Negusa Nagast;;;;;;;;;;;;;x
 emperor_female_ethiopian;Negesta Nagastat;;;;;;;;;;;;;x
 emperor_title_ruler_consort_female_ethiopian;Itege;;;;;;;;;;;;;x
@@ -504,6 +508,12 @@ temple_count_ethiopian;Lique Liqawint;;;;;;;;;;;;;x
 temple_baron_ethiopian;Qess;;;;;;;;;;;;;x
 king_gabonese;Manikongo;;;;;;;;;;;;;x
 king_female_gabonese;Manikongo;;;;;;;;;;;;;x
+king_karanga;Mwenemutapa;;;;;;;;;;;;;x
+king_female_karanga;Mwenemutapa;;;;;;;;;;;;;x
+king_kalanga;Mambo;;;;;;;;;;;;;x
+king_female_kalanga;Mambo;;;;;;;;;;;;;x
+emperor_ambundu;Sobha;;;;;;;;;;;;;x
+emperor_female_ambundu;Sobha;;;;;;;;;;;;;x
 emperor_ambundu;Sobha;;;;;;;;;;;;;x
 emperor_female_ambundu;Sobha;;;;;;;;;;;;;x
 king_ambundu;Ngola;;;;;;;;;;;;;x
@@ -608,8 +618,16 @@ king_edo;Oba;;;;;;;;;;;;;x
 king_female_edo;Oba;;;;;;;;;;;;;x
 king_yoruba;Oba;;;;;;;;;;;;;x
 king_female_yoruba;Oba;;;;;;;;;;;;;x
+king_venda_bonga;Kalanga;;;;;;;;;;;;;x
+king_female_venda_bonga;Kalanga;;;;;;;;;;;;;x
+king_ganda;Kabaka;;;;;;;;;;;;;x
+king_female_ganda;Kabaka;;;;;;;;;;;;;x
 tribal_king_gabonese;Manikongo;;;;;;;;;;;;;x
 tribal_king_female_gabonese;Manikongo;;;;;;;;;;;;;x
+tribal_king_karanga;Mwenemutapa;;;;;;;;;;;;;x
+tribal_king_female_karanga;Mwenemutapa;;;;;;;;;;;;;x
+tribal_king_kalanga;Mambo;;;;;;;;;;;;;x
+tribal_king_female_kalanga;Mambo;;;;;;;;;;;;;x
 tribal_emperor_ambundu;Sobha;;;;;;;;;;;;;x
 tribal_emperor_female_ambundu;Sobha;;;;;;;;;;;;;x
 tribal_king_ambundu;Ngola;;;;;;;;;;;;;x
@@ -714,5 +732,9 @@ tribal_king_edo;Oba;;;;;;;;;;;;;x
 tribal_king_female_edo;Oba;;;;;;;;;;;;;x
 tribal_king_yoruba;Oba;;;;;;;;;;;;;x
 tribal_king_female_yoruba;Oba;;;;;;;;;;;;;x
+tribal_king_venda_bonga;Kalanga;;;;;;;;;;;;;x
+tribal_king_female_venda_bonga;Kalanga;;;;;;;;;;;;;x
+tribal_king_ganda;Kabaka;;;;;;;;;;;;;x
+tribal_king_female_ganda;Kabaka;;;;;;;;;;;;;x
 tribal_king_itsekiri;Olu;;;;;;;;;;;;;x
 tribal_king_female_itsekiri;Olu;;;;;;;;;;;;;x

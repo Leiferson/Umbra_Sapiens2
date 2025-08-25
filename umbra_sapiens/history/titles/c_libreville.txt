@@ -1,7 +1,6 @@
 #Mpfumo Dynasty (Placeholders)
 
 750.1.1={
-              liege=d_ligetchi
 	holder=1013000001 #Nyeleti
 }
 780.1.1={
@@ -63,4 +62,36 @@
 }
 1350.1.1={
 	holder=1013000021 #Rhulani
+}
+1395.1.1={
+	holder=394190	#Nímia Luqueni
+	liege="k_kongo"
+}
+1420.1.1={
+	holder=394191	#Nanga do Congo
+}
+1435.1.1={
+	holder=394192	#Cuantinu
+}
+1470.1.1={
+	holder=394193	#João I do Congo
+}
+1506.1.1={
+	holder=394194	#Afonso I do Congo
+}
+1543.1.1={
+	holder=394195	#Pedro I do Congo
+}
+1545.1.1={
+	holder=394200	#Francisco do Congo
+}
+1545.6.1={
+	holder=394201	#Diogo do Congo
+}
+1561.1.1={
+	holder=394225
+	liege=0
+}
+1609.1.1={
+	holder=394226
 }

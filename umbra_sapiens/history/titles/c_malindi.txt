@@ -69,3 +69,64 @@
 1350.1.1={
 	holder=1000076738 #Moyo
 }
+1388.1.1={
+	holder=394946
+}
+1446.1.1={
+	holder=394947
+}
+1479.1.1={
+	holder=394948
+}
+1500.1.1={
+	set_tribute_suzerain = {
+		who = e_portugal_7
+		type = permanent 
+	}
+}
+1515.1.1={
+	holder=394949
+}
+1521.12.13={
+	clear_tribute_suzerain = e_portugal_7
+	set_tribute_suzerain = {
+		who = e_portugal_8
+		type = permanent 
+	}
+}
+1557.6.11={
+	clear_tribute_suzerain = e_portugal_8
+	set_tribute_suzerain = {
+		who = e_portugal_9
+		type = permanent 
+	}
+}
+1558.1.1={
+	holder=394950
+}
+1581.4.16={
+	clear_tribute_suzerain = e_portugal_9
+	set_tribute_suzerain = {
+		who = e_espana_burgona
+		type = permanent 
+	}
+}
+1609.1.1={
+	holder=394951
+}
+1631.8.18={
+	clear_tribute_suzerain = e_espana_burgona
+}
+1632.6.1={
+	holder=394905	#Diogo de Sousa de Meneses 	1632 	1633
+	liege="d_sofala"
+}
+1633.1.1={
+	holder=394907	#Filipe de Mascarenhas 	1633 	1634
+}
+1634.1.1={
+	holder=394908	#Lourenço de Souto-Maior 	1634 	1639
+}
+1639.1.1={
+	holder=394909	#Diogo de Vasconcelos 	1639 	1640
+}

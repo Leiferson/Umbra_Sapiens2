@@ -11,3 +11,12 @@ culture = carib
 religion = caribic_pagan
 
 # History
+1520.1.1={
+	religion = catholic
+}
+1562.1.1={
+	b_cumana=castle
+	b_cumana-ii=temple
+	b_cumana-iii=city
+	culture = castillan
+}

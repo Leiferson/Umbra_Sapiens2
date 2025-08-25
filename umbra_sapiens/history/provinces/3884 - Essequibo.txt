@@ -11,3 +11,15 @@ culture = lokono
 religion = amazonian_pagan
 
 # History
+1581.1.1={
+	b_essequibo-ii=castle
+}
+1586.1.1={
+	b_essequibo-ii=temple
+}
+1616.1.1={
+	culture = dutch
+	religion = reformed
+	b_essequibo=castle
+	b_essequibo-iii=city
+}

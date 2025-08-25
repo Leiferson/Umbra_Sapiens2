@@ -11,3 +11,10 @@ culture = muisca
 religion = muisca_pagan
 
 # History
+1533.6.1={
+	b_cartagenaa=castle
+	b_cartagenaa-ii=temple
+	b_cartagenaa-iii=city
+	culture = castillan
+	religion = catholic
+}

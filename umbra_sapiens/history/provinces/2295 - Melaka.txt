@@ -4,7 +4,7 @@
 title = c_melaka
 
 # Settlements
-max_settlements = 4
+max_settlements = 7
 b_muar = castle
 b_melaka = city
 #b_seremban =
@@ -21,4 +21,22 @@ religion = buddhist
 # History
 1414.1.1={
 	religion="sunni"
+}
+1511.8.15={
+	religion="catholic"
+}
+1530.1.1={
+	b_seremban = temple
+}
+1550.1.1={
+	b_batu_pahat = castle
+}
+1580.1.1={
+	b_merlimau = city
+}
+1600.1.1={
+	b_bakri = castle
+}
+1620.1.1={
+	b_pagoh = temple
 }

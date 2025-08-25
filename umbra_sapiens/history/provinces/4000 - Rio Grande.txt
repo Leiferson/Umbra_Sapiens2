@@ -11,3 +11,10 @@ culture = tupinamba
 religion = amazonian_pagan
 
 # History
+1597.1.1={
+	culture=portuguese
+	religion=catholic
+	b_rio_grande=castle
+	b_rio_grande-ii=temple
+	b_rio_grande-iii=city
+}

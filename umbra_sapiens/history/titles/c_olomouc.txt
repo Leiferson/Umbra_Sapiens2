@@ -122,6 +122,24 @@
 1380.1.1={
 	holder = 382650	#John II, Duke of Opava-Ratibor
 }
+1412.10.18={
+	effect = {
+	location={
+	add_province_modifier = {
+			name = religious_unrest
+			years = 15
+						}
+	add_province_modifier = {
+			name = cultural_unrest
+			years = 15
+						}
+	add_province_modifier = {
+			name = peasant_unrest
+			years = 15
+						}
+	}
+	}
+}
 1424.1.1={
 	holder = 382658	#Wenceslaus II, Duke of Opava-Ratibor
 }

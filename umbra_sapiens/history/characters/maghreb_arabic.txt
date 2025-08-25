@@ -7322,7 +7322,7 @@
 }
 
 166430 = {
-	name="Guardafía"
+	name="Guardafia"
 	dynasty=100848
 	religion="west_african_pagan"
 	culture="maghreb_arabic"
@@ -9201,7 +9201,7 @@
 	1290.1.1={
 		birth = yes
 	}
-	1338.1.1={
+	1350.1.1={
 		death = yes
 	}
 }
@@ -9215,7 +9215,7 @@
 	1315.1.1={
 		birth = yes
 	}
-	1338.1.1={
+	1388.1.1={
 		death = yes
 	}
 }
@@ -9852,7 +9852,7 @@
 273101 = {
 	#placeholder
 	name="Watt'as"
-	dynasty=1069084  #Guddála
+	dynasty=1069084  #Guddala
 	religion="sunni"
 	culture = maghreb_arabic #tagelmust
 	848.1.1 = {
@@ -9883,7 +9883,7 @@
 273103 = {
 	#placeholder
 	name="Tamim"
-	dynasty=1069084  #Guddála
+	dynasty=1069084  #Guddala
 	religion="sunni"
 	culture = maghreb_arabic #tagelmust
 	father=273101
@@ -9897,7 +9897,7 @@
 273104 = {
 	#placeholder
 	name="Watt'as"
-	dynasty=1069084  #Guddála
+	dynasty=1069084  #Guddala
 	religion="sunni"
 	culture = maghreb_arabic #tagelmust
 	father=273103
@@ -9911,7 +9911,7 @@
 273105 = {
 	#placeholder
 	name="Tamim"
-	dynasty=1069084  #Guddála
+	dynasty=1069084  #Guddala
 	religion="sunni"
 	culture = maghreb_arabic #tagelmust
 	father=273104
@@ -10187,7 +10187,7 @@
 
 #Mazata chieftans
 273125 = {
-	name="Abd-al-A'lâ" #Abu_l-Khattáb ibn al-Samh al Ma'afiri
+	name="Abd-al-A'lâ" #Abu_l-Khattab ibn al-Samh al Ma'afiri
 	dynasty=1069090
 	religion = ibadi
 	culture = maghreb_arabic #zanata
@@ -10329,7 +10329,7 @@
 	}
 }
 
-#Hawwára in Tripolitania
+#Hawwara in Tripolitania
 273136 = {
 	name="AbdAllâh"  #placeholder
 	dynasty=1069092

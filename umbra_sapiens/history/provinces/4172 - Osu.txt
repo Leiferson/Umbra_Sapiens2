@@ -15,3 +15,8 @@ culture = ivoir
 religion = west_african_pagan
 
 # History
+1550.1.1={
+	b_tema=tribal
+	capital=b_tema
+	b_osu = castle
+}

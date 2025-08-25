@@ -11,3 +11,10 @@ culture = lokono
 religion = amazonian_pagan
 
 # History
+1638.1.1={
+	culture = frankish
+	religion = reformed
+	b_cayenne = castle
+	b_cayenne-ii = temple
+	b_cayenne-iii = city
+}

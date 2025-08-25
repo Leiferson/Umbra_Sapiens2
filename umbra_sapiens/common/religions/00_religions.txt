@@ -3105,6 +3105,7 @@ pagan_group = {
 		religious_clothing_priest = 4
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		
 		intermarry = buddhist
 		intermarry = zoroastrian_group
@@ -3216,6 +3217,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		
 		intermarry = indian_group
 		intermarry = dreamtime_religion
@@ -3326,6 +3328,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		
 		intermarry = indian_group
 	}
@@ -3433,6 +3436,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		
 		intermarry = indian_group
 	}
@@ -3540,6 +3544,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		
 		intermarry = indian_group
 	}
@@ -3647,6 +3652,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		
 		intermarry = indian_group
 	}
@@ -3754,6 +3760,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		
 		intermarry = indian_group
 	}
@@ -3861,6 +3868,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		
 		intermarry = indian_group
 	}
@@ -3962,6 +3970,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		
 		intermarry = indian_group
 	}
@@ -4069,6 +4078,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		
 		intermarry = indian_group
 	}
@@ -4191,6 +4201,7 @@ pagan_group = {
 		intermarry = tengri_pagan_reformed
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 	}
 	chukchi_pantheism_reformed = {
 		graphical_culture = mongolgfx	
@@ -4297,6 +4308,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		intermarry = jurchen_pagan
 		intermarry = jurchen_pagan_reformed
 		intermarry = inuit_pagan
@@ -4395,6 +4407,7 @@ pagan_group = {
 		religious_clothing_priest = 4
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 	}
 
 #African Groups
@@ -6231,6 +6244,9 @@ southwest_pagan_reformed = {
 			
 			key = "DEF_RELIGION_HOME_TERRITORY"
 		}
+		
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		}
 		pampas_pagan_reformed = {
 		graphical_culture = pagangfx
@@ -6274,6 +6290,9 @@ southwest_pagan_reformed = {
 		allow_in_ruler_designer = no
 		intermarry = south_american
 		aggression = 0.5 # AI aggression factor
+		
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 	}
 	
 
@@ -6298,6 +6317,14 @@ southwest_pagan_reformed = {
 		evil_god_names = {
 			GOD_THE_GUALICHO GOD_THE_WEKUFE 
 		}
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		}
 	mapuche_pagan_reformed = {
 		graphical_culture = pagangfx
@@ -6369,6 +6396,8 @@ southwest_pagan_reformed = {
 		allow_looting = yes
 		max_consorts = 3
 		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		}
 	chaco_pagan_reformed = {
 		graphical_culture = pagangfx
@@ -6440,6 +6469,8 @@ southwest_pagan_reformed = {
 		allow_looting = yes
 		max_consorts = 3
 		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		}
 	amazonian_pagan_reformed = {
 		graphical_culture = africangfx
@@ -6505,6 +6536,14 @@ southwest_pagan_reformed = {
 		evil_god_names = {
 			GOD_THE_GUALICHO GOD_THE_WEKUFE 
 		}
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		}
 	maori_religion_reformed = {
 		graphical_culture = africangfx
@@ -6618,7 +6657,6 @@ southwest_pagan_reformed = {
 		intermarry = dreamtime_religion_reformed
 		intermarry = dreamtime_religion
 		aggression = 2.0 # AI aggression factor
-	
 	}
 }
 andean_rel_group = {
@@ -6802,6 +6840,8 @@ andean_rel_group = {
 			
 			key = "DEF_RELIGION_HOME_TERRITORY"
 		}
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 		}
 	chachapoyan_pagan_reformed = {
 		graphical_culture = chachapoyangfx

@@ -5,7 +5,7 @@
 1000075000 = {
 	name="Ohodo"
 	# Emperor Keitai
-	dynasty=1000027000
+	dynasty=27000
 	martial=7
 	diplomacy=8
 	intrigue=6
@@ -31,7 +31,7 @@
 1000075001 = {
 	name="Magari"
 	# Emperor Ankan
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -54,7 +54,7 @@
 1000075002 = {
 	name="Takata"
 	# Emperor Senka
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -77,7 +77,7 @@
 1000075003 = {
 	name="Hironiwa"
 	# Emperor Kinmei
-	dynasty=1000027000
+	dynasty=27000
 	martial=6
 	diplomacy=7
 	intrigue=5
@@ -104,7 +104,7 @@
 1000075004 = {
 	name="Futotamashiki"
 	# Emperor Bidatsu
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -128,7 +128,7 @@
 1000075005 = {
 	name="Ikebe"
 	# Emperor Yomei
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -151,7 +151,7 @@
 1000075006 = {
 	name="Hatsusebe"
 	# Emperor Sushun
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -172,7 +172,7 @@
 	name="Nukatabe"
 	# Empress Suiko
 	female = yes
-	dynasty=1000027000
+	dynasty=27000
 	martial=3
 	diplomacy=8
 	intrigue=7
@@ -195,7 +195,7 @@
 
 1000075008 = {
 	name="Hikohito"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -212,7 +212,7 @@
 1000075009 = {
 	name="Tamura"
 	# Emperor Jomei
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -234,7 +234,7 @@
 
 1000075010 = {
 	name="Chinu"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -256,7 +256,7 @@
 	name="Takara"
 	# Empress Kogyoku/Saimei
 	female = yes
-	dynasty=1000027000
+	dynasty=27000
 	martial=7
 	diplomacy=7
 	intrigue=6
@@ -284,7 +284,7 @@
 1000075012 = {
 	name="Karu"
 	# Emperor Kotoku
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -308,7 +308,7 @@
 1000075013 = {
 	name="Kazuragi"
 	# Emperor Tenchi
-	dynasty=1000027000
+	dynasty=27000
 	martial=5
 	diplomacy=8
 	intrigue=8
@@ -336,7 +336,7 @@
 1000075014 = {
 	name="Otomo"
 	# Emperor Kobun
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -359,7 +359,7 @@
 1000075015 = {
 	name="Oama"
 	# Emperor Tenmu
-	dynasty=1000027000
+	dynasty=27000
 	martial=9
 	diplomacy=8
 	intrigue=7
@@ -388,7 +388,7 @@
 	name="Sarara"
 	# Empress Jito
 	female = yes
-	dynasty=1000027000
+	dynasty=27000
 	martial=5
 	diplomacy=6
 	intrigue=8
@@ -411,7 +411,7 @@
 
 1000075017 = {
 	name="Kusakabe"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -432,7 +432,7 @@
 1000075018 = {
 	name="Karu"
 	# Emperor Monmu
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -457,7 +457,7 @@
 	name="Ahe"
 	# Empress Genmei
 	female = yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -478,7 +478,7 @@
 	name="Hitaka"
 	# Empress Gensho
 	female = yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -499,7 +499,7 @@
 1000075021 = {
 	name="Obito"
 	# Emperor Shomu
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="thrifty_clerk"
@@ -524,7 +524,7 @@
 	name="Takano"
 	# Empress Koken/Shotoku
 	female = yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -547,7 +547,7 @@
 
 1000075023 = {
 	name="Toneri"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -564,7 +564,7 @@
 1000075024 = {
 	name="Oi"
 	# Emperor Junnin
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -583,7 +583,7 @@
 
 1000075025 = {
 	name="Shiki"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -600,7 +600,7 @@
 1000075026 = {
 	name="Shirakabe"
 	# Emperor Konin
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -621,7 +621,7 @@
 1000075027 = {
 	name="Yamanobe"
 	# Emperor Kanmu
-	dynasty=1000027000
+	dynasty=27000
 	martial=4
 	diplomacy=7
 	intrigue=7
@@ -649,7 +649,7 @@
 1000075028 = {
 	name="Ote"
 	# Emperor Heizei
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -674,7 +674,7 @@
 1000075029 = {
 	name="Kamino"
 	# Emperor Saga
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -698,7 +698,7 @@
 1000075030 = {
 	name="Otomo"
 	# Emperor Junna
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -719,7 +719,7 @@
 1000075031 = {
 	name="Masara"
 	# Emperor Ninmyo
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -743,7 +743,7 @@
 1000075032 = {
 	name="Michiyasu"
 	# Emperor Montoku
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -767,7 +767,7 @@
 1000075033 = {
 	name="Korehito"
 	# Emperor Seiwa
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -791,7 +791,7 @@
 1000075034 = {
 	name="Sadaakira"
 	# Emperor Yozei
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -812,7 +812,7 @@
 1000075035 = {
 	name="Tokiyasu"
 	# Emperor Koko
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -832,7 +832,7 @@
 1000075036 = {
 	name="Sadami"
 	# Emperor Uda
-	dynasty=1000027000
+	dynasty=27000
 	martial=4
 	diplomacy=7
 	intrigue=8
@@ -856,7 +856,7 @@
 1000075037 = {
 	name="Atsuhito"
 	# Emperor Daigo
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="flamboyant_schemer"
@@ -876,7 +876,7 @@
 1000075038 = {
 	name="Yutaakira"
 	# Emperor Suzaku
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -896,7 +896,7 @@
 1000075039 = {
 	name="Ariakira"
 	# Emperor Murakami
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -916,7 +916,7 @@
 1000075040 = {
 	name="Norihira"
 	# Emperor Reizei
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -936,7 +936,7 @@
 1000075041 = {
 	name="Morihira"
 	# Emperor Enyu
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -956,7 +956,7 @@
 1000075042 = {
 	name="Morosada"
 	# Emperor Kazan
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -976,7 +976,7 @@
 1000075043 = {
 	name="Yasuhito"
 	# Emperor Ichijo
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -999,7 +999,7 @@
 1000075044 = {
 	name="Okisada"
 	# Emperor Sanjo
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -1022,7 +1022,7 @@
 1000075045 = {
 	name="Atsuhira"
 	# Emperor Go-Ichijo
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -1046,7 +1046,7 @@
 1000075046 = {
 	name="Atsunaga"
 	# Emperor Go-Suzaku
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -1070,7 +1070,7 @@
 1000075047 = {
 	name="Chikahito"
 	# Emperor Go-Reizei
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -1094,7 +1094,7 @@
 1000075048 = {
 	name="Takahito"
 	# Emperor Go-Sanjo
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -1118,7 +1118,7 @@
 1000075049 = {
 	name="Sadahito"
 	# Emperor Shirakawa
-	dynasty=1000027000
+	dynasty=27000
 	martial=3
 	diplomacy=8
 	intrigue=7
@@ -1143,7 +1143,7 @@
 1000075351 = {
 	name="Yoshihito"
 	# Emperor Horikawa
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -1164,7 +1164,7 @@
 1000075352 = {
 	name="Munehito"
 	# Emperor Toba
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="flamboyant_schemer"
@@ -1185,7 +1185,7 @@
 1000075353 = {
 	name="Akihito"
 	# Emperor Sutoku
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -1207,7 +1207,7 @@
 1000075354 = {
 	name="Masahito"
 	# Emperor Go-Shirakawa
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	martial=4
 	diplomacy=9
 	intrigue=8
@@ -1232,7 +1232,7 @@
 1000075355 = {
 	name="Narihito"
 	# Emperor Konoe
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1252,7 +1252,7 @@
 1000075356 = {
 	name="Morihito"
 	# Emperor Nijo
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1273,7 +1273,7 @@
 1000075357 = {
 	name="Nobuhito"
 	# Emperor Rokujo
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1294,7 +1294,7 @@
 1000075358 = {
 	name="Norihito"
 	# Emperor Takakura
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1314,7 +1314,7 @@
 1000075359 = {
 	name="Tokihito"
 	# Emperor Antoku
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1334,7 +1334,7 @@
 1000075360 = {
 	name="Takanari"
 	# Emperor Go-Toba
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="intricate_webweaver"
@@ -1358,7 +1358,7 @@
 1000075361 = {
 	name="Tamehito"
 	# Emperor Tsuchimikado
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1380,7 +1380,7 @@
 1000075362 = {
 	name="Morinari"
 	# Emperor Juntoku
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1402,7 +1402,7 @@
 1000075363 = {
 	name="Kanenari"
 	# Emperor Chukyo
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1421,7 +1421,7 @@
 
 1000075364 = {
 	name="Morisada"
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1438,7 +1438,7 @@
 1000075365 = {
 	name="Toyohito"
 	# Emperor Go-Horikawa
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1458,7 +1458,7 @@
 1000075366 = {
 	name="Mitsuhito"
 	# Emperor Shijo
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1478,7 +1478,7 @@
 1000075367 = {
 	name="Kunihito"
 	# Emperor Go-Saga
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1498,7 +1498,7 @@
 1000075368 = {
 	name="Hisahito"
 	# Emperor Go-Fukakusa
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1518,7 +1518,7 @@
 1000075369 = {
 	name="Tsunehito"
 	# Emperor Kameyama
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1538,7 +1538,7 @@
 1000075370 = {
 	name="Yohito"
 	# Emperor Go-Uda
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1558,7 +1558,7 @@
 1000075371 = {
 	name="Hirohito"
 	# Emperor Fushimi
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1579,7 +1579,7 @@
 1000075372 = {
 	name="Tanehito"
 	# Emperor Go-Fushimi
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1599,7 +1599,7 @@
 1000075373 = {
 	name="Kuniharu"
 	# Emperor Go-Nijo
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1619,7 +1619,7 @@
 1000075374 = {
 	name="Tomihito"
 	# Emperor Hanazono
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1639,7 +1639,7 @@
 1000075375 = {
 	name="Takaharu"
 	# Emperor Go-Daigo
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	martial=6
 	diplomacy=7
 	intrigue=10
@@ -1670,7 +1670,7 @@
 1000075376 = {
 	name="Kazuhito"
 	# Emperor Kogon
-	dynasty=1000027000 # Yamato (Imperial Family)
+	dynasty=27000 # Yamato (Imperial Family)
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1692,7 +1692,7 @@
 
 1000075050 = {
 	name="Kamatari"
-	dynasty=1000027001
+	dynasty=27001
 	martial=3
 	diplomacy=8
 	intrigue=7
@@ -1710,7 +1710,7 @@
 
 1000075051 = {
 	name="Fuhito"
-	dynasty=1000027001
+	dynasty=27001
 	martial=4
 	diplomacy=7
 	intrigue=8
@@ -1730,7 +1730,7 @@
 
 1000075052 = {
 	name="Muchimaro"
-	dynasty=1000027001
+	dynasty=27001
 	martial=4
 	diplomacy=6
 	intrigue=5
@@ -1751,7 +1751,7 @@
 
 1000075053 = {
 	name="Fusasaki"
-	dynasty=1000027001
+	dynasty=27001
 	martial=3
 	diplomacy=7
 	intrigue=8
@@ -1771,7 +1771,7 @@
 
 1000075054 = {
 	name="Umakai"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="thrifty_clerk"
@@ -1787,7 +1787,7 @@
 
 1000075055 = {
 	name="Maro"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="thrifty_clerk"
@@ -1803,7 +1803,7 @@
 
 1000075056 = {
 	name="Nagate"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -1820,7 +1820,7 @@
 
 1000075057 = {
 	name="Matate"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1837,7 +1837,7 @@
 
 1000075058 = {
 	name="Mitate"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1854,7 +1854,7 @@
 
 1000075059 = {
 	name="Uchimaro"
-	dynasty=1000027001
+	dynasty=27001
 	martial=4
 	diplomacy=8
 	intrigue=6
@@ -1875,7 +1875,7 @@
 
 1000075060 = {
 	name="Manatsu"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -1891,7 +1891,7 @@
 
 1000075061 = {
 	name="Fuyutsugu"
-	dynasty=1000027001
+	dynasty=27001
 	martial=4
 	diplomacy=7
 	intrigue=7
@@ -1911,7 +1911,7 @@
 
 1000075062 = {
 	name="Nagara"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1927,7 +1927,7 @@
 
 1000075063 = {
 	name="Yoshifusa"
-	dynasty=1000027001
+	dynasty=27001
 	martial=3
 	diplomacy=7
 	intrigue=7
@@ -1947,7 +1947,7 @@
 
 1000075064 = {
 	name="Yoshimi"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1963,7 +1963,7 @@
 
 1000075065 = {
 	name="Mototsune"
-	dynasty=1000027001
+	dynasty=27001
 	martial=4
 	diplomacy=8
 	intrigue=8
@@ -1983,7 +1983,7 @@
 
 1000075066 = {
 	name="Tokihira"
-	dynasty=1000027001
+	dynasty=27001
 	martial=3
 	diplomacy=6
 	intrigue=7
@@ -2003,7 +2003,7 @@
 
 1000075067 = {
 	name="Nakahira"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2019,7 +2019,7 @@
 
 1000075068 = {
 	name="Tadahira"
-	dynasty=1000027001
+	dynasty=27001
 	martial=5
 	diplomacy=8
 	intrigue=6
@@ -2039,7 +2039,7 @@
 
 1000075069 = {
 	name="Morosuke"
-	dynasty=1000027001
+	dynasty=27001
 	martial=4
 	diplomacy=7
 	intrigue=6
@@ -2059,7 +2059,7 @@
 
 1000075070 = {
 	name="Moroyasu"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="detached_priest"
@@ -2075,7 +2075,7 @@
 
 1000075071 = {
 	name="Morouji"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="detached_priest"
@@ -2091,7 +2091,7 @@
 
 1000075072 = {
 	name="Morotada"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -2107,7 +2107,7 @@
 
 1000075073 = {
 	name="Koretada"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="flamboyant_schemer"
@@ -2123,7 +2123,7 @@
 
 1000075074 = {
 	name="Kanemichi"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -2139,7 +2139,7 @@
 
 1000075075 = {
 	name="Kaneie"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -2155,7 +2155,7 @@
 
 1000075076 = {
 	name="Michitaka"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -2171,7 +2171,7 @@
 
 1000075077 = {
 	name="Michikane"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -2187,7 +2187,7 @@
 
 1000075078 = {
 	name="Michinaga"
-	dynasty=1000027001
+	dynasty=27001
 	martial=3
 	diplomacy=9
 	intrigue=8
@@ -2211,7 +2211,7 @@
 1000075079 = {
 	name="Rinshi"
 	female=yes
-	dynasty=1000027002
+	dynasty=27002
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2227,7 +2227,7 @@
 1000075080 = {
 	name="Akiko"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2244,7 +2244,7 @@
 
 1000075081 = {
 	name="Yorimichi"
-	dynasty=1000027001
+	dynasty=27001
 	martial=4
 	diplomacy=7
 	intrigue=7
@@ -2269,7 +2269,7 @@
 1000075082 = {
 	name="Akiko"
 	female=yes
-	dynasty=1000027002
+	dynasty=27002
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2284,7 +2284,7 @@
 
 1000075083 = {
 	name="Yorimune"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2302,7 +2302,7 @@
 1000075084 = {
 	name="Kiyoko"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2319,7 +2319,7 @@
 
 1000075085 = {
 	name="Akinobu"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2336,7 +2336,7 @@
 
 1000075086 = {
 	name="Yoshinobu"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2353,7 +2353,7 @@
 
 1000075087 = {
 	name="Norimichi"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2371,7 +2371,7 @@
 1000075088 = {
 	name="Takeko"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2389,7 +2389,7 @@
 1000075089 = {
 	name="Hiroko"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2406,7 +2406,7 @@
 
 1000075090 = {
 	name="Nagaie"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2424,7 +2424,7 @@
 1000075091 = {
 	name="Yoshiko"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2442,7 +2442,7 @@
 1000075092 = {
 	name="Takako"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2460,7 +2460,7 @@
 
 1000075093 = {
 	name="Choshin"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2477,7 +2477,7 @@
 1000075094 = {
 	name="Moriko"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2495,7 +2495,7 @@
 1000075095 = {
 	name="Takahime"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2511,7 +2511,7 @@
 
 1000075096 = {
 	name="Michifusa"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2528,7 +2528,7 @@
 1000075097 = {
 	name="Kishi"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2544,7 +2544,7 @@
 1000075098 = {
 	name="Michiyo"
 	female = yes
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2559,7 +2559,7 @@
 
 1000075099 = {
 	name="Kakuen"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2579,7 +2579,7 @@
 
 1000075100 = {
 	name="Sadatsuna"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2599,7 +2599,7 @@
 
 1000075101 = {
 	name="Tadatsuna"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -2619,7 +2619,7 @@
 
 1000075102 = {
 	name="Hiroko"
-	dynasty=1000027001
+	dynasty=27001
 	female=yes
 	religion="nihon_shinto"
 	culture="japanese"
@@ -2637,7 +2637,7 @@
 
 1000075103 = {
 	name="Morozane"
-	dynasty=1000027001
+	dynasty=27001
 	martial=4
 	diplomacy=5
 	intrigue=6
@@ -2662,7 +2662,7 @@
 1000075104 = {
 	name="Reishi"
 	female=yes
-	dynasty=1000027002
+	dynasty=27002
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2677,7 +2677,7 @@
 
 1000075105 = {
 	name="Moromichi"
-	dynasty=1000027001
+	dynasty=27001
 	martial=5
 	diplomacy=4
 	intrigue=5
@@ -2702,7 +2702,7 @@
 1000075107 = {
 	name="Shigeko"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2718,7 +2718,7 @@
 1000075108 = {
 	name="Satoko"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2736,7 +2736,7 @@
 1000075109 = {
 	name="Toshiko"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2754,7 +2754,7 @@
 1000075110 = {
 	name="Yoshiko"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2772,7 +2772,7 @@
 1000075111 = {
 	name="Atsuko"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2789,7 +2789,7 @@
 
 1000075112 = {
 	name="Atsuakira"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2806,7 +2806,7 @@
 1000075113 = {
 	name="Sadako"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2826,7 +2826,7 @@
 1000075114 = {
 	name="Kasuga"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2842,7 +2842,7 @@
 1000075115 = {
 	name="Nakatsu"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2858,7 +2858,7 @@
 1000075116 = {
 	name="Ishi"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2876,7 +2876,7 @@
 1000075117 = {
 	name="Anahobe"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2892,7 +2892,7 @@
 
 1000075118 = {
 	name="Sakurai"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2909,7 +2909,7 @@
 1000075119 = {
 	name="Kibi"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2926,7 +2926,7 @@
 1000075120 = {
 	name="Hashihito"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2943,7 +2943,7 @@
 
 1000075121 = {
 	name="Furuhito"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2960,7 +2960,7 @@
 1000075122 = {
 	name="Yamato"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2978,7 +2978,7 @@
 1000075123 = {
 	name="Tochi"
 	female=yes
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2995,7 +2995,7 @@
 1000075124 = {
 	name="Miyako"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3012,7 +3012,7 @@
 1000075125 = {
 	name="Asukabe"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3029,7 +3029,7 @@
 
 1000075126 = {
 	name="Yoshitsugu"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3047,7 +3047,7 @@
 1000075127 = {
 	name="Otomuro"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3064,7 +3064,7 @@
 
 1000075128 = {
 	name="Hirotsugu"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3080,7 +3080,7 @@
 
 1000075129 = {
 	name="Momokawa"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3098,7 +3098,7 @@
 1000075130 = {
 	name="Tabiko"
 	female = yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3116,7 +3116,7 @@
 1000075131 = {
 	name="Tarashiko"
 	female = yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3135,7 +3135,7 @@
 
 1000075132 = {
 	name="Naniwa"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -3151,7 +3151,7 @@
 
 1000075133 = {
 	name="Kurikuma"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
@@ -3167,7 +3167,7 @@
 
 1000075134 = {
 	name="Minu"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3183,7 +3183,7 @@
 
 1000075135 = {
 	name="Moroe"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3200,7 +3200,7 @@
 
 1000075136 = {
 	name="Sai"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3217,7 +3217,7 @@
 
 1000075137 = {
 	name="Naramaro"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3233,7 +3233,7 @@
 
 1000075138 = {
 	name="Shimadamaro"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3250,7 +3250,7 @@
 
 1000075139 = {
 	name="Kiyotomo"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3267,7 +3267,7 @@
 1000075140 = {
 	name="Kachiko"
 	female = yes
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3284,7 +3284,7 @@
 
 1000075141 = {
 	name="Irii"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3301,7 +3301,7 @@
 
 1000075142 = {
 	name="Saneki"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3317,7 +3317,7 @@
 
 1000075143 = {
 	name="Minenori"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3333,7 +3333,7 @@
 
 1000075144 = {
 	name="Hiromi"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3349,7 +3349,7 @@
 
 1000075145 = {
 	name="Kimiki"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3365,7 +3365,7 @@
 
 1000075146 = {
 	name="Yoshiko"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3381,7 +3381,7 @@
 
 1000075147 = {
 	name="Toshimasa"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3397,7 +3397,7 @@
 
 1000075148 = {
 	name="Norimitsu"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3413,7 +3413,7 @@
 
 1000075149 = {
 	name="Norinaga"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3429,7 +3429,7 @@
 
 1000075150 = {
 	name="Norisue"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3445,7 +3445,7 @@
 
 1000075151 = {
 	name="Kiyonobu"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3461,7 +3461,7 @@
 
 1000075152 = {
 	name="Noritaka"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3477,7 +3477,7 @@
 
 1000075153 = {
 	name="Shigeto"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3493,7 +3493,7 @@
 
 1000075154 = {
 	name="Mochitsuna"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3509,7 +3509,7 @@
 
 1000075155 = {
 	name="Toshitsuna"
-	dynasty=1000027004
+	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="thrifty_clerk"
@@ -3531,7 +3531,7 @@
 
 1000075156 = {
 	name="Toru"
-	dynasty=1000027005
+	dynasty=27005
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="underhanded_rogue"
@@ -3550,7 +3550,7 @@
 1000075157 = {
 	name="Nobuko"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3567,7 +3567,7 @@
 1000075158 = {
 	name="Akirakaiko"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3584,7 +3584,7 @@
 1000075159 = {
 	name="Takaiko"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3602,7 +3602,7 @@
 
 1000075160 = {
 	name="Sadazumi"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -3618,7 +3618,7 @@
 
 1000075161 = {
 	name="Tsunemoto"
-	dynasty=1000027006
+	dynasty=27006
 	martial=7
 	diplomacy=6
 	intrigue=7
@@ -3638,7 +3638,7 @@
 
 1000075162 = {
 	name="Mitsunaka"
-	dynasty=1000027006
+	dynasty=27006
 	martial=6
 	diplomacy=7
 	intrigue=8
@@ -3658,7 +3658,7 @@
 
 1000075163 = {
 	name="Yorimitsu"
-	dynasty=1000027006
+	dynasty=27006
 	martial=9
 	diplomacy=6
 	intrigue=7
@@ -3678,7 +3678,7 @@
 
 1000075164 = {
 	name="Yorikuni"
-	dynasty=1000027006
+	dynasty=27006
 	martial=6
 	diplomacy=7
 	intrigue=6
@@ -3698,7 +3698,7 @@
 
 1000075165 = {
 	name="Yorihiro"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -3714,7 +3714,7 @@
 
 1000075166 = {
 	name="Akikuni"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -3730,7 +3730,7 @@
 
 1000075167 = {
 	name="Yorizane"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -3746,7 +3746,7 @@
 
 1000075168 = {
 	name="Sanekuni"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="detached_priest"
@@ -3762,7 +3762,7 @@
 
 1000075169 = {
 	name="Yoritsuna"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
@@ -3778,7 +3778,7 @@
 
 1000075170 = {
 	name="Kunifusa"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="indulgent_wastrel"
@@ -3794,7 +3794,7 @@
 
 1000075171 = {
 	name="Mitsukni"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="underhanded_rogue"
@@ -3810,7 +3810,7 @@
 
 1000075172 = {
 	name="Nakamasa"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
@@ -3826,7 +3826,7 @@
 
 1000075173 = {
 	name="Kuninao"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -3842,7 +3842,7 @@
 
 1000075174 = {
 	name="Yorichika"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="flamboyant_schemer"
@@ -3858,7 +3858,7 @@
 
 1000075175 = {
 	name="Yorifusa"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -3874,7 +3874,7 @@
 
 1000075176 = {
 	name="Yoritoshi"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="skilled_tactician"
@@ -3890,7 +3890,7 @@
 
 1000075177 = {
 	name="Yoriharu"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -3906,7 +3906,7 @@
 
 1000075178 = {
 	name="Yorinobu"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
@@ -3922,7 +3922,7 @@
 
 1000075179 = {
 	name="Yoriyoshi"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="skilled_tactician"
@@ -3938,7 +3938,7 @@
 
 1000075180 = {
 	name="Yorikiyo"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
@@ -3954,7 +3954,7 @@
 
 1000075181 = {
 	name="Yorisue"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="indulgent_wastrel"
@@ -3973,7 +3973,7 @@
 
 1000075182 = {
 	name="Yoshiie"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="skilled_tactician"
@@ -3989,7 +3989,7 @@
 
 1000075183 = {
 	name="Yoshitsuna"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4005,7 +4005,7 @@
 
 1000075184 = {
 	name="Yoshimitsu"
-	dynasty=1000027006
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="flamboyant_schemer"
@@ -4023,7 +4023,7 @@
 
 1000075185 = {
 	name="Kazurawara"
-	dynasty=1000027000
+	dynasty=27000
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="underhanded_rogue"
@@ -4039,7 +4039,7 @@
 
 1000075186 = {
 	name="Takamochi"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="fortune_builder"
@@ -4058,7 +4058,7 @@
 
 1000075187 = {
 	name="Yoshikata"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4075,7 +4075,7 @@
 1000075188 = {
 	name="Yoshiko"
 	female=yes
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4091,7 +4091,7 @@
 
 1000075189 = {
 	name="Kunika"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="underhanded_rogue"
@@ -4108,7 +4108,7 @@
 
 1000075190 = {
 	name="Yoshikane"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4125,7 +4125,7 @@
 
 1000075191 = {
 	name="Yoshimasa"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4142,7 +4142,7 @@
 
 1000075192 = {
 	name="Yoshifumi"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
@@ -4158,7 +4158,7 @@
 
 1000075193 = {
 	name="Sadamori"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4174,7 +4174,7 @@
 
 1000075194 = {
 	name="Shigemori"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4190,7 +4190,7 @@
 
 1000075195 = {
 	name="Korehira"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4206,7 +4206,7 @@
 
 1000075196 = {
 	name="Masanori"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
@@ -4222,7 +4222,7 @@
 
 1000075197 = {
 	name="Masahira"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4238,7 +4238,7 @@
 
 1000075198 = {
 	name="Masakado"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="skilled_tactician"
@@ -4254,7 +4254,7 @@
 
 1000075199 = {
 	name="Tadayori"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
@@ -4270,7 +4270,7 @@
 
 1000075200 = {
 	name="Masatsune"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
@@ -4286,7 +4286,7 @@
 
 1000075201 = {
 	name="Takemoto"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4302,7 +4302,7 @@
 
 1000075202 = {
 	name="Taketsuna"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
@@ -4318,7 +4318,7 @@
 
 1000075203 = {
 	name="Koremoto" # Take Koremoto
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4334,7 +4334,7 @@
 
 1000075204 = {
 	name="Tamemoto" # Take Tamemoto
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4350,7 +4350,7 @@
 
 1000075205 = {
 	name="Shigemoto" # Take Shigemoto
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4366,7 +4366,7 @@
 
 1000075206 = {
 	name="Atsumoto" # Take Atsumoto
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4382,7 +4382,7 @@
 
 1000075207 = {
 	name="Tadatsune"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4398,7 +4398,7 @@
 
 1000075208 = {
 	name="Tsunemasa"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4414,7 +4414,7 @@
 
 1000075209 = {
 	name="Tsunenaga"
-	dynasty=1000027003
+	dynasty=27003
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
@@ -4432,7 +4432,7 @@
 
 1000075210 = {
 	name="Nobuie"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4448,7 +4448,7 @@
 
 1000075211 = {
 	name="Nobuie"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4464,7 +4464,7 @@
 
 1000075212 = {
 	name="Nobunaga"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4482,7 +4482,7 @@
 
 1000075213 = {
 	name="Mitsukata"
-	dynasty=1000027007
+	dynasty=27007
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="indulgent_wastrel"
@@ -4496,7 +4496,7 @@
 
 1000075214 = {
 	name="Mitsuyori"
-	dynasty=1000027007
+	dynasty=27007
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="indulgent_wastrel"
@@ -4511,7 +4511,7 @@
 
 1000075215 = {
 	name="Takenori"
-	dynasty=1000027007
+	dynasty=27007
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="underhanded_rogue"
@@ -4526,7 +4526,7 @@
 
 1000075216 = {
 	name="Takesada"
-	dynasty=1000027007
+	dynasty=27007
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="underhanded_rogue"
@@ -4541,7 +4541,7 @@
 
 1000075217 = {
 	name="Takesada"
-	dynasty=1000027007
+	dynasty=27007
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4556,7 +4556,7 @@
 
 1000075218 = {
 	name="Sanehira"
-	dynasty=1000027007
+	dynasty=27007
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4571,7 +4571,7 @@
 
 1000075219 = {
 	name="Iehira"
-	dynasty=1000027007
+	dynasty=27007
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -4588,7 +4588,7 @@
 
 1000075220 = {
 	name="Raishin"
-	dynasty=1000027008
+	dynasty=27008
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="martial_cleric"
@@ -4602,7 +4602,7 @@
 
 1000075221 = {
 	name="Myokai"
-	dynasty=1000027009
+	dynasty=27009
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="scholarly_theologian"
@@ -4618,7 +4618,7 @@
 
 1000075222 = {
 	name="Uona"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -4635,7 +4635,7 @@
 
 1000075223 = {
 	name="Fujinari"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -4651,7 +4651,7 @@
 
 1000075224 = {
 	name="Takatori"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -4668,7 +4668,7 @@
 
 1000075225 = {
 	name="Fujinari"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -4685,7 +4685,7 @@
 
 1000075226 = {
 	name="Toyosawa"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -4701,7 +4701,7 @@
 
 1000075227 = {
 	name="Murao"
-	dynasty=1000027001
+	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -4717,7 +4717,7 @@
 
 1000075228 = {
 	name="Hidesato"
-	dynasty=1000027001
+	dynasty=27001
 	martial=9
 	diplomacy=6
 	intrigue=7

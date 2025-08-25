@@ -11,3 +11,14 @@ culture = ge
 religion = amazonian_pagan
 
 # History
+1612.9.8={
+	culture = frankish
+	religion = reformed
+	b_alcantara1=castle
+	b_alcantara1-ii=city
+	b_alcantara1-iii=temple
+}
+1615.11.3={
+	culture = portuguese
+	religion = catholic
+}

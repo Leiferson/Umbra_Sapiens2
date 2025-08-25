@@ -9,7 +9,13 @@ b_debealuwa = tribal
 #b_noranew = tribal
 #b_gabi_hu = tribal
 # Misc
-culture = nubian
+culture = ethiopian
 religion = miaphysite
 
 # History
+1093.1.1={
+	b_debealuwa = castle
+	b_dsahelia = city
+	b_nocra = temple
+	religion = sunni
+}

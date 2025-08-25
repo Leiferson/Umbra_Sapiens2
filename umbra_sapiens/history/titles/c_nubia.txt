@@ -1,0 +1,110 @@
+766.1.1=
+{
+liege=0
+holder=145960
+}
+866.1.1=
+{
+holder=145716
+}
+936.1.1 = {
+	set_tribute_suzerain = {
+		who = k_egypt
+		type = permanent
+	}
+	holder = 260883
+}
+1065.1.1=
+{
+	clear_tribute_suzerain = k_egypt # relations break down
+	holder=145717
+}
+1088.1.1=
+{
+holder=145718
+}
+1133.1.1=
+{
+holder=145719
+}
+1150.1.1=
+{
+holder=145720
+}
+1192.1.1=
+{
+holder=145721
+}
+1219.1.1=
+{
+holder=145722
+}
+1270.1.1=
+{
+holder=145723
+}
+1310.1.1=
+{
+holder=145724
+}
+1312.6.1=
+{
+liege="d_nobatia"
+}
+1334.1.1=
+{
+holder=145725
+}
+1365.1.1={
+holder=34989
+liege="d_nubia"
+}
+1378.1.1={
+holder=395068
+}
+1412.1.1={
+holder=395069
+}
+1439.1.1={
+holder=395070
+}
+1487.1.1={
+holder=395071
+}
+1487.1.1={
+holder=395072
+}
+1504.1.1={
+	holder=395087
+	liege="k_nubia"
+}
+1534.1.1={
+	holder=395088
+}
+1551.1.1={
+	holder=395089
+}
+1558.1.1={
+	holder=395090
+}
+1568.1.1={
+	holder=395091
+}
+1586.1.1={
+	holder=395092
+}
+1588.1.1={
+	holder=395093
+}
+1591.1.1={
+	holder=395094
+}
+1604.1.1={
+	holder=395095
+}
+1612.1.1={
+	holder=395096
+}
+1617.1.1={
+	holder=395097
+}

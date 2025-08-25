@@ -11,3 +11,10 @@ culture = ge
 religion = amazonian_pagan
 
 # History
+1535.5.23={
+culture=portuguese
+religion=catholic
+b_espirito_santo=castle
+b_espirito_santo-ii=temple
+b_espirito_santo-iii=city
+}

@@ -1,116 +1,173 @@
 766.1.1={
-        liege="k_mali"
 	holder=251147
 }
 
 815.1.1={
-        liege="k_mali"
 	holder=184013
 }
 840.1.1={
-        liege="k_mali"
 	holder=184014
 }
 865.1.1={
-        liege="k_mali"
+	liege=d_ghana
 	holder=251148
 }
 915.1.1={
-        liege="k_mali"
 	holder=251149
 }
 936.1.1={
-        liege="k_mali"
 	holder=251150
 }
 967.1.1={
-        liege="k_mali"
 	holder=251151
 }
 993.1.1={
-        liege="k_mali"
 	holder=251152
 }
 1030.1.1={
-        liege="k_mali"
 	holder=251153
 }
 1053.1.1={
-        liege="k_mali"
 	holder=251141
 }
 1083.1.1={
-        liege="k_mali"
 	holder=251142
 }
 1110.1.1={
-liege="k_mali"
-holder=251143
+	holder=251143
 }
 1140.1.1={
-liege="k_mali"
-holder=251144
+	holder=251144
 }
 1174.1.1={
-liege="k_mali"
-holder=251145
+	holder=251145
 }
 1199.1.1={
-liege="k_mali"
-holder=251146
+	holder=251146
 }
 1234.1.1={
-liege="k_mali"
-holder=161022
+	holder=161022
 }
 1255.1.1=
 {
-liege="k_mali"
 holder=161026
 }
 1270.1.1=
 {
-liege="k_mali"
 holder=161027
 }
 1274.1.1=
 {
-liege="k_mali"
 holder=161028
 }
 1275.1.1=
 {
-liege="k_mali"
 holder=161025
 }
 1285.1.1=
 {
-liege="k_mali"
 holder=161029
 }
 1300.1.1=
 {
-liege="k_mali"
 holder=161031
 }
 1305.1.1=
 {
-liege="k_mali"
 holder=161032
 }
 1310.1.1=
 {
-liege="k_mali"
 holder=161034
 }
 1312.1.1=
 {
-liege="k_mali"
 holder=161035
 }
 1337.1.1=
 {
-liege="k_mali"
 holder=161036
 }
-
+1341.1.1={
+holder=161037	#Souleyman Keita 
+}
+1359.1.1={
+holder=161038	#Qasa Keita
+}
+1360.1.1={
+holder=161039	#Mari Djata Keita II 
+}
+1374.1.1={
+holder=395415	#Musa Keita II
+}
+1387.1.1={
+holder=395416	#Maghan Keita II
+}
+1389.1.1={
+holder=395417	#Sandaki
+}
+1390.1.1={
+holder=395420	#Maghan Keita III
+}
+1400.1.1={
+	holder=395572
+	liege=0
+	name="Massina"
+}
+1404.1.1={
+	holder=395573
+}
+1424.1.1={
+	holder=395574
+}
+1433.1.1={
+	holder=395575
+}
+1466.1.1={
+	holder=395576
+}
+1480.1.1={
+	holder=395577
+}
+1494.1.1={
+	liege="d_songhay"
+}
+1510.1.1={
+	holder=395578
+}
+1539.1.1={
+	holder=395579
+}
+1540.1.1={
+	holder=395580
+}
+1543.1.1={
+	holder=395581
+}
+1544.1.1={
+	holder=395582
+}
+1551.1.1={
+	holder=395583
+}
+1559.1.1={
+	holder=395584
+}
+1583.1.1={
+	holder=395585
+}
+1591.3.13={
+	liege="k_mauretania"
+}
+1603.1.1={
+	holder=395586
+}
+1613.1.1={
+	holder=395587
+}
+1625.1.1={
+	holder=395588
+}
+1627.1.1={
+	holder=395589
+}

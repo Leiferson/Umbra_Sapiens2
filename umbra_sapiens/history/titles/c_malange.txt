@@ -1,8 +1,6 @@
-#Mpfumo Dynasty (Placeholders)
-
 750.1.1={
-              liege=d_lualuba
 	holder=1014000001 #Nyeleti
+	liege="d_lualuba"
 }
 780.1.1={
 	holder=1014000002 #Nyeleti
@@ -63,4 +61,27 @@
 }
 1350.1.1={
 	holder=1014000021 #Rhulani
+}
+1395.1.1={
+	holder=394227
+}
+1450.1.1={
+	holder=394228
+}
+1487.1.1={
+	holder=394229
+}
+1515.1.1={
+	holder=394230
+}
+1550.1.1={
+	holder=394239
+	liege="d_uimala"
+}
+1590.1.1={
+	holder=394240
+}
+1631.1.1={
+	holder=394236
+	liege="d_lualuba"
 }

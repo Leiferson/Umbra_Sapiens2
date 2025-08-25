@@ -11,3 +11,10 @@ culture = lokono
 religion = caribic_pagan
 
 # History
+1555.3.25={
+	b_tacarigua=castle
+	b_tacarigua-ii=temple
+	b_tacarigua-iii=city
+	culture = castillan
+	religion = catholic
+}

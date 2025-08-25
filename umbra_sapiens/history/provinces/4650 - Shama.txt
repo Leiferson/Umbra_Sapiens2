@@ -4,7 +4,7 @@ title = c_shama
 # Settlements
 max_settlements = 7
 b_shama = tribal
-b_tokoradi = temple
+#b_tokoradi = castle
 #b_aboadze = city
 #b_nikwanta = castle
 #b_anto = temple
@@ -15,3 +15,8 @@ culture = ivoir
 religion = west_african_pagan
 
 # History
+1523.1.1={
+	b_tokoradi=tribal
+	capital=b_tokoradi
+	b_shama=castle
+}

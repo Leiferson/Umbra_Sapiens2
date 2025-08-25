@@ -1,5 +1,3 @@
-#Mpfumo Dynasty (Placeholders)
-
 750.1.1={
 	holder=1014000001 #Nyeleti
 }
@@ -17,11 +15,9 @@
 }
 900.1.1={
 	holder=1014000006 #Masana
-              liege=k_namibia
 }
 930.1.1={
 	holder=1014000007 #Masana
-              liege=e_big_african_empire
 }
 960.1.1={
 	holder=1014000008 #Eletsa
@@ -49,11 +45,9 @@
 }
 1200.1.1={
 	holder=1014000016 #Rhulani
-              liege=k_namibia
 }
 1230.1.1={
 	holder=1014000017 #Rhulani
-              liege=0
 }
 1260.1.1={
 	holder=1014000018 #Nyeleti
@@ -66,4 +60,61 @@
 }
 1350.1.1={
 	holder=1014000021 #Rhulani
+}
+1395.1.1={
+	holder=394227
+}
+1450.1.1={
+	holder=394228
+}
+1487.1.1={
+	holder=394229
+}
+1515.1.1={
+	holder=394230
+}
+1556.1.1={
+	holder=394231
+}
+1561.1.1={
+	holder=394232
+}
+1575.1.1={
+	holder=394233
+}
+1576.1.1={
+	set_tribute_suzerain = { 
+		who = e_portugal_9
+		type = permanent 
+	}
+}
+1581.4.16={
+	clear_tribute_suzerain = e_portugal_9
+	set_tribute_suzerain = { 
+		who = e_espana_burgona
+		type = permanent 
+	}
+}
+1592.1.1={
+	holder=394234
+}
+1616.1.1={
+	clear_tribute_suzerain = e_espana_burgona
+	set_tribute_suzerain = { 
+		who = e_portugal_10
+		type = permanent 
+	}
+}
+1617.1.1={
+	holder=394235
+}
+1624.1.1={
+	holder=394236
+}
+1640.12.1={
+	clear_tribute_suzerain = e_portugal_10
+	set_tribute_suzerain = { 
+		who = e_portugal_11
+		type = permanent 
+	}
 }

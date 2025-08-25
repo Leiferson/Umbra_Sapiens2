@@ -6,7 +6,6 @@ max_settlements = 6
 b_guayaquil = city
 b_guayaquil-ii = castle
 b_guayaquil-iii = temple
-b_guayaquil-iv = city
 # Misc
 culture = caran
 religion = caran_pagan
@@ -18,4 +17,8 @@ religion = caran_pagan
 	b_guayaquil = ct_wall_q_1
 	b_guayaquil = ct_barracks_1
 	b_guayaquil = ct_training_grounds_1
+}
+1534.12.6={
+	culture = castillan
+	religion = catholic
 }

@@ -12,3 +12,10 @@ religion = caribic_pagan
 
 # History
 terrain = plains
+1577.6.30={
+	b_barinas=castle
+	b_barinas-ii=temple
+	b_barinas-iii=city
+	culture = castillan
+	religion = catholic
+}

@@ -21,7 +21,7 @@
 	809.12.23={ death=yes }
 }
 1019928705={
-	name=Cápac
+	name=Capac
 	dynasty=1009990255
 	dna="khehghmagde"
 	culture=quechua religion=chavin_pagan
@@ -247,7 +247,7 @@
 	958.6.27={ death=yes }
 }
 1019928726={
-	name=Cápac
+	name=Capac
 	dynasty=1009990255
 	dna="ljehhnapfoh"
 	culture=quechua religion=chavin_pagan
@@ -275,7 +275,7 @@
 	dynasty=1009990255
 	dna="lcdhhneajmh"
 	culture=quechua religion=chavin_pagan
-	father=1019928726	#Cápac
+	father=1019928726	#Capac
 	883.8.25={ birth=yes }
 	967.9.1={ death=yes }
 }
@@ -286,7 +286,7 @@
 	culture=quechua religion=chavin_pagan
 	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=5
 	add_trait=martial_cleric add_trait=duelist add_trait=proud add_trait=cynical 
-	father=1019928726	#Cápac
+	father=1019928726	#Capac
 	888.4.7={ birth=yes }
 	941.1.24={ death=yes }
 }
@@ -297,7 +297,7 @@
 	culture=quechua religion=chavin_pagan
 	martial=4 diplomacy=4 stewardship=8 intrigue=5 learning=4
 	add_trait=misguided_warrior add_trait=patient add_trait=gluttonous 
-	father=1019928726	#Cápac
+	father=1019928726	#Capac
 	892.9.23={ birth=yes }
 	967.3.26={ death=yes }
 }
@@ -309,7 +309,7 @@
 	martial=5 diplomacy=6 stewardship=7 intrigue=5 learning=6
 	add_trait=flamboyant_schemer add_trait=mystic add_trait=craven  add_trait=lustful 
 	add_trait=zealous 
-	father=1019928726	#Cápac
+	father=1019928726	#Capac
 	895.12.17={ birth=yes }
 	964.10.10={ death=yes }
 }
@@ -319,7 +319,7 @@
 	dynasty=1009990255
 	dna="lmehhdagooc"
 	culture=quechua religion=chavin_pagan
-	father=1019928726	#Cápac
+	father=1019928726	#Capac
 	898.10.24={ birth=yes }
 	980.3.4={ death=yes }
 }
@@ -330,7 +330,7 @@
 	culture=quechua religion=chavin_pagan
 	martial=4 diplomacy=5 stewardship=4 intrigue=5 learning=6
 	add_trait=grey_eminence add_trait=honest add_trait=zealous add_trait=just add_trait=possessed 
-	father=1019928726	#Cápac
+	father=1019928726	#Capac
 	904.11.26={ birth=yes }
 	977.9.16={ death=yes }
 }
@@ -342,7 +342,7 @@
 	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=8
 	add_trait=charismatic_negotiator add_trait=deceitful add_trait=envious add_trait=greedy 
 	add_trait=slothful 
-	father=1019928726	#Cápac
+	father=1019928726	#Capac
 	909.2.2={ birth=yes }
 	993.7.24={ death=yes }
 }
@@ -505,7 +505,7 @@
 	1059.7.3={ death=yes }
 }
 1019928750={
-	name=Cápac
+	name=Capac
 	dynasty=1009990255
 	dna="chibnblpkph"
 	culture=quechua religion=chavin_pagan
@@ -555,7 +555,7 @@
 	martial=5 diplomacy=7 stewardship=5 intrigue=6 learning=7
 	add_trait=misguided_warrior add_trait=hedonist add_trait=charitable add_trait=slothful 
 	add_trait=proud 
-	father=1019928750	#Cápac
+	father=1019928750	#Capac
 	1031.7.5={ birth=yes }
 	1095.9.4={ death=yes }
 }
@@ -567,7 +567,7 @@
 	martial=5 diplomacy=8 stewardship=8 intrigue=8 learning=6
 	add_trait=thrifty_clerk add_trait=mystic add_trait=paranoid add_trait=shy add_trait=content 
 	add_trait=charitable add_trait=craven 
-	father=1019928750	#Cápac
+	father=1019928750	#Capac
 	1035.10.18={ birth=yes }
 	1097.8.16={ death=yes }
 }
@@ -577,7 +577,7 @@
 	dynasty=1009990255
 	dna="ihimhempkph"
 	culture=quechua religion=chavin_pagan
-	father=1019928750	#Cápac
+	father=1019928750	#Capac
 	1041.8.5={ birth=yes }
 	1107.7.1={ death=yes }
 }
@@ -588,7 +588,7 @@
 	culture=quechua religion=chavin_pagan
 	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=7
 	add_trait=intricate_webweaver add_trait=chaste add_trait=zealous add_trait=drunkard 
-	father=1019928750	#Cápac
+	father=1019928750	#Capac
 	1045.1.27={ birth=yes }
 	1128.3.16={ death=yes }
 }
@@ -598,7 +598,7 @@
 	dynasty=1009990255
 	dna="gebbnbipkkk"
 	culture=quechua religion=chavin_pagan
-	father=1019928750	#Cápac
+	father=1019928750	#Capac
 	1050.2.5={ birth=yes }
 	1089.3.17={ death=yes }
 }
@@ -608,7 +608,7 @@
 	dynasty=1009990255
 	dna="mjiknbdlipl"
 	culture=quechua religion=chavin_pagan
-	father=1019928750	#Cápac
+	father=1019928750	#Capac
 	1052.12.7={ birth=yes }
 	1132.6.5={ death=yes }
 }
@@ -620,7 +620,7 @@
 	martial=6 diplomacy=7 stewardship=4 intrigue=8 learning=6
 	add_trait=mastermind_theologian  add_trait=ambitious add_trait=craven add_trait=humble 
 	add_trait=lustful 
-	father=1019928750	#Cápac
+	father=1019928750	#Capac
 	1058.11.19={ birth=yes }
 	1120.11.8={ death=yes }
 }
@@ -944,7 +944,7 @@
 	1316.5.5={ death=yes }
 }
 1019928791={
-	name=Huáscar
+	name=Huascar
 	dynasty=1009990255
 	dna="emefklaoplg"
 	culture=quechua religion=chavin_pagan
@@ -1061,7 +1061,7 @@
 	1384.7.21={ death=yes }
 }
 1019928802={
-	name=Huáscar
+	name=Huascar
 	dynasty=1009990255
 	dna="amopbpnokgh"
 	culture=quechua religion=chavin_pagan
@@ -1118,7 +1118,7 @@
 	dynasty=1009990255
 	dna="amopapnoheh"
 	culture=quechua religion=chavin_pagan
-	father=1019928802	#Huáscar
+	father=1019928802	#Huascar
 	1386.7.3={ birth=yes }
 	1466.10.25={ death=yes }
 }
@@ -1129,7 +1129,7 @@
 	culture=quechua religion=chavin_pagan
 	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=6
 	add_trait=martial_cleric add_trait=greedy add_trait=trusting 
-	father=1019928802	#Huáscar
+	father=1019928802	#Huascar
 	1390.9.10={ birth=yes }
 	1442.10.31={ death=yes }
 }
@@ -1140,7 +1140,7 @@
 	culture=quechua religion=chavin_pagan
 	martial=7 diplomacy=8 stewardship=6 intrigue=4 learning=5
 	add_trait=midas_touched add_trait=craven add_trait=humble add_trait=deceitful add_trait=patient 
-	father=1019928802	#Huáscar
+	father=1019928802	#Huascar
 	1396.10.17={ birth=yes }
 	1442.9.11={ death=yes }
 }
@@ -2791,7 +2791,7 @@
 	1098.10.20={ death=yes }
 }
 1019928962={
-	name=Huáscar
+	name=Huascar
 	dynasty=1009990257
 	dna="iamkaifhjce"
 	culture=quechua religion=chavin_pagan
@@ -2829,7 +2829,7 @@
 	martial=5 diplomacy=7 stewardship=5 intrigue=5 learning=8
 	add_trait=mastermind_theologian add_trait=gluttonous add_trait=arbitrary add_trait=paranoid add_trait=humble 
 	add_trait=wroth add_trait=strong 
-	father=1019928962	#Huáscar
+	father=1019928962	#Huascar
 	1050.3.15={ birth=yes }
 	1136.11.28={ death=yes }
 }
@@ -2840,7 +2840,7 @@
 	culture=quechua religion=chavin_pagan
 	martial=4 diplomacy=7 stewardship=8 intrigue=6 learning=7
 	add_trait=scholarly_theologian add_trait=celibate add_trait=diligent add_trait=zealous 
-	father=1019928962	#Huáscar
+	father=1019928962	#Huascar
 	1054.7.7={ birth=yes }
 	1150.1.3={ death=yes }
 }
@@ -2850,7 +2850,7 @@
 	dynasty=1009990257
 	dna="jcmeajohjge"
 	culture=quechua religion=chavin_pagan
-	father=1019928962	#Huáscar
+	father=1019928962	#Huascar
 	1062.8.9={ birth=yes }
 	1132.3.30={ death=yes }
 }
@@ -3641,7 +3641,7 @@
 	995.9.24={ death=yes }
 }
 1019929041={
-	name=Cápac
+	name=Capac
 	dynasty=1009990258
 	dna="hhikddlidnj"
 	culture=quechua religion=chavin_pagan
@@ -3719,7 +3719,7 @@
 	993.4.6={ death=yes }
 }
 1019929048={
-	name=Cápac
+	name=Capac
 	dynasty=1009990258
 	dna="nlobfpccmpj"
 	culture=quechua religion=chavin_pagan
@@ -3731,7 +3731,7 @@
 	1010.9.17={ death=yes }
 }
 1019929049={
-	name=Cápac
+	name=Capac
 	dynasty=1009990258
 	dna="bgmkdpkjnaj"
 	culture=quechua religion=chavin_pagan
@@ -3750,7 +3750,7 @@
 	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=6
 	add_trait=thrifty_clerk add_trait=impaler add_trait=wroth add_trait=arbitrary add_trait=chaste 
 	add_trait=slothful add_trait=humble 
-	father=1019929048	#Cápac
+	father=1019929048	#Capac
 	974.3.11={ birth=yes }
 	1068.9.11={ death=yes }
 }
@@ -3762,7 +3762,7 @@
 	martial=6 diplomacy=7 stewardship=7 intrigue=8 learning=7
 	add_trait=intricate_webweaver add_trait=arbitrary add_trait=paranoid add_trait=brave add_trait=gregarious 
 	add_trait=patient add_trait=depressed 
-	father=1019929048	#Cápac
+	father=1019929048	#Capac
 	979.8.4={ birth=yes }
 	1065.6.8={ death=yes }
 }
@@ -3772,7 +3772,7 @@
 	dynasty=1009990258
 	dna="npbbfpfciij"
 	culture=quechua religion=chavin_pagan
-	father=1019929048	#Cápac
+	father=1019929048	#Capac
 	982.11.25={ birth=yes }
 	1043.9.3={ death=yes }
 }
@@ -3782,7 +3782,7 @@
 	dynasty=1009990258
 	dna="nlcickicmpj"
 	culture=quechua religion=chavin_pagan
-	father=1019929048	#Cápac
+	father=1019929048	#Capac
 	985.5.25={ birth=yes }
 	1049.3.2={ death=yes }
 }
@@ -4223,7 +4223,7 @@
 	1302.5.6={ death=yes }
 }
 1019929095={
-	name=Cápac
+	name=Capac
 	dynasty=1009990258
 	dna="foioimefknb"
 	culture=quechua religion=chavin_pagan
@@ -4273,7 +4273,7 @@
 	dynasty=1009990258
 	dna="boioiheaanb"
 	culture=quechua religion=chavin_pagan
-	father=1019929095	#Cápac
+	father=1019929095	#Capac
 	1261.8.14={ birth=yes }
 	1322.6.19={ death=yes }
 }
@@ -4285,7 +4285,7 @@
 	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=4
 	add_trait=detached_priest add_trait=celibate add_trait=brave add_trait=honest add_trait=zealous 
 	add_trait=diligent add_trait=ill 
-	father=1019929095	#Cápac
+	father=1019929095	#Capac
 	1267.7.4={ birth=yes }
 	1321.10.24={ death=yes }
 }
@@ -4295,7 +4295,7 @@
 	dynasty=1009990258
 	dna="jolclikfkfl"
 	culture=quechua religion=chavin_pagan
-	father=1019929095	#Cápac
+	father=1019929095	#Capac
 	1269.6.26={ birth=yes }
 	1322.8.22={ death=yes }
 }
@@ -4305,7 +4305,7 @@
 	dynasty=1009990258
 	dna="poiojlnjbeb"
 	culture=quechua religion=chavin_pagan
-	father=1019929095	#Cápac
+	father=1019929095	#Capac
 	1273.2.23={ birth=yes }
 	1351.3.27={ death=yes }
 }
@@ -4317,7 +4317,7 @@
 	martial=5 diplomacy=7 stewardship=7 intrigue=4 learning=6
 	add_trait=charismatic_negotiator add_trait=ambitious add_trait=trusting add_trait=patient add_trait=gregarious 
 	add_trait=drunkard add_trait=lunatic 
-	father=1019929095	#Cápac
+	father=1019929095	#Capac
 	1277.11.10={ birth=yes }
 	1379.9.8={ death=yes }
 }
@@ -4327,7 +4327,7 @@
 	dynasty=1009990258
 	dna="glioipnfdeo"
 	culture=quechua religion=chavin_pagan
-	father=1019929095	#Cápac
+	father=1019929095	#Capac
 	1282.2.22={ birth=yes }
 	1383.5.4={ death=yes }
 }
@@ -4337,7 +4337,7 @@
 	dynasty=1009990258
 	dna="boioieefipc"
 	culture=quechua religion=chavin_pagan
-	father=1019929095	#Cápac
+	father=1019929095	#Capac
 	1289.10.15={ birth=yes }
 	1342.12.21={ death=yes }
 }
@@ -4743,7 +4743,7 @@
 	957.12.3={ death=yes }
 }
 1019929143={
-	name=Cápac
+	name=Capac
 	dynasty=1009990259
 	dna="mpjkkknkgbg"
 	culture=quechua religion=chavin_pagan
@@ -5579,7 +5579,7 @@
 	774.8.22={ death=yes }
 }
 1019929220={
-	name=Cápac
+	name=Capac
 	dynasty=1009990260
 	dna="djhphnkfklp"
 	culture=quechua religion=chavin_pagan
@@ -5618,7 +5618,7 @@
 	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=8
 	add_trait=detached_priest add_trait=hedonist add_trait=zealous add_trait=proud add_trait=wroth 
 	add_trait=chaste add_trait=drunkard 
-	father=1019929220	#Cápac
+	father=1019929220	#Capac
 	777.6.21={ birth=yes }
 	846.12.20={ death=yes }
 }
@@ -5630,7 +5630,7 @@
 	martial=8 diplomacy=5 stewardship=6 intrigue=8 learning=7
 	add_trait=misguided_warrior add_trait=mystic add_trait=arbitrary  add_trait=gluttonous 
 	add_trait=ambitious add_trait=patient 
-	father=1019929220	#Cápac
+	father=1019929220	#Capac
 	781.10.16={ birth=yes }
 	838.10.17={ death=yes }
 }
@@ -6410,7 +6410,7 @@
 	1283.12.26={ death=yes }
 }
 1019929297={
-	name=Cápac
+	name=Capac
 	dynasty=1009990260
 	dna="dmffnkggddc"
 	culture=quechua religion=chavin_pagan
@@ -6436,7 +6436,7 @@
 	dynasty=1009990260
 	dna="dfffliggddi"
 	culture=quechua religion=chavin_pagan
-	father=1019929297	#Cápac
+	father=1019929297	#Capac
 	1266.3.9={ birth=yes }
 	1362.1.18={ death=yes }
 }
@@ -6448,7 +6448,7 @@
 	martial=7 diplomacy=8 stewardship=8 intrigue=7 learning=6
 	add_trait=charismatic_negotiator add_trait=proud add_trait=shy add_trait=brave add_trait=charitable 
 	add_trait=zealous 
-	father=1019929297	#Cápac
+	father=1019929297	#Capac
 	1271.4.25={ birth=yes }
 	1347.5.18={ death=yes }
 }
@@ -6592,7 +6592,7 @@
 	1410.9.12={ death=yes }
 }
 1019929314={
-	name=Cápac
+	name=Capac
 	dynasty=1009990260
 	dna="epifciabaje"
 	culture=quechua religion=chavin_pagan

@@ -16,9 +16,61 @@
 1189.1.1 = {
 	holder = 360085
 }
-1231.1.1 = {
-	holder = 360086
+1200.1.1={
+	holder=396016	#Eweka
 }
-1300.1.1 = {
-	holder = 360087
+1235.1.1={
+	holder=396017	#Uwakhuahen 
+}
+1243.1.1={
+	holder=396018	#Ehenmihen 
+}
+1255.1.1={
+	holder=396022	#Ewedo 
+}
+1280.1.1={
+	holder=396023	#Oguola
+}
+1295.1.1={
+	holder=396026	#Edoni
+}
+1325.1.1={
+	holder=396025	#Udagbedo
+}
+1334.1.1={
+	holder=396027	#Ohen
+}
+1370.1.1={
+	holder=396028	#Egbeka
+}
+1400.1.1={
+	holder=396029	#Orobiru
+}
+1430.1.1={
+	holder=396030	#Uwaifiokun
+}
+1440.1.1={
+	holder=396035	#Ewuare
+	liege="d_warri"
+}
+1473.1.1={
+	holder=396037	#Ezoti
+}
+1473.1.14={
+	holder=396039	#Olua
+}
+1480.1.1={
+	holder=396040	#Ozolua
+}
+1504.1.1={
+	holder=396052	#Esigie
+}
+1550.1.1={
+	holder=396053	#Orhogbua
+}
+1578.1.1={
+	holder=396054	#Ehengbuda
+}
+1606.1.1={
+	holder=396057	#Ohuan
 }

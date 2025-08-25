@@ -66,3 +66,32 @@
 1350.1.1={
 	holder=1000076927 #Kuende
 }
+1388.1.1={
+	holder=394793
+}
+1446.1.1={
+	holder=394794
+}
+1479.1.1={
+	holder=394795
+}
+1502.1.1={
+	liege=0
+	set_tribute_suzerain = { 
+		who = e_portugal_7
+		type = permanent 
+	}
+}
+1513.1.1={
+	liege="k_mozambique"
+	clear_tribute_suzerain = e_portugal_10
+}
+1515.1.1={
+	holder=394796
+}
+1558.1.1={
+	holder=394797
+}
+1609.1.1={
+	holder=394798
+}

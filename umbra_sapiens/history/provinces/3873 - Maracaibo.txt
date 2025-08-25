@@ -11,3 +11,10 @@ culture = lokono
 religion = caribic_pagan
 
 # History
+1529.2.24={
+	b_maracaibo=castle
+	b_maracaibo-ii=temple
+	b_maracaibo-iii=city
+	culture = castillan
+	religion = catholic
+}

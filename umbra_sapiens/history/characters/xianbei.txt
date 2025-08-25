@@ -57,7 +57,7 @@
 }
 
 1000077288 = {
-	name="Tûyán"
+	name="Tûyan"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
 	culture="khitan"
@@ -71,7 +71,7 @@
 }
 
 1000077289 = {
-	name="Yèyán"
+	name="Yèyan"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
 	culture="khitan"
@@ -99,7 +99,7 @@
 }
 
 1000077291 = {
-	name="Shìlián"
+	name="Shìlian"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
 	culture="khitan"
@@ -113,7 +113,7 @@
 }
 
 1000077292 = {
-	name="Shìpí"
+	name="Shìpi"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
 	culture="khitan"
@@ -127,7 +127,7 @@
 }
 
 1000077293 = {
-	name="Wütëgtí"
+	name="Wütëgti"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
 	culture="khitan"
@@ -155,7 +155,7 @@
 }
 
 1000077295 = {
-	name="Ächái"
+	name="Ächai"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
 	culture="khitan"
@@ -183,7 +183,7 @@
 }
 
 1000077297 = {
-	name="Mùlìyán"
+	name="Mùlìyan"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
 	culture="khitan"
@@ -197,7 +197,7 @@
 }
 
 1000077298 = {
-	name="Shíyín"
+	name="Shiyin"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
 	culture="khitan"
@@ -225,7 +225,7 @@
 }
 
 1000077300 = {
-	name="Fúliánchóu"
+	name="Fúlianchóu"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
 	culture="khitan"
@@ -321,7 +321,7 @@
 1000077306 = {
 	name="Guanghua"
 	female=yes
-	dynasty=1000027376 #Yáng
+	dynasty=1000027376 #Yang
 	religion="buddhist"
 	culture="han"
 	add_trait=fair
@@ -439,9 +439,7 @@
 	religion="bon"
 	culture="khitan"
 #	father=1000077305
-#	father=0
 #	mother=1000077307
-#	mother=0
 	606.1.1={
 		birth="606.1.1"
 	}

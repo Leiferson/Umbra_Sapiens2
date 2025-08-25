@@ -11,3 +11,10 @@ culture = carib
 religion = caribic_pagan
 
 # History
+1529.2.24={
+	b_altagracia=castle
+	b_altagracia-ii=temple
+	b_altagracia-iii=city
+	culture = castillan
+	religion = catholic
+}

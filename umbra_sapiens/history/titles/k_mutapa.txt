@@ -1,0 +1,47 @@
+1430.1.1={
+	holder=394421
+}
+1456.1.1={
+	holder=394422
+}
+1480.1.1={
+	holder=394423
+}
+1480.6.1={
+	holder=394424
+}
+1490.1.1={
+	holder=394425
+}
+1494.1.1={
+	holder=394436
+}
+1530.1.1={
+	holder=394437
+}
+1550.1.1={
+	holder=394438
+}
+1560.1.1={
+	holder=394439
+}
+1589.1.1={
+	holder=394440
+}
+1623.1.1={
+	holder=394441
+}
+1629.1.1={
+	holder=394442
+	set_tribute_suzerain = { 
+		who = e_portugal_10
+		type = permanent 
+	}
+}
+1640.12.1={
+	clear_tribute_suzerain = e_portugal_10
+	set_tribute_suzerain = { 
+		who = e_portugal_11
+		type = permanent 
+	}
+}

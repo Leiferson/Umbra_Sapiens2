@@ -11,3 +11,10 @@ culture = muisca
 religion = muisca_pagan
 
 # History
+1541.12.4={
+	b_antioquia=castle
+	b_antioquia-ii=temple
+	b_antioquia-iii=city
+	culture = castillan
+	religion = catholic
+}

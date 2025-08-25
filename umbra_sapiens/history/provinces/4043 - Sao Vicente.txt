@@ -11,3 +11,10 @@ culture = tupinamba
 religion = amazonian_pagan
 
 # History
+1532.1.1={
+	culture=portuguese
+	religion=catholic
+	b_sao_vicente=castle
+	b_sao_vicente-ii=temple
+	b_sao_vicente-iii=city
+}

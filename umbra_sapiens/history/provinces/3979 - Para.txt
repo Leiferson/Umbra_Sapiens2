@@ -11,3 +11,10 @@ culture = tupinamba
 religion = amazonian_pagan
 
 # History
+1616.1.12={
+	culture = portuguese
+	religion = catholic
+	b_para=castle
+	b_para-ii=temple
+	b_para-iii=city
+}

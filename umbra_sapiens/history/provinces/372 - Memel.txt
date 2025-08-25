@@ -23,6 +23,7 @@ religion = baltic_pagan
 1262.1.1= { trade_post = b_pat_luneburg }
 1290.1.1 = {
 	religion = catholic
+	culture = german
 	b_gargzdai = castle
 	b_memel = city
 	b_kretingale = temple
@@ -33,3 +34,4 @@ religion = baltic_pagan
 	b_memel = ct_barracks_1
 	b_kretingale = tp_barracks_1
 }
+1525.4.10 = { religion = lutheran }

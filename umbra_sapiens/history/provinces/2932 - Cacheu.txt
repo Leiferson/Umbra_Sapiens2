@@ -14,3 +14,14 @@ culture = balanta
 religion = west_african_pagan
 
 # History
+1511.1.1={
+	b_cacheu-ii = tribal
+	capital=b_cacheu-ii
+	b_cacheu=castle
+}
+1588.1.1={
+	capital=b_cacheu
+	b_cacheu-ii=temple
+	b_cacheu-iii=city
+	religion="catholic"
+}

@@ -131,7 +131,7 @@ TRIBAL_RET_3 = {
 	second_amount = 50
 	
 	potential = {
-	capital_scope = { NOT = { region = world_nohorses } }
+	has_no_horses = no
 		is_tribal = yes
 	}
 	

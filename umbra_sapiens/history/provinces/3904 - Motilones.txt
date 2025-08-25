@@ -11,3 +11,10 @@ culture = lokono
 religion = caribic_pagan
 
 # History
+1549.11.1={
+	b_motilones=castle
+	b_motilones-ii=temple
+	b_motilones-iii=city
+	culture = castillan
+	religion = catholic
+}

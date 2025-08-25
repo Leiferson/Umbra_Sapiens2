@@ -11,3 +11,10 @@ culture = lokono
 religion = caribic_pagan
 
 # History
+1545.12.7={
+	b_variquicimento=castle
+	b_variquicimento-ii=temple
+	b_variquicimento-iii=city
+	culture = castillan
+	religion = catholic
+}

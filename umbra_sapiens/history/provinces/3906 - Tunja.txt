@@ -11,3 +11,10 @@ culture = muisca
 religion = muisca_pagan
 
 # History
+1539.8.6={
+	b_tunja=castle
+	b_tunja-ii=temple
+	b_tunja-iii=city
+	culture = castillan
+	religion = catholic
+}

@@ -2,8 +2,9 @@
 title = c_pintupi
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 b_pintupi-i = tribal
+b_pintupi-ii = temple
 
 # Misc
 culture = australian

@@ -18,3 +18,9 @@ terrain = hills
 }
 
 1147.1.1 = { trade_post = b_spinola }
+1500.1.1={
+	b_braga-iii = city
+}
+1600.1.1={
+	b_braga-iv = castle
+}

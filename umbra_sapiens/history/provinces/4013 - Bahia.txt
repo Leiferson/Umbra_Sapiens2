@@ -14,3 +14,19 @@ culture = tupinamba
 religion = amazonian_pagan
 
 # History
+1536.1.1={
+	culture = portuguese
+	religion = catholic
+	b_bahia=castle
+	b_bahia-ii=temple
+	b_bahia-iii=city
+}
+1550.1.1={
+	b_bahia-iv=castle
+}
+1575.1.1={
+	b_bahia-v=city
+}
+1600.1.1={
+	b_bahia-vi=temple
+}

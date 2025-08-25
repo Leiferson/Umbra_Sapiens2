@@ -66,3 +66,32 @@
 1350.1.1={
 	holder=1000083178 #Tian
 }
+1388.1.1={
+	holder=394787
+}
+1446.1.1={
+	holder=394788
+}
+1479.1.1={
+	holder=394789
+}
+1502.1.1={
+	liege=0
+	set_tribute_suzerain = { 
+		who = e_portugal_7
+		type = permanent 
+	}
+}
+1513.1.1={
+	liege="k_mozambique"
+	clear_tribute_suzerain = e_portugal_10
+}
+1515.1.1={
+	holder=394790
+}
+1558.1.1={
+	holder=394791
+}
+1609.1.1={
+	holder=394792
+}

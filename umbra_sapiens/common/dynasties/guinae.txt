@@ -19,7 +19,7 @@
 	culture = ivoir
 }
 1069098= {
-	name="Sefwi Wiawso"
+	name="Kumasi"
 	culture = ivoir
 }
 1069099= {
@@ -35,19 +35,19 @@
 	culture = ivoir
 }
 1069102= {
-	name="Oyo"
-	culture = ivoir
+	name="Gwari"
+	culture = gbari
 }
 1069103= {
-	name="Warri"
-	culture = ivoir
+	name="Ijaw"
+	culture = ijaw
 }
 1069104= {
-	name="Akwa-Ibom"
-	culture = ivoir
+	name="Calabar"
+	culture = tiv
 }
 1069105= {
-	name="Enugu"
+	name="Junkun"
 	culture = ivoir
 }
 1069106= {
@@ -5470,7 +5470,7 @@
 	culture = tswana
 } 
 1070473= {
-	name="BaNgwaketse"
+	name="Bangwaketse"
 	culture = tswana
 } 
 1070474= {
@@ -12764,4 +12764,219 @@
 1072301= {
 	name="Orerokpe"
 	culture = itsekiri
+}
+1072302= {
+	name="Lukeni"
+	culture = gabonese
+}
+1072303= {
+	name="Loango"
+	culture = gabonese
+}
+1072304= {
+	name="Ndongo"
+	culture = gabonese
+}
+1072305= {
+	name="Matamba"
+	culture = gabonese
+}
+1072306= {
+	name="Marawi"
+	culture = venda_bonga
+}
+1072307= {
+	name="Suleiman"
+	culture = swahili
+	religion = sunni
+}
+1072308= {
+	name="Suleiman"
+	culture = swahili
+	religion = sunni
+}
+1072309= {
+	name="Kiwabi"
+	culture = swahili
+	religion = sunni
+}
+1072310= {
+	name="Mir Habraemo"
+	culture = swahili
+	religion = sunni
+}
+1072311= {
+	name="Hawwara"
+	culture = maghreb_arabic
+	religion = sunni
+}
+1072312= {
+	name="Abdallabi"
+	culture = nubian
+	religion = sunni
+}
+1072313= {
+	name="Funj"
+	culture = nubian
+	religion = sunni
+}
+1072314= {
+	name="del Wambara"
+	culture = somali
+	religion = sunni
+}
+1072315= {
+	name="Gurey"
+	culture = somali
+	religion = sunni
+}
+1072316= {
+	name="Adashe"
+	culture = somali
+	religion = sunni
+}
+1072317= {
+	name="Dhuhi Suha"
+	culture = somali
+	religion = sunni
+}
+1072318= {
+	name="Habshi"
+	culture = ethiopian
+	religion = sunni
+}
+1072319= {
+	name="Aussa"
+	culture = somali
+	religion = sunni
+}
+1072320= {
+	name="Dahlak"
+	culture = ethiopian
+	religion = sunni
+}
+1072321= {
+	name="Bahr Negus"
+	culture = ethiopian
+	religion = miaphysite
+}
+1072322= {
+	name="Awlad"
+	culture = maghreb_arabic
+	religion = sunni
+}
+1072323= {
+	name="Sandaki"
+	culture = manden
+	religion = sunni
+}
+1072324= {
+	name="Manna"
+	culture = serer
+	religion = west_african_pagan
+}
+1072325= {
+	name="Ndiaye"
+	culture = wolof
+	religion = west_african_pagan
+}
+1072326= {
+	name="Tenguella"
+	culture = fula
+	religion = west_african_pagan
+}
+1072327= {
+	name="Fall"
+	culture = wolof
+	religion = west_african_pagan
+}
+1072328= {
+	name="Waalo"
+	culture = wolof
+	religion = west_african_pagan
+}
+1072329= {
+	name="Baol"
+	culture = serer
+	religion = west_african_pagan
+}
+1072330= {
+	name="Saloum"
+	culture = serer
+	religion = west_african_pagan
+}
+1072331= {
+	name="Sine"
+	culture = serer
+	religion = west_african_pagan
+}
+1072332= {
+	name="Zenaga"
+	culture = maghreb_arabic
+	religion = sunni
+}
+1072333= {
+	name="Kaabu"
+	culture = manden
+	religion = west_african_pagan
+}
+1072334= {
+	name="Diallo"
+	culture = fula
+	religion = sunni
+}
+1072335= {
+	name="Askia"
+	culture = fula
+	religion = sunni
+}
+1072336= {
+	name="Owo"
+	culture = yoruba
+	religion = west_african_pagan
+}
+1072337= {
+	name="Gbelegbuwa"
+	culture = yoruba
+	religion = west_african_pagan
+}
+1072338= {
+	name="Oduduwa"
+	culture = yoruba
+	religion = west_african_pagan
+}
+1072339= {
+	name="Ijesa"
+	culture = yoruba
+	religion = west_african_pagan
+}
+1072340= {
+	name="Idah"
+	culture = nupe
+	religion = sunni
+}
+1072341= {
+	name="Eweka"
+	culture = edo
+	religion = west_african_pagan
+}
+1072342= {
+	name="Ginuwa"
+	culture = itsekiri
+	religion = west_african_pagan
+}
+1072343= {
+	name="Ata"
+	culture = igala
+	religion = west_african_pagan
+}
+1072344= {
+	name="Nri"
+	culture = igbo
+	religion = west_african_pagan
+}
+1072345= {
+	name="Aladaxonou"
+	culture = igbo
+	religion = west_african_pagan
 }

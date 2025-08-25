@@ -11,3 +11,10 @@ culture = tupinamba
 religion = amazonian_pagan
 
 # History
+1534.1.1={
+	culture = portuguese
+	religion = catholic
+	b_paraiba=castle
+	b_paraiba-ii=temple
+	b_paraiba-iii=city
+}

@@ -1,0 +1,26 @@
+# 1260 - Nasikya
+
+# County Title
+title = c_nasikya
+
+# Settlements
+max_settlements = 5
+b_seunapura = castle
+b_nasikya = temple
+b_patta = castle
+#b_saptashrungi = temple
+#b_ratangad = castle
+#b_igatpuri = castle
+#b_tryambaka = temple
+
+# Misc
+culture = marathi
+religion = jain
+
+# History
+1300.1.1={
+	religion = hindu
+}
+1350.1.1={
+	religion = shiite
+}
