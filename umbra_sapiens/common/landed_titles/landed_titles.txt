@@ -27242,7 +27242,6 @@ e_persia = {
 		greek = Albania
 		italian = Albania
 		armenian = Aluank
-		greek = Albania
 		bedouin_arabic = Al-Ran
 		levantine_arabic = Al-Ran
 		georgian = Rani
@@ -28226,7 +28225,6 @@ e_persia = {
 			alan = "Asoristan"
 			georgian = "Asoristan"
 			assyrian = "Asoristan"
-			assyrian = "Asoristan"
 			
 			c_karbala = {
 				color={ 16 110 12 }
@@ -28691,8 +28689,6 @@ e_persia = {
 			capital = 670 # Azerbaijan
 			
 			culture = persian
-			
-
 			
 			c_tabriz = {
 				color={ 106 115 180 }
@@ -29558,7 +29554,6 @@ e_carpathia = {
 				bosnian = "Pecuh"
 				german = Fünfkirchen
 				bohemian=Balaton
-				carantanian=Balaton
 				carantanian=Balaton
 				
 				b_pecs = {
@@ -44168,14 +44163,6 @@ e_mali = {
 			}
 			}
 			
-	}
-	k_cotedivoire = {
-
-		color = { 175 85 52 }
-		color2 = { 250 250 250 }
-
-		capital = 3932
-		muslim = 80
 	}
 	k_cotedivoire = {
 

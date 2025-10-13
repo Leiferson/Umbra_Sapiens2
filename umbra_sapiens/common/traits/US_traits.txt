@@ -323,17 +323,6 @@ rude = {
 	
 	ai_honor = -10
 }
-stubborn = {				
-	personality = yes
-	
-	intrigue = -1
-	learning = -1
-	
-	same_opinion = -5
-	
-	ai_honor = -10
-	ai_zeal = 20
-}
 honorable = {
 	personality = yes
 	
