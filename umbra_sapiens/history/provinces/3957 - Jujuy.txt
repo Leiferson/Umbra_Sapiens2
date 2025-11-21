@@ -11,3 +11,10 @@ culture = diaguita
 religion = mapuche_pagan
 
 # History
+1506.1.1={
+	religion="inti"
+}
+1534.8.15={
+	b_jujuy=castle
+	religion = catholic
+}

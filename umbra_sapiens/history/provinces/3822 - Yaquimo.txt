@@ -4,10 +4,16 @@ title = c_yaquimo
 # Settlements
 max_settlements = 4
 b_yaquimo = tribal
-b_yaquimo-ii = tribal
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1503.1.1={
+	b_yaquimo = castle
+	b_yaquimo-ii = temple
+	b_yaquimo-iii = city
+	culture = castillan
+	religion = catholic
+}

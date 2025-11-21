@@ -4,10 +4,16 @@ title = c_guadeloupe
 # Settlements
 max_settlements = 3
 b_guadeloupe = tribal
-b_guadeloupe-ii = tribal
 
 # Misc
 culture = carib
 religion = caribic_pagan
 
 # History
+1635.1.1={
+	b_guadeloupe = castle
+	b_guadeloupe-ii = temple
+	b_guadeloupe-iii = city
+	culture = frankish
+	religion = catholic
+}

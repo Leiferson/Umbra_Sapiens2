@@ -11,3 +11,9 @@ culture = mapuche
 religion = mapuche_pagan
 
 # History
+1550.10.5={
+	b_picunche = castle
+	b_picunche-ii = temple
+	b_picunche-iii = city
+	religion = catholic
+}

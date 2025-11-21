@@ -217,35 +217,6 @@
 1498.4.7={
 	holder=371092 #Louis XII
 }
-1515.1.1={
-	holder=370977 #Francis I
-}
-1547.3.31={
-	holder=371100 #Henry II
-}
-1559.7.10={
-	holder=375095 #Francis II
-}
-1560.12.5={
-	holder=371693 #Charles IX
-}
-1574.5.30={
-	holder=371694 #Henry III
-}
-1589.8.2={
-	holder=371464 #Henry IV the Great
-}
-1610.5.14={
-	holder=371859 #Louis XIII the Just
-}
-1624.1.1={
-	law = crown_authority_1
-	law = investiture_law_1
-	law = banish_voting_power_0
-	law = imprison_voting_power_0
-	law = execution_voting_power_0
-	law = war_voting_power_0
-	law = grant_title_voting_power_0
-	law = revoke_title_voting_power_0
-	law = ze_administration_laws_2
+1501.8.2={
+	holder=0
 }

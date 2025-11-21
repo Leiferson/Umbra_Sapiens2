@@ -2,7 +2,7 @@
 title = c_carhue
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 b_carhue = tribal
 b_carhue-ii = temple
 
@@ -11,3 +11,11 @@ culture = charruan
 religion = pampas_pagan
 
 # History
+1573.11.15={
+	b_carhue = castle
+	b_carhue-iii = city
+	b_carhue-iv = castle
+	b_carhue-v = temple
+	culture = castillan
+	religion = catholic
+}

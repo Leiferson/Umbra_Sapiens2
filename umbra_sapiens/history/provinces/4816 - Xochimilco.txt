@@ -14,3 +14,14 @@ culture = nonohualcan
 religion = nonohualcan_pagan
 
 # History
+919.1.1={
+	culture=xochimilca
+	religion=aztec
+	b_xomchimilco-iii = city
+}
+1100.1.1={
+	b_xomchimilco-iv = temple
+}
+1200.1.1={
+	b_xomchimilco-v = castle
+}

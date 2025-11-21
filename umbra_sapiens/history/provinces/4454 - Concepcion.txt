@@ -2,7 +2,7 @@
 title = c_concepcion
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 b_concepcion = tribal
 
 # Misc
@@ -10,3 +10,15 @@ culture = huarpean
 religion = mapuche_pagan
 
 # History
+1525.1.1={
+	religion="inti"
+}
+1541.6.11={
+	b_concepcion=castle
+	b_concepcion-ii=temple
+	b_concepcion-iii=city
+	b_concepcion-iv=castle
+	b_concepcion-v=temple
+	culture="castillan"
+	religion="catholic"
+}

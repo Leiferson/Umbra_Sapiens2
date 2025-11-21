@@ -11,3 +11,9 @@ culture = quechua
 religion = chavin_pagan
 
 # History
+1465.1.1={
+	religion="inti"
+}
+1532.11.16={
+	religion = catholic
+}

@@ -11,3 +11,11 @@ culture = diaguita
 religion = mapuche_pagan
 
 # History
+1508.1.1={
+	religion="inti"
+}
+1534.8.15={
+	b_salta=castle
+	b_salta-ii=temple
+	religion = catholic
+}

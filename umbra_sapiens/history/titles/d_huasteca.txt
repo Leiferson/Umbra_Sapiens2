@@ -23,3 +23,13 @@
 1361.01.17={holder=1019921918} #Cotuja[1009990186]
 1391.10.10={holder=1019921921} #Pacal[1009990186]
 1426.05.04={holder=1019921922} #Nohochacyum[1009990186]
+1450.1.1={
+	liege="k_aztec"
+}
+1482.10.25={ 
+	holder=399200 
+}
+1530.1.1={ 
+	holder=0 
+	de_jure_liege="k_new_spain"
+}

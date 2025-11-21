@@ -37,7 +37,7 @@ religion = mayan
 	remove_settlement = b_xochicalco-v
 	remove_settlement = b_xochicalco-vi
 }
-1200.1.1 = {
-	culture = xochimilca
-	religion = aztec
+1170.1.1 = { 
+	culture=tlahuica 
+	religion=aztec
 }

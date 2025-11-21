@@ -11,3 +11,9 @@ culture = miskito
 religion = miskito_pagan
 
 # History
+1539.1.1={
+	b_talamanca = castle
+	b_talamanca-ii = city
+	b_talamanca-iii = temple
+	religion=catholic
+}

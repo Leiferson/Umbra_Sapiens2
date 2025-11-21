@@ -11,3 +11,8 @@ culture = lencan
 religion = miskito_pagan
 
 # History
+1535.1.1={
+	b_lenca = castle
+	b_lenca-iii = city
+	religion=catholic
+}

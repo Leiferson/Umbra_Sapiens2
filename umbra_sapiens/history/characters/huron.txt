@@ -3384,18 +3384,6 @@
 	1383.12.15={ birth=yes }
 	1458.11.8={ death=yes }
 }
-1019916589={
-	name=Tschauendah
-	dynasty=1009990132
-	dna="iilhmhpncgf"
-	culture=huron religion=algic_pagan
-	martial=7 diplomacy=8 stewardship=8 intrigue=5 learning=8
-	add_trait=charismatic_negotiator add_trait=gluttonous add_trait=diligent add_trait=envious add_trait=trusting 
-	add_trait=depressed 
-	father=1019916582	#Haroenyou
-	1387.8.27={ birth=yes }
-	1488.3.19={ death=yes }
-}
 1019916782={
 	name=Miere
 	dynasty=1009990135

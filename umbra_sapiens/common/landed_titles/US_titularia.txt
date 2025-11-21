@@ -1354,6 +1354,26 @@ k_new_spain = {
 			}
 		}	
 }
+k_new_galicia_spanish = {
+	color={ 222 194 24 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 4408
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_new_galicia_spanish = {
+						is_titular = yes
+					}
+				}
+				k_new_galicia_spanish = {
+					is_titular = no
+				}
+			}
+		}	
+}
 k_internal_provinces = {
 	color={ 210 205 20 }
 	color2={ 255 255 255 }
@@ -1529,6 +1549,46 @@ k_philippines_spanish = {
 					}
 				}
 				k_philippines_spanish = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_yukatan_spanish = {
+	color={ 215 239 45 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 3763	#Merida
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_yukatan_spanish = {
+						is_titular = yes
+					}
+				}
+				k_yukatan_spanish = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_guatemala_spanish = {
+	color={ 199 222 50 }
+	color2={ 255 255 255 }
+	
+	culture = castillan
+	capital	= 3748	#Guatemala
+	
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					k_guatemala_spanish = {
+						is_titular = yes
+					}
+				}
+				k_guatemala_spanish = {
 					is_titular = no
 				}
 			}
@@ -2053,6 +2113,26 @@ k_portuguese_brasil = {
 					}
 				}
 				k_portuguese_brasil = {
+					is_titular = no
+				}
+			}
+		}	
+}
+k_new_france = {
+	color={ 35 44 180 }
+	color2={ 255 255 20 }
+	
+	culture = frankish
+	capital	= 3615
+	
+		allow = {  
+			conditional_tooltip = {
+				trigger = {
+					k_new_france = {
+						is_titular = yes
+					}
+				}
+				k_new_france = {
 					is_titular = no
 				}
 			}

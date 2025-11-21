@@ -25,3 +25,8 @@ religion = mayan
 900.1.1 = {
 	set_wonder_stage = 4
 }
+1543.5.27={
+	religion = catholic
+	b_chikinchel-ii=temple
+	b_chikinchel-iii=city
+}

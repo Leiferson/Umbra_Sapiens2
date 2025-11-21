@@ -11,3 +11,11 @@ culture = diaguita
 religion = mapuche_pagan
 
 # History
+1519.1.1={
+	religion="inti"
+}
+1532.11.16={
+	religion="catholic"
+	b_capayan=castle
+	b_capayan-ii=temple
+}

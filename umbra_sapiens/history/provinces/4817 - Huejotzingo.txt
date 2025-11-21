@@ -5,7 +5,7 @@ title = c_huetjotzingo
 max_settlements = 5
 b_huetjotzingo = castle
 b_huetjotzingo-ii = city
-b_huetjotzingo-iii = castle
+b_huetjotzingo-iii = temple
 #b_huetjotzingo-iv = city
 #b_huetjotzingo-v = temple
 
@@ -14,3 +14,7 @@ culture = totonac
 religion = totonac_pagan
 
 # History
+1261.1.1={
+	culture=chalca
+	religion=aztec
+}

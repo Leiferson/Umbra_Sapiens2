@@ -218,7 +218,7 @@ narrative_event = {
 	is_triggered_only = yes
 	trigger = {
 		is_alternate_start = no
-		year = 1638
+		year = 1598
 		NOT = { has_global_flag = dutch_mauritius }
 		has_landed_title = k_frisia
 		religion_group = christian

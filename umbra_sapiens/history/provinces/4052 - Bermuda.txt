@@ -10,3 +10,10 @@ culture = bermudan
 religion = caribic_pagan
 
 # History
+1612.1.1={
+	b_bermuda = city
+	b_bermuda-ii = temple
+	b_bermuda-iii = castle
+	culture="english"
+	religion="puritan"
+}

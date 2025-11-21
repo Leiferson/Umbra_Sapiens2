@@ -22,3 +22,26 @@
 1300.1.1 = {
 	holder = 325007
 }
+1350.1.1={
+	holder = 399179
+}
+1370.1.1 = {
+	holder = 399165
+	liege="k_mazatlan"
+}
+1420.1.1 = {
+	holder = 399170
+}
+1450.1.1 = {
+	holder = 399172
+}
+1486.1.1 = {
+	holder = 399173
+}
+1520.1.1 = {
+	holder = 399174
+}
+1530.2.14 = {
+	holder = 0
+	de_jure_liege="k_new_spain"
+}

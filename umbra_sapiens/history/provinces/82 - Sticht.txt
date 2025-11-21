@@ -27,5 +27,8 @@ religion = catholic
 1311.1.1 = { trade_post = b_warendorp }
 1580.8.25 = {
 	religion = reformed
-	b_utrecht=castle
+	b_utrecht=city
+}
+1590.1.1={
+	b_buren = city
 }

@@ -1,6 +1,35 @@
 1603.3.24 ={
 	holder=373380	#James VI and I of England
 }
+1607.5.14={
+	set_global_flag = briish_jamestown
+}
+1612.1.1={
+	set_global_flag = briish_bermuda
+}
+1617.1.1={
+	set_global_flag = briish_new_foundland
+}
+1620.12.23={
+	set_global_flag = briish_plymouth
+}
+1623.1.1={
+	set_global_flag = briish_kitts
+}
 1625.3.27={
 	holder=373462	#Charles I of England
+}
+1627.2.17={
+	set_global_flag = briish_barbados
+}
+1632.1.1={
+	set_global_flag = briish_montserrat
+	set_global_flag = briish_antigua
+}
+1634.3.1={
+	set_global_flag = briish_maryland
+}
+1636.1.1={
+	set_global_flag = briish_rhode
+	set_global_flag = briish_connecticut
 }

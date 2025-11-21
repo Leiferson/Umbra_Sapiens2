@@ -4,10 +4,16 @@ title = c_higuey
 # Settlements
 max_settlements = 3
 b_higuey = tribal
-b_higuey-ii = tribal
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1502.1.1={
+b_higuey = castle
+b_higuey-ii = temple
+b_higuey-iii = city
+culture = castillan
+religion = catholic
+}

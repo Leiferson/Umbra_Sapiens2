@@ -11,3 +11,9 @@ culture = delaware
 religion = algic_pagan
 
 # History
+1638.3.29={
+	b_delaware = city
+	b_bihujantee = castle
+	culture=swedish
+	religion=lutheran
+}

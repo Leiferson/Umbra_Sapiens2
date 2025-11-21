@@ -11,3 +11,9 @@ culture = muisca
 religion = muisca_pagan
 
 # History
+1558.1.1={
+	b_guaymi = castle
+	b_guaymi-ii = temple
+	b_guaymi-iii = city
+	religion="catholic"
+}

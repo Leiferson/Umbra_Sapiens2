@@ -16,3 +16,16 @@ culture = xicalanca
 religion = mayan
 
 # History
+
+1208.1.1={
+	culture=tlaxcalteca 
+	religion=aztec
+	b_tlaxcalanew = city
+}
+1519.1.1={
+	religion=catholic
+	b_tlaxcalanew-v = temple
+}
+1540.1.1={
+	b_tlaxcalanew-vi = city
+}

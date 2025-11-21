@@ -11,3 +11,10 @@ culture = chango
 religion = mapuche_pagan
 
 # History
+1504.1.1={
+	religion="inti"
+}
+1534.8.15={
+	b_calama=castle
+	religion = catholic
+}

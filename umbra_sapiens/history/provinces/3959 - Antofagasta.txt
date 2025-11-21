@@ -11,3 +11,9 @@ culture = chango
 religion = mapuche_pagan
 
 # History
+1506.1.1={
+	religion="inti"
+}
+1533.7.26 = {
+	religion="catholic"
+}

@@ -11,3 +11,9 @@ culture = miskito
 religion = miskito_pagan
 
 # History
+1524.4.21={
+	b_managua = castle
+	b_managua-ii = city
+	b_managua-iii = temple
+	religion=catholic
+}

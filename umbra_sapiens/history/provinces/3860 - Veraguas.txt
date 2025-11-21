@@ -11,3 +11,9 @@ culture = muisca
 religion = muisca_pagan
 
 # History
+1508.6.9={
+b_veraguas = castle
+b_veraguas-ii = city
+b_veraguas-iii = temple
+religion="catholic"
+}

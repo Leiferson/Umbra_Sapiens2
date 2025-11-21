@@ -10,3 +10,13 @@ culture = mapuche
 religion = mapuche_pagan
 
 # History
+1552.2.9={
+	b_montt = castle
+	b_montt-iii = city
+	religion = catholic
+}
+1599.11.1={
+	b_montt = tribal
+	remove_settlement=b_montt-iii
+	religion = mapuche_pagan
+}

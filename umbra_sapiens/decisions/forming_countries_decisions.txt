@@ -598,13 +598,12 @@ unite_great_britain = {
 			has_landed_title=e_espana_burgona
 			}
 			OR = {
-			completely_controls = k_yokotan
+			completely_controls = d_totonac
+			completely_controls = k_otomi
 			completely_controls = k_mixteca
 			completely_controls = k_tlaxcala
 			completely_controls = k_aztec
 			completely_controls = k_mazatlan
-			completely_controls = k_collimatl
-			completely_controls = k_jalisco
 			}
 			NOR = {
 				has_alternate_start_setting = {
@@ -643,16 +642,18 @@ unite_great_britain = {
 				show_scope_change = no
 				grant_title = ROOT
 			}
+			d_totonac = {
+				show_scope_change = no
+				de_jure_liege = k_new_spain
+			}
 			any_title = {
 			limit = {
 			OR = {
-			de_jure_liege = k_yokotan
+			de_jure_liege = k_otomi
 			de_jure_liege = k_mixteca
 			de_jure_liege = k_tlaxcala
 			de_jure_liege = k_aztec
 			de_jure_liege = k_mazatlan
-			de_jure_liege = k_collimatl
-			de_jure_liege = k_jalisco
 			}
 			}
 				show_scope_change = no
@@ -670,15 +671,13 @@ unite_great_britain = {
 				}
 				k_new_spain = { de_jure_liege = e_espana_burgona }
 			}
-			destroy_landed_title = k_yokotan
+			destroy_landed_title = k_otomi
 			destroy_landed_title = k_mixteca
 			destroy_landed_title = k_tlaxcala
 			destroy_landed_title = k_aztec
 			destroy_landed_title = k_mazatlan
-			destroy_landed_title = k_collimatl
-			destroy_landed_title = k_jalisco
 			activate_title = {
-				title = k_yokotan
+				title = k_otomi
 				status = no
 							}
 			activate_title = {
@@ -697,6 +696,99 @@ unite_great_britain = {
 				title = k_mazatlan
 				status = no
 							}
+			if = {
+				limit = {
+					k_yokotan =   {
+						is_titular = yes 
+					}
+				}
+				destroy_landed_title = k_yokotan
+				activate_title = {
+				title = k_yokotan
+				status = no
+							}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_new_galicia_spanish = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_new_galicia_spanish }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			OR = {
+			completely_controls = k_collimatl
+			completely_controls = k_jalisco
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_new_galicia_spanish = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			OR = {
+			de_jure_liege = k_collimatl
+			de_jure_liege = k_jalisco
+			}
+			}
+				show_scope_change = no
+				de_jure_liege = k_new_galicia_spanish
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_new_galicia_spanish = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_new_galicia_spanish = { de_jure_liege = e_espana_burgona }
+			}
+			destroy_landed_title = k_collimatl
+			destroy_landed_title = k_jalisco
 			activate_title = {
 				title = k_collimatl
 				status = no
@@ -705,6 +797,220 @@ unite_great_britain = {
 				title = k_jalisco
 				status = no
 							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_yukatan_spanish = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_yukatan_spanish }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			OR={
+			completely_controls = d_yucatan
+			completely_controls = d_yokotan
+			completely_controls = d_tikal
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_yukatan_spanish = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			d_yucatan = {
+				show_scope_change = no
+				de_jure_liege = k_yukatan_spanish
+			}
+			d_yokotan = {
+				show_scope_change = no
+				de_jure_liege = k_yukatan_spanish
+			}
+			d_tikal = {
+				show_scope_change = no
+				de_jure_liege = k_yukatan_spanish
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_yukatan_spanish = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_yukatan_spanish = { de_jure_liege = e_espana_burgona }
+			}
+			if = {
+				limit = {
+					k_maya =   {
+						is_titular = yes 
+					}
+				}
+				destroy_landed_title = k_maya
+				activate_title = {
+				title = k_maya
+				status = no
+							}
+			}
+			if = {
+				limit = {
+					k_yokotan =   {
+						is_titular = yes 
+					}
+				}
+				destroy_landed_title = k_yokotan
+				activate_title = {
+				title = k_yokotan
+				status = no
+							}
+			}
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	create_guatemala_spanish = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_guatemala_spanish }
+			OR = {
+			has_landed_title=e_spain
+			has_landed_title=e_espana_burgona
+			}
+			OR={
+			completely_controls = k_honduras
+			completely_controls = d_chorti
+			completely_controls = d_kaminaljuyu
+			completely_controls = d_tzotzil
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 100
+		}
+		effect = {
+			wealth = -100
+			prestige = 250
+			k_guatemala_spanish = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			d_chorti = {
+				show_scope_change = no
+				de_jure_liege = k_guatemala_spanish
+			}
+			d_kaminaljuyu = {
+				show_scope_change = no
+				de_jure_liege = k_guatemala_spanish
+			}
+			d_tzotzil = {
+				show_scope_change = no
+				de_jure_liege = k_guatemala_spanish
+			}
+			any_title = {
+			limit = {
+			de_jure_liege = k_honduras
+			}
+				show_scope_change = no
+				de_jure_liege = k_guatemala_spanish
+			}
+			if = {
+				limit = {
+					has_landed_title=e_spain
+				}
+				k_guatemala_spanish = { de_jure_liege = e_spain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_espana_burgona
+				}
+				k_guatemala_spanish = { de_jure_liege = e_espana_burgona }
+			}
+			destroy_landed_title = k_honduras
+			activate_title = {
+				title = k_honduras
+				status = no
+							}
+			if = {
+				limit = {
+					k_maya =   {
+						is_titular = yes 
+					}
+				}
+				destroy_landed_title = k_maya
+				activate_title = {
+				title = k_maya
+				status = no
+							}
+			}
 		}
 		ai_will_do = {
 			factor = 1

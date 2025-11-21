@@ -23,3 +23,15 @@
 1392.01.09={holder=1019919542} #Opochtli[1009990162]
 1392.12.05={holder=1019919546} #Nezahualcoyotl[1009990162]
 1456.06.01={holder=1019919547} #Huitzilihuitl[1009990162]
+1475.4.24={ holder=1019919553 }
+1500.1.1={ holder=399202 }
+1502.1.1={
+	liege="k_aztec"
+}
+1521.8.13={
+	de_jure_liege="k_new_spain"
+}
+1523.1.1={
+	holder=0
+	liege="0"
+}

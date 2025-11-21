@@ -10,3 +10,11 @@ culture = huron
 religion = algic_pagan
 
 # History
+
+1634.7.4={
+	b_maisouna=castle
+	b_serenleperi=temple
+	b_duffalama=city
+	culture = frankish
+	religion = catholic
+}

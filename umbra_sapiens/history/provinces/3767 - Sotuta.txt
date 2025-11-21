@@ -13,3 +13,7 @@ culture = mayanx
 religion = mayan
 
 # History
+1544.1.1={
+	religion=catholic
+	remove_settlement=b_sotuta-iv
+}

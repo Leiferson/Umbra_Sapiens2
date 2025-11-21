@@ -4,10 +4,23 @@ title = c_timucua
 # Settlements
 max_settlements = 3
 b_timucua = tribal
-b_baielkanteptleb = tribal
 
 # Misc
 culture = creek
 religion = southeast_pagan
 
 # History
+1564.6.25={
+	b_timucua=castle
+	culture = frankish
+	religion = reformed
+}
+1565.9.8={
+	b_baielkanteptleb=castle
+}
+1565.9.20={
+	b_baielkanteptleb=temple
+	b_jklententej=city
+	culture = castillan
+	religion = catholic
+}

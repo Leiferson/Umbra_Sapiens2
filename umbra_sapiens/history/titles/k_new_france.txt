@@ -1,0 +1,67 @@
+20.1.1={
+	active = no
+}
+1534.7.24={
+	holder=397618	#Jacques Cartier
+	de_jure_liege="e_france"
+	liege="e_france"
+	vice_royalty = yes
+	active=yes
+}
+1541.1.15={
+	holder=397619	#Jean-François de La Rocque
+}
+1543.9.1={
+	holder=370977 #Francis I
+	vice_royalty = no
+}
+1547.3.31={
+	holder=371100 #Henry II
+}
+1559.7.10={
+	holder=375095 #Francis II
+}
+1560.12.5={
+	holder=371693 #Charles IX
+}
+1574.5.30={
+	holder=371694 #Henry III
+}
+1589.8.2={
+	holder=371464 #Henry IV the Great
+}
+1598.1.12={
+	holder=397620	#Troilus de Mesgouez, Marquis de La Roche-Mesgouez
+	vice_royalty = yes
+}
+1606.2.1={
+	holder=397621	#Jean de Biencourt, Baron de Saint-Just
+}
+1614.1.1={
+	holder=371859 #Louis XIII the Just
+	vice_royalty = no
+}
+1624.8.1={
+	holder=397623	#Émery de Caen
+	vice_royalty = yes
+}
+1626.7.1={
+	holder=397624	#Samuel de Champlain
+}
+1629.7.22={
+	holder=397627	#Lewis Kirke
+	liege="e_great_britain"
+}
+1632.5.4={
+	holder=397623	#Émery de Caen
+	liege="e_france"
+}
+1633.3.1={
+	holder=397624	#Samuel de Champlain
+}
+1635.12.25={
+	holder=397625	#Marc Antoine Jacques Bras-de-fer de Châteaufort
+}
+1636.6.11={
+	holder=397626	#Charles Jacques Huault de Montmagny
+}

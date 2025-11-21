@@ -23,3 +23,14 @@
 1361.04.18={holder=1019919748} #Axayacatl[1009990164]
 1388.07.30={holder=1019919753} #Tototl[1009990164]
 1437.07.18={holder=1019919755} #Mazatl[1009990164]
+1468.4.12={ 
+	holder=399201 
+}
+1502.1.1={
+	liege="k_aztec"
+}
+1521.11.25={ 
+	holder=0
+	liege="k_new_spain"
+	de_jure_liege="k_new_spain"
+}

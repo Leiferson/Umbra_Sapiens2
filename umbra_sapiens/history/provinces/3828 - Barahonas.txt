@@ -4,8 +4,6 @@ title = c_barahonas
 # Settlements
 max_settlements = 6
 b_barahonas = tribal
-b_barahonas-ii = tribal
-b_barahonas-iii = tribal
 b_barahonas-iv = temple
 
 
@@ -14,3 +12,16 @@ culture = taino
 religion = caribic_pagan
 
 # History
+1496.8.5={
+	b_barahonas = castle
+	b_barahonas-ii = city
+	b_barahonas-iii = temple
+	culture = castillan
+	religion = catholic
+}
+1550.1.1={
+	b_barahonas-v = castle
+}
+1600.1.1={
+	b_barahonas-vi = temple
+}

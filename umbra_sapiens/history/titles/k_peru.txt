@@ -1,0 +1,29 @@
+1438.1.1 = {
+	holder=396601	#Pachacuti
+}
+1471.1.1 = {
+	holder=396604	#Topa Inca Yupanqui
+}
+1493.1.1 = {
+	holder=396606	#Wayna Qhapaq
+}
+1527.1.1 = {
+	holder=396608	#Huascar
+}
+1532.1.1 = {
+	holder=396609	#Atahualpa
+}
+1533.7.26 = {
+	holder=396610	#Tupaq Wallpa
+	liege="e_espana_burgona"
+}
+1533.10.1 = {
+	holder=396611	#Manqu Inka Yupanki
+}
+1536.5.1={
+	holder=396612	#Paullu Inca
+}
+1549.1.1 = {
+	holder=0	#Spanish conquest
+	active=no
+}

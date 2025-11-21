@@ -11,3 +11,10 @@ culture = taino
 religion = caribic_pagan
 
 # History
+1508.1.1={
+	b_puerto_rico = castle
+	b_puerto_rico-iii = city
+	b_puerto_rico-iv = castle
+	culture = castillan
+	religion = catholic
+}

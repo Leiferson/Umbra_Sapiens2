@@ -11,3 +11,7 @@ culture = nonohualcan
 religion = nonohualcan_pagan
 
 # History
+1525.4.1={
+	b_pipil-iii = city
+	religion=catholic
+}

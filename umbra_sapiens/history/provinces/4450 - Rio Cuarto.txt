@@ -10,3 +10,10 @@ culture = waikuruan
 religion = chaco_pagan
 
 # History
+1588.4.3={
+	culture = castillan
+	religion = catholic
+	b_rio_cuarto = castle
+	b_rio_cuarto = temple
+	b_rio_cuarto = city
+}

@@ -13,3 +13,12 @@ culture = xicalanca
 religion = mayan
 
 # History
+
+1384.1.1={
+	culture=tlaxcalteca 
+	religion=aztec
+	b_tlaxcala = city
+}
+1519.1.1={
+	religion=catholic
+}

@@ -14,3 +14,15 @@ culture = nonohualcan
 religion = nonohualcan_pagan
 
 # History
+1063.1.1={
+	culture=zacatecan
+	religion=southwest_pagan
+}
+1160.1.1={ 
+	culture=tepaneca
+	religion=aztec
+	b_tlacopan-iv = castle
+}
+1428.1.1={
+	b_tlacopan-v = city
+}

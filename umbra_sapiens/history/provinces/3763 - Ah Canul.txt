@@ -2,7 +2,7 @@
 title = c_ah_canul
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 b_ah_canul = castle
 b_ah_canul-ii = temple
 
@@ -11,3 +11,17 @@ culture = mayanx
 religion = mayan
 
 # History
+1542.1.1={
+	b_ah_canul-iii = city
+	religion=catholic
+	culture="castillan"
+}
+1550.1.1={
+	b_ah_canul-iv = castle
+}
+1575.1.1={
+	b_ah_canul-v = temple
+}
+1600.1.1={
+	b_ah_canul-vi = city
+}

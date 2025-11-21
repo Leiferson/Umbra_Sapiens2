@@ -10,3 +10,14 @@ culture = pequot
 religion = algic_pagan
 
 # History
+
+1623.1.1={
+	b_nejinqeke=castle
+}
+1636.3.3={
+	b_connecticut=city
+	b_quelensqee=temple
+	b_benheityla=city
+	culture=english
+	religion=puritan
+}

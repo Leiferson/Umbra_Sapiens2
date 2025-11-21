@@ -11,3 +11,10 @@ culture = carib
 religion = caribic_pagan
 
 # History
+1498.7.31={
+	culture = castillan
+	religion = catholic
+	b_trinidad = castle
+	b_trinidad-ii = temple
+	b_trinidad-iii = city
+}

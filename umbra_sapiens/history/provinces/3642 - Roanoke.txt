@@ -4,10 +4,19 @@ title = c_roanoke
 # Settlements
 max_settlements = 5
 b_roanoke = tribal
-b_fikdumnahh = tribal
 
 # Misc
 culture = powhatan
 religion = algic_pagan
 
 # History
+1585.1.1={
+	culture = english
+	religion = puritan
+	b_roanoke=castle
+}
+1590.1.1={
+	culture = powhatan
+	religion = algic_pagan
+	b_roanoke=tribal
+}

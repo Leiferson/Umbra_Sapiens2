@@ -1978,6 +1978,7 @@ narrative_event = {
 			has_alternate_start_parameter = { key = religion_names value = random }
 		}
 		year = 1500
+		NOT = { has_global_flag = popesresponse }
 		has_global_flag = luther_work 
 		has_global_flag = calvin_work 
 		has_global_flag = hus_work 
@@ -1987,9 +1988,10 @@ narrative_event = {
 		controls_religion = yes # Let it happen for the Pope - he's always around
 	}
 	immediate = {
+		set_global_flag = popesresponse
 		narrative_event = {
 		id = reformationevents.16
-		years = 5
+		years = 40
 						}
 		}
 	option = {

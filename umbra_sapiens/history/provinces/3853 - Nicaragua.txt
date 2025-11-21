@@ -11,3 +11,7 @@ culture = chorotega
 religion = nonohualcan_pagan
 
 # History
+1524.6.15={
+	b_nicaragua-iii = city
+	religion=catholic
+}

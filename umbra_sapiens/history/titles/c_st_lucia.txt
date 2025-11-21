@@ -23,3 +23,34 @@
 1359.04.05={holder=1019923300} #Kaigouchi[1009990200]
 1428.08.16={holder=1019923305} #Kaigouchi[1009990200]
 1457.04.28={holder=1019923309} #Haubariria[1009990200]
+1465.9.23={ 
+	holder=397562
+}
+1479.1.1={
+	holder=397563
+}
+1515.1.1={
+	holder=397564
+}
+1558.1.1={
+	holder=397565
+}
+1605.1.1={
+	holder=373380	#James VI and I of England
+	liege="e_great_britain"
+}
+1605.9.26={
+	holder=397565
+	liege=0
+}
+1609.1.1={
+	holder=397566
+}
+1638.1.1={
+	holder=373462	#Charles I of England
+	liege="e_great_britain"
+}
+1638.6.1={
+	holder=397566
+	liege=0
+}

@@ -312,6 +312,9 @@
 1603.3.24 ={
 	de_jure_liege=e_great_britain
 }
+1622.1.1={
+	set_global_flag = scotland_nova_scotia
+}
 1625.3.27={
 	holder=373462	#Charles I of England
 }

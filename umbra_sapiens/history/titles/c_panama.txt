@@ -23,3 +23,51 @@
 1378.08.12={holder=1019924095} #Quemuenchatocha[1009990208]
 1396.12.05={holder=1019924098} #Cuba[1009990208]
 1425.08.25={holder=1019924100} #Tomagata[1009990208]
+1451.8.31={ 	
+	holder=1019924104
+}
+1454.1.29={ 	
+	holder=1019924105
+}
+1480.10.11={ 
+	holder=397537
+}
+1515.1.1={
+	holder=397538
+}
+1519.8.15={
+	holder=370714	#Charles I
+	de_jure_liege="e_espana_burgona"
+}
+1556.1.16={
+	holder=370718 #Philip II
+}
+1564.1.1={
+	holder=396560	#Andrés Díaz Venero de Leyva
+	vice_royalty = yes
+	liege="e_espana_burgona"
+}
+1574.7.1 = {
+	holder=396568	#Francisco Briceño Gasco
+}
+1575.12.13 = {
+	holder=396561	#Lope Díez de Aux y Armendáriz (m. 1585)
+}
+1580.1.1={
+	holder=396562	#Francisco Guillén Chaparro
+}
+1590.1.1 = {
+	holder=396563	#Antonio González (gobernador)
+}
+1597.1.1 = {
+	holder=389873	#Francisco de Sande
+}
+1602.1.1 = {
+	holder=396565	#Juan de Borja y Armendia
+}
+1628.2.12 = {
+	holder=396566	#Sancho Girón de Narváez 
+}
+1637.1.1 = {
+	holder=396567	#Martín de Saavedra Galindo de Guzmán
+}

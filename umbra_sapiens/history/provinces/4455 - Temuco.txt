@@ -10,3 +10,14 @@ culture = mapuche
 religion = mapuche_pagan
 
 # History
+1552.2.9={
+	b_temuco = castle
+	b_temuco-ii = temple
+	b_temuco-iii = city
+	religion = catholic
+}
+1599.11.1={
+	remove_settlement=b_temuco-ii
+	remove_settlement=b_temuco-iii
+	religion = mapuche_pagan
+}

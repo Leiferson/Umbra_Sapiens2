@@ -10,3 +10,10 @@ culture = charruan
 religion = pampas_pagan
 
 # History
+1624.1.1={
+	b_galopolis = castle
+	b_galopolis-ii = temple
+	b_galopolis-iii = city
+	culture = castillan
+	religion = catholic
+}

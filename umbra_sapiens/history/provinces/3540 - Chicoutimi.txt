@@ -19,4 +19,9 @@ religion = subartic_pagan
 
 # History
 
-
+1599.1.1={
+	b_chicoutimi=castle
+	b_mashteuiatsh=city
+	culture = frankish
+	religion = catholic
+}

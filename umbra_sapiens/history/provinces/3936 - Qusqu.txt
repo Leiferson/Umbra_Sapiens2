@@ -11,3 +11,38 @@ culture = quechua
 religion = chavin_pagan
 
 # History
+1200.1.1={
+	religion = inti
+	b_qusqu = castle
+}
+1250.1.1={
+	religion = inti
+	b_qusqu-iii = city
+}
+1300.1.1={
+	religion = inti
+	b_qusqu-iii = castle
+}
+1350.1.1={
+	religion = inti
+	b_qusqu-iv = city
+}
+1400.1.1={
+	religion = inti
+	b_qusqu-v = castle
+}
+1425.1.1={
+	religion = inti
+	b_qusqu-vi = temple
+}
+1450.1.1={
+	religion = inti
+	b_qusqu-vii = castle
+}
+1533.11.15={
+	remove_settlement=b_qusqu-iv
+	remove_settlement=b_qusqu-v
+	remove_settlement=b_qusqu-vi
+	remove_settlement=b_qusqu-vii
+	religion="catholic"
+}

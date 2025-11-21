@@ -1,6 +1,107 @@
 20.1.1={
 	active = no
 }
+1249.1.1={
+	set_global_flag = reconquista_portugal
+}
+1420.1.1={
+	set_global_flag = portugal_madeira
+}
+1432.1.1={
+	set_global_flag = portugal_azores
+}
+1434.1.1={
+	set_global_flag = rio_de_ouro
+	set_global_flag = cabo_bojador
+}
+1441.1.1={
+	set_global_flag = cabo_branco
+}
+1460.1.1={
+	set_global_flag = portugal_cape_verde
+}
+1472.1.1={
+	set_global_flag = terra_nova
+}
+1473.1.1={
+	set_global_flag = cabo_lopes
+}
+1475.1.1={
+	set_global_flag = cabo_santa_catarina
+}
+1482.1.1={
+	set_global_flag = portugal_elmina
+}
+1492.1.1={
+	set_global_flag = colombus_america
+}
+1493.7.29={
+	set_global_flag = portugal_saotome
+}
+1488.1.1={
+	set_global_flag = cabo_das_tormentas
+}
+1498.1.1={
+	set_global_flag = caminho_para_India
+}
+1500.4.22={
+	set_global_flag = found_brazil
+}
+1503.1.1={
+	set_global_flag = portugal_fernando_de_noronha
+}
+1507.7.1={
+	set_global_flag = portugal_oman
+}
+1510.12.10={
+	set_global_flag = portugal_goa
+}
+1511.8.15={
+	set_global_flag = portugal_melaka
+}
+1513.1.1={
+	set_global_flag = found_china
+}
+1515.3.1={
+	set_global_flag = portugal_hormuz
+	set_global_flag = portugal_qeshm
+}
+1513.1.1={
+	set_global_flag = portugal_mozambique
+}
+1520.1.1={
+	set_global_flag = magellan_circumnavigation
+}
+1522.6.24={
+	set_global_flag = portugal_ternate
+}
+1534.12.23={
+	set_global_flag = portugal_bombaim
+}
+1535.1.1={
+	set_global_flag = portugal_diu
+}
+1536.1.1={
+	set_global_flag = portugal_brazil
+}
+1542.1.1={
+		set_global_flag = found_japan
+}
+1557.1.1={
+	set_global_flag = portugal_macau
+}
+1559.2.2={
+	set_global_flag = portugal_daman
+}
+1576.1.1={
+	set_global_flag = portugal_angola
+}
+1588.1.1={
+	set_global_flag = portugal_bissau
+}
+1594.1.1 = { 
+	set_global_flag = portugal_ceylon
+}
 1640.12.1={
 	active = yes
 	holder=370381 # John IV de Braganza
