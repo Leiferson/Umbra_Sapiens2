@@ -19,3 +19,8 @@ terrain = steppe
 808.1.1 = { religion = jewish }
 1089.1.1 = { religion = sunni }
 1227.1.1 = { culture = mongol }
+1556.1.1={
+	b_kelenshi = castle
+	culture = russian
+	religion = orthodox
+}

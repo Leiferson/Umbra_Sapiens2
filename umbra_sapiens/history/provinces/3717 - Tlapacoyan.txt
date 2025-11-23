@@ -11,3 +11,7 @@ culture = totonac
 religion = totonac_pagan
 
 # History
+
+1520.6.30={
+	religion="catholic"
+}

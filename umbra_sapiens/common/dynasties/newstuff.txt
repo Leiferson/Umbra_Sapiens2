@@ -1798,11 +1798,6 @@
 	culture = frankish
 	religion = catholic
 }
-1010043395= {
-	name="Crispo"
-	culture = italian
-	religion = catholic
-}
 1010043396= {
 	name="Ruffini"
 	culture = italian
@@ -11654,4 +11649,14 @@
 	name="Hunja"
 	culture=muisca 
 	religion=muisca_pagan
+}
+1010045335={
+	name="Micas"
+	culture="sephardi" 
+	religion="jewish"
+}
+1010045336={
+	name="van Leyden"
+	culture="dutch" 
+	religion="anabaptist"
 }

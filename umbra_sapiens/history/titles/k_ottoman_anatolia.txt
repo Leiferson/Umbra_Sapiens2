@@ -1,10 +1,15 @@
 20.1.1={
 	active = no
 }
+100.1.1=
+{
+	pentarch = b_hagiasophia
+}
 1451.1.1={
 	active = yes
 	holder=379357	#İshak Pasha 
 	liege=e_ottomans
+	de_jure_liege=e_ottomans
 	vice_royalty = yes
 }
 1472.1.1={

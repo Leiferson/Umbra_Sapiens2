@@ -340,8 +340,10 @@
 }
 1300.1.1={
 	set_global_flag = wycliff_work
+	effect = {
 	religion_authority = {
 	name = major_protestant_reformer
+	}
 	}
 }
 1303.10.11=
@@ -397,8 +399,10 @@
 }
 1412.10.18={
 	set_global_flag = hus_work
+	effect = {
 	religion_authority = {
 	name = major_protestant_reformer
+	}
 	}
 }
 1431.2.20={
@@ -437,20 +441,28 @@
 1517.1.1={
 	set_global_flag = 95theses_flag
 	set_global_flag = luther_work
+	effect = {
 	religion_authority = {
 	name = major_protestant_reformer
+	}
 	}
 	set_global_flag = calvin_work
+	effect = {
 	religion_authority = {
 	name = major_protestant_reformer
 	}
+	}
 	set_global_flag = anglican_work
+	effect = {
 	religion_authority = {
-		name = major_protestant_reformer
+	name = major_protestant_reformer
+	}
 	}
 	set_global_flag = radical_work	
+	effect = {
 	religion_authority = {
-		name = major_protestant_reformer
+	name = major_protestant_reformer
+	}
 	}
 	set_global_flag = unitarian_work	
 }
@@ -482,8 +494,10 @@
 	holder=378810 #Pius IV
 }
 1563.12.4={
+	effect = {
 	religion_authority = {
 		name = counter_reformation
+	}
 	}
 }
 1565.12.9={

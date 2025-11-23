@@ -20,3 +20,6 @@ religion = finnish_pagan
 terrain = arctic
 
 # History
+1454.1.1={
+	religion="orthodox"
+}

@@ -1,0 +1,18 @@
+# 1845 - Tynea
+
+# County Title
+title = c_tynea
+
+# Settlements
+max_settlements = 2
+b_tynea = tribal
+
+# Misc
+culture = komi
+religion = finnish_pagan
+
+# History
+
+1454.1.1={
+	religion="orthodox"
+}

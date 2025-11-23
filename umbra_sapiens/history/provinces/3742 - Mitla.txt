@@ -41,3 +41,6 @@ religion = zapotec_pagan
 1250.1.1 = {
 	set_wonder_stage = 4
 }
+1521.11.25={
+	religion="catholic"
+}

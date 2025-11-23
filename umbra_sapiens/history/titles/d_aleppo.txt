@@ -286,12 +286,10 @@
 1501.4.20={
 	holder=379019	#Qansuh al-Ghawri
 }
-1516.10.17={
-	holder=379020	#Tumanbay II
-}
 1516.8.24={
 	holder=379191	#Yunus Pasha (c. 1516)
 	liege=e_ottomans
+	de_jure_liege="k_ottoman_syria"
 }
 1517.9.13 = {
 	holder=378983	#Janbirdi al-Ghazali (1517–1521)
@@ -386,6 +384,9 @@
 1577.1.1={
 	holder=379048	#Sokulluzade Hasan Pasha (1577–1581)
 }
+1579.1.1={
+	de_jure_liege="k_ottoman_tripoli"
+} 
 1581.1.1={
 	holder=379049	#Bahram Pasha (1581–1582)
 }

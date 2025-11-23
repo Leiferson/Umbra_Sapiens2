@@ -29,3 +29,9 @@ religion = norse_pagan
 	b_stade = temple
 }
 1249.1.1 = { trade_post = b_vorrade }
+1524.1.1={
+	religion="lutheran"
+}
+1581.1.1={
+	religion="reformed"
+}

@@ -125,6 +125,15 @@
 1419.8.16 = {
 	holder=370403	#Sigismund, Holy Roman Emperor
 }
+1434.5.30={
+	effect={
+		location={
+		remove_province_modifier = peasant_unrest
+		remove_province_modifier = cultural_unrest
+		remove_province_modifier = religious_unrest
+		}
+	} 
+}
 1437.12.9 = {
 	holder = 370431	#Albert II of Germany
 }

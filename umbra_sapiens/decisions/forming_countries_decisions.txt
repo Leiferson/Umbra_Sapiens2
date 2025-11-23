@@ -1679,7 +1679,7 @@ unite_great_britain = {
 			factor = 1
 		}
 	}
-	create_philippines_spanish = {
+create_philippines_spanish = {
 		only_independent = yes
 		is_high_prio = yes
 		ai_check_interval = 12
@@ -1756,7 +1756,7 @@ unite_great_britain = {
 		ai_will_do = {
 			factor = 1
 		}
-	}
+}
 create_ottoman_empire = {
 		only_independent = yes
 		is_high_prio = yes
@@ -1820,4 +1820,266 @@ create_ottoman_empire = {
 			factor = 1
 		}
 	}
+}
+create_new_france = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_new_france }
+			has_landed_title=e_france
+			OR = {
+			completely_controls = k_nitassinan
+			completely_controls = k_mikmaq
+			completely_controls = k_abitibi
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 1000
+		}
+		effect = {
+			wealth = -1000
+			prestige = 250
+			k_new_france = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			OR={
+			de_jure_liege = k_nitassinan
+			de_jure_liege = k_mikmaq
+			de_jure_liege = k_abitibi
+			}
+			}
+				show_scope_change = no
+				de_jure_liege = k_new_france
+			}
+			
+			k_new_france = { de_jure_liege = e_france }
+			destroy_landed_title = k_nitassinan
+			destroy_landed_title = k_mikmaq
+			destroy_landed_title = k_abitibi
+			activate_title = {
+				title = k_nitassinan
+				status = no
+							}
+			activate_title = {
+				title = k_mikmaq
+				status = no
+							}
+			activate_title = {
+				title = k_abitibi
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+}
+create_louisiana = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_louisiana }
+			has_landed_title=e_france
+			OR = {
+			completely_controls = k_mississippi
+			completely_controls = k_woodlands_nation
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 1000
+		}
+		effect = {
+			wealth = -1000
+			prestige = 250
+			k_louisiana = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			OR={
+			de_jure_liege = k_mississippi
+			de_jure_liege = k_woodlands_nation
+			}
+			}
+				show_scope_change = no
+				de_jure_liege = k_louisiana
+			}
+			
+			k_louisiana = { de_jure_liege = e_france }
+			destroy_landed_title = k_mississippi
+			destroy_landed_title = k_woodlands_nation
+			activate_title = {
+				title = k_mississippi
+				status = no
+							}
+			activate_title = {
+				title = k_woodlands_nation
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+}
+create_thirteen_colonies = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		potential = {
+			NOT = { is_title_active = k_thirteen_colonies }
+			OR={
+			has_landed_title=e_britannia
+			has_landed_title=e_union_jack
+			has_landed_title=e_great_britain
+			}
+			OR = {
+			completely_controls = k_mahican
+			completely_controls = k_vandalia
+			completely_controls = k_creek
+			}
+			NOR = {
+				has_alternate_start_setting = {
+					setting = dejure
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random
+				}
+				has_alternate_start_setting = {
+					setting = title_names
+					value = random_including_duchies
+				}
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+			
+			conditional_tooltip = {
+				trigger = {
+					ai = no
+				}
+
+				prestige = 250
+			}
+			wealth = 1000
+		}
+		effect = {
+			wealth = -1000
+			prestige = 250
+			k_thirteen_colonies = {
+				show_scope_change = no
+				grant_title = ROOT
+			}
+			any_title = {
+			limit = {
+			OR={
+			de_jure_liege = k_mahican
+			de_jure_liege = k_vandalia
+			de_jure_liege = k_creek
+			}
+			}
+				show_scope_change = no
+				de_jure_liege = k_thirteen_colonies
+			}
+			if = {
+				limit = {
+					has_landed_title=e_great_britain
+				}
+				k_thirteen_colonies = { de_jure_liege = e_great_britain }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_union_jack
+				}
+				k_thirteen_colonies = { de_jure_liege = e_union_jack }
+			}
+			else_if = {
+				limit = {
+					has_landed_title=e_britannia
+				}
+				k_thirteen_colonies = { de_jure_liege = e_britannia }
+			}
+			destroy_landed_title = k_mahican
+			destroy_landed_title = k_vandalia
+			destroy_landed_title = k_creek
+			activate_title = {
+				title = k_mahican
+				status = no
+							}
+			activate_title = {
+				title = k_vandalia
+				status = no
+							}
+			activate_title = {
+				title = k_creek
+				status = no
+							}
+		}
+		ai_will_do = {
+			factor = 1
+		}
 }
