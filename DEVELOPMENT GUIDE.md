@@ -1,4 +1,4 @@
-# CLAUDE.md - Umbra Sapiens Development Guide
+Umbra Sapiens Development Guide
 
 ## Project Overview
 
@@ -491,29 +491,10 @@ culture_japanese;Japanese;Japonais;Japanisch;Japonés;...
 - Symptom: Decisions/events don't appear
 - Fix: Review trigger logic, check scope context
 
-## Contact and Resources
-
-### Project Information
-- **Repository:** LuqP2/Umbra_Sapiens2
-- **Main Contributors:**
-  - Leiferson (lead developer)
-  - tsf4 (contributor)
-  - tannerflick4 (maintainer)
-  - Lucas Pierri (contributor)
-
 ### Useful References
 - Crusader Kings II Wiki (for base game mechanics)
 - Paradox Modding Forum
 - Existing mod files (best documentation source)
-
-## Current State (November 23, 2025)
-
-**Branch:** `claude/claude-md-mibkrv6fjiy04jnn-013wf1M8C8AnVzpHcNTSov6N`
-**Status:** Clean working directory
-**Recent Updates:**
-- Merged PR #1 from Leiferson/main
-- Fixed duplicates in some files
-- Regular maintenance updates
 
 ## Quick Reference Card
 
