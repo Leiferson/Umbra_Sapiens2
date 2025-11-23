@@ -10,3 +10,10 @@ culture = het
 religion = pampas_pagan
 
 # History
+1561.3.2 = {
+	b_zapala = castle
+	b_zapala-ii = temple
+	b_zapala-iii = city
+	culture = castillan
+	religion = catholic
+}

@@ -1,5 +1,6 @@
 1516.10.1={
 	holder=378676	#Oruç Barbarossa
+	de_jure_liege="e_maghreb"
 }
 1518.6.1={
 	holder=378677	#Hayreddin Barbarossa
@@ -7,6 +8,7 @@
 1521.1.1={
 law = succ_patrician_elective
 liege=e_ottomans
+de_jure_liege="e_ottomans"
 }
 1535.1.1={
 	holder=378681	#Hasan Pasha/Hassan Agha

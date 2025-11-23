@@ -11,3 +11,11 @@ culture = powhatan
 religion = algic_pagan
 
 # History
+
+1635.1.1={
+	b_doeg = city
+	b_huntienpekh = castle
+	b_aarentleik = temple
+	culture = english
+	religion = puritan
+}

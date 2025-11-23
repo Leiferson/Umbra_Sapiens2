@@ -338,6 +338,14 @@
 {
 	holder=71835
 }
+1300.1.1={
+	set_global_flag = wycliff_work
+	effect = {
+	religion_authority = {
+	name = major_protestant_reformer
+	}
+	}
+}
 1303.10.11=
 {
 	holder=71836
@@ -389,6 +397,14 @@
 1415.7.4={
 	holder=378778 #Martin V
 }
+1412.10.18={
+	set_global_flag = hus_work
+	effect = {
+	religion_authority = {
+	name = major_protestant_reformer
+	}
+	}
+}
 1431.2.20={
 	holder=378782 #Eugene IV
 }
@@ -422,6 +438,37 @@
 1513.2.21={
 	holder=371512 #Leo X
 }
+1517.1.1={
+	set_global_flag = 95theses_flag
+	set_global_flag = luther_work
+	effect = {
+	religion_authority = {
+	name = major_protestant_reformer
+	}
+	}
+	set_global_flag = calvin_work
+	effect = {
+	religion_authority = {
+	name = major_protestant_reformer
+	}
+	}
+	set_global_flag = anglican_work
+	effect = {
+	religion_authority = {
+	name = major_protestant_reformer
+	}
+	}
+	set_global_flag = radical_work	
+	effect = {
+	religion_authority = {
+	name = major_protestant_reformer
+	}
+	}
+	set_global_flag = unitarian_work	
+}
+1520.6.15={
+	set_global_flag = popesresponse
+}
 1521.12.1={
 	holder=378788 #Adrian VI
 }
@@ -430,6 +477,9 @@
 }
 1534.10.25={
 	holder=375757 #Paul III
+}
+1545.12.13={
+	set_global_flag = council_of_trent
 }
 1549.11.10={
 	holder=378789 #Julius III
@@ -443,11 +493,21 @@
 1559.8.18={
 	holder=378810 #Pius IV
 }
+1563.12.4={
+	effect = {
+	religion_authority = {
+		name = counter_reformation
+	}
+	}
+}
 1565.12.9={
 	holder=378838 #Pius V
 }
 1572.5.1={
 	holder=378839 #Gregory XIII
+}
+1580.1.1={
+	set_global_flag = arminian_work
 }
 1585.4.10={
 	holder=378840 #Sixtus V
@@ -469,6 +529,9 @@
 }
 1605.4.27={
 	holder=378849 #Paul V
+}
+1607.1.1={
+	set_global_flag = baptist_work
 }
 1621.1.28={
 	holder=378850 #Gregory XV

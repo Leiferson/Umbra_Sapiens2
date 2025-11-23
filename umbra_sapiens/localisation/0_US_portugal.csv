@@ -409,6 +409,12 @@ EVTNAMEcolonialevents.37;The Circumnavigation of the Globe;;;;;;;;;;;;;x
 EVTDESCcolonialeventsR.37;Captain Ferdinand Magellan, a destinguished portuguese navigator, insulted by the lack of recognition he had met from the Portuguese crown, offered his services to the king of Spain. He believed that by sailing across the Pacific ocean he would be able to reach the source of the cloves on the Maluku islands. He grossly underestimated the size of the Pacific and ended up losing most of his crew trying to cross it, lastly he died fighting natives in the Philippines not becoming, like is commonly believed, the first man sailing around the world.;;;;;;;;;;;;;x
 EVTOPTAcolonialevents.37;We sail where no christian soul has been before;;;;;;;;;;;;;x
 EVTOPTBcolonialevents.37;They are going to sail off the edge of the world;;;;;;;;;;;;;x
+colonialevents.53;Puritan Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.53;Puritan Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.53;Good;;;;;;;;;;;;;x
+colonialevents.54;Quaker Pioners;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.54;Quaker Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.54;Good;;;;;;;;;;;;;x
 recently_changed_colonial_visibility;Recently Changed Visibility of Colonial Reports;;;;;;;;;;;;;x
 recently_changed_colonial_visibility_desc;Recently Changed Visibility of Colonial Reports;;;;;;;;;;;;;x
 hide_colonial_messages;Hide Colonial Reports;;;;;;;;;;;;;x

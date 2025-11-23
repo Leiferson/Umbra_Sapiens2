@@ -11,3 +11,9 @@ culture = taino
 religion = caribic_pagan
 
 # History
+1503.1.1={
+	b_maguana = castle
+	b_maguana-iii = city
+	culture = castillan
+	religion = catholic
+}

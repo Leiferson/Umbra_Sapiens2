@@ -10,3 +10,12 @@ culture = huron
 religion = algic_pagan
 
 # History
+
+1634.7.4={
+	b_stadacona=castle
+	b_veussalena=temple
+	b_kupnaliano=city
+	b_couklataper=city
+	culture = frankish
+	religion = catholic
+}

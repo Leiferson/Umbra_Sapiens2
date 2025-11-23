@@ -93,7 +93,7 @@ narrative_event = {
 	is_triggered_only = yes
 	trigger = {
 		is_alternate_start = no
-		year = 1607
+		year = 1511
 		NOT = { has_global_flag = spain_cuba }
 		OR = {
 			has_landed_title = k_cas_and_leon

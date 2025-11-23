@@ -2,7 +2,7 @@
 title = c_panama
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 b_panama = tribal
 b_panama-ii = tribal
 
@@ -11,3 +11,19 @@ culture = muisca
 religion = muisca_pagan
 
 # History
+1519.8.15={
+culture="castillan" 
+religion="catholic"
+b_panama=castle
+b_panama-ii=city
+b_panama-iii=temple
+}
+1550.1.1={
+	panama-iv=castle
+}
+1590.1.1={
+	panama-v=city
+}
+1620.1.1={
+	panama-vi=temple
+}

@@ -23,3 +23,55 @@
 1385.09.25={holder=1019918706} #Coosadeshopoy[1009990153]
 1414.10.06={holder=1019918710} #Malatchi"[1009990153]
 1451.08.17={holder=1019918713} #Fuskatchemico[1009990153]
+1460.5.7={
+	holder=397696
+}
+1495.1.1={ 
+	holder=397697 
+}
+1539.1.1={ 
+	holder=397698 
+}
+1562.5.1={
+	holder=397616
+	liege="k_france"
+}
+1562.10.1={
+	holder=397698
+	liege=0
+}
+1566.1.1={
+	holder=397351	#Francisco García Osorio
+	liege="k_santo_domingo"
+}
+1567.1.1={
+	holder=397352	#Pedro Menéndez de Avilés
+}
+1574.1.1={
+	holder=397353	#Gabriel Montalvo
+}
+1576.1.1={
+	holder=397698 #native take over
+	liege=0
+}
+1577.1.1={
+	holder=397617	#france
+	liege="k_france"
+}
+1578.4.1={
+		holder=397274 #1577–1581: Gregorio González de Cuenca
+		liege="k_santo_domingo"
+}
+1581.1.1={
+		holder=397275 #1581–1583: Pedro de Arceo
+}
+1583.1.1={
+		holder=397276 #1583–1590: Cristóbal de Ovalle
+}
+1587.1.1={
+	holder=397699
+	liege=0
+}
+1610.1.1={ 
+	holder=397700
+}

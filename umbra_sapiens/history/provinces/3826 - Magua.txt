@@ -4,10 +4,16 @@ title = c_magua
 # Settlements
 max_settlements = 3
 b_magua = tribal
-b_magua-ii = tribal
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1494.1.6={
+	b_magua = castle
+	b_magua-ii = temple
+	b_magua-iii = city
+	culture = castillan
+	religion = catholic
+}

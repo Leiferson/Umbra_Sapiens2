@@ -11,3 +11,11 @@ culture = chango
 religion = mapuche_pagan
 
 # History
+1516.1.1={
+	religion="inti"
+}
+1544.9.3={
+	b_kukimpu = castle
+	b_kukimpu-ii = temple
+	religion = catholic
+}

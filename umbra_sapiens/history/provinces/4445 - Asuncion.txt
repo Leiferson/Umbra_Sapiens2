@@ -2,7 +2,7 @@
 title = c_asuncion
 
 # Settlements
-max_settlements = 3
+max_settlements = 7
 b_asuncion = tribal
 
 # Misc
@@ -10,3 +10,14 @@ culture = guarani
 religion = amazonian_pagan
 
 # History
+1537.8.1={
+	b_asuncion = castle
+}
+1541.1.1={
+	culture = castillan
+	religion = catholic
+	b_asuncion-ii=temple
+	b_asuncion-iii=city
+	b_asuncion-iv=castle
+	b_asuncion-v=temple
+}

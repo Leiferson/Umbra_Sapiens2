@@ -11,3 +11,11 @@ culture = diaguita
 religion = mapuche_pagan
 
 # History
+1514.1.1={
+	religion="inti"
+}
+1534.8.15={
+	religion = catholic
+	b_qhatamarka=castle
+	b_qhatamarka-ii=temple
+}

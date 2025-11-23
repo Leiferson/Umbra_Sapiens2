@@ -4,10 +4,16 @@ title = c_anguilla
 # Settlements
 max_settlements = 3
 b_anguilla = tribal
-b_anguilla-ii = tribal
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1631.1.1={
+	b_anguilla = castle
+	b_anguilla-ii = city
+	b_anguilla-iii = temple
+	culture=dutch
+	religion=reformed
+}

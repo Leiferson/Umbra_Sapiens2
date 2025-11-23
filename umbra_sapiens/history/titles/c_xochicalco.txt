@@ -1,30 +1,142 @@
-744.1.1={holder=1019919255} #Xochipepe[1009990159]
-770.12.09={holder=1019919256} #Tochtli[1009990159]
-800.12.29={holder=1019919264} #Zipactonal[1009990159]
-864.02.23={holder=1019919266} #Topiltzin[1009990159]
-888.02.04={holder=1019919272} #Tizoc[1009990159]
-897.08.23={holder=1019919276} #Tototl[1009990159]
-919.05.14={holder=1019919280} #Moquihuix[1009990159]
-973.06.10={holder=1019919285} #Opochtli[1009990159]
-989.04.07={holder=1019919292} #Cacamatzin[1009990159]
-1002.10.04={holder=1019919294} #Tochtli[1009990159]
-1023.02.14={holder=1019919300} #Ixtlilxochitl[1009990159]
-1082.04.09={holder=1019919308} #Matlal[1009990159]
-1110.03.31={holder=1019919314} #Cuitlahuac[1009990159]
-1114.08.12={holder=1019919317} #Huitzitl[1009990159]
-1151.03.23={holder=1019919323} #Ueman[1009990159]
-1166.12.15={holder=1019919325} #Tlalli[1009990159]
-1220.10.23={holder=1019919329} #Tecolotl[1009990159]
-1224.08.18={holder=1019919333} #Coanacoch[1009990159]
-
-1250.1.1 = {
-              holder=1019919334
+630.1.1={
+	holder=399205
 }
-
-1260.05.14={holder=1019919336} #Acacitli[1009990160]
-1317.03.25={holder=1019919340} #Acalan[1009990160]
-1336.01.17={holder=1019919344} #Tetlepanquetzaltzin[1009990160]
-1364.04.10={holder=1019919349} #Chimalpopoca[1009990160]
-1378.12.08={holder=1019919353} #Zolin[1009990160]
-1405.11.25={holder=1019919356} #Aculnahuacatl[1009990160]
-1445.09.04={holder=1019919360} #Cacamatzin[1009990160]
+675.1.1={ 
+	holder=399206 
+}
+709.1.1={ 
+	holder=399207
+}
+750.1.1={ 
+	holder=399208 
+}
+800.1.1={ 
+	holder=399209
+}
+833.1.1={
+	holder=399210 
+}
+877.1.1={ 
+	holder=399211
+}
+923.1.1={ 
+	holder=399212
+}
+947.1.1={ 
+	holder=399213 
+}
+979.1.1={
+	holder=399214 
+}
+983.1.1={ 
+	holder=399215
+}
+1031.1.1={
+	holder=399216
+}
+1063.1.1={ 
+	holder = 325058
+}
+1066.1.1 = {
+	holder = 325059
+}
+1120.1.1 = {
+	holder = 325060
+}
+1170.1.1 = { holder=399325 }
+1196.1.1={ holder=399326 }
+1238.1.1={ holder=399327 }
+1295.1.1={ holder=399328 }
+1341.1.1={ holder=399329 }
+1365.1.1={ holder=399330 }
+1396.1.1={
+	liege="k_aztec"
+}
+1398.1.1={ holder=399331 }
+1398.6.1={ holder=399332 }
+1403.1.1={
+	liege=0
+}
+1426.1.1={
+	liege="k_aztec"
+}
+1433.1.1={ holder=399333 }
+1458.1.1={ holder=399293 }
+1472.6.4={ holder=399299 }
+1515.1.1={ holder=399316 }
+1520.6.30={ holder=399306 }
+1521.1.1={ holder=399319 }
+1521.8.13={ 
+	holder=399307 
+	liege="k_new_spain"
+}
+1531.1.1={ holder=399309 }
+1533.1.1={ holder=399305 }
+1539.5.1={ holder=399320 }
+1545.1.1={ holder=399321 }
+1564.1.1={
+	holder=380463	#Luís de Velasco
+}
+1564.7.31={
+	holder=397462	#Francisco Ceinos
+}
+1566.10.19={
+	holder=397463	#Gastón Carrillo de Peralta y Bosquete, Marquess of Falces
+}
+1567.11.11={
+	holder=397465	#Alonso de Muñoz, Royal commissioner of New Spain
+}
+1568.4.15={
+	holder=397462	#Francisco Ceinos, Dean of the Audiencia
+}
+1568.11.5={
+	holder=396863	#Martín Enríquez de Almanza
+}
+1580.10.4={
+	holder=397470	#Lorenzo Suárez de Mendoza, 4th Count of La Coruña
+}
+1583.6.19={
+	holder=397479	#Luis de Villanueva y Zapata, Dean of the Audiencia
+}
+1584.9.25={
+	holder=397480	#Pedro de Moya y Contrerás (Archbishop of Mexico) 	
+}
+1585.10.17={
+	holder=397481	#Álvaro Manrique de Zúñiga 1st Marquess of Villamanrique
+}
+1590.1.27={
+	holder=396874	#Luís de Velasco Marquess of Salinas
+}
+1595.11.5={
+	holder=396883	#Gaspar de Zúñiga Acevedo y Fonseca, 5th Count of Monterrey
+}
+1603.10.27={
+	holder=396897	#Juan de Mendoza y Luna,	Marquess of Montesclaros 
+}
+1607.7.2={
+	holder=396874	#Luís de Velasco, Marquess of Salinas
+}
+1611.6.19={
+	holder=397482	#García Guerra, O.P. (Archbishop of Mexico)
+}
+1612.2.22={
+	holder=397483	#Pedro Otárola, Dean of the Audiencia
+}
+1612.10.18={
+	holder=396898	#Diego Fernández de Córdoba, Marquess of Guadalcázar and Count of Posadas
+}
+1621.3.14={
+	holder=397484	#Paz de Valecillo, Dean of the Audiencia
+}
+1621.9.11={
+	holder=380598	#Diego Carrillo de Mendoza y Pimentel, 1st Marquess of Gélves
+}
+1624.11.1={
+	holder=397485	#Rodrigo Pacheco y Osorio de Toledo, 3rd Marquess of Cerralvo
+}
+1635.9.16={
+	holder=397485	#Lope Díez de Aux de Armendáriz, Marquess of Cadreita
+}
+1640.8.28={
+	holder=397489	#Diego López Pacheco, 7th Duke of Escalona
+}

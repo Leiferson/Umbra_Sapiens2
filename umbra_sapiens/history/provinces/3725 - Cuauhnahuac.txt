@@ -5,9 +5,22 @@ title = c_cuauhnahuac
 max_settlements = 6
 b_cuauhnahuac = castle
 b_cuauhnahuac-ii = temple
-b_cuauhnahuac-ii = city
+b_cuauhnahuac-iii = city
 # Misc
 culture = nonohualcan
 religion = nonohualcan_pagan
 
 # History
+
+1063.1.1={ 
+	culture=xicalanca
+	religion=mayan
+}
+1261.1.1={ 
+	culture=chalca
+	religion=aztec
+	b_cuauhnahuac-iv = city
+}
+1521.8.13={
+	religion="catholic"
+}

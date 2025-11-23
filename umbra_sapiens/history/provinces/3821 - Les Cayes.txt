@@ -4,10 +4,16 @@ title = c_les_cayes
 # Settlements
 max_settlements = 3
 b_les_cayes = tribal
-b_les_cayes-ii = tribal
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1503.1.1={
+	b_les_cayes = castle
+	b_les_cayes-ii = temple
+	b_les_cayes-iii = city
+	culture = castillan
+	religion = catholic
+}

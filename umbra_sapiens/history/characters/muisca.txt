@@ -3965,72 +3965,12 @@
 	1474.2.11={ death=yes }
 }
 1019928586={
-	name=Tisquesusa
+	name="Meicuchuca"
 	dynasty=1009990253
 	dna="ebpbhkfpkmf"
 	culture=muisca religion=muisca_pagan
 	martial=6 diplomacy=4 stewardship=7 intrigue=7 learning=7
 	father=1019928581	#Michua
 	1411.3.17={ birth=yes }
-	1495.9.14={ death=yes }
-}
-1019928587={
-	name=Aquimin
-	dynasty=1009990253
-	dna="lhablilpfoa"
-	culture=muisca religion=muisca_pagan
-	martial=4 diplomacy=8 stewardship=8 intrigue=4 learning=7
-	father=1019928581	#Michua
-	1414.5.13={ birth=yes }
-	1487.6.4={ death=yes }
-}
-1019928588={
-	name=Maiara
-	female=yes
-	dynasty=1009990253
-	dna="klcchgljela"
-	culture=muisca religion=muisca_pagan
-	father=1019928581	#Michua
-	1417.5.12={ birth=yes }
-	1504.1.22={ death=yes }
-}
-1019928589={
-	name=Ana
-	female=yes
-	dynasty=1009990253
-	dna="chdbbeggdoa"
-	culture=muisca religion=muisca_pagan
-	father=1019928581	#Michua
-	1422.2.20={ birth=yes }
-	1497.5.31={ death=yes }
-}
-1019928590={
-	name=Maiara
-	female=yes
-	dynasty=1009990253
-	dna="ohjbffnpeof"
-	culture=muisca religion=muisca_pagan
-	father=1019928581	#Michua
-	1428.5.27={ birth=yes }
-	1497.10.15={ death=yes }
-}
-1019928591={
-	name=Kantuta
-	female=yes
-	dynasty=1009990253
-	dna="khobbelpemg"
-	culture=muisca religion=muisca_pagan
-	father=1019928581	#Michua
-	1432.5.4={ birth=yes }
-	1495.6.4={ death=yes }
-}
-1019928592={
-	name=Aquimin
-	dynasty=1009990253
-	dna="edfedidpjia"
-	culture=muisca religion=muisca_pagan
-	martial=4 diplomacy=8 stewardship=4 intrigue=8 learning=8
-	father=1019928581	#Michua
-	1437.8.3={ birth=yes }
-	1514.1.15={ death=yes }
+	1470.1.1={ death=yes }
 }

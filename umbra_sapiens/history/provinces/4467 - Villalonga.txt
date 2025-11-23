@@ -2,7 +2,7 @@
 title = c_villalonga
 
 # Settlements
-max_settlements = 3
+max_settlements = 7
 b_villalonga = tribal
 
 # Misc
@@ -10,3 +10,23 @@ culture = het
 religion = pampas_pagan
 
 # History
+1536.2.2={
+	b_villalonga=castle
+	b_villalonga-ii=temple
+	b_villalonga-iii=city
+}
+1541.6.1 = {
+	remove_settlement=b_villalonga-ii
+	remove_settlement=b_villalonga-iii
+	b_villalonga=tribal
+}
+1580.6.11={
+	b_villalonga=castle
+	b_villalonga-ii=temple
+	b_villalonga-iii=city
+	b_villalonga-iv=temple
+	b_villalonga-v=castle
+	b_villalonga-vi=city
+	culture=castillan
+	religion=catholic
+}

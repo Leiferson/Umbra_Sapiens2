@@ -4,7 +4,7 @@ title = c_cumana
 # Settlements
 max_settlements = 3
 b_cumana = tribal
-# b_cumana-ii = tribal
+#b_cumana-ii = tribal
 
 # Misc
 culture = carib
@@ -13,6 +13,21 @@ religion = caribic_pagan
 # History
 1520.1.1={
 	religion = catholic
+}
+1500.1.1={
+	b_cumana-ii=city
+}
+1515.1.1={
+	b_cumana-ii=temple
+}
+1515.10.3={
+	remove_settlement=b_cumana-ii
+}
+1515.11.27={
+	b_cumana-ii=temple
+}
+1520.1.1={
+	b_cumana-ii=castle
 }
 1562.1.1={
 	b_cumana=castle

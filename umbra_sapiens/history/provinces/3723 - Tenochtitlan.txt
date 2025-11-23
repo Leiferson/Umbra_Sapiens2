@@ -8,17 +8,26 @@ b_tenochtitlan-ii = city
 #b_tenochtitlan-iii = temple
 #b_tenochtitlan-iv = city
 #b_tenochtitlan-v = castle
-#b_tenochtitlan-vi = temple
+#b_tenochtitlan-vi = castle
 
 # Misc
 culture = nonohualcan
 religion = nonohualcan_pagan
 
-# History #Tepanec settle there
+# History Tepanec settle there
+1063.1.1={ 
+	culture=zacatecan
+	religion=southwest_pagan
+}
 1152.1.1 = {
-	culture = tepaneca
-	religion = aztec
 	b_tenochtitlan-iii = temple
+}
+1157.1.1={
+	b_tenochtitlan-vi = castle	
+}
+1160.1.1={ 
+	culture=tepaneca
+	religion=aztec
 }
 1200.1.1= {
 	b_tenochtitlan-iv = city
@@ -26,6 +35,10 @@ religion = nonohualcan_pagan
 1215.1.1= {
 	b_tenochtitlan-v = castle
 }
-1230.1.1= {
-	b_tenochtitlan-vi = temple
+1428.1.1={
+	remove_settlement = b_tenochtitlan-iv
+	remove_settlement = b_tenochtitlan-v
+}
+1521.8.13={
+	religion="catholic"
 }

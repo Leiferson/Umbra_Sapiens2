@@ -559,13 +559,13 @@ narrative_event = {
 	is_triggered_only = yes
 	trigger = {
 		is_alternate_start = no
-		year = 1514
+		year = 1600
 		NOT = { has_global_flag = portugal_timor }
 		is_portugal = yes
 		religion_group = christian
 		
 		
-		c_tiwu = {
+		c_oecusse = {
 		any_de_jure_vassal_title = {
 		owner = { NOT = { religion_group = christian }} }
 			}
@@ -574,7 +574,7 @@ narrative_event = {
 		name = EVTOPTAportugalevents.17
 		any_title = {
 		limit = {
-		de_jure_liege_or_above = c_tiwu
+		de_jure_liege_or_above = c_oecusse
 		owner = { NOT = { religion_group = christian }}
 		}
 		gain_title = FROM
@@ -1083,38 +1083,6 @@ narrative_event = {
 	}
 }
 narrative_event = {
-	id = portugalevents.21
-	title = EVTNAMEportugalevents.21
-	desc = EVTDESCportugaleventsR.21
-	  picture = GFX_evt_magnificent_castle_wol
-	is_triggered_only = yes
-	trigger = {
-		is_alternate_start = no
-		year = 1571
-		NOT = { has_global_flag = portugal_nagasaki }
-		is_portugal = yes
-		religion_group = christian
-		
-		
-		c_hizen = {
-		any_de_jure_vassal_title = {
-		owner = { NOT = { religion_group = christian }} }
-			}
-	}
-	option = {
-		name = EVTOPTAportugalevents.21
-		any_title = {
-		limit = {
-		de_jure_liege_or_above = c_hizen
-		owner = { NOT = { religion_group = christian }}
-		}
-		gain_title = FROM
-		}
-		prestige = 100
-		set_global_flag = portugal_nagasaki
-	}
-}
-narrative_event = {
 	id = portugalevents.22
 	title = EVTNAMEportugalevents.22
 	desc = EVTDESCportugaleventsR.22
@@ -1128,7 +1096,7 @@ narrative_event = {
 		religion_group = christian
 		
 		
-		c_bissau = {
+		c_cacheu = {
 		any_de_jure_vassal_title = {
 		owner = { NOT = { religion_group = christian }} }
 			}
@@ -1137,7 +1105,7 @@ narrative_event = {
 		name = EVTOPTAportugalevents.22
 		any_title = {
 		limit = {
-		de_jure_liege_or_above = c_bissau
+		de_jure_liege_or_above = c_cacheu
 		owner = { NOT = { religion_group = christian }}
 		}
 		gain_title = FROM
@@ -1176,39 +1144,6 @@ narrative_event = {
 		}
 		prestige = 100
 		set_global_flag = portugal_bombaim
-	}
-}
-narrative_event = {
-	id = portugalevents.24
-	title = EVTNAMEportugalevents.24
-	desc = EVTDESCportugaleventsR.24
-	  picture = GFX_evt_magnificent_castle_wol
-	is_triggered_only = yes
-	trigger = {
-		is_alternate_start = no
-		year = 1475
-		NOT = { has_global_flag = portugal_forcados }
-		is_portugal = yes
-		religion_group = christian
-		
-		
-		c_warri = {
-		any_de_jure_vassal_title = {
-		owner = { NOT = { religion_group = christian }} }
-			}
-	}
-	option = {
-		name = EVTOPTAportugalevents.24
-		any_title = {
-		limit = {
-		de_jure_liege_or_above = c_warri
-		owner = { NOT = { religion_group = christian }}
-		}
-		gain_title = FROM
-		religion = FROM
-		}
-		prestige = 100
-		set_global_flag = portugal_forcados
 	}
 }
 narrative_event = {

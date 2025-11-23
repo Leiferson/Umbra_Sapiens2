@@ -4,10 +4,16 @@ title = c_antigua
 # Settlements
 max_settlements = 3
 b_antigua = tribal
-b_antigua-ii = tribal
 
 # Misc
 culture = carib
 religion = caribic_pagan
 
 # History
+1632.1.1={
+	b_antigua = castle
+	b_antigua-ii = temple
+	b_antigua-iii = city
+	culture = english
+	religion = puritan
+}

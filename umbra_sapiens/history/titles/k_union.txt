@@ -25,6 +25,18 @@
 1589.10.18 = {
 	holder=374671	#Maurice, Prince of Orange
 }
+1598.1.1={
+	set_global_flag = dutch_mauritius
+}
+1616.1.1={
+	set_global_flag = dutch_essequibo
+}
+1623.1.1={
+	set_global_flag = dutch_newnetherland
+}
 1625.4.23 = {
 	holder=374679	#Frederick Henry, Prince of Orange
+}
+1634.1.1={
+	set_global_flag = dutch_curacau
 }

@@ -17,5 +17,6 @@ religion = catholic
 # History
 790.1.1 = { culture = frankish }
 1536.1.1={
-b_lausanne = city
+	b_lausanne = city
+	religion = reformed
 }

@@ -11,3 +11,9 @@ culture = chimuan
 religion = chimuan_pagan
 
 # History
+1475.1.1={
+	religion="inti"
+}
+1532.11.16={
+	religion = catholic
+}

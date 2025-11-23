@@ -102,6 +102,9 @@ holder=371038	#Jean de Foix (1450-1500)
 1500.11.5 = {
 holder=380243	#Gaston de Foix-Nemours
 }
+1501.8.2={
+	liege="e_france"
+}
 1507.1.1 = {
 	holder=371092 #Louis XII
 }

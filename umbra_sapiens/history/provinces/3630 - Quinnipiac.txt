@@ -11,3 +11,11 @@ culture = pequot
 religion = algic_pagan
 
 # History
+1638.4.3={
+	b_quinnipiac=city
+	b_senhlenteh=temple
+	b_kiumniguah=castle
+	liege="e_great_britain"
+	culture=english
+	religion=puritan
+}

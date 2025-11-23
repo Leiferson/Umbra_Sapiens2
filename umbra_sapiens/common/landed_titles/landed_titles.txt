@@ -28690,6 +28690,8 @@ e_persia = {
 			
 			culture = persian
 			
+
+			
 			c_tabriz = {
 				color={ 106 115 180 }
 				color2={ 255 255 255 }
@@ -44169,7 +44171,7 @@ e_mali = {
 		color = { 175 85 52 }
 		color2 = { 250 250 250 }
 
-		capital = 3341 #
+		capital = 3932
 		muslim = 80
 		d_senegal = {
 		color={ 155 120 70 }

@@ -15,3 +15,13 @@ culture = chimuan
 religion = chimuan_pagan
 
 # History
+1493.1.1={
+	remove_settlement=b_chanchan-iv
+	remove_settlement=b_chanchan-v
+	remove_settlement=b_chanchan-vi
+	remove_settlement=b_chanchan-vii
+	religion="inti"
+}
+1532.11.16={
+	religion="catholic"
+}

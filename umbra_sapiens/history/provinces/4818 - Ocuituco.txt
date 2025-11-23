@@ -16,3 +16,10 @@ culture = xicalanca
 religion = mayan
 
 # History
+919.1.1={
+	culture=xochimilca
+	religion=aztec
+}
+1521.8.13={
+	religion="catholic"
+}

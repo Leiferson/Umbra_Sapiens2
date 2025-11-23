@@ -4,10 +4,16 @@ title = c_martinique
 # Settlements
 max_settlements = 3
 b_martinique = tribal
-b_martinique-ii = tribal
 
 # Misc
 culture = carib
 religion = caribic_pagan
 
 # History
+1635.9.15={
+	b_martinique = castle
+	b_martinique-ii = temple
+	b_martinique-iii = city
+	culture = frankish
+	religion = catholic
+}

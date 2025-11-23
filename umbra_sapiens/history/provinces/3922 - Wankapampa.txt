@@ -11,3 +11,10 @@ culture = chachapoyan
 religion = chachapoyan_pagan
 
 # History
+1470.1.1={
+	culture="quechua"
+	religion="inti"
+}
+1532.11.16={
+	religion = catholic
+}

@@ -10,3 +10,10 @@ culture = pequot
 religion = algic_pagan
 
 # History
+1636.1.1={
+	b_narraganset = city
+	b_duylansemeo = temple
+	b_siqelenbois = castle
+	culture = english
+	religion = baptist
+}

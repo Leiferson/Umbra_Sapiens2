@@ -11,3 +11,11 @@ culture = aimara
 religion = tiwanakan_pagan
 
 # History
+1496.1.1={
+	religion="inti"
+}
+1534.8.15={
+	b_macaya=castle
+	b_macaya-ii=temple
+	religion = catholic
+}

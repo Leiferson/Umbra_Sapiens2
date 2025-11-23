@@ -143,6 +143,15 @@
 1424.1.1={
 	holder = 382658	#Wenceslaus II, Duke of Opava-Ratibor
 }
+1434.5.30={
+	effect={
+		location={
+		remove_province_modifier = peasant_unrest
+		remove_province_modifier = cultural_unrest
+		remove_province_modifier = religious_unrest
+		}
+	}  
+}
 1456.10.29={
 	holder = 382661	#Wenceslaus II, Duke of Opava-Ratibor
 }

@@ -4,10 +4,16 @@ title = c_baracoa
 # Settlements
 max_settlements = 3
 b_baracoa = tribal
-b_baracoa-ii = tribal
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1511.8.15={
+	b_baracoa = castle
+	b_baracoa-ii = temple
+	b_baracoa-iii = city
+	culture = castillan
+	religion = catholic
+}

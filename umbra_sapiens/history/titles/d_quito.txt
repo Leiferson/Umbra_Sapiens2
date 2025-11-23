@@ -23,3 +23,28 @@
 1391.03.23={holder=1019930605} #Pumi[1009990273]
 1392.09.21={holder=1019930608} #Cayo[1009990273]
 1431.11.01={holder=1019930611} #Cuyuchi[1009990273]
+1471.1.1 = {
+	holder=0	
+}
+1529.1.1 = {
+	holder=396609	#Atahualpa
+	liege=0
+}
+1532.1.1={
+	holder=0
+}
+1532.11.16={
+	holder=396699	#Francisco Pizarro
+	liege="e_espana_burgona"
+	vice_royalty = yes
+}
+1541.6.26 = {
+	holder=396713	#Diego de Almagro el Mozo
+}
+1542.9.16 = {
+	holder=396714	#Cristóbal Vaca de Castro
+}
+1544.5.17 = {
+	holder=0	#Peru
+	de_jure_liege="k_peru_spanish"
+}

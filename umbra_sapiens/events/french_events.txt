@@ -43,7 +43,7 @@ narrative_event = {
 	trigger = {
 		is_alternate_start = no
 		year = 1608
-		NOT = { has_global_flag = france_canada2 }
+		NOT = { has_global_flag = france_canada }
 		OR = {
 		has_landed_title = k_france
 		has_landed_title = e_france
@@ -64,7 +64,7 @@ narrative_event = {
 		}
 		gain_title = FROM
 		}
-		set_global_flag = france_canada2
+		set_global_flag = france_canada
 		prestige = 100
 	}
 }

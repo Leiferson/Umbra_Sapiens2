@@ -4,7 +4,6 @@ title = c_powhatan
 # Settlements
 max_settlements = 5
 b_powhatan = tribal
-b_lisenpitun = tribal
 b_dibunheyn = temple
 
 # Misc
@@ -12,3 +11,10 @@ culture = powhatan
 religion = algic_pagan
 
 # History
+
+1630.1.1={
+	b_powhatan = city
+	b_lisenpitun = castle
+	culture = english
+	religion = puritan
+}

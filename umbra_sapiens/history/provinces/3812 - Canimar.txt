@@ -4,10 +4,16 @@ title = c_canimar
 # Settlements
 max_settlements = 3
 b_canimar = tribal
-b_canimar-ii = tribal
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1514.1.1={
+	b_canimar = castle
+	b_canimar-ii = temple
+	b_canimar-iii = city
+	culture = castillan
+	religion = catholic
+}

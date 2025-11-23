@@ -2,7 +2,7 @@
 title = c_guatemala
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 b_guatemala = castle
 b_guatemala-ii = temple
 b_guatemala-iii = city
@@ -13,3 +13,13 @@ culture = xinca
 religion = mayan
 
 # History
+1524.7.25={
+culture="castillan" 
+religion="catholic"
+}
+1550.1.1={
+	b_guatemala-v = city
+}
+1600.1.1={
+	b_guatemala-vi = temple
+}

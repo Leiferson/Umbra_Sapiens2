@@ -11,3 +11,10 @@ culture = carib
 religion = caribic_pagan
 
 # History
+1627.2.17={
+	b_barbados = castle
+	b_barbados-ii = temple
+	b_barbados-iii = city
+	culture = english
+	religion = puritan
+}

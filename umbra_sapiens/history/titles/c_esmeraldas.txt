@@ -23,3 +23,33 @@
 1406.07.11={holder=1019925490} #Haubariria[1009990222]
 1411.05.19={holder=1019925496} #Pirijá[1009990222]
 1439.03.19={holder=1019925504} #Wiwakaleme[1009990222]
+1471.1.1 = {
+	holder=396604	#Topa Inca Yupanqui
+	liege="k_peru"
+}
+1493.1.1 = {
+	holder=396606	#Wayna Qhapaq
+}
+1527.1.1 = {
+	holder=396608	#Huascar
+}
+1529.1.1 = {
+	holder=396609	#Atahualpa
+	liege=0
+}
+1532.1.1 = {
+	holder=396911	#Negros de Esmeraldas
+	liege=0
+}
+1577.1.1 = {
+	holder=396912	#Negros de Esmeraldas
+}
+1599.1.1={
+	liege="k_peru_spanish"
+}
+1605.1.1 = {
+	holder=396913	#Negros de Esmeraldas
+}
+1633.1.1 = {
+	holder=396914	#Negros de Esmeraldas
+}

@@ -4,10 +4,16 @@ title = c_jamaica
 # Settlements
 max_settlements = 3
 b_jamaica = tribal
-b_jamaica-ii = tribal
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1509.1.1={
+	culture=castillan
+	religion=catholic
+	b_jamaica=castle
+	b_jamaica-ii=temple
+	b_jamaica-iii=city
+}

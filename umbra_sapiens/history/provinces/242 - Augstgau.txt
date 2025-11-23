@@ -17,6 +17,9 @@ religion = catholic
 1020.1.1 = {
 	b_habsburg = castle
 }
+1529.4.1={
+	religion="reformed"
+}
 1579.1.1={
 b_basel = city
 }

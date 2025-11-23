@@ -96,7 +96,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -197,7 +197,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -298,7 +298,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -399,7 +399,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -500,108 +500,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
-		death = yes
-	}
-}
-#tarascan2
-325040 = {
-	name = "Tiri xi'ui"
-	dynasty = 1010007001
-	religion = tarascan_pagan
-	culture = tarascan
-	730.1.1 = {
-		birth = yes
-	}
-	796.1.1 = {
-		death = yes
-	}
-}
-325041 = {
-	name = "Uetsini"
-	dynasty = 1010007001
-	religion = tarascan_pagan
-	culture = tarascan
-	825.1.1 = {
-		birth = yes
-	}
-	885.1.1 = {
-		death = yes
-	}
-}
-325042 = {
-	name = "Nanuma"
-	dynasty = 1010007001
-	religion = tarascan_pagan
-	culture = tarascan
-	914.1.1 = {
-		birth = yes
-	}
-	990.1.1 ={
-		death = yes
-	}
-}
-325043 = {
-	name = "Tsanda"
-	dynasty = 1010007001
-	religion = tarascan_pagan
-	culture = tarascan
-	1040.1.1 = {
-		birth = yes
-	}
-	1120.1.1 = {
-		death = yes
-	}
-}
-325044 = {
-	name = "Tataka Sapichu"
-	dynasty = 1010007001
-	religion = tarascan_pagan
-	culture = tarascan
-	father = 325043
-	1100.1.1 = {
-		birth = yes
-	}
-	1189.1.1 = {
-		death = yes
-	}
-}
-325045 = {
-	name = "Hiripan"
-	dynasty = 1010007001
-	religion = tarascan_pagan
-	culture = tarascan
-	father = 325044
-	1150.1.1 = {
-		birth = yes
-	}
-	1231.1.1 = {
-		death = yes
-	}
-}
-325046 = {
-	name = "Thojkeri"
-	dynasty = 1010007001
-	religion = tarascan_pagan
-	culture = tarascan
-	father = 325045
-	1210.1.1 = {
-		birth = yes
-	}
-	1300.1.1 = {
-		death = yes
-	}
-}
-325047 = {
-	name = "Hiripan"
-	dynasty = 1010007001
-	religion = tarascan_pagan
-	culture = tarascan
-	father = 325046
-	1281.1.1 = {
-		birth = yes
-	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -702,7 +601,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -803,7 +702,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }
@@ -904,7 +803,7 @@
 	1281.1.1 = {
 		birth = yes
 	}
-	1338.1.1 = {
+	1350.1.1 = {
 		death = yes
 	}
 }

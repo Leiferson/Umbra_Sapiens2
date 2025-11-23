@@ -571,50 +571,6 @@ k_alamos = {
 				}
 			}
 		}
-		d_cosala = {
-
-			color={ 68 99 100 }
-			color2={ 220 220 220 }
-			
-			capital = 4086 #Cosala
-			c_mazatlan = {
-				color={ 119 29 103 }
-				color2={ 220 220 220 }
-				
-				b_mazatlan = {
-				}
-				b_mazatlan-ii = {
-				}
-				b_mazatlan-iii = {
-				}
-			}
-			c_guamuchil = {
-
-				color={ 8 1 147 }
-				color2={ 220 220 220 }
-				holy_site = corachol_pagan
-				holy_site = corachol_pagan_reformed
-				b_guamuchil = {
-				}
-				b_guamuchil-ii = {
-				}
-				b_guamuchil-iii = {
-				}
-			}
-			
-			c_cosala = {
-
-				color={ 75 41 127 }
-				color2={ 220 220 220 }
-				
-				b_cosala = {
-				}
-				b_cosala-ii = {
-				}
-				b_cosala-iii = {
-				}
-			}
-		}
 		d_alamos = {
 		
 			color={ 49 66 66 }
@@ -675,7 +631,7 @@ k_alamos = {
 		color={ 183 11 62 }
 		color2={ 0 0 0 }
 		
-		capital = 4084 #Mazatlan
+		capital = 4405	#Tzinzuntzan
 		
 		d_colima = { #patzcuaro
 
@@ -964,6 +920,50 @@ k_alamos = {
 	color={ 84 141 106 }
 	color2={ 220 220 220 }
 	capital = 4077 #Jalisco
+		d_cosala = {
+
+			color={ 68 99 100 }
+			color2={ 220 220 220 }
+			
+			capital = 4418 #Guamuchil
+			c_mazatlan = {
+				color={ 119 29 103 }
+				color2={ 220 220 220 }
+				
+				b_mazatlan = {
+				}
+				b_mazatlan-ii = {
+				}
+				b_mazatlan-iii = {
+				}
+			}
+			c_guamuchil = {
+
+				color={ 8 1 147 }
+				color2={ 220 220 220 }
+				holy_site = corachol_pagan
+				holy_site = corachol_pagan_reformed
+				b_guamuchil = {
+				}
+				b_guamuchil-ii = {
+				}
+				b_guamuchil-iii = {
+				}
+			}
+			
+			c_cosala = {
+
+				color={ 75 41 127 }
+				color2={ 220 220 220 }
+				
+				b_cosala = {
+				}
+				b_cosala-ii = {
+				}
+				b_cosala-iii = {
+				}
+			}
+		}
 		d_coculla = { 
 			color={ 120 40 75 }
 			color2={ 220 220 220 }
@@ -1273,18 +1273,6 @@ k_alamos = {
 				b_ocuituco-vii= {
 				}
 			}
-			c_xocotla = {
-
-				color={ 95 144 119 }
-				color2={ 220 220 220 }
-				
-				b_xocotla = {
-				}
-				b_xocotla-ii = {
-				}
-				b_xocotla-iii = {
-				}
-			}
 			c_cholula = {
 
 				color={ 175 124 33 }
@@ -1474,6 +1462,8 @@ k_alamos = {
 				b_mexico-v = {
 				}
 				b_mexico-vi = {
+				}
+				b_mexico-vii = {
 				}
 			}
 			}
@@ -1830,6 +1820,18 @@ k_alamos = {
 			color2={ 220 220 220 }
 
 			capital = 3716 # Cuauhtochco
+			c_xocotla = {
+
+				color={ 95 144 119 }
+				color2={ 220 220 220 }
+				
+				b_xocotla = {
+				}
+				b_xocotla-ii = {
+				}
+				b_xocotla-iii = {
+				}
+			}
 			c_tohancapan = {
 
 				color={ 45 134 79 }
@@ -2061,6 +2063,10 @@ k_alamos = {
 				}
 				b_guatemala-iv = {
 				}
+				b_guatemala-v = {
+				}
+				b_guatemala-vi = {
+				}
 			}
 			c_xelaju = {
 
@@ -2123,6 +2129,12 @@ k_alamos = {
 				b_ah_canul-ii = {
 				}
 				b_ah_canul-iii = {
+				}
+				b_ah_canul-iv = {
+				}
+				b_ah_canul-v = {
+				}
+				b_ah_canul-vi = {
 				}
 			}
 			c_xiu = {

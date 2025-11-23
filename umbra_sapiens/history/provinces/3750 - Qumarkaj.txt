@@ -11,3 +11,7 @@ culture = highland_mayan
 religion = mayan
 
 # History
+1524.3.1={
+	religion="catholic"
+	b_qumarkaj-iii = city
+}

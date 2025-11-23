@@ -11,3 +11,14 @@ culture = powhatan
 religion = algic_pagan
 
 # History
+1607.5.14={
+	b_chesapeake = city
+	b_dirzunyunta = temple
+	b_sektemeugra = castle
+	culture = english
+	religion = puritan
+}
+1620.4.1={
+	b_zahemoyta = city
+	b_vabbejaenee = city
+}

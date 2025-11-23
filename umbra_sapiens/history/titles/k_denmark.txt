@@ -143,3 +143,6 @@
 1588.4.4 = {
 	holder=373454	#Christian IV of Denmark
 }
+1620.1.1={
+	set_global_flag = danish_tranquebar
+}

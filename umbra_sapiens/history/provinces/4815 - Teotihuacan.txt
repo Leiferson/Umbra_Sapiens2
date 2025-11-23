@@ -29,3 +29,18 @@ religion = nonohualcan_pagan
 	remove_settlement = b_teotihuacan-iii
 	remove_settlement = b_teotihuacan-iv
 }
+1063.1.1={ 
+	culture=zacatecan 
+	religion=southwest_pagan 
+}
+1157.1.1={ 
+	culture=acolhua
+	religion=aztec
+}
+1450.1.1={
+	b_teotihuacan-ii=temple
+	b_teotihuacan-iii=city
+}
+1521.8.13={
+	religion="catholic"
+}

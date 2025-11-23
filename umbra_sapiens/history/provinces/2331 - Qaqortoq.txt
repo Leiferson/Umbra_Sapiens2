@@ -30,6 +30,10 @@ religion = inuit_pagan
 	culture = norwegian
 	religion = catholic
 }
-1537.1.1={
-	religion="lutheran"
+1408.1.1={
+	culture=inuit
+	religion=inuit_pagan
+	b_qassiarsuk = tribal
+	remove_settlement=b_qaqortoq
+	remove_settlement=b_igaliku
 }

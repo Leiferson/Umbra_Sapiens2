@@ -10,3 +10,9 @@ culture = mapuche
 religion = mapuche_pagan
 
 # History
+1567.2.12={
+	b_quelion = castle
+	b_quelion-ii = temple
+	b_quelion-iii = city
+	religion = catholic
+}

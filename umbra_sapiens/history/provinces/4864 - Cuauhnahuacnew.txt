@@ -13,3 +13,10 @@ culture = matlazincas
 religion = otomi_pagan
 
 # History
+1170.1.1 = { 
+	culture=tlahuica 
+	religion=aztec
+}
+1521.8.13={
+	religion="catholic"
+}

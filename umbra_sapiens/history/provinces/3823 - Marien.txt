@@ -4,10 +4,16 @@ title = c_marien
 # Settlements
 max_settlements = 3
 b_marien = tribal
-b_marien-ii = tribal
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1503.1.1={
+	b_marien = castle
+	b_marien-ii = temple
+	b_marien-iii = city
+	culture = castillan
+	religion = catholic
+}

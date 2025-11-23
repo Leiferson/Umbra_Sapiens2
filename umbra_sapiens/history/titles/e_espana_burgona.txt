@@ -1,6 +1,18 @@
 20.1.1={
 	active = no
 }
+1492.12.26={
+	set_global_flag = spain_hispaniola
+}
+1508.1.1={
+	set_global_flag = spain_puerto_rico
+}
+1509.1.1={
+	set_global_flag = spain_jamaica
+}
+1511.8.15={
+	set_global_flag = spain_cuba
+}
 1516.1.23={
 	active = yes
 	holder=370344 #Joanna
@@ -26,6 +38,12 @@
 }
 1556.1.16={
 	holder=370718 #Philip II
+}
+1564.6.25={
+	set_global_flag = spain_florida
+}
+1565.4.27={
+	set_global_flag = spain_philippines
 }
 1598.9.13={
 	holder=371850 #Philip III

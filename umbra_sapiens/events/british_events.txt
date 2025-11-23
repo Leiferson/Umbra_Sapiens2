@@ -91,7 +91,7 @@ narrative_event = {
 		}
 		religion_group = christian
 		
-		c_naticoke = {
+		c_conoy = {
 		any_de_jure_vassal_title = {
 		owner = { NOT = { religion_group = christian }} }
 			}
@@ -100,7 +100,7 @@ narrative_event = {
 		name = EVTOPTAbriishevents.3
 		any_title = {
 		limit = {
-		de_jure_liege_or_above = c_naticoke
+		de_jure_liege_or_above = c_conoy
 		owner = { NOT = { religion_group = christian }}
 		}
 		gain_title = FROM
@@ -154,7 +154,7 @@ narrative_event = {
 	is_triggered_only = yes
 	trigger = {
 		is_alternate_start = no
-		year = 1639
+		year = 1636
 		NOT = { has_global_flag = briish_connecticut }
 		OR = {
 		has_landed_title = k_england

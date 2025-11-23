@@ -4,11 +4,16 @@ title = c_havana
 # Settlements
 max_settlements = 5
 b_havana = tribal
-b_havana-ii = tribal
-b_havana-iii = temple
+b_havana-ii = temple
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1519.11.16={
+	b_havana = castle
+	b_havana-iii = city
+	culture = castillan
+	religion = catholic
+}

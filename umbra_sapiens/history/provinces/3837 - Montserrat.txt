@@ -4,10 +4,16 @@ title = c_montserrat
 # Settlements
 max_settlements = 4
 b_montserrat = tribal
-b_montserrat-ii = tribal
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1632.1.1={
+	b_montserrat = castle
+	b_montserrat-ii = temple
+	b_montserrat-iii = city
+	culture = irish
+	religion = puritan
+}

@@ -4,10 +4,16 @@ title = c_camaguey
 # Settlements
 max_settlements = 3
 b_camaguey = tribal
-b_camaguey-ii = tribal
 
 # Misc
 culture = taino
 religion = caribic_pagan
 
 # History
+1514.2.2={
+	b_camaguey = castle
+	b_camaguey-ii = temple
+	b_camaguey-iii = city
+	culture = castillan
+	religion = catholic
+}

@@ -2,7 +2,7 @@
 title = c_tucuman
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 b_tucuman = tribal
 b_tucuman-ii = tribal
 b_tucuman-iii = temple
@@ -12,3 +12,15 @@ culture = diaguita
 religion = mapuche_pagan
 
 # History
+1510.1.1={
+	religion="inti"
+}
+1534.8.15={
+	b_tucuman=castle
+	b_tucuman-ii=city
+	religion = catholic
+}
+1565.5.31={
+	b_tucuman-iv=castle
+	b_tucuman-v=city
+}

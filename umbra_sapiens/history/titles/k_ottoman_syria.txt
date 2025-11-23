@@ -1,10 +1,15 @@
 20.1.1={
 	active = no
 }
+100.1.1=
+{
+	pentarch = b_jerusalem
+}
 1516.8.24={
 	active = yes
 	holder=379191	#Yunus Pasha (c. 1516)
-	liege=e_ottomans
+	liege="e_ottomans"
+	de_jure_liege="e_ottomans"
 	vice_royalty = yes
 }
 1517.9.13 = {

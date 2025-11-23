@@ -4,7 +4,7 @@
 title = c_holland
 
 # Settlements
-max_settlements = 5
+max_settlements = 7
 
 b_vlaardingen = castle
 #b_leiden = castle
@@ -28,4 +28,10 @@ religion = catholic
 1317.1.1 = { trade_post = b_warendorp }
 1566.1.1 = {
 	religion = reformed
+}
+1590.1.1={
+	b_gouda=city
+}
+1600.1.1={
+	b_muiden=city
 }

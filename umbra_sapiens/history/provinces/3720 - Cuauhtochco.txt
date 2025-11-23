@@ -13,3 +13,7 @@ culture = totonac
 religion = totonac_pagan
 
 # History
+
+1519.1.1={
+	religion="catholic"
+}

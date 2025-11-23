@@ -16,3 +16,33 @@ culture = nonohualcan
 religion = nonohualcan_pagan
 
 # History
+1063.1.1={
+	culture=zacatecan
+	religion=southwest_pagan
+}
+1160.1.1={ 
+	culture=tepaneca
+	religion=aztec
+}
+1325.3.13={
+	culture=nahuatl
+	b_mexico-ii = temple
+}
+1376.1.1={
+	b_mexico-iii = castle
+}
+1400.1.1={
+	b_mexico-iv = city
+}
+1428.1.1={
+	b_mexico-v = castle
+}
+1450.1.1={
+	b_mexico-vi = temple
+}
+1500.1.1={
+	b_mexico-vii = castle
+}
+1521.8.13={
+	religion="catholic"
+}

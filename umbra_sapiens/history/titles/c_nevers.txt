@@ -118,6 +118,9 @@
 1493.5.23 = {
 	liege=k_france
 }
+1501.8.2={
+	liege="e_france"
+}
 1506.11.21 = {
 	holder=375670	#Charles II, Count of Nevers
 }
@@ -135,7 +138,6 @@
 }
 1601.10.24 = {
 	holder=375682	#Charles I Gonzaga, Duke of Mantua
-	liege=k_france
 }
 1637.9.22 = {
 	holder=375731	#Charles II de Mantoue

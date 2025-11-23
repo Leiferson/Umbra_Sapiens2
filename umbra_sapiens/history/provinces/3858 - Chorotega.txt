@@ -11,3 +11,9 @@ culture = muisca
 religion = muisca_pagan
 
 # History
+1524.2.1={
+b_chorotega = castle
+b_chorotega-ii = temple
+b_chorotega-iii = city
+religion="catholic"
+}
