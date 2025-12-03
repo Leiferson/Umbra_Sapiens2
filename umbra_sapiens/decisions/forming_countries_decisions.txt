@@ -1,5 +1,5 @@
 decisions = {
-unite_great_britain = {
+    unite_great_britain = {
 		only_independent = yes
 		is_high_prio = yes
 		ai_check_interval = 60
@@ -1679,7 +1679,7 @@ unite_great_britain = {
 			factor = 1
 		}
 	}
-create_philippines_spanish = {
+    create_philippines_spanish = {
 		only_independent = yes
 		is_high_prio = yes
 		ai_check_interval = 12
@@ -1756,8 +1756,8 @@ create_philippines_spanish = {
 		ai_will_do = {
 			factor = 1
 		}
-}
-create_ottoman_empire = {
+    }
+    create_ottoman_empire = {
 		only_independent = yes
 		is_high_prio = yes
 		ai_check_interval = 12
@@ -1820,8 +1820,7 @@ create_ottoman_empire = {
 			factor = 1
 		}
 	}
-}
-create_new_france = {
+    create_new_france = {
 		only_independent = yes
 		is_high_prio = yes
 		ai_check_interval = 12
@@ -1903,8 +1902,8 @@ create_new_france = {
 		ai_will_do = {
 			factor = 1
 		}
-}
-create_louisiana = {
+    }
+    create_louisiana = {
 		only_independent = yes
 		is_high_prio = yes
 		ai_check_interval = 12
@@ -1979,8 +1978,8 @@ create_louisiana = {
 		ai_will_do = {
 			factor = 1
 		}
-}
-create_thirteen_colonies = {
+    }
+    create_thirteen_colonies = {
 		only_independent = yes
 		is_high_prio = yes
 		ai_check_interval = 12
@@ -2082,4 +2081,5 @@ create_thirteen_colonies = {
 		ai_will_do = {
 			factor = 1
 		}
+    }
 }

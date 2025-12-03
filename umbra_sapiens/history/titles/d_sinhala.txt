@@ -74,7 +74,10 @@ liege=0 #Fragmentation of Pandyan control
 }
 1617.1.1={
 	holder = 387001
-	set_tribute_suzerain = k_portuguese_india
+	set_tribute_suzerain = { 
+		who = k_portuguese_india
+		type = permanent 
+	}
 }
 1619.1.1={
 	holder = 0

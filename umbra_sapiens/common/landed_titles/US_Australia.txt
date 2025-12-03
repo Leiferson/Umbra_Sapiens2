@@ -44,14 +44,6 @@ e_australia = {
 				b_onslow-i = {
 				}
 			}
-			c_kalbarri = {
-
-				color={ 122 165 141 }
-				color2={ 255 255 255 }
-
-				b_kalbarri-i = {
-				}
-			}
 			c_thalanyii = {
 
 				color={ 110 186 145 }
@@ -66,14 +58,6 @@ e_australia = {
 				color2={ 255 255 255 }
 
 				b_purduna-i = {
-				}
-			}
-			c_exmouth = {
-
-				color={ 12 65 138 }
-				color2={ 255 255 255 }
-
-				b_exmouth-i = {
 				}
 			}
 		}
@@ -1904,22 +1888,6 @@ e_australia = {
 				color2={ 255 255 255 }
 
 				b_miyan-i = {
-				}
-		}
-		c_yagalingu = {
-
-				color={ 215 199 200 }
-				color2={ 255 255 255 }
-
-				b_yagalingu-i = {
-				}
-		}
-		c_yambina = {
-
-				color={ 249 180 170 }
-				color2={ 255 255 255 }
-
-				b_yambina-i = {
 				}
 		}
 		c_wangan = {
